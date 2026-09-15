@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#111827"><title>台股 AI 量化交易助手</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#f3f5f7;color:#172033;font-family:-apple-system,BlinkMacSystemFont,"PingFang TC","Noto Sans TC",sans-serif}
+header{position:sticky;top:0;z-index:5;background:#111827;color:#fff;padding:15px max(15px,calc((100% - 960px)/2));display:flex;justify-content:space-between;align-items:center;box-shadow:0 3px 15px #0002}
+header b{font-size:18px}header span{font-size:11px;background:#334155;padding:6px 9px;border-radius:99px}
+main{max-width:960px;margin:auto;padding:18px 14px 50px}.hero{padding:10px 2px 14px}.hero h1{font-size:27px;margin:0 0 7px}.hero p{color:#64748b;margin:0;line-height:1.6}
+.card{background:#fff;border:1px solid #e2e8f0;border-radius:17px;padding:17px;margin:17px 0;box-shadow:0 7px 22px #00000008}
+h2{font-size:19px;margin:0 0 10px}.section-title{display:flex;justify-content:space-between;align-items:end;margin:23px 0 10px}.section-title h2{margin:0}.section-title small{color:#94a3b8}
+.search{display:flex;gap:8px}.search input{flex:1;min-width:0;padding:12px;border:1px solid #cbd5e1;border-radius:11px;font-size:16px}.search button,button.action{border:0;background:#111827;color:#fff;border-radius:11px;padding:11px 16px;font-weight:700}
+.out{margin-top:12px;background:#f8fafc;padding:14px;border-radius:12px;min-height:58px;line-height:1.55}.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:9px}
+.tool{background:#fff;border:1px solid #dbe3ea;border-radius:14px;padding:14px;text-align:left;cursor:pointer;min-height:74px}.tool b{display:block}.tool small{display:block;color:#94a3b8;margin-top:5px}
+.metrics{display:grid;grid-template-columns:repeat(3,1fr);gap:7px;margin-top:10px}.metric{background:#fff;border:1px solid #e2e8f0;padding:10px;border-radius:10px}.metric small{display:block;color:#64748b}.metric strong{font-size:18px}
+.item{display:flex;justify-content:space-between;gap:10px;padding:10px 12px;background:#f8fafc;border-radius:10px;margin-top:7px}.item span{color:#64748b;font-size:13px}
+.progress{display:grid;grid-template-columns:repeat(5,1fr);gap:7px}.step{background:#f8fafc;border:1px solid #e2e8f0;border-radius:11px;padding:10px}.step b,.step span,.step small{display:block}.step small{color:#94a3b8;margin-top:3px}
+footer{text-align:center;color:#94a3b8;font-size:12px;margin-top:24px;line-height:1.6}
+@media(max-width:680px){.grid{grid-template-columns:repeat(2,1fr)}.progress{grid-template-columns:1fr 1fr}.hero h1{font-size:23px}header b{font-size:16px}}
+</style>
+</head>
+<body>
+<header><b>📊 台股 AI 量化交易助手</b><span>● DEMO</span></header>
+<main>
+<section class="hero"><h1>台股量化研究中心</h1><p>量化掃描、籌碼、技術面、股號查詢與每日盤後分析。現在為網站第一版，下一階段接入真實台股資料。</p></section>
+
+<section class="card">
+<h2>🔎 快速股號查詢</h2>
+<p style="color:#64748b;font-size:14px">輸入 <b>M2330</b> 查主力籌碼；輸入 <b>P2330</b> 查壓力支撐。</p>
+<div class="search"><input id="q" placeholder="例如 M2330 或 P2330"><button class="action" onclick="searchStock()">查詢</button></div>
+<div id="out" class="out">等待查詢…</div>
+</section>
+
+<div class="section-title"><h2>📊 量化工具</h2><small>點擊查看</small></div><div id="quant" class="grid"></div>
+<div class="section-title"><h2>👑 當沖策略</h2></div><div id="day" class="grid"></div>
+<div class="section-title"><h2>💰 波段策略</h2></div><div id="swing" class="grid"></div>
+<div class="section-title"><h2>📈 ETF / 市場觀察</h2></div><div id="etf" class="grid"></div>
+
+<section class="card"><h2>🤖 每日 AI 盤後掃描</h2><p style="color:#64748b">未來將每天盤後自動更新全市場量價、法人、籌碼與策略訊號。</p>
+<button class="action" onclick="scan()">開始今日掃描</button><div id="scan"></div></section>
+
+<section class="card"><h2>🚀 建置進度</h2><div class="progress">
+<div class="step"><b>01</b><span>網站上線</span><small>現在</small></div>
+<div class="step"><b>02</b><span>台股資料</span><small>下一步</small></div>
+<div class="step"><b>03</b><span>量化策略</span><small>模型</small></div>
+<div class="step"><b>04</b><span>每日更新</span><small>自動化</small></div>
+<div class="step"><b>05</b><span>回測＋AI</span><small>完整版</small></div>
+</div></section>
+<footer>⚠️ 目前為研究與教學原型。Demo 資料不是即時行情，也不構成投資建議。</footer>
+</main>
+<script>
+const groups={
+quant:[["🥇","投信獲利"],["🥈","外資獲利"],["🥉","自營獲利"],["🎰","妖股77"],["🔻","三角收斂"],["💀","投信虧損"],["☠️","外資虧損"],["💩","自營虧損"],["💡","短線籌碼高"],["📡","主力雷達"]],
+day:[["✈️","空軍基地"],["🚀","多軍基地"],["🌊","漲潮衝浪客"]],
+swing:[["💰","公司定價"],["🐂","牛熊預測"],["⏰","時間管理"],["🚦","族群紅綠燈"],["💵","鉅額交易"],["👥","村姑交友網"],["📌","期貨趨勢"],["🏢","法人初夜-投信"],["🏢","法人初夜-外資"],["🏢","法人初夜-自營"]],
+etf:[["🇹🇼","主動台股"],["🔥","熱門美股"],["🤖","科技美股"],["🌏","亞洲美股"],["💰","股利美股"],["🌱","ESG 美股"],["🌎","全球美股"],["🎯","產業美股"]]
+};
+for(const [id,list] of Object.entries(groups))document.getElementById(id).innerHTML=list.map(([e,n])=>`<button class="tool" onclick="tool('${n}')"><b>${e} ${n}</b><small>功能骨架・等待真實資料</small></button>`).join("");
+function tool(n){document.getElementById("scan").innerHTML=`<div class="item"><b>📌 ${n}</b><span>接入真實台股資料後啟用</span></div>`}
+function searchStock(){
+ let v=document.getElementById("q").value.trim().toUpperCase(),m=v.match(/^([MP])(\d{4,6})$/),o=document.getElementById("out");
+ if(!m){o.innerHTML="請輸入例如 <b>M2330</b> 或 <b>P2330</b>。";return}
+ let c=m[2];
+ if(m[1]=="M")o.innerHTML=`<b>📡 ${c}｜主力籌碼（Demo）</b><div class="metrics"><div class="metric"><small>外資</small><strong>—</strong></div><div class="metric"><small>投信</small><strong>—</strong></div><div class="metric"><small>自營</small><strong>—</strong></div></div><p>綜合籌碼分數：<b>等待真實資料</b></p>`;
+ else o.innerHTML=`<b>📍 ${c}｜壓力支撐（Demo）</b><div class="metrics"><div class="metric"><small>R2</small><strong>—</strong></div><div class="metric"><small>R1</small><strong>—</strong></div><div class="metric"><small>S1</small><strong>—</strong></div></div><p>S2：—　｜　接入歷史 K 線後自動計算。</p>`;
+}
+document.getElementById("q").addEventListener("keydown",e=>{if(e.key==="Enter")searchStock()});
+function scan(){let a=["籌碼轉強候選","量價突破候選","三角收斂候選","動能轉強候選","法人連買候選"];document.getElementById("scan").innerHTML=a.map((x,i)=>`<div class="item"><b>${i+1}. ${x}</b><span>等待真實資料</span></div>`).join("")}
+</script>
+</body></html>
