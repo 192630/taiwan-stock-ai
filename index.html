@@ -1025,7 +1025,14 @@ function searchStock(){
     "✅ 找到股票 " + code;
 
   showStock(stock);
+  
+const history = getStockHistory(code);
 
+console.log(
+  "📈 " + code + " 歷史行情：",
+  history.length + " 筆",
+  history
+);
 
   if(!institutionalReady){
 
