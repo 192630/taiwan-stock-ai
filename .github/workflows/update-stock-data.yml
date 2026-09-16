@@ -3,6 +3,8 @@ name: Update Taiwan Stock Data
 on:
   workflow_dispatch:
   schedule:
+    # GitHub Actions 使用 UTC
+    # 台灣時間週一～週五 16:30
     - cron: "30 8 * * 1-5"
 
 permissions:
@@ -16,9 +18,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Create data directory
-        run: mkdir -p data
+      - name: Create data directories
+        run: |
+          mkdir -p data
+          mkdir -p data/history
 
+      # ============================================================
+      # 下載上市股票每日成交資料
+      # ============================================================
       - name: Download TWSE stock data
         run: |
           python - <<'PY'
@@ -30,27 +37,42 @@ jobs:
 
           req = urllib.request.Request(
               url,
-              headers={"User-Agent": "Mozilla/5.0"}
+              headers={
+                  "User-Agent": "Mozilla/5.0"
+              }
           )
 
-          with urllib.request.urlopen(req, timeout=30) as response:
+          with urllib.request.urlopen(req, timeout=60) as response:
               stocks = json.loads(response.read().decode("utf-8"))
 
           tz = timezone(timedelta(hours=8))
+          now = datetime.now(tz)
 
           output = {
-              "updated_at": datetime.now(tz).isoformat(timespec="seconds"),
+              "updated_at": now.isoformat(),
               "source": "Taiwan Stock Exchange (TWSE)",
               "count": len(stocks),
               "stocks": stocks
           }
 
-          with open("data/stocks.json", "w", encoding="utf-8") as f:
-              json.dump(output, f, ensure_ascii=False, indent=2)
+          with open(
+              "data/stocks.json",
+              "w",
+              encoding="utf-8"
+          ) as f:
+              json.dump(
+                  output,
+                  f,
+                  ensure_ascii=False,
+                  indent=2
+              )
 
-          print("Downloaded", len(stocks), "stocks")
+          print("Downloaded", len(stocks), "stock records")
           PY
 
+      # ============================================================
+      # 下載三大法人個股買賣超資料
+      # ============================================================
       - name: Download institutional investor data
         run: |
           python - <<'PY'
@@ -58,37 +80,126 @@ jobs:
           import urllib.request
           from datetime import datetime, timezone, timedelta
 
-          url = "https://www.twse.com.tw/rwd/en/fund/T86?response=json&selectType=ALL"
+          url = "https://www.twse.com.tw/rwd/zh/fund/T86?response=json"
 
           req = urllib.request.Request(
               url,
-              headers={"User-Agent": "Mozilla/5.0"}
+              headers={
+                  "User-Agent": "Mozilla/5.0",
+                  "Accept": "application/json"
+              }
           )
 
-          with urllib.request.urlopen(req, timeout=30) as response:
+          with urllib.request.urlopen(req, timeout=60) as response:
               data = json.loads(response.read().decode("utf-8"))
 
           tz = timezone(timedelta(hours=8))
+          now = datetime.now(tz)
+
+          fields = data.get("fields", [])
+          rows = data.get("data", [])
 
           output = {
-              "updated_at": datetime.now(tz).isoformat(timespec="seconds"),
+              "updated_at": now.isoformat(),
               "source": "Taiwan Stock Exchange (TWSE T86)",
               "title": data.get("title"),
-              "fields": data.get("fields", []),
-              "count": len(data.get("data", [])),
-              "institutional": data.get("data", [])
+              "fields": fields,
+              "count": len(rows),
+              "institutional": rows
           }
 
-          with open("data/institutional.json", "w", encoding="utf-8") as f:
-              json.dump(output, f, ensure_ascii=False, indent=2)
+          with open(
+              "data/institutional.json",
+              "w",
+              encoding="utf-8"
+          ) as f:
+              json.dump(
+                  output,
+                  f,
+                  ensure_ascii=False,
+                  indent=2
+              )
 
-          print("Downloaded", output["count"], "institutional records")
+          print("Downloaded", len(rows), "institutional records")
           PY
 
+      # ============================================================
+      # 建立每日歷史快照
+      # ============================================================
+      - name: Save daily history snapshot
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          from datetime import datetime, timezone, timedelta
+
+          tz = timezone(timedelta(hours=8))
+          now = datetime.now(tz)
+
+          date_string = now.strftime("%Y-%m-%d")
+
+          with open(
+              "data/stocks.json",
+              "r",
+              encoding="utf-8"
+          ) as f:
+              stock_data = json.load(f)
+
+          with open(
+              "data/institutional.json",
+              "r",
+              encoding="utf-8"
+          ) as f:
+              institutional_data = json.load(f)
+
+          history = {
+              "date": date_string,
+              "updated_at": now.isoformat(),
+              "stocks": stock_data,
+              "institutional": institutional_data
+          }
+
+          os.makedirs(
+              "data/history",
+              exist_ok=True
+          )
+
+          history_path = (
+              "data/history/"
+              + date_string
+              + ".json"
+          )
+
+          with open(
+              history_path,
+              "w",
+              encoding="utf-8"
+          ) as f:
+              json.dump(
+                  history,
+                  f,
+                  ensure_ascii=False,
+                  indent=2
+              )
+
+          print("History saved:", history_path)
+          PY
+
+      # ============================================================
+      # 提交更新
+      # ============================================================
       - name: Commit updated data
         run: |
-          git config user.name "taiwan-stock-ai-bot"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/stocks.json data/institutional.json
-          git diff --cached --quiet || git commit -m "Auto update Taiwan stock data"
-          git push
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/stocks.json
+          git add data/institutional.json
+          git add data/history/
+
+          if git diff --cached --quiet; then
+            echo "No data changes"
+          else
+            git commit -m "Update Taiwan stock data"
+            git push
+          fi
