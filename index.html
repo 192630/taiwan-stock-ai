@@ -447,9 +447,11 @@ footer{
 
 let stocks = [];
 let institutional = [];
+let marketHistory = {};
 
 let stockDataReady = false;
 let institutionalReady = false;
+let marketHistoryReady = false;
 
 
 /* ---------- 共用 ---------- */
@@ -602,6 +604,35 @@ async function loadInstitutional(){
 
     document.getElementById("instCount").textContent =
       "載入失敗";
+  }
+}
+  /* ---------- 歷史行情資料 ---------- */
+
+async function loadMarketHistory(){
+  try{
+    const response = await fetch(
+      "data/market_history.json?t=" + Date.now()
+    );
+
+    if(!response.ok){
+      throw new Error("market_history.json 載入失敗");
+    }
+
+    const json = await response.json();
+
+    marketHistory = json || {};
+    marketHistoryReady = true;
+
+    console.log(
+      "歷史行情載入完成",
+      Object.keys(marketHistory).length - (marketHistory._meta ? 1 : 0)
+    );
+
+  }catch(error){
+    console.error(error);
+
+    marketHistory = {};
+    marketHistoryReady = false;
   }
 }
 
@@ -1002,7 +1033,8 @@ document
 
 Promise.all([
   loadStocks(),
-  loadInstitutional()
+  loadInstitutional(),
+  loadMarketHistory()
 ]);
 
 </script>
