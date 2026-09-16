@@ -18,10 +18,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Create data directories
+      - name: Create data directory
         run: |
           mkdir -p data
-          mkdir -p data/history
 
       # ============================================================
       # 下載上市股票每日成交資料
@@ -43,7 +42,9 @@ jobs:
           )
 
           with urllib.request.urlopen(req, timeout=60) as response:
-              stocks = json.loads(response.read().decode("utf-8"))
+              stocks = json.loads(
+                  response.read().decode("utf-8")
+              )
 
           tz = timezone(timedelta(hours=8))
           now = datetime.now(tz)
@@ -67,7 +68,11 @@ jobs:
                   indent=2
               )
 
-          print("Downloaded", len(stocks), "stock records")
+          print(
+              "Downloaded",
+              len(stocks),
+              "stock records"
+          )
           PY
 
       # ============================================================
@@ -91,7 +96,9 @@ jobs:
           )
 
           with urllib.request.urlopen(req, timeout=60) as response:
-              data = json.loads(response.read().decode("utf-8"))
+              data = json.loads(
+                  response.read().decode("utf-8")
+              )
 
           tz = timezone(timedelta(hours=8))
           now = datetime.now(tz)
@@ -120,69 +127,210 @@ jobs:
                   indent=2
               )
 
-          print("Downloaded", len(rows), "institutional records")
+          print(
+              "Downloaded",
+              len(rows),
+              "institutional records"
+          )
           PY
 
       # ============================================================
-      # 建立每日歷史快照
+      # 更新精簡版市場歷史資料
+      # 每支股票每天只保存 OHLCV
       # ============================================================
-      - name: Save daily history snapshot
+      - name: Update market history
         run: |
           python - <<'PY'
           import json
           import os
           from datetime import datetime, timezone, timedelta
 
+          STOCK_FILE = "data/stocks.json"
+          HISTORY_FILE = "data/market_history.json"
+
+          def number(value):
+              if value is None:
+                  return None
+
+              text = str(value).strip()
+              text = text.replace(",", "")
+
+              if text in ("", "--", "---", "X"):
+                  return None
+
+              try:
+                  return float(text)
+              except ValueError:
+                  return None
+
+          def integer(value):
+              n = number(value)
+
+              if n is None:
+                  return None
+
+              return int(n)
+
+          def convert_twse_date(value):
+              text = str(value).strip()
+
+              # STOCK_DAY_ALL 常見格式：
+              # 1150915 = 民國115年09月15日
+              if len(text) == 7 and text.isdigit():
+                  roc_year = int(text[:3])
+                  month = int(text[3:5])
+                  day = int(text[5:7])
+
+                  year = roc_year + 1911
+
+                  return (
+                      f"{year:04d}-"
+                      f"{month:02d}-"
+                      f"{day:02d}"
+                  )
+
+              # 如果未來 API 改成 YYYYMMDD
+              if len(text) == 8 and text.isdigit():
+                  return (
+                      text[:4]
+                      + "-"
+                      + text[4:6]
+                      + "-"
+                      + text[6:8]
+                  )
+
+              return text
+
+          with open(
+              STOCK_FILE,
+              "r",
+              encoding="utf-8"
+          ) as f:
+              latest = json.load(f)
+
+          stocks = latest.get("stocks", [])
+
+          if os.path.exists(HISTORY_FILE):
+              try:
+                  with open(
+                      HISTORY_FILE,
+                      "r",
+                      encoding="utf-8"
+                  ) as f:
+                      history = json.load(f)
+              except Exception:
+                  history = {}
+          else:
+              history = {}
+
+          if not isinstance(history, dict):
+              history = {}
+
+          added = 0
+          updated = 0
+          skipped = 0
+
+          for stock in stocks:
+              code = str(
+                  stock.get("Code", "")
+              ).strip()
+
+              raw_date = stock.get("Date", "")
+
+              if not code or not raw_date:
+                  skipped += 1
+                  continue
+
+              trade_date = convert_twse_date(
+                  raw_date
+              )
+
+              record = {
+                  "date": trade_date,
+                  "open": number(
+                      stock.get("OpeningPrice")
+                  ),
+                  "high": number(
+                      stock.get("HighestPrice")
+                  ),
+                  "low": number(
+                      stock.get("LowestPrice")
+                  ),
+                  "close": number(
+                      stock.get("ClosingPrice")
+                  ),
+                  "volume": integer(
+                      stock.get("TradeVolume")
+                  )
+              }
+
+              if code not in history:
+                  history[code] = []
+
+              records = history[code]
+
+              existing_index = None
+
+              for index, old_record in enumerate(records):
+                  if (
+                      old_record.get("date")
+                      == trade_date
+                  ):
+                      existing_index = index
+                      break
+
+              if existing_index is None:
+                  records.append(record)
+                  added += 1
+              else:
+                  if records[existing_index] != record:
+                      records[existing_index] = record
+                      updated += 1
+
+              records.sort(
+                  key=lambda item: item.get(
+                      "date",
+                      ""
+                  )
+              )
+
           tz = timezone(timedelta(hours=8))
           now = datetime.now(tz)
 
-          date_string = now.strftime("%Y-%m-%d")
-
-          with open(
-              "data/stocks.json",
-              "r",
-              encoding="utf-8"
-          ) as f:
-              stock_data = json.load(f)
-
-          with open(
-              "data/institutional.json",
-              "r",
-              encoding="utf-8"
-          ) as f:
-              institutional_data = json.load(f)
-
-          history = {
-              "date": date_string,
-              "updated_at": now.isoformat(),
-              "stocks": stock_data,
-              "institutional": institutional_data
+          output = {
+              "_meta": {
+                  "updated_at": now.isoformat(),
+                  "source": "Taiwan Stock Exchange (TWSE)",
+                  "description": "Daily OHLCV history by security code"
+              }
           }
 
-          os.makedirs(
-              "data/history",
-              exist_ok=True
-          )
+          for code in sorted(history.keys()):
+              if code == "_meta":
+                  continue
 
-          history_path = (
-              "data/history/"
-              + date_string
-              + ".json"
-          )
+              output[code] = history[code]
 
           with open(
-              history_path,
+              HISTORY_FILE,
               "w",
               encoding="utf-8"
           ) as f:
               json.dump(
-                  history,
+                  output,
                   f,
                   ensure_ascii=False,
                   indent=2
               )
 
-          print("History saved:", history_path)
+          print("Market history updated")
+          print("Added:", added)
+          print("Updated:", updated)
+          print("Skipped:", skipped)
+          print(
+              "Securities:",
+              len(output) - 1
+          )
           PY
 
       # ============================================================
@@ -195,7 +343,7 @@ jobs:
 
           git add data/stocks.json
           git add data/institutional.json
-          git add data/history/
+          git add data/market_history.json
 
           if git diff --cached --quiet; then
             echo "No data changes"
