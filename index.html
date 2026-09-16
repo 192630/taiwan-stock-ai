@@ -4,7 +4,6 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="#111827">
-
 <title>台股 AI 研究站</title>
 
 <style>
@@ -14,177 +13,233 @@ body{
   margin:0;
   background:#f3f4f6;
   color:#111827;
-  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",
-  "Noto Sans TC",sans-serif;
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans TC",sans-serif;
 }
 
 header{
-  position:sticky;
-  top:0;
-  z-index:5;
   background:#111827;
   color:white;
-  padding:16px 18px;
+  padding:22px 18px;
 }
 
-header b{
-  font-size:19px;
+header h1{
+  margin:0;
+  font-size:26px;
 }
 
-header span{
-  display:block;
-  margin-top:4px;
-  font-size:12px;
+header p{
+  margin:6px 0 0;
   color:#cbd5e1;
+  font-size:15px;
 }
 
 main{
-  max-width:960px;
+  max-width:760px;
   margin:auto;
-  padding:16px;
+  padding:18px;
 }
 
 .card{
   background:white;
   border:1px solid #e5e7eb;
-  border-radius:16px;
-  padding:16px;
-  margin-bottom:14px;
+  border-radius:20px;
+  padding:20px;
+  margin-bottom:16px;
   box-shadow:0 2px 8px rgba(0,0,0,.04);
 }
 
 h2{
-  font-size:18px;
-  margin:0 0 12px;
+  margin:0 0 16px;
+  font-size:22px;
 }
 
 .search{
   display:flex;
-  gap:8px;
+  gap:10px;
+  flex-direction:column;
 }
 
-.search input{
-  flex:1;
-  min-width:0;
+input{
+  width:100%;
+  padding:15px;
+  font-size:18px;
   border:1px solid #cbd5e1;
-  border-radius:10px;
-  padding:12px;
-  font-size:16px;
+  border-radius:14px;
+  outline:none;
+}
+
+input:focus{
+  border-color:#2563eb;
 }
 
 button{
   border:0;
-  border-radius:10px;
-  padding:11px 15px;
+  border-radius:14px;
+  padding:14px;
+  font-size:18px;
+  font-weight:700;
   background:#2563eb;
   color:white;
-  font-size:15px;
-  font-weight:600;
-}
-
-button:active{
-  transform:scale(.98);
 }
 
 .status{
-  margin-top:10px;
-  font-size:13px;
+  margin-top:14px;
   color:#64748b;
+  font-size:15px;
 }
 
-.result{
-  margin-top:14px;
+.stock-head{
+  margin-top:20px;
 }
 
 .stock-name{
-  font-size:22px;
-  font-weight:700;
+  font-size:25px;
+  font-weight:800;
 }
 
 .stock-code{
   color:#64748b;
-  font-size:14px;
+  margin-top:2px;
 }
 
 .price{
-  font-size:30px;
-  font-weight:800;
-  margin:10px 0;
+  font-size:38px;
+  font-weight:900;
+  margin:14px 0;
 }
 
 .metrics{
   display:grid;
   grid-template-columns:1fr 1fr;
-  gap:8px;
-  margin-top:12px;
+  gap:10px;
 }
 
 .item{
   background:#f8fafc;
-  border-radius:10px;
-  padding:10px;
+  border-radius:14px;
+  padding:13px;
 }
 
 .item small{
   display:block;
   color:#64748b;
-  margin-bottom:4px;
+  margin-bottom:5px;
+}
+
+.item b{
+  font-size:19px;
+}
+
+.hidden{
+  display:none;
+}
+
+.info-row{
+  display:flex;
+  justify-content:space-between;
+  gap:15px;
+  padding:11px 0;
+  border-bottom:1px solid #e5e7eb;
+}
+
+.info-row:last-child{
+  border-bottom:0;
+}
+
+.info-row span{
+  color:#475569;
+}
+
+.info-row b{
+  text-align:right;
+}
+
+.inst-grid{
+  display:grid;
+  grid-template-columns:1fr;
+  gap:10px;
+  margin-top:14px;
+}
+
+.inst{
+  background:#f8fafc;
+  border-radius:14px;
+  padding:14px;
+}
+
+.inst-title{
+  font-weight:800;
+  font-size:17px;
+  margin-bottom:10px;
 }
 
 .inst-row{
   display:flex;
   justify-content:space-between;
+  padding:4px 0;
   gap:10px;
-  padding:9px 0;
-  border-bottom:1px solid #eef2f7;
-  font-size:14px;
 }
 
-.inst-row:last-child{
-  border-bottom:0;
-}
-
-.positive{
-  color:#dc2626;
-  font-weight:700;
-}
-
-.negative{
-  color:#16a34a;
-  font-weight:700;
-}
-
-.error{
-  background:#fef2f2;
-  color:#b91c1c;
-  padding:10px;
-  border-radius:10px;
-}
-
-.hint{
+.inst-row span{
   color:#64748b;
-  line-height:1.6;
-  font-size:14px;
+}
+
+.net{
+  margin-top:8px;
+  padding-top:8px;
+  border-top:1px solid #e2e8f0;
+  font-weight:800;
+}
+
+.buy{
+  color:#dc2626;
+}
+
+.sell{
+  color:#16a34a;
+}
+
+.neutral{
+  color:#475569;
+}
+
+.total-box{
+  margin-top:12px;
+  padding:16px;
+  border-radius:14px;
+  background:#111827;
+  color:white;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+}
+
+.total-box b{
+  font-size:21px;
 }
 
 footer{
   text-align:center;
   color:#64748b;
-  font-size:12px;
-  padding:10px 0 25px;
+  padding:10px 20px 30px;
+  font-size:14px;
 }
 
-@media(max-width:500px){
-  .metrics{
-    grid-template-columns:1fr 1fr;
-  }
-
+@media(min-width:600px){
   .search{
-    flex-direction:column;
+    flex-direction:row;
   }
 
-  button{
-    width:100%;
+  .search input{
+    flex:1;
+  }
+
+  .search button{
+    width:120px;
+  }
+
+  .inst-grid{
+    grid-template-columns:repeat(3,1fr);
   }
 }
 </style>
@@ -193,8 +248,8 @@ footer{
 <body>
 
 <header>
-  <b>📈 台股 AI 研究站</b>
-  <span>TWSE 自動資料更新・研究與教學用途</span>
+  <h1>📈 台股 AI 研究站</h1>
+  <p>TWSE 自動資料更新・量價與法人籌碼研究</p>
 </header>
 
 <main>
@@ -205,283 +260,745 @@ footer{
   <div class="search">
     <input
       id="q"
-      type="text"
-      inputmode="text"
+      inputmode="numeric"
       placeholder="輸入股票代號，例如 2330"
     >
     <button onclick="searchStock()">搜尋</button>
   </div>
 
   <div id="stockStatus" class="status">
-    股票資料載入中…
+    股票資料載入中...
   </div>
 
-  <div id="stockResult" class="result"></div>
+  <div id="stockResult" class="hidden">
+
+    <div class="stock-head">
+      <div id="stockName" class="stock-name"></div>
+      <div id="stockCode" class="stock-code"></div>
+    </div>
+
+    <div id="price" class="price"></div>
+
+    <div class="metrics">
+
+      <div class="item">
+        <small>開盤</small>
+        <b id="open"></b>
+      </div>
+
+      <div class="item">
+        <small>最高</small>
+        <b id="high"></b>
+      </div>
+
+      <div class="item">
+        <small>最低</small>
+        <b id="low"></b>
+      </div>
+
+      <div class="item">
+        <small>成交股數</small>
+        <b id="volume"></b>
+      </div>
+
+    </div>
+  </div>
 </section>
 
+
 <section class="card">
-  <h2>🏦 三大法人資料</h2>
+  <h2>🏦 三大法人籌碼</h2>
 
   <div id="instStatus" class="status">
-    法人資料載入中…
+    法人資料載入中...
   </div>
 
-  <div id="instResult"></div>
+  <div id="instResult" class="hidden">
+
+    <div class="inst-grid">
+
+      <div class="inst">
+        <div class="inst-title">🌍 外資</div>
+
+        <div class="inst-row">
+          <span>買進</span>
+          <b id="foreignBuy">-</b>
+        </div>
+
+        <div class="inst-row">
+          <span>賣出</span>
+          <b id="foreignSell">-</b>
+        </div>
+
+        <div class="inst-row net">
+          <span>買賣超</span>
+          <b id="foreignNet">-</b>
+        </div>
+      </div>
+
+
+      <div class="inst">
+        <div class="inst-title">📊 投信</div>
+
+        <div class="inst-row">
+          <span>買進</span>
+          <b id="trustBuy">-</b>
+        </div>
+
+        <div class="inst-row">
+          <span>賣出</span>
+          <b id="trustSell">-</b>
+        </div>
+
+        <div class="inst-row net">
+          <span>買賣超</span>
+          <b id="trustNet">-</b>
+        </div>
+      </div>
+
+
+      <div class="inst">
+        <div class="inst-title">🏢 自營商</div>
+
+        <div class="inst-row">
+          <span>買進</span>
+          <b id="dealerBuy">-</b>
+        </div>
+
+        <div class="inst-row">
+          <span>賣出</span>
+          <b id="dealerSell">-</b>
+        </div>
+
+        <div class="inst-row net">
+          <span>買賣超</span>
+          <b id="dealerNet">-</b>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="total-box">
+      <span>三大法人合計買賣超</span>
+      <b id="institutionTotal">-</b>
+    </div>
+
+  </div>
 </section>
+
 
 <section class="card">
-  <h2>🤖 研究功能</h2>
+  <h2>📡 資料狀態</h2>
 
-  <div class="hint">
-    目前網站已接上 GitHub Actions 自動取得的台股資料。
-    後續可以繼續加入量價突破、法人籌碼、技術指標、
-    選股掃描與 AI 分析功能。
+  <div class="info-row">
+    <span>股票資料</span>
+    <b id="stockCount">載入中...</b>
+  </div>
+
+  <div class="info-row">
+    <span>法人資料</span>
+    <b id="instCount">載入中...</b>
+  </div>
+
+  <div class="info-row">
+    <span>法人來源</span>
+    <b id="instSource">-</b>
+  </div>
+
+  <div class="info-row">
+    <span>法人更新時間</span>
+    <b id="instUpdated">-</b>
   </div>
 </section>
+
+
+<section class="card">
+  <h2>🤖 下一階段研究功能</h2>
+
+  <div class="info-row">
+    <span>量價突破掃描</span>
+    <b>準備接入</b>
+  </div>
+
+  <div class="info-row">
+    <span>法人籌碼訊號</span>
+    <b>基礎完成</b>
+  </div>
+
+  <div class="info-row">
+    <span>技術指標</span>
+    <b>準備接入</b>
+  </div>
+
+  <div class="info-row">
+    <span>AI 研究摘要</span>
+    <b>準備接入</b>
+  </div>
+</section>
+
+</main>
 
 <footer>
   ⚠️ 本站為研究與教學用途，資料不構成投資建議。
 </footer>
 
-</main>
 
 <script>
-let stocksData = [];
-let institutionalData = null;
 
-function number(v){
-  const n = Number(String(v ?? "").replace(/,/g,""));
-  return Number.isFinite(n) ? n : null;
+let stocks = [];
+let institutional = [];
+
+let stockDataReady = false;
+let institutionalReady = false;
+
+
+/* ---------- 共用 ---------- */
+
+function cleanNumber(value){
+  if(value === undefined || value === null) return 0;
+
+  const cleaned = String(value)
+    .replace(/,/g,"")
+    .replace(/\s/g,"");
+
+  const n = Number(cleaned);
+
+  return Number.isFinite(n) ? n : 0;
 }
 
-function formatNumber(v){
-  const n = number(v);
-  if(n === null) return "-";
+
+function formatNumber(value){
+  const n = cleanNumber(value);
+
   return n.toLocaleString("zh-TW");
 }
 
-function getStockCode(row){
-  return String(
-    row.Code ??
-    row.code ??
-    row["證券代號"] ??
-    row["股票代號"] ??
-    ""
-  ).trim();
-}
 
-function getStockName(row){
-  return String(
-    row.Name ??
-    row.name ??
-    row["證券名稱"] ??
-    row["股票名稱"] ??
-    ""
-  ).trim();
-}
+function formatSigned(value){
+  const n = cleanNumber(value);
 
-function getValue(row,names){
-  for(const name of names){
-    if(row[name] !== undefined && row[name] !== null){
-      return row[name];
-    }
+  if(n > 0){
+    return "+" + n.toLocaleString("zh-TW");
   }
-  return "-";
+
+  return n.toLocaleString("zh-TW");
 }
+
+
+function setNetColor(element,value){
+
+  const n = cleanNumber(value);
+
+  element.classList.remove("buy","sell","neutral");
+
+  if(n > 0){
+    element.classList.add("buy");
+  }
+  else if(n < 0){
+    element.classList.add("sell");
+  }
+  else{
+    element.classList.add("neutral");
+  }
+}
+
+
+/* ---------- 股票資料 ---------- */
 
 async function loadStocks(){
+
   const status = document.getElementById("stockStatus");
 
   try{
+
     const response = await fetch(
-      "./data/stocks.json?v=" + Date.now(),
-      {cache:"no-store"}
+      "data/stocks.json?t=" + Date.now()
     );
 
     if(!response.ok){
-      throw new Error("HTTP " + response.status);
+      throw new Error("stocks.json 載入失敗");
     }
 
     const json = await response.json();
 
-    stocksData =
-      Array.isArray(json) ? json :
-      Array.isArray(json.stocks) ? json.stocks :
-      Array.isArray(json.data) ? json.data :
-      [];
+    stocks = Array.isArray(json)
+      ? json
+      : (
+          json.stocks ||
+          json.data ||
+          []
+        );
+
+    stockDataReady = true;
+
+    document.getElementById("stockCount").textContent =
+      stocks.length.toLocaleString("zh-TW") + " 筆";
 
     status.textContent =
-      `✅ 股票資料已載入：${stocksData.length.toLocaleString()} 筆`;
+      "✅ 股票資料已載入：" +
+      stocks.length.toLocaleString("zh-TW") +
+      " 筆";
 
-  }catch(error){
+  }
+  catch(error){
+
     console.error(error);
 
-    status.innerHTML =
-      `<div class="error">
-      ❌ stocks.json 載入失敗：${error.message}
-      </div>`;
+    status.textContent = "❌ 股票資料載入失敗";
+
+    document.getElementById("stockCount").textContent =
+      "載入失敗";
   }
 }
 
+
+/* ---------- 法人資料 ---------- */
+
 async function loadInstitutional(){
+
   const status = document.getElementById("instStatus");
 
   try{
+
     const response = await fetch(
-      "./data/institutional.json?v=" + Date.now(),
-      {cache:"no-store"}
+      "data/institutional.json?t=" + Date.now()
     );
 
     if(!response.ok){
-      throw new Error("HTTP " + response.status);
+      throw new Error("institutional.json 載入失敗");
     }
 
-    institutionalData = await response.json();
+    const json = await response.json();
 
-    const count =
-      institutionalData.count ??
-      institutionalData.institutional?.length ??
-      institutionalData.data?.length ??
-      0;
+    institutional =
+      json.institutional ||
+      json.data ||
+      [];
 
-    const updated =
-      institutionalData.updated_at ?? "時間未提供";
+    institutionalReady = true;
+
+    document.getElementById("instCount").textContent =
+      institutional.length.toLocaleString("zh-TW") +
+      " 筆";
+
+    document.getElementById("instSource").textContent =
+      json.source || "TWSE T86";
+
+    document.getElementById("instUpdated").textContent =
+      json.updated_at || "-";
 
     status.textContent =
-      `✅ 法人資料已載入：${Number(count).toLocaleString()} 筆`;
+      "✅ 法人資料已載入：" +
+      institutional.length.toLocaleString("zh-TW") +
+      " 筆";
 
-    document.getElementById("instResult").innerHTML =
-      `<div class="inst-row">
-        <span>資料來源</span>
-        <b>${institutionalData.source ?? "TWSE"}</b>
-      </div>
+  }
+  catch(error){
 
-      <div class="inst-row">
-        <span>更新時間</span>
-        <b>${updated}</b>
-      </div>`;
-
-  }catch(error){
     console.error(error);
 
-    status.innerHTML =
-      `<div class="error">
-      ❌ institutional.json 載入失敗：${error.message}
-      </div>`;
+    status.textContent =
+      "❌ 法人資料載入失敗";
+
+    document.getElementById("instCount").textContent =
+      "載入失敗";
   }
 }
 
-function searchStock(){
-  const input = document.getElementById("q");
-  const output = document.getElementById("stockResult");
 
-  const query = input.value.trim();
+/* ---------- 找股票 ---------- */
 
-  if(!query){
-    output.innerHTML =
-      `<div class="error">
-      請輸入股票代號，例如 2330
-      </div>`;
+function getStockCode(row){
+
+  if(Array.isArray(row)){
+    return String(row[0] || "").trim();
+  }
+
+  return String(
+    row.Code ||
+    row.code ||
+    row["證券代號"] ||
+    row["股票代號"] ||
+    ""
+  ).trim();
+}
+
+
+function findStock(code){
+
+  return stocks.find(row =>
+    getStockCode(row) === code
+  );
+}
+
+
+/* ---------- 股票欄位 ---------- */
+
+function getStockValues(row){
+
+  if(Array.isArray(row)){
+
+    return {
+      code: row[0],
+      name: row[1],
+      volume: row[2],
+      open: row[5],
+      high: row[6],
+      low: row[7],
+      close: row[8]
+    };
+
+  }
+
+  return {
+
+    code:
+      row.Code ||
+      row.code ||
+      row["證券代號"] ||
+      row["股票代號"],
+
+    name:
+      row.Name ||
+      row.name ||
+      row["證券名稱"] ||
+      row["股票名稱"],
+
+    volume:
+      row.TradeVolume ||
+      row.volume ||
+      row["成交股數"],
+
+    open:
+      row.OpeningPrice ||
+      row.open ||
+      row["開盤價"],
+
+    high:
+      row.HighestPrice ||
+      row.high ||
+      row["最高價"],
+
+    low:
+      row.LowestPrice ||
+      row.low ||
+      row["最低價"],
+
+    close:
+      row.ClosingPrice ||
+      row.close ||
+      row["收盤價"]
+
+  };
+}
+
+
+/* ---------- T86 法人欄位 ---------- */
+
+/*
+TWSE T86 institutional array：
+
+0  股票代號
+
+1  外資買進
+2  外資賣出
+3  外資買賣超
+
+4  外資自營商買進
+5  外資自營商賣出
+6  外資自營商買賣超
+
+7  投信買進
+8  投信賣出
+9  投信買賣超
+
+10 自營商買賣超
+11 自營商自行買進
+12 自營商自行賣出
+13 自營商自行買賣超
+14 自營商避險買進
+15 自營商避險賣出
+16 自營商避險買賣超
+
+17 三大法人合計
+*/
+
+
+function findInstitutional(code){
+
+  return institutional.find(row => {
+
+    if(Array.isArray(row)){
+      return String(row[0] || "").trim() === code;
+    }
+
+    return String(
+      row["Security Code"] ||
+      row.code ||
+      row.Code ||
+      ""
+    ).trim() === code;
+
+  });
+}
+
+
+function getInstitutionValues(row){
+
+  if(!Array.isArray(row)){
+    return null;
+  }
+
+  return {
+
+    foreignBuy: cleanNumber(row[1]),
+    foreignSell: cleanNumber(row[2]),
+    foreignNet: cleanNumber(row[3]),
+
+    trustBuy: cleanNumber(row[7]),
+    trustSell: cleanNumber(row[8]),
+    trustNet: cleanNumber(row[9]),
+
+    dealerBuy:
+      cleanNumber(row[11]) +
+      cleanNumber(row[14]),
+
+    dealerSell:
+      cleanNumber(row[12]) +
+      cleanNumber(row[15]),
+
+    dealerNet:
+      cleanNumber(row[10]),
+
+    total:
+      cleanNumber(row[17])
+
+  };
+}
+
+
+/* ---------- 顯示股票 ---------- */
+
+function showStock(row){
+
+  const v = getStockValues(row);
+
+  document.getElementById("stockName").textContent =
+    v.name || "股票";
+
+  document.getElementById("stockCode").textContent =
+    v.code || "";
+
+  document.getElementById("price").textContent =
+    formatNumber(v.close);
+
+  document.getElementById("open").textContent =
+    formatNumber(v.open);
+
+  document.getElementById("high").textContent =
+    formatNumber(v.high);
+
+  document.getElementById("low").textContent =
+    formatNumber(v.low);
+
+  document.getElementById("volume").textContent =
+    formatNumber(v.volume);
+
+  document
+    .getElementById("stockResult")
+    .classList.remove("hidden");
+}
+
+
+/* ---------- 顯示法人 ---------- */
+
+function showInstitution(row){
+
+  const result =
+    document.getElementById("instResult");
+
+  const status =
+    document.getElementById("instStatus");
+
+  if(!row){
+
+    result.classList.add("hidden");
+
+    status.textContent =
+      "⚠️ 找不到這檔股票的法人資料";
+
     return;
   }
 
-  if(!stocksData.length){
-    output.innerHTML =
-      `<div class="error">
-      股票資料還沒載入完成，等一下再試一次。
-      </div>`;
+  const v = getInstitutionValues(row);
+
+  if(!v){
+
+    result.classList.add("hidden");
+
+    status.textContent =
+      "⚠️ 法人資料格式無法解析";
+
     return;
   }
 
-  const stock = stocksData.find(row =>
-    getStockCode(row) === query ||
-    getStockName(row).includes(query)
+
+  document.getElementById("foreignBuy").textContent =
+    formatNumber(v.foreignBuy);
+
+  document.getElementById("foreignSell").textContent =
+    formatNumber(v.foreignSell);
+
+  const foreignNet =
+    document.getElementById("foreignNet");
+
+  foreignNet.textContent =
+    formatSigned(v.foreignNet);
+
+  setNetColor(
+    foreignNet,
+    v.foreignNet
   );
 
-  if(!stock){
-    output.innerHTML =
-      `<div class="error">
-      找不到「${query}」的股票資料。
-      </div>`;
+
+  document.getElementById("trustBuy").textContent =
+    formatNumber(v.trustBuy);
+
+  document.getElementById("trustSell").textContent =
+    formatNumber(v.trustSell);
+
+  const trustNet =
+    document.getElementById("trustNet");
+
+  trustNet.textContent =
+    formatSigned(v.trustNet);
+
+  setNetColor(
+    trustNet,
+    v.trustNet
+  );
+
+
+  document.getElementById("dealerBuy").textContent =
+    formatNumber(v.dealerBuy);
+
+  document.getElementById("dealerSell").textContent =
+    formatNumber(v.dealerSell);
+
+  const dealerNet =
+    document.getElementById("dealerNet");
+
+  dealerNet.textContent =
+    formatSigned(v.dealerNet);
+
+  setNetColor(
+    dealerNet,
+    v.dealerNet
+  );
+
+
+  const total =
+    document.getElementById("institutionTotal");
+
+  total.textContent =
+    formatSigned(v.total);
+
+  setNetColor(
+    total,
+    v.total
+  );
+
+
+  status.textContent =
+    "✅ 已找到這檔股票的法人籌碼";
+
+  result.classList.remove("hidden");
+}
+
+
+/* ---------- 搜尋 ---------- */
+
+function searchStock(){
+
+  const input =
+    document.getElementById("q");
+
+  const code =
+    input.value.trim();
+
+  const stockStatus =
+    document.getElementById("stockStatus");
+
+  if(!code){
+
+    stockStatus.textContent =
+      "請輸入股票代號，例如 2330";
+
     return;
   }
 
-  const code = getStockCode(stock);
-  const name = getStockName(stock);
+  if(!stockDataReady){
 
-  const close = getValue(stock,[
-    "ClosingPrice",
-    "close",
-    "收盤價"
-  ]);
+    stockStatus.textContent =
+      "股票資料還在載入，請稍候";
 
-  const open = getValue(stock,[
-    "OpeningPrice",
-    "open",
-    "開盤價"
-  ]);
+    return;
+  }
 
-  const high = getValue(stock,[
-    "HighestPrice",
-    "high",
-    "最高價"
-  ]);
+  const stock =
+    findStock(code);
 
-  const low = getValue(stock,[
-    "LowestPrice",
-    "low",
-    "最低價"
-  ]);
+  if(!stock){
 
-  const volume = getValue(stock,[
-    "TradeVolume",
-    "volume",
-    "成交股數"
-  ]);
+    document
+      .getElementById("stockResult")
+      .classList.add("hidden");
 
-  output.innerHTML = `
-    <div class="stock-name">
-      ${name || "股票"}
-    </div>
+    document
+      .getElementById("instResult")
+      .classList.add("hidden");
 
-    <div class="stock-code">
-      ${code}
-    </div>
+    stockStatus.textContent =
+      "❌ 找不到股票代號 " + code;
 
-    <div class="price">
-      ${formatNumber(close)}
-    </div>
+    return;
+  }
 
-    <div class="metrics">
-      <div class="item">
-        <small>開盤</small>
-        <b>${formatNumber(open)}</b>
-      </div>
+  stockStatus.textContent =
+    "✅ 找到股票 " + code;
 
-      <div class="item">
-        <small>最高</small>
-        <b>${formatNumber(high)}</b>
-      </div>
+  showStock(stock);
 
-      <div class="item">
-        <small>最低</small>
-        <b>${formatNumber(low)}</b>
-      </div>
 
-      <div class="item">
-        <small>成交股數</small>
-        <b>${formatNumber(volume)}</b>
-      </div>
-    </div>
-  `;
+  if(!institutionalReady){
+
+    document.getElementById("instStatus").textContent =
+      "法人資料仍在載入中...";
+
+    return;
+  }
+
+  const inst =
+    findInstitutional(code);
+
+  showInstitution(inst);
 }
 
-document.getElementById("q")
-.addEventListener("keydown",function(event){
-  if(event.key === "Enter"){
-    searchStock();
-  }
-});
+
+/* ---------- Enter 搜尋 ---------- */
+
+document
+  .getElementById("q")
+  .addEventListener("keydown",function(event){
+
+    if(event.key === "Enter"){
+      searchStock();
+    }
+
+  });
+
+
+/* ---------- 啟動 ---------- */
 
 Promise.all([
   loadStocks(),
