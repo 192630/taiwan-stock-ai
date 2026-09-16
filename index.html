@@ -723,6 +723,32 @@ function getStockValues(row){
   };
 }
 
+  
+
+/* ---------- 歷史行情 ---------- */
+
+function getStockHistory(code){
+
+  const key = String(code || "").trim();
+
+  if(!key || !marketHistoryReady){
+
+    return [];
+
+  }
+
+  const history = marketHistory[key];
+
+  if(!Array.isArray(history)){
+
+    return [];
+
+  }
+
+  return history;
+
+}
+
 
 /* ---------- T86 法人欄位 ---------- */
 
