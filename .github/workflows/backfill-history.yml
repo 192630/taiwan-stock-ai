@@ -29,13 +29,17 @@ jobs:
           HISTORY_FILE = "data/market_history.json"
           PROGRESS_FILE = "data/backfill_progress.json"
 
-          # 每次 Action 處理幾檔
-          BATCH_SIZE = 20
+          # ==========================================
+          # 設定
+          # ==========================================
 
-          # 每檔回補最近幾個月
+          # 每次 Run 最多處理 100 檔
+          RUN_SIZE = 100
+
+          # 每檔回補最近 6 個月份
           MONTHS = 6
 
-          # 每次 TWSE 請求之間稍微休息
+          # 每次 TWSE 請求之間休息
           REQUEST_DELAY = 1.2
 
 
@@ -155,6 +159,16 @@ jobs:
 
 
           # ==========================================
+          # 建立 data 資料夾
+          # ==========================================
+
+          os.makedirs(
+              "data",
+              exist_ok=True
+          )
+
+
+          # ==========================================
           # 讀取 stocks.json
           # ==========================================
 
@@ -189,6 +203,7 @@ jobs:
 
           stock_codes = []
 
+
           for row in stock_rows:
 
               if not isinstance(row, dict):
@@ -208,9 +223,14 @@ jobs:
           stock_codes.sort()
 
 
+          total_securities = len(
+              stock_codes
+          )
+
+
           print(
               "Total securities:",
-              len(stock_codes)
+              total_securities
           )
 
 
@@ -222,7 +242,7 @@ jobs:
 
 
           # ==========================================
-          # 讀取回補進度
+          # 讀取上一次進度
           # ==========================================
 
           start_index = 0
@@ -248,54 +268,66 @@ jobs:
                       )
                   )
 
-              except Exception:
+
+              except Exception as error:
+
+                  print(
+                      "Progress file error:",
+                      error
+                  )
 
                   start_index = 0
 
 
-          # 如果全部跑完，就從頭重新開始
-          if start_index >= len(stock_codes):
-
-              print(
-                  "Previous backfill cycle completed."
-              )
+          # 如果上一輪已經全部完成
+          if start_index >= total_securities:
 
               start_index = 0
 
 
           end_index = min(
-              start_index + BATCH_SIZE,
-              len(stock_codes)
+              start_index + RUN_SIZE,
+              total_securities
           )
 
 
-          batch_codes = stock_codes[
+          run_codes = stock_codes[
               start_index:end_index
           ]
 
 
+          print()
           print(
-              "Batch:",
-              start_index,
-              "to",
+              "================================"
+          )
+
+          print(
+              "This run:"
+          )
+
+          print(
+              "Start index:",
+              start_index
+          )
+
+          print(
+              "End index:",
               end_index - 1
           )
 
           print(
-              "Codes:",
-              batch_codes
+              "Securities this run:",
+              len(run_codes)
+          )
+
+          print(
+              "================================"
           )
 
 
           # ==========================================
-          # 讀取既有歷史資料
+          # 讀取既有 market_history.json
           # ==========================================
-
-          os.makedirs(
-              "data",
-              exist_ok=True
-          )
-
 
           if os.path.exists(HISTORY_FILE):
 
@@ -309,7 +341,12 @@ jobs:
 
                       history = json.load(f)
 
-              except Exception:
+              except Exception as error:
+
+                  print(
+                      "History file error:",
+                      error
+                  )
 
                   history = {}
 
@@ -323,25 +360,43 @@ jobs:
               history = {}
 
 
-          months = month_list(MONTHS)
+          months = month_list(
+              MONTHS
+          )
+
+
+          print(
+              "Months:",
+              months
+          )
 
 
           # ==========================================
-          # 開始回補本批資料
+          # 統計
           # ==========================================
 
           successful_codes = 0
           empty_codes = 0
+          failed_requests = 0
+          processed_codes = 0
 
 
-          for code in batch_codes:
+          # ==========================================
+          # 開始處理這次的 100 檔
+          # ==========================================
+
+          for position, code in enumerate(
+              run_codes,
+              start=1
+          ):
 
               print()
               print(
-                  "============================"
+                  "================================"
               )
 
               print(
+                  f"[{position}/{len(run_codes)}]",
                   "Backfilling:",
                   code
               )
@@ -349,6 +404,10 @@ jobs:
 
               records_by_date = {}
 
+
+              # --------------------------------------
+              # 保留原本已有資料
+              # --------------------------------------
 
               old_records = history.get(
                   code,
@@ -360,10 +419,15 @@ jobs:
 
                   for row in old_records:
 
-                      if not isinstance(row, dict):
+                      if not isinstance(
+                          row,
+                          dict
+                      ):
                           continue
 
-                      date = row.get("date")
+                      date = row.get(
+                          "date"
+                      )
 
                       if date:
 
@@ -374,6 +438,10 @@ jobs:
 
               downloaded_rows = 0
 
+
+              # --------------------------------------
+              # 抓最近 6 個月份
+              # --------------------------------------
 
               for month in months:
 
@@ -398,7 +466,10 @@ jobs:
                       )
 
 
-                      if not isinstance(rows, list):
+                      if not isinstance(
+                          rows,
+                          list
+                      ):
 
                           rows = []
 
@@ -414,10 +485,17 @@ jobs:
                       )
 
 
+                      # --------------------------------
+                      # 解析 TWSE 每日資料
+                      # --------------------------------
+
                       for row in rows:
 
                           if (
-                              not isinstance(row, list)
+                              not isinstance(
+                                  row,
+                                  list
+                              )
                               or len(row) < 7
                           ):
 
@@ -473,18 +551,25 @@ jobs:
 
                   except Exception as error:
 
+                      failed_requests += 1
+
                       print(
-                          "ERROR:",
+                          "REQUEST ERROR:",
                           code,
                           month,
                           error
                       )
 
 
+                  # 避免連續大量請求
                   time.sleep(
                       REQUEST_DELAY
                   )
 
+
+              # --------------------------------------
+              # 整理這檔證券資料
+              # --------------------------------------
 
               records = list(
                   records_by_date.values()
@@ -493,7 +578,10 @@ jobs:
 
               records.sort(
                   key=lambda row:
-                  row.get("date", "")
+                  row.get(
+                      "date",
+                      ""
+                  )
               )
 
 
@@ -501,7 +589,12 @@ jobs:
               records = records[-150:]
 
 
-              history[code] = records
+              history[
+                  code
+              ] = records
+
+
+              processed_codes += 1
 
 
               if downloaded_rows > 0:
@@ -521,15 +614,37 @@ jobs:
 
 
           # ==========================================
-          # 更新 meta
+          # 更新時間
           # ==========================================
 
           tz = timezone(
               timedelta(hours=8)
           )
 
-          now = datetime.now(tz)
+          now = datetime.now(
+              tz
+          )
 
+
+          # ==========================================
+          # 判斷是否完成整輪
+          # ==========================================
+
+          cycle_complete = (
+              end_index >= total_securities
+          )
+
+
+          next_index = (
+              0
+              if cycle_complete
+              else end_index
+          )
+
+
+          # ==========================================
+          # 更新 market_history meta
+          # ==========================================
 
           history["_meta"] = {
 
@@ -545,16 +660,26 @@ jobs:
               "backfill_months":
                   MONTHS,
 
-              "batch_start":
+              "run_size":
+                  RUN_SIZE,
+
+              "last_start_index":
                   start_index,
 
-              "batch_end":
+              "last_end_index":
                   end_index,
 
               "total_securities":
-                  len(stock_codes)
+                  total_securities,
+
+              "cycle_complete":
+                  cycle_complete
           }
 
+
+          # ==========================================
+          # 寫入 market_history.json
+          # ==========================================
 
           with open(
               HISTORY_FILE,
@@ -571,13 +696,8 @@ jobs:
 
 
           # ==========================================
-          # 儲存下一批的位置
+          # 寫入 backfill_progress.json
           # ==========================================
-
-          cycle_complete = (
-              end_index >= len(stock_codes)
-          )
-
 
           progress = {
 
@@ -591,17 +711,25 @@ jobs:
                   end_index,
 
               "next_index":
-                  (
-                      0
-                      if cycle_complete
-                      else end_index
-                  ),
+                  next_index,
 
               "total_securities":
-                  len(stock_codes),
+                  total_securities,
 
-              "batch_size":
-                  BATCH_SIZE,
+              "run_size":
+                  RUN_SIZE,
+
+              "processed_codes":
+                  processed_codes,
+
+              "successful_codes":
+                  successful_codes,
+
+              "empty_codes":
+                  empty_codes,
+
+              "failed_requests":
+                  failed_requests,
 
               "cycle_complete":
                   cycle_complete
@@ -622,28 +750,53 @@ jobs:
               )
 
 
+          # ==========================================
+          # 最後摘要
+          # ==========================================
+
           print()
           print(
-              "============================"
+              "================================"
           )
 
           print(
-              "Batch completed."
+              "RUN COMPLETED"
           )
 
           print(
-              "Successful codes:",
+              "================================"
+          )
+
+          print(
+              "Processed:",
+              processed_codes
+          )
+
+          print(
+              "Successful:",
               successful_codes
           )
 
           print(
-              "Empty codes:",
+              "Empty:",
               empty_codes
           )
 
           print(
+              "Failed requests:",
+              failed_requests
+          )
+
+          print(
+              "Current range:",
+              start_index,
+              "to",
+              end_index - 1
+          )
+
+          print(
               "Next index:",
-              progress["next_index"]
+              next_index
           )
 
           print(
@@ -665,6 +818,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No history changes"
           else
-            git commit -m "Backfill historical stock data batch"
+            git commit -m "Backfill next stock history batch"
             git push
           fi
