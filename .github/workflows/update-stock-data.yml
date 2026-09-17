@@ -85,7 +85,7 @@ jobs:
           import urllib.request
           from datetime import datetime, timezone, timedelta
 
-          url = "https://www.twse.com.tw/rwd/zh/fund/T86?response=json"
+          url = "https://www.twse.com.tw/rwd/zh/fund/T86?response=json&selectType=ALLBUT0999"
 
           req = urllib.request.Request(
               url,
