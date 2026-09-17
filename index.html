@@ -815,7 +815,41 @@ function calculateMA(history, days){
   return total / days;
 }
 
+function calculateSupportResistance(history){
 
+  if(!history || history.length < 20){
+    return null;
+  }
+
+  const recent =
+    history.slice(-60);
+
+  const highs =
+    recent
+      .map(row => Number(row.high))
+      .filter(value => Number.isFinite(value));
+
+  const lows =
+    recent
+      .map(row => Number(row.low))
+      .filter(value => Number.isFinite(value));
+
+  if(!highs.length || !lows.length){
+    return null;
+  }
+
+  const resistance =
+    Math.max(...highs);
+
+  const support =
+    Math.min(...lows);
+
+  return {
+    support: support,
+    resistance: resistance
+  };
+}
+  
 function showHistory(code){
 
   const box =
@@ -1096,8 +1130,16 @@ function searchStock(){
   const input =
     document.getElementById("q");
 
-  const code =
-    input.value.trim();
+  const rawInput =
+  input.value.trim().toUpperCase();
+
+let mode = "stock";
+let code = rawInput;
+
+if(rawInput.startsWith("P")){
+  mode = "pressure";
+  code = rawInput.slice(1).trim();
+}
 
   const stockStatus =
     document.getElementById("stockStatus");
@@ -1143,6 +1185,28 @@ function searchStock(){
   showStock(stock);
 
   showHistory(code);
+
+if(mode === "pressure"){
+
+  const history =
+    getStockHistory(code);
+
+  const levels =
+    calculateSupportResistance(history);
+
+  if(levels){
+
+    stockStatus.textContent =
+      "📍 " + code +
+      "｜支撐 " + levels.support.toFixed(2) +
+      "｜壓力 " + levels.resistance.toFixed(2);
+
+  }else{
+
+    stockStatus.textContent =
+      "⚠️ 歷史資料不足，無法計算壓力支撐";
+  }
+}
   
   if(!institutionalReady){
 
