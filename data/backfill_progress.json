@@ -1,9 +1,13 @@
 {
-  "updated_at": "2026-09-18T00:34:24.258015+08:00",
-  "last_start_index": 0,
-  "last_end_index": 20,
-  "next_index": 20,
+  "updated_at": "2026-09-18T01:02:18.534485+08:00",
+  "last_start_index": 20,
+  "last_end_index": 120,
+  "next_index": 120,
   "total_securities": 1379,
-  "batch_size": 20,
+  "run_size": 100,
+  "processed_codes": 100,
+  "successful_codes": 100,
+  "empty_codes": 0,
+  "failed_requests": 0,
   "cycle_complete": false
 }
