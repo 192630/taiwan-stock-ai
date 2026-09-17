@@ -264,6 +264,7 @@ footer{
       placeholder="輸入股票代號，例如 2330"
     >
     <button onclick="searchStock()">搜尋</button>
+    <button onclick="searchPressure()">📍 壓力支撐</button>
   </div>
 
   <div id="stockStatus" class="status">
@@ -1125,6 +1126,27 @@ function showInstitution(row){
 
 /* ---------- 搜尋 ---------- */
 
+function searchPressure(){
+
+  const input =
+    document.getElementById("q");
+
+  const code =
+    input.value.trim();
+
+  if(!code){
+    document.getElementById("stockStatus").textContent =
+      "請先輸入股票代號";
+    return;
+  }
+
+  input.value = "P" + code;
+
+  searchStock();
+
+  input.value = code;
+}
+  
 function searchStock(){
 
   const input =
