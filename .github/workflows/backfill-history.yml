@@ -25,22 +25,22 @@ jobs:
           import urllib.parse
           from datetime import datetime, timezone, timedelta
 
+          STOCK_FILE = "data/stocks.json"
           HISTORY_FILE = "data/market_history.json"
+          PROGRESS_FILE = "data/backfill_progress.json"
 
-          # 先測試這幾檔。
-          # 之後確認成功，再擴充成更多股票。
-          STOCK_CODES = [
-              "2330",
-              "2317",
-              "2454",
-              "2308",
-              "2881"
-          ]
+          # 每次 Action 處理幾檔
+          BATCH_SIZE = 20
 
-          # 回補最近 6 個月份
+          # 每檔回補最近幾個月
           MONTHS = 6
 
+          # 每次 TWSE 請求之間稍微休息
+          REQUEST_DELAY = 1.2
+
+
           def clean_number(value):
+
               if value is None:
                   return None
 
@@ -52,11 +52,13 @@ jobs:
 
               try:
                   return float(text)
+
               except (ValueError, TypeError):
                   return None
 
 
           def clean_integer(value):
+
               value = clean_number(value)
 
               if value is None:
@@ -66,14 +68,11 @@ jobs:
 
 
           def roc_to_iso(value):
-              """
-              TWSE STOCK_DAY 日期通常為：
-              115/09/17
-              """
 
               text = str(value).strip()
 
               try:
+
                   parts = text.split("/")
 
                   if len(parts) != 3:
@@ -83,14 +82,22 @@ jobs:
                   month = int(parts[1])
                   day = int(parts[2])
 
-                  return f"{year:04d}-{month:02d}-{day:02d}"
+                  return (
+                      f"{year:04d}-"
+                      f"{month:02d}-"
+                      f"{day:02d}"
+                  )
 
               except Exception:
                   return text
 
 
           def month_list(count):
-              tz = timezone(timedelta(hours=8))
+
+              tz = timezone(
+                  timedelta(hours=8)
+              )
+
               now = datetime.now(tz)
 
               year = now.year
@@ -130,8 +137,8 @@ jobs:
               req = urllib.request.Request(
                   url,
                   headers={
-                      "User-Agent":
-                      "Mozilla/5.0"
+                      "User-Agent": "Mozilla/5.0",
+                      "Accept": "application/json"
                   }
               )
 
@@ -141,60 +148,213 @@ jobs:
               ) as response:
 
                   return json.loads(
-                      response.read().decode("utf-8")
+                      response
+                      .read()
+                      .decode("utf-8")
                   )
 
 
-          os.makedirs("data", exist_ok=True)
+          # ==========================================
+          # 讀取 stocks.json
+          # ==========================================
+
+          if not os.path.exists(STOCK_FILE):
+
+              raise FileNotFoundError(
+                  "找不到 data/stocks.json"
+              )
+
+
+          with open(
+              STOCK_FILE,
+              "r",
+              encoding="utf-8"
+          ) as f:
+
+              stock_json = json.load(f)
+
+
+          if isinstance(stock_json, list):
+
+              stock_rows = stock_json
+
+          else:
+
+              stock_rows = (
+                  stock_json.get("stocks")
+                  or stock_json.get("data")
+                  or []
+              )
+
+
+          stock_codes = []
+
+          for row in stock_rows:
+
+              if not isinstance(row, dict):
+                  continue
+
+              code = str(
+                  row.get("Code", "")
+              ).strip().upper()
+
+              if not code:
+                  continue
+
+              if code not in stock_codes:
+                  stock_codes.append(code)
+
+
+          stock_codes.sort()
+
+
+          print(
+              "Total securities:",
+              len(stock_codes)
+          )
+
+
+          if not stock_codes:
+
+              raise RuntimeError(
+                  "stocks.json 沒有找到任何股票代號"
+              )
+
+
+          # ==========================================
+          # 讀取回補進度
+          # ==========================================
+
+          start_index = 0
+
+
+          if os.path.exists(PROGRESS_FILE):
+
+              try:
+
+                  with open(
+                      PROGRESS_FILE,
+                      "r",
+                      encoding="utf-8"
+                  ) as f:
+
+                      progress = json.load(f)
+
+
+                  start_index = int(
+                      progress.get(
+                          "next_index",
+                          0
+                      )
+                  )
+
+              except Exception:
+
+                  start_index = 0
+
+
+          # 如果全部跑完，就從頭重新開始
+          if start_index >= len(stock_codes):
+
+              print(
+                  "Previous backfill cycle completed."
+              )
+
+              start_index = 0
+
+
+          end_index = min(
+              start_index + BATCH_SIZE,
+              len(stock_codes)
+          )
+
+
+          batch_codes = stock_codes[
+              start_index:end_index
+          ]
+
+
+          print(
+              "Batch:",
+              start_index,
+              "to",
+              end_index - 1
+          )
+
+          print(
+              "Codes:",
+              batch_codes
+          )
+
+
+          # ==========================================
+          # 讀取既有歷史資料
+          # ==========================================
+
+          os.makedirs(
+              "data",
+              exist_ok=True
+          )
+
 
           if os.path.exists(HISTORY_FILE):
 
               try:
+
                   with open(
                       HISTORY_FILE,
                       "r",
                       encoding="utf-8"
                   ) as f:
+
                       history = json.load(f)
 
               except Exception:
+
                   history = {}
 
           else:
+
               history = {}
 
 
           if not isinstance(history, dict):
+
               history = {}
 
 
           months = month_list(MONTHS)
 
-          print(
-              "Months:",
-              months
-          )
+
+          # ==========================================
+          # 開始回補本批資料
+          # ==========================================
+
+          successful_codes = 0
+          empty_codes = 0
 
 
-          for code in STOCK_CODES:
+          for code in batch_codes:
 
               print()
               print(
                   "============================"
               )
+
               print(
                   "Backfilling:",
                   code
               )
 
+
               records_by_date = {}
 
 
-              # 保留原本已經存在的資料
               old_records = history.get(
                   code,
                   []
               )
+
 
               if isinstance(old_records, list):
 
@@ -206,7 +366,13 @@ jobs:
                       date = row.get("date")
 
                       if date:
-                          records_by_date[date] = row
+
+                          records_by_date[
+                              date
+                          ] = row
+
+
+              downloaded_rows = 0
 
 
               for month in months:
@@ -217,6 +383,7 @@ jobs:
                       month
                   )
 
+
                   try:
 
                       data = download_month(
@@ -224,14 +391,26 @@ jobs:
                           month
                       )
 
+
                       rows = data.get(
                           "data",
                           []
                       )
 
+
+                      if not isinstance(rows, list):
+
+                          rows = []
+
+
                       print(
                           "Rows:",
                           len(rows)
+                      )
+
+
+                      downloaded_rows += len(
+                          rows
                       )
 
 
@@ -241,6 +420,7 @@ jobs:
                               not isinstance(row, list)
                               or len(row) < 7
                           ):
+
                               continue
 
 
@@ -250,23 +430,30 @@ jobs:
 
 
                           record = {
-                              "date": date,
+
+                              "date":
+                                  date,
+
                               "volume":
                                   clean_integer(
                                       row[1]
                                   ),
+
                               "open":
                                   clean_number(
                                       row[3]
                                   ),
+
                               "high":
                                   clean_number(
                                       row[4]
                                   ),
+
                               "low":
                                   clean_number(
                                       row[5]
                                   ),
+
                               "close":
                                   clean_number(
                                       row[6]
@@ -278,6 +465,7 @@ jobs:
                               record["close"]
                               is not None
                           ):
+
                               records_by_date[
                                   date
                               ] = record
@@ -293,25 +481,36 @@ jobs:
                       )
 
 
-                  # 不要連續狂打 TWSE
-                  time.sleep(1.5)
+                  time.sleep(
+                      REQUEST_DELAY
+                  )
 
 
               records = list(
                   records_by_date.values()
               )
 
+
               records.sort(
-                  key=lambda x:
-                  x.get("date", "")
+                  key=lambda row:
+                  row.get("date", "")
               )
 
 
-              # 只保留最近 150 個交易日
+              # 最多保留 150 個交易日
               records = records[-150:]
 
 
               history[code] = records
+
+
+              if downloaded_rows > 0:
+
+                  successful_codes += 1
+
+              else:
+
+                  empty_codes += 1
 
 
               print(
@@ -321,6 +520,10 @@ jobs:
               )
 
 
+          # ==========================================
+          # 更新 meta
+          # ==========================================
+
           tz = timezone(
               timedelta(hours=8)
           )
@@ -329,6 +532,7 @@ jobs:
 
 
           history["_meta"] = {
+
               "updated_at":
                   now.isoformat(),
 
@@ -339,7 +543,16 @@ jobs:
                   "Historical daily OHLCV",
 
               "backfill_months":
-                  MONTHS
+                  MONTHS,
+
+              "batch_start":
+                  start_index,
+
+              "batch_end":
+                  end_index,
+
+              "total_securities":
+                  len(stock_codes)
           }
 
 
@@ -357,12 +570,89 @@ jobs:
               )
 
 
+          # ==========================================
+          # 儲存下一批的位置
+          # ==========================================
+
+          cycle_complete = (
+              end_index >= len(stock_codes)
+          )
+
+
+          progress = {
+
+              "updated_at":
+                  now.isoformat(),
+
+              "last_start_index":
+                  start_index,
+
+              "last_end_index":
+                  end_index,
+
+              "next_index":
+                  (
+                      0
+                      if cycle_complete
+                      else end_index
+                  ),
+
+              "total_securities":
+                  len(stock_codes),
+
+              "batch_size":
+                  BATCH_SIZE,
+
+              "cycle_complete":
+                  cycle_complete
+          }
+
+
+          with open(
+              PROGRESS_FILE,
+              "w",
+              encoding="utf-8"
+          ) as f:
+
+              json.dump(
+                  progress,
+                  f,
+                  ensure_ascii=False,
+                  indent=2
+              )
+
+
           print()
           print(
-              "Backfill completed."
+              "============================"
+          )
+
+          print(
+              "Batch completed."
+          )
+
+          print(
+              "Successful codes:",
+              successful_codes
+          )
+
+          print(
+              "Empty codes:",
+              empty_codes
+          )
+
+          print(
+              "Next index:",
+              progress["next_index"]
+          )
+
+          print(
+              "Cycle complete:",
+              cycle_complete
           )
 
           PY
+
 
       - name: Commit historical data
         run: |
@@ -370,10 +660,11 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add data/market_history.json
+          git add data/backfill_progress.json
 
           if git diff --cached --quiet; then
             echo "No history changes"
           else
-            git commit -m "Backfill historical stock data"
+            git commit -m "Backfill historical stock data batch"
             git push
           fi
