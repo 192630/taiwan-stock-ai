@@ -774,6 +774,97 @@ function getStockHistory(code){
 
 }
 
+  /* ---------- 均線計算 ---------- */
+
+function getHistoryClose(row){
+
+  if(Array.isArray(row)){
+    return cleanNumber(row[4]);
+  }
+
+  return cleanNumber(
+    row.close ||
+    row.Close ||
+    row.ClosingPrice ||
+    row["收盤價"]
+  );
+}
+
+
+function calculateMA(history, days){
+
+  if(!Array.isArray(history) || history.length < days){
+    return null;
+  }
+
+  const closes = history
+    .map(getHistoryClose)
+    .filter(value => value > 0);
+
+  if(closes.length < days){
+    return null;
+  }
+
+  const recent = closes.slice(-days);
+
+  const total = recent.reduce(
+    (sum, price) => sum + price,
+    0
+  );
+
+  return total / days;
+}
+
+
+function showHistory(code){
+
+  const box =
+    document.getElementById("historyBox");
+
+  const history =
+    getStockHistory(code);
+
+  if(!history.length){
+
+    box.classList.add("hidden");
+    return;
+  }
+
+  document.getElementById("historyCount").textContent =
+    history.length.toLocaleString("zh-TW") + " 筆";
+
+
+  const ma5 =
+    calculateMA(history, 5);
+
+  const ma20 =
+    calculateMA(history, 20);
+
+  const ma60 =
+    calculateMA(history, 60);
+
+
+  document.getElementById("ma5").textContent =
+    ma5 === null
+      ? "資料不足"
+      : ma5.toFixed(2);
+
+
+  document.getElementById("ma20").textContent =
+    ma20 === null
+      ? "資料不足"
+      : ma20.toFixed(2);
+
+
+  document.getElementById("ma60").textContent =
+    ma60 === null
+      ? "資料不足"
+      : ma60.toFixed(2);
+
+
+  box.classList.remove("hidden");
+}
+
 
 /* ---------- T86 法人欄位 ---------- */
 
@@ -1050,15 +1141,9 @@ function searchStock(){
     "✅ 找到股票 " + code;
 
   showStock(stock);
+
+  showHistory(code);
   
-const history = getStockHistory(code);
-
-console.log(
-  "📈 " + code + " 歷史行情：",
-  history.length + " 筆",
-  history
-);
-
   if(!institutionalReady){
 
     document.getElementById("instStatus").textContent =
