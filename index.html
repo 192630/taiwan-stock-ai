@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="theme-color" content="#111827">
 <title>台股 AI 研究站</title>
-
+<script src="https://cdn.jsdelivr.net/npm/lightweight-charts@4.2.3/dist/lightweight-charts.standalone.production.js"></script>
 <style>
 *{box-sizing:border-box}
 
@@ -307,7 +307,7 @@ footer{
   <div id="historyBox" class="hidden" style="margin-top:20px;">
 
   <h3>📈 歷史行情</h3>
-
+<div id="kChart" style="width:100%; height:360px; margin:16px 0;"></div>
   <div class="info-row">
     <span>歷史資料筆數</span>
     <b id="historyCount">-</b>
@@ -850,6 +850,84 @@ function calculateSupportResistance(history){
     resistance: resistance
   };
 }
+
+let kChart = null;
+let candleSeries = null;
+
+function drawKChart(history){
+
+  const container =
+    document.getElementById("kChart");
+
+  if(!container || !history || !history.length){
+    return;
+  }
+
+  container.innerHTML = "";
+
+  kChart = LightweightCharts.createChart(
+    container,
+    {
+      width: container.clientWidth,
+      height: 360,
+
+      layout: {
+        background: {
+          color: "#ffffff"
+        },
+        textColor: "#475569"
+      },
+
+      grid: {
+        vertLines: {
+          color: "#f1f5f9"
+        },
+        horzLines: {
+          color: "#f1f5f9"
+        }
+      },
+
+      timeScale: {
+        borderColor: "#e2e8f0"
+      },
+
+      rightPriceScale: {
+        borderColor: "#e2e8f0"
+      }
+    }
+  );
+
+  candleSeries =
+    kChart.addCandlestickSeries({
+      upColor: "#dc2626",
+      downColor: "#16a34a",
+      borderUpColor: "#dc2626",
+      borderDownColor: "#16a34a",
+      wickUpColor: "#dc2626",
+      wickDownColor: "#16a34a"
+    });
+
+  const candles =
+    history
+      .map(row => ({
+        time: row.date,
+        open: Number(row.open),
+        high: Number(row.high),
+        low: Number(row.low),
+        close: Number(row.close)
+      }))
+      .filter(row =>
+        row.time &&
+        Number.isFinite(row.open) &&
+        Number.isFinite(row.high) &&
+        Number.isFinite(row.low) &&
+        Number.isFinite(row.close)
+      );
+
+  candleSeries.setData(candles);
+
+  kChart.timeScale().fitContent();
+}
   
 function showHistory(code){
 
@@ -864,7 +942,7 @@ function showHistory(code){
     box.classList.add("hidden");
     return;
   }
-
+drawKChart(history);
   document.getElementById("historyCount").textContent =
     history.length.toLocaleString("zh-TW") + " 筆";
 
