@@ -1,0 +1,379 @@
+name: Backfill Stock History
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Backfill historical stock data
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          import time
+          import urllib.request
+          import urllib.parse
+          from datetime import datetime, timezone, timedelta
+
+          HISTORY_FILE = "data/market_history.json"
+
+          # 先測試這幾檔。
+          # 之後確認成功，再擴充成更多股票。
+          STOCK_CODES = [
+              "2330",
+              "2317",
+              "2454",
+              "2308",
+              "2881"
+          ]
+
+          # 回補最近 6 個月份
+          MONTHS = 6
+
+          def clean_number(value):
+              if value is None:
+                  return None
+
+              text = str(value).strip()
+              text = text.replace(",", "")
+
+              if text in ("", "--", "---", "X"):
+                  return None
+
+              try:
+                  return float(text)
+              except (ValueError, TypeError):
+                  return None
+
+
+          def clean_integer(value):
+              value = clean_number(value)
+
+              if value is None:
+                  return None
+
+              return int(value)
+
+
+          def roc_to_iso(value):
+              """
+              TWSE STOCK_DAY 日期通常為：
+              115/09/17
+              """
+
+              text = str(value).strip()
+
+              try:
+                  parts = text.split("/")
+
+                  if len(parts) != 3:
+                      return text
+
+                  year = int(parts[0]) + 1911
+                  month = int(parts[1])
+                  day = int(parts[2])
+
+                  return f"{year:04d}-{month:02d}-{day:02d}"
+
+              except Exception:
+                  return text
+
+
+          def month_list(count):
+              tz = timezone(timedelta(hours=8))
+              now = datetime.now(tz)
+
+              year = now.year
+              month = now.month
+
+              result = []
+
+              for _ in range(count):
+
+                  result.append(
+                      f"{year:04d}{month:02d}01"
+                  )
+
+                  month -= 1
+
+                  if month == 0:
+                      month = 12
+                      year -= 1
+
+              return result
+
+
+          def download_month(code, date):
+
+              params = urllib.parse.urlencode({
+                  "response": "json",
+                  "date": date,
+                  "stockNo": code
+              })
+
+              url = (
+                  "https://www.twse.com.tw/rwd/zh/"
+                  "afterTrading/STOCK_DAY?"
+                  + params
+              )
+
+              req = urllib.request.Request(
+                  url,
+                  headers={
+                      "User-Agent":
+                      "Mozilla/5.0"
+                  }
+              )
+
+              with urllib.request.urlopen(
+                  req,
+                  timeout=60
+              ) as response:
+
+                  return json.loads(
+                      response.read().decode("utf-8")
+                  )
+
+
+          os.makedirs("data", exist_ok=True)
+
+          if os.path.exists(HISTORY_FILE):
+
+              try:
+                  with open(
+                      HISTORY_FILE,
+                      "r",
+                      encoding="utf-8"
+                  ) as f:
+                      history = json.load(f)
+
+              except Exception:
+                  history = {}
+
+          else:
+              history = {}
+
+
+          if not isinstance(history, dict):
+              history = {}
+
+
+          months = month_list(MONTHS)
+
+          print(
+              "Months:",
+              months
+          )
+
+
+          for code in STOCK_CODES:
+
+              print()
+              print(
+                  "============================"
+              )
+              print(
+                  "Backfilling:",
+                  code
+              )
+
+              records_by_date = {}
+
+
+              # 保留原本已經存在的資料
+              old_records = history.get(
+                  code,
+                  []
+              )
+
+              if isinstance(old_records, list):
+
+                  for row in old_records:
+
+                      if not isinstance(row, dict):
+                          continue
+
+                      date = row.get("date")
+
+                      if date:
+                          records_by_date[date] = row
+
+
+              for month in months:
+
+                  print(
+                      "Downloading",
+                      code,
+                      month
+                  )
+
+                  try:
+
+                      data = download_month(
+                          code,
+                          month
+                      )
+
+                      rows = data.get(
+                          "data",
+                          []
+                      )
+
+                      print(
+                          "Rows:",
+                          len(rows)
+                      )
+
+
+                      for row in rows:
+
+                          if (
+                              not isinstance(row, list)
+                              or len(row) < 7
+                          ):
+                              continue
+
+
+                          date = roc_to_iso(
+                              row[0]
+                          )
+
+
+                          record = {
+                              "date": date,
+                              "volume":
+                                  clean_integer(
+                                      row[1]
+                                  ),
+                              "open":
+                                  clean_number(
+                                      row[3]
+                                  ),
+                              "high":
+                                  clean_number(
+                                      row[4]
+                                  ),
+                              "low":
+                                  clean_number(
+                                      row[5]
+                                  ),
+                              "close":
+                                  clean_number(
+                                      row[6]
+                                  )
+                          }
+
+
+                          if (
+                              record["close"]
+                              is not None
+                          ):
+                              records_by_date[
+                                  date
+                              ] = record
+
+
+                  except Exception as error:
+
+                      print(
+                          "ERROR:",
+                          code,
+                          month,
+                          error
+                      )
+
+
+                  # 不要連續狂打 TWSE
+                  time.sleep(1.5)
+
+
+              records = list(
+                  records_by_date.values()
+              )
+
+              records.sort(
+                  key=lambda x:
+                  x.get("date", "")
+              )
+
+
+              # 只保留最近 150 個交易日
+              records = records[-150:]
+
+
+              history[code] = records
+
+
+              print(
+                  code,
+                  "total records:",
+                  len(records)
+              )
+
+
+          tz = timezone(
+              timedelta(hours=8)
+          )
+
+          now = datetime.now(tz)
+
+
+          history["_meta"] = {
+              "updated_at":
+                  now.isoformat(),
+
+              "source":
+                  "Taiwan Stock Exchange (TWSE)",
+
+              "description":
+                  "Historical daily OHLCV",
+
+              "backfill_months":
+                  MONTHS
+          }
+
+
+          with open(
+              HISTORY_FILE,
+              "w",
+              encoding="utf-8"
+          ) as f:
+
+              json.dump(
+                  history,
+                  f,
+                  ensure_ascii=False,
+                  indent=2
+              )
+
+
+          print()
+          print(
+              "Backfill completed."
+          )
+
+          PY
+
+      - name: Commit historical data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/market_history.json
+
+          if git diff --cached --quiet; then
+            echo "No history changes"
+          else
+            git commit -m "Backfill historical stock data"
+            git push
+          fi
