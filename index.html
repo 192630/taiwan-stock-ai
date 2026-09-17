@@ -259,10 +259,12 @@ footer{
 
   <div class="search">
     <input
-      id="q"
-      inputmode="numeric"
-      placeholder="輸入股票代號，例如 2330"
-    >
+  id="q"
+  type="search"
+  autocapitalize="characters"
+  autocomplete="off"
+  placeholder="輸入代號或名稱，例如 2330、00981A、台積電"
+>
     <button onclick="searchStock()">搜尋</button>
     <button onclick="searchPressure()">📍 壓力支撐</button>
   </div>
@@ -665,30 +667,76 @@ async function loadMarketHistory(){
 
 /* ---------- 找股票 ---------- */
 
+
+
 function getStockCode(row){
 
   if(Array.isArray(row)){
+
     return String(row[0] || "").trim();
+
   }
 
   return String(
+
     row.Code ||
+
     row.code ||
+
     row["證券代號"] ||
+
     row["股票代號"] ||
+
     ""
+
   ).trim();
+
 }
 
+function findStock(query){
 
-function findStock(code){
+  const keyword =
 
-  return stocks.find(row =>
-    getStockCode(row) === code
-  );
+    String(query || "")
+
+      .trim()
+
+      .toUpperCase();
+
+  return stocks.find(row => {
+
+    const values =
+
+      getStockValues(row);
+
+    const code =
+
+      String(values.code || "")
+
+        .trim()
+
+        .toUpperCase();
+
+    const name =
+
+      String(values.name || "")
+
+        .trim()
+
+        .toUpperCase();
+
+    return (
+  code === keyword ||
+  name === keyword ||
+  name.includes(keyword)
+);
+
+    
+
+  });
+
 }
-
-
+  
 /* ---------- 股票欄位 ---------- */
 
 function getStockValues(row){
@@ -1262,7 +1310,10 @@ if(rawInput.startsWith("P")){
 
   const stock =
     findStock(code);
-
+if(stock){
+  const stockValues = getStockValues(stock);
+  code = String(stockValues.code || "").trim();
+}
   if(!stock){
 
     document
