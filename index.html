@@ -87,7 +87,67 @@ button{
   color:#64748b;
   font-size:15px;
 }
+.search-area{
+  position:relative;
+}
 
+.search-suggestions{
+  margin-top:8px;
+  background:white;
+  border:1px solid #e2e8f0;
+  border-radius:14px;
+  overflow:hidden;
+  box-shadow:0 10px 25px rgba(15,23,42,.12);
+}
+
+.suggestion-item{
+  width:100%;
+  border:0;
+  border-bottom:1px solid #f1f5f9;
+  border-radius:0;
+  background:white;
+  color:#111827;
+  padding:13px 15px;
+  text-align:left;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:12px;
+  font-size:16px;
+  font-weight:400;
+}
+
+.suggestion-item:last-child{
+  border-bottom:0;
+}
+
+.suggestion-item:active{
+  background:#f1f5f9;
+}
+
+.suggestion-name{
+  font-weight:800;
+  overflow:hidden;
+  text-overflow:ellipsis;
+  white-space:nowrap;
+}
+
+.suggestion-code{
+  flex-shrink:0;
+  color:#64748b;
+  font-size:14px;
+  font-weight:700;
+  background:#f1f5f9;
+  padding:5px 8px;
+  border-radius:8px;
+}
+
+.suggestion-empty{
+  padding:14px 15px;
+  color:#64748b;
+  font-size:14px;
+}
+  
 .stock-head{
   margin-top:20px;
 }
@@ -257,19 +317,25 @@ footer{
 <section class="card">
   <h2>🔎 股票搜尋</h2>
 
+  <div class="search-area">
+
   <div class="search">
     <input
-  id="q"
-  type="search"
-  autocapitalize="characters"
-  autocomplete="off"
-  placeholder="輸入代號或名稱，例如 2330、00981A、台積電"
->
+      id="q"
+      type="search"
+      autocapitalize="characters"
+      autocomplete="off"
+      placeholder="輸入代號或名稱，例如 2330、00981A、台積電"
+    >
     <button onclick="searchStock()">搜尋</button>
     <button onclick="searchPressure()">📍 壓力支撐</button>
   </div>
 
-  <div id="stockStatus" class="status">
+  <div id="searchSuggestions" class="search-suggestions hidden"></div>
+
+</div>
+
+<div id="stockStatus" class="status">
     股票資料載入中...
   </div>
 
@@ -1374,17 +1440,236 @@ if(mode === "pressure"){
 }
 
 
-/* ---------- Enter 搜尋 ---------- */
+/* ---------- 即時搜尋建議 ---------- */
 
-document
-  .getElementById("q")
-  .addEventListener("keydown",function(event){
+const searchInput =
+  document.getElementById("q");
 
-    if(event.key === "Enter"){
-      searchStock();
+const searchSuggestions =
+  document.getElementById("searchSuggestions");
+
+
+function hideSearchSuggestions(){
+
+  searchSuggestions.classList.add("hidden");
+  searchSuggestions.innerHTML = "";
+
+}
+
+
+function getSearchMatches(keyword){
+
+  const query =
+    String(keyword || "")
+      .trim()
+      .toUpperCase();
+
+  if(!query){
+    return [];
+  }
+
+  const exactMatches = [];
+  const startMatches = [];
+  const otherMatches = [];
+
+  stocks.forEach(row => {
+
+    const values =
+      getStockValues(row);
+
+    const code =
+      String(values.code || "")
+        .trim()
+        .toUpperCase();
+
+    const name =
+      String(values.name || "")
+        .trim();
+
+    const upperName =
+      name.toUpperCase();
+
+    if(!code || !name){
+      return;
+    }
+
+    if(
+      code === query ||
+      upperName === query
+    ){
+      exactMatches.push({
+        code: code,
+        name: name
+      });
+
+      return;
+    }
+
+    if(
+      code.startsWith(query) ||
+      upperName.startsWith(query)
+    ){
+      startMatches.push({
+        code: code,
+        name: name
+      });
+
+      return;
+    }
+
+    if(
+      code.includes(query) ||
+      upperName.includes(query)
+    ){
+      otherMatches.push({
+        code: code,
+        name: name
+      });
     }
 
   });
+
+  return [
+    ...exactMatches,
+    ...startMatches,
+    ...otherMatches
+  ].slice(0,8);
+
+}
+
+
+function showSearchSuggestions(){
+
+  const keyword =
+    searchInput.value.trim();
+
+  if(!keyword || !stockDataReady){
+
+    hideSearchSuggestions();
+    return;
+  }
+
+  const matches =
+    getSearchMatches(keyword);
+
+  searchSuggestions.innerHTML = "";
+
+  if(!matches.length){
+
+    const empty =
+      document.createElement("div");
+
+    empty.className =
+      "suggestion-empty";
+
+    empty.textContent =
+      "找不到相關股票或 ETF";
+
+    searchSuggestions.appendChild(empty);
+    searchSuggestions.classList.remove("hidden");
+
+    return;
+  }
+
+
+  matches.forEach(item => {
+
+    const button =
+      document.createElement("button");
+
+    button.type = "button";
+    button.className =
+      "suggestion-item";
+
+
+    const name =
+      document.createElement("span");
+
+    name.className =
+      "suggestion-name";
+
+    name.textContent =
+      item.name;
+
+
+    const code =
+      document.createElement("span");
+
+    code.className =
+      "suggestion-code";
+
+    code.textContent =
+      item.code;
+
+
+    button.appendChild(name);
+    button.appendChild(code);
+
+
+    button.addEventListener(
+      "click",
+      function(){
+
+        searchInput.value =
+          item.code;
+
+        hideSearchSuggestions();
+
+        searchStock();
+
+      }
+    );
+
+
+    searchSuggestions.appendChild(button);
+
+  });
+
+
+  searchSuggestions.classList.remove("hidden");
+
+}
+
+
+/* ---------- 搜尋框事件 ---------- */
+
+searchInput.addEventListener(
+  "input",
+  showSearchSuggestions
+);
+
+
+searchInput.addEventListener(
+  "keydown",
+  function(event){
+
+    if(event.key === "Enter"){
+
+      hideSearchSuggestions();
+
+      searchStock();
+
+    }
+
+  }
+);
+
+
+/* 點搜尋框以外的地方時收起候選 */
+
+document.addEventListener(
+  "click",
+  function(event){
+
+    if(
+      !searchInput.contains(event.target) &&
+      !searchSuggestions.contains(event.target)
+    ){
+      hideSearchSuggestions();
+    }
+
+  }
+);
 
 
 /* ---------- 啟動 ---------- */
