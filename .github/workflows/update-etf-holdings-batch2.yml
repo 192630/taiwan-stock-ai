@@ -1,0 +1,2256 @@
+name: Update Active ETF Holdings Batch 2
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 台灣時間週一～週五 23:00
+    # 與原本 22:30 的主 workflow 錯開
+    - cron: "0 15 * * 1-5"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install Python packages
+        run: |
+          pip install requests beautifulsoup4 pandas openpyxl
+
+      - name: Fetch batch 2 active ETF holdings
+        run: |
+          python - <<'PY'
+          import io
+          import json
+          import os
+          import re
+          import requests
+          import urllib3
+          import openpyxl
+          import pandas as pd
+
+          from bs4 import BeautifulSoup
+          from datetime import datetime, timezone, timedelta
+
+          urllib3.disable_warnings(
+              urllib3.exceptions.InsecureRequestWarning
+          )
+
+          OUTPUT_FILE = "data/active_etf_holdings.json"
+          HISTORY_DIR = "data/active_etf_holdings_history"
+
+          os.makedirs("data", exist_ok=True)
+          os.makedirs(HISTORY_DIR, exist_ok=True)
+
+          tz = timezone(timedelta(hours=8))
+          now = datetime.now(tz)
+
+          # =========================================
+          # 共用
+          # =========================================
+
+          def to_number(value):
+
+              if value is None:
+                  return 0
+
+              text = (
+                  str(value)
+                  .strip()
+                  .replace(",", "")
+                  .replace("%", "")
+                  .replace(" ", "")
+              )
+
+              if text in (
+                  "",
+                  "-",
+                  "--",
+                  "nan",
+                  "None"
+              ):
+                  return 0
+
+              try:
+                  return float(text)
+              except Exception:
+                  return 0
+
+
+          def to_integer(value):
+
+              try:
+                  return int(
+                      float(
+                          str(value)
+                          .replace(",", "")
+                          .strip()
+                      )
+                  )
+              except Exception:
+                  return 0
+
+
+          HEADERS = {
+
+              "User-Agent":
+                  "Mozilla/5.0 "
+                  "(Windows NT 10.0; Win64; x64) "
+                  "AppleWebKit/537.36 "
+                  "(KHTML, like Gecko) "
+                  "Chrome/120.0.0.0 Safari/537.36",
+
+              "Accept-Language":
+                  "zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7"
+          }
+
+
+          # =========================================
+          # 讀現有資料
+          # =========================================
+
+          if os.path.exists(OUTPUT_FILE):
+
+              try:
+
+                  with open(
+                      OUTPUT_FILE,
+                      "r",
+                      encoding="utf-8"
+                  ) as f:
+
+                      output = json.load(f)
+
+              except Exception:
+
+                  output = {}
+
+          else:
+
+              output = {}
+
+
+          if not isinstance(output, dict):
+              output = {}
+
+          if not isinstance(
+              output.get("etfs"),
+              dict
+          ):
+              output["etfs"] = {}
+
+
+          successful_results = []
+
+
+          def save_success(result):
+
+              output["etfs"][
+                  result["code"]
+              ] = result
+
+              successful_results.append(
+                  result
+              )
+
+              print()
+              print(
+                  "SUCCESS:",
+                  result["code"],
+                  result["holding_count"],
+                  "holdings"
+              )
+
+
+          def save_failure(
+              code,
+              name,
+              issuer,
+              source,
+              error
+          ):
+
+              print()
+              print(
+                  "FAILED:",
+                  code,
+                  error
+              )
+
+              old = (
+                  output["etfs"]
+                  .get(
+                      code,
+                      {}
+                  )
+              )
+
+              # 以前成功過就保留舊資料
+              if old.get("holdings"):
+
+                  old[
+                      "last_fetch_status"
+                  ] = "failed"
+
+                  old[
+                      "last_fetch_error"
+                  ] = str(error)
+
+                  output["etfs"][
+                      code
+                  ] = old
+
+              else:
+
+                  output["etfs"][
+                      code
+                  ] = {
+
+                      "code":
+                          code,
+
+                      "name":
+                          name,
+
+                      "issuer":
+                          issuer,
+
+                      "holdings_date":
+                          None,
+
+                      "source":
+                          source,
+
+                      "status":
+                          "fetch_failed",
+
+                      "holding_count":
+                          0,
+
+                      "holdings":
+                          [],
+
+                      "last_fetch_error":
+                          str(error)
+                  }
+
+
+          def build_result(
+              code,
+              name,
+              issuer,
+              source,
+              holdings_date,
+              holdings
+          ):
+
+              holdings.sort(
+                  key=lambda item:
+                      item.get(
+                          "weight",
+                          0
+                      ),
+                  reverse=True
+              )
+
+              return {
+
+                  "code":
+                      code,
+
+                  "name":
+                      name,
+
+                  "issuer":
+                      issuer,
+
+                  "holdings_date":
+                      holdings_date,
+
+                  "source":
+                      source,
+
+                  "status":
+                      "success",
+
+                  "holding_count":
+                      len(holdings),
+
+                  "holdings":
+                      holdings
+              }
+
+
+          # =========================================
+          # 群益
+          #
+          # 00982A -> 399
+          # 00992A -> 500
+          #
+          # API 的 data.pcf.date2
+          # 才是持股基準日
+          # =========================================
+
+          CAPITAL_ETFS = {
+
+              "00982A": {
+                  "fund_id": "399",
+                  "name": "主動群益台灣強棒"
+              },
+
+              "00992A": {
+                  "fund_id": "500",
+                  "name": "主動群益科技創新"
+              }
+          }
+
+
+          def fetch_capital(
+              etf_code,
+              fund_id,
+              etf_name
+          ):
+
+              url = (
+                  "https://www.capitalfund.com.tw"
+                  "/CFWeb/api/etf/buyback"
+              )
+
+              referer = (
+                  "https://www.capitalfund.com.tw"
+                  f"/etf/product/detail/{fund_id}/portfolio"
+              )
+
+              print()
+              print(
+                  "Capital:",
+                  etf_code
+              )
+
+              response = requests.post(
+
+                  url,
+
+                  json={
+                      "fundId":
+                          fund_id
+                  },
+
+                  headers={
+                      **HEADERS,
+                      "Accept":
+                          "application/json",
+                      "Referer":
+                          referer
+                  },
+
+                  timeout=30,
+
+                  verify=False
+              )
+
+              print(
+                  "HTTP:",
+                  response.status_code
+              )
+
+              response.raise_for_status()
+
+              payload = response.json()
+
+              data = (
+                  payload.get("data")
+                  or {}
+              )
+
+              stocks = (
+                  data.get("stocks")
+                  or []
+              )
+
+              date2 = str(
+                  (
+                      data.get("pcf")
+                      or {}
+                  ).get("date2")
+                  or ""
+              ).strip()
+
+              if re.fullmatch(
+                  r"20\d{2}-\d{2}-\d{2}",
+                  date2
+              ):
+
+                  actual_date = date2
+
+              else:
+
+                  actual_date = (
+                      now.strftime(
+                          "%Y-%m-%d"
+                      )
+                  )
+
+
+              holdings = []
+
+              for row in stocks:
+
+                  code = str(
+                      row.get("stocNo")
+                      or ""
+                  ).strip()
+
+                  if not (
+                      code.isdigit()
+                      and len(code) == 4
+                  ):
+                      continue
+
+                  holdings.append({
+
+                      "code":
+                          code,
+
+                      "name":
+                          str(
+                              row.get(
+                                  "stocName"
+                              )
+                              or ""
+                          ).strip(),
+
+                      "shares":
+                          to_integer(
+                              row.get(
+                                  "share"
+                              )
+                          ),
+
+                      "weight":
+                          to_number(
+                              row.get(
+                                  "weight"
+                              )
+                          )
+                  })
+
+
+              if not holdings:
+
+                  raise RuntimeError(
+                      "群益 API 沒有股票持股"
+                  )
+
+
+              return build_result(
+
+                  etf_code,
+
+                  etf_name,
+
+                  "群益投信",
+
+                  "Capital Investment Trust",
+
+                  actual_date,
+
+                  holdings
+              )
+
+
+          # =========================================
+          # 復華
+          #
+          # 00991A -> ETF23
+          #
+          # 官方直接提供日期式 Excel API
+          # =========================================
+
+          def fetch_fhtrust():
+
+              ETF_CODE = "00991A"
+              ETF_NAME = "主動復華未來50"
+              FUND_ID = "ETF23"
+
+              session = requests.Session()
+
+              for days_back in range(0, 10):
+
+                  target_date = (
+                      now -
+                      timedelta(
+                          days=days_back
+                      )
+                  )
+
+                  target = (
+                      target_date
+                      .strftime(
+                          "%Y-%m-%d"
+                      )
+                  )
+
+                  date_str = (
+                      target_date
+                      .strftime(
+                          "%Y%m%d"
+                      )
+                  )
+
+                  url = (
+                      "https://www.fhtrust.com.tw"
+                      f"/api/assetsExcel/{FUND_ID}/{date_str}"
+                  )
+
+                  print()
+                  print(
+                      "FHTrust:",
+                      ETF_CODE,
+                      target
+                  )
+
+                  try:
+
+                      response = session.get(
+
+                          url,
+
+                          headers=HEADERS,
+
+                          timeout=30
+                      )
+
+                      print(
+                          "HTTP:",
+                          response.status_code
+                      )
+
+                      if (
+                          response.status_code
+                          != 200
+                      ):
+                          continue
+
+                      if (
+                          not response.content
+                          or response.content[:2]
+                          != b"PK"
+                      ):
+                          continue
+
+
+                      df = pd.read_excel(
+
+                          io.BytesIO(
+                              response.content
+                          ),
+
+                          skiprows=10,
+
+                          engine="openpyxl"
+                      )
+
+
+                      required = [
+                          "證券代號",
+                          "證券名稱",
+                          "股數",
+                          "權重(%)"
+                      ]
+
+
+                      if not all(
+                          column in df.columns
+                          for column in required
+                      ):
+                          continue
+
+
+                      holdings = []
+
+
+                      for _, row in df.iterrows():
+
+                          code = str(
+                              row[
+                                  "證券代號"
+                              ]
+                          ).strip()
+
+                          # Excel 有時把代號讀成 2330.0
+                          if code.endswith(
+                              ".0"
+                          ):
+                              code = code[:-2]
+
+                          if not (
+                              code.isdigit()
+                              and len(code) == 4
+                          ):
+                              continue
+
+
+                          holdings.append({
+
+                              "code":
+                                  code,
+
+                              "name":
+                                  str(
+                                      row[
+                                          "證券名稱"
+                                      ]
+                                  ).strip(),
+
+                              "shares":
+                                  to_integer(
+                                      row[
+                                          "股數"
+                                      ]
+                                  ),
+
+                              "weight":
+                                  to_number(
+                                      row[
+                                          "權重(%)"
+                                      ]
+                                  )
+                          })
+
+
+                      if holdings:
+
+                          return build_result(
+
+                              ETF_CODE,
+
+                              ETF_NAME,
+
+                              "復華投信",
+
+                              "Fuh Hwa Securities Investment Trust",
+
+                              target,
+
+                              holdings
+                          )
+
+
+                  except Exception as error:
+
+                      print(
+                          "FHTrust request error:",
+                          error
+                      )
+
+
+              raise RuntimeError(
+                  "00991A 最近 10 天找不到持股"
+              )
+
+
+          # =========================================
+          # 第一金
+          #
+          # 00994A -> 182
+          # 00408A -> 183
+          #
+          # API 的 sdate 是真正資料日期
+          # =========================================
+
+          FSITC_ETFS = {
+
+              "00994A": {
+                  "fund_id": "182",
+                  "name": "主動第一金台股優"
+              },
+
+              "00408A": {
+                  "fund_id": "183",
+                  "name": "主動第一金優股息"
+              }
+          }
+
+
+          def parse_fsitc_rows(
+              rows,
+              fallback_date
+          ):
+
+              if not isinstance(
+                  rows,
+                  list
+              ):
+                  return (
+                      [],
+                      fallback_date
+                  )
+
+
+              actual_date = (
+                  fallback_date
+              )
+
+
+              if rows:
+
+                  first = rows[0]
+
+                  if isinstance(
+                      first,
+                      dict
+                  ):
+
+                      sdate = first.get(
+                          "sdate"
+                      )
+
+                      if sdate:
+
+                          actual_date = str(
+                              sdate
+                          ).strip()
+
+
+              holdings = []
+
+
+              for row in rows:
+
+                  if not isinstance(
+                      row,
+                      dict
+                  ):
+                      continue
+
+
+                  code = (
+                      row.get("A")
+                      or row.get(
+                          "StockCode"
+                      )
+                      or row.get(
+                          "Code"
+                      )
+                  )
+
+                  name = (
+                      row.get("B")
+                      or row.get(
+                          "StockName"
+                      )
+                      or row.get(
+                          "Name"
+                      )
+                  )
+
+                  weight = (
+                      row.get("C")
+                      or row.get(
+                          "Rate"
+                      )
+                      or row.get(
+                          "Weight"
+                      )
+                  )
+
+                  shares = (
+                      row.get("D")
+                      or row.get(
+                          "Sheets"
+                      )
+                      or row.get(
+                          "Shares"
+                      )
+                  )
+
+
+                  code = str(
+                      code
+                      or ""
+                  ).strip()
+
+
+                  if not (
+                      code.isdigit()
+                      and len(code) == 4
+                  ):
+                      continue
+
+
+                  holdings.append({
+
+                      "code":
+                          code,
+
+                      "name":
+                          str(
+                              name
+                              or ""
+                          ).strip(),
+
+                      "shares":
+                          to_integer(
+                              shares
+                          ),
+
+                      "weight":
+                          to_number(
+                              weight
+                          )
+                  })
+
+
+              return (
+                  holdings,
+                  actual_date
+              )
+
+
+          def fetch_fsitc(
+              etf_code,
+              fund_id,
+              etf_name
+          ):
+
+              url = (
+                  "https://www.fsitc.com.tw"
+                  "/WebAPI.aspx/Get_hd"
+              )
+
+
+              for days_back in range(
+                  0,
+                  10
+              ):
+
+                  target = (
+                      now -
+                      timedelta(
+                          days=days_back
+                      )
+                  ).strftime(
+                      "%Y-%m-%d"
+                  )
+
+                  print()
+                  print(
+                      "FSITC:",
+                      etf_code,
+                      target
+                  )
+
+
+                  response = requests.post(
+
+                      url,
+
+                      json={
+                          "pStrFundID":
+                              fund_id,
+                          "pStrDate":
+                              target
+                      },
+
+                      headers={
+                          **HEADERS,
+                          "Content-Type":
+                              "application/json; charset=UTF-8"
+                      },
+
+                      timeout=20,
+
+                      verify=False
+                  )
+
+
+                  print(
+                      "HTTP:",
+                      response.status_code
+                  )
+
+
+                  if (
+                      response.status_code
+                      != 200
+                  ):
+                      continue
+
+
+                  data = response.json()
+
+                  result = (
+                      data.get("d")
+                      if isinstance(
+                          data,
+                          dict
+                      )
+                      else data
+                  )
+
+
+                  if isinstance(
+                      result,
+                      str
+                  ):
+
+                      try:
+
+                          result = json.loads(
+                              result
+                          )
+
+                      except Exception:
+
+                          continue
+
+
+                  holdings, actual_date = (
+                      parse_fsitc_rows(
+                          result,
+                          target
+                      )
+                  )
+
+
+                  if holdings:
+
+                      return build_result(
+
+                          etf_code,
+
+                          etf_name,
+
+                          "第一金投信",
+
+                          "First Securities Investment Trust",
+
+                          actual_date,
+
+                          holdings
+                      )
+
+
+              raise RuntimeError(
+                  etf_code +
+                  " 最近 10 天找不到持股"
+              )
+
+
+          # =========================================
+          # 台新 00987A
+          #
+          # 官方頁是 SSR
+          # 注意不能用 PUB_DATE
+          # 資料日期藏在「YYYY/M/D每基數...」
+          # =========================================
+
+          def fetch_tsit():
+
+              ETF_CODE = "00987A"
+              ETF_NAME = "主動台新優勢成長"
+
+              url = (
+                  "https://www.tsit.com.tw"
+                  f"/ETF/Home/Pcf/{ETF_CODE}"
+              )
+
+              print()
+              print(
+                  "TSIT:",
+                  ETF_CODE
+              )
+
+
+              response = requests.get(
+
+                  url,
+
+                  headers=HEADERS,
+
+                  timeout=20,
+
+                  verify=False
+              )
+
+
+              print(
+                  "HTTP:",
+                  response.status_code
+              )
+
+
+              response.raise_for_status()
+
+              soup = BeautifulSoup(
+                  response.text,
+                  "html.parser"
+              )
+
+
+              fallback = (
+                  now.strftime(
+                      "%Y-%m-%d"
+                  )
+              )
+
+
+              found_dates = set()
+
+
+              for th in soup.find_all(
+                  "th"
+              ):
+
+                  text = th.get_text(
+                      " ",
+                      strip=True
+                  )
+
+                  match = re.search(
+
+                      r"(20\d{2})"
+                      r"/(\d{1,2})"
+                      r"/(\d{1,2})"
+                      r"\s*每基數",
+
+                      text
+                  )
+
+
+                  if match:
+
+                      year, month, day = (
+                          match.groups()
+                      )
+
+                      found_dates.add(
+
+                          f"{year}-"
+                          f"{int(month):02d}-"
+                          f"{int(day):02d}"
+                      )
+
+
+              if len(found_dates) == 1:
+
+                  actual_date = (
+                      found_dates.pop()
+                  )
+
+              else:
+
+                  actual_date = fallback
+
+
+              stock_table = None
+
+
+              for table in soup.find_all(
+                  "table"
+              ):
+
+                  header_text = " ".join(
+
+                      th.get_text(
+                          strip=True
+                      )
+
+                      for th
+                      in table.find_all(
+                          "th"
+                      )
+                  )
+
+
+                  if (
+                      "股數" in header_text
+                      and
+                      "權重" in header_text
+                      and
+                      "口數" not in header_text
+                  ):
+
+                      stock_table = table
+                      break
+
+
+              if stock_table is None:
+
+                  raise RuntimeError(
+                      "台新找不到股票持股表"
+                  )
+
+
+              holdings = []
+
+
+              for row in stock_table.find_all(
+                  "tr"
+              ):
+
+                  cols = row.find_all(
+                      "td"
+                  )
+
+
+                  if len(cols) < 4:
+                      continue
+
+
+                  code = (
+                      cols[0]
+                      .get_text(strip=True)
+                      .split(" ")[0]
+                  )
+
+                  name = (
+                      cols[1]
+                      .get_text(strip=True)
+                  )
+
+
+                  if not (
+                      code.isdigit()
+                      and len(code) == 4
+                  ):
+                      continue
+
+
+                  if "合計" in name:
+                      continue
+
+
+                  holdings.append({
+
+                      "code":
+                          code,
+
+                      "name":
+                          name,
+
+                      "shares":
+                          to_integer(
+                              cols[2]
+                              .get_text(
+                                  strip=True
+                              )
+                          ),
+
+                      "weight":
+                          to_number(
+                              cols[3]
+                              .get_text(
+                                  strip=True
+                              )
+                          )
+                  })
+
+
+              if not holdings:
+
+                  raise RuntimeError(
+                      "00987A 沒有解析到股票持股"
+                  )
+
+
+              return build_result(
+
+                  ETF_CODE,
+
+                  ETF_NAME,
+
+                  "台新投信",
+
+                  "Taishin Securities Investment Trust",
+
+                  actual_date,
+
+                  holdings
+              )
+
+
+          # =========================================
+          # 摩根 00401A
+          #
+          # 官方 PCF xlsx
+          # =========================================
+
+          def fetch_morgan():
+
+              ETF_CODE = "00401A"
+              ETF_NAME = "主動摩根台灣鑫收"
+              ISIN = "TW00000401A1"
+
+              url = (
+
+                  "https://am.jpmorgan.com/content/dam/"
+                  "jpm-am-aem/asiapacific/tw/zh/"
+                  "regulatory/etf-supplement/"
+                  "jpm_apac_tw_etf_pcf_updates_"
+                  f"{ETF_CODE}_{ISIN}.xlsx"
+              )
+
+
+              referer = (
+
+                  "https://am.jpmorgan.com/tw/zh/"
+                  "asset-management/twetf/products/"
+                  "jpmorgan-taiwan-taiwan-equity-"
+                  "high-income-active-etf-"
+                  f"{ISIN.lower()}"
+              )
+
+
+              print()
+              print(
+                  "Morgan:",
+                  ETF_CODE
+              )
+
+
+              response = requests.get(
+
+                  url,
+
+                  headers={
+                      **HEADERS,
+                      "Accept":
+                          "application/vnd.openxmlformats-officedocument."
+                          "spreadsheetml.sheet,*/*",
+                      "Referer":
+                          referer
+                  },
+
+                  timeout=30
+              )
+
+
+              print(
+                  "HTTP:",
+                  response.status_code
+              )
+
+
+              response.raise_for_status()
+
+
+              if (
+                  not response.content
+                  or response.content[:2]
+                  != b"PK"
+              ):
+
+                  raise RuntimeError(
+                      "摩根回應不是 xlsx"
+                  )
+
+
+              workbook = (
+                  openpyxl.load_workbook(
+
+                      io.BytesIO(
+                          response.content
+                      ),
+
+                      data_only=True,
+
+                      read_only=True
+                  )
+              )
+
+
+              sheet = workbook[
+                  workbook.sheetnames[0]
+              ]
+
+              rows = list(
+                  sheet.iter_rows(
+                      values_only=True
+                  )
+              )
+
+
+              if len(rows) < 4:
+
+                  raise RuntimeError(
+                      "摩根 Excel 資料不足"
+                  )
+
+
+              fund_header = rows[0]
+              fund_data = rows[1]
+
+              fund_row = dict(
+                  zip(
+                      fund_header,
+                      fund_data
+                  )
+              )
+
+
+              raw_date = str(
+                  fund_row.get(
+                      "Valuation Date"
+                  )
+                  or ""
+              ).strip()
+
+
+              today = now.strftime(
+                  "%Y-%m-%d"
+              )
+
+
+              valuation_date = ""
+
+
+              if (
+                  len(raw_date) == 8
+                  and raw_date.isdigit()
+              ):
+
+                  valuation_date = (
+
+                      raw_date[0:4]
+                      + "-"
+                      + raw_date[4:6]
+                      + "-"
+                      + raw_date[6:8]
+                  )
+
+
+              # PCF Valuation Date 可能是下一交易日。
+              # 若比今天晚，真正持股日仍以今天保存。
+              if (
+                  valuation_date
+                  and valuation_date <= today
+              ):
+
+                  actual_date = (
+                      valuation_date
+                  )
+
+              else:
+
+                  actual_date = today
+
+
+              total_market_value = (
+                  fund_row.get(
+                      "Estimated Total Market Value"
+                  )
+                  or 0
+              )
+
+
+              cons_header = rows[2]
+
+              col = {
+
+                  name:
+                      index
+
+                  for index, name
+                  in enumerate(
+                      cons_header
+                  )
+
+                  if name
+              }
+
+
+              required = [
+
+                  "Constituent Ticker",
+                  "Constituent Description",
+                  "Shares or PAR Amount",
+                  "Market Value Base",
+                  "Record Type"
+              ]
+
+
+              if not all(
+                  key in col
+                  for key in required
+              ):
+
+                  raise RuntimeError(
+                      "摩根 Excel 欄位變更"
+                  )
+
+
+              holdings = []
+
+
+              for row in rows[3:]:
+
+                  if not row:
+                      continue
+
+
+                  if (
+                      row[
+                          col[
+                              "Record Type"
+                          ]
+                      ]
+                      != "D"
+                  ):
+                      continue
+
+
+                  ticker = row[
+                      col[
+                          "Constituent Ticker"
+                      ]
+                  ]
+
+
+                  if not ticker:
+                      continue
+
+
+                  code = (
+                      str(ticker)
+                      .strip()
+                      .split(" ")[0]
+                  )
+
+
+                  if not (
+                      code.isdigit()
+                      and len(code) == 4
+                  ):
+                      continue
+
+
+                  name = str(
+                      row[
+                          col[
+                              "Constituent Description"
+                          ]
+                      ]
+                      or ""
+                  ).strip()
+
+
+                  shares = to_integer(
+
+                      row[
+                          col[
+                              "Shares or PAR Amount"
+                          ]
+                      ]
+                  )
+
+
+                  market_value = to_number(
+
+                      row[
+                          col[
+                              "Market Value Base"
+                          ]
+                      ]
+                  )
+
+
+                  weight = 0
+
+
+                  try:
+
+                      if total_market_value:
+
+                          weight = round(
+
+                              market_value
+                              / float(
+                                  total_market_value
+                              )
+                              * 100,
+
+                              4
+                          )
+
+                  except Exception:
+
+                      weight = 0
+
+
+                  holdings.append({
+
+                      "code":
+                          code,
+
+                      "name":
+                          name,
+
+                      "shares":
+                          shares,
+
+                      "weight":
+                          weight,
+
+                      "market_value":
+                          market_value
+                  })
+
+
+              if not holdings:
+
+                  raise RuntimeError(
+                      "00401A 沒有解析到股票持股"
+                  )
+
+
+              return build_result(
+
+                  ETF_CODE,
+
+                  ETF_NAME,
+
+                  "摩根投信",
+
+                  "J.P. Morgan Asset Management Taiwan",
+
+                  actual_date,
+
+                  holdings
+              )
+
+
+          # =========================================
+          # 聯博 00404A
+          #
+          # 官方 holdings xlsx
+          # 日期從下載檔名取得
+          # =========================================
+
+          def fetch_abfunds():
+
+              ETF_CODE = "00404A"
+              ETF_NAME = "主動聯博動能50"
+
+              SHARE_CLASS_ID = (
+                  "TW00000404A5"
+              )
+
+
+              url = (
+
+                  "https://webapi.alliancebernstein.com/"
+                  "v2/funds/tw/zh-tw/investor/"
+                  f"{SHARE_CLASS_ID}/xls"
+                  "?type=holdings&prec=2"
+              )
+
+
+              referer = (
+
+                  "https://www.abfunds.com.tw/"
+                  "zh-tw/etfs/"
+                  f"pcf.{SHARE_CLASS_ID}.html"
+              )
+
+
+              print()
+              print(
+                  "AllianceBernstein:",
+                  ETF_CODE
+              )
+
+
+              response = requests.get(
+
+                  url,
+
+                  headers={
+                      **HEADERS,
+                      "Accept":
+                          "application/vnd.openxmlformats-officedocument."
+                          "spreadsheetml.sheet,*/*",
+                      "Referer":
+                          referer
+                  },
+
+                  timeout=30,
+
+                  verify=False
+              )
+
+
+              print(
+                  "HTTP:",
+                  response.status_code
+              )
+
+
+              response.raise_for_status()
+
+
+              if (
+                  not response.content
+                  or response.content[:2]
+                  != b"PK"
+              ):
+
+                  raise RuntimeError(
+                      "聯博回應不是 xlsx"
+                  )
+
+
+              disposition = (
+                  response.headers
+                  .get(
+                      "content-disposition",
+                      ""
+                  )
+              )
+
+
+              match = re.search(
+                  r"(20\d{2}-\d{2}-\d{2})",
+                  disposition
+              )
+
+
+              if match:
+
+                  actual_date = (
+                      match.group(1)
+                  )
+
+              else:
+
+                  actual_date = (
+                      now.strftime(
+                          "%Y-%m-%d"
+                      )
+                  )
+
+
+              workbook = (
+                  openpyxl.load_workbook(
+
+                      io.BytesIO(
+                          response.content
+                      ),
+
+                      data_only=True,
+
+                      read_only=True
+                  )
+              )
+
+
+              rows = list(
+
+                  workbook[
+                      workbook.sheetnames[0]
+                  ].iter_rows(
+                      values_only=True
+                  )
+              )
+
+
+              header_index = None
+
+
+              for index, row in enumerate(
+                  rows
+              ):
+
+                  cells = [
+
+                      str(cell).strip()
+                      if cell is not None
+                      else ""
+
+                      for cell in row[:5]
+                  ]
+
+
+                  if (
+                      "代碼" in cells
+                      and
+                      "名稱" in cells
+                      and
+                      "股數" in cells
+                      and
+                      "權重" in cells
+                  ):
+
+                      header_index = index
+                      break
+
+
+              if header_index is None:
+
+                  raise RuntimeError(
+                      "聯博找不到股票持股表"
+                  )
+
+
+              holdings = []
+
+
+              for row in rows[
+                  header_index + 1:
+              ]:
+
+                  if (
+                      not row
+                      or row[0] is None
+                      or str(
+                          row[0]
+                      ).strip() == ""
+                  ):
+
+                      break
+
+
+                  isin = str(
+                      row[0]
+                  ).strip()
+
+
+                  name = str(
+                      row[1]
+                      or ""
+                  ).strip()
+
+
+                  if (
+                      isin.startswith("TW")
+                      and len(isin) >= 9
+                      and isin[5:9].isdigit()
+                  ):
+
+                      code = isin[5:9]
+
+                  else:
+
+                      continue
+
+
+                  holdings.append({
+
+                      "code":
+                          code,
+
+                      "name":
+                          name,
+
+                      "shares":
+                          to_integer(
+                              row[2]
+                          ),
+
+                      "weight":
+                          to_number(
+                              row[4]
+                          ),
+
+                      "market_value":
+                          to_number(
+                              row[3]
+                          )
+                  })
+
+
+              if not holdings:
+
+                  raise RuntimeError(
+                      "00404A 沒有解析到股票持股"
+                  )
+
+
+              return build_result(
+
+                  ETF_CODE,
+
+                  ETF_NAME,
+
+                  "聯博投信",
+
+                  "AllianceBernstein Taiwan",
+
+                  actual_date,
+
+                  holdings
+              )
+
+
+          # =========================================
+          # 開始
+          # =========================================
+
+          print()
+          print("==============================")
+          print("ACTIVE ETF HOLDINGS BATCH 2")
+          print("==============================")
+
+
+          # 群益
+          for (
+              code,
+              config
+          ) in CAPITAL_ETFS.items():
+
+              try:
+
+                  save_success(
+
+                      fetch_capital(
+
+                          code,
+
+                          config[
+                              "fund_id"
+                          ],
+
+                          config[
+                              "name"
+                          ]
+                      )
+                  )
+
+              except Exception as error:
+
+                  save_failure(
+
+                      code,
+
+                      config[
+                          "name"
+                      ],
+
+                      "群益投信",
+
+                      "Capital Investment Trust",
+
+                      error
+                  )
+
+
+          # 復華
+          try:
+
+              save_success(
+                  fetch_fhtrust()
+              )
+
+          except Exception as error:
+
+              save_failure(
+
+                  "00991A",
+
+                  "主動復華未來50",
+
+                  "復華投信",
+
+                  "Fuh Hwa Securities Investment Trust",
+
+                  error
+              )
+
+
+          # 第一金
+          for (
+              code,
+              config
+          ) in FSITC_ETFS.items():
+
+              try:
+
+                  save_success(
+
+                      fetch_fsitc(
+
+                          code,
+
+                          config[
+                              "fund_id"
+                          ],
+
+                          config[
+                              "name"
+                          ]
+                      )
+                  )
+
+              except Exception as error:
+
+                  save_failure(
+
+                      code,
+
+                      config[
+                          "name"
+                      ],
+
+                      "第一金投信",
+
+                      "First Securities Investment Trust",
+
+                      error
+                  )
+
+
+          # 台新
+          try:
+
+              save_success(
+                  fetch_tsit()
+              )
+
+          except Exception as error:
+
+              save_failure(
+
+                  "00987A",
+
+                  "主動台新優勢成長",
+
+                  "台新投信",
+
+                  "Taishin Securities Investment Trust",
+
+                  error
+              )
+
+
+          # 摩根
+          try:
+
+              save_success(
+                  fetch_morgan()
+              )
+
+          except Exception as error:
+
+              save_failure(
+
+                  "00401A",
+
+                  "主動摩根台灣鑫收",
+
+                  "摩根投信",
+
+                  "J.P. Morgan Asset Management Taiwan",
+
+                  error
+              )
+
+
+          # 聯博
+          try:
+
+              save_success(
+                  fetch_abfunds()
+              )
+
+          except Exception as error:
+
+              save_failure(
+
+                  "00404A",
+
+                  "主動聯博動能50",
+
+                  "聯博投信",
+
+                  "AllianceBernstein Taiwan",
+
+                  error
+              )
+
+
+          # =========================================
+          # Metadata
+          # =========================================
+
+          old_meta = (
+              output.get("_meta")
+              or {}
+          )
+
+
+          output["_meta"] = {
+
+              **old_meta,
+
+              "updated_at":
+                  now.isoformat(),
+
+              "database_version":
+                  max(
+                      int(
+                          old_meta.get(
+                              "database_version",
+                              5
+                          )
+                      ),
+                      6
+                  ),
+
+              "description":
+                  "Taiwan active ETF daily holdings database",
+
+              "history_enabled":
+                  True,
+
+              "batch2_successful_fetches":
+                  len(
+                      successful_results
+                  )
+          }
+
+
+          # =========================================
+          # 最新 JSON
+          # =========================================
+
+          with open(
+              OUTPUT_FILE,
+              "w",
+              encoding="utf-8"
+          ) as f:
+
+              json.dump(
+                  output,
+                  f,
+                  ensure_ascii=False,
+                  indent=2
+              )
+
+
+          # =========================================
+          # 當日快照
+          # =========================================
+
+          snapshot_date = (
+              now.strftime(
+                  "%Y-%m-%d"
+              )
+          )
+
+
+          history_file = os.path.join(
+
+              HISTORY_DIR,
+
+              snapshot_date
+              + ".json"
+          )
+
+
+          snapshot = json.loads(
+              json.dumps(output)
+          )
+
+
+          snapshot[
+              "_snapshot"
+          ] = {
+
+              "created_at":
+                  now.isoformat(),
+
+              "snapshot_date":
+                  snapshot_date,
+
+              "note":
+                  "Each ETF keeps its own official holdings_date"
+          }
+
+
+          with open(
+              history_file,
+              "w",
+              encoding="utf-8"
+          ) as f:
+
+              json.dump(
+                  snapshot,
+                  f,
+                  ensure_ascii=False,
+                  indent=2
+              )
+
+
+          # =========================================
+          # 顯示結果
+          # =========================================
+
+          TEST_CODES = [
+
+              "00982A",
+              "00992A",
+
+              "00991A",
+
+              "00994A",
+              "00408A",
+
+              "00987A",
+
+              "00401A",
+
+              "00404A"
+          ]
+
+
+          print()
+          print("==============================")
+          print("BATCH 2 FINISHED")
+          print("==============================")
+
+
+          for code in TEST_CODES:
+
+              item = (
+                  output["etfs"]
+                  .get(
+                      code,
+                      {}
+                  )
+              )
+
+
+              print()
+              print(
+                  code,
+                  item.get(
+                      "name"
+                  )
+              )
+
+              print(
+                  "Issuer:",
+                  item.get(
+                      "issuer"
+                  )
+              )
+
+              print(
+                  "Status:",
+                  item.get(
+                      "status"
+                  )
+              )
+
+              print(
+                  "Date:",
+                  item.get(
+                      "holdings_date"
+                  )
+              )
+
+              print(
+                  "Holdings:",
+                  item.get(
+                      "holding_count",
+                      0
+                  )
+              )
+
+
+              if item.get(
+                  "last_fetch_status"
+              ):
+
+                  print(
+                      "Last fetch:",
+                      item.get(
+                          "last_fetch_status"
+                      )
+                  )
+
+
+              for holding in (
+                  item.get(
+                      "holdings",
+                      []
+                  )[:5]
+              ):
+
+                  print(
+
+                      " ",
+
+                      holding.get(
+                          "code"
+                      ),
+
+                      holding.get(
+                          "name"
+                      ),
+
+                      "shares:",
+
+                      holding.get(
+                          "shares"
+                      ),
+
+                      "weight:",
+
+                      holding.get(
+                          "weight"
+                      )
+                  )
+
+
+          print()
+          print(
+              "Batch 2 successful:",
+              len(
+                  successful_results
+              ),
+              "/ 8"
+          )
+
+          print(
+              "Total ETFs now:",
+              len(
+                  output[
+                      "etfs"
+                  ]
+              )
+          )
+
+          print(
+              "Saved:",
+              OUTPUT_FILE
+          )
+
+          print(
+              "Snapshot:",
+              history_file
+          )
+
+          PY
+
+      - name: Commit batch 2 holdings
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/active_etf_holdings.json
+          git add data/active_etf_holdings_history/
+
+          if git diff --cached --quiet; then
+            echo "No ETF holding changes"
+          else
+            git commit -m "Add batch 2 active ETF holdings"
+            git push
+          fi
