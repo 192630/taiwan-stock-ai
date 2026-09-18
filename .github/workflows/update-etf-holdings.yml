@@ -1,0 +1,235 @@
+name: Update Active ETF Holdings
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 台灣時間週一～週五 22:30
+    # GitHub Actions 使用 UTC
+    - cron: "30 14 * * 1-5"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Build active ETF holdings database
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          from datetime import datetime, timezone, timedelta
+
+          STOCK_FILE = "data/stocks.json"
+          OUTPUT_FILE = "data/active_etf_holdings.json"
+          HISTORY_DIR = "data/active_etf_holdings_history"
+
+          os.makedirs("data", exist_ok=True)
+          os.makedirs(HISTORY_DIR, exist_ok=True)
+
+          tz = timezone(timedelta(hours=8))
+          now = datetime.now(tz)
+          today = now.strftime("%Y-%m-%d")
+
+          # -----------------------------------------
+          # 讀取目前 TWSE 股票 / ETF 清單
+          # -----------------------------------------
+
+          if not os.path.exists(STOCK_FILE):
+              raise FileNotFoundError(
+                  "找不到 data/stocks.json，請先執行每日行情更新"
+              )
+
+          with open(STOCK_FILE, "r", encoding="utf-8") as f:
+              stock_json = json.load(f)
+
+          if isinstance(stock_json, list):
+              rows = stock_json
+          else:
+              rows = (
+                  stock_json.get("stocks")
+                  or stock_json.get("data")
+                  or []
+              )
+
+          # -----------------------------------------
+          # 自動找出股票型主動 ETF
+          #
+          # TWSE：
+          # 股票型主動 ETF 第六碼為 A
+          # -----------------------------------------
+
+          active_etfs = []
+
+          for row in rows:
+
+              if not isinstance(row, dict):
+                  continue
+
+              code = str(
+                  row.get("Code", "")
+              ).strip().upper()
+
+              name = str(
+                  row.get("Name", "")
+              ).strip()
+
+              if (
+                  len(code) == 6
+                  and code[:5].isdigit()
+                  and code.endswith("A")
+              ):
+                  active_etfs.append({
+                      "code": code,
+                      "name": name
+                  })
+
+          active_etfs.sort(
+              key=lambda item: item["code"]
+          )
+
+          print(
+              "Active stock ETFs found:",
+              len(active_etfs)
+          )
+
+          for item in active_etfs:
+              print(
+                  item["code"],
+                  item["name"]
+              )
+
+          # -----------------------------------------
+          # 目前資料庫
+          #
+          # holdings 暫時保持空陣列。
+          #
+          # 下一階段會在這裡加入：
+          # 國泰 / 統一 / 中信 / 其他投信
+          # 官方每日實際投資組合抓取器。
+          #
+          # 不使用假資料。
+          # -----------------------------------------
+
+          etf_data = {}
+
+          for etf in active_etfs:
+
+              code = etf["code"]
+
+              etf_data[code] = {
+                  "code": code,
+                  "name": etf["name"],
+                  "holdings_date": None,
+                  "source": None,
+                  "status": "waiting_for_official_source",
+                  "holdings": []
+              }
+
+          # -----------------------------------------
+          # 最新資料
+          # -----------------------------------------
+
+          output = {
+              "_meta": {
+                  "updated_at": now.isoformat(),
+                  "database_version": 1,
+                  "description":
+                      "Taiwan active stock ETF daily holdings database",
+                  "active_etf_count":
+                      len(active_etfs),
+                  "history_enabled": True
+              },
+              "etfs": etf_data
+          }
+
+          with open(
+              OUTPUT_FILE,
+              "w",
+              encoding="utf-8"
+          ) as f:
+
+              json.dump(
+                  output,
+                  f,
+                  ensure_ascii=False,
+                  indent=2
+              )
+
+          # -----------------------------------------
+          # 每日歷史快照
+          #
+          # 未來持股資料接上後：
+          #
+          # 今天 vs 昨天
+          #
+          # 就能計算：
+          # + 增加持股
+          # - 減少持股
+          # + 新增持股
+          # - 退出持股
+          # -----------------------------------------
+
+          history_file = os.path.join(
+              HISTORY_DIR,
+              today + ".json"
+          )
+
+          with open(
+              history_file,
+              "w",
+              encoding="utf-8"
+          ) as f:
+
+              json.dump(
+                  output,
+                  f,
+                  ensure_ascii=False,
+                  indent=2
+              )
+
+          print()
+          print("==============================")
+          print("ACTIVE ETF DATABASE CREATED")
+          print("==============================")
+          print("Date:", today)
+          print(
+              "ETF count:",
+              len(active_etfs)
+          )
+          print(
+              "Latest file:",
+              OUTPUT_FILE
+          )
+          print(
+              "History file:",
+              history_file
+          )
+          print()
+          print(
+              "Official holdings fetchers "
+              "will be added next."
+          )
+
+          PY
+
+      - name: Commit active ETF database
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/active_etf_holdings.json
+          git add data/active_etf_holdings_history/
+
+          if git diff --cached --quiet; then
+            echo "No ETF holding changes"
+          else
+            git commit -m "Update active ETF holdings database"
+            git push
+          fi
