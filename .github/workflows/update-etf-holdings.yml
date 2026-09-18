@@ -18,14 +18,25 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Install Python packages
+        run: |
+          pip install requests
+
       - name: Fetch active ETF holdings
         run: |
           python - <<'PY'
           import json
           import os
-          import urllib.request
+          import requests
           import urllib.parse
+          import urllib.request
+          import urllib3
+
           from datetime import datetime, timezone, timedelta
+
+          urllib3.disable_warnings(
+              urllib3.exceptions.InsecureRequestWarning
+          )
 
           OUTPUT_FILE = "data/active_etf_holdings.json"
           HISTORY_DIR = "data/active_etf_holdings_history"
@@ -41,6 +52,7 @@ jobs:
           # =========================================
 
           def to_number(value):
+
               if value is None:
                   return 0
 
@@ -49,9 +61,10 @@ jobs:
                   .strip()
                   .replace(",", "")
                   .replace("%", "")
+                  .replace(" ", "")
               )
 
-              if text in ("", "-", "--", "None"):
+              if text in ("", "-", "--"):
                   return 0
 
               try:
@@ -61,41 +74,11 @@ jobs:
 
 
           def to_integer(value):
+
               try:
                   return int(to_number(value))
               except Exception:
                   return 0
-
-
-          def request_json(
-              url,
-              method="GET",
-              data=None,
-              headers=None
-          ):
-              if headers is None:
-                  headers = {}
-
-              body = None
-
-              if data is not None:
-                  body = json.dumps(data).encode("utf-8")
-
-              request = urllib.request.Request(
-                  url,
-                  data=body,
-                  headers=headers,
-                  method=method
-              )
-
-              with urllib.request.urlopen(
-                  request,
-                  timeout=60
-              ) as response:
-
-                  return json.loads(
-                      response.read().decode("utf-8")
-                  )
 
 
           # =========================================
@@ -105,23 +88,31 @@ jobs:
           if os.path.exists(OUTPUT_FILE):
 
               try:
+
                   with open(
                       OUTPUT_FILE,
                       "r",
                       encoding="utf-8"
                   ) as f:
+
                       output = json.load(f)
 
               except Exception:
+
                   output = {}
 
           else:
+
               output = {}
+
 
           if not isinstance(output, dict):
               output = {}
 
-          if not isinstance(output.get("etfs"), dict):
+          if not isinstance(
+              output.get("etfs"),
+              dict
+          ):
               output["etfs"] = {}
 
 
@@ -141,6 +132,7 @@ jobs:
               )
 
               headers = {
+
                   "User-Agent":
                       "Mozilla/5.0 "
                       "(Windows NT 10.0; Win64; x64) "
@@ -150,9 +142,6 @@ jobs:
                   "Accept":
                       "application/json, text/plain, */*",
 
-                  "Accept-Language":
-                      "zh-TW,zh;q=0.9,en;q=0.8",
-
                   "Origin":
                       "https://www.cathaysite.com.tw",
 
@@ -160,10 +149,12 @@ jobs:
                       "https://www.cathaysite.com.tw/"
               }
 
+
               for days_back in range(0, 10):
 
                   target = (
-                      now - timedelta(days=days_back)
+                      now -
+                      timedelta(days=days_back)
                   ).strftime("%Y-%m-%d")
 
                   params = urllib.parse.urlencode({
@@ -181,16 +172,32 @@ jobs:
                   )
 
                   try:
-                      data = request_json(
+
+                      request = urllib.request.Request(
                           url,
                           headers=headers
                       )
+
+                      with urllib.request.urlopen(
+                          request,
+                          timeout=30
+                      ) as response:
+
+                          data = json.loads(
+                              response
+                              .read()
+                              .decode("utf-8")
+                          )
+
                   except Exception as error:
+
                       print(
                           "Cathay request error:",
                           error
                       )
+
                       continue
+
 
                   if not data.get("success"):
                       continue
@@ -199,6 +206,7 @@ jobs:
 
                   if not rows:
                       continue
+
 
                   holdings = []
 
@@ -218,17 +226,22 @@ jobs:
                           continue
 
                       holdings.append({
+
                           "code": code,
+
                           "name": name,
+
                           "shares":
                               to_integer(
                                   row.get("volumn")
                               ),
+
                           "weight":
                               to_number(
                                   row.get("weights")
                               )
                       })
+
 
                   if holdings:
 
@@ -239,18 +252,29 @@ jobs:
                       )
 
                       return {
+
                           "code": ETF_CODE,
+
                           "name": ETF_NAME,
+
                           "issuer": "國泰投信",
-                          "holdings_date": target,
+
+                          "holdings_date":
+                              target,
+
                           "source":
                               "Cathay Securities Investment Trust",
-                          "status": "success",
+
+                          "status":
+                              "success",
+
                           "holding_count":
                               len(holdings),
+
                           "holdings":
                               holdings
                       }
+
 
               raise RuntimeError(
                   "00400A 最近 10 天找不到持股"
@@ -262,25 +286,51 @@ jobs:
           # =========================================
 
           NOMURA_ETFS = {
-              "00980A": "主動野村臺灣優選",
-              "00985A": "主動野村台灣50",
-              "00999A": "主動野村臺灣智慧優選"
+
+              "00980A":
+                  "00980A",
+
+              "00985A":
+                  "00985A",
+
+              "00999A":
+                  "00999A"
           }
+
+
+          NOMURA_NAMES = {
+
+              "00980A":
+                  "野村臺灣智慧優選主動式ETF",
+
+              "00985A":
+                  "主動野村台灣50",
+
+              "00999A":
+                  "主動野村臺灣策略高息"
+          }
+
 
           NOMURA_API = (
               "https://www.nomurafunds.com.tw"
-              "/api/fund/ETFPortfolio"
+              "/API/ETFAPI/api/Fund/GetFundAssets"
           )
 
-          nomura_headers = {
+
+          NOMURA_HEADERS = {
+
               "User-Agent":
                   "Mozilla/5.0 "
                   "(Windows NT 10.0; Win64; x64) "
                   "AppleWebKit/537.36 "
-                  "Chrome/120 Safari/537.36",
+                  "(KHTML, like Gecko) "
+                  "Chrome/120.0.0.0 Safari/537.36",
 
               "Accept":
                   "application/json, text/plain, */*",
+
+              "Accept-Language":
+                  "zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7",
 
               "Content-Type":
                   "application/json",
@@ -290,229 +340,165 @@ jobs:
 
               "Referer":
                   "https://www.nomurafunds.com.tw/"
+                  "ETFWEB/product-description"
           }
 
 
-          def find_rows(obj):
-              """
-              野村回傳格式若有小幅調整，
-              遞迴尋找最像股票持股表的陣列。
-              """
-
-              if isinstance(obj, list):
-
-                  if obj and all(
-                      isinstance(item, dict)
-                      for item in obj
-                  ):
-
-                      score = 0
-
-                      for item in obj[:5]:
-
-                          keys = {
-                              str(k).lower()
-                              for k in item.keys()
-                          }
-
-                          if any(
-                              x in keys
-                              for x in (
-                                  "stockcode",
-                                  "stock_code",
-                                  "code",
-                                  "securitiescode"
-                              )
-                          ):
-                              score += 1
-
-                      if score > 0:
-                          return obj
-
-                  for item in obj:
-                      found = find_rows(item)
-
-                      if found:
-                          return found
-
-              if isinstance(obj, dict):
-
-                  for value in obj.values():
-
-                      found = find_rows(value)
-
-                      if found:
-                          return found
-
-              return None
-
-
-          def pick(
-              row,
-              candidates
-          ):
-              for key in candidates:
-
-                  if key in row:
-                      return row.get(key)
-
-              lower_map = {
-                  str(k).lower(): v
-                  for k, v in row.items()
-              }
-
-              for key in candidates:
-
-                  value = lower_map.get(
-                      str(key).lower()
-                  )
-
-                  if value is not None:
-                      return value
-
-              return None
-
-
           def fetch_nomura(
-              ETF_CODE,
-              ETF_NAME
+              etf_code,
+              fund_id,
+              etf_name
           ):
+
+              session = requests.Session()
 
               for days_back in range(0, 10):
 
-                  target_date = (
-                      now - timedelta(days=days_back)
-                  )
-
-                  target = target_date.strftime(
-                      "%Y-%m-%d"
-                  )
+                  target = (
+                      now -
+                      timedelta(days=days_back)
+                  ).strftime("%Y-%m-%d")
 
                   print()
                   print(
                       "Nomura:",
-                      ETF_CODE,
+                      etf_code,
                       target
                   )
 
-                  payload_candidates = [
-                      {
-                          "fundCode": ETF_CODE,
-                          "date": target
-                      },
-                      {
-                          "FundCode": ETF_CODE,
-                          "Date": target
-                      },
-                      {
-                          "etfCode": ETF_CODE,
-                          "date": target
-                      }
-                  ]
+                  payload = {
 
-                  data = None
+                      "FundID":
+                          fund_id,
 
-                  for payload in payload_candidates:
+                      "SearchDate":
+                          target
+                  }
 
-                      try:
-                          candidate = request_json(
-                              NOMURA_API,
-                              method="POST",
-                              data=payload,
-                              headers=nomura_headers
-                          )
 
-                          rows = find_rows(
-                              candidate
-                          )
+                  try:
 
-                          if rows:
-                              data = candidate
-                              break
+                      response = session.post(
 
-                      except Exception as error:
-                          print(
-                              "Nomura request error:",
-                              error
-                          )
+                          NOMURA_API,
 
-                  if not data:
+                          json=payload,
+
+                          headers=NOMURA_HEADERS,
+
+                          timeout=30,
+
+                          verify=False
+                      )
+
+                      print(
+                          "HTTP:",
+                          response.status_code
+                      )
+
+                      response.raise_for_status()
+
+                      data = response.json()
+
+
+                  except Exception as error:
+
+                      print(
+                          "Nomura request error:",
+                          error
+                      )
+
                       continue
 
-                  rows = find_rows(data)
 
-                  if not rows:
-                      continue
+                  # ---------------------------------
+                  # API 正確結構：
+                  #
+                  # Entries
+                  #   └ Data
+                  #       └ Table
+                  # ---------------------------------
+
+                  entries = (
+                      data.get("Entries")
+                      or {}
+                  )
+
+                  data_block = (
+                      entries.get("Data")
+                      or {}
+                  )
+
+                  tables = (
+                      data_block.get("Table")
+                      or []
+                  )
+
 
                   holdings = []
 
-                  for row in rows:
 
-                      code = pick(
-                          row,
-                          [
-                              "stockCode",
-                              "stock_code",
-                              "StockCode",
-                              "securitiesCode",
-                              "code"
-                          ]
-                      )
+                  for table in tables:
 
-                      name = pick(
-                          row,
-                          [
-                              "stockName",
-                              "stock_name",
-                              "StockName",
-                              "securitiesName",
-                              "name"
-                          ]
-                      )
-
-                      shares = pick(
-                          row,
-                          [
-                              "shares",
-                              "share",
-                              "volume",
-                              "volumn",
-                              "qty",
-                              "quantity",
-                              "stockShares"
-                          ]
-                      )
-
-                      weight = pick(
-                          row,
-                          [
-                              "weight",
-                              "weights",
-                              "ratio",
-                              "percentage",
-                              "percent"
-                          ]
-                      )
-
-                      code = str(
-                          code or ""
-                      ).strip()
-
-                      name = str(
-                          name or ""
-                      ).strip()
-
-                      if not code:
+                      if (
+                          table.get("TableTitle")
+                          != "股票"
+                      ):
                           continue
 
-                      holdings.append({
-                          "code": code,
-                          "name": name,
-                          "shares":
-                              to_integer(shares),
-                          "weight":
-                              to_number(weight)
-                      })
+
+                      rows = (
+                          table.get("Rows")
+                          or []
+                      )
+
+
+                      for row in rows:
+
+                          if (
+                              not isinstance(
+                                  row,
+                                  list
+                              )
+                              or len(row) < 4
+                          ):
+                              continue
+
+
+                          code = str(
+                              row[0]
+                              or ""
+                          ).strip()
+
+                          name = str(
+                              row[1]
+                              or ""
+                          ).strip()
+
+
+                          if not code:
+                              continue
+
+
+                          holdings.append({
+
+                              "code":
+                                  code,
+
+                              "name":
+                                  name,
+
+                              "shares":
+                                  to_integer(
+                                      row[2]
+                                  ),
+
+                              "weight":
+                                  to_number(
+                                      row[3]
+                                  )
+                          })
+
 
                   if holdings:
 
@@ -522,110 +508,202 @@ jobs:
                           reverse=True
                       )
 
+
                       return {
-                          "code": ETF_CODE,
-                          "name": ETF_NAME,
-                          "issuer": "野村投信",
-                          "holdings_date": target,
+
+                          "code":
+                              etf_code,
+
+                          "name":
+                              etf_name,
+
+                          "issuer":
+                              "野村投信",
+
+                          "holdings_date":
+                              target,
+
                           "source":
                               "Nomura Asset Management Taiwan",
-                          "status": "success",
+
+                          "status":
+                              "success",
+
                           "holding_count":
                               len(holdings),
+
                           "holdings":
                               holdings
                       }
 
+
+                  print(
+                      "No stock holdings:",
+                      target
+                  )
+
+
               raise RuntimeError(
-                  ETF_CODE +
+                  etf_code +
                   " 最近 10 天找不到持股"
               )
 
 
           # =========================================
-          # 執行抓取
+          # 開始抓取
           # =========================================
 
-          results = []
+          successful_results = []
+
 
           print()
           print("==============================")
           print("ACTIVE ETF HOLDINGS UPDATE")
           print("==============================")
 
+
+          # -----------------------------------------
           # 國泰
+          # -----------------------------------------
+
           try:
 
-              cathay = fetch_cathay()
+              result = fetch_cathay()
 
               output["etfs"][
-                  cathay["code"]
-              ] = cathay
+                  result["code"]
+              ] = result
 
-              results.append(cathay)
+              successful_results.append(
+                  result
+              )
 
+              print()
               print(
                   "SUCCESS:",
-                  cathay["code"],
-                  cathay["holding_count"],
+                  result["code"],
+                  result["holding_count"],
                   "holdings"
               )
 
+
           except Exception as error:
 
+              print()
               print(
                   "FAILED: 00400A",
                   error
               )
 
+
+          # -----------------------------------------
           # 野村
-          for code, name in NOMURA_ETFS.items():
+          # -----------------------------------------
+
+          for (
+              code,
+              fund_id
+          ) in NOMURA_ETFS.items():
 
               try:
 
                   result = fetch_nomura(
+
                       code,
-                      name
+
+                      fund_id,
+
+                      NOMURA_NAMES.get(
+                          code,
+                          code
+                      )
                   )
+
 
                   output["etfs"][
                       code
                   ] = result
 
-                  results.append(result)
+                  successful_results.append(
+                      result
+                  )
 
+
+                  print()
                   print(
                       "SUCCESS:",
                       code,
-                      result["holding_count"],
+                      result[
+                          "holding_count"
+                      ],
                       "holdings"
                   )
 
+
               except Exception as error:
 
+                  print()
                   print(
                       "FAILED:",
                       code,
                       error
                   )
 
-                  old = output["etfs"].get(
-                      code,
-                      {}
+
+                  old = (
+                      output["etfs"]
+                      .get(
+                          code,
+                          {}
+                      )
                   )
 
-                  if not old.get("holdings"):
 
-                      output["etfs"][code] = {
-                          "code": code,
-                          "name": name,
-                          "issuer": "野村投信",
-                          "holdings_date": None,
+                  # 如果以前有成功資料，
+                  # 不把舊資料洗掉
+                  if old.get("holdings"):
+
+                      old[
+                          "last_fetch_status"
+                      ] = "failed"
+
+                      old[
+                          "last_fetch_error"
+                      ] = str(error)
+
+
+                  else:
+
+                      output["etfs"][
+                          code
+                      ] = {
+
+                          "code":
+                              code,
+
+                          "name":
+                              NOMURA_NAMES.get(
+                                  code,
+                                  code
+                              ),
+
+                          "issuer":
+                              "野村投信",
+
+                          "holdings_date":
+                              None,
+
                           "source":
                               "Nomura Asset Management Taiwan",
-                          "status": "fetch_failed",
-                          "holding_count": 0,
-                          "holdings": []
+
+                          "status":
+                              "fetch_failed",
+
+                          "holding_count":
+                              0,
+
+                          "holdings":
+                              []
                       }
 
 
@@ -634,18 +712,28 @@ jobs:
           # =========================================
 
           output["_meta"] = {
-              "updated_at": now.isoformat(),
-              "database_version": 3,
+
+              "updated_at":
+                  now.isoformat(),
+
+              "database_version":
+                  4,
+
               "description":
                   "Taiwan active ETF daily holdings database",
-              "history_enabled": True,
+
+              "history_enabled":
+                  True,
+
               "successful_fetches":
-                  len(results)
+                  len(
+                      successful_results
+                  )
           }
 
 
           # =========================================
-          # 最新資料
+          # 寫入最新資料
           # =========================================
 
           with open(
@@ -666,25 +754,36 @@ jobs:
           # 歷史快照
           # =========================================
 
-          snapshot_date = (
-              max(
-                  [
-                      item["holdings_date"]
-                      for item in results
-                      if item.get(
-                          "holdings_date"
-                      )
-                  ],
-                  default=now.strftime(
+          snapshot_date = max(
+
+              [
+                  item[
+                      "holdings_date"
+                  ]
+
+                  for item
+                  in successful_results
+
+                  if item.get(
+                      "holdings_date"
+                  )
+              ],
+
+              default=
+                  now.strftime(
                       "%Y-%m-%d"
                   )
-              )
           )
 
+
           history_file = os.path.join(
+
               HISTORY_DIR,
-              snapshot_date + ".json"
+
+              snapshot_date +
+              ".json"
           )
+
 
           with open(
               history_file,
@@ -701,7 +800,7 @@ jobs:
 
 
           # =========================================
-          # Actions 顯示結果
+          # 顯示測試結果
           # =========================================
 
           print()
@@ -709,31 +808,38 @@ jobs:
           print("UPDATE FINISHED")
           print("==============================")
 
-          for code in sorted(
-              output["etfs"].keys()
-          ):
 
-              item = output[
-                  "etfs"
-              ][code]
+          TEST_CODES = [
+              "00400A",
+              "00980A",
+              "00985A",
+              "00999A"
+          ]
 
-              if code not in (
-                  "00400A",
-                  "00980A",
-                  "00985A",
-                  "00999A"
-              ):
-                  continue
+
+          for code in TEST_CODES:
+
+              item = (
+                  output["etfs"]
+                  .get(
+                      code,
+                      {}
+                  )
+              )
 
               print()
               print(
                   code,
-                  item.get("name")
+                  item.get(
+                      "name"
+                  )
               )
 
               print(
                   "Status:",
-                  item.get("status")
+                  item.get(
+                      "status"
+                  )
               )
 
               print(
@@ -751,6 +857,7 @@ jobs:
                   )
               )
 
+
               for holding in (
                   item.get(
                       "holdings",
@@ -759,14 +866,30 @@ jobs:
               ):
 
                   print(
+
                       " ",
-                      holding.get("code"),
-                      holding.get("name"),
+
+                      holding.get(
+                          "code"
+                      ),
+
+                      holding.get(
+                          "name"
+                      ),
+
                       "shares:",
-                      holding.get("shares"),
+
+                      holding.get(
+                          "shares"
+                      ),
+
                       "weight:",
-                      holding.get("weight")
+
+                      holding.get(
+                          "weight"
+                      )
                   )
+
 
           print()
           print(
@@ -792,6 +915,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No ETF holding changes"
           else
-            git commit -m "Update active ETF official holdings"
+            git commit -m "Fix Nomura active ETF holdings"
             git push
           fi
