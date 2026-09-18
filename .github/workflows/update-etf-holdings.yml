@@ -12,7 +12,7 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
 
     steps:
       - name: Checkout repository
@@ -20,19 +20,25 @@ jobs:
 
       - name: Install Python packages
         run: |
-          pip install requests
+          pip install requests beautifulsoup4 pandas openpyxl playwright
+          playwright install chromium
 
       - name: Fetch active ETF holdings
         run: |
           python - <<'PY'
           import json
           import os
+          import re
+          import time
           import requests
           import urllib.parse
           import urllib.request
           import urllib3
 
           from datetime import datetime, timezone, timedelta
+          from bs4 import BeautifulSoup
+          from playwright.sync_api import sync_playwright
+          import pandas as pd
 
           urllib3.disable_warnings(
               urllib3.exceptions.InsecureRequestWarning
@@ -64,7 +70,7 @@ jobs:
                   .replace(" ", "")
               )
 
-              if text in ("", "-", "--"):
+              if text in ("", "-", "--", "nan"):
                   return 0
 
               try:
@@ -79,6 +85,43 @@ jobs:
                   return int(to_number(value))
               except Exception:
                   return 0
+
+
+          def mark_failure(
+              code,
+              name,
+              issuer,
+              source,
+              error
+          ):
+
+              old = output["etfs"].get(
+                  code,
+                  {}
+              )
+
+              # 已經有舊成功資料就保留
+              if old.get("holdings"):
+
+                  old["last_fetch_status"] = "failed"
+                  old["last_fetch_error"] = str(error)
+
+                  output["etfs"][code] = old
+
+              else:
+
+                  output["etfs"][code] = {
+
+                      "code": code,
+                      "name": name,
+                      "issuer": issuer,
+                      "holdings_date": None,
+                      "source": source,
+                      "status": "fetch_failed",
+                      "holding_count": 0,
+                      "holdings": [],
+                      "last_fetch_error": str(error)
+                  }
 
 
           # =========================================
@@ -116,8 +159,12 @@ jobs:
               output["etfs"] = {}
 
 
+          successful_results = []
+
+
           # =========================================
           # 國泰 00400A
+          # 保留目前已成功版本
           # =========================================
 
           def fetch_cathay():
@@ -283,18 +330,14 @@ jobs:
 
           # =========================================
           # 野村
+          # 保留目前已成功版本
           # =========================================
 
           NOMURA_ETFS = {
 
-              "00980A":
-                  "00980A",
-
-              "00985A":
-                  "00985A",
-
-              "00999A":
-                  "00999A"
+              "00980A": "00980A",
+              "00985A": "00985A",
+              "00999A": "00999A"
           }
 
 
@@ -411,14 +454,6 @@ jobs:
                       continue
 
 
-                  # ---------------------------------
-                  # API 正確結構：
-                  #
-                  # Entries
-                  #   └ Data
-                  #       └ Table
-                  # ---------------------------------
-
                   entries = (
                       data.get("Entries")
                       or {}
@@ -433,7 +468,6 @@ jobs:
                       data_block.get("Table")
                       or []
                   )
-
 
                   holdings = []
 
@@ -550,11 +584,786 @@ jobs:
 
 
           # =========================================
-          # 開始抓取
+          # 中信
+          #
+          # 00995A -> 00653201
+          # 00406A -> 00682450
           # =========================================
 
-          successful_results = []
+          CTBC_ETFS = {
 
+              "00995A": {
+                  "fund_id": "00653201",
+                  "name":
+                      "中信台灣卓越成長主動式ETF"
+              },
+
+              "00406A": {
+                  "fund_id": "00682450",
+                  "name":
+                      "中信台灣收益成長主動式ETF"
+              }
+          }
+
+
+          def extract_ctbc_date(
+              file_path,
+              fallback
+          ):
+
+              try:
+
+                  head = pd.read_excel(
+                      file_path,
+                      header=None,
+                      nrows=12
+                  )
+
+              except Exception as error:
+
+                  print(
+                      "CTBC date read error:",
+                      error
+                  )
+
+                  return fallback
+
+
+              for _, row in head.iterrows():
+
+                  values = [
+
+                      str(value).strip()
+
+                      for value
+                      in row.tolist()
+
+                      if str(value) != "nan"
+                  ]
+
+
+                  if not any(
+                      "資料日期" in value
+                      for value in values
+                  ):
+                      continue
+
+
+                  for value in values:
+
+                      match = re.search(
+
+                          r"(20\d{2})"
+                          r"[/\-年]"
+                          r"(\d{1,2})"
+                          r"[/\-月]"
+                          r"(\d{1,2})",
+
+                          value
+                      )
+
+
+                      if match:
+
+                          year, month, day = (
+                              match.groups()
+                          )
+
+                          return (
+                              f"{year}-"
+                              f"{int(month):02d}-"
+                              f"{int(day):02d}"
+                          )
+
+
+              return fallback
+
+
+          def parse_ctbc_excel(
+              file_path,
+              fallback_date
+          ):
+
+              actual_date = extract_ctbc_date(
+                  file_path,
+                  fallback_date
+              )
+
+              raw = pd.read_excel(
+                  file_path
+              )
+
+              header_row = None
+
+
+              for index, row in raw.iterrows():
+
+                  values = [
+
+                      str(value)
+
+                      for value
+                      in row.values
+
+                      if pd.notna(value)
+                  ]
+
+
+                  if any(
+                      "股票代碼" in value
+                      for value in values
+                  ):
+
+                      header_row = index
+                      break
+
+
+              if header_row is None:
+
+                  raise RuntimeError(
+                      "中信 Excel 找不到股票代碼欄位"
+                  )
+
+
+              df = pd.read_excel(
+                  file_path,
+                  header=header_row + 1
+              )
+
+
+              code_col = next(
+                  (
+                      column
+                      for column in df.columns
+                      if "股票代碼"
+                      in str(column)
+                  ),
+                  None
+              )
+
+              name_col = next(
+                  (
+                      column
+                      for column in df.columns
+                      if "中文名稱"
+                      in str(column)
+                  ),
+                  None
+              )
+
+              shares_col = next(
+                  (
+                      column
+                      for column in df.columns
+                      if "股數"
+                      in str(column)
+                  ),
+                  None
+              )
+
+              weight_col = next(
+                  (
+                      column
+                      for column in df.columns
+                      if "權重"
+                      in str(column)
+                  ),
+                  None
+              )
+
+
+              if (
+                  code_col is None
+                  or name_col is None
+              ):
+
+                  raise RuntimeError(
+                      "中信 Excel 欄位解析失敗"
+                  )
+
+
+              holdings = []
+
+
+              for _, row in df.iterrows():
+
+                  try:
+
+                      code = (
+                          str(row[code_col])
+                          .strip()
+                          .split(".")[0]
+                      )
+
+                      name = (
+                          str(row[name_col])
+                          .strip()
+                      )
+
+
+                      # 台股股票代號
+                      if not (
+                          code.isdigit()
+                          and len(code) == 4
+                      ):
+                          continue
+
+
+                      shares = 0
+                      weight = 0
+
+
+                      if (
+                          shares_col is not None
+                          and pd.notna(
+                              row[shares_col]
+                          )
+                      ):
+
+                          shares = to_integer(
+                              row[shares_col]
+                          )
+
+
+                      if (
+                          weight_col is not None
+                          and pd.notna(
+                              row[weight_col]
+                          )
+                      ):
+
+                          weight = to_number(
+                              row[weight_col]
+                          )
+
+
+                      holdings.append({
+
+                          "code": code,
+                          "name": name,
+                          "shares": shares,
+                          "weight": weight
+                      })
+
+
+                  except Exception as error:
+
+                      print(
+                          "CTBC row error:",
+                          error
+                      )
+
+
+              holdings.sort(
+                  key=lambda item:
+                      item["weight"],
+                  reverse=True
+              )
+
+
+              return actual_date, holdings
+
+
+          def fetch_ctbc(
+              etf_code,
+              fund_id,
+              etf_name
+          ):
+
+              url = (
+                  "https://www.ctbcinvestments.com"
+                  f"/Etf/{fund_id}/Combination"
+              )
+
+              requested_date = (
+                  now.strftime("%Y-%m-%d")
+              )
+
+              print()
+              print(
+                  "CTBC:",
+                  etf_code,
+                  url
+              )
+
+
+              with sync_playwright() as p:
+
+                  browser = p.chromium.launch(
+
+                      headless=True,
+
+                      args=[
+                          "--disable-blink-features=AutomationControlled",
+                          "--no-sandbox",
+                          "--disable-setuid-sandbox"
+                      ]
+                  )
+
+
+                  context = browser.new_context(
+
+                      user_agent=
+                          "Mozilla/5.0 "
+                          "(Windows NT 10.0; Win64; x64) "
+                          "AppleWebKit/537.36 "
+                          "(KHTML, like Gecko) "
+                          "Chrome/120.0.0.0 Safari/537.36",
+
+                      viewport={
+                          "width": 1920,
+                          "height": 1080
+                      },
+
+                      accept_downloads=True
+                  )
+
+
+                  page = context.new_page()
+
+
+                  page.add_init_script(
+                      """
+                      Object.defineProperty(
+                          navigator,
+                          'webdriver',
+                          {get: () => undefined}
+                      );
+                      """
+                  )
+
+
+                  try:
+
+                      page.goto(
+
+                          url,
+
+                          timeout=60000,
+
+                          wait_until=
+                              "domcontentloaded"
+                      )
+
+
+                      time.sleep(6)
+
+
+                      download_btn = None
+
+
+                      btn = page.locator(
+                          "button",
+                          has_text="下載EXCEL"
+                      )
+
+
+                      if (
+                          btn.count() > 0
+                          and btn.first.is_visible()
+                      ):
+
+                          download_btn = btn.first
+
+
+                      if download_btn is None:
+
+                          span = page.locator(
+                              "span",
+                              has_text="下載EXCEL"
+                          )
+
+
+                          if span.count() > 0:
+
+                              download_btn = (
+                                  span.first.locator(
+                                      ".."
+                                  )
+                              )
+
+
+                      if download_btn is None:
+
+                          raise RuntimeError(
+                              "找不到下載EXCEL按鈕"
+                          )
+
+
+                      with page.expect_download(
+                          timeout=30000
+                      ) as download_info:
+
+                          try:
+
+                              download_btn.click()
+
+                          except Exception:
+
+                              download_btn.click(
+                                  force=True
+                              )
+
+
+                      download = (
+                          download_info.value
+                      )
+
+                      temp_file = (
+                          download.path()
+                      )
+
+
+                      if not temp_file:
+
+                          raise RuntimeError(
+                              "中信 Excel 下載失敗"
+                          )
+
+
+                      (
+                          actual_date,
+                          holdings
+                      ) = parse_ctbc_excel(
+
+                          temp_file,
+
+                          requested_date
+                      )
+
+
+                  finally:
+
+                      browser.close()
+
+
+              if not holdings:
+
+                  raise RuntimeError(
+                      etf_code +
+                      " 沒有解析到股票持股"
+                  )
+
+
+              return {
+
+                  "code":
+                      etf_code,
+
+                  "name":
+                      etf_name,
+
+                  "issuer":
+                      "中信投信",
+
+                  "holdings_date":
+                      actual_date,
+
+                  "source":
+                      "CTBC Investments",
+
+                  "status":
+                      "success",
+
+                  "holding_count":
+                      len(holdings),
+
+                  "holdings":
+                      holdings
+              }
+
+
+          # =========================================
+          # 富邦 00405A
+          # =========================================
+
+          FUBON_ETFS = {
+
+              "00405A":
+                  "主動富邦台灣龍躍"
+          }
+
+
+          def extract_fubon_date(
+              soup,
+              fallback
+          ):
+
+              text = soup.get_text(
+                  " ",
+                  strip=True
+              )
+
+              match = re.search(
+
+                  r"資料日期"
+                  r"[：:\s]*"
+                  r"(20\d{2})"
+                  r"[/\-年]"
+                  r"(\d{1,2})"
+                  r"[/\-月]"
+                  r"(\d{1,2})",
+
+                  text
+              )
+
+
+              if not match:
+                  return fallback
+
+
+              year, month, day = (
+                  match.groups()
+              )
+
+
+              return (
+                  f"{year}-"
+                  f"{int(month):02d}-"
+                  f"{int(day):02d}"
+              )
+
+
+          def fetch_fubon(
+              etf_code,
+              etf_name
+          ):
+
+              url = (
+                  "https://websys.fsit.com.tw"
+                  "/FubonETF/Fund/Assets.aspx"
+                  f"?stkId={etf_code}"
+              )
+
+              print()
+              print(
+                  "Fubon:",
+                  etf_code,
+                  url
+              )
+
+
+              headers = {
+
+                  "User-Agent":
+                      "Mozilla/5.0 "
+                      "(Windows NT 10.0; Win64; x64) "
+                      "AppleWebKit/537.36 "
+                      "(KHTML, like Gecko) "
+                      "Chrome/120.0.0.0 Safari/537.36",
+
+                  "Accept":
+                      "text/html,"
+                      "application/xhtml+xml,"
+                      "application/xml;q=0.9,"
+                      "*/*;q=0.8",
+
+                  "Accept-Language":
+                      "zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7"
+              }
+
+
+              response = requests.get(
+
+                  url,
+
+                  headers=headers,
+
+                  timeout=30,
+
+                  verify=False
+              )
+
+
+              print(
+                  "HTTP:",
+                  response.status_code
+              )
+
+
+              response.raise_for_status()
+
+
+              soup = BeautifulSoup(
+                  response.text,
+                  "html.parser"
+              )
+
+
+              actual_date = extract_fubon_date(
+
+                  soup,
+
+                  now.strftime(
+                      "%Y-%m-%d"
+                  )
+              )
+
+
+              stock_table = None
+
+
+              for table in soup.find_all(
+                  "table"
+              ):
+
+                  header_text = " ".join(
+
+                      td.get_text(
+                          strip=True
+                      )
+
+                      for td
+                      in table.find_all(
+                          "td",
+                          class_="tac"
+                      )[:6]
+                  )
+
+
+                  if (
+                      "股數" in header_text
+                      and "權重" in header_text
+                      and "口數"
+                      not in header_text
+                  ):
+
+                      stock_table = table
+                      break
+
+
+              if stock_table is None:
+
+                  raise RuntimeError(
+                      "富邦找不到股票持股表"
+                  )
+
+
+              holdings = []
+
+
+              for row in stock_table.find_all(
+                  "tr"
+              ):
+
+                  cols = row.find_all(
+                      "td"
+                  )
+
+
+                  if len(cols) < 5:
+                      continue
+
+
+                  try:
+
+                      code = (
+                          cols[0]
+                          .get_text(strip=True)
+                      )
+
+                      name = (
+                          cols[1]
+                          .get_text(strip=True)
+                      )
+
+
+                      if (
+                          not code
+                          or not code[0].isdigit()
+                      ):
+                          continue
+
+
+                      shares = to_integer(
+                          cols[2]
+                          .get_text(strip=True)
+                      )
+
+                      market_value = to_integer(
+                          cols[3]
+                          .get_text(strip=True)
+                      )
+
+                      weight = to_number(
+                          cols[4]
+                          .get_text(strip=True)
+                      )
+
+
+                      holdings.append({
+
+                          "code":
+                              code,
+
+                          "name":
+                              name,
+
+                          "shares":
+                              shares,
+
+                          "weight":
+                              weight,
+
+                          "market_value":
+                              market_value
+                      })
+
+
+                  except Exception as error:
+
+                      print(
+                          "Fubon row error:",
+                          error
+                      )
+
+
+              if not holdings:
+
+                  raise RuntimeError(
+                      etf_code +
+                      " 沒有解析到股票持股"
+                  )
+
+
+              holdings.sort(
+                  key=lambda item:
+                      item["weight"],
+                  reverse=True
+              )
+
+
+              return {
+
+                  "code":
+                      etf_code,
+
+                  "name":
+                      etf_name,
+
+                  "issuer":
+                      "富邦投信",
+
+                  "holdings_date":
+                      actual_date,
+
+                  "source":
+                      "Fubon Securities Investment Trust",
+
+                  "status":
+                      "success",
+
+                  "holding_count":
+                      len(holdings),
+
+                  "holdings":
+                      holdings
+              }
+
+
+          # =========================================
+          # 開始抓取
+          # =========================================
 
           print()
           print("==============================")
@@ -592,6 +1401,14 @@ jobs:
               print()
               print(
                   "FAILED: 00400A",
+                  error
+              )
+
+              mark_failure(
+                  "00400A",
+                  "主動國泰動能高息",
+                  "國泰投信",
+                  "Cathay Securities Investment Trust",
                   error
               )
 
@@ -649,62 +1466,147 @@ jobs:
                       error
                   )
 
+                  mark_failure(
 
-                  old = (
-                      output["etfs"]
-                      .get(
+                      code,
+
+                      NOMURA_NAMES.get(
                           code,
-                          {}
-                      )
+                          code
+                      ),
+
+                      "野村投信",
+
+                      "Nomura Asset Management Taiwan",
+
+                      error
                   )
 
 
-                  # 如果以前有成功資料，
-                  # 不把舊資料洗掉
-                  if old.get("holdings"):
+          # -----------------------------------------
+          # 中信
+          # -----------------------------------------
 
-                      old[
-                          "last_fetch_status"
-                      ] = "failed"
+          for (
+              code,
+              config
+          ) in CTBC_ETFS.items():
 
-                      old[
-                          "last_fetch_error"
-                      ] = str(error)
+              try:
+
+                  result = fetch_ctbc(
+
+                      code,
+
+                      config["fund_id"],
+
+                      config["name"]
+                  )
 
 
-                  else:
+                  output["etfs"][
+                      code
+                  ] = result
 
-                      output["etfs"][
-                          code
-                      ] = {
+                  successful_results.append(
+                      result
+                  )
 
-                          "code":
-                              code,
 
-                          "name":
-                              NOMURA_NAMES.get(
-                                  code,
-                                  code
-                              ),
+                  print()
+                  print(
+                      "SUCCESS:",
+                      code,
+                      result[
+                          "holding_count"
+                      ],
+                      "holdings"
+                  )
 
-                          "issuer":
-                              "野村投信",
 
-                          "holdings_date":
-                              None,
+              except Exception as error:
 
-                          "source":
-                              "Nomura Asset Management Taiwan",
+                  print()
+                  print(
+                      "FAILED:",
+                      code,
+                      error
+                  )
 
-                          "status":
-                              "fetch_failed",
 
-                          "holding_count":
-                              0,
+                  mark_failure(
 
-                          "holdings":
-                              []
-                      }
+                      code,
+
+                      config["name"],
+
+                      "中信投信",
+
+                      "CTBC Investments",
+
+                      error
+                  )
+
+
+          # -----------------------------------------
+          # 富邦
+          # -----------------------------------------
+
+          for (
+              code,
+              name
+          ) in FUBON_ETFS.items():
+
+              try:
+
+                  result = fetch_fubon(
+                      code,
+                      name
+                  )
+
+
+                  output["etfs"][
+                      code
+                  ] = result
+
+                  successful_results.append(
+                      result
+                  )
+
+
+                  print()
+                  print(
+                      "SUCCESS:",
+                      code,
+                      result[
+                          "holding_count"
+                      ],
+                      "holdings"
+                  )
+
+
+              except Exception as error:
+
+                  print()
+                  print(
+                      "FAILED:",
+                      code,
+                      error
+                  )
+
+
+                  mark_failure(
+
+                      code,
+
+                      name,
+
+                      "富邦投信",
+
+                      "Fubon Securities Investment Trust",
+
+                      error
+                  )
 
 
           # =========================================
@@ -717,7 +1619,7 @@ jobs:
                   now.isoformat(),
 
               "database_version":
-                  4,
+                  5,
 
               "description":
                   "Taiwan active ETF daily holdings database",
@@ -752,27 +1654,16 @@ jobs:
 
           # =========================================
           # 歷史快照
+          #
+          # 檔名使用執行日。
+          # 每檔 ETF 自己保留 holdings_date，
+          # 避免不同投信發布時間不同造成誤判。
           # =========================================
 
-          snapshot_date = max(
-
-              [
-                  item[
-                      "holdings_date"
-                  ]
-
-                  for item
-                  in successful_results
-
-                  if item.get(
-                      "holdings_date"
-                  )
-              ],
-
-              default=
-                  now.strftime(
-                      "%Y-%m-%d"
-                  )
+          snapshot_date = (
+              now.strftime(
+                  "%Y-%m-%d"
+              )
           )
 
 
@@ -785,6 +1676,28 @@ jobs:
           )
 
 
+          snapshot_output = (
+              json.loads(
+                  json.dumps(output)
+              )
+          )
+
+
+          snapshot_output[
+              "_snapshot"
+          ] = {
+
+              "created_at":
+                  now.isoformat(),
+
+              "snapshot_date":
+                  snapshot_date,
+
+              "note":
+                  "Each ETF keeps its own official holdings_date"
+          }
+
+
           with open(
               history_file,
               "w",
@@ -792,7 +1705,7 @@ jobs:
           ) as f:
 
               json.dump(
-                  output,
+                  snapshot_output,
                   f,
                   ensure_ascii=False,
                   indent=2
@@ -810,10 +1723,17 @@ jobs:
 
 
           TEST_CODES = [
+
               "00400A",
+
               "00980A",
               "00985A",
-              "00999A"
+              "00999A",
+
+              "00995A",
+              "00406A",
+
+              "00405A"
           ]
 
 
@@ -827,6 +1747,7 @@ jobs:
                   )
               )
 
+
               print()
               print(
                   code,
@@ -835,12 +1756,22 @@ jobs:
                   )
               )
 
+
+              print(
+                  "Issuer:",
+                  item.get(
+                      "issuer"
+                  )
+              )
+
+
               print(
                   "Status:",
                   item.get(
                       "status"
                   )
               )
+
 
               print(
                   "Date:",
@@ -849,6 +1780,7 @@ jobs:
                   )
               )
 
+
               print(
                   "Holdings:",
                   item.get(
@@ -856,6 +1788,18 @@ jobs:
                       0
                   )
               )
+
+
+              if item.get(
+                  "last_fetch_status"
+              ):
+
+                  print(
+                      "Last fetch:",
+                      item.get(
+                          "last_fetch_status"
+                      )
+                  )
 
 
               for holding in (
@@ -893,6 +1837,13 @@ jobs:
 
           print()
           print(
+              "Successful fetches:",
+              len(
+                  successful_results
+              )
+          )
+
+          print(
               "Saved:",
               OUTPUT_FILE
           )
@@ -915,6 +1866,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No ETF holding changes"
           else
-            git commit -m "Fix Nomura active ETF holdings"
+            git commit -m "Add CTBC and Fubon active ETF holdings"
             git push
           fi
