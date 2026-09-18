@@ -4,7 +4,6 @@ on:
   workflow_dispatch:
   schedule:
     # 台灣時間週一～週五 22:30
-    # GitHub Actions 使用 UTC
     - cron: "30 14 * * 1-5"
 
 permissions:
@@ -19,14 +18,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Build active ETF holdings database
+      - name: Fetch Cathay 00400A holdings
         run: |
           python - <<'PY'
           import json
           import os
+          import urllib.request
+          import urllib.parse
           from datetime import datetime, timezone, timedelta
 
-          STOCK_FILE = "data/stocks.json"
           OUTPUT_FILE = "data/active_etf_holdings.json"
           HISTORY_DIR = "data/active_etf_holdings_history"
 
@@ -35,118 +35,209 @@ jobs:
 
           tz = timezone(timedelta(hours=8))
           now = datetime.now(tz)
-          today = now.strftime("%Y-%m-%d")
 
-          # -----------------------------------------
-          # 讀取目前 TWSE 股票 / ETF 清單
-          # -----------------------------------------
+          API = (
+              "https://cwapi.cathaysite.com.tw"
+              "/api/ETF/GetETFDetailStockList"
+          )
 
-          if not os.path.exists(STOCK_FILE):
-              raise FileNotFoundError(
-                  "找不到 data/stocks.json，請先執行每日行情更新"
+          ETF_CODE = "00400A"
+          ETF_NAME = "主動國泰動能高息"
+          FUND_CODE = "EA"
+
+          headers = {
+              "User-Agent":
+                  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                  "AppleWebKit/537.36 Chrome/120 Safari/537.36",
+
+              "Accept":
+                  "application/json, text/plain, */*",
+
+              "Accept-Language":
+                  "zh-TW,zh;q=0.9,en;q=0.8",
+
+              "Origin":
+                  "https://www.cathaysite.com.tw",
+
+              "Referer":
+                  "https://www.cathaysite.com.tw/"
+          }
+
+          def fetch(date_text):
+
+              params = urllib.parse.urlencode({
+                  "FundCode": FUND_CODE,
+                  "SearchDate": date_text
+              })
+
+              url = API + "?" + params
+
+              print("Requesting:", date_text)
+
+              request = urllib.request.Request(
+                  url,
+                  headers=headers
               )
 
-          with open(STOCK_FILE, "r", encoding="utf-8") as f:
-              stock_json = json.load(f)
+              try:
+                  with urllib.request.urlopen(
+                      request,
+                      timeout=60
+                  ) as response:
 
-          if isinstance(stock_json, list):
-              rows = stock_json
-          else:
-              rows = (
-                  stock_json.get("stocks")
-                  or stock_json.get("data")
-                  or []
-              )
+                      return json.loads(
+                          response.read().decode("utf-8")
+                      )
+
+              except Exception as error:
+                  print("Request error:", error)
+                  return None
 
           # -----------------------------------------
-          # 自動找出股票型主動 ETF
-          #
-          # TWSE：
-          # 股票型主動 ETF 第六碼為 A
+          # 往前找最近有資料的交易日
+          # 最多找 10 天
           # -----------------------------------------
 
-          active_etfs = []
+          result = None
+          holdings_date = None
 
-          for row in rows:
+          for days_back in range(0, 10):
 
-              if not isinstance(row, dict):
+              target = (
+                  now - timedelta(days=days_back)
+              ).strftime("%Y-%m-%d")
+
+              data = fetch(target)
+
+              if not data:
                   continue
 
-              code = str(
-                  row.get("Code", "")
-              ).strip().upper()
+              if not data.get("success"):
+                  print(
+                      "API returned non-success:",
+                      data.get("returnMessage")
+                  )
+                  continue
 
-              name = str(
-                  row.get("Name", "")
-              ).strip()
+              rows = data.get("result")
 
-              if (
-                  len(code) == 6
-                  and code[:5].isdigit()
-                  and code.endswith("A")
-              ):
-                  active_etfs.append({
-                      "code": code,
-                      "name": name
-                  })
+              if rows:
+                  result = rows
+                  holdings_date = target
+                  break
 
-          active_etfs.sort(
-              key=lambda item: item["code"]
-          )
-
-          print(
-              "Active stock ETFs found:",
-              len(active_etfs)
-          )
-
-          for item in active_etfs:
-              print(
-                  item["code"],
-                  item["name"]
+          if not result:
+              raise RuntimeError(
+                  "00400A 最近 10 天找不到官方持股資料"
               )
 
           # -----------------------------------------
-          # 目前資料庫
-          #
-          # holdings 暫時保持空陣列。
-          #
-          # 下一階段會在這裡加入：
-          # 國泰 / 統一 / 中信 / 其他投信
-          # 官方每日實際投資組合抓取器。
-          #
-          # 不使用假資料。
+          # 整理國泰官方資料
           # -----------------------------------------
 
-          etf_data = {}
+          holdings = []
 
-          for etf in active_etfs:
+          for row in result:
 
-              code = etf["code"]
+              code = str(
+                  row.get("stockCode") or ""
+              ).strip()
 
-              etf_data[code] = {
+              name = str(
+                  row.get("stockName") or ""
+              ).strip()
+
+              if not code:
+                  continue
+
+              try:
+                  shares = int(
+                      float(
+                          str(
+                              row.get("volumn") or "0"
+                          ).replace(",", "")
+                      )
+                  )
+              except Exception:
+                  shares = 0
+
+              try:
+                  weight = float(
+                      str(
+                          row.get("weights") or "0"
+                      )
+                      .replace("%", "")
+                      .replace(",", "")
+                  )
+              except Exception:
+                  weight = 0
+
+              holdings.append({
                   "code": code,
-                  "name": etf["name"],
-                  "holdings_date": None,
-                  "source": None,
-                  "status": "waiting_for_official_source",
-                  "holdings": []
-              }
+                  "name": name,
+                  "shares": shares,
+                  "weight": weight
+              })
+
+          if not holdings:
+              raise RuntimeError(
+                  "API 有回應，但沒有解析到任何持股"
+              )
+
+          holdings.sort(
+              key=lambda item: item["weight"],
+              reverse=True
+          )
 
           # -----------------------------------------
-          # 最新資料
+          # 讀取舊資料
           # -----------------------------------------
 
-          output = {
-              "_meta": {
-                  "updated_at": now.isoformat(),
-                  "database_version": 1,
-                  "description":
-                      "Taiwan active stock ETF daily holdings database",
-                  "active_etf_count":
-                      len(active_etfs),
-                  "history_enabled": True
-              },
-              "etfs": etf_data
+          if os.path.exists(OUTPUT_FILE):
+
+              try:
+                  with open(
+                      OUTPUT_FILE,
+                      "r",
+                      encoding="utf-8"
+                  ) as f:
+
+                      output = json.load(f)
+
+              except Exception:
+                  output = {}
+
+          else:
+              output = {}
+
+          if not isinstance(output, dict):
+              output = {}
+
+          if "etfs" not in output:
+              output["etfs"] = {}
+
+          # -----------------------------------------
+          # 寫入 00400A 真實持股
+          # -----------------------------------------
+
+          output["etfs"][ETF_CODE] = {
+              "code": ETF_CODE,
+              "name": ETF_NAME,
+              "issuer": "國泰投信",
+              "holdings_date": holdings_date,
+              "source":
+                  "Cathay Securities Investment Trust",
+              "status": "success",
+              "holding_count": len(holdings),
+              "holdings": holdings
+          }
+
+          output["_meta"] = {
+              "updated_at": now.isoformat(),
+              "database_version": 2,
+              "description":
+                  "Taiwan active ETF daily holdings database",
+              "history_enabled": True
           }
 
           with open(
@@ -163,22 +254,13 @@ jobs:
               )
 
           # -----------------------------------------
-          # 每日歷史快照
-          #
-          # 未來持股資料接上後：
-          #
-          # 今天 vs 昨天
-          #
-          # 就能計算：
-          # + 增加持股
-          # - 減少持股
-          # + 新增持股
-          # - 退出持股
+          # 以「真正持股日期」保存快照
+          # 不使用 workflow 執行日期冒充資料日期
           # -----------------------------------------
 
           history_file = os.path.join(
               HISTORY_DIR,
-              today + ".json"
+              holdings_date + ".json"
           )
 
           with open(
@@ -194,32 +276,40 @@ jobs:
                   indent=2
               )
 
+          # -----------------------------------------
+          # 顯示結果，方便 Actions 檢查
+          # -----------------------------------------
+
           print()
-          print("==============================")
-          print("ACTIVE ETF DATABASE CREATED")
-          print("==============================")
-          print("Date:", today)
-          print(
-              "ETF count:",
-              len(active_etfs)
-          )
-          print(
-              "Latest file:",
-              OUTPUT_FILE
-          )
-          print(
-              "History file:",
-              history_file
-          )
+          print("================================")
+          print("00400A HOLDINGS SUCCESS")
+          print("================================")
+          print("ETF:", ETF_CODE, ETF_NAME)
+          print("Holdings date:", holdings_date)
+          print("Holding count:", len(holdings))
           print()
-          print(
-              "Official holdings fetchers "
-              "will be added next."
-          )
+
+          print("Top 10 holdings:")
+
+          for item in holdings[:10]:
+
+              print(
+                  item["code"],
+                  item["name"],
+                  "shares:",
+                  item["shares"],
+                  "weight:",
+                  item["weight"],
+                  "%"
+              )
+
+          print()
+          print("Saved:", OUTPUT_FILE)
+          print("Snapshot:", history_file)
 
           PY
 
-      - name: Commit active ETF database
+      - name: Commit active ETF holdings
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -230,6 +320,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No ETF holding changes"
           else
-            git commit -m "Update active ETF holdings database"
+            git commit -m "Update 00400A official holdings"
             git push
           fi
