@@ -292,12 +292,43 @@
           "weight": 0.08
         }
       ]
+    },
+    "00980A": {
+      "code": "00980A",
+      "name": "主動野村臺灣優選",
+      "issuer": "野村投信",
+      "holdings_date": null,
+      "source": "Nomura Asset Management Taiwan",
+      "status": "fetch_failed",
+      "holding_count": 0,
+      "holdings": []
+    },
+    "00985A": {
+      "code": "00985A",
+      "name": "主動野村台灣50",
+      "issuer": "野村投信",
+      "holdings_date": null,
+      "source": "Nomura Asset Management Taiwan",
+      "status": "fetch_failed",
+      "holding_count": 0,
+      "holdings": []
+    },
+    "00999A": {
+      "code": "00999A",
+      "name": "主動野村臺灣智慧優選",
+      "issuer": "野村投信",
+      "holdings_date": null,
+      "source": "Nomura Asset Management Taiwan",
+      "status": "fetch_failed",
+      "holding_count": 0,
+      "holdings": []
     }
   },
   "_meta": {
-    "updated_at": "2026-09-18T20:22:39.308969+08:00",
-    "database_version": 2,
+    "updated_at": "2026-09-18T20:31:45.359315+08:00",
+    "database_version": 3,
     "description": "Taiwan active ETF daily holdings database",
-    "history_enabled": true
+    "history_enabled": true,
+    "successful_fetches": 1
   }
 }
