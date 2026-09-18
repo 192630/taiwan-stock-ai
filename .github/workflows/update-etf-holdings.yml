@@ -18,7 +18,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Fetch Cathay 00400A holdings
+      - name: Fetch active ETF holdings
         run: |
           python - <<'PY'
           import json
@@ -36,162 +36,71 @@ jobs:
           tz = timezone(timedelta(hours=8))
           now = datetime.now(tz)
 
-          API = (
-              "https://cwapi.cathaysite.com.tw"
-              "/api/ETF/GetETFDetailStockList"
-          )
+          # =========================================
+          # 共用工具
+          # =========================================
 
-          ETF_CODE = "00400A"
-          ETF_NAME = "主動國泰動能高息"
-          FUND_CODE = "EA"
+          def to_number(value):
+              if value is None:
+                  return 0
 
-          headers = {
-              "User-Agent":
-                  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                  "AppleWebKit/537.36 Chrome/120 Safari/537.36",
+              text = (
+                  str(value)
+                  .strip()
+                  .replace(",", "")
+                  .replace("%", "")
+              )
 
-              "Accept":
-                  "application/json, text/plain, */*",
+              if text in ("", "-", "--", "None"):
+                  return 0
 
-              "Accept-Language":
-                  "zh-TW,zh;q=0.9,en;q=0.8",
+              try:
+                  return float(text)
+              except Exception:
+                  return 0
 
-              "Origin":
-                  "https://www.cathaysite.com.tw",
 
-              "Referer":
-                  "https://www.cathaysite.com.tw/"
-          }
+          def to_integer(value):
+              try:
+                  return int(to_number(value))
+              except Exception:
+                  return 0
 
-          def fetch(date_text):
 
-              params = urllib.parse.urlencode({
-                  "FundCode": FUND_CODE,
-                  "SearchDate": date_text
-              })
+          def request_json(
+              url,
+              method="GET",
+              data=None,
+              headers=None
+          ):
+              if headers is None:
+                  headers = {}
 
-              url = API + "?" + params
+              body = None
 
-              print("Requesting:", date_text)
+              if data is not None:
+                  body = json.dumps(data).encode("utf-8")
 
               request = urllib.request.Request(
                   url,
-                  headers=headers
+                  data=body,
+                  headers=headers,
+                  method=method
               )
 
-              try:
-                  with urllib.request.urlopen(
-                      request,
-                      timeout=60
-                  ) as response:
+              with urllib.request.urlopen(
+                  request,
+                  timeout=60
+              ) as response:
 
-                      return json.loads(
-                          response.read().decode("utf-8")
-                      )
-
-              except Exception as error:
-                  print("Request error:", error)
-                  return None
-
-          # -----------------------------------------
-          # 往前找最近有資料的交易日
-          # 最多找 10 天
-          # -----------------------------------------
-
-          result = None
-          holdings_date = None
-
-          for days_back in range(0, 10):
-
-              target = (
-                  now - timedelta(days=days_back)
-              ).strftime("%Y-%m-%d")
-
-              data = fetch(target)
-
-              if not data:
-                  continue
-
-              if not data.get("success"):
-                  print(
-                      "API returned non-success:",
-                      data.get("returnMessage")
+                  return json.loads(
+                      response.read().decode("utf-8")
                   )
-                  continue
 
-              rows = data.get("result")
 
-              if rows:
-                  result = rows
-                  holdings_date = target
-                  break
-
-          if not result:
-              raise RuntimeError(
-                  "00400A 最近 10 天找不到官方持股資料"
-              )
-
-          # -----------------------------------------
-          # 整理國泰官方資料
-          # -----------------------------------------
-
-          holdings = []
-
-          for row in result:
-
-              code = str(
-                  row.get("stockCode") or ""
-              ).strip()
-
-              name = str(
-                  row.get("stockName") or ""
-              ).strip()
-
-              if not code:
-                  continue
-
-              try:
-                  shares = int(
-                      float(
-                          str(
-                              row.get("volumn") or "0"
-                          ).replace(",", "")
-                      )
-                  )
-              except Exception:
-                  shares = 0
-
-              try:
-                  weight = float(
-                      str(
-                          row.get("weights") or "0"
-                      )
-                      .replace("%", "")
-                      .replace(",", "")
-                  )
-              except Exception:
-                  weight = 0
-
-              holdings.append({
-                  "code": code,
-                  "name": name,
-                  "shares": shares,
-                  "weight": weight
-              })
-
-          if not holdings:
-              raise RuntimeError(
-                  "API 有回應，但沒有解析到任何持股"
-              )
-
-          holdings.sort(
-              key=lambda item: item["weight"],
-              reverse=True
-          )
-
-          # -----------------------------------------
+          # =========================================
           # 讀取舊資料
-          # -----------------------------------------
+          # =========================================
 
           if os.path.exists(OUTPUT_FILE):
 
@@ -201,7 +110,6 @@ jobs:
                       "r",
                       encoding="utf-8"
                   ) as f:
-
                       output = json.load(f)
 
               except Exception:
@@ -213,32 +121,532 @@ jobs:
           if not isinstance(output, dict):
               output = {}
 
-          if "etfs" not in output:
+          if not isinstance(output.get("etfs"), dict):
               output["etfs"] = {}
 
-          # -----------------------------------------
-          # 寫入 00400A 真實持股
-          # -----------------------------------------
 
-          output["etfs"][ETF_CODE] = {
-              "code": ETF_CODE,
-              "name": ETF_NAME,
-              "issuer": "國泰投信",
-              "holdings_date": holdings_date,
-              "source":
-                  "Cathay Securities Investment Trust",
-              "status": "success",
-              "holding_count": len(holdings),
-              "holdings": holdings
+          # =========================================
+          # 國泰 00400A
+          # =========================================
+
+          def fetch_cathay():
+
+              ETF_CODE = "00400A"
+              ETF_NAME = "主動國泰動能高息"
+              FUND_CODE = "EA"
+
+              API = (
+                  "https://cwapi.cathaysite.com.tw"
+                  "/api/ETF/GetETFDetailStockList"
+              )
+
+              headers = {
+                  "User-Agent":
+                      "Mozilla/5.0 "
+                      "(Windows NT 10.0; Win64; x64) "
+                      "AppleWebKit/537.36 "
+                      "Chrome/120 Safari/537.36",
+
+                  "Accept":
+                      "application/json, text/plain, */*",
+
+                  "Accept-Language":
+                      "zh-TW,zh;q=0.9,en;q=0.8",
+
+                  "Origin":
+                      "https://www.cathaysite.com.tw",
+
+                  "Referer":
+                      "https://www.cathaysite.com.tw/"
+              }
+
+              for days_back in range(0, 10):
+
+                  target = (
+                      now - timedelta(days=days_back)
+                  ).strftime("%Y-%m-%d")
+
+                  params = urllib.parse.urlencode({
+                      "FundCode": FUND_CODE,
+                      "SearchDate": target
+                  })
+
+                  url = API + "?" + params
+
+                  print()
+                  print(
+                      "Cathay:",
+                      ETF_CODE,
+                      target
+                  )
+
+                  try:
+                      data = request_json(
+                          url,
+                          headers=headers
+                      )
+                  except Exception as error:
+                      print(
+                          "Cathay request error:",
+                          error
+                      )
+                      continue
+
+                  if not data.get("success"):
+                      continue
+
+                  rows = data.get("result") or []
+
+                  if not rows:
+                      continue
+
+                  holdings = []
+
+                  for row in rows:
+
+                      code = str(
+                          row.get("stockCode")
+                          or ""
+                      ).strip()
+
+                      name = str(
+                          row.get("stockName")
+                          or ""
+                      ).strip()
+
+                      if not code:
+                          continue
+
+                      holdings.append({
+                          "code": code,
+                          "name": name,
+                          "shares":
+                              to_integer(
+                                  row.get("volumn")
+                              ),
+                          "weight":
+                              to_number(
+                                  row.get("weights")
+                              )
+                      })
+
+                  if holdings:
+
+                      holdings.sort(
+                          key=lambda item:
+                              item["weight"],
+                          reverse=True
+                      )
+
+                      return {
+                          "code": ETF_CODE,
+                          "name": ETF_NAME,
+                          "issuer": "國泰投信",
+                          "holdings_date": target,
+                          "source":
+                              "Cathay Securities Investment Trust",
+                          "status": "success",
+                          "holding_count":
+                              len(holdings),
+                          "holdings":
+                              holdings
+                      }
+
+              raise RuntimeError(
+                  "00400A 最近 10 天找不到持股"
+              )
+
+
+          # =========================================
+          # 野村
+          # =========================================
+
+          NOMURA_ETFS = {
+              "00980A": "主動野村臺灣優選",
+              "00985A": "主動野村台灣50",
+              "00999A": "主動野村臺灣智慧優選"
           }
+
+          NOMURA_API = (
+              "https://www.nomurafunds.com.tw"
+              "/api/fund/ETFPortfolio"
+          )
+
+          nomura_headers = {
+              "User-Agent":
+                  "Mozilla/5.0 "
+                  "(Windows NT 10.0; Win64; x64) "
+                  "AppleWebKit/537.36 "
+                  "Chrome/120 Safari/537.36",
+
+              "Accept":
+                  "application/json, text/plain, */*",
+
+              "Content-Type":
+                  "application/json",
+
+              "Origin":
+                  "https://www.nomurafunds.com.tw",
+
+              "Referer":
+                  "https://www.nomurafunds.com.tw/"
+          }
+
+
+          def find_rows(obj):
+              """
+              野村回傳格式若有小幅調整，
+              遞迴尋找最像股票持股表的陣列。
+              """
+
+              if isinstance(obj, list):
+
+                  if obj and all(
+                      isinstance(item, dict)
+                      for item in obj
+                  ):
+
+                      score = 0
+
+                      for item in obj[:5]:
+
+                          keys = {
+                              str(k).lower()
+                              for k in item.keys()
+                          }
+
+                          if any(
+                              x in keys
+                              for x in (
+                                  "stockcode",
+                                  "stock_code",
+                                  "code",
+                                  "securitiescode"
+                              )
+                          ):
+                              score += 1
+
+                      if score > 0:
+                          return obj
+
+                  for item in obj:
+                      found = find_rows(item)
+
+                      if found:
+                          return found
+
+              if isinstance(obj, dict):
+
+                  for value in obj.values():
+
+                      found = find_rows(value)
+
+                      if found:
+                          return found
+
+              return None
+
+
+          def pick(
+              row,
+              candidates
+          ):
+              for key in candidates:
+
+                  if key in row:
+                      return row.get(key)
+
+              lower_map = {
+                  str(k).lower(): v
+                  for k, v in row.items()
+              }
+
+              for key in candidates:
+
+                  value = lower_map.get(
+                      str(key).lower()
+                  )
+
+                  if value is not None:
+                      return value
+
+              return None
+
+
+          def fetch_nomura(
+              ETF_CODE,
+              ETF_NAME
+          ):
+
+              for days_back in range(0, 10):
+
+                  target_date = (
+                      now - timedelta(days=days_back)
+                  )
+
+                  target = target_date.strftime(
+                      "%Y-%m-%d"
+                  )
+
+                  print()
+                  print(
+                      "Nomura:",
+                      ETF_CODE,
+                      target
+                  )
+
+                  payload_candidates = [
+                      {
+                          "fundCode": ETF_CODE,
+                          "date": target
+                      },
+                      {
+                          "FundCode": ETF_CODE,
+                          "Date": target
+                      },
+                      {
+                          "etfCode": ETF_CODE,
+                          "date": target
+                      }
+                  ]
+
+                  data = None
+
+                  for payload in payload_candidates:
+
+                      try:
+                          candidate = request_json(
+                              NOMURA_API,
+                              method="POST",
+                              data=payload,
+                              headers=nomura_headers
+                          )
+
+                          rows = find_rows(
+                              candidate
+                          )
+
+                          if rows:
+                              data = candidate
+                              break
+
+                      except Exception as error:
+                          print(
+                              "Nomura request error:",
+                              error
+                          )
+
+                  if not data:
+                      continue
+
+                  rows = find_rows(data)
+
+                  if not rows:
+                      continue
+
+                  holdings = []
+
+                  for row in rows:
+
+                      code = pick(
+                          row,
+                          [
+                              "stockCode",
+                              "stock_code",
+                              "StockCode",
+                              "securitiesCode",
+                              "code"
+                          ]
+                      )
+
+                      name = pick(
+                          row,
+                          [
+                              "stockName",
+                              "stock_name",
+                              "StockName",
+                              "securitiesName",
+                              "name"
+                          ]
+                      )
+
+                      shares = pick(
+                          row,
+                          [
+                              "shares",
+                              "share",
+                              "volume",
+                              "volumn",
+                              "qty",
+                              "quantity",
+                              "stockShares"
+                          ]
+                      )
+
+                      weight = pick(
+                          row,
+                          [
+                              "weight",
+                              "weights",
+                              "ratio",
+                              "percentage",
+                              "percent"
+                          ]
+                      )
+
+                      code = str(
+                          code or ""
+                      ).strip()
+
+                      name = str(
+                          name or ""
+                      ).strip()
+
+                      if not code:
+                          continue
+
+                      holdings.append({
+                          "code": code,
+                          "name": name,
+                          "shares":
+                              to_integer(shares),
+                          "weight":
+                              to_number(weight)
+                      })
+
+                  if holdings:
+
+                      holdings.sort(
+                          key=lambda item:
+                              item["weight"],
+                          reverse=True
+                      )
+
+                      return {
+                          "code": ETF_CODE,
+                          "name": ETF_NAME,
+                          "issuer": "野村投信",
+                          "holdings_date": target,
+                          "source":
+                              "Nomura Asset Management Taiwan",
+                          "status": "success",
+                          "holding_count":
+                              len(holdings),
+                          "holdings":
+                              holdings
+                      }
+
+              raise RuntimeError(
+                  ETF_CODE +
+                  " 最近 10 天找不到持股"
+              )
+
+
+          # =========================================
+          # 執行抓取
+          # =========================================
+
+          results = []
+
+          print()
+          print("==============================")
+          print("ACTIVE ETF HOLDINGS UPDATE")
+          print("==============================")
+
+          # 國泰
+          try:
+
+              cathay = fetch_cathay()
+
+              output["etfs"][
+                  cathay["code"]
+              ] = cathay
+
+              results.append(cathay)
+
+              print(
+                  "SUCCESS:",
+                  cathay["code"],
+                  cathay["holding_count"],
+                  "holdings"
+              )
+
+          except Exception as error:
+
+              print(
+                  "FAILED: 00400A",
+                  error
+              )
+
+          # 野村
+          for code, name in NOMURA_ETFS.items():
+
+              try:
+
+                  result = fetch_nomura(
+                      code,
+                      name
+                  )
+
+                  output["etfs"][
+                      code
+                  ] = result
+
+                  results.append(result)
+
+                  print(
+                      "SUCCESS:",
+                      code,
+                      result["holding_count"],
+                      "holdings"
+                  )
+
+              except Exception as error:
+
+                  print(
+                      "FAILED:",
+                      code,
+                      error
+                  )
+
+                  old = output["etfs"].get(
+                      code,
+                      {}
+                  )
+
+                  if not old.get("holdings"):
+
+                      output["etfs"][code] = {
+                          "code": code,
+                          "name": name,
+                          "issuer": "野村投信",
+                          "holdings_date": None,
+                          "source":
+                              "Nomura Asset Management Taiwan",
+                          "status": "fetch_failed",
+                          "holding_count": 0,
+                          "holdings": []
+                      }
+
+
+          # =========================================
+          # Metadata
+          # =========================================
 
           output["_meta"] = {
               "updated_at": now.isoformat(),
-              "database_version": 2,
+              "database_version": 3,
               "description":
                   "Taiwan active ETF daily holdings database",
-              "history_enabled": True
+              "history_enabled": True,
+              "successful_fetches":
+                  len(results)
           }
+
+
+          # =========================================
+          # 最新資料
+          # =========================================
 
           with open(
               OUTPUT_FILE,
@@ -253,14 +661,29 @@ jobs:
                   indent=2
               )
 
-          # -----------------------------------------
-          # 以「真正持股日期」保存快照
-          # 不使用 workflow 執行日期冒充資料日期
-          # -----------------------------------------
+
+          # =========================================
+          # 歷史快照
+          # =========================================
+
+          snapshot_date = (
+              max(
+                  [
+                      item["holdings_date"]
+                      for item in results
+                      if item.get(
+                          "holdings_date"
+                      )
+                  ],
+                  default=now.strftime(
+                      "%Y-%m-%d"
+                  )
+              )
+          )
 
           history_file = os.path.join(
               HISTORY_DIR,
-              holdings_date + ".json"
+              snapshot_date + ".json"
           )
 
           with open(
@@ -276,36 +699,85 @@ jobs:
                   indent=2
               )
 
-          # -----------------------------------------
-          # 顯示結果，方便 Actions 檢查
-          # -----------------------------------------
+
+          # =========================================
+          # Actions 顯示結果
+          # =========================================
 
           print()
-          print("================================")
-          print("00400A HOLDINGS SUCCESS")
-          print("================================")
-          print("ETF:", ETF_CODE, ETF_NAME)
-          print("Holdings date:", holdings_date)
-          print("Holding count:", len(holdings))
-          print()
+          print("==============================")
+          print("UPDATE FINISHED")
+          print("==============================")
 
-          print("Top 10 holdings:")
+          for code in sorted(
+              output["etfs"].keys()
+          ):
 
-          for item in holdings[:10]:
+              item = output[
+                  "etfs"
+              ][code]
 
+              if code not in (
+                  "00400A",
+                  "00980A",
+                  "00985A",
+                  "00999A"
+              ):
+                  continue
+
+              print()
               print(
-                  item["code"],
-                  item["name"],
-                  "shares:",
-                  item["shares"],
-                  "weight:",
-                  item["weight"],
-                  "%"
+                  code,
+                  item.get("name")
               )
 
+              print(
+                  "Status:",
+                  item.get("status")
+              )
+
+              print(
+                  "Date:",
+                  item.get(
+                      "holdings_date"
+                  )
+              )
+
+              print(
+                  "Holdings:",
+                  item.get(
+                      "holding_count",
+                      0
+                  )
+              )
+
+              for holding in (
+                  item.get(
+                      "holdings",
+                      []
+                  )[:5]
+              ):
+
+                  print(
+                      " ",
+                      holding.get("code"),
+                      holding.get("name"),
+                      "shares:",
+                      holding.get("shares"),
+                      "weight:",
+                      holding.get("weight")
+                  )
+
           print()
-          print("Saved:", OUTPUT_FILE)
-          print("Snapshot:", history_file)
+          print(
+              "Saved:",
+              OUTPUT_FILE
+          )
+
+          print(
+              "Snapshot:",
+              history_file
+          )
 
           PY
 
@@ -320,6 +792,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No ETF holding changes"
           else
-            git commit -m "Update 00400A official holdings"
+            git commit -m "Update active ETF official holdings"
             git push
           fi
