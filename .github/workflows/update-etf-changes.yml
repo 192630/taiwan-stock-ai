@@ -1,0 +1,965 @@
+name: Update Active ETF Changes
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 台灣時間週一～週五 23:50
+    # 等三批持股都更新完再計算
+    - cron: "50 15 * * 1-5"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Calculate ETF holding changes
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          from datetime import datetime, timezone, timedelta
+
+          HISTORY_DIR = "data/active_etf_holdings_history"
+          OUTPUT_FILE = "data/active_etf_changes.json"
+
+          tz = timezone(timedelta(hours=8))
+          now = datetime.now(tz)
+
+          if not os.path.exists(HISTORY_DIR):
+              raise RuntimeError(
+                  "找不到 active_etf_holdings_history"
+              )
+
+          files = sorted([
+              name
+              for name in os.listdir(HISTORY_DIR)
+              if name.endswith(".json")
+          ])
+
+          if len(files) < 2:
+              raise RuntimeError(
+                  "至少需要兩天持股快照才能比較"
+              )
+
+          current_file = files[-1]
+          previous_file = files[-2]
+
+          current_path = os.path.join(
+              HISTORY_DIR,
+              current_file
+          )
+
+          previous_path = os.path.join(
+              HISTORY_DIR,
+              previous_file
+          )
+
+          with open(
+              current_path,
+              "r",
+              encoding="utf-8"
+          ) as f:
+              current = json.load(f)
+
+          with open(
+              previous_path,
+              "r",
+              encoding="utf-8"
+          ) as f:
+              previous = json.load(f)
+
+          current_etfs = (
+              current.get("etfs")
+              or {}
+          )
+
+          previous_etfs = (
+              previous.get("etfs")
+              or {}
+          )
+
+          result = {
+              "_meta": {
+                  "updated_at":
+                      now.isoformat(),
+
+                  "current_snapshot":
+                      current_file,
+
+                  "previous_snapshot":
+                      previous_file,
+
+                  "description":
+                      (
+                          "Daily active ETF holding changes. "
+                          "Changes mean differences between "
+                          "daily portfolio snapshots and do "
+                          "not necessarily equal intraday "
+                          "buy/sell transactions."
+                      )
+              },
+
+              "etfs": {}
+          }
+
+
+          def holding_map(
+              etf
+          ):
+
+              mapping = {}
+
+              for row in (
+                  etf.get("holdings")
+                  or []
+              ):
+
+                  code = str(
+                      row.get("code")
+                      or ""
+                  ).strip()
+
+                  if not code:
+                      continue
+
+                  mapping[code] = row
+
+              return mapping
+
+
+          for code in sorted(
+              current_etfs.keys()
+          ):
+
+              today_etf = (
+                  current_etfs.get(code)
+                  or {}
+              )
+
+              old_etf = (
+                  previous_etfs.get(code)
+                  or {}
+              )
+
+              today_date = (
+                  today_etf.get(
+                      "holdings_date"
+                  )
+              )
+
+              old_date = (
+                  old_etf.get(
+                      "holdings_date"
+                  )
+              )
+
+              # 如果沒有前一份資料
+              if not old_etf.get(
+                  "holdings"
+              ):
+
+                  result["etfs"][
+                      code
+                  ] = {
+
+                      "code":
+                          code,
+
+                      "name":
+                          today_etf.get(
+                              "name"
+                          ),
+
+                      "issuer":
+                          today_etf.get(
+                              "issuer"
+                          ),
+
+                      "current_date":
+                          today_date,
+
+                      "previous_date":
+                          old_date,
+
+                      "status":
+                          "no_previous_data",
+
+                      "increased":
+                          [],
+
+                      "decreased":
+                          [],
+
+                      "new":
+                          [],
+
+                      "removed":
+                          [],
+
+                      "unchanged":
+                          []
+                  }
+
+                  continue
+
+
+              # 官方資料日期沒變，
+              # 代表不是新的投資組合
+              if (
+                  today_date
+                  and old_date
+                  and today_date == old_date
+              ):
+
+                  result["etfs"][
+                      code
+                  ] = {
+
+                      "code":
+                          code,
+
+                      "name":
+                          today_etf.get(
+                              "name"
+                          ),
+
+                      "issuer":
+                          today_etf.get(
+                              "issuer"
+                          ),
+
+                      "current_date":
+                          today_date,
+
+                      "previous_date":
+                          old_date,
+
+                      "status":
+                          "same_holdings_date",
+
+                      "increased":
+                          [],
+
+                      "decreased":
+                          [],
+
+                      "new":
+                          [],
+
+                      "removed":
+                          [],
+
+                      "unchanged":
+                          []
+                  }
+
+                  continue
+
+
+              today_map = holding_map(
+                  today_etf
+              )
+
+              old_map = holding_map(
+                  old_etf
+              )
+
+              increased = []
+              decreased = []
+              new_positions = []
+              removed = []
+              unchanged = []
+
+
+              all_codes = sorted(
+                  set(
+                      today_map.keys()
+                  )
+                  |
+                  set(
+                      old_map.keys()
+                  )
+              )
+
+
+              for stock_code in all_codes:
+
+                  new_row = (
+                      today_map.get(
+                          stock_code
+                      )
+                  )
+
+                  old_row = (
+                      old_map.get(
+                          stock_code
+                      )
+                  )
+
+
+                  # 新增持股
+                  if (
+                      new_row
+                      and not old_row
+                  ):
+
+                      shares = int(
+                          new_row.get(
+                              "shares"
+                          )
+                          or 0
+                      )
+
+                      new_positions.append({
+
+                          "code":
+                              stock_code,
+
+                          "name":
+                              new_row.get(
+                                  "name"
+                              ),
+
+                          "shares":
+                              shares,
+
+                          "weight":
+                              new_row.get(
+                                  "weight",
+                                  0
+                              )
+                      })
+
+                      continue
+
+
+                  # 完全退出
+                  if (
+                      old_row
+                      and not new_row
+                  ):
+
+                      old_shares = int(
+                          old_row.get(
+                              "shares"
+                          )
+                          or 0
+                      )
+
+                      removed.append({
+
+                          "code":
+                              stock_code,
+
+                          "name":
+                              old_row.get(
+                                  "name"
+                              ),
+
+                          "previous_shares":
+                              old_shares,
+
+                          "current_shares":
+                              0,
+
+                          "change_shares":
+                              -old_shares
+                      })
+
+                      continue
+
+
+                  old_shares = int(
+                      old_row.get(
+                          "shares"
+                      )
+                      or 0
+                  )
+
+                  new_shares = int(
+                      new_row.get(
+                          "shares"
+                      )
+                      or 0
+                  )
+
+                  change = (
+                      new_shares
+                      - old_shares
+                  )
+
+
+                  item = {
+
+                      "code":
+                          stock_code,
+
+                      "name":
+                          (
+                              new_row.get(
+                                  "name"
+                              )
+                              or
+                              old_row.get(
+                                  "name"
+                              )
+                          ),
+
+                      "previous_shares":
+                          old_shares,
+
+                      "current_shares":
+                          new_shares,
+
+                      "change_shares":
+                          change,
+
+                      "previous_weight":
+                          old_row.get(
+                              "weight",
+                              0
+                          ),
+
+                      "current_weight":
+                          new_row.get(
+                              "weight",
+                              0
+                          )
+                  }
+
+
+                  if change > 0:
+
+                      increased.append(
+                          item
+                      )
+
+                  elif change < 0:
+
+                      decreased.append(
+                          item
+                      )
+
+                  else:
+
+                      unchanged.append(
+                          item
+                      )
+
+
+              increased.sort(
+                  key=lambda item:
+                      item["change_shares"],
+                  reverse=True
+              )
+
+              decreased.sort(
+                  key=lambda item:
+                      item["change_shares"]
+              )
+
+              new_positions.sort(
+                  key=lambda item:
+                      item["shares"],
+                  reverse=True
+              )
+
+              removed.sort(
+                  key=lambda item:
+                      abs(
+                          item[
+                              "change_shares"
+                          ]
+                      ),
+                  reverse=True
+              )
+
+
+              result["etfs"][
+                  code
+              ] = {
+
+                  "code":
+                      code,
+
+                  "name":
+                      today_etf.get(
+                          "name"
+                      ),
+
+                  "issuer":
+                      today_etf.get(
+                          "issuer"
+                      ),
+
+                  "current_date":
+                      today_date,
+
+                  "previous_date":
+                      old_date,
+
+                  "status":
+                      "success",
+
+                  "summary": {
+
+                      "increased_count":
+                          len(
+                              increased
+                          ),
+
+                      "decreased_count":
+                          len(
+                              decreased
+                          ),
+
+                      "new_count":
+                          len(
+                              new_positions
+                          ),
+
+                      "removed_count":
+                          len(
+                              removed
+                          ),
+
+                      "unchanged_count":
+                          len(
+                              unchanged
+                          )
+                  },
+
+                  "increased":
+                      increased,
+
+                  "decreased":
+                      decreased,
+
+                  "new":
+                      new_positions,
+
+                  "removed":
+                      removed,
+
+                  "unchanged":
+                      unchanged
+              }
+
+
+          # =========================================
+          # ETF 集體共識
+          # =========================================
+
+          consensus = {}
+
+
+          for etf_code, etf in (
+              result["etfs"].items()
+          ):
+
+              if (
+                  etf.get("status")
+                  != "success"
+              ):
+                  continue
+
+
+              for item in (
+                  etf.get(
+                      "increased"
+                  )
+                  or []
+              ):
+
+                  stock_code = (
+                      item["code"]
+                  )
+
+                  if stock_code not in consensus:
+
+                      consensus[
+                          stock_code
+                      ] = {
+
+                          "code":
+                              stock_code,
+
+                          "name":
+                              item.get(
+                                  "name"
+                              ),
+
+                          "increased_etfs":
+                              [],
+
+                          "decreased_etfs":
+                              [],
+
+                          "new_etfs":
+                              [],
+
+                          "removed_etfs":
+                              []
+                      }
+
+                  consensus[
+                      stock_code
+                  ][
+                      "increased_etfs"
+                  ].append(
+                      etf_code
+                  )
+
+
+              for item in (
+                  etf.get(
+                      "decreased"
+                  )
+                  or []
+              ):
+
+                  stock_code = (
+                      item["code"]
+                  )
+
+                  if stock_code not in consensus:
+
+                      consensus[
+                          stock_code
+                      ] = {
+
+                          "code":
+                              stock_code,
+
+                          "name":
+                              item.get(
+                                  "name"
+                              ),
+
+                          "increased_etfs":
+                              [],
+
+                          "decreased_etfs":
+                              [],
+
+                          "new_etfs":
+                              [],
+
+                          "removed_etfs":
+                              []
+                      }
+
+                  consensus[
+                      stock_code
+                  ][
+                      "decreased_etfs"
+                  ].append(
+                      etf_code
+                  )
+
+
+              for item in (
+                  etf.get(
+                      "new"
+                  )
+                  or []
+              ):
+
+                  stock_code = (
+                      item["code"]
+                  )
+
+                  if stock_code not in consensus:
+
+                      consensus[
+                          stock_code
+                      ] = {
+
+                          "code":
+                              stock_code,
+
+                          "name":
+                              item.get(
+                                  "name"
+                              ),
+
+                          "increased_etfs":
+                              [],
+
+                          "decreased_etfs":
+                              [],
+
+                          "new_etfs":
+                              [],
+
+                          "removed_etfs":
+                              []
+                      }
+
+                  consensus[
+                      stock_code
+                  ][
+                      "new_etfs"
+                  ].append(
+                      etf_code
+                  )
+
+
+              for item in (
+                  etf.get(
+                      "removed"
+                  )
+                  or []
+              ):
+
+                  stock_code = (
+                      item["code"]
+                  )
+
+                  if stock_code not in consensus:
+
+                      consensus[
+                          stock_code
+                      ] = {
+
+                          "code":
+                              stock_code,
+
+                          "name":
+                              item.get(
+                                  "name"
+                              ),
+
+                          "increased_etfs":
+                              [],
+
+                          "decreased_etfs":
+                              [],
+
+                          "new_etfs":
+                              [],
+
+                          "removed_etfs":
+                              []
+                      }
+
+                  consensus[
+                      stock_code
+                  ][
+                      "removed_etfs"
+                  ].append(
+                      etf_code
+                  )
+
+
+          consensus_list = []
+
+          for item in consensus.values():
+
+              item[
+                  "increased_count"
+              ] = len(
+                  item[
+                      "increased_etfs"
+                  ]
+              )
+
+              item[
+                  "decreased_count"
+              ] = len(
+                  item[
+                      "decreased_etfs"
+                  ]
+              )
+
+              item[
+                  "new_count"
+              ] = len(
+                  item[
+                      "new_etfs"
+                  ]
+              )
+
+              item[
+                  "removed_count"
+              ] = len(
+                  item[
+                      "removed_etfs"
+                  ]
+              )
+
+              item[
+                  "net_etf_count"
+              ] = (
+                  item[
+                      "increased_count"
+                  ]
+                  +
+                  item[
+                      "new_count"
+                  ]
+                  -
+                  item[
+                      "decreased_count"
+                  ]
+                  -
+                  item[
+                      "removed_count"
+                  ]
+              )
+
+              consensus_list.append(
+                  item
+              )
+
+
+          consensus_list.sort(
+
+              key=lambda item: (
+
+                  item[
+                      "net_etf_count"
+                  ],
+
+                  item[
+                      "increased_count"
+                  ]
+                  +
+                  item[
+                      "new_count"
+                  ]
+
+              ),
+
+              reverse=True
+          )
+
+
+          result[
+              "consensus"
+          ] = consensus_list
+
+
+          with open(
+              OUTPUT_FILE,
+              "w",
+              encoding="utf-8"
+          ) as f:
+
+              json.dump(
+                  result,
+                  f,
+                  ensure_ascii=False,
+                  indent=2
+              )
+
+
+          # =========================================
+          # Actions 顯示
+          # =========================================
+
+          success_count = sum(
+
+              1
+
+              for item in
+              result["etfs"].values()
+
+              if item.get(
+                  "status"
+              ) == "success"
+          )
+
+
+          print()
+          print("==============================")
+          print("ETF CHANGES FINISHED")
+          print("==============================")
+
+          print(
+              "Current snapshot:",
+              current_file
+          )
+
+          print(
+              "Previous snapshot:",
+              previous_file
+          )
+
+          print(
+              "ETFs compared:",
+              success_count
+          )
+
+
+          print()
+          print(
+              "TOP CONSENSUS INCREASE"
+          )
+
+
+          for item in (
+              consensus_list[:10]
+          ):
+
+              print(
+
+                  item["code"],
+
+                  item["name"],
+
+                  "increase:",
+                  item[
+                      "increased_count"
+                  ],
+
+                  "new:",
+                  item[
+                      "new_count"
+                  ],
+
+                  "decrease:",
+                  item[
+                      "decreased_count"
+                  ],
+
+                  "removed:",
+                  item[
+                      "removed_count"
+                  ],
+
+                  "net:",
+                  item[
+                      "net_etf_count"
+                  ]
+              )
+
+
+          print()
+          print(
+              "Saved:",
+              OUTPUT_FILE
+          )
+
+          PY
+
+      - name: Commit ETF changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/active_etf_changes.json
+
+          if git diff --cached --quiet; then
+            echo "No ETF change updates"
+          else
+            git commit -m "Update active ETF holding changes"
+            git push
+          fi
