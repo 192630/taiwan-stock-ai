@@ -1,0 +1,2064 @@
+name: Update Active ETF Holdings Batch 3
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 台灣時間週一～週五 23:30
+    - cron: "30 15 * * 1-5"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install Python packages
+        run: |
+          pip install requests beautifulsoup4 playwright
+          playwright install chromium
+
+      - name: Fetch batch 3 active ETF holdings
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          import re
+          import time
+          import requests
+          import urllib3
+
+          from bs4 import BeautifulSoup
+          from datetime import datetime, timezone, timedelta
+          from playwright.sync_api import sync_playwright
+
+          urllib3.disable_warnings(
+              urllib3.exceptions.InsecureRequestWarning
+          )
+
+          OUTPUT_FILE = "data/active_etf_holdings.json"
+          HISTORY_DIR = "data/active_etf_holdings_history"
+
+          os.makedirs("data", exist_ok=True)
+          os.makedirs(HISTORY_DIR, exist_ok=True)
+
+          tz = timezone(timedelta(hours=8))
+          now = datetime.now(tz)
+
+          HEADERS = {
+              "User-Agent":
+                  "Mozilla/5.0 "
+                  "(Windows NT 10.0; Win64; x64) "
+                  "AppleWebKit/537.36 "
+                  "(KHTML, like Gecko) "
+                  "Chrome/120.0.0.0 Safari/537.36",
+
+              "Accept-Language":
+                  "zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7"
+          }
+
+
+          # =========================================
+          # 共用工具
+          # =========================================
+
+          def to_number(value):
+
+              if value is None:
+                  return 0
+
+              text = (
+                  str(value)
+                  .strip()
+                  .replace(",", "")
+                  .replace("%", "")
+                  .replace(" ", "")
+              )
+
+              if text in (
+                  "",
+                  "-",
+                  "--",
+                  "nan",
+                  "None"
+              ):
+                  return 0
+
+              try:
+                  return float(text)
+              except Exception:
+                  return 0
+
+
+          def to_integer(value):
+
+              try:
+                  return int(
+                      float(
+                          str(value)
+                          .replace(",", "")
+                          .replace(" ", "")
+                          .strip()
+                      )
+                  )
+              except Exception:
+                  return 0
+
+
+          def roc_date(date_text):
+
+              dt = datetime.strptime(
+                  date_text,
+                  "%Y-%m-%d"
+              )
+
+              year = dt.year - 1911
+
+              return (
+                  f"{year}/"
+                  f"{dt.month:02d}/"
+                  f"{dt.day:02d}"
+              )
+
+
+          # =========================================
+          # 讀取舊資料
+          # =========================================
+
+          if os.path.exists(OUTPUT_FILE):
+
+              try:
+
+                  with open(
+                      OUTPUT_FILE,
+                      "r",
+                      encoding="utf-8"
+                  ) as f:
+
+                      output = json.load(f)
+
+              except Exception:
+
+                  output = {}
+
+          else:
+
+              output = {}
+
+
+          if not isinstance(output, dict):
+              output = {}
+
+          if not isinstance(
+              output.get("etfs"),
+              dict
+          ):
+              output["etfs"] = {}
+
+
+          successful_results = []
+
+
+          def build_result(
+              code,
+              name,
+              issuer,
+              source,
+              holdings_date,
+              holdings
+          ):
+
+              holdings.sort(
+                  key=lambda item:
+                      item.get("weight", 0),
+                  reverse=True
+              )
+
+              return {
+
+                  "code":
+                      code,
+
+                  "name":
+                      name,
+
+                  "issuer":
+                      issuer,
+
+                  "holdings_date":
+                      holdings_date,
+
+                  "source":
+                      source,
+
+                  "status":
+                      "success",
+
+                  "holding_count":
+                      len(holdings),
+
+                  "holdings":
+                      holdings
+              }
+
+
+          def save_success(result):
+
+              output["etfs"][
+                  result["code"]
+              ] = result
+
+              successful_results.append(
+                  result
+              )
+
+              print()
+              print(
+                  "SUCCESS:",
+                  result["code"],
+                  result["holding_count"],
+                  "holdings"
+              )
+
+
+          def save_failure(
+              code,
+              name,
+              issuer,
+              source,
+              error
+          ):
+
+              print()
+              print(
+                  "FAILED:",
+                  code,
+                  error
+              )
+
+              old = (
+                  output["etfs"]
+                  .get(code, {})
+              )
+
+              # 如果以前有成功資料，不洗掉
+              if old.get("holdings"):
+
+                  old[
+                      "last_fetch_status"
+                  ] = "failed"
+
+                  old[
+                      "last_fetch_error"
+                  ] = str(error)
+
+                  output["etfs"][
+                      code
+                  ] = old
+
+              else:
+
+                  output["etfs"][
+                      code
+                  ] = {
+
+                      "code":
+                          code,
+
+                      "name":
+                          name,
+
+                      "issuer":
+                          issuer,
+
+                      "holdings_date":
+                          None,
+
+                      "source":
+                          source,
+
+                      "status":
+                          "fetch_failed",
+
+                      "holding_count":
+                          0,
+
+                      "holdings":
+                          [],
+
+                      "last_fetch_error":
+                          str(error)
+                  }
+
+
+          # =========================================
+          # 統一投信 EZMoney
+          #
+          # 00981A -> 49YTW
+          # 00403A -> 63YTW
+          #
+          # 官方 GetPCF API
+          # =========================================
+
+          EZMONEY_ETFS = {
+
+              "00981A": {
+                  "fund_code":
+                      "49YTW",
+                  "name":
+                      "主動統一台股增長"
+              },
+
+              "00403A": {
+                  "fund_code":
+                      "63YTW",
+                  "name":
+                      "主動統一升級50"
+              }
+          }
+
+
+          EZMONEY_API = (
+              "https://www.ezmoney.com.tw"
+              "/ETF/Transaction/GetPCF"
+          )
+
+
+          def fetch_ezmoney(
+              etf_code,
+              fund_code,
+              etf_name
+          ):
+
+              headers = {
+
+                  **HEADERS,
+
+                  "Accept":
+                      "application/json, "
+                      "text/javascript, */*; q=0.01",
+
+                  "Content-Type":
+                      "application/json; charset=UTF-8",
+
+                  "Origin":
+                      "https://www.ezmoney.com.tw",
+
+                  "Referer":
+                      "https://www.ezmoney.com.tw/"
+                      "ETF/Transaction/PCF",
+
+                  "X-Requested-With":
+                      "XMLHttpRequest"
+              }
+
+
+              session = requests.Session()
+
+
+              for days_back in range(
+                  0,
+                  10
+              ):
+
+                  target = (
+                      now -
+                      timedelta(
+                          days=days_back
+                      )
+                  ).strftime(
+                      "%Y-%m-%d"
+                  )
+
+                  print()
+                  print(
+                      "EZMoney:",
+                      etf_code,
+                      target
+                  )
+
+
+                  payload = {
+
+                      "fundCode":
+                          fund_code,
+
+                      "date":
+                          roc_date(target),
+
+                      "specificDate":
+                          True
+                  }
+
+
+                  try:
+
+                      response = session.post(
+
+                          EZMONEY_API,
+
+                          json=payload,
+
+                          headers=headers,
+
+                          timeout=30,
+
+                          verify=False
+                      )
+
+
+                      print(
+                          "HTTP:",
+                          response.status_code
+                      )
+
+
+                      if (
+                          response.status_code
+                          != 200
+                      ):
+                          continue
+
+
+                      data = response.json()
+
+
+                  except Exception as error:
+
+                      print(
+                          "EZMoney request error:",
+                          error
+                      )
+
+                      continue
+
+
+                  assets = (
+                      data.get("asset")
+                      or []
+                  )
+
+
+                  stock_asset = None
+
+
+                  for asset in assets:
+
+                      if (
+                          asset.get(
+                              "AssetCode"
+                          )
+                          == "ST"
+                      ):
+
+                          stock_asset = asset
+                          break
+
+
+                  if not stock_asset:
+                      continue
+
+
+                  details = (
+                      stock_asset.get(
+                          "Details"
+                      )
+                      or []
+                  )
+
+
+                  holdings = []
+
+
+                  for row in details:
+
+                      code = str(
+                          row.get(
+                              "DetailCode"
+                          )
+                          or ""
+                      ).strip()
+
+
+                      if not (
+                          code.isdigit()
+                          and len(code) == 4
+                      ):
+                          continue
+
+
+                      holdings.append({
+
+                          "code":
+                              code,
+
+                          "name":
+                              str(
+                                  row.get(
+                                      "DetailName"
+                                  )
+                                  or ""
+                              ).strip(),
+
+                          "shares":
+                              to_integer(
+                                  row.get(
+                                      "Share"
+                                  )
+                              ),
+
+                          "weight":
+                              to_number(
+                                  row.get(
+                                      "NavRate"
+                                  )
+                              )
+                      })
+
+
+                  if holdings:
+
+                      return build_result(
+
+                          etf_code,
+
+                          etf_name,
+
+                          "統一投信",
+
+                          "Uni-President Asset Management",
+
+                          target,
+
+                          holdings
+                      )
+
+
+              raise RuntimeError(
+                  etf_code +
+                  " 最近 10 天找不到持股"
+              )
+
+
+          # =========================================
+          # 安聯投信
+          #
+          # 00984A -> E0001
+          # 00993A -> E0002
+          #
+          # Playwright DOM
+          # =========================================
+
+          ALLIANZ_ETFS = {
+
+              "00984A": {
+                  "fund_id":
+                      "E0001",
+                  "name":
+                      "主動安聯台灣高息"
+              },
+
+              "00993A": {
+                  "fund_id":
+                      "E0002",
+                  "name":
+                      "主動安聯台灣"
+              }
+          }
+
+
+          def fetch_allianz(
+              etf_code,
+              fund_id,
+              etf_name
+          ):
+
+              url = (
+                  "https://etf.allianzgi.com.tw"
+                  f"/etf-info/{fund_id}?tab=4"
+              )
+
+
+              print()
+              print(
+                  "Allianz:",
+                  etf_code,
+                  url
+              )
+
+
+              fallback_date = (
+                  now.strftime(
+                      "%Y-%m-%d"
+                  )
+              )
+
+
+              with sync_playwright() as p:
+
+                  browser = p.chromium.launch(
+                      headless=True
+                  )
+
+                  context = (
+                      browser.new_context(
+                          user_agent=
+                              HEADERS[
+                                  "User-Agent"
+                              ]
+                      )
+                  )
+
+                  page = (
+                      context.new_page()
+                  )
+
+
+                  try:
+
+                      page.goto(
+                          url,
+                          timeout=60000
+                      )
+
+                      time.sleep(3)
+
+
+                      # 把所有「顯示更多」點完
+                      click_count = 0
+
+
+                      while click_count < 20:
+
+                          buttons = page.locator(
+                              'text="顯示更多"'
+                          ).all()
+
+
+                          visible_buttons = [
+
+                              button
+
+                              for button
+                              in buttons
+
+                              if button.is_visible()
+                          ]
+
+
+                          if not visible_buttons:
+                              break
+
+
+                          try:
+
+                              visible_buttons[
+                                  0
+                              ].click(
+                                  timeout=5000
+                              )
+
+                              click_count += 1
+
+                              time.sleep(1)
+
+                          except Exception:
+
+                              break
+
+
+                      page_text = (
+                          page.evaluate(
+                              "() => "
+                              "document.body.innerText"
+                          )
+                      )
+
+
+                      match = re.search(
+
+                          r"資料日期\s*[:：]\s*"
+                          r"(20\d{2})"
+                          r"[/\-年]"
+                          r"(\d{1,2})"
+                          r"[/\-月]"
+                          r"(\d{1,2})",
+
+                          page_text
+                      )
+
+
+                      if match:
+
+                          y, m, d = (
+                              match.groups()
+                          )
+
+                          actual_date = (
+
+                              f"{y}-"
+                              f"{int(m):02d}-"
+                              f"{int(d):02d}"
+                          )
+
+                      else:
+
+                          actual_date = (
+                              fallback_date
+                          )
+
+
+                      holdings = []
+
+
+                      tables = (
+                          page.locator(
+                              "table"
+                          ).all()
+                      )
+
+
+                      for table in tables:
+
+                          rows = (
+                              table.locator(
+                                  "tr"
+                              ).all()
+                          )
+
+
+                          if len(rows) < 2:
+                              continue
+
+
+                          header_text = (
+                              rows[0]
+                              .inner_text()
+                          )
+
+
+                          if (
+                              "股票代號"
+                              not in header_text
+                              or
+                              "股票名稱"
+                              not in header_text
+                          ):
+                              continue
+
+
+                          for row in rows[1:]:
+
+                              cells = (
+                                  row.locator(
+                                      "td"
+                                  ).all()
+                              )
+
+
+                              if len(cells) < 5:
+                                  continue
+
+
+                              code = (
+                                  cells[1]
+                                  .inner_text()
+                                  .strip()
+                              )
+
+
+                              if not (
+                                  code.isdigit()
+                                  and len(code) == 4
+                              ):
+                                  continue
+
+
+                              holdings.append({
+
+                                  "code":
+                                      code,
+
+                                  "name":
+                                      cells[2]
+                                      .inner_text()
+                                      .strip(),
+
+                                  "shares":
+                                      to_integer(
+                                          cells[3]
+                                          .inner_text()
+                                      ),
+
+                                  "weight":
+                                      to_number(
+                                          cells[4]
+                                          .inner_text()
+                                      )
+                              })
+
+
+                  finally:
+
+                      browser.close()
+
+
+              if not holdings:
+
+                  raise RuntimeError(
+                      etf_code +
+                      " 沒有解析到持股"
+                  )
+
+
+              return build_result(
+
+                  etf_code,
+
+                  etf_name,
+
+                  "安聯投信",
+
+                  "Allianz Global Investors Taiwan",
+
+                  actual_date,
+
+                  holdings
+              )
+
+
+          # =========================================
+          # 兆豐投信
+          #
+          # 00996A -> fund_id 23
+          #
+          # WebForms：
+          # GET VIEWSTATE → POST 切換基金
+          # =========================================
+
+          def fetch_mega():
+
+              ETF_CODE = "00996A"
+              ETF_NAME = "主動兆豐台灣豐收"
+              FUND_ID = "23"
+
+              url = (
+                  "https://www.megafunds.com.tw/"
+                  "MEGA/etf/trade_pcf.aspx"
+              )
+
+
+              print()
+              print(
+                  "Mega:",
+                  ETF_CODE
+              )
+
+
+              session = requests.Session()
+
+              session.headers.update(
+                  HEADERS
+              )
+
+
+              first = session.get(
+                  url,
+                  timeout=20,
+                  verify=False
+              )
+
+
+              print(
+                  "GET HTTP:",
+                  first.status_code
+              )
+
+
+              first.raise_for_status()
+
+
+              first_soup = BeautifulSoup(
+                  first.text,
+                  "html.parser"
+              )
+
+
+              def hidden(name):
+
+                  element = (
+                      first_soup.find(
+                          "input",
+                          {"name": name}
+                      )
+                  )
+
+                  return (
+                      element.get(
+                          "value",
+                          ""
+                      )
+                      if element
+                      else ""
+                  )
+
+
+              prefix = (
+                  "ctl00$"
+                  "ContentPlaceHolder1$"
+              )
+
+
+              payload = {
+
+                  "__VIEWSTATE":
+                      hidden(
+                          "__VIEWSTATE"
+                      ),
+
+                  "__VIEWSTATEGENERATOR":
+                      hidden(
+                          "__VIEWSTATEGENERATOR"
+                      ),
+
+                  "__VIEWSTATEENCRYPTED":
+                      "",
+
+                  prefix + "category_id":
+                      "",
+
+                  prefix + "fund_id":
+                      FUND_ID,
+
+                  prefix + "qdt":
+                      "",
+
+                  prefix + "button1":
+                      "查 詢"
+              }
+
+
+              response = session.post(
+
+                  url,
+
+                  data=payload,
+
+                  timeout=20,
+
+                  verify=False
+              )
+
+
+              print(
+                  "POST HTTP:",
+                  response.status_code
+              )
+
+
+              response.raise_for_status()
+
+
+              soup = BeautifulSoup(
+                  response.text,
+                  "html.parser"
+              )
+
+
+              text = soup.get_text(
+                  " ",
+                  strip=True
+              )
+
+
+              if not re.search(
+                  r"股票代號[：:\s]*"
+                  + re.escape(
+                      ETF_CODE
+                  )
+                  + r"\b",
+                  text
+              ):
+
+                  raise RuntimeError(
+                      "兆豐頁面沒有切換到 00996A"
+                  )
+
+
+              found = set(
+
+                  re.findall(
+
+                      r"(20\d{2}/"
+                      r"\d{1,2}/"
+                      r"\d{1,2})"
+                      r"(?=\s*每基數)",
+
+                      text
+                  )
+              )
+
+
+              if len(found) == 1:
+
+                  date_text = (
+                      found.pop()
+                  )
+
+                  y, m, d = (
+                      date_text.split("/")
+                  )
+
+                  actual_date = (
+
+                      f"{y}-"
+                      f"{int(m):02d}-"
+                      f"{int(d):02d}"
+                  )
+
+              else:
+
+                  actual_date = (
+                      now.strftime(
+                          "%Y-%m-%d"
+                      )
+                  )
+
+
+              table = soup.find(
+                  "table",
+                  class_="table-stock"
+              )
+
+
+              if not table:
+
+                  raise RuntimeError(
+                      "兆豐找不到股票持股表"
+                  )
+
+
+              holdings = []
+
+
+              for row in table.find_all(
+                  "tr"
+              ):
+
+                  cols = row.find_all(
+                      ["td", "th"]
+                  )
+
+
+                  if len(cols) < 4:
+                      continue
+
+
+                  code = (
+                      cols[0]
+                      .get_text(
+                          strip=True
+                      )
+                  )
+
+
+                  if not (
+                      code.isdigit()
+                      and len(code) == 4
+                  ):
+                      continue
+
+
+                  holdings.append({
+
+                      "code":
+                          code,
+
+                      "name":
+                          cols[1]
+                          .get_text(
+                              strip=True
+                          ),
+
+                      "shares":
+                          to_integer(
+                              cols[2]
+                              .get_text(
+                                  strip=True
+                              )
+                          ),
+
+                      "weight":
+                          to_number(
+                              cols[3]
+                              .get_text(
+                                  strip=True
+                              )
+                          )
+                  })
+
+
+              if not holdings:
+
+                  raise RuntimeError(
+                      "00996A 沒有解析到持股"
+                  )
+
+
+              return build_result(
+
+                  ETF_CODE,
+
+                  ETF_NAME,
+
+                  "兆豐投信",
+
+                  "Mega Securities Investment Trust",
+
+                  actual_date,
+
+                  holdings
+              )
+
+
+          # =========================================
+          # 凱基投信
+          #
+          # 00407A -> J024
+          #
+          # RedemptionVC partial HTML
+          # =========================================
+
+          def fetch_kgi():
+
+              ETF_CODE = "00407A"
+              ETF_NAME = "主動凱基台灣"
+              FUND_ID = "J024"
+
+              base_url = (
+                  "https://www.kgifund.com.tw"
+              )
+
+              list_url = (
+                  base_url +
+                  "/Fund/RedemptionList"
+              )
+
+              partial_url = (
+                  base_url +
+                  "/Fund/RedemptionVC"
+              )
+
+
+              print()
+              print(
+                  "KGI:",
+                  ETF_CODE
+              )
+
+
+              session = requests.Session()
+
+              session.headers.update({
+
+                  **HEADERS,
+
+                  "X-Requested-With":
+                      "XMLHttpRequest",
+
+                  "Referer":
+                      list_url
+              })
+
+
+              # 先拿 cookie
+              session.get(
+                  list_url,
+                  timeout=20,
+                  verify=False
+              )
+
+
+              response = session.post(
+
+                  partial_url,
+
+                  data={
+                      "fundID":
+                          FUND_ID,
+
+                      "queryDate":
+                          ""
+                  },
+
+                  timeout=20,
+
+                  verify=False
+              )
+
+
+              print(
+                  "HTTP:",
+                  response.status_code
+              )
+
+
+              response.raise_for_status()
+
+
+              soup = BeautifulSoup(
+                  response.text,
+                  "html.parser"
+              )
+
+
+              text = soup.get_text(
+                  " ",
+                  strip=True
+              )
+
+
+              found = set(
+
+                  re.findall(
+
+                      r"\((20\d{2})/"
+                      r"(\d{1,2})/"
+                      r"(\d{1,2})\)"
+                      r"\s*每受益權單位"
+                      r"淨資產價值",
+
+                      text
+                  )
+              )
+
+
+              if len(found) == 1:
+
+                  y, m, d = (
+                      found.pop()
+                  )
+
+                  actual_date = (
+
+                      f"{y}-"
+                      f"{int(m):02d}-"
+                      f"{int(d):02d}"
+                  )
+
+              else:
+
+                  actual_date = (
+                      now.strftime(
+                          "%Y-%m-%d"
+                      )
+                  )
+
+
+              table = None
+
+
+              for candidate in soup.find_all(
+                  "table"
+              ):
+
+                  rows = candidate.find_all(
+                      "tr"
+                  )
+
+
+                  if len(rows) < 2:
+                      continue
+
+
+                  head = [
+
+                      cell.get_text(
+                          " ",
+                          strip=True
+                      )
+
+                      for cell
+                      in rows[0].find_all(
+                          ["th", "td"]
+                      )
+                  ]
+
+
+                  if (
+                      len(head) >= 4
+                      and
+                      head[0] == "股票代號"
+                      and
+                      head[1] == "股票名稱"
+                  ):
+
+                      table = candidate
+                      break
+
+
+              if table is None:
+
+                  raise RuntimeError(
+                      "凱基找不到股票持股表"
+                  )
+
+
+              holdings = []
+
+
+              for row in table.find_all(
+                  "tr"
+              )[1:]:
+
+                  cols = row.find_all(
+                      ["td", "th"]
+                  )
+
+
+                  if len(cols) < 4:
+                      continue
+
+
+                  code = (
+                      cols[0]
+                      .get_text(
+                          strip=True
+                      )
+                  )
+
+
+                  if not (
+                      code.isdigit()
+                      and len(code) == 4
+                  ):
+                      continue
+
+
+                  holdings.append({
+
+                      "code":
+                          code,
+
+                      "name":
+                          cols[1]
+                          .get_text(
+                              strip=True
+                          ),
+
+                      "shares":
+                          to_integer(
+                              cols[2]
+                              .get_text(
+                                  strip=True
+                              )
+                          ),
+
+                      "weight":
+                          to_number(
+                              cols[3]
+                              .get_text(
+                                  strip=True
+                              )
+                          )
+                  })
+
+
+              if not holdings:
+
+                  raise RuntimeError(
+                      "00407A 沒有解析到持股"
+                  )
+
+
+              return build_result(
+
+                  ETF_CODE,
+
+                  ETF_NAME,
+
+                  "凱基投信",
+
+                  "KGI Securities Investment Trust",
+
+                  actual_date,
+
+                  holdings
+              )
+
+
+          # =========================================
+          # 永豐投信
+          #
+          # 00410A
+          #
+          # 官方 SSR PCF 頁
+          # =========================================
+
+          def fetch_sinopac():
+
+              ETF_CODE = "00410A"
+              ETF_NAME = "主動永豐科技趨勢"
+
+              url = (
+                  "https://sitc.sinopac.com/"
+                  "SinopacEtfs/Etfs/Pcf/"
+                  "00410A"
+              )
+
+
+              print()
+              print(
+                  "SinoPac:",
+                  ETF_CODE
+              )
+
+
+              response = requests.get(
+
+                  url,
+
+                  headers=HEADERS,
+
+                  timeout=20,
+
+                  verify=False
+              )
+
+
+              print(
+                  "HTTP:",
+                  response.status_code
+              )
+
+
+              response.raise_for_status()
+
+
+              soup = BeautifulSoup(
+                  response.text,
+                  "html.parser"
+              )
+
+
+              text = soup.get_text(
+                  " ",
+                  strip=True
+              )
+
+
+              found = set(
+
+                  re.findall(
+
+                      r"資料日期[：:\s]*"
+                      r"(20\d{2})"
+                      r"[/\-]"
+                      r"(\d{1,2})"
+                      r"[/\-]"
+                      r"(\d{1,2})",
+
+                      text
+                  )
+              )
+
+
+              if len(found) == 1:
+
+                  y, m, d = (
+                      found.pop()
+                  )
+
+                  actual_date = (
+
+                      f"{y}-"
+                      f"{int(m):02d}-"
+                      f"{int(d):02d}"
+                  )
+
+              else:
+
+                  actual_date = (
+                      now.strftime(
+                          "%Y-%m-%d"
+                      )
+                  )
+
+
+              table = None
+
+
+              for candidate in soup.find_all(
+                  "table"
+              ):
+
+                  rows = candidate.find_all(
+                      "tr"
+                  )
+
+
+                  if len(rows) < 2:
+                      continue
+
+
+                  head = [
+
+                      cell.get_text(
+                          " ",
+                          strip=True
+                      )
+
+                      for cell
+                      in rows[0].find_all(
+                          ["th", "td"]
+                      )
+                  ]
+
+
+                  if (
+                      len(head) >= 4
+                      and
+                      head[0] == "證券代碼"
+                      and
+                      head[1] == "證券名稱"
+                  ):
+
+                      table = candidate
+                      break
+
+
+              if table is None:
+
+                  raise RuntimeError(
+                      "永豐找不到股票持股表"
+                  )
+
+
+              holdings = []
+
+
+              for row in table.find_all(
+                  "tr"
+              )[1:]:
+
+                  cols = row.find_all(
+                      ["td", "th"]
+                  )
+
+
+                  if len(cols) < 4:
+                      continue
+
+
+                  code = (
+                      cols[0]
+                      .get_text(
+                          strip=True
+                      )
+                  )
+
+
+                  if not (
+                      code.isdigit()
+                      and len(code) == 4
+                  ):
+                      continue
+
+
+                  holdings.append({
+
+                      "code":
+                          code,
+
+                      "name":
+                          cols[1]
+                          .get_text(
+                              strip=True
+                          ),
+
+                      "shares":
+                          to_integer(
+                              cols[2]
+                              .get_text(
+                                  strip=True
+                              )
+                          ),
+
+                      "weight":
+                          to_number(
+                              cols[3]
+                              .get_text(
+                                  strip=True
+                              )
+                          )
+                  })
+
+
+              if not holdings:
+
+                  raise RuntimeError(
+                      "00410A 沒有解析到持股"
+                  )
+
+
+              return build_result(
+
+                  ETF_CODE,
+
+                  ETF_NAME,
+
+                  "永豐投信",
+
+                  "SinoPac Securities Investment Trust",
+
+                  actual_date,
+
+                  holdings
+              )
+
+
+          # =========================================
+          # 執行 Batch 3
+          # =========================================
+
+          print()
+          print("==============================")
+          print("ACTIVE ETF HOLDINGS BATCH 3")
+          print("==============================")
+
+
+          # 統一
+          for (
+              code,
+              config
+          ) in EZMONEY_ETFS.items():
+
+              try:
+
+                  save_success(
+
+                      fetch_ezmoney(
+
+                          code,
+
+                          config[
+                              "fund_code"
+                          ],
+
+                          config[
+                              "name"
+                          ]
+                      )
+                  )
+
+              except Exception as error:
+
+                  save_failure(
+
+                      code,
+
+                      config[
+                          "name"
+                      ],
+
+                      "統一投信",
+
+                      "Uni-President Asset Management",
+
+                      error
+                  )
+
+
+          # 安聯
+          for (
+              code,
+              config
+          ) in ALLIANZ_ETFS.items():
+
+              try:
+
+                  save_success(
+
+                      fetch_allianz(
+
+                          code,
+
+                          config[
+                              "fund_id"
+                          ],
+
+                          config[
+                              "name"
+                          ]
+                      )
+                  )
+
+              except Exception as error:
+
+                  save_failure(
+
+                      code,
+
+                      config[
+                          "name"
+                      ],
+
+                      "安聯投信",
+
+                      "Allianz Global Investors Taiwan",
+
+                      error
+                  )
+
+
+          # 兆豐
+          try:
+
+              save_success(
+                  fetch_mega()
+              )
+
+          except Exception as error:
+
+              save_failure(
+
+                  "00996A",
+
+                  "主動兆豐台灣豐收",
+
+                  "兆豐投信",
+
+                  "Mega Securities Investment Trust",
+
+                  error
+              )
+
+
+          # 凱基
+          try:
+
+              save_success(
+                  fetch_kgi()
+              )
+
+          except Exception as error:
+
+              save_failure(
+
+                  "00407A",
+
+                  "主動凱基台灣",
+
+                  "凱基投信",
+
+                  "KGI Securities Investment Trust",
+
+                  error
+              )
+
+
+          # 永豐
+          try:
+
+              save_success(
+                  fetch_sinopac()
+              )
+
+          except Exception as error:
+
+              save_failure(
+
+                  "00410A",
+
+                  "主動永豐科技趨勢",
+
+                  "永豐投信",
+
+                  "SinoPac Securities Investment Trust",
+
+                  error
+              )
+
+
+          # =========================================
+          # Metadata
+          # =========================================
+
+          old_meta = (
+              output.get("_meta")
+              or {}
+          )
+
+
+          output["_meta"] = {
+
+              **old_meta,
+
+              "updated_at":
+                  now.isoformat(),
+
+              "database_version":
+                  max(
+                      int(
+                          old_meta.get(
+                              "database_version",
+                              6
+                          )
+                      ),
+                      7
+                  ),
+
+              "description":
+                  "Taiwan active ETF daily holdings database",
+
+              "history_enabled":
+                  True,
+
+              "batch3_successful_fetches":
+                  len(
+                      successful_results
+                  )
+          }
+
+
+          # =========================================
+          # 寫入最新資料
+          # =========================================
+
+          with open(
+              OUTPUT_FILE,
+              "w",
+              encoding="utf-8"
+          ) as f:
+
+              json.dump(
+                  output,
+                  f,
+                  ensure_ascii=False,
+                  indent=2
+              )
+
+
+          # =========================================
+          # 歷史快照
+          # =========================================
+
+          snapshot_date = (
+              now.strftime(
+                  "%Y-%m-%d"
+              )
+          )
+
+
+          history_file = os.path.join(
+
+              HISTORY_DIR,
+
+              snapshot_date +
+              ".json"
+          )
+
+
+          snapshot = json.loads(
+              json.dumps(output)
+          )
+
+
+          snapshot[
+              "_snapshot"
+          ] = {
+
+              "created_at":
+                  now.isoformat(),
+
+              "snapshot_date":
+                  snapshot_date,
+
+              "note":
+                  "Each ETF keeps its own official holdings_date"
+          }
+
+
+          with open(
+              history_file,
+              "w",
+              encoding="utf-8"
+          ) as f:
+
+              json.dump(
+                  snapshot,
+                  f,
+                  ensure_ascii=False,
+                  indent=2
+              )
+
+
+          # =========================================
+          # 最後總結
+          # =========================================
+
+          TEST_CODES = [
+
+              "00981A",
+              "00403A",
+
+              "00984A",
+              "00993A",
+
+              "00996A",
+
+              "00407A",
+
+              "00410A"
+          ]
+
+
+          print()
+          print("==============================")
+          print("BATCH 3 FINISHED")
+          print("==============================")
+
+
+          for code in TEST_CODES:
+
+              item = (
+                  output["etfs"]
+                  .get(
+                      code,
+                      {}
+                  )
+              )
+
+
+              print()
+              print(
+                  code,
+                  item.get(
+                      "name"
+                  )
+              )
+
+              print(
+                  "Issuer:",
+                  item.get(
+                      "issuer"
+                  )
+              )
+
+              print(
+                  "Status:",
+                  item.get(
+                      "status"
+                  )
+              )
+
+              print(
+                  "Date:",
+                  item.get(
+                      "holdings_date"
+                  )
+              )
+
+              print(
+                  "Holdings:",
+                  item.get(
+                      "holding_count",
+                      0
+                  )
+              )
+
+
+              if item.get(
+                  "last_fetch_status"
+              ):
+
+                  print(
+                      "Last fetch:",
+                      item.get(
+                          "last_fetch_status"
+                      )
+                  )
+
+
+              for holding in (
+                  item.get(
+                      "holdings",
+                      []
+                  )[:5]
+              ):
+
+                  print(
+
+                      " ",
+
+                      holding.get(
+                          "code"
+                      ),
+
+                      holding.get(
+                          "name"
+                      ),
+
+                      "shares:",
+
+                      holding.get(
+                          "shares"
+                      ),
+
+                      "weight:",
+
+                      holding.get(
+                          "weight"
+                      )
+                  )
+
+
+          print()
+          print(
+              "Batch 3 successful:",
+              len(
+                  successful_results
+              ),
+              "/ 7"
+          )
+
+          print(
+              "Total ETFs now:",
+              len(
+                  output[
+                      "etfs"
+                  ]
+              )
+          )
+
+          print(
+              "Saved:",
+              OUTPUT_FILE
+          )
+
+          print(
+              "Snapshot:",
+              history_file
+          )
+
+          PY
+
+      - name: Commit batch 3 holdings
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/active_etf_holdings.json
+          git add data/active_etf_holdings_history/
+
+          if git diff --cached --quiet; then
+            echo "No ETF holding changes"
+          else
+            git commit -m "Add final Taiwan active ETF holdings batch"
+            git push
+          fi
