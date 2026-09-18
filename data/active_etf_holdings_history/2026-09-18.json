@@ -6736,7 +6736,7 @@
     }
   },
   "_meta": {
-    "updated_at": "2026-09-18T23:20:40.481491+08:00",
+    "updated_at": "2026-09-18T23:35:26.771237+08:00",
     "database_version": 7,
     "description": "Taiwan active ETF daily holdings database",
     "history_enabled": true,
@@ -6745,7 +6745,7 @@
     "batch3_successful_fetches": 7
   },
   "_snapshot": {
-    "created_at": "2026-09-18T23:20:40.481491+08:00",
+    "created_at": "2026-09-18T23:35:26.771237+08:00",
     "snapshot_date": "2026-09-18",
     "note": "Each ETF keeps its own official holdings_date"
   }
