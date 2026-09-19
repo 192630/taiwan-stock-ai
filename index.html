@@ -65,6 +65,11 @@ h2{
   position:relative;
 }
 
+.autocomplete-wrap{
+  position:relative;
+  width:100%;
+}
+
 input{
   width:100%;
   padding:15px;
@@ -97,7 +102,11 @@ button{
 /* 搜尋建議 */
 
 .search-suggestions{
-  margin-top:8px;
+  position:absolute;
+  z-index:30;
+  top:calc(100% + 6px);
+  left:0;
+  right:0;
   background:white;
   border:1px solid #e2e8f0;
   border-radius:14px;
@@ -569,6 +578,10 @@ footer{
   }
 
   .search input{
+    width:100%;
+  }
+
+  .autocomplete-wrap{
     flex:1;
   }
 
@@ -607,13 +620,22 @@ footer{
 
     <div class="search">
 
-      <input
-        id="q"
-        type="search"
-        autocapitalize="characters"
-        autocomplete="off"
-        placeholder="輸入代號或名稱，例如 2330、00981A、台積電"
-      >
+      <div class="autocomplete-wrap">
+
+        <input
+          id="q"
+          type="search"
+          autocapitalize="characters"
+          autocomplete="off"
+          placeholder="輸入股票代號或名稱"
+        >
+
+        <div
+          id="searchSuggestions"
+          class="search-suggestions hidden">
+        </div>
+
+      </div>
 
       <button onclick="searchStock()">
         搜尋
@@ -623,11 +645,6 @@ footer{
         📍 壓力支撐
       </button>
 
-    </div>
-
-    <div
-      id="searchSuggestions"
-      class="search-suggestions hidden">
     </div>
 
   </div>
@@ -2992,7 +3009,7 @@ function getSearchMatches(
     ...startMatches,
     ...otherMatches
 
-  ].slice(0,8);
+  ];
 
 }
 
