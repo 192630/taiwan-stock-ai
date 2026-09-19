@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="theme-color" content="#111827">
+<meta name="theme-color" content="#fffefa">
 <title>台股 AI 研究站</title>
 
 <script src="https://cdn.jsdelivr.net/npm/lightweight-charts@4.2.3/dist/lightweight-charts.standalone.production.js"></script>
@@ -774,6 +774,213 @@ footer{
   display:inline-block;
 }
 
+/* ========================================
+   原創股票研究手帳主題
+======================================== */
+
+:root{
+  --notebook-ink:#30363b;
+  --notebook-paper:#fffefa;
+  --notebook-rule:rgba(151,191,211,.20);
+  --notebook-red:#d75f4e;
+}
+
+body{
+  position:relative;
+  background-color:var(--notebook-paper);
+  background-image:repeating-linear-gradient(
+    to bottom,
+    transparent 0,
+    transparent 31px,
+    var(--notebook-rule) 32px,
+    var(--notebook-rule) 33px
+  );
+  color:var(--notebook-ink);
+}
+
+body::before{
+  content:"";
+  position:fixed;
+  z-index:0;
+  top:0;
+  bottom:0;
+  left:max(28px,calc((100% - 760px) / 2 + 28px));
+  width:1px;
+  background:rgba(215,95,78,.26);
+  pointer-events:none;
+}
+
+body > header,
+body > main,
+body > footer{
+  position:relative;
+  z-index:1;
+}
+
+header{
+  background:rgba(255,254,250,.94);
+  color:#17202a;
+  padding-left:max(46px,calc((100% - 760px) / 2 + 46px));
+  border-bottom:0;
+}
+
+header h1{
+  color:#17202a;
+}
+
+header p{
+  color:#626a72;
+}
+
+.page-nav{
+  background:rgba(255,254,250,.94);
+  border-bottom:0;
+  box-shadow:0 4px 12px rgba(48,54,59,.06);
+}
+
+.nav-button{
+  border:1.5px solid #4a5055;
+  border-radius:13px 11px 14px 10px;
+  background:rgba(255,254,250,.9);
+  color:#3f464c;
+}
+
+.nav-button.active{
+  border-color:var(--notebook-red);
+  background:rgba(255,254,250,.98);
+  color:var(--notebook-red);
+}
+
+.card{
+  background:rgba(255,254,250,.88);
+  border:2px solid #444a4f;
+  border-radius:15px 12px 16px 11px;
+  box-shadow:1px 2px 0 rgba(68,74,79,.12);
+}
+
+input,
+.search-suggestions{
+  background:#fffefa;
+  border:2px solid #474d52;
+  border-radius:14px 11px 15px 10px;
+}
+
+input:focus{
+  border-color:var(--notebook-red);
+}
+
+button{
+  border-radius:13px 11px 14px 10px;
+  background:#3f464c;
+}
+
+.suggestion-item,
+.all-stock-item{
+  background:rgba(255,254,250,.92);
+}
+
+.item,
+.inst,
+.research-item,
+.plain-note,
+.research-summary,
+.total-box{
+  background:rgba(255,254,250,.82);
+  border:1.5px solid #555b60;
+  border-radius:13px 10px 14px 11px;
+  color:var(--notebook-ink);
+}
+
+.total-box{
+  border-color:var(--notebook-red);
+}
+
+.etf-rank-item{
+  grid-template-columns:42px 1fr auto;
+  margin:10px 0;
+  padding:13px 12px;
+  border:2px solid #444a4f;
+  border-radius:15px 12px 16px 11px;
+  background:rgba(255,254,250,.76);
+}
+
+.etf-rank-item:first-child{
+  border-color:var(--notebook-red);
+  border-radius:12px 16px 11px 15px;
+}
+
+.etf-rank-item:last-child{
+  border-bottom:2px solid #444a4f;
+}
+
+.etf-rank-item:first-child:last-child{
+  border-bottom-color:var(--notebook-red);
+}
+
+.etf-rank-code{
+  color:#3f464c;
+}
+
+.heat-date,
+.etf-strength{
+  background:rgba(255,254,250,.7);
+  border:1px solid rgba(68,74,79,.35);
+  color:#4b5359;
+}
+
+.heat-note{
+  position:relative;
+  margin:18px 4px 0;
+  padding:0 2px 0 25px;
+  border:0;
+  border-radius:0;
+  background:transparent;
+  color:#000 !important;
+  -webkit-text-fill-color:#000 !important;
+  font-size:11px;
+  line-height:1.75;
+  opacity:1;
+}
+
+.heat-note,
+.heat-note *{
+  color:#000 !important;
+  -webkit-text-fill-color:#000 !important;
+}
+
+.heat-note::before{
+  content:"✎";
+  position:absolute;
+  left:2px;
+  top:-1px;
+  color:#000;
+  font-size:16px;
+  transform:rotate(-8deg);
+}
+
+.section-toggle{
+  background:rgba(255,254,250,.92);
+  color:#3f464c;
+  border:2px solid #444a4f;
+}
+
+.section-toggle.secondary{
+  background:rgba(255,254,250,.92);
+  color:#3f464c;
+  border-color:#444a4f;
+}
+
+.watch-main-button,
+.watch-toggle.active{
+  background:rgba(255,254,250,.92);
+  color:var(--notebook-red);
+  border-color:var(--notebook-red);
+}
+
+footer{
+  color:#5f676d;
+}
+
 @media(min-width:600px){
 
   .search{
@@ -1158,7 +1365,7 @@ footer{
   </button>
 
   <div class="heat-note">
-    📌 目前使用 TWSE 盤後每日行情，
+    <strong>今日筆記：</strong>目前使用 TWSE 盤後每日行情，
     不代表盤中即時報價。
   </div>
 
