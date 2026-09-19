@@ -1523,10 +1523,6 @@ footer{
         搜尋
       </button>
 
-      <button onclick="searchPressure()">
-        📍 壓力支撐
-      </button>
-
     </div>
 
   </div>
@@ -1593,6 +1589,15 @@ footer{
           🔄 換下一批新聞
         </button>
       </div>
+    </div>
+
+    <div id="stockRelatedNews" class="etf-detail-box hidden">
+      <h3>📰 這檔股票的相關新聞</h3>
+      <div id="stockRelatedNewsStatus" class="heat-subtitle"></div>
+      <div id="stockRelatedNewsList" class="news-list"></div>
+      <button id="stockRelatedNewsRefresh" class="section-toggle secondary hidden" type="button">
+        🔄 換下一批新聞
+      </button>
     </div>
 
   </div>
@@ -2061,6 +2066,8 @@ let allStockLimit = 60;
 let currentStockCode = "";
 let etfHoldingExpanded = false;
 let etfDetailNewsStart = 0;
+let stockDetailNews = [];
+let stockDetailNewsStart = 0;
 let toastTimer = null;
 
 let watchlistCodes = (() => {
@@ -3252,6 +3259,106 @@ document
     const nextStart = etfDetailNewsStart + 3;
     etfDetailNewsStart = nextStart < relatedNews.length ? nextStart : 0;
     renderActiveEtfDetail(currentStockCode);
+  });
+
+
+function renderStockRelatedNews(){
+
+  const box = document.getElementById("stockRelatedNews");
+  const status = document.getElementById("stockRelatedNewsStatus");
+  const list = document.getElementById("stockRelatedNewsList");
+  const refresh = document.getElementById("stockRelatedNewsRefresh");
+
+  if(!box || !status || !list || !refresh){
+    return;
+  }
+
+  if(activeEtfHoldings[currentStockCode]){
+    box.classList.add("hidden");
+    return;
+  }
+
+  box.classList.remove("hidden");
+  list.innerHTML = "";
+
+  if(!stockDetailNews.length){
+    refresh.classList.add("hidden");
+    return;
+  }
+
+  const visible = stockDetailNews.slice(
+    stockDetailNewsStart,
+    stockDetailNewsStart + 3
+  );
+  visible.forEach(item => list.appendChild(createNewsItem(item)));
+  status.textContent = `找到 ${stockDetailNews.length} 則近期相關新聞`;
+  refresh.classList.toggle("hidden",stockDetailNews.length <= 3);
+  refresh.textContent = "🔄 換下一批新聞";
+
+}
+
+
+async function loadStockRelatedNews(code){
+
+  const requestedCode = String(code || "").trim();
+  const box = document.getElementById("stockRelatedNews");
+  const status = document.getElementById("stockRelatedNewsStatus");
+  const list = document.getElementById("stockRelatedNewsList");
+  const refresh = document.getElementById("stockRelatedNewsRefresh");
+
+  if(!box || !status || !list || !refresh){
+    return;
+  }
+
+  if(activeEtfHoldings[requestedCode]){
+    box.classList.add("hidden");
+    return;
+  }
+
+  box.classList.remove("hidden");
+  list.innerHTML = "";
+  refresh.classList.add("hidden");
+  status.textContent = "個股專屬新聞載入中...";
+  stockDetailNews = [];
+  stockDetailNewsStart = 0;
+
+  try{
+    const response = await fetch(
+      `data/stock_news/${encodeURIComponent(requestedCode)}.json?t=${Date.now()}`
+    );
+    if(!response.ok){
+      throw new Error("stock news not ready");
+    }
+    const json = await response.json();
+
+    if(currentStockCode !== requestedCode){
+      return;
+    }
+
+    stockDetailNews = Array.isArray(json.news) ? json.news : [];
+
+    if(!stockDetailNews.length){
+      status.textContent = "目前尚未找到這檔股票的近期相關新聞";
+      return;
+    }
+
+    renderStockRelatedNews();
+  }
+  catch(error){
+    if(currentStockCode === requestedCode){
+      status.textContent = "這檔股票的專屬新聞正在分批整理，完成後會自動顯示";
+    }
+  }
+
+}
+
+
+document
+  .getElementById("stockRelatedNewsRefresh")
+  ?.addEventListener("click",() => {
+    const nextStart = stockDetailNewsStart + 3;
+    stockDetailNewsStart = nextStart < stockDetailNews.length ? nextStart : 0;
+    renderStockRelatedNews();
   });
 
 
@@ -4472,6 +4579,8 @@ function showStock(row){
 
   etfHoldingExpanded = false;
   etfDetailNewsStart = 0;
+  stockDetailNews = [];
+  stockDetailNewsStart = 0;
 
   updateWatchUi();
 
@@ -4558,6 +4667,7 @@ function showStock(row){
     );
 
   renderActiveEtfDetail(currentStockCode);
+  loadStockRelatedNews(currentStockCode);
 
 }
 
