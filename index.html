@@ -553,6 +553,80 @@ button{
   font-weight:700;
 }
 
+/* 市場成交量排行 */
+
+.market-ranking-list{
+  margin-top:14px;
+}
+
+.market-rank-item{
+  display:grid;
+  grid-template-columns:48px minmax(0,1fr) auto;
+  align-items:center;
+  gap:10px;
+  margin:9px 0;
+  padding:12px;
+  border:1.5px solid #4a5055;
+  border-radius:13px 11px 14px 10px;
+  background:rgba(255,254,250,.86);
+  color:#30363b;
+  cursor:pointer;
+}
+
+.market-rank-item:active{
+  transform:scale(.99);
+}
+
+.market-rank-number{
+  font-size:13px;
+  font-weight:900;
+  white-space:nowrap;
+}
+
+.market-rank-main{
+  min-width:0;
+}
+
+.market-rank-name{
+  overflow:hidden;
+  font-size:16px;
+  font-weight:800;
+  text-overflow:ellipsis;
+  white-space:nowrap;
+}
+
+.market-rank-code{
+  margin-top:3px;
+  color:#d75f4e;
+  font-size:13px;
+  font-weight:800;
+}
+
+.market-rank-values{
+  min-width:92px;
+  text-align:right;
+}
+
+.market-rank-volume{
+  font-size:15px;
+  font-weight:900;
+}
+
+.market-rank-price{
+  margin-top:3px;
+  color:#626a72;
+  font-size:12px;
+}
+
+.market-rank-change{
+  margin-left:5px;
+  font-weight:800;
+}
+
+.market-rank-change.up{color:#d0443e}
+.market-rank-change.down{color:#25835a}
+.market-rank-change.flat{color:#626a72}
+
 .heat-note{
   margin-top:14px;
   padding:12px;
@@ -1172,6 +1246,7 @@ footer{
   <button class="nav-button active" type="button" data-page="home">🏠 首頁</button>
   <button class="nav-button" type="button" data-page="stocks">🔎 股票搜尋</button>
   <button class="nav-button" type="button" data-page="all">📋 全部股票</button>
+  <button class="nav-button" type="button" data-page="market">📊 市場排行</button>
   <button class="nav-button" type="button" data-page="watch">🧺 我的觀察 <span id="watchNavCount" class="nav-count">0</span></button>
   <button class="nav-button" type="button" data-page="etf">🔥 主動 ETF</button>
   <button class="nav-button" type="button" data-page="news">📰 市場新聞</button>
@@ -1468,6 +1543,58 @@ footer{
 </section>
 
 
+<!-- 首頁成交量排行 -->
+
+<section class="card page-section" data-pages="home">
+
+  <h2>📊 成交量排行</h2>
+
+  <div class="market-heat-head">
+    <div>
+      <div class="heat-title">今日市場熱門成交</div>
+      <div class="heat-subtitle">依最近交易日成交股數排序</div>
+    </div>
+    <div id="marketTopDate" class="heat-date">資料載入中...</div>
+  </div>
+
+  <div id="marketTopStatus" class="status">市場排行載入中...</div>
+  <div id="marketTopList" class="market-ranking-list"></div>
+
+  <button id="openMarketRanking" class="section-toggle" type="button">
+    查看完整前 50 名
+  </button>
+
+  <div class="heat-note">
+    <strong>今日筆記：</strong>成交量代表市場交易熱度，不等於後續一定上漲。
+  </div>
+
+</section>
+
+
+<!-- 完整市場排行 -->
+
+<section class="card page-section" data-pages="market">
+
+  <h2>📊 市場成交量排行</h2>
+
+  <div class="market-heat-head">
+    <div>
+      <div class="heat-title">最近交易日前 50 名</div>
+      <div class="heat-subtitle">點選任一股票即可查看行情、K 線與法人籌碼</div>
+    </div>
+    <div id="marketFullDate" class="heat-date">資料載入中...</div>
+  </div>
+
+  <div id="marketFullStatus" class="status">市場排行載入中...</div>
+  <div id="marketFullList" class="market-ranking-list"></div>
+
+  <div class="heat-note">
+    <strong>今日筆記：</strong>排行使用 TWSE 盤後資料；成交量以「張」顯示，1 張等於 1,000 股。
+  </div>
+
+</section>
+
+
 <!-- 今日市場熱力 -->
 
 <section class="card page-section" data-pages="home,etf">
@@ -1656,6 +1783,7 @@ const validPages = [
   "home",
   "stocks",
   "all",
+  "market",
   "watch",
   "etf",
   "news",
@@ -1741,6 +1869,7 @@ function showPage(page,updateHash = true){
   newsPageStart = 0;
 
   if(stockDataReady){
+    renderMarketRanking();
     renderActiveEtfRanking();
     renderAllStocks();
     renderWatchlist();
@@ -2494,6 +2623,146 @@ function getStockValues(row){
   };
 
 }
+
+
+/* ========================================
+   市場成交量排行
+======================================== */
+
+function getMarketVolumeRanking(){
+
+  return stocks
+    .map(row => {
+      const values = getStockValues(row);
+      const code = String(values.code || "").trim().toUpperCase();
+      const name = String(values.name || "").trim();
+      const volume = cleanNumber(values.volume);
+      const close = cleanNumber(values.close);
+      const change = cleanNumber(values.change);
+      const previousClose = close - change;
+      const percent = previousClose > 0
+        ? change / previousClose * 100
+        : 0;
+
+      if(!code || !name || !Number.isFinite(volume) || volume <= 0){
+        return null;
+      }
+
+      return {
+        code,
+        name,
+        date:values.date,
+        volume,
+        close,
+        percent
+      };
+    })
+    .filter(Boolean)
+    .sort((a,b) => b.volume - a.volume);
+
+}
+
+
+function makeMarketRankRow(item,index){
+
+  const row = document.createElement("div");
+  row.className = "market-rank-item";
+  row.tabIndex = 0;
+  row.setAttribute("role","button");
+  row.setAttribute("aria-label",`查看 ${item.code} ${item.name}`);
+
+  const rank = document.createElement("div");
+  rank.className = "market-rank-number";
+  rank.textContent = `NO.${index + 1}`;
+
+  const main = document.createElement("div");
+  main.className = "market-rank-main";
+
+  const name = document.createElement("div");
+  name.className = "market-rank-name";
+  name.textContent = item.name;
+
+  const code = document.createElement("div");
+  code.className = "market-rank-code";
+  code.textContent = `${item.code}　查看個股 ›`;
+
+  main.append(name,code);
+
+  const values = document.createElement("div");
+  values.className = "market-rank-values";
+
+  const volume = document.createElement("div");
+  volume.className = "market-rank-volume";
+  volume.textContent = `${Math.round(item.volume / 1000).toLocaleString("zh-TW")} 張`;
+
+  const price = document.createElement("div");
+  price.className = "market-rank-price";
+  price.textContent = `收 ${formatNumber(item.close)}`;
+
+  const change = document.createElement("span");
+  change.className = "market-rank-change " + (
+    item.percent > 0 ? "up" : item.percent < 0 ? "down" : "flat"
+  );
+  change.textContent = `${item.percent > 0 ? "+" : ""}${item.percent.toFixed(2)}%`;
+  price.appendChild(change);
+
+  values.append(volume,price);
+  row.append(rank,main,values);
+
+  const open = () => openStockFromList(item.code);
+  row.addEventListener("click",open);
+  row.addEventListener("keydown",event => {
+    if(event.key === "Enter" || event.key === " "){
+      event.preventDefault();
+      open();
+    }
+  });
+
+  return row;
+
+}
+
+
+function renderMarketRanking(){
+
+  const ranking = getMarketVolumeRanking();
+  const configs = [
+    {list:"marketTopList",status:"marketTopStatus",date:"marketTopDate",limit:3},
+    {list:"marketFullList",status:"marketFullStatus",date:"marketFullDate",limit:50}
+  ];
+
+  configs.forEach(config => {
+    const list = document.getElementById(config.list);
+    const status = document.getElementById(config.status);
+    const date = document.getElementById(config.date);
+
+    if(!list || !status || !date){
+      return;
+    }
+
+    list.innerHTML = "";
+
+    if(!ranking.length){
+      status.textContent = "⚠️ 找不到可用的成交量資料";
+      date.textContent = "無資料";
+      return;
+    }
+
+    const visible = ranking.slice(0,config.limit);
+    status.textContent = `✅ 已整理 ${visible.length} 檔成交量排行`;
+    date.textContent = formatStockDate(ranking[0].date);
+
+    visible.forEach((item,index) => {
+      list.appendChild(makeMarketRankRow(item,index));
+    });
+  });
+
+}
+
+
+document
+  .getElementById("openMarketRanking")
+  ?.addEventListener("click",() => showPage("market"));
 
 
 /* ========================================
@@ -4820,6 +5089,7 @@ Promise.all([
   loadMarketNews()
 ]).then(() => {
 
+  renderMarketRanking();
   renderActiveEtfRanking();
   renderAllStocks();
   showPage(
