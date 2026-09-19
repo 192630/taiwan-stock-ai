@@ -1,5 +1,6 @@
 import json
 import re
+import time
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -9,6 +10,8 @@ from pathlib import Path
 
 
 OUTPUT_FILE = Path("data/news.json")
+ETF_OUTPUT_FILE = Path("data/active_etf_news.json")
+ETF_HOLDINGS_FILE = Path("data/active_etf_holdings.json")
 TZ_TAIPEI = timezone(timedelta(hours=8))
 
 QUERIES = [
@@ -75,6 +78,90 @@ def parse_date(value):
         return datetime.now(timezone.utc)
 
 
+def parse_feed_articles(feed_bytes, limit=20):
+    articles = []
+    seen = set()
+    root = ET.fromstring(feed_bytes)
+
+    for item in root.findall("./channel/item"):
+        source_node = item.find("source")
+        source = (
+            (source_node.text or "").strip()
+            if source_node is not None
+            else ""
+        )
+        title = clean_title(item.findtext("title", ""), source)
+        url = item.findtext("link", "").strip()
+        published = parse_date(item.findtext("pubDate", ""))
+
+        if not title or not url:
+            continue
+
+        key = re.sub(r"[^0-9a-z\u4e00-\u9fff]+", "", title.lower())
+        if key in seen:
+            continue
+        seen.add(key)
+
+        articles.append(
+            {
+                "title": title,
+                "url": url,
+                "source": source or "Google 新聞",
+                "published_at": published.isoformat(),
+            }
+        )
+
+    articles.sort(key=lambda row: row["published_at"], reverse=True)
+    return articles[:limit]
+
+
+def update_active_etf_news():
+    if not ETF_HOLDINGS_FILE.exists():
+        print("ETF NEWS SKIPPED: holdings file not found")
+        return
+
+    holdings_payload = json.loads(
+        ETF_HOLDINGS_FILE.read_text(encoding="utf-8")
+    )
+    etfs = holdings_payload.get("etfs") or {}
+    result = {}
+
+    for code, etf in sorted(etfs.items()):
+        name = str(etf.get("name") or "").strip()
+        query = f'("{code}" OR "{name}") ETF when:30d'
+
+        try:
+            articles = parse_feed_articles(fetch_feed(query), limit=20)
+        except Exception as error:
+            print(f"ETF NEWS WARNING: {code}: {error}")
+            articles = []
+
+        result[code] = {
+            "code": code,
+            "name": name,
+            "issuer": etf.get("issuer"),
+            "count": len(articles),
+            "news": articles,
+        }
+        print(f"ETF NEWS: {code}: {len(articles)} articles")
+        time.sleep(0.2)
+
+    payload = {
+        "updated_at": datetime.now(TZ_TAIPEI).isoformat(),
+        "source": "Google News RSS search by ETF code and official name",
+        "etf_count": len(result),
+        "etfs": result,
+    }
+
+    ETF_OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
+    ETF_OUTPUT_FILE.write_text(
+        json.dumps(payload, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+
+    print(f"ETF NEWS UPDATED: {len(result)} ETFs")
+
+
 def main():
     articles = []
     seen = set()
@@ -129,6 +216,7 @@ def main():
     )
 
     print(f"NEWS UPDATED: {len(articles)} articles")
+    update_active_etf_news()
 
 
 if __name__ == "__main__":
