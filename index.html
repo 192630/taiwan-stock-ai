@@ -765,6 +765,45 @@ button{
 .consensus-score.negative{color:#25835a}
 .consensus-score.holding{color:#557a89}
 
+.consensus-score-button{
+  min-width:82px;
+  padding:9px 10px;
+  border:1.5px solid #557a89;
+  border-radius:11px 9px 12px 8px;
+  background:rgba(255,254,250,.92);
+  color:#557a89;
+  font-size:14px;
+  font-weight:900;
+  white-space:nowrap;
+}
+
+.consensus-score-button[aria-expanded="true"]{
+  background:#557a89;
+  color:#fffefa;
+}
+
+.consensus-etf-list{
+  grid-column:2 / -1;
+  display:flex;
+  flex-wrap:wrap;
+  gap:7px;
+  padding:5px 0 2px;
+}
+
+.consensus-etf-list.hidden{
+  display:none;
+}
+
+.consensus-etf-link{
+  padding:7px 9px;
+  border:1px solid rgba(85,122,137,.55);
+  border-radius:9px 8px 10px 7px;
+  background:rgba(255,254,250,.9);
+  color:#3f5f6b;
+  font-size:12px;
+  font-weight:900;
+}
+
 .heat-note{
   margin-top:14px;
   padding:12px;
@@ -3051,9 +3090,39 @@ function makeConsensusRow(item,index,mode){
   score.className = "consensus-score";
 
   if(mode === "holding"){
-    detail.textContent = `持有：${item.etfs.join("、")}`;
-    score.classList.add("holding");
-    score.textContent = `${item.etfs.length} 檔持有`;
+    const scoreButton = document.createElement("button");
+    scoreButton.type = "button";
+    scoreButton.className = "consensus-score-button";
+    scoreButton.setAttribute("aria-expanded","false");
+    scoreButton.textContent = `${item.etfs.length} 檔持有`;
+
+    const etfList = document.createElement("div");
+    etfList.className = "consensus-etf-list hidden";
+
+    item.etfs.forEach(etfCode => {
+      const etfButton = document.createElement("button");
+      etfButton.type = "button";
+      etfButton.className = "consensus-etf-link";
+      etfButton.textContent = `${etfCode} ›`;
+      etfButton.addEventListener("click",event => {
+        event.stopPropagation();
+        openStockFromList(etfCode);
+      });
+      etfList.appendChild(etfButton);
+    });
+
+    scoreButton.addEventListener("click",event => {
+      event.stopPropagation();
+      const shouldOpen = etfList.classList.contains("hidden");
+      etfList.classList.toggle("hidden",!shouldOpen);
+      scoreButton.setAttribute("aria-expanded",String(shouldOpen));
+      scoreButton.textContent = shouldOpen
+        ? `收起 ${item.etfs.length} 檔`
+        : `${item.etfs.length} 檔持有`;
+    });
+
+    main.append(name,code);
+    row.append(rank,main,scoreButton,etfList);
   }
   else{
     const increased = cleanNumber(item.increased_count);
@@ -3064,10 +3133,10 @@ function makeConsensusRow(item,index,mode){
     detail.textContent = `增加 ${increased}｜新增 ${added}｜減少 ${decreased}｜退出 ${removed}`;
     score.classList.add(net >= 0 ? "positive" : "negative");
     score.textContent = `淨共識 ${net > 0 ? "+" : ""}${net}`;
-  }
 
-  main.append(name,code,detail);
-  row.append(rank,main,score);
+    main.append(name,code,detail);
+    row.append(rank,main,score);
+  }
 
   const open = () => item.code && openStockFromList(item.code);
   row.addEventListener("click",open);
