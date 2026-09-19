@@ -832,6 +832,132 @@ header p{
   color:#626a72;
 }
 
+.site-brand{
+  min-width:0;
+}
+
+.menu-toggle{
+  flex:0 0 auto;
+  display:flex;
+  width:44px;
+  height:44px;
+  padding:0;
+  align-items:center;
+  justify-content:center;
+  flex-direction:column;
+  gap:5px;
+  border:2px solid #444a4f;
+  border-radius:13px 10px 14px 11px;
+  background:rgba(255,254,250,.92);
+}
+
+.menu-toggle span{
+  display:block;
+  width:20px;
+  height:2px;
+  border-radius:2px;
+  background:#30363b;
+}
+
+.menu-overlay{
+  position:fixed;
+  z-index:59;
+  inset:0;
+  background:rgba(31,38,43,.28);
+  opacity:0;
+  pointer-events:none;
+  transition:opacity .2s ease;
+}
+
+.drawer-head{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  margin-bottom:14px;
+  padding:0 2px 12px;
+  border-bottom:1px solid rgba(68,74,79,.18);
+  color:#30363b;
+  font-size:17px;
+  font-weight:800;
+}
+
+.menu-close{
+  width:40px;
+  height:40px;
+  padding:0;
+  border:0;
+  background:transparent;
+  color:#30363b;
+  font-size:28px;
+  line-height:1;
+}
+
+@media(max-width:599px){
+
+  header{
+    display:flex;
+    align-items:center;
+    gap:13px;
+    padding:17px 16px 16px 43px;
+  }
+
+  header h1{
+    font-size:23px;
+  }
+
+  header p{
+    font-size:12px;
+  }
+
+  .page-nav{
+    position:fixed;
+    z-index:60;
+    top:0;
+    bottom:0;
+    left:0;
+    width:min(82vw,320px);
+    padding:20px 18px 28px;
+    flex-direction:column;
+    align-items:stretch;
+    gap:9px;
+    overflow-y:auto;
+    border-right:2px solid #444a4f;
+    background-color:#fffefa;
+    background-image:repeating-linear-gradient(
+      to bottom,
+      transparent 0,
+      transparent 31px,
+      rgba(151,191,211,.18) 32px,
+      rgba(151,191,211,.18) 33px
+    );
+    box-shadow:12px 0 28px rgba(31,38,43,.14);
+    transform:translateX(-105%);
+    transition:transform .22s ease;
+  }
+
+  .page-nav .nav-button{
+    width:100%;
+    min-height:48px;
+    padding:12px 14px;
+    text-align:left;
+    font-size:15px;
+  }
+
+  body.menu-open{
+    overflow:hidden;
+  }
+
+  body.menu-open .page-nav{
+    transform:translateX(0);
+  }
+
+  body.menu-open .menu-overlay{
+    opacity:1;
+    pointer-events:auto;
+  }
+
+}
+
 .page-nav{
   background:rgba(255,254,250,.94);
   border-bottom:0;
@@ -983,6 +1109,12 @@ footer{
 
 @media(min-width:600px){
 
+  .menu-toggle,
+  .menu-overlay,
+  .drawer-head{
+    display:none;
+  }
+
   .search{
     flex-direction:row;
   }
@@ -1014,11 +1146,28 @@ footer{
 <body>
 
 <header>
-  <h1>📈 台股 AI 研究站</h1>
-  <p>TWSE 自動資料更新・量價與法人籌碼研究</p>
+  <button
+    id="menuToggle"
+    class="menu-toggle"
+    type="button"
+    aria-label="開啟分頁選單"
+    aria-controls="pageNav"
+    aria-expanded="false">
+    <span></span><span></span><span></span>
+  </button>
+  <div class="site-brand">
+    <h1>📈 台股 AI 研究站</h1>
+    <p>TWSE 自動資料更新・量價與法人籌碼研究</p>
+  </div>
 </header>
 
-<nav class="page-nav" aria-label="主要分頁">
+<div id="menuOverlay" class="menu-overlay" aria-hidden="true"></div>
+
+<nav id="pageNav" class="page-nav" aria-label="主要分頁">
+  <div class="drawer-head">
+    <span>分頁選單</span>
+    <button id="menuClose" class="menu-close" type="button" aria-label="關閉分頁選單">×</button>
+  </div>
   <button class="nav-button active" type="button" data-page="home">🏠 首頁</button>
   <button class="nav-button" type="button" data-page="stocks">🔎 股票搜尋</button>
   <button class="nav-button" type="button" data-page="all">📋 全部股票</button>
@@ -1513,6 +1662,50 @@ const validPages = [
 ];
 
 
+function setMenuOpen(open){
+
+  const shouldOpen = Boolean(open);
+  const toggle = document.getElementById("menuToggle");
+  const overlay = document.getElementById("menuOverlay");
+
+  document.body.classList.toggle("menu-open",shouldOpen);
+
+  if(toggle){
+    toggle.setAttribute("aria-expanded",String(shouldOpen));
+    toggle.setAttribute(
+      "aria-label",
+      shouldOpen ? "關閉分頁選單" : "開啟分頁選單"
+    );
+  }
+
+  if(overlay){
+    overlay.setAttribute("aria-hidden",String(!shouldOpen));
+  }
+
+}
+
+
+document
+  .getElementById("menuToggle")
+  ?.addEventListener("click",() => {
+    setMenuOpen(!document.body.classList.contains("menu-open"));
+  });
+
+document
+  .getElementById("menuClose")
+  ?.addEventListener("click",() => setMenuOpen(false));
+
+document
+  .getElementById("menuOverlay")
+  ?.addEventListener("click",() => setMenuOpen(false));
+
+document.addEventListener("keydown",event => {
+  if(event.key === "Escape"){
+    setMenuOpen(false);
+  }
+});
+
+
 function showPage(page,updateHash = true){
 
   const target = validPages.includes(page)
@@ -1561,6 +1754,7 @@ function showPage(page,updateHash = true){
   }
 
   window.scrollTo({top:0,behavior:"smooth"});
+  setMenuOpen(false);
 
 }
 
