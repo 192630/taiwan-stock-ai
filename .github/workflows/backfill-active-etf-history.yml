@@ -1,0 +1,182 @@
+name: Backfill Active ETF History
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/backfill-active-etf-history.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: active-etf-history-backfill
+  cancel-in-progress: false
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Backfill 22 active ETF histories
+        run: |
+          python - <<'PY'
+          import json
+          import time
+          import urllib.parse
+          import urllib.request
+          from datetime import datetime, timedelta, timezone
+          from pathlib import Path
+
+          HISTORY_FILE = Path("data/market_history.json")
+          MONTHS = 6
+          REQUEST_DELAY = 1.0
+
+          ACTIVE_ETFS = [
+              "00400A", "00980A", "00985A", "00999A", "00995A", "00406A", "00405A",
+              "00982A", "00992A", "00991A", "00994A", "00408A", "00987A", "00401A",
+              "00404A", "00981A", "00403A", "00984A", "00993A", "00996A", "00407A",
+              "00410A",
+          ]
+
+          def number(value, integer=False):
+              if value is None:
+                  return None
+              text = str(value).strip().replace(",", "")
+              if text in ("", "--", "---", "X"):
+                  return None
+              try:
+                  result = float(text)
+                  return int(result) if integer else result
+              except (TypeError, ValueError):
+                  return None
+
+          def roc_to_iso(value):
+              parts = str(value).strip().split("/")
+              if len(parts) != 3:
+                  return str(value).strip()
+              try:
+                  return f"{int(parts[0]) + 1911:04d}-{int(parts[1]):02d}-{int(parts[2]):02d}"
+              except ValueError:
+                  return str(value).strip()
+
+          def recent_months(count):
+              now = datetime.now(timezone(timedelta(hours=8)))
+              year, month = now.year, now.month
+              result = []
+              for _ in range(count):
+                  result.append(f"{year:04d}{month:02d}01")
+                  month -= 1
+                  if month == 0:
+                      month = 12
+                      year -= 1
+              return result
+
+          def download(code, date):
+              query = urllib.parse.urlencode({
+                  "response": "json",
+                  "date": date,
+                  "stockNo": code,
+              })
+              request = urllib.request.Request(
+                  "https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY?" + query,
+                  headers={
+                      "User-Agent": "Mozilla/5.0 (compatible; TaiwanStockAI/1.0)",
+                      "Accept": "application/json",
+                  },
+              )
+              with urllib.request.urlopen(request, timeout=60) as response:
+                  return json.loads(response.read().decode("utf-8"))
+
+          try:
+              history = json.loads(HISTORY_FILE.read_text(encoding="utf-8"))
+          except (FileNotFoundError, json.JSONDecodeError):
+              history = {}
+
+          if not isinstance(history, dict):
+              history = {}
+
+          months = recent_months(MONTHS)
+          completed = 0
+          failed_requests = 0
+
+          for position, code in enumerate(ACTIVE_ETFS, start=1):
+              records = {}
+
+              for row in history.get(code, []):
+                  if isinstance(row, dict) and row.get("date"):
+                      records[row["date"]] = row
+
+              downloaded = 0
+
+              for month in months:
+                  try:
+                      payload = download(code, month)
+                      rows = payload.get("data", [])
+                      if not isinstance(rows, list):
+                          rows = []
+                      downloaded += len(rows)
+
+                      for row in rows:
+                          if not isinstance(row, list) or len(row) < 7:
+                              continue
+                          date = roc_to_iso(row[0])
+                          record = {
+                              "date": date,
+                              "volume": number(row[1], integer=True),
+                              "open": number(row[3]),
+                              "high": number(row[4]),
+                              "low": number(row[5]),
+                              "close": number(row[6]),
+                          }
+                          if record["close"] is not None:
+                              records[date] = record
+                  except Exception as error:
+                      failed_requests += 1
+                      print(f"REQUEST ERROR {code} {month}: {error}")
+
+                  time.sleep(REQUEST_DELAY)
+
+              merged = sorted(records.values(), key=lambda row: row.get("date", ""))[-150:]
+              history[code] = merged
+              if downloaded > 0:
+                  completed += 1
+              print(f"[{position}/{len(ACTIVE_ETFS)}] {code}: {len(merged)} records")
+
+          now = datetime.now(timezone(timedelta(hours=8))).isoformat()
+          meta = history.get("_meta", {})
+          if not isinstance(meta, dict):
+              meta = {}
+          meta["active_etf_backfill_updated_at"] = now
+          meta["active_etf_backfill_count"] = len(ACTIVE_ETFS)
+          history["_meta"] = meta
+
+          HISTORY_FILE.write_text(
+              json.dumps(history, ensure_ascii=False, indent=2),
+              encoding="utf-8",
+          )
+
+          print("ACTIVE ETF HISTORY BACKFILL FINISHED")
+          print("Successful ETFs:", completed)
+          print("Failed requests:", failed_requests)
+
+          if completed == 0:
+              raise RuntimeError("22 檔主動 ETF 都沒有取得歷史資料")
+          PY
+
+      - name: Commit active ETF history
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/market_history.json
+          if git diff --cached --quiet; then
+            echo "No active ETF history changes"
+            exit 0
+          fi
+          git commit -m "Backfill active ETF history"
+          git pull --rebase origin main
+          git push origin main
