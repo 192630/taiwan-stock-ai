@@ -2616,6 +2616,7 @@ function calculateSupportResistance(
 
 let kChart = null;
 let candleSeries = null;
+let kChartResizeObserver = null;
 
 
 function drawKChart(history){
@@ -2637,13 +2638,25 @@ function drawKChart(history){
 
   container.innerHTML = "";
 
+  if(kChartResizeObserver){
+    kChartResizeObserver.disconnect();
+  }
+
+  const chartWidth = Math.max(
+    280,
+    Math.floor(
+      container.getBoundingClientRect().width ||
+      container.parentElement.getBoundingClientRect().width ||
+      window.innerWidth - 72
+    )
+  );
+
   kChart =
     LightweightCharts.createChart(
       container,
       {
 
-        width:
-          container.clientWidth,
+        width:chartWidth,
 
         height:360,
 
@@ -2756,6 +2769,16 @@ function drawKChart(history){
     .timeScale()
     .fitContent();
 
+  if("ResizeObserver" in window){
+    kChartResizeObserver = new ResizeObserver(entries => {
+      const width = Math.floor(entries[0].contentRect.width);
+      if(width > 0 && kChart){
+        kChart.applyOptions({width});
+      }
+    });
+    kChartResizeObserver.observe(container);
+  }
+
 }
 
 
@@ -2782,6 +2805,10 @@ function showHistory(code){
     return;
 
   }
+
+  box.classList.remove(
+    "hidden"
+  );
 
   drawKChart(history);
 
@@ -2845,10 +2872,6 @@ function showHistory(code){
   );
 
 
-  box.classList.remove(
-    "hidden"
-  );
-
 }
 
 
@@ -2893,39 +2916,39 @@ function getInstitutionValues(row){
   return {
 
     foreignBuy:
-      cleanNumber(row[1]),
-
-    foreignSell:
       cleanNumber(row[2]),
 
-    foreignNet:
+    foreignSell:
       cleanNumber(row[3]),
+
+    foreignNet:
+      cleanNumber(row[4]),
 
 
     trustBuy:
-      cleanNumber(row[7]),
-
-    trustSell:
       cleanNumber(row[8]),
 
-    trustNet:
+    trustSell:
       cleanNumber(row[9]),
 
-
-    dealerBuy:
-      cleanNumber(row[11]) +
-      cleanNumber(row[14]),
-
-    dealerSell:
-      cleanNumber(row[12]) +
-      cleanNumber(row[15]),
-
-    dealerNet:
+    trustNet:
       cleanNumber(row[10]),
 
 
+    dealerBuy:
+      cleanNumber(row[12]) +
+      cleanNumber(row[15]),
+
+    dealerSell:
+      cleanNumber(row[13]) +
+      cleanNumber(row[16]),
+
+    dealerNet:
+      cleanNumber(row[11]),
+
+
     total:
-      cleanNumber(row[17])
+      cleanNumber(row[18])
 
   };
 
