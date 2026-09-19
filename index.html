@@ -101,12 +101,17 @@ button{
   background:white;
   border:1px solid #e2e8f0;
   border-radius:14px;
-  overflow:hidden;
+  max-height:156px;
+  overflow-x:hidden;
+  overflow-y:auto;
+  overscroll-behavior:contain;
+  -webkit-overflow-scrolling:touch;
   box-shadow:0 10px 25px rgba(15,23,42,.12);
 }
 
 .suggestion-item{
   width:100%;
+  height:52px;
   border:0;
   border-bottom:1px solid #f1f5f9;
   border-radius:0;
@@ -329,6 +334,11 @@ button{
   gap:10px;
   padding:14px 0;
   border-bottom:1px solid #e5e7eb;
+  cursor:pointer;
+}
+
+.etf-rank-item:active{
+  background:#f8fafc;
 }
 
 .etf-rank-item:last-child{
@@ -354,9 +364,10 @@ button{
 }
 
 .etf-rank-code{
-  color:#64748b;
+  color:#2563eb;
   font-size:13px;
   margin-top:3px;
+  font-weight:800;
 }
 
 .etf-change{
@@ -403,6 +414,64 @@ button{
   line-height:1.6;
 }
 
+.section-toggle{
+  width:100%;
+  margin-top:14px;
+  background:#eef2ff;
+  color:#1d4ed8;
+  border:1px solid #c7d2fe;
+}
+
+.section-toggle.secondary{
+  background:#f8fafc;
+  color:#334155;
+  border-color:#e2e8f0;
+}
+
+/* 近期頭條新聞 */
+
+.news-list{
+  margin-top:8px;
+}
+
+.news-item{
+  display:block;
+  padding:14px 0;
+  border-bottom:1px solid #e5e7eb;
+  color:inherit;
+  text-decoration:none;
+}
+
+.news-item:last-child{
+  border-bottom:0;
+}
+
+.news-item:active{
+  opacity:.65;
+}
+
+.news-title{
+  font-size:16px;
+  line-height:1.55;
+  font-weight:800;
+}
+
+.news-meta{
+  display:flex;
+  flex-wrap:wrap;
+  gap:6px 10px;
+  margin-top:7px;
+  color:#64748b;
+  font-size:13px;
+}
+
+.news-help{
+  color:#64748b;
+  font-size:13px;
+  line-height:1.6;
+  margin-top:10px;
+}
+
 footer{
   text-align:center;
   color:#64748b;
@@ -443,7 +512,7 @@ footer{
 
 <!-- 股票搜尋 -->
 
-<section class="card">
+<section id="stockSearchCard" class="card">
 
   <h2>🔎 股票搜尋</h2>
 
@@ -688,9 +757,58 @@ footer{
     class="etf-ranking">
   </div>
 
+  <button
+    id="activeEtfToggle"
+    class="section-toggle hidden"
+    type="button">
+    顯示更多
+  </button>
+
   <div class="heat-note">
     📌 目前使用 TWSE 盤後每日行情，
     不代表盤中即時報價。
+  </div>
+
+</section>
+
+
+<!-- 近期頭條新聞 -->
+
+<section class="card">
+
+  <h2>📰 近期頭條新聞</h2>
+
+  <div class="heat-subtitle">
+    台股、上市公司、ETF 與金融市場近期消息
+  </div>
+
+  <div
+    id="newsStatus"
+    class="status">
+    新聞資料載入中...
+  </div>
+
+  <div
+    id="newsList"
+    class="news-list">
+  </div>
+
+  <button
+    id="newsToggle"
+    class="section-toggle hidden"
+    type="button">
+    顯示更多新聞
+  </button>
+
+  <button
+    id="newsRefresh"
+    class="section-toggle secondary hidden"
+    type="button">
+    🔄 換下一批 20 則
+  </button>
+
+  <div class="news-help">
+    新聞由公開 RSS 定期彙整；標題、來源與發布時間以原新聞頁面為準。
   </div>
 
 </section>
@@ -770,10 +888,17 @@ footer{
 let stocks = [];
 let institutional = [];
 let marketHistory = {};
+let marketNews = [];
 
 let stockDataReady = false;
 let institutionalReady = false;
 let marketHistoryReady = false;
+let newsDataReady = false;
+
+let activeEtfExpanded = false;
+let activeEtfRankingData = [];
+let newsExpanded = false;
+let newsPageStart = 0;
 
 
 /* ========================================
@@ -1064,6 +1189,282 @@ async function loadMarketHistory(){
   }
 
 }
+
+
+/* ========================================
+   近期股票與金融新聞
+======================================== */
+
+async function loadMarketNews(){
+
+  const status =
+    document.getElementById(
+      "newsStatus"
+    );
+
+  try{
+
+    const response =
+      await fetch(
+        "data/news.json?t=" +
+        Date.now()
+      );
+
+    if(!response.ok){
+
+      throw new Error(
+        "news.json 載入失敗"
+      );
+
+    }
+
+    const json =
+      await response.json();
+
+    marketNews =
+      Array.isArray(json)
+        ? json
+        : (
+            json.news ||
+            json.data ||
+            []
+          );
+
+    marketNews =
+      marketNews.filter(
+        item =>
+          item &&
+          item.title &&
+          item.url
+      );
+
+    newsDataReady = true;
+
+    status.textContent =
+      marketNews.length
+        ? "更新時間：" +
+          formatNewsDate(
+            json.updated_at
+          )
+        : "目前沒有可顯示的新聞";
+
+    renderNews();
+
+  }
+  catch(error){
+
+    console.error(error);
+
+    status.textContent =
+      "⚠️ 新聞資料準備中，稍後會自動更新";
+
+  }
+
+}
+
+
+function formatNewsDate(value){
+
+  if(!value){
+    return "-";
+  }
+
+  const date =
+    new Date(value);
+
+  if(Number.isNaN(date.getTime())){
+    return String(value);
+  }
+
+  return date.toLocaleString(
+    "zh-TW",
+    {
+      timeZone:"Asia/Taipei",
+      month:"2-digit",
+      day:"2-digit",
+      hour:"2-digit",
+      minute:"2-digit"
+    }
+  );
+
+}
+
+
+function createNewsItem(item){
+
+  const link =
+    document.createElement("a");
+
+  link.className =
+    "news-item";
+
+  link.href =
+    item.url;
+
+  link.target =
+    "_blank";
+
+  link.rel =
+    "noopener noreferrer";
+
+  const title =
+    document.createElement("div");
+
+  title.className =
+    "news-title";
+
+  title.textContent =
+    item.title;
+
+  const meta =
+    document.createElement("div");
+
+  meta.className =
+    "news-meta";
+
+  const source =
+    document.createElement("span");
+
+  source.textContent =
+    item.source ||
+    "新聞來源";
+
+  const time =
+    document.createElement("span");
+
+  time.textContent =
+    formatNewsDate(
+      item.published_at
+    );
+
+  meta.appendChild(source);
+  meta.appendChild(time);
+  link.appendChild(title);
+  link.appendChild(meta);
+
+  return link;
+
+}
+
+
+function renderNews(){
+
+  const list =
+    document.getElementById("newsList");
+
+  const toggle =
+    document.getElementById("newsToggle");
+
+  const refresh =
+    document.getElementById("newsRefresh");
+
+  if(
+    !list ||
+    !toggle ||
+    !refresh ||
+    !newsDataReady
+  ){
+    return;
+  }
+
+  list.innerHTML = "";
+
+  const visible =
+    newsExpanded
+      ? marketNews.slice(
+          newsPageStart,
+          newsPageStart + 20
+        )
+      : marketNews.slice(0,3);
+
+  visible.forEach(
+    item =>
+      list.appendChild(
+        createNewsItem(item)
+      )
+  );
+
+  toggle.classList.toggle(
+    "hidden",
+    marketNews.length <= 3
+  );
+
+  toggle.textContent =
+    newsExpanded
+      ? "收起新聞"
+      : "顯示更多新聞";
+
+  refresh.classList.toggle(
+    "hidden",
+    !newsExpanded ||
+    marketNews.length <= 20
+  );
+
+  if(newsExpanded){
+
+    const currentPage =
+      Math.floor(
+        newsPageStart / 20
+      ) + 1;
+
+    const totalPages =
+      Math.ceil(
+        marketNews.length / 20
+      );
+
+    refresh.textContent =
+      "🔄 換下一批 20 則（" +
+      currentPage +
+      "/" +
+      totalPages +
+      "）";
+
+  }
+
+}
+
+
+document
+  .getElementById("newsToggle")
+  .addEventListener(
+    "click",
+    function(){
+
+      newsExpanded =
+        !newsExpanded;
+
+      newsPageStart = 0;
+      renderNews();
+
+    }
+  );
+
+
+document
+  .getElementById("newsRefresh")
+  .addEventListener(
+    "click",
+    function(){
+
+      const nextStart =
+        newsPageStart + 20;
+
+      newsPageStart =
+        nextStart < marketNews.length
+          ? nextStart
+          : 0;
+
+      renderNews();
+
+      document
+        .getElementById("newsList")
+        .scrollIntoView({
+          behavior:"smooth",
+          block:"start"
+        });
+
+    }
+  );
 
 
 /* ========================================
@@ -2654,6 +3055,24 @@ function getRankIcon(
 }
 
 
+function openStockFromList(code){
+
+  searchInput.value =
+    code;
+
+  hideSearchSuggestions();
+  searchStock();
+
+  document
+    .getElementById("stockSearchCard")
+    .scrollIntoView({
+      behavior:"smooth",
+      block:"start"
+    });
+
+}
+
+
 function renderActiveEtfRanking(){
 
   const container =
@@ -2671,11 +3090,17 @@ function renderActiveEtfRanking(){
       "activeEtfDate"
     );
 
+  const toggle =
+    document.getElementById(
+      "activeEtfToggle"
+    );
+
 
   if(
     !container ||
     !status ||
-    !dateBox
+    !dateBox ||
+    !toggle
   ){
 
     return;
@@ -2775,6 +3200,9 @@ function renderActiveEtfRanking(){
           a.percent
       );
 
+  activeEtfRankingData =
+    activeEtfs;
+
 
   container.innerHTML =
     "";
@@ -2816,7 +3244,29 @@ function renderActiveEtfRanking(){
     " 檔主動式股票 ETF";
 
 
-  activeEtfs.forEach(
+  const visibleEtfs =
+    activeEtfExpanded
+      ? activeEtfs.slice(0,30)
+      : activeEtfs.slice(0,3);
+
+
+  toggle.classList.toggle(
+    "hidden",
+    activeEtfs.length <= 3
+  );
+
+  toggle.textContent =
+    activeEtfExpanded
+      ? "收起排行，只看前 3 名"
+      : "顯示更多（共 " +
+        Math.min(
+          activeEtfs.length,
+          30
+        ) +
+        " 名）";
+
+
+  visibleEtfs.forEach(
     (item,index) => {
 
       const strength =
@@ -2832,6 +3282,21 @@ function renderActiveEtfRanking(){
 
       row.className =
         "etf-rank-item";
+
+      row.tabIndex = 0;
+
+      row.setAttribute(
+        "role",
+        "button"
+      );
+
+      row.setAttribute(
+        "aria-label",
+        "查看 " +
+        item.code +
+        " " +
+        item.name
+      );
 
 
       const rank =
@@ -2879,7 +3344,8 @@ function renderActiveEtfRanking(){
         "etf-rank-code";
 
       code.textContent =
-        item.code;
+        item.code +
+        "　查看個股 ›";
 
 
       const strengthLabel =
@@ -2940,6 +3406,34 @@ function renderActiveEtfRanking(){
       );
 
 
+      row.addEventListener(
+        "click",
+        function(){
+          openStockFromList(
+            item.code
+          );
+        }
+      );
+
+
+      row.addEventListener(
+        "keydown",
+        function(event){
+
+          if(
+            event.key === "Enter" ||
+            event.key === " "
+          ){
+            event.preventDefault();
+            openStockFromList(
+              item.code
+            );
+          }
+
+        }
+      );
+
+
       container.appendChild(
         row
       );
@@ -2950,6 +3444,30 @@ function renderActiveEtfRanking(){
 }
 
 
+document
+  .getElementById("activeEtfToggle")
+  .addEventListener(
+    "click",
+    function(){
+
+      activeEtfExpanded =
+        !activeEtfExpanded;
+
+      renderActiveEtfRanking();
+
+      if(!activeEtfExpanded){
+        document
+          .getElementById("activeEtfRanking")
+          .scrollIntoView({
+            behavior:"smooth",
+            block:"start"
+          });
+      }
+
+    }
+  );
+
+
 /* ========================================
    啟動
 ======================================== */
@@ -2957,7 +3475,8 @@ function renderActiveEtfRanking(){
 Promise.all([
   loadStocks(),
   loadInstitutional(),
-  loadMarketHistory()
+  loadMarketHistory(),
+  loadMarketNews()
 ]).then(() => {
 
   renderActiveEtfRanking();
