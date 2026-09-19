@@ -177,7 +177,22 @@ button{
 .price{
   font-size:38px;
   font-weight:900;
-  margin:14px 0;
+  margin:14px 0 4px;
+}
+
+.price-change{
+  display:inline-flex;
+  align-items:center;
+  gap:6px;
+  font-size:18px;
+  font-weight:900;
+  margin-bottom:6px;
+}
+
+.trade-date{
+  color:#64748b;
+  font-size:13px;
+  margin-bottom:14px;
 }
 
 .metrics{
@@ -290,6 +305,74 @@ button{
 
 .total-box b{
   font-size:21px;
+}
+
+.plain-note{
+  margin-top:12px;
+  padding:12px 14px;
+  border-radius:12px;
+  background:#f8fafc;
+  color:#475569;
+  font-size:14px;
+  line-height:1.65;
+}
+
+.chart-legend{
+  display:flex;
+  flex-wrap:wrap;
+  gap:8px 14px;
+  margin-top:8px;
+  color:#475569;
+  font-size:13px;
+  font-weight:700;
+}
+
+.legend-dot{
+  display:inline-block;
+  width:9px;
+  height:9px;
+  border-radius:50%;
+  margin-right:5px;
+}
+
+.research-title{
+  margin:20px 0 10px;
+  font-size:18px;
+}
+
+.research-grid{
+  display:grid;
+  grid-template-columns:1fr;
+  gap:10px;
+}
+
+.research-item{
+  padding:14px;
+  border-radius:14px;
+  background:#f8fafc;
+  border:1px solid #eef2f7;
+}
+
+.research-item small{
+  display:block;
+  color:#64748b;
+  margin-bottom:5px;
+}
+
+.research-item b{
+  display:block;
+  font-size:16px;
+  line-height:1.5;
+}
+
+.research-summary{
+  margin-top:12px;
+  padding:15px;
+  border-radius:14px;
+  background:#eef2ff;
+  color:#312e81;
+  line-height:1.7;
+  font-size:14px;
 }
 
 /* 今日市場熱力 */
@@ -497,6 +580,10 @@ footer{
     grid-template-columns:repeat(3,1fr);
   }
 
+  .research-grid{
+    grid-template-columns:1fr 1fr;
+  }
+
 }
 </style>
 </head>
@@ -557,6 +644,8 @@ footer{
     </div>
 
     <div id="price" class="price"></div>
+    <div id="priceChange" class="price-change"></div>
+    <div id="tradeDate" class="trade-date"></div>
 
     <div class="metrics">
 
@@ -591,6 +680,12 @@ footer{
 
     <h3>📈 歷史行情</h3>
 
+    <div class="chart-legend">
+      <span><i class="legend-dot" style="background:#f59e0b"></i>MA5</span>
+      <span><i class="legend-dot" style="background:#2563eb"></i>MA20</span>
+      <span><i class="legend-dot" style="background:#7c3aed"></i>MA60</span>
+    </div>
+
     <div
       id="kChart"
       style="width:100%;height:360px;margin:16px 0;">
@@ -614,6 +709,27 @@ footer{
     <div class="info-row">
       <span>60 日均價</span>
       <b id="ma60">-</b>
+    </div>
+
+    <div class="plain-note">
+      MA5、MA20、MA60 分別代表最近 5、20、60 個交易日的平均收盤價，用來觀察短中期方向。
+    </div>
+
+    <h3 class="research-title">🧭 規則式研究判讀</h3>
+
+    <div class="research-grid">
+      <div class="research-item"><small>短線位置</small><b id="shortTrend">-</b></div>
+      <div class="research-item"><small>中期方向</small><b id="midTrend">-</b></div>
+      <div class="research-item"><small>均線結構</small><b id="maStructure">-</b></div>
+      <div class="research-item"><small>成交量變化</small><b id="volumeTrend">-</b></div>
+      <div class="research-item"><small>最新 K 棒</small><b id="candlePattern">-</b></div>
+      <div class="research-item"><small>支撐／壓力（V1）</small><b id="supportResistance">-</b></div>
+    </div>
+
+    <div id="ruleSummary" class="research-summary"></div>
+
+    <div class="plain-note">
+      以上依歷史價格與成交量自動計算，屬於規則式研究說明，不保證未來漲跌。壓力支撐 V1 使用最近最多 60 個交易日的最低價與最高價。
     </div>
 
   </div>
@@ -711,6 +827,12 @@ footer{
     <div class="total-box">
       <span>三大法人合計買賣超</span>
       <b id="institutionTotal">-</b>
+    </div>
+
+    <div id="institutionSummary" class="plain-note"></div>
+
+    <div class="plain-note">
+      買超＝買進股數大於賣出股數；賣超則相反。這只代表該類法人當日的淨交易情形，不代表股價一定上漲或下跌。
     </div>
 
   </div>
@@ -1694,6 +1816,159 @@ function calculateMA(
 }
 
 
+function calculateMASeries(history,days){
+
+  const result = [];
+  const window = [];
+  let total = 0;
+
+  history.forEach(row => {
+
+    const close = getHistoryClose(row);
+
+    if(!(close > 0)) return;
+
+    window.push(close);
+    total += close;
+
+    if(window.length > days){
+      total -= window.shift();
+    }
+
+    if(window.length === days && row.date){
+      result.push({time:row.date,value:total / days});
+    }
+
+  });
+
+  return result;
+
+}
+
+
+function getHistoryNumber(row,key){
+
+  const aliases = {
+    open:["open","Open","OpeningPrice","開盤價"],
+    high:["high","High","HighestPrice","最高價"],
+    low:["low","Low","LowestPrice","最低價"],
+    close:["close","Close","ClosingPrice","收盤價"],
+    volume:["volume","Volume","TradeVolume","成交股數"]
+  };
+
+  for(const alias of aliases[key] || [key]){
+    if(row && row[alias] !== undefined){
+      return cleanNumber(row[alias]);
+    }
+  }
+
+  return 0;
+
+}
+
+
+function describeCandle(row){
+
+  if(!row) return "資料不足";
+
+  const open = getHistoryNumber(row,"open");
+  const high = getHistoryNumber(row,"high");
+  const low = getHistoryNumber(row,"low");
+  const close = getHistoryNumber(row,"close");
+  const range = high - low;
+
+  if(!(range > 0)) return "價格區間不足，無法判讀";
+
+  const bodyRatio = Math.abs(close - open) / range;
+  const upperShadow = high - Math.max(open,close);
+  const lowerShadow = Math.min(open,close) - low;
+
+  if(bodyRatio <= .1) return "十字線附近，多空暫時拉鋸";
+  if(upperShadow / range >= .5) return "上影線較長，上方曾出現賣壓";
+  if(lowerShadow / range >= .5) return "下影線較長，下方曾出現承接";
+  if(bodyRatio >= .6 && close > open) return "紅 K 實體較長，當日買方較強";
+  if(bodyRatio >= .6 && close < open) return "綠 K 實體較長，當日賣方較強";
+
+  return close >= open
+    ? "小紅 K，當日收盤高於開盤"
+    : "小綠 K，當日收盤低於開盤";
+
+}
+
+
+function setResearchAnalysis(history,ma5,ma20,ma60){
+
+  const latest = history[history.length - 1];
+  const close = getHistoryClose(latest);
+  const previousWindow = history.slice(0,-5);
+  const previousMa20 = calculateMA(previousWindow,20);
+  const levels = calculateSupportResistance(history);
+
+  let shortText = "資料不足";
+  if(ma5 !== null && ma20 !== null){
+    shortText = close > ma5 && close > ma20
+      ? "股價站上 MA5 與 MA20，短線位置偏強"
+      : close < ma5 && close < ma20
+        ? "股價位於 MA5 與 MA20 下方，短線位置偏弱"
+        : "股價位於 MA5、MA20 之間，短線方向尚未一致";
+  }
+
+  let midText = "MA20 資料不足";
+  if(ma20 !== null && previousMa20 !== null && previousMa20 > 0){
+    const slope = (ma20 - previousMa20) / previousMa20 * 100;
+    midText = slope > .3
+      ? "MA20 近 5 日上彎，中期動能改善"
+      : slope < -.3
+        ? "MA20 近 5 日下彎，中期動能轉弱"
+        : "MA20 近 5 日變化不大，中期偏整理";
+  }
+
+  let structureText = "均線資料不足";
+  if(ma5 !== null && ma20 !== null && ma60 !== null){
+    structureText = ma5 > ma20 && ma20 > ma60
+      ? "MA5 ＞ MA20 ＞ MA60，多頭排列"
+      : ma5 < ma20 && ma20 < ma60
+        ? "MA5 ＜ MA20 ＜ MA60，空頭排列"
+        : "均線順序交錯，屬於糾結或轉折階段";
+  }
+
+  const volumes = history
+    .slice(-6,-1)
+    .map(row => getHistoryNumber(row,"volume"))
+    .filter(value => value > 0);
+  const latestVolume = getHistoryNumber(latest,"volume");
+  const averageVolume = volumes.length
+    ? volumes.reduce((sum,value) => sum + value,0) / volumes.length
+    : 0;
+  let volumeText = "成交量資料不足";
+  if(averageVolume > 0 && latestVolume > 0){
+    const ratio = latestVolume / averageVolume;
+    volumeText = ratio >= 1.5
+      ? `量能明顯放大，約為前 5 日均量 ${ratio.toFixed(1)} 倍`
+      : ratio <= .7
+        ? `量能縮減，約為前 5 日均量 ${(ratio * 100).toFixed(0)}%`
+        : `量能接近前 5 日平均，約 ${(ratio * 100).toFixed(0)}%`;
+  }
+
+  let levelText = "歷史資料不足";
+  if(levels && close > 0){
+    const supportDistance = (close - levels.support) / close * 100;
+    const resistanceDistance = (levels.resistance - close) / close * 100;
+    levelText = `支撐 ${levels.support.toFixed(2)}（距現價 ${supportDistance.toFixed(1)}%）／壓力 ${levels.resistance.toFixed(2)}（距現價 ${resistanceDistance.toFixed(1)}%）`;
+  }
+
+  document.getElementById("shortTrend").textContent = shortText;
+  document.getElementById("midTrend").textContent = midText;
+  document.getElementById("maStructure").textContent = structureText;
+  document.getElementById("volumeTrend").textContent = volumeText;
+  document.getElementById("candlePattern").textContent = describeCandle(latest);
+  document.getElementById("supportResistance").textContent = levelText;
+  document.getElementById("ruleSummary").textContent =
+    `${shortText}；${midText}。${structureText}。這是依目前資料產生的規則式摘要，不是買賣建議。`;
+
+}
+
+
 function calculateSupportResistance(
   history
 ){
@@ -1876,6 +2151,26 @@ function drawKChart(history){
     candles
   );
 
+  [
+    [5,"#f59e0b"],
+    [20,"#2563eb"],
+    [60,"#7c3aed"]
+  ].forEach(([days,color]) => {
+
+    const data = calculateMASeries(history,days);
+
+    if(data.length){
+      const series = kChart.addLineSeries({
+        color,
+        lineWidth:2,
+        priceLineVisible:false,
+        lastValueVisible:false
+      });
+      series.setData(data);
+    }
+
+  });
+
   kChart
     .timeScale()
     .fitContent();
@@ -1960,6 +2255,13 @@ function showHistory(code){
       ma60 === null
         ? "資料不足"
         : ma60.toFixed(2);
+
+  setResearchAnalysis(
+    history,
+    ma5,
+    ma20,
+    ma60
+  );
 
 
   box.classList.remove(
@@ -2080,6 +2382,21 @@ function showStock(row){
       formatNumber(
         v.close
       );
+
+  const change = cleanNumber(v.change);
+  const close = cleanNumber(v.close);
+  const previousClose = close - change;
+  const percent = previousClose > 0
+    ? change / previousClose * 100
+    : 0;
+  const priceChange = document.getElementById("priceChange");
+
+  priceChange.textContent =
+    `${change > 0 ? "▲" : change < 0 ? "▼" : "－"} ${formatSigned(change)}（${percent > 0 ? "+" : ""}${percent.toFixed(2)}%）`;
+  setNetColor(priceChange,change);
+
+  document.getElementById("tradeDate").textContent =
+    v.date ? `行情日期：${v.date}（盤後資料）` : "盤後每日行情";
 
   document
     .getElementById(
@@ -2296,6 +2613,21 @@ function showInstitution(row){
     total,
     v.total
   );
+
+  const direction = v.total > 0
+    ? "合計呈現買超，代表三大法人當日淨買進股數較多"
+    : v.total < 0
+      ? "合計呈現賣超，代表三大法人當日淨賣出股數較多"
+      : "合計買賣超接近持平";
+
+  const strongest = [
+    ["外資",v.foreignNet],
+    ["投信",v.trustNet],
+    ["自營商",v.dealerNet]
+  ].sort((a,b) => Math.abs(b[1]) - Math.abs(a[1]))[0];
+
+  document.getElementById("institutionSummary").textContent =
+    `${direction}；今日變動較明顯的是${strongest[0]}（${formatSigned(strongest[1])} 股）。法人籌碼是當日交易結果，不等於後續股價方向。`;
 
 
   status.textContent =
