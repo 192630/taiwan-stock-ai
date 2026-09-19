@@ -627,6 +627,93 @@ button{
 .market-rank-change.down{color:#25835a}
 .market-rank-change.flat{color:#626a72}
 
+/* 主動 ETF 每日持股變化 */
+
+.etf-change-picker{
+  width:100%;
+  margin:12px 0 4px;
+  padding:13px 14px;
+  border:1.5px solid #4a5055;
+  border-radius:13px 11px 14px 10px;
+  background:#fffefa;
+  color:#30363b;
+  font:inherit;
+  font-weight:800;
+}
+
+.etf-change-summary{
+  display:grid;
+  grid-template-columns:repeat(2,1fr);
+  gap:8px;
+  margin:14px 0;
+}
+
+.etf-change-count{
+  padding:10px 12px;
+  border:1px solid rgba(68,74,79,.35);
+  border-radius:12px 10px 13px 9px;
+  background:rgba(255,254,250,.72);
+  font-size:13px;
+}
+
+.etf-change-count b{
+  float:right;
+  font-size:16px;
+}
+
+.etf-change-group{
+  margin-top:18px;
+}
+
+.etf-change-group h3{
+  margin:0 0 7px;
+  font-size:17px;
+}
+
+.holding-change-row{
+  display:grid;
+  grid-template-columns:minmax(0,1fr) auto;
+  gap:10px;
+  padding:11px 3px;
+  border-bottom:1px solid rgba(68,74,79,.18);
+  cursor:pointer;
+}
+
+.holding-change-row:last-child{
+  border-bottom:0;
+}
+
+.holding-change-name{
+  font-weight:800;
+}
+
+.holding-change-code{
+  margin-top:2px;
+  color:#626a72;
+  font-size:12px;
+}
+
+.holding-change-value{
+  text-align:right;
+  font-weight:900;
+  white-space:nowrap;
+}
+
+.holding-change-value.increased{color:#d0443e}
+.holding-change-value.decreased{color:#25835a}
+.holding-change-value.new{color:#557a89}
+.holding-change-value.removed{color:#756b65}
+
+.etf-waiting-note{
+  margin-top:14px;
+  padding:14px;
+  border-left:3px solid #d75f4e;
+  background:rgba(255,254,250,.66);
+  color:#30363b;
+  font-size:14px;
+  line-height:1.75;
+}
+
 .heat-note{
   margin-top:14px;
   padding:12px;
@@ -1597,6 +1684,27 @@ footer{
 
 <!-- 今日市場熱力 -->
 
+<section class="card page-section" data-pages="etf">
+
+  <h2>📊 主動 ETF 每日持股變化</h2>
+
+  <div class="heat-subtitle">
+    比較最近兩個有效交易日的官方投資組合快照
+  </div>
+
+  <select id="etfChangeSelect" class="etf-change-picker" aria-label="選擇主動 ETF">
+    <option value="">主動 ETF 資料載入中...</option>
+  </select>
+
+  <div id="etfChangeStatus" class="status">持股資料載入中...</div>
+  <div id="etfChangeContent"></div>
+
+  <div class="heat-note">
+    <strong>今日筆記：</strong>「持股增加／減少」代表兩次公開投資組合的股數差異，不等同可確認的盤中買進或賣出。
+  </div>
+
+</section>
+
 <section class="card page-section" data-pages="home,etf">
 
   <h2>🔥 今日市場熱力</h2>
@@ -1747,11 +1855,15 @@ let stocks = [];
 let institutional = [];
 let marketHistory = {};
 let marketNews = [];
+let activeEtfHoldings = {};
+let activeEtfChanges = {};
 
 let stockDataReady = false;
 let institutionalReady = false;
 let marketHistoryReady = false;
 let newsDataReady = false;
+let activeEtfHoldingsReady = false;
+let activeEtfChangesReady = false;
 
 let activeEtfExpanded = false;
 let activeEtfRankingData = [];
@@ -1873,6 +1985,10 @@ function showPage(page,updateHash = true){
     renderActiveEtfRanking();
     renderAllStocks();
     renderWatchlist();
+  }
+
+  if(activeEtfHoldingsReady){
+    renderSelectedEtfChanges();
   }
 
   if(newsDataReady){
@@ -2623,6 +2739,224 @@ function getStockValues(row){
   };
 
 }
+
+
+/* ========================================
+   主動 ETF 持股與每日變化
+======================================== */
+
+async function loadActiveEtfHoldings(){
+
+  try{
+    const response = await fetch("data/active_etf_holdings.json?t=" + Date.now());
+    if(!response.ok){
+      throw new Error("active_etf_holdings.json 載入失敗");
+    }
+    const json = await response.json();
+    activeEtfHoldings = json.etfs || {};
+    activeEtfHoldingsReady = true;
+  }
+  catch(error){
+    activeEtfHoldings = {};
+    activeEtfHoldingsReady = false;
+  }
+
+}
+
+
+async function loadActiveEtfChanges(){
+
+  try{
+    const response = await fetch("data/active_etf_changes.json?t=" + Date.now());
+    if(!response.ok){
+      throw new Error("active_etf_changes.json 尚未產生");
+    }
+    const json = await response.json();
+    activeEtfChanges = json;
+    activeEtfChangesReady = true;
+  }
+  catch(error){
+    activeEtfChanges = {};
+    activeEtfChangesReady = false;
+  }
+
+}
+
+
+function renderEtfChangeOptions(){
+
+  const select = document.getElementById("etfChangeSelect");
+  if(!select){
+    return;
+  }
+
+  const previousValue = select.value;
+  const entries = Object.values(activeEtfHoldings)
+    .filter(item => item && item.code)
+    .sort((a,b) => String(a.code).localeCompare(String(b.code)));
+
+  select.innerHTML = "";
+
+  if(!entries.length){
+    const option = document.createElement("option");
+    option.textContent = "目前沒有可用的主動 ETF 持股資料";
+    option.value = "";
+    select.appendChild(option);
+    renderSelectedEtfChanges();
+    return;
+  }
+
+  entries.forEach(item => {
+    const option = document.createElement("option");
+    option.value = item.code;
+    option.textContent = `${item.code}｜${item.name || "主動 ETF"}`;
+    select.appendChild(option);
+  });
+
+  select.value = entries.some(item => item.code === previousValue)
+    ? previousValue
+    : entries[0].code;
+
+  renderSelectedEtfChanges();
+
+}
+
+
+function makeHoldingChangeRow(item,type){
+
+  const row = document.createElement("div");
+  row.className = "holding-change-row";
+  row.tabIndex = 0;
+  row.setAttribute("role","button");
+
+  const stockCode = String(item.code || "").trim();
+  const nameBox = document.createElement("div");
+  const name = document.createElement("div");
+  name.className = "holding-change-name";
+  name.textContent = String(item.name || stockCode).replace(/\s+/g," ").trim();
+  const code = document.createElement("div");
+  code.className = "holding-change-code";
+  code.textContent = `${stockCode}　查看個股 ›`;
+  nameBox.append(name,code);
+
+  const value = document.createElement("div");
+  value.className = `holding-change-value ${type}`;
+
+  if(type === "new"){
+    value.textContent = `${formatNumber(item.shares)} 股`;
+  }
+  else if(type === "removed"){
+    value.textContent = `${formatNumber(item.previous_shares)} → 0 股`;
+  }
+  else{
+    const amount = cleanNumber(item.change_shares);
+    value.textContent = `${amount > 0 ? "+" : ""}${formatNumber(amount)} 股`;
+  }
+
+  row.append(nameBox,value);
+
+  const open = () => stockCode && openStockFromList(stockCode);
+  row.addEventListener("click",open);
+  row.addEventListener("keydown",event => {
+    if(event.key === "Enter" || event.key === " "){
+      event.preventDefault();
+      open();
+    }
+  });
+
+  return row;
+
+}
+
+
+function renderSelectedEtfChanges(){
+
+  const select = document.getElementById("etfChangeSelect");
+  const status = document.getElementById("etfChangeStatus");
+  const content = document.getElementById("etfChangeContent");
+  if(!select || !status || !content){
+    return;
+  }
+
+  const code = select.value;
+  const holding = activeEtfHoldings[code] || {};
+  content.innerHTML = "";
+
+  if(!activeEtfHoldingsReady || !code){
+    status.textContent = "⚠️ 目前無法載入主動 ETF 持股資料";
+    return;
+  }
+
+  const changeEtfs = activeEtfChanges.etfs || {};
+  const change = changeEtfs[code];
+
+  if(!activeEtfChangesReady || !change){
+    status.textContent = `最近持股日期：${holding.holdings_date || "待更新"}`;
+    const note = document.createElement("div");
+    note.className = "etf-waiting-note";
+    note.innerHTML = `目前已有 <strong>${Object.keys(activeEtfHoldings).length} 檔</strong>主動 ETF 持股，但歷史資料仍只有一個有效交易日。下一個交易日產生第二份快照後，這裡會自動顯示「持股增加、持股減少、新增持股、退出持股」。`;
+    content.appendChild(note);
+    return;
+  }
+
+  if(change.status !== "success"){
+    status.textContent = `持股日期：${change.current_date || holding.holdings_date || "-"}`;
+    const note = document.createElement("div");
+    note.className = "etf-waiting-note";
+    note.textContent = change.status === "same_holdings_date"
+      ? "兩份快照的官方持股日期相同，尚未產生新的有效變化。"
+      : "這檔 ETF 尚缺少前一個有效交易日資料，暫時無法比較。";
+    content.appendChild(note);
+    return;
+  }
+
+  status.textContent = `${change.previous_date || "前次"} → ${change.current_date || "本次"}｜${change.issuer || holding.issuer || ""}`;
+
+  const categories = [
+    {key:"increased",label:"🔴 持股增加",empty:"沒有持股增加"},
+    {key:"decreased",label:"🟢 持股減少",empty:"沒有持股減少"},
+    {key:"new",label:"🆕 新增持股",empty:"沒有新增持股"},
+    {key:"removed",label:"❌ 退出持股",empty:"沒有退出持股"}
+  ];
+
+  const summary = document.createElement("div");
+  summary.className = "etf-change-summary";
+  categories.forEach(category => {
+    const count = document.createElement("div");
+    count.className = "etf-change-count";
+    const amount = Array.isArray(change[category.key]) ? change[category.key].length : 0;
+    count.innerHTML = `${category.label}<b>${amount}</b>`;
+    summary.appendChild(count);
+  });
+  content.appendChild(summary);
+
+  categories.forEach(category => {
+    const items = Array.isArray(change[category.key]) ? change[category.key] : [];
+    const group = document.createElement("div");
+    group.className = "etf-change-group";
+    const title = document.createElement("h3");
+    title.textContent = category.label;
+    group.appendChild(title);
+
+    if(!items.length){
+      const empty = document.createElement("div");
+      empty.className = "heat-subtitle";
+      empty.textContent = category.empty;
+      group.appendChild(empty);
+    }
+    else{
+      items.forEach(item => group.appendChild(makeHoldingChangeRow(item,category.key)));
+    }
+
+    content.appendChild(group);
+  });
+
+}
+
+
+document
+  .getElementById("etfChangeSelect")
+  ?.addEventListener("change",renderSelectedEtfChanges);
 
 
 /* ========================================
@@ -5086,9 +5420,12 @@ Promise.all([
   loadStocks(),
   loadInstitutional(),
   loadMarketHistory(),
-  loadMarketNews()
+  loadMarketNews(),
+  loadActiveEtfHoldings(),
+  loadActiveEtfChanges()
 ]).then(() => {
 
+  renderEtfChangeOptions();
   renderMarketRanking();
   renderActiveEtfRanking();
   renderAllStocks();
