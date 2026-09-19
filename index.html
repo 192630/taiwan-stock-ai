@@ -1742,13 +1742,6 @@ footer{
     class="etf-ranking">
   </div>
 
-  <button
-    id="activeEtfToggle"
-    class="section-toggle hidden"
-    type="button">
-    顯示更多
-  </button>
-
   <div class="heat-note">
     <strong>今日筆記：</strong>目前使用 TWSE 盤後每日行情，
     不代表盤中即時報價。
@@ -1777,13 +1770,6 @@ footer{
     id="newsList"
     class="news-list">
   </div>
-
-  <button
-    id="newsToggle"
-    class="section-toggle hidden"
-    type="button">
-    顯示更多新聞
-  </button>
 
   <button
     id="newsRefresh"
@@ -1867,7 +1853,6 @@ let activeEtfChangesReady = false;
 
 let activeEtfExpanded = false;
 let activeEtfRankingData = [];
-let newsExpanded = false;
 let newsPageStart = 0;
 let currentPage = "home";
 let allStockLimit = 60;
@@ -1977,7 +1962,6 @@ function showPage(page,updateHash = true){
     });
 
   activeEtfExpanded = target === "etf";
-  newsExpanded = target === "news";
   newsPageStart = 0;
 
   if(stockDataReady){
@@ -2549,15 +2533,11 @@ function renderNews(){
   const list =
     document.getElementById("newsList");
 
-  const toggle =
-    document.getElementById("newsToggle");
-
   const refresh =
     document.getElementById("newsRefresh");
 
   if(
     !list ||
-    !toggle ||
     !refresh ||
     !newsDataReady
   ){
@@ -2566,13 +2546,10 @@ function renderNews(){
 
   list.innerHTML = "";
 
-  const visible =
-    newsExpanded
-      ? marketNews.slice(
-          newsPageStart,
-          newsPageStart + 20
-        )
-      : marketNews.slice(0,3);
+  const visible = marketNews.slice(
+    newsPageStart,
+    newsPageStart + 20
+  );
 
   visible.forEach(
     item =>
@@ -2581,23 +2558,12 @@ function renderNews(){
       )
   );
 
-  toggle.classList.toggle(
-    "hidden",
-    marketNews.length <= 3
-  );
-
-  toggle.textContent =
-    newsExpanded
-      ? "收起新聞"
-      : "顯示更多新聞";
-
   refresh.classList.toggle(
     "hidden",
-    !newsExpanded ||
     marketNews.length <= 20
   );
 
-  if(newsExpanded){
+  if(marketNews.length > 20){
 
     const currentPage =
       Math.floor(
@@ -2619,22 +2585,6 @@ function renderNews(){
   }
 
 }
-
-
-document
-  .getElementById("newsToggle")
-  .addEventListener(
-    "click",
-    function(){
-
-      newsExpanded =
-        !newsExpanded;
-
-      newsPageStart = 0;
-      renderNews();
-
-    }
-  );
 
 
 document
@@ -5034,17 +4984,10 @@ function renderActiveEtfRanking(){
       "activeEtfDate"
     );
 
-  const toggle =
-    document.getElementById(
-      "activeEtfToggle"
-    );
-
-
   if(
     !container ||
     !status ||
-    !dateBox ||
-    !toggle
+    !dateBox
   ){
 
     return;
@@ -5192,22 +5135,6 @@ function renderActiveEtfRanking(){
     activeEtfExpanded
       ? activeEtfs.slice(0,30)
       : activeEtfs.slice(0,3);
-
-
-  toggle.classList.toggle(
-    "hidden",
-    activeEtfs.length <= 3
-  );
-
-  toggle.textContent =
-    activeEtfExpanded
-      ? "收起排行，只看前 3 名"
-      : "顯示更多（共 " +
-        Math.min(
-          activeEtfs.length,
-          30
-        ) +
-        " 名）";
 
 
   visibleEtfs.forEach(
@@ -5386,30 +5313,6 @@ function renderActiveEtfRanking(){
   );
 
 }
-
-
-document
-  .getElementById("activeEtfToggle")
-  .addEventListener(
-    "click",
-    function(){
-
-      activeEtfExpanded =
-        !activeEtfExpanded;
-
-      renderActiveEtfRanking();
-
-      if(!activeEtfExpanded){
-        document
-          .getElementById("activeEtfRanking")
-          .scrollIntoView({
-            behavior:"smooth",
-            block:"start"
-          });
-      }
-
-    }
-  );
 
 
 /* ========================================
