@@ -261,6 +261,66 @@ button{
   transform:scale(.96);
 }
 
+.etf-detail-box{
+  margin-top:20px;
+  padding-top:18px;
+  border-top:1.5px solid rgba(68,74,79,.25);
+}
+
+.etf-detail-box h3{
+  margin:0 0 12px;
+  font-size:19px;
+}
+
+.etf-profile-grid{
+  display:grid;
+  grid-template-columns:repeat(2,1fr);
+  gap:8px;
+}
+
+.etf-profile-item{
+  padding:10px 11px;
+  border:1px solid rgba(68,74,79,.3);
+  border-radius:11px 9px 12px 8px;
+  background:rgba(255,254,250,.7);
+}
+
+.etf-profile-item small{
+  display:block;
+  margin-bottom:4px;
+  color:#626a72;
+}
+
+.etf-holding-row{
+  display:grid;
+  grid-template-columns:minmax(0,1fr) auto;
+  gap:10px;
+  padding:10px 2px;
+  border-bottom:1px solid rgba(68,74,79,.16);
+  cursor:pointer;
+}
+
+.etf-holding-row:last-child{border-bottom:0}
+
+.etf-holding-name{font-weight:900}
+
+.etf-holding-code{
+  margin-top:2px;
+  color:#626a72;
+  font-size:12px;
+}
+
+.etf-holding-numbers{
+  text-align:right;
+  font-size:13px;
+  font-weight:800;
+  white-space:nowrap;
+}
+
+.etf-related-news{
+  margin-top:22px;
+}
+
 .metrics{
   display:grid;
   grid-template-columns:1fr 1fr;
@@ -1514,6 +1574,27 @@ footer{
 
     </div>
 
+    <div id="activeEtfDetail" class="etf-detail-box hidden">
+      <h3>🧺 ETF 投資組合</h3>
+      <div id="activeEtfProfile" class="etf-profile-grid"></div>
+      <div id="activeEtfDirection" class="plain-note"></div>
+
+      <h3 style="margin-top:20px">📋 目前公開持股</h3>
+      <div id="activeEtfHoldingsList"></div>
+      <button id="activeEtfHoldingsToggle" class="section-toggle hidden" type="button">
+        查看全部持股
+      </button>
+
+      <div class="etf-related-news">
+        <h3>📰 這檔 ETF 的相關新聞</h3>
+        <div id="activeEtfNewsStatus" class="heat-subtitle"></div>
+        <div id="activeEtfNewsList" class="news-list"></div>
+        <button id="activeEtfNewsRefresh" class="section-toggle secondary hidden" type="button">
+          🔄 換下一批新聞
+        </button>
+      </div>
+    </div>
+
   </div>
 
   <div
@@ -1894,7 +1975,7 @@ footer{
     id="newsRefresh"
     class="section-toggle secondary hidden"
     type="button">
-    🔄 換下一批 20 則
+    🔄 換下一批新聞
   </button>
 
   <div class="news-help">
@@ -1976,6 +2057,8 @@ let newsPageStart = 0;
 let currentPage = "home";
 let allStockLimit = 60;
 let currentStockCode = "";
+let etfHoldingExpanded = false;
+let etfDetailNewsStart = 0;
 let toastTimer = null;
 
 let watchlistCodes = (() => {
@@ -2684,23 +2767,7 @@ function renderNews(){
   );
 
   if(marketNews.length > 20){
-
-    const currentPage =
-      Math.floor(
-        newsPageStart / 20
-      ) + 1;
-
-    const totalPages =
-      Math.ceil(
-        marketNews.length / 20
-      );
-
-    refresh.textContent =
-      "🔄 換下一批 20 則（" +
-      currentPage +
-      "/" +
-      totalPages +
-      "）";
+    refresh.textContent = "🔄 換下一批新聞";
 
   }
 
@@ -3027,6 +3094,155 @@ function renderSelectedEtfChanges(){
 document
   .getElementById("etfChangeSelect")
   ?.addEventListener("change",renderSelectedEtfChanges);
+
+
+function getEtfRelatedNews(etf){
+
+  const code = String(etf.code || "").toUpperCase();
+  const name = String(etf.name || "").trim();
+  const issuer = String(etf.issuer || "")
+    .replace(/投信/g,"")
+    .trim();
+
+  const keywords = [code,name,issuer]
+    .filter(keyword => keyword && keyword.length >= 2)
+    .map(keyword => keyword.toUpperCase());
+
+  return marketNews.filter(item => {
+    const text = `${item.title || ""} ${item.summary || item.description || ""}`.toUpperCase();
+    return keywords.some(keyword => text.includes(keyword));
+  });
+
+}
+
+
+function renderActiveEtfDetail(code){
+
+  const box = document.getElementById("activeEtfDetail");
+  const profile = document.getElementById("activeEtfProfile");
+  const direction = document.getElementById("activeEtfDirection");
+  const holdingsList = document.getElementById("activeEtfHoldingsList");
+  const holdingsToggle = document.getElementById("activeEtfHoldingsToggle");
+  const newsStatus = document.getElementById("activeEtfNewsStatus");
+  const newsList = document.getElementById("activeEtfNewsList");
+  const newsRefresh = document.getElementById("activeEtfNewsRefresh");
+
+  if(!box || !profile || !direction || !holdingsList || !holdingsToggle || !newsStatus || !newsList || !newsRefresh){
+    return;
+  }
+
+  const etf = activeEtfHoldings[String(code || "").trim()] || null;
+
+  if(!etf){
+    box.classList.add("hidden");
+    return;
+  }
+
+  box.classList.remove("hidden");
+  profile.innerHTML = "";
+
+  [
+    ["發行商",etf.issuer || "-"],
+    ["持股日期",etf.holdings_date || "-"],
+    ["公開持股",`${(etf.holdings || []).length} 檔`],
+    ["投資類型","主動式台股 ETF"]
+  ].forEach(([label,value]) => {
+    const item = document.createElement("div");
+    item.className = "etf-profile-item";
+    const small = document.createElement("small");
+    small.textContent = label;
+    const strong = document.createElement("strong");
+    strong.textContent = value;
+    item.append(small,strong);
+    profile.appendChild(item);
+  });
+
+  direction.textContent = `${etf.name || etf.code} 採主動式管理，由經理人依基金策略調整投資組合。以下呈現官方最近公開持股；完整投資目標與選股方法，後續會再接入投信官方基金說明。`;
+
+  holdingsList.innerHTML = "";
+  const holdings = Array.isArray(etf.holdings) ? etf.holdings : [];
+  const visibleHoldings = etfHoldingExpanded ? holdings : holdings.slice(0,10);
+
+  visibleHoldings.forEach(item => {
+    const row = document.createElement("div");
+    row.className = "etf-holding-row";
+    row.tabIndex = 0;
+    row.setAttribute("role","button");
+
+    const main = document.createElement("div");
+    const name = document.createElement("div");
+    name.className = "etf-holding-name";
+    name.textContent = String(item.name || item.code).replace(/\s+/g," ").trim();
+    const stockCode = document.createElement("div");
+    stockCode.className = "etf-holding-code";
+    stockCode.textContent = `${item.code}　查看個股 ›`;
+    main.append(name,stockCode);
+
+    const numbers = document.createElement("div");
+    numbers.className = "etf-holding-numbers";
+    const weight = cleanNumber(item.weight);
+    numbers.textContent = `${weight.toFixed(2)}%`;
+    const shares = document.createElement("div");
+    shares.className = "heat-subtitle";
+    shares.textContent = `${formatNumber(item.shares)} 股`;
+    numbers.appendChild(shares);
+
+    row.append(main,numbers);
+    const open = () => openStockFromList(String(item.code || ""));
+    row.addEventListener("click",open);
+    row.addEventListener("keydown",event => {
+      if(event.key === "Enter" || event.key === " "){
+        event.preventDefault();
+        open();
+      }
+    });
+    holdingsList.appendChild(row);
+  });
+
+  holdingsToggle.classList.toggle("hidden",holdings.length <= 10);
+  holdingsToggle.textContent = etfHoldingExpanded
+    ? "收起持股，只看前 10 檔"
+    : `查看全部 ${holdings.length} 檔持股`;
+
+  newsList.innerHTML = "";
+  const relatedNews = getEtfRelatedNews(etf);
+
+  if(!newsDataReady){
+    newsStatus.textContent = "相關新聞載入中...";
+    newsRefresh.classList.add("hidden");
+  }
+  else if(!relatedNews.length){
+    newsStatus.textContent = "目前尚未找到這檔 ETF 的近期相關新聞";
+    newsRefresh.classList.add("hidden");
+  }
+  else{
+    newsStatus.textContent = `找到 ${relatedNews.length} 則近期相關新聞`;
+    const visibleNews = relatedNews.slice(etfDetailNewsStart,etfDetailNewsStart + 3);
+    visibleNews.forEach(item => newsList.appendChild(createNewsItem(item)));
+    newsRefresh.classList.toggle("hidden",relatedNews.length <= 3);
+    newsRefresh.textContent = "🔄 換下一批新聞";
+  }
+
+}
+
+
+document
+  .getElementById("activeEtfHoldingsToggle")
+  ?.addEventListener("click",() => {
+    etfHoldingExpanded = !etfHoldingExpanded;
+    renderActiveEtfDetail(currentStockCode);
+  });
+
+
+document
+  .getElementById("activeEtfNewsRefresh")
+  ?.addEventListener("click",() => {
+    const etf = activeEtfHoldings[currentStockCode] || {};
+    const relatedNews = getEtfRelatedNews(etf);
+    const nextStart = etfDetailNewsStart + 3;
+    etfDetailNewsStart = nextStart < relatedNews.length ? nextStart : 0;
+    renderActiveEtfDetail(currentStockCode);
+  });
 
 
 function getHoldingConsensus(){
@@ -4244,6 +4460,9 @@ function showStock(row){
   currentStockCode =
     String(v.code || "").trim();
 
+  etfHoldingExpanded = false;
+  etfDetailNewsStart = 0;
+
   updateWatchUi();
 
   document
@@ -4327,6 +4546,8 @@ function showStock(row){
     .classList.remove(
       "hidden"
     );
+
+  renderActiveEtfDetail(currentStockCode);
 
 }
 
