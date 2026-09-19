@@ -753,12 +753,15 @@ footer{
 }
 
 .footer-status span:not(:last-child)::after{
-  content:"・";
-  margin:0 4px;
+  content:"";
 }
 
 .footer-status b{
   font-weight:500;
+}
+
+.footer-status span{
+  display:block;
 }
 
 @media(min-width:600px){
@@ -1154,7 +1157,7 @@ footer{
 
 <!-- 近期頭條新聞 -->
 
-<section class="card page-section" data-pages="home,news">
+<section class="card page-section" data-pages="news">
 
   <h2>📰 近期頭條新聞</h2>
 
