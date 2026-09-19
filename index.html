@@ -35,6 +35,43 @@ header p{
   font-size:15px;
 }
 
+.page-nav{
+  position:sticky;
+  top:0;
+  z-index:40;
+  display:flex;
+  gap:8px;
+  overflow-x:auto;
+  padding:10px max(14px,calc((100% - 760px) / 2 + 18px));
+  background:rgba(255,255,255,.96);
+  border-bottom:1px solid #e5e7eb;
+  -webkit-overflow-scrolling:touch;
+  scrollbar-width:none;
+}
+
+.page-nav::-webkit-scrollbar{
+  display:none;
+}
+
+.nav-button{
+  flex:0 0 auto;
+  padding:9px 12px;
+  border-radius:999px;
+  background:#f1f5f9;
+  color:#475569;
+  font-size:14px;
+  font-weight:800;
+}
+
+.nav-button.active{
+  background:#111827;
+  color:white;
+}
+
+.page-section.is-page-hidden{
+  display:none;
+}
+
 main{
   max-width:760px;
   margin:auto;
@@ -592,6 +629,61 @@ button{
   font-weight:500;
 }
 
+/* 全部股票 */
+
+.all-stock-tools{
+  display:flex;
+  gap:8px;
+  margin-bottom:10px;
+}
+
+.all-stock-tools input{
+  font-size:16px;
+  padding:12px;
+}
+
+.all-stock-count{
+  color:#64748b;
+  font-size:13px;
+  margin-bottom:8px;
+}
+
+.all-stock-item{
+  width:100%;
+  display:grid;
+  grid-template-columns:82px 1fr auto;
+  align-items:center;
+  gap:10px;
+  padding:12px 6px;
+  border-radius:0;
+  border-bottom:1px solid #e5e7eb;
+  background:white;
+  color:#111827;
+  text-align:left;
+  font-size:15px;
+}
+
+.all-stock-item:active{
+  background:#f8fafc;
+}
+
+.all-stock-code{
+  color:#2563eb;
+  font-weight:900;
+}
+
+.all-stock-name{
+  min-width:0;
+  overflow:hidden;
+  text-overflow:ellipsis;
+  white-space:nowrap;
+}
+
+.all-stock-price{
+  text-align:right;
+  font-weight:800;
+}
+
 footer{
   text-align:center;
   color:#64748b;
@@ -636,11 +728,20 @@ footer{
   <p>TWSE 自動資料更新・量價與法人籌碼研究</p>
 </header>
 
+<nav class="page-nav" aria-label="主要分頁">
+  <button class="nav-button active" type="button" data-page="home">🏠 首頁</button>
+  <button class="nav-button" type="button" data-page="stocks">🔎 股票搜尋</button>
+  <button class="nav-button" type="button" data-page="all">📋 全部股票</button>
+  <button class="nav-button" type="button" data-page="etf">🔥 主動 ETF</button>
+  <button class="nav-button" type="button" data-page="news">📰 市場新聞</button>
+  <button class="nav-button" type="button" data-page="quant">🧪 量化研究</button>
+</nav>
+
 <main>
 
 <!-- 股票搜尋 -->
 
-<section id="stockSearchCard" class="card">
+<section id="stockSearchCard" class="card page-section" data-pages="stocks">
 
   <h2>🔎 股票搜尋</h2>
 
@@ -784,7 +885,7 @@ footer{
 
 <!-- 法人 -->
 
-<section class="card">
+<section class="card page-section" data-pages="stocks">
 
   <h2>🏦 三大法人籌碼</h2>
 
@@ -885,9 +986,34 @@ footer{
 </section>
 
 
+<!-- 全部股票 -->
+
+<section id="allStocksCard" class="card page-section" data-pages="all">
+
+  <h2>📋 全部股票</h2>
+
+  <div class="all-stock-tools">
+    <input
+      id="allStockFilter"
+      type="search"
+      autocomplete="off"
+      placeholder="篩選代號或名稱"
+    >
+  </div>
+
+  <div id="allStockCount" class="all-stock-count">股票資料載入中...</div>
+  <div id="allStockList"></div>
+
+  <button id="allStockMore" class="section-toggle hidden" type="button">
+    顯示更多股票
+  </button>
+
+</section>
+
+
 <!-- 今日市場熱力 -->
 
-<section class="card">
+<section class="card page-section" data-pages="home,etf">
 
   <h2>🔥 今日市場熱力</h2>
 
@@ -941,7 +1067,7 @@ footer{
 
 <!-- 近期頭條新聞 -->
 
-<section class="card">
+<section class="card page-section" data-pages="home,news">
 
   <h2>📰 近期頭條新聞</h2>
 
@@ -983,7 +1109,7 @@ footer{
 
 <!-- 資料狀態 -->
 
-<section class="card data-status-card">
+<section class="card data-status-card page-section" data-pages="home">
 
   <h2>📡 資料狀態</h2>
 
@@ -1012,7 +1138,7 @@ footer{
 
 <!-- 未來功能 -->
 
-<section class="card">
+<section class="card page-section" data-pages="quant">
 
   <h2>🤖 下一階段研究功能</h2>
 
@@ -1066,6 +1192,93 @@ let activeEtfExpanded = false;
 let activeEtfRankingData = [];
 let newsExpanded = false;
 let newsPageStart = 0;
+let currentPage = "home";
+let allStockLimit = 60;
+
+
+/* ========================================
+   分頁導覽
+======================================== */
+
+const validPages = [
+  "home",
+  "stocks",
+  "all",
+  "etf",
+  "news",
+  "quant"
+];
+
+
+function showPage(page,updateHash = true){
+
+  const target = validPages.includes(page)
+    ? page
+    : "home";
+
+  currentPage = target;
+
+  document
+    .querySelectorAll(".page-section")
+    .forEach(section => {
+      const pages = String(section.dataset.pages || "")
+        .split(",")
+        .map(value => value.trim());
+      section.classList.toggle(
+        "is-page-hidden",
+        !pages.includes(target)
+      );
+    });
+
+  document
+    .querySelectorAll(".nav-button")
+    .forEach(button => {
+      button.classList.toggle(
+        "active",
+        button.dataset.page === target
+      );
+    });
+
+  activeEtfExpanded = target === "etf";
+  newsExpanded = target === "news";
+  newsPageStart = 0;
+
+  if(stockDataReady){
+    renderActiveEtfRanking();
+    renderAllStocks();
+  }
+
+  if(newsDataReady){
+    renderNews();
+  }
+
+  if(updateHash){
+    history.replaceState(null,"",`#${target}`);
+  }
+
+  window.scrollTo({top:0,behavior:"smooth"});
+
+}
+
+
+document
+  .querySelectorAll(".nav-button")
+  .forEach(button => {
+    button.addEventListener("click",() => {
+      showPage(button.dataset.page);
+    });
+  });
+
+
+window.addEventListener("hashchange",() => {
+  showPage(location.hash.slice(1),false);
+});
+
+
+showPage(
+  location.hash.slice(1) || "home",
+  false
+);
 
 
 /* ========================================
@@ -1203,6 +1416,8 @@ async function loadStocks(){
       stocks.length
         .toLocaleString("zh-TW") +
       " 筆";
+
+    renderAllStocks();
 
   }
   catch(error){
@@ -1709,6 +1924,89 @@ function getStockValues(row){
   };
 
 }
+
+
+/* ========================================
+   全部股票清單
+======================================== */
+
+function renderAllStocks(){
+
+  const list = document.getElementById("allStockList");
+  const count = document.getElementById("allStockCount");
+  const more = document.getElementById("allStockMore");
+  const filter = document.getElementById("allStockFilter");
+
+  if(!list || !count || !more || !filter || !stockDataReady){
+    return;
+  }
+
+  const query = filter.value.trim().toUpperCase();
+
+  const matches = stocks
+    .map(getStockValues)
+    .filter(item => {
+      const code = String(item.code || "").trim().toUpperCase();
+      const name = String(item.name || "").trim().toUpperCase();
+      return code && name && (
+        !query ||
+        code.includes(query) ||
+        name.includes(query)
+      );
+    })
+    .sort((a,b) => String(a.code).localeCompare(String(b.code)));
+
+  count.textContent = query
+    ? `找到 ${matches.length.toLocaleString("zh-TW")} 筆符合結果`
+    : `共 ${matches.length.toLocaleString("zh-TW")} 筆證券；點選即可查看詳情`;
+
+  list.innerHTML = "";
+
+  matches.slice(0,allStockLimit).forEach(item => {
+
+    const row = document.createElement("button");
+    row.type = "button";
+    row.className = "all-stock-item";
+
+    const code = document.createElement("span");
+    code.className = "all-stock-code";
+    code.textContent = item.code;
+
+    const name = document.createElement("span");
+    name.className = "all-stock-name";
+    name.textContent = item.name;
+
+    const price = document.createElement("span");
+    price.className = "all-stock-price";
+    price.textContent = formatNumber(item.close);
+    setNetColor(price,cleanNumber(item.change));
+
+    row.append(code,name,price);
+    row.addEventListener("click",() => openStockFromList(item.code));
+    list.appendChild(row);
+
+  });
+
+  more.classList.toggle("hidden",allStockLimit >= matches.length);
+  more.textContent = `顯示更多（尚有 ${Math.max(0,matches.length - allStockLimit).toLocaleString("zh-TW")} 筆）`;
+
+}
+
+
+document
+  .getElementById("allStockFilter")
+  .addEventListener("input",function(){
+    allStockLimit = 60;
+    renderAllStocks();
+  });
+
+
+document
+  .getElementById("allStockMore")
+  .addEventListener("click",function(){
+    allStockLimit += 60;
+    renderAllStocks();
+  });
 
 
 function getStockCode(row){
@@ -2948,9 +3246,6 @@ function getSearchMatches(
 
   const exactMatches = [];
   const startMatches = [];
-  const otherMatches = [];
-
-
   stocks.forEach(
     row => {
 
@@ -3015,18 +3310,6 @@ function getSearchMatches(
       }
 
 
-      if(
-        code.includes(query) ||
-        upperName.includes(query)
-      ){
-
-        otherMatches.push({
-          code:code,
-          name:name
-        });
-
-      }
-
     }
   );
 
@@ -3034,8 +3317,7 @@ function getSearchMatches(
   return [
 
     ...exactMatches,
-    ...startMatches,
-    ...otherMatches
+    ...startMatches
 
   ];
 
@@ -3433,6 +3715,8 @@ function getRankIcon(
 
 
 function openStockFromList(code){
+
+  showPage("stocks");
 
   searchInput.value =
     code;
@@ -3857,6 +4141,11 @@ Promise.all([
 ]).then(() => {
 
   renderActiveEtfRanking();
+  renderAllStocks();
+  showPage(
+    location.hash.slice(1) || "home",
+    false
+  );
 
 });
 
