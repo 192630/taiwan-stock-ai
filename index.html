@@ -714,6 +714,57 @@ button{
   line-height:1.75;
 }
 
+/* ETF 經理人共識雷達 */
+
+.consensus-block{
+  margin-top:20px;
+}
+
+.consensus-block h3{
+  margin:0 0 5px;
+  font-size:18px;
+}
+
+.consensus-row{
+  display:grid;
+  grid-template-columns:42px minmax(0,1fr) auto;
+  align-items:center;
+  gap:10px;
+  padding:12px 3px;
+  border-bottom:1px solid rgba(68,74,79,.18);
+  cursor:pointer;
+}
+
+.consensus-rank{
+  font-size:13px;
+  font-weight:900;
+}
+
+.consensus-name{
+  overflow:hidden;
+  font-weight:900;
+  text-overflow:ellipsis;
+  white-space:nowrap;
+}
+
+.consensus-code,
+.consensus-detail{
+  margin-top:3px;
+  color:#626a72;
+  font-size:12px;
+}
+
+.consensus-score{
+  min-width:74px;
+  text-align:right;
+  font-size:16px;
+  font-weight:900;
+}
+
+.consensus-score.positive{color:#d0443e}
+.consensus-score.negative{color:#25835a}
+.consensus-score.holding{color:#557a89}
+
 .heat-note{
   margin-top:14px;
   padding:12px;
@@ -1705,6 +1756,35 @@ footer{
 
 </section>
 
+<section class="card page-section" data-pages="etf">
+
+  <h2>🔥 ETF 經理人共識雷達</h2>
+
+  <div class="heat-subtitle">
+    整理 22 檔主動 ETF 的共同持股與跨 ETF 投資組合變化
+  </div>
+
+  <div id="holdingConsensusStatus" class="status">共同持股資料載入中...</div>
+
+  <div class="consensus-block">
+    <h3>👀 多檔 ETF 共識持股</h3>
+    <div class="heat-subtitle">依持有同一股票的 ETF 檔數排序</div>
+    <div id="holdingConsensusList"></div>
+  </div>
+
+  <div id="changeConsensusArea" class="consensus-block">
+    <h3>📈 每日變化共識</h3>
+    <div id="changeConsensusStatus" class="heat-subtitle">等待第二個有效交易日快照</div>
+    <div id="positiveConsensusList"></div>
+    <div id="negativeConsensusList"></div>
+  </div>
+
+  <div class="heat-note">
+    <strong>今日筆記：</strong>共識代表多檔 ETF 公開投資組合出現相同方向的變化；這是研究線索，不代表未來股價一定上漲或下跌。
+  </div>
+
+</section>
+
 <section class="card page-section" data-pages="home,etf">
 
   <h2>🔥 今日市場熱力</h2>
@@ -1973,6 +2053,7 @@ function showPage(page,updateHash = true){
 
   if(activeEtfHoldingsReady){
     renderSelectedEtfChanges();
+    renderEtfConsensus();
   }
 
   if(newsDataReady){
@@ -2907,6 +2988,166 @@ function renderSelectedEtfChanges(){
 document
   .getElementById("etfChangeSelect")
   ?.addEventListener("change",renderSelectedEtfChanges);
+
+
+function getHoldingConsensus(){
+
+  const map = new Map();
+
+  Object.values(activeEtfHoldings).forEach(etf => {
+    const etfCode = String(etf.code || "").trim();
+    const seen = new Set();
+
+    (etf.holdings || []).forEach(item => {
+      const stockCode = String(item.code || "").trim();
+      if(!stockCode || seen.has(stockCode)){
+        return;
+      }
+      seen.add(stockCode);
+
+      if(!map.has(stockCode)){
+        map.set(stockCode,{
+          code:stockCode,
+          name:String(item.name || stockCode).replace(/\s+/g," ").trim(),
+          etfs:[],
+          totalWeight:0
+        });
+      }
+
+      const row = map.get(stockCode);
+      row.etfs.push(etfCode);
+      row.totalWeight += cleanNumber(item.weight);
+    });
+  });
+
+  return [...map.values()]
+    .sort((a,b) => b.etfs.length - a.etfs.length || b.totalWeight - a.totalWeight);
+
+}
+
+
+function makeConsensusRow(item,index,mode){
+
+  const row = document.createElement("div");
+  row.className = "consensus-row";
+  row.tabIndex = 0;
+  row.setAttribute("role","button");
+
+  const rank = document.createElement("div");
+  rank.className = "consensus-rank";
+  rank.textContent = `NO.${index + 1}`;
+
+  const main = document.createElement("div");
+  const name = document.createElement("div");
+  name.className = "consensus-name";
+  name.textContent = item.name || item.code;
+  const code = document.createElement("div");
+  code.className = "consensus-code";
+  code.textContent = `${item.code}　查看個股 ›`;
+  const detail = document.createElement("div");
+  detail.className = "consensus-detail";
+
+  const score = document.createElement("div");
+  score.className = "consensus-score";
+
+  if(mode === "holding"){
+    detail.textContent = `持有：${item.etfs.join("、")}`;
+    score.classList.add("holding");
+    score.textContent = `${item.etfs.length} 檔持有`;
+  }
+  else{
+    const increased = cleanNumber(item.increased_count);
+    const added = cleanNumber(item.new_count);
+    const decreased = cleanNumber(item.decreased_count);
+    const removed = cleanNumber(item.removed_count);
+    const net = cleanNumber(item.net_etf_count);
+    detail.textContent = `增加 ${increased}｜新增 ${added}｜減少 ${decreased}｜退出 ${removed}`;
+    score.classList.add(net >= 0 ? "positive" : "negative");
+    score.textContent = `淨共識 ${net > 0 ? "+" : ""}${net}`;
+  }
+
+  main.append(name,code,detail);
+  row.append(rank,main,score);
+
+  const open = () => item.code && openStockFromList(item.code);
+  row.addEventListener("click",open);
+  row.addEventListener("keydown",event => {
+    if(event.key === "Enter" || event.key === " "){
+      event.preventDefault();
+      open();
+    }
+  });
+
+  return row;
+
+}
+
+
+function renderEtfConsensus(){
+
+  const holdingStatus = document.getElementById("holdingConsensusStatus");
+  const holdingList = document.getElementById("holdingConsensusList");
+  const changeStatus = document.getElementById("changeConsensusStatus");
+  const positiveList = document.getElementById("positiveConsensusList");
+  const negativeList = document.getElementById("negativeConsensusList");
+
+  if(!holdingStatus || !holdingList || !changeStatus || !positiveList || !negativeList){
+    return;
+  }
+
+  holdingList.innerHTML = "";
+  positiveList.innerHTML = "";
+  negativeList.innerHTML = "";
+
+  const holdingConsensus = getHoldingConsensus();
+
+  if(!holdingConsensus.length){
+    holdingStatus.textContent = "⚠️ 目前沒有可整理的主動 ETF 持股資料";
+  }
+  else{
+    const etfCount = Object.keys(activeEtfHoldings).length;
+    holdingStatus.textContent = `✅ 已整理 ${etfCount} 檔主動 ETF 的共同持股`;
+    holdingConsensus.slice(0,20).forEach((item,index) => {
+      holdingList.appendChild(makeConsensusRow(item,index,"holding"));
+    });
+  }
+
+  const consensus = Array.isArray(activeEtfChanges.consensus)
+    ? activeEtfChanges.consensus
+    : [];
+
+  if(!activeEtfChangesReady || !consensus.length){
+    changeStatus.textContent = "目前只有一個有效交易日快照；第二份快照完成後，這裡會自動出現集體增加與集體減少排行。";
+    return;
+  }
+
+  const positive = consensus
+    .filter(item => cleanNumber(item.net_etf_count) > 0)
+    .sort((a,b) => cleanNumber(b.net_etf_count) - cleanNumber(a.net_etf_count))
+    .slice(0,10);
+
+  const negative = consensus
+    .filter(item => cleanNumber(item.net_etf_count) < 0)
+    .sort((a,b) => cleanNumber(a.net_etf_count) - cleanNumber(b.net_etf_count))
+    .slice(0,10);
+
+  changeStatus.textContent = "以下依跨 ETF 淨共識排序";
+
+  if(positive.length){
+    const title = document.createElement("h3");
+    title.textContent = "🔥 多檔 ETF 同時增加";
+    positiveList.appendChild(title);
+    positive.forEach((item,index) => positiveList.appendChild(makeConsensusRow(item,index,"change")));
+  }
+
+  if(negative.length){
+    const title = document.createElement("h3");
+    title.textContent = "❄️ 多檔 ETF 同時減少";
+    negativeList.appendChild(title);
+    negative.forEach((item,index) => negativeList.appendChild(makeConsensusRow(item,index,"change")));
+  }
+
+}
 
 
 /* ========================================
@@ -5329,6 +5570,7 @@ Promise.all([
 ]).then(() => {
 
   renderEtfChangeOptions();
+  renderEtfConsensus();
   renderMarketRanking();
   renderActiveEtfRanking();
   renderAllStocks();
