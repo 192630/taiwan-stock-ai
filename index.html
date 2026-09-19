@@ -764,6 +764,16 @@ footer{
   display:block;
 }
 
+.footer-status-counts{
+  display:flex;
+  justify-content:center;
+  gap:28px;
+}
+
+.footer-status-counts span{
+  display:inline-block;
+}
+
 @media(min-width:600px){
 
   .search{
@@ -1233,8 +1243,10 @@ footer{
 <footer>
   <div>⚠️ 本站為研究與教學用途，資料不構成投資建議。</div>
   <div class="footer-status" aria-label="資料狀態">
-    <span>股票資料 <b id="stockCount">載入中...</b></span>
-    <span>法人資料 <b id="instCount">載入中...</b></span>
+    <div class="footer-status-counts">
+      <span>股票資料 <b id="stockCount">載入中...</b></span>
+      <span>法人資料 <b id="instCount">載入中...</b></span>
+    </div>
     <span>來源 <b id="instSource">-</b></span>
     <span>更新 <b id="instUpdated">-</b></span>
   </div>
