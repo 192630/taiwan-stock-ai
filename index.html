@@ -601,34 +601,6 @@ button{
   margin-top:10px;
 }
 
-/* 小型資料備註 */
-
-.data-status-card{
-  padding:12px 14px;
-  border-radius:14px;
-  background:#f8fafc;
-  box-shadow:none;
-  color:#64748b;
-}
-
-.data-status-card h2{
-  margin:0 0 5px;
-  font-size:14px;
-  color:#475569;
-}
-
-.data-status-card .info-row{
-  padding:5px 0;
-  font-size:12px;
-  border-bottom-color:#e9eef5;
-}
-
-.data-status-card .info-row span,
-.data-status-card .info-row b{
-  color:#64748b;
-  font-weight:500;
-}
-
 /* 全部股票 */
 
 .all-stock-tools{
@@ -689,6 +661,23 @@ footer{
   color:#64748b;
   padding:10px 20px 30px;
   font-size:14px;
+}
+
+.footer-status{
+  max-width:760px;
+  margin:8px auto 0;
+  color:#94a3b8;
+  font-size:11px;
+  line-height:1.7;
+}
+
+.footer-status span:not(:last-child)::after{
+  content:"・";
+  margin:0 4px;
+}
+
+.footer-status b{
+  font-weight:500;
 }
 
 @media(min-width:600px){
@@ -1107,35 +1096,6 @@ footer{
 </section>
 
 
-<!-- 資料狀態 -->
-
-<section class="card data-status-card page-section" data-pages="home">
-
-  <h2>📡 資料狀態</h2>
-
-  <div class="info-row">
-    <span>股票資料</span>
-    <b id="stockCount">載入中...</b>
-  </div>
-
-  <div class="info-row">
-    <span>法人資料</span>
-    <b id="instCount">載入中...</b>
-  </div>
-
-  <div class="info-row">
-    <span>法人來源</span>
-    <b id="instSource">-</b>
-  </div>
-
-  <div class="info-row">
-    <span>法人更新時間</span>
-    <b id="instUpdated">-</b>
-  </div>
-
-</section>
-
-
 <!-- 未來功能 -->
 
 <section class="card page-section" data-pages="quant">
@@ -1168,7 +1128,13 @@ footer{
 
 
 <footer>
-  ⚠️ 本站為研究與教學用途，資料不構成投資建議。
+  <div>⚠️ 本站為研究與教學用途，資料不構成投資建議。</div>
+  <div class="footer-status" aria-label="資料狀態">
+    <span>股票資料 <b id="stockCount">載入中...</b></span>
+    <span>法人資料 <b id="instCount">載入中...</b></span>
+    <span>來源 <b id="instSource">-</b></span>
+    <span>更新 <b id="instUpdated">-</b></span>
+  </div>
 </footer>
 
 
