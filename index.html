@@ -241,6 +241,26 @@ button{
   margin-bottom:14px;
 }
 
+.watch-main-button{
+  width:100%;
+  margin:0 0 14px;
+  background:#fff7ed;
+  color:#9a3412;
+  border:1px solid #fed7aa;
+  transition:transform .18s ease,background .18s ease;
+}
+
+.watch-main-button.active{
+  background:#111827;
+  color:white;
+  border-color:#111827;
+}
+
+.watch-main-button:active,
+.watch-toggle:active{
+  transform:scale(.96);
+}
+
 .metrics{
   display:grid;
   grid-template-columns:1fr 1fr;
@@ -623,7 +643,7 @@ button{
 .all-stock-item{
   width:100%;
   display:grid;
-  grid-template-columns:82px 1fr auto;
+  grid-template-columns:76px 1fr auto 42px;
   align-items:center;
   gap:10px;
   padding:12px 6px;
@@ -633,6 +653,7 @@ button{
   color:#111827;
   text-align:left;
   font-size:15px;
+  cursor:pointer;
 }
 
 .all-stock-item:active{
@@ -654,6 +675,66 @@ button{
 .all-stock-price{
   text-align:right;
   font-weight:800;
+}
+
+.watch-toggle{
+  width:38px;
+  height:38px;
+  padding:0;
+  border-radius:50%;
+  background:#f1f5f9;
+  color:#64748b;
+  font-size:19px;
+  transition:transform .18s ease,background .18s ease;
+}
+
+.watch-toggle.active{
+  background:#ffedd5;
+  color:#ea580c;
+}
+
+.watch-empty{
+  padding:34px 16px;
+  text-align:center;
+  color:#64748b;
+  line-height:1.8;
+}
+
+.nav-count{
+  display:inline-flex;
+  min-width:20px;
+  height:20px;
+  align-items:center;
+  justify-content:center;
+  margin-left:3px;
+  padding:0 5px;
+  border-radius:999px;
+  background:#ea580c;
+  color:white;
+  font-size:11px;
+}
+
+.toast{
+  position:fixed;
+  z-index:100;
+  left:50%;
+  bottom:28px;
+  transform:translateX(-50%);
+  max-width:calc(100% - 36px);
+  padding:12px 18px;
+  border-radius:999px;
+  background:#111827;
+  color:white;
+  box-shadow:0 10px 30px rgba(15,23,42,.25);
+  font-size:14px;
+  font-weight:800;
+  white-space:nowrap;
+  animation:toast-in .22s ease-out;
+}
+
+@keyframes toast-in{
+  from{opacity:0;transform:translate(-50%,12px)}
+  to{opacity:1;transform:translate(-50%,0)}
 }
 
 footer{
@@ -721,6 +802,7 @@ footer{
   <button class="nav-button active" type="button" data-page="home">🏠 首頁</button>
   <button class="nav-button" type="button" data-page="stocks">🔎 股票搜尋</button>
   <button class="nav-button" type="button" data-page="all">📋 全部股票</button>
+  <button class="nav-button" type="button" data-page="watch">🧺 我的觀察 <span id="watchNavCount" class="nav-count">0</span></button>
   <button class="nav-button" type="button" data-page="etf">🔥 主動 ETF</button>
   <button class="nav-button" type="button" data-page="news">📰 市場新聞</button>
   <button class="nav-button" type="button" data-page="quant">🧪 量化研究</button>
@@ -781,6 +863,10 @@ footer{
     <div id="price" class="price"></div>
     <div id="priceChange" class="price-change"></div>
     <div id="tradeDate" class="trade-date"></div>
+
+    <button id="stockWatchButton" class="watch-main-button" type="button">
+      ♡ 加入我的觀察
+    </button>
 
     <div class="metrics">
 
@@ -868,6 +954,18 @@ footer{
     </div>
 
   </div>
+
+</section>
+
+
+<!-- 我的觀察 -->
+
+<section id="watchlistCard" class="card page-section" data-pages="watch">
+
+  <h2>🧺 我的觀察</h2>
+  <div class="heat-subtitle">把有興趣的股票先收進來，不代表已經買進。</div>
+  <div id="watchlistCount" class="all-stock-count"></div>
+  <div id="watchlist"></div>
 
 </section>
 
@@ -1126,6 +1224,8 @@ footer{
 
 </main>
 
+<div id="toast" class="toast hidden" role="status" aria-live="polite"></div>
+
 
 <footer>
   <div>⚠️ 本站為研究與教學用途，資料不構成投資建議。</div>
@@ -1160,6 +1260,20 @@ let newsExpanded = false;
 let newsPageStart = 0;
 let currentPage = "home";
 let allStockLimit = 60;
+let currentStockCode = "";
+let toastTimer = null;
+
+let watchlistCodes = (() => {
+  try{
+    const saved = JSON.parse(localStorage.getItem("taiwanStockWatchlist") || "[]");
+    return Array.isArray(saved)
+      ? [...new Set(saved.map(code => String(code).trim()).filter(Boolean))]
+      : [];
+  }
+  catch(error){
+    return [];
+  }
+})();
 
 
 /* ========================================
@@ -1170,6 +1284,7 @@ const validPages = [
   "home",
   "stocks",
   "all",
+  "watch",
   "etf",
   "news",
   "quant"
@@ -1212,6 +1327,7 @@ function showPage(page,updateHash = true){
   if(stockDataReady){
     renderActiveEtfRanking();
     renderAllStocks();
+    renderWatchlist();
   }
 
   if(newsDataReady){
@@ -1330,6 +1446,75 @@ function setNetColor(element,value){
 
 
 /* ========================================
+   我的觀察
+======================================== */
+
+function isWatched(code){
+  return watchlistCodes.includes(String(code || "").trim());
+}
+
+
+function saveWatchlist(){
+  try{
+    localStorage.setItem(
+      "taiwanStockWatchlist",
+      JSON.stringify(watchlistCodes)
+    );
+  }
+  catch(error){
+    console.warn("無法儲存觀察清單",error);
+  }
+}
+
+
+function showToast(message){
+  const toast = document.getElementById("toast");
+  toast.textContent = message;
+  toast.classList.remove("hidden");
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => toast.classList.add("hidden"),1800);
+}
+
+
+function updateWatchUi(){
+  const count = document.getElementById("watchNavCount");
+  count.textContent = watchlistCodes.length;
+
+  const button = document.getElementById("stockWatchButton");
+  const active = currentStockCode && isWatched(currentStockCode);
+  button.classList.toggle("active",Boolean(active));
+  button.textContent = active
+    ? "♥ 已加入我的觀察"
+    : "♡ 加入我的觀察";
+}
+
+
+function toggleWatchlist(code){
+  const key = String(code || "").trim();
+  if(!key) return;
+
+  if(isWatched(key)){
+    watchlistCodes = watchlistCodes.filter(item => item !== key);
+    showToast(`${key} 已移出我的觀察`);
+  }
+  else{
+    watchlistCodes.push(key);
+    showToast(`${key} 已加入我的觀察 ♥`);
+  }
+
+  saveWatchlist();
+  updateWatchUi();
+  renderAllStocks();
+  renderWatchlist();
+}
+
+
+document
+  .getElementById("stockWatchButton")
+  .addEventListener("click",() => toggleWatchlist(currentStockCode));
+
+
+/* ========================================
    股票資料
 ======================================== */
 
@@ -1384,6 +1569,8 @@ async function loadStocks(){
       " 筆";
 
     renderAllStocks();
+    renderWatchlist();
+    updateWatchUi();
 
   }
   catch(error){
@@ -1930,9 +2117,10 @@ function renderAllStocks(){
 
   matches.slice(0,allStockLimit).forEach(item => {
 
-    const row = document.createElement("button");
-    row.type = "button";
+    const row = document.createElement("div");
     row.className = "all-stock-item";
+    row.tabIndex = 0;
+    row.setAttribute("role","button");
 
     const code = document.createElement("span");
     code.className = "all-stock-code";
@@ -1947,14 +2135,95 @@ function renderAllStocks(){
     price.textContent = formatNumber(item.close);
     setNetColor(price,cleanNumber(item.change));
 
-    row.append(code,name,price);
+    const watch = document.createElement("button");
+    watch.type = "button";
+    watch.className = "watch-toggle" + (isWatched(item.code) ? " active" : "");
+    watch.textContent = isWatched(item.code) ? "♥" : "♡";
+    watch.setAttribute("aria-label",`${isWatched(item.code) ? "移除" : "加入"} ${item.code} 觀察`);
+    watch.addEventListener("click",event => {
+      event.stopPropagation();
+      toggleWatchlist(item.code);
+    });
+
+    row.append(code,name,price,watch);
     row.addEventListener("click",() => openStockFromList(item.code));
+    row.addEventListener("keydown",event => {
+      if(event.key === "Enter") openStockFromList(item.code);
+    });
     list.appendChild(row);
 
   });
 
   more.classList.toggle("hidden",allStockLimit >= matches.length);
   more.textContent = `顯示更多（尚有 ${Math.max(0,matches.length - allStockLimit).toLocaleString("zh-TW")} 筆）`;
+
+}
+
+
+function renderWatchlist(){
+
+  const list = document.getElementById("watchlist");
+  const count = document.getElementById("watchlistCount");
+
+  if(!list || !count) return;
+
+  updateWatchUi();
+  list.innerHTML = "";
+
+  if(!watchlistCodes.length){
+    count.textContent = "目前收藏 0 檔";
+    const empty = document.createElement("div");
+    empty.className = "watch-empty";
+    empty.innerHTML = "還沒有觀察中的股票。<br>到「全部股票」或個股頁面按 ♡ 加入。";
+    list.appendChild(empty);
+    return;
+  }
+
+  const items = watchlistCodes
+    .map(code => findStock(code))
+    .filter(Boolean)
+    .map(getStockValues);
+
+  count.textContent = `目前收藏 ${items.length.toLocaleString("zh-TW")} 檔；資料保存在這台裝置的瀏覽器中`;
+
+  items.forEach(item => {
+
+    const row = document.createElement("div");
+    row.className = "all-stock-item";
+    row.tabIndex = 0;
+    row.setAttribute("role","button");
+
+    const code = document.createElement("span");
+    code.className = "all-stock-code";
+    code.textContent = item.code;
+
+    const name = document.createElement("span");
+    name.className = "all-stock-name";
+    name.textContent = item.name;
+
+    const price = document.createElement("span");
+    price.className = "all-stock-price";
+    price.textContent = formatNumber(item.close);
+    setNetColor(price,cleanNumber(item.change));
+
+    const remove = document.createElement("button");
+    remove.type = "button";
+    remove.className = "watch-toggle active";
+    remove.textContent = "♥";
+    remove.setAttribute("aria-label",`移除 ${item.code} 觀察`);
+    remove.addEventListener("click",event => {
+      event.stopPropagation();
+      toggleWatchlist(item.code);
+    });
+
+    row.append(code,name,price,remove);
+    row.addEventListener("click",() => openStockFromList(item.code));
+    row.addEventListener("keydown",event => {
+      if(event.key === "Enter") openStockFromList(item.code);
+    });
+    list.appendChild(row);
+
+  });
 
 }
 
@@ -2668,6 +2937,11 @@ function showStock(row){
 
   const v =
     getStockValues(row);
+
+  currentStockCode =
+    String(v.code || "").trim();
+
+  updateWatchUi();
 
   document
     .getElementById(
