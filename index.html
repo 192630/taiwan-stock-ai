@@ -2043,6 +2043,7 @@ let marketHistory = {};
 let marketNews = [];
 let activeEtfHoldings = {};
 let activeEtfChanges = {};
+let activeEtfNews = {};
 
 let stockDataReady = false;
 let institutionalReady = false;
@@ -2050,6 +2051,7 @@ let marketHistoryReady = false;
 let newsDataReady = false;
 let activeEtfHoldingsReady = false;
 let activeEtfChangesReady = false;
+let activeEtfNewsReady = false;
 
 let activeEtfExpanded = false;
 let activeEtfRankingData = [];
@@ -2920,6 +2922,25 @@ async function loadActiveEtfChanges(){
 }
 
 
+async function loadActiveEtfNews(){
+
+  try{
+    const response = await fetch("data/active_etf_news.json?t=" + Date.now());
+    if(!response.ok){
+      throw new Error("active_etf_news.json 尚未產生");
+    }
+    const json = await response.json();
+    activeEtfNews = json.etfs || {};
+    activeEtfNewsReady = true;
+  }
+  catch(error){
+    activeEtfNews = {};
+    activeEtfNewsReady = false;
+  }
+
+}
+
+
 function renderEtfChangeOptions(){
 
   const select = document.getElementById("etfChangeSelect");
@@ -3098,20 +3119,9 @@ document
 
 function getEtfRelatedNews(etf){
 
-  const code = String(etf.code || "").toUpperCase();
-  const name = String(etf.name || "").trim();
-  const issuer = String(etf.issuer || "")
-    .replace(/投信/g,"")
-    .trim();
-
-  const keywords = [code,name,issuer]
-    .filter(keyword => keyword && keyword.length >= 2)
-    .map(keyword => keyword.toUpperCase());
-
-  return marketNews.filter(item => {
-    const text = `${item.title || ""} ${item.summary || item.description || ""}`.toUpperCase();
-    return keywords.some(keyword => text.includes(keyword));
-  });
+  const code = String(etf.code || "").trim();
+  const entry = activeEtfNews[code] || {};
+  return Array.isArray(entry.news) ? entry.news : [];
 
 }
 
@@ -3207,8 +3217,8 @@ function renderActiveEtfDetail(code){
   newsList.innerHTML = "";
   const relatedNews = getEtfRelatedNews(etf);
 
-  if(!newsDataReady){
-    newsStatus.textContent = "相關新聞載入中...";
+  if(!activeEtfNewsReady){
+    newsStatus.textContent = "ETF 專屬新聞資料準備中，完成後會自動顯示";
     newsRefresh.classList.add("hidden");
   }
   else if(!relatedNews.length){
@@ -5856,11 +5866,15 @@ Promise.all([
   loadMarketHistory(),
   loadMarketNews(),
   loadActiveEtfHoldings(),
-  loadActiveEtfChanges()
+  loadActiveEtfChanges(),
+  loadActiveEtfNews()
 ]).then(() => {
 
   renderEtfChangeOptions();
   renderEtfConsensus();
+  if(currentStockCode){
+    renderActiveEtfDetail(currentStockCode);
+  }
   renderMarketRanking();
   renderActiveEtfRanking();
   renderAllStocks();
