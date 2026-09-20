@@ -1892,6 +1892,29 @@ footer{
   }
 
 }
+
+/* 全球市場連動雷達 */
+.global-risk-card{background:rgba(255,254,250,.9);border:2px solid #495057;border-radius:22px;padding:20px;margin-bottom:22px}
+.global-risk-head{display:flex;align-items:flex-start;justify-content:space-between;gap:16px}
+.global-risk-score{font-size:34px;font-weight:900;color:#20262c;white-space:nowrap}
+.global-risk-state{font-weight:900;color:#516875;margin-top:5px}
+.global-gauge{height:12px;border-radius:999px;background:linear-gradient(90deg,#8aa38b 0 25%,#d7c38b 25% 50%,#c99572 50% 70%,#bd665e 70% 100%);overflow:hidden;margin:16px 0 12px;position:relative}
+.global-gauge-marker{position:absolute;top:-4px;width:4px;height:20px;background:#20262c;border-radius:4px;transform:translateX(-2px)}
+.global-indicator-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin:16px 0}
+.global-indicator{border:1.5px solid #9aa0a4;border-radius:15px;padding:12px;background:rgba(255,255,255,.74)}
+.global-indicator-top{display:flex;justify-content:space-between;gap:8px;font-weight:900}
+.global-indicator-price{font-size:20px;font-weight:900;margin-top:7px}
+.global-indicator-meta{font-size:12px;color:#64748b;line-height:1.5;margin-top:5px}
+.global-data-status{display:inline-flex;align-items:center;gap:5px;font-size:12px;color:#64748b}
+.global-data-status::before{content:"";width:7px;height:7px;border-radius:50%;background:#799379}
+.global-data-status.stale::before{background:#bd665e}
+.global-semantics{display:grid;gap:12px;margin-top:18px}
+.global-semantic{border-left:4px solid #70838d;padding:4px 0 4px 14px}
+.global-semantic h3{margin:0 0 7px;font-size:17px}.global-semantic ul{margin:0;padding-left:20px;color:#465467;line-height:1.75}
+.global-sector-chips,.global-exposure-list{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}
+.global-sector-chip,.global-exposure-chip{border:1.5px solid #81949c;border-radius:999px;padding:7px 10px;font-size:13px;font-weight:800;background:#f8faf9}
+.global-license-note{font-size:13px;color:#64748b;line-height:1.65;border-top:1px dashed #aab1b4;margin-top:16px;padding-top:12px}
+@media(max-width:520px){.global-indicator-grid{grid-template-columns:1fr}.global-risk-head{align-items:center}.global-risk-score{font-size:28px}}
 </style>
 </head>
 
@@ -1924,6 +1947,7 @@ footer{
   <button class="nav-button" type="button" data-page="all">📋 全部股票</button>
   <button class="nav-button" type="button" data-page="market">📊 市場排行</button>
   <button class="nav-button" type="button" data-page="industry">🏭 產業紅綠燈</button>
+  <button class="nav-button" type="button" data-page="global">🌍 全球連動</button>
   <button class="nav-button" type="button" data-page="watch">🧺 我的觀察 <span id="watchNavCount" class="nav-count">0</span></button>
   <button class="nav-button" type="button" data-page="etf">🔥 主動 ETF</button>
   <button class="nav-button" type="button" data-page="news">📰 市場新聞</button>
@@ -2046,6 +2070,10 @@ footer{
       <div id="companyProfileGrid" class="etf-profile-grid"></div>
       <div id="companyBusinessNote" class="plain-note"></div>
       <a id="companyWebsite" class="company-profile-link hidden" target="_blank" rel="noopener noreferrer">前往公司官方網站 ↗</a>
+    </div>
+
+    <div id="globalExposureBox" class="etf-detail-box hidden">
+      <h3>🌍 國際市場敏感度</h3><div id="globalExposureList" class="global-exposure-list"></div><div id="globalExposureNote" class="plain-note"></div>
     </div>
 
     <div id="stockEtfOwnership" class="etf-detail-box hidden">
@@ -2283,6 +2311,15 @@ footer{
 
 </section>
 
+
+<!-- 首頁全球市場連動雷達 -->
+<section class="card page-section" data-pages="home">
+  <div class="global-risk-head"><div><h2>🌍 全球市場連動雷達</h2><div class="heat-subtitle">跨市場風險摘要・行情可能延遲</div></div><div><div id="globalHomeScore" class="global-risk-score">--／100</div><div id="globalHomeState" class="global-risk-state">資料準備中</div></div></div>
+  <div class="global-gauge"><span id="globalHomeMarker" class="global-gauge-marker" style="left:0%"></span></div>
+  <div id="globalHomeSummary" class="plain-note">全球市場資料載入中...</div>
+  <div id="globalHomeIndicators" class="global-indicator-grid"></div>
+  <button class="section-toggle" type="button" onclick="showPage('global')">查看完整全球連動分析</button>
+</section>
 
 <!-- 首頁成交量排行 -->
 
@@ -2672,6 +2709,19 @@ footer{
 
 </section>
 
+<section class="card page-section" data-pages="global">
+  <div class="global-risk-head"><div><h2>🌍 全球市場連動雷達</h2><div id="globalPagePhase" class="heat-subtitle">資料載入中...</div></div><div><div id="globalPageScore" class="global-risk-score">--／100</div><div id="globalPageState" class="global-risk-state">資料準備中</div></div></div>
+  <div class="global-gauge"><span id="globalPageMarker" class="global-gauge-marker" style="left:0%"></span></div>
+  <div id="globalPageStatus" class="status">全球市場資料載入中...</div><div id="globalPageSummary" class="plain-note"></div><div id="globalIndicatorGrid" class="global-indicator-grid"></div>
+  <div class="global-semantics">
+    <div class="global-semantic"><h3>① 已確認的市場數據</h3><ul id="globalConfirmed"></ul></div>
+    <div class="global-semantic"><h3>② 系統依規則判定的訊號</h3><ul id="globalSignals"></ul></div>
+    <div class="global-semantic"><h3>③ 可能影響與推論</h3><ul id="globalInferences"></ul><div id="globalSectors" class="global-sector-chips"></div></div>
+    <div class="global-semantic"><h3>④ 歷史統計結果</h3><div id="globalHistory" class="plain-note">樣本不足</div></div>
+    <div class="global-semantic"><h3>接下來觀察</h3><ul id="globalWatch"></ul></div>
+  </div><div id="globalLicense" class="global-license-note"></div>
+</section>
+
 <section class="card page-section" data-pages="member">
   <h2>👤 會員中心</h2>
   <div class="member-status-card">
@@ -2694,6 +2744,7 @@ footer{
         <li>三大法人當日籌碼與白話說明</li>
         <li>市場、產業、主動 ETF 排行前 3～5 名</li>
         <li>市場新聞、個股新聞與基本觀察清單</li>
+        <li>全球主要行情、風險燈號與簡短摘要（延遲／較低頻率）</li>
       </ul>
       <button type="button" disabled>目前使用中</button>
     </article>
@@ -2709,6 +2760,7 @@ footer{
         <li>壓力支撐 V2、法人與量價進階規則判讀</li>
         <li>自選股進階追蹤、條件提醒與每日研究摘要</li>
         <li>個人研究筆記、標籤與基本資料匯出</li>
+        <li>完整全球連動解讀、分歧偵測、台股族群與盤前／盤中／盤後摘要</li>
       </ul>
       <button type="button" disabled>即將開放</button>
     </article>
@@ -2724,6 +2776,7 @@ footer{
         <li>族群／子族群／概念股紅綠燈完整歷史</li>
         <li>投資組合重疊、風險曝險與績效儀表板</li>
         <li>完整 CSV 匯出、進階通知與 AI 資料摘要</li>
+        <li>全球相似行情回測、個股／ETF風險曝險、自訂警戒與跨市場資金流</li>
       </ul>
       <button type="button" disabled>即將開放</button>
     </article>
@@ -2779,6 +2832,8 @@ let activeEtfTrends = {};
 let activeEtfNews = {};
 let companyProfiles = {};
 let backfillProgress = {};
+let globalMarket = {};
+let globalMarketReady = false;
 
 let stockDataReady = false;
 let institutionalReady = false;
@@ -2831,6 +2886,7 @@ const validPages = [
   "all",
   "market",
   "industry",
+  "global",
   "watch",
   "etf",
   "news",
@@ -3011,6 +3067,7 @@ function showPage(page,updateHash = true){
 
   renderEtfTrends();
   renderEtfDailySummary();
+  if(globalMarketReady){ renderGlobalMarket(); }
 
   if(newsDataReady){
     renderNews();
@@ -3392,6 +3449,7 @@ async function loadCompanyProfiles(){
     if(currentStockCode){
       renderCompanyProfile(currentStockCode);
       renderStockEtfOwnership(currentStockCode);
+      renderGlobalExposure(currentStockCode);
     }
     renderIndustryHeat();
     renderEtfIndustryHeat();
@@ -4235,6 +4293,7 @@ document
   ?.addEventListener("click",() => {
     etfHoldingExpanded = !etfHoldingExpanded;
     renderActiveEtfDetail(currentStockCode);
+    renderGlobalExposure(currentStockCode);
   });
 
 
@@ -7460,6 +7519,7 @@ function showStock(row){
   renderActiveEtfDetail(currentStockCode);
   renderCompanyProfile(currentStockCode);
   renderStockEtfOwnership(currentStockCode);
+  renderGlobalExposure(currentStockCode);
   loadStockRelatedNews(currentStockCode);
 
 }
@@ -8811,6 +8871,42 @@ document
   });
 
 
+
+/* ========================================
+   全球市場連動雷達
+======================================== */
+async function loadGlobalMarket(){
+  try{
+    const response=await fetch("data/global_market.json?t="+Date.now());
+    if(!response.ok) throw new Error("global_market.json 尚未產生");
+    globalMarket=await response.json(); globalMarketReady=true; renderGlobalMarket();
+    if(currentStockCode) renderGlobalExposure(currentStockCode);
+  }catch(error){console.warn(error);globalMarket={};globalMarketReady=false;const e=document.getElementById("globalPageStatus");if(e)e.textContent="全球市場資料暫時無法載入";}
+}
+function globalNumber(value,unit){const n=Number(value);if(!Number.isFinite(n))return "—";const d=Math.abs(n)>=1000?0:(Math.abs(n)>=10?2:3);return n.toLocaleString("zh-TW",{maximumFractionDigits:d})+(unit==="%"?"%":"");}
+function globalTime(value){if(!value)return "尚無時間";const d=new Date(value);return Number.isNaN(d.getTime())?String(value):d.toLocaleString("zh-TW",{hour12:false});}
+function globalIndicatorHtml(item){const n=Number(item.change_percent),ct=Number.isFinite(n)?(n>0?"+":"")+n.toFixed(2)+"%":"—",cl=Number.isFinite(n)?(n>0?"rise":n<0?"fall":""):"";return '<article class="global-indicator"><div class="global-indicator-top"><span>'+escapeHtml(item.name||item.id||"指標")+'</span><span class="'+cl+'">'+ct+'</span></div><div class="global-indicator-price">'+globalNumber(item.price,item.unit)+' <small>'+escapeHtml(item.unit||"")+'</small></div><div class="global-indicator-meta">'+escapeHtml(globalTime(item.data_time))+'<br><span class="global-data-status '+(item.stale?"stale":"")+'">'+escapeHtml(item.update_status||"更新狀態不明")+'</span></div></article>';}
+function fillGlobalList(id,items,emptyText){const t=document.getElementById(id);if(!t)return;const a=Array.isArray(items)?items:[];t.innerHTML=a.length?a.map(function(x){return "<li>"+escapeHtml(String(x))+"</li>";}).join(""):"<li>"+escapeHtml(emptyText||"目前沒有足夠資料")+"</li>";}
+function renderGlobalMarket(){
+  if(!globalMarketReady)return;const r=globalMarket.risk||{},s=Number.isFinite(Number(r.score))?Math.max(0,Math.min(100,Number(r.score))):0;
+  ["globalHomeScore","globalPageScore"].forEach(function(id){const e=document.getElementById(id);if(e)e.textContent=(r.score==null?"—":s)+"／100";});
+  ["globalHomeState","globalPageState"].forEach(function(id){const e=document.getElementById(id);if(e)e.textContent=r.status||"資料準備中";});
+  ["globalHomeMarker","globalPageMarker"].forEach(function(id){const e=document.getElementById(id);if(e)e.style.left=s+"%";});
+  const summary=globalMarket.summary||"資料準備中",h=document.getElementById("globalHomeSummary"),p=document.getElementById("globalPageSummary");if(h)h.textContent=summary;if(p)p.textContent=summary+" 台股影響："+(globalMarket.taiwan_impact||"尚無足夠資料。");
+  const a=Array.isArray(globalMarket.indicators)?globalMarket.indicators:[],f=document.getElementById("globalIndicatorGrid"),m=document.getElementById("globalHomeIndicators");if(f)f.innerHTML=a.map(globalIndicatorHtml).join("");if(m)m.innerHTML=a.filter(function(x){return ["BTC","ETH","NQ","VIX"].includes(x.id);}).map(globalIndicatorHtml).join("");
+  const phase=document.getElementById("globalPagePhase");if(phase)phase.textContent=(globalMarket.taiwan_market_phase||"時段未判定")+"・資料時間與延遲請見各指標";const st=document.getElementById("globalPageStatus");if(st)st.textContent=(globalMarket.update_status||"更新狀態不明")+"｜更新 "+globalTime(globalMarket.generated_at);
+  fillGlobalList("globalConfirmed",globalMarket.confirmed_data,"尚無已確認行情");fillGlobalList("globalSignals",globalMarket.rule_signals,"尚無規則訊號");fillGlobalList("globalInferences",globalMarket.inferences,"尚無足夠資料推論");fillGlobalList("globalWatch",globalMarket.watch_next,"等待下一次更新");
+  const sec=document.getElementById("globalSectors");if(sec)sec.innerHTML=(globalMarket.affected_sectors||[]).map(function(x){return '<span class="global-sector-chip">'+escapeHtml((x.name||"族群")+"・"+(x.direction||"觀察"))+'</span>';}).join("");
+  const hist=document.getElementById("globalHistory"),hv=globalMarket.history_validation||{};if(hist)hist.textContent=(hv.status||"樣本不足")+"｜歷史樣本 "+(hv.sample_count||0)+" 筆。"+(hv.note||"累積足夠樣本後再提供勝率。");const lic=document.getElementById("globalLicense");if(lic)lic.textContent="資料與授權說明："+(globalMarket.commercial_use_note||"行情僅供研究與教學使用。");
+}
+function renderGlobalExposure(code){
+  const box=document.getElementById("globalExposureBox"),list=document.getElementById("globalExposureList"),note=document.getElementById("globalExposureNote");if(!box||!list||!note)return;
+  const sc=String(code||"").trim(),row=stocks.find(function(x){return String(getStockValues(x).code||"").trim()===sc;}),v=row?getStockValues(row):{},profile=companyProfiles[sc]||{},text=((v.name||"")+" "+(profile.industry||"")+" "+(profile.business||"")).toLowerCase(),a=[];
+  function add(ids){ids.forEach(function(id){if(!a.includes(id))a.push(id);});}
+  if(/半導體|電子|電腦|光電|資訊|通信|科技/.test(text))add(["NQ","SOX","US10Y","DXY"]);if(/航運|海運|航空/.test(text))add(["WTI","DXY","SP500"]);if(/金融|銀行|保險|證券/.test(text))add(["US10Y","DXY","VIX"]);if(/鋼鐵|塑膠|石油|化學|原物料/.test(text))add(["WTI","DXY"]);if(/撼訊|麗臺|映泰|青雲|加密|虛擬/.test(text))add(["BTC","ETH","NQ"]);if(/etf|指數|基金/i.test(text))add(["NQ","SP500","SOX","VIX"]);if(!a.length)add(["SP500","DXY","VIX"]);
+  const names={BTC:"比特幣 BTC",ETH:"以太幣 ETH",NQ:"納指期貨 NQ",SP500:"標普500期貨",SOX:"費城半導體",VIX:"VIX",WTI:"WTI原油",GOLD:"黃金",DXY:"美元指數 DXY",US10Y:"美國10年期殖利率"};list.innerHTML=a.map(function(id){return '<span class="global-exposure-chip">'+escapeHtml(names[id]||id)+'</span>';}).join("");note.textContent="規則式可能敏感度：依公司名稱與官方產業分類配對，並非已確認的營收曝險或因果關係。請搭配公司財報與法說資料驗證。";box.classList.remove("hidden");
+}
+
 /* ========================================
    啟動
 ======================================== */
@@ -8825,7 +8921,8 @@ Promise.all([
   loadActiveEtfChanges(),
   loadActiveEtfTrends(),
   loadActiveEtfNews(),
-  loadCompanyProfiles()
+  loadCompanyProfiles(),
+  loadGlobalMarket()
 ]).then(() => {
 
   renderEtfChangeOptions();
@@ -8841,6 +8938,7 @@ Promise.all([
   renderMarketRanking();
   renderActiveEtfRanking();
   renderEtfDailySummary();
+  renderGlobalMarket();
   renderAllStocks();
   handleRoute();
 
