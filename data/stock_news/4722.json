@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-20T15:33:05.837052+08:00",
+  "updated_at": "2026-09-21T05:32:46.812205+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4722",
   "name": "國精化",
-  "count": 4,
+  "count": 6,
   "news": [
-    {
-      "title": "國精化(4722) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10NlNyUGVCbGktTlhYSUc1aXRlUWxLVTRZWFd1Vm9PcXRra1V1Zzgwa05lNk5wSmdRWXlMWml0VkxsZ21JbEpqdGlEVTlwM3liYTdn?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-18T07:05:16+00:00"
-    },
     {
       "title": "股份更正報告＜4722＞FUTURE（43.33%→43.33%）Keywest Network等",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNE94Q3Z4bkpWQkdQX3VjTmcybW9ONWxfUEFRY2laWmRHZHliWHlSVzZ5bkxrVFpLcXNMelFIT0xnaGxra1hBdHJ6OGRsRmNrTTdIX1d4eGhDaW9fOTJkMGRsU3Nha211X296UWVCUndzaFBVRUFwaGlnUWlubnhHd3l2akNsRHF1UnItVHVtWkFJYUNBQThoQ3Raa1NnalozTV9ZTHY3aFV0dDJRYWdfMw?oc=5",
@@ -22,6 +16,24 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUXhHbHN0U0RKa2FSaXY2aWtJXy1HTGNCUjlVMDg0T25FMFViTlBodWJSbHlPX1lodHNlYWdDMmlrdk5wZmV6U2NTdmlpcURwYlNRZV9md0ltTWUxdnZHN2tIcm9KQkJHbGxZVnNYcEVCcjZNeFpyRE9wZU9iWXl5TjFkaDBSMV9JLUE?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-14T13:10:07+00:00"
+    },
+    {
+      "title": "【12:22 即時新聞】國精化(4722)股價上漲4.35%至192，高階CCL電子化學材料成長題材吸引買盤，技術面偏弱下短線資金回補",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPVlQzR295b1MyRXI0d1dKQlE2Q2xCNWN3T2kwYVZaS2tXQ3ZPdzI2VlRhNkU1TUxFcGNLTzVmdC1HeHlmSWYwVE9SeVhOWlNDdWFyTmhXVThybUJyeWxWQm96VXNrRDQ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-14T04:22:52+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】國精化(4722) 八月營收月減年增，全年營運續看向上",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OQ1hoUktUbHczSjFzcWM1UXJvcDBKQTdKT09PSEdxQXRMLXBSLWRXRFlBYUtVUDM3bkxVYUNPVDRhOWx4M3JCUFdiWlFyaG90RlhVS2h0V3YyNHR1Z3FYZmFvOW12bkE?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-07T09:10:07+00:00"
+    },
+    {
+      "title": "國精化營收／8月4.1億元、年增24.14% 高階 CCL 材料出貨放大",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16NFJfZEZCRUFvcEM3TTRFRzhWc2RMUnVxYXR4azBHT3ZMT2h2SW52SGFlSWdNeWFUUXU3czdaRzl3YkNQWDAwMVBhamZOUTgxcXhJNjVpZXdiQdIBX0FVX3lxTE1VSFE0UkplQVpzRWpmZEdFSHI4VklYUWsyaG1HTlNGdkxJaGxpYlpPcFM2alIwTGpoaTV5ZzZuY1FCZ3FkQktGN05xQVB4dnJ5NWVBSlZ2ZGpYT3ZLZlVN?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
       "title": "國精化安南新廠已量產；H2優化產品組合營運估改善",

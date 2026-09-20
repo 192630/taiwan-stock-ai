@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-20T15:33:14.573190+08:00",
+  "updated_at": "2026-09-21T05:32:56.534336+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4927",
   "name": "泰鼎-KY",
   "count": 12,
   "news": [
-    {
-      "title": "4927 泰鼎-KY - 最後一盤爆量比整天還大這是趕巧？你自己相信嗎？ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmSTNUNFY0Slg4WjFicFdiMkdWb3JLdFRPRV9aUktsRzZEbHRDZDVVT2JMUnlpa3haemNURER1T2NBcWdVS2FtLVZ2dzc5RzZiX0dudkRHclM?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-18T08:35:46+00:00"
-    },
     {
       "title": "4927 泰鼎-KY - 我空45 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KZjNtNDE1NGRlM29JU3l6dlZ3UjBIb0otZGZJa1VlNEk2eFhtaVNOZUVxZnU4UWRrb1p6NGtoaE5vckpwSjRmZkx4TnZoeGRNY1djWlNkREg?oc=5",
@@ -30,12 +24,6 @@
       "published_at": "2026-09-14T09:05:26+00:00"
     },
     {
-      "title": "泰鼎-KY(4927) 今日股價與討論 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tRFNESHlGT0xTQU1GVE5veHZLVHZacDVnWXhNQWllV1UyZnpWWl9LT21GTExFcUt1ZVJCSjI1bXVFY3dCMTc4ekFveHFnM0E?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-13T07:00:00+00:00"
-    },
-    {
       "title": "泰鼎-KY(4927)EPS查詢｜歷年每股盈餘與最新季報預估 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5hdEJDWU51Q1BHcmZVTjFuY1lqUDF4Qld5ZjJ4MHJ1N2N3VEw3cTV6NUFqeF8xTnRmZ0Y3bUp3ajlRajFVQ2tNMEZMZVZIOHU3cXNRdW9xaw?oc=5",
       "source": "CMoney",
@@ -48,21 +36,27 @@
       "published_at": "2026-09-12T03:39:11+00:00"
     },
     {
+      "title": "4927 泰鼎-KY - 酸民一早嗷嗷叫慘遭主力拉到46元創高洗臉！收盤續漲你耐我何？ - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WZnY5T3lJUERVTFZxRE5SN3R2eEhYTmljTk43eFdvWnl2b2dQaGM5Z3FZck9oMG5rM21UNjRJUWtqcnBiYkdtaUh3VmdIUDhJSTNNcmJFUkI?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-09T17:24:37+00:00"
+    },
+    {
       "title": "4927 泰鼎-KY - 夢遺哥不敢出來了 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yMThXZjZGMHJ5dTJPOVBvQ2FueFBkcExvUHAxWUdjS09MbW1HQVlhQi1KM2Fid3IzMmtqa1JUNHMtV2txWE9nOWluWVJXUVpOdFVhWjEzQ0o?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-07T07:47:43+00:00"
     },
     {
-      "title": "營收速報 - 泰鼎-KY(4927)8月營收13.79億元年增率高達35.52％｜新聞快訊｜豐雲學堂",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rXzhlY1U1UWp6R1MxUDQtU0FieEFmazhxN0x4ODBGMGxWVVJzTHZDYmdjSVZqT2cwVDAxZmxpdXpQb0g3dl9yRDc2UWRiUXNaSnMyV2R3c3VaTzJFb2R6MnYxdFdTc1V5SzYtb2JZVGIxUWpPX1E?oc=5",
-      "source": "sinotrade.com.tw",
-      "published_at": "2026-09-07T07:00:00+00:00"
-    },
-    {
       "title": "泰鼎-KY(4927)含泰鼎-KY的etf與基金成分股比例與變動情況 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5dmZwTWplV0txR2dPLVBFclpPOFRfaFpQWEFKY291OVBDWm5DTUZiMnM1b2F1cTlTZ3lMdXE3QUZ0ZlRGYWF0MDc0VDNHUVBoU0t0T3lXY0FpWlg0TnI5U25WRlM?oc=5",
       "source": "CMoney",
+      "published_at": "2026-09-07T07:00:00+00:00"
+    },
+    {
+      "title": "營收速報 - 泰鼎-KY(4927)8月營收13.79億元年增率高達35.52％｜新聞快訊｜豐雲學堂",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rXzhlY1U1UWp6R1MxUDQtU0FieEFmazhxN0x4ODBGMGxWVVJzTHZDYmdjSVZqT2cwVDAxZmxpdXpQb0g3dl9yRDc2UWRiUXNaSnMyV2R3c3VaTzJFb2R6MnYxdFdTc1V5SzYtb2JZVGIxUWpPX1E?oc=5",
+      "source": "sinotrade.com.tw",
       "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
@@ -75,6 +69,12 @@
       "title": "4927 泰鼎-KY - 三進三出泰鼎廟，45的賣壓還是不小- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SRnRobzBGVVdCT2Y4MHJPSnd6UGdFcnhIcXFmUTk4SXA1Y1hwZEczNXJqRk45SFJPV2RyYzRJN0lzeEVaMXRLcDdZQkctbFF1OEw5NEllZHM?oc=5",
       "source": "CMoney",
+      "published_at": "2026-09-07T07:00:00+00:00"
+    },
+    {
+      "title": "【12:33 即時新聞】泰鼎-KY(4927)股價走強逾4%，受營收連二月成長與高階PCB題材加持＋短線站回關鍵價位吸引買盤迴流",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWlVOMUhVakMydmdUdVlDaXM2cy1Sa3pEQ3NRUUplOFFOdEJLYS1FckNTZ0xtU2VMOXdGOTJmOFl6WXBlYXl1NGN1amxkZWFPcEhKUEZxOWw0WVpmZWlCV2Q1dzB1RUpHWlptLWF4dzBPa2ljdzM2T3pzcllUeFFsTHJSdjhsTDJHTmJCemh3?oc=5",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-07T07:00:00+00:00"
     }
   ]

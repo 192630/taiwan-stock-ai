@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-20T16:33:57.550382+08:00",
+  "updated_at": "2026-09-21T05:32:58.600224+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4938",
   "name": "和碩",
   "count": 12,
   "news": [
-    {
-      "title": "和碩(4938) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wcWNndC0wOWY3S3d1VEtWRXBKOU5DZ2xqVjBIS0EyVXBoSTdOTzVDQlFtSl9KQkw0ZU4xbENzVVJrNWlDdjI5RHYxeHFxVDFRb1A4?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-20T05:55:50+00:00"
-    },
     {
       "title": "2609 陽明 - 9/18 2609 -4938 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90MF9nLUNzUzRCSV9kZ1F6eG1icUpUdEZFUVVxcjItWVNTTzJSS0gwdFlHdWVrTS1ucDdzMGpHc3NmT2lwclNnUmpxa195VWRHVjlGN1R3bVU?oc=5",
@@ -25,9 +19,15 @@
     },
     {
       "title": "AI三巨頭齊喊煞車 緯創林憲銘、和碩童子賢仍樂觀看AI產業",
-      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxObUxObjgwSkNsOHY0b2QtV25PeDA4QUpfRWRVa2IzWEFyMml0TFRhM2hkZlZCLWM1SFBlNm5pbzBVZWVDQzBuNE1hMVZ3b0lLYk9jcGk1cWppdGc5OEU2ZFJ5QjZvMURmVzhlS2xoOEJQaGo5UkhSUldlWHp5dDNZclB6MFNNMTFral9sRFFpeEpDRlQzV1RjLUJyT3RrQkd5V28wdmk3NmZrbUtsT2MzY1FfTF90ZVJxN1NlMmZHSVRHU1lkWXpOVDZVd3hla25PbEFlWWxhbE9HQUFuUDl6V25DS1oySnpHWk4yNVpwZVo4WC13bHZyRlpvSFhjYzY4bVA3TDRBRU43WDg0dm5hY2tQVTQtY2FzMUV4eER5VG01NGw4cFpEUXRWNG90Wkpfb0tHdk1VTFdkUHZoZ2IzaTZWRnNKRWRySEVjeGgwbXpORGI1YTNSN3VoZmJJRGQ2eE94R3hlM2ZzRFpRUVZsZGFZaDBqaVk?oc=5",
-      "source": "Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNR3ZJYnFSMnA4WlhrNUNlVnhEZ1U2WWtEclhZNkxoVzQ0ZXlXc01tckQ1aVgyZ0ZPZDBMNzEtZzE2SkV4bkVwNUo2LVhGbG4yTWtyeXE5OExCa2dLNkNnU29kT3NaVGVqRFFKYzJIbnlScFVsZTlsQ0VBR0tiNHFsTGQzZldMS05RZGJzdVNKR1AxSWoyRDV6aE9keHprLVh0RmtGeFY5UHBWdWU2WWd6STd5eHp5OGVldE5jRHZhc1A1b2RMUDRfYkZsYlppbWhRZERQR0tST2dSaG16WUhic1ZjSU1jQnNnSmxMel9rQ0dnaGpCZHZkNlBvQlQ4Q3R5amRHYjVFbFllaS1QdU5SazBUZzREMmhvZ3dCT19WR0lOc0dUVTRiODNHbHhlbFVBbDJXUUxlMTFBeFJpQzBjMlZOLUl2OXczOUFkZ0NTbHlmTHpfS1pJSm9qNEZYUXdsa0RCdzBlb3FtYVVFWURuTkphZmVwZDFEdUE?oc=5",
+      "source": "Yahoo 財經",
       "published_at": "2026-09-18T10:11:53+00:00"
+    },
+    {
+      "title": "蘋果首款摺疊機集萬千矚目 連和碩董座童子賢都好奇！",
+      "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNVGxtLTlBTnFUTDZtVnQtZG5MNWZRdl9oa1hLMTd5QmRjZGZEYkV2ODN2TlBIdEk1VnloNjFlZHc3azRnYVFUYXFucGx6aWlKMTliVEY4andaSkd0WE9KVTFYSnh2Sl9iSm0zbGZ2T3pfVnpjOHpmeXZTVHhrempYOWhubDdTQWI3RllvTEY0T0RWSzBpd0tqNmc0WnIxNXVNbmtnVUVqeUNBNVotM1QzaUpoSmdsSjVOM2VzSllVek5lcDg3VVBYTVdLZXYzRVFPTFZQTDhTWWotRi01a2FoZjh1elhVN1gtNUxmbGJSYmNudnFOR2t5ZkNrNDByWndQcGgxMHA3NHV1blJDYThYa2otS1lmM0t5bmhwdy1BR0dCTXdiM2ZzcEw1NlduZ0dMZ1pZcmVSbUNuZGd6RXZrNmNVV0hrSWRTbmpCOEVHWHhCX251bklESG0zQUtjLThWZzFfbURSZmo?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-18T10:11:00+00:00"
     },
     {
       "title": "4938 和碩 - 這垃圾依然收綠的 - 股市爆料同學會",
@@ -42,26 +42,8 @@
       "published_at": "2026-09-16T23:33:00+00:00"
     },
     {
-      "title": "00934大換血20進20出！「記憶體大廠」、和碩入選名單 「這2檔權值股」、大立光慘被踢出",
-      "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxQMkpQVG5qTG5EX0NnRVpZaG9kRmtUdkN2cDhmcHl6WlhBMUFSR3RRMHNadHZQYV9vZVdhM0Z4Rmdpb2VCNWtrQXpOcWtLcDlmeHdrUS1ENUtVZlN6d3JtOVlzaWVZbkNSX2dEbXBQbW1ncWs2cmlMbVZWMHMtYWdYeE9wSi1HSldTOExBZDk1SHBfOTBjdlBSek5YcnA1YVJsemEzVzQ3ZXU1NFhkNzNYYUVDOThJeHVYR2h6cWkyaWtXZWNWVVNfMG1GMnNCREhSZHIyNXFrTGdNMFJUa1drd0RST2xJbVlZM0RCUFhCVjZNeFhEc3FvdHlWNTh4WVNwMDNRM0pGbWpXcUhLd3FFQWRXZWF5ZGdvWjAtUTl1YlRUZUpMSXN5ZGRzelBja01JWVdVMXZkWWNPUkw3ZTdlMlM0Mi1xTUNmd1FWLWczRE10YVlSX0M0YldpQ2tmZUgzamFkSlVia1BzS09LNVoxSHVYTVRVR3pJOFZycUtDb1pNaWYtblRiYlhsM0JvdzJOXzFfSUdOMVIwQ0NHZF9ydV9sYXBNcHFOT1dCOGdDYkgtN3k2TklzYnFlSVNjdw?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-16T10:25:00+00:00"
-    },
-    {
-      "title": "和碩8月營收883億元 年增34%",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOU9mWWY1U1lkbndubkhvQ05qMnExVFctOWs2Q0dlNnhPc1BSTFBiT09rMEpUaWZodVEwUTdnY25CR2pHS0lMWVl0T0lBMFpWbVgtWXNVcEJveXNudFZUZzU3N2ZiRjN6Z2Q4VG9ibF9VdlkyUE9hU3NXMm5ZMHVlcGdkSzBqTVhLZ0JseXlEVXZXNEFDMHhkOHVNSmpHWmhYQnVQZ1NfbWxSV2NvTGtXMlc1Vksxc0c4SkFKZHlFaDFJRUFRMnVSQlpaZHY1VlR5?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-10T07:00:00+00:00"
-    },
-    {
       "title": "〈電子五哥營收〉和碩8月營收年增逾3成 客戶發表新手機Q4起顯著貢獻",
       "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxQN1BLajY0QVhpQnRxaDE3SWUzMUNmcks2dTJFY1I2TGw5ZlF6VlF4UmwwbzZQSTIwVXBzSERBaVJiU2ZzWWU2SmViN2hfeWI5Z0lSbWZQYkRVZEhMLWZIRGJBQzU2bVJYQnM5Z1MwS1kxSGYzNzM2Q3RpTU04RFdtMGFTY2ZBUXhXSWNua2xwVjNQNGJtVlNlSkVjaTBaUVFnclgxRHlmb3EtbE42bWJ3aDFwdV9mMnlJdGNMRmMybUpxcUxmTWZ6ejR4a3RnRWV6djNrbXpkREx2ZVRnbXE3elRLcExqaGZVNlZNVi10eWxza09KdFhjbEhrNVpXU2NoZ01xUENrcU5lc3otNm91WmtRT1RNaFJWYzdSWjRBbklzSnF6RkFaaW5FRDFScEN3YS1OaXJlNExlWk9NY3NIck4tZzQwZGlYTXpGTnVDaENObEQtd2d5b3R3QzNUSzF1TzcxWTBNTkNQVkE3eGZKdlUtSEZVX0ZBVGRiZHA0LU5fTWxfQmFsZ3hVLTZhT1FFdTJ6VjlsV3RZSlZhUTRqY0M1ZmhwRlU?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-10T07:00:00+00:00"
-    },
-    {
-      "title": "電子五哥8月營收緯創超車廣達 和碩、英業達、仁寶衝刺伺服器策略以小攻大",
-      "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxNYUwybGRaQUk1S29fU1BkRHp6UjNfN0tQNFZIbWhPY21VQ285ZEU1MmF4ZFZZUWJUMEREYTVqeVpsaHk4NVNfQXVEalhMaEFsaXMwWjNncFpjYWNSNFBEOW4wV2FTbXJTY3ZvR3RHQ1lKeEdjWDBVTTFleGw1djhINmNGU0c4VG1WWW44S3R6bzJRb1B3WWFqay1VQWo3ZWtNeFpzNGZicmpMdktuU0hiVDVXWWRSV2V2UWpTSzB3cHRwUkV2V1JTVUpBLVVCZ29WUUZ6VjN3aHVjNzBFS1Nhc0h4bk5OWkdBZ1REb0JXcXRjMVdSSGswTFU0NFFjVTEzMWJadVEwLW5JWENoMUR6R1E4TGFqZl9QcTY4aExwMFZjenRXd2VobFM4M2JOWUJtZ1d2R29MQ05Xc2ZiU1NGUkxtdFBwamZMdjI3NWFReDJLTHl2dGNxQnJoNko4X2VZZUE2NERRbU1tYUg1YXEydmV5TXNiNE9ycmFRM0JlNzZ2TUdRbjVNY1RmQmhxVUR2TGhHNFlud0xucUR3MEM5NVdKWW02b29icXZlalUtVHFCWjJvS0xic3JEV1BvZUg3QmZLbzd1aF9SRThZR3E3ZWp2Q00?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-10T07:00:00+00:00"
     },
@@ -76,6 +58,24 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0cmFmWG1TU2xweUNQYzltWlJWb0hLMnVaanJwUDcxOW5obWRoLUd3QVB1aEF1SkRMZ0pUX21Yd21iUFpiY2VNVmRyMXhBWnZuRmhlbTFPLXNWUdIBX0FVX3lxTFBLbmtmLTVtdzI1dWZ5a193WnBDYXB6ei0xZG5iZ1ZLemw2SDcwRGR2Mnc2ODJZTXd2VGdXd3dYQ19MVHI5WjFKRzlmdTZnTV9FS3g2SHcyRElOVVpBRUlZ?oc=5",
       "source": "經濟日報",
       "published_at": "2026-09-10T07:00:00+00:00"
+    },
+    {
+      "title": "大咖談AI／和碩董事長童子賢：AI將帶來生產力革命",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92Wlk5ZWFUdTd3M3JfX3ZYQWl2THhIMF9OM3Ewb2VEWU5aajNnUnI2eElvWkV1cWx6RlI3SlY1ektmYm9CcGtsQ1ZuMFgwYVFwT0l0TnZ4TVE?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-07T01:25:34+00:00"
+    },
+    {
+      "title": "法說會速報》奇鋐去年大賺近5股本今年將逐季成長／和碩今年業績挑戰雙位數成長╱中美晶打入低軌衛星市場",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42b0lyeEdYcEhJOTdheWRzV3FheTNzY2t2Tk1kS21PQjlzal8tVmp3UlVZdFBCQ2EzTnBGNVlpX3hZYmE1bXFrOTA1bVBicTRJUGNpYjBSWVY?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-06T07:09:41+00:00"
+    },
+    {
+      "title": "焦點股》和碩：AI專案挹注吸引買盤 拉半根漲停",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0U1FUc0cxSzUtRmNEOVptQjUxclh6RmsxYlpFd2ZvTkhRcnEtd05KZkdqREFpa0VydEJtUDJDZUhMejlMOXc4LXBaVWJhTVNra3ZfUFRfM04?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-04T03:21:30+00:00"
     }
   ]
 }

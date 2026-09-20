@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-20T16:34:05.089387+08:00",
+  "updated_at": "2026-09-21T05:33:06.802488+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5007",
   "name": "三星",
   "count": 12,
   "news": [
+    {
+      "title": "韓股大瀉觸發熔斷 港股三星及海力士槓桿產品插逾26%",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zRlhBMTVzTFBjdXNEXzJ4MnZnUnJOUV9GUXNTV201X2lJVUE5ZjJOUFNHTmxjeGRFamlHckFfb3VDMmFsc0YtNzJ1TmhRUTR1Snc?oc=5",
+      "source": "AM730",
+      "published_at": "2026-09-20T09:09:12+00:00"
+    },
     {
       "title": "爭得千萬股票分紅 三星罷工暫休兵",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TcWFHSDdPUUVmcXhnZTVOY01Yb0NnXzF1S2IwVkpFOC1RUG54ZHhXd2NJNkdvMU11QmQ1dEk1cWhBM3I1MUE1dUJ6eGgtZkdmXzRPcmM3UlA?oc=5",
@@ -18,6 +24,12 @@
       "published_at": "2026-09-18T21:17:31+00:00"
     },
     {
+      "title": "三星電子 | 005930.KS 股價走勢與即時報價",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OYm5ETi1oa21iNzhBSHhIYWxRUW5OZUJyWXRES3U3N2pLWU1TQzdrREdXQkwzWjkxVFJFQzFtTE9ybWluVjFxcjdRU2NyN2liQjN3emFEWQ?oc=5",
+      "source": "BigGo 財經",
+      "published_at": "2026-09-18T07:00:00+00:00"
+    },
+    {
       "title": "美股晶片股重挫衝擊韓股 三星電子、SK 海力士盤中跌逾 7",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pNEhZamJ3QV92dHVrbzlXMHBVWkdSejNLU2EtS1lRS1pfaThoRHUxUWx6ZnM5dFl0U1NMWWtueG1FbUVFdVY4LUUxaVVPMVViTEFXR3FHdU0?oc=5",
       "source": "自由時報",
@@ -28,6 +40,12 @@
       "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxObGl1OGJ5RXRRQzBYRURZQXYwblpMRm1wQnotVFpBRUtiN0pINXV5czVBYjl0MmJyQjVib084RDJQY19IZmo1UkdMZ0hudkY2MUFXbXpqNmdoenpWcVEwRG9fZEN2TW1wNG9MQ2Z6V1hPdks0bk16WWUzNDVLbm1YQ2VMd3I2NnNzaWFmOHY1NDNKUWFCNzJ3X3pzSV9MU2tZekRlYld1TDlXX01LVnA5b0NoMU1yTzh1MjJpdk5UVXhkUVlza2hmZE1VQU9xei1OdXBORFM1RjhQS1h5bXgxRTlOa0E5cnpjWWFrY3NhNnhsODRGdFFrRkVKcFhacUJxTEh1THNmaWR0NzNvY2lHVTdjelVhWjVieUlqT0RoQ1JVRkhKajI2TWphbmh3amNPUXg2UmY2Y2RqdjU2b2JCYVVnV0lvYVRxa2pDaVFrd3FoVm1y?oc=5",
       "source": "NAI500",
       "published_at": "2026-09-16T12:57:29+00:00"
+    },
+    {
+      "title": "韓國股市超高手集中買進G2G Bio，三星電子與SK海力士遭獲利了結",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5GN2VSUnpGdkIzbEVSZUNzRTV0MTdsLXpraUdpNy0yT25PTmF3QkRNRUl4MFZFaFpKMUIzc3J1NUI0VnR0XzUwMWRTMlFTanI4ZGo0RjVMbGMwM3ZCZ1E1Q015S3kyUkhEZW00TzZlYjZDMWs1cWNVakJR?oc=5",
+      "source": "BigGo 財經",
+      "published_at": "2026-09-16T07:55:00+00:00"
     },
     {
       "title": "價差逾25%！韓避險基金業者籲三星實施庫藏股計畫並註銷優先股",
@@ -44,13 +62,13 @@
     {
       "title": "韓股首度站上7000點大關 三星市值破1兆美元",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WVm1HYzBHOERTc25RUDZIMk9oZzJxclFEcExOeGhMM3M4ekJGYVk2a0N3cFB4MnV3NU1hVjFzcUw4cmQ1U2ZocGQxSS1MWDA?oc=5",
-      "source": "news.pts.org.tw",
+      "source": "公視新聞網PNN",
       "published_at": "2026-09-14T07:00:00+00:00"
     },
     {
       "title": "三星工會通過薪資協議化解罷工 記憶體部門員工獎金上看千萬元",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NYUFqbEpHNW4tME9MY2JTM3lfMTlBZDF5NUd3U2dJRGpmZlhYWTJpSGNFaDBKRnBmb2N1amlEeUMtRzZYMzlsbVk3bzlpYlU?oc=5",
-      "source": "news.pts.org.tw",
+      "source": "公視新聞網PNN",
       "published_at": "2026-09-14T07:00:00+00:00"
     },
     {
@@ -58,24 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYlhSTDFmWW5oLWNBUC1xME1VNHk2ZDhtcW1VUmFaemFfVlVZNDZ1ZjV4Vk9pYUZuMkQ1QmVUWlp5ZnlDTi1va25VdmZDUk5UY0FLb29ESVpqTFk2cFg0TnVNZUVROE5UMXNTS1lORktSWXZ0ekN2cGotbTlhTlFXRzJ4SURJd050NFlDVGxVOWU2bkpVSklLQU9HVk1FUFFpdGZfbVBFRlNMN3dMUGNBUnV1YUZxejdTNHN1RlZlU3lWSWVJVXlrbzVvOC1uYnJJcFVrZjZQakt4OFM2Z0xFNnhxUQ?oc=5",
       "source": "TradingKey",
       "published_at": "2026-09-14T00:42:06+00:00"
-    },
-    {
-      "title": "【即時新聞】三星電子(SSNLF)與SK海力士(SKHY)迎利多！韓國股市延長交易至晚上8點吸引外資卡位",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGFKN1BycUliTS1UcVlFSUN3Z1pLQVNCN0RlQU5KY1VOdmI3alc4QVo3a1lFdy1vOUxvSHFjVGNRMUZDblhiNWpvNl9QZV9JaGZGcU4xcTBkNFlLQUJHZHJlbWV3OXZnQ1U1RzYwd0RZdm91WWwxajVFT2RNRDZfMHFPZDNFaFlaZ1ZLRmJHc0s?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-13T13:32:34+00:00"
-    },
-    {
-      "title": "AI模型稱節省記憶體 三星、SK海力士股價應聲下跌",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56elE5YnJlb3E5RVZZRFFkbWVtbUxMeC1VekhNOE52Y2VxR1paM19aVU5fMFpXR2hMRTg3WVhQZU1zeV9FZGNHMk90MmFCeENkUkVuX3piaFNmRDNkR19HN1U3MFBfc0xqY1NVS2Y3NFA?oc=5",
-      "source": "理財周刊",
-      "published_at": "2026-09-13T05:59:22+00:00"
-    },
-    {
-      "title": "3376 新日興- iPhone Duo對決三星Galaxy Z Fold8！ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1IcmVEQ2FYVFFPVFNuU3g4RXNiS1F2UXVWUXlHZUtDNGpKYzgteTl0NTNBdzV3ZVJPVEFKVUkwUktRNU1Wd280dkp6WUFHWDc4N3pKSENscnQ?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-12T09:52:15+00:00"
     }
   ]
 }

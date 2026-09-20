@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-20T16:34:05.522829+08:00",
+  "updated_at": "2026-09-21T05:33:07.271559+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5203",
   "name": "訊連",
-  "count": 5,
+  "count": 3,
   "news": [
     {
       "title": "訊連產品迎年度大更新，加入AI Agent與AI PC運算",
@@ -19,21 +19,9 @@
     },
     {
       "title": "群益證搭年輕族群理財趨勢 攜手訊連導入AI最快3分鐘完成開戶",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LNWZ4QVZvaE1xOUNTZTZfa2lKeWFjNFA2anR3Zi1xREdLNzQ5UWpXX25IOTdCdXVyRkliMi1SSllkTThCeUJhWWhGRjh5c00?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-09-15T03:32:18+00:00"
-    },
-    {
-      "title": "群益金鼎證券攜手訊連科技導入 FaceMe AI 最快3分鐘完成開戶",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BR1R6MEVIQm1QSUlpaXRZcThocDhIdE9OV0lZWDFrTzcwSm41Y3FxZHhmX2pKMjNPNFM5b0RoVER4VWsyTmRaNG5pLUlCQ2RKcjFMNmxtUDlyZ9IBX0FVX3lxTE9KX1dMVUJZSzRqUlhoM1BjREx1cGNySHdzVXUxSG9UOXV6c1o4Y0lJbjBUY0I5eE1JaXRoYXo5RDJDSDRjbjFZYy1qSVU0WkwzUzVuMWtHZldTQzN0VzhR?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-09-15T02:28:14+00:00"
-    },
-    {
-      "title": "6620 漢達- 重訊連發，再收庫藏股3000張 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fSjFPeWpRSjVDaTZad0JuRUF1eWlMWERmNzF1dWQ2ZUR5RmxKY09hRC1tMjdKVWlCandDR3Z2NW5mYmxkYU05bV9PZ0IwUVNyMkJRbGdmVS0?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-07T11:53:35+00:00"
+      "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxQYjZuTzRnc1BKbmoyVnVZTmEzbExGdGpXM1RLWlFVdUR3c0dncml5QWdDU0VJNzlMaW5KWEc3Ty1TSGt0dFdLN1hFMHg5R0tOdFhOUllDZklrZEhaUnU4ZEJsYWxZbHJxYlEtbm5oS05CVmZWd25zN0R1MUdsbm5hT1FQeTkxX0VGZVItN3U4SnIxcWhraGhDYXFBbVVaaUZoenoteFVFRFFLdkp5OVhVYXRyNUwxVllCeWhlMU1jX0p5REJSWDZYZThIb2hrOTl0V3hnOVVuNG82aGZwTk5zQlNZbU4yUzFZeDY1NDRIVTdCWDBoY0FvTlVfUHhydXZEbDJURXhLR3hXRmpkLWpERkwxRjBNeGxXNGFxZGRaVzBQY2NJOUxFRGR4MVFFazlvRU15dG00Q0VKTXoxYkpVM2lrc1V1TGNod1FkR3dSaGNaMzRBTWFtcnVlVUwxQkpBbzRYaEliVy1sQkJxZk93bjlHU1VvazNldlpLRjZQMjgyRlRhYzF3dm9DM3NBZ2tkSXU5Mnl4R0s?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-15T04:19:29+00:00"
     }
   ]
 }

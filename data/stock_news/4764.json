@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-20T15:33:09.099416+08:00",
+  "updated_at": "2026-09-21T05:32:50.346817+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4764",
   "name": "雙鍵",
-  "count": 9,
+  "count": 10,
   "news": [
     {
       "title": "討論牆 | 盤中速報 - 雙鍵(4764)股價拉至漲停，漲停價260.0元，成交203張",
@@ -30,9 +30,15 @@
       "published_at": "2026-09-14T08:09:49+00:00"
     },
     {
+      "title": "【13:21 即時新聞】雙鍵(4764)股價上漲逾5%，5G/6G關鍵樹脂獲利升溫帶動買盤，短線技術面由弱轉穩、法人與主力籌碼仍待修復",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcmNmZnl4cDVnSW9ybXBoaFhHSXZXR3lNTlptbVFXSkZzdTBZWWNrMVpqaTlSMHdXdTZLQ1ROY2lWN0JGaTFmMGFPaWJLZFpmSnVpUzF0alB4ZldvdDEwQmtfbVhITV9tcmhTWm5uZWdUV2FDak5GQ2EzSHJLQXpXN3ZIRXgtRDhaalZCc2ln?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-04T07:00:00+00:00"
+    },
+    {
       "title": "最新股票抽籤／化工大廠雙鍵「抽中賺7萬」！這檔拿2萬多去抽，中籤進帳1萬…8檔申購時間一次看",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa2g3bTB5ZWF2TXhtZzR6YU43Q3FMTUYzRzlHQTd6RllGU3dLU0Q0aldjYkFEMzR6OTJNa2VYdnBYR1hTWmgzRFZvT3g3SlRjMlNPRXZ4Ni1yLVF4S0l0LTZycHNCZExkYUZ6bnBQeGJrTTJYREhnWUF1STNUZUdQRw?oc=5",
-      "source": "今周刊",
+      "source": "businesstoday.com.tw",
       "published_at": "2026-09-03T07:00:00+00:00"
     },
     {

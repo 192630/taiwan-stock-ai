@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-20T15:32:59.379812+08:00",
+  "updated_at": "2026-09-21T05:32:40.081188+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4562",
   "name": "穎漢",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【2026/07月營收公告】穎漢(4562) 七月營收創近3個月以來新高，月增9.36%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVExIWEkwUjRLc2dRZzBtNllCUEhmQWJHWks4VVJWT3ZNRG9fa2hJaEt0TzgwZGVBRkVKOTJYSENnWC1nR0ZBRVpSU1p6dFd6SnphcUhMWFIzbE9mQVZlSmhhV2JIRjJBWVFraVNKTE1SOFdoMENrbEtUb05ydlJucmxJZEplQVU0bHc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    }
+  ]
 }
