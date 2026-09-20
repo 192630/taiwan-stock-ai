@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T16:34:24.121473+08:00",
+  "updated_at": "2026-09-21T06:32:32.276274+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6108",
   "name": "競國",
@@ -30,9 +30,15 @@
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
+      "title": "【12:07 即時新聞】競國(6108)股價上漲逾5%，營收爆發與利基型PCB題材吸引買盤＋短線技術面與主力籌碼仍待整理",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wNUVqTjI1YnN1RGEySlpjV01zQzh1aVFoN05qbXFGWFhUXzRiZFU5WEVhM0kwbXhfd255MnI2WVFpX0NuUktacngzYnJtR2dYa2MzaWdxaGk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
       "title": "【09:44 即時新聞】競國(6108)亮燈漲停26.15元，資產處分與營收爆發吸引買盤＋法人連買與多頭技術結構支撐",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWmlEUmtaWUJETmxWSFdrN1FBNEZvRXNiUnQxR0FLaERuTDE0Nm5FSVM2akF2ZVgyTW1EUTh0WUd1WUxjMk9ZcXlONG4tOGppU3g2ODA4ak9XOC1sbFI2bjdFeTN4dEFfWXdNSzFUN0RMZF81ZjZ3QkxsSXlkNUYxVW1MeUZFRWdxcmNac0pn?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-08-28T07:00:00+00:00"
     },
     {
@@ -40,12 +46,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xODNnWnVXRC1WZWJzUEJZNXBzTFhCOWY0dUpndlJTcWhDMjhHc3l4WTlJTko0R3BRVnJrRTlXRkZoWi1Tc0FId0NjVDlWcTBkaDZvZmlaVGZIUdIBX0FVX3lxTE9rN0FRdUNiTmdYSVFiU2FwaWJITXhxYncxMldqUnNVZ0xMUFJhRDF4SFBMcGtmdWNVdVowcnRzelhUZGRSVmZnZ2E4THl0czZtTG9LQmF5LUhWWTRuYVRZ?oc=5",
       "source": "經濟日報",
       "published_at": "2026-08-25T07:00:00+00:00"
-    },
-    {
-      "title": "買競國 6108，各位是要一起畫聖誕樹了嗎?",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14VEdST1gwc2RMZ3czOVdmeDliSVVTYUppQzlLZWwtYWt5RTZRblVaUEVma2p1OEhOOGdoc3RlVVVuOFVDTTl0NUtqaHllRklKLTJzOHpWR0k?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-25T01:39:26+00:00"
     }
   ]
 }

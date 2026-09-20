@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-20T16:34:29.056769+08:00",
+  "updated_at": "2026-09-21T06:32:37.608487+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6142",
   "name": "友勁",
-  "count": 3,
+  "count": 4,
   "news": [
+    {
+      "title": "Cameo Communications, Inc.的Price to sales forward – TWSE:6142",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbnhScVp0eHMyWFNiRmNETGpUdFpveWZwVk9OckY2SG1GbDJwTkh0WDZ6am8tNTBTMmlzYmg1R2hSM1FRMGhWcGg4b1huSW54QlFSMk53Y0N2dFprTXVKZnJUOTZGQWZBZjRVcTByY3VmcXFLWHV2YlhMXzh2bXloMlc5TDdpUGhrdFVmWlB2aDVxZ0tQeUdHbm1R?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-17T01:28:30+00:00"
+    },
     {
       "title": "個股：友勁(6142)減資8.03331007%換股，舊股最後交易日10/14，新股10/27上市",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSmdORzBoV1kyTHBWWkxtUWp1WjYtNDBXUHh1Y1piYkhPaWZkdHRXb1d0TGpxOUY3b05PRFU2blFlb0VXRDNGWU9ySmVySE1PTF9OZFRnTjRXbDJBbFJCTkF5VDQtbmZka0VQdk4zMUdvV2dLUHBQX2xscFRqcldIb2R5VWM3R29C?oc=5",
@@ -21,7 +27,7 @@
       "title": "營收速報 - 友勁(6142)8月營收2.23億元年增率高達49.47％｜新聞快訊｜豐雲學堂",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tcXFkR21WSGxPVFZ2dV9JSzVhRGxTdW1yN2l3eWRCWlhjNkZWeHpQOXVWU01nUGRGb3J0MzZUVVJJSEtxVC1JdUxOelJhdVJpWGx2MUtYUWVMTW5pdWpuWnB4SF96dUFyemd6R1B2VU5NdnlTYlE?oc=5",
       "source": "sinotrade.com.tw",
-      "published_at": "2026-09-09T18:25:00+00:00"
+      "published_at": "2026-09-10T07:00:00+00:00"
     }
   ]
 }

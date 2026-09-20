@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T16:34:24.600784+08:00",
+  "updated_at": "2026-09-21T06:32:32.803599+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6112",
   "name": "邁達特",
@@ -7,9 +7,15 @@
   "news": [
     {
       "title": "【12:22 即時新聞】邁達特(6112)走強攻高，資安族群續成盤中焦點",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHbXBHVWxXSGczMk5WU1oyZDlnSm1YeGNwWXc2U2I0WWNLMTlFaDEyei1aZThOSDUyRnpVZm45RVFVcTdvWmk3YmZCQ29JUUs5cmhrVnVfN0Y?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-18T04:22:26+00:00"
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQW50bUJreVpKektfbzNsQmhoM0w0NXRDTENaTVB6NzZsT2kzRXlhSHBVZmNVOUVZNWRnbkNNcXc2TERQWTZ5a0NscmY3NlkyaDBUV2txX01uZ29UQVpRaGdKWDBRc1JuaEVKMEtXZUNPb0ZwNXNkcWRWa3ZCME5lWGlNVWI2M0k0WTl2UWFn?oc=5",
+      "source": "cmnews.com.tw",
+      "published_at": "2026-09-18T04:22:24+00:00"
+    },
+    {
+      "title": "邁達特看好AI資安發展，下半年樂觀看待| MoneyDJ理財網",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kTEtpRDIzalZfbjVGNHFkTF9YT0FpUVJzYmJTNnlUT1VhWU8waHpqTDI3cThNbk5ieTk1QlBYUUxtZXRfZ3FzeWhnTjhmV2hJZTlOcV9B?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-17T14:07:46+00:00"
     },
     {
       "title": "邁達特獲AWS Premier Tier最高等級合作夥伴資格",
@@ -24,10 +30,10 @@
       "published_at": "2026-09-16T08:49:49+00:00"
     },
     {
-      "title": "邁達特看好AI資安發展，下半年樂觀看待",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQRTdETzFjSW0weWJZOU5pQzFRekZINHUtZ08zSE1VM3RmNFVqY1VCNi1JdlJsU1Rfam9CbEtqTjYtN0pWdUNFb1Fkc1FxRTdOc0lzWXlUN01IbTFQN1A1TEc4cUNFWWlGSmFqdmZkaXZoZ3RvOWNTVUdDWklGbUJzYy0xZmtEU2lTTkN2YTdVN1JZVnZwcFJ6ckVpNTFqTDNWYng3NlBJUHhfMFp5V1p1WmxEZUMwUU5JVnhtamxJbXJQRFkxMVhIcFMyMEZmWXZWRTZJWW9nMnZwOU44LWh4RE4tRUlCbGhxd0IzZXFjRy1RdGNoOG10MVhqdkV6SXBGOFhNdWo4Z2ZjV0hjZHVTTVhwdWM3M09LZ3U3YzN0Yw?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-16T04:36:06+00:00"
+      "title": "6112 邁達特- 大刻度起漲點就在昨天- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9leG5tZVBuX3k5elpWV3N4V2hRUXFnTWdEOWNNV0V1WElBMGljcGx6cG1vUDhQZFZXeFV1SXBjLUlJOEdQN0tQZkdDeGIxMGlCVmo5MEwwLVo?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-15T12:45:34+00:00"
     },
     {
       "title": "AI、資安需求強 邁達特、零壹明年樂觀",
@@ -62,19 +68,13 @@
     {
       "title": "【09:20 即時新聞】邁達特(6112)股價勁揚至49.4元、漲幅7.27%，AI與雲端顧問題材帶動買盤，法人與主力籌碼偏多助攻多頭結構",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNWxRNmg1Mms0aVViMGhQdXFBTjdzcU5EcDVuRll6SVFCYlI0QzZXNVdiUHZJSVpEUVk4eEpmWTN4VnVkX0dkM2xhS0lHRGJxVWJQb2hHQnVLWXVkUnZjNzM2NVZuYUIyclQweFdGV0ZTeVhKT0RZS3lwWnlsdnJJRDVWV1NkYXJBLWNBblRn?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-14T01:21:18+00:00"
     },
     {
       "title": "邁達特數位股份有限公司",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSHk0VWNaWmFxWkN5LWNZbkNjYV9uU0dFY28wamhCYUYxMUI5aFViYmhzMDJKZ2RlNHIwN1dGWkR3cjFmUmZNUWlPXy1ZUUdleXZWUUhJNGtMbDFZeEdGVUpSTlFPYzItT2lpLVJXQ2pmUVRSZE1mVVRMUHQ1dmcxaEt2Q0hkdFlLVXhLRWw5T0o1ZXY2WmRZ?oc=5",
       "source": "MoneyDJ",
-      "published_at": "2026-09-02T07:00:00+00:00"
-    },
-    {
-      "title": "【2026/08月營收公告】邁達特(6112) 八月營收月減年增，全年營運續看向上",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FTUVWSm4zalFhekFTaFhNbnA2TFdkc2RBYlprME9KSVJvQmpEY003aWNtYnFmMWZpUUFTVFRsZkQwWUJsSjlaZ0hKLXIxX2VOdjAwZmdzdkw0U0NJN0FXUUlMR2lJMk0?oc=5",
-      "source": "CMoney",
       "published_at": "2026-09-02T07:00:00+00:00"
     }
   ]

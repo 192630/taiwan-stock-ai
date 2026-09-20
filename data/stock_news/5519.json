@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-20T16:34:15.327425+08:00",
+  "updated_at": "2026-09-21T06:32:22.369751+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5519",
   "name": "隆大",
-  "count": 1,
+  "count": 2,
   "news": [
+    {
+      "title": "隆大(5519) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PSmhWMHZVbGhZRWtTUF9uVzZ4Sy1XYzlsX21CaU1PN2kybk0zX2xIS2F4RFZodkxia3lDVnRLU1dWa3NnT2RNSmNXV2dYb2wzSDh3?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-14T18:04:52+00:00"
+    },
     {
       "title": "【2026/08月營收公告】隆大(5519) 八月營收1.14億元，創近2個月以來新高，月增2.29%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeGViTlU1YkRnNWlIODcwZHZTR3dnZmVXdE1yTjV5VkNaRUI3WHpxTXBVUWliU3JLUW1HcVR4VG10QzZqTW1YOERyNjA3RkVtblQ2OUdYcVVJaFNJd0YzcFY0d2FfWWs3dmVTTmtOUU9WVWRfOXl2SjhFQ0U3QjJoTlFhUEE3b1FycVE?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-09T07:00:00+00:00"
     }
   ]

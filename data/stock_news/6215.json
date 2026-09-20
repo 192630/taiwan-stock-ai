@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-20T17:32:54.022085+08:00",
+  "updated_at": "2026-09-21T06:32:49.320358+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6215",
   "name": "和椿",
-  "count": 11,
+  "count": 10,
   "news": [
+    {
+      "title": "和椿科技股份有限公司",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTHlpVmNYRUl4ZUFMcENORUZxVzRac0E4R1VYdXJvRERZSDhmNnA2dWNQM2JqRFZ2ZnVTNkY0QXprbkJobmcydUlfcGFyMjJEOEJfbW1ONE1RcTZBc3VvcGVUY0ZuWHJWVUlmbHNSbjFYd2JhQUZCR0R3QUdHNjF3QzNwajZzMFBESWstQURzV2wzZEo1eFdj?oc=5",
+      "source": "MoneyDJ",
+      "published_at": "2026-09-18T07:00:00+00:00"
+    },
     {
       "title": "和椿 6215",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNWJSbWRWN25pSF9uZmVZd2FJRTVxYXRMY3BObmpuc2hCTUpfWXVwOWJ6WHZtdFJLNUUxTlhLZk42MVNRTlNtMGxTdUtxRW16NGg1Zjk2alNlejB6VWgzTUdjQ1JidDNkRnFnZE53S1cxVUxfajduVHFxa1ZoTEI0ei01X19CSTNmODBMZzI5RWpLa2FoQTN3clIyQUlzajJIa3NZZ0pqUVA?oc=5",
@@ -12,22 +18,10 @@
       "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
-      "title": "和椿雙箭齊發 衝實體AI",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TOGdkaHNXaGU4ZGZEQzFrVnlSUGxzZVRhOWk1LW9veUVETXlDMzVFOXNMNWIweUE0QjBnSFEydm52NmtYNkwyVzR5U2R6ZDg2eUJ2ZFdwdDJTSzRDTUthZF9DaGJLSUxvVmo3SllGcDg5UdIBVkFVX3lxTE1wZ3JtaFZGSW13dlVmQjVZRWxad2o5VmNkZTgzY0NTRWdHVUo1TW00UzgtWXpGSVU2cFozMlI2TktzcC1PWTVsNS00bFlHZTZuM2l3aDl3?oc=5",
-      "source": "UDN",
-      "published_at": "2026-09-13T16:57:15+00:00"
-    },
-    {
       "title": "6215 和椿- 漲的跌回，這星期垃圾椿又做白工- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSSEM4V1ByS3k2Nm5fVzAyUWswTEUtaDRJRmVpNTFSeFBtQzgzdUJLVmhvUVRfbGl6dFYtNmI1VzI3aXU5c2k0SGcxWDlkZFhMRXpSRGFFeWU?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-11T03:57:59+00:00"
-    },
-    {
-      "title": "和椿營收／半導體次系統與機器人出貨旺 8月4.07億元續創新高",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UemJBbXdrWjQtQ3o3NHJZTllOOTJaNC1OUVRQMjdsX251WDdjSXBIM0stc0ZKdHQ1TzdXbUswY0wzT3lBd1BhT1JwekdvNHZ0UFpMSWYwSjZmQWfSAV9BVV95cUxPS2Nob1JzNHVkTGdaZlRkVmRXZmpROGxqMXZKd1A2aE1DcWpoRV9LbkxRN2RUaTNESUlGZjdFZkVNeE9tT3ZqVjVWTHlmRjh1WHVIZTFuX1NyZnVYQTZLWQ?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-09-09T15:07:55+00:00"
     },
     {
       "title": "半導體、AI拉貨旺 和椿8月營收創單月新高",
@@ -50,7 +44,7 @@
     {
       "title": "自動化零組件8月營收多雙位數年增，大銀、和椿創高",
       "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOM0NRZXdfbkljZ0c4SXlOQm04TlV5YU13dUFBbzhvY2hGWklaVVRRYmhfTTB1TWtwRGpuNnk1Y1k3ZXN0NDJ6VkhvcWxzUmdqN2xvM3I5Z3IxV0llQjJaNHZDbXNFZC1QMW5kd2s1S1FMYmROX0hmblJ5MlJwMUJDRDlmOFU3a2VIT05IMGl3ZEd3NFZCOFAwVmd3SUFwTXdSXzVTLVFpSUFOUWFMbGhYdWVyOWtrSm1ycHZOQTdJaUZseTBMa2l2M3VFd2FqblpieEMyNW9LeUhlcjNTTjBrNG56MS1GUmo0Z2tIeTZzY3ZGS2xVMFJWeDQycHN5YXcwdkRpRkdicnp2ZWJXZHRLX2ZOYlBFV2R1NWNtZUl6a2VxakRFOWZlX0FpSHZ3U1JSR0huYnhWakVZeFZOM2xnemxFYTJWZ012Mmh6clE3WHhFX2RkZ1FWdnlwQQ?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
@@ -62,7 +56,7 @@
     {
       "title": "半導體、SMT拉抬，和椿今年營收有望拚高",
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPQktQZkdHejk1c0IzWVRCWkV5V3VveWpEVVB4LVdFY19TV1lMNFNBSnBBR3lKT0FnU1hzV0FfQUQ3NW03TE1EbW43X1hPVW44dHNXTjBjNjRCc0h0NjBnMzVVU1pmT2JqRWlnWElxRXN1bURGcGJUSlB6eWNkOTlEeXdFMEwwbHF2MC1zcHJybmdnM1dnSWhPdmRGQjhTaE9YM2xZc3RKVjhHYjNvVzdsYUptZ0NaOFA1VmRlUV90bjk1NnNrUk9hVDU2V29jR29iZ2hNQmJ6Z0F4Y01YUkx0NUNRcWJmTllXbFhqeEp2aFpndVc1Q3dUTFZkV1BRNDRjcHRfQU1COVVrSnAwSlo0ZWNGT0hSUQ?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-08-26T07:00:00+00:00"
     },
     {
