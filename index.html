@@ -833,6 +833,48 @@ button{
 .industry-member-name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-weight:800}
 .industry-member-change{font-weight:900}
 
+/* 主動 ETF 清單 */
+
+.etf-directory-list{
+  display:grid;
+  gap:10px;
+  margin-top:12px;
+}
+
+.etf-directory-row{
+  width:100%;
+  display:grid;
+  grid-template-columns:minmax(0,1fr) auto;
+  gap:12px;
+  align-items:center;
+  padding:13px 14px;
+  border:1.5px solid rgba(68,74,79,.48);
+  border-radius:13px 10px 14px 11px;
+  background:rgba(255,254,250,.84);
+  color:#30363b;
+  text-align:left;
+}
+
+.etf-directory-name{
+  font-size:16px;
+  font-weight:900;
+}
+
+.etf-directory-code{
+  margin-top:3px;
+  color:#b95649;
+  font-size:13px;
+  font-weight:900;
+}
+
+.etf-directory-meta{
+  color:#626a72;
+  font-size:12px;
+  line-height:1.65;
+  text-align:right;
+  white-space:nowrap;
+}
+
 /* ETF 每日白話摘要 */
 
 .etf-summary-grid{
@@ -2176,6 +2218,7 @@ footer{
 
 <nav class="etf-subnav page-section" data-pages="etf" aria-label="主動 ETF 子分頁">
   <button class="etf-subnav-button active" type="button" data-etf-subpage="summary">🧠 每日摘要</button>
+  <button class="etf-subnav-button" type="button" data-etf-subpage="directory">📋 ETF 清單</button>
   <button class="etf-subnav-button" type="button" data-etf-subpage="changes">📊 每日變化</button>
   <button class="etf-subnav-button" type="button" data-etf-subpage="holdings">🌡️ 持股權重</button>
   <button class="etf-subnav-button" type="button" data-etf-subpage="industry">🏭 產業配置</button>
@@ -2198,6 +2241,29 @@ footer{
 
   <div class="heat-note">
     <strong>今日筆記：</strong>這是依公開資料自動產生的規則式摘要，不是漲跌預測，也不構成投資建議。
+  </div>
+
+</section>
+
+<section class="card page-section" data-pages="etf" data-etf-subpage="directory">
+
+  <h2>📋 主動 ETF 全部清單</h2>
+  <div class="heat-subtitle">集中查看目前已接入官方公開投資組合的主動式台股 ETF</div>
+
+  <div class="all-stock-tools" style="margin-top:14px">
+    <input
+      id="etfDirectoryFilter"
+      type="search"
+      autocomplete="off"
+      placeholder="搜尋 ETF 代號、名稱或投信"
+    >
+  </div>
+
+  <div id="etfDirectoryStatus" class="status">ETF 清單資料載入中...</div>
+  <div id="etfDirectoryList" class="etf-directory-list"></div>
+
+  <div class="heat-note">
+    <strong>今日筆記：</strong>點選任一 ETF，可查看介紹、官方公開持股、行情與相關新聞。
   </div>
 
 </section>
@@ -2577,6 +2643,7 @@ document.addEventListener("keydown",event => {
 
 const validEtfSubpages = [
   "summary",
+  "directory",
   "changes",
   "holdings",
   "industry",
@@ -2692,6 +2759,7 @@ function showPage(page,updateHash = true){
 
   if(activeEtfHoldingsReady){
     renderSelectedEtfChanges();
+    renderEtfDirectory();
     renderEtfHoldingHeat();
     renderEtfIndustryHeat();
     renderEtfConsensus();
@@ -4136,6 +4204,80 @@ function makeConsensusRow(item,index,mode){
 
 }
 
+
+
+function renderEtfDirectory(){
+
+  const filter = document.getElementById("etfDirectoryFilter");
+  const status = document.getElementById("etfDirectoryStatus");
+  const container = document.getElementById("etfDirectoryList");
+
+  if(!filter || !status || !container) return;
+
+  container.innerHTML = "";
+
+  if(!activeEtfHoldingsReady){
+    status.textContent = "ETF 清單資料載入中...";
+    return;
+  }
+
+  const keyword = String(filter.value || "").trim().toUpperCase();
+  const entries = Object.values(activeEtfHoldings)
+    .filter(etf => etf && etf.code)
+    .filter(etf => {
+      if(!keyword) return true;
+      return [
+        etf.code,
+        etf.name,
+        etf.issuer
+      ].some(value => String(value || "").toUpperCase().includes(keyword));
+    })
+    .sort((a,b) => String(a.code).localeCompare(String(b.code)));
+
+  status.textContent = keyword
+    ? `找到 ${entries.length} 檔符合「${filter.value.trim()}」的主動 ETF`
+    : `✅ 已整理 ${entries.length} 檔主動 ETF`;
+
+  if(!entries.length){
+    const empty = document.createElement("div");
+    empty.className = "watch-empty";
+    empty.textContent = "找不到符合條件的主動 ETF";
+    container.appendChild(empty);
+    return;
+  }
+
+  entries.forEach(etf => {
+    const row = document.createElement("button");
+    row.type = "button";
+    row.className = "etf-directory-row";
+
+    const main = document.createElement("div");
+    const name = document.createElement("div");
+    name.className = "etf-directory-name";
+    name.textContent = etf.name || etf.code;
+    const code = document.createElement("div");
+    code.className = "etf-directory-code";
+    code.textContent = `${etf.code}　查看 ETF ›`;
+    main.append(name,code);
+
+    const meta = document.createElement("div");
+    meta.className = "etf-directory-meta";
+    const holdingCount = Array.isArray(etf.holdings)
+      ? etf.holdings.length
+      : cleanNumber(etf.holding_count);
+    meta.innerHTML = `${etf.issuer || "發行商待補"}<br>${formatStockDate(etf.holdings_date || "")}<br>${holdingCount} 檔持股`;
+
+    row.append(main,meta);
+    row.addEventListener("click",() => openStockFromList(etf.code));
+    container.appendChild(row);
+  });
+
+}
+
+
+document
+  .getElementById("etfDirectoryFilter")
+  ?.addEventListener("input",renderEtfDirectory);
 
 
 function renderEtfDailySummary(){
@@ -8098,6 +8240,7 @@ Promise.all([
 ]).then(() => {
 
   renderEtfChangeOptions();
+  renderEtfDirectory();
   renderEtfHoldingHeat();
   renderEtfIndustryHeat();
   renderEtfConsensus();
