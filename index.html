@@ -2097,6 +2097,13 @@ footer{
     </div>
 
     <div class="info-row">
+      <span>涵蓋日期</span>
+      <b id="historyRange">-</b>
+    </div>
+
+    <div id="historyDataNote" class="plain-note">歷史資料狀態載入中...</div>
+
+    <div class="info-row">
       <span>5 日均價</span>
       <b id="ma5">-</b>
     </div>
@@ -2750,6 +2757,8 @@ footer{
     </div>
     <span>來源 <b id="instSource">-</b></span>
     <span>更新 <b id="instUpdated">-</b></span>
+    <span>歷史行情 <b id="historyBackfill">載入中...</b></span>
+    <span>資料類型 <b>盤後日資料（非盤中即時）</b></span>
   </div>
 </footer>
 
@@ -2769,6 +2778,7 @@ let activeEtfChanges = {};
 let activeEtfTrends = {};
 let activeEtfNews = {};
 let companyProfiles = {};
+let backfillProgress = {};
 
 let stockDataReady = false;
 let institutionalReady = false;
@@ -3398,6 +3408,29 @@ async function loadCompanyProfiles(){
 /* ========================================
    歷史行情
 ======================================== */
+
+async function loadHistoryProgress(){
+  const output = document.getElementById("historyBackfill");
+  try{
+    const response = await fetch("data/backfill_progress.json?t=" + Date.now());
+    if(!response.ok) throw new Error("backfill_progress.json 載入失敗");
+    backfillProgress = await response.json();
+    const total = cleanNumber(backfillProgress.total_securities);
+    const completed = backfillProgress.cycle_complete
+      ? total
+      : Math.min(cleanNumber(backfillProgress.next_index),total);
+    if(output){
+      output.textContent = total > 0
+        ? `${completed.toLocaleString("zh-TW")}／${total.toLocaleString("zh-TW")} 檔（${backfillProgress.cycle_complete ? "第一輪完成" : "自動補齊中"}）`
+        : "自動補齊中";
+    }
+  }
+  catch(error){
+    console.warn(error);
+    backfillProgress = {};
+    if(output) output.textContent = "自動補齊中";
+  }
+}
 
 async function loadMarketHistory(){
 
@@ -7007,6 +7040,20 @@ function showHistory(code){
         .toLocaleString("zh-TW") +
       " 筆";
 
+  const firstDate = formatStockDate(history[0]?.date || "");
+  const lastDate = formatStockDate(history[history.length - 1]?.date || "");
+  document.getElementById("historyRange").textContent =
+    firstDate && lastDate ? `${firstDate}～${lastDate}` : "-";
+
+  const dataNote = document.getElementById("historyDataNote");
+  if(dataNote){
+    dataNote.textContent = history.length >= 120
+      ? "✅ 已具備約六個月日資料，可完整計算 MA5、MA20、MA60。"
+      : history.length >= 60
+        ? `目前已有 ${history.length} 筆，可計算三條均線；六個月資料仍在自動補齊。`
+        : `目前只有 ${history.length} 筆歷史資料，系統正在分批回填；MA20／MA60 會在筆數足夠後自動出現。`;
+  }
+
 
   const ma5 =
     calculateMA(
@@ -8772,6 +8819,7 @@ Promise.all([
   loadStocks(),
   loadInstitutional(),
   loadMarketHistory(),
+  loadHistoryProgress(),
   loadMarketNews(),
   loadActiveEtfHoldings(),
   loadActiveEtfChanges(),
