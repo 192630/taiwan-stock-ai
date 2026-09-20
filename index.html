@@ -1924,6 +1924,18 @@ body:not(.owner-preview) [data-access="pro"]{display:none!important}
 .owner-preview-banner button{border:1px solid rgba(255,255,255,.72);background:transparent;color:#fff;border-radius:999px;padding:5px 10px;font:inherit}
 .access-public-note{margin:14px 0;padding:12px 14px;border:1.5px dashed #8a969b;border-radius:14px;color:#56636a;font-size:13px;line-height:1.65;background:rgba(255,255,255,.6)}
 .owner-preview .access-public-only{display:none!important}
+
+.owner-preview .nav-button[data-access="member"]::after,
+.owner-preview .etf-subnav-button[data-access="member"]::after{content:"MEMBER";margin-left:6px;font-size:9px;letter-spacing:.04em;padding:2px 5px;border:1px solid currentColor;border-radius:999px;opacity:.72}
+.owner-preview .nav-button[data-access="pro"]::after,
+.owner-preview .etf-subnav-button[data-access="pro"]::after{content:"PRO";margin-left:6px;font-size:9px;letter-spacing:.04em;padding:2px 5px;border:1px solid currentColor;border-radius:999px;opacity:.72}
+.owner-access-overview{border:2px solid #71848b;border-radius:18px;padding:16px;margin:18px 0;background:rgba(242,245,241,.78)}
+.owner-access-overview h3{margin:0 0 8px}
+.owner-access-columns{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.owner-access-column{border:1px dashed #96a0a4;border-radius:13px;padding:12px}
+.owner-access-column strong{display:block;margin-bottom:7px}
+.owner-access-column ul{margin:0;padding-left:19px;line-height:1.7;font-size:13px;color:#53616a}
+@media(max-width:560px){.owner-access-columns{grid-template-columns:1fr}}
 </style>
 </head>
 
@@ -2747,6 +2759,31 @@ body:not(.owner-preview) [data-access="pro"]{display:none!important}
 
   <h3>功能分級建議</h3>
   <div class="heat-subtitle">免費版負責「看懂市場」；研究會員負責「節省整理時間」；高階版負責「自己建立與驗證策略」。</div>
+
+  <div class="owner-access-overview" data-access="member">
+    <h3>🔐 站長預覽功能總覽</h3>
+    <div class="heat-subtitle">這只是分級畫面測試；尚未放入付費資料，也不是真正會員驗證。</div>
+    <div class="owner-access-columns">
+      <div class="owner-access-column">
+        <strong>MEMBER｜研究會員候選</strong>
+        <ul>
+          <li>完整成交量排行與產業紅綠燈</li>
+          <li>ETF 比較、每日變化、持股與共識</li>
+          <li>ETF 產業配置、連續趨勢、完整排行</li>
+          <li>全球市場分歧、族群影響與觀察重點</li>
+        </ul>
+      </div>
+      <div class="owner-access-column">
+        <strong>PRO｜高階研究候選</strong>
+        <ul>
+          <li>量化條件與策略組合</li>
+          <li>歷史回測與相似行情</li>
+          <li>自訂警戒與進階資料匯出</li>
+          <li>待授權完成的進階跨市場研究</li>
+        </ul>
+      </div>
+    </div>
+  </div>
 
   <div class="member-plan-grid">
     <article class="member-plan">
