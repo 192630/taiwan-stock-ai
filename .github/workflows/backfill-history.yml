@@ -2,6 +2,13 @@ name: Backfill Stock History
 
 on:
   workflow_dispatch:
+  schedule:
+    # 台灣時間每天 00:20、04:20，自動分批回填；每次仍維持 100 檔
+    - cron: "20 16,20 * * *"
+
+concurrency:
+  group: backfill-stock-history
+  cancel-in-progress: false
 
 permissions:
   contents: write
