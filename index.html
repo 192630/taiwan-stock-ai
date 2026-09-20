@@ -493,6 +493,33 @@ button{
   line-height:1.65;
 }
 
+.chart-range-picker{
+  display:flex;
+  gap:7px;
+  overflow-x:auto;
+  margin:8px 0 12px;
+  padding:3px 1px;
+  -webkit-overflow-scrolling:touch;
+  scrollbar-width:none;
+}
+.chart-range-picker::-webkit-scrollbar{display:none}
+.chart-range-button{
+  flex:0 0 auto;
+  min-width:58px;
+  padding:8px 10px;
+  border:1.4px solid rgba(68,74,79,.38);
+  border-radius:10px 8px 11px 9px;
+  background:rgba(255,254,250,.86);
+  color:#555d63;
+  font-size:13px;
+  font-weight:900;
+}
+.chart-range-button.active{
+  border-color:#c96557;
+  background:#f7e5e1;
+  color:#8f4037;
+}
+
 .chart-legend{
   display:flex;
   flex-wrap:wrap;
@@ -2042,6 +2069,14 @@ footer{
 
     <h3>📈 歷史行情</h3>
 
+    <div class="chart-range-picker" aria-label="K 棒顯示範圍">
+      <button class="chart-range-button" type="button" data-chart-range="1">當日</button>
+      <button class="chart-range-button" type="button" data-chart-range="5">5 日</button>
+      <button class="chart-range-button" type="button" data-chart-range="22">近月</button>
+      <button class="chart-range-button" type="button" data-chart-range="66">3 月</button>
+      <button class="chart-range-button active" type="button" data-chart-range="132">6 月</button>
+    </div>
+
     <div class="chart-legend">
       <button id="maLayerToggle" class="chart-layer-toggle" type="button" aria-pressed="false">
         <span class="multi-dot" aria-hidden="true"><i style="background:#f59e0b"></i><i style="background:#2563eb"></i><i style="background:#7c3aed"></i></span>MA5／MA20／MA60
@@ -2077,7 +2112,7 @@ footer{
     </div>
 
     <div class="plain-note">
-      MA5、MA20、MA60 分別代表最近 5、20、60 個交易日的平均收盤價，用來觀察短中期方向。
+      MA5、MA20、MA60 分別代表最近 5、20、60 個交易日的平均收盤價，用來觀察短中期方向。切換 K 棒範圍只改變畫面顯示區間，不會改變均線的正確計算基礎。
     </div>
 
     <h3 class="research-title">🧭 規則式研究判讀</h3>
@@ -2635,37 +2670,70 @@ footer{
   <div class="member-status-card">
     <div class="member-status-label">目前使用狀態</div>
     <div class="member-status-title">免費訪客・公開測試版</div>
-    <div class="member-status-note">現階段不會向你收款，也不會把已完成的公開功能突然鎖住。正式會員上線後，登入、付款與會員權限都會由安全後端驗證，不會只靠瀏覽器紀錄判斷。</div>
+    <div class="member-status-note">現階段全站仍是公開測試，不收款，也不會突然鎖住目前已完成的功能。正式上線後才會用安全後端管理登入、付款與會員權限。</div>
   </div>
-  <h3>規劃中的會員方案</h3>
-  <div class="heat-subtitle">以下是產品方案預覽；價格與收費尚未啟用。</div>
+
+  <h3>功能分級建議</h3>
+  <div class="heat-subtitle">免費版負責「看懂市場」；研究會員負責「節省整理時間」；高階版負責「自己建立與驗證策略」。</div>
+
   <div class="member-plan-grid">
     <article class="member-plan">
-      <div class="member-plan-badge">FREE</div><h3>免費版</h3>
+      <div class="member-plan-badge">FREE｜建立信任</div>
+      <h3>免費版</h3>
       <div class="member-price">NT$0 <small>／月</small></div>
-      <ul class="member-features"><li>股票搜尋、盤後行情與法人籌碼</li><li>市場／產業／主動 ETF 基礎排行</li><li>新聞、觀察清單與研究說明</li></ul>
+      <ul class="member-features">
+        <li>股票／ETF 搜尋、公司資料、盤後 OHLCV</li>
+        <li>6 個月日 K、MA5／MA20／MA60 基礎均線</li>
+        <li>三大法人當日籌碼與白話說明</li>
+        <li>市場、產業、主動 ETF 排行前 3～5 名</li>
+        <li>市場新聞、個股新聞與基本觀察清單</li>
+      </ul>
       <button type="button" disabled>目前使用中</button>
     </article>
+
     <article class="member-plan featured">
-      <div class="member-plan-badge">建議主力方案</div><h3>研究會員</h3>
-      <div class="member-price">預計 NT$149 <small>／月</small></div>
-      <ul class="member-features"><li>ETF 持股變化、共識與連續增減完整歷史</li><li>自選股條件提醒與每日研究摘要</li><li>進階壓力支撐、籌碼與族群觀察</li><li>會員研究筆記與資料匯出</li></ul>
+      <div class="member-plan-badge">MEMBER｜最值得付費</div>
+      <h3>研究會員</h3>
+      <div class="member-price">建議 NT$149 <small>／月</small></div>
+      <ul class="member-features">
+        <li>完整排行與每日名次升降、歷史日期查詢</li>
+        <li>主動 ETF 持股增加／減少／新增／退出</li>
+        <li>ETF 經理人共識、連續多日增減與完整持股</li>
+        <li>壓力支撐 V2、法人與量價進階規則判讀</li>
+        <li>自選股進階追蹤、條件提醒與每日研究摘要</li>
+        <li>個人研究筆記、標籤與基本資料匯出</li>
+      </ul>
       <button type="button" disabled>即將開放</button>
     </article>
+
     <article class="member-plan">
-      <div class="member-plan-badge">PRO</div><h3>進階研究會員</h3>
-      <div class="member-price">預計 NT$299 <small>／月</small></div>
-      <ul class="member-features"><li>自訂量化條件與策略組合</li><li>回測、隔日驗證與績效追蹤</li><li>多檔比較、族群／概念股雷達</li><li>進階資料下載與個人化研究儀表板</li></ul>
+      <div class="member-plan-badge">PRO｜策略研究工具</div>
+      <h3>高階研究會員</h3>
+      <div class="member-price">建議 NT$299 <small>／月</small></div>
+      <ul class="member-features">
+        <li>自訂量化篩選器與多條件策略組合</li>
+        <li>歷史回測、交易成本、隔日／多日驗證</li>
+        <li>法人獲利虧損、主力雷達與進階籌碼模型</li>
+        <li>族群／子族群／概念股紅綠燈完整歷史</li>
+        <li>投資組合重疊、風險曝險與績效儀表板</li>
+        <li>完整 CSV 匯出、進階通知與 AI 資料摘要</li>
+      </ul>
       <button type="button" disabled>即將開放</button>
     </article>
   </div>
-  <div class="member-roadmap">
-    <div class="member-roadmap-item"><strong>1｜安全登入</strong><br>電子郵件驗證、忘記密碼與裝置登入管理。</div>
-    <div class="member-roadmap-item"><strong>2｜付款與發票</strong><br>付款結果由金流 webhook 回傳後，再由後端開通權限。</div>
-    <div class="member-roadmap-item"><strong>3｜真正的會員權限</strong><br>付費資料由受保護 API 提供，避免把會員內容與密鑰直接放在 GitHub Pages。</div>
-    <div class="member-roadmap-item"><strong>4｜隱私與取消</strong><br>提供個資說明、訂閱狀態、取消續訂與資料刪除入口。</div>
+
+  <div class="member-safety">
+    <strong>不建議拿來收費的內容：</strong>單純股票價格、一般公司資料、基本 K 線、少量新聞與免責聲明。這些應保留免費，使用者先確認資料可信、網站好用，才會願意為「歷史比較、提醒、完整 ETF 變化、回測與省時間」付費。
   </div>
-  <div class="member-safety"><strong>會員制度原則：</strong>不保證獲利、不提供個人化買賣指令；所有進階功能仍是資料研究與教學工具。正式收費前會再完成服務條款、隱私權政策、資料來源與授權檢查。</div>
+
+  <div class="member-roadmap">
+    <div class="member-roadmap-item"><strong>1｜安全登入</strong><br>電子郵件驗證、忘記密碼、登入裝置與帳號刪除。</div>
+    <div class="member-roadmap-item"><strong>2｜付款與發票</strong><br>付款結果由金流 webhook 回傳後，再由後端開通或取消權限。</div>
+    <div class="member-roadmap-item"><strong>3｜真正的會員權限</strong><br>付費資料由受保護 API 提供，不把會員內容與密鑰直接放在 GitHub Pages。</div>
+    <div class="member-roadmap-item"><strong>4｜合法上架</strong><br>正式收費前完成服務條款、隱私權政策、取消／退款規則、資料來源與商用授權清單。</div>
+  </div>
+
+  <div class="member-safety"><strong>研究定位：</strong>不保證獲利、不提供個人化買賣指令；免費與付費功能都屬研究及教學工具。</div>
 </section>
 
 </main>
@@ -5878,34 +5946,43 @@ function findStock(query){
    歷史行情工具
 ======================================== */
 
-function getStockHistory(code){
-
-  const key =
-    String(code || "")
-      .trim();
-
-  if(
-    !key ||
-    !marketHistoryReady
-  ){
-
-    return [];
-
-  }
-
-  const history =
-    marketHistory[key];
-
-  if(!Array.isArray(history)){
-
-    return [];
-
-  }
-
-  return history;
-
+function normalizeHistoryDate(value){
+  const formatted = formatStockDate(value).replaceAll("/","-");
+  return /^\d{4}-\d{2}-\d{2}$/.test(formatted) ? formatted : "";
 }
 
+function getStockHistory(code){
+  const key = String(code || "").trim();
+  if(!key || !marketHistoryReady) return [];
+
+  const stored = Array.isArray(marketHistory[key])
+    ? marketHistory[key].filter(row => row && row.date).map(row => ({...row}))
+    : [];
+
+  const currentRow = stocks.find(row => String(getStockValues(row).code || "").trim() === key);
+  if(currentRow){
+    const values = getStockValues(currentRow);
+    const date = normalizeHistoryDate(values.date);
+    const latest = {
+      date,
+      open:cleanNumber(values.open),
+      high:cleanNumber(values.high),
+      low:cleanNumber(values.low),
+      close:cleanNumber(values.close),
+      volume:cleanNumber(values.volume)
+    };
+
+    if(date && latest.open > 0 && latest.high > 0 && latest.low > 0 && latest.close > 0){
+      const index = stored.findIndex(row => normalizeHistoryDate(row.date) === date);
+      if(index >= 0) stored[index] = {...stored[index],...latest};
+      else stored.push(latest);
+    }
+  }
+
+  return stored
+    .map(row => ({...row,date:normalizeHistoryDate(row.date) || row.date}))
+    .sort((a,b) => String(a.date || "").localeCompare(String(b.date || "")));
+}
 
 function getHistoryClose(row){
 
@@ -6633,11 +6710,29 @@ let kChart = null;
 let candleSeries = null;
 let kChartResizeObserver = null;
 let currentChartHistory = [];
+let selectedChartRange = 132;
 let showMaLayers = false;
 let showLevelLayers = false;
 
 
+function updateChartRangeButtons(){
+  document.querySelectorAll(".chart-range-button").forEach(button => {
+    const active = Number(button.dataset.chartRange) === selectedChartRange;
+    button.classList.toggle("active",active);
+    button.setAttribute("aria-pressed",String(active));
+  });
+}
+
+document.querySelectorAll(".chart-range-button").forEach(button => {
+  button.addEventListener("click",() => {
+    selectedChartRange = Number(button.dataset.chartRange) || 132;
+    updateChartRangeButtons();
+    if(currentChartHistory.length) drawKChart(currentChartHistory);
+  });
+});
+
 function updateChartLayerButtons(){
+  updateChartRangeButtons();
   [
     ["maLayerToggle",showMaLayers],
     ["levelLayerToggle",showLevelLayers]
@@ -6851,6 +6946,14 @@ function drawKChart(history){
   kChart
     .timeScale()
     .fitContent();
+
+  const visibleBars = Math.max(1,Math.min(selectedChartRange,candles.length));
+  if(candles.length && visibleBars < candles.length){
+    kChart.timeScale().setVisibleLogicalRange({
+      from:candles.length - visibleBars - .5,
+      to:candles.length - .5
+    });
+  }
 
   if("ResizeObserver" in window){
     kChartResizeObserver = new ResizeObserver(entries => {
