@@ -1878,6 +1878,18 @@ footer{
       <a id="companyWebsite" class="company-profile-link hidden" target="_blank" rel="noopener noreferrer">前往公司官方網站 ↗</a>
     </div>
 
+    <div id="stockEtfOwnership" class="etf-detail-box hidden">
+      <h3>🧺 主動 ETF 持有狀況</h3>
+      <div id="stockEtfOwnershipStatus" class="heat-subtitle"></div>
+      <div id="stockEtfOwnershipList"></div>
+      <button id="stockEtfOwnershipToggle" class="section-toggle secondary hidden" type="button">
+        查看全部持有 ETF
+      </button>
+      <div class="plain-note">
+        ETF 持有狀況來自最近公開投資組合；持股權重與股數不等同當日買進量。
+      </div>
+    </div>
+
   </div>
 
   <div
@@ -2481,6 +2493,7 @@ let currentEtfSubpage = "summary";
 let allStockLimit = 60;
 let currentStockCode = "";
 let etfHoldingExpanded = false;
+let stockEtfOwnershipExpanded = false;
 let etfDetailNewsStart = 0;
 let stockDetailNews = [];
 let stockDetailNewsStart = 0;
@@ -3064,7 +3077,10 @@ async function loadCompanyProfiles(){
     const json = await response.json();
     companyProfiles = json.profiles || {};
     companyProfilesReady = true;
-    if(currentStockCode) renderCompanyProfile(currentStockCode);
+    if(currentStockCode){
+      renderCompanyProfile(currentStockCode);
+      renderStockEtfOwnership(currentStockCode);
+    }
     renderIndustryHeat();
     renderEtfIndustryHeat();
   }
@@ -6517,6 +6533,114 @@ function renderCompanyProfile(code){
 }
 
 
+function renderStockEtfOwnership(code){
+
+  const box = document.getElementById("stockEtfOwnership");
+  const status = document.getElementById("stockEtfOwnershipStatus");
+  const list = document.getElementById("stockEtfOwnershipList");
+  const toggle = document.getElementById("stockEtfOwnershipToggle");
+
+  if(!box || !status || !list || !toggle) return;
+
+  const stockCode = String(code || "").trim();
+  list.innerHTML = "";
+
+  if(!activeEtfHoldingsReady || !stockCode){
+    box.classList.add("hidden");
+    return;
+  }
+
+  if(activeEtfHoldings[stockCode]){
+    box.classList.add("hidden");
+    return;
+  }
+
+  const holders = [];
+
+  Object.values(activeEtfHoldings).forEach(etf => {
+    const holding = (etf.holdings || []).find(item =>
+      String(item.code || item.stock_code || "").trim() === stockCode
+    );
+    if(!holding) return;
+
+    holders.push({
+      code:String(etf.code || "").trim(),
+      name:String(etf.name || etf.code || "").trim(),
+      issuer:String(etf.issuer || "").trim(),
+      weight:cleanNumber(holding.weight),
+      shares:cleanNumber(holding.shares)
+    });
+  });
+
+  holders.sort((a,b) => b.weight - a.weight || b.shares - a.shares);
+  box.classList.remove("hidden");
+
+  if(!holders.length){
+    status.textContent = `目前整理的 ${Object.keys(activeEtfHoldings).length} 檔主動 ETF 中，尚未找到持有這檔股票的公開資料。`;
+    toggle.classList.add("hidden");
+    return;
+  }
+
+  const totalWeight = holders.reduce((sum,item) => sum + item.weight,0);
+  status.textContent = `✅ 共 ${holders.length} 檔主動 ETF 持有｜合計權重 ${totalWeight.toFixed(2)}%`;
+
+  const visible = stockEtfOwnershipExpanded
+    ? holders
+    : holders.slice(0,5);
+
+  visible.forEach(item => {
+    const row = document.createElement("div");
+    row.className = "etf-holding-row";
+    row.tabIndex = 0;
+    row.setAttribute("role","button");
+    row.setAttribute("aria-label",`查看 ${item.code} ${item.name}`);
+
+    const main = document.createElement("div");
+    const name = document.createElement("div");
+    name.className = "etf-holding-name";
+    name.textContent = item.name || item.code;
+    const etfCode = document.createElement("div");
+    etfCode.className = "etf-holding-code";
+    etfCode.textContent = `${item.code}${item.issuer ? `｜${item.issuer}` : ""}　查看 ETF ›`;
+    main.append(name,etfCode);
+
+    const numbers = document.createElement("div");
+    numbers.className = "etf-holding-numbers";
+    numbers.textContent = `${item.weight.toFixed(2)}%`;
+    const shares = document.createElement("div");
+    shares.className = "heat-subtitle";
+    shares.textContent = `${formatNumber(item.shares)} 股`;
+    numbers.appendChild(shares);
+
+    row.append(main,numbers);
+    const open = () => item.code && openStockFromList(item.code);
+    row.addEventListener("click",open);
+    row.addEventListener("keydown",event => {
+      if(event.key === "Enter" || event.key === " "){
+        event.preventDefault();
+        open();
+      }
+    });
+    list.appendChild(row);
+  });
+
+  toggle.classList.toggle("hidden",holders.length <= 5);
+  toggle.textContent = stockEtfOwnershipExpanded
+    ? "收起，只看前 5 檔"
+    : `查看全部 ${holders.length} 檔持有 ETF`;
+  toggle.setAttribute("aria-expanded",String(stockEtfOwnershipExpanded));
+
+}
+
+
+document
+  .getElementById("stockEtfOwnershipToggle")
+  ?.addEventListener("click",() => {
+    stockEtfOwnershipExpanded = !stockEtfOwnershipExpanded;
+    renderStockEtfOwnership(currentStockCode);
+  });
+
+
 function showStock(row){
 
   const v =
@@ -6526,6 +6650,7 @@ function showStock(row){
     String(v.code || "").trim();
 
   etfHoldingExpanded = false;
+  stockEtfOwnershipExpanded = false;
   etfDetailNewsStart = 0;
   stockDetailNews = [];
   stockDetailNewsStart = 0;
@@ -6615,6 +6740,8 @@ function showStock(row){
     );
 
   renderActiveEtfDetail(currentStockCode);
+  renderCompanyProfile(currentStockCode);
+  renderStockEtfOwnership(currentStockCode);
   loadStockRelatedNews(currentStockCode);
 
 }
