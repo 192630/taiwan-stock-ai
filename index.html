@@ -1361,6 +1361,25 @@ header h1{
   text-align:left;
 }
 
+.site-title-button{
+  margin:0;
+  padding:0;
+  border:0;
+  border-radius:0;
+  background:transparent;
+  color:inherit;
+  font:inherit;
+  font-weight:inherit;
+  text-align:left;
+  cursor:pointer;
+  -webkit-tap-highlight-color:transparent;
+}
+
+.site-title-button:focus-visible{
+  outline:2px solid #b95649;
+  outline-offset:4px;
+}
+
 header p{
   color:#626a72;
 }
@@ -1685,7 +1704,7 @@ footer{
     <span></span><span></span><span></span>
   </button>
   <div class="site-brand">
-    <h1>📈 台股 AI 研究站</h1>
+    <h1><button id="homeBrand" class="site-title-button" type="button" aria-label="返回首頁">📈 台股 AI 研究站</button></h1>
     <p>TWSE 自動資料更新・量價與法人籌碼研究</p>
   </div>
 </header>
@@ -2606,6 +2625,13 @@ document
     button.addEventListener("click",() => {
       showPage(button.dataset.page);
     });
+  });
+
+
+document
+  .getElementById("homeBrand")
+  ?.addEventListener("click",() => {
+    showPage("home");
   });
 
 
