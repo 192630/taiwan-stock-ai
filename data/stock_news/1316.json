@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-20T07:48:58.738048+08:00",
+  "updated_at": "2026-09-20T21:32:47.369338+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1316",
   "name": "上曜",
-  "count": 6,
+  "count": 7,
   "news": [
+    {
+      "title": "1316 上曜- 央行鬆綁，明天噴噴- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oV1FQVG1YNGZSaHZ4Tk43S2xxMXR0Z1lVdkxVdm95RzBNVEpIaGVSYk92LXJuRl9GWHkzcnF6eWl5QWhXMjFWUzVXX3JISHdyRml3ZVg3eXc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-17T09:56:27+00:00"
+    },
     {
       "title": "Sun Yad Construction Co., Ltd.的Enterprise value to EBIT forward – TWSE:1316",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQlViWTRDcTNqclZzajFySnhlVmlOS25SbzFLcGY1Q0lUbkxseW95MHFrWmxNZDEzelBmZ25RQUtma3pPamVmX25RcF9mWXpXTTluSk1icldzaU9uelB0SzFVMVk1OFhNWUlQUklBWFZVVDdNRjdqdG5vUU45ZlhsOHNnWU80S2VIZ2JxWUtEbERyaGZCcUs5NHhHNG9aUjFlcGxLMjRLSQ?oc=5",
       "source": "TradingView",
       "published_at": "2026-09-15T06:59:17+00:00"
+    },
+    {
+      "title": "1316 上曜 - 大家都去買世紀！誰買下藥⋯⋯ - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yeU1GSWxTaWczZnB1YkNXQWdUeWlZWDJmNS1HSWQtMGdMX3I2bE9wcWJqeW5jSTltM3NEa3lNUDNjeXJmbVJBd2dtMVFnM1JRWEJXSWgxRmo?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-09T02:38:56+00:00"
     },
     {
       "title": "上曜建設開發股份有限公司",
@@ -20,26 +32,20 @@
     {
       "title": "1316 上曜- 填權息行情、好公司大家要- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1OS1E0RTNrRVpvN0NTVHIzRXY2QkdfaE9fQVpDTFA4S09RQUNRN3U2dUh0MldlU1ZNR01Va1NVZWxCbERiZUFvRGViUnoxT2ZKSENCbTdoLTY?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-08-27T07:00:00+00:00"
     },
     {
       "title": "1316 上曜 - 加油呀～別在讓我吐回去 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jQmVidGdfWW5ITnZLdV8xazBwQnM1TmpadGFKWEU1Ti1WU3VFTDhmd0YxVzVHaVd6YW5TcmpvUUlkRUFoMnlVRUtaM1ZQa1FuY3JsblFvOXM?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-08-27T01:49:38+00:00"
     },
     {
       "title": "【26Q2財報公告】上曜(1316) Q2 營收20.8801億元，創歷史新高，季增10.05%、年成長120.07%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaDlaTHFERi1McHBoTmFVekFGN05ZTU11b01nY1FIazVCZFNpWXc0Yi1XSEVyWHcxdVlaemU1Z0NRdUh5TUFpWGtwbW0tVC1IdmZOM3NSbGpDTEx1MXNkazJMckFzbDlLOC1sb3VidHU4dDRKX1NGNmtpWnVNZ0w5WnlNNDdBajFhM2c?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-08-25T07:00:00+00:00"
-    },
-    {
-      "title": "【11:16 即時新聞】上曜(1316)股價走強逾5%，受惠臺南房市與九份子重劃區題材加持＋營收連月高成長、法人與主力買盤支撐",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQazBXZnBhRmc3alJXTkt1MDZxREU0ZmcyNGtzeEdLcEZWbkVHRGF5T250cDc4ejVBOC1OdnROTk9WTmctNWlUano2X2lRTm82LWZxTjhkWUhTZzVIcXdYMlZydmxFOUp3TzFic1QzcE5ha2s0dlBqS0dtNTNXZ1lqSWNkV04yV3JxVFN6X0lR?oc=5",
-      "source": "cmnews.com.tw",
-      "published_at": "2026-08-21T07:00:00+00:00"
     }
   ]
 }

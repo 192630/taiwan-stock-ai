@@ -1,20 +1,14 @@
 {
-  "updated_at": "2026-09-20T07:48:54.941554+08:00",
+  "updated_at": "2026-09-20T21:32:43.800838+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1308",
   "name": "亞聚",
   "count": 8,
   "news": [
     {
-      "title": "1304 台聚- 中華信評：台聚、亞聚維持信用觀察負向狀態- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDa2ZzZkd6MjBuY3lwVDQ1RmVEWTVCMkxXSVJoTGZSckxRZl9Bd1ZyV25uQkpRLUM1NEYwWm1NS2JaMjFvbW42Nkg1cUxuTVRlU3h3dTBHd0c?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-15T02:52:57+00:00"
-    },
-    {
       "title": "【13:24 即時新聞】亞聚(1308)股價上漲4.24%至14.75元，受8月營收年月雙增與EVA、LDPE拉貨題材激勵＋外資買盤回補、中期多方格局延續",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53LThKWUk5UFZhbUdUdlhxb0lTVkVkeF8wM012M0JMUUZwWmYwakhMWFM4dUlxY0VkbWRHNlNGMUZVNTlzb2VUYVVVSVp6VXF3MjItNTBqNUo?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-09T05:25:10+00:00"
     },
     {
@@ -26,19 +20,25 @@
     {
       "title": "【13:22 即時新聞】亞聚(1308)股價小幅走強，受塑化族群題材帶動＋短線結構低檔反彈測試壓力",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVkJFbmlkcGZyOUpJSHFCTVFBVnZEVGNaeDRtMHYxcFBPQlN2b1A0M2VXMEZDd0lBTC1vRUpHaC04cDFvNWFGcDBHVzl2LUN0blVJTDRVZTBWQngzdDZMM1pXNXl1UDkxRUhPZVJUN2ZnMUJ3WUFBRGg0ZVlxdEpCS0kydldicmJmTHZYeElR?oc=5",
-      "source": "cmnews.com.tw",
-      "published_at": "2026-09-08T05:23:17+00:00"
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
       "title": "【11:53 即時新聞】亞聚(1308)股價上漲3.61%至14.35元，受塑化族群資金迴流帶動＋月線支撐與法人、中實戶同步偏多",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU0F2bm1vTzhkTTZLUF94Z3VwNTAwZDd1ZDRyS2wybGFEX2hvM3JuOEFSQ1hzTlN5T2ZuZFlZWmNCMEM5Z1dNYnJVeXZlWTdyOWFtUWE4ZDNuOHdBQTg5NmtVbDN2NTl6LVQ5dHpfMDJSUnVXX3pKbHN3Y3hNOURNajF5VVlWUUFockZGb0R3?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-08-31T07:00:00+00:00"
+    },
+    {
+      "title": "亞聚終結10季虧損 台聚集團靠「少賣」先救獲利",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOMEFRVEFkWlZ4VHJ2VUlaSXdyOEZqaExxTDcyM0R1X01GdzN3REg1bF9JY1JVbzZsa1VVTXk3bmUyZkxkTkZ2bjR0ekMtYy14UnFiZUZzdHlXWHEySHptc285MHFNRjdWV1dGcjh0MjB3WXJBRjgzc2FSR3dqTlVndy0zcnR1d05zQktLN3dmeEFoVWdCeGkwTWtlcUtSSmlwYlB4TUVZSnRDMlo2aFJxbHVrTGROWkJ2a1A0c2hyeE82RWYwMWZxVk5CNXVRNG5Nd2gwbkphTWtjVmtOOU5iQjZ5N25XU1VyRHU5bkszOWZJNmZCMkRON1NLa0h0ZFhDdnY3YkkzdlBmUUlRWlNHa0lGbzZoclU2TEFZRXNvNXhYV0hYYTFNaV9OQ2E4SlpIU1E?oc=5",
+      "source": "tw.news.yahoo.com",
+      "published_at": "2026-08-28T07:00:00+00:00"
     },
     {
       "title": "1304 台聚- 台聚集團高值化轉型拚突圍亞聚、台達化、華夏強攻差異化產品- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBMZ2ZjSGtDWkt2dmhKMnk3YlNJNUZyQkVxVnpiU05hQWtWS3hYazNrN0prRExua3ZJNlVYYzBQVEFHMDZYMnZGVW9IN2VqdGFVb280VmdDNV8?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-08-28T07:00:00+00:00"
     },
     {
@@ -48,10 +48,10 @@
       "published_at": "2026-08-27T07:00:00+00:00"
     },
     {
-      "title": "【12:00 即時新聞】亞聚(1308)股價走強漲逾4%，受塑化族群補漲與原油石化報價回升帶動＋外資與主力近期低檔回補增添技術反彈空間",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50QTg5a0hyeXpjNXEzcEpGYklrZ1EtTlNoUHpoOEdlbFF3SGRNUXhnWDI1Wm9ySUJhQXRIQzRva2hXcDczQVhlUTZsZmpiUmNfRHZBUmwzUzRPMGVQMUU5Rnk3TE5jcHM?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-08-21T07:00:00+00:00"
+      "title": "《塑膠股》亞聚Q2轉盈Q3聚焦光伏回溫、EVA買氣- 上市櫃",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1WVd4eGZnQ3RJRmxuVTIyT2dsZmNzODA4ZHRXRGxjTjRuVXk4dktEZERtdFl3cW5YZUtkRnJEVENWZE5CWnlOWlBqT3MxV19WSHhqMC1CZTJGZHFBWjlwWHEwWEVqd1Y0cUE?oc=5",
+      "source": "旺得富理財網",
+      "published_at": "2026-08-27T07:00:00+00:00"
     }
   ]
 }

@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-20T07:49:02.601640+08:00",
+  "updated_at": "2026-09-20T21:32:51.132363+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1337",
   "name": "再生-KY",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【2026/08月營收公告】再生-KY(1337) 八月營收年增15.92％",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZZmdUaDhuMExtaWNTb1djZUF0dnJBaUh6REp2QzBmZ0hIRkNrRUpfRFhsWll1ZUhYZmY4T3NZWTJtTWZRT2hRdjQ5cVlDZllYS1RlLXQ1Qk42bk9XYTJvRzFqQWlzdw?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    }
+  ]
 }

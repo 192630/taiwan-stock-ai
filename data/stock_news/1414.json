@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-20T08:40:24.678986+08:00",
+  "updated_at": "2026-09-20T21:32:56.048139+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1414",
   "name": "東和",
-  "count": 5,
+  "count": 4,
   "news": [
     {
       "title": "東和鋼鐵擁科技業建廠需求，鋼構產能滿載",
@@ -20,19 +20,13 @@
     {
       "title": "東和鋼鐵重返美國市場，添成長動能",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zSTZmQ2pqOE9wVFM4TFhlMFhFTkdVR3MzYXBxaGRHQ29SWXZVZWFVSTNudkxlS0Y4TTZtZkpCSHprTzNSNXFtMUctdWdtWGVZbm1QSm1YWHg?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-17T02:19:24+00:00"
-    },
-    {
-      "title": "泰國女排40年首闖奧運！政府豪發1414萬 總理按1鍵「秒入帳」球員樂翻",
-      "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPanZPN0YxX0ZKTVY2M2h6eXRia2VyOUN6anZsNUI3WXBadEVNNVJubW5DWlRocVZVYkZzbWZTU1N4b0ZIbHZNQWVVYi1GUkxIYlZLZzh1VVIzZGo5YlZBR2FUVU1ReEpQemRRNUZ2SV82bHRacnp0OXo5aUdBYzk3RDllS3Jzb3prX0F6RFB2ejB0WFdfVlVEaUF1dTNqLXZ1cldvYWZERUZPV0doYlJUQm5XZzcxSVlTbDRvc0YtT09sb2tyOHNjdmJOcEdicVlBeGxxbHN4OTIwbGlSSi1sYnRaeTNKcC05Z0xMajJHaGlWUHBkdzluNXRULTBkOHR2RVZrVHZfRjNrcDd4SjhiWHItUF9vWDczb1d2TFFTVkxiYnJzVkkxWWhSNXlIM3Y0UDE5emsybFhFLXFVVUxVUVVWeFNEcHBmRmhOb3NxemVGNjlaeUc5VzUxd2dVYUp4ZFlaRW9ZbGRjNnlsWnJWZk16VU1tWkgzYmdDT0pRcE9mX29CS2hUU2J3QlpQdTEtQVpVWWdKdVFXbWR3bDFHMjEwMS1WQQ?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-04T07:00:00+00:00"
     },
     {
       "title": "2006 東和鋼鐵- 🚨 主力加碼卡位？昨日主動式ETF 加碼這檔！ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92Z3N0eWdubXdRTEJ5NHRYRGlFZFFhakJjdHljSXZJNGJGUnVIdWNnSlRYMDRZNzFMdnI4QjNRaVdWM0hOdG9fTGd1ZlRCemlNNU5ZUkRfaGY?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-02T07:00:00+00:00"
     }
   ]

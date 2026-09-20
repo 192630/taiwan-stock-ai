@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-09-20T07:48:49.150880+08:00",
+  "updated_at": "2026-09-20T21:32:38.246453+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1232",
   "name": "大統益",
-  "count": 1,
-  "news": [
-    {
-      "title": "大統益：美國需求支撐黃豆價格有利產品售價| 產經",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qUDhfWXpROHZ6Qzh1SVZrOXk5T0VNVDlzbDI1UnRKZWgwVThSNl9YRkUyRVBhNHZueHFDX2JKVWYySEZKdmJ0YkwxNEtGZUoxclIzX2ZDU0Q0TWNqbEE?oc=5",
-      "source": "中央社 CNA",
-      "published_at": "2026-09-11T09:44:00+00:00"
-    }
-  ]
+  "count": 0,
+  "news": []
 }

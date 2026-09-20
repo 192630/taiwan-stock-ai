@@ -1,44 +1,56 @@
 {
-  "updated_at": "2026-09-20T08:40:22.575028+08:00",
+  "updated_at": "2026-09-20T21:32:54.095406+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1402",
   "name": "遠東新",
   "count": 12,
   "news": [
     {
+      "title": "遠東新(1402) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QM29yWFZRbUhIcW1CbGVmaVBBZ2Q0U3JVOUd5TnFqSXdJQU1kOVhyV2tSSkJXZTJnXzROeXVVaFl5bDlpQU4yZ1dMVXNjT2tZSHYw?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-19T13:10:01+00:00"
+    },
+    {
       "title": "遠東新活化資產 估賺3.3億",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53QWh5VW9vczBCUW15cjlwd0pIY014MVFwYzBaSmJSNFpFRldOZXJtV2doak8xdmxVYjlJdUs2M1VKc3RxQTNIXzVPOXJXbnZyRHY0WmhmYjdNaUdlRHpN0gFfQVVfeXFMTndBaHlVb29zMEJRbXlyOXB3SkhjTXgxUXBjMFpKYlI0WkVGV05lcm1XZ2hqTzF2bFViOUl1SzYzVUpzdHFBM0hfNU85cldudnJEdjRaaGZiN01pR2VEek0?oc=5",
-      "source": "經濟日報",
+      "source": "money.udn.com",
       "published_at": "2026-09-18T15:05:46+00:00"
+    },
+    {
+      "title": "百貨不再只拚坪效 徐國安拿大巨蛋試驗遠東新零售",
+      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOaFNOTmJuTkhKRmlSU2lQOC1JWEh1VTFWakMyNGo5dFNnVnY2Z29oU3ZvVkxoN1hFRWZjbTBETGZyMFY5MEJzRWVneGNtOTJoRHZyWl95amJKQklBck9aTDJHX0V1Q0h1MWtoNC1YYm55Q1plVEs0d2tkai1JTkJZLTZnM0JWOG1SSkdObzB2VjVEY2NwNzJwblB1Ymh6Q1A4em5qNERhZVhmMmFweFdtYnA2c1dUbEQ0ejhFa3F3Y0RHc240QjZsX1NXaWVCeHVnbTZaazhHTGNrbUx1cXJVV0ZmaGw2cjZBQ1lvSVBiM3dYX2d6Q19vUm9OZmUtRTZnUTFiWHFkZS1qakR6X3hkR1BmMENkLWEwd3dwZ2xHTkVab01SQmkyMnd2d1hFU1E3U3JGX2F0bFh0aGJzTzl2UUlnOVFaUVNKaVZmNWhNQ3ItODgyXzI0MXhMYzg?oc=5",
+      "source": "tw.news.yahoo.com",
+      "published_at": "2026-09-16T07:49:15+00:00"
     },
     {
       "title": "1402 遠東新 - 【遠東新(1402)盤後解析】法人持續調節，股價弱勢探底 ... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJVmlGWG9tcUhHdnExb2NIendicjRQdGtKdlZFMVlad2FNUFB4WGo4U0pyNGtpLXU2cks1cFVJSW5hTnI2T3dmdHFXTUh4UXJHeGQyYnI4OXA?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-15T12:10:26+00:00"
     },
     {
       "title": "1402 遠東新- 一直跌一直買- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hcGdiY1ZHYmZKczR6elJHOGFCQkRYV1Jmb1I5RXBaMkR2aWh5eUhYRWdHTGs1dE5iRTduZTlkTjdpQk5JWTZLTFFJNlJGNG1xOXhaQjV3Z0E?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-15T05:39:09+00:00"
     },
     {
       "title": "1402 遠東新 - 【遠東新(1402)盤後解析】外資投信對作，股價平盤震盪 ... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jUEx5SUZxUDNJYS1ZblBlMVFFNUpxUzFTTndBMWRuX3lSQUZGNC1lZnkwOHkwYTZtWkNWYmUyT3BNZU9IU3dZNjQwUzU5X09lNjZLR1hmUVE?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-11T12:10:19+00:00"
+      "source": "CMoney",
+      "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
       "title": "1402 遠東新 - 【遠東新(1402)盤後解析】外資買投信倒，量縮橫盤整理 ... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nbGVSRlF2OHJDT1FxbHRTWDljaXRfSGxDSzI1eHd6WjhfRzMzOUJYZ0c2OUdNSWx5RmtUN1pBaWVPbUQ0WjRZQW5idzExUEdaN1M5eG5uWWs?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-08T12:10:29+00:00"
     },
     {
       "title": "1402 遠東新 - 【遠東新(1402)盤後解析】法人主力同站賣方，價跌量增 ... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOVm5COXR1RXBqMzVpNFVRZ2w2cHdzbDRoQUw4azdXT29wNURZV1BKdzFmOGUxV0FCQmkxUF9Vb1ZiZllrZGM5U2pBT3VPbjZQdlFHUExtNzI?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
@@ -49,33 +61,21 @@
     },
     {
       "title": "遠東新股價打67折！投信狂掃、大戶鎖碼，轉投資市值超越本體、H1獲利飆74%！",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82X3BSY3FJSTZ6NXM5ekZZVURwTWZpeGo4dXhwRURJMFRmNVJPcDItTHZyY01PQjdpcllRT184WDNlcjBxOUZ1YXYtQVFHQndiZzVRcmZmZ2RLWFdHOF91eGx1M09QRjdpNWdSOXZPQQ?oc=5",
-      "source": "理財周刊",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tVW94Y0sya0RoeUMxMEVEaFltZS1pWjQxZWVWbngtSGY5cVFDY2pIRmVScHdaRTNRb2NCcU95bGR3MWh4cnNxNXNzMHhOdTQtdEE?oc=5",
+      "source": "蕃新聞",
       "published_at": "2026-09-04T07:00:00+00:00"
     },
     {
       "title": "1402 遠東新 - 我看見N大哥了... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnNVI1bW02VldyM2tVZWtWclJCZndhU1RzY0JaRy1ZNmNHRjF6VkIzRl9LOEdxRWd4b1VENDdVRzBScjlTY3B3dmxkSTJ4WWU2aHNKTjJFd2k?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-04T03:05:47+00:00"
     },
     {
       "title": "1402 遠東新 - 【遠東新(1402)盤後解析】投信大買撐盤，多空對峙 今天... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBEaUEwenJ3aHFwb1hxdlppSERYTTJSVUhkbDgwLXJCNVlPM0k3RE4wak1mWXdvU2xIVXhIaDB6Mk5ORU9LSC1nWEdUVTVXdzd6aXVkUlpfMWE?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-03T12:20:26+00:00"
-    },
-    {
-      "title": "1402 遠東新- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiVGw1RkprMzNMVmhzNF9mc1Z0UFFNMmttaUdNeWJZcUpTallzMG1rVjU5eE9Wd1BtLVBiVEU2VnlwSjg1ZkktYTV3OXdsX1NvWnRmbmxxdmo?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-08-31T14:17:53+00:00"
-    },
-    {
-      "title": "EPS飆74%！遠東新全年獲利拚破百億",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNU1VJLUl0NExIWV9jSTQ1bGtfd3I0NlVJcnprN091cFd1aWgtZkN3T0ZZWE50c1lPVmpTRVhUeTFJczcxSHNRM1V2bnliYTRUM0RPRi1EdzB3cnJuM3lDWnVpZExyX2x6QVdQLUx5MDREd25fT0NSbnc4ejJfS1lYNXQ2eHJaM0hqaTItay1pSllvRExVRTVpaXZHUkMzZHpUbmVWLThHSUNheUFBZVhSek82SVc4UUc2U2JHeDFpOW5yTC1OZVZQeHBPWDVzQnVxZWJsZklIVXlxUlEyaHJCVEZtUWFlRnlBMTE5cnR2RlZGRlk?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-08-26T07:00:00+00:00"
     }
   ]
 }

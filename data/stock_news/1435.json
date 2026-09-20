@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-20T08:40:28.686992+08:00",
+  "updated_at": "2026-09-20T21:32:59.704571+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1435",
   "name": "中福",
-  "count": 1,
+  "count": 3,
   "news": [
     {
       "title": "中福(1435)-同學風向與貼文摘要 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBURTBJaFc4UGllUUxBbFhMaTYwcC1nWXZ2Q0lpbVJNT0piSm1OT01xUFVNVFJYalB4ckVRdVpISnlyRlRfQllxaGhYbjNqdGNkVlJsRS1keGRpdnNuUDNxZnB3?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-09T11:46:37+00:00"
+    },
+    {
+      "title": "【11:43 即時新聞】雙鴻(3324)股價上漲至1435元、漲幅4.36%，AI水冷散熱訂單與營收創高加持＋多頭技術結構配合法人及主力資金偏多",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHaVBWT1lzNzdvbDZsVldrQ1NHVWQ3Z0Rrb3U3ZHg5YnZrbHVxVjVrVUZNdWhwclpGRy1rZ0EyU1RSRTZCM3hEMmVVYWJ2VVN3MlJzaHhXNnVDdldPR3g2U3NOYV9ISm8?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-02T07:00:00+00:00"
+    },
+    {
+      "title": "1435 中福 - 國巨無腦買起來哲哲上看2000！ 聰明錢開始找低基期生技股：... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52aVlqMFY1WTl5NkY3RXFuaHRFel9JcGFlaEd2Y0dfUEpRTExEWUpSQkdMVndlVHo1cjhoX1R4bmJ2RV9xUjBJV0trbWJ3V3JIOVpfTTViYXg?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-08-22T07:00:00+00:00"
     }
   ]
 }

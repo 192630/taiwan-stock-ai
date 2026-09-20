@@ -1,31 +1,19 @@
 {
-  "updated_at": "2026-09-20T07:48:50.585912+08:00",
+  "updated_at": "2026-09-20T21:32:39.655923+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1235",
   "name": "興泰",
-  "count": 4,
+  "count": 2,
   "news": [
-    {
-      "title": "上季出貨量達1235萬公噸！美大豆出口協會證實北京履行採購承諾- 國際",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94RXQ5bF9wNU1GN01hYVAxUUhEM3NEa3VJTVJSS3VrcklWQjV6eU5QZHVLRUhVNkxPNzRzWlBCM2NfU3dyaDMwaHBuNFlVc2phQ0JUQXRmRThaak1zb3o4?oc=5",
-      "source": "工商時報",
-      "published_at": "2026-09-11T05:26:00+00:00"
-    },
-    {
-      "title": "《集中市場券商買超比前30名 3-1》興泰(66.67)、宜新(31.81)",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbGRtVVB5WlN2NHJFUEdVdG4xUWxBU0l2UG1ETkstSkVqQVB1Q21jc3plWXpkaXBFRmluQWFVRFY5Y2Z2M3Q1WU1XaFBfajhYRXdQNzA0SC10VHoxU3dTOVFkZnM5N1dJOTE0MFlLVHYwX2VsYU00MWRVZ3piMkZtZXAtV1BfU0dt?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-03T23:32:00+00:00"
-    },
     {
       "title": "【11:05 即時新聞】高力(8996)股價上漲5.11%至1235元，AI水冷與燃料電池成長題材發酵＋千金股結構轉強吸引買盤迴流",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHVnpsZm5kclZMZngwdmxKZ1lOeFhQbmZ5bUZsZXhxekMzM0dHNnVkUDNmWWtCTHg1V2pLRE4wNy13Wmd3VDNTWDVaWmUtQUl1R1JNRVIydnk1MkJiZlloUU80eEJEOGM?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-02T07:00:00+00:00"
     },
     {
       "title": "中行半年盈利增5.1%至1235億人幣- 財經",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01M05JUDNfSjVwQWNERTNXYnU4ZjM1UDlPaC1RUV9tUWlDcXkwVVJJLWpiWk9uR2NBZFlmMEVCYjJmVWxYb0c5RFhENGcwSzl6ck82TTBjM3RoYllCUm9HRzBabkQ3R3ZkcnFxNVRaZmd5U29vZ3p3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxRU02WHRzdE8zMXFEcGl5c184QTQySnV5OVFHUWMySzRackZHVi1kZllNQW5ySkVrUE5vQ2ZGbDd3SFlEeDZ3SUJGTkYzY0xBU1pGSEJaVVB3RmFXaHE3N2NqaVB5VVJUUGk1REZXNUdRTFZiVkUw?oc=5",
       "source": "香港文匯報",
       "published_at": "2026-08-28T07:00:00+00:00"
     }

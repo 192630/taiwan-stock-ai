@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-09-20T08:40:26.681706+08:00",
+  "updated_at": "2026-09-20T21:32:57.877481+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1419",
   "name": "新紡",
-  "count": 1,
-  "news": [
-    {
-      "title": "新紡雙引擎 衝刺營運",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkNWY5WlB3TEZ2Z1RWVXhJVW1mRnZBdzlLdmJfbDRpY0NJaDV0eVMxNzgxWWtzU3BLRnVONDM4Zms3M2NBM0Q0MERybThHYTF60gFWQVVfeXFMUGo3dWZzNUxSQVA4OVBDd2w3Mi04ZWxHdEZMbV9kZ0ZCYkdrTUJHY0dLWTc5T25ObkViREVMc2JSMTB4cHlDVVYyeS1NYnNTSHlYWFh2SVE?oc=5",
-      "source": "udn.com",
-      "published_at": "2026-09-15T15:56:03+00:00"
-    }
-  ]
+  "count": 0,
+  "news": []
 }

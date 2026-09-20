@@ -1,10 +1,28 @@
 {
-  "updated_at": "2026-09-20T07:48:48.229498+08:00",
+  "updated_at": "2026-09-20T21:32:37.391551+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1229",
   "name": "聯華",
-  "count": 10,
+  "count": 12,
   "news": [
+    {
+      "title": "1231 聯華食 - 漂亮 ，週末假期愉快。 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4bmh3czZ4S3ZlS1FFLTVCU3YwY2tndndrZGV2bDFuZGZwa09UdGZNVUhCNlpNWUh1ZUNaSUVWcFlVLWtmWXFRUzUtR244LWtLcEVTZGJwcmM?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-18T05:36:45+00:00"
+    },
+    {
+      "title": "聯華食品總經理林家齊退休 扶兆民暫代",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EWHZ5YmlPdl9aandzN2djZmFaTkpBZXlGdW9VeFhDVHNkZkVhM212ME9YN0JJdFVXNUFybFlSWm5DRHhNVFZSS3B5Q0c5Z0pNSGw1NXpveHU?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-17T21:35:55+00:00"
+    },
+    {
+      "title": "聯華 115年8月營收8.84億、年減13.13%",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFYUo5NTZ0WVpwa25fb0MxbW5YVDZyd0pjaTdjY1pTbXFLSEFzSE45OGhMeUI1ektVTm5MSWRzdnpVc1hqRjc5N1l0TGNGX3FmRkFoWFlBVWk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-10T07:00:00+00:00"
+    },
     {
       "title": "《股市行事曆3-1》聯華(1229)增資股上市、三地(1438)除息",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTFVZWUl3M1lPaXBpeC1ld3dWOWlQMVBxZVJXVHM4cEFUa0JxRTR3N0FabFFxbVRfb19fMF9MNnJFN1BOYmwtVzV2VUNwZDRodVAtOHV3eGg0MnBaVXYwUEFKRFpkdHNOZGdDaG9CQzdFUFQ5Mng5dUpLY1RCX0htUW1YV3lwLWVr?oc=5",
@@ -14,20 +32,26 @@
     {
       "title": "1229 聯華- 🚨 主力加碼卡位？昨日主動式ETF 加碼這檔！ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LbVI4UUdmTzFRX2lHa0d3Q2hIVnJZS1hlN0d0dXVkNzdPNDJLTGJOdGZPbEFjcnZmZkV3RkNfb0hRU2ZRcloyVm1sdmhfeTVnU3dheWFEVDY?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-07T12:21:42+00:00"
+    },
+    {
+      "title": "1229 聯華- 這檔在六年前開始存股時是心頭好，從40建倉一路到60都曾經加... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2c1J1a1l4X0RXdWxMX3lmNXhuNERMdmhqbVY3WnlRLVRmdHgySDFHbjBLdWl6Smg4WkRtWDhYSjJ1STBfMUpUMXNZcElqSy1nNWxfWnBxN1U?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-04T07:00:00+00:00"
     },
     {
       "title": "聯華電子八月營收驚人增長30.7%，創新高！-CMoney 研究員",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOF9FQ3VLVVpaZUZpTHZMYzNjOHNVN21Tb3BMdkhaNXotSERSM3ZxUTdBUDdHSWx1b2x1UjM1ZTFDa2hVMXdxUExVZzJ2RlEtdTJFUVVaeTY4RncyOXZlQ1lOR3BtaWt6TzVLZFlPVVV4dzVxSHhfVmZqN3k4X2plN1cwR0gwV2l3MDE5NEtB?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-04T07:00:00+00:00"
     },
     {
-      "title": "1231 聯華食 - 站上 5日均線 ，轉折時間到了 。 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZS3dpVTlLN3N3eHM5cEZ1WU56SXkwblZlWUNZbUl1Q3JUd2p2YldSMDhJalQwWXI5MWhfTDNNbzZob2V3d29VTi1KYjY2R2t0TnVuUUM1ek8?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-03T07:00:00+00:00"
+      "title": "1229 聯華 - 賣了那麼多 終於肯買回了嗎 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uMWpFWENOOG95S3g0cGpRNUxzZ1QydGVrQzJxRzFWeWozU0FudThOdm1QZHpqdzFwNmNCRUV5X1MyOFR5YndBQnVPMDFZX3VWZ255LS00Wm0?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-03T07:52:43+00:00"
     },
     {
       "title": "聯華電子股價今日為何下滑？ 作者 Investing.com",
@@ -50,20 +74,8 @@
     {
       "title": "【00991A】09/01 操作日報｜經理人啟動換手，聯華電子新入列",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42VDdYNXFSRVNfY3FDYTVoMGE3UnpXMzhuQmxya3NlZ2l5TTYxTXhsR2I2U0RNRUctc3d2TnVYOXpuaEl3eXlHZFpfWWJfOWFOamk3eU15bEhMOFVLOEpBbXFuMlZGN2I0WVhEcGdxdWYxdXctaERfdTFfQTB4QQ?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-01T07:00:00+00:00"
-    },
-    {
-      "title": "普渡概念股聯華食、黑松成本承壓，為何統一（1216）能屹立不搖？靠通路打出一片天",
-      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOc2E4ZjBuaWNZbFBVVVJ1b282NUFFYXBseGRMcUFtUnRkV1RzVFNvUzRPM2locjNiLUVJQ0FvZURlb2pRZEZiejJQVWNreDRNd0hQMnowSEEtWTByTFkyV2gxcHBTYVNJUmpHcUd4ZG9PbERIRGdDendDSGFZUUxYNnlRaXo4UW0zLW80Yk5VU1RXMlpNSmJUbERnam96SDVpcFkwWHY1MjZ1dF94enhhWDVTX0NOTzk3T0VWU2VtVTNuZndVTUxxYUVlcWhlY0V4cVQ4VW9YdlJiZkpMbUdfTHZkS1dFWmlDcVdnVUlVZ0thdm5aYURqZVFsVUZZQ2otaXlWMm9YNDlBa2dtUDFXaklLT01YbTlwNWI1U0RMekdjUzR3SFRHSXp0QjdYaGFVWXJjX1NiQ3FfVm0xMEZfQlMwZ3FQMVIyNDR4VTkyLWhaUGFuX3NmLXJqMVkzd0l6cWdqd2pVT0psY3ZoWFE?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-08-27T07:00:00+00:00"
-    },
-    {
-      "title": "1231 聯華食 - 盤整小跌 ，慢慢收歛 ，慢慢的等 。 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fMExwanJwaWZST1d4UjdwbjR4X1J2bjV4LU9IQ0VDQ3JZcWNJNTRtNC1Pd3RMeXBtZEREeUlwRTlydk00blR6ZklKaHlISVZDd095UzRxN2s?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-08-27T07:00:00+00:00"
     }
   ]
 }

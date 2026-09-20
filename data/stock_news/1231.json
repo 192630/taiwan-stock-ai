@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-20T07:48:48.687593+08:00",
+  "updated_at": "2026-09-20T21:32:37.827725+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1231",
   "name": "聯華食",
-  "count": 4,
+  "count": 5,
   "news": [
     {
-      "title": "1231 聯華食 - 站上 5日均線 ，轉折時間到了 。 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZS3dpVTlLN3N3eHM5cEZ1WU56SXkwblZlWUNZbUl1Q3JUd2p2YldSMDhJalQwWXI5MWhfTDNNbzZob2V3d29VTi1KYjY2R2t0TnVuUUM1ek8?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-03T07:00:00+00:00"
+      "title": "1231 聯華食 - 漂亮 ，週末假期愉快。 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4bmh3czZ4S3ZlS1FFLTVCU3YwY2tndndrZGV2bDFuZGZwa09UdGZNVUhCNlpNWUh1ZUNaSUVWcFlVLWtmWXFRUzUtR244LWtLcEVTZGJwcmM?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-18T05:36:45+00:00"
+    },
+    {
+      "title": "聯華食品總經理林家齊退休 扶兆民暫代",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EWHZ5YmlPdl9aandzN2djZmFaTkpBZXlGdW9VeFhDVHNkZkVhM212ME9YN0JJdFVXNUFybFlSWm5DRHhNVFZSS3B5Q0c5Z0pNSGw1NXpveHU?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-17T21:35:55+00:00"
     },
     {
       "title": "AI時代下，為何統一還能屹立不搖？聯華食、黑松、台鹽...4大食品股誰最賺？",
@@ -26,7 +32,7 @@
     {
       "title": "1231 聯華食 - 盤整小跌 ，慢慢收歛 ，慢慢的等 。 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fMExwanJwaWZST1d4UjdwbjR4X1J2bjV4LU9IQ0VDQ3JZcWNJNTRtNC1Pd3RMeXBtZEREeUlwRTlydk00blR6ZklKaHlISVZDd095UzRxN2s?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-08-27T07:00:00+00:00"
     }
   ]

@@ -1,26 +1,32 @@
 {
-  "updated_at": "2026-09-20T08:40:31.573007+08:00",
+  "updated_at": "2026-09-20T21:33:02.588399+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1442",
   "name": "名軒",
-  "count": 3,
+  "count": 4,
   "news": [
     {
       "title": "營收速報 - 名軒(1442)8月營收2.66億元年增率高達64.57％｜新聞快訊｜豐雲學堂",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GX1FONDBnSXZvVXNmLTBRYzZWX0lzWmhpLXlFNG1zLU1Ua09SX1VWOFdwcFNscUx4V0paUXY0Z0VTbmxBU3pkMWtfeGFmVHQ5aTNHWXA4TUJKQ2o4UmNrQzFKVVZ2eHdTZWl5RGtvRHRCVEVFV3c?oc=5",
       "source": "sinotrade.com.tw",
-      "published_at": "2026-09-07T20:50:00+00:00"
+      "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】名軒(1442) 八月營收月減年增，全年營運續看向上",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0UElPWWFPbTlYclBkcElubVdIX0I0UmlxcHRjS3BHUGRObEUwR05PN1IzNDk3OGJBNUtVYS1QUVNyRDRlbnd0anZOQzhaVkNXMkx3VjNNOFBCOHR6OGgtU1BYNWphT1U?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
       "title": "丈夫過世留價值1442萬遺產 監護人竟然想替妻「拋棄繼承」",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83cEZoaXU1eGxwV2gzVkhqNmVPNzUxUzBta0ZsLTNIdjRSRVF1WlpwYnB6M2cxZkR5R01OdmhIeHB0dEE0cG9kcWtEdzlKdWFwaDFDa1NqZDktMS1DMFhRMXBxek5ZcUUxYlpUVHpR?oc=5",
-      "source": "中時新聞網",
+      "source": "chinatimes.com",
       "published_at": "2026-09-05T07:00:00+00:00"
     },
     {
       "title": "欣興5兄弟不離不棄 尾盤爆1442張收紅",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMLWxFN1NCbWNBOTZROEtYbVRQM2pETy1aSFZfMW1QLXluZVA0QWxXLW9oZDh0aTEtTGJoNjZiaTBpQVJoX2JNMzhSRThscVBLbnA3YVBudjIwSGdz0gFiQVVfeXFMUFFMdTh3dEloNVl0dFBaenV4dWU4YXpYZjhDM0JRdXJxYXUtN3dKVUVJQkJoWmxUMjZsOTNqSklEYUpIUzJ0MkVHakJxUWNQOGxTZ1prLTl6azhudmo2WlhuT2c?oc=5",
-      "source": "鏡週刊Mirror Media",
+      "source": "mirrormedia.mg",
       "published_at": "2026-09-02T07:00:00+00:00"
     }
   ]
