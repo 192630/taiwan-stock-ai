@@ -1,0 +1,33 @@
+{
+  "updated_at": "2026-09-20T11:34:45.627181+08:00",
+  "source": "Google News RSS search by stock code and name",
+  "code": "2365",
+  "name": "昆盈",
+  "count": 4,
+  "news": [
+    {
+      "title": "KYE Systems Corp.收入明細 – TWSE:2365",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56dGlkbFM3MkZUVm0zUE12aENqNHdCMGY0RFM4ZURyVEgyTVNxNDZMN1RIMmF3QVVNMUladjU3RnJZT0xqSUVsUFhlZEZCRm5fUEp3bkVnYm9mTnEzNkdBazV0alBqT3dDc1pQVUxjaDctQ0E?oc=5",
+      "source": "tw.tradingview.com",
+      "published_at": "2026-09-15T05:58:45+00:00"
+    },
+    {
+      "title": "營收速報 - 昆盈(2365)8月營收1.11億元年增率高達35.95％｜新聞快訊｜豐雲學堂",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNSy1JOFlTZHFGYmpmMlFiNlY2YmxiVl85SUg2eFlzbjZDMXNaVVhIUFlnZzMwdTZWZ0ZlVDVJeEM5czF4eFFsWkJqc1RBMkR5TTQwUUhicU1CWEo0N3RMbjg2QjlGNDktcUtNdGtwU29NdWhKUEE?oc=5",
+      "source": "sinotrade.com.tw",
+      "published_at": "2026-09-07T09:23:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】昆盈(2365) 八月營收1.11億元，年增35.95％",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6SHdoWW43WC1IYWhFay0ycnBXSDV1TlFVN1pGWHlMTjhxb3VZYVFKTm1GUTBBSUpCdm5TNXZDdFBYeWg5ZWl5TTNVbkxyTklXTktXelpLRmpkdnM3RkR0RzN1alZ4Zw?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-07T07:10:03+00:00"
+    },
+    {
+      "title": "昆盈企業股份有限公司",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMEVkWnAwWDBiWHFlZTlYUXkyNmgxdV9xbGdaazdIUXgxbVMyYVY3Uk5Ob254NDRSLVlBUGpHVE0tOUhUVW5iUlNWRnR5VWtmbXNHeWJ1Zl9aLTV6LVpXQnM0Y21SMkFIQ25sYzVHQ3FGM2g5Vk03T2cyd0NIdGo0dDVkZER0TU9uYlNKSW9wQ19LQmxXdU5j?oc=5",
+      "source": "MoneyDJ",
+      "published_at": "2026-09-02T07:00:00+00:00"
+    }
+  ]
+}
