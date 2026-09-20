@@ -1915,6 +1915,15 @@ footer{
 .global-sector-chip,.global-exposure-chip{border:1.5px solid #81949c;border-radius:999px;padding:7px 10px;font-size:13px;font-weight:800;background:#f8faf9}
 .global-license-note{font-size:13px;color:#64748b;line-height:1.65;border-top:1px dashed #aab1b4;margin-top:16px;padding-top:12px}
 @media(max-width:520px){.global-indicator-grid{grid-template-columns:1fr}.global-risk-head{align-items:center}.global-risk-score{font-size:28px}}
+
+/* 免費公開版／站長完整預覽（暫時性前端測試，非安全會員驗證） */
+body:not(.owner-preview) [data-access="member"],
+body:not(.owner-preview) [data-access="pro"]{display:none!important}
+.owner-preview-banner{display:none;position:sticky;top:0;z-index:80;background:#4f646c;color:#fff;padding:9px 14px;font-size:13px;font-weight:800;text-align:center;box-shadow:0 2px 8px rgba(0,0,0,.14)}
+.owner-preview .owner-preview-banner{display:flex;align-items:center;justify-content:center;gap:10px}
+.owner-preview-banner button{border:1px solid rgba(255,255,255,.72);background:transparent;color:#fff;border-radius:999px;padding:5px 10px;font:inherit}
+.access-public-note{margin:14px 0;padding:12px 14px;border:1.5px dashed #8a969b;border-radius:14px;color:#56636a;font-size:13px;line-height:1.65;background:rgba(255,255,255,.6)}
+.owner-preview .access-public-only{display:none!important}
 </style>
 </head>
 
@@ -1936,6 +1945,11 @@ footer{
   </div>
 </header>
 
+<div id="ownerPreviewBanner" class="owner-preview-banner" role="status">
+  <span>🔐 站長完整預覽｜目前只有介面分級，尚不是真正會員驗證</span>
+  <button id="exitOwnerPreview" type="button">返回免費公開版</button>
+</div>
+
 <div id="menuOverlay" class="menu-overlay" aria-hidden="true"></div>
 
 <nav id="pageNav" class="page-nav" aria-label="主要分頁">
@@ -1945,13 +1959,13 @@ footer{
   <button class="nav-button active" type="button" data-page="home">🏠 首頁</button>
   <button class="nav-button" type="button" data-page="stocks">🔎 股票搜尋</button>
   <button class="nav-button" type="button" data-page="all">📋 全部股票</button>
-  <button class="nav-button" type="button" data-page="market">📊 市場排行</button>
-  <button class="nav-button" type="button" data-page="industry">🏭 產業紅綠燈</button>
+  <button class="nav-button" type="button" data-page="market" data-access="member">📊 市場排行</button>
+  <button class="nav-button" type="button" data-page="industry" data-access="member">🏭 產業紅綠燈</button>
   <button class="nav-button" type="button" data-page="global">🌍 全球連動</button>
   <button class="nav-button" type="button" data-page="watch">🧺 我的觀察 <span id="watchNavCount" class="nav-count">0</span></button>
   <button class="nav-button" type="button" data-page="etf">🔥 主動 ETF</button>
   <button class="nav-button" type="button" data-page="news">📰 市場新聞</button>
-  <button class="nav-button" type="button" data-page="quant">🧪 量化研究</button>
+  <button class="nav-button" type="button" data-page="quant" data-access="pro">🧪 量化研究</button>
   <button class="nav-button" type="button" data-page="member">👤 會員中心</button>
 </nav>
 
@@ -2353,7 +2367,7 @@ footer{
 
 <!-- 完整市場排行 -->
 
-<section class="card page-section" data-pages="market">
+<section class="card page-section" data-pages="market" data-access="member">
 
   <h2>📊 市場成交量排行</h2>
 
@@ -2380,7 +2394,7 @@ footer{
 
 <!-- 產業紅綠燈 -->
 
-<section class="card page-section" data-pages="industry">
+<section class="card page-section" data-pages="industry" data-access="member">
 
   <h2>🏭 產業紅綠燈</h2>
   <div class="heat-subtitle">依官方產業分類，計算最近交易日產業內個股等權平均漲跌幅</div>
@@ -2399,13 +2413,13 @@ footer{
 <nav class="etf-subnav page-section" data-pages="etf" aria-label="主動 ETF 子分頁">
   <button class="etf-subnav-button active" type="button" data-etf-subpage="summary">🧠 每日摘要</button>
   <button class="etf-subnav-button" type="button" data-etf-subpage="directory">📋 ETF 清單</button>
-  <button class="etf-subnav-button" type="button" data-etf-subpage="compare">🔍 ETF 比較</button>
-  <button class="etf-subnav-button" type="button" data-etf-subpage="changes">📊 每日變化</button>
-  <button class="etf-subnav-button" type="button" data-etf-subpage="holdings">🌡️ 持股權重</button>
-  <button class="etf-subnav-button" type="button" data-etf-subpage="industry">🏭 產業配置</button>
-  <button class="etf-subnav-button" type="button" data-etf-subpage="consensus">🔥 共同持有</button>
-  <button class="etf-subnav-button" type="button" data-etf-subpage="trends">📅 連續趨勢</button>
-  <button class="etf-subnav-button" type="button" data-etf-subpage="ranking">📈 強弱排行</button>
+  <button class="etf-subnav-button" type="button" data-etf-subpage="compare" data-access="member">🔍 ETF 比較</button>
+  <button class="etf-subnav-button" type="button" data-etf-subpage="changes" data-access="member">📊 每日變化</button>
+  <button class="etf-subnav-button" type="button" data-etf-subpage="holdings" data-access="member">🌡️ 持股權重</button>
+  <button class="etf-subnav-button" type="button" data-etf-subpage="industry" data-access="member">🏭 產業配置</button>
+  <button class="etf-subnav-button" type="button" data-etf-subpage="consensus" data-access="member">🔥 共同持有</button>
+  <button class="etf-subnav-button" type="button" data-etf-subpage="trends" data-access="member">📅 連續趨勢</button>
+  <button class="etf-subnav-button" type="button" data-etf-subpage="ranking" data-access="member">📈 強弱排行</button>
 </nav>
 
 <!-- 今日市場熱力 -->
@@ -2449,7 +2463,7 @@ footer{
 
 </section>
 
-<section class="card page-section" data-pages="etf" data-etf-subpage="compare">
+<section class="card page-section" data-pages="etf" data-etf-subpage="compare" data-access="member">
 
   <h2>🔍 ETF 持股重疊比較</h2>
   <div class="heat-subtitle">任選兩檔主動 ETF，比較共同持股、權重差異與各自獨有持股</div>
@@ -2472,7 +2486,7 @@ footer{
 
 </section>
 
-<section class="card page-section" data-pages="etf" data-etf-subpage="changes">
+<section class="card page-section" data-pages="etf" data-etf-subpage="changes" data-access="member">
 
   <h2>📊 主動 ETF 每日持股變化</h2>
 
@@ -2494,7 +2508,7 @@ footer{
 </section>
 
 
-<section class="card page-section" data-pages="etf" data-etf-subpage="holdings">
+<section class="card page-section" data-pages="etf" data-etf-subpage="holdings" data-access="member">
 
   <h2>🌡️ ETF 持股權重排行</h2>
   <div class="heat-subtitle">看「配置有多重」：將各 ETF 的個股權重相加，找出整體配置最集中的股票</div>
@@ -2507,7 +2521,7 @@ footer{
 
 </section>
 
-<section class="card page-section" data-pages="etf" data-etf-subpage="industry">
+<section class="card page-section" data-pages="etf" data-etf-subpage="industry" data-access="member">
 
   <h2>🏭 主動 ETF 產業配置熱力</h2>
   <div class="heat-subtitle">依公司官方產業分類，彙總主動 ETF 公開投資組合權重</div>
@@ -2520,7 +2534,7 @@ footer{
 
 </section>
 
-<section class="card page-section" data-pages="etf" data-etf-subpage="consensus">
+<section class="card page-section" data-pages="etf" data-etf-subpage="consensus" data-access="member">
 
   <h2>🔥 ETF 共同持有共識</h2>
 
@@ -2549,7 +2563,7 @@ footer{
 
 </section>
 
-<section class="card page-section" data-pages="etf" data-etf-subpage="trends">
+<section class="card page-section" data-pages="etf" data-etf-subpage="trends" data-access="member">
 
   <h2>📅 ETF 連續增減趨勢</h2>
   <div class="heat-subtitle">
@@ -2661,7 +2675,7 @@ footer{
 
 <!-- 量化研究 -->
 
-<section class="card page-section" data-pages="quant">
+<section class="card page-section" data-pages="quant" data-access="pro">
 
   <h2>🧪 量化研究</h2>
 
@@ -2713,13 +2727,14 @@ footer{
   <div class="global-risk-head"><div><h2>🌍 全球市場連動雷達</h2><div id="globalPagePhase" class="heat-subtitle">資料載入中...</div></div><div><div id="globalPageScore" class="global-risk-score">--／100</div><div id="globalPageState" class="global-risk-state">資料準備中</div></div></div>
   <div class="global-gauge"><span id="globalPageMarker" class="global-gauge-marker" style="left:0%"></span></div>
   <div id="globalPageStatus" class="status">全球市場資料載入中...</div><div id="globalPageSummary" class="plain-note"></div><div id="globalIndicatorGrid" class="global-indicator-grid"></div>
-  <div class="global-semantics">
+  <div class="access-public-note access-public-only">免費公開版目前提供主要國際行情、風險燈號與簡短摘要；完整市場分歧、族群影響與歷史驗證將於資料授權及會員後端完成後開放。</div>
+  <div class="global-semantics" data-access="member">
     <div class="global-semantic"><h3>① 已確認的市場數據</h3><ul id="globalConfirmed"></ul></div>
     <div class="global-semantic"><h3>② 系統依規則判定的訊號</h3><ul id="globalSignals"></ul></div>
     <div class="global-semantic"><h3>③ 可能影響與推論</h3><ul id="globalInferences"></ul><div id="globalSectors" class="global-sector-chips"></div></div>
     <div class="global-semantic"><h3>④ 歷史統計結果</h3><div id="globalHistory" class="plain-note">樣本不足</div></div>
     <div class="global-semantic"><h3>接下來觀察</h3><ul id="globalWatch"></ul></div>
-  </div><div id="globalLicense" class="global-license-note"></div>
+  </div><div id="globalLicense" class="global-license-note" data-access="member"></div>
 </section>
 
 <section class="card page-section" data-pages="member">
@@ -2867,6 +2882,23 @@ let expandedIndustry = "";
 let expandedEtfIndustry = "";
 let toastTimer = null;
 
+const OWNER_PREVIEW_STORAGE = "taiwanStockOwnerPreview";
+const ownerPreviewParam = new URLSearchParams(location.search).get("owner_preview");
+if(ownerPreviewParam === "full"){
+  localStorage.setItem(OWNER_PREVIEW_STORAGE,"true");
+}
+else if(ownerPreviewParam === "public"){
+  localStorage.removeItem(OWNER_PREVIEW_STORAGE);
+}
+let isOwnerPreview = localStorage.getItem(OWNER_PREVIEW_STORAGE) === "true";
+document.body.classList.toggle("owner-preview",isOwnerPreview);
+
+document.getElementById("exitOwnerPreview")?.addEventListener("click",() => {
+  localStorage.removeItem(OWNER_PREVIEW_STORAGE);
+  location.href = location.pathname + "?owner_preview=public#home";
+});
+
+
 let watchlistCodes = (() => {
   try{
     const saved = JSON.parse(localStorage.getItem("taiwanStockWatchlist") || "[]");
@@ -2958,9 +2990,11 @@ const validEtfSubpages = [
 
 function showEtfSubpage(subpage,updateHash = true){
 
-  const target = validEtfSubpages.includes(subpage)
-    ? subpage
-    : "summary";
+  const memberOnlySubpages = ["compare","changes","holdings","industry","consensus","trends","ranking"];
+  const requested = validEtfSubpages.includes(subpage) ? subpage : "summary";
+  const target = !isOwnerPreview && memberOnlySubpages.includes(requested)
+    ? "summary"
+    : requested;
 
   currentEtfSubpage = target;
 
@@ -3008,9 +3042,11 @@ document
 
 function showPage(page,updateHash = true){
 
-  const target = validPages.includes(page)
-    ? page
-    : "home";
+  const requestedPage = validPages.includes(page) ? page : "home";
+  const ownerOnlyPages = ["market","industry","quant"];
+  const target = !isOwnerPreview && ownerOnlyPages.includes(requestedPage)
+    ? "home"
+    : requestedPage;
 
   currentPage = target;
 
