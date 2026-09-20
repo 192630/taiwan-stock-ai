@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-20T17:33:19.418373+08:00",
+  "updated_at": "2026-09-21T07:31:15.584930+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6581",
   "name": "鋼聯",
-  "count": 1,
+  "count": 2,
   "news": [
     {
       "title": "台灣鋼聯攜手阿爾發投顧讓AI理財走進企業福利- 商情",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93OEJ4SHBjbi1QRTU4TzZoellMRFJSU2JkNS1rUW1UTFNrX2ZWZi1uTVR3bC1tOGFaMHNsOUdBbTN6YXF0dlNEZ1ozSkcxNVk3d2F0WTNpM2J0LXBueEVn?oc=5",
       "source": "工商時報",
-      "published_at": "2026-09-11T07:13:00+00:00"
+      "published_at": "2026-09-11T07:00:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】鋼聯(6581) 八月營收3.74億元，表現亮眼、呈現雙成長，創近94個月以來新高，年增88.18%",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQk9XX001THBuQ19GUDVGdjVBOHc0YWt0X2lyVnJzWnNZR1pOOTN0dFlNcFdXRGprcUV0aGstVXZ5ODhFMlZyX21ZQU0wVkd4d21ObHJDRE9lUmZmN2hqRVhHMEUtOUxLaFBjSHk3TFpfdDBkY1Rwb21sbFQ4Ql9VYy1nMGluVy0tRUE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]
 }

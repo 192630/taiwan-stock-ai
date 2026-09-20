@@ -1,27 +1,15 @@
 {
-  "updated_at": "2026-09-20T17:33:02.048044+08:00",
+  "updated_at": "2026-09-21T07:30:57.768755+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6282",
   "name": "康舒",
   "count": 12,
   "news": [
     {
-      "title": "電網供應跟不上AI建設速度！台系電源廠搶吃大餅 台達電、光寶科、康舒布局一次看",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE00dUppLUhNNXVORC1kMERJMHdIbHZ4Q0FSLU9ERzlwaUNYUlpBZ1gzMzVzczhVb2RoQTRWYlh2eTAyMV8tbUZBbFZEUmRJTFEwT3lrMHJHNjI5T0tKZUF4Ym1zSlozUTJxdVdlXzF4VG1nblVVMVIzTVFsRQ?oc=5",
-      "source": "財訊",
-      "published_at": "2026-09-18T09:05:11+00:00"
-    },
-    {
       "title": "康舒 AI 營收占比目標三成，100kW Power Shelf 啟動驗證 | 科技新報",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9TVGxKMGNwaWNDNnpCUy1tendTcXB2RndyNGRpa0x1MEF6ZnRkVUU0U0FUX0pNOFJYd3NTNWtqQWlZYW02d3o0TU15eFZtcHRnX0ZCVl9mNWtKcFlIMmxwR25yOGhWRkh2QXk3UkwxUlI4YTNP?oc=5",
       "source": "LINE TODAY",
       "published_at": "2026-09-18T08:43:45+00:00"
-    },
-    {
-      "title": "AI人才搶手！科技業職缺衝6.8萬筆 台達電、康舒搶進校園卡位 | Newtalk",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xV3BoUjFZeTRWN2ZhMmRnVVpTdXEwOXBGNWw0b25qVjItOXQ3YzhoazBMaGtBWG9fYzFUb1VCQWdBam1RQnBCbmdXMEpjR0YwQlk0cmln?oc=5",
-      "source": "LINE TODAY",
-      "published_at": "2026-09-18T08:02:27+00:00"
     },
     {
       "title": "1111攜手台達電、康舒前進台師大搶才 點燃150位碩博生熱情",
@@ -44,7 +32,7 @@
     {
       "title": "康舒AI營收占比已升至29%，全年30%有望達標",
       "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQejNScHo5Vkd5SXFxQXNIUFVEQ1R5d1A0YjA2UG1oR0pNS0d5cWltV0E2SDl6Y3JnOF9pMERTUWFEcndCOEx2eC1IT1lyMUJpWHE3N1pXUm50LXNDMVZXR1pJNHlMZWZ4aHBvTFVnUFlvWTQ2OGdGcnJiaEJqLXFHa2pwbHFaSk5QZUtJeE01LUZudEZNTWwtY0dqYjVBVkNaOUZTQmpyQjk2bHZTU3VuTmZCMVIzYmtyUThzc2g0VHo0MUVna1ZHOGc2eWdPNkctb1ZNaF9CZUUxTWZlOWdGdVBJejdjWUY0LURRUWw3RDY0OHVVWmEtdlN4Q0M4V1RzS2dDaWd5dGdTb3QyYThJMnYzVVRxYkViQWc?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
@@ -74,6 +62,18 @@
     {
       "title": "康舒(6282)含康舒的etf與基金成分股比例與變動情況 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTak54TjZ4UkMzMFh4RzhWcExndVQ4SzJ6c2hhWTV1dnZyRDZWOTY1a20ySFd0RTJGVm9jdkZNY0liUTByb3FvYTV0VUc5SFNXcFJ0NkJfUHdWU3pwVVh2V2NTUlE?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-10T07:00:00+00:00"
+    },
+    {
+      "title": "康舒(6282)主要產品與營收占比 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JQ1BwSlNzellGYmtBSWNiSmtFTk44TVFqRUNjNlZXZ1dIMEVCWC1TS0xqSjZXdHl5WGcxM1A1STVVWThsT2RRVnZMRVdnUlA4dm1qdEpVWEZpUDJ0ZzFfN0tQcUozUQ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-10T07:00:00+00:00"
+    },
+    {
+      "title": "康舒(6282)本益比查詢｜PE估值與河流圖合理區間解析 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83aEQ3QklwV2Z0Mk14V1ZsUlM1ODQybUszOU9rU25XUG9HWmMtNlN4MnhLc2NkbldyLWxNVjh6WkRpSHhtWDZoQzhRZmxGd3VxZ1g3ZGhR?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-10T07:00:00+00:00"
     }

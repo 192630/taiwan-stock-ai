@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-20T17:33:21.333548+08:00",
+  "updated_at": "2026-09-21T07:31:17.507474+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6591",
   "name": "動力-KY",
-  "count": 4,
+  "count": 5,
   "news": [
+    {
+      "title": "Sun Max Tech Limited收入明細 – TWSE:6591",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5qVXhkcU5BbklRWmhuRWdXeHpfU1N3Y2RRWnR5VkdFbkQ2N1lqaG04YWo1TzhZeDBNdmdrSjBOZ0J5S1BDcUlCRTUxUXdiN2kxZENvS0czUHUwM2ZVN29taXNkR05ZUFlkVE1BLTl3a3d0NUE?oc=5",
+      "source": "tw.tradingview.com",
+      "published_at": "2026-09-16T02:02:40+00:00"
+    },
     {
       "title": "動力-KY(6591) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93RzRydjNqWEZuWE42TjZnWUxuY0w5ZG1Qb2RIVjUtUW9jek9IcXNHY2R1QW15Qk5zRjQxd3k1d2lHNzZBS19jamNfTUdMcE9zc1Rj?oc=5",
@@ -14,7 +20,7 @@
     {
       "title": "動力-KY營收連三月回升；泰國廠Q3投產",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQaUJ2M0xCTlRwaHdHSERsTGhyc29YcllsaVhGZ0pnZVZGb2lwWUN4V0dKU0xoTktuYVBPMHI2SV8yNmN2ODJQYVUzaFJtQ0V0QTVjT2NvTURBdGFuNG5fRmJ3TWhKYjBtUEFhWUVFWHJQZjIzbVpHUlN2MUFxdmJ0dHFnT3VmOUJ4RHZISmdEVmlFV3ExOHItcl84cWhYOHpZNWIxNVota2tSQTlydFRlcXZyaHhHU0lFWHh1eTFZVm1LaWJCTEZMNGM1UGZGMVp1OUxsX2F0OW0yS29tZTNpN1BXTERCWTgzSkJfZ0ZoYS05OHJ6aWktT1pVNVdENVJJcndYMzNkXzNscVE?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {

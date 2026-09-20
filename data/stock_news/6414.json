@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-20T17:33:05.052628+08:00",
+  "updated_at": "2026-09-21T07:31:00.952704+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6414",
   "name": "樺漢",
   "count": 12,
   "news": [
+    {
+      "title": "經濟部通過日月光、樺漢、光寶、智邦等九件、逾16.3億美元對外投資案",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wekJWTWlJXzNxcFpMblQxLXZXTS1FZ3ZLd0VsR3FvYmVDMXdPUERHZVdmOV96bHZXTW94V2ZXWElSQ3d5eW95d1NRaFNEQjJxRzJ1MWF2YUZCd9IBX0FVX3lxTE1UTUU2b2IwZGQ4YmRlOFBtS1hTZGhGUG01T3VGRkJKNmttOEs1SW8tOTdsZUppZ0JNN2tMcTVXZGoxeDMzbGg1QTQxVHNzNXJsZ1pLVXVoRl9HanJsV0lB?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-19T09:00:00+00:00"
+    },
     {
       "title": "樺漢攜Kontron搶攻實體AI 朱復銓：未來5年迎商業化爆發",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQeUZiVGdNeGdsZWJxYmVaekttQjVPV3RpUV8zNkpMQVFWMnlFNGVmQWNkWVk4czNmM212akxHS1hxeE9WdlRGTmdXM2hzcXotWG1zV3RFNEY?oc=5",
@@ -22,12 +28,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JZG5qZ3dobm0tdnNDaU9tb0Iwd0NzTU9GbFFsTGs4ZmFTazgtQm9DbEdYTjJOLTZJbGM5TTAwMzhXWVlLYnQ2dGNqM1ZNeExXWGM5Z1ZJcjY?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-18T01:58:20+00:00"
-    },
-    {
-      "title": "樺漢(6414) 今日股價與討論 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VSWRWVlc1ZHhCZTd0S2ZxVlFrNGh4aml2Z0RSS04ya3VlWVRUM21MaWhOM1NsWXhnMTJoamlHd1BkVndUWWtacjVRTEpyYU0?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-16T07:00:00+00:00"
     },
     {
       "title": "6414 樺漢 - 看尼老失勒, 眼睛有問題，跟了這爛股 - 股市爆料同學會",
@@ -74,7 +74,7 @@
     {
       "title": "【2026/08月營收公告】樺漢(6414) 八月營收月減年增，全年營運續看向上-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQX2RFZVF6WnZfQUMyUlZOZFA0amtpWGl2aVRaUmFDWTlmS2tmM05pV2Z3Y1dDdHRvTVIyQ0NoQTNleE1qY0didlg0RlhZUEhYYnVJeHFIa2pTM2ZUeTlWYnVCZ0pSYVh3SWJBM1VlR2toN2ZnTGtiNW8yX3I5ZlpERERxNUQ5VmNYbkE?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]

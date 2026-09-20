@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-20T17:33:25.930015+08:00",
+  "updated_at": "2026-09-21T07:31:22.090160+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6657",
   "name": "華安",
-  "count": 12,
+  "count": 11,
   "news": [
-    {
-      "title": "華安醫學AI藥物平台入選GTC前8強 展現研發實力",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjbTNQZy1OSDJWQnB2MlpLVGRKMG5mOUZ0NmQ1WXRWaElUNmhVandaUzhLcG9xTWFTZk9KZ2RSVlBpejBXRnk1ZHc5ZElBTzUyMFJ5MHZTaXo?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-14T17:48:19+00:00"
-    },
     {
       "title": "6657 華安 - 清水國中變運動樂園！台中體育嘉年華9/20登場 14項體驗一次玩- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxeDNxVWhCVGRVTnBhaUlzaDE4eGJENlhGNEZjZ2xzZm9aVFdzMEptTjd2ak01UlF0TU5zZWVVc1g4bUtWQ3JXZzVCcmdjZ3NidFpSQ3hFZWM?oc=5",
@@ -20,38 +14,32 @@
     {
       "title": "【11:33 即時新聞】華安(6657)股價上漲逾3%，母以子貴與新藥臨床題材點火，短線量價結構偏多但籌碼仍顯凌亂",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTF9LZXgyUFg5ODBzN3JUMnE0S0JTaHlBM3Y3NENTb2hsWmJjZ09mT2xRYVJobWZkb1A5eVNPQ1RuRnFRdUJRenRYQmc4RWNqMmlOYU5nMnRPY2xnYktFaHVodlE1aWhDOGpfQ0p4UjdLTW0yWmpHTEpKZHJPeHg0bl91bEE0YW1VWFZ0Q01n?oc=5",
-      "source": "cmnews.com.tw",
-      "published_at": "2026-09-10T03:34:30+00:00"
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
       "title": "焦點股：華安(6657)多項適應症穩健推進，現增因應後期臨床，股價跌深反彈",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWVBXZ25wYkR5NlhEZ21IMjlMZ0gtWmxuVUplT1N4NmNDTFAyd21mb3M2Q0U2dk5MT1lLRWM0RUlWZ1psYnNGTmxKdWNEcHRaVzhRVnBVbFZ5Z0E4Rkw2RFJrZWxhOEhLV2g3ZU02N25hY2VfaXcyRWNOdldtWGwtODdWMzRldGNX?oc=5",
-      "source": "ww2.money-link.com.tw",
+      "source": "富聯網",
       "published_at": "2026-09-10T01:15:00+00:00"
-    },
-    {
-      "title": "盤中速報 - 華安(6657)股價拉至漲停，漲停價36.75元，成交562張",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mRWRBb3otRTRJam9tZ2ZCMjczc1huUjNabWw3QU00M1c2c0FQdHBUWHBIYWkyMW8tbGU2SG0xdG9QQkZ1X1Y4R1FhWmlvZW9vMmJsZWFzSkh5d20wRkVNeGV6SXF1QQ?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-09T12:03:10+00:00"
     },
     {
       "title": "【2026/08月營收公告】華安(6657) 八月營收表現亮眼、呈現雙成長，創近4個月以來新高，年增153.31%",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ01tLVFsTlAyTUlXdTU4R2xKekhEYnFoeGFEUWtJd1VScHRlWXNSdmlDaUhlR1NoV2pNN0c4cV9vNlB2MmVTNjhyTS1tUjBsTnRma3JLRk14VXI4LUkwUHJCLWJzQ0o4dlowbDFUTkk1WEp2VkRYQUt4eDRaYnNoYWJ5VGNOUFNmWHc?oc=5",
-      "source": "cmnews.com.tw",
-      "published_at": "2026-09-08T08:10:17+00:00"
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
       "title": "【09/08 產業即時新聞】新藥研發族群盤中強勢表態，藥華藥、華安領軍，市場聚焦解盲與銷售前景。",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWDh6MWZvSzlmRHNNNlEtMnNzVTk2T1hoZWgtZ0RvelR6ZlEwcnc1TmxDdzE5cUctQkRFQ0U4RTVXXzd5NWR0dXRLYl9VbzNNTXllVXhNM05VUnNsbEoxT0hOQS13cUFQS0h5X3lrc01pdG0xOUVDNnFkYzdseFRHbE8yeGtuWnFwOFNKZzJB?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
       "title": "營收速報 - 華安(6657)8月營收80萬元年增率高達153.31％｜新聞快訊｜豐雲學堂",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wVTF0TGpXUlJNWlJGRTlpTnoyZXA5RldRSUF0bVBUZVVtWkJzLVN6M2t3YmpfMUtMQzUtNWhKanRqOU54OTN2QXNqR2E2dHlaallEMXZmWkNLZ21kdWtHMGRLdlJaOTBxRnc1RXJ5Y3dmTHJPVmc?oc=5",
       "source": "sinotrade.com.tw",
-      "published_at": "2026-09-07T09:23:00+00:00"
+      "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
       "title": "6610 安成生技- 華安和安成的泡泡龍新藥有何不同(AI) - 股市爆料同學會",
@@ -62,19 +50,25 @@
     {
       "title": "華安啟動現增；糖尿病足潰瀾新藥年底期中分析",
       "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPTEJCa0oxY3AwcFdKOXAyN2RqMC1hZ0EwLXRqcmZnSTUxVExUWHVWamViZXIybFVUaXU4Z3pCcjdMenRvSmVyYUFEbk5pWkVSVVBKZlJ1XzZZaFJtbmF5SkFSNmkwTC1RN1VzdVdKLUNKRlFBc04tRHBocWtrNEFzNS1oZkY3MFFsb2hyV21tRnFsN1hMRnB6QXF2TFhtX3paLUdhS3hMS1hnMnZqbUc3a3JrMGF5S3hYQmw1U3JyOG42elR6RkszSnNHVHJ1ZUNSekZmNm1OblBtazRaaVNaWTlSZjhUT0JYZEVFUkVZcG5FMGZ3RFlfVWE4QlQ1eWlaQWpLMm1xQTdfR0lQd3NEQzFXM1FibUFBa1FvcENhVnk3VWh4cm95Q1N2cEZyRHp2ZFIxTm55eVRPTllVdThPM2k2WFhpWDV2V3UyZg?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-04T07:00:00+00:00"
+    },
+    {
+      "title": "推動新藥臨床試驗 華安醫學擬辦現增、發行價暫定30元募3億元",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1RU5DZVpQakpFSXNQSWdPZjN1Rk1Wc25JVjNwTmk3LTUwRkpFT1d0SVgxRlR2NXV6X0FfRlJaR2N6Z2p2QzJIaWlVekI3V19nU19RQmdPdWx0T25kbWhr0gFkQVVfeXFMUE44V0JQaEk4MEUtOFhSTzZyUDZYWFEzQjU3Q3JBSDVxXzl4NU1KZkdreWlWTm1XWUVMWEpJZXNDZk1fTHAxS0lWRWkzb2VndlpDTzBjNEdUTFJEVjBNV3hvRmpvZQ?oc=5",
+      "source": "自由財經",
+      "published_at": "2026-09-04T07:00:00+00:00"
+    },
+    {
+      "title": "華安擬辦理現增3億元 推進兩大新藥臨床及商化授權",
+      "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQMDl6YllJSXRWaEZxMVdqb3R6aXdLdV84N0JuNzIxMl84TmUwNUtYT0tYUFY1OVdHMUhXWE5hTFdob3VuTzRON3pKSzJHeGhTY3hxQkFEaUd2SXF3ZzRwUDhLT1k5TE5hWE1IMnBNYzlVUnBrNUNLSTRmRUNKelBUcldTQWVmVEZWNzV2dWozdk1JY0x1Ym9OblR3Rllwb2VhVXB2LTR6eGRXdnBvOEVENGY4R0lvSWU4RWFXRDdVWUVzVHI3OE5sVW41ZjZlTkx6S3ZHSkRhdk1rNG9mSkdfVnlYR0xEaXdYTk9lV0xtRzBoQkFVSklldHNEVXZ5LThwU0k1WVRGcG5XX0lROUdoOTVyVXh2Y2tDZFRRMkdUQmltUTh3Mjc0UWRISWl5Q0ZYckJQaE9oWlVvZVBFMG9FZEE1ajlMa1dSTU9jMC0tTklweU5sTkJEWGdhNWlGVXdlMHFucTdB?oc=5",
+      "source": "Yahoo股市",
       "published_at": "2026-09-04T07:00:00+00:00"
     },
     {
       "title": "華安擬現增3億元 加速兩項新藥臨床與商化授權",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03WXVUbWttZWRaRDh5R1hMeklUdk9MU0Y4cFdNWGtqZEhrOHA5dkRrZWdMT0pwLUxPa0pCSEh0ZjIxUUVpMjRJTGptaUI1ZXh5clplVFMzbklvd9IBX0FVX3lxTE02b1F5cmJiVmVhSy15XzZMODEyekQ1RzNIZURGX3VCSVpITU03b0xKaVp0LVFjX3d1ZnI1Qm9aTm9kNTVlRnhyeGNod1RnNm00aWk4R3REbmt5YTJfWEVB?oc=5",
       "source": "經濟日報",
-      "published_at": "2026-09-04T07:00:00+00:00"
-    },
-    {
-      "title": "華安擬辦理現增3億元 推進兩大新藥臨床及商化授權",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1oRDhTYjNjaHlYeWE4U0toQXB6dkhMdVNkdHF3MFVvSngxa25ucFNEaUhqUXJTaWhhcHhpV0J2azE4Qi11SG96eDcxUndpZVU?oc=5",
-      "source": "news.cnyes.com",
       "published_at": "2026-09-04T07:00:00+00:00"
     }
   ]

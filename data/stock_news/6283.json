@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-20T17:33:02.459117+08:00",
+  "updated_at": "2026-09-21T07:30:58.251862+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6283",
   "name": "淳安",
-  "count": 5,
+  "count": 4,
   "news": [
     {
       "title": "6283 淳安- 每股淨值? 這公司???? - 股市爆料同學會",
@@ -28,12 +28,6 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU0d1MHRNdkwzamNlUFRhYXBscXZjLXRGWXkxa1gwaEVCTlJYSnlUVVRJdzdwZ1RsbzkwUEJvSUxpLTB0NFRrTXpOZ1QzMGpRMERMcGstT1hudll6QnI4Zy1rd1VZejhXSEdzaXdvbUpvZWtSSVh2cHAwREVWX2JwNjVSLXFrMmRrRG5YS0sxeTZTX21mb2Y0?oc=5",
       "source": "MoneyDJ",
       "published_at": "2026-09-03T07:00:00+00:00"
-    },
-    {
-      "title": "6283 淳安 - 做下包的競然是兩樣情 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVZDlKWXNFbEF4TXBHT3l6RDhSUlNXUDA0T1JhZXhtSFd4SXZ4QmZ1V0JxZFpQdjVJajRiVkwzU1p1R0pGWkFELUI5cFA5VC00VjVvN0k3bzc?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-25T07:00:00+00:00"
     }
   ]
 }

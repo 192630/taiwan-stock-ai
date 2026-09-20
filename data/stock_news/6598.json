@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-20T17:33:22.192971+08:00",
+  "updated_at": "2026-09-21T07:31:18.429205+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6598",
   "name": "ABC-KY",
-  "count": 1,
+  "count": 2,
   "news": [
+    {
+      "title": "6598 ABC-KY - 觀察觀察- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaRklGU2JUMU5HX2V3Q3U1SUFvOGJ0ZTlNTEc5d3U3d1R5Y3lQNnFsZTB2RWdmQk5uRzlrVlhCcUxBZkhsLUlXc2JXbnpqZ2pibjBsMDRZbnY?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-12T03:05:07+00:00"
+    },
     {
       "title": "ABC-KY 115年8月營收6094萬、年增64.00%",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBndmZtOHhVak83UlpSci1CUmJDUUVMbXpNRGpxUjNtR2txeWlXMlVoZUhDZnRpSXZIWTBrRVRmODFLcGlpWnM5ZnRFcklHVWx4S1FFNDRMcnE?oc=5",

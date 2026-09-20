@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-09-20T17:33:18.948667+08:00",
+  "updated_at": "2026-09-21T07:31:15.154838+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6579",
   "name": "研揚",
-  "count": 8,
+  "count": 7,
   "news": [
     {
       "title": "焦點股》研揚：基本面助攻 漲停攻高",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95VlVlYkFzQUVIa0JTNG5tb1V2Y05NQmlpSGNyRnFDNGp4b2UwVmxoaS16MGNnM3otbE1uWWxkYmNPOWF1bm1tdk5SZTM4M2JScWZ3bkxzTlU?oc=5",
       "source": "自由時報",
-      "published_at": "2026-09-17T22:44:59+00:00"
+      "published_at": "2026-09-20T14:53:05+00:00"
     },
     {
       "title": "AAEON Technology Inc.收入明細 – TWSE:6579",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1pUlpLSnlBWUpnal9SSkpmODJySGN2UVZ4RW9ES3A2eTdUNE9GMGViWlRBUU9NdlUwYm1VVWdEWWpIZnQwc1I4X05tNHV3bVhaTzhtanhiZmo2bk95UTQ3X1Axc181Z2dYaDRoempMQnRlQWs?oc=5",
-      "source": "TradingView",
+      "source": "tw.tradingview.com",
       "published_at": "2026-09-15T18:53:50+00:00"
     },
     {
@@ -26,31 +26,25 @@
     {
       "title": "研揚亮相高通SMARC模組新品 攻邊緣AI應用商機",
       "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxObWxjeVA4eFh3N0dOZkZ0eTY1cG1UTUxzdkZ0MDdReE1Kdm1xcjdVYThvdUJlNHVJcjZPWkk1VzVUeDZHdHR6djl1cFY1T2JSUWM4bW1qM1ExbHlodTNpa050U3M2QVNXVW55MWRDTnJtUmtOenJwQ29FejBZQndORkpMelB5OGhPMFhaeFZVUkx2OWRaaF94N0tnZHFJczgtLWZ6LTctTkNKSWVyZXlhMHJTUmN1cjFBNk1wLXVXVE8zNlZubVN3dkp2clFxRVFyMGM2aG5hNmZoWW5KczdoUndXblBBY0hPbTFKaFV6ZUtIdW1xZWktWUVmSzUtTVB5UDRGanNzcGgtekNiR0xsUjQ1TmtvRklDbTk4TV9odFJiWmkyOXRnNDVDLWxJUHp6d0E?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
       "title": "研揚科技推PICO-ADN2以高可靠防鬆脫設計搶攻智慧交通與Kiosk市場",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUjVQTUswdnpndWJvZ0szNmNqTU01Sk5VQU9GbWotay1UdjRtMzVoOTA3dWNlS3pmUTA2MWFUbDJsQ3VSb3BMNkJzWjV1ZmJlRXNlZE8zNEhWZnZCTlFUcUUtazVvMVlsYk93MzZUZ3MwZGJIc2NCWHJhRUZyNFowY0twZDRpdy1EMElYOVRB?oc=5",
-      "source": "DIGITIMES",
+      "source": "digitimes.com.tw",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
       "title": "慧友列Arm實體AI生態系，攜研揚優勢攻機器人商機",
       "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPYTVvT0NKb3l2aHNjazE2WkxmcmZ0VXhibmtQQ0JVdVg1bW1nRTVwTHdfcmFnMW9jOTEzVFlEMmdwRWtHMFlSUFRRcDBYY2xFRENWaGpfN0JGMVpLUEpmZndXWW9wdVFVa3Qya2F6LVhIZW9jNHlPV1V1aXpDc2s2bGF5b3NUZmZzNjFiYzhncTdZM1hZTWp6QzdKSjNxMjJpZEx1aDRFbHc1TlRULXVXWnRYb1hsZ3RGdWtpenR4b0JhZTl4MlFmVkNNRF9pS3FjM1RUVWJic0dTa2tJUmpIUlZ1c1JyZG1TaUJZSTNrNE9lN0toSDg2dzlVeGZPQVlLSlR2SkNVakR5QXBwT20tLWFpMDRsRDFldUsxcF9WV040OURURVowQUdNQklEZkdSOTFOWXhiS0tLWnd4N2xKNVUyUVRKVEE?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "個股：研揚8月業績9.85億元創次高，半導體/機器人助攻，Q3營收衝30億大關",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kYTI1azNvWTJTeVBiVVI5WUZSQWFyNXBSUnhmLUNJTFk5WkRWY3lwOFJGOFFoTTlWMVpzUUJ0WWNDdnJ2bjNkU05mN19RSTFiTVUyRlRR?oc=5",
-      "source": "東森電視",
-      "published_at": "2026-09-07T06:06:00+00:00"
     },
     {
       "title": "【2026/08月營收公告】研揚(6579) 八月營收9.85億元，表現亮眼、呈現雙成長，創近2個月以來新高，年增26.58%",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZVJGMnZaV196Wk9MclVJLVpWamx1WFZ5YTNsbUxhbnhQUDlsbEdWSlhxZ1BNUE5WT1VFMFRRTEozUDJUcXdJdHJrTU9zblpaUWZ4Y3JjWEU4ZmxnOEFDbEE1QXZrbnZLLVR2M0c5TF9GdkpadWFmR2dIS3Q1b29qMkI1S1ZWSjJqQVE?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-06T07:00:00+00:00"
     }
   ]
