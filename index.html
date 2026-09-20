@@ -905,6 +905,23 @@ button{
 .etf-heat-weight{color:#d0443e;font-size:17px;font-weight:900}
 .etf-heat-count{margin-top:3px;color:#626a72;font-size:12px;font-weight:800}
 
+/* 主動 ETF 產業配置熱力 */
+
+.etf-industry-weight{
+  color:#557a89;
+  font-size:17px;
+  font-weight:900;
+  text-align:right;
+  white-space:nowrap;
+}
+
+.etf-industry-member-value{
+  color:#557a89;
+  font-weight:900;
+  text-align:right;
+  white-space:nowrap;
+}
+
 /* ETF 經理人共識雷達 */
 
 .consensus-block{
@@ -2088,6 +2105,19 @@ footer{
 
 <section class="card page-section" data-pages="etf">
 
+  <h2>🏭 主動 ETF 產業配置熱力</h2>
+  <div class="heat-subtitle">依公司官方產業分類，彙總主動 ETF 公開投資組合權重</div>
+  <div id="etfIndustryHeatStatus" class="status">產業配置資料載入中...</div>
+  <div id="etfIndustryHeatList"></div>
+
+  <div class="heat-note">
+    <strong>今日筆記：</strong>產業合計權重是各 ETF 公開持股權重相加，用來觀察整體配置方向；不等於市場買進金額，也不代表產業指數漲跌。
+  </div>
+
+</section>
+
+<section class="card page-section" data-pages="etf">
+
   <h2>🔥 ETF 經理人共識雷達</h2>
 
   <div class="heat-subtitle">
@@ -2301,6 +2331,7 @@ let etfDetailNewsStart = 0;
 let stockDetailNews = [];
 let stockDetailNewsStart = 0;
 let expandedIndustry = "";
+let expandedEtfIndustry = "";
 let toastTimer = null;
 
 let watchlistCodes = (() => {
@@ -2423,6 +2454,7 @@ function showPage(page,updateHash = true){
   if(activeEtfHoldingsReady){
     renderSelectedEtfChanges();
     renderEtfHoldingHeat();
+    renderEtfIndustryHeat();
     renderEtfConsensus();
   }
 
@@ -2778,6 +2810,7 @@ async function loadCompanyProfiles(){
     companyProfilesReady = true;
     if(currentStockCode) renderCompanyProfile(currentStockCode);
     renderIndustryHeat();
+    renderEtfIndustryHeat();
   }
   catch(error){
     console.warn(error);
@@ -3841,6 +3874,154 @@ function renderEtfHoldingHeat(){
       }
     });
     container.appendChild(row);
+  });
+
+}
+
+
+function renderEtfIndustryHeat(){
+
+  const container = document.getElementById("etfIndustryHeatList");
+  const status = document.getElementById("etfIndustryHeatStatus");
+
+  if(!container || !status) return;
+
+  if(!activeEtfHoldingsReady || !companyProfilesReady){
+    status.textContent = "產業配置資料載入中...";
+    return;
+  }
+
+  const etfs = activeEtfHoldings.etfs || activeEtfHoldings;
+  const groups = new Map();
+  let successfulEtfs = 0;
+
+  Object.entries(etfs || {}).forEach(([entryCode,etf]) => {
+    const etfCode = String(etf?.code || entryCode || "").trim();
+    const holdings = Array.isArray(etf?.holdings) ? etf.holdings : [];
+    if(!holdings.length) return;
+    successfulEtfs += 1;
+
+    holdings.forEach(holding => {
+      const code = String(holding.code || holding.stock_code || "").trim();
+      const profile = companyProfiles[code];
+      const industry = String(profile?.industry || "").trim();
+      if(!code || !industry) return;
+
+      const weight = cleanNumber(holding.weight);
+      if(!Number.isFinite(weight) || weight <= 0) return;
+
+      if(!groups.has(industry)){
+        groups.set(industry,{
+          name:industry,
+          totalWeight:0,
+          etfs:new Set(),
+          stocks:new Map()
+        });
+      }
+
+      const group = groups.get(industry);
+      group.totalWeight += weight;
+      group.etfs.add(etfCode);
+
+      const stock = group.stocks.get(code) || {
+        code,
+        name:String(holding.name || holding.stock_name || profile.short_name || code)
+          .replace(/\s+/g," ")
+          .trim(),
+        totalWeight:0,
+        etfs:new Set()
+      };
+
+      stock.totalWeight += weight;
+      stock.etfs.add(etfCode);
+      group.stocks.set(code,stock);
+    });
+  });
+
+  const industries = [...groups.values()]
+    .map(group => ({
+      name:group.name,
+      totalWeight:group.totalWeight,
+      etfCount:group.etfs.size,
+      stocks:[...group.stocks.values()]
+        .map(stock => ({
+          code:stock.code,
+          name:stock.name,
+          totalWeight:stock.totalWeight,
+          etfCount:stock.etfs.size
+        }))
+        .sort((a,b) => b.totalWeight - a.totalWeight || b.etfCount - a.etfCount)
+    }))
+    .sort((a,b) => b.totalWeight - a.totalWeight || b.etfCount - a.etfCount);
+
+  container.innerHTML = "";
+
+  if(!industries.length){
+    status.textContent = "目前沒有可整理的 ETF 產業配置資料";
+    return;
+  }
+
+  status.textContent = `✅ 彙總 ${successfulEtfs} 檔主動 ETF、${industries.length} 個產業；點選產業可查看持股`;
+
+  industries.forEach(industry => {
+    const card = document.createElement("div");
+    card.className = "industry-card";
+
+    const summary = document.createElement("button");
+    summary.type = "button";
+    summary.className = "industry-summary";
+    summary.setAttribute("aria-expanded",String(expandedEtfIndustry === industry.name));
+
+    const main = document.createElement("div");
+    const name = document.createElement("div");
+    name.className = "industry-name";
+    name.textContent = industry.name;
+    const counts = document.createElement("div");
+    counts.className = "industry-counts";
+    counts.textContent = `${industry.stocks.length} 檔股票｜${industry.etfCount} 檔 ETF 配置`;
+    main.append(name,counts);
+
+    const weight = document.createElement("div");
+    weight.className = "etf-industry-weight";
+    weight.textContent = `合計 ${industry.totalWeight.toFixed(2)}%`;
+
+    summary.append(main,weight);
+    summary.addEventListener("click",() => {
+      expandedEtfIndustry = expandedEtfIndustry === industry.name ? "" : industry.name;
+      renderEtfIndustryHeat();
+    });
+    card.appendChild(summary);
+
+    if(expandedEtfIndustry === industry.name){
+      const members = document.createElement("div");
+      members.className = "industry-members";
+
+      industry.stocks.forEach(item => {
+        const row = document.createElement("button");
+        row.type = "button";
+        row.className = "industry-member";
+
+        const code = document.createElement("span");
+        code.className = "industry-member-code";
+        code.textContent = item.code;
+
+        const name = document.createElement("span");
+        name.className = "industry-member-name";
+        name.textContent = item.name;
+
+        const value = document.createElement("span");
+        value.className = "etf-industry-member-value";
+        value.textContent = `${item.totalWeight.toFixed(2)}%｜${item.etfCount} 檔`;
+
+        row.append(code,name,value);
+        row.addEventListener("click",() => openStockFromList(item.code));
+        members.appendChild(row);
+      });
+
+      card.appendChild(members);
+    }
+
+    container.appendChild(card);
   });
 
 }
@@ -7134,6 +7315,7 @@ Promise.all([
 
   renderEtfChangeOptions();
   renderEtfHoldingHeat();
+  renderEtfIndustryHeat();
   renderEtfConsensus();
   if(currentStockCode){
     renderActiveEtfDetail(currentStockCode);
