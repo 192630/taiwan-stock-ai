@@ -1642,10 +1642,10 @@ footer{
     <h3>📈 歷史行情</h3>
 
     <div class="chart-legend">
-      <button id="maLayerToggle" class="chart-layer-toggle active" type="button" aria-pressed="true">
+      <button id="maLayerToggle" class="chart-layer-toggle" type="button" aria-pressed="false">
         <span class="multi-dot" aria-hidden="true"><i style="background:#f59e0b"></i><i style="background:#2563eb"></i><i style="background:#7c3aed"></i></span>MA5／MA20／MA60
       </button>
-      <button id="levelLayerToggle" class="chart-layer-toggle active" type="button" aria-pressed="true">
+      <button id="levelLayerToggle" class="chart-layer-toggle" type="button" aria-pressed="false">
         <span class="multi-dot" aria-hidden="true"><i style="background:#5f8791"></i><i style="background:#c86f62"></i></span>壓力支撐 V2
       </button>
     </div>
@@ -4306,8 +4306,8 @@ let kChart = null;
 let candleSeries = null;
 let kChartResizeObserver = null;
 let currentChartHistory = [];
-let showMaLayers = true;
-let showLevelLayers = true;
+let showMaLayers = false;
+let showLevelLayers = false;
 
 
 function updateChartLayerButtons(){
