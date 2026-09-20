@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-20T07:48:31.474228+08:00",
+  "updated_at": "2026-09-20T20:38:04.656745+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3443",
   "name": "創意",
   "count": 12,
   "news": [
     {
+      "title": "創意(3443) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxX0tiZU51VFMwNFloN0h0OWlSUjRrR21yb0tMMzZIN01EemdLRmtTLTlhXzU5T2pBUmlMU29wSGxoaXdMVkI3R1FrLXZTZXYzNFln?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-20T09:23:08+00:00"
+    },
+    {
       "title": "創意（3443）漲停 7,150 元創天價！本益比 167 倍還能追嗎？",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeTdhM2lwZXVZbXpoWVFQNVM1bWgxRWZYYS1FZm05ZmhEZk9lekNIbmVTTGI1Wkt6OF9KYWw2WWc3SlJFVElFOXpab2xJbFJuUnI2TzFyb05XMkRXR0dic0dyOE8yQ1VjbVdhNFVxcG1sYlE1OTE3WkJuVmFqMmsxTHdWekZJZGpZ?oc=5",
-      "source": "top1markets.com",
+      "source": "TOP1markets",
       "published_at": "2026-09-18T18:23:18+00:00"
     },
     {
@@ -30,22 +36,10 @@
       "published_at": "2026-09-18T04:22:27+00:00"
     },
     {
-      "title": "2026台灣文博會 創意總監陳怡潔專訪 從「第零位元」定位創作原點 以文化策展串起台灣創意能量",
-      "url": "https://news.google.com/rss/articles/CBMivARBVV95cUxNRlVRWTdhZTFndGF3RzlhQ2JEZWlVeVhxTlhmT3pkLXRhUEQ0QlBlLWtqaUhPMkk5aUFVTTBfczdhdTJ1cGh5akNMM1ZpZXQtdTJ0elg2bHdrbFFPMnZUTG9UQmwzaktJNDQ1ZnVITVlwQlJBWGdXVzdianIwb0V4NktCM3I0Y2pjX1diME5NUnZGcWkxbTZNazZ1bnRrTTM2eDZSOHNIRmhtZjdmMWZ0S2tORk1lZnhkZWVwZ0NGeDdab1h1WFZqTVBRSmJLdVF6aWZxSm1JbDZQcDIxMm0yQ21TYUMyLXZfMS10a01IOVduU2V6V0QyeXpLRTRPQ2JORHlxejZZWEtBdHFGQ0xNR0ZJREc4bkZETTNDRUFMNW1paXpUb1FQOTFhSlplNHVJdkhMSGhvdDNwWkNhcnBneVNjUWtjdGVyQVc0TE1rWk4wQVMwRmF4ZW5oM1dKREZ4aWhaQ2Z1OHAzWDUtTkNsSElBcTh5NlFWdHIwYUM0ZWdSWGxhZWlSa0Q4V2E1QS1uczZRdTNfSTFqNjNCeVlpcmFCbWFqRDh1X3NxVTdEa2QwSG5mVHk5OHV6c2JiR3dlaGdTVHFoSUpacGM2MWZlZTNXMW9DTnJJVHFMWHpiZzFUWV9XdlFUeERlSkNiUExzMnJELW1FbmFmRU0wcE82aWtidFkzeWhRX3N3aTQweHM4U2xQTUJVSzNmOEt1VHh4cm5Fc1prN0hCSXJLMWkzdGJ0MldPWkVLS0dkNA?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-17T23:54:21+00:00"
-    },
-    {
       "title": "越南麵包遇上原民味 \"酋長麵包\"創意新滋味",
       "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPOGxjZUlaOTZmY1RyQ0dGUTI0OER0aThrZkg3U0dsZEs4eUtEcFh0Y0pqNWhwY3hzRFZMRHlfX1prb19rdzkyamJTZi1zb3NWQXdBQkZkVnEzcnN6OEl3WVUxNzZ0QUpUQ1pKN0FMb2xxUEZnLVhVUnRpX3ExcTlxOUJJQW5laWVRdUN3QWxtNWZwZjQtaEh1d19NaF9hRzNSbktnSU9aNjlmTjl6YXFUSmVGUWJmeHFrb3dDd0FyVnN6VlFCdG5JTG1JWm9NMTIzc2wzTUlvaElWTGJlZk5QeUhCOTVLRTlkNjRBbGN0MkwzUXZpd3FZVUljVGlDTGk2RXBlTDVMc2o3T3Zjb0gyaElnaVFXZXd3VWpjZzdFTkRSeGduVWs5cGwtNjNDUQ?oc=5",
       "source": "Yahoo新聞",
       "published_at": "2026-09-17T22:22:04+00:00"
-    },
-    {
-      "title": "「客家創意美食邀請賽」帶來多元新滋味",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOdURDMGFzcU5wZ2kzV1dWS2ZkcWJlMXJ4QnFjVjFyOHVOUGlwR1hzQnhDSVhxbGF3NkFTeU5sOF9TUnhJZnFFTmVJbHQyVGRHLUdfNmVES2E2bzZhZjlQTDZnMkM0WW5mMmxTMUNnNGlHLUhnRFNXeWFmN01QV1JLSXJZR2MwZ0l2ZjZBenVtN2pEelBtQUprMzJFNnR0bjQ4ak0tcG01MnhGcGprTy1aRmFFQWkyU0dsZHJfb0dHeXAwNGRKT2V0M0F6ZVFjdmJqZy1xdGRobS10a2tlNzc1aVl5RjF2cnR2UE44OWY0XzFoMW0xTWFqcXlhNmM5ZW1DemFSNUNlRVZ5X1BZLWllQXp0Y24?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-17T14:47:59+00:00"
     },
     {
       "title": "創意飆新天價登台股第三高價股！獲台積電奧援、握CSP大單 2026年營收拚翻倍",
@@ -56,14 +50,20 @@
     {
       "title": "【11:50 即時新聞】創意(3443)股價走強，AI ASIC量產題材受關注",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb09rck5qQ2tqUlRfQ1poaGE5MWFvaVpYNFpnTjV4Mk5XMC1uVkMtS3BkQkFuQ3VNOUdZSTV0U2xhek13WnpZdkZjRGNZVFFFLTdaa3RIZmROV1dHWTlDaTBBcFhzOGJ3MU9FWUN2QTZlMksyUWlQdlZTSk9MMjIweEpUVzNtY3pqbUY1WGtR?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-17T03:50:23+00:00"
     },
     {
       "title": "3443 創意 - 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MT0pWWnJFZTZ0WkxRWG0ydlBhRHNrU19NRGxkTDBEbEJ3SzNHcnk4NnR3TDc0X0p6VDFFYlVyajgtMTlIRHBUZno5NFl2ZjR0ZWJCVWZrRGM?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-16T10:33:10+00:00"
+    },
+    {
+      "title": "創意(3443) 今日股價與討論 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yQnN3M0EwdUk1eGpvSkdOMjhOTTNUUGh5S21rZ3dMVm1hSTBxUjczckFnUjVVZFplbl9vQ1ZlWHpKN3ExRUR0ZWdNRHdnMW8?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-16T07:00:00+00:00"
     },
     {
       "title": "主動式ETF換股！27億資金瞄準上游 00981A、00403A同加碼創意",

@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-20T07:48:22.566933+08:00",
+  "updated_at": "2026-09-20T20:37:56.847684+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2881",
   "name": "富邦金",
   "count": 12,
   "news": [
     {
+      "title": "富邦金(2881) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ORnlGdXlaUnhPU2taSUNTdUJLcFZQalpyNnVMMFFrZnVoNHZSNWxxT1R2Wk13Y3pheUtwVTU4aFpMNGZSSjhrY2NxRjZkUzFmT0c4?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-20T09:49:30+00:00"
+    },
+    {
       "title": "2881 富邦金- 高雄銀大股東持57%股票，最大股東是高雄市政府，股價低，獲利... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BV0JNQjJJZHJHX0pnc1R6S3J2cS1haUh5R0VDRHQzVHQtM2QwRE0zYlRHWU5vSldNNmh6LTktWFJ0OGo5WEl1UzFhTVBiYjY4bUplNXI1alo?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-17T02:56:48+00:00"
     },
     {
@@ -26,7 +32,7 @@
     {
       "title": "富邦金前8月淨利1202.6億元、EPS 8.3元 加計FVOCI EPS達 | 太報",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5MZk03T0hNNUJjc3NhOEthdWNsbWltd2xEblg5bDlkMG1OVFEtZzl1TE9hY2NtOVdaQ1FicElJWW4xSEtFVk91cmtpVVFTWmxOTDJ3V2lB?oc=5",
-      "source": "today.line.me",
+      "source": "LINE TODAY",
       "published_at": "2026-09-15T10:11:21+00:00"
     },
     {
@@ -36,46 +42,40 @@
       "published_at": "2026-09-15T09:42:00+00:00"
     },
     {
+      "title": "獲利王！富邦金前8月賺1202億、EPS 8.3元 - 財經新聞 - PChome Online 新聞",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLUVvTXZfMnNsU2NabjV4d1hQV0E0SFVKYUliLUd5MzZLU0dtN3BhS2ZhNm5ST3U4SERJeEhvZndSTXl2TXlRUG1kcmVhUEFtdF9ZREI5aUY2eHl6TzBYOTBocmRJYjJtVEdiM2p3ek5sSk4zTEFKand2SlRlaENSRTZWeDNIcXlrdFlr?oc=5",
+      "source": "PChome Online 新聞",
+      "published_at": "2026-09-15T09:16:53+00:00"
+    },
+    {
+      "title": "2881 富邦金- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kSUt5QVJBQXJUbjg4TWtpd1haaXdUUG44RjBVaEVVM1k2UmxOMjVmVlRGamJlOUdweW5jLUpXb1JXLUduS09uN3ZpMnpjTlZGRlowU2FFeHA?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-15T07:51:49+00:00"
+    },
+    {
       "title": "富邦金前8月大賺1202億元 加計FVOCI達2336.8億元 超越歷年全年獲利",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12aFprWHNkRlI5ZHkxYl9RYjdLZTY0QUxtcFFHalhfRG1ZN19DY3FJRDM3VFJCbkEybFNCY0l2MFJRN2FMMmZPUWxqTFZMTGVobklMYW04eDE?oc=5",
       "source": "自由時報",
       "published_at": "2026-09-14T17:24:00+00:00"
     },
     {
-      "title": "富邦金 選逾150天",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JUjJWOTNSX3lZVFNtTktITVFVZHJ2VE4wWXVickQ0MjRyODlzT0x4ZnlzcXFNMjc2Q1BvcHBYR2VJTWM4ODJ6Q1hVYk1iMjZfQnZiUFdxd3JQZ9IBX0FVX3lxTFBwYTM1SGxubFh2Vi1nTGVpWnZPUVM5RllkbVl2bEs4ek41eS1lcV84cllFTFdlbDJVYU91aHpubUdjSDgyeXFnLXVuZi1uOEkwTS1oRGVDNW1RUi1oTEFV?oc=5",
-      "source": "經濟日報",
+      "title": "全民權證／富邦金 選逾150天",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5RbnZxeXZ3TWdISzFIYWZkb05HUXZnb2F4aDQ2Zl9fVFNHbDl4dHdvQWZpT1ZlMVZNSEFQSU1qRFBTSlNlZjRaSEVhYnR4WGxR0gFWQVVfeXFMTW0tZFZDNktxblh6aER4SWFQQU52UEpSX0JrZGgxcG5La1ptcTFzZnUzZE9TTUhSWjZmSHI4bWh2dG1SWlNmZEEwOUhIdkRKYzN6Y3p3c1E?oc=5",
+      "source": "UDN",
       "published_at": "2026-09-14T17:05:40+00:00"
     },
     {
       "title": "富邦金衝歷史收盤新天價 外資揭資金「大轉移」真相",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pMlRlaXV0YWM0cWZvUENsTHFuOXpxTVVZOTgyRGkxUzNXMzZ4NDFFWmVnbEZiNmRGci1NaVdCY1NDYlFRbmw2VGFVeEZrNTZ4M2hBY0pFejEtd9IBX0FVX3lxTE14QkEzc1ltTmdFUTZqQUh3VmJpVnhMZ2VLSllIUl9Da2hleVJLZk14LXlXLVdMdmI5aDRNZm81WUZpTmp6NnFsM1FKSkpmdlBOZEZuS2FydWc5QkRiYzBv?oc=5",
-      "source": "經濟日報",
+      "source": "money.udn.com",
       "published_at": "2026-09-14T08:25:53+00:00"
     },
     {
       "title": "2881 富邦金- 意外發現- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HeFhxNDFRMXJ4RVdFOXlOaFA0MWljUEpNWUNqQ1ZWczFQWmwzMVpGNGVjSTV3LWVQWWpVX05kN1NHQWJyS2NTY1o4azdWSW8zR1pIVG5nSmg?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-14T00:29:27+00:00"
-    },
-    {
-      "title": "富邦金寫天價 台北市政府大進補！今年來市值增977億元之多",
-      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxOYm5uNnFoU3VGRzVTVUpEVE1TV1dRZU1qNndCLXZ6cHhhd3JwaGJqLUZYdkpoanVDaEg1TFNMenNoWlNBbXRablpINzJLN3BQZXFBd2tCNktUNHE5bUd3UUc3aDNxYjFJMk53WU1la2hlQzhKd2w0NHotREJ5eTREWTB0Szhla3hrSnE1ZW9OTUpRRkIwempvdENmNWZXdkRUSzBmWEZjZy1VWjJCMi05UkhxRHpwOTgyYWpMTnZsbm40elBQS1p4dlhvWTliOUYyd2owU3NDTTRvbW1oWWVjNktUc0E3WnVTQVJoaUd4VnpHTnl0UlRBdGFpcmFsLXYxU0pRbENzLVJaY1RpdGQ1ZjVDN3gwaXUwbGstbWgtY1RydGpULUR0bVJiRE4ySU41cm5makJKMzdlUlBsYV9xR3VfamZlY3pnOEZNTUpJZU1PY083ZThfS200ZkEtTndfRUZOb09ZNU00T1UxQXdsOFNVcUNwcW9hR0xwLTRfMVFIaUhYV3pPN0JXdFc?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-07T07:00:00+00:00"
-    },
-    {
-      "title": "富邦金飆破155元劍指金融股王寶座 4金控再寫新高",
-      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNZ3AyVHh2MUZER2NhaE4yZXRPOXBvWmNHLThaNEd3MnY1aXBoejNwYUNNaE9hNWtycGNBS2xKTGFYVHktRk1YZ0dNbEhZbWN2cEJtaGdremJZY3dsNWR6Mk05SkxaVldYS3VKXzJqcGg2eGFRdzJxTy1BSHpRdkk4WkN3WlpRMjd6Ny02ZjFVR2F5N0dfZnVEQWRVb0tiaS1tU0wza05jYm1rYlBJOF9XZGZZWlJwY3V2NS1zZ2l1a3djWWRsaGFpUXhNQWRQTWZlbG1Za0ZIbndLU0QxTWExbGpHazFlNW9fYjRES2M4dGVzWXZZRktkUXI3ZGRhd1FjdURyM2tVTm9aZ2V6VW5sbnRKcEdZbkJzZks2VDB6ZjJOajVZd2ZYdmstcFkybFZFRTc2VUZncWhNdXN5Y3NLMmRxS0lXMW5uOUlvWWpwMmREdw?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-06T07:00:00+00:00"
-    },
-    {
-      "title": "凱基金、國泰金...金融股爆發現在可以買？蔡明翰點名「這3檔」還有肉：不買富邦金、元大金理由曝光",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOVJUbkVRb3ZiVjRDRjRPOUdZX2k5VllXVDlNZnY3am96ei1vdUxZcjRzcGlGcnZRamtWaDNsekEwcXVFbHNIQ3NQR1F6bHNiUksyVmI1NWprMERmajBia0RmWVhUd2RLcFJJaDFsTEZfX3FTRVhwR2tEc2xDaGxzTg?oc=5",
-      "source": "今周刊",
-      "published_at": "2026-09-04T07:00:00+00:00"
     }
   ]
 }

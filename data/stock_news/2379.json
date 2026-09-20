@@ -1,38 +1,56 @@
 {
-  "updated_at": "2026-09-20T07:48:33.284283+08:00",
+  "updated_at": "2026-09-20T20:38:06.273517+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2379",
   "name": "瑞昱",
   "count": 12,
   "news": [
     {
+      "title": "瑞昱(2379) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Ydk1OYWlGWW1Bd3dTZVgzdjN3UkZYeWk4YXE2bGJ1WS1FN01wNlgzOVhSX3FFSXpTUHkyaUtDZzFRQU9DZDZaX2FYd0U1TVdMSDE0?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-19T16:03:24+00:00"
+    },
+    {
       "title": "2379 瑞昱- 🚨 主力加碼卡位？昨日主動式ETF 加碼這檔！ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSUWRuczE5c0ZrV05OUUI2VFpjcWktN0RpR2NBRXN6OS1maE85UnRrSW5fOVdCelZ1c1ZtNUtXZlZwLXBjQUNXNW5DaVRXVUs2LUNWcUxWQUI?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-14T14:20:50+00:00"
     },
     {
       "title": "2379 瑞昱 - 加油 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aUFkzRDFZRDBVUlMtTDRwRWRkTC1zLS1kcFo3TWdoR3oxWDA2ci1TcHFfcWxnM08zbWVhSGQtejR5RjBVNHRvXzV0RmlSRHNLcU9ubWxUdmQ?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-13T21:13:34+00:00"
     },
     {
       "title": "全球前十大IC設計！ 輝達奪冠佔6成 聯發科、瑞昱也上榜",
       "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOakh6OXdiVjhlMjlpNEdwYUt1RlQ2YnR2WkRBVUdWZlZVMWZ0NmJFRjlENi1HUTRSaFM2NW9TdnN6OVRTdktZN3NHc3AzbW9WUFJjS1VOYTlSX0xyLTZSVEQ0MHBFVE93M0xUX1Z6VzlwS2c0bThsMTNKSzNoblE0WUdFQ1dQUVU0UklwUXRUTC1INnBGNmhfanRxTnVUTDFQOGdlSlNqdnRrbGtMd1pmTmdVNml4ODYwVUN3LU1lYTAyRDFmYi16aW5qOS1BSllMal80YVh2SENfUkY3TXoxZTI5YzFPeFA0dlQ4ZmFJY2c3azJNSVN1NGVUQk9RMDZJdWIxTXRvNldoQ0tVUTV4dm12RVpZNjdRWkJxbFBFOEFac185UVFETHVoUEw4czJWREhrRzlVNmQ1ekJVdHlvaWJIMHRtVG9XS0Z4T3dRMzdYUHBsVGtHSjVGZTRBNjA?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-09-11T08:17:00+00:00"
+      "published_at": "2026-09-11T07:00:00+00:00"
+    },
+    {
+      "title": "2379 瑞昱- 全球十大IC设计商第2季营收暴增七成台湾3厂家入榜(图) - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1yYnU1Q1l4ZXJnTW5VVF9iUzBmZkRkS3dZN0wwc2NNSzY1Z013S2FGWlVsLXltbHMwa0QxUDV6UUNCUEFOWjlUUzBEMFFqQjIwQTZoNEJCU08?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
       "title": "2379 瑞昱- 晶片設計也交給AI？Nurol AI：工程師未來從「寫」變「審」 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5odlN1ZEhpMXN2bzA0a3YtU29XR00wSEZ6ZWdsSmNBUm5vOTZmS3FfTjNKMEFkbjFWdE55UDFzRGZPTEpBdTFRNHlqekdJSVhYTm1xZUJ1a0o?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-10T02:54:32+00:00"
+    },
+    {
+      "title": "瑞昱：已布局3奈米ASIC",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaMDBnRG5TSW54SGljdFhsZ1BIR3Jpd3dhclUzQ3VWUFVHbW5zVi1uMUVJXzRTbXFoWmJYN0p2LXNxeGItajVab05Bam9hQnZzbWg1dTZqTWs?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-10T00:27:40+00:00"
     },
     {
       "title": "2330 台積電 - 安謀衝刺實體AI商機強攻機器人台積電、瑞昱等九條好漢助陣- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yRHh6S1diMXRqTk1oY1VHVTFhdG03X3lZZVR5X2ZZS3ZPaHdtYUowRUt2dVprSzRORHM1cTlpLUlQNk5SUUxkeDh5Tzhyc1JfMXlsaUxYT2w?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-09T08:31:27+00:00"
     },
     {
@@ -44,7 +62,7 @@
     {
       "title": "2330 台積電 - 安謀強攻機器人台積電、瑞昱等「九條好漢」助陣 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fWmNVNnFpU0NLYzJCelRJVG9qVUhmd1ZlSXdYUGItaDE3V1BTWlVKQmQxdk81Ujg4WFI5S3BJc21pR2ZfZUtUa0k1YkNiOFJsQlBxdUIwRUM?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-08T19:42:04+00:00"
     },
     {
@@ -58,24 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fenFPdGE4NDJZTDZ4ck53RGlrbFhQX3BGR1R3VnIzUHRCWmlPdndYT0JqUGw4UkF1NDBjWndCZXN0REZNa3lCRm83WWpVUQ?oc=5",
       "source": "TVBS新聞網",
       "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "瑞昱：已布局3奈米ASIC",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbzAtNW9tbUk0S1JreUtRd0c4T2J0Q1MySkFibFpVNnJYMFJFSEYzN1hVWjVNVE43cGo5Qkh3WEs1MnpZaWw4bEZWaFoyMmdvd0V1ZDBRaUx2bFFWTnd0NnNreE1ucUxsaWtRYVdKODVDSlV4cnZlMU9lVmhaVWpjT0NMeWNSQmxoU3NFSUNFaFdXNzVCTnJXXy1HUnVUaUtHbGNwR2xsZmlCZlhqektj?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-07T07:00:00+00:00"
-    },
-    {
-      "title": "2379 瑞昱- 影／瑞昱董座邱順建：AI發展帶動明年景氣樂觀示警資源排擠情況- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TZFU2Y3V0bjVXSlZfeS1Sa3A1bUN1N19Vc3AxaDl5MzdVSDFnajVtaTA0TXF1ZHZ4SFlNclpLWlc3dTRQUm9iV3IxcTNLWU1GYWlINUo2eU0?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-07T07:00:00+00:00"
-    },
-    {
-      "title": "台積電副總秦永沛、瑞昱董座邱順建、北榮院長陳威明 獲授第15屆工研院院士",
-      "url": "https://news.google.com/rss/articles/CBMizgNBVV95cUxOVU5TLTlsa1drTHdSdTE5SEJhZWNQeEtyajlwUVVTRGFzeGdFLU1TbVV4U2ViVmZ4WGttRkFZUUpmYXc4S05NWkhtZEhLb1pETTVBZHFneTh3U1pHTHhEeGxYUkRDMm1WNUQyWVRJWnQ0d3g2dDVZbmFtLUd3ei1oc1pYTlpsTDVzb2NpY19CREd4M1gyS2ZXSVpTU1NZR0p2ZGplNlkwY3dBcVNvV2oxTmlqMmhITDZXVmZXSk1STzVEbzFkR3JrTTBpeE4yRTFsOW8zVl90UnFIdEZyUEFBN0hLZFlOOEJzUUJrOVFpdEZsYjhHakxNcDNiVWQxMkZ1Q3pxOWZKVF9yWGhmcXd1MnV3WFg2X0NkQlVuNnpXZDY5aEo0aWVqeHBHeXU5MmQyWEZuak1ZX2UxNDFxU2tCeW93M0tKZWdncG9lZ1BESXdJSksxWnhJaEU1TzEyYVhLTVhnbkwwWGgwbFZUSEtXVEpwU0tfcnYtb0I4TU9iMmlseFNOYTNXSTNfYV9iS0FXbi1sZFBvZm5Pck05RlRJdzM5dGdOcENiODdmWXR6WVBqSFZXOTlBZ2lwZDBCTVJ6aGQ3dXZla3pWN3MxZkE?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-07T07:00:00+00:00"
     }
   ]
 }
