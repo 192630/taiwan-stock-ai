@@ -1614,6 +1614,8 @@ footer{
       <span><i class="legend-dot" style="background:#f59e0b"></i>MA5</span>
       <span><i class="legend-dot" style="background:#2563eb"></i>MA20</span>
       <span><i class="legend-dot" style="background:#7c3aed"></i>MA60</span>
+      <span><i class="legend-dot" style="background:#5f8791"></i>支撐</span>
+      <span><i class="legend-dot" style="background:#c86f62"></i>壓力</span>
     </div>
 
     <div
@@ -4398,6 +4400,34 @@ function drawKChart(history){
   candleSeries.setData(
     candles
   );
+
+  const levels = calculateSupportResistance(history);
+
+  if(levels){
+    const priceLines = [
+      ...levels.supports.map((level,index) => ({
+        ...level,
+        title:`支${index + 1}`,
+        color:"#5f8791"
+      })),
+      ...levels.resistances.map((level,index) => ({
+        ...level,
+        title:`壓${index + 1}`,
+        color:"#c86f62"
+      }))
+    ];
+
+    priceLines.forEach(level => {
+      candleSeries.createPriceLine({
+        price:level.price,
+        color:level.color,
+        lineWidth:level.title.endsWith("1") ? 2 : 1,
+        lineStyle:LightweightCharts.LineStyle.Dashed,
+        axisLabelVisible:true,
+        title:level.title
+      });
+    });
+  }
 
   [
     [5,"#f59e0b"],
