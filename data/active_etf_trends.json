@@ -1,0 +1,10 @@
+{
+  "_meta": {
+    "status": "waiting",
+    "updated_at": "2026-09-20T14:00:00+08:00",
+    "snapshot_count": 1,
+    "description": "至少需要兩個有效交易日快照才能計算連續增減趨勢"
+  },
+  "positive": [],
+  "negative": []
+}
