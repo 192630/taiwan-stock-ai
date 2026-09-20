@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-20T12:34:33.709536+08:00",
+  "updated_at": "2026-09-21T01:32:30.322387+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2505",
   "name": "國揚",
-  "count": 5,
+  "count": 4,
   "news": [
     {
       "title": "2505 國揚- 新加坡商瑞銀跳樓拍賣某揪！ - 股市爆料同學會",
@@ -28,12 +28,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GVWpvNGhVQ08wcjVNOUw3S1F6UXJXRlpRalEtSGIwOUV0NkFVLVA4TkNQVmVrRWdhV0d4bzI5MkZMZ2YxSVEyYl9RRUZRdlB6OE1nLUtaQmE?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-01T07:00:00+00:00"
-    },
-    {
-      "title": "2505 國揚- 澎湖無人島出遊小心燕鷗繁殖期避免觸法- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UQmxtb0JPMWlWZlFsNmNMcG8xOFdjRTcxTWhHRXhTOHlqRFpVRGpyZTY2UmNTdDVFR1JpYjk5eUoyMVpKMWp0MTNnSUY2V19XM0hZRVNpY1k?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-25T10:02:06+00:00"
     }
   ]
 }

@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-20T11:34:58.051222+08:00",
+  "updated_at": "2026-09-21T01:31:55.281308+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2406",
   "name": "國碩",
-  "count": 1,
+  "count": 2,
   "news": [
     {
       "title": "討論牆 | 盤中速報 - 國碩(2406)股價拉至漲停，漲停價31.15元，成交2,295張",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mQ0c1UTBRVFNlZWJDV3NCZW11TzE5RHpBX09qNS1XdFVuRTlMdkk5S3gwd2lnSTlrMHdDR2JpajBYU1V2QU9QNnZBY0VJUnFMOXY0NUlNX0N5NGJOY1RmTEQzcGE?oc=5",
       "source": "LINE TODAY",
       "published_at": "2026-09-19T14:10:06+00:00"
+    },
+    {
+      "title": "2406 國碩- 林鈺凱啊…不要再唬爛說得很厲害一樣了！天天只想編故事賺會費- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KX0FvMjhWaGh6N2RLOHdWZVFSclpKLTJJM1JOM1VuWFNWVTBOLXd1dWEtM1BMVElCc1ZQUFhBa29JZUNWeXlZd2dxMC1kNHQ5d2FUc1VqV3U?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-08-31T07:00:00+00:00"
     }
   ]
 }

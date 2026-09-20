@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-20T11:35:00.079610+08:00",
+  "updated_at": "2026-09-21T01:31:56.871574+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2413",
   "name": "環科",
   "count": 12,
   "news": [
+    {
+      "title": "2413 環科 - 謝謝追高的韭菜給隔日沖和空單提供流動性，下課囉 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLMzduZFBVSHZsbHhVQUNXRmhqTG8tSU5nUWNSYi0tajNyZUp2MjR6anozbVh3bmNtb0VtMkJYRzNFTV9lRS0yUEdVSXNxeWJsaDhQRVpaOUg?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-17T01:17:29+00:00"
+    },
     {
       "title": "攻高功率電源 環科H2熱轉",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZcENlVTNtNW5qbmFwXzJaZDIxZGFCY0x1NXBlTW53WmVLNGVTVEZFSlpMYk1jT1RwYUhOYVhxaXpmMDBJZFcyTzZfU195V3ozR2dIX0x6aEpiQTB2c0xJb2pNeWcxcDZZYk00?oc=5",
@@ -16,18 +22,6 @@
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBDY0gyY1I5U1AxWklNcEtYV3RwZS1Ia3BmTjVqbl9BeVFaZXlqV2c1RTRmOVh3T0diVU5pbVdaanFaNnZNT0VESWpRekdUR2RW0gFWQVVfeXFMUHNGX0p2bndQeFFqUndqay03bG1tUFUwY0E1Zm5EM2N5aHlIc01yR3ZlWldCZlVtSFZFMjY5TmVYNkNFOVhOZkNIeGVuMWJzOEVuSS1BbUE?oc=5",
       "source": "UDN",
       "published_at": "2026-09-16T16:32:09+00:00"
-    },
-    {
-      "title": "電源一路升級：環科 2kW CRPS 出貨，4kW 新品研發中 | 科技新報",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OWXY5Z1YxRk5rTGhCb2doNk91OUhFdldmbldrQVo1RDctNFFDZXNnZlZtME5sVFpHaS1kNTVFQkNUX2hOTWQwQndWZ2N6ZGtuRFhfS1Bn?oc=5",
-      "source": "LINE TODAY",
-      "published_at": "2026-09-16T15:14:40+00:00"
-    },
-    {
-      "title": "環科看好下半年本業營運 缺料成最大變數",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsZVEwb3Z0bUM5OWhCQXhtS0RuYTV6a3M0RlFkS1NxLW9mNExyTHhrcFFLdmQtaDdoQUFTZkgwR0N4U1BNQzRqV2JodlhKQmxrTnI0YUFjSFBfUdIBX0FVX3lxTE55elFmMWdUSkY3bDRsWnVfSW9RSjhpcHZzV1Y4WmE4eTRUN3FfU2NlX0VWZjVhczZXYkVaRG1OcEM2aDc3akl4bmh2M3dkM1duYk1jVkRYNzk3NHhpYmNB?oc=5",
-      "source": "money.udn.com",
-      "published_at": "2026-09-16T06:45:33+00:00"
     },
     {
       "title": "電源一路升級：環科2kW CRPS 出貨，4kW 新品研發中- 股市爆料同學會",
@@ -62,8 +56,14 @@
     {
       "title": "環科AI電源出貨強勁 EPS上看4元 股價留意50元關卡",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBET2Roa2FlUkVKa3JsaGgweThaa08yU3FpbkRndHd5Qm9EeXhqS0RZLXBsS1BoMmpzMGlmXzdFaFJpcWxRaU9SZVptM2FlUlU5aFIwSHpiZU9wZVJTalRuVUxINkdmbUN1Q2ZQVFlfZw?oc=5",
-      "source": "moneyweekly.com.tw",
+      "source": "理財周刊",
       "published_at": "2026-09-10T03:58:21+00:00"
+    },
+    {
+      "title": "今日最夯股／ 追價買盤進場 環科量增強拉漲停 業績面有什麼好消息？ | 市場焦點 | 證券",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jNTFDU3NGWVJNOE5kT016TTI4bTZNS1E2djFxeTJ0R21jQ3hOWDdJX1ZyRXpLeERLU1ZhUWFUTERhRHY1OG9DTUVQam1pWHRFVVg4MENFeWlkZw?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
       "title": "【10:24 即時新聞】環科(2413)股價勁揚至49.15元，海事代工與月營收連三月走強帶動買盤，短線技術面止跌轉強惟主力籌碼仍偏空",
@@ -72,9 +72,9 @@
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
-      "title": "今日最夯股／ 追價買盤進場 環科量增強拉漲停 業績面有什麼好消息？ | 市場焦點 | 證券",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jNTFDU3NGWVJNOE5kT016TTI4bTZNS1E2djFxeTJ0R21jQ3hOWDdJX1ZyRXpLeERLU1ZhUWFUTERhRHY1OG9DTUVQam1pWHRFVVg4MENFeWlkZw?oc=5",
-      "source": "money.udn.com",
+      "title": "【2026/08月營收公告】環科(2413) 八月營收3.3億元，年增2.2%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVDNMMkQ5Z1dTZnFOSk9QR1RZWHE1SVpyRDROU3hTMGhIVU5XclFsc280UzE3QWZ1Q1lOUkYxOEhMSTVISFRJQnhEN3JkWWRyR0ZhUFRuRDlDbFBGUUZ2VmRxWGJ0c05vazVoSnVrQ2dLQ243bGpzTy0zR3lIN0V0TGJyUllHVkNUZ2c?oc=5",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
     }
   ]

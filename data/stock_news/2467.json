@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-20T11:35:22.004198+08:00",
+  "updated_at": "2026-09-21T01:32:17.793421+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2467",
   "name": "志聖",
   "count": 12,
   "news": [
+    {
+      "title": "志聖(2467) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JMl9kc3FleU5pTXc1SVhtREZmYUF3TUdicVd4MnEwZ21ZWFVKclV5elhkR0dWeU5xbm5hVm94ZGNpdDZXdlRVdTZVWjhaWFo5MW9B?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-20T05:45:43+00:00"
+    },
     {
       "title": "志聖慶一甲子家庭日逾800人同歡 加發4000萬元獎金感謝同仁",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9MRFQzalN0d2M1QldlV2xuWmhCeW1lbEhaM1JMRkw1ZTR2cnJWb3MtNG1qTFk3eEdQdXE1R0tmc09RMGZ0Z3U1blhzUlF1Tkk?oc=5",
@@ -32,13 +38,13 @@
     {
       "title": "《集中市場券商買超前30名 3-2》中華電(2625)、第一金(2467)",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMk1wbXNBV3kxUWVFLVNwVUdiZ05wVEZxNG9LZVdMOHFlbm80T3oxWXdabFFMVUE2aFVZd0hxdjE2d2ZmOGJ4djlLaFkxOV8ta25GTjB4UlpiemdHN1phdk5iS3QtX2VHUTRleE5xVVpVcDNQbW9EMUM2MGJtV3JSbTZ1Yk5fWV92?oc=5",
-      "source": "富聯網",
+      "source": "ww2.money-link.com.tw",
       "published_at": "2026-09-16T23:32:00+00:00"
     },
     {
       "title": "志聖大陸投資事業換股組織架構調整 提升營運效率",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lRXNoLUhfWG1qUUFaQk1tUldwbVFYdktESm5qQ0ZtVm1iaWRsbWtKSVRZX09LR3V5djNLWktRLUx3TnFBSnN1SlU2dnJpUG5RVTZZOWhpRmZmQdIBX0FVX3lxTFBwd0hKQmxJdFZfR3dPbklXUWhLbmNvS19wMnppLTdUQnRQdHFERXFjR3ZYdGVESFQzSTRWd1hEU2hiWXlsVF85Q3I3WkVYaXZSUFZ1VFlvajdKVkZWODl3?oc=5",
-      "source": "money.udn.com",
+      "source": "經濟日報",
       "published_at": "2026-09-16T12:12:02+00:00"
     },
     {
@@ -48,9 +54,9 @@
       "published_at": "2026-09-14T07:00:00+00:00"
     },
     {
-      "title": "志聖1-8月營收70.77億元超越去年全年年增83.37%",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aN0ZrT1lQVkhmcWJlNHBfTXhMMWFTM21HR3NwSTR3aEhpMWxDWmE3TUtKTzdqVXB5cG44Mk1BWHpIam5yc0xMRTRsc3J6QXM?oc=5",
-      "source": "news.cnyes.com",
+      "title": "志聖1-8月營收70.77億元超越去年全年年增83.37%｜新聞快訊｜豐雲學堂",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtcWEwMm5oMHlCMUdSYkl2cTByTVkySDBVUWpEZzVwZ2J4RGdXNWRuc1ZhZWtWaHlTazZibmUxWi1QVExISWl6aU5OWnotOEwtOEZKdU5XYlRlejF6dkpWdEFjUU1HUER2UVRUT2R3cHhIb0JwX1E?oc=5",
+      "source": "sinotrade.com.tw",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
@@ -69,12 +75,6 @@
       "title": "志聖、辛耘營運添柴- 日報",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mNFVGbTQwbU4zWTA3LURPWkgzT3hmM29XMk9WRll4elBpOVNoVm5UXzAxdzluYmJPX0dEN3ZNcE9rQndyelZ4X2lTUm84MlhzV2JIOWJtYnJUdGFWSGI4?oc=5",
       "source": "工商時報",
-      "published_at": "2026-09-07T07:00:00+00:00"
-    },
-    {
-      "title": "AI封裝設備迎最強搶單潮！誰能複製印能暴漲神話？法人大膽預言：不是志聖而是「它」 - 上市櫃",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SQ2p6c1luNUV6OGUzYVVlWWY3LTljSXUybHEtVlJrcWVIZXRXSnRiQWRFT1FQcFBKT05JUFRJVzhKaFc2V044TnNERU1UMDNYaEhqQmlrVU43SGRZZ0gzQ0d0TkFwUzB0OVE?oc=5",
-      "source": "旺得富理財網",
       "published_at": "2026-09-07T07:00:00+00:00"
     }
   ]

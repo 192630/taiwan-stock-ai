@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-20T12:34:37.656459+08:00",
+  "updated_at": "2026-09-21T01:32:34.171303+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2524",
   "name": "京城",
-  "count": 9,
+  "count": 10,
   "news": [
     {
       "title": "京城機電0187附屬青島北洋天青遭中證監立案調查 涉資產重組虛假資料股價敏感",
@@ -42,16 +42,22 @@
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
+      "title": "盤後速報 - 京城樂富R1(01010T)次交易(7)日除息0.1元，參考價9.9元",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Cb3BjVW13YmJoenFLdGwtZ2xxN09uMUlITnoza3FncXpXaFVHRUZaMTdVdmhrcU9Fd1ZWcnlERS1jV3g1a2I5enl3VzZZR1BTY2R2cl8tX1dMTHJ0d2tOaXBQa1o0UQ?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-04T07:00:00+00:00"
+    },
+    {
       "title": "股市必讀：京城股份新發布《北京市康達律師事務所關於京城股份2023年限制性股票激勵計劃回購註銷部分限制性股票實施情況的法律意見書》",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wQW4zREtLVU85MTJtTjdLWkRpV2UtMS1ONWgyNC0xSFlJRFZlVndBVkZ1X21yWHpubEU5YjBEV3pBM192ZDVuWFJMQ1NiM1FOUWc?oc=5",
-      "source": "news.futunn.com",
+      "source": "富途牛牛",
       "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
-      "title": "京城機電股份(00187) 股份計劃 / 已發行股本變動",
-      "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxOSFJkOFdsMVJsR0R0cVFBZ3Z4M3FvU1B6dzNvRzN4NUgwc3pDZFEzYm9FaEhlSU1jTFctbUF4Z0U5WXhEaVlYQ3laNnJRRFBralBrNUlPMkZ1VEZpQlhGOWhJcmw0ZVZhZmRWdVdOZWNwRlNseWk1dmdDYWpRbGlWMXVqYmRyeUVSZWc3RUZCaWoxVDhuOUhWWE02N3dqVWxrazVNNnExc05EUjF0OFNQY0pNelkwYVJOUUw3emxuYTZfTVVYWXJVZzJtRktQUGRheFo1R0J5RU04bEVoYjhPLUdKX1FEenRDekcwU3dTSWVtaUxGOUFjRWJESU9SU0E5TFBOQkRlYnBVb2puQ2w5RUxDQzZ5RkpHNWlGb0prMENTaEtTdXNrQ2hrVE03eWpScERmU3RsWjlVTFQtWTZOcmpQdy03Ykc3S1BRQUY2eGk1WWtQVDBZQVNTZGhBMVY4a3I5cGNSZGVUVU9yZUNES01xdkIyUDBNTkthSmZpZzY3MUhtTVpkbFZlWVNrbmEtWmxtX3EwNTZESGZ4Wk4yWmplSnpBM18zZlJWcGFlWXRjemhTX2FNdmtISE5fVWk3WjBfSVhnSWhyVjcwMFVJRlc5ZTVmNVM1bkw4eTlDTmpuZw?oc=5",
-      "source": "hkej.com",
-      "published_at": "2026-09-03T07:00:00+00:00"
+      "title": "京城佳業北宇物業黨建引領老舊小區升級 慧忠裏收繳率升至86%",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sMmFiZm1ZUXdJR1ItTFdhT0JSbF9IZG1JbVdoYjRuUUhDNTY0dy1VQjFZcFRrWlp6MDVrMzhDcDRKWkNscFlmaDVMY2NTLVBSSmRxRkl1LVFvdw?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-02T07:00:00+00:00"
     },
     {
       "title": "京城(2524) 個股概覽 | 個股 - 股市",

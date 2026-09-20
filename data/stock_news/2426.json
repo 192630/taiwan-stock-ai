@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-20T11:35:05.484401+08:00",
+  "updated_at": "2026-09-21T01:32:01.877303+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2426",
   "name": "鼎元",
   "count": 12,
   "news": [
     {
+      "title": "2426 鼎元- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9paDk3RnA1V096MGoxNkpvNzFDSVFFdlNqbkhGMGNIY3Q5eUM3ZF9ZY09qUVlQNUdJT0JNdC1VeFE5MlhXVXhmZFlqS210YTMweUpxd3JFZVo?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-18T22:04:49+00:00"
+    },
+    {
       "title": "鼎元訂單看到2028年，一顆不起眼的PD，為什麼讓老牌LED廠突然要砸12.6億擴產？",
       "url": "https://news.google.com/rss/articles/CBMi4gVBVV95cUxNX3VQN29sV1VObGxyWmR4VDRJUktiWGdnVGJNRzJjOEs1VzJRVHVvNlFTd2dOTS05M2UzMWtVdkM4SEFTT1FxSjc5alhlS0N1eHZ3V0R5SlNWSGV2QkRMRlJvSjNBTmsySTVuRVFJQThSdUhVbGZ6VzkxWXFIaTVvdGNZODVHeWhlVlQyVmJOQmNHT19JenFETWxCaWZnVFg4TjFYeUduejJqX2E2NVJPcFZZLWE1LUR4aUltaXo4d1ZHZ0tRM1pYeGEwZkkxZXVYcGhSZHhqbm9CSlg4WXBMellVMjVMWWVhRjBpcXhVMzRfRUtDeG1mdlJHcnRtTjd5a2tvTm0yd3lBdC0wT1NzQ3hxY3kzRlhMeW9HZFo5SnVQYnNqdkh2THNwVWt4Smx0dEl3cGJzdkxwbjNMVlBkNndDTlNSNEJrOURaTk4wVEdzLWxBV0FkTExrQTRjRFByQkhZREtaYzFJZXFfZjNpMFVjdTRyUEFPdV85amJaTE5KUkVEZHBSRENIX0JVa0tTclVfM1lGcjJSTEVJQmdCN014TnZmUFBfMlEzVVZGcGFvcEJLaXBVc0Vhd3A5bmF5ZTNWWDMzTVlVQjk3V2VvX0dhTWFXWC1tWmlrUWJxbTZ2b0RDTlhBTTZ4QmliLTRyNURoa0hsQmxySEotUHlXN0JCSkxfQ0RLWl96VWI0SUxNblQzZnNMTjN5Y285Ry1KQmc5RjFNT0xoZm50dV9TQzdndDRGbElvQkFGSzNOcE1vZUZZZUtTRHA2WS1CTHB6a3QwMFFFWDNEM0lIZWs5NXFrcU8yYW43WHRfa0ZiNTFQQ0pxdzVxZUpnNmZHdGktdXNfcElzZDRnTFZFVFV5QzhZOHFVMWRzQkMxN0NVVzdTa2NKazJOMjdweGtnZWJCRG1INnNJTWIxWEtkV0UtQ2dwVVh3VlppeDZlYkltTUFOOS1PeHFOTEE0TFoxbTNHelE?oc=5",
-      "source": "moneyweekly.com.tw",
+      "source": "理財周刊",
       "published_at": "2026-09-18T05:58:03+00:00"
     },
     {
@@ -18,15 +24,9 @@
       "published_at": "2026-09-17T18:48:30+00:00"
     },
     {
-      "title": "鼎元(2426) 今日股價與討論 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xRHMtbUtfZXFjUGlpSnRZV0RfVGwxUHhPMFVudVAtakVpSUtOSVNDREJSR2cwRzJMblpDRzBHajh1SXlHakZ5cVU3VHZSWm8?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-17T07:00:00+00:00"
-    },
-    {
       "title": "鼎元LED感測元件放量 斥資12億元啟動擴廠計畫",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55Rm5WNDQzb0ZJR3hoMlhLS3RXalNnNmVVX182QmRWcHpsQm04X3pYUXV4bm5RYWtDaEo1OEZaM3lmSlUwUGdBSVYxUmZXSGtUY0lzR0M3anpfU0RtRjFwWmdZRlBXVktNaE1sNkExRQ?oc=5",
-      "source": "moneyweekly.com.tw",
+      "source": "理財周刊",
       "published_at": "2026-09-16T03:28:21+00:00"
     },
     {
@@ -34,12 +34,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GT0NMZ0hMZ0JHUTFuYm1Hb2FaaXFrYzRxakZYakhSNDdzeTNwblAzYzNrRkM0TlJqUlN4R21mRWFNTGxBRDFlaThmQmtGVHp5Z2YxdG5TeWw?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-16T03:15:45+00:00"
-    },
-    {
-      "title": "【10:51 即時新聞】鼎元(2426)勁揚逾9% 靠攏百元關卡成盤中焦點",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQXzMwV29uQVUxNnlNUmNVallwR1RuVDh4U21FU09YbHp4cm5mZ0JLOTZ1WjhwRWNUcE5Eb29ieUhNa1ZkaGVZb1JkTW5KSmY0WFZ3SXhXcUMzZm1kNDRhSW5nZ0hUYTVFak96T2NtWl92b0FvQ0F5R0VrSENCaWgxVlJmNld1dXNFY3daYlZR?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-16T02:51:59+00:00"
     },
     {
       "title": "2426 鼎元- 光鼎股價一年飆400%！轉型關鍵：最快不一定最好- 股市爆料同學會",
@@ -62,7 +56,7 @@
     {
       "title": "警示股：週三(9日)集中市場遭警示股票有鼎元(2426)等10檔",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTh1TTFmT25WRFRkWVRHaGZkMnhEMU9wak9zS0Vhc1lfb3ZNQy1GRUFicXdZNHVpZ2xiZ1kyYjk5S0Z4THE1M0V0a1pCTTc1YUFWREJ6U1BDT3JGS2I5S0prNEFKUWhrWmFjdnZaaFdOY0lTTVV5RHd6RHpHTDBwQTZWZTRFSjVv?oc=5",
-      "source": "富聯網",
+      "source": "ww2.money-link.com.tw",
       "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
@@ -76,6 +70,12 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54dUdBaEVLQ05OX0diNzhKMXVuTzZLQ2dJbHQxUTFXMU9wY2pEZ1NTaEZTWGZEQnVCSWVnM2pjdlM5Zk5FdTRQMGlPbWNCZmlOSmtleExJa2Q?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
+      "title": "《上週上市成交量排名6-6》鼎元光電(348066)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVHgwa2RESWJpd0Rfc2lWejNYVkJRMmpIc0JqLTNvRVViekkyQnlxUHQ0REdzSnVYVk9ncWItdVN5NmdMS29pVy1HYnY1YVJuTXVJVkhyUUtNVW03SmpMZXJiUXl2ekRNTUttZ3VoeE43b29NVHpfVWQtR2RmVmhiWXcwYUpCMDc0?oc=5",
+      "source": "ww2.money-link.com.tw",
+      "published_at": "2026-09-06T23:38:00+00:00"
     }
   ]
 }

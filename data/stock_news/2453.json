@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-20T11:35:15.826905+08:00",
+  "updated_at": "2026-09-21T01:32:11.892737+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2453",
   "name": "凌群",
   "count": 3,
   "news": [
+    {
+      "title": "Syscom Computer Engineering Co., Ltd.的停業前的淨收入 – TWSE:2453",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONlM3RFFMdGhZdXBISkVGR1FYMUxwMVhmY0c1YndWaFVHUXUwLWVlSzBqbGlpUWdfTFdzSFhhcHk5Ylo5WHpyQTFwYUZQWFhLZ2p1Vi1JMnItZldpWkc0dUNkRWZrajZxNFQyaS1YSmYza3dNSG9hdnRpUEVPT1B1YWZwZ1JaT1pobWlzZmlyWUFDQnlPeElOb2w2V2M4c00?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-15T22:25:38+00:00"
+    },
     {
       "title": "【2026/08月營收公告】凌群(2453) 八月營收6.23億元，表現亮眼、呈現雙成長，創近2個月以來新高，年增10.05%",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZXNUNFo2cjlDbkZyR3p3M1VpREw2SzVvTi1uekt3OUFpTThSSDFCQ0pCY1VsckpId1Vsd0dzdloxZXpTU0tXRThSWTNQUTJ1Zjg5Mi04VVpuaTlRWkw0VXVZNXFqRHozUHozWGtESk5IaEplTUFLLUtyXzQwYmpoMVpXMHlEM1B3M3c?oc=5",
@@ -16,12 +22,6 @@
       "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPbnNlWjdjNHRVWnlvZFRWSnI0eEVONWdTYWtvS1ExR2h4amRrRFJYXzJLTktGcTJkR3lXRnFGbFNlTE5RM1FJZmt3SlJFOFJTWUoyQ0ZYR1ExTWpoeVZWbndOam1YSUhlS3Y0RlByWnF3ZUtXWDlsTEx1MWVTUHViOU9heTUyU05qOGxSX1VMM3ViWVE4NWNxUTY1UGNpdmc1ZFRpemZUamx2cEtYUHZueFFUY25lNzFNMXVHLXhYclZfTm04WUprRWdLeGZhZFNLb2RCV3R2eTRPN1VPNjUzcGhWQWhvd2QzXzhJT0NPU2NEaEJsZmxKWWZ0MVFiQ242RWFCSzlINDIzVW1DaUNadW43NUY2cWZUN3FJQ3dIdlhGMWo2OVlZdWlxSzVCQjN3dU5vQlpxazhjcG5rU25fLXRQWUpWT0swU0ZRV0JKVFFoY1lXRmNCMTBhWjJmMXpPa2Rrb25wWVV6eTZEdmZYbVRnT3NTMENY?oc=5",
       "source": "Yahoo新聞",
       "published_at": "2026-08-31T07:00:00+00:00"
-    },
-    {
-      "title": "凌群(2453) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Ebzg4MnI2Wk0tWlM2RF9kNEFpbnJMQkhjR3hXNkJUQUFHeF82WEN3dXZPV0VQT2VndTNsT1BaRE9nRmVJUXRCOTJxNXI5SFV2bDlz?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-22T01:42:24+00:00"
     }
   ]
 }

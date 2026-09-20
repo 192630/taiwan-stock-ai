@@ -1,20 +1,14 @@
 {
-  "updated_at": "2026-09-20T12:34:28.118479+08:00",
+  "updated_at": "2026-09-21T01:32:24.959401+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2488",
   "name": "漢平",
-  "count": 2,
+  "count": 1,
   "news": [
-    {
-      "title": "島語不用搶位了！高雄漢來專案3000元起 國旅補助2488元住房只到明天",
-      "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxOVU94ZVpRX2M5QkJVZm9aT2R0em5mNUtId0c3Yk1yUkUzY3FfMGJMR3N1ZW4tZ1FmeHFDdHgxU0U5VllvaGhjdENHcWIzbXctNmNRamZrNkRxQjhyWGpOMHByeWhwUDJzeXJTb1pWUVBDUHFvQjlXQmMzS05heDl5T0ROcmVTdE1JSEV1NjN1M3VIbFpKVGhsdnV3U2lYd1pnT2ZueFB1d3p3TlY0d1U3QmYwcXZ2eUpUbG9PcFZxZHdsR1lUaGZKSjhOMEJDd0VXamJ6NnZsb0ZZd0NpLW96RF9XM3NHMExRUUY1dWVpem9Zdk5EZVAtY29wb1MzU3hGWmR0c0dKVGlWcDhSYm8wVVdsUjdWWkZPc1ZQcGR3Mmk1OGhHYjZWQkVqOGNFNjhLRVFlN2o3TmE2TXJPb28zdjRXYjE3LXJ0R3l5eVFCTVFxZ2pLaEg0QmNadU0zdXEzeUdiZ3hrdkJxY0ZxcUd0UXlOZW0tU1gzbVpGUy1iYWNqakp6dURPMFh2MFFsX0hUMTVROGwzUnU?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-01T07:00:00+00:00"
-    },
     {
       "title": "搭國旅省最大！高雄漢來推出島語專案最低2488起",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB5el9KU3VFckNHdFJTb2ZES2NwbmZ1c25KcGdiT0dwNVlkbXNJVlBmT1ptQmdLdVhWclc0eW9jcEpPNWFiV0phbjZXRkRDLWRo?oc=5",
-      "source": "TVBS新聞網",
+      "source": "news.tvbs.com.tw",
       "published_at": "2026-08-27T07:00:00+00:00"
     }
   ]

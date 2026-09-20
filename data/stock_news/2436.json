@@ -1,33 +1,21 @@
 {
-  "updated_at": "2026-09-20T11:35:10.152130+08:00",
+  "updated_at": "2026-09-21T01:32:06.882475+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2436",
   "name": "偉詮電",
   "count": 12,
   "news": [
     {
-      "title": "偉詮電(2436) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91cmpMTEZqcU02WmtNMzNpeHV4NTBLcmpHM3l5NExxbnAxUl9wM2swYjRnaUc1N2FiclBEZDdJNXoydEZLN2xsbTJvUHYtRGRpNzhj?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-19T02:40:25+00:00"
-    },
-    {
-      "title": "2436 偉詮電 - 一樣的套路，看了真膩 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qZW1TR1NoYVNXV3UzRnkxbUFmVHJsdEV1LUhWSkdYakZpRDdEUEphTjVBVDdNcGNqZnpOR0pvaWVnTzdJU05yX2FIZzF4RXBfb0dIcHQ4Yi0?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-17T02:22:58+00:00"
-    },
-    {
       "title": "偉詮電推出三相智慧馬達控制晶片 搶辦公自動化商機",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rMW92MXZnZWozSHdETDBBSkxjVm5hanFRTTh1Rm9mQzZwRHA3aWlYR3B1czhRM0RhbG1uM19fZnhVb21hYlZMMWpzRmM4SUdNOEZzMmhKWFM4d9IBX0FVX3lxTE1EQWk1ZjdtZml4Z1hnTERJYkY2azctcnFIendPei1SX1V5NnVpSU5Hb0JHYVN6UDVTeG5US19fRmIxMWthakJDTk9ueWVWS1Y0V2xxWE4wekdVam43NTVR?oc=5",
-      "source": "money.udn.com",
+      "source": "經濟日報",
       "published_at": "2026-09-16T06:55:09+00:00"
     },
     {
-      "title": "2436 偉詮電 - 這支就是做長線，沒在那邊跟你來回抽插的啦 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kaVd4VnlsdkR5WnJyeWJWc0FNendjVlVfZEdRMW9oR1Vvcnp3dGswdkhQamtyS0dRQmxfcGhLLTlfWEhEMkNlcDdWNk5GcWFIQjVrckZWcEs?oc=5",
+      "title": "2436 偉詮電 - 縮量，盤整盤。今天沒戲。睡💤！ - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5UTA2QzZEZm11NG5oWnhfcG5hYUQwSGVjYWI3anYtempQS1NjcUlYRldsb0tEb0NmTVpBTTdYSDZabUUzbGY0S19kYTdwVGFyRE43RFhZaWc?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-14T22:53:23+00:00"
+      "published_at": "2026-09-16T01:22:11+00:00"
     },
     {
       "title": "2436 偉詮電 - 很明顯這會漲不停，怎會認為跌不停，怪了 - 股市爆料同學會",
@@ -42,26 +30,20 @@
       "published_at": "2026-09-10T06:18:31+00:00"
     },
     {
-      "title": "2436 偉詮電 - 業績為王 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56UzMtMmdpRG5uNE1LckRkdjVyNGExMF9LZ1lPSGlvQ2NQUmpkWF9zbEZkZmRoR1pXNmxnaUEyOGs0anNfRTMzYnhTUGsyNTN1TDJoZWZFemM?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-10T01:41:29+00:00"
-    },
-    {
       "title": "AI散熱升級帶旺控制IC 偉詮電上看109元",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVzJqM3VUQ09GTlZ0a3NSb3M4cWRTbzVxeXAtdUpMcmtWNE5lMzk0N0ktNnBDbERUUWcxZ1J0dGp1a3lhT1N1YjhxZnFhanZhSGNBb1JWb1NYM0RST0RNM2huejdhd0RGUkRWMTlFemdQOVVDR2JmSkcyNjBSRDh1WXFEU24wc1V1MUY2RUVFWHNZUQ?oc=5",
-      "source": "moneyweekly.com.tw",
+      "source": "理財周刊",
       "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "偉詮電48V AI伺服器散熱IC進入放量期 8月營收創高",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9pRFhENW5qYWhPYTlWNllhbHNKR2g3ek5jSUxjS1lDQjJtcGh1Zjd1R1NCNjhOcU9RM09jRXhkbWdFY3dxVk9QYUswbkQ1WENaZF9yb2tkRUkzUHBGY3JyS3Q1Mnh6QnI0TTNUMTRtZw?oc=5",
-      "source": "moneyweekly.com.tw",
-      "published_at": "2026-09-08T09:54:55+00:00"
     },
     {
       "title": "偉詮電(2436)子公司與轉投資主要持股明細 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9DNS0tX2xSSFRLSERJaXNRTGNraEV4V3NoQW8wWnVWSndjWFdKVWhxdjQ2X3ZVRi1pQXExTUI1UXk2RGc0bUYxemc3TmRwYkdlR1JzbHZoa1dKYlJKSnhRY3RoQQ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
+      "title": "偉詮電(2436)借券與融券餘額查詢｜融資融券與借券統計 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzZlRMT2hBdkRLNm85Zk5nVjgtblg0SWZSWVNUd09EWkgyRkg0TXRaa3pvdTVOTUUyZ0l3OVppRVVlVkJ4eU4tQ0lSMjM1TEVWRHFpemFMUGhfVzBmVmxSRkIwNXJydw?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
@@ -72,10 +54,28 @@
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
-      "title": "8月營收改寫新高！偉詮電(2436)價量齊揚鎖漲停！",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5nTDZEQUNMX2RVT3ktYWl6RUFUN2JxT3pGN0hTQnBpT2pLM0ljaml0djFQUklYcFR3UUV1QWlrQTRZekh5SzUtOHBkczRmZUJsUjFManZsdmVqSkUtYmJGUTlZWURPd2lpaThaVTFuZW1yclNUbEpsU1NJcHVyZw?oc=5",
-      "source": "CMoney投資網誌",
+      "title": "偉詮電48V AI伺服器散熱IC進入放量期 8月營收創高",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9pRFhENW5qYWhPYTlWNllhbHNKR2g3ek5jSUxjS1lDQjJtcGh1Zjd1R1NCNjhOcU9RM09jRXhkbWdFY3dxVk9QYUswbkQ1WENaZF9yb2tkRUkzUHBGY3JyS3Q1Mnh6QnI0TTNUMTRtZw?oc=5",
+      "source": "理財周刊",
       "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
+      "title": "2436 偉詮電 - 69.7×3當沖單多單，祝多空單都有錢賺 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ULVBjTHdTWWYxRTZPSXBMamhEc3pKangyZmIzdlJON0hoeW5mc2tvMGd2THU2TjBzNmZjd0o5dG92cDR4Q1VPdDdVb0tjXzhVbkVSUU9YT2c?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-08T01:23:24+00:00"
+    },
+    {
+      "title": "偉詮電(2436)權證專區-認售/認購權證(權証)查詢專區 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42LTluYzcyMmFtbDZNdUl0V0lJcmpBZnZ6QV9rMUNjcFJUX3VFVnNFeFkzcmRDaUM2YzBtZktRbnV0clFvM1JqTFdXNlpGTHEzYlktbldvUWNwblpY?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-07T07:00:00+00:00"
+    },
+    {
+      "title": "8月營收改寫新高！偉詮電(2436)價量齊揚鎖漲停！",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DMWpCMk1lcDVCZFpva3A5b2dGQzlqbFZuZ3JmNV9EYUhzcXRYSUt4VnZPSlJXdWV3T241NS1NeGJwSmJQOWdsY3VDZkFRUWZoa3Qyd3l3dnA?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-07T07:00:00+00:00"
     }
   ]
 }
