@@ -1,0 +1,42 @@
+name: Update Company Profiles
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "scripts/update_company_profiles.py"
+      - ".github/workflows/update-company-profiles.yml"
+  schedule:
+    # 台灣時間每週一 06:35 更新；公司基本資料不需每日重抓。
+    - cron: "35 22 * * 0"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-company-profiles
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch official company profiles
+        run: python scripts/update_company_profiles.py
+
+      - name: Commit company profile data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/company_profiles.json
+          if git diff --cached --quiet; then
+            echo "No company profile changes"
+            exit 0
+          fi
+          git commit -m "Update official company profiles"
+          git pull --rebase origin main
+          git push
