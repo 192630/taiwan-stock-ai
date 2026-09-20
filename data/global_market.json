@@ -1,0 +1,138 @@
+{
+  "schema_version": 1,
+  "generated_at": null,
+  "taiwan_market_phase": "資料準備中",
+  "update_status": "資料準備中",
+  "risk": {
+    "score": null,
+    "status": "資料準備中",
+    "color": "gray"
+  },
+  "summary": "全球市場資料更新流程已建立，等待第一次自動更新。",
+  "taiwan_impact": "尚無足夠資料可判讀。",
+  "indicators": [
+    {
+      "id": "BTC",
+      "name": "比特幣",
+      "unit": "USD",
+      "price": null,
+      "change_percent": null,
+      "data_time": null,
+      "update_status": "資料準備中",
+      "stale": true,
+      "is_realtime": false
+    },
+    {
+      "id": "ETH",
+      "name": "以太幣",
+      "unit": "USD",
+      "price": null,
+      "change_percent": null,
+      "data_time": null,
+      "update_status": "資料準備中",
+      "stale": true,
+      "is_realtime": false
+    },
+    {
+      "id": "NQ",
+      "name": "納斯達克100期貨",
+      "unit": "USD",
+      "price": null,
+      "change_percent": null,
+      "data_time": null,
+      "update_status": "資料準備中",
+      "stale": true,
+      "is_realtime": false
+    },
+    {
+      "id": "SP500",
+      "name": "標普500期貨",
+      "unit": "USD",
+      "price": null,
+      "change_percent": null,
+      "data_time": null,
+      "update_status": "資料準備中",
+      "stale": true,
+      "is_realtime": false
+    },
+    {
+      "id": "SOX",
+      "name": "費城半導體指數",
+      "unit": "點",
+      "price": null,
+      "change_percent": null,
+      "data_time": null,
+      "update_status": "資料準備中",
+      "stale": true,
+      "is_realtime": false
+    },
+    {
+      "id": "VIX",
+      "name": "VIX恐慌指數",
+      "unit": "點",
+      "price": null,
+      "change_percent": null,
+      "data_time": null,
+      "update_status": "資料準備中",
+      "stale": true,
+      "is_realtime": false
+    },
+    {
+      "id": "WTI",
+      "name": "WTI原油",
+      "unit": "USD",
+      "price": null,
+      "change_percent": null,
+      "data_time": null,
+      "update_status": "資料準備中",
+      "stale": true,
+      "is_realtime": false
+    },
+    {
+      "id": "GOLD",
+      "name": "黃金",
+      "unit": "USD",
+      "price": null,
+      "change_percent": null,
+      "data_time": null,
+      "update_status": "資料準備中",
+      "stale": true,
+      "is_realtime": false
+    },
+    {
+      "id": "DXY",
+      "name": "美元指數",
+      "unit": "點",
+      "price": null,
+      "change_percent": null,
+      "data_time": null,
+      "update_status": "資料準備中",
+      "stale": true,
+      "is_realtime": false
+    },
+    {
+      "id": "US10Y",
+      "name": "美國10年期公債殖利率",
+      "unit": "%",
+      "price": null,
+      "change_percent": null,
+      "data_time": null,
+      "update_status": "資料準備中",
+      "stale": true,
+      "is_realtime": false
+    }
+  ],
+  "confirmed_data": [],
+  "rule_signals": [],
+  "inferences": [],
+  "affected_sectors": [],
+  "watch_next": [],
+  "history_validation": {
+    "status": "樣本不足",
+    "sample_count": 0
+  },
+  "source_notes": [
+    "免費版資料用於功能原型與研究展示；行情頻率與延遲依來源而異。"
+  ],
+  "commercial_use_note": "正式會員制上線前，必須逐項確認資料授權，並將需商用授權的行情切換至合約允許的資料供應商。"
+}
