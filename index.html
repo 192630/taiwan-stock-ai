@@ -461,6 +461,37 @@ button{
   margin-right:5px;
 }
 
+.chart-layer-toggle{
+  display:inline-flex;
+  align-items:center;
+  gap:5px;
+  padding:6px 9px;
+  border:1px solid rgba(68,74,79,.35);
+  border-radius:9px 8px 10px 7px;
+  background:rgba(255,254,250,.75);
+  color:#626a72;
+  font-size:12px;
+  font-weight:800;
+}
+
+.chart-layer-toggle.active{
+  background:#30363b;
+  color:#fffefa;
+  border-color:#30363b;
+}
+
+.multi-dot{
+  display:inline-flex;
+  gap:2px;
+  margin-right:2px;
+}
+
+.multi-dot i{
+  width:7px;
+  height:7px;
+  border-radius:50%;
+}
+
 .research-title{
   margin:20px 0 10px;
   font-size:18px;
@@ -1611,11 +1642,12 @@ footer{
     <h3>📈 歷史行情</h3>
 
     <div class="chart-legend">
-      <span><i class="legend-dot" style="background:#f59e0b"></i>MA5</span>
-      <span><i class="legend-dot" style="background:#2563eb"></i>MA20</span>
-      <span><i class="legend-dot" style="background:#7c3aed"></i>MA60</span>
-      <span><i class="legend-dot" style="background:#5f8791"></i>支撐</span>
-      <span><i class="legend-dot" style="background:#c86f62"></i>壓力</span>
+      <button id="maLayerToggle" class="chart-layer-toggle active" type="button" aria-pressed="true">
+        <span class="multi-dot" aria-hidden="true"><i style="background:#f59e0b"></i><i style="background:#2563eb"></i><i style="background:#7c3aed"></i></span>MA5／MA20／MA60
+      </button>
+      <button id="levelLayerToggle" class="chart-layer-toggle active" type="button" aria-pressed="true">
+        <span class="multi-dot" aria-hidden="true"><i style="background:#5f8791"></i><i style="background:#c86f62"></i></span>壓力支撐 V2
+      </button>
     </div>
 
     <div
@@ -4273,6 +4305,36 @@ function calculateSupportResistance(
 let kChart = null;
 let candleSeries = null;
 let kChartResizeObserver = null;
+let currentChartHistory = [];
+let showMaLayers = true;
+let showLevelLayers = true;
+
+
+function updateChartLayerButtons(){
+  [
+    ["maLayerToggle",showMaLayers],
+    ["levelLayerToggle",showLevelLayers]
+  ].forEach(([id,active]) => {
+    const button = document.getElementById(id);
+    if(!button) return;
+    button.classList.toggle("active",active);
+    button.setAttribute("aria-pressed",String(active));
+  });
+}
+
+
+document.getElementById("maLayerToggle")?.addEventListener("click",() => {
+  showMaLayers = !showMaLayers;
+  updateChartLayerButtons();
+  if(currentChartHistory.length) drawKChart(currentChartHistory);
+});
+
+
+document.getElementById("levelLayerToggle")?.addEventListener("click",() => {
+  showLevelLayers = !showLevelLayers;
+  updateChartLayerButtons();
+  if(currentChartHistory.length) drawKChart(currentChartHistory);
+});
 
 
 function drawKChart(history){
@@ -4290,6 +4352,14 @@ function drawKChart(history){
 
     return;
 
+  }
+
+  currentChartHistory = history;
+  updateChartLayerButtons();
+
+  if(kChart){
+    kChart.remove();
+    kChart = null;
   }
 
   container.innerHTML = "";
@@ -4403,7 +4473,7 @@ function drawKChart(history){
 
   const levels = calculateSupportResistance(history);
 
-  if(levels){
+  if(showLevelLayers && levels){
     const priceLines = [
       ...levels.supports.map((level,index) => ({
         ...level,
@@ -4429,25 +4499,27 @@ function drawKChart(history){
     });
   }
 
-  [
-    [5,"#f59e0b"],
-    [20,"#2563eb"],
-    [60,"#7c3aed"]
-  ].forEach(([days,color]) => {
+  if(showMaLayers){
+    [
+      [5,"#f59e0b"],
+      [20,"#2563eb"],
+      [60,"#7c3aed"]
+    ].forEach(([days,color]) => {
 
-    const data = calculateMASeries(history,days);
+      const data = calculateMASeries(history,days);
 
-    if(data.length){
-      const series = kChart.addLineSeries({
-        color,
-        lineWidth:2,
-        priceLineVisible:false,
-        lastValueVisible:false
-      });
-      series.setData(data);
-    }
+      if(data.length){
+        const series = kChart.addLineSeries({
+          color,
+          lineWidth:2,
+          priceLineVisible:false,
+          lastValueVisible:false
+        });
+        series.setData(data);
+      }
 
-  });
+    });
+  }
 
   kChart
     .timeScale()
