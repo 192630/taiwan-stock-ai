@@ -1,0 +1,68 @@
+{
+  "policy_version": 1,
+  "last_reviewed": "2026-09-20",
+  "default_rule": "授權不明即不可放入付費會員內容",
+  "sources": [
+    {
+      "id": "twse_daily",
+      "name": "臺灣證券交易所盤後公開資料",
+      "current_use": "公開研究版盤後資料",
+      "paid_membership": "需在收費前逐項確認使用條款與重分發範圍",
+      "status": "review_required"
+    },
+    {
+      "id": "twse_realtime",
+      "name": "臺灣證券交易所即時交易資訊",
+      "current_use": "未使用",
+      "paid_membership": "取得正式契約、授權並依用戶規模計費後才可使用",
+      "status": "blocked_until_contract"
+    },
+    {
+      "id": "yahoo_chart",
+      "name": "Yahoo Finance 公開 chart endpoint",
+      "current_use": "全球市場免費原型",
+      "paid_membership": "不得直接沿用；需取得明確商用 API 授權或更換供應商",
+      "status": "prototype_only"
+    },
+    {
+      "id": "coingecko_public",
+      "name": "CoinGecko 公開 API",
+      "current_use": "BTC／ETH 免費原型",
+      "paid_membership": "依實際方案與當期條款確認展示、重分發及請求量",
+      "status": "review_required"
+    },
+    {
+      "id": "fund_official",
+      "name": "投信官方 ETF 投資組合",
+      "current_use": "公開研究版",
+      "paid_membership": "須逐家確認網站條款、資料重製與商用呈現權",
+      "status": "review_required"
+    },
+    {
+      "id": "news_rss",
+      "name": "新聞公開 RSS／原文連結",
+      "current_use": "標題、來源、時間、連結",
+      "paid_membership": "不得重製全文、圖片或繞過付費牆；逐來源保存條款",
+      "status": "metadata_only"
+    },
+    {
+      "id": "site_visuals",
+      "name": "本站介面、CSS 筆記紙與裝飾",
+      "current_use": "自行撰寫",
+      "paid_membership": "可沿用；保留 Git 紀錄作創作證明",
+      "status": "original"
+    },
+    {
+      "id": "system_fonts",
+      "name": "系統字體堆疊",
+      "current_use": "不隨網站散布字型檔",
+      "paid_membership": "可沿用；新增網路字型時須保存 OFL 或其他商用授權",
+      "status": "allowed_with_audit"
+    }
+  ],
+  "release_gate": {
+    "paid_data_enabled": false,
+    "realtime_enabled": false,
+    "reason": "尚未完成資料供應商契約、後端與會員權限"
+  }
+}
