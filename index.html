@@ -4945,7 +4945,7 @@ function getInstitutionScanRows(){
 
       return {
         code,
-        name:String(stock.name || Array.isArray(row) ? row[1] || code : code).trim(),
+        name:String(stock.name || (Array.isArray(row) ? row[1] : "") || code).trim(),
         total:values.total,
         ratio,
         positiveCount,
