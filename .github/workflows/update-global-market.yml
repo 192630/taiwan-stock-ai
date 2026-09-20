@@ -1,0 +1,202 @@
+name: Update Global Market Radar
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 * * * *"
+  push:
+    paths:
+      - ".github/workflows/update-global-market.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-global-market
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch global market indicators
+        run: |
+          python - <<'PY'
+          import json, os, time
+          from datetime import datetime, timezone, timedelta
+          from urllib.request import Request, urlopen
+          from urllib.parse import quote
+
+          TZ = timezone(timedelta(hours=8))
+          now = datetime.now(TZ)
+          latest_path = "data/global_market.json"
+          headers = {"User-Agent":"Mozilla/5.0 TaiwanStockAI/1.0","Accept":"application/json"}
+
+          def get_json(url, timeout=18):
+              req = Request(url, headers=headers)
+              with urlopen(req, timeout=timeout) as response:
+                  return json.loads(response.read().decode("utf-8"))
+
+          try:
+              with open(latest_path, encoding="utf-8") as f:
+                  previous = json.load(f)
+          except Exception:
+              previous = {"indicators":[]}
+          previous_map = {str(x.get("id")):x for x in previous.get("indicators",[])}
+
+          definitions = [
+              ("BTC","比特幣","USD","coingecko","bitcoin"),
+              ("ETH","以太幣","USD","coingecko","ethereum"),
+              ("NQ","納斯達克100期貨","USD","yahoo","NQ=F"),
+              ("SP500","標普500期貨","USD","yahoo","ES=F"),
+              ("SOX","費城半導體指數","點","yahoo","^SOX"),
+              ("VIX","VIX恐慌指數","點","yahoo","^VIX"),
+              ("WTI","WTI原油","USD","yahoo","CL=F"),
+              ("GOLD","黃金","USD","yahoo","GC=F"),
+              ("DXY","美元指數","點","yahoo","DX-Y.NYB"),
+              ("US10Y","美國10年期公債殖利率","%","yahoo","^TNX"),
+          ]
+
+          crypto = {}
+          try:
+              crypto = get_json("https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd&include_24hr_change=true&include_last_updated_at=true")
+          except Exception:
+              pass
+
+          indicators = []
+          for ident, name, unit, source, symbol in definitions:
+              old = previous_map.get(ident,{})
+              item = {"id":ident,"name":name,"unit":unit,"source":source,"symbol":symbol,
+                      "price":None,"change_percent":None,"data_time":None,
+                      "update_status":"資料可能過期","stale":True,"is_realtime":False}
+              try:
+                  if source == "coingecko":
+                      row = crypto[symbol]
+                      item["price"] = float(row["usd"])
+                      item["change_percent"] = float(row.get("usd_24h_change",0))
+                      item["data_time"] = datetime.fromtimestamp(row.get("last_updated_at",time.time()),TZ).isoformat()
+                  else:
+                      data = get_json("https://query1.finance.yahoo.com/v8/finance/chart/"+quote(symbol,safe="")+"?range=5d&interval=1d")
+                      result = data["chart"]["result"][0]
+                      meta = result["meta"]
+                      closes = [x for x in result["indicators"]["quote"][0]["close"] if x is not None]
+                      price = meta.get("regularMarketPrice") or (closes[-1] if closes else None)
+                      prev_close = meta.get("chartPreviousClose")
+                      if not prev_close and len(closes)>1:
+                          prev_close = closes[-2]
+                      item["price"] = float(price)
+                      item["change_percent"] = ((float(price)-float(prev_close))/float(prev_close)*100) if prev_close else None
+                      ts = meta.get("regularMarketTime") or (result.get("timestamp") or [time.time()])[-1]
+                      item["data_time"] = datetime.fromtimestamp(ts,TZ).isoformat()
+                  item["update_status"] = "延遲行情／更新頻率依來源"
+                  item["stale"] = False
+              except Exception:
+                  for key in ("price","change_percent","data_time"):
+                      item[key] = old.get(key)
+              indicators.append(item)
+
+          by_id = {x["id"]:x for x in indicators}
+          def ch(i):
+              value = by_id.get(i,{}).get("change_percent")
+              return float(value) if value is not None else None
+
+          available = [x for x in indicators if x.get("price") is not None]
+          changes = {i:ch(i) for i in by_id}
+          risk = 35
+          crypto_changes = [v for v in (changes.get("BTC"),changes.get("ETH")) if v is not None]
+          crypto_avg = sum(crypto_changes)/len(crypto_changes) if crypto_changes else None
+          tech = changes.get("NQ")
+          sox = changes.get("SOX")
+          vix = changes.get("VIX")
+          dxy = changes.get("DXY")
+          y10 = changes.get("US10Y")
+
+          if crypto_avg is not None:
+              risk += 12 if crypto_avg <= -3 else (6 if crypto_avg < -1 else (-5 if crypto_avg > 2 else 0))
+          if tech is not None:
+              risk += 15 if tech <= -1.5 else (8 if tech < -0.5 else (-8 if tech > 0.8 else 0))
+          if sox is not None:
+              risk += 10 if sox <= -1.5 else (5 if sox < -0.5 else (-4 if sox > 1 else 0))
+          if vix is not None:
+              risk += 18 if vix >= 8 else (10 if vix >= 4 else (-5 if vix <= -4 else 0))
+          if dxy is not None and y10 is not None and dxy >= 0.4 and y10 >= 0.4:
+              risk += 10
+          risk = max(0,min(100,round(risk)))
+          if risk <= 25: status,color = "偏多","green"
+          elif risk <= 50: status,color = "中性","yellow"
+          elif risk <= 70: status,color = "風險偏好降溫","orange"
+          else: status,color = "高風險警報","red"
+
+          signals=[]; sectors=[]; watch=[]
+          if crypto_avg is not None and tech is not None:
+              if crypto_avg < -1 and tech > 0:
+                  signals.append("BTC、ETH回檔但納指期貨上漲，規則判定較接近幣圈個別降溫。")
+                  sectors.append({"name":"板卡與加密貨幣概念股","direction":"偏弱","basis":"加密資產回檔"})
+              elif crypto_avg < -1 and tech < -0.5:
+                  signals.append("加密資產與科技股同步下跌，規則判定風險偏好下降。")
+                  sectors.extend([{"name":"AI與半導體","direction":"承壓","basis":"科技與風險資產同步轉弱"},{"name":"科技權值股","direction":"承壓","basis":"納指期貨轉弱"}])
+          if crypto_avg is not None and tech is not None and vix is not None and crypto_avg < -2 and tech < -1 and vix > 5:
+              signals.append("幣、科技股同步下跌且VIX明顯上升，需留意恐慌或去槓桿風險。")
+          if dxy is not None and y10 is not None and dxy >= 0.4 and y10 >= 0.4:
+              signals.append("美元指數與美國10年期殖利率同步走升，成長股估值壓力可能增加。")
+              sectors.append({"name":"科技權值股","direction":"留意","basis":"美元與殖利率同步走升"})
+          if changes.get("WTI") is not None and abs(changes["WTI"]) >= 1:
+              sectors.append({"name":"航運與原物料","direction":"留意成本與報價","basis":"原油波動較明顯"})
+          if not signals:
+              signals.append("主要資產目前未形成明確的跨市場同步風險組合，訊號偏混合。")
+          watch = ["VIX是否持續擴大漲幅","納指期貨與費半是否同向","美元指數與美債殖利率是否同步走高"]
+
+          wd=now.weekday(); hm=now.hour*60+now.minute
+          if wd>=5: phase="休市"
+          elif 510<=hm<540: phase="盤前"
+          elif 540<=hm<=810: phase="盤中"
+          else: phase="盤後"
+          prefix={"盤前":"盤前觀察","盤中":"盤中追蹤","盤後":"盤後整理","休市":"休市觀察"}[phase]
+          summary=f"{prefix}：全球風險溫度 {risk}／100（{status}）。{signals[0]}"
+          impact = "台股大盤暫偏中性，仍需搭配台指、成交量與法人資料觀察。" if status in ("偏多","中性") else "台股風險敏感族群宜留意波動擴大，這是規則推論，不是漲跌保證。"
+
+          confirmed=[]
+          for x in available:
+              cp=x.get("change_percent")
+              confirmed.append(f'{x["name"]} {x["price"]:,.2f}，漲跌幅 {cp:+.2f}%' if cp is not None else f'{x["name"]} {x["price"]:,.2f}')
+
+          output={
+              "schema_version":1,"generated_at":now.isoformat(),"taiwan_market_phase":phase,
+              "update_status":"部分資料可能過期" if any(x["stale"] for x in indicators) else "更新完成（延遲行情）",
+              "risk":{"score":risk,"status":status,"color":color},
+              "summary":summary,"taiwan_impact":impact,"indicators":indicators,
+              "confirmed_data":confirmed,"rule_signals":signals,
+              "inferences":[impact]+[f'{x["name"]}：{x["direction"]}（依據：{x["basis"]}）' for x in sectors],
+              "affected_sectors":sectors,"watch_next":watch,
+              "history_validation":{"status":"樣本不足","sample_count":0,"note":"待累積足夠歷史快照後，才提供隔日、3日、5日與10日統計。"},
+              "source_notes":["BTC、ETH：CoinGecko 公開端點。","其他指標：公開延遲行情端點；延遲時間與可用性依來源而異。","新聞只補充事件背景，不取代行情數據判斷。"],
+              "commercial_use_note":"目前免費來源僅供研究站原型驗證。正式會員制上線前，必須逐項確認商用展示、重分發及即時行情授權，必要時改接付費授權 API。"
+          }
+          os.makedirs("data/global_market_history",exist_ok=True)
+          with open(latest_path,"w",encoding="utf-8") as f:
+              json.dump(output,f,ensure_ascii=False,indent=2)
+          history_path=f'data/global_market_history/{now:%Y-%m-%d}.json'
+          try:
+              with open(history_path,encoding="utf-8") as f: history=json.load(f)
+              if not isinstance(history,list): history=[]
+          except Exception: history=[]
+          history.append({"generated_at":output["generated_at"],"risk":output["risk"],"indicators":indicators})
+          history=history[-48:]
+          with open(history_path,"w",encoding="utf-8") as f:
+              json.dump(history,f,ensure_ascii=False,indent=2)
+          PY
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/global_market.json data/global_market_history
+          if git diff --cached --quiet; then
+            echo "No global market changes"
+          else
+            git commit -m "data: update global market radar"
+            git push
+          fi
