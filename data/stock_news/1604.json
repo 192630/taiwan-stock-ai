@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-20T09:32:58.465078+08:00",
+  "updated_at": "2026-09-20T22:33:13.515732+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1604",
   "name": "聲寶",
-  "count": 3,
+  "count": 4,
   "news": [
     {
       "title": "聲寶Q4營運看審慎樂觀，家電醞釀漲價",
@@ -13,9 +13,15 @@
     },
     {
       "title": "聲寶轉型2》差點消失的家電廠 陳盛沺把下一棒交給經理人",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBuczNaeG9rUUZFQkJkR3ZnSkNhVV9KTmEwY2Y4MmtwcnRLSU84b1lDYjJwNERhS3BuVHF6aWlZclVuQVJBU3VDT25oWV9yV3VOWEwtZjZLWVlQdzJaSW5XSzBFNGc?oc=5",
-      "source": "民報",
+      "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNZGdyWC1oSkRoN083bDRpcGRHNEFhLUh2QVBKVi0tOVMzRFRXWXpyUDZVX0lkUjNNVi04cF93OHJGRGNjeURMdUUwOWd5VTNncTBzOWJvTVZqajN3MGRZcXY2b0QtdmVFcEtpRTBLNDlPQWxtb3JKSzkydWtMbVNydXpOZ1VMNWw5VF9ma25vU1pSV1dXUHY5Q1YzT2lNcGlxQUlvbXVKYy1YQjdDOUpvR3pZTVlWVmhlOFEwNFNLT0N1RXh2YndTbk5MS2ZhTDRVWTlaZjhnaEdlcWxld0hrNTdBOVh0VlFCd3ZJRElGZXQ0MUEySjNkMHlrMXJzN0hfRmtMdnNaWU5ZRGRlM2REaldjaGlqbzdGSmZDRkstLVNMajdzcUNDcG8tR1VGRXdmNDVxS2ZuWGR1UGFLaS13cDM3RElZLVZnbTFkMGNzT21iX2tPVDJBRUIzUjFOOGc1NnZ4U250RGxOWlpN?oc=5",
+      "source": "Yahoo新聞",
       "published_at": "2026-09-16T23:31:00+00:00"
+    },
+    {
+      "title": "聲寶轉型1》不只賣家電 90歲聲寶用老廠拚第二成長曲線",
+      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPbVlTWTVGcFFHNDhpZFh5bDdrak5NaWdZNlRYWnl6VlFkZE5xbWFOaXgtSzZVRlpZaUk1T2MxTUFnN0RUMmhhWUI2R1FIT05RaHZJcVBlaVRTMGFBdnJ0UTdXbi00VW90UDB0MWQ0eExWbXAzQjVVVU96MUFZelBlOUlFc242UTJvU3Q1ZURYNFFzd0hQd1NxUFF6SHcwbmt5a0FyeklrbEVpSC1fcXhNNXU5ZkpKbVNHX2xlYTZ1b2gyRDdnc1dTMlJSV0RfT2stX3laUFd6MnRQMFY5X2E0Q2hXOGV3enkzVlVZVVRrVE9QZzJNWTd2X1A1RUladmZXVHpLbGo3RXNQT3FzWDJKLUFFUWt0Vm9kR0dEbjZlZE1XcnhJR3pkdmYyTkQwTjNGYjVvSTZwcDVHZFdnU1RzbkN6T3B6dzZVQWd5YU5aaDhSWV9QTmFYaHdGeUFVRTBDMHc?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-16T23:30:00+00:00"
     },
     {
       "title": "家電業掀漲價潮 聲寶第四季審慎樂觀",

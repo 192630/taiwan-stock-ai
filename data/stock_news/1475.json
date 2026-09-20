@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-20T08:40:45.355529+08:00",
+  "updated_at": "2026-09-20T22:32:54.902653+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1475",
   "name": "業旺",
-  "count": 3,
+  "count": 4,
   "news": [
-    {
-      "title": "聯發科噴發前「砍在地板」！最大韭菜賣股損失1475萬元- 財經",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuT2dOdFZmTlZnNVpUeEFtaUppMmVvYzZaWjVjaDlEeGh0cGtSOGZMMnRmSUhNMlBMRDRPX00xMUlIZldoUTI5aUVVTmNObDlnSUl4eGZZVm1qYjFfdkVQd3Q1S1RzYzdGa2JVbEdB?oc=5",
-      "source": "中時新聞網",
-      "published_at": "2026-09-02T07:00:00+00:00"
-    },
     {
       "title": "聯發科漲停後再飆4565元！皇翔175張「砍在低點」 1475萬沒了",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5wNXpZR2VpTkpmTFhMLWNnN3dNQ0hWZi1ZdnhhMi1pX3AxU3VDRzhEdF9FNlVoMlhuVUUxeURkOUtkZms0enB3WDlnOA?oc=5",
@@ -18,9 +12,21 @@
       "published_at": "2026-09-02T07:00:00+00:00"
     },
     {
+      "title": "聯發科噴發前「砍在地板」！最大韭菜賣股損失1475萬元- 財經",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuT2dOdFZmTlZnNVpUeEFtaUppMmVvYzZaWjVjaDlEeGh0cGtSOGZMMnRmSUhNMlBMRDRPX00xMUlIZldoUTI5aUVVTmNObDlnSUl4eGZZVm1qYjFfdkVQd3Q1S1RzYzdGa2JVbEdB?oc=5",
+      "source": "chinatimes.com",
+      "published_at": "2026-09-02T07:00:00+00:00"
+    },
+    {
+      "title": "沒買庇護工場產品火燒向中油 經濟部：去年採購1475萬元 今年繼續買",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xdzVMLW9BeEVhYU95WnYtTDJXNjBiclgtWGxkQ2R0aHpVa0p3eWxJVmpRZWZkSDZSX2VQRTBubFRBOF9NSlRBZ25TQzZOT3l20gFWQVVfeXFMUExJNzdsRXkwTFNmclZ1UG1Fc3RXY2NWUUJ6SFNMVjFuTmZtVkU5SE5ZQTZoaldGVkt5SWRtOTZmY25IM09DTTh2RDRQS0RhS3kyRlpVcUE?oc=5",
+      "source": "UDN",
+      "published_at": "2026-08-26T07:00:00+00:00"
+    },
+    {
       "title": "中油駁翁曉玲「庇護工場採購執行率0」 去年採購1475萬元",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTUTZzMDlqUnlidDZyci0xTUpBNVZQNnExY1hTSVhpLVl4MEdhb0FSbU9SR2JHNHJsbDAzdEFqaUdETlFpVFo5Vk9LZUh6Qkh5c3laUzdZMGFCbXlrVlJN?oc=5",
-      "source": "ec.ltn.com.tw",
+      "source": "自由財經",
       "published_at": "2026-08-25T07:00:00+00:00"
     }
   ]

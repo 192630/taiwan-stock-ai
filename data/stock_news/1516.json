@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-20T08:40:50.651517+08:00",
+  "updated_at": "2026-09-20T22:32:59.378508+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1516",
   "name": "川飛",
-  "count": 4,
+  "count": 3,
   "news": [
     {
       "title": "個股：川飛(1516)更正減資換發股票作業計劃，舊股最後交易日為10/14",
@@ -20,14 +20,8 @@
     {
       "title": "1516 川飛- 川飛公告本公司董事長異動- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YQUUyMkZFeXB1WmRxQm96Z3BfZ3cyeEdLaFM1T2ZHRmVkQkhkbXI1Uk1qemdLZ0lOdmJZMjVCb1NrbTFwOEphdnotWXQwYjFGSEtHcVZac3I?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-14T07:29:58+00:00"
-    },
-    {
-      "title": "1516 川飛- 川飛公告本公司辦理減資實收資本額變更登記完成- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zaWZ1eEtLME1kRWxRRTVlcHFkTFlCTml1Vmc1RExlQU9WZFM3VG11R2QtNDduU2FxSHh5V3liNjlaM0ZEekRQckpERWVmc0FoSC1xQlR1Rmg?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-11T10:17:36+00:00"
     }
   ]
 }

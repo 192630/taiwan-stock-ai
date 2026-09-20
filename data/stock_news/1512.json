@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-20T08:40:48.621708+08:00",
+  "updated_at": "2026-09-20T22:32:57.597017+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1512",
   "name": "瑞利",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "1512 瑞利 - 你別讓我失望嘿，明天跌停，加速趕底 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13VWN5R0txWkNyUk1MbFNVMUNSdFhUWk9ieWw3TUp6SFlIYjUzTExRWXNfcWtfaXFvZE1adGJ5RGJqWDRzRlJnZE1fLVpUNDVYdkxCTTF5ODA?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-10T09:57:26+00:00"
+    }
+  ]
 }

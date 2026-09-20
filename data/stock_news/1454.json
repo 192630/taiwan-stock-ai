@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-20T08:40:37.078232+08:00",
+  "updated_at": "2026-09-20T22:32:47.775044+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1454",
   "name": "台富",
-  "count": 2,
+  "count": 3,
   "news": [
     {
       "title": "台富下半年審慎保守，訂單估與上半年相近",
@@ -12,10 +12,16 @@
       "published_at": "2026-09-06T07:00:00+00:00"
     },
     {
-      "title": "《上市公司除權除息1-1》台富8月24日除息，開盤參考價為12.30元",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNVJYU3RPSVhXQ2d0dGVwQlVacWhPNXRoZlcxQXhsS1k1cnFtUlN1dDJydHhZazYtRDJXOWtPVGxqTHBvdldSUndVX2plQ1ZQYmZyS0dHQ01QMURCc3dyR3c1YzNINWttb2tjLUU5cXE5Y1JZM0w4MXVZb21DZVlqcm1vakw0a01h?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-08-21T07:00:00+00:00"
+      "title": "【2026/08月營收公告】台富(1454) 八月營收營收雙減，年減40.51%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVXpSTjloaFpTSEt2V3p3YnBJd1M1cDJ3SjFNR2NlRTBhVG9oczFPVXRRVWtkMzZZQXJQZ0E1V2JCaVJTZ2hXZWN0MzFmZ1hzVUtDell2REdnQ1dWS2ZXeDM0ZWQ5RUx1NlB4U2RRUUllNHl4aWNBc3FfYWdWU2toTS1ENHlCa1Y5T3c?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-02T07:00:00+00:00"
+    },
+    {
+      "title": "台富下半年展望審慎保守",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sbjQxLVBRNW1JWk0zeEp4UEduZHJwSG0zX3hLejd6WnNJLVl0NTNzOHZlMzBsZFhHZXFhTFdZYVJOLXhmRExDbUF3cEs0dUxM0gFWQVVfeXFMUFJoVURSODByanN1LUxFd1hRZmpMMG1zdDh1aGxDN3RTSU05dkxZdnZOQUFicHFhazBpNlhYRGQ5RkJzcWNUak54N3NfT2Q1MVVsWTZPZUE?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-01T07:00:00+00:00"
     }
   ]
 }

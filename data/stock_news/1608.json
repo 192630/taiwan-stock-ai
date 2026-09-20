@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-20T09:32:59.513196+08:00",
+  "updated_at": "2026-09-20T22:33:14.421947+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1608",
   "name": "華榮",
-  "count": 4,
+  "count": 5,
   "news": [
     {
       "title": "華榮(1608) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tWTNwelZ1M0pBeEVfZVFGQWM4ZVhHV05ZeEZGQ1BGdFRvZEVyWVNPUmtnbGNtT1hWN05nN0RQQkxqVkRmcjhLVUxpZnBGTGZzZFpz?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-19T00:40:44+00:00"
+      "published_at": "2026-09-20T09:42:55+00:00"
+    },
+    {
+      "title": "《一週投信賣超10-9》研華(162)、華榮(161)、新興(156)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbFZjMjhaWE5oSGttcEJGR21sUUMyekFMbFNWdTF5ZVQ2ME53YkxGTHpsRVZES0Y5TEI0THd0b3hxVExvWlB5NzNZY0ExUDhCeW1oY3NDcnNXRGpqRjJZOTRzcHR4b2NfWWFlaUFiS2VHMVJUU0lQbUF0ejA3NlE1MF9XTWp3YWIw?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-20T01:02:00+00:00"
     },
     {
       "title": "【2026/08月營收公告】華榮(1608) 八月營收月減年增，全年營運續看向上-CMoney 小編",
@@ -25,8 +31,8 @@
     },
     {
       "title": "【12:54 即時新聞】華榮(1608)股價上攻逾3%，銅價高檔帶動電線電纜行情＋外資連日回補推升技術面多頭結構",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3VmYxeXRWR1czVlRLSEU4Z3FOWW94U0lXa081TG1BdEVMdjFwTnpVX1Fqb2Rvd3B4d2JSWlZKZkphSFRyNVNnWjEwXzd3N0RwVlJoYjQ1QlE?oc=5",
-      "source": "CMoney",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYnJSTEZnU0xBV21hZG1sbXNLMU54cTlaU2pFdFgwMWUtQUpGSW1WV3dDamowWU5VVUk2V251QVdmWGNFeVBnZ0V6U3JLMGpZQjgxVFVEd3NwWXZsNW1BbGJfdEdVS0swNHhqNUVzb2FGWEZwNlA1UU9MRUtQY1lxYUREUmxtMVRfa0NjYUN3?oc=5",
+      "source": "CMoney投資網誌",
       "published_at": "2026-08-24T07:00:00+00:00"
     }
   ]

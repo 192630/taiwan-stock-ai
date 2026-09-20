@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-20T08:40:48.153214+08:00",
+  "updated_at": "2026-09-20T22:32:57.177387+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1506",
   "name": "正道",
-  "count": 4,
+  "count": 5,
   "news": [
+    {
+      "title": "4763 材料*-KY - 天若有情天亦老，人間正道是滄桑😎 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PLWVadENpRFB2VGpZdGFWVnBrMlJkVU13RmE2RXRObWdjVTU0MkgyUm5TWWFpbk44MHFVMEF4OEgwMm1VRExLQk91bGNUVHluMlUwU1hPQjc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-19T08:11:17+00:00"
+    },
     {
       "title": "《集中市場券商賣超前30名 3-2》光鼎(-1706)、映泰(-1506)",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS2RCZTY5TWg1TFIybjYzMnRYRXliQ3IxUGIzY0FHYzFOTzBfd1luUFIzTDlqRVUyUUw2WF9jVmFFZWVYOENmRmg3bEVTZHA4TVhzM21BNEtpOUE2VllZYnNudkJ3a1kyTjJQem43V1lQRXRfWnE4LThoWXA0eGhvSHFIbnZLY3VC?oc=5",
@@ -12,22 +18,22 @@
       "published_at": "2026-09-17T23:32:00+00:00"
     },
     {
+      "title": "科技應走正道！陳素月團隊遏止 AI 深偽抹黑",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNRGNFUWdDbWFxUHVMWlQ2Nkw2VElha1pYbHdhZW1YODM3TjlIMFk2bDA1bTZfUkI0X0R1MDdybWdzckptY0N1S0ZITldCcG51bDVuMlU4VDhEb05TWmRsaVlYSzZFVlV0ZGhWM2MybVZIZkNrdmpXTmJqQ1JVTlF1MDFrQWNuLXZoa0dDVDN1RDBXMXlMU2NLdnAwMVJ4M2doV0tPczhDVmxCZEJYZmdnZ3otMEU4Rnk3d0NZNzM0MHZJOVRidlBwVVUxVkJhenItWWJQT0k4RUgtRWgzVDFQNFhtUHk2WnhIMGJobVcwUTNHMmdRU1FZM0IzcjUyZnFXT1VOZkFVNGVJeElfMkxDcVVhMGp4OFVGbVExdHRtaFhsQkJuZHc?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-10T07:00:00+00:00"
+    },
+    {
       "title": "1506 正道 - 西遊記：坎道：中國哲學書電子化計畫：祝福 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JbXV5V3J3Z3NUQ21NQ0IwanBCbmF5NzJNd2JWVzZZejlkWUlJMDVBeWJVNHVhTkhaaW9MaEFHLXVndHdTdlFEZXZnWVBlekVpNjBoS3h1SWE?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-07T12:20:49+00:00"
     },
     {
       "title": "營收速報 - 正道(1506)8月營收1.16億元年增率高達47.81％",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52Tm1yc0ZoMjdQdktRNm9SNkNrVGFJbkt0d0FJZVZ2U00zT1NyeElSdmlSbTBjNUdtS1BJWWI2eHRGUmxzT0ZPRWE0WGNscTg?oc=5",
       "source": "news.cnyes.com",
-      "published_at": "2026-09-07T10:50:24+00:00"
-    },
-    {
-      "title": "正统、正道！台湾字火爆 全网轰动！(视频)",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWUnljYkd5R1RaLUpPR1J5eVBfRU5ZR3pLZUpnUnhSc29WM2RqTmlZQTBWM1NJR1FmWlFnQ3MyN2Y1UHFEYUFPdVFOU1RoNkx4WHJhOWhQckM?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-08-26T16:07:47+00:00"
+      "published_at": "2026-09-07T07:00:00+00:00"
     }
   ]
 }
