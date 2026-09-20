@@ -833,6 +833,78 @@ button{
 .industry-member-name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-weight:800}
 .industry-member-change{font-weight:900}
 
+/* ETF 持股重疊比較 */
+
+.etf-compare-selects{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:10px;
+  margin:14px 0;
+}
+
+.etf-compare-selects label{
+  color:#626a72;
+  font-size:12px;
+  font-weight:900;
+}
+
+.etf-compare-selects select{
+  width:100%;
+  margin-top:5px;
+  padding:12px 10px;
+  border:1.5px solid #4a5055;
+  border-radius:12px 9px 13px 10px;
+  background:#fffefa;
+  color:#30363b;
+  font:inherit;
+  font-size:14px;
+  font-weight:800;
+}
+
+.etf-compare-summary{
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:8px;
+  margin:12px 0 16px;
+}
+
+.etf-compare-metric{
+  padding:11px 8px;
+  border:1px solid rgba(68,74,79,.32);
+  border-radius:11px 9px 12px 8px;
+  background:rgba(255,254,250,.72);
+  text-align:center;
+}
+
+.etf-compare-metric small{
+  display:block;
+  color:#626a72;
+  font-size:11px;
+}
+
+.etf-compare-metric strong{
+  display:block;
+  margin-top:4px;
+  color:#557a89;
+  font-size:18px;
+}
+
+.etf-compare-group{
+  margin-top:12px;
+  border-top:1px solid rgba(68,74,79,.18);
+}
+
+.etf-compare-group summary{
+  padding:13px 2px;
+  color:#30363b;
+  font-weight:900;
+  cursor:pointer;
+}
+
+@media(max-width:520px){
+  .etf-compare-selects{grid-template-columns:1fr}
+}
+
 /* 主動 ETF 清單 */
 
 .etf-directory-list{
@@ -2219,6 +2291,7 @@ footer{
 <nav class="etf-subnav page-section" data-pages="etf" aria-label="主動 ETF 子分頁">
   <button class="etf-subnav-button active" type="button" data-etf-subpage="summary">🧠 每日摘要</button>
   <button class="etf-subnav-button" type="button" data-etf-subpage="directory">📋 ETF 清單</button>
+  <button class="etf-subnav-button" type="button" data-etf-subpage="compare">🔍 ETF 比較</button>
   <button class="etf-subnav-button" type="button" data-etf-subpage="changes">📊 每日變化</button>
   <button class="etf-subnav-button" type="button" data-etf-subpage="holdings">🌡️ 持股權重</button>
   <button class="etf-subnav-button" type="button" data-etf-subpage="industry">🏭 產業配置</button>
@@ -2264,6 +2337,29 @@ footer{
 
   <div class="heat-note">
     <strong>今日筆記：</strong>點選任一 ETF，可查看介紹、官方公開持股、行情與相關新聞。
+  </div>
+
+</section>
+
+<section class="card page-section" data-pages="etf" data-etf-subpage="compare">
+
+  <h2>🔍 ETF 持股重疊比較</h2>
+  <div class="heat-subtitle">任選兩檔主動 ETF，比較共同持股、權重差異與各自獨有持股</div>
+
+  <div class="etf-compare-selects">
+    <label>第一檔 ETF
+      <select id="etfCompareA" aria-label="選擇第一檔 ETF"></select>
+    </label>
+    <label>第二檔 ETF
+      <select id="etfCompareB" aria-label="選擇第二檔 ETF"></select>
+    </label>
+  </div>
+
+  <div id="etfCompareStatus" class="status">ETF 比較資料載入中...</div>
+  <div id="etfCompareResult"></div>
+
+  <div class="heat-note">
+    <strong>今日筆記：</strong>重疊率＝共同持股檔數 ÷ 兩檔 ETF 持股聯集檔數；只能反映最近公開投資組合，不代表兩檔 ETF 的完整投資策略完全相同。
   </div>
 
 </section>
@@ -2644,6 +2740,7 @@ document.addEventListener("keydown",event => {
 const validEtfSubpages = [
   "summary",
   "directory",
+  "compare",
   "changes",
   "holdings",
   "industry",
@@ -2760,6 +2857,7 @@ function showPage(page,updateHash = true){
   if(activeEtfHoldingsReady){
     renderSelectedEtfChanges();
     renderEtfDirectory();
+    renderEtfComparison();
     renderEtfHoldingHeat();
     renderEtfIndustryHeat();
     renderEtfConsensus();
@@ -4204,6 +4302,207 @@ function makeConsensusRow(item,index,mode){
 
 }
 
+
+
+function makeEtfCompareRow(item,label){
+
+  const row = document.createElement("div");
+  row.className = "holding-change-row";
+  row.tabIndex = 0;
+  row.setAttribute("role","button");
+
+  const main = document.createElement("div");
+  const name = document.createElement("div");
+  name.className = "holding-change-name";
+  name.textContent = item.name || item.code;
+  const code = document.createElement("div");
+  code.className = "holding-change-code";
+  code.textContent = `${item.code}　查看個股 ›`;
+  main.append(name,code);
+
+  const value = document.createElement("div");
+  value.className = "holding-change-value";
+  value.textContent = label;
+
+  row.append(main,value);
+  row.addEventListener("click",() => openStockFromList(item.code));
+  row.addEventListener("keydown",event => {
+    if(event.key === "Enter" || event.key === " "){
+      event.preventDefault();
+      openStockFromList(item.code);
+    }
+  });
+
+  return row;
+
+}
+
+
+function renderEtfComparison(){
+
+  const selectA = document.getElementById("etfCompareA");
+  const selectB = document.getElementById("etfCompareB");
+  const status = document.getElementById("etfCompareStatus");
+  const result = document.getElementById("etfCompareResult");
+
+  if(!selectA || !selectB || !status || !result) return;
+
+  result.innerHTML = "";
+
+  if(!activeEtfHoldingsReady){
+    status.textContent = "ETF 比較資料載入中...";
+    return;
+  }
+
+  const entries = Object.values(activeEtfHoldings)
+    .filter(etf => etf && etf.code && Array.isArray(etf.holdings))
+    .sort((a,b) => String(a.code).localeCompare(String(b.code)));
+
+  if(entries.length < 2){
+    status.textContent = "至少需要兩檔 ETF 才能比較";
+    return;
+  }
+
+  const previousA = selectA.value;
+  const previousB = selectB.value;
+  const fill = (select,selected,fallback) => {
+    select.innerHTML = "";
+    entries.forEach(etf => {
+      const option = document.createElement("option");
+      option.value = etf.code;
+      option.textContent = `${etf.code}｜${etf.name || "主動 ETF"}`;
+      select.appendChild(option);
+    });
+    select.value = entries.some(etf => etf.code === selected)
+      ? selected
+      : fallback;
+  };
+
+  fill(selectA,previousA,entries[0].code);
+  fill(selectB,previousB,entries[1].code);
+
+  if(selectA.value === selectB.value){
+    selectB.value = entries.find(etf => etf.code !== selectA.value)?.code || entries[1].code;
+  }
+
+  const etfA = activeEtfHoldings[selectA.value];
+  const etfB = activeEtfHoldings[selectB.value];
+  if(!etfA || !etfB) return;
+
+  const toMap = etf => {
+    const map = new Map();
+    (etf.holdings || []).forEach(item => {
+      const code = String(item.code || item.stock_code || "").trim();
+      if(!code) return;
+      map.set(code,{
+        code,
+        name:String(item.name || item.stock_name || code).replace(/\s+/g," ").trim(),
+        weight:cleanNumber(item.weight),
+        shares:cleanNumber(item.shares)
+      });
+    });
+    return map;
+  };
+
+  const mapA = toMap(etfA);
+  const mapB = toMap(etfB);
+  const common = [];
+  const onlyA = [];
+  const onlyB = [];
+
+  mapA.forEach((item,code) => {
+    if(mapB.has(code)){
+      const other = mapB.get(code);
+      common.push({
+        code,
+        name:item.name || other.name,
+        weightA:item.weight,
+        weightB:other.weight
+      });
+    }
+    else{
+      onlyA.push(item);
+    }
+  });
+
+  mapB.forEach((item,code) => {
+    if(!mapA.has(code)) onlyB.push(item);
+  });
+
+  common.sort((a,b) =>
+    (b.weightA + b.weightB) - (a.weightA + a.weightB)
+  );
+  onlyA.sort((a,b) => b.weight - a.weight);
+  onlyB.sort((a,b) => b.weight - a.weight);
+
+  const unionCount = common.length + onlyA.length + onlyB.length;
+  const overlapRate = unionCount ? common.length / unionCount * 100 : 0;
+
+  status.textContent = `${etfA.code} ${etfA.name || ""}　vs　${etfB.code} ${etfB.name || ""}`;
+
+  const summary = document.createElement("div");
+  summary.className = "etf-compare-summary";
+  [
+    ["共同持股",`${common.length} 檔`],
+    ["持股聯集",`${unionCount} 檔`],
+    ["重疊率",`${overlapRate.toFixed(1)}%`]
+  ].forEach(([label,value]) => {
+    const metric = document.createElement("div");
+    metric.className = "etf-compare-metric";
+    metric.innerHTML = `<small>${label}</small><strong>${value}</strong>`;
+    summary.appendChild(metric);
+  });
+  result.appendChild(summary);
+
+  const appendGroup = (title,items,makeLabel,open = false) => {
+    const details = document.createElement("details");
+    details.className = "etf-compare-group";
+    details.open = open;
+    const heading = document.createElement("summary");
+    heading.textContent = `${title}（${items.length} 檔）`;
+    details.appendChild(heading);
+
+    if(!items.length){
+      const empty = document.createElement("div");
+      empty.className = "heat-subtitle";
+      empty.textContent = "沒有符合項目";
+      details.appendChild(empty);
+    }
+    else{
+      items.forEach(item => {
+        details.appendChild(makeEtfCompareRow(item,makeLabel(item)));
+      });
+    }
+    result.appendChild(details);
+  };
+
+  appendGroup(
+    "共同持股",
+    common,
+    item => `${etfA.code} ${item.weightA.toFixed(2)}%｜${etfB.code} ${item.weightB.toFixed(2)}%`,
+    true
+  );
+  appendGroup(
+    `只有 ${etfA.code} 持有`,
+    onlyA,
+    item => `${item.weight.toFixed(2)}%`
+  );
+  appendGroup(
+    `只有 ${etfB.code} 持有`,
+    onlyB,
+    item => `${item.weight.toFixed(2)}%`
+  );
+
+}
+
+
+document
+  .getElementById("etfCompareA")
+  ?.addEventListener("change",renderEtfComparison);
+
+document
+  .getElementById("etfCompareB")
+  ?.addEventListener("change",renderEtfComparison);
 
 
 function renderEtfDirectory(){
@@ -8241,6 +8540,7 @@ Promise.all([
 
   renderEtfChangeOptions();
   renderEtfDirectory();
+  renderEtfComparison();
   renderEtfHoldingHeat();
   renderEtfIndustryHeat();
   renderEtfConsensus();
