@@ -8334,11 +8334,11 @@ function renderActiveEtfRanking(){
   const visibleEtfs =
     activeEtfExpanded
       ? activeEtfs.slice(0,30)
-      : activeEtfs.slice(0,5);
+      : activeEtfs.slice(0,3);
 
   toggle.classList.toggle("hidden",activeEtfs.length <= 5);
   toggle.textContent = activeEtfExpanded
-    ? "收起排行，只看前 5 名"
+    ? "收起排行，只看前 3 名"
     : `查看完整前 ${Math.min(30,activeEtfs.length)} 名`;
   toggle.setAttribute("aria-expanded",String(activeEtfExpanded));
 
