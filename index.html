@@ -1936,6 +1936,16 @@ body:not(.owner-preview) [data-access="pro"]{display:none!important}
 .owner-access-column strong{display:block;margin-bottom:7px}
 .owner-access-column ul{margin:0;padding-left:19px;line-height:1.7;font-size:13px;color:#53616a}
 @media(max-width:560px){.owner-access-columns{grid-template-columns:1fr}}
+
+.global-history-card{border:1.5px solid #8b969b;border-radius:16px;padding:14px;margin:14px 0;background:rgba(255,255,255,.68)}
+.global-history-head{display:flex;justify-content:space-between;align-items:flex-start;gap:10px;margin-bottom:10px}
+.global-history-head h3{margin:0;font-size:18px}
+.global-history-change{font-weight:900;color:#536a73;white-space:nowrap}
+.global-history-chart{width:100%;height:145px;display:block}
+.global-history-axis{stroke:#d8dde0;stroke-width:1}
+.global-history-line{fill:none;stroke:#617984;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}
+.global-history-dot{fill:#fffefa;stroke:#617984;stroke-width:2}
+.global-history-empty{color:#6b7785;font-size:13px;line-height:1.6;padding:10px 0}
 </style>
 </head>
 
@@ -2739,6 +2749,13 @@ body:not(.owner-preview) [data-access="pro"]{display:none!important}
   <div class="global-risk-head"><div><h2>🌍 全球市場連動雷達</h2><div id="globalPagePhase" class="heat-subtitle">資料載入中...</div></div><div><div id="globalPageScore" class="global-risk-score">--／100</div><div id="globalPageState" class="global-risk-state">資料準備中</div></div></div>
   <div class="global-gauge"><span id="globalPageMarker" class="global-gauge-marker" style="left:0%"></span></div>
   <div id="globalPageStatus" class="status">全球市場資料載入中...</div><div id="globalPageSummary" class="plain-note"></div><div id="globalIndicatorGrid" class="global-indicator-grid"></div>
+  <div class="global-history-card" data-access="member">
+    <div class="global-history-head">
+      <div><h3>📉 全球風險溫度趨勢</h3><div id="globalHistoryRange" class="heat-subtitle">等待累積更新紀錄</div></div>
+      <div id="globalHistoryChange" class="global-history-change">—</div>
+    </div>
+    <div id="globalHistoryChart" class="global-history-empty">資料累積中；至少需要兩次更新才能畫出趨勢。</div>
+  </div>
   <div class="access-public-note access-public-only">免費公開版目前提供主要國際行情、風險燈號與簡短摘要；完整市場分歧、族群影響與歷史驗證將於資料授權及會員後端完成後開放。</div>
   <div class="global-semantics" data-access="member">
     <div class="global-semantic"><h3>① 已確認的市場數據</h3><ul id="globalConfirmed"></ul></div>
@@ -8964,6 +8981,35 @@ function globalNumber(value,unit){const n=Number(value);if(!Number.isFinite(n))r
 function globalTime(value){if(!value)return "尚無時間";const d=new Date(value);return Number.isNaN(d.getTime())?String(value):d.toLocaleString("zh-TW",{hour12:false});}
 function globalIndicatorHtml(item){const n=Number(item.change_percent),ct=Number.isFinite(n)?(n>0?"+":"")+n.toFixed(2)+"%":"—",cl=Number.isFinite(n)?(n>0?"rise":n<0?"fall":""):"";return '<article class="global-indicator"><div class="global-indicator-top"><span>'+escapeHtml(item.name||item.id||"指標")+'</span><span class="'+cl+'">'+ct+'</span></div><div class="global-indicator-price">'+globalNumber(item.price,item.unit)+' <small>'+escapeHtml(item.unit||"")+'</small></div><div class="global-indicator-meta">'+escapeHtml(globalTime(item.data_time))+'<br><span class="global-data-status '+(item.stale?"stale":"")+'">'+escapeHtml(item.update_status||"更新狀態不明")+'</span></div></article>';}
 function fillGlobalList(id,items,emptyText){const t=document.getElementById(id);if(!t)return;const a=Array.isArray(items)?items:[];t.innerHTML=a.length?a.map(function(x){return "<li>"+escapeHtml(String(x))+"</li>";}).join(""):"<li>"+escapeHtml(emptyText||"目前沒有足夠資料")+"</li>";}
+function renderGlobalRiskHistory(){
+  const box=document.getElementById("globalHistoryChart"),range=document.getElementById("globalHistoryRange"),change=document.getElementById("globalHistoryChange");
+  if(!box||!range||!change)return;
+  const rows=(Array.isArray(globalMarket.risk_history)?globalMarket.risk_history:[]).filter(function(x){return Number.isFinite(Number(x.score));}).slice(-36);
+  const delta=Number(globalMarket.risk_change);
+  change.textContent=Number.isFinite(delta)?((delta>0?"+":"")+delta.toFixed(0)+" 分／上一筆"):"—";
+  if(rows.length<2){
+    box.className="global-history-empty";
+    box.textContent="資料累積中；至少需要兩次更新才能畫出趨勢。";
+    range.textContent="目前 "+rows.length+" 筆更新紀錄";
+    return;
+  }
+  const width=640,height=145,padX=18,padY=16,usableW=width-padX*2,usableH=height-padY*2;
+  const points=rows.map(function(row,index){
+    const x=padX+(rows.length===1?0:index/(rows.length-1)*usableW);
+    const y=padY+(100-Math.max(0,Math.min(100,Number(row.score))))/100*usableH;
+    return {x:x,y:y,score:Number(row.score),time:row.generated_at};
+  });
+  const path=points.map(function(p,index){return (index?"L":"M")+p.x.toFixed(1)+" "+p.y.toFixed(1);}).join(" ");
+  const guides=[25,50,70].map(function(value){
+    const y=padY+(100-value)/100*usableH;
+    return '<line class="global-history-axis" x1="'+padX+'" y1="'+y.toFixed(1)+'" x2="'+(width-padX)+'" y2="'+y.toFixed(1)+'"></line>';
+  }).join("");
+  const dots=points.map(function(p){return '<circle class="global-history-dot" cx="'+p.x.toFixed(1)+'" cy="'+p.y.toFixed(1)+'" r="3"><title>'+escapeHtml(globalTime(p.time)+"｜"+p.score+" 分")+'</title></circle>';}).join("");
+  box.className="";
+  box.innerHTML='<svg class="global-history-chart" viewBox="0 0 '+width+' '+height+'" role="img" aria-label="全球風險溫度歷史趨勢">'+guides+'<path class="global-history-line" d="'+path+'"></path>'+dots+'</svg>';
+  range.textContent=globalTime(rows[0].generated_at)+" ～ "+globalTime(rows[rows.length-1].generated_at)+"｜"+rows.length+" 筆";
+}
+
 function renderGlobalMarket(){
   if(!globalMarketReady)return;const r=globalMarket.risk||{},s=Number.isFinite(Number(r.score))?Math.max(0,Math.min(100,Number(r.score))):0;
   ["globalHomeScore","globalPageScore"].forEach(function(id){const e=document.getElementById(id);if(e)e.textContent=(r.score==null?"—":s)+"／100";});
@@ -8974,6 +9020,7 @@ function renderGlobalMarket(){
   const phase=document.getElementById("globalPagePhase");if(phase)phase.textContent=(globalMarket.taiwan_market_phase||"時段未判定")+"・資料時間與延遲請見各指標";const st=document.getElementById("globalPageStatus");if(st)st.textContent=(globalMarket.update_status||"更新狀態不明")+"｜更新 "+globalTime(globalMarket.generated_at);
   fillGlobalList("globalConfirmed",globalMarket.confirmed_data,"尚無已確認行情");fillGlobalList("globalSignals",globalMarket.rule_signals,"尚無規則訊號");fillGlobalList("globalInferences",globalMarket.inferences,"尚無足夠資料推論");fillGlobalList("globalWatch",globalMarket.watch_next,"等待下一次更新");
   const sec=document.getElementById("globalSectors");if(sec)sec.innerHTML=(globalMarket.affected_sectors||[]).map(function(x){return '<span class="global-sector-chip">'+escapeHtml((x.name||"族群")+"・"+(x.direction||"觀察"))+'</span>';}).join("");
+  renderGlobalRiskHistory();
   const hist=document.getElementById("globalHistory"),hv=globalMarket.history_validation||{};if(hist)hist.textContent=(hv.status||"樣本不足")+"｜歷史樣本 "+(hv.sample_count||0)+" 筆。"+(hv.note||"累積足夠樣本後再提供勝率。");const lic=document.getElementById("globalLicense");if(lic)lic.textContent="資料與授權說明："+(globalMarket.commercial_use_note||"行情僅供研究與教學使用。");
 }
 function renderGlobalExposure(code){
