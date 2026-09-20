@@ -1954,7 +1954,9 @@ footer{
       <div class="heat-title">今日市場熱門成交</div>
       <div class="heat-subtitle">依最近交易日成交股數排序</div>
     </div>
-    <div id="marketTopDate" class="heat-date">資料載入中...</div>
+    <select id="marketTopDate" class="heat-date" aria-label="選擇成交量排行交易日">
+      <option>資料載入中...</option>
+    </select>
   </div>
 
   <div id="marketTopStatus" class="status">市場排行載入中...</div>
@@ -1982,7 +1984,9 @@ footer{
       <div class="heat-title">最近交易日前 50 名</div>
       <div class="heat-subtitle">點選任一股票即可查看行情、K 線與法人籌碼</div>
     </div>
-    <div id="marketFullDate" class="heat-date">資料載入中...</div>
+    <select id="marketFullDate" class="heat-date" aria-label="選擇成交量排行交易日">
+      <option>資料載入中...</option>
+    </select>
   </div>
 
   <div id="marketFullStatus" class="status">市場排行載入中...</div>
@@ -2232,6 +2236,7 @@ let companyProfilesReady = false;
 let activeEtfExpanded = false;
 let activeEtfRankingData = [];
 let selectedActiveEtfDate = "";
+let selectedMarketDate = "__latest__";
 let newsPageStart = 0;
 let currentPage = "home";
 let allStockLimit = 60;
@@ -3975,39 +3980,132 @@ function renderIndustryHeat(){
 }
 
 
-function getMarketVolumeRanking(){
+function getLatestMarketDate(){
+
+  const row = stocks
+    .map(getStockValues)
+    .find(item => item.date);
+
+  return row ? formatStockDate(row.date) : "最近交易日";
+
+}
+
+
+function getMarketHistoryDates(){
+
+  if(!marketHistoryReady) return [];
+
+  const counts = new Map();
+
+  Object.entries(marketHistory).forEach(([code,history]) => {
+    if(code === "_meta" || !Array.isArray(history)) return;
+    history.forEach(item => {
+      if(!item?.date) return;
+      const date = String(item.date);
+      counts.set(date,(counts.get(date) || 0) + 1);
+    });
+  });
+
+  return [...counts.entries()]
+    .filter(([,count]) => count >= 10)
+    .sort((a,b) => b[0].localeCompare(a[0]))
+    .map(([date]) => date);
+}
+
+
+function renderMarketDateOptions(){
+
+  const selects = [
+    document.getElementById("marketTopDate"),
+    document.getElementById("marketFullDate")
+  ].filter(Boolean);
+
+  if(!selects.length) return;
+
+  const latestLabel = getLatestMarketDate();
+  const historyDates = getMarketHistoryDates()
+    .filter(date => formatStockDate(date) !== latestLabel);
+
+  selects.forEach(select => {
+    select.innerHTML = "";
+
+    const latest = document.createElement("option");
+    latest.value = "__latest__";
+    latest.textContent = latestLabel;
+    select.appendChild(latest);
+
+    historyDates.forEach(date => {
+      const option = document.createElement("option");
+      option.value = date;
+      option.textContent = formatStockDate(date);
+      select.appendChild(option);
+    });
+
+    const available = [...select.options].some(option => option.value === selectedMarketDate);
+    if(!available) selectedMarketDate = "__latest__";
+    select.value = selectedMarketDate;
+
+    select.onchange = () => {
+      selectedMarketDate = select.value;
+      renderMarketRanking();
+    };
+  });
+
+}
+
+
+function getMarketVolumeRanking(date = "__latest__"){
+
+  if(date === "__latest__"){
+    return stocks
+      .map(row => {
+        const values = getStockValues(row);
+        const code = String(values.code || "").trim().toUpperCase();
+        const name = String(values.name || "").trim();
+        const volume = cleanNumber(values.volume);
+        const close = cleanNumber(values.close);
+        const change = cleanNumber(values.change);
+        const previousClose = close - change;
+        const percent = previousClose > 0
+          ? change / previousClose * 100
+          : 0;
+
+        if(!code || !name || !Number.isFinite(volume) || volume <= 0){
+          return null;
+        }
+
+        return {code,name,date:values.date,volume,close,percent};
+      })
+      .filter(Boolean)
+      .sort((a,b) => b.volume - a.volume);
+  }
 
   return stocks
     .map(row => {
       const values = getStockValues(row);
       const code = String(values.code || "").trim().toUpperCase();
       const name = String(values.name || "").trim();
-      const volume = cleanNumber(values.volume);
-      const close = cleanNumber(values.close);
-      const change = cleanNumber(values.change);
-      const previousClose = close - change;
+      const history = Array.isArray(marketHistory[code]) ? marketHistory[code] : [];
+      const index = history.findIndex(item => String(item.date || "") === date);
+
+      if(index < 0) return null;
+
+      const current = history[index];
+      const close = getHistoryClose(current);
+      const volume = getHistoryNumber(current,"volume");
+      const previousClose = index > 0 ? getHistoryClose(history[index - 1]) : 0;
       const percent = previousClose > 0
-        ? change / previousClose * 100
+        ? (close - previousClose) / previousClose * 100
         : 0;
 
-      if(!code || !name || !Number.isFinite(volume) || volume <= 0){
-        return null;
-      }
+      if(!code || !name || !(volume > 0)) return null;
 
-      return {
-        code,
-        name,
-        date:values.date,
-        volume,
-        close,
-        percent
-      };
+      return {code,name,date,volume,close,percent};
     })
     .filter(Boolean)
     .sort((a,b) => b.volume - a.volume);
 
 }
-
 
 function makeMarketRankRow(item,index){
 
@@ -4071,7 +4169,8 @@ function makeMarketRankRow(item,index){
 
 function renderMarketRanking(){
 
-  const ranking = getMarketVolumeRanking();
+  renderMarketDateOptions();
+  const ranking = getMarketVolumeRanking(selectedMarketDate);
   const configs = [
     {list:"marketTopList",status:"marketTopStatus",date:"marketTopDate",limit:3},
     {list:"marketFullList",status:"marketFullStatus",date:"marketFullDate",limit:50}
@@ -4090,13 +4189,12 @@ function renderMarketRanking(){
 
     if(!ranking.length){
       status.textContent = "⚠️ 找不到可用的成交量資料";
-      date.textContent = "無資料";
       return;
     }
 
     const visible = ranking.slice(0,config.limit);
     status.textContent = `✅ 已整理 ${visible.length} 檔成交量排行`;
-    date.textContent = formatStockDate(ranking[0].date);
+    date.value = selectedMarketDate;
 
     visible.forEach((item,index) => {
       list.appendChild(makeMarketRankRow(item,index));
