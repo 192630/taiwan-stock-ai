@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-20T13:33:17.991687+08:00",
+  "updated_at": "2026-09-21T02:35:41.094664+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2890",
   "name": "永豐金",
   "count": 12,
   "news": [
     {
-      "title": "永豐金證券產業高峰論壇： 看好 AI 引領第4季行情布局六大供應鏈商機",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPemZmRjhVWlhtczR1eFlheUxST0MtVUs0dEx1ME5uTVNsRXdvbDZLQ1Ffb1Zicjc5RVhXZTR0U0NEcTlFMVNla2xxZ3FZV1Rs0gFWQVVfeXFMT2V3N0N2dE10Zy1BdzlYTWxLQWY4eUFBUnZ3WU9rbGlEcGRMTk1GekRBY3B4WllGTkhrYlpFa1N4NEh6RGJkcjdVVklkNFhxNmRDZUF0Unc?oc=5",
+      "title": "大型券商首家！永豐金證券上線「金融Fast-ID」",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ndHJyMmpPd0NBMVFaMHRPVnFWeUxuQ3ZvWnRpNl9fUkFwVnZFdGFUN0wwYkszZGk5RFlja1RrdU5PdUxBd0NZYUpNTXYyWExw0gFWQVVfeXFMTW4tanZZTkVzaDI4VkhNMm1BVHBGcmJaakFMWWZZaE5xMDZZT1pNMWlQeGgxT3QwX0J0VHZsOHhMUml3azhsVEJETVg1ZVI4ajRYRjE2enc?oc=5",
       "source": "UDN",
-      "published_at": "2026-09-20T03:55:35+00:00"
+      "published_at": "2026-09-20T07:24:23+00:00"
+    },
+    {
+      "title": "永豐金證券產業高峰論壇： 看好 AI 引領第4季行情布局六大供應鏈商機",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iczZlZE8zUDFndnJkYzhncTZFNnRuVnl5ZmFqZkZrQU5pNXZ0SEdZQUg5VktJeHY2UGstNHE2U3pPUU1idS1sQWhNaGhqQnFYWXN3THJwYzFuZ9IBX0FVX3lxTFB3eGVHTjBhYXVMY1BrWThSaTlsS2I1TjZXYmtQWjBrX0p1alJlTE1iTkY1OXh0NjYyRVI3SE5SeC1xeHg3TzlnSkhXNFVHTEV5M09tS1ladHREcFdlQzhr?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-20T02:34:19+00:00"
     },
     {
       "title": "BABYMONSTER台北場掀關注 永豐金證券推專屬購票序號活動",
@@ -18,22 +24,16 @@
       "published_at": "2026-09-18T03:50:03+00:00"
     },
     {
-      "title": "永豐金證券「金融Fast-ID」線上開戶身分驗證最快15秒",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95NElubjF0WFhPemRjVzRGNUdTMWJ0LS1rSkprUUV6MGs1NHJzMHlZM0lObWdLellDaHF1SnUxTXlvTmJhTVdlV253MFBFWjcwT3c?oc=5",
-      "source": "蕃新聞",
-      "published_at": "2026-09-18T02:09:00+00:00"
-    },
-    {
-      "title": "大型券商首家！永豐金證券上線「金融Fast-ID」",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rdGxmUjBqYkgxeWVrcTZLaWdCMEptS0VqVGg4WlpDTWE0bVh3ZkRNbVdjYU5BNWd1RDR3SG9BMTNsVHZGalFQNTBkUUVyZjdyMHc?oc=5",
-      "source": "中華新聞雲／中華日報",
-      "published_at": "2026-09-17T10:32:23+00:00"
-    },
-    {
       "title": "永豐金(2890)股價創高45.95元還能買？現金增資+年年配股，股本膨脹2027年配息、殖利率剩多少？金融股存股必看",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdEVPUEVYYloxVXRkb19vQzY0LVVRUDZvNTNzQ2ZaWUZ0NmtURFZFY3JsRldIWS1xLWNoaFJaR0xabnRxX18tZ3hkNFdPbnk2N2tleC1rd0ViNTdhb3Q5VDdKUkdqOGxjVUljaFczTTdmRXlkY3RtQUljelpEMTNDQw?oc=5",
-      "source": "今周刊",
+      "source": "businesstoday.com.tw",
       "published_at": "2026-09-17T03:55:38+00:00"
+    },
+    {
+      "title": "永豐金證券「美股2.0」助攻 權威升級對焦華爾街",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1ckZJLWw0Yll3c3p6QlYzcUZFTkdhODhJOXBmdDZJM3RxWGR0NHpJQ2JjZ0ZabmprVHBOUE9sZHJhcWNGZS1HRGpEOWJ1WnotUUE?oc=5",
+      "source": "蕃新聞",
+      "published_at": "2026-09-16T08:06:01+00:00"
     },
     {
       "title": "葡萄王(1707)9/17受邀參加永豐金證券舉辦之線上法人說明會",
@@ -42,39 +42,39 @@
       "published_at": "2026-09-16T06:47:07+00:00"
     },
     {
-      "title": "永豐金EPS暴增七成，你的殖利率可能只有4%？央行升息會如何？",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1aRFZWc2E0bnlvSVlfZGFmcFBLcC1IZ0JIYWY4a1prcTlMLTVuLUhOaGxQMFc0Wlk2amVfNGUyTjJvQnVnYTdJN3ZJWUk3cUVpUTRya2U2RQ?oc=5",
-      "source": "玩股網",
-      "published_at": "2026-09-16T06:34:05+00:00"
-    },
-    {
       "title": "永豐金證券採用彭博 ETOMS 提升電子化造市能力",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nUXUydk5wTnVQd3U1TkdUOU1fOXNXQ0lFeWRNVHJjUlpFQTl3akJKRk5rMEE0VV93UmdkVTBPT3E1T0R4UTRiSWp4VFVLVmxya2Z6dXNtUkZxd9IBX0FVX3lxTE1hanJiSTRoeC1VR3lERF8yUUxEdnNabTM1RHBKN2JQSHlSb3NjMFFwQ2xhbE9HNFk5OHNGNC1obnE3UWJiVllSVmxad2ROOExoVk1BX05yWm02VERvYlpj?oc=5",
       "source": "經濟日報",
       "published_at": "2026-09-16T03:11:55+00:00"
     },
     {
-      "title": "永豐金證券「美股2.0」助攻 權威升級對焦華爾街",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1ckZJLWw0Yll3c3p6QlYzcUZFTkdhODhJOXBmdDZJM3RxWGR0NHpJQ2JjZ0ZabmprVHBOUE9sZHJhcWNGZS1HRGpEOWJ1WnotUUE?oc=5",
-      "source": "蕃新聞",
-      "published_at": "2026-09-15T09:37:00+00:00"
-    },
-    {
-      "title": "永豐金(2890) 今日股價與討論 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13T0pRdnZGWGNTc1RFYXJMMmVKcjZLSlNLcXZIdkEyNWphbHFJa2dELVZyY0REakFaZ0N3UzRzZG5yenJLU2xWcEcxRDUwSlU?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-15T07:00:00+00:00"
-    },
-    {
       "title": "從投資到生活 永豐金證券勇奪《今周刊》財管評鑑7項大獎",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRdDZiZmxHV1VEUVhVNk4yTTNOVmpMcnJFaEZDenpEMWdnQTFYMkQ3SmFHWDVZY1pzQUNtZlpkUV9CTXl2SmQ3QXVuZFprOXRDZ2c?oc=5",
-      "source": "中華新聞雲／中華日報",
+      "source": "cdns.com.tw",
       "published_at": "2026-09-12T13:46:15+00:00"
+    },
+    {
+      "title": "永豐金證券奪《今周刊》7大獎 從AI到財富管理全獲肯定",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBENW8wMWU2X0YtOGRsbmxtZy1YQjNEUkpFbGJWeHoyelRaY2hVRmliYndIakQ1SEJOT25IQXl4NzdKUG9ZVHROelQ0TjFZZzhycEE?oc=5",
+      "source": "蕃新聞",
+      "published_at": "2026-09-10T07:45:38+00:00"
     },
     {
       "title": "永豐金證券定期定額投資 推雙幣扣款服務",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZWm1va2JLR3YyREM3VWJlVTJtRVZUSkFDSGloOGd4aWZmMkJkRnZ5aDRpUTBza05WN0xWR011aTFfRjJQS1MzR2lVNV9mdWc?oc=5",
       "source": "news.cnyes.com",
+      "published_at": "2026-09-10T07:00:00+00:00"
+    },
+    {
+      "title": "美元匯率有感 永豐金證券推雙幣扣款、掌握換匯成本",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NMF9fR01lcC1Hc2w5VFFtTGJwSU1Bazk1U21DMU53dzVTQjV4aVQ3X0NCOXVMR1dYZ3ljSVk4RHZCSWRqNmd2VFZGYW12Z2pX0gFWQVVfeXFMUE5rbUY2SGM5YjYtU2VFZnowZUhieGxxMTdQdldUcnZsaHYtX2ZkR2c3WGExVlo5NHdremVYX2V2TWJsMy1MMkZSTEJ6NGtoVDJKSlNmYnc?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-10T07:00:00+00:00"
+    },
+    {
+      "title": "國人每月花3.2萬存美股永豐金證券推雙幣扣款- 金融",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JU1hxOUJFQksyUTh6akY2ejZDMUd3RnBtMXM3ak9ZSWl5STdKUDhKQVFzemxjRzJCeGVOT1dYaGRoTnhLT0JIZm9jcmJJai05Rk1VX2lqYXptTzhIczFn?oc=5",
+      "source": "工商時報",
       "published_at": "2026-09-10T07:00:00+00:00"
     }
   ]

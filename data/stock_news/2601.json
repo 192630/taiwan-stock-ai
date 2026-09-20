@@ -1,39 +1,33 @@
 {
-  "updated_at": "2026-09-20T12:34:46.074804+08:00",
+  "updated_at": "2026-09-21T02:35:06.336896+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2601",
   "name": "益航",
-  "count": 5,
+  "count": 4,
   "news": [
     {
       "title": "2601 益航- ？？？ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41SmYyOHhMeXUxZzlFQjVxNEJDNHRoRDdOaTc3cElHSmc3V2piLUE3Rm52NFZGdUc2emp6cU8ta1Z3Ty0wSUVlSkJTMTdXckxfZ25YM0dFLUM?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-18T08:18:48+00:00"
     },
     {
       "title": "2601 益航- 益航融券最後回補日9/17 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtMjc3T015N0VlX0RJRUNkcjlrQWpxQ1VoenB6ZmxIMGJvMjJ3c3RjYnQ4ZGxuR2FoNkdrYzZON2JZVVQ0bzFhOGFibDA0V3FMbGloMkpRNkY?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-11T00:54:34+00:00"
     },
     {
       "title": "TWA00 加權指數- 9/4【益航。BDI與BCI】 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5aTGpGNld2Mm1JS2xSNlowOVB6a3dkT1pQUWhObF9MbXJzWjhNdWFxRS16U2NiLWJxZ2lwb1YwQ0NMSlFBUHNjcFJFdkMySGxWVUpaZUhzV2o?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
       "title": "2601 益航- 益航公告本公司辦理減資變更登記完成- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91dTJJQVhnM2tkTzRFcG9aZ3dnVS13WGFibkYxR0RHQ2pOQ2pjRUNJUlFPUzd0b1JCaG16MERnUl9WQU01YVVIUjAzazhrbmpLeUNsSm5JTGI?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-01T07:00:00+00:00"
-    },
-    {
-      "title": "【09:15 即時新聞】益航(2601)亮燈漲停，航運族群資金點火＋短線技術轉強吸引買盤追價",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTEx2SmdKdU1GbVBGTjBLRjlrYnF3ak5kLWV1VjJ3Q1hjVFFJVnlUWEEwdGgzSXZ3X2NEamZCc09uVzFvVlpWNFcxNjdWZlFzaUFoUW45cFdOWjUtYWNVRnFzRDl4ank5NFJfVUt1U0tlRjhSeFdsaUpHSDRaeEFHNHlXWTBQYlpLeE40bTJn?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-08-21T07:00:00+00:00"
     }
   ]
 }

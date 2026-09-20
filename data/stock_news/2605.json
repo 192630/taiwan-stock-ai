@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-20T12:34:47.121286+08:00",
+  "updated_at": "2026-09-21T02:35:07.502099+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2605",
   "name": "新興",
   "count": 12,
   "news": [
+    {
+      "title": "新興市場債 吸引力十足",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DeUxQMV9MeWFCU25zNU92LU4wcUJDMGtOc2dLWVNYUUZiRzUzdS1xNS1aUDJfWjJ3cGowUi1MNDFTOGtucm5pWVlOV3pXV0xjQ0HSAVdBVV95cUxPU1pZS2F2S0Y5dDRSOHhzUHNxcHJfc0R0ZldHZ1RLS1kwZy1mZGsybGR1ck5URHNXbC1RTnJLNjRlYkJCZDdkZDlUbV9ETWxJRG5GYkJ1OFE?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-20T17:48:03+00:00"
+    },
     {
       "title": "大型投資信託減持美股 AI熱潮中轉向新興市場",
       "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQMXZ5eVlPbFV2dnkxWDN5eTc1MTk1R3NXOVQ5aUZvMzRfam52RmZkUVl2SVV4cWp0Yk9OUTRZUEJkS0E5cjFwUGpWdnppUktKWDE4d0k3QjNYaUlNc3FPU29keVMzS0hEdWRNMUJvZ1Bycm9kaTRUWkFkYmlWU3puVm9xanBpQWhseFUyQkY4ZHdtWnc0dzF1NE5ER0ZDZlh2VTMxVHZzem5ldWczbHk3TjNkcXMyYXI2N0ZDVGZBR3JtdHBkV0ZQSUd4R0xldE1iNWVYOF9VWUd1c0RpNmZ5ZnIyUGJpc244dzZieG1oRTIxbTFubWxNOE5CUkp5UzBES09BaEVBYnRKa0VxWFVZOTFMR1JUYUo5YTNNTFdieEV4cFhXSnhHY3JnSkVyemVTYjRxRFhMUmNZOU5wenIwOXk4UQ?oc=5",
@@ -14,7 +20,7 @@
     {
       "title": "2605 新興 - 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pR2VIZF9UeXFzRDBCdDJ5OElKZHEyZFQ5a1pOVHFFdkR4bFUtUmVBUzhGeENoRzQ1OXlWODBfajFBeFpQUUtaTVFZT1BsbmZ2Q2VWQ210cW0?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-17T13:40:48+00:00"
     },
     {
@@ -60,22 +66,16 @@
       "published_at": "2026-09-14T12:18:40+00:00"
     },
     {
+      "title": "前金、新興、苓雅、鼓山、鹽埕後援會成立 賴瑞隆：打造全齡宜居高雄新核心",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOWkl2NnBLd3RJWjlScFJJQ2RXemFULWNtb1lDVEk4Q1JZR3RSQ1RYSmJLbGZmeXVWQ1lUbW9GenBnRmwxVHdRVWpFQy1aYjhBeGNGTUFBczZBckhQN29HZTJGUGx5Nm1pV2NGSHFIc0FBNC04aWxCZUttaW9Vbk9yYXY0d2tuUVJ4S1VXZlItSWNKVnUzOW9RcmFMdXlSWGtRazQ5OTBHV2dSM1dGQUFjMlFpTmE3RnFqSUhKeE1LWU96QWtyQzc1d2RzcnAxMFBDRmVBbTZVRElCVUs3cTVTM2JFZTJRYW1BMW5Gc3NiZnhtcWpVcWlqZWhLOHB6SWpNWDNManFabXlwblZq?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-13T17:27:10+00:00"
+    },
+    {
       "title": "法國資產巨擘東方匯理轉向亞洲 人力資金集中新興市場",
       "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPc283QldBcFVTVHZNb1JKRFdZRG95SFZpODZnY3V5TmoxbUdtOW9CdUM4eTJoWWMxVFpIMDljM01DMlJGc2VNT3hqc2xaSWRlZmxmSFNqLUktOXJsM2xNU2kzbUV0bnN0T2NpX2NLblA3VF9pb3dra29zamNhZjVEYUFUOUxEendfSnV4aVlheUhOazhob1g5VFZRcm1uRGQwQzI3VnF6cVZvYUtZc2tHcnpoQUhGZEdTSEFKdUFFX1dXRUlzaE9aTG96MWNlcW1jamZwbFZMWlJfQWVYamFieHV1dzVjaEIyaHk0WFJQLXJXWjMybzltNVRiN193R2ViS2xnMVlVWURYVlNqa2FiOFBtWjl2dUtDUlctS2NGSkk5SHVlcTF0SzRfYkhFRmg2QnBybmVDYkNGZ1U4cFpGUWd4cHNjUlFqWTd0ZG1VNDF3ZmwyX3o4Z3lrUEV1Zng2TW1YWXQ0UGxGR1NuclJvM0dvaEpBQ1g2bmVNNA?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-11T07:00:00+00:00"
-    },
-    {
-      "title": "VanEck 推新興市場ETF 捕捉分析師看好企業訊號",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNWFhSUUkzWWU2cHFZdWgwT1pwbUU1c193TElyQWNPN19IQXRCMmUwT3YzTzVWa2lpMmFGN3lsR1R3c2lXR2RyN0tWclFYbmdWNzE1dmIzSnBKc1NoUE83OTVqWUNlYmdVTmxZenp0cDhnQnBOUzFFWnhfUUFySDN0bG82eDlYaG5BY1VuRjdxa3padG5VR2lOMWtGMy00bDBNdjVISWZ2YkxRMmhDajB5dG9RNDFQTUdRNl9ISmxmaWxiZV9jeWlURjkyeDJ6cUpsWm03R2hfWDZmZm01WjVPRkFKXy1FTTJQTmh6YVp1b0F6VEViZ1Q2U2h5amVIZGlnbzRzQnYtVjQxMEd4am1OVllfLWMyZElybnNnVVNOZmc4eGRlb2VZeUt3?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-11T07:00:00+00:00"
-    },
-    {
-      "title": "海岬型船換約，新興8月營收雙增/後市亦看好",
-      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQYkhRWDlCdFlLZDUtbEpBZ2NvOG1SZ2QwMmlpdy1nSXVwQWFuN2RKY1puUHpnV0VtN2hOT1FmUGQ2WmRLY3NlbWFWZ2JEQVdKWllxdERPYzdrdWtURmFSMnNaU0xoangzRTNCTEk5RklTSEZJSGQ0N1hYaEZTc01ia1Y4NTg2NExMeFhodFliNHBQSkJwODRkR3FRbjlWR3haejAwbFN5OXpQODR6c0NNR0Z2d3FaYWtMUms4aDN3T2hiOFZrYVJyR2JqQ3ZycTZIVEZ0djZlRE03b0dvN2NzZEtITTliRDFrNXZYNHUteDZyUm4tRm1fZWw3SlVBUHRmWHQ5QjBYX1p2RWRtSHFGNWtpVjl1aEFsZVljb2ZFeUFsV2Q5djBuYlhfYXhRQTZ2ZnY3SXliUQ?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-10T07:00:00+00:00"
     }
   ]
 }

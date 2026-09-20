@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-20T13:33:16.485935+08:00",
+  "updated_at": "2026-09-21T02:35:38.937203+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2883",
   "name": "凱基金",
   "count": 12,
   "news": [
+    {
+      "title": "00919換股納入凱基金 股價昨日飆漲停、今盤中續飆逾9%",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMYXlZNUdDb3Vhb1FQdGJ4bzYweWYwd2VhbmUtc2toaUpCYUpOeXd0UE4tWGVzSjlyd0tzb2hZNGlBdlV3Q3AyZm1JeGhkZzA2WEZjSzNwaUx0d9IBX0FVX3lxTE84Q01wNjJrWXNsRU9GVWFjRzQ2V2d3SXUxQW5kcllFYXpfN0IxQVFIUXM2RFM0UllqaGc4WGE1N2ZneXI2cUZ5eHlsUGpZdFZUUUtZb2RSMUQxN2o1RHdv?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-19T09:00:00+00:00"
+    },
+    {
+      "title": "熱門股》配息銀彈增 凱基金飆24年新高",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVdGo3OVJvNElUbEFXeWRZbEZBSkM4WE83YnpjWFlNUkJIWEFHNlpoeFNnUDg1MFB2UTR4LUR2VWtpTXJGVXlhaXpxVTVScDZYTVVTeDJ1TzE?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-18T22:57:13+00:00"
+    },
     {
       "title": "熱門股》外資連7買 凱基金順利填息",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3bjRDVDRVbHdXdlI3dHdlRi1hSGxZb3U3Wi05NnZ6cm9IczV0NjNuVFlMZWJhWmJ1am1fQXFRYUtHbl8tMVVBWHJqQkphZm8xendlMTJYSkw?oc=5",
@@ -12,22 +24,10 @@
       "published_at": "2026-09-18T09:38:30+00:00"
     },
     {
-      "title": "00919換股納入凱基金 股價昨日飆漲停、今盤中續飆逾9%",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMYXlZNUdDb3Vhb1FQdGJ4bzYweWYwd2VhbmUtc2toaUpCYUpOeXd0UE4tWGVzSjlyd0tzb2hZNGlBdlV3Q3AyZm1JeGhkZzA2WEZjSzNwaUx0d9IBX0FVX3lxTE84Q01wNjJrWXNsRU9GVWFjRzQ2V2d3SXUxQW5kcllFYXpfN0IxQVFIUXM2RFM0UllqaGc4WGE1N2ZneXI2cUZ5eHlsUGpZdFZUUUtZb2RSMUQxN2o1RHdv?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-09-18T09:00:00+00:00"
-    },
-    {
       "title": "凱基金今年獲利創高可期，配息水準更受期待 - 新聞",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSkhIM1NqUldzOE1VWFNJUEVrcFQ2RE5FckRtMHF0Z3JXdTdIY2xLb2JYVGFsdXdmb0ZwRGtQRml0ZExyNHVRLWx3cldJMHE1QVRlbXE2eVhwaXhTUjY1bUdoNkNjWm51QjZsaktnTUdaOWtJWGhWSUxJeVpVQ0RSQjQzVUdWRWZsSXBEc1Uxc0ZyQQ?oc=5",
-      "source": "moneydj.com",
+      "source": "MoneyDJ",
       "published_at": "2026-09-14T02:05:00+00:00"
-    },
-    {
-      "title": "凱基金8月大賺57億、前8月賺近363億贏歷年全年 累計EPS為2.11元 | 陳怡慈 | 新聞",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE52Y3Q5US10MWhEVXpsNHlSVUM3bWhSQ0daWVV5djY5cU1rdnZtNlE4eVJPVjAyWmp4eEdVT1lBcGNBbU9nU2ltNTJxdS1rUQ?oc=5",
-      "source": "風傳媒",
-      "published_at": "2026-09-11T11:49:06+00:00"
     },
     {
       "title": "凱基金前8月大賺362.9億 銀行踩綠能地雷單月虧損近3億",
@@ -50,13 +50,13 @@
     {
       "title": "凱基金股利配息穩了？前八月大賺362.9億、EPS 2.11元超車歷年全年獲利- 金融",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zNjdrZmVUYTVsLWM5OTdrU1NlbnlBbDNUUWF1VGFMQVcxLXcyRUFybmRjTG9ucE56elFRVXF6QnJNNWtZVWVTeUZGWmxXZzJIOGpLRG8wSS1oSWNkVVMw?oc=5",
-      "source": "ctee.com.tw",
+      "source": "工商時報",
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
-      "title": "凱基金 (2883) 獲利創高後，18家預估藏哪個關鍵？-梁姐價值投資心法",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNlJsRnVMdDVyTWpNcHVFVWJVUWtIVkxBSE5MX2pFTGQwS2VaRFFBNFkzMmk5UkZ0MUxOQkxSeDBDZU1GTWxYWXFFMWttTUFOY29Yc2VUbVAwYXR6a1FBVDA1emtDUDNWSnRLTU4zVGFDbzJKZG5XNU9YQUh6TUdzajlmRDZLdw?oc=5",
-      "source": "CMoney投資網誌",
+      "title": "凱基金8月大賺57億、前8月賺近363億贏歷年全年 累計EPS為2.11元 | 陳怡慈 | 新聞",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE52Y3Q5US10MWhEVXpsNHlSVUM3bWhSQ0daWVV5djY5cU1rdnZtNlE4eVJPVjAyWmp4eEdVT1lBcGNBbU9nU2ltNTJxdS1rUQ?oc=5",
+      "source": "風傳媒",
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {

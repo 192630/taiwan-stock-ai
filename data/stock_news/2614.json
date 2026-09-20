@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-20T12:34:51.700088+08:00",
+  "updated_at": "2026-09-21T02:35:11.798293+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2614",
   "name": "東森",
   "count": 12,
   "news": [
     {
+      "title": "股票全被盜賣光！他電話一按「**21*」股市獲利歸零還慘背卡債 | EBC 東森新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfWVdfODlLRy1vWGRtS2FOUXNtcWpfUU5MMXZMdmZpdkZ1UEJhQ1VfNHl6N29HcmZlR0Z4MjdfYkpQcFVla1ZpLTBGdU5KNTJER2JENzJR?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-20T10:54:40+00:00"
+    },
+    {
       "title": "東森深度周報／台灣人口50年後恐腰斬 手機成生育殺手！？",
       "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNTmpaY3BVb1libHdPMVg1N2NiZTNqMERBMzFrY1pfeTRhNzVIU3BiaUhWam4zSzQydDhMc19yR0RTYThJWkVNVURZTXI1WWVKUWJEN2duaDM1N0xxSTYxVEVPTzBoUURmMTJnTVlhU3czS0RCbjE3UE5mTTQwRk5SbHJFUzNRVU5Gdjh2ZGlIN2stdHBSb0g4bTJ5dVhoZlFvMnc1OGF5QzEzX3docGhoc05LSGUwb3pHSGdLSmR4X3hIMHB6ZkU0X1JCUzZqU05qRDI2VWlBWXZ1ZlpHajJLX2FJam1ad1A4YmJHbnJtMWFuODJfelJqa09kS2o0eWpWb3J4cEdGNXgwTGFjalRFTWFIT2ZkalMzMDc3STZESGR5Y0ZER09zczQ3X2VJUGUtSTBpOG1fTkxILWN4djl3cTlQbGtZSVF2cDVCQzRleWpiM3ZHb25JNkFIMkpTbmFz?oc=5",
       "source": "Yahoo新聞",
       "published_at": "2026-09-19T22:00:00+00:00"
+    },
+    {
+      "title": "精星（8183）股東注意！這天「最後交易」 10月1日終止上櫃 | EBC 東森新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnb2FBZTcxZVM1WTBYTDl2aXNyLU83bTRiTEtuMjY1a19uMGhjcmtJWnNJaHI4RVRaTXA4UGRIMWtFZnY4NUdyMWFNbkhOQVlyQnpmM0dB?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-17T12:37:56+00:00"
     },
     {
       "title": "助茂德張高祥收購東森電視！知名律師夫妻涉內線交易撈百萬 二審改判緩刑",
@@ -30,22 +42,22 @@
       "published_at": "2026-09-17T02:48:53+00:00"
     },
     {
+      "title": "東森深度周報／急性血癌奪命風險高 醫師示警初期四大徵兆",
+      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOMVloejJCa3V4czZQVnhINXcxNEpWV0VjUTNuSFBTelZsWHJJT3FoZ3N5YTV4clRweEVFM0cwZkFKaHl4V3JiNmdqU2tnRVNuTnBKZkUzUEJYenJ1eDl0c2VYSjN5OGRvNk8tN1lHdE5jVnZSTVlqMlFLNlhpbVVXTlhpOFdXTUZMNkdtUVBLdUIwdzJoV29BZG03cTJiUUNfaTl5aVlMUEdfS3F4RlE0UEtmUl9paVZUYzRfdm1KaU5DYW9HRjlvelZjSEtVeUp1UWtvZ0N2R0FYLWl1bkJ4eUJVbnlQR29xcXM0dFZ3NUZiUDU1OTFwY3RoblowWFJwUUJOb1Z1QlB0ZXpsN2tmaTNtM1l3NEQyMUZoUE92TmF3OFdLNnU1NzJkY3lOMjRkSGFLcXZ1SXdfZXNKT3ZvTXJVU21hSDdQNW5uRGJ2OFN4cF9FTGVMUXFwM2ZNU1B6Q1pCYTdkeElEcVExaFhpR1dMM1ZBMzIzMndBQmIybGdBQQ?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-16T22:00:00+00:00"
+    },
+    {
       "title": "東森深度周報／中高齡退而不休 有助身心健康防止失智",
       "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNODJIRTNJVi1UWFZoa3VzRFBBREJfeVNsVHJXVGNmcHUwemtQVGl0WjNEazZQYUlKRFJyazV3MFN3ZUsyTldHai1KYS16RVpwX1JKcG9lTXdRZFFJZTZxZFdQTFJjRE05ZEtTYVZfRVNlNUdyeGYzUmtCN3VYLVpucEdDazRQZkJFOExRbWF5X281Z3FZdEV4Tm1GUy12YVJtakdEOGNCcmN6YjhRYzdfcHR0eVF5V2R0ZEk2WXBZZnhEejQydF9VOERMRkxVV3FXbVJqbGE5cnNfa1RnV0g5ZHFkc3JsVTJGT1ViUnRtQzJHSHVURUl0YUpmRkVibnZ2cEI2Q1BhQ2Zic3UxVkZfSnFlY19SZWdwUjNaWWJTdzJZSGQ3TnJCT3oxY09peXQtaWVVNV9ZN0xaYnlnTGh0MWwtVUJWSFpTTWdQNnlrSnE0ZVQzU1MzZUtKQnF6RDdrc3hrZlBTRU5JQQ?oc=5",
       "source": "Yahoo新聞",
       "published_at": "2026-09-15T22:00:00+00:00"
     },
     {
-      "title": "東森深度周報／土地稀缺、租金上漲 知名夜市紛紛吹起熄燈號",
-      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQLXpWWUdNX1ZOVmpIR3ZsRHpjTXJETHFMSl9lelIyaUNTNXBtWm1WMHFuUm9CbzhVbGJYbF91a3FRR00zZi1wVlpVVlFxRjJSOTk4MEltRFlGYnlYZjJHSG52ejZsOW0xOVc0ZUxHRjRWM0E1ODZodVp4SWg2ekoydEFaRUJEd0JWWURSV05xblk1a3JoVVJVbG4wVWx3ZWZfdXZ2a0NYMm9zbzFnS1NqczdjNF93QWNUNE5ncUd4cU9QV05KRDNrV1pCN2ZmYXZMNmJyNWZwZktQR2QwSmFlT3Z1OXNMSExfdWhvelFvWHFWWjZma0FCX1VZZFFQNnZ4ZkppajQyQlM1WXNtcEt3WWFYeGNrdlZ0dE5fYjlfd2JfcG0yc24yQ0JqVmRrMlBEbHM3Z0wzY2lIcUdIbms3LWQ0eDJFRGJOZzd1T2RBN2N3MkJIM1FmaEZITmtyRkRCNTgwbDJyM1ZidEFrQkRfbDZLMXF2eTRuaUpsSTZZSnlGZ2s?oc=5",
+      "title": "東森深度周報／新聞系正在消失中？AI時代考驗新聞專業",
+      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPTkktRC0yN0p5SGNuMlJtenVRX19EWlcxTUVPeWJLWmtMUzRBT0R3SXEzWDJWZW82N1dIM2QteV9yZ25NOThUbEZHeGk0SXdRcmpUNVRLRzB1UEpQamZjd1M1MVh2RDVjZHVjQ1lvaWxaYkhxZm9DYzF3ZFYycVZYZ2NEM01PWG1VQVFPc3dqTU5sREt5SDlmNzJrLUVsMHJRY20zMHllRkY1QWRUX1RlZ21nUGplNW5WZHlkWXZVeUQ5Uy1TMmpXYnpGUUE2ZmZmUHUyVE5KUE53QWNTLUZ0UXNWTm0wTnFBd2lNTm5WbDJEdG8zcnlmajU3R28xaFVfRHJ0Uzl6X2pVVFVJM2hXRm9nWmdmSVRBY2h4bGlNMld6bkRiTDI4dzdJUEpLQmd3VlhiMER4SDBHbUkydFFvTUs5OGstbnBKX0JydkNMYlg2THNlWG9YczNhV09fTmIx?oc=5",
       "source": "Yahoo新聞",
-      "published_at": "2026-09-12T22:00:00+00:00"
-    },
-    {
-      "title": "東森深度周報／從陳幸妤的控訴 看「婚姻冷暴力」",
-      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNWHRxR0VhTEdyR0loeEtja19pRzRSdzZXM0h5VW5FSXVNSWI0Y09fWHVkbEJDdG4zY1U0UW1PeHJJcWpjSDY5YUxONXFHN2FKdHFtbzNXa3ZOWUljTUpRTnlSemlUUW5ja2lXRk54TjRiakRIenU5WmN4VkRKSk1SbmNmZTk3X2pKR2RiYm1aYm15dXRIWVQwNUNfOC1aTVZpZ25EOV9rTkZMMHY5bzlRVUVFd1h6M2RuY2NSV2k0SUVPejcxY1FrSGlieVZ0ak9XVGxkWmJEbzhiM3pWaF9rZWNxX252LTEzVDRaUV9pd2hnX2JIdXR4T0kzODhTaGFUNnB5LXQ5ZTNqbGtnMkhyYXUxV3duek8xci1mM2h6WEtDSUxiRUZxOUFtVVRfMTV0UmNjaUdwNHlrdm8?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-10T07:00:00+00:00"
+      "published_at": "2026-09-13T22:00:00+00:00"
     },
     {
       "title": "東森電視轉播！U18亞青賽首度進軍大巨蛋 台灣拚衛冕",
@@ -54,28 +66,16 @@
       "published_at": "2026-09-06T07:00:00+00:00"
     },
     {
-      "title": "東森深度周報／踩過變搶手貨？大巨蛋1.2噸退役帆布「煉金」重生",
-      "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQcjBWcDJTd0hoeHo2XzZ3YTBpN1diRVNObldiSWpSb3l0eEVhdUpibWh3RHg3RVEydzY3SHlycGtQZUNlRmpOYlNYdkh4SzV5VGlrVW53NEpKa3MzT0E3MDNPMnlrN243V3RqT1pkak14V2Q0aGI2SGpWeHIwYlJXOHRqT3RucXpRR19ObDQxVG15bW9JR0RERDlmV05iZWw5VGRma1hfb1FOSG4taUFmb0pvS0tQZkI1UGpPWVRpa096eVJuS3QzT3hDWFdhYXFVTkYwdk9sTEw1dFNxMVpkSDhZQ3FidDY5b2Y5MFZBYWNDUGpITFBBUW9zb0x1RGl1QXlKdkZtV2xCQUczbzMzdXZpYzE1NkV1a1lRYldXTkxzNm8zUC1yM2syX2ljRl9rLVc3WVF4X29BTGtXZGNxRXhtM2JqZkd3QXlsVkVCTnhEZGRzazhPTGdES3ZBNFA1bjVr?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-06T07:00:00+00:00"
-    },
-    {
       "title": "台股注意！2檔股票明起遭處置 4檔也被盯上 | EBC 東森新聞",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FUzNfZm9Ba1FOQ2lyUUVSV0VoZ1daUWFwYkZ1cGFOX1E0VEk5NUlsMmlTQTNFNzJDWW9pNTUwR3RwclRyOFFDTGdjempvaF85U2tCSDdn?oc=5",
-      "source": "today.line.me",
+      "source": "LINE TODAY",
       "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
-      "title": "東森深度周報／玩過戒不掉？「釜山病」蔓延中 37萬台人成最大客源",
-      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQQ0RwZVJKeHRpNkV1RDRQTXNQSTlObFc2dXRGQnMtekxpNUdSbkEyZ1Fsa2Q4enc3b1FGYjNIaXlRRjBHOHNpZFZmbnpaa3QzeTJ3OEVQRGF0d1REeURPRmp3d2RCUnRRSXZuVEJCU3FyMUZuNWJPby1TUUI3MEI2cnBfb3FoY3RzbVQxc05mbXNWOEdTbExaYWNjQ0s2VTNiLXdwWEl0dktCMmM0U0VWNVJSalk2Q0l4UG1vdlBLR1V4VnRoUGtSTjhuM0drUFNQb3FYTW05NURhX0lrODM3WEMxa0FrMm5GSkMzcHlTRU8wMV9YOHBDT1lYdTRqdVhRdThPckdDbWJvaTM1MTVLeXdHNndQdTYyUnZ3TW43NUhhLWxVWURJa1F2UXd0ajZuTzYyc25BRlp1ckVKaWhvZEVZQ0JIQVdRZThtNnJENGV4M2p3M2N4cTNTZ015TW9rWWZSSlZSc0xHTndwbDVPYkFIQV94bHFtcnVKUWdQRzROaDctbDc4?oc=5",
+      "title": "東森深度周報／全球瘋日本中古車！外國客讚「開不壞」 單日競標4千輛",
+      "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxQckxxdC1lMElfTnFtQVZ2QW4zeUhOUHFBa3FiTVlBZk5xWVdCTE5mMnBzQ2ZTd2I0OWR3UjlnQUFpby1UdmttcUhlV21jbXZTTEhzemJVQzJvZllNdC1aUWhHSmhFd00xd21sazhqWUVSNkotYkFRWXpkVk4zNnhYN0o5RFJodlllRHd3U2psTjNHdGtVbV9FSVZpMEJROXd6U0pUMU5SUXk2SXI3em5hRWdVNzVybWx3VmkwMGtYSC1pM1lpRnRkVkZzbVNmdjJGaFkxeFJ3UEdXY21QcHpLNWp4R0xpd1RaZXJ1TVlFbGpDcFFZZFJVQTNzdlB3LXdQM2hyenJZVS1UaW1VNUp4SW1qYzB0Tloxd2E2Xzd0emdUQUZLVW13RVBVN041bl9vYnZhTGN6a3lkR3BEYVd5ZnBKajdoTklzbkhOdll6SVlZclhvWTMwLW1SNVVnMFM3YVRvbVZ3VzJjZmlxSEtDVVE4eGlnVVFXVHJZQXRZMGhPT0g4cWNHNHA2aE9FcWhxVmhja2ZGTTVkMXVobGc?oc=5",
       "source": "Yahoo新聞",
-      "published_at": "2026-08-28T07:00:00+00:00"
-    },
-    {
-      "title": "東森深度周報／高齡租屋族悲歌 超過50歲被列不受歡迎戶",
-      "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxONjNtNlFtZE1oeDB2QTFOT296aHgxN3dfQ0w4M1N6aDlwTjhWODJCN3VIV3Q1V3ctVEw1T3lGRmJKVTJyeHVVcXVTQjVnbUp6c3NvQ1ptUFpfbks4cHF4RU5uQ3pHWXFkWkJmZ3RzSEJqNEs1Vm5ZYjhZbENIRGNkTzRjZHNJUDVJQVNhaWhjR05oRW1TUDNrYkQ3cUtWYUVnTHpJODF5X2NVNjRCMEZhX0RSTXBXZmE5MWo3REZvajhSdlI4UFVMR0h1UnhlVTM1VW5kdHdvX3gtQjZ1dkY1RlBfOFd1TFhrOFJEa2YzbVdGbVkwdVZ1ZXJqc0ttNnk2QlZ3MGJRcFk0YjBVdmJsYkNqTjVFVDVMMlEyVWZZcDFUT2hZTkFyLVl5RDk0TGtYOXkwcjdyTldIWGlnZGViZENWaW9Cc0NrVm1CbUZSUzJqcURzUWVKVWU5a0JvLXg3STdWQlhEU2RLMkl1?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-08-26T07:00:00+00:00"
+      "published_at": "2026-09-02T07:00:00+00:00"
     }
   ]
 }

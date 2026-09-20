@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-20T12:34:58.296026+08:00",
+  "updated_at": "2026-09-21T02:35:20.033632+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2701",
   "name": "萬企",
-  "count": 1,
+  "count": 2,
   "news": [
     {
-      "title": "育肥牛跨期2701/2710 (GF2701-GF2710) 期貨",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95TlBCalhMd2tOUnpmZDRuNll2cXdKV19tUEJ0VGlYYjRwZUp3ZlZuTzFTbUplYTJOX28yN1dFQl9XZWVyekRnMzAyODZnZFhKQU1EZGxSdkVUcUxvWkhCUm1B?oc=5",
+      "title": "澳元跨期2703/2701 (6A2703-6A2701) 期貨",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lakVOMWVQMV96SzBUelZrcEZQX2ZUaDZ1VnlodGtTRG1zX1FsbjdwVTZZVXB1UjBNbVVKejZYUC1MdnlTT05jdnJfcVlMX3JOdUk4aVlfaVI4d0NyWV94UzJR?oc=5",
       "source": "Moomoo",
-      "published_at": "2026-09-17T16:05:31+00:00"
+      "published_at": "2026-09-11T07:00:00+00:00"
+    },
+    {
+      "title": "日元跨期2702/2701 (6J2702-6J2701) 期貨",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ScWhoaW0yTzFVLVNtcnBGYXVGTXBibGN2T2gxQlBhTDltcWlCSFJYS3VNMUJQT2xCblVCaDhjV29Mcm1HYWd5QjBidVRtRFI0ME5LdE14Qnk1c21mV1dYOXJqYzVHdDl5Z24xYVdyeTE5UWJ6OV9J?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-11T07:00:00+00:00"
     }
   ]
 }

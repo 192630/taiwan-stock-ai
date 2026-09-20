@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-20T13:33:13.712523+08:00",
+  "updated_at": "2026-09-21T02:35:35.051131+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2849",
   "name": "安泰銀",
-  "count": 11,
+  "count": 10,
   "news": [
     {
       "title": "Entie Commercial Bank的每股營運現金流 – TWSE:2849",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeDRzdUhoWVVoMTQ3Z08tTExyZUsyM1lzWWd4bm5WNXJaM0l5c05QTnU2SWpOdzE2Y3hCT2Z2TlJ2bTBfamJ3TmcyaUxORGFfZHhmTnNlUldjM2tKQ0M5NVNoenlMQVZWXzhWdGk1b3h4M2wySVQtYTQ0MnVOOXI3SHppNXM2TnFodzB4SEVsV2hEckgwNmxfSC1RRTlJc0pwanZSYzhsSTJkVGVS?oc=5",
-      "source": "tw.tradingview.com",
+      "source": "TradingView",
       "published_at": "2026-09-16T08:07:46+00:00"
     },
     {
@@ -26,20 +26,14 @@
     {
       "title": "《金融股》安泰銀高資產財管業務啟動打造一站式服務- 上市櫃",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93ajRaYWtjRmtlVUVQdnhCNUJiTEo3RG1BWHJtcmo0MG5sVUtZc01jS08walpCRUQ1VC13ekdxLTBVcEZzLVl4VS1PUkFLOWcxUmVUUTR2MW82VE1yTU16bWluVDJLM1FpMVE?oc=5",
-      "source": "wantrich.chinatimes.com",
+      "source": "旺得富理財網",
       "published_at": "2026-09-16T02:45:30+00:00"
     },
     {
       "title": "【12:51 即時新聞】安泰銀(2849)股價小幅走強至16.1元，受惠營收穩健成長與金融股避險買盤，技術面均線多頭結構搭配法人與主力買盤偏多",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb1BfWE5NZTZfN0FUeU5yYnVfUzUtejdkUWJiSmtOSmluajlqcUdidXFQVmFsX2JVem8ySUF2WHlOSEVRRVhlX1doSGFwN1I4d1N4TllnSERUYzF0QThheUhCMHcwV2xpVThLb3ktQ3RzN3owRmVZX1FVdTNDZ2NZb0RSM2czM2lIT3hCUk1n?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-08T04:52:53+00:00"
-    },
-    {
-      "title": "《金融股》安泰銀H1獲利躍增53%登近4年高H2審慎樂觀- 上市櫃",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzZHFmTkI0SlNCLWswc2NSVDBCaGs0MkI5S1lORnVKV1NVZGhLVEllUEY4ZFFvWmxzeXNQTXlYazdLVEtLbnZmSVFzdU1helNVZmE4NWNkTWdLTG5WUFZyZWpFWDRLdVAxanc?oc=5",
-      "source": "wantrich.chinatimes.com",
-      "published_at": "2026-09-03T07:00:00+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tTlRPeEw2Sl9rSHczcGN3LVc0R2djTVBvT0NFMFd3SDhCeU9RdVZYWnltNVZROURqdXVaWmtTQkNYM0czb2ZUV01CVVBqNXU5RFZJRktJaFo0Z0lKdFFndGFrbUEtYVU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
       "title": "安泰銀總資產衝4,000億",

@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-20T12:34:56.813981+08:00",
+  "updated_at": "2026-09-21T02:35:18.188692+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2642",
   "name": "宅配通",
-  "count": 3,
+  "count": 4,
   "news": [
+    {
+      "title": "財經青紅燈》被分手的宅配通",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BS21ybVNtd0VyeDJoM1JzQXBYTHlDaVZjMllBN1dLRmEyalpKTGlPcmIxUFY4UzU3LXhaZ0QwZnNzSTdNZWJJekM5SEpPZDF4OUJpQlpB0gFbQVVfeXFMTzBKcVpLUkhQQjNrWEJVNXhUdUJkV0pXOVpLa0VLQTEyaU9pcXdIclhnNDd6VDNjNmJVRDRPeldUaUN1UHFxVm1lWnNRU3ZkbjV5bDFMRkczd2ZxRQ?oc=5",
+      "source": "自由財經",
+      "published_at": "2026-09-18T21:30:00+00:00"
+    },
     {
       "title": "【2026/08月營收公告】宅配通(2642) 八月營收2.54億元，營收雙減，年減17.08%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNnh6Uk1ZWUROVFRMU1REQ1lzN3ZOVGxmODdZdFhqN3dSQzNMMmZqakFqZUVaSzBtOFJhbDlBYWEwQUtuTk51cmpMVGdMMjdMYTdLWEFURUNZZWJZd3VMelY5WFJfZTNuN0VsQjZ6Q21yTzludldWdzM2WlJLUEItRHpZQXk1aTJnRHc?oc=5",

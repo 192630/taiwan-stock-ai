@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-20T13:33:19.390696+08:00",
+  "updated_at": "2026-09-21T02:35:43.111967+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2901",
   "name": "欣欣",
-  "count": 5,
+  "count": 9,
   "news": [
     {
       "title": "討論牆 | 高欣欣弟遊日突腦中風！住院開刀帳單破200萬天價 她驚喊「保險真的不能省」",
@@ -18,22 +18,46 @@
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
-      "title": "高欣欣弟遊日突腦中風！住院開刀帳單破200萬天價 她驚喊「保險真的不能省」 | 鏡週刊",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0YkpoaE9KcUFWNWtOdlJyRmdMck1qQ3gxaVZLRUNMcXZqUlJ6OElEVmp6N2k5RGI5ZnowMUNzM1JfZWx5Tnl6MkhQY19aSWo5SjBWWTZB?oc=5",
-      "source": "LINE TODAY",
+      "title": "高欣欣弟遊日突腦中風！住院開刀帳單破200萬天價 她驚喊「保險真的不能省」",
+      "url": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxNN0x2X1E0Q2JtS2taN2x2SzdZMmh2OUFuekZpUEFHajRYVWdCUTAtMEw1ZzM3Z1pyc3FaQnY1SWd0WmN5Ti13S3BOYU5HVmZFV1Q3S2ZhamhWNGF4TnlTVGg0M3FoZk5fbDRtT1dsUFY5WGpxdWM3RFM3TnpSUUkxcmd1b244QzlDTmJvYUh0MVZvOFdxZzhLeFFQYVNBd3RSLVFOZzBUeFhXaVV1ZnFReVc2WldIeHdVVFVqbEhLZ0FrWXE3MXZFSHhMNHNwVnc0YnNycHVkcU5BSmlMa1ZPX0hVTGdQeGdycU44aGlYN0dkX0Zacm9CdkxLaGMxb3pWZ1BNZWRlQWEzSUNoRDZqOWZYSFo3NU1tdDN3cUFvcDB0VlBYb2liVXk1QWNNcnVvUUppZi1qdEttU091enlMaFdOMW45NmpjWGVIZ214eGJzdWo0Y3VLVURqQ0l2cmVGYVRob0FtMFh6UEFZYU1zaUJ5TnBQcGpVRGtjMm9nMEZQQy14d2VqeGV0WG51WkFrQ0FSTWZRelBLXzJyZkNEa2hBM25FOXJLaHhfa3hlSzNjRHFOa1UtTTVJUzA5UW5BWWVZ?oc=5",
+      "source": "Yahoo新聞",
       "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
+      "title": "憶過往合作畫面...高欣欣不捨 發文悼龐祥麟：心裡感慨",
+      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQbklsRmh5QkNtajJMemIzUTA3Q0JheU01cXdkNnp2N19uRXBpczhiYWFWb2FRLThQUHlCSGRrdlJqenQyeWRBTXpyRXc2aUE0eWs3RDVpN29jOUl0TEdoWnltUU44eFRYd1NYSG51QVcxYU03M1hoaVVrUlFDRW0zWS1DNDVIVUVoc1FIeXNwYU55dXFtMFJxLU5CT2pZZ0VmQzV2TVZrY3hRQU82alVMMGJRTy12cnVEMlViOXcxXzlLWmVxTUtTWFhtTlM0WlBMVnRfa1IwZFlIU3JQR3MtbU1YWm84MzdIMGtoajRSdWVVWkNrTnJNMkgtdFdBTnczZ0xaT1ZEWUNlM3RlaXFxY3otSzhzY2dsNWdHcXhEa244OURnNFE2VjE1dzlfWHdvRzF5Mm82R0pKUUVBaVlYSGdFUGJXc2V6TXVVbEZHUmQtTjF5NmtWWVhFaGpYQ1E?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-07T07:00:00+00:00"
+    },
+    {
+      "title": "才經歷弟弟病倒又遇龐祥麟離世 高欣欣悲慟發聲",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNSklEMFhvTnRwWUQxc1ozNE82WVFjaUNsZzZnN1RuYnRoa2RKY0pBbHA0WjFhYTZmQXRtZlBmQ2lsSkd2cl80TW1JYk9LNTRlTTBSbzcybllncGZFZFMxcG50T3d4U2xMY1VzWnBtTjNHSmJKM20xcEJBRnN1Z1hPTUgxU29ReEJXczVKWUxRVm1EbXNkOWtvam5jWWtSZll5SFBBZ21fN0hackY2bmxhTFd2UHV1eVlYSldlbThiTGVHeTlTMjcyREZ2VWluV25iUk5SRFpDU2p5ZW5oeDNGZzM5cXkzWDY4MDRxWEFGZ3hzNDBhT3ZYOUJ2bHBkaXBISC1PUUFPTnJybFE5anIyU05mem42dVFhQ01YUHlXcDJaNm5DUEpoSi1keHdkTHNYdU84MkowS21sSEV4LTI0bm9QUG1oOGItdW0wM0tfOWk?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-07T07:00:00+00:00"
+    },
+    {
+      "title": "80歲龐祥麟離世！高欣欣不捨發聲悼念 憶兩人合作過往：一路好走",
+      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNUlk3R1hiYkhZTXZpM3lucG9jM0hNakkxM05zSl9YQWpTRDVQMFFtT1dqNWVCTjFkOTJVWElibFFacnlVeHFFUk1OdjljVjdsWXVuc0x1TERQekJIMWtGcFRNang5U2FTa1NVQWRQVkpHdGVSbjZnWHRvRThCRUpMQnJRbFdLc1R0OUtoeFVidFJGR2ZvSVctbXV3RjJzU0h2RmxQNGZtZXo3TlFFelJJem5UemhVS3phMkRSYkxldlVJRzlxbkNGZ2dvYjI1RXVYY1FfWGFKamN1SG5qM0M5UUtxZk1UZ2xXQndVVEZ3RGh3Nlp3ZFlEbHlwOU5aa2g1dFZsTFgxaHA3Ujg0Uk1BUG5iUWtoQW1DNWNfejc5cm1FZElOUkw4emNyUndpOWxiWnhDdXZ4R0hjZVcwejZ1Q0lWSkRzeVhoS1NDMkxzSkJqcktfaHZDT3d6Qm9wUmJiRVRhS0Z3bWdfMUM0T0R0OFZoR0JPQjhTbWl4X1U3VEI5S3dVa2c?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
       "title": "高欣欣憶「合作龐祥麟同台畫面」 不捨發聲：帶給我們精彩與歡笑- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5pVTU0RFhHdkdsUHdzQkdzaEE3NDlYU2NLbnV3eWF1YWp4cWFSUzhseEdzdWoyN2Z1bkUza3F1OGZYaEZWc2hFa2xZcXhnSjhtSlR3a3NSQTk?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-07T15:04:56+00:00"
+      "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
-      "title": "《上市公司除權除息 13-4》欣欣 08/27除息",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdkZrYnQwRjVJY2lnT2l5ckRBYlhGUnJGRi1tLUZfUlRSWGVNU3dJLW9YVEtYd1pXT0N6Wkt1SWxQbmNkV2JnZ01oNVFiYXF6WWhlYzFUU1U3dkZLSzJGMXFNbkNVSXRKNXN1TEJMaEpVMlpzUnpKQUROMjZFMDJjam1ZU2RiSE9m?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-08-21T07:00:00+00:00"
+      "title": "欣欣百貨敬軍觀影 官兵、眷屬共享歡樂",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPVEJxSXN0NVBLdEZLWm9nQzBUamI2ZW9DYkl6QW91UHYzS3N4WmJVUXhZelh4aUFRUmNtZGFQT2wtZDh5NHBnd19vSldwWUZBMG1tcXhHR2pLblVHXzNMQ0dpMWVtRVhQZVlwZGJOQXp1RE9SWjR4elI2cFVlXzhpNi1KdHlfdEduaTlfVXVlQXZ3VjVpQ243aUFueUFYam9JN19fVHlYTTRHMnNTcFVoWVF5RW1iN1FuT3NhN0N2Ylp1MmlZN3d2R05halJVZUZJLXBndUQwNkRmYkltekl2VlFBeUxMQXZzWmU0WkxIc2FqOThIZnNUV2xmRHpRVFB4bnJNdndEc2psbUFuLUtpMVdqUU9sQQ?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-02T07:00:00+00:00"
+    },
+    {
+      "title": "東京旅遊驚魂！高欣欣弟「臉變形、站不起」急開腦 醫警告：夏季這動作最危險",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOSkc0RHplalZyVTY2Z1l6WklGTkdjTU5xdEFNUUlFLUpvWlpEcUNrTlAxOTVZNGZMWnIwd19NOWVwY1dvX0ptNklLUFFnQnRDWWFuODBrUGxjeTZNcUZGMldEdV85azJ1eFZtMzVtbmM3OTM2SFdKSk1sOGN5SGZuWDBkU3otWXNSNkFaUWZ3S0ROUDl3T3U1eDVpaUFRbWJEVExPTGdhQTdYYndfVFlKNmxybjBHRXNsMUZGaDFHT21yU1lNOGMtYmVpQTdiSUk5TUFrTlNlZEluT2tPSFU1eUI2YWJ6ZW8xeDhnVEk1QUJjZHBQTnd1NUJBUnNaMm1FZ3c5c3FrSjhXT0U2ckFqXzhLZGZHaDNNaVR6Y3E1YlBIazNQMXBlUGF5OUNDcmhLajNmVUNYWEs4dnJ1?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-08-22T07:00:00+00:00"
     }
   ]
 }

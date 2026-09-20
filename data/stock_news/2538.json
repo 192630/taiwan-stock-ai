@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-20T12:34:41.261417+08:00",
+  "updated_at": "2026-09-21T02:35:01.676379+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2538",
   "name": "基泰",
   "count": 12,
   "news": [
     {
-      "title": "轟蔣市府1999回覆都是空話基泰大直受災戶：我都覺得可以廢了- 鏡報",
-      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNRXJLOXhyYzlUNm9ZNDg0OXlBZnJQZWdPb0hhcTVhU2RNdVNwLTZ3dlFBUjRNVVFwbUItcG9pWEhYazQ2bU9QWEJTYmRoSndlUGNhQTZ0ZW8zQjZjRDZUc0pKNXNXUlFzeXJQWnNOUV9tLUp5TnQxdUtKT1FkTTVvc3V1ZXhiSVVFY3lJY1ZCSEx1aFVpVU1sRjVOYUNrcS1aUWVlXzNRcXZLNUl0cTNuUXdoNkdUcFI3Sk94ZlpOWnFkaWJRUGVHVnVWb0VDS2JMd0lHNUZsaERQYng2MV9jbkNpLTIxMU1uZ2hxMjdGT052MTFlSWNQWFdqSmJ2WUpiMVFlaGc3SmtabmtXM0FNN1BhNV9qWWU2RDRwenZxRU9MNWNZNHJIRDBHOXgtUDd1d0w2X3RZTER3OVFs?oc=5",
-      "source": "鏡報",
-      "published_at": "2026-09-12T19:37:05+00:00"
+      "title": "獨家／基泰大直補償談判破裂！受災戶點名蔣萬安還在嗎？基泰建設5回應",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9RdmpTQmxZT0txbEI3a3UtYXh6eTAxaHZmUzVJYUk2TktuMFZ0eUVuY2gxdlJqWWFoMjJfRXR5WGo3X0Q2d2ZXa9IBTEFVX3lxTFBKa21fMExNZzk1MGpMcV9HNDNUWEFGRFFpNkZqV3IxaldJazVOQXhUalEwWUVFUl9uZm5wMGZqSTdqY2hXdDhIeGdLeUg?oc=5",
+      "source": "setn.com",
+      "published_at": "2026-09-20T03:12:04+00:00"
     },
     {
       "title": "基泰大直工地塌陷 受災戶控\"市府.建商搓湯圓\"拋棄住戶",
@@ -20,14 +20,8 @@
     {
       "title": "2538 基泰- [新聞] 獨家／基泰受損戶土地竟變成「私營停車- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fQXFBTWU5blpHVWMzSzZ2VlNMS25TeVBReW1DOVdHSkxnTWxhSGE2WG9Cc29qOURmRmVCcnVlS1R0YmJzY1hfeVdOaXBkRTYyWWpPQl8tVzE?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-11T14:42:05+00:00"
-    },
-    {
-      "title": "2538 基泰- 釀民宅坍塌北市民權東路工地主任：本周二才監測都正常- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53UVVXdXdPS2FCc1FCdjFvTGFicGZsb1dyTFVmT0k2al9WR3lUYWpGZm83dXM2VmpJRk1BQTNfbGM2N2xvT1FNUUhJOUplSjV0ajlmUWdGVm8?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-11T05:39:54+00:00"
     },
     {
       "title": "基泰大直倒塌戶3年仍回不了家！後續補償「還沒談攏」 市府曝重建進度",
@@ -36,14 +30,14 @@
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
-      "title": "獨／基泰大直工安意外滿3年 安置協調無共識 受災戶：年多50萬負擔",
-      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxOSWpLMVdvbll4NFZPWDl2VE9zOEhNalRUWV9EYUZNNlBJaUQ1UDFaZ3NvM3ZJaWF2UWVZT1FhMHlxcWplYzFEdV9QY2MwNnlfTW5tbzBaendyVGxNXzJia1hiTnBIREtlVFd5VzFQVVd5UHo4MFUyR3dNekRlSzM5RExHeENSWDlhQWh6TS1KS3FZT0ZpRFdYeU9SUzRsa0dBMGM3VUR6MktIdjRVY0VrTU9ud2E1TnBJWHFYNHU1Y0ZCQmktWUZDZlJfYUJ3Rzc2NGJuc0R6TU9lNHRTV0FSZkxSV0poc3dMb2x6Y01OSVJHVThzVlFwM3plLUVTdzFoT19KbjFlYkp0WGZncFo2bjhZSHVtcUVyNGpfQWlUMzc1U3d3ZzZwNjVuUDQ2NDV4NnQ0M2xCMzQ0V1NZbFg3OTRDZEh4TkJESmVqc2xzSmVka2Q0Q0dtY0NxaWxtdjQ4TE1ra0xoemgtbnQtMUNmSUFiMG1mYUtndWFqVEhtbi1kY2tVSzhrMGJkRDdEcU90bkI0cQ?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-07T07:00:00+00:00"
+      "title": "回不了家1／基泰大直倒塌戶合建恐生變？ 災戶控租金斷炊「睡公園」",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9Qc25DSEpNYjhOZm9qX1FzV2U3M3hfNkxrOTJraTVUbzh6YjhCNmVNN0EwWkxkTVp6dDVLMGZleXFoZ1ZzR083TA?oc=5",
+      "source": "setn.com",
+      "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
-      "title": "回不了家1／基泰大直倒塌戶合建恐生變？ 災戶控租金斷炊「睡公園」",
-      "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxOWmpfVG9sR1cxdW5zcUIwSGktWmlGQTBNQUY5NnJTajAzeDMtbmpXWWdHMHZEYjhrS0pOSFp3NmxrUkZtUTlvTkJOQnFDa1lERGZfa2p2SUE3X3ktMzU2ZTZpLUpBNU94Zkk2MldhMDJKQmI3QUhBaWs0MmY0UGk2ZUtfWlBTeTlwWFozS2ZwMzFsMWthZWk2RlRPdGhNS1ozVG1zaTVHMTdBTHhlcnh4NHdXTTlKRENtN0FRNVNfRHpUT2xvRnVpMGZMbU54cDRxNml1UlV0Wnd0VHpZRXNEOE1udjdpZk82SXZtSWRoZ2FKSWpBOWtJSEhfSGxRMlY1WFY2Q1ExdXlQR1pWTTJRRzBxRzN0NkVmU1ZPNHV2cV9BbC12YkxTTHltczhOTUlCLVNrSzBubFFkNFlhLUFlTHVYdXVMS2t4c05KcWZUTW5OTS02VGd5eHV3X1U2UnRhRFVvRDhTYXpXcnl5R0NpZ0NhTnpQOHZudjRCTEhFS0plMWZKUkxmTjRheXlWMW5t?oc=5",
+      "title": "獨／基泰大直工安意外滿3年 安置協調無共識 受災戶：年多50萬負擔",
+      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxOSWpLMVdvbll4NFZPWDl2VE9zOEhNalRUWV9EYUZNNlBJaUQ1UDFaZ3NvM3ZJaWF2UWVZT1FhMHlxcWplYzFEdV9QY2MwNnlfTW5tbzBaendyVGxNXzJia1hiTnBIREtlVFd5VzFQVVd5UHo4MFUyR3dNekRlSzM5RExHeENSWDlhQWh6TS1KS3FZT0ZpRFdYeU9SUzRsa0dBMGM3VUR6MktIdjRVY0VrTU9ud2E1TnBJWHFYNHU1Y0ZCQmktWUZDZlJfYUJ3Rzc2NGJuc0R6TU9lNHRTV0FSZkxSV0poc3dMb2x6Y01OSVJHVThzVlFwM3plLUVTdzFoT19KbjFlYkp0WGZncFo2bjhZSHVtcUVyNGpfQWlUMzc1U3d3ZzZwNjVuUDQ2NDV4NnQ0M2xCMzQ0V1NZbFg3OTRDZEh4TkJESmVqc2xzSmVka2Q0Q0dtY0NxaWxtdjQ4TE1ra0xoemgtbnQtMUNmSUFiMG1mYUtndWFqVEhtbi1kY2tVSzhrMGJkRDdEcU90bkI0cQ?oc=5",
       "source": "Yahoo新聞",
       "published_at": "2026-09-07T07:00:00+00:00"
     },
@@ -75,6 +69,12 @@
       "title": "基泰大直坍塌案一審宣判！「連續壁少10公分」釀禍 工地主任遭判4年10月",
       "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxOaGxwMWhQbmlFZDlzNTh2T29SZFpNS0I0d2V5UHhFc0dtS2NnRnl2UUhrb1RkUWhvanpZS29uQVRqdkRqVXl3TmYyTkM4QWVnYmRkdkp1NEgtcWJDRXFFRUU3QWVWWXhQOU9KNDYtV0Q3cUR1UVBUcmt6eG5mOFhSWXpnR3FlSTRJaVRVa2RXbHNwVWlfSFgyRXRwM2lDZnlRMjduMnZ6d3FnSlpleWhQWWpReDQxZWZDUzFUeG9CRTRSR3ZFQzh0aGJjam1nYUVHVWdmc2ZxSnk4TkRRRktsMlYtSEw2eU9BSENTaGM4NndoZlBkRmtSRDI3Y0NsZ2tmM3NJRGpUVDBBa2U1LVRpemhRVFdqOGZiTEVvSEpVV05saElEUGVmM01iTWlzOUVOaC1Rc0JyZUlyc2NZYTVMallkN2ZYbHBpY2VPa1JiU0h6VFBlQmNUR2RjN3NKNVBVSnVnREhNaHJzY0JDRnVYRXp4V0FYbTJOejNrRldvOXBsWWl2Q3c1NUJRbzlyMGZwRFhvaHRYbnc5NkNzZUlQbFZJOXVVajBSZ0hIVTBSZV9kTTdqanRhQV9wOWVSNXpCVHhRd0N3Y2RRTTg?oc=5",
       "source": "Yahoo股市",
+      "published_at": "2026-08-26T07:00:00+00:00"
+    },
+    {
+      "title": "北市「基泰大直」工地塌陷釀百人無家可歸 一審判決出爐",
+      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQRnhtUXhHU3ZrUkN3QnJ4U0xHNUx1X3F0TEd1OUROTzNON1VNYlc0UHlGRTQ3SVhwc3plQ18zMEZrTTJIUFhnWEJqSHQyeVlkbHpkaUVQWmRVbkNmY3o0QU05aXl5UUdaU0R6WjQzTkd6RTVxdWxkTzFkYWhqVzgxcGY5c0xyLWVpb0ZGVzlyUmFQX3FEQms3TmxQZzl6Q3FONnRjN3BZRmRIMlZpOXlTYzRpbUZCRnBpZzNmTVJLcXQzX0VnemhzZGxZSHN1eFEwZmwtamZWSjZ2cW1hYmdCdGUtZkR4ZUw2Wm50emJBMXhRY0RRRERsazJieVhzRkxubVJQNUxvamxLMkthV0RWYVk2aVA1SDBBcGI3c09HUTlaU2RTV1JsMXE3aUJBa29VWkN1MHVvZmk3NHhVY2U4WFVMNldCczhPN1QwN0JUc0s3WjJ1MzVKWWh1WkVNbDA?oc=5",
+      "source": "Yahoo新聞",
       "published_at": "2026-08-26T07:00:00+00:00"
     }
   ]

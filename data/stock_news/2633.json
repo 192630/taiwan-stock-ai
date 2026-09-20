@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-20T12:34:54.886913+08:00",
+  "updated_at": "2026-09-21T02:35:15.623945+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2633",
   "name": "台灣高鐵",
-  "count": 9,
+  "count": 8,
   "news": [
     {
       "title": "台灣高鐵攜手全聯、漁業署力挺台灣好鰻 跨界進軍旅途餐桌 「高鐵聯名鰻魚便當」開賣",
@@ -30,16 +30,16 @@
       "published_at": "2026-09-02T07:00:00+00:00"
     },
     {
-      "title": "【即時新聞】台灣高鐵宣布新車明年上路，法人狂掃947張卡位要反轉了？",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSWN5Q0w4bzh2VW1vZDg3c2ZJQXE3NlpONFJiVlR4c25URFZXNkZTd1ZPN0NHenFRV05Ma1I3ZU00OHBxVE1oUjFhbnczc3NWWWNkckh0a3h2RnU2MUVfRGphOWhxRWR4VVlWZHgzN1dJWkFDMUhOMmVxcVBKSGY3VjVYYW9WN1dqX3hScXhpQUQ?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-02T07:00:00+00:00"
-    },
-    {
       "title": "【即時新聞】高鐵(2633)迎新車評價偏低，這「3檔航運股」竟遭大戶爆量倒貨！",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON2phT3M0d1NScW9FZFJkQ1hzdWI2SjUzNW9SV2JUeG1MZnI3cHRjdk00ZC1Oa3FMSGFNeW5PQWJXcktKMXhZSTI2NjEtN185X2VMQ1o1Q2JWV3pHYzNESXE3R2g1UjJSRks5N3N0NF9TYV9jVjQwWFVFWnRqTlNYVndDUWIwZEZyc3BMRWE3LXA?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-02T07:00:00+00:00"
+    },
+    {
+      "title": "【即時新聞】台灣高鐵宣布新車明年上路，法人狂掃947張卡位要反轉了？",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EdVdRbENhc2xqT18tUm9QdzlrSldxMkdrallHQWhPUXY4Rm5TVW9VSkgzcGFLVF9peGF5cU1TWDUzUWFySkhEWFN2Vko3U2dJTmc1bVFwTi0?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-01T07:00:00+00:00"
     },
     {
       "title": "SEMICON Taiwan攜台灣高鐵 三層次體現矽島動脈",
@@ -52,12 +52,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DS2I3OTNNSUtSd0puQ0tvbWlkb2ZxUzE1Nmt1ZW9aU1VrSHh1TUlQbG9VUUNRWHIyakJubGI0M1RZMXM4Z05QOEI2bFJlQ2NEVjZHUDlsUTc?oc=5",
       "source": "自由時報",
       "published_at": "2026-08-25T06:45:23+00:00"
-    },
-    {
-      "title": "2633 台灣高鐵- 高鐵通車將滿20年，「2地」掀起嬰兒潮！年輕人為何都往這裡搬？ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16OUE5WlJ6MmVkeXFuLUtZYTZpa3FrN2Y1NmhNMUdSaXhETjB3Z0RWM3AzVTFiaW9HaU1BdHc3ZG1sbm1IWFBodHRyeVU0TUhTUmtxVEMxbmc?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-21T07:00:00+00:00"
     }
   ]
 }
