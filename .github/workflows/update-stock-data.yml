@@ -2,6 +2,9 @@ name: Update Taiwan Stock Data
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/update-stock-data.yml"
   schedule:
     # GitHub Actions 使用 UTC
     # 台灣時間週一～週五 16:30
@@ -82,6 +85,7 @@ jobs:
         run: |
           python - <<'PY'
           import json
+          import os
           import urllib.request
           from datetime import datetime, timezone, timedelta
 
@@ -115,6 +119,28 @@ jobs:
               "institutional": rows
           }
 
+          raw_trade_date = str(data.get("date") or "").strip()
+
+          if not raw_trade_date:
+              try:
+                  with open("data/stocks.json", "r", encoding="utf-8") as f:
+                      stock_payload = json.load(f)
+                  raw_trade_date = str(
+                      (stock_payload.get("stocks") or [{}])[0].get("Date") or ""
+                  ).strip()
+              except Exception:
+                  raw_trade_date = ""
+
+          digits = "".join(char for char in raw_trade_date if char.isdigit())
+          if len(digits) == 7:
+              trade_date = f"{int(digits[:3]) + 1911:04d}-{digits[3:5]}-{digits[5:7]}"
+          elif len(digits) == 8:
+              trade_date = f"{digits[:4]}-{digits[4:6]}-{digits[6:8]}"
+          else:
+              trade_date = now.strftime("%Y-%m-%d")
+
+          output["trade_date"] = trade_date
+
           with open(
               "data/institutional.json",
               "w",
@@ -127,10 +153,19 @@ jobs:
                   indent=2
               )
 
+          os.makedirs("data/institutional_history", exist_ok=True)
+          with open(
+              f"data/institutional_history/{trade_date}.json",
+              "w",
+              encoding="utf-8"
+          ) as f:
+              json.dump(output, f, ensure_ascii=False, indent=2)
+
           print(
               "Downloaded",
               len(rows),
-              "institutional records"
+              "institutional records for",
+              trade_date
           )
           PY
 
@@ -343,6 +378,7 @@ jobs:
 
           git add data/stocks.json
           git add data/institutional.json
+          git add data/institutional_history
           git add data/market_history.json
 
           if git diff --cached --quiet; then
