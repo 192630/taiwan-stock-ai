@@ -1063,6 +1063,31 @@ button{
   margin-top:10px;
 }
 
+
+/* 量化研究 */
+
+.quant-block{margin-top:6px}
+.quant-result-list{margin-top:14px}
+
+.quant-result{
+  display:grid;
+  grid-template-columns:44px minmax(0,1fr) auto;
+  align-items:center;
+  gap:10px;
+  margin:9px 0;
+  padding:12px;
+  border:1.5px solid #4a5055;
+  border-radius:13px 11px 14px 10px;
+  background:rgba(255,254,250,.86);
+  cursor:pointer;
+}
+
+.quant-rank{font-size:15px;font-weight:900}
+.quant-name{font-size:16px;font-weight:900;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.quant-code{margin-top:3px;color:#b95649;font-size:13px;font-weight:900}
+.quant-score{text-align:right;font-size:14px;font-weight:900;color:#557a89}
+.quant-detail{margin-top:4px;color:#626a72;font-size:11px;white-space:nowrap}
+
 /* 全部股票 */
 
 .all-stock-tools{
@@ -2163,30 +2188,25 @@ footer{
 </section>
 
 
-<!-- 未來功能 -->
+<!-- 量化研究 -->
 
 <section class="card page-section" data-pages="quant">
 
-  <h2>🤖 下一階段研究功能</h2>
+  <h2>🧪 量化研究</h2>
 
-  <div class="info-row">
-    <span>量價突破掃描</span>
-    <b>準備接入</b>
+  <div class="quant-block">
+    <div class="heat-title">🔺 三角收斂 V1</div>
+    <div class="heat-subtitle">掃描最近 20 個交易日：高點降低、低點墊高、價格區間縮小</div>
+    <div id="triangleStatus" class="status">歷史行情載入中...</div>
+    <div id="triangleList" class="quant-result-list"></div>
   </div>
 
-  <div class="info-row">
-    <span>法人籌碼訊號</span>
-    <b>基礎完成</b>
+  <div class="heat-note">
+    <strong>研究說明：</strong>三角收斂只代表價格波動區間逐漸縮小，之後可能向上或向下突破，也可能失敗；這是規則式篩選，不是買賣建議。
   </div>
 
-  <div class="info-row">
-    <span>技術指標</span>
-    <b>準備接入</b>
-  </div>
-
-  <div class="info-row">
-    <span>AI 研究摘要</span>
-    <b>準備接入</b>
+  <div class="plain-note">
+    後續仍會依 roadmap 加入量價突破、法人獲利／虧損、妖股 77、主力雷達、當沖與波段策略。
   </div>
 
 </section>
@@ -2357,6 +2377,7 @@ function showPage(page,updateHash = true){
   if(stockDataReady){
     renderMarketRanking();
     renderIndustryHeat();
+    renderTriangleScan();
     renderActiveEtfRanking();
     renderAllStocks();
     renderWatchlist();
@@ -4774,6 +4795,151 @@ function calculateSupportResistance(
     supports:chooseLevels(ranked.filter(zone => zone.price < latestClose),"support"),
     resistances:chooseLevels(ranked.filter(zone => zone.price > latestClose),"resistance")
   };
+
+}
+
+
+
+function linearSlope(values){
+
+  const count = values.length;
+  if(count < 2) return 0;
+
+  const xAverage = (count - 1) / 2;
+  const yAverage = values.reduce((sum,value) => sum + value,0) / count;
+  let numerator = 0;
+  let denominator = 0;
+
+  values.forEach((value,index) => {
+    numerator += (index - xAverage) * (value - yAverage);
+    denominator += (index - xAverage) ** 2;
+  });
+
+  return denominator ? numerator / denominator : 0;
+
+}
+
+
+function getTriangleCandidate(code,history,name){
+
+  if(!Array.isArray(history) || history.length < 25) return null;
+
+  const recent = history.slice(-20);
+  const highs = recent.map(row => getHistoryNumber(row,"high"));
+  const lows = recent.map(row => getHistoryNumber(row,"low"));
+  const closes = recent.map(row => getHistoryClose(row));
+  const volumes = recent.map(row => getHistoryNumber(row,"volume"));
+
+  if([...highs,...lows,...closes].some(value => !(value > 0))) return null;
+
+  const averageClose = closes.reduce((sum,value) => sum + value,0) / closes.length;
+  const highSlope = linearSlope(highs) / averageClose * 100;
+  const lowSlope = linearSlope(lows) / averageClose * 100;
+
+  const widths = highs.map((high,index) => (high - lows[index]) / closes[index] * 100);
+  const firstWidth = widths.slice(0,5).reduce((sum,value) => sum + value,0) / 5;
+  const lastWidth = widths.slice(-5).reduce((sum,value) => sum + value,0) / 5;
+  const widthRatio = firstWidth > 0 ? lastWidth / firstWidth : 1;
+
+  const firstVolume = volumes.slice(0,5).reduce((sum,value) => sum + value,0) / 5;
+  const lastVolume = volumes.slice(-5).reduce((sum,value) => sum + value,0) / 5;
+  const volumeRatio = firstVolume > 0 ? lastVolume / firstVolume : 1;
+
+  if(!(highSlope < -.02 && lowSlope > .02 && widthRatio < .88)){
+    return null;
+  }
+
+  const score =
+    Math.min(45,Math.abs(highSlope) * 180) +
+    Math.min(45,Math.abs(lowSlope) * 180) +
+    Math.max(0,(1 - widthRatio) * 40) +
+    Math.max(0,(1 - Math.min(volumeRatio,1)) * 10);
+
+  return {
+    code,
+    name,
+    score,
+    highSlope,
+    lowSlope,
+    widthRatio,
+    volumeRatio
+  };
+
+}
+
+
+function renderTriangleScan(){
+
+  const container = document.getElementById("triangleList");
+  const status = document.getElementById("triangleStatus");
+
+  if(!container || !status) return;
+
+  if(!marketHistoryReady || !stockDataReady){
+    status.textContent = "歷史行情載入中...";
+    return;
+  }
+
+  const names = new Map(
+    stocks.map(row => {
+      const values = getStockValues(row);
+      return [String(values.code || "").trim(),String(values.name || "").trim()];
+    })
+  );
+
+  const results = Object.entries(marketHistory)
+    .filter(([code]) => code !== "_meta" && /^\d{4}$/.test(code))
+    .map(([code,history]) => getTriangleCandidate(code,history,names.get(code) || code))
+    .filter(Boolean)
+    .sort((a,b) => b.score - a.score)
+    .slice(0,30);
+
+  container.innerHTML = "";
+
+  if(!results.length){
+    status.textContent = "目前沒有符合三角收斂 V1 條件的股票";
+    return;
+  }
+
+  status.textContent = `✅ 找到 ${results.length} 檔較符合條件的股票，依收斂分數排序`;
+
+  results.forEach((item,index) => {
+    const row = document.createElement("div");
+    row.className = "quant-result";
+    row.tabIndex = 0;
+    row.setAttribute("role","button");
+
+    const rank = document.createElement("div");
+    rank.className = "quant-rank";
+    rank.textContent = `NO.${index + 1}`;
+
+    const main = document.createElement("div");
+    const name = document.createElement("div");
+    name.className = "quant-name";
+    name.textContent = item.name;
+    const code = document.createElement("div");
+    code.className = "quant-code";
+    code.textContent = `${item.code}　查看個股 ›`;
+    main.append(name,code);
+
+    const values = document.createElement("div");
+    values.className = "quant-score";
+    values.textContent = `收斂 ${Math.round(item.score)}`;
+    const detail = document.createElement("div");
+    detail.className = "quant-detail";
+    detail.textContent = `區間剩 ${Math.round(item.widthRatio * 100)}%｜量比 ${Math.round(item.volumeRatio * 100)}%`;
+    values.appendChild(detail);
+
+    row.append(rank,main,values);
+    row.addEventListener("click",() => openStockFromList(item.code));
+    row.addEventListener("keydown",event => {
+      if(event.key === "Enter" || event.key === " "){
+        event.preventDefault();
+        openStockFromList(item.code);
+      }
+    });
+    container.appendChild(row);
+  });
 
 }
 
