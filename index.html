@@ -1092,6 +1092,9 @@ button{
 .quant-code{margin-top:3px;color:#b95649;font-size:13px;font-weight:900}
 .quant-score{text-align:right;font-size:14px;font-weight:900;color:#557a89}
 .quant-detail{margin-top:4px;color:#626a72;font-size:11px;white-space:nowrap}
+.quant-subtitle{margin:18px 0 6px;font-size:16px}
+.quant-score.buy{color:#d0443e}
+.quant-score.sell{color:#25835a}
 
 /* 全部股票 */
 
@@ -2221,6 +2224,22 @@ footer{
     <strong>研究說明：</strong>量價突破代表價格與成交量同時達到規則條件，仍可能是假突破或隔日拉回，不等於適合追價。
   </div>
 
+  <div class="quant-block quant-block-separated">
+    <div class="heat-title">🏦 法人籌碼雷達 V1</div>
+    <div class="heat-subtitle">至少兩類法人方向一致，並以買賣超占當日成交量比例排序</div>
+    <div id="institutionScanStatus" class="status">法人與行情資料載入中...</div>
+
+    <h3 class="quant-subtitle">🔴 偏買超共識</h3>
+    <div id="institutionBuyList" class="quant-result-list"></div>
+
+    <h3 class="quant-subtitle">🟢 偏賣超共識</h3>
+    <div id="institutionSellList" class="quant-result-list"></div>
+  </div>
+
+  <div class="heat-note">
+    <strong>研究說明：</strong>法人共識只代表當日公開買賣超方向；買超不保證上漲，賣超也不保證下跌，仍需搭配價格、成交量與後續資料觀察。
+  </div>
+
   <div class="plain-note">
     後續仍會依 roadmap 加入量價突破、法人獲利／虧損、妖股 77、主力雷達、當沖與波段策略。
   </div>
@@ -2395,6 +2414,7 @@ function showPage(page,updateHash = true){
     renderIndustryHeat();
     renderTriangleScan();
     renderBreakoutScan();
+    renderInstitutionScan();
     renderActiveEtfRanking();
     renderAllStocks();
     renderWatchlist();
@@ -4884,6 +4904,142 @@ function getTriangleCandidate(code,history,name){
 
 }
 
+
+
+
+function getInstitutionScanRows(){
+
+  if(!institutionalReady || !stockDataReady) return [];
+
+  const stockMap = new Map(
+    stocks.map(row => {
+      const values = getStockValues(row);
+      return [String(values.code || "").trim(),values];
+    })
+  );
+
+  return institutional
+    .map(row => {
+      const code = String(Array.isArray(row) ? row[0] || "" : row.code || "").trim();
+      const stock = stockMap.get(code);
+      const values = getInstitutionValues(row);
+
+      if(!/^\d{4}$/.test(code) || !stock || !values) return null;
+
+      const volume = cleanNumber(stock.volume);
+      if(!(volume > 0)) return null;
+
+      const directions = [
+        ["外資",values.foreignNet],
+        ["投信",values.trustNet],
+        ["自營商",values.dealerNet]
+      ];
+      const positiveCount = directions.filter(([,value]) => value > 0).length;
+      const negativeCount = directions.filter(([,value]) => value < 0).length;
+      const dominant = [...directions].sort((a,b) => Math.abs(b[1]) - Math.abs(a[1]))[0];
+      const ratio = values.total / volume * 100;
+
+      if(values.total > 0 && positiveCount < 2) return null;
+      if(values.total < 0 && negativeCount < 2) return null;
+      if(values.total === 0) return null;
+
+      return {
+        code,
+        name:String(stock.name || Array.isArray(row) ? row[1] || code : code).trim(),
+        total:values.total,
+        ratio,
+        positiveCount,
+        negativeCount,
+        dominantName:dominant[0],
+        dominantValue:dominant[1]
+      };
+    })
+    .filter(Boolean);
+
+}
+
+
+function makeInstitutionScanRow(item,index,direction){
+
+  const row = document.createElement("div");
+  row.className = "quant-result";
+  row.tabIndex = 0;
+  row.setAttribute("role","button");
+
+  const rank = document.createElement("div");
+  rank.className = "quant-rank";
+  rank.textContent = `NO.${index + 1}`;
+
+  const main = document.createElement("div");
+  const name = document.createElement("div");
+  name.className = "quant-name";
+  name.textContent = item.name;
+  const code = document.createElement("div");
+  code.className = "quant-code";
+  code.textContent = `${item.code}　查看個股 ›`;
+  main.append(name,code);
+
+  const values = document.createElement("div");
+  values.className = `quant-score ${direction}`;
+  values.textContent = `${item.ratio > 0 ? "+" : ""}${item.ratio.toFixed(2)}%`;
+  const detail = document.createElement("div");
+  detail.className = "quant-detail";
+  detail.textContent = `${direction === "buy" ? item.positiveCount : item.negativeCount} 類同向｜${item.dominantName}影響最大`;
+  values.appendChild(detail);
+
+  row.append(rank,main,values);
+  row.addEventListener("click",() => openStockFromList(item.code));
+  row.addEventListener("keydown",event => {
+    if(event.key === "Enter" || event.key === " "){
+      event.preventDefault();
+      openStockFromList(item.code);
+    }
+  });
+
+  return row;
+
+}
+
+
+function renderInstitutionScan(){
+
+  const status = document.getElementById("institutionScanStatus");
+  const buyList = document.getElementById("institutionBuyList");
+  const sellList = document.getElementById("institutionSellList");
+
+  if(!status || !buyList || !sellList) return;
+
+  if(!institutionalReady || !stockDataReady){
+    status.textContent = "法人與行情資料載入中...";
+    return;
+  }
+
+  const rows = getInstitutionScanRows();
+  const buys = rows
+    .filter(item => item.total > 0)
+    .sort((a,b) => b.ratio - a.ratio)
+    .slice(0,20);
+  const sells = rows
+    .filter(item => item.total < 0)
+    .sort((a,b) => a.ratio - b.ratio)
+    .slice(0,20);
+
+  buyList.innerHTML = "";
+  sellList.innerHTML = "";
+
+  buys.forEach((item,index) => buyList.appendChild(makeInstitutionScanRow(item,index,"buy")));
+  sells.forEach((item,index) => sellList.appendChild(makeInstitutionScanRow(item,index,"sell")));
+
+  if(!buys.length){
+    buyList.innerHTML = '<div class="status">目前沒有符合偏買超共識條件的股票</div>';
+  }
+  if(!sells.length){
+    sellList.innerHTML = '<div class="status">目前沒有符合偏賣超共識條件的股票</div>';
+  }
+
+  status.textContent = `✅ 偏買超 ${buys.length} 檔｜偏賣超 ${sells.length} 檔`;
+
+}
 
 
 function getBreakoutCandidate(code,history,name){
