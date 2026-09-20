@@ -1653,13 +1653,13 @@ footer{
       <div class="research-item"><small>均線結構</small><b id="maStructure">-</b></div>
       <div class="research-item"><small>成交量變化</small><b id="volumeTrend">-</b></div>
       <div class="research-item"><small>最新 K 棒</small><b id="candlePattern">-</b></div>
-      <div class="research-item"><small>支撐／壓力（V1）</small><b id="supportResistance">-</b></div>
+      <div class="research-item"><small>支撐／壓力（V2）</small><b id="supportResistance">-</b></div>
     </div>
 
     <div id="ruleSummary" class="research-summary"></div>
 
     <div class="plain-note">
-      以上依歷史價格與成交量自動計算，屬於規則式研究說明，不保證未來漲跌。壓力支撐 V1 使用最近最多 60 個交易日的最低價與最高價。
+      以上依歷史價格與成交量自動計算，屬於規則式研究說明，不保證未來漲跌。壓力支撐 V2 使用最近最多 120 個交易日的局部高低點、重複碰觸區與成交量加權判讀。
     </div>
 
   </div>
@@ -4146,9 +4146,17 @@ function setResearchAnalysis(history,ma5,ma20,ma60){
 
   let levelText = "歷史資料不足";
   if(levels && close > 0){
-    const supportDistance = (close - levels.support) / close * 100;
-    const resistanceDistance = (levels.resistance - close) / close * 100;
-    levelText = `支撐 ${levels.support.toFixed(2)}（距現價 ${supportDistance.toFixed(1)}%）／壓力 ${levels.resistance.toFixed(2)}（距現價 ${resistanceDistance.toFixed(1)}%）`;
+    const formatLevel = (level,label) => {
+      if(!level) return `${label}：尚無明顯區間`;
+      const distance = Math.abs(level.price - close) / close * 100;
+      return `${label} ${level.price.toFixed(2)}（距現價 ${distance.toFixed(1)}%，碰觸 ${level.touches} 次）`;
+    };
+    levelText = [
+      formatLevel(levels.supports[0],"第一支撐"),
+      formatLevel(levels.supports[1],"第二支撐"),
+      formatLevel(levels.resistances[0],"第一壓力"),
+      formatLevel(levels.resistances[1],"第二壓力")
+    ].join("／");
   }
 
   document.getElementById("shortTrend").textContent = shortText;
@@ -4176,48 +4184,81 @@ function calculateSupportResistance(
 
   }
 
-  const recent =
-    history.slice(-60);
+  const recent = history.slice(-120);
+  const latestClose = getHistoryClose(recent[recent.length - 1]);
 
-  const highs =
-    recent
-      .map(
-        row =>
-          Number(row.high)
-      )
-      .filter(
-        value =>
-          Number.isFinite(value)
-      );
+  if(!(latestClose > 0)) return null;
 
-  const lows =
-    recent
-      .map(
-        row =>
-          Number(row.low)
-      )
-      .filter(
-        value =>
-          Number.isFinite(value)
-      );
+  const volumes = recent
+    .map(row => getHistoryNumber(row,"volume"))
+    .filter(value => value > 0);
+  const averageVolume = volumes.length
+    ? volumes.reduce((sum,value) => sum + value,0) / volumes.length
+    : 1;
+  const candidates = [];
 
-  if(
-    !highs.length ||
-    !lows.length
-  ){
+  for(let index = 2; index < recent.length - 2; index += 1){
+    const row = recent[index];
+    const high = getHistoryNumber(row,"high");
+    const low = getHistoryNumber(row,"low");
+    const nearby = recent.slice(index - 2,index + 3);
+    const nearbyHighs = nearby.map(item => getHistoryNumber(item,"high"));
+    const nearbyLows = nearby.map(item => getHistoryNumber(item,"low"));
+    const volume = getHistoryNumber(row,"volume");
+    const volumeWeight = averageVolume > 0
+      ? Math.min(2,Math.max(.5,volume / averageVolume))
+      : 1;
 
-    return null;
-
+    if(high > 0 && high >= Math.max(...nearbyHighs)){
+      candidates.push({price:high,type:"high",weight:volumeWeight});
+    }
+    if(low > 0 && low <= Math.min(...nearbyLows)){
+      candidates.push({price:low,type:"low",weight:volumeWeight});
+    }
   }
 
+  if(!candidates.length) return null;
+
+  const tolerance = Math.max(latestClose * .012,.01);
+  const zones = [];
+
+  candidates
+    .sort((a,b) => a.price - b.price)
+    .forEach(candidate => {
+      const zone = zones.find(item => Math.abs(item.price - candidate.price) <= tolerance);
+      if(zone){
+        const totalWeight = zone.weight + candidate.weight;
+        zone.price = (zone.price * zone.weight + candidate.price * candidate.weight) / totalWeight;
+        zone.weight = totalWeight;
+        zone.touches += 1;
+      }
+      else{
+        zones.push({price:candidate.price,weight:candidate.weight,touches:1});
+      }
+    });
+
+  const ranked = zones
+    .filter(zone => zone.touches >= 2)
+    .map(zone => ({
+      ...zone,
+      score:zone.touches * 2 + zone.weight
+    }));
+
+  const chooseLevels = (items,direction) => items
+    .sort((a,b) => {
+      const distanceA = Math.abs(a.price - latestClose);
+      const distanceB = Math.abs(b.price - latestClose);
+      return distanceA - distanceB || b.score - a.score;
+    })
+    .filter((zone,index,array) =>
+      array.slice(0,index).every(chosen => Math.abs(chosen.price - zone.price) > tolerance)
+    )
+    .slice(0,2)
+    .sort((a,b) => direction === "support" ? b.price - a.price : a.price - b.price);
+
   return {
-
-    resistance:
-      Math.max(...highs),
-
-    support:
-      Math.min(...lows)
-
+    supports:chooseLevels(ranked.filter(zone => zone.price < latestClose),"support"),
+    resistances:chooseLevels(ranked.filter(zone => zone.price > latestClose),"resistance")
   };
 
 }
@@ -5041,13 +5082,16 @@ function searchStock(){
 
     if(levels){
 
+      const firstSupport = levels.supports[0];
+      const firstResistance = levels.resistances[0];
+
       stockStatus.textContent =
         "📍 " +
         code +
         "｜支撐 " +
-        levels.support.toFixed(2) +
+        (firstSupport ? firstSupport.price.toFixed(2) : "尚無明顯區間") +
         "｜壓力 " +
-        levels.resistance.toFixed(2);
+        (firstResistance ? firstResistance.price.toFixed(2) : "尚無明顯區間");
 
     }
     else{
