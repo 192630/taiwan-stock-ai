@@ -1,0 +1,27 @@
+{
+  "updated_at": "2026-09-20T12:35:01.084519+08:00",
+  "source": "Google News RSS search by stock code and name",
+  "code": "2712",
+  "name": "遠雄來",
+  "count": 3,
+  "news": [
+    {
+      "title": "《集中市場券商賣超比前30名 3-3》遠雄來(-15.27)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMkd5TjIwU3pEUDBReHFtN2ZsYVVTSVA2b0s1WDdmSUFKZ3dobTB3Wm1DaVY3SE1CQjY2cUhZdDV4c2FUeWhMa212NFIza0lOUGozQjJDWDNEYUFtZWdrQXhBOHU4eWs1MGJIZjh2c3J2OS02QUVOYTJIQVBqY1hhNXRONFRVSUJN?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-17T23:32:00+00:00"
+    },
+    {
+      "title": "納斯達克100指數跨期2612/2712 (NQ2612-NQ2712) 期貨",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kX0Jza2dtcUhSek9pcTAtakt3b2Q1NzFkQnVrMFdPamxaU1dCQ1BiZW9tRWhiRmg4dWstckhGR2ZMcHh4LXBXTTBNNE9wWWFVTEcxZEx6TDJZX2J6OTVkdDJB?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-06T07:00:00+00:00"
+    },
+    {
+      "title": "墨西哥比索跨期2712/2612 (6M2712-6M2612) 期貨",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE54V1hia0g1eEVmRk5DMDFWTjlFUEFrUXo4dGdpYjVEaDhCaFdBXzItMHVYOGNHeWMzWERVYTFzQ1o0djM1SFBHRUZTYjlnWEpCY1Y0UUVOOHc1Q1liQWRDX2pB?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-08-28T07:00:00+00:00"
+    }
+  ]
+}
