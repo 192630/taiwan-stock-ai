@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "mode": "public_free",
+  "note": "目前為可逆的前端分級預覽，不是真正安全的會員驗證；不得存放付費資料、密鑰或個資。",
+  "public_free": [
+    "股票搜尋與全部股票",
+    "基本盤後行情",
+    "基礎K線與均線",
+    "法人資料與白話說明",
+    "首頁成交量前3名",
+    "主動ETF排行前3名",
+    "ETF每日摘要與ETF清單",
+    "市場新聞",
+    "基本觀察清單",
+    "全球主要行情、風險燈號與簡短摘要"
+  ],
+  "owner_preview_member": [
+    "完整成交量排行",
+    "產業紅綠燈",
+    "ETF比較",
+    "ETF每日持股變化",
+    "ETF主要持股熱力",
+    "ETF產業配置",
+    "ETF共識",
+    "ETF連續趨勢",
+    "完整ETF排行",
+    "全球市場分歧、族群影響與歷史驗證"
+  ],
+  "owner_preview_pro": [
+    "量化研究頁",
+    "未來回測與自訂策略"
+  ],
+  "security": {
+    "is_real_auth": false,
+    "contains_paid_data": false,
+    "contains_api_keys": false,
+    "reversible": true
+  },
+  "future": "完成後端登入、資料授權與付款流程後，再把 owner_preview_member/pro 接到真正會員權限。"
+}
