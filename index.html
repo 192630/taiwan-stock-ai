@@ -734,6 +734,65 @@ button{
 .market-rank-change.down{color:#25835a}
 .market-rank-change.flat{color:#626a72}
 
+
+/* 產業紅綠燈 */
+
+.industry-heat-list{margin-top:14px}
+
+.industry-card{
+  margin:10px 0;
+  border:1.5px solid #4a5055;
+  border-radius:13px 11px 14px 10px;
+  background:rgba(255,254,250,.86);
+  overflow:hidden;
+}
+
+.industry-summary{
+  width:100%;
+  display:grid;
+  grid-template-columns:minmax(0,1fr) auto;
+  gap:12px;
+  align-items:center;
+  padding:13px 14px;
+  border:0;
+  border-radius:0;
+  background:transparent;
+  color:#30363b;
+  text-align:left;
+}
+
+.industry-name{font-size:16px;font-weight:900}
+.industry-counts{margin-top:4px;color:#626a72;font-size:12px}
+.industry-change{font-size:18px;font-weight:900;text-align:right}
+.industry-change.up{color:#d0443e}
+.industry-change.down{color:#25835a}
+.industry-change.flat{color:#626a72}
+
+.industry-members{
+  padding:0 14px 10px;
+  border-top:1px solid rgba(68,74,79,.18);
+}
+
+.industry-member{
+  width:100%;
+  display:grid;
+  grid-template-columns:62px minmax(0,1fr) auto;
+  gap:8px;
+  padding:10px 2px;
+  border:0;
+  border-bottom:1px solid rgba(68,74,79,.14);
+  border-radius:0;
+  background:transparent;
+  color:#30363b;
+  font-size:13px;
+  text-align:left;
+}
+
+.industry-member:last-child{border-bottom:0}
+.industry-member-code{color:#b95649;font-weight:900}
+.industry-member-name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-weight:800}
+.industry-member-change{font-weight:900}
+
 /* 主動 ETF 每日持股變化 */
 
 .etf-change-picker{
@@ -1526,6 +1585,7 @@ footer{
   <button class="nav-button" type="button" data-page="stocks">🔎 股票搜尋</button>
   <button class="nav-button" type="button" data-page="all">📋 全部股票</button>
   <button class="nav-button" type="button" data-page="market">📊 市場排行</button>
+  <button class="nav-button" type="button" data-page="industry">🏭 產業紅綠燈</button>
   <button class="nav-button" type="button" data-page="watch">🧺 我的觀察 <span id="watchNavCount" class="nav-count">0</span></button>
   <button class="nav-button" type="button" data-page="etf">🔥 主動 ETF</button>
   <button class="nav-button" type="button" data-page="news">📰 市場新聞</button>
@@ -1910,6 +1970,23 @@ footer{
 </section>
 
 
+
+<!-- 產業紅綠燈 -->
+
+<section class="card page-section" data-pages="industry">
+
+  <h2>🏭 產業紅綠燈</h2>
+  <div class="heat-subtitle">依官方產業分類，計算最近交易日產業內個股等權平均漲跌幅</div>
+  <div id="industryHeatStatus" class="status">產業資料載入中...</div>
+  <div id="industryHeatList" class="industry-heat-list"></div>
+
+  <div class="heat-note">
+    <strong>今日筆記：</strong>產業漲跌幅為產業內有行情個股的等權平均，用來觀察整體方向；不是產業指數，也不代表每一檔股票都同方向。
+  </div>
+
+</section>
+
+
 <!-- 今日市場熱力 -->
 
 <section class="card page-section" data-pages="etf">
@@ -2124,6 +2201,7 @@ let etfHoldingExpanded = false;
 let etfDetailNewsStart = 0;
 let stockDetailNews = [];
 let stockDetailNewsStart = 0;
+let expandedIndustry = "";
 let toastTimer = null;
 
 let watchlistCodes = (() => {
@@ -2148,6 +2226,7 @@ const validPages = [
   "stocks",
   "all",
   "market",
+  "industry",
   "watch",
   "etf",
   "news",
@@ -2233,6 +2312,7 @@ function showPage(page,updateHash = true){
 
   if(stockDataReady){
     renderMarketRanking();
+    renderIndustryHeat();
     renderActiveEtfRanking();
     renderAllStocks();
     renderWatchlist();
@@ -2594,6 +2674,7 @@ async function loadCompanyProfiles(){
     companyProfiles = json.profiles || {};
     companyProfilesReady = true;
     if(currentStockCode) renderCompanyProfile(currentStockCode);
+    renderIndustryHeat();
   }
   catch(error){
     console.warn(error);
@@ -3631,6 +3712,127 @@ function renderEtfConsensus(){
 /* ========================================
    市場成交量排行
 ======================================== */
+
+
+function renderIndustryHeat(){
+
+  const container = document.getElementById("industryHeatList");
+  const status = document.getElementById("industryHeatStatus");
+
+  if(!container || !status) return;
+
+  if(!stockDataReady || !companyProfilesReady){
+    status.textContent = "產業與行情資料載入中...";
+    return;
+  }
+
+  const groups = new Map();
+
+  stocks.forEach(row => {
+    const values = getStockValues(row);
+    const code = String(values.code || "").trim();
+    const profile = companyProfiles[code];
+    const percent = getStockChangePercent(row);
+
+    if(!/^\d{4}$/.test(code) || !profile || !profile.industry || percent === null){
+      return;
+    }
+
+    if(!groups.has(profile.industry)){
+      groups.set(profile.industry,[]);
+    }
+
+    groups.get(profile.industry).push({
+      code,
+      name:String(values.name || profile.short_name || "").trim(),
+      percent
+    });
+  });
+
+  const industries = [...groups.entries()]
+    .map(([name,members]) => {
+      const average = members.reduce((sum,item) => sum + item.percent,0) / members.length;
+      return {
+        name,
+        members:members.sort((a,b) => b.percent - a.percent),
+        average,
+        up:members.filter(item => item.percent > .05).length,
+        down:members.filter(item => item.percent < -.05).length,
+        flat:members.filter(item => Math.abs(item.percent) <= .05).length
+      };
+    })
+    .sort((a,b) => b.average - a.average);
+
+  container.innerHTML = "";
+  status.textContent = `✅ 共整理 ${industries.length} 個產業，點選產業可查看成分股`;
+
+  industries.forEach(industry => {
+    const card = document.createElement("div");
+    card.className = "industry-card";
+
+    const summary = document.createElement("button");
+    summary.type = "button";
+    summary.className = "industry-summary";
+    summary.setAttribute("aria-expanded",String(expandedIndustry === industry.name));
+
+    const main = document.createElement("div");
+    const name = document.createElement("div");
+    name.className = "industry-name";
+    name.textContent = industry.name;
+    const counts = document.createElement("div");
+    counts.className = "industry-counts";
+    counts.textContent = `上漲 ${industry.up}｜下跌 ${industry.down}｜平盤 ${industry.flat}｜共 ${industry.members.length} 檔`;
+    main.append(name,counts);
+
+    const change = document.createElement("div");
+    change.className = "industry-change " + (
+      industry.average > .05 ? "up" : industry.average < -.05 ? "down" : "flat"
+    );
+    change.textContent = `${industry.average > 0 ? "+" : ""}${industry.average.toFixed(2)}%`;
+
+    summary.append(main,change);
+    summary.addEventListener("click",() => {
+      expandedIndustry = expandedIndustry === industry.name ? "" : industry.name;
+      renderIndustryHeat();
+    });
+    card.appendChild(summary);
+
+    if(expandedIndustry === industry.name){
+      const members = document.createElement("div");
+      members.className = "industry-members";
+
+      industry.members.forEach(item => {
+        const row = document.createElement("button");
+        row.type = "button";
+        row.className = "industry-member";
+
+        const code = document.createElement("span");
+        code.className = "industry-member-code";
+        code.textContent = item.code;
+
+        const name = document.createElement("span");
+        name.className = "industry-member-name";
+        name.textContent = item.name;
+
+        const percent = document.createElement("span");
+        percent.className = "industry-member-change " + (
+          item.percent > .05 ? "buy" : item.percent < -.05 ? "sell" : "neutral"
+        );
+        percent.textContent = `${item.percent > 0 ? "+" : ""}${item.percent.toFixed(2)}%`;
+
+        row.append(code,name,percent);
+        row.addEventListener("click",() => openStockFromList(item.code));
+        members.appendChild(row);
+      });
+
+      card.appendChild(members);
+    }
+
+    container.appendChild(card);
+  });
+
+}
+
 
 function getMarketVolumeRanking(){
 
