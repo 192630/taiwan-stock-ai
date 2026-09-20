@@ -2132,6 +2132,7 @@ footer{
   <button class="etf-subnav-button" type="button" data-etf-subpage="holdings">🌡️ 持股權重</button>
   <button class="etf-subnav-button" type="button" data-etf-subpage="industry">🏭 產業配置</button>
   <button class="etf-subnav-button" type="button" data-etf-subpage="consensus">🔥 共同持有</button>
+  <button class="etf-subnav-button" type="button" data-etf-subpage="trends">📅 連續趨勢</button>
   <button class="etf-subnav-button" type="button" data-etf-subpage="ranking">📈 強弱排行</button>
 </nav>
 
@@ -2210,6 +2211,31 @@ footer{
 
   <div class="heat-note">
     <strong>今日筆記：</strong>共識代表多檔 ETF 公開投資組合出現相同方向的變化；這是研究線索，不代表未來股價一定上漲或下跌。
+  </div>
+
+</section>
+
+<section class="card page-section" data-pages="etf" data-etf-subpage="trends">
+
+  <h2>📅 ETF 連續增減趨勢</h2>
+  <div class="heat-subtitle">
+    依每日官方投資組合快照，整理股票連續被多檔主動 ETF 增加或減少持股的交易日數
+  </div>
+
+  <div id="etfTrendStatus" class="status">連續趨勢資料載入中...</div>
+
+  <div class="consensus-block">
+    <h3>📈 連續增加持股</h3>
+    <div id="etfPositiveTrendList"></div>
+  </div>
+
+  <div class="consensus-block">
+    <h3>📉 連續減少持股</h3>
+    <div id="etfNegativeTrendList"></div>
+  </div>
+
+  <div class="heat-note">
+    <strong>今日筆記：</strong>連續增加／減少是不同日終公開投資組合的股數方向，不等同可確認的盤中買進或賣出，也不代表未來股價一定上漲或下跌。
   </div>
 
 </section>
@@ -2375,6 +2401,7 @@ let marketHistory = {};
 let marketNews = [];
 let activeEtfHoldings = {};
 let activeEtfChanges = {};
+let activeEtfTrends = {};
 let activeEtfNews = {};
 let companyProfiles = {};
 
@@ -2384,6 +2411,7 @@ let marketHistoryReady = false;
 let newsDataReady = false;
 let activeEtfHoldingsReady = false;
 let activeEtfChangesReady = false;
+let activeEtfTrendsReady = false;
 let activeEtfNewsReady = false;
 let companyProfilesReady = false;
 
@@ -2483,6 +2511,7 @@ const validEtfSubpages = [
   "holdings",
   "industry",
   "consensus",
+  "trends",
   "ranking"
 ];
 
@@ -2598,6 +2627,8 @@ function showPage(page,updateHash = true){
     renderEtfIndustryHeat();
     renderEtfConsensus();
   }
+
+  renderEtfTrends();
 
   if(newsDataReady){
     renderNews();
@@ -3385,6 +3416,24 @@ async function loadActiveEtfChanges(){
   catch(error){
     activeEtfChanges = {};
     activeEtfChangesReady = false;
+  }
+
+}
+
+
+async function loadActiveEtfTrends(){
+
+  try{
+    const response = await fetch("data/active_etf_trends.json?t=" + Date.now());
+    if(!response.ok){
+      throw new Error("active_etf_trends.json 尚未產生");
+    }
+    activeEtfTrends = await response.json();
+    activeEtfTrendsReady = true;
+  }
+  catch(error){
+    activeEtfTrends = {};
+    activeEtfTrendsReady = false;
   }
 
 }
@@ -4260,6 +4309,115 @@ function renderEtfIndustryHeat(){
 
     container.appendChild(card);
   });
+
+}
+
+
+function makeEtfTrendRow(item,index,direction){
+
+  const row = document.createElement("div");
+  row.className = "consensus-row";
+  row.tabIndex = 0;
+  row.setAttribute("role","button");
+
+  const rank = document.createElement("div");
+  rank.className = "consensus-rank";
+  rank.textContent = `NO.${index + 1}`;
+
+  const main = document.createElement("div");
+  const name = document.createElement("div");
+  name.className = "consensus-name";
+  name.textContent = item.name || item.code;
+
+  const detail = document.createElement("div");
+  detail.className = "consensus-detail";
+  detail.textContent = direction === "positive"
+    ? `最新：增加 ${cleanNumber(item.increased_count)}｜新增 ${cleanNumber(item.new_count)}｜淨共識 +${Math.abs(cleanNumber(item.net_etf_count))}`
+    : `最新：減少 ${cleanNumber(item.decreased_count)}｜退出 ${cleanNumber(item.removed_count)}｜淨共識 -${Math.abs(cleanNumber(item.net_etf_count))}`;
+
+  const code = document.createElement("div");
+  code.className = "consensus-code";
+  code.textContent = `${item.code}　查看個股 ›`;
+  main.append(name,code,detail);
+
+  const score = document.createElement("div");
+  score.className = `consensus-score ${direction === "positive" ? "positive" : "negative"}`;
+  score.textContent = `連續 ${cleanNumber(item.streak_days)} 日`;
+
+  row.append(rank,main,score);
+
+  const open = () => item.code && openStockFromList(item.code);
+  row.addEventListener("click",open);
+  row.addEventListener("keydown",event => {
+    if(event.key === "Enter" || event.key === " "){
+      event.preventDefault();
+      open();
+    }
+  });
+
+  return row;
+
+}
+
+
+function renderEtfTrends(){
+
+  const status = document.getElementById("etfTrendStatus");
+  const positiveList = document.getElementById("etfPositiveTrendList");
+  const negativeList = document.getElementById("etfNegativeTrendList");
+
+  if(!status || !positiveList || !negativeList) return;
+
+  positiveList.innerHTML = "";
+  negativeList.innerHTML = "";
+
+  if(!activeEtfTrendsReady){
+    status.textContent = "連續趨勢資料準備中...";
+    return;
+  }
+
+  const meta = activeEtfTrends._meta || {};
+  const positive = Array.isArray(activeEtfTrends.positive)
+    ? activeEtfTrends.positive
+    : [];
+  const negative = Array.isArray(activeEtfTrends.negative)
+    ? activeEtfTrends.negative
+    : [];
+
+  if(meta.status !== "success"){
+    status.textContent = `目前已有 ${cleanNumber(meta.snapshot_count)} 個有效交易日快照`;
+
+    const note = document.createElement("div");
+    note.className = "etf-waiting-note";
+    note.textContent = "至少累積兩個有效交易日快照後，這裡會自動開始計算；累積日數越多，連續趨勢越有研究價值。";
+    positiveList.appendChild(note);
+
+    const empty = document.createElement("div");
+    empty.className = "heat-subtitle";
+    empty.textContent = "尚未有可計算的連續減少資料";
+    negativeList.appendChild(empty);
+    return;
+  }
+
+  status.textContent = `✅ 已比較 ${cleanNumber(meta.comparison_days)} 個交易日區間｜最新 ${formatStockDate(meta.latest_date || "")}`;
+
+  if(!positive.length){
+    positiveList.innerHTML = '<div class="heat-subtitle">最新交易日沒有連續增加項目</div>';
+  }
+  else{
+    positive.slice(0,30).forEach((item,index) => {
+      positiveList.appendChild(makeEtfTrendRow(item,index,"positive"));
+    });
+  }
+
+  if(!negative.length){
+    negativeList.innerHTML = '<div class="heat-subtitle">最新交易日沒有連續減少項目</div>';
+  }
+  else{
+    negative.slice(0,30).forEach((item,index) => {
+      negativeList.appendChild(makeEtfTrendRow(item,index,"negative"));
+    });
+  }
 
 }
 
@@ -7557,6 +7715,7 @@ Promise.all([
   loadMarketNews(),
   loadActiveEtfHoldings(),
   loadActiveEtfChanges(),
+  loadActiveEtfTrends(),
   loadActiveEtfNews(),
   loadCompanyProfiles()
 ]).then(() => {
@@ -7565,6 +7724,7 @@ Promise.all([
   renderEtfHoldingHeat();
   renderEtfIndustryHeat();
   renderEtfConsensus();
+  renderEtfTrends();
   if(currentStockCode){
     renderActiveEtfDetail(currentStockCode);
   }
