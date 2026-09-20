@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-20T09:33:12.244289+08:00",
+  "updated_at": "2026-09-20T23:32:55.893550+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1725",
   "name": "元禎",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【2026/08月營收公告】元禎(1725) 八月營收8.53億元，年增30.66%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObzNYZUxMVmtleVY3VUhFXzBkMENvRWNCNloxSFlBZmFnVnNSNloxOG8xejNkc1djSEx3ay0yZEltaVhUM3pjTVU4MHRNdG81NmxmODRxYW04YmZJZm1FZXI3Yl9lQmRhekdVQmwweFNMWVFfYXhMbUxpXzZ4TVZ0V2lNeHdJeXFJUGc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    }
+  ]
 }

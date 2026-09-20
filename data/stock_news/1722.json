@@ -1,21 +1,15 @@
 {
-  "updated_at": "2026-09-20T09:33:11.357018+08:00",
+  "updated_at": "2026-09-20T23:32:55.042143+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1722",
   "name": "台肥",
-  "count": 6,
+  "count": 5,
   "news": [
     {
       "title": "【2026/08月營收公告】台肥(1722) 八月營收9.12億元，營收雙減，年減11.28%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNVZ4ajEwWWtJSDNKeFhocFA3OGVwcUdyTGs1Y3dCc3BpZFN1ZUgzRFRxdXc2T2M4YVRxRFdVNW5CTlhIQjlGWUZTVVhoOWh6SXFPb0tEeHZtdmJVN0FieDBBd0QzS2Y3M2x2Q2hZYzFlQTZ6VEJVMENRbkRtSHhzMHg5VklWNXpwcnc?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "走過80載！台肥靠「藍氨」搶進半導體供應鏈 3大因素加持肥料本業持續減虧",
-      "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxOYWc5cWx0enAtZy1DbzR2X1lFWFlFQlJiQXdWeVdjeXBaX0ZiYjFHWUNSWmV6ZDNBalM1cFRGVXFFNDlXajhTVzRZdGJ4eTVLWnd0bkllMEFiaU11MmZvZDgyN2NfbmdCU01LYzJTWjk5XzJicmdVS0UtLWtGTVlaX3piUThXaTRIbzBYV2ZsNVRBcXdzRU43WUJDX19Sa1JDSDhRS201OHpQS0VFODZqWlhxblN6em9DYU5RaW5fMU05U2VkYUQtRHF2eGpjdFJTMlJHeUFmUTVoSHhRUWpIeDRHeFFMUEtsS2VQbEdTS09NcGRBdzZGM0RYUDVCUk9NYndOa0tsVDk5bnpKLWkyaTBRTWxMNUlJa2xKY0tpQnBobXF2U29uV2tObzhXYkw5SXZYSFVCV3BHYTRibjQzSnJjOFMxVkRCSnBGaVlHRExSM2tENTVCYkdIU1RpTUo3MTlXSkZ0S3lxYXpEMmp5N1pMZ1FqbkdENlJZZW9IZmE2ajBqdWQ5V0ZEZFJmeEN3b2drNHdCRjM5WXB1MUVJanlwRjVxdXdJdVZzc19rMkpCUFpmeUxPT1E0cWNERmU0?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
       "title": "1722 台肥- 賴清德：台肥助攻高科技業韌性發展布局氫氨能為產業注入新動能- 股市爆料同學會",
@@ -30,16 +24,16 @@
       "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
-      "title": "台肥80周年慶展現多元化佈局 總統賴清德期勉續寫台灣產業新篇章",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpWXRXWWtnVkpTRXl2eldYZXE1T01Yc2llb0tYWnNnSENhdUlrNklvTFZLdGhPelV6NWhrVlJpWHhhTWJKNVVKVDNWVmxDdHp2SzVHZno0Nmg?oc=5",
-      "source": "自由時報",
+      "title": "台肥轉型切入半導體產業 今80周年上演「慶祝行情」",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNak05ZlJ5NWx0UkM1Q3p4MVZ4RHhxZkxoVmxwdWZqVmt2WUZaTXIzdnRjd1RyUnB1cHFoV1dxV0JVNW1GUG5IMnBXc3VUa1ZSSVdMZk5HdkR4TFVPWGRuSHFBbEREcHBoUFdxNGZOZDBnQ25NRjB1ak1Fb1FabkJLM2Zn?oc=5",
+      "source": "壹蘋新聞網",
       "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
-      "title": "1722 台肥- 走過80載！台肥靠「藍氨」搶進半導體供應鏈3大因素加持肥料本業持續減虧- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0WDBBNE1RN0JDV1RhWS1FTUVrNUkwYkg2aktWdFJzN2szcnBmbVhKNVBIVFU1VmVfUmVTcy1XdTZpX0g2eDBMc0VhbHRISGpJT1VEWHpFS0k?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-02T07:00:00+00:00"
+      "title": "台肥80周年慶展現多元化佈局 總統賴清德期勉續寫台灣產業新篇章",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpWXRXWWtnVkpTRXl2eldYZXE1T01Yc2llb0tYWnNnSENhdUlrNklvTFZLdGhPelV6NWhrVlJpWHhhTWJKNVVKVDNWVmxDdHp2SzVHZno0Nmg?oc=5",
+      "source": "stock.ltn.com.tw",
+      "published_at": "2026-09-03T07:00:00+00:00"
     }
   ]
 }

@@ -1,27 +1,21 @@
 {
-  "updated_at": "2026-09-20T10:33:54.728065+08:00",
+  "updated_at": "2026-09-20T23:33:29.416620+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2108",
   "name": "南帝",
-  "count": 3,
+  "count": 2,
   "news": [
     {
       "title": "2108 南帝 - 公司法說會吃了誠實豆沙包 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LTjRxOEF0WlVVRElDS1pobDdvRV9MR2VnQ2tTRkxGa2pDWk5zSXNsZ2VEdjhpVFhiNlJQbXRlV3FZWjNIbUxTMkJrMnJST3EzeV9yUklKMjI?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-14T01:10:49+00:00"
     },
     {
       "title": "2108 南帝 - 10.46億. - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HM29oOXlnQ1FuQXl6RGxYOU1FS1FQNUpxUDJYYV9jUzhvR1VHUnpZUUszampBTmFNVkprUnNLcVVXTnFmOWd6VkJ0dzY1UVJ1TjhSZkcxZ1A?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-04T07:00:00+00:00"
-    },
-    {
-      "title": "【11:46 即時新聞】南帝(2108)股價走強至30.8元，受營收年增三成題材激勵＋外資與主力近日偏多佈局支撐上攻",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaHM3REoyaHNUSFRXMHFSTmZmVzdtR3ZWMkZNbU5TSEtvRGtialBTZ1RZT09ZSl9idU1Bcm9uMXBMcjBXaFpnV0NCTHJodDhuVjFHbXFmYkVMUWxyQUQwc1VaVFJ4WmczZmVwWlZzVGVyblh5UXdxdGpQX3BvU29VNGdVWi1vQU54UGQtZUh3?oc=5",
-      "source": "cmnews.com.tw",
-      "published_at": "2026-08-21T07:00:00+00:00"
     }
   ]
 }

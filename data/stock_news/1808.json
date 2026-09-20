@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-20T09:33:23.091979+08:00",
+  "updated_at": "2026-09-20T23:33:06.114031+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1808",
   "name": "潤隆",
-  "count": 7,
+  "count": 6,
   "news": [
     {
       "title": "《上市公司除權除息 4-2》潤隆 09/23除息",
@@ -18,15 +18,9 @@
       "published_at": "2026-09-16T01:12:00+00:00"
     },
     {
-      "title": "1808 潤隆- 該教訓一下借券的外資吧!!! - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TdXdhMHp4V2dPeU82Z0Z3bTNXUE41clN2ZGpWQVFrblhuNHBVUWpvRXpxbk1RRC16aVhwa3A4SEljaUlXSjJVQVZENWRJaVZueHFmYjZRVkQ?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-15T10:32:32+00:00"
-    },
-    {
       "title": "潤隆20％現金減資11月換新股！今年業績爆發、前八月營收衝141.85億元- 房市",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QQnBvT0pDQXY0RDFMNXBUV0lvMkhuWHNqbjc4el8yOHF0VUdVbkwtNlNyQWZySF9udFBDeDFoTG1jNmpJVlE2enAySS1WbUUyRGlTeVJFX3drQQ?oc=5",
-      "source": "ctee.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50aFdTdXZ1SE9fTnBEYnpMMlpOdmlfOFE2TFpTem5OcmR2MWpKUEdCRkgxWXZXeGVHekFnekg3U193R1BOSUJJQ2UteDNnV0FxT0lPeTVlOHZPc1V0UzdF?oc=5",
+      "source": "工商時報",
       "published_at": "2026-09-15T10:08:00+00:00"
     },
     {
@@ -44,7 +38,7 @@
     {
       "title": "潤隆前七月營收翻倍增- 日報",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94MDd5VTVsVnBGWURoV2J5RUpObml6emZ1OE0zNURSdjN5MV9qS0txOFVab2hPMFFiY0V2N0hFNzBRT1BDcXhyelhsa3BkalpPS2ZMWXJRV0ZGMDA4N3dF?oc=5",
-      "source": "ctee.com.tw",
+      "source": "工商時報",
       "published_at": "2026-08-22T07:00:00+00:00"
     }
   ]

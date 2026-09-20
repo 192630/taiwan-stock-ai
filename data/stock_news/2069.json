@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-20T10:33:50.649366+08:00",
+  "updated_at": "2026-09-20T23:33:25.458299+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2069",
   "name": "運錩",
-  "count": 6,
+  "count": 4,
   "news": [
     {
       "title": "《鋼鐵股》運錩穩居4年高價 月漲18%",
@@ -12,33 +12,21 @@
       "published_at": "2026-09-14T08:59:00+00:00"
     },
     {
-      "title": "〈熱門股〉運錩營運亮眼 8月以來大漲4成創逾4年波段新高",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwVFdBSE1jZlRwM3gtVkJqU2JMbFdOWkNBT2o2QkdzenNlUlRxZHd3WmhXaXhvVUJqR3BkNUthcWtzOUdkMmtWcDg2aXMweFU?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-09-12T03:24:58+00:00"
-    },
-    {
       "title": "【09:22 即時新聞】運錩(2069)股價走強近5%至24.1元，受獲利體質轉佳加持＋技術面多頭排列吸引買盤續進",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQendMeGRCRHZ0UnR4c3g2eWt3cXpGWDJYSDdLUzZuQlE2dllJRGkyYkxnUGFJYUpXNXVPV1hPZHdhVVhjSldLNVZPa19qY0YxMFhXZS1Da3VieFhKX2tqVUtVQ2o3czVZQnViblBmVy1qR2hRTlIxYzRYVncxdkVZSmNaNEdZdGVvWTFXTHZR?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-11T01:22:42+00:00"
-    },
-    {
-      "title": "【2026/08月營收公告】運錩(2069) 八月營收8.87億元，表現亮眼、呈現雙成長，創近2個月以來新高，年增18.86%",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbThia0kwN1RNczd5NlVud0tRckNBRnZIcDVpVGdla0x3TXBkRnRnQkFIdUZCdG40R2h5QXZQZWV3SUxVSFQtSjJONVZWVUZXTFlsYXo3cFdtNS1SNjY0M0JqeE5iWmw5RG1OdVdMTkdQRUY0WEV0dGpabGJSZU5sX1RnVzgwRl9PVHc?oc=5",
-      "source": "cmnews.com.tw",
-      "published_at": "2026-09-08T08:10:28+00:00"
     },
     {
       "title": "【12:13 即時新聞】運錩(2069)股價續強漲4%，法人說明會釋出毛利與獲利跳升題材＋外資與主力買盤延續推升多頭結構",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zRGVPYU5uajhpLWZrclc0UWNqM1hIT0w3dy1vOWZGQlUyZ3UtaU81azFQQzZnS3A2VDh3aDdFalV5WU1lVk4tODJRS3g4eFZBd21BM04tVHE?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
       "title": "【09:13 即時新聞】運錩(2069)亮燈漲停22.4元，獲利與毛利率跳升題材推動買盤，主力近月偏多結構成技術與籌碼亮點",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4weXZUeS0yckN4UDA1X01KR3A2cHZuMVlJSVJtR2FoQl9EYUVrLWMtLXJ3WGZqT203NllYbk1BSHlScktPbUF0aExKcTNtTWJpU0g1R1pTOVhGOFRVQlc3N2Nra2NXX28?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-08T01:14:07+00:00"
     }
   ]

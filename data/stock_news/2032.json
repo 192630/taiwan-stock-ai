@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T10:33:47.406229+08:00",
+  "updated_at": "2026-09-20T23:33:22.124845+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2032",
   "name": "新鋼",
@@ -14,13 +14,13 @@
     {
       "title": "離岸浮動風場將啟動 最快2032年併網",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92aDZvWDlEUzhrZ3BXUEJJN1NQdEwxM3ZNU1RVQTNsWUY2dlVhLXlES1ZCMDRNXzBZTnB1cnBKRzZKS1dsVFVCY3ZDWFFnZ2dPcUw5TmVQbDk?oc=5",
-      "source": "自由時報",
+      "source": "stock.ltn.com.tw",
       "published_at": "2026-09-17T07:53:50+00:00"
     },
     {
       "title": "經濟部評估核二、核三具備重啟條件 賴總統：即使沒核能 至2032年供電無虞",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tb3FneGFWenVUV3FxcFRNZWxEVnYwUF9uN05rZV9qdmVXTzlFbldlUlFSUlVlRUl3M3BjQ2VKT2tfNndLZnFlQkRtMlZIa1V6NW9Oa1ZnRE4?oc=5",
-      "source": "自由時報",
+      "source": "stock.ltn.com.tw",
       "published_at": "2026-09-16T18:27:15+00:00"
     },
     {
@@ -28,12 +28,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xN0dWakI5aHJtTm1RXzhudDJwVjJPM3R4clFvZ1dSZE5kc05XVHBIakpXeXdwYjU0NTNPRDlpb0FfTmxlUExWTHR2X3M4Y1lSc0ZUVTVzb29XTEdhaHhSRTdyQUNjUkhtaFozbEZEcEI?oc=5",
       "source": "Investing.com 香港 - 股市報價& 財經新聞",
       "published_at": "2026-09-16T14:49:57+00:00"
-    },
-    {
-      "title": "智能玻璃市場到2032年將達到$129.1億——MarketsandMarkets獨家報告",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQk54RFUydDd4emJaWVBIMG5zMnVQeXBweHhEbnlXSzlncVh6ZzhNMzhjalJwb1RNRkwwYmtBMFhsWFpwSXoyMmh2N0VqSko2clR6cVdNTlFZVW16VUZTY2ZpQU1UYnN0MXFtbDZuN1J4MFdwTUQyRTBOYk5VajhDV3I0c3p5QlpoU2VHMEtMcEFHcDNOaUxmQkpaVDFrUVRETjg3ZG9B?oc=5",
-      "source": "Moomoo",
-      "published_at": "2026-09-16T14:30:00+00:00"
     },
     {
       "title": "新機訂單排到2032年！華航暫緩直飛印度原因曝 霸氣喊：兔子不能停",
@@ -44,7 +38,7 @@
     {
       "title": "PBF Energy定價零息票據，擴充2032年融資- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9WdWhEc1g0bHc4c0F6SnNqYzNReV9uUHZhU0Z5VHhfbjA0aVdiNGw2TzI5VkJPZ254bVpxNjVDZkhLSFJwQW9jSHJNMnhRUlRNaDk3NXAzT0Q?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-15T02:58:40+00:00"
     },
     {
@@ -56,7 +50,7 @@
     {
       "title": "iShares iBonds Dec 2032 Term Muni Bond ETF(IBMU) - 股價行情、配息與走勢圖- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1xV0pRSVlqYmlKeXo4M2VOSWhiWWRUN0ZrSHFzRTdlN2NWWUFBMDl4RVVBRXk5dGJtMV9wQVJ0T05adnU0bGxwZTl4bUdQaUdnenpZTDdVYw?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-14T00:29:51+00:00"
     },
     {
@@ -67,15 +61,21 @@
     },
     {
       "title": "救算力! 微軟2032年前資料中心容量增至3倍",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MYXBFZTNnQXhURnFmdHQycEhJN1FWN3pNZndxWEd0QVJNVEs1YzJPUnQyYnpEMEFCSzVNTDBPYlR0MnlHTG9udXNkRFl5U3VKMm9sWXR2eXRJcDg?oc=5",
-      "source": "非凡新聞台",
-      "published_at": "2026-09-11T07:00:00+00:00"
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1QWWxubHQ3Y0ZYMWViYVpSdUR4N2dia2pZb0h1TXhvTEY4S3NaMnczclpmTkJTLXZDUDJQNXdPalM4eHY5blloYmZQWklOOG1mS1hteUU2LTNDWS16aVZLVExHMmFycjJQb085WjlxaGdkaUxzbjdiYkhOZw?oc=5",
+      "source": "news.ustv.com.tw",
+      "published_at": "2026-09-11T10:00:00+00:00"
     },
     {
       "title": "CRWV CoreWeave - 微軟計畫到2032年將資料中心容量提升超過三倍，達38GW！ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81TGhUX2M0bmJZS2dEcjlHeDNTbWlQZ2xhSzAtNnJTUENvY3dxNE1vTzdnWTFOS1hubUJDSERqNG9ESUQyc3BuV0luYTRtZkhKcmNRQzc1bXk?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-11T04:03:06+00:00"
+    },
+    {
+      "title": "數據中心儲能系統市場到2032年將達到$104.8億——MarketsandMarkets獨家報告",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa095aEpYTmhSR3JJdmFFSDY0ZUNxRGVsbzQyZU52amJQS2VLU2gwWXFZQWlpdHFmWGFVanRJUE1wTEpVZ05fU1RGa2xpWHJ4RVh2ZDVES3Y1Wmp0YTRZNWxTN09RdVdfRl9zNV9DOFNmTjc5M1NzNkNMNnNJU0gzeVdxRHNlcWpwZ18xYnYyZXFxU012cklTN0lnc3BjckYxUDIta05CRDhlWHpi?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-09T10:59:00+00:00"
     }
   ]
 }

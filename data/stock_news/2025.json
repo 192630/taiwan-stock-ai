@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-20T10:33:43.877771+08:00",
+  "updated_at": "2026-09-20T23:33:18.672434+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2025",
   "name": "千興",
-  "count": 10,
+  "count": 8,
   "news": [
+    {
+      "title": "廣生堂：2025年度向特定對象發行A股股票已順利完成發行",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XdjlhNmVkN0pRWjBVeFBmS21TOGxMZGxjSWxYR3NNQXFsTEt2QnpsQm1EcFA4WWVwejNfY05MVmlmUnJBX2pmaXBBS1ZtTUMtOEE?oc=5",
+      "source": "富途牛牛",
+      "published_at": "2026-09-18T03:36:17+00:00"
+    },
     {
       "title": "揚子江船業2025年業績：在新加坡買入YZJ股票",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNkpaUC1ER0MzZllpSmRLU0hnUkRqcGFzVmhxT2I1NXBucUpocV9iVjNYUmFFTjlTWlBkc3EzbVpnQkY1dzhHRXNwMEVIRC1nTzN6Ykk0OTdtVkVuSnZLU3BQWnVDTHZBMGJGeDRmU2UyMmJjaHNQMENyMTJ2Yk8wVXc2cGg4bzBsU1dSaXY0NjM5d3RJWHYwMFQxaFBOT2VtaHE4?oc=5",
@@ -12,28 +18,10 @@
       "published_at": "2026-09-17T18:15:37+00:00"
     },
     {
-      "title": "台中銀(2812)2025股利發放日、除權息日與歷年配息金額 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5udExLaVdvVmVIdVFIMWt5NmpqRVFua2NPN2gtakg3dTZtRm44a0w5SHIyYk9Xa1B0NHcyajZtX2NYR284VlBiZHV1ZVdCajBCVmZ2b2NFTm11LVh5WVE?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-16T07:00:00+00:00"
-    },
-    {
-      "title": "富采(3714)2025股利發放日、除權息日與歷年配息金額 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01Wi1OVml3VmtHMGthVTBTVURYQVh6VWl1TkdVTFJrMXdFUVo4aHNvRnhNZ1MxVTNiM3dCNnp0RWtIX1dSdnctYmRFNjRUVUZ0bXllM3RKS25qYlYtZkE?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-13T07:00:00+00:00"
-    },
-    {
-      "title": "創意(3443)2025股利發放日、除權息日與歷年配息金額 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aaU9mOGNxcHhCcmY5UWQzZDc0SlB3Q0pzS3lzeUFhS3k2cjhDbGd0LTE0SXg0aGg1NUtLeWlaVG1BUllCLUdVSmpOWjNKcjZhaG5vbTNOVzFocFBCVWc?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-10T07:00:00+00:00"
-    },
-    {
-      "title": "股市必讀：通宇通訊新發布《關於2025年股票期權與限制性股票激勵計劃第一個行權期採用自主行權模式的提示性公告》",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XeXppak9BOHlnRjl0WGE3d2l3TDY5SVBGaG05cmpoWUdGQVFWd0FOUmFvem1PS2FKU3MxUEhZMGZpQkROTzRNLWUyVEgzeTRwWEE?oc=5",
-      "source": "富途牛牛",
-      "published_at": "2026-09-02T18:29:10+00:00"
+      "title": "事欣科(4916)2025股利發放日、除權息日與歷年配息金額 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnTzdVQjlyX3czWUFOSnhibTZkOVRuSWhsTGZoLU44WFVkM2FjRm9Bb0daQUhoSUl0TThfZGNOb3pSbDZKTVlRc05fQXhlUnliS1l6UzZtNEE1aF9udFE?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
       "title": "海優新材(688680.SH)：2025年員工持股計劃股票出售完畢",
@@ -62,7 +50,7 @@
     {
       "title": "【10:54 即時新聞】富世達(6805)股價勁揚近漲停至2025元，受轉軸與AI伺服器散熱題材帶動、多頭型態與投信買盤推升",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVUVtZmFMTEUxRHVLTDZvQzg1OFpvWnllOGR1WGx3MTEydThnVnY5alNwbk5lUjJwbkllMUQ0RW5lV3BaS2RaZTBUZVJmUTNVN21OTXZnZEVVdjlWZnhteTJwV1o5QjdyUzVyZnhYQjdJTVVPQ2YtSGpsQmJBUUxHLVdZcjJ1WEtoWWN2VWtn?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-08-26T07:00:00+00:00"
     }
   ]

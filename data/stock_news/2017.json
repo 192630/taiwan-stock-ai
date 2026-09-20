@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-20T10:33:41.210761+08:00",
+  "updated_at": "2026-09-20T23:33:16.035820+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2017",
   "name": "官田鋼",
-  "count": 5,
+  "count": 6,
   "news": [
     {
       "title": "2017年以來首次！奢侈品需求低迷，LVMH跌出歐洲市值前十 作者 智通財經",
@@ -32,7 +32,13 @@
     {
       "title": "2308 台達電- 台達電官田鋼合作儲能案場併網上線助力南部電網韌性- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5JUVVwVXdwdG1CREhWN0E1MG12eWxMc0pYYUo1eXlxZ24xTjJDb21QTXpQMEkzR21mU0tIa3hIbXRJcERRWTBhWUJvanFnZGoyZHZIMWVteEs?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
+      "published_at": "2026-08-26T07:00:00+00:00"
+    },
+    {
+      "title": "台達電攜官田鋼建置80MW大型儲能系統 正式併網啟用",
+      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNQ0JoWkpQazNiX1RsTW50bTdwV2ExQTZaTFUyN1Z0MWJfUGNVZHprN0pWcTdwYkxiRGRVQjl2WGVocEJlQ0dTeXJqaUZlRTc2NTZPaEhTcVVrUmtCRm9Cbzd4ek16aVFDQnRpZ294TmU1Y3Q1V0hsTnotODdlR0plOEItOW9zeXVNSUVqLTFZUjM4RWNLcVBjZnFUUG02SVEzcVBHaU1OZzBwMWt2MEpBMlhWTzFyUW4yS255aEpMNEw2dUZFY3RiVW1WMmhNQ0l3czJ4S0Q2eDE3MzFJbGNtZkNveU0yZ01aOW9fSk9UOHlrNG1HSEtLZFFMQTlqR0dWU290UWFNd2pHdFM2bmxodGJCQ2JoTzV5Zlh2SGt1QUtJU3Rwb1IxTU5zUmc1bWoyWDRqbmNWblk3dkJDTllNVWN0ZXpNWnNLaDFGODFBYm85TU1XQWdwU2NqM1AzUQ?oc=5",
+      "source": "Yahoo股市",
       "published_at": "2026-08-26T07:00:00+00:00"
     }
   ]

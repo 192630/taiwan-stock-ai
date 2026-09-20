@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-20T09:33:09.341867+08:00",
+  "updated_at": "2026-09-20T23:32:53.349738+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1717",
   "name": "長興",
   "count": 12,
   "news": [
-    {
-      "title": "《長興專訪2》特化拚量值並進，美洲將成布局重點",
-      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNQU9zUXFiNEQ1S0E2SXluaTJrSVkwWkZRaFB3QXhFOXVfRUdnYnZRNllBLXJHUkVjMmJBeHpsMmtHOHdCTXl1MjAyd0RrUWdGZlRsSDJJYndHVzN6WFBJa3diejV4ZDlENnpJMTNBcXpsM05PaUM3MGhuWXIyaDFsaVVNS1dPMFdSRkZNeXBsaGNlTTY0SGl3S19LMXctQnVySnV4RmVBZmZlQjBVYkJZcHlON2xHakYyYnpkdjI2cExTUHg1enVfYm9tRXR0VUVvX1VpZWJxLTJoZXJDS3R6dTBHdGhrU3Q4X3VhTHpHaE5FUWwtc2ktRHQxam5MdkQtQkgwVDk4NnA5dmpDenVvOXF1c01kMG41eVByRC1rMm1JN05NOURocUxaYnFlZHE4Y3otZ3pkdmJfdGxmT2M1VmxKMA?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-18T06:44:46+00:00"
-    },
     {
       "title": "《長興專訪1》矽材料需求旺，高頻高速/散熱新應用接棒",
       "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNSjJYeWUzT1Zva3o5bnJ5ZXMyX3JDUHdiLWtQMU5sLTlBd1B1aENNYmNHWmtsZGJ0dnoyTDU2S2d4aUJnUFRJLWdPT0dzNktJUlFRUkZUcUg3SG1aclhJSnIyMENieWxtclNpVXR3NXhrZGlXNXo4SVFoV1Y5ekNfOUNpQVZKRHNjcjNmdkNWMC1FMXBhSkdrVEt6aThoZXlYRlByMnhKSVlWR3puakJsQVFVbVpfeG1McXdPMXZxX3hSTnJUWXlOSjFFUW5IbExiNVdmUVgxN2R6YW1HOTZjUHVXZEpvLVRCUTZQREpLbjlKYVdOTWhiSy0yUjQ5MnBwekNjc2RiOGJXTUtQWTlMczZVSGQ3VExxRHQtekdTTjEyMU53bmtqNm5YRDVHZnpsOUdFTTlxWkVWZllkOE4wRXpNTkJyc0sydE9CcFNpd09pTDZYZ0JWSFBqc2k?oc=5",
@@ -76,6 +70,12 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mQ1ZxalBLLW9vRXljZVZkbVA1c2prTGN1bGJST0syb3lqSmRFaUJ0TXlLZEI0Z0pkcVN0aGFCVmhFOFBmd3plM0ZHNmZmRGZFbzBhMGV6dS0?oc=5",
       "source": "CMoney",
       "published_at": "2026-08-31T07:00:00+00:00"
+    },
+    {
+      "title": "長興、中華化...老牌化工股打入半導體？「老化工轉型新科技」能反映到財報上嗎？",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzR211TnVZUHJvM0VlT0NyYlFPT1ZnUGhrbEhwTTl2eFdoUU5qTzhNbWJiZzVqQTRjdVUyYmNWZEl4R3pPdGEtN2h5WW1hVGg4Y0xiaDhYZ2JkZlQ3c0k3akNYY2l2cnJ2UnFZLWp3NkR6Tk1UeDZoLTVKS18?oc=5",
+      "source": "商周",
+      "published_at": "2026-08-28T07:00:00+00:00"
     }
   ]
 }

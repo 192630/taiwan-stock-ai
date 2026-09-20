@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-20T10:33:48.842473+08:00",
+  "updated_at": "2026-09-20T23:33:23.548797+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2038",
   "name": "海光",
-  "count": 12,
+  "count": 7,
   "news": [
     {
       "title": "2038 富智康集團技術分析｜移動平均線與技術指標解讀",
@@ -24,12 +24,6 @@
       "published_at": "2026-09-12T16:34:53+00:00"
     },
     {
-      "title": "港股異動| 海光芯正(01191)逆市漲逾7% 納入港股通後累漲逾五成光模塊訂單排滿2027年全年作者智通財經",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90TUpuX01DZVNEaGt4MFNTaEFoZl9aWVpDWWQyWFdZNVBXc1hnNC0wbU05MHhvZV9fNkhjTE9BcnU2MDNGamNIVEQ4T3hvelBuMjlnbG5kUDdZTUJodXdLTHZJZzltMFdUblZ3Tmpnd2I?oc=5",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "published_at": "2026-09-10T02:50:43+00:00"
-    },
-    {
       "title": "港股異動| 海光芯正(01191)再漲超29% 近日攜手格羅方德加速下一代AI硅光互連技術全球化商業進程作者智通財經",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIeno4NWJSWG5PbVgzcnBVYnhJLUxXWXNENTl3cG9Fd2JWbXMxdGx5M0FLMHVFbFd0VVNOcDJ5ZmNYLWlYQXpZSVRYYjNLLURjdk9ncEhKZVcwc05TLThPVVRhMklFcndtVnJVTGJDNUI?oc=5",
       "source": "Investing.com 香港 - 股市報價& 財經新聞",
@@ -48,34 +42,10 @@
       "published_at": "2026-09-08T07:59:47+00:00"
     },
     {
-      "title": "海光芯正(01191)獲納入港股通股票名單 作者 智通財經",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nV1RZTG5ILXJvcF9ydEFxem9TNHlsTGhHbmwxem5oYWJKa2Z4U3lIU2NULTQxcDZKc3FBaDhwTEMxLUxuTlpRcC1nQ2R3NjdxQkRzS1dnanpNYXVwTXozd21wU2Vjbnc4cHJRRjlpY3U?oc=5",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "published_at": "2026-09-07T07:00:00+00:00"
-    },
-    {
-      "title": "海光芯正(01191) 其他-雜項",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSFZ2TGxRRVc5YlZkam8tRVJGbGN5S1hkbWlRWlVsa1JlYjJHbUpja0QtQVhXenoxeFYxeXM0M3g1eXMyZEdRSmtiWW9adTNoVzhUS284elJheXd6VkFpNjN4WTQ0T1I2TXNyQ3lSaUpqWUhtOHlwVWh1TFVlakJINzd1MndRdXZpOE1wdXVZZFVseFNPaVRHRzI4UjNGdEhFN2ZTT2lEakNqQkc5NlNRQXBXeWt6Z0s1VzQ5enBZLXlGVzZ4aDlQWURCZDN5bjlO?oc=5",
-      "source": "信報網站",
-      "published_at": "2026-09-07T04:40:37+00:00"
-    },
-    {
       "title": "海光藝文特展登場 展現海軍80週年忠義軍風 | NOWNEWS今日新聞",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tSjROVk9YenBlbW9yZld3cS1xdTkwOXRPRXJNeWR5cjFVMU9XNTJKLWthTUNOMHRPU1R0ZjVpb0owY2Rqc0Job2lsQlFEenBNTEEtMElR?oc=5",
       "source": "LINE TODAY",
       "published_at": "2026-08-22T07:00:00+00:00"
-    },
-    {
-      "title": "海光藝文特展登場 海軍司令部80週年特展展現軍史與忠義軍風",
-      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOYkpuUDJRMUx1ellXV2RmWkVPNXZuSTJGX25NVmxtc01aa2V2SUxCSzhZNzc4eG5rVm9KQkpiMGNwMVVHUnd5dXE5NGNBM3VXR2dTWUhjRVFqaVFsRHJYamVURGlkOEthaEx2cDJ1NW1DQkRkNnRES3JxRkVyMG5ZMmJKOUl6d01kMUtZUmpaZG5ZbmVfb2NoajhSVDdCd3BTdEFmaVU5TnZ6WWFVVWpjR3l2M29KM2w1dTJlNnh3MkVPZ01SUnFMZFRRd0lNS3BPNk85TllOZFdXSlNfOTBOa2t1SnFIM0diLW5IV0l2YU16aGVKaXZlYUo5QTgtX1NwanZScWJJbEJSazhsbl8yZmEyUXNyRTB3eHJhenVJT19zLVdrZjMtSFVoUmIwd010OEZqZ1RRTUdoQ0pJcklUVktNZFl6b1dQZE9GZkJfa0RPQmRlZk9yeHZaTEdsZDBKd3Z4ZmZaakNjUklnMjBNXzVnbk1PSTlZU1V3WndTczlyVVhhYmdWX2FOdE43clk?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-08-21T07:00:00+00:00"
-    },
-    {
-      "title": "海光藝文特展 雙主題彰顯海軍光榮史",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOa0dlTUxmYzNmU0h2UXlWdm9QSEU0QTl2azFaaW9seThSMGo0RTg0TmkwcFRpRzl3TnByVFpydUxJZjc2MVJqc2pqWm5QUjY2MXFtZXlHRm5jTXotRHJoLUNsdFNPeW9MdmNMZVRpUVNzalNVNFZyQ2ZEQUM2a3ZHb3pDR0RYcDNkaHlrU3dQZmxrLXdjV05ONVFhMVVUWXlrWU1VdTdqS1l0dWk2U255MFdUbk1fV0VGdTFydmpkSVUyN0ZNdDU1eFZmQkczZUdaNzlvT0VGbEs4dUtINWM4VXZBU3drUGVTQ00zb1dmblZLY09Qd1g4VHlwNHNBUzFQbE1IUVdJbUdSR3E5TnF1NkZRYjU?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-08-21T07:00:00+00:00"
     }
   ]
 }
