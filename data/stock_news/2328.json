@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-09-20T10:34:10.335124+08:00",
+  "updated_at": "2026-09-21T00:33:57.340891+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2328",
   "name": "廣宇",
-  "count": 6,
+  "count": 7,
   "news": [
     {
       "title": "2328 廣宇- 工聯會見Keeta,foodpanda,高德倡智方便打入外賣,叫車平台連接入境處資料堵截黑工- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfTlFuQm42Rk1BUUhRYzBzN2FGa3ZoRW1GNjdQTzJlWkljY3JpME9HdjBOZ1dxa0daeEw2ZjN2bTBoakJCbDF1Y0phSmM3ZWJ6VUhrZWp0SGI?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-10T11:13:57+00:00"
-    },
-    {
-      "title": "2328 廣宇- 習慣成自然- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QTm5wN0UtSGZNT2cyS2NGVUoxbl9zREh6dXlTbjM2RktNcXlQREduQXZwdUdSWFk4OTZGSGxEVHR2ZlRNajM5YThYeF8tS2lLNlJhVktscnQ?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
       "title": "【2026/08月營收公告】廣宇(2328) 八月營收21.66億元，表現亮眼、呈現雙成長，創近32個月以來新高，年增19.67%",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQ2lxYXlvNm5SUE1TeDh0SkxfanZNN3NlQ2NVaFdjdEcyVUw1UzN5b1VMeHJ6YnJGN2NHd3dlSGlQUUE3WjNBR0JwVU5wSTFuVHkwRm9lelQwUk9BVHBCckF6WTNBLUJELUFVQXYtTFhBQ0xBbkcza2RxX1pqMHRTc3ZRdzZjdmJ1MFE?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
-      "title": "廣宇8月營收創32個月新高 Q4衝刺AI伺服器、機器人產品出貨",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNVG91d2lLU1doazczSW9SUXVZNVdSWW9nU2VGYWMtVmJNTGd1VDMzMjVVZnVvRlJqb1NaNVdDY0diZklvYzZXR3U1alJEYlU?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-09-07T07:00:00+00:00"
+      "title": "個股：廣宇(2328)8月營收站近32個月以來新高，轉型提升高毛利產品比重",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NcG5hQVBQblB6cUVFWl83eDNvbjhwQnZkZnlYZzJyTE9NSkNJSnN2SEpLT2ZWYnVkT0lIeTItMk9xSjlCbzE0Uk5CSlppOWpPcHBKUFZ3?oc=5",
+      "source": "東森電視",
+      "published_at": "2026-09-08T04:06:00+00:00"
+    },
+    {
+      "title": "廣宇8月營收創32個月新高 Q4衝AI伺服器、機器人出貨",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MSnIwdzE0UUs3OEUyQ2NocVBrelFaTEN2Rk5HbTduQWxOSVYtdDhxTnI0OWlzMWdnX0tRYjgxVHBhMVpnYlVsTmIxZldZbndCSXZrd0x2N08?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-07T10:25:52+00:00"
     },
     {
       "title": "鴻海旗下廣宇動能重啟 8月營收雙增 10月AI伺服器接棒拚全年逆轉",
@@ -36,9 +36,15 @@
       "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
-      "title": "廣宇法說： AI伺服器10月量產，2026全年營收雙位數成長目標不變",
-      "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNTFAwVUFNR3ZEZUw0T0tBS19HUE0wNjB3SjVFSHhZMTBPb2JrYks3SU8xRV93LW80REpVc2xjUV9RTldIb3N2QVdiOVB2eGhQd2h4cVJiclFlaklNdWhsMmFObS0yVmxhWWhJOWJKUDBmQTI4dE1Nd1pZa0FPSmVuTkhRMUxGWFN0TEFpZUJZb1Nhd2hWSHFHS1FKajhKNTNfLXY0NkpkTWozNmNfNEpTQk5PZENIYTk5WnU1WXpYUjdiV0tRajlReXh1eUhVdERER1RnTzB4aktBOWZfY1UzT2w3c3cyc0xXcXJucmhIbkI2RjlJeVFYRVBCeEdrd3JaNFpDT2xJdElvQS11SDRrcnRoTTFIRmhiWHhoUXRfR2VFdzUwY1FTT3dzd0pCRjhXdFpWb0ZRSzdOWkdwVzM2MEplZkpWTVByWnQydjBQWDRycmtZdU5ZTjZJcnkzeHZXbHFZRV9RZjlfUjZiQUE2akU5UGM?oc=5",
-      "source": "Yahoo新聞",
+      "title": "廣宇8月營收創32個月新高 Q4衝刺AI伺服器、機器人產品出貨",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNVG91d2lLU1doazczSW9SUXVZNVdSWW9nU2VGYWMtVmJNTGd1VDMzMjVVZnVvRlJqb1NaNVdDY0diZklvYzZXR3U1alJEYlU?oc=5",
+      "source": "news.cnyes.com",
+      "published_at": "2026-09-07T07:00:00+00:00"
+    },
+    {
+      "title": "廣宇法說： AI伺服器10月量產，2026全年營收雙位數成長目標不變 | 信傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CaGpUUjRJX2R5NEFfSm5lZnlMcDNlYmZvY0xoTzBEdE9udFFQNi13QmVDdmRmR0dISUMyeVAxVzNKVlQ3ZE9Ec1o1aWpVX1MyOTNEY3hB?oc=5",
+      "source": "LINE TODAY",
       "published_at": "2026-08-23T07:00:00+00:00"
     }
   ]

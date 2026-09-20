@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-20T10:34:07.853537+08:00",
+  "updated_at": "2026-09-21T00:33:54.464602+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2314",
   "name": "台揚",
-  "count": 6,
+  "count": 7,
   "news": [
     {
       "title": "討論牆 | 盤中速報 - 台揚(2314)股價拉至漲停，漲停價11.9元，成交205張",
@@ -20,20 +20,26 @@
     {
       "title": "台揚(2314) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90eHlCMjFuU1gwbVhoNDJScGl0MGg4WGd3WEx0SGpSWVpfbkxEME9SWU8tSnlBS1hWcGZzU1RpVEQ4RDBwWWZJU3BCZUF6eDAzUnln?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-18T04:48:58+00:00"
+    },
+    {
+      "title": "陳其邁新書寫2314天高雄轉型 張耀中回憶「跟在市長身邊的2526天」",
+      "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPVWRNd1pNeVNvQkJwNHUyX2xxQkhYV2tvTWNQTUxBYnhvclo4cFh4SWR3S1FIZ2RORllwYV9vUE44V1NWNTZJYU9kYWhvNnRDQldXT0x0M3ZWYkp0bHVyUnlmU3NhZ3VYTC1MaXhZTEhVMmZZaUVQU01lTkd1V1J4TVRTdzVINU4wQlV1eVJnN0szTGN4Rk8xTnZDNXo2X2ZtZDF3aWc3V2xMUlNsbmpaYllZczdfcjVmaEViS3BmT1YzSHNHZ2g0aTFDWHNwUVgydWNoNURnUnByTU1qQW9KN3Q5SUpfQjhjaFVST3ZiaUh3d0FEQV9DSXBHY2htZktkNnBRU09Dd3hWcjBMUGFtZFNWTS14enVsR1V0ZHYxNEJ0TjV0QlJiZE1vaW1ReWZvSmZreS1QNHJYazR5VlQtWHV6dGtyMU1kS3dfX0RWWERZd2dUNzRhWEpSMjlmU2QxNjE0WkZDQUlTUFExeHVTZlZVZFJ5RmMtcVNaS2REWG4?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-04T07:00:00+00:00"
+    },
+    {
+      "title": "「山不會因為你找理由就消失」陳其邁談2314天：不要牽拖，用新方法把問題解決",
+      "url": "https://news.google.com/rss/articles/CBMixANBVV95cUxNX2hQVHRUc3YtRW9xaExsMExLMGd1TGlTa3N2MEdBR1EzZ1p6VlBfdDJwNjhBQmhaOVM4SjJrWUJWQlV5bERsM2VOYTNDLXJTN3JnOWxvV25jLTYtem5NdndyUlotVUx4ZHdCZVgzenEwLUI3SjVxdjJrckNfU3ZYbV9tY01hYXJmNkNrYVE0SzUtTVZRRDB4Rk5NbzcybjBFdVRKZWt6VzJ5WEdib1FvOXVDWEhheW1ENGk5YmJjNjlrRC1LaDV3dklUdUNhNFJPRk5DdE5HSGtFVHU1NFNGVXdVYnQ4YnNhR0VINlpjRXpGalZkYndoeUNTQTdYMzNiTzNTakNETzdVR25fbUNUS01zZ2RoQjMxODhKcWs1amdFRWQ3Rk5vVHRrYWRxRU5mekwyYWg0SGJ6NEtBTjZoVzJNMENxTjRKOTZONXJreGwyQ0pFa3dSTEY0ckdIekRtTUM4cTVVOUJLaF83a0dwb0x2Y1dRMmRwQ2FMdHRQTkJHekZ2N2t6eXpIbFlraUg2eWNWQXJqUXczX1pOdElMVEdJc1IwQVRhc1c2cFYtYjVvdDZkckJJZTNTUGw0TWFZNHhpVw?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-04T07:00:00+00:00"
     },
     {
       "title": "「高雄沒有退路」陳其邁新書揭2314天極限轉型 賴清德：六年有成",
       "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQeGR0QkdlMWk4RDB5ZGJQdVBXZmNBTDdiV2VWUDI0RGtrRG9PbGhzdngydmt0X3l4VU1NOTA5akhQdkRTcEdIYkNFRUloelBWSkRNZVRYcnBWMjlsdHZlQnZHZF9XZThvYnQzQzVhTUozX0lWb2NwUTNxUGwzZGp1bTdTODhMTTR3UTdDeXluS3lvdE1JMzdMMnEwbHItUXVsaWNEZTM0Q3VuczVfNkhUQnB5UV9rVUhPeC00UU02akpueHRmLVVCTXA1VW9UbXZzV1FzbFdWRzY0ckFibXN4R09oS3pQbzZUR0VLVUVTN2hMX0dMUHR4WUR4dHFwWDZHS2kwQ3VaV3hBc2FidktqYkhlTXBfZl9lNDZFTEtEYTM0VF93MnFaUWMxUjBVZldOLTNpaklvNl9lN2o2ZVp4RW54dVJFTllHdURZdHBFaTJsa3BCX3hQSW81VDk2bFd3RlhFeTlIcllUdmNKdGYwUzJTRm1rdWplN2tKUA?oc=5",
       "source": "Yahoo新聞",
       "published_at": "2026-09-04T07:00:00+00:00"
-    },
-    {
-      "title": "陳其邁寫2314天高雄轉型 張耀中憶2526天幕僚歲月：七年後換我站第一線",
-      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNeTlXbUJ5NEdTMUx4UUlyZ1J3dk9ZSmxnYnBUQWZ6SEpzUUwzS2V1QVh5X2ZBZUd6b0NCM21zeU1XWnJKeXZ4eGtTdkhvdkNGOGlLUDVncUF2VGt3aHk2R2ltTFI1ZkwybW9tclQ1MzMtcHRhNW1PeFdld29RdTRjQ001cDVaQnZxTnh0Y0xoNnJaWkJNYnlnVjZXU0FhZzUxX3F4S0VTa0QtQTM2UlJvb0VIVkNVWmE4WWxraHRhdHU4NnNoTGdDRU9tYlh0RmRQOEtza0c3NUplV0dNdXh2SmdFRlBLOGlLRThaWWxrZTcxRnFZOHpGY3FlYlJtN0t5cElRR2ozcmw1YjdLa2ktTHBZNFl2OWNVQ1BHT2NhT2tGODUxOXhnNWRwb3dVb2c4cW1BZXh4S0NPT3g1TTdGczhmdlRLcFV1OFljVjNoQkxocmo0Vm9DUXdDTFhvTUJRM01WTGJhazNodTJSMWdDZkV6angzbjl0UHk1ZjZMSHdzaGd1d0dYN2hxRHpKRGpEdU5zRnNZODlIdw?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
       "title": "星鏈V3月底升空！昇達科、台光電、華通、啟碁、台揚...低軌衛星跟飛高盛看好誰？這家喊買目標價也上調- 上市櫃",

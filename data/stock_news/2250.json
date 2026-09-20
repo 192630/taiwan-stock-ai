@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-20T10:34:03.858215+08:00",
+  "updated_at": "2026-09-21T00:33:50.106802+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2250",
   "name": "IKKA-KY",
-  "count": 6,
+  "count": 7,
   "news": [
     {
       "title": "漢測9/22掛牌，台股大紅包！承銷價2250元創台股新高，半年EPS 21.5元，AI測試、熱管理、矽光子三大成長引擎接棒",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15S200TnhOMlg0cjFqNF9qVU1WcTNnUXV0RThPMGtfSUtHUzlablBfVVBFVllxWmVSYmNKNzY5alQyX2JKSEktdTVfRFM4VzhiS2hr?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-09-07T07:04:01+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xZEJZYUxyUlBZeHFhRUxhUEljLUJ6Z29YamdnTEE5QnhJb3I3bEhOMmJEMVM4V3JBa3cwc0IyeXdnbGVJcG5RcVlfbU5jT1IzQkxrNURR?oc=5",
+      "source": "優分析UAnalyze",
+      "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
       "title": "抽中1張現賺257萬！興櫃股王9月下旬掛牌 承銷價2250元、下週開始申購",
@@ -22,6 +22,12 @@
       "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQNDRwdkN3dlV0cGtCdG9XYUh5Ry12eFlqTXFibGRydlBDTTBGSW11cXpnd3BjdTM3NXJtb1VLZzI3aGlFZFUwSXhWT1lVLTRLWm4tSElZaDFuMVB0bURaVzhDcjNKazBWazdOYmRjVzJhem4yUjU0T2NTbk5tMVl2Nkh3YWJrOUJHb2xqbVhwYjZaZFRVOTU4QWN4TlFZbGZkbjZYb3JZRjZyWnlLWU9wWllhTFNHMUdVNlcyWEZfclJ0NnAtcTR3M3pyYUhNdjY1eDg4bFJYdFM1cVJvRDBNYVkwMjJfdnhjMk9tR2VKN3hrNnpfekV4WWxrTVFYNzdGVGhZak9kSEVsSF85Yng0MGthSkJrcXQwMzZSbG12bWNOOHBqNC1mbC13QTZ2cXR3T3M2TDJzWnJLaFhFb2dTcE9hNnhrOHY1ZGI1cWJ4RG1QTGpMc0UzR2thR3g2MXNBTzl0YlNubWNzcTk0Vm5uTk54WDVoc180RUJKZTAzY0pTVWpPUzdnQUl5M09Ta1BkbF9sRXRhVQ?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-06T07:00:00+00:00"
+    },
+    {
+      "title": "抽中有望現賺逾250萬元！漢測2250元創IPO天價 潛在報酬逾1倍",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE40Rm5NZ1lNeXlvSWQtWXNyY2k5LW5KT25JbHpVTnR4TV9aQ3dVUHhVOGRMaE9OZ1QwZzFPUFNDQ1BxeHdMUlN1QzRsblNTSm9OYnJ4THRweU5BT05iUmJleW930gFnQVVfeXFMTzYtSjJFZFRVeUxUTWZSUHpkTDNiUE4wNHYxRnlCWVlmMFMxay1zNkNMWXFtY2dXS2NxTEkwN3Q4QWRKZDB0TGQ1Uld0WW9Fb1JrV25DZUJjZE9fYjByRTROMWdiT2piMA?oc=5",
+      "source": "鏡新聞",
+      "published_at": "2026-09-04T07:00:00+00:00"
     },
     {
       "title": "漢測承銷價每股2250元史上最貴 9/16抽籤抽中一張翻倍賺",

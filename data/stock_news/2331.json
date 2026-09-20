@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-20T10:34:11.298117+08:00",
+  "updated_at": "2026-09-21T00:33:58.426904+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2331",
   "name": "精英",
-  "count": 6,
+  "count": 8,
   "news": [
     {
       "title": "精英(2331) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mWEpVX3YtTnNmdGlLMncyaTZPRDlvbk9BcmNtV0trVkxnYXQ5WmMyMl9MV2JHWFZNS1BESENlY0t1dFY2R1JObGxHZkhYdHRDVTVz?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-19T02:06:36+00:00"
+      "source": "CMoney",
+      "published_at": "2026-09-18T16:10:35+00:00"
+    },
+    {
+      "title": "觀點投書：不是人不夠，是制度不夠好—新加坡空軍精英給台灣的啟示 | 張厚光 | 評論",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5McXlJSzhIcVJQOWNRUkRsSWxUMS1GeGhTTV9JenFJSkF5TVZ1cXpwcE84Tnd6Rk1jby1pRmlCY2M3ejZYM3ZRMUM5RHc3Zw?oc=5",
+      "source": "風傳媒",
+      "published_at": "2026-09-17T22:00:00+00:00"
     },
     {
       "title": "精英獎更名「入圍名額放寬至6席」 雙人組合首納團隊獎",
@@ -32,8 +38,14 @@
     {
       "title": "精英(2331)子公司與轉投資主要持股明細 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oOTJXaVpYcmktVmRLWTdsOVJla2lfbW1QTENTNlc3OENFaXk3ZlpMcG9QYlMxTzRXU3laemwxSFlJeVVzMGt2SUd2YkZRT0xSNlRoQmZKTERzemRqSF9KbVd4Zw?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
+      "title": "產假5個月剛結束！華爾街精英命喪時報廣場",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPb0hMYl9mcWdWeGhPY1NNbmx1XzF3cTNLSVlBWmMtMzNDR3J1emhYTUZ2OTZfXzBhVGN6OC1vS3pTc1Y4Mkdfd0ZTYWV6Qy0yckJlaWpaTW82R1NxcXI3bUFsNjg0UXRmX01TdjQwa3RRZWJvdW4xX0pucDdNclBfWnRxd0szZkVtOVUtZzZPSmxLN1dDaVZxenU1NU1BREpYM1NLWjdMTXBrWmxZTFRTVU1RTktyLV95a2RCX1lxMTlWYUdEMmtOVmhhTk9vdjMwM25FaXVjSkNCZXNFZS1CRmtwUUc4blplWkg4dndhY2JhT05CNFFmSHpzZjNaVXd0ZU5lWjhNbFNGc19ubTNVZi1fbmFGRTRvdEFuSW9GR1VZM080YURYa3lHX1Z3UQ?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-01T07:00:00+00:00"
     },
     {
       "title": "月給母親6萬家用！年薪200萬精英男看清「1真相」 留存摺果斷離家",

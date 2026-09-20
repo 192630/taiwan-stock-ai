@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-20T10:33:59.203530+08:00",
+  "updated_at": "2026-09-21T00:33:44.614231+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2227",
   "name": "裕日車",
   "count": 4,
   "news": [
     {
+      "title": "裕日車e-POWER X-TRAIL單一車型搶市 早鳥優惠146.9萬元",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hOHoyLXBJazh2ZnlaU0ZHcTVqeVFkckt0SE9oaG9FUVBRZnRtNHpEUjZKWjBmbGNqYU5YNHIxSFN4VzYzN1kzb2pGX3N5QWliX2VKMlhXTmE?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-16T21:04:47+00:00"
+    },
+    {
       "title": "2227 裕日車- 裕日：今年車市恐跌破42萬輛買氣不樂觀…車廠提前推改款新車- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zcnZZOGU4bHNUZDRpejdfbmVOVW5hVkJyRzJnWWdSLVZXakJ6UG81TmdOQU84QmdaZE10UUNKREp1SHhxdUptM3JsQ0VaeWxNdmN1c3pMdXc?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-16T19:17:27+00:00"
     },
     {
@@ -22,12 +28,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxONFhwT2x3RzU4UEVSNDdGeE9MZGdOZE9Ma19LTFpzYThXVDlDZ2xmdFZPV0UtbnhCVTJ3QVB0aUV3ejRfVlUzeTJvS3ZicnQxVVBSdW5RQTJ6WklRMmd3ZjAxaVgxN2ZNMGVhRFB4aTFkTkhZR3Z6TDFzaU5DZGZla1hxRWR5TW8zWDl1cUY1dlZvQ1JRVk02ck9YOHZsSS1GQ2FaS3Y2VnhNRjZELTNjYTQtUVJaWktoaEM3c0JIMEdCMFRQUHJRUks5Z3VPVjRaNnlCeEVxdzRsWDM4cEFpeDlmTmJROHp2el82RF9HV0VMNENWbFRCODlhZ2VzVUdGcnBtUEFWYjNsM2U5cms0Sl9Rd1FBYW55YUh1eFFwTzZDdjRrTjdiZlROc2tMcl9XMFhvMFJiZkR0b2hXY1NTRUZn?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-16T07:56:00+00:00"
-    },
-    {
-      "title": "裕日車e-POWER X-TRAIL單一車型搶市 早鳥優惠146.9萬元",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hOHoyLXBJazh2ZnlaU0ZHcTVqeVFkckt0SE9oaG9FUVBRZnRtNHpEUjZKWjBmbGNqYU5YNHIxSFN4VzYzN1kzb2pGX3N5QWliX2VKMlhXTmE?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-15T20:11:00+00:00"
     }
   ]
 }

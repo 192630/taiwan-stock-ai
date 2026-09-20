@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-20T10:33:58.798203+08:00",
+  "updated_at": "2026-09-21T00:33:44.102430+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2211",
   "name": "長榮鋼",
-  "count": 2,
+  "count": 3,
   "news": [
+    {
+      "title": "2211 長榮鋼 - 食之無味 棄之可惜 公司不敢股票買賣 檢調會查有無內線交易 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rU3Y4aWRZUDdQX3FYZjh6UnVjeHJ4Q1dmZGNxc2VJYmRFMXRyVkc4OGtEd1BQeXIybFFMN29ObXFPVXF2bzFFVzB4dXF2a0dBNUQ3Ymc3Nlk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-16T10:00:41+00:00"
+    },
     {
       "title": "Evergreen Steel Corporation收入明細 – TWSE:2211",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzM3NXaWNRSmYwYzV5R3ByODdzUkF1UWY2b1kyXzQtdVZ2NzlYT1ZKWUtLeHlZSHZfRHJZek04bVptUVJkMnlWZU5Bc0JlRWF3VTFSdWNtV3ZGTUhSY0p1OHhXQUxfaW5CV1NLOFBHYUxXZ0E?oc=5",
@@ -14,7 +20,7 @@
     {
       "title": "2211 長榮鋼 - 衝三小啦😱 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wQV9lVG5NZ2hmNXBqZWJtUFdnSk1MTmxLaUp4TGpiMTh2OV8xSzVDWU9yd2JnR05Sci1NN2tDdElKY0RRWk1KdU1nSlV1aDk0OXlfczhhdWw?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-14T05:01:09+00:00"
     }
   ]

@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-20T11:34:54.882986+08:00",
+  "updated_at": "2026-09-21T00:34:19.765204+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2397",
   "name": "友通",
-  "count": 2,
+  "count": 3,
   "news": [
     {
       "title": "【2026/08月營收公告】友通(2397) 八月營收12.39億元，年增48.01％",
@@ -15,6 +15,12 @@
       "title": "營收速報 - 友通(2397)8月營收12.39億元年增率高達48.01％｜新聞快訊｜豐雲學堂",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VbnJ1OXRZTTBIV3lrQW9Mdm1QUDllV011UWd5RmZoS3BxbTNCdkZBc2FwYzUwSXMwMjVSb2FKRFItYUNQWWxTdm9mb2hFZUZqODdMMVBPTzlSb2RwMEV6LUZaSEdPd28weThZYUdBMFNsVmQ3b1E?oc=5",
       "source": "sinotrade.com.tw",
+      "published_at": "2026-09-02T07:00:00+00:00"
+    },
+    {
+      "title": "其陽3564受AI伺服器與HAI算力題材加持，佳世達友通集團",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Kb25EMTZ5dThGQ3RRZVRRaE5tSlZFUTAxZXdqcGFaV0RFVGx5ZHZEOW5PVVhMLWtWY1gwSEptNXdvdkdvaUw5clJjRXNsbktqX0hibkxkd28?oc=5",
+      "source": "CMoney",
       "published_at": "2026-09-02T07:00:00+00:00"
     }
   ]

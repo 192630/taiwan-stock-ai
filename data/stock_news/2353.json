@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-20T10:34:16.929540+08:00",
+  "updated_at": "2026-09-21T00:34:05.171740+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2353",
   "name": "宏碁",
   "count": 12,
   "news": [
     {
-      "title": "宏碁陳董，記憶體已不缺！",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAySEdtenBFR2huWml3TDZWcWhycUxJTndxclhqWEFaOWZUdGQwQjIxZUxNMkRiQ2Z5a01LNTdqVGE2NmtrMWNGbUxqTmlqWmVaaDRrRDVVX2M?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-20T01:35:57+00:00"
+      "title": "記憶體缺到2030年？宏碁董座直言「不可能」！DDR4已降價 PC第4季恐再漲20%",
+      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPcTZJMmI2NnpoVjVtc0VGanEzeXZBekhVOGgtSDFkWXo3Ul9kY1l6aGVFOVoyaEQxcEUzbF9Gb0pNYU9ocXU2MjBiU3hxVWV1MzFvYm9QWWs0X0dzdTJhOGt1UkQzOWNDLVdWWVRFZm9KZUltTUVhczBhQ2oySjBFWS15Y3BjZTVKczd1S2l0OTlDc1NKTGJkWmljVzllTmdENEpwVEpvQm9fd1Itaktod2NLYW45ZGdrTVZRdDRZUS14aXRQRU1fWWptS1ZHdWRVazRXMUpXWVYxbU9lcDM0UXRtc0lGZDRjWTN0Zm9GZkV5Rm0wWkRYd1ZKQjg0eXZELWFkS3c3Z3Vyckw2bHJrTnNLZTQzYWI1eVpxZWZGaUduT3g3REFPMVNjZ0F5blJNU0RmWFQ3MlNSWlhfLWczdHhCVjY0b2xqUXVjcXA3ZTNReHdseWFZbFpfWE56Wk5IdFlucS0tdmo5NWkzSUIyd2JlOVRMTXExS3BUaEtGN1hpME5pS2c?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-20T07:00:00+00:00"
+    },
+    {
+      "title": "記憶體到底缺不缺？宏碁陳俊聖「沒想像中缺」 專家示警：別急追",
+      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxOYWJOZ1p0SlphMXpnQnpLNVltVTZjTWRWTUo3V1A0RDRjdFFjUzFEU0RVcFkweTVFa0loWFBMdzNvdU83TXRkVWJmT01GczJ4N21EWmdTNTNORVlVZGVjcVU0Zl9VQTFiLUJQNGRmRUhkLTVkaUJDRVY2RV81d19uRGg4VXhzeW1OTHVuclE2R0V5UUxUempDdEwyX0JsMWROdjZGdlR5XzcxZjNlWE5BOWpGdHowZjNWOHc2Q1NvbHJuN0xsTXBvaUN0RVd4MDlnTUxoM0FpZ25WeGVRMHFlMldoYTRVOWdZOUZERHIxVFhqSkhxemg5QXU4Nk5hYTRNSEd0SFVMVlNFbkE2LVBwcVhyeVd3SFRYdGhQM3A0ZWdULUNvU3liZkNQaGV2amw4eWFWRUtEcUlBLW53UldaT3k0b3pkVzlBU205T25Xb3pjZUdrV1V0a2NsS05DV1ZLNVI4YTJIVFFsTEoxM1RqTVVyT29ha1hVWkw5b18yREZsSC1V?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-20T03:32:45+00:00"
     },
     {
       "title": "分析｜宏碁陳俊聖喊中國記憶體供應持續放量成價格破壞者 法人這樣看",
@@ -24,15 +30,9 @@
       "published_at": "2026-09-19T22:52:52+00:00"
     },
     {
-      "title": "宏碁下一局4》回首台灣科技50年 黃仁勳：宏碁是這段故事的起點",
-      "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOSEhhdVVYdVdmTm1oa09sak5DVVhqbDgwekMycVM1SE42U2t0V0NmcFFOYUpUUHdERTM2MU5JeXJmNC1XS1ZFZ2kwbHdzWnkxVWZVRV9za1FJdEtGa2o2SUVwTWpiX0ZkQlFhSEdPTndkQWt5bkhhcUVoem8yby1PNmpXaGR4Wl8tU2RLcDU2LXJtb3RQY2RYbFRNOXRNbFBIdm1VOWUwdWo3bHd0aTMzZnB0RVFHcTctVEdZdnhjR2RPNmNVV1czR3lGVklGWXBJSGtfNzhySklmNVptWXI4dW54ZDk1STZSYzc2LW1vOWs1ZENpQlRrSXQ2VkR2REI0UVAzOXhSTlpaNGNkNlhNd2xad2RDaFdQdFNYSDlNRGlqTjJUNWJxVzZsVVZVbzZHdzhQcG9hSjZOa0pKNy1IbEZSbHJjT0JYYkJLT3VHRFI5UmhRbDZEcVZCX2E1Z0N6WnVuWWpwaFZOUHBvSWNSYW5jcEo1OXR3WUJ1Qw?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-19T22:23:54+00:00"
-    },
-    {
       "title": "宏碁下一局3》AI晶片熱到靠「鑽石」救 緯穎洪麗甯揭散熱新戰場",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOc3JGQVhZXzZRbE5rMm5oN0V3eXgtSzUzUUFrcC00NXNtdEZnRXZocDUyNXBic3IxUTJSeXNMbS1lM2p1clkwVS1hdzBEellxVmU4TG5yMXAxLURMalo5UWUyYXlqQk9qb0pLdVpIazJtdE5ZSjNyTkE3OFB1SVRaQ1ZtOXJDZ3dtOGFxS3VQRFZfaC1rNU02QnRtN0w2VWJQY3VSNG9pdlZETGU0dFdyUVRjMkREWUJ2VFA0SS1UaXd4b1U5ZVVwRnp2VlFVR1l6Z0V6UE5BM21xbU5xdVpKazYxeUo2QQ?oc=5",
-      "source": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeko3S0JXeElwbVlEcmx3T2VUcGhsa3lnWF9KSU51RUJRLVdRVWtGS01GcEl2ZHBxWFpTS1ZlMDFXMUo2UEp6YW9YV3NvMlduN19FZ2g5bUdiYXlGSGRKa0l0cXlVM1dHbHVoMlVwODVvRm9VaFVncmxsWG5QWUhTQkYzQ2kxd1hRYjBSMnF2ZHBQZUZlS0N3LVFRb0hhMzRXMFo3MS1tS0R5VjJ3d2E2MnAxUGJCQWpzTmxIa2d5VHRkcl9RcWlRamJwMWFtbDB6M1ZUWllfUUZ3UkRjTVo0cElTRjd5OFFRdFdQRg?oc=5",
+      "source": "Yahoo新聞",
       "published_at": "2026-09-19T22:23:10+00:00"
     },
     {
@@ -48,7 +48,7 @@
       "published_at": "2026-09-19T22:22:42+00:00"
     },
     {
-      "title": "市場狂喊記憶體缺貨！宏碁陳俊聖認「沒想像中缺」 財經網紅示警別急追",
+      "title": "市場狂喊記憶體缺貨！宏碁陳俊聖稱「沒想像中缺」 財經網紅示警別急追",
       "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxOY3drbjV4YVJtRTJIeHlLNGhtdExPR1hQVkFxSFUtS2dCLTFlb0djY1kwOGlrR2RhRzNTdmJVV3NuSm1zdXJhQnE4RXc1RnRZOFhLT0h1eDlmMm1Td3ZHVEloN1J4eGJYd0tqMTBRaUd5VFdXQXVCelFGTGsxS29sZGZ2TUxyLTR2MExSQ3pMeXl5eU5lN0xDaTlTTmxGN0lDYnFsaHloX3htVHplaEE2YmdwNlFkX0VRbm5BLUpCRnFLV25Rc1NCVFhlMlJSYzRlejBkUjh4WHFucTd6M0hlS01yR0dxYTZLU1pDa2R1ME1hVVQ4WU1iUm1rbEFsX0JjRzUwRXBQRUdla2NlRU1pQVg1VExQbmtPQVBiRmJqSWJYWktIaVJiYzc5OUxfX25mMldEc0xXVGZmZzg1U2RpOU5fMGc1NGI3TzRiZnFqU09NRkVjSmtsUEoxMDRQYmtxeXl1TkNSekgxc2JoOXNOMGE2dVZmRWZWMTB5SS1oeU9mbHdkMHA4SU1lbzhvUFBKT1dCVGlkbF9HY1R6YUVPWnViWUFXcnRrUjkzWWE2NDlHdVE?oc=5",
       "source": "Yahoo新聞",
       "published_at": "2026-09-19T21:29:41+00:00"
@@ -56,13 +56,19 @@
     {
       "title": "2353 宏碁 - 上樑不正下樑歪- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10eVp0SHAzb3JKRnZBOEdsZnNjd2xGMVB1YWltd1JMVHJWaXRiZGRtektLQVJsQXdNY3RZOVRmUWdGS2FReFlkWC1zQ1lrSDJBYk1WLUdFUjQ?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-19T16:40:03+00:00"
+    },
+    {
+      "title": "宏碁陳俊聖吐「記憶體沒很缺」！專家警告1事",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPbHQ4QTF2SEE5bmxlRURMaV94elRBaHM5eXNEOHNWanlTcjRySkpLa1pQU1JNQmQxVnlMai1aaUI3QXlZSXlreEVYZ092c0FMZk9Mekg3WVBUX2hmaDQ3T2twX0pnSngxOXI4MHh0eFBnMGM2Z3pJb3gza1FRRGRONGppVEZCV3J2Tl9qWk5mSHplazFDYmFyRzR3MHNHZE95dmphQkkwRDRPQVdEakxiMkh1MG4yVnRxLTRMTFNPWVZaa3RNYVIxbWVybVJnM2N4YVpKVHNuWEdZdUhWdlY4QmJNSE9MVHAwM0pHcUxWaVRMU3AzbzJob3B0Vnd2QUFYTlJRM0pRaU8tRW9MNHBReUx5cklKV01wZFRJREtDck50Nms?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-19T15:27:00+00:00"
     },
     {
       "title": "宏碁別丟臉了",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VOGdjYmxtUmp0azhGRXNOR3ZpQU56dk9lYXhaN1RQUnlIZmNkZWQ2NEZqdVdQeGRJUjhjTEFwWURWUGFVVENhc0FxUkxlSU1JYy1CbnV5X08?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-19T13:42:31+00:00"
     },
     {
@@ -70,12 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPbXBlXzRRRkoyREtCNjdqRGV2MUlWNXhnNFYzXzd2dzczV1RNYXpBanlxQmM1TVVWMjZlRGxCaFcxd1BGU1lkaWxkbHFhVXJXTXdEOWZvZ1YyMUJxZ1lBSFZSMTZOUjdyb3BjV3FWdkl5aFB2MUtsN2swLUxYMkhocGFhdk5Gb0N5S1VTUnRFOUlCb2Job0JmSjdVd0Q1RENsbWJLMklYQnpva0VtY2xGUG90SkJSOGJSMjlWXy1ERFkzSTM1N3JKZ0RtWE5vU0NHX2RJQzRuSHJjZVVib3ZpS0NMR3kzQUpfSm9pZHpfcTdBanZiOUprT2pmTmFVS2pmT2dfZTRKQ083RXBlcXMtajdSM2lLbFgxRlU0ZEJXNy1DNldlaDlUVGJ2UWhXckRIWF9lUHFJQVRXbUFCZm5qbkxVR1ZyZjlqRjR1RFBCQTcwWDEyUTQ5cHNxS0RsaWs2VmFBVmJmZjNsRElmRUh6RzhQNTJVTEdLR21TbA?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-19T11:27:28+00:00"
-    },
-    {
-      "title": "2353 宏碁 - 誰叫你做pc 可憐啊- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42cDBsX2FLbWl2eVZRaG9ySVJfNjktRUd6Q2wxRW12V1FzVGRTTWF3TGpHeFNDTWF6bnM1TXpPVXNmWENaRm1vYmpsSWJEbjFlYXBEbUJHcHc?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-19T10:56:46+00:00"
     }
   ]
 }
