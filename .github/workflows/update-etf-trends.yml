@@ -1,0 +1,36 @@
+name: Update Active ETF Trends
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 台灣時間週二～週六 00:10，接續前一交易日 ETF 持股與變化整理
+    - cron: "10 16 * * 1-5"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Build consecutive ETF holding trends
+        run: python scripts/build_active_etf_trends.py
+
+      - name: Commit ETF trends
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/active_etf_trends.json
+
+          if git diff --cached --quiet; then
+            echo "No ETF trend updates"
+          else
+            git commit -m "Update active ETF holding trends"
+            git push
+          fi
