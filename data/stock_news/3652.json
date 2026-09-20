@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-20T14:38:08.612469+08:00",
+  "updated_at": "2026-09-21T04:33:32.708576+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3652",
   "name": "精聯",
-  "count": 1,
+  "count": 2,
   "news": [
     {
       "title": "進入傳統備貨旺季，精聯營收動能可望延續",
       "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQZloxTHdaZHBpak1VQWItUmU0eHBRMHNWVVdVZ1UyaDJyeVQ5NTVDRVhiZFl5MjM0LWhFMzRtRXIyTU9jWkxYSVhWdm41Y0FFN0ItTkdIVlNETG5wLW56UzJrdFkzN3RndFZub3kzVEI0VExhc2NJM2taV2ttclAyQUxvd182Y0xfdmtwZElFelYxQ2ZXOHdZTU1Hck4td2J5c0dTdGo5Smo4YW14LXRNY0F1YVJJd2RuWjF1Qjk0UGtCd0NpLUo3bkdqRXJrOG9VWVRRQXctcTg3R0JKRnFXUXB6QXhVdDhBOGRIN2ViMGdRQUZTcmw3U2szdmxKVDd5dDhpSmlNVW1oVDlmMEEydkdyX0lJbDZTeEFLWTUtMjBBQy1XR2xyTmNPY2lhRHl4clN5SA?oc=5",
       "source": "Yahoo股市",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】精聯(3652) 八月營收2.55億元，表現亮眼、呈現雙成長，創近4個月以來新高，年增29.97%",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ1dCSG5neEZSR3liX3U3VHVYRFZzMVZqUFpuZWdiTjZRSHVLaDhDSXJXN0ItbXZwNTREdDFfZllleVFqaGEwZW1FUUVwa3dNLVdxN2I0ZEtqcWdUTXNDaXJlQ1dzNXhaZGs0WTViNXQ1TFVVeWRZYW9YVHlicWowZnY2ZlpxMnlDc2c?oc=5",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]

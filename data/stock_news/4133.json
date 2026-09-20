@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-09-20T15:32:47.343805+08:00",
+  "updated_at": "2026-09-21T04:33:45.952123+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4133",
   "name": "亞諾法",
-  "count": 1,
-  "news": [
-    {
-      "title": "Abnova Taiwan Corp.的Price to sales forward – TWSE:4133",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTXJlMDdlRFV4VjJhRk1IUWszVVJ1YmttMU5reEVMZHNhYWRpX1hkWjhnQW1mVjQ3OTBYdkVCd3QyNEZUMXF3d29Sd3F5VTF5NUVrQVcyZmNqTWU0YW11RGJYLVcyUFRsS0hBX09HaEpDS19fSUVsMWZCbWdHcWZFMGEwczZiWW14NUM1UERpcll4ZTdpY0xWdlZ3?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-15T03:37:18+00:00"
-    }
-  ]
+  "count": 0,
+  "news": []
 }

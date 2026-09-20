@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T14:38:06.451555+08:00",
+  "updated_at": "2026-09-21T04:33:29.892036+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3605",
   "name": "宏致",
@@ -20,7 +20,7 @@
     {
       "title": "宏致2026年EPS估逾5元",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5GR3VMdkp1OVhNMHRSb3pkY0JnYUlESW5nNkJXSWEyTXA3blJ4NVd5em82OTl1VGgzWjdYandUSU9zWTExOUFGNWprcGxhbWJy0gFWQVVfeXFMUHI0WGg2bDJmWTRlUGVDdGxKdkx0YW1HVERpRjJSOEFHVkJpdl80NklRaHNhTmJzUEJhWnlYSFBacVdHWHc4eEJmdVQ4OWJic0U2Uldpamc?oc=5",
-      "source": "UDN",
+      "source": "udn.com",
       "published_at": "2026-09-18T14:52:25+00:00"
     },
     {
@@ -48,6 +48,12 @@
       "published_at": "2026-09-18T03:33:04+00:00"
     },
     {
+      "title": "【09:02 即時新聞】宏致(3605)亮燈漲停直攻歷史高檔，AI高速連接器題材續燃",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uakdwVHpGRkdLZFJudzBqdVZMWUtjZnIwMkVWZy1KczkyY2xWNFVpZVFkUUNvYnZtVnV5U21hUTRwS3RRVkZkUVlBc2E2Z2gwWmYyaEJtOUU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-18T01:03:12+00:00"
+    },
+    {
       "title": "AI雙引擎帶動，宏致邁入高成長期",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMEJwM2UtdFhPcE5HTWFrNTA1VHZRVEhlcXN5TjhYTkVIWDFweW9qZEM5aUJTWnJtV0czZXRJWHctZjAzcjR0bGR2eEI1WWpZMHdLZlQ3TF9WRkk2RVhCamRacy1vLWRRMnFJRlFDakZwUERjNTNHbjJPN1d0RlhBYnRmbEZZYjNPVU9sZWR1RmppUTZrbkdXandVTzVVNW5pdXNTcnlZLVRMTTk5Q3FtcXhFcUFzdE1qbWlUT2FsbUtwOWlIQmVkaHJkOG8xY2lGWmxFMDNzQWtMVnVlYU5sSzNXdHcxX1JSVE9MQlY5Q0dGSmd3X1RJMG1LWQ?oc=5",
       "source": "Yahoo股市",
@@ -70,12 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9meEItcWVrZnUwLXo4QjFpVkVLWUpHdV9QcDNra3M2QjlmY2ZYYkdodGtFZFZLZHk2b3QxOTdDUW1xNGtQWjRyMi1LZzluT0d4aVpRR3pFOVA?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-17T01:29:40+00:00"
-    },
-    {
-      "title": "【09:02 即時新聞】宏致(3605)亮燈漲停直攻歷史高檔，AI高速連接器題材續燃",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uakdwVHpGRkdLZFJudzBqdVZMWUtjZnIwMkVWZy1KczkyY2xWNFVpZVFkUUNvYnZtVnV5U21hUTRwS3RRVkZkUVlBc2E2Z2gwWmYyaEJtOUU?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-17T01:11:24+00:00"
     }
   ]
 }

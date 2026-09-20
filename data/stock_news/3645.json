@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-20T14:38:08.195700+08:00",
+  "updated_at": "2026-09-21T04:33:32.113445+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3645",
   "name": "達邁",
-  "count": 3,
+  "count": 4,
   "news": [
     {
       "title": "3645 達邁 - 被這垃圾股收割了……操…… - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRSU84MUlFQXZpSm5UeWNINVAzcS1yemhsdktKTk4xSDhraURZekl2REpBaXUyOVN2aEtmVzR6THV2c2phU3dJdWZZUjR5bUMzV25JU2dPRXU?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-18T02:49:31+00:00"
+    },
+    {
+      "title": "3645 達邁 - 第三隻腳站穩 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Ja1hTWVBFQkNkZVd3Nk5MMmEwMkRpMnBMR0xWVjBlQkFrZ1VqNXM5bzVDSUxSc3Q3LWFXY2xaUUNlTUFZdDlSODZ0NF85Qzdlb3JJVTVQRzE?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-15T04:22:56+00:00"
     },
     {
       "title": "【11:31 即時新聞】達邁(3645)股價上漲至74.4元、漲幅3.62%，受軟板與PI材料題材支撐，短期反彈但主力與法人賣壓仍重",

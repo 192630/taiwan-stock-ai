@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-20T14:38:07.766380+08:00",
+  "updated_at": "2026-09-21T04:33:31.554978+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3622",
   "name": "洋華",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《股市行事曆3-2》弘憶股(3312)除息、洋華(3622)除息",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR1JDVWo5ODZkNGdyaGhGdGF0THR4am5JbmIxQWVscUMxdVJ0VlNEWHpjYno3T01CcU1jQXV6VHJKRVlaWHlpS2Z5OHZGVFVaTlk1VnQ4Z05oTmJhd2RpZlpPWG96T1RxRzZHdFdiaG1TTmNWZFhxQkhDaTYyR1BORURNQjRORDNQ?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    }
+  ]
 }

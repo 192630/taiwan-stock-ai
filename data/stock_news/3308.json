@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-20T14:37:48.894788+08:00",
+  "updated_at": "2026-09-21T04:33:08.255180+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3308",
   "name": "聯德",
-  "count": 5,
+  "count": 6,
   "news": [
     {
       "title": "3308 聯德- 【09/15 產業即時新聞】電源供應器族群強勢大漲4.43%，權值王台達電領軍AI伺服器商機點火- 股市爆料同學會",
@@ -12,9 +12,15 @@
       "published_at": "2026-09-15T01:30:09+00:00"
     },
     {
-      "title": "【11:57 即時新聞】聯德控股-KY(4912)股價上漲逾3%，AI水冷浮動機構件題材發酵＋均線多頭格局吸引趨勢買盤",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOEdiSm1Tc2dtYzktdXFqNXRib0lTdFZ0U1Jwb2FMaUtKbXBxdjVZQmp6ekdabDEySmNOYjEyWENKNC1KQ2drdXBqNHR6UzZRX0hNMkZMVElWbHNwMU9uTTNQN0VkRk1DRjJvVEUwMEFaS2R6eE82aW9DeHFyOG5Uc0NLT2lxeHUtX0hDaFlB?oc=5",
+      "title": "【2026/08月營收公告】聯德控股-KY(4912) 八月營收月減年增，全年營運續看向上-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUmNIYTlacEdmdVVhNlRLbE40ci1vU1lMYzZCNGVlS004VG9SaXZNMzBXMmhkbTQzY0ltcHMwLWozSEFDV3E5TE5lV0g2TkRfRXM1TFpSczBGWEUtMllyZlltdnZ5REZkRi1nQzNsN2RnM20xUkdUMFozaWN1NTRTSWFoYy1vOXc4M0E?oc=5",
       "source": "CMoney投資網誌",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
+      "title": "【11:57 即時新聞】聯德控股-KY(4912)股價上漲逾3%，AI水冷浮動機構件題材發酵＋均線多頭格局吸引趨勢買盤",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkVjJIdkxYMERkWDR1SE5ubHZNb3JFVzRfRTlxQ2o3WjFzcFZ0TWN1dVhfeFhZaTJYY2h2dklhYW9zMFdJOUJkZkxXTnRzZ1BpMDZHV09Fb05od1BrY3RCYllzNm5DUUE?oc=5",
+      "source": "CMoney",
       "published_at": "2026-09-02T07:00:00+00:00"
     },
     {

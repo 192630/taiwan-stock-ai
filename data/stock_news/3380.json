@@ -1,27 +1,15 @@
 {
-  "updated_at": "2026-09-20T14:37:52.137391+08:00",
+  "updated_at": "2026-09-21T04:33:12.386792+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3380",
   "name": "明泰",
-  "count": 12,
+  "count": 11,
   "news": [
-    {
-      "title": "明泰(3380) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lQUZoRmI3dV9mOUxVT25QcVJTQW1URUdaR2N0RmZ3dWwycjNCU2RXNm5pcUxTei1nbHJpVGhseENyWktnMFIwZGYtTGF1anRweGpF?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-19T05:12:31+00:00"
-    },
     {
       "title": "明泰鋁業(601677.SH)：出售三門峽鋁業2.50%股權終止 作者 智通財經",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUODR4YTNqLTRZNTRrcWJnWGQ5aG1NLVNaZV8zWEt2dGZPc0pic2g1Ny11OFBodjB1WTREeWZxLV81bGMwRk8ycUk4eG1IM0dVYXBWZExnMG5ZbEgwWHQ5azUwU1NPb1N2Zk04TmJuNDI?oc=5",
       "source": "Investing.com 香港 - 股市報價& 財經新聞",
       "published_at": "2026-09-15T08:48:48+00:00"
-    },
-    {
-      "title": "3380 明泰 - 矽光概念股（7856），183上櫃，不到一年，$5360。 ... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtYmd2TDdsVWw3MFI4dVNBVGRsV3ZrQ2Z3OWt1UzRMZDZWeXRHWkZnbEJzcWYwUkc5T0k0SERLbnh2VmpxNzJzSXlIdjhoT2VPUjFpNU9wT1E?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-10T02:33:23+00:00"
     },
     {
       "title": "3380 明泰- ~鬼月貳拾捌~聽聽鬼滅細說深夜鬼故事~ - 股市爆料同學會",
@@ -30,15 +18,15 @@
       "published_at": "2026-09-08T17:06:49+00:00"
     },
     {
-      "title": "焦點股》明泰：卡位6G 站上短期均線",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9nUE04S0xFaWJ5bFJvLWxSdEg0SGFqQ0J1RFNMNEU5Wi05VXZ1cVNRV19ZanlScm9ma0pTZUdPOUp0YzV4UDhyeDBZY25BdHRYWW83YTdCUFlyUlAxMk9N0gFkQVVfeXFMTXlCWkcxNXU1UFVjSkRXQ0tYSWRqcUlYaEtWV3lHcGJ3R1dySlUzaW9qSUplRnVmT0t2YnlwMGpWRHJkaHFyTThGUjltS2M2aWdaYkZKY3gwa0d5NVB5SWZOeF9jTA?oc=5",
-      "source": "自由財經",
+      "title": "【11:26 即時新聞】明泰(3380)股價上漲6%，網通＋AI題材帶動買盤迴流，短線脫離整理區主力偏空有待換手",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RSnZVWmliZERQX3d5V2l0ZktUbUlTT1hZSDVJOUtfWjFVQWx3ODZ1QXVNTU0tODF6ejhFYTJ6UFYwTzAyRkppLVptbDByVU9mUFZ3eEctMV9kaDdZS2dMR3B0czdJcGs?oc=5",
+      "source": "CMoney",
       "published_at": "2026-09-02T07:00:00+00:00"
     },
     {
-      "title": "【11:26 即時新聞】明泰(3380)股價上漲6%，網通＋AI題材帶動買盤迴流，短線脫離整理區主力偏空有待換手",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYnp3SE5wWTN0SDBocHVCVHlIVVRqQmo3eFM0LXNleVp1UE1DYk5TVF9SQi16aFllZWgySHhFWUhnOWxIMVBoWGExUDI4aXRzU0xMWXAxOWNqaVprQlpSeUVPQ0JHNHM1Q0lLV3o0cXNTbjdzaWRKUW9TcXRlVE1lU0Rta3ZWSUtGZ28za2Rn?oc=5",
-      "source": "CMoney投資網誌",
+      "title": "焦點股》明泰：卡位6G 站上短期均線",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9nUE04S0xFaWJ5bFJvLWxSdEg0SGFqQ0J1RFNMNEU5Wi05VXZ1cVNRV19ZanlScm9ma0pTZUdPOUp0YzV4UDhyeDBZY25BdHRYWW83YTdCUFlyUlAxMk9N0gFkQVVfeXFMTXlCWkcxNXU1UFVjSkRXQ0tYSWRqcUlYaEtWV3lHcGJ3R1dySlUzaW9qSUplRnVmT0t2YnlwMGpWRHJkaHFyTThGUjltS2M2aWdaYkZKY3gwa0d5NVB5SWZOeF9jTA?oc=5",
+      "source": "自由財經",
       "published_at": "2026-09-02T07:00:00+00:00"
     },
     {
@@ -76,6 +64,12 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTRjNQUzZqQWwyWnU2MmpTWnd0cHJvYlY5dGctQy1JdG1uUEIwSU9QdVNrRDc3THhxbWlGbV9DakZ6dGR5MHByZC1hRDl1N2lDMkY0bElCZU8?oc=5",
       "source": "CMoney",
       "published_at": "2026-08-27T07:00:00+00:00"
+    },
+    {
+      "title": "3380 明泰 - 耐心等待 加油 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BTjcyZ1djN3VoMEVtRkVmUHJQdl91UWptckFnRmpQT0VYZk1sX0IyeHE1ZXNYaTFWVDNZSnM0eGRXT296TnFRX1ZLVzF0OWFWY2Q1YzNval8?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-08-23T07:00:00+00:00"
     }
   ]
 }

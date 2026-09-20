@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-20T14:37:58.136283+08:00",
+  "updated_at": "2026-09-21T04:33:19.951015+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3515",
   "name": "華擎",
-  "count": 10,
+  "count": 9,
   "news": [
     {
       "title": "3515 華擎 - 華擎首度推出Taichi 旗艦顯示器系列帶來三款採用新世代OLED 技術產品- 股市爆料同學會",
@@ -25,8 +25,8 @@
     },
     {
       "title": "華擎子公司東擎首推英特爾次世代架構工業電腦 加速邊緣AI市場部署",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13aldaV2lsQV82Ym9RQlpnaTBlajR2QnFueFZjVFpucm96T3phenppWTFxQXRMZ0plMGZuMVZ0dUJJc2FZUUIxMzFYV3lMLVU?oc=5",
-      "source": "news.cnyes.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxNclVoZFQ1VVlJWFhha1JLZUxMYVcxeGRLVGZIUkllSVBvLUhrMURvQ1V6NWhiSm5LdUt3WjROYkcxZ3NSdC1ldXR1NHJiUDFXa0ZoS0lHcHQ5T3RnRkYyN2pha0t5bHQ0ZjFLNEREWHFDZmVFWDk0cWlwcE9CemtENnF2Qm5RZm5YcFdFbXhFZXBIRy1UQ1VNMmxyR2tPeEN0MVQzRVpiaVFGNXlFbTMtYTZodHphS0QyazUyZzgxdjd2NnJMZzZFTjFWYmNVSzllNVZqWVlJcFZwaU9PWjdFbEZTRFFhdnY2UmU3SlVjWU9ocGZSM3A1V2w2dVlveWRNY2p6QUNhSUhueXA4ZVZ4UHdiNk5vTWUwRFZQU2d4OFBLLUtwa1hjdFhOdUlKdHZIOElWSjZia0FfeGVFR1JDT0Q0RklYVV9TMTdQZ0E0OGlOdjdCc1dLeVR6c2hla241RXowT1pSMThNdXFaY1BSZ2tBUkhFMy16aGxlS0dfODNUVV9wNno0NFR5aUdDaTg3b19IbVZkQUlzb0xpaXBiLUhCWTBlMVJwOC1NSUg0cXQ2cVJSWTRwNVlGRQ?oc=5",
+      "source": "Yahoo股市",
       "published_at": "2026-09-15T06:32:15+00:00"
     },
     {
@@ -55,15 +55,9 @@
     },
     {
       "title": "華擎旗下東擎獲證交所通過上市 擬現增6114張暫定不低於130元掛牌",
-      "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxNcE9fVk01ajJ5SkJRWWJsM01NUTEzdnpoU3M3OV9vVGVqVV9lbjhmc01kNUp1UmRObzNudEFlYXZfU2dUOXlTRE1ITm9Ga0ZUS21KaW5wN0Nfd3h4Y1RNLVN5NUVrR2t0c0tXV2U0NGVmQXhHYmI4c1BEcFdqTUE5WW1PeUl1dmVSNEZtQjVySG5ocDBoS0Q5dHhPTnotYjZySDNOaVJaZXR4RUpBZ1VDQ1NUcUZxc0wxMnlSc0x5cE93UlQwMkZaeTBsX0JYcDR1d2p6QUlxQzdiNkdBZ1pJQmRUVDExUUVFeWdERmVQQ1YyUzJaQkZ4ZVBRZGxtZUNuakkxT1FCN1RqMVM3YzVhRDd1TnNOcW1XeTJUYTBOWmZSV2NBaFJLbW0yWlI2SFhPOUFNcWVmSFRNTUhaREh5U1JrTG5sSTN2eE9maGhldFR5dkQ0MVhEbmNUVFRGX0R3RmlSbXRGRWx4YXV2bkRxazUzeWtyQ3VJU2ZWb0xsajBfMHJmWEQ0d2xmd1VpbTFsMXVOU2NlUTNQbmd2SlE?oc=5",
-      "source": "Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UNXQzNlBnTzJvTVNDSXE2QlJzR1Juel9Td3p1NWxoc2IyMFNmT3J4VGhPZVBlNGl3a2xiZWxSVGI2ZUdUd3hOV2RoTmNMTmM?oc=5",
+      "source": "news.cnyes.com",
       "published_at": "2026-08-26T07:00:00+00:00"
-    },
-    {
-      "title": "華擎推出新 Rock 系列一體式水冷散熱器 提供數位顯示與 ARGB 兩種版本",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPLTBRNEpnWmZiWS1BUGJDenQ5N0Z1THMtcnJDMWoyRGVsdENUY0hMMGE4by1jSm5xekNHV05hVHQtcVVaQmhZVTRkSWpvdWxTODNnakd5YlA?oc=5",
-      "source": "GNN 新聞網",
-      "published_at": "2026-08-25T07:00:00+00:00"
     }
   ]
 }
