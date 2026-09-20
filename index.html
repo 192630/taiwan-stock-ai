@@ -68,8 +68,48 @@ header p{
   color:white;
 }
 
-.page-section.is-page-hidden{
+.page-section.is-page-hidden,
+.etf-subpage-hidden{
   display:none;
+}
+
+.etf-subnav{
+  position:sticky;
+  top:10px;
+  z-index:22;
+  display:flex;
+  gap:8px;
+  overflow-x:auto;
+  margin:0 0 16px;
+  padding:10px;
+  border:1.5px solid rgba(68,74,79,.42);
+  border-radius:15px 12px 16px 11px;
+  background:rgba(255,254,250,.96);
+  box-shadow:0 5px 14px rgba(48,54,59,.08);
+  -webkit-overflow-scrolling:touch;
+  scrollbar-width:none;
+}
+
+.etf-subnav::-webkit-scrollbar{display:none}
+
+.etf-subnav-button{
+  flex:0 0 auto;
+  min-height:42px;
+  padding:9px 13px;
+  border:1.5px solid rgba(68,74,79,.38);
+  border-radius:12px 9px 13px 10px;
+  background:#fffefa;
+  color:#4a5055;
+  font:inherit;
+  font-size:14px;
+  font-weight:900;
+  white-space:nowrap;
+}
+
+.etf-subnav-button.active{
+  border-color:#4a5055;
+  background:#4a5055;
+  color:#fffefa;
 }
 
 main{
@@ -2066,9 +2106,19 @@ footer{
 </section>
 
 
+<!-- 主動 ETF 子分頁 -->
+
+<nav class="etf-subnav page-section" data-pages="etf" aria-label="主動 ETF 子分頁">
+  <button class="etf-subnav-button active" type="button" data-etf-subpage="changes">📊 每日變化</button>
+  <button class="etf-subnav-button" type="button" data-etf-subpage="holdings">🌡️ 持股權重</button>
+  <button class="etf-subnav-button" type="button" data-etf-subpage="industry">🏭 產業配置</button>
+  <button class="etf-subnav-button" type="button" data-etf-subpage="consensus">🔥 共同持有</button>
+  <button class="etf-subnav-button" type="button" data-etf-subpage="ranking">📈 強弱排行</button>
+</nav>
+
 <!-- 今日市場熱力 -->
 
-<section class="card page-section" data-pages="etf">
+<section class="card page-section" data-pages="etf" data-etf-subpage="changes">
 
   <h2>📊 主動 ETF 每日持股變化</h2>
 
@@ -2090,7 +2140,7 @@ footer{
 </section>
 
 
-<section class="card page-section" data-pages="etf">
+<section class="card page-section" data-pages="etf" data-etf-subpage="holdings">
 
   <h2>🌡️ ETF 持股權重排行</h2>
   <div class="heat-subtitle">看「配置有多重」：將各 ETF 的個股權重相加，找出整體配置最集中的股票</div>
@@ -2103,7 +2153,7 @@ footer{
 
 </section>
 
-<section class="card page-section" data-pages="etf">
+<section class="card page-section" data-pages="etf" data-etf-subpage="industry">
 
   <h2>🏭 主動 ETF 產業配置熱力</h2>
   <div class="heat-subtitle">依公司官方產業分類，彙總主動 ETF 公開投資組合權重</div>
@@ -2116,7 +2166,7 @@ footer{
 
 </section>
 
-<section class="card page-section" data-pages="etf">
+<section class="card page-section" data-pages="etf" data-etf-subpage="consensus">
 
   <h2>🔥 ETF 共同持有共識</h2>
 
@@ -2145,7 +2195,7 @@ footer{
 
 </section>
 
-<section class="card page-section" data-pages="home,etf">
+<section class="card page-section" data-pages="home,etf" data-etf-subpage="ranking">
 
   <h2>🔥 今日市場熱力</h2>
 
@@ -2324,6 +2374,7 @@ let selectedActiveEtfDate = "";
 let selectedMarketDate = "__latest__";
 let newsPageStart = 0;
 let currentPage = "home";
+let currentEtfSubpage = "changes";
 let allStockLimit = 60;
 let currentStockCode = "";
 let etfHoldingExpanded = false;
@@ -2408,6 +2459,65 @@ document.addEventListener("keydown",event => {
 });
 
 
+const validEtfSubpages = [
+  "changes",
+  "holdings",
+  "industry",
+  "consensus",
+  "ranking"
+];
+
+
+function showEtfSubpage(subpage,updateHash = true){
+
+  const target = validEtfSubpages.includes(subpage)
+    ? subpage
+    : "changes";
+
+  currentEtfSubpage = target;
+
+  document
+    .querySelectorAll("[data-etf-subpage]")
+    .forEach(element => {
+      if(element.classList.contains("etf-subnav-button")) return;
+      element.classList.toggle(
+        "etf-subpage-hidden",
+        currentPage === "etf" && element.dataset.etfSubpage !== target
+      );
+    });
+
+  document
+    .querySelectorAll(".etf-subnav-button")
+    .forEach(button => {
+      const active = button.dataset.etfSubpage === target;
+      button.classList.toggle("active",active);
+      button.setAttribute("aria-current",active ? "page" : "false");
+    });
+
+  if(updateHash){
+    const route = `etf/${target}`;
+    if(location.hash.slice(1) !== route){
+      history.pushState(
+        {page:"etf",etfSubpage:target},
+        "",
+        `#${route}`
+      );
+    }
+    window.scrollTo({top:0,behavior:"smooth"});
+  }
+
+}
+
+
+document
+  .querySelectorAll(".etf-subnav-button")
+  .forEach(button => {
+    button.addEventListener("click",() => {
+      showEtfSubpage(button.dataset.etfSubpage);
+    });
+  });
+
+
 function showPage(page,updateHash = true){
 
   const target = validPages.includes(page)
@@ -2415,6 +2525,14 @@ function showPage(page,updateHash = true){
     : "home";
 
   currentPage = target;
+
+  document
+    .querySelectorAll("[data-etf-subpage]")
+    .forEach(element => {
+      if(!element.classList.contains("etf-subnav-button")){
+        element.classList.remove("etf-subpage-hidden");
+      }
+    });
 
   document
     .querySelectorAll(".page-section")
@@ -2440,6 +2558,10 @@ function showPage(page,updateHash = true){
   activeEtfExpanded = target === "etf";
   newsPageStart = 0;
 
+  if(target === "etf"){
+    showEtfSubpage(currentEtfSubpage,false);
+  }
+
   if(stockDataReady){
     renderMarketRanking();
     renderIndustryHeat();
@@ -2462,8 +2584,14 @@ function showPage(page,updateHash = true){
     renderNews();
   }
 
-  if(updateHash && location.hash.slice(1) !== target){
-    history.pushState({page:target},"",`#${target}`);
+  if(updateHash){
+    const route = target === "etf"
+      ? `etf/${currentEtfSubpage}`
+      : target;
+
+    if(location.hash.slice(1) !== route){
+      history.pushState({page:target},"",`#${route}`);
+    }
   }
 
   window.scrollTo({top:0,behavior:"smooth"});
@@ -2484,11 +2612,15 @@ document
 function handleRoute(){
 
   const route = decodeURIComponent(location.hash.slice(1) || "home");
-  const [page,stockCode] = route.split("/");
+  const [page,detail] = route.split("/");
   showPage(page || "home",false);
 
-  if(page === "stocks" && stockCode && stockDataReady){
-    searchInput.value = stockCode;
+  if(page === "etf"){
+    showEtfSubpage(detail || "changes",false);
+  }
+
+  if(page === "stocks" && detail && stockDataReady){
+    searchInput.value = detail;
     hideSearchSuggestions();
     searchStock();
   }
