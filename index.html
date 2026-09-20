@@ -880,6 +880,31 @@ button{
   line-height:1.75;
 }
 
+
+/* ETF 主要持股熱力 */
+
+.etf-holding-heat-list{margin-top:14px}
+
+.etf-heat-row{
+  display:grid;
+  grid-template-columns:44px minmax(0,1fr) auto;
+  align-items:center;
+  gap:10px;
+  margin:9px 0;
+  padding:12px;
+  border:1.5px solid #4a5055;
+  border-radius:13px 11px 14px 10px;
+  background:rgba(255,254,250,.86);
+  cursor:pointer;
+}
+
+.etf-heat-rank{font-size:15px;font-weight:900}
+.etf-heat-name{font-size:16px;font-weight:900;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.etf-heat-code{margin-top:3px;color:#b95649;font-size:13px;font-weight:900}
+.etf-heat-values{text-align:right;white-space:nowrap}
+.etf-heat-weight{color:#d0443e;font-size:17px;font-weight:900}
+.etf-heat-count{margin-top:3px;color:#626a72;font-size:12px;font-weight:800}
+
 /* ETF 經理人共識雷達 */
 
 .consensus-block{
@@ -2010,6 +2035,20 @@ footer{
 
 </section>
 
+
+<section class="card page-section" data-pages="etf">
+
+  <h2>🌡️ ETF 主要持股熱力</h2>
+  <div class="heat-subtitle">彙總主動 ETF 公開投資組合，依合計持股權重排序</div>
+  <div id="etfHoldingHeatStatus" class="status">持股熱力資料載入中...</div>
+  <div id="etfHoldingHeatList" class="etf-holding-heat-list"></div>
+
+  <div class="heat-note">
+    <strong>今日筆記：</strong>合計權重是各 ETF 公開權重相加，用來觀察主動 ETF 對個股的整體配置集中度；不同 ETF 規模不同，因此不等於市場實際買進金額。
+  </div>
+
+</section>
+
 <section class="card page-section" data-pages="etf">
 
   <h2>🔥 ETF 經理人共識雷達</h2>
@@ -2320,6 +2359,7 @@ function showPage(page,updateHash = true){
 
   if(activeEtfHoldingsReady){
     renderSelectedEtfChanges();
+    renderEtfHoldingHeat();
     renderEtfConsensus();
   }
 
@@ -3638,6 +3678,107 @@ function makeConsensusRow(item,index,mode){
   });
 
   return row;
+
+}
+
+
+
+function renderEtfHoldingHeat(){
+
+  const container = document.getElementById("etfHoldingHeatList");
+  const status = document.getElementById("etfHoldingHeatStatus");
+
+  if(!container || !status) return;
+
+  if(!activeEtfHoldingsReady){
+    status.textContent = "持股熱力資料載入中...";
+    return;
+  }
+
+  const etfs = activeEtfHoldings.etfs || activeEtfHoldings;
+  const stocksByCode = new Map();
+  let successfulEtfs = 0;
+
+  Object.entries(etfs || {}).forEach(([etfCode,etf]) => {
+    const holdings = Array.isArray(etf?.holdings) ? etf.holdings : [];
+    if(!holdings.length) return;
+    successfulEtfs += 1;
+
+    holdings.forEach(holding => {
+      const code = String(holding.code || holding.stock_code || "").trim();
+      if(!code) return;
+
+      const weight = cleanNumber(holding.weight);
+      const current = stocksByCode.get(code) || {
+        code,
+        name:String(holding.name || holding.stock_name || code).replace(/\s+/g," ").trim(),
+        totalWeight:0,
+        etfCount:0
+      };
+
+      current.totalWeight += Number.isFinite(weight) ? weight : 0;
+      current.etfCount += 1;
+      stocksByCode.set(code,current);
+    });
+  });
+
+  const ranking = [...stocksByCode.values()]
+    .map(item => ({
+      ...item,
+      averageWeight:item.etfCount ? item.totalWeight / item.etfCount : 0
+    }))
+    .sort((a,b) => b.totalWeight - a.totalWeight || b.etfCount - a.etfCount)
+    .slice(0,30);
+
+  container.innerHTML = "";
+
+  if(!ranking.length){
+    status.textContent = "目前沒有可整理的 ETF 持股資料";
+    return;
+  }
+
+  status.textContent = `✅ 彙總 ${successfulEtfs} 檔主動 ETF，顯示合計權重前 30 名`;
+
+  ranking.forEach((item,index) => {
+    const row = document.createElement("div");
+    row.className = "etf-heat-row";
+    row.tabIndex = 0;
+    row.setAttribute("role","button");
+    row.setAttribute("aria-label",`查看 ${item.code} ${item.name}`);
+
+    const rank = document.createElement("div");
+    rank.className = "etf-heat-rank";
+    rank.textContent = `NO.${index + 1}`;
+
+    const main = document.createElement("div");
+    const name = document.createElement("div");
+    name.className = "etf-heat-name";
+    name.textContent = item.name;
+    const code = document.createElement("div");
+    code.className = "etf-heat-code";
+    code.textContent = `${item.code}　查看個股 ›`;
+    main.append(name,code);
+
+    const values = document.createElement("div");
+    values.className = "etf-heat-values";
+    const weight = document.createElement("div");
+    weight.className = "etf-heat-weight";
+    weight.textContent = `${item.totalWeight.toFixed(2)}%`;
+    const count = document.createElement("div");
+    count.className = "etf-heat-count";
+    count.textContent = `${item.etfCount} 檔持有｜平均 ${item.averageWeight.toFixed(2)}%`;
+    values.append(weight,count);
+
+    row.append(rank,main,values);
+    row.addEventListener("click",() => openStockFromList(item.code));
+    row.addEventListener("keydown",event => {
+      if(event.key === "Enter" || event.key === " "){
+        event.preventDefault();
+        openStockFromList(item.code);
+      }
+    });
+    container.appendChild(row);
+  });
 
 }
 
@@ -6431,6 +6572,7 @@ Promise.all([
 ]).then(() => {
 
   renderEtfChangeOptions();
+  renderEtfHoldingHeat();
   renderEtfConsensus();
   if(currentStockCode){
     renderActiveEtfDetail(currentStockCode);
