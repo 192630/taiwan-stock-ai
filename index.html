@@ -526,10 +526,13 @@ button{
   flex-shrink:0;
   background:#f1f5f9;
   color:#475569;
+  border:1px solid rgba(68,74,79,.35);
   border-radius:10px;
   padding:7px 9px;
   font-size:12px;
   font-weight:700;
+  font-family:inherit;
+  cursor:pointer;
 }
 
 .etf-ranking{
@@ -1926,11 +1929,12 @@ footer{
 
     </div>
 
-    <div
+    <select
       id="activeEtfDate"
-      class="heat-date">
-      資料載入中...
-    </div>
+      class="heat-date"
+      aria-label="選擇主動式 ETF 排行交易日">
+      <option>資料載入中...</option>
+    </select>
 
   </div>
 
@@ -2058,6 +2062,7 @@ let activeEtfNewsReady = false;
 
 let activeEtfExpanded = false;
 let activeEtfRankingData = [];
+let selectedActiveEtfDate = "";
 let newsPageStart = 0;
 let currentPage = "home";
 let allStockLimit = 60;
@@ -5596,6 +5601,118 @@ function openStockFromList(code){
 }
 
 
+
+function getActiveEtfHistoryDates(){
+
+  if(!marketHistoryReady){
+    return [];
+  }
+
+  const dates = new Set();
+
+  stocks.forEach(row => {
+    const values = getStockValues(row);
+    const code = String(values.code || "").trim().toUpperCase();
+
+    if(!isActiveStockEtf(code)){
+      return;
+    }
+
+    const history = Array.isArray(marketHistory[code])
+      ? marketHistory[code]
+      : [];
+
+    history.slice(1).forEach(item => {
+      if(item && item.date){
+        dates.add(String(item.date));
+      }
+    });
+  });
+
+  return [...dates].sort((a,b) => b.localeCompare(a));
+
+}
+
+
+function getActiveEtfRankingByDate(date){
+
+  return stocks
+    .map(row => {
+      const values = getStockValues(row);
+      const code = String(values.code || "").trim().toUpperCase();
+
+      if(!isActiveStockEtf(code)){
+        return null;
+      }
+
+      const history = Array.isArray(marketHistory[code])
+        ? marketHistory[code]
+        : [];
+      const index = history.findIndex(item => String(item.date || "") === date);
+
+      if(index < 1){
+        return null;
+      }
+
+      const current = history[index];
+      const previous = history[index - 1];
+      const close = cleanNumber(current.close);
+      const previousClose = cleanNumber(previous.close);
+
+      if(!Number.isFinite(close) || !Number.isFinite(previousClose) || previousClose <= 0){
+        return null;
+      }
+
+      return {
+        code:code,
+        name:String(values.name || "").trim(),
+        date:date,
+        close:close,
+        change:close - previousClose,
+        percent:(close - previousClose) / previousClose * 100
+      };
+    })
+    .filter(Boolean)
+    .sort((a,b) => b.percent - a.percent);
+
+}
+
+
+function renderActiveEtfDateOptions(dateBox){
+
+  const dates = getActiveEtfHistoryDates();
+
+  if(!dates.length){
+    dateBox.innerHTML = "<option value=\"\">無歷史日期</option>";
+    dateBox.disabled = true;
+    return "";
+  }
+
+  if(!selectedActiveEtfDate || !dates.includes(selectedActiveEtfDate)){
+    selectedActiveEtfDate = dates[0];
+  }
+
+  dateBox.disabled = false;
+  dateBox.innerHTML = "";
+
+  dates.forEach(date => {
+    const option = document.createElement("option");
+    option.value = date;
+    option.textContent = formatStockDate(date);
+    option.selected = date === selectedActiveEtfDate;
+    dateBox.appendChild(option);
+  });
+
+  dateBox.onchange = () => {
+    selectedActiveEtfDate = dateBox.value;
+    renderActiveEtfRanking();
+  };
+
+  return selectedActiveEtfDate;
+
+}
+
+
 function renderActiveEtfRanking(){
 
   const container =
@@ -5634,87 +5751,11 @@ function renderActiveEtfRanking(){
   }
 
 
-  const activeEtfs =
-    stocks
-      .map(
-        row => {
+  const rankingDate = renderActiveEtfDateOptions(dateBox);
+  const activeEtfs = rankingDate
+    ? getActiveEtfRankingByDate(rankingDate)
+    : [];
 
-          const values =
-            getStockValues(
-              row
-            );
-
-          const code =
-            String(
-              values.code ||
-              ""
-            )
-              .trim()
-              .toUpperCase();
-
-
-          if(
-            !isActiveStockEtf(
-              code
-            )
-          ){
-
-            return null;
-
-          }
-
-
-          const percent =
-            getStockChangePercent(
-              row
-            );
-
-
-          if(
-            percent === null
-          ){
-
-            return null;
-
-          }
-
-
-          return {
-
-            code:code,
-
-            name:
-              String(
-                values.name ||
-                ""
-              ).trim(),
-
-            date:
-              values.date,
-
-            close:
-              cleanNumber(
-                values.close
-              ),
-
-            change:
-              cleanNumber(
-                values.change
-              ),
-
-            percent:
-              percent
-
-          };
-
-        }
-      )
-      .filter(Boolean)
-      .sort(
-        (a,b) =>
-          b.percent -
-          a.percent
-      );
 
   activeEtfRankingData =
     activeEtfs;
@@ -5731,33 +5772,17 @@ function renderActiveEtfRanking(){
     status.textContent =
       "⚠️ 找不到主動式 ETF 行情資料";
 
-    dateBox.textContent =
-      "無資料";
-
     return;
 
   }
 
 
-  const newestDate =
-    activeEtfs.find(
-      item =>
-        item.date
-    );
-
-
-  dateBox.textContent =
-    newestDate
-      ? formatStockDate(
-          newestDate.date
-        )
-      : "最近交易日";
-
-
   status.textContent =
     "✅ 共找到 " +
     activeEtfs.length +
-    " 檔主動式股票 ETF";
+    " 檔主動式股票 ETF（" +
+    formatStockDate(rankingDate) +
+    "）";
 
 
   const visibleEtfs =
