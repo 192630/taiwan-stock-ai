@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-20T14:37:36.990466+08:00",
+  "updated_at": "2026-09-21T03:30:32.390547+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3054",
   "name": "立萬利",
-  "count": 4,
+  "count": 6,
   "news": [
     {
       "title": "HYPER Inc.收入明細 – TSE:3054",
@@ -14,20 +14,32 @@
     {
       "title": "立萬利 | 3054.TW 股價走勢與即時報價",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fVkxfdlVKUWY1R1d3Q2JOdS1QS2Nxa1pVRDlXNVFyb0ZmLXhJYUM5ckxqVXhFNkdsVHVkQWNCVTNCZnRTVktmdkJ6ekplZ0kyUWh4cA?oc=5",
-      "source": "BigGo 財經",
+      "source": "finance.biggo.com.tw",
       "published_at": "2026-09-15T17:55:20+00:00"
     },
     {
       "title": "立萬利 2026-09-15 法說會",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX3hWVHVqSmJvNWFfMHVxM0phX015WWc1RVdzVlo3c1FyTnV0Q2ZjOTlyeEpxSTJ5cVo5M0IweXRkbjQyTUpuSnRoS0ZocXFtUE55d0h2eHY3c2p0eHFibzVyTHdVQ0tjbjZSYm1JZXVCRkVNNWVDTnBEZGlLVWpnYnFzVUw?oc=5",
-      "source": "BigGo 財經",
+      "source": "finance.biggo.com.tw",
       "published_at": "2026-09-15T12:42:18+00:00"
+    },
+    {
+      "title": "HYPER Inc.的股東人數 – TSE:3054",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX29GZ2ZxbVE1Y2xTU0tyVHdaS2psM25BaWRiSmtXa3Flb2ZyR2xMb2dWdEVDemZvYU9iRVJPaEhPOEFEQzNhMG16clV4am9xTTBpYm1Md1lkNFZYbnh4c3VoZWh5LWFKMUFuUnhuU25WcVZraGhseVBTNnlqWHlITVc5ekgwcnZGeEdDWFdETEpJUElxUlluTThKeDBnbkpoY0E?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-15T05:04:18+00:00"
     },
     {
       "title": "立萬利(3054) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQQVFxMGZoVmcxeHNQUmpaX3NSa2t4dWZJZTJ6V01KeHJuNnZORndnOE9GYXlUWEpGZlAwS0E0N21sSm42REttWlYtcndzaGRXTl93?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-07T12:51:24+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】立萬利(3054) 八月營收表現亮眼、呈現雙成長，創近2個月以來新高，年增75.61%",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZSUhuQmZTX1ZWSnBzcjMxN256VklOOURmVmZFT1FHbGEzTXpjNlJ4VWNtMWp2WDN0RWV5RTlZd1B4Ykp6d2RRaG1ySVpLWjBOWFQ4d2E5LTR1NUdnX3licEl0NGZUYmM?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-07T07:00:00+00:00"
     }
   ]
 }

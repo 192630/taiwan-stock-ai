@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-20T13:33:32.107513+08:00",
+  "updated_at": "2026-09-21T03:30:18.183304+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3021",
   "name": "鴻名",
-  "count": 3,
+  "count": 5,
   "news": [
+    {
+      "title": "鴻名(3021) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUOXNTaUFrUzI0RTNSeGVBNHdncVV4VmxzenVwMllLZGZUT0pXbGpaUUROWGxYeGk3TnVCYU00eWFsRkFhYVlWVkRfRFRBVVhQckNF?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-18T05:13:50+00:00"
+    },
     {
       "title": "【09:03 即時新聞】鴻名(3021)亮燈漲停，資服題材買盤湧入",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLU1fVGNEUHY4b2hVZ2xsWFlfUC04Wk1ZQy1TQjQwRDlreThmNTB0bTJJcm0xM3lIb3ljYTF4RzVCZDZDWld1RWZHa0owWU5aNzhWSVVMWVlScUhZbmNnT2s0OWpndlk1RVByVzYyMndSVi10d3otTk9BZy1kc1BkVXN6RjJHMXJaT2hrc3d3?oc=5",
@@ -14,6 +20,12 @@
     {
       "title": "【2026/07月營收公告】鴻名(3021) 七月營收2.59億元，營收雙減，年減4.97%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQem1LN1RFUE82Tmo5di10RThUOGhVdkhCZXFKUm1oTzJxZWMtUHRtdWJsYk82MVFNVXJMNEtGTV82V0JaZWtKbUtzcUpmT2NFM3M1M0k0czhPUmR2TUZNN1NGZk1hcGhBeEd6RHJ5TmE4X1k3OXU4eXZVZXpRSmZGQTdOQ2lnNWI0OUE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】鴻名(3021) 八月營收2.78億元，創近8個月以來新高，月增7.36%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNT2JQRDEwUjBWVFlGZDg3Z3BEYTlwUUxQT2RxREdFNG0yeUJpcFE3bjNRQmdlRW9iNE5oRnhLWmxoWlRHWm1WUldkSXZaNmpDWGlqNVRITzdCeHNtbkxSY0RrT0dnV0xOSzZ6TTh2eW9KSUNqQXhTYzJ6S0ZOTUR2ZHEtX3Z0bDlOblE?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
     },

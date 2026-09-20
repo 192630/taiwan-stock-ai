@@ -1,22 +1,10 @@
 {
-  "updated_at": "2026-09-20T13:33:28.573219+08:00",
+  "updated_at": "2026-09-21T03:30:13.306397+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3010",
   "name": "華立",
   "count": 12,
   "news": [
-    {
-      "title": "新北私壇亂象3／已掌握3010家未立案宗教場所 住宅私壇黑數恐難估",
-      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxQSmRLZnZnZjhrc0w1SUt1b0hxWjRxS3VNNFV2MklnQnNYUkxuMzBLdU90YVc5UEdjd3FaNkxBN0NqbXIxTXV1b0NfQ3lvamJOb2dwcFM1RWdBRnc3aWlBY2lGcWpHeWdxRWdvbXllZFpzMndRSFdCVlBaM2VhMTM2VzE5SGpkYWNKd3dMMHZNekZQMGhFV0JwUDkxVFRHeUVDdU9Db2tyZ3ZkY0Vod2hWNE9FVXM1WDE4SXFUMTRnOEJxSVdwTmZVV2R6VEttZXIxcUhjQlMtWG4wRjI4eEp6RlJEV3ZaSVJraGJxaERpQ3pBVmdrNjg1cUlYX1dEaXRlQ0RSaTZkWEwxc2RWZk9IbmdSTGNvVTFTOW5MQnlub2c5OFpXSlNYQ2hRYjlMSi1OMlI2NXBwdDBON0VsRW52akszczNRalRDVkwwdFR0YWJ4M2ZqMjlEeTZPa2d6U0YzbU1WeHJYa2hTRDhZNzQ4dmF3QWExdVAtWDY0TGJjNkdLTUF5RU9IZERub0xKcUd3TzZISQ?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-20T01:13:47+00:00"
-    },
-    {
-      "title": "3010 華立- 【盤後焦點】IC-通路資金轉強，「10檔概念股」強勢上攻！ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LOUlaemhBOWlPa3JJT3ZKNGFqb091MzJiMDgxZTE2RTRwRVZaWDVqWU1tNmJFTXlfSjNVM0RJR0pVbVZHQ1FwVEhub1ZoZGlhYWZwYjRpbzY?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-17T07:11:35+00:00"
-    },
     {
       "title": "華銀統籌60億元聯貸 助攻華立AI材料布局",
       "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQNDRfeTk2Rk96ZV90dm9rNDNyVmh1NTFzaXVqSUh4MlJkYlV2SzNrZGJ4b3l6c29EWk5PV19sMGhQbTJfRDJWZE5EZXJHZzdFaWFYOTUyTWlJdVJHSFp3S2lLVWpWQUE0SGNGSzA0dVRQbndmV2dtRHRRaEtMem43OGc0YkdtVndWNGNzM3ZBSW85QlZTU3owaUpqeWZjRnBYeW1JbDZiUDZmUGh2OWFkdUJjMTJDQ0l4OFBfVGlrb2tieEVkN2U4SWZfY3FIZTFVU0VJWldFTGY2eFllQmdFb1EyVXVTLTliZnUxZjhyVERXYzFRUHQ4NkQ1NEI1dDlYSlNwS0wwcXU0M2wwZzBoWVViVkV1Mlp1ZEE?oc=5",
@@ -28,12 +16,6 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZTM0aEZpTlY3ZDVPcE1TRFNqQ0ZMZHpxUGQySTRVV1VCRzhDMFpld2xYeTQ5aTFNMXV2MTg0ckZEYzktcTllVnZGUkZ3LXJFNFZPT1pmMUZMcjgwYVI3alN5VDhEX3hIOTkySlR3NjZmZ2paYk5jM0hzLWlhRzduQ3ZyOGpiaDhZUFE?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-08T08:10:09+00:00"
-    },
-    {
-      "title": "華立60億元聯貸完成簽約 華銀等8銀行力挺AI材料與設備布局",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FRDA1eHVDVEFkajkyclhhcWlid2VGY1ZPSFRxSU1iTjN5S0gyZmptR01femJhX24zVmctOFhubXdzREFxY2IybTg1NzVlOUE0dWk3QUg4cTU?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
       "title": "華立60億元聯貸案完成簽約；冀掌握AI升級契機",
@@ -66,16 +48,34 @@
       "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
+      "title": "《SEMICON》華立下半年續強 明年拚雙位數成長",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPN29CVTZNX3ZDc2I1VmJ2RG9Menhia3JlbVU2eVgwb0lQNXd6RTVibE9VQlVQY1p0dWlFeHp3MUxDMnRsdXFxam02UlV1V3cyMTV6a1lGa0JBNHdMSzRKdGlyckJkMDRROGZUeGNpU0hOazRidXF6TDZsVk5yVG1VR0g3NERvT3BPbkVVay1sUEVxNFhqSjY2OFVxSlR0ZVdscVR0eFNyLXZ1MXE1clhHdnhzRnc0azEzWThyaVhRdEFuaHZfS3lRdHU1NFpMR0w1aGFaYWkxZERWbGpMN0VpdExjeE96bjBubDBodG0tY1ZCdkgtN0hiWldpeGhIdF9PNk5IdFk0alJhbHBNSHk4UHhEZDJ4ZWxHOWNN?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-02T07:00:00+00:00"
+    },
+    {
       "title": "〈SEMICON〉華立：半導體材料調漲10-15% 需求看到2028年底",
       "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxObU93RHZ0QVRLMU9jSUtpU3IyV3plMW5kNGdBNWJ1NlZkaUx1XzNELUxZRzdjakxlNVdueW5FazZSMm1iUFZnSVJiVVVIVnZZRUQ4eElXOVJmY3RlSndyOTUzM2gzU2Y0Y0FzdVFoX2Jna3RaS2s3VWxkczNqNmRRLUZKb2lubkhlX2VSemM0d1d5Wm5GcjFraTdTS0Z3TUZydlYwSXpZeWQwMURRRGtmamlsamQwc2RGUldXLWhmS1JPVG1KU1Jsc3Z3Q0ZMTDdnd3VUNjFNM0dDcDIteUxrcGk3N0lZRUdHQ2FUOHladUJHc2Y5MExlUTU0eW50SUJTRUlwa0xtQmgzejNJYnc0Q29uNmgtMGU0enFvenhSSFRmNzhDcFZZcA?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-02T07:00:00+00:00"
     },
     {
-      "title": "《SEMICON》華立下半年續強 明年拚雙位數成長",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPN29CVTZNX3ZDc2I1VmJ2RG9Menhia3JlbVU2eVgwb0lQNXd6RTVibE9VQlVQY1p0dWlFeHp3MUxDMnRsdXFxam02UlV1V3cyMTV6a1lGa0JBNHdMSzRKdGlyckJkMDRROGZUeGNpU0hOazRidXF6TDZsVk5yVG1VR0g3NERvT3BPbkVVay1sUEVxNFhqSjY2OFVxSlR0ZVdscVR0eFNyLXZ1MXE1clhHdnhzRnc0azEzWThyaVhRdEFuaHZfS3lRdHU1NFpMR0w1aGFaYWkxZERWbGpMN0VpdExjeE96bjBubDBodG0tY1ZCdkgtN0hiWldpeGhIdF9PNk5IdFk0alJhbHBNSHk4UHhEZDJ4ZWxHOWNN?oc=5",
+      "title": "《SEMICON》華立半導體材料今年平均漲價約10-15%",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPc01vMmN4NDREek9JeU1kZHl0Z2tpV3BFUkR5TTJEODdsOHMtUVgtbE91N2lILWZjeW1Bc3ZzNC1qcFR6T3J1ZFRZYXhxdEZHMlFQbWJ0RzdPdmZ5YmVUVUJpck5QY05MT1hKSmQxWTkyNnpNbU1hLWdUQ3BDcDVkSGFVdDJ2eDBnZ3V3Q3d4WFJ6blc1WnFQX2lxSXM3bUNFUGpFZEJjWEI2R1licHpZOERFa2NQSFpTbWEwa1hqZWZjazhoSHBhLUVZQVRqbERxSF81UUxQeER4YTBkZy0yN25qMTF0Q1d4NGFxWVpnTjVueUtudnJNRE94RlI2b2k2Y1NEelNCR1ppUTBrbnJIclgtdmg?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-02T07:00:00+00:00"
+    },
+    {
+      "title": "3010 華立 - 漲啊大哥～ - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1SODdsNEFQRDNpX09oSmEwVS1LR1pBU3FoVlU5cmlLQWZhM0JmZlpYeXJlZVk2WkcwT3dla2pqNDAwdHJ3d1dfRDFKRHZIc0pGUVBnSktUeVU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-02T07:00:00+00:00"
+    },
+    {
+      "title": "華立科技(301011.SZ)：取得金融機構股票回購專項貸款承諾書",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80a3ZGbU5xZnI5UzVVZjRjX0lpTHRDSEs1dHJKVnZFcGpWcTQzd0QxNXNaLTQ5X3EyQUJRVDVHLVFlS1phNEpidHhlamNYZnV0N0QzMjJXdVpOZjFsZkRQX1hVNFlDR0oySTU4?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-08-31T07:00:00+00:00"
     }
   ]
 }

@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-20T14:37:47.977525+08:00",
+  "updated_at": "2026-09-21T03:30:43.141490+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3296",
   "name": "勝德",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "NIPPON REIT Investment Corp的每股總負債 – TSE:3296",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYmhSM2lueUJDS1QxVnhDdm8yTlV5SFpGd0lKQTFEdXZPMVJpaGd3ellIdE5BTlViMEd0WkdadHBNV3pIOWx6cUdGY3l5cjNtLWx1WlJmWVIyc1YxSHpjSkMxdTRTUzJqZDF0TGN4MUpKcWE3YUl5V1VqSXlqampPR2JDbExMYlh3c3JDTlBSQUZMbUFiZ0JuUVAzRkctUVk?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-16T00:16:51+00:00"
+    }
+  ]
 }

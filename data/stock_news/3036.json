@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-20T13:33:40.417958+08:00",
+  "updated_at": "2026-09-21T03:30:25.251550+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3036",
   "name": "文曄",
   "count": 12,
   "news": [
+    {
+      "title": "3036 文曄- 文曄週報- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EcTJWNUhXZkprckpQM0R4OHJ6akZHaWozQV9HSDVjbGZMMzM3TzJQLW9WTy1FcTRENHpuZ1dtUElJb1pFQzk5MXhGZnJDUVFKQzlDNWVGOEM?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-20T07:02:21+00:00"
+    },
     {
       "title": "【10:49 即時新聞】文曄(3036)股價走強，市場聚焦高成長營收動能",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWE5VZ3hoTnI4bmx2cGl5Z3RmVlNJTUdPYjVUSklTTFN4b1JYZTUyRTR1dl81QTU3M29VRUtndnZfLVBxRXh3SlB1QWlNRkdtYzl2U25XSExoQTFaczRabEV0a1V4a0R0LXVDNXlVcm5Wd0hOTUNjaVFMYUN3VHdwY2EwTUZNRG1mUkN2MUZn?oc=5",
@@ -20,14 +26,8 @@
     {
       "title": "《集中市場券商賣超前30名 3-2》文曄(-1242)、萬海(-1199)",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcUFWNmNLTVZ1d3QtSVhRcXppQlptVkFncXpPcDQzaHkwYk9oN3dRemlTWENZM3JLMWI3X21MRGVvSFZyWXcyQzdyRjlTM1NWTzUtSmlvYWJYaUYtd3lUNGV6Q29ZbXFraGN3cUI0eG9wYjNENUZKTmtUVGZKc2tka3BuV3h3NnBQ?oc=5",
-      "source": "富聯網",
+      "source": "ww2.money-link.com.tw",
       "published_at": "2026-09-16T23:33:00+00:00"
-    },
-    {
-      "title": "【09/16券商評等報告彙整】文曄(3036) 今日僅1家券商發布績效評等報告，評價為看多，目標價為246元。-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM05ROWl1dTJGTjN4SDVfNnQ0U3RNXzBUbVkwZWtvY0IzUWNMU0lmMTYtRGlTU3BlZTFteW4xczlJQ0d3T2VXVVJtVHVBc1U3Ujd0QldJbUlaS0xrc0xVRE1Cd29fbXZJcGh5VFNvQzNsTmFlcC1KTGZaZHBXMFFrN0RaZUR4X2J5Tmc?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-16T10:50:08+00:00"
     },
     {
       "title": "3036 文曄 - 爛到有存⋯⋯ - 股市爆料同學會",
@@ -42,9 +42,15 @@
       "published_at": "2026-09-16T03:36:29+00:00"
     },
     {
+      "title": "WT Microelectronics Co., Ltd.的Price to sales forward – TWSE:3036",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT3JFbDFCckIyclVpR2RiQmh2aWtMM2xLV2VqY0lMY2VQWkZvSGtMS28zSDBvNmFhSnFOOGs2c0lQQzcxc3JNVzY4QXVVdzZfeHpEWVhycGI1S0FZWFBIQ1k4VnN1NmFqUU1IQVcwOHM0RjJaTW93T2F3VmRWMG9zeGRxUUM3UHI0dEl0VVF1aXBtQXU5eldwdHN3?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-15T21:36:02+00:00"
+    },
+    {
       "title": "ALCONIX Corporation的Enterprise value to revenue forward – TSE:3036",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZXRpQXlmWGh4a1QyR3hWcHhmVXNkQ21FVElaX2tWcFVPWWh6cjE0YUY3MVFkTXFTdWprVUtDTkFEdGg0Y2RlTDdqTl9ERnlaZVpGTmxyUXB1eWNEYjRFc0xnc0RTUXViYXlUcG5KTmNsSUNMTGNUU2VBb1Z4NVRIQS1GYjV0Rnk0SjRJcUwwdnFoX0xXZkszQ1FveWlGOVhNX2J6WkRmYw?oc=5",
-      "source": "tw.tradingview.com",
+      "source": "TradingView",
       "published_at": "2026-09-15T17:57:36+00:00"
     },
     {
@@ -70,12 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYThBWDNiNngzZ3p2QkI0dm05VFVleTJiTUFqdEszZnFNaktHQ2RPTWxTdlB4cUdjNjRaUlU2TUZCaVNrU2xmbHBGOGY1ZFNnbURlN1Jlb09SR3BLVFV6UlpiendSX3BNc1lCeEdyUllkQUpJektEWkdkSm1vUmNvUjhB?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "3036 文曄- 又有人家裡死人了- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XNWgwb0NqcklVQWE5YTE2Ujg4WUZqaEcxZzd2b0ZvRFlSRVVKc0VuVGdDNHpMM1ZZdVRpSVJQd01yZC1KTmdFRHlPd09PMldhSDlUOEF6SUU?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-04T01:19:54+00:00"
     }
   ]
 }

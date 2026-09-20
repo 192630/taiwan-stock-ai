@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-20T13:33:28.136172+08:00",
+  "updated_at": "2026-09-21T03:30:12.860368+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3008",
   "name": "大立光",
   "count": 12,
   "news": [
+    {
+      "title": "熱門股》雙題材助攻 大立光鎖漲停",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvdEpXVTF1ZmxONjJCSk9UeDM1MWIxMFNfWUdsNkNHNFRfR2d4Q0VjbHFWTGhfWE9XY0t1ZmJTakl6T0NyanUxSllqRGMwdEVObEJPaFU3N2g?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-20T13:33:09+00:00"
+    },
     {
       "title": "台光電、緯穎靠傳言股價下殺 大立光因降評股價重挫 外資反而開始買進 | 信傳媒",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OSjhtbjZxTEMwbjJGWjNBNFJXTjduTkRIcnF0OFgzdXN6QzNXUUt1eWdESk4tQ3Q0Zlk2a3BSc3h6d1Z1cWViRVhjRWtMT180X0pXV3ZB?oc=5",
@@ -16,12 +22,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MTDlWUzV3WkJhVEpTLU9aaFowLWxTTGJoZmZPZEN3Q2JFNy1IMDV4M1liU19lZlY2OEUtc2kwTVNTUzNfQ1ZRa1NOZ2dpVGdkeUQ0cy1XZUw?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-16T12:22:29+00:00"
-    },
-    {
-      "title": "大立光(3008)外資、投信、法人籌碼變化與自營買賣超總表 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jQmZkOFhGb1FneGhDZFF1NnpDYzBMZ2M4NWFhUVdfcjVBQWJxLVhXNExiRG5OVnpfTXhWV3F6NEVkbk5fUUJKUWxUVXgwVlM0RHhsbm10WHpUYlNRclVLUkFPRXA?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-16T07:00:00+00:00"
     },
     {
       "title": "【大立光萬金夢碎？1】10天摔25%...高點接刀一張慘賠200萬 網驚「不會變聖誕樹吧」",
@@ -54,16 +54,10 @@
       "published_at": "2026-09-14T03:02:28+00:00"
     },
     {
-      "title": "外資連開兩槍！大立光又慘跌停 法人直言：iPhone 18新機難再推股價",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcmZMMUhzU3dRS3NxLVp1Tm0yWTN5Nk1KalVPRWJuMThUVHI1VHpiNWk5aElxaGdCU1R4bkhSOERyNGwtTURmR3FDcmZrRjNpY3lDUzdNUXNoWUNKWEh5ckdGQ3JYU01WbWNFdzRsR1NFSEhGbVhJV25Wb3daTGlod0ZB?oc=5",
-      "source": "壹蘋新聞網",
-      "published_at": "2026-09-14T02:57:00+00:00"
-    },
-    {
       "title": "外資相繼降評 大立光重挫跌停股價還在溜滑梯",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KcjNoMldsN2I1NG5MajB4SDZRemMwY3loR2Jyd1JpT05NcG43N1RxVzJxNXd5cGVNZ0F4M3FmYUsyUzRQeE9FbDF0RzZ1UTBmMTJyYmpXTzlZQdIBX0FVX3lxTFBFbnAxdGpzNTN2MzYyaUJDc0hNdThnN3VQQWk5MVA2dEdMMkV4MlFwM21lU1YtYnl0YU8xNEdHNGQ0UDJEdGE4LXBxRG9vNFZteURGYm1YV09Wd242OWpF?oc=5",
       "source": "經濟日報",
-      "published_at": "2026-09-14T02:34:34+00:00"
+      "published_at": "2026-09-14T02:44:06+00:00"
     },
     {
       "title": "熱門族群》受惠CPO題材 大立光領軍光學族群上衝",
@@ -76,6 +70,12 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03a25pTHVWTXVjQXlhZmJDWUZxOVNOa1h4SURZb3JycVg4NTZIaTBkOTZvaHlOVER6anpaUmV2b3FLckhNWldvSXJWVEVEel9OcTEtUE1MYVI?oc=5",
       "source": "自由時報",
       "published_at": "2026-09-12T00:41:43+00:00"
+    },
+    {
+      "title": "警示股：週二(8日)集中市場遭警示股票有大立光(3008)等11檔",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ1lxLXRMZWVvNEgxcmZhTmhOazlUMVQ3ZXlPQm5yR3hfdWxiYmVHSnVRcUUxd3phaVFXNngyakp0RXNWT3FXZFRVdmRNX0xnWTZFUXpVUmRGV19EVVRuOUZKemtiWk5kVFhhQWJDaDNrdkNxUjM0aHBnVEtqb3JtZlBYdUc3UzlE?oc=5",
+      "source": "ww2.money-link.com.tw",
+      "published_at": "2026-09-09T07:00:00+00:00"
     }
   ]
 }

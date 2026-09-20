@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-20T14:37:46.676570+08:00",
+  "updated_at": "2026-09-21T03:30:41.843012+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3229",
   "name": "晟鈦",
-  "count": 11,
+  "count": 9,
   "news": [
     {
       "title": "【09:43 即時新聞】晟鈦(3229) 亮燈漲停，盤面續聚焦營收成長與買盤簇擁",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNU2FyNS1hTWRtRWRJSUpNajQ3Y3lfSWJfTnVkOHZMYThfU3RENnlTOTF3OHhkUXhJY2dSWEhOMEVfRmtEUVJwRTlaWWxlUWxwTWRVb0hnbEllcjNlODJ6WmdZd2pnVjg?oc=5",
-      "source": "CMoney",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUU1hNDJHQzNaOGR3NnpXbjdSSUY3bkUxcGxvR0N4OE1Ob0VMNnZOeThOb29OZ25PRVBXMHBMQVd2TUlQNUUxclZJRFR0dmtSVUZVS3dmSjI3OVRRTUdTeXFEUTNsWTRoeV9sNHpuWElyTzViWFYxT2pYdWdJXzNzb29Zb3IzdmxxUnp5NFZB?oc=5",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-18T01:44:28+00:00"
     },
     {
@@ -24,15 +24,15 @@
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
-      "title": "3229 晟鈦- 【最新消息】PCB 製造族群再度發動，「10檔概念股」強勢上攻！ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lQ0R3eW1SZzNvUW5CLXNhcXcxOGVoRVQ2ZmphWXdoa2g5VXpBMkdVNXRldVBXOXJtcWhMT1lRQ0pTRTNnemhQMXp5TUxNQUlEMWtobTRmYlY?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-11T07:00:00+00:00"
-    },
-    {
       "title": "【09:32 即時新聞】晟鈦(3229)股價上漲逾4%至64.3元，受營收高成長與融資融券恢復加持＋技術面多頭結構搭配主力中期偏多",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYjUxNHczT3g0bkl3WThRb3lRYlBXYkFEQXRsS0toUHFPbmpCQ3lRcVFHeGtBOFlYUlRMSWdjUzJ5WEp1TVJJRUV3S0NLUjFZdGdBa0N1VnVGOVNkV0xrS3A4clk2WVVRY0l5YVRUYjloc2o3SVdLbW8wV2J6cWlaZnhLR0tXOXJvS1dPNnpn?oc=5",
       "source": "CMoney投資網誌",
+      "published_at": "2026-09-11T07:00:00+00:00"
+    },
+    {
+      "title": "3229 晟鈦- 【最新消息】PCB 製造族群再度發動，「10檔概念股」強勢上攻！ - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lQ0R3eW1SZzNvUW5CLXNhcXcxOGVoRVQ2ZmphWXdoa2g5VXpBMkdVNXRldVBXOXJtcWhMT1lRQ0pTRTNnemhQMXp5TUxNQUlEMWtobTRmYlY?oc=5",
+      "source": "CMoney",
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
@@ -42,34 +42,22 @@
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
-      "title": "【09:55 即時新聞】晟鈦(3229)股價勁揚至59.9元、漲幅8.51%，受融資融券恢復及營收強勁帶動，多方買盤推高技術面結構轉強",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYUVIRXFIdk5BMHB0M2xkRTFfS0o0cnZFeVBrY1RpVDRhQ3cybWlCN1dUNm5XRVJ4SzQtOW9YYU11UEI1OXBTZXEtTVcwSmZ1OVZ1NzZZZDhDNW1XVUZ1OTVYcFVrQllxMnJqTVIyT3p2QVJhWTduVGp0N3BvejhXWTN6SFN2YTZFX0hGVmhB?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
       "title": "PCB狂飆！晟鈦漲停、「這檔」目標價喊上1125元一度亮燈 金像電連2月營收破百億漲逾3%",
       "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOSEI0MzYyc3pvdUZkVzRBMExaMjkxUEdxWkJmRFIzbnpEZ0ItMUMwRHhkVWZfSmtnQ1ptR2ZPc190MDRRdDczTW9nNlpFOW82QmlYSHNaQ3hXMFlLYU5Ddk1wN1RwYjNxRThibWViSVhjRzlpUDFReUp5dW1jdy1VR205TnB5WUwxYjlFRHo1SGwya01CbnBCQUJyaGE2WU5CN05BNDBqMzYxejlGbzZHU2pXa09Dd0F1aDZja3BSYmpoUnlKSndvdk5XREF3azFaWWgtRWxPamJOWldaaXd1T3ZaZldZcWxvTjVsY202c3djZjdHVEo5TGRLbWZ6YXpDMGVoYy1jWFp2MzhUS0UwUm1tQVo3ZUVuc0c2R21oTmFycE1UcUY5V090TU5Pc3RSMWVacnZ3?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
+      "title": "【09:55 即時新聞】晟鈦(3229)股價勁揚至59.9元、漲幅8.51%，受融資融券恢復及營收強勁帶動，多方買盤推高技術面結構轉強",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lWHh6cjlnU2pPczFRd3pJUm4xcUhpTS1aVzRERWktaWtQbWxnSkItNkFfdU1Wd1NtQk1XQkszVk93Z0ZNeXc3M3RhNURzS2tVVFh5NzdaVTY?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
       "title": "【10:33 即時新聞】晟鈦(3229)股價上漲逾5%至53.3元，恢復融資融券與營收成長題材助攻＋短線技術面仍有籌碼壓力",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUm9PZGpzWmU4N3BQMjFOZXlLU2NOU3ZiejlSWXpxUU9GWDd1enhjUWpfTFVBR2t4eHpTazdxdlJ5ak1TVzVFNURESk1mcWEwWmtqQVhReFVqYjhtT29GUThOb0hZLWg0c3AtZkY0Wmo1cUNsSTUyVzR1WnZqRGVrcDNDbDlFV3F2VlpfYkJB?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-08T02:34:46+00:00"
-    },
-    {
-      "title": "晟鈦(3229)盤中走強站上60元，量價能否延續？-葉博金融研究院",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcF9Lb1ZtV2QxU0J5Z2lLdzM1eDNTeGs1N1ByU0p0YmJjTGVwT1JXOVBSVUhEQ2M0Z3h6dHhENkM3NjZXbTVaOHkwMjlTMmlzWUhHZW9SbU1OaXVLYnQ1TDd6Z1dVQmxBNENoMWVEU0lPMFlNUldWcWR5cnN5bWh3cA?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-08-21T07:00:00+00:00"
-    },
-    {
-      "title": "【13:30 即時新聞】晟鈦(3229)股價走強至61.8元、上漲8.61%，受惠PCB上游磷銅球需求＋法人與主力買盤同步偏多支撐續攻",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY19Ra1IwTG5tOXNzeEpEY1NRM01hQThhS2tDaVlKX2RlUUExRU5wd0J0d0Z1WTc3a0Zlcjh0OHE1M3kyMTAtRlF6TklNR2RoNFoyWHgxdWxWNmJzVlZUeHZzaF9va1ZuTXhSYm16RnpDa0ZRZFBiN0ZfTEVqUlVPVlB2Q0NwRVNPaExydkJn?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-08-21T07:00:00+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGeU9iajZfaGRyT1VMMnlDSkh2Y2VtSzlxRURWMTZkZmFyTHBsSGZkTHNHeUN5MS10eFNXZi1rSklRbXBVOHNiSnRnUUh4a1UwaFoyM2VzOEVTZTJjb09jTWF0SVMyRkE?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T14:37:40.468349+08:00",
+  "updated_at": "2026-09-21T03:30:35.926851+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3090",
   "name": "日電貿",
@@ -10,12 +10,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhVWZRd3pobUowN3lTMTdzVVloWkZ5ZEhtZGdVVWJXejhUaDcxUS1mc29pVC14SmFYdkl1cV9YTldqbExvX2s4dUZxV0x4UEVxbXJYR1JWYVQ?oc=5",
       "source": "自由時報",
       "published_at": "2026-09-17T22:48:29+00:00"
-    },
-    {
-      "title": "日電貿(3090) 今日股價與討論 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoWkR4Rm4teHc4dGVQM1VWRzJJc1M5Rmt3ZDZzSUhiSks2R2ZDemZTbkVsTV9GQ3lRcWJySmdZajRCM214Ql9GTXA4R09nWms?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-17T07:00:00+00:00"
     },
     {
       "title": "Nichidenbo Corp.收入明細 – TWSE:3090",
@@ -30,8 +24,20 @@
       "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
+      "title": "3090 日電貿- 【產業焦點】iPhone Duo登場股價卻跌！蘋概股「利多出盡」，市場的錢去哪了？ - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wRmozNHk5QlN4bmJKbjFSTU9sbkYyeHJlZ21ITEpUT0VaZEhwQ1ZiSnFPd3ZxMmJUeDdKYWE2THlSOEpyWEZNeUxQVi1Ga29hVFFmMW9TSF8?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-10T07:00:00+00:00"
+    },
+    {
       "title": "日電貿(3090)千張大戶與散戶持股比例，持股籌碼集中度查詢 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tSnJGTTgtbHlwYTlPQUtnTFdBUzc2cTFCenB6NzlqaTJINEo2R1RnSGY4UUhKd2h5WGR2SVpYZDlVOFRqeG1nalJRSXFQWWQwSDFDNWdfendWMXdWRjA2T0M4VEY?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
+      "title": "日電貿(3090)財務報表｜損益表、資產負債表與財報分析 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjQkxLX1F1TWhMOHZ6NTRHbGlVRFdDSjJ1YUxyd202cWgyN2tKdW5ZcGgySDhBcUFxa01RQjhrcFJ6VWdRRTR0MTBuWWhPYWwxanJMSTlTWngyVnc1LTRSWFctN2ZUT3Ns?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
@@ -39,18 +45,18 @@
       "title": "3090 日電貿- 穩 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iWUFWT2FNYWZNMGZGZjJ2LXJ2bm1lOE5ONTYyVGlFRTZJWG1jODI2SnhBVVN6c2JfaFVKU1NTZ0Z2cHhybGJDU0dXZTBrcFhFYmg3ZUNiNXo?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-07T04:29:22+00:00"
-    },
-    {
-      "title": "營收速報 - 日電貿(3090)8月營收19.13億元年增率高達38.45％｜新聞快訊｜豐雲學堂",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZR2wtYVJWZk1pQnkwRExuMW1acFIzcDFHV0J5V0czQkw4VzhWczBadkpEc0xiM2VMeVVqN0pwX3hGNGI3akRHTmZIZUtsLThnZEFEcUR4RDNNMHJyN0dSdUN5MFdTNDR5djFlY2Ixa1YzWEFCcFE?oc=5",
-      "source": "sinotrade.com.tw",
-      "published_at": "2026-09-04T07:00:00+00:00"
+      "published_at": "2026-09-06T07:00:00+00:00"
     },
     {
       "title": "跟上Q4翻倍黑馬飆股、華新科⊕、大立光、日電貿",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QNXNPcWlIY2NQM2xGLWE5RVVpOFJsOVZXZEVPaS1jeTBDa29HdTlPVVdQRjFGOWpYdjhlRTZEOUlDa2tiWVlTYktiZ2JNenc?oc=5",
       "source": "news.cnyes.com",
+      "published_at": "2026-09-04T07:00:00+00:00"
+    },
+    {
+      "title": "營收速報 - 日電貿(3090)8月營收19.13億元年增率高達38.45％｜新聞快訊｜豐雲學堂",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZR2wtYVJWZk1pQnkwRExuMW1acFIzcDFHV0J5V0czQkw4VzhWczBadkpEc0xiM2VMeVVqN0pwX3hGNGI3akRHTmZIZUtsLThnZEFEcUR4RDNNMHJyN0dSdUN5MFdTNDR5djFlY2Ixa1YzWEFCcFE?oc=5",
+      "source": "sinotrade.com.tw",
       "published_at": "2026-09-04T07:00:00+00:00"
     },
     {
@@ -69,12 +75,6 @@
       "title": "被動元件全噴了！「這2檔」連拉2根攜國巨、華新科、蜜望實漲停 金山電、日電貿衝9%",
       "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQVUVrSVJubU0wbWNNWDZMMTBwZWw2VmdJMmxtZHNkanMyS3B0LVAtbmM2MzNsbWxRZkpvc2t4ejEzX216NDhjUWdpZGM5OThrdmhLMGdxbFZFbkcxMmlqNG9LMVFwSjhOQmdmU0ktR0ZxRVlpVHE1UWg2TW9jRV9wMjVmTmVGMXlQcVo0TWNnV3p2RFFqSFVtNmdIOG5vQXN2cm1jM0doN2FLX1A5V3JZNnJ6M2NjS3FnUE8zak84SzlFYklEeTJuRFgtQzk2WEJWaTh2enZKWXBVb0NuWXdqZUQtN1RaejQ0ZmRBQmZZZ0ZLWmJ2aGlvNWJWamVTaGxxOTJDYjI2V052RmZaYVFLaWU2aV9kdTZZdkZENGpSUDVfeTdKVzhURXE2dEtHcmswSmY1SXo1aGVKcHdRYnRvVnlwY0dvWDE2a3c4TXRzeWVfaGxNVnl5MTRiRVUwV1M3LU1hM0ZvMmRwcVdkUEYyYVRUNERveFE?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-08-27T07:00:00+00:00"
-    },
-    {
-      "title": "輝達財報救全村？ 大立光⊕、上詮⊕、精材、國巨、華新科、日電貿",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ITVA2QTc3a1VSWjlaWnFPNHkzOTdmbWpMaThFYnY1ZkJlbjNWMEdya244Y055RE1rdE1BSkstTWtMUnozUWtNVmVIaHpyMms?oc=5",
-      "source": "news.cnyes.com",
       "published_at": "2026-08-27T07:00:00+00:00"
     }
   ]
