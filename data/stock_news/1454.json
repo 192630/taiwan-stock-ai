@@ -1,0 +1,21 @@
+{
+  "updated_at": "2026-09-20T08:40:37.078232+08:00",
+  "source": "Google News RSS search by stock code and name",
+  "code": "1454",
+  "name": "台富",
+  "count": 2,
+  "news": [
+    {
+      "title": "台富下半年審慎保守，訂單估與上半年相近",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQdmt4WUtmQnlQWHZmNTJNNFZhNWRsWExDM0pUd1NtRkFDcndmRlQxN1lPclI2Nzd3b016LWJNX1RfcUdCS0FNM0JxVmpaMmZuazAzWG1jaHhjRzRSVWlBOEdaWWs1VzJfSzFXRHVfWFQ3aGs5U1ljby1jaWROWGNseG4xSERvZGtiSTBnMU5zOGhYUkcxOXNoTnp6YW9LMVR4MEZOeS1ISTRzenc4SW5ZMHZXUE54aEFEdUhyZWpFOXpJOUZaQ3FFWl9DcUNMYWxaYjhILXJSTHdnckV2NWxsOEZDNDBaYzloaFZDcm8tb25tU1ZCdFp5WmtBRmNmeG5TX2VqZFJMNUREU2p2Z3lndUpTZmhWUUpjeS1LT3U3eFJLU2FKZjB5XzZiLVJoWXBOb1dqUw?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-06T07:00:00+00:00"
+    },
+    {
+      "title": "《上市公司除權除息1-1》台富8月24日除息，開盤參考價為12.30元",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNVJYU3RPSVhXQ2d0dGVwQlVacWhPNXRoZlcxQXhsS1k1cnFtUlN1dDJydHhZazYtRDJXOWtPVGxqTHBvdldSUndVX2plQ1ZQYmZyS0dHQ01QMURCc3dyR3c1YzNINWttb2tjLUU5cXE5Y1JZM0w4MXVZb21DZVlqcm1vakw0a01h?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-08-21T07:00:00+00:00"
+    }
+  ]
+}
