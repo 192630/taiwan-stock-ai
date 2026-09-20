@@ -1067,6 +1067,11 @@ button{
 /* 量化研究 */
 
 .quant-block{margin-top:6px}
+.quant-block-separated{
+  margin-top:24px;
+  padding-top:20px;
+  border-top:1.5px dashed rgba(68,74,79,.35);
+}
 .quant-result-list{margin-top:14px}
 
 .quant-result{
@@ -2205,6 +2210,17 @@ footer{
     <strong>研究說明：</strong>三角收斂只代表價格波動區間逐漸縮小，之後可能向上或向下突破，也可能失敗；這是規則式篩選，不是買賣建議。
   </div>
 
+  <div class="quant-block quant-block-separated">
+    <div class="heat-title">📈 量價突破 V1</div>
+    <div class="heat-subtitle">最新收盤價突破前 20 日高點，且成交量至少為前 5 日均量 1.5 倍</div>
+    <div id="breakoutStatus" class="status">歷史行情載入中...</div>
+    <div id="breakoutList" class="quant-result-list"></div>
+  </div>
+
+  <div class="heat-note">
+    <strong>研究說明：</strong>量價突破代表價格與成交量同時達到規則條件，仍可能是假突破或隔日拉回，不等於適合追價。
+  </div>
+
   <div class="plain-note">
     後續仍會依 roadmap 加入量價突破、法人獲利／虧損、妖股 77、主力雷達、當沖與波段策略。
   </div>
@@ -2378,6 +2394,7 @@ function showPage(page,updateHash = true){
     renderMarketRanking();
     renderIndustryHeat();
     renderTriangleScan();
+    renderBreakoutScan();
     renderActiveEtfRanking();
     renderAllStocks();
     renderWatchlist();
@@ -4864,6 +4881,125 @@ function getTriangleCandidate(code,history,name){
     widthRatio,
     volumeRatio
   };
+
+}
+
+
+
+function getBreakoutCandidate(code,history,name){
+
+  if(!Array.isArray(history) || history.length < 22) return null;
+
+  const latest = history[history.length - 1];
+  const previous = history.slice(-21,-1);
+  const close = getHistoryClose(latest);
+  const latestVolume = getHistoryNumber(latest,"volume");
+  const previousHigh = Math.max(...previous.map(row => getHistoryNumber(row,"high")));
+  const recentVolumes = previous.slice(-5)
+    .map(row => getHistoryNumber(row,"volume"))
+    .filter(value => value > 0);
+
+  if(!(close > 0) || !(previousHigh > 0) || !recentVolumes.length || !(latestVolume > 0)){
+    return null;
+  }
+
+  const averageVolume = recentVolumes.reduce((sum,value) => sum + value,0) / recentVolumes.length;
+  const volumeRatio = latestVolume / averageVolume;
+  const breakoutPercent = (close - previousHigh) / previousHigh * 100;
+
+  if(!(close > previousHigh && volumeRatio >= 1.5)){
+    return null;
+  }
+
+  const score =
+    Math.min(60,breakoutPercent * 12) +
+    Math.min(40,(volumeRatio - 1) * 20);
+
+  return {
+    code,
+    name,
+    close,
+    previousHigh,
+    breakoutPercent,
+    volumeRatio,
+    score
+  };
+
+}
+
+
+function renderBreakoutScan(){
+
+  const container = document.getElementById("breakoutList");
+  const status = document.getElementById("breakoutStatus");
+
+  if(!container || !status) return;
+
+  if(!marketHistoryReady || !stockDataReady){
+    status.textContent = "歷史行情載入中...";
+    return;
+  }
+
+  const names = new Map(
+    stocks.map(row => {
+      const values = getStockValues(row);
+      return [String(values.code || "").trim(),String(values.name || "").trim()];
+    })
+  );
+
+  const results = Object.entries(marketHistory)
+    .filter(([code]) => code !== "_meta" && /^\d{4}$/.test(code))
+    .map(([code,history]) => getBreakoutCandidate(code,history,names.get(code) || code))
+    .filter(Boolean)
+    .sort((a,b) => b.score - a.score || b.volumeRatio - a.volumeRatio)
+    .slice(0,30);
+
+  container.innerHTML = "";
+
+  if(!results.length){
+    status.textContent = "最近交易日沒有符合量價突破 V1 條件的股票";
+    return;
+  }
+
+  status.textContent = `✅ 找到 ${results.length} 檔符合條件的股票，依突破強度排序`;
+
+  results.forEach((item,index) => {
+    const row = document.createElement("div");
+    row.className = "quant-result";
+    row.tabIndex = 0;
+    row.setAttribute("role","button");
+
+    const rank = document.createElement("div");
+    rank.className = "quant-rank";
+    rank.textContent = `NO.${index + 1}`;
+
+    const main = document.createElement("div");
+    const name = document.createElement("div");
+    name.className = "quant-name";
+    name.textContent = item.name;
+    const code = document.createElement("div");
+    code.className = "quant-code";
+    code.textContent = `${item.code}　查看個股 ›`;
+    main.append(name,code);
+
+    const values = document.createElement("div");
+    values.className = "quant-score";
+    values.textContent = `突破 +${item.breakoutPercent.toFixed(2)}%`;
+    const detail = document.createElement("div");
+    detail.className = "quant-detail";
+    detail.textContent = `量能 ${item.volumeRatio.toFixed(1)} 倍｜收 ${formatNumber(item.close)}`;
+    values.appendChild(detail);
+
+    row.append(rank,main,values);
+    row.addEventListener("click",() => openStockFromList(item.code));
+    row.addEventListener("keydown",event => {
+      if(event.key === "Enter" || event.key === " "){
+        event.preventDefault();
+        openStockFromList(item.code);
+      }
+    });
+    container.appendChild(row);
+  });
 
 }
 
