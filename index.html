@@ -833,6 +833,41 @@ button{
 .industry-member-name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-weight:800}
 .industry-member-change{font-weight:900}
 
+/* ETF 每日白話摘要 */
+
+.etf-summary-grid{
+  display:grid;
+  gap:10px;
+  margin-top:14px;
+}
+
+.etf-summary-item{
+  width:100%;
+  padding:13px 14px;
+  border:1.5px solid rgba(68,74,79,.48);
+  border-radius:13px 10px 14px 11px;
+  background:rgba(255,254,250,.82);
+  color:#30363b;
+  text-align:left;
+}
+
+button.etf-summary-item{
+  cursor:pointer;
+}
+
+.etf-summary-label{
+  color:#557a89;
+  font-size:12px;
+  font-weight:900;
+}
+
+.etf-summary-text{
+  margin-top:5px;
+  font-size:15px;
+  font-weight:800;
+  line-height:1.65;
+}
+
 /* 主動 ETF 每日持股變化 */
 
 .etf-change-picker{
@@ -2128,7 +2163,8 @@ footer{
 <!-- 主動 ETF 子分頁 -->
 
 <nav class="etf-subnav page-section" data-pages="etf" aria-label="主動 ETF 子分頁">
-  <button class="etf-subnav-button active" type="button" data-etf-subpage="changes">📊 每日變化</button>
+  <button class="etf-subnav-button active" type="button" data-etf-subpage="summary">🧠 每日摘要</button>
+  <button class="etf-subnav-button" type="button" data-etf-subpage="changes">📊 每日變化</button>
   <button class="etf-subnav-button" type="button" data-etf-subpage="holdings">🌡️ 持股權重</button>
   <button class="etf-subnav-button" type="button" data-etf-subpage="industry">🏭 產業配置</button>
   <button class="etf-subnav-button" type="button" data-etf-subpage="consensus">🔥 共同持有</button>
@@ -2137,6 +2173,22 @@ footer{
 </nav>
 
 <!-- 今日市場熱力 -->
+
+<section class="card page-section" data-pages="etf" data-etf-subpage="summary">
+
+  <h2>🧠 ETF 每日白話摘要</h2>
+  <div class="heat-subtitle">
+    將行情、持股權重、共同持有、產業配置與每日變化整理成規則式研究說明
+  </div>
+
+  <div id="etfSummaryStatus" class="status">ETF 摘要資料載入中...</div>
+  <div id="etfDailySummary" class="etf-summary-grid"></div>
+
+  <div class="heat-note">
+    <strong>今日筆記：</strong>這是依公開資料自動產生的規則式摘要，不是漲跌預測，也不構成投資建議。
+  </div>
+
+</section>
 
 <section class="card page-section" data-pages="etf" data-etf-subpage="changes">
 
@@ -2425,7 +2477,7 @@ let selectedActiveEtfDate = "";
 let selectedMarketDate = "__latest__";
 let newsPageStart = 0;
 let currentPage = "home";
-let currentEtfSubpage = "changes";
+let currentEtfSubpage = "summary";
 let allStockLimit = 60;
 let currentStockCode = "";
 let etfHoldingExpanded = false;
@@ -2511,6 +2563,7 @@ document.addEventListener("keydown",event => {
 
 
 const validEtfSubpages = [
+  "summary",
   "changes",
   "holdings",
   "industry",
@@ -2524,7 +2577,7 @@ function showEtfSubpage(subpage,updateHash = true){
 
   const target = validEtfSubpages.includes(subpage)
     ? subpage
-    : "changes";
+    : "summary";
 
   currentEtfSubpage = target;
 
@@ -2632,6 +2685,7 @@ function showPage(page,updateHash = true){
   }
 
   renderEtfTrends();
+  renderEtfDailySummary();
 
   if(newsDataReady){
     renderNews();
@@ -2676,7 +2730,7 @@ function handleRoute(){
   showPage(page || "home",false);
 
   if(page === "etf"){
-    showEtfSubpage(detail || "changes",false);
+    showEtfSubpage(detail || "summary",false);
   }
 
   if(page === "stocks" && detail && stockDataReady){
@@ -4066,6 +4120,178 @@ function makeConsensusRow(item,index,mode){
 
 }
 
+
+
+function renderEtfDailySummary(){
+
+  const status = document.getElementById("etfSummaryStatus");
+  const container = document.getElementById("etfDailySummary");
+  if(!status || !container) return;
+
+  container.innerHTML = "";
+
+  if(!activeEtfHoldingsReady){
+    status.textContent = "ETF 持股資料載入中...";
+    return;
+  }
+
+  const etfs = activeEtfHoldings.etfs || activeEtfHoldings;
+  const entries = Object.values(etfs || {})
+    .filter(etf => Array.isArray(etf?.holdings) && etf.holdings.length);
+
+  const stocksByCode = new Map();
+  const industries = new Map();
+
+  entries.forEach(etf => {
+    etf.holdings.forEach(holding => {
+      const code = String(holding.code || holding.stock_code || "").trim();
+      if(!code) return;
+
+      const weight = cleanNumber(holding.weight);
+      const stock = stocksByCode.get(code) || {
+        code,
+        name:String(holding.name || holding.stock_name || code).replace(/\s+/g," ").trim(),
+        totalWeight:0,
+        etfs:new Set()
+      };
+      stock.totalWeight += weight;
+      stock.etfs.add(String(etf.code || ""));
+      stocksByCode.set(code,stock);
+
+      const industry = String(companyProfiles[code]?.industry || "").trim();
+      if(industry){
+        industries.set(industry,(industries.get(industry) || 0) + weight);
+      }
+    });
+  });
+
+  const weightRanking = [...stocksByCode.values()]
+    .sort((a,b) => b.totalWeight - a.totalWeight);
+  const consensus = getHoldingConsensus();
+  const industryRanking = [...industries.entries()]
+    .sort((a,b) => b[1] - a[1]);
+  const marketRanking = Array.isArray(activeEtfRankingData)
+    ? activeEtfRankingData
+    : [];
+
+  const dates = entries
+    .map(etf => String(etf.holdings_date || ""))
+    .filter(Boolean)
+    .sort((a,b) => b.localeCompare(a));
+  const latestDate = dates[0] || "-";
+
+  status.textContent = `✅ 彙整 ${entries.length} 檔主動 ETF｜持股日期 ${formatStockDate(latestDate)}`;
+
+  const addItem = (label,text,code = "") => {
+    const item = document.createElement(code ? "button" : "div");
+    if(code) item.type = "button";
+    item.className = "etf-summary-item";
+
+    const labelBox = document.createElement("div");
+    labelBox.className = "etf-summary-label";
+    labelBox.textContent = label;
+
+    const textBox = document.createElement("div");
+    textBox.className = "etf-summary-text";
+    textBox.textContent = text;
+
+    item.append(labelBox,textBox);
+    if(code){
+      item.addEventListener("click",() => openStockFromList(code));
+    }
+    container.appendChild(item);
+  };
+
+  const topWeight = weightRanking[0];
+  if(topWeight){
+    addItem(
+      "持股權重",
+      `${topWeight.name}（${topWeight.code}）是目前合計配置權重最高的股票，合計 ${topWeight.totalWeight.toFixed(2)}%，共有 ${topWeight.etfs.size} 檔 ETF 持有。點選查看個股 ›`,
+      topWeight.code
+    );
+  }
+
+  const topConsensus = consensus[0];
+  if(topConsensus){
+    addItem(
+      "共同持有",
+      `${topConsensus.name}（${topConsensus.code}）被 ${topConsensus.etfs.length} 檔主動 ETF 同時持有，是目前共同持有度最高的股票。點選查看個股 ›`,
+      topConsensus.code
+    );
+  }
+
+  const topIndustry = industryRanking[0];
+  if(topIndustry){
+    addItem(
+      "產業配置",
+      `依官方產業分類加總，目前配置權重最集中的產業是「${topIndustry[0]}」，合計權重 ${topIndustry[1].toFixed(2)}%。`
+    );
+  }
+
+  if(marketRanking.length){
+    const strongest = marketRanking[0];
+    const weakest = marketRanking[marketRanking.length - 1];
+    addItem(
+      "當日強弱",
+      `最近交易日最強為 ${strongest.name || strongest.code}（${strongest.percent > 0 ? "+" : ""}${strongest.percent.toFixed(2)}%）；最弱為 ${weakest.name || weakest.code}（${weakest.percent > 0 ? "+" : ""}${weakest.percent.toFixed(2)}%）。這是盤後漲跌幅排行，不代表後續走勢。`
+    );
+  }
+
+  const changeConsensus = Array.isArray(activeEtfChanges?.consensus)
+    ? activeEtfChanges.consensus
+    : [];
+
+  if(activeEtfChangesReady && changeConsensus.length){
+    const increase = changeConsensus.find(item => cleanNumber(item.net_etf_count) > 0);
+    const decrease = [...changeConsensus]
+      .filter(item => cleanNumber(item.net_etf_count) < 0)
+      .sort((a,b) => cleanNumber(a.net_etf_count) - cleanNumber(b.net_etf_count))[0];
+
+    if(increase){
+      addItem(
+        "每日持股變化",
+        `${increase.name || increase.code}（${increase.code}）的跨 ETF 持股變化共識偏向增加，淨共識 +${cleanNumber(increase.net_etf_count)}。這是投資組合快照差異，不等同可確認的盤中買進。`,
+        increase.code
+      );
+    }
+    if(decrease){
+      addItem(
+        "每日持股變化",
+        `${decrease.name || decrease.code}（${decrease.code}）的跨 ETF 持股變化共識偏向減少，淨共識 ${cleanNumber(decrease.net_etf_count)}。這是投資組合快照差異，不等同可確認的盤中賣出。`,
+        decrease.code
+      );
+    }
+  }
+  else{
+    addItem(
+      "每日持股變化",
+      "目前仍在等待第二個有效交易日快照；資料足夠後，摘要會自動加入跨 ETF 增加、減少與連續趨勢。"
+    );
+  }
+
+  const positiveTrend = Array.isArray(activeEtfTrends?.positive)
+    ? activeEtfTrends.positive[0]
+    : null;
+  const negativeTrend = Array.isArray(activeEtfTrends?.negative)
+    ? activeEtfTrends.negative[0]
+    : null;
+
+  if(positiveTrend){
+    addItem(
+      "連續趨勢",
+      `${positiveTrend.name || positiveTrend.code}（${positiveTrend.code}）已連續 ${cleanNumber(positiveTrend.streak_days)} 個有效交易日呈現 ETF 持股增加共識。`,
+      positiveTrend.code
+    );
+  }
+  if(negativeTrend){
+    addItem(
+      "連續趨勢",
+      `${negativeTrend.name || negativeTrend.code}（${negativeTrend.code}）已連續 ${cleanNumber(negativeTrend.streak_days)} 個有效交易日呈現 ETF 持股減少共識。`,
+      negativeTrend.code
+    );
+  }
+
+}
 
 
 function renderEtfHoldingHeat(){
@@ -7754,6 +7980,7 @@ Promise.all([
   }
   renderMarketRanking();
   renderActiveEtfRanking();
+  renderEtfDailySummary();
   renderAllStocks();
   handleRoute();
 
