@@ -2278,6 +2278,10 @@ footer{
     class="etf-ranking">
   </div>
 
+  <button id="activeEtfToggle" class="section-toggle hidden" type="button">
+    查看完整前 30 名
+  </button>
+
   <div class="heat-note">
     <strong>今日筆記：</strong>目前使用 TWSE 盤後每日行情，
     不代表盤中即時報價。
@@ -2603,7 +2607,6 @@ function showPage(page,updateHash = true){
       );
     });
 
-  activeEtfExpanded = target === "etf";
   newsPageStart = 0;
 
   if(target === "etf"){
@@ -7465,10 +7468,16 @@ function renderActiveEtfRanking(){
       "activeEtfDate"
     );
 
+  const toggle =
+    document.getElementById(
+      "activeEtfToggle"
+    );
+
   if(
     !container ||
     !status ||
-    !dateBox
+    !dateBox ||
+    !toggle
   ){
 
     return;
@@ -7507,6 +7516,7 @@ function renderActiveEtfRanking(){
     status.textContent =
       "⚠️ 找不到主動式 ETF 行情資料";
 
+    toggle.classList.add("hidden");
     return;
 
   }
@@ -7523,7 +7533,13 @@ function renderActiveEtfRanking(){
   const visibleEtfs =
     activeEtfExpanded
       ? activeEtfs.slice(0,30)
-      : activeEtfs.slice(0,3);
+      : activeEtfs.slice(0,5);
+
+  toggle.classList.toggle("hidden",activeEtfs.length <= 5);
+  toggle.textContent = activeEtfExpanded
+    ? "收起排行，只看前 5 名"
+    : `查看完整前 ${Math.min(30,activeEtfs.length)} 名`;
+  toggle.setAttribute("aria-expanded",String(activeEtfExpanded));
 
 
   visibleEtfs.forEach(
@@ -7702,6 +7718,14 @@ function renderActiveEtfRanking(){
   );
 
 }
+
+
+document
+  .getElementById("activeEtfToggle")
+  ?.addEventListener("click",() => {
+    activeEtfExpanded = !activeEtfExpanded;
+    renderActiveEtfRanking();
+  });
 
 
 /* ========================================
