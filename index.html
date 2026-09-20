@@ -321,6 +321,16 @@ button{
   margin-top:22px;
 }
 
+.company-profile-link{
+  display:inline-block;
+  margin-top:10px;
+  color:#b95649;
+  font-size:13px;
+  font-weight:900;
+  text-decoration:none;
+  border-bottom:1px solid currentColor;
+}
+
 .metrics{
   display:grid;
   grid-template-columns:1fr 1fr;
@@ -1632,6 +1642,13 @@ footer{
       </button>
     </div>
 
+    <div id="companyProfileBox" class="etf-detail-box hidden">
+      <h3>🏢 公司基本資料</h3>
+      <div id="companyProfileGrid" class="etf-profile-grid"></div>
+      <div id="companyBusinessNote" class="plain-note"></div>
+      <a id="companyWebsite" class="company-profile-link hidden" target="_blank" rel="noopener noreferrer">前往公司官方網站 ↗</a>
+    </div>
+
   </div>
 
   <div
@@ -2085,6 +2102,7 @@ let marketNews = [];
 let activeEtfHoldings = {};
 let activeEtfChanges = {};
 let activeEtfNews = {};
+let companyProfiles = {};
 
 let stockDataReady = false;
 let institutionalReady = false;
@@ -2093,6 +2111,7 @@ let newsDataReady = false;
 let activeEtfHoldingsReady = false;
 let activeEtfChangesReady = false;
 let activeEtfNewsReady = false;
+let companyProfilesReady = false;
 
 let activeEtfExpanded = false;
 let activeEtfRankingData = [];
@@ -2560,6 +2579,26 @@ async function loadInstitutional(){
       .textContent =
         "載入失敗";
 
+  }
+
+}
+
+
+
+async function loadCompanyProfiles(){
+
+  try{
+    const response = await fetch("data/company_profiles.json?t=" + Date.now());
+    if(!response.ok) throw new Error("company_profiles.json 尚未產生");
+    const json = await response.json();
+    companyProfiles = json.profiles || {};
+    companyProfilesReady = true;
+    if(currentStockCode) renderCompanyProfile(currentStockCode);
+  }
+  catch(error){
+    console.warn(error);
+    companyProfiles = {};
+    companyProfilesReady = false;
   }
 
 }
@@ -4715,6 +4754,65 @@ function getInstitutionValues(row){
    顯示股票
 ======================================== */
 
+
+function renderCompanyProfile(code){
+
+  const box = document.getElementById("companyProfileBox");
+  const grid = document.getElementById("companyProfileGrid");
+  const note = document.getElementById("companyBusinessNote");
+  const website = document.getElementById("companyWebsite");
+
+  if(!box || !grid || !note || !website) return;
+
+  const profile = companyProfiles[String(code || "").trim()];
+
+  if(!companyProfilesReady || !profile){
+    box.classList.add("hidden");
+    return;
+  }
+
+  grid.innerHTML = "";
+
+  [
+    ["市場別",profile.market],
+    ["產業",profile.industry],
+    ["成立日期",profile.founded_date],
+    [profile.market === "上櫃" ? "上櫃日期" : "上市日期",profile.listed_date],
+    ["公司全名",profile.company_name],
+    ["公司電話",profile.phone]
+  ].forEach(([label,value]) => {
+    if(!value) return;
+    const item = document.createElement("div");
+    item.className = "etf-profile-item";
+    const small = document.createElement("small");
+    small.textContent = label;
+    const strong = document.createElement("strong");
+    strong.textContent = value;
+    item.append(small,strong);
+    grid.appendChild(item);
+  });
+
+  const industry = profile.industry || "尚未分類";
+  note.textContent =
+    `這家公司在官方資料中歸類為「${industry}」。產業分類用來快速理解公司所屬領域；實際產品、營收來源與業務比重仍應以公司最新公開資訊為準。`;
+
+  const rawWebsite = String(profile.website || "").trim();
+  if(rawWebsite){
+    website.href = /^https?:\/\//i.test(rawWebsite)
+      ? rawWebsite
+      : "https://" + rawWebsite;
+    website.classList.remove("hidden");
+  }
+  else{
+    website.removeAttribute("href");
+    website.classList.add("hidden");
+  }
+
+  box.classList.remove("hidden");
+
+}
+
+
 function showStock(row){
 
   const v =
@@ -6126,7 +6224,8 @@ Promise.all([
   loadMarketNews(),
   loadActiveEtfHoldings(),
   loadActiveEtfChanges(),
-  loadActiveEtfNews()
+  loadActiveEtfNews(),
+  loadCompanyProfiles()
 ]).then(() => {
 
   renderEtfChangeOptions();
