@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-09-21T03:30:39.468584+08:00",
+  "updated_at": "2026-09-21T18:34:11.678395+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3164",
   "name": "景岳",
-  "count": 1,
-  "news": [
-    {
-      "title": "【2026/08月營收公告】景岳(3164) 八月營收表現亮眼、呈現雙成長，創近2個月以來新高，年增15.5%",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNDlVV3QyY2R6V3R5S0JFLVBLY3lrTDN0Rlp3eG1zMjI4dngyUGNPdFVtNlduc3doNlJzMU9fUlhBODJwUUF0Nl9vVl9PVXcwTHgzV3o5R1BtTzFCRHE3WVBSbWF1eGVoUHNHTjEwcnQycXBfMWhOUjBOZ3dpYm84MFJtbnJsekItQkE?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-08T07:00:00+00:00"
-    }
-  ]
+  "count": 0,
+  "news": []
 }

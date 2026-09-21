@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-21T03:30:27.021368+08:00",
+  "updated_at": "2026-09-21T18:33:46.639460+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3041",
   "name": "揚智",
-  "count": 1,
+  "count": 2,
   "news": [
+    {
+      "title": "揚智延遲輸入重訊 證交所開罰5萬元",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PZ0xDZFBNTjZQT1ZiY2JGbEZncENNUmFEeGFIREFUazlzRHZMZ3NyQmtBenRCSTlUZ19WLWlERlFBRU9SVkZlSHZDRWdmOFM40gFWQVVfeXFMTUNtVWNFQ1VNdFBqWmhqT28wWTRQYUpkejQ3NTlxelFjT1kwX0xPYVVna0d2dlBIakI4MkdRT3NXVm9rZXR5SUxFWDdtTkhsRjQxSHdnYWc?oc=5",
+      "source": "udn.com",
+      "published_at": "2026-09-15T11:53:37+00:00"
+    },
     {
       "title": "【12:27 即時新聞】揚智(3041)股價溫和走強至24元，IC設計族群題材延燒＋主力短線回補帶動偏多氣氛",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91YzJKWXpZX01xTHpRRVl3UV95M1gyRHA4em5pUFJad09GdzB2THNOTnY3enNsNTVjTk81YnV2djhqRXE4Wk9IOW5IYmZXUFdjR0FXSG1Gc1Y?oc=5",

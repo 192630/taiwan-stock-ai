@@ -1,0 +1,21 @@
+{
+  "updated_at": "2026-09-21T18:34:18.911319+08:00",
+  "source": "Google News RSS search by stock code and name",
+  "code": "3213",
+  "name": "茂訊",
+  "count": 2,
+  "news": [
+    {
+      "title": "茂訊電腦股份有限公司",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbmNMemFIOGNxdDYxMFlUc0N1dWRVUUprcTJhSEJ6X3FCeGFSUEFqaDZyVjNLVkxxQ3pxRVZMd1dTOUdPUHhBRk90QmprT29wNU5ELWt0RGNiZWFCc2MtdnpzTEE4RndOVC1sWjhUZGNxMWtDVTgxaFFORmtoS1N1ZnRSSlBuYjVtdUpMT2hENFhMd1pCVVJV?oc=5",
+      "source": "MoneyDJ",
+      "published_at": "2026-09-04T07:00:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】茂訊(3213) 八月營收3.9億元，表現亮眼、呈現雙成長，創歷史新高，年增6.49%",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXWHBoTWxPWGo2ZG51eG1tQ3NqV3VwdklTV2UyenJNQmpIbXBuektEQTluWmhhLU9Xei14a3VqTW9OY3NVaURSdm9mWE1COG1xVVAycV8tTDc2WHI1bUR4TDZHeUctM1k?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-03T07:00:00+00:00"
+    }
+  ]
+}
