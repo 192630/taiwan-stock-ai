@@ -1,27 +1,45 @@
 {
-  "updated_at": "2026-09-21T08:40:32.794229+08:00",
+  "updated_at": "2026-09-22T07:33:48.678898+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7769",
   "name": "鴻勁",
   "count": 12,
   "news": [
     {
-      "title": "鴻勁(7769) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1icTBZVC1sTy1zSWhyMkdOeFZkWm9uU1JSYjZlSjV2Tll6ajliVldyTjlWM3dYNDBLRHM0VmpSX1Zwejc0ajZXV3k2YlJaRjV3SFNz?oc=5",
+      "title": "7769 鴻勁- 大雅之光短空長多盈虧自負- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aeXljeS1yano4bE1Xc05hMUhCOHgySl80cXFMU0F4SUxFSFhla0FsWG1NOXpFQUVUTzNEZzFXMUpLeXJNams2N1ZpNkc0ZWRFd1JPelVHeVE?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-20T02:38:51+00:00"
+      "published_at": "2026-09-21T07:04:04+00:00"
     },
     {
-      "title": "7769 鴻勁 - 借券賣出破新高今天大增195張 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzMm5oS1dIcHlZSjBvdnl6QmQ2ckpuRHF2OEtnU05sUUNFODhPcEQ5Y2dTYndQbk5BR0NhenRUYkFaam1lM0hfTUQ1NmZ0cmdMZ0VMOUVsN2k?oc=5",
+      "title": "6515 穎崴- 這支最近都和鴻勁同步- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1SalRfaURHUld4eDdwTWl6SWJ2Umc5bEp0ZV9HQWppZUZRZmRIbHhJYVZEYnVUd0JTT3R5UzZnel9BTzNZWG9Rem50LVhLQnVIYW9mNFJNWjU?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-18T13:27:08+00:00"
+      "published_at": "2026-09-20T20:09:18+00:00"
     },
     {
-      "title": "鴻勁(7769) 今日股價與討論 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05RXNfOTVtZEdYdmR2NHFfX0ZTNGVxTWlRRXEzMXdqeFdub0ROT3hmblpxaE5uSmh6TE43Y0hwYmdCSXAtVXhEY19TN09HdG8?oc=5",
+      "title": "7769 鴻勁- 鴻勁9/22參加美林證舉辦之海外法說會- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FemRWeFpCN0JlUzdTeERJdFBxZXprMUt3TU9UU1Nxa3hFU2VoVEJqUXRJWmFpYlFJZEtkVjdwbjlCM0VUT3VNUC1ZTkQtNlRNaGhNNDFQeGw?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-17T07:00:00+00:00"
+      "published_at": "2026-09-20T20:07:06+00:00"
+    },
+    {
+      "title": "7769 鴻勁- 【00991A】09/21 操作日報｜經理人精準換股！重壓台達電- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52d2ZXX2toWXBtYk8ySnpMSE1TbGg5VnJ4UVRhd1NIZHF2MTA3ZG12S0otc2tJVWFWaFpwS3FTbkt5cGRhOHVPLWpTQnFNR3lQclFzNF9OQnQ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-20T17:46:43+00:00"
+    },
+    {
+      "title": "7769 鴻勁- 【09/21 產業即時新聞】半導體設備族群拉回修正，龍頭廠分化、個股逆勢突圍- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jRl9OMDhBRDZDMmU3djVqX3Y2RjJ3QzdGY3VzV3lHNFBQc1U4a2lmUFhtWGhLUzZpVWpTWFNWUHp0N3FCQ3pjd0RnQU9qYl9EWmMyRGt1WjA?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-20T10:30:33+00:00"
+    },
+    {
+      "title": "7769 鴻勁 - 真狠～像螞蟻一樣，用啃的 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBEbjUzaFJGRWwxZzc4X2U4RFhjMzVzQ1psTW50YW9PQ28tS28wbUM2VzIwSkVnaVpLbnBxMWJFRlBjQTRWZ1NuZ2pRbTB4MXRCcXB0MVBvQ3I?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-20T03:03:55+00:00"
     },
     {
       "title": "7769 鴻勁- 鴻勁卡位CPO設備鏈，瞄準明年首季交機高峰- 股市爆料同學會",
@@ -32,13 +50,13 @@
     {
       "title": "打破鴻勁紀錄！漢測IPO寫下台股四項新天花板- 證券",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzSWpyVWNFU3NESHlnTWlNbGV3aGh1aDM1akQycGx5djVlSjRMSlRmNEhGeXNjRVFhb0Q5LWtTWmx5RVcxWFhFWGtieFJBblFHWEdvbzNGeElPWWc2Smc4?oc=5",
-      "source": "ctee.com.tw",
+      "source": "工商時報",
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
       "title": "興櫃股王漢測IPO競拍得標均價4,272.7元 超越鴻勁創新高",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fZ2FIVy10YXp3ZWJfWnFURXlsZ3JybVlZLVBsNGU0UDJoS3c0U0thMUI3TXZWbl9MSE4yWHZXMVVkZndqb1JkQlNaT2JrLWs20gFWQVVfeXFMTVJ4NEExR3FUU1RyUTRHZ0FhSXNnOUgyWkVGTllhNlNHdTlhUkpFZ1FjNkdEeGxpSkNGS1lzVWpfS2dXZjVDM2JEWlNtRzcyX09lVHdnRWc?oc=5",
-      "source": "UDN",
+      "source": "udn.com",
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
@@ -58,24 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lUWRnVHhRZFB3SG1iY0h6ekJFWnhsYXZZUWYxdzBRWkRpb25NdThEbmlCdGZiRC1IX0wwNVdwVTZwb2pYVVdwQUJMck1sRjdhTWF0akVR0gFbQVVfeXFMTmZFU2dRcG5SSzh0cVFDelZXVnFLRUxaaWhrT3Y2cFdkbmdyTF9YSUdOUXpwSmtCQmJfVGt0YzRzaVhQSHV4Q1dxakZOUXY3UThwX3pFRE1GSnZCRQ?oc=5",
       "source": "自由財經",
       "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "【2026/08月營收公告】鴻勁(7769) 八月營收52.19億元，年增91.58%-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX0FEY0tDVUNLMFFhbzdXc3dlRFEtcl9YRE1DenNwVU9qTW0ya1V3cWYyWHg1Z01XajFXUnJwQVk3VlkzVDZnS1N2T1N3U21sVnJyZTlxODBUS3FSOFZocHJZSlF6YWcyVVlfNVNVazN1SzF5NGtxSW5MNGxKM3FqN004V0phQ3BXcVE?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "最狂不是大立光！「這檔」90天暴漲211%、鴻勁價差1100元 11檔注意股一次看",
-      "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNbE54YzFCWlg4TkJpTTV3eG4yLV9xdDNqVkZ2Q2pBclhua012T2NORFViQWoxcE5tck5VZTVpbFNMN1Z1Vmt6anJXNHlXS2tXc0Q0bk40cGpBbVhzX2s1NVNPVFZ6MWFyUW45TkxGNWlFbDFTVXFZb3lZbXBsYlVRSmkza2JYR2NyLTdmR2RLOFZnT09jMHM0Z2VDNzNTYmItUXppaDFfSV85VmNndGYtb1g4Y3hMUm4zclJ1bVZRQVZzdnRaLVYwWktGUmx6M3k2M1RGMmIzVzZfU0FZejFoVXRkUS1FNldyczhXOUJmREFYbXNVeUFwclFibGNyWGN5YklqSnVDQVRSeHoxbDhtMUdMQW1YRDNpaE5taFgxaEM0S2E3Y0p4RHZ4RjlhZ0NjX3NpNFBQRW5nejBkRURCbHY5dDdMeUNONFFrVDE5aTd0elJFQnBTTmp2U3VOX3dnY1J6VDlJZG5VcVk?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "【10:04 即時新聞】鴻勁(7769)股價上漲至6930、漲幅5.56%，AI高階測試與CPO題材受捧＋均線多頭結構配合法人買盤延續",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUU9hRXh3RXNkaElXRFNMc2JRRVM2VThQME44QldBWF9oSGtucW5oVEFpVkU1U091MEdjbzFPMlRyMFI0YW9IRkRSbFhyTU1IUE9vb1c3MFZ5a3Izd0ZzT05ZQjVHd043eWhqbWlyVl9kUllHZEVtdzNEMFRiSkZoNG5NdXVESXAxTU9NNG5R?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]
 }

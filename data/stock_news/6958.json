@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-09-21T08:40:21.830259+08:00",
+  "updated_at": "2026-09-22T07:33:21.267562+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6958",
   "name": "日盛台駿",
-  "count": 1,
-  "news": [
-    {
-      "title": "Infinite Finance Co., Ltd.收入明細 – TWSE:6958",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4ZFlENDBhdldCZmdRa2JfcmFwZVZSZ2NpQjhITWJuZXE0ZF91SzEtbFR5WTR1cjAtUC00VVRzS1dnaGhpeG5hNTlsb3BySjNUZlhNV05hb0t2QUJRcG5BdUhpNi13dlFiVThPR1BGZ01EMWM?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-07T04:32:56+00:00"
-    }
-  ]
+  "count": 0,
+  "news": []
 }
