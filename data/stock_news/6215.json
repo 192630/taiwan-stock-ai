@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-21T06:32:49.320358+08:00",
+  "updated_at": "2026-09-22T03:34:16.556627+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6215",
   "name": "和椿",
-  "count": 10,
+  "count": 12,
   "news": [
     {
       "title": "和椿科技股份有限公司",
@@ -18,10 +18,28 @@
       "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
+      "title": "和椿雙箭齊發 衝實體AI",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE41ZVIzeS12c2pUWWZIME9NeTRKZW05UlNSZWlNbEp6cHMxTmUxRm9qNFE2eXJUT3VVZDA0bm94Y1NGNm4yV2NYVWQ5SmpPdTlv0gFWQVVfeXFMTXBncm1oVkZJbXd2VWZCNVlFbFp3ajlWY2RlODNjQ1NFZ0dVSjVNbTRTOC1ZekZJVTZwWjMyUjZOS3NwLU9ZNWw1LTRsWUdlNm4zaXdoOXc?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-13T16:57:15+00:00"
+    },
+    {
       "title": "6215 和椿- 漲的跌回，這星期垃圾椿又做白工- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSSEM4V1ByS3k2Nm5fVzAyUWswTEUtaDRJRmVpNTFSeFBtQzgzdUJLVmhvUVRfbGl6dFYtNmI1VzI3aXU5c2k0SGcxWDlkZFhMRXpSRGFFeWU?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-11T03:57:59+00:00"
+    },
+    {
+      "title": "儀器設備工程族群跌逾3%，資金轉進和椿與盟立能撐多久？-子敏左側交易",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ3otYVFCNW9lWF9aVm42dV9BTmxZQTdvNlZWb19oWGsxME9uN1RjTFotcURCZzFyWUpIZ3pCOWtHSWtPelkyVHF5ejNlRlpweUsxOUdLTldyN3BBWkhOLUs4VlFOSVdNRVNZdl9OYVVSMHhFNHRrTGxCUmtpNG03bEowbw?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-10T07:00:00+00:00"
+    },
+    {
+      "title": "和椿營收／半導體次系統與機器人出貨旺 8月4.07億元續創新高",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UemJBbXdrWjQtQ3o3NHJZTllOOTJaNC1OUVRQMjdsX251WDdjSXBIM0stc0ZKdHQ1TzdXbUswY0wzT3lBd1BhT1JwekdvNHZ0UFpMSWYwSjZmQWfSAV9BVV95cUxPS2Nob1JzNHVkTGdaZlRkVmRXZmpROGxqMXZKd1A2aE1DcWpoRV9LbkxRN2RUaTNESUlGZjdFZkVNeE9tT3ZqVjVWTHlmRjh1WHVIZTFuX1NyZnVYQTZLWQ?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-09T15:07:55+00:00"
     },
     {
       "title": "半導體、AI拉貨旺 和椿8月營收創單月新高",
@@ -36,15 +54,15 @@
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
-      "title": "【2026/08月營收公告】和椿(6215) 八月營收4.07億元，表現亮眼、呈現雙成長，創歷史新高，年增132.82%",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQmhyZEVNWGdGVzFQY2lFUFZiSjE5LUhqXzJQWVBYbUVtU2VvcW9ScmZVTVhtYzV5dzc1d0RiQVFkOTdralpya2dTN1NTU3NmZlBCenVqdlhydUF1Z0FqTXFyVFJVcUtiOWJFcW1FeFFqTjZlMnIzRlM2a2ExQ2ZQNDRfS3hFOFM4OFE?oc=5",
-      "source": "cmnews.com.tw",
-      "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
       "title": "自動化零組件8月營收多雙位數年增，大銀、和椿創高",
       "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOM0NRZXdfbkljZ0c4SXlOQm04TlV5YU13dUFBbzhvY2hGWklaVVRRYmhfTTB1TWtwRGpuNnk1Y1k3ZXN0NDJ6VkhvcWxzUmdqN2xvM3I5Z3IxV0llQjJaNHZDbXNFZC1QMW5kd2s1S1FMYmROX0hmblJ5MlJwMUJDRDlmOFU3a2VIT05IMGl3ZEd3NFZCOFAwVmd3SUFwTXdSXzVTLVFpSUFOUWFMbGhYdWVyOWtrSm1ycHZOQTdJaUZseTBMa2l2M3VFd2FqblpieEMyNW9LeUhlcjNTTjBrNG56MS1GUmo0Z2tIeTZzY3ZGS2xVMFJWeDQycHN5YXcwdkRpRkdicnp2ZWJXZHRLX2ZOYlBFV2R1NWNtZUl6a2VxakRFOWZlX0FpSHZ3U1JSR0huYnhWakVZeFZOM2xnemxFYTJWZ012Mmh6clE3WHhFX2RkZ1FWdnlwQQ?oc=5",
       "source": "Yahoo股市",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
+      "title": "和椿8月營收年增132％創單月新高受惠訂單能見度攀升、助自動化布局加速- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14ejZ5WXlUM05ldkNQT2JMZ3hsR0hWUUhSLW9UMU5BZFlVRzdoQ05mREdHdUdra2k2VE9kZ3lkVE1JVEpyOUFVZER3dEc4SUFOcXUtNmUyamg?oc=5",
+      "source": "CMoney",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
@@ -58,12 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPQktQZkdHejk1c0IzWVRCWkV5V3VveWpEVVB4LVdFY19TV1lMNFNBSnBBR3lKT0FnU1hzV0FfQUQ3NW03TE1EbW43X1hPVW44dHNXTjBjNjRCc0h0NjBnMzVVU1pmT2JqRWlnWElxRXN1bURGcGJUSlB6eWNkOTlEeXdFMEwwbHF2MC1zcHJybmdnM1dnSWhPdmRGQjhTaE9YM2xZc3RKVjhHYjNvVzdsYUptZ0NaOFA1VmRlUV90bjk1NnNrUk9hVDU2V29jR29iZ2hNQmJ6Z0F4Y01YUkx0NUNRcWJmTllXbFhqeEp2aFpndVc1Q3dUTFZkV1BRNDRjcHRfQU1COVVrSnAwSlo0ZWNGT0hSUQ?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-08-26T07:00:00+00:00"
-    },
-    {
-      "title": "和椿張以昇不賣「單一機器人」！把多品牌接力搬進無人工廠 下一步還要做人形機器人生態系",
-      "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQQVM4SXlCWERXQWlETUVlYWU1dHhrR0F3UXJXVGRiZ2RTcnVFUlNxLUJOd2dTSVVna2dWakNiT3pnMzVxVlFaYWo5UW5oVHZHUUR4NXBmRkYtdllGT0NsRE9BUzBBbjhGb1hRSENfYllLd3liaVBVSmVjXzVrSkFZMUNheFUwR2stS2J6ZlJpTWFnR2hobkJmNHlSVVd4SmpWVTV3X05yeGZNVHlraTNhWlRpaWI2Y0NZbVBTeDNmLU5kZVoxUHNQUnhURHNsNDBGT0dZcGQzQy1IQ2xlSVFFVkxpeGE5aGw1eF92akFoQk9EVjZjU1c3U0hXSUY3dUdSbEFqa19GLTdVWm5DRnpnT29GNzlEVk5UV3hqT0JRLWRhaGRjcXlYMkt1elUzb2NwS0VxVzhkYUJzQ2dxTWtWWUlxVU51V2dnRVNseV9PcWljRHJWUlg1YVpDaExOUDN2Wjk4LUkwZWlwYmZEd0pMMmNXdXo0VzRE?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-08-24T07:00:00+00:00"
     }
   ]
 }

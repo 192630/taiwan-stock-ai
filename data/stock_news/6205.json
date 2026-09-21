@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-21T06:32:46.623607+08:00",
+  "updated_at": "2026-09-22T03:34:11.551102+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6205",
   "name": "詮欣",
-  "count": 2,
+  "count": 3,
   "news": [
+    {
+      "title": "詮欣下半年營收動能轉強，車用/網通明年貢獻續增",
+      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOTnZEbENxcm1GYVZwQlNuV2tDWHVHMUJPTGlHWXB1NFFyUVd3MWFUaXVadXMtS0s2YWZKU2ktT3pCcHZXejJPU3pLaHQ2dElRaG8zV3lxZjY2bUJtd0hjQlVlWkdzaC1SRTY2cVhTUWhvOVpmeC0tTUhrM21SeExvU3JMTU1oR0RnYjRfTldwOUZnOGYyaWFpQlpzRGdTOTBDY0FTTG8zYWJvU2VMcjVHMDNyckVHWDZuNGVFWllZNXlaRmx6cXhITHJWNVNpUy1xLWY3aDYzYk8yVXoydlZ3Rm1uWktmYXN0dUt6ZmM2Qkh2Ym1hY0FMSXFWY3JZMTM3cGNXVXR0dmJpQmpmd3lSNGFsOGVpX3N1VU9udlA2UVpEVlNqX2ZENnhWZFlZd3hYZzBDOVFadHcxdmY0ODd5SGt0d3RXZUFKOXFkSWtlZjJORHhVM2dwOFZB?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-21T05:21:08+00:00"
+    },
     {
       "title": "Chant Sincere Co., Ltd.收入明細 – TWSE:6205",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xZjhWOHdmM1BMM1F3bkdZS0t6NlgxV3VRNHZCenc4eTBreGJXSFU5dUtWZXBPTHZqSGFkV3RYckdOdXBVSXdWVXhrdGxyb0ZHdWhlaWI0YlBnR29yNi1ORjB4QTFJMENGd0NBZmdkczgxem8?oc=5",
@@ -14,7 +20,7 @@
     {
       "title": "【11:17 即時新聞】詮欣(6205)股價上漲逾5%，車用＋AI高速傳輸成長預期帶動，短線突破6字頭後技術面續強、法人近週偏多佈局",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc3p1THFhbWo5VEZOc0NMekNONjd6OVdZczBuVnhoQzRMNm9pVGp3c0xXR21DY0VvR0VtbzJQTFNnSnlJeXlONndsc005dlk4TGhHVFdNa3B0bkJXcHJ6eUN6U09XdzJzdDFLcTk3SkNyQUlwNG1ib3FaYlpIbmJrbENSRWJzZTZLTEFpaVp3?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-08-31T07:00:00+00:00"
     }
   ]

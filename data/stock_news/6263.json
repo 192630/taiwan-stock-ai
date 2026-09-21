@@ -1,0 +1,21 @@
+{
+  "updated_at": "2026-09-22T03:34:34.093473+08:00",
+  "source": "Google News RSS search by stock code and name",
+  "code": "6263",
+  "name": "普萊德",
+  "count": 2,
+  "news": [
+    {
+      "title": "搶攻全球軌道商機！普萊德前進德國",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qeUhTbXVIeHhxV2hILXhtUUhaQlVEM040WlA2eW12V1E5azE4VzJ3NEh5MUpRTzJITnJZY0xHQmlkMDhnaG1LVXYtOWVDcnhuczM0dEhOcXQ?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-14T16:18:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】普萊德(6263) 八月營收1.55億元，營收雙減，年減8.43％",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54dWV3NGNzT3V0bE9jQTNvRWNTc0l6QVBreFpMbHl2ZUpvNEo2dDhyRWFiOC1rQnVYcElXb3hETHZSdmFodlEyUnN0ZkZuQ09JRElYUnIzZjU4aDRDbVc0U0lnVFd1WG8?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-07T07:00:00+00:00"
+    }
+  ]
+}

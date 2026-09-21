@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-21T06:32:55.716318+08:00",
+  "updated_at": "2026-09-22T03:34:37.768909+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6272",
   "name": "驊陞",
   "count": 4,
   "news": [
-    {
-      "title": "驊陞科技Ultra96線纜取得HDMI認證以96Gbps頻寬布局新世代高速影音傳輸市場| 楊艾喬 | 地方新聞",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5zZHpkQUVDbU9aYjhXSWZQLU1Yb29ELS1fUkwtTFJFSlZiUU1mNXBKWnVjclRRdEc4VVpJUEt4VHhReHRQLVFrb252UXM4Zw?oc=5",
-      "source": "風傳媒",
-      "published_at": "2026-09-17T02:43:00+00:00"
-    },
     {
       "title": "驊陞科技 HDMI® 2.2 Ultra96 Cable 成功取得 HDMI® 認證",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeFJJTTJ5TFVxbjU1ZnVTWjFyY3VwRUs1LXU5ZXRrV0RVemlNbFRwSk9yT2lZYXFPZDFtWWp1RjhxeWtqZXZmc3pVVzJodWFROFBUa3kyeTktTE1rdkFRd3l4TFh4cFRnU1owd3NUNU5sejZEYkctM2JrTjZjV0UxbUNpSU80eERNTWhvSmw2YmR5dGhDSEJCcE9KQ3N0RlNqS2c?oc=5",
@@ -20,7 +14,7 @@
     {
       "title": "【10:40 即時新聞】驊陞(6272)股價上攻至30.5元上漲4.81%，受AI與電動車連接器題材加溫帶動，多頭結構延續搭配均線多頭排列支撐",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOGZlZHJNTFVqNU5ZRi15bjhUcWZYV3BiNjVLa2Z5azBIN1k5cDAtemZwRkx6SW1LakRmT0RVSDltQ0lXTF9wZWM2NlQ5V2F0Zy1DQmJPRDZ5R1VfR3ZCY3FYaDJVTnpNT01MeTVXdGdENGNzMnYxTHhhVWVnc01oaG5FN2pBblN3TUJpeU13?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
@@ -28,6 +22,12 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFByaGlQNkRkMFVPUEdQbmo5Znl1dWxWLXh4amhIUUh6d2dJbHIySXU5Vm10Zm8wTEpwdE1iandpb21fNnFpM21sV0ZxSWhxdzNGb0ZqbFVhazRPOHFF0gFiQVVfeXFMUEdxcHJoZThYRnV1VXVHNkpQQkdRemNxX242c2RvbWphWktETUJLZnkyRy1EN2lxOWtvdGowc19nMFJvWnBzRGJQMVUtZ2xwWVdXLUMyRllVWW5RNkM1aTAzOUE?oc=5",
       "source": "經濟日報",
       "published_at": "2026-09-03T07:00:00+00:00"
+    },
+    {
+      "title": "【08/26 申報轉讓】驊陞(6272)董事配偶陳正煌之配偶於26日申報轉讓驊陞股票共80張-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTldqZ1NSZkNFclJ5RENrV2kwMWNnUE5zcFF3Yng0eE03SHFpYmh0RTNjd0wxV3cxWGlhMnNtTWhrb2JwQzdvS0NPWUNtRGxkV2ZoeElwMVZBRzUzX1VQV2RWT1VQQ05sV0VHMkFzd2wwWVhsNlM4Y01ucnhBMjBJLS1hQWtKUk1NSHc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-08-26T07:00:00+00:00"
     }
   ]
 }

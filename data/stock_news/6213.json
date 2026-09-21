@@ -1,15 +1,57 @@
 {
-  "updated_at": "2026-09-21T06:32:48.307731+08:00",
+  "updated_at": "2026-09-22T03:34:15.407135+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6213",
   "name": "聯茂",
   "count": 12,
   "news": [
     {
-      "title": "焦點股》聯茂：降級「鬼故事」又來了！急殺跌停",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9weGtDZ0pTbWpiRVhjT3dxVlVpNEQ1Rk5hNWNtZWl2N1M2SWNZeDVuTU1PT09uUG9IenBYeVdJckRONEpXRXhNQkhReFZIV0VPaG1sNFBRTy0?oc=5",
+      "title": "聯茂爆違約交割3.19億元 台股今年來最大金額",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14VWtjVHhXTXBhUW5xcGVKUEFrRTNQblVTT1k2a3hYYnhaSHJfUS04Vk9Eb0JNOWN2ZHREVkhiaG8tSmtpS3dGTjNlNGJyV2RL0gFWQVVfeXFMTzZ2dkZUUHlOSThTU0EtOVNFdkIxeTI3cmhfMmZsRGp3cmY0QS1UdUlJTTRaM0NTRnRpZU4xSVFZNkN2RnFuakNaajZoMUVLWHpnV0hYeWc?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-21T17:54:24+00:00"
+    },
+    {
+      "title": "聯茂驚爆3.19億元鉅額違約交割 創今年上市櫃「單次」最高金額",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lNThpNnlfZHZFdU93SlY1d1pSaDNtcjRnSU5YbEUtcF9wSXpQM01KVEVFb1k3OHl6Q1oxOUU4UWtyUDItWjQ1VFF1Rkx3UkRPaGc2azloWXU?oc=5",
       "source": "自由時報",
-      "published_at": "2026-09-20T15:46:38+00:00"
+      "published_at": "2026-09-21T14:03:52+00:00"
+    },
+    {
+      "title": "台股驚爆聯茂3.19億元違約交割 創今年上市櫃單次最高紀錄",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1KTnZlbkNYb2NweE44N2RCQjRMeTA4ekI4Q2ZvS18yajdaOVYyX2ltblZCTVVzRkVXaTdpNW0yWGk1ZXQ5dXpCeGxYMA?oc=5",
+      "source": "鉅亨網",
+      "published_at": "2026-09-21T14:01:30+00:00"
+    },
+    {
+      "title": "少年股神大翻車！聯茂「違約交割3.19億元」 成今年最慘韭菜",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lZ1BhZ0pTekNVdXgycnJCNGpua0hhRDV0OG4waHpTR0poNlFwZDFJVVNpM2dOMndiU0NHcHhta3ZsV2tZS1Y4cEh4LXlTcDA?oc=5",
+      "source": "TVBS新聞網",
+      "published_at": "2026-09-21T13:58:00+00:00"
+    },
+    {
+      "title": "6223 旺矽- 主動式ETF連加碼三次的聯茂(6213)，今天漲7.33% - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xM0FLSVNhVVNLN0tKb3ZMWmhqYjhwZkNWTk92YlNzMmZxVzNPWmdiSzZEeUtzaVMydDU1c3NZUHA0cEpSZVg1alJqeXdqd2tpemp3YmxWVFg?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T08:52:30+00:00"
+    },
+    {
+      "title": "主動式ETF連加碼三次的聯茂(6213)，今天漲7.33%",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE93YURibnNqYXJJZmpwYVhTUS1iME9ROWxTeWN0TmFuNkJhdUQwXzZzOHpfR0pJNkhoTWhWNjRVSVZ6N2d1M1ZMVHJ0dnJma0FOWUc0RFcwZ0l2elMyZHJ1bzJBNENXb3l4c0w5UkZNSVpqS1g1ZTk4NXgtckk0UQ?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-21T08:52:28+00:00"
+    },
+    {
+      "title": "【12:46 即時新聞】聯茂(6213)股價走強，市場聚焦高階CCL需求與獲利成長",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNemdtSEJpNFpzRlIydHBiQmRXMGk2RWJwUXJ0dFBucVpjWmFkSkZHMXA3UXJ5RlpVNnNvYzFUeG9ySEJOUWdTMWtqOVFUVDBVM3JMV1kzc2kxaE9jRHozQ0I1Mkpla1R5Rm9IbG9IbUJudElRVHdIQXNyTUF5ZHZjM2pjWkpRWWFvbVJXdGlB?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-21T04:46:20+00:00"
+    },
+    {
+      "title": "焦點股》聯茂：南韓斗山宣布大擴產 高階銅箔基板供不應求直到2028年",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YY2JQQm9HamM2cS1ycUZ3MHFNN1Z5SVRDLWhfcmtTOXhpNjZwVWFSUHJFbnFVc1JHSUZ2ZElRRXBMZ0lhWkRfUVd2SlhkczdOR09lX3dXMEl6Q2QtREMw0gFkQVVfeXFMTll6aGp2RFFqV0t2b2N1V2xHODZTNm9NNmE3bUt0blVTTUdIclBhUFVJbzNDaHlkM1NKTGNhS3dHVXF6QUhYQnd0VXo3bEs2dWV4R2hOS0xKZnd6R2VSVGNockRSSA?oc=5",
+      "source": "自由財經",
+      "published_at": "2026-09-21T03:12:52+00:00"
     },
     {
       "title": "焦點股》聯茂：CCL成為賣方市場 連拉兩根漲停飆天價",
@@ -24,58 +66,16 @@
       "published_at": "2026-09-17T09:25:46+00:00"
     },
     {
-      "title": "鬼故事又來了？聯茂跌停、台光電重挫8% 大摩這樣說",
-      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQZHNTSG5tRndOTDROQktpbUJYQUlDNkx1cW0ybUxET0NreEJ5bUZhWnc2X3JDN1BmeWxmVnMyMkk2S2JQeWdUVGlXam1YMEJYU3NCWUFPS1VjcE5QUWR4YXpBanZYNk00NGJGTXNKc3VFQ0U4VF80cjVuX2ZWNFByZERPMG5MRkFQNllBUS1nNEE1VzRmQ0Ywb1NJbF8xVUU1RG9pTXFUT2RjZV9RNjcyQWRnSWN2NUFGZkJKRGRfR1lqSHREcUtocjhsZHd5bkx6dXdDSXlWT0tnRDAzQkJsaVNKYU95X2h1MERiNU5rQi1vWnlwTlZ4aG1Jd0lwRGxlaktwN2VuTlVfRlE2M0dVX1poX0oyRlRqSmp5Z0lGQUZENzVxWUo2cFVDTlpfVFA3cWx0d08xcXdJbVh4V2Nkc2dlcEFGRTZVNklPN3hRLTM?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-17T04:31:18+00:00"
+      "title": "聯茂(6213)子公司與轉投資主要持股明細 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFaEkzQTBvcjFpRW9tQmxOZHA1NEVza0cyTWJNWFFnZDNWdVBkSUVQY3lKVmVlTVExQVNmeUlrTjl0UXRqd01NempPTzRsTkpjR2hXSnRFVHIyLUdoMkpXdXljaw?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-17T07:00:00+00:00"
     },
     {
       "title": "聯茂暴殺跌停這原因？台光電、金居、台燿、富喬...CCL衰捲降規風暴法人最新看法曝光- 上市櫃",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xSm1uaGhmNXpaR2otRk12dU1xaXFjUXJjMDRfTEFSZ3poVnBzZGtOU3dYTDk2OWJvRjdTakxmQ2RCVGg1bHBJYmhtRTZOQ3BEQlNLT2ExRHRHVUk3VGh0VGNVd3lKUndLVmc?oc=5",
-      "source": "旺得富理財網",
+      "source": "wantrich.chinatimes.com",
       "published_at": "2026-09-17T04:11:51+00:00"
-    },
-    {
-      "title": "6213 聯茂 - 這人是誰？ 造謠不用講證據只需要猜測？ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PUlU5dFVhdURaaTdJTC1QbFozZ29tbDd0UVFUQWotcHdwY3I5UTRQRV9GTk1qSWZEWDU3TEh0MHRJS0ZxNjFhTG52emdGTVZyZGptR3BaNFA?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-17T03:04:20+00:00"
-    },
-    {
-      "title": "TWA00 加權指數 - 經理人張先生買200%的聯茂今日跌停板🤔 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DRHJnMW9HTy1Fa2FvcDl2ZloyVHQzYS1UWGxISDUxTWJEWmo5bHRPX2JTd2pZUlZPaGM1SkFuaVRtNDJHUGV3czJRZm9JS0otVm1xZlZwUFg?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-17T02:59:44+00:00"
-    },
-    {
-      "title": "聯茂：降級「鬼故事」又來了！急殺跌停",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QbHNVampZNXBFU1ZRYURvZlJSZUZNQW5OaFhHT1F6RThiMnNXbndWMTVNa3FjZGctUHk2bUZPSEhvVEFmM2d1RE1vd1Z5RXo3Z3FKSkhHY3o?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-17T02:55:38+00:00"
-    },
-    {
-      "title": "【00406A】09/16 操作日報｜狂買聯茂近兩百趴，資金猛掃AI硬體",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKbmNEYlUxcWp1bllCM1IxLXBxdWt4MWRjRmpmcUtQWjVJVzczQUM2ZFgtc3BfdFRZeWxZa0M3akZQSFJYOWRyenp5azJwTDhtbk1vLVcwdjRIcy1wdV93Uno0Y1BjTndEa3V6bEVIQ0FKbjZFNVJBOHY3bi1hUQ?oc=5",
-      "source": "cmnews.com.tw",
-      "published_at": "2026-09-16T09:40:57+00:00"
-    },
-    {
-      "title": "【12:30 即時新聞】聯茂(6213)股價走強，AI高階CCL題材續受關注",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTjN5RXcwUFNvcEZ0Y2ZKY1VxVTRibldLTTZfaEwxXzluU1F4cHNBN2NrVTBQMHhfTkpZU1ktNEhrcmZsRk1sWnNCQkZOelh6T3ZrUzhRWWE5MXFLRzkwbmZfVG5HWFhoXzFnNWpTcHdsRk16d19CallLUUpmbVBHc3FyQ0x5UmIwanVHTlJR?oc=5",
-      "source": "cmnews.com.tw",
-      "published_at": "2026-09-16T04:30:31+00:00"
-    },
-    {
-      "title": "ITEQ Corporation的Price to book forward – TWSE:6213",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcHBaNVFzZkhLNmJSbG9sNlVsWmtLS0tteTFZN29QWlZYckc3U2N2QVhmRzBSbExIeTFMaDZ6NU9hNlZIaUVBVjlncE1pdTh6cmRCbXdBZ2pZTm9oUTlLcUY2VDg4NXpueThBYlM2LWR4al9QMlpkOHJ4Qld4bS0zV2NaY1k0VDFjenJ0OERyeFcyRTl0WmNsaw?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-15T15:58:53+00:00"
-    },
-    {
-      "title": "聯茂(6213)營收查詢｜月營收統計與YOY年增率圖表 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE04ZDloV2NnNjQ2cjNGNVhQY2NIQmRrd3d6NFpucmlBT1M4WS1aZ0hESjUtN3Z1YkFXNFI0aFJ1dW9sSVlUQ1c3RTVwd3gzR21zQ2tRZU9OQXBVaTVq?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-15T07:00:00+00:00"
     }
   ]
 }
