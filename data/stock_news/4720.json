@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-21T05:32:46.333397+08:00",
+  "updated_at": "2026-09-21T23:33:16.894668+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4720",
   "name": "德淵",
-  "count": 7,
+  "count": 9,
   "news": [
+    {
+      "title": "【13:12 即時新聞】德淵(4720)盤中走強，AI與EV特用化學成焦點",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbV9qVEcySUh4VVZLdkN0aEhpMjVxMndKc3JQSWFSMEx3XzZudkhaN1ZGc3Y4Q0Y3RVdpWmxLQ09ySWhhbWR4NElQWm1XVmgxb1plNFpjMnZmWmlxakprR3pMR1Fpa0lsZUNXVHl3TEhvVnVGSW4zTlNuVVFwbGpiWlF6NUh2WTdaelRvNDhB?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-21T05:12:55+00:00"
+    },
+    {
+      "title": "討論牆 | 盤中速報 - 德淵(4720)股價拉至漲停，漲停價20.05元，成交1,103張",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hUGdzYjNoRndTMjVFZF9RemVybF80Y2JEZnJTOTlUcGtTOTNadTVnd1JEZE1zQmZjM3FPMUpuRWVjOFFNeG1wQl9UWXJERUFhMzNsVE96aUctZ3RHRURISnRXdUc?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-20T19:36:52+00:00"
+    },
     {
       "title": "【2026/08月營收公告】德淵(4720) 八月營收月減年增，全年營運續看向上-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNGotSnlmOXNzUXVNbFpINWZyZmxvWk1qVy1ZSmFGVldkVDVlVmVQemtjOGN0XzdLSnVteFNJSE5GcGp3VFh1bzhTT1htVGNDSzhCWGhUWHZ1bG1Eb3dJNkNfbFVrei15bVhHeUhOQmFwNi1BNHctMzdsYS13a2NXWFFMT0J4cWM5WUE?oc=5",
@@ -30,15 +42,15 @@
       "published_at": "2026-08-27T07:00:00+00:00"
     },
     {
-      "title": "德淵持續看好特化產品需求；越南廠明年H1投產 | MoneyDJ理財網",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMZzZUSGo1dXQyR3g2R3VrUkRiYzRXT1FMVjdma3F1N0JFZzZKaHhKUnpuZzREamJnQ1NNZUlQYVJtb1A1eW5HU1hxZjJWTDItWGQteF9B?oc=5",
-      "source": "LINE TODAY",
-      "published_at": "2026-08-27T07:00:00+00:00"
-    },
-    {
       "title": "德淵AI光電營收狂飆119%！矽光子＋CPO雙引擎點火 明年越南新廠接棒",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0SHpwS3RhSXYyREdja2lyMS1kTGwyaWtJN2xsNmlJMGlCNDRmeE84SzBPbUlQLVZhM1Q2bWUxYWF0N3pUNVRVRVFsN01PMElzeTdhdWEwWk5zT2lLSXBhcw?oc=5",
       "source": "民視新聞網",
+      "published_at": "2026-08-27T07:00:00+00:00"
+    },
+    {
+      "title": "德淵持續看好特化產品需求；越南廠明年H1投產 | MoneyDJ理財網",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMZzZUSGo1dXQyR3g2R3VrUkRiYzRXT1FMVjdma3F1N0JFZzZKaHhKUnpuZzREamJnQ1NNZUlQYVJtb1A1eW5HU1hxZjJWTDItWGQteF9B?oc=5",
+      "source": "LINE TODAY",
       "published_at": "2026-08-27T07:00:00+00:00"
     },
     {

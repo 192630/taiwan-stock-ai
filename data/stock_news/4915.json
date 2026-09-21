@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-21T05:32:54.918455+08:00",
+  "updated_at": "2026-09-21T23:33:37.363423+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4915",
   "name": "致伸",
-  "count": 7,
+  "count": 9,
   "news": [
+    {
+      "title": "4915 致伸- 【09/21 產業即時新聞】無線耳機族群強勢走揚，聯發科與宣德領軍點火反彈- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xeEV5WjBMdGZjZkZaTWRLXzd1Z2F4TFlDdWJ6MkF4WnhKVVNBd2FwdkNVTEZLakJqcU9PWEwyOS1nY2d2WmxFNFFsV0Z4YVBKdG10Slh1UEY?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T01:30:47+00:00"
+    },
     {
       "title": "【13:08 即時新聞】致伸(4915)盤中偏強，AIoT與智慧感測題材受關注",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcmFjRXBHcG9FRS02V2UyaktJMDRlam1hdTJ4alZWd29CMDlLOUVHV1MwTmVnMjRodG9mMTNOUzUtc0p6YVVLcm11YllObEFiZkJGMGlpQVdWQVN1Q0RxSzhnaDhDYmVtQkpZeTZqaTlQVUxqYjhrdWFFX0ZhU3lPa3dqSGdBTjMtUW4yQzZR?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-15T05:08:33+00:00"
+    },
+    {
+      "title": "致伸(4915)外資、投信、法人籌碼變化與自營買賣超總表 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53c1g1VTU1SzdqNGVmRXA0ZzB0QTRoakd4dm9yN2NlbEtiNE12OUJNTzRDVmZMUGdrblIxNW4tOW5nSkNiS0pTMUlMYUxORXJXVjI4SEhYbjFCelpKVWs5aFVJMl8?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-14T07:00:00+00:00"
     },
     {
       "title": "【11:12 即時新聞】致伸(4915)股價走強，AIoT與聲學新專案營收加溫＋短線脫離季線下方壓力、主力賣壓趨緩",
@@ -18,26 +30,26 @@
       "published_at": "2026-09-14T03:12:16+00:00"
     },
     {
+      "title": "4915 致伸 - 又見光死... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FVXF3aTExbHN3UmhabHVWSmF0SEVlUFFDbEJkN2hIbkhuZU1DVnV5OW43aHdVY3NQNUtORHhKYndJVmlqNUl3SzhtWGZZaXdQT2Jyb0JzMTI?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-14T03:04:37+00:00"
+    },
+    {
       "title": "4915 致伸- 致伸搶進機器人市場2026.09.09 03:00 工商 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5NFlvd2xjRGc0MkZVbDNMQi1jMl94ZUZJSWtuZ3pSb0VHNFBfd1hTMkZ5S3kzcVJvNmNFam95VGlwaFV5Y0tTUFBFWFRIbDRtdXVvc2pwRkg?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-09T01:58:13+00:00"
     },
     {
-      "title": "【2026/08月營收公告】致伸(4915) 八月營收61.27億元，表現亮眼、呈現雙成長，創近2個月以來新高，年增20.38%",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeGs1cTg0bllDWjU0aFJjZjBscmxxWlBuV1Y4amR3Vnd2aUtlX1FCaHRQR3dJbDJWT3ZxcW91UEtuZGV4OTdZRWFNMlBpUHBCODM1NmF4UzlhYnpXZktEMXBwVTBDdWsyeE56ZVYwZmhKQm43LXpucFRHV1R3a1dTTVZyTkNvVjJKLVE?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "致伸8月營收年增2成，AIoT/音訊新品挹注",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOZUhPYno3U3ZUTFJUTldxcTUzRVBRRTJWRV8yWVdQbkxjZ01lRVVWV1FORGtONDNPc2xWdnVjaWVMMEppcHhIRzRRZ0pUZWVoUU5kdVZCLWVNR3ZjZlA0TzlnWVZ2YnpWMzdJODhpZVNBVFpOb2NIOFFFMDU3QXYydVZOWWdVOVZWbVVXZ0ZYOHlYVmp4ZGMtWWg3c09TVk9xRHJXaFI3RFJxTC1Wc2loUHRWSDRjenIxWmNnZVJic2NYcTFWQXJBTG5nempBeWxIVklsV212Nnd0Ym14VjZsM1ROZ0pCQ2NNOUpMWU1DbHRGVks1Y0FXMUhXTEhuSGNWdUd2dlYzVVg5MzRLanc?oc=5",
+      "title": "致伸8月營收61.3億元 AIoT、聲學產品持續出貨",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPdjMtbnBsOUZzZVhKcTN3VngyNzdoN1FBQUQ1QklPVDVPVTdvNEU5LVBVMGdKVDJwOXdNMjNNYjZVSlZRaWVJRGt3Q3Z6VmFmWlNRZHNoWlJaQi04clRMTGhSUmxQSDVJOGFEX1BSRXpWX2ZKSU5DOEtFRHhIQjVIQ1dLZ0ppZTdPOGIyUmJfdnJTQldEbjRyeVR5Ti1KcmRUOFlJMUhBZHU4MzhyNUs3dmJEYklsdVNLVU1DSlc2WkhFbThXM2pRS1MtdFlWNHI2TElNWVVMQnAtaGdub3c2Ty1QWThvX1pDTXZmNXpOVFlTVmZHcFpEcC0zZlZGTDJmSzNmV0FXb2NZVXlXX2ZVa1gxdFJIUnFKbGx3eU13?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
-      "title": "致伸8月營收61.3億元 AIoT、聲學產品持續出貨",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPdjMtbnBsOUZzZVhKcTN3VngyNzdoN1FBQUQ1QklPVDVPVTdvNEU5LVBVMGdKVDJwOXdNMjNNYjZVSlZRaWVJRGt3Q3Z6VmFmWlNRZHNoWlJaQi04clRMTGhSUmxQSDVJOGFEX1BSRXpWX2ZKSU5DOEtFRHhIQjVIQ1dLZ0ppZTdPOGIyUmJfdnJTQldEbjRyeVR5Ti1KcmRUOFlJMUhBZHU4MzhyNUs3dmJEYklsdVNLVU1DSlc2WkhFbThXM2pRS1MtdFlWNHI2TElNWVVMQnAtaGdub3c2Ty1QWThvX1pDTXZmNXpOVFlTVmZHcFpEcC0zZlZGTDJmSzNmV0FXb2NZVXlXX2ZVa1gxdFJIUnFKbGx3eU13?oc=5",
+      "title": "致伸8月營收年增2成，AIoT/音訊新品挹注",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOZUhPYno3U3ZUTFJUTldxcTUzRVBRRTJWRV8yWVdQbkxjZ01lRVVWV1FORGtONDNPc2xWdnVjaWVMMEppcHhIRzRRZ0pUZWVoUU5kdVZCLWVNR3ZjZlA0TzlnWVZ2YnpWMzdJODhpZVNBVFpOb2NIOFFFMDU3QXYydVZOWWdVOVZWbVVXZ0ZYOHlYVmp4ZGMtWWg3c09TVk9xRHJXaFI3RFJxTC1Wc2loUHRWSDRjenIxWmNnZVJic2NYcTFWQXJBTG5nempBeWxIVklsV212Nnd0Ym14VjZsM1ROZ0pCQ2NNOUpMWU1DbHRGVks1Y0FXMUhXTEhuSGNWdUd2dlYzVVg5MzRLanc?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-07T07:00:00+00:00"
     },

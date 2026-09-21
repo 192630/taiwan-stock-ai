@@ -1,13 +1,19 @@
 {
-  "updated_at": "2026-09-21T05:32:56.979051+08:00",
+  "updated_at": "2026-09-21T23:33:40.506500+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4930",
   "name": "燦星網",
-  "count": 2,
+  "count": 3,
   "news": [
     {
       "title": "【營收快訊】燦星網(4930)公告08月營收",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1URmFWcDdyVEtTU1FSR1k5Q0tjdEV1Mm5vVUJQTzhld0RIYUlXQlZjM2xJNDlKaGpnUURTT19ZbDFKTGRINkZOVlZmWmx3WnYwaGRFdjkwd00?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-10T07:00:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】燦星網(4930) 八月營收6.45億元，表現亮眼、呈現雙成長，創近7個月以來新高，年增31.43%",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yLXdZZjlxQ0JWRVlGTFhaSTlXdHViZ1JvMHZhX3RGOVVGNGgzUVZ5enRyS0tEa0tfOUtvT2VfeGtOdjZYaFR4TGxBUld5Vld0bWdNX0dLazVTeEowRXVqSmFETkRmMEE?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-10T07:00:00+00:00"
     },

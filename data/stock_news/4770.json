@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-21T05:32:51.443358+08:00",
+  "updated_at": "2026-09-21T23:33:29.226938+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4770",
   "name": "上品",
   "count": 12,
   "news": [
+    {
+      "title": "上品在手訂單75億元",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mU25wOFdpa3c5QTJfSDhwZ2hUbElKZTBERGJKVXlEa1p5ZGttQXFfM3FXdVFKUU5PS0lPb29kS0ZpTDNyVF9TQzBKR1V0bnpP0gFWQVVfeXFMT0dJZm85dG5ueTJubTluZTlpVldZMTBEbjdHOXBHU1ZVTE5qQWV3QlJRa1hKXzItaE9pcDFZcXZuTENZUzVfeTJsUDV2QXVMZGhQS2d1OVE?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-20T16:50:29+00:00"
+    },
     {
       "title": "PCB材料設備股跌逾2%，資金轉進上品與揚博在賭誰續強？-葉博金融研究院",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYVIxQkpLaUU4M1dUeHI5QnlXUzAyNzMzMGdSMldpX0YzQlp3SlFsZUR2QjF3UUxvYk0xTUFvUmV5RUtLOUVYRTRDQjBIZlhvejltd0dybWl4SDFXRWFvRVlmQjNIS0xLdk5nazhQWU9PeUwwenc3c0lFRV8xNnMtSQ?oc=5",
@@ -70,12 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tOWl3Um5FenU1V0RRQTZqemVoZUJ1Vl9VOVR6bHJUX2RFOEFkdF9IcklhVDRJZ0hIR2otVkcxRmpmZWYwa09DbzczbURQV01PbEtMcHFsTmVVdjZoeW5n?oc=5",
       "source": "自由財經",
       "published_at": "2026-08-30T07:00:00+00:00"
-    },
-    {
-      "title": "中國遭川普「油債雙殺」！委國廉價石油飛了 4770億債務恐難討",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FOTl6czRncGVURTFXak0yMHF4T0c3NWVRZTRPQ0JLQU4wNzMtT0tmWmdsQnhTc2ZiQmRYZkZMNTA3Z1lOUmxCcTBPWVNRczFQd21nWEhPOWQ?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-08-29T07:00:00+00:00"
     }
   ]
 }
