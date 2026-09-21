@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-21T04:33:14.226493+08:00",
+  "updated_at": "2026-09-21T19:35:36.398793+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3416",
   "name": "融程電",
-  "count": 5,
+  "count": 6,
   "news": [
     {
       "title": "融程電董事長呂谷清：AI落地創造產業新價值",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YWmNEQ3R6Qi1Ma3dSWE44YWpkZnhiTjNZbFl6VEF0QXhaQ1JlTGZvNXk0cDd1VVBiQ3BsbTMyeGpUR0xYSk1VU05JaWU3dmF2cE9HNmloei0?oc=5",
       "source": "自由時報",
-      "published_at": "2026-09-11T07:55:43+00:00"
+      "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
       "title": "外資：週四(10日)外資賣超上市股票383億3416萬元",
@@ -26,13 +26,19 @@
     {
       "title": "無人機挹注，融程電9月營收拚年增8成首戰5億",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YeGxYbF9qel9uWVp3TF94T1hBVXBuRWFHWl9Pdmpiamd4ZkMzZENDYVM5VE1KVVhXM1hIdnJaMTVuNEdZUnZOWnFyZ1VmcWtCMUswR3k5Rlk?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
       "title": "融程電前8月營收寫新猷 樂看下半年創新高",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtX00wakpNWUg2WktTcmp5TklOZHFiMVd2VDlDT3V4UEc5elBjeF9lWUxzcU1WSXNVaWViOEt6VF9uZmtTdkhQN1lIQ2hLTUJ0TzM3RG03MDI?oc=5",
       "source": "自由時報",
+      "published_at": "2026-09-07T07:00:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】融程電(3416) 八月營收月減年增，全年營運續看向上",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBULUpBTk9NZnhTMlpkUlNjSG9mZF9pRnpjaHRHXzJiVUhXMjdTdHB1MGNHTnZrWHBaRzczaE1JLVBfTVlUM3NPNTdxY1ZDM3VzOW10bnYzcWNXY2haZ0pmYlpFQTlpbEU?oc=5",
+      "source": "cmoney.tw",
       "published_at": "2026-09-07T07:00:00+00:00"
     }
   ]

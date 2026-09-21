@@ -1,26 +1,38 @@
 {
-  "updated_at": "2026-09-21T04:33:09.504985+08:00",
+  "updated_at": "2026-09-21T19:35:22.733506+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3312",
   "name": "弘憶股",
-  "count": 8,
+  "count": 10,
   "news": [
+    {
+      "title": "3312 弘憶股 - 看到散戶高潮了 電梯向下嘍 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNY2EtNEdpZkVsY3U4VEY1SXpNMU1YX001Z0p6QkdVV2pCQ0dvTWpMRWRxNzNmWHFMODBjbE0yYnRvdEhwbjdERk10MklUVDBuMHJJb19fckc?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-21T05:18:58+00:00"
+    },
+    {
+      "title": "【11:48 即時新聞】弘憶股(3312)盤中走強，市場聚焦AI算力與GMI Cloud題材",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRnJHRGlTZUQ2U3g1eG1Yc0p0YTREOFFvLXRNM3JGbUNBeHFzamR3Qk9CLVJyU2pCd28tZGk3LXFXUXkySUdFXzJVNjZsa2J1Y1FCSHFiUXhlQmw3cUJ3eUhNV0lyQkRjT212RlZoaFQzQm5PRnZmcFJBUE80VHg4QWhyMER2SUl2VVpHa1B3?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-21T03:49:55+00:00"
+    },
     {
       "title": "討論牆 | 盤中速報 - 弘憶股(3312)股價拉至漲停，漲停價56.8元，成交853張",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Dcm9SY2hZbF84NkZiWHpOYzluMTR4b2pmWW8yTzNNZnJ4c3hsaGFaUHZ2SmZ6WjIzUkdxS1lva242QktiM3kyWVVLcTF0bXpWbVYyNFFqVmg4OWVFNzZMNXZTaVo?oc=5",
-      "source": "LINE TODAY",
+      "source": "today.line.me",
       "published_at": "2026-09-20T03:12:01+00:00"
     },
     {
       "title": "弘憶股(3312) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QNFJYVW5TYm5aVXZxTTNRV21zLUFYWTk5amtNWGhLdDVrME8tSnJRdS1IWS1CcGRsYWJGM3haRXVrX3BqbXR4d0U0cm9VclR6SEVR?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-19T04:49:37+00:00"
     },
     {
       "title": "3312 弘憶股- 八月3千點獲利😇月月千點入袋💕避險作帳買超跌股🌟 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BLTJKNlBNNmYyeVpBSlRHSDIydExhbEx6VXA1UzJLTmVGNzVYNFp2Y1FJakpTVGREZHR6d1c4RTlyUEZralZEdEtoc2Z2MHF2OEhKS0xFdjY?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-14T03:19:58+00:00"
     },
     {
@@ -38,7 +50,7 @@
     {
       "title": "弘憶股獲輝達力挺",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8zbkpVTGxNVnZacGlvZzkwVGs3cDk3b2EwZXA3M2hnbzFoT2N6cE5ONUxqUDBwckd6SmxqM05rRlJTQ0lJNUhMcGd4OV9Ya1hh0gFWQVVfeXFMUEpEV0dhMXNmRHd3TTRKb3dRWmdoV1hEcHZxVHVZZmVKa3NrX1E5MzRxTlFsMUt5U0U4amhtQWk2TzBINWVCaF9zSXc1Qll0X05Kd0ktR1E?oc=5",
-      "source": "udn.com",
+      "source": "UDN",
       "published_at": "2026-09-03T07:00:00+00:00"
     },
     {

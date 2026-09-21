@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-21T04:33:12.386792+08:00",
+  "updated_at": "2026-09-21T19:35:33.653129+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3380",
   "name": "明泰",
-  "count": 11,
+  "count": 12,
   "news": [
+    {
+      "title": "【10:26 即時新聞】明泰(3380)亮燈漲停，市場聚焦網通與營收爆發",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeXF6Ul9qcmtwanBvTERmYkQyZm5CVnU5TDdRamloam92MURVUzhTaTVNUWdYaGl5cXQ4SEFHRF9reHd6QktmR3V5Q29ENFFacjk0UFRpUjJMQmttOGdmeUQ4UnU4aGExNjY3VXdmdm9RcW5JVGtTcnZpV3lDY25NX3RYaG9FYlhfaVpGSTJB?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-21T02:26:59+00:00"
+    },
+    {
+      "title": "3380 明泰- ~媽媽咪呀~ - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kZkRLUlAxVDRlZnZBMV9VYWJqcjEtNlJMa250NHg1Q1Y3VHlSWXVuRUR4aTBsSFZwTEpyRFhTd0pEOTNSSVRiUU0yU0ZqdXRpOXVJbVZqc3U?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-20T06:55:10+00:00"
+    },
     {
       "title": "明泰鋁業(601677.SH)：出售三門峽鋁業2.50%股權終止 作者 智通財經",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUODR4YTNqLTRZNTRrcWJnWGQ5aG1NLVNaZV8zWEt2dGZPc0pic2g1Ny11OFBodjB1WTREeWZxLV81bGMwRk8ycUk4eG1IM0dVYXBWZExnMG5ZbEgwWHQ5azUwU1NPb1N2Zk04TmJuNDI?oc=5",
@@ -14,13 +26,13 @@
     {
       "title": "3380 明泰- ~鬼月貳拾捌~聽聽鬼滅細說深夜鬼故事~ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZNFZ5dklIQ3ZVd3lBUGI4TDh4a3BsWHJoc1NFQTJWV2p2XzI0Q0JIUGJEUW84RE9xdUdkc3RpWHc3anhmbDgyaXhpWVlsSmVSM3lUaWp4eHA?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-08T17:06:49+00:00"
     },
     {
       "title": "【11:26 即時新聞】明泰(3380)股價上漲6%，網通＋AI題材帶動買盤迴流，短線脫離整理區主力偏空有待換手",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RSnZVWmliZERQX3d5V2l0ZktUbUlTT1hZSDVJOUtfWjFVQWx3ODZ1QXVNTU0tODF6ejhFYTJ6UFYwTzAyRkppLVptbDByVU9mUFZ3eEctMV9kaDdZS2dMR3B0czdJcGs?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-02T07:00:00+00:00"
     },
     {
@@ -36,9 +48,15 @@
       "published_at": "2026-09-02T07:00:00+00:00"
     },
     {
+      "title": "【2026/08月營收公告】明泰(3380) 八月營收29.82億元，表現亮眼、呈現雙成長，創近32個月以來新高，年增66.88%",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd2ZPNm12NkFsYXl2UEJxQW9ZNTgwTmdjS2JlTURYdDZkaXNUQnhONEZnOF9iN2pDdlhPVktjaElsdWFuVk5vcFo2elRfS3FMR2ZidWRjMG9fbGpmTHo3RnNjbEctRHdiNENYX0hjenc5a3pNc0Vkc25aUVlfbkhYczFOb1NtZWJOY0E?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-02T07:00:00+00:00"
+    },
+    {
       "title": "3380 明泰 - 18次 你的目標不是40 怎麼差那麼多 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ld251eC1jOE5idVYwRHFxOW5pSERXUktWT242aWt1MjcwWktWN1BUOXVHUGRUZlN3cTVkRVl1WE0tY3ZXaGJvMkplNnpiQlJJYllBbHJGLXo?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-02T06:44:35+00:00"
     },
     {
@@ -50,26 +68,14 @@
     {
       "title": "3380 明泰- ~被網通耽誤的散熱專家~ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11OUp4S0RKZExhR3NyWU5Hczgya1daTkVselZSd0xUTzE4VnJ6aE5rczdzUHhFRFpQdE9TcmFGMjdjNGxmWENIY0t3R3R2UUNrejJ3OWFWVGE?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-08-30T07:00:00+00:00"
     },
     {
       "title": "3380 明泰 - （終於被點名了）隨著全球AI人工智慧應用高速發展，資料中心對... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FZjNrU0JxUFFSaWczTGpqdHEyRFhhTVBGbW5tc05XQjVFWjU4ZkxTNXpNcVQxdUtjT2NKcWlBRE1TYTQ2WXN4dFRFZzlIUEJoRWxZbW55TGM?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-08-27T07:00:00+00:00"
-    },
-    {
-      "title": "3380 明泰 - 台灣的主力，集合在CPO，上游漲翻了，下游一定有機會。要相信... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTRjNQUzZqQWwyWnU2MmpTWnd0cHJvYlY5dGctQy1JdG1uUEIwSU9QdVNrRDc3THhxbWlGbV9DakZ6dGR5MHByZC1hRDl1N2lDMkY0bElCZU8?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-27T07:00:00+00:00"
-    },
-    {
-      "title": "3380 明泰 - 耐心等待 加油 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BTjcyZ1djN3VoMEVtRkVmUHJQdl91UWptckFnRmpQT0VYZk1sX0IyeHE1ZXNYaTFWVDNZSnM0eGRXT296TnFRX1ZLVzF0OWFWY2Q1YzNval8?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-23T07:00:00+00:00"
     }
   ]
 }

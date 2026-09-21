@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-21T04:33:09.930763+08:00",
+  "updated_at": "2026-09-21T19:35:24.020142+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3321",
   "name": "同泰",
-  "count": 4,
+  "count": 3,
   "news": [
     {
       "title": "【2026/08月營收公告】同泰(3321) 八月營收2.34億元，年增16.94%-CMoney 小編",
@@ -14,19 +14,13 @@
     {
       "title": "【2026/08月營收公告】同泰(3321) 八月營收2.34億元，年增16.94％",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qUGJBMXlzZjl3bjdKN0VTQlAzWHd2MGxYUUFLQVhYRWpDOFhRMDNYMW0tMXBHSnkwM3RHZVhtQlBNbkdXb2VFUEE4MFRYQ1lFdGZHeWVpV3EyTWV6NUVxR3lSS3MtZWs?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-07T09:10:07+00:00"
-    },
-    {
-      "title": "3321 同泰- 泰國女排亞錦賽封后總理接見！60萬獎金現場入帳球員嗨爆- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1aY1dDVzRoQmtZNkp1bnBWcEZLU05USWZfZ1o4emlYODBfa2JLaW4yT0pEX2VSdWM5X0RPckZUd0VIVzRmTXg5amNRQllMcUFsQk42R2MzZjg?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
       "title": "3321 同泰- 【08/31 產業即時新聞】電子上游-PCB-製造類股今日漲勢強勁，AI高階需求催動買盤積極進場！ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZQ2JuLW0zT004c0w0NzFGS29RZ2E2aXIwaDJTT3hvbklVckRESERMblpUdm1SM0Rnb05aN081QzY2UWJ5aGU0NlpfcElkZDdHWWRLLVNpM1M?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-08-30T07:00:00+00:00"
     }
   ]
