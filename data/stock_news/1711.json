@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-20T22:33:21.253161+08:00",
+  "updated_at": "2026-09-21T12:36:47.867245+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1711",
   "name": "永光",
   "count": 12,
   "news": [
-    {
-      "title": "永光(1711) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GZXhGOGx0MjM3YTgtcEtRYUYyYVZrZldKMHZzZWxoZkxIamlHRWh5RG53enBSYnp4SlUtVmNIdl84a2dZUUM1czc3MVVVd2hQSVJF?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-18T12:14:50+00:00"
-    },
     {
       "title": "五年規劃‧施政報告｜信和黃永光：支持具前瞻性第一個《五年規劃》及新一份《施政報告》 (17:01) - 20260916 - 即時地產新聞",
       "url": "https://news.google.com/rss/articles/CBMivgRBVV95cUxPSG92ZlU4cGJ0aWl6UXVjZmJVS3lYOXZCQkFOMnBPRFpFUEhhMzItNVJNSW5vcGVPV0xaalp3OFVpbXZOYzBmWWhGNjhITjZMajZlb2dRZG1HdlFfR1FyakY2RGE4U1Z1SjNpaTJrb01jbmdWMXNDV3NZRElOSjRhTk5oSHF5WEZjYU1Cb3luUjRkTTZPTkktdXFYbFEzRFhrWlYzZktLY2ZTMURrRTlyQmpIZWxkNEVzcUdzdVhtOXp4ZXZJamI3VjBEMUgxa3dZeFNZX19fUlVPR1dzeHVvOE1LaE1hdk1mUzhIVURPY2lrb0hRS1VNNHprRWM0aGZFUzZqYzZtdkZxNHIxQTVpc0dVVmFhenV3cXVpU2hsUVRiMmt3ajNWeUdhajZuZFJ3N1RzSFpkbnZwNmcxdGpPR1N0NG9CODVpeDdpQ2IzMzF6Mzg4VXJhZ3BMWTdPTF83eTJNUmVtSGZWeUpNVkZvNFNWQ29DVlIxTUlkM2NNVjBKOFVoOFFOUGVrVkV4Slh2bHJyLTcxMFlzYUNkNURUTUVVaUhkenJlZzlNYThESzVBT3FkWFBCUXc5elJxdjVpMU1zcnI4Z3FIcGNpUkFlelhQLU0teW5MR08tRHpBeDExdkplUTVVRmFsMHg5NjFfOVpBaVJOTUFxUGQ2TEN1bHhxX0NDZ3VjZ1Z4UHFWcnN5X3JrUDFvLVluaVIxbVQyNkkxenRtdm02QW9hQU95Vk5RU0FhMmQwc01lV1R3?oc=5",
@@ -26,7 +20,7 @@
     {
       "title": "香港五年規劃丨信和黃永光：為未來發展勾劃清晰藍圖 對港前景充滿信心",
       "url": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxNM2xvY1NUUWUtREZLeFBDU0RpTkduS0I0Zlh6RXVTSWJ4QzlOVkJNNmZNcUY3UVhzUEp5QzNDUTV2X2tEdDMtUHpwdWxkaGhMdmNyUUdacWF3WUI0Q05sb203QkNISWNQTEYwamQ3NFVYMVpVbHhtd21MVXIzMWx2X3UyWF9yNlJIYUFVSHBfSEhyV3J2VjlYaUpEdTAwbXlCdFVGVktsUGNwV3VuQndmd0JtWWhnV1RzZDhnYkR6TnJ0VEtWUnFrRDEtcENFREJiUXVfQjBtSE82a1BoVE9nelFORl9ReUFTTTJfNUxGTmRjNnkxN0NpMmxHUXFFelFHU1FTeW9pUEpMNkJFQzRET2ZORms4N0dfUVdjM291Mks3NlAwTlhyQ2xFWTdDc3k2NGdJWTdadTB4NlA5NndLbzBTejgyc1NJdExDWWg5bWotTWthS0xoSDhaMWpneHVjMXFqN0xObExEemRHZV9HdTE5d01hNDJSUnRaYld5ZTBMMENTMW50OTV1SWs0OHpMeTFoaXd5a3FfWUJGZUczeXJTRmowaEhGa3lXSTZUSlhGQnJqTmdxWVM0Nk5DVTgxS2JR?oc=5",
-      "source": "orangenews.hk",
+      "source": "橙新聞",
       "published_at": "2026-09-16T08:07:59+00:00"
     },
     {
@@ -42,16 +36,28 @@
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
+      "title": "營收速報 - 永光(1711)8月營收7.47億元年增率高達33.16％｜新聞快訊｜豐雲學堂",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iQnlqeXIxZ0lvRTJEd1pCZzhFWUd4NkZYN1hhUDJlT3RRYXY4UDlkOFAyM3hVNnlZRmdnTjJTOVlXNUczMURpeVFrTTRhLUtrZHF3RmQ1cTBwakYxakxzanZkdGJVOGRPNUgtUmdGUmZ3R3VEcWc?oc=5",
+      "source": "sinotrade.com.tw",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
       "title": "1711 永光 - 永光陳偉望看半導體特化：跨入門檻極高！須與日商共存共榮- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1paTBMUmtGQlA1VVZuVmNrbUg1MHdLb2tBeWQxYUFXQWUyMmpxNThxSl9LN29VVzdUWlVjSGRxdDFpVWlTZlA3cUNwOTdxakREM2FOOG85Tkk?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-06T07:00:00+00:00"
     },
     {
-      "title": "【專訪】永光陳偉望看半導體特化：跨入門檻極高！須與日商共存共榮",
-      "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxOTGZSa0hITU9LWlppXzBSNS1jblZjamFTdjFrQjFFTFVVbVhxcmJER0t0Q3RUaUZSVVB6emF5NnMwcGZiZFhTUTdLUWpzcWF2MFk4b2liZlFoQmNMZEM5OEhoQklyZ2RtbHNHOTRscjV0ZnRIX0luaTNFbllMWjJ4aEoyWUwyRXlrWWkzdnJDdjdsQUZranBYcHVlWDh4OXVIQU9TZ1FCYlpEQmZaV0VDVjY4d3BIMlNWZGtfaXk0eTNyQ1lWaHgyMmU4eGUySFl6WHdGN1pxLTNmcm1yLVJ1RDVORnN3ODM0b2tCR0FkM09kTDA5elNqWmgwXzZYT05pZkdWSDFZZmFRcGY3amMtbWE3SnRQNWN6UTA2czhxRlF0VkUtQlhmWnMzM1ZHYnJrQzBKdDFDcV9PalZhbjgwcGdqM3AzY1ctTkc5WUxLel9ZZDU4MVJCdy1PUHQ1WjRHbnRKYzkwYkV4R09FMVJ3TnlVYVFsWTNLamNBMzF1RXNncGptTy14Q2kyVWFaMy1WVmliMHdEcVZSVW8?oc=5",
-      "source": "Yahoo新聞",
+      "title": "【專訪】永光陳偉望看半導體特化：跨入門檻極高！須與日商共存共榮 | 太報",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QWEduRmdHcDdDanA0LXdSNXQ4aHpBX1NROUs3R1VveXowaDN6d2tGTnhpRkFmZXhqcFBOTUxNUWZxVThTa1ZrMjNGcUNrdjN6dVZfd29R?oc=5",
+      "source": "LINE TODAY",
       "published_at": "2026-09-05T07:00:00+00:00"
+    },
+    {
+      "title": "1711永光｜「回測季線＋帶長下影線反彈」",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DTE4ta2FHMlVyZHF0T1NNVlduU2VRbzQ0aWhYcnZQNEVueVhocWQtZHk3ZWt2Ynd3c2pSNVE3Nm9tcDJYYzdlUUhsM2RQRnJ3bFl6Rm80TFI?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-04T06:22:08+00:00"
     },
     {
       "title": "1711永光｜向下尋找季線與區間支撐的沉澱格局",
@@ -62,7 +68,7 @@
     {
       "title": "信置全年純利升14% 黃永光：投得北都片區體現對香港信心",
       "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPMUJUbVlGTi16RjdLVjhTa0JFMmhOLVR1cW1ENFBMVmRWR0w2NG01RzRfT3BiODAzOTFUdXVPOXgwLXV6WHFfQWpwdTFSUjlkZTZ6c3BqdTBCVFBPV1dOQWhOam56RDdZU1Rndk1jaUVxZWNnd1hTdlR2UU9kOTF2eEhCMnBXR05ZY1VBckFZeVhpQUFYZk8yQUxTejJLM1YtNVA1Mkh4dS16b2hlMUgtQUFid0FFWWRaNW5Gd0NOOFZmaDlaZDg5SGZVT3BBQnBaQkxLQUF2U2FZX19DYVZqSGtGeE8tRklOTTEyVXpWLWtPckFkdy1nNmgyWTVEQURUdkMyUXFuU2N5a0xxdjJMb0JNcXNvVEtxQXNGektWQTJmdThFZko4NEhRSVN5WXZvZVhZNHVuUjdLZ3JpQjRpcTlCekxDZFkyQ0Zjd3pYbThtaFFGcTJDWWZBdUxxdFdwZ29UYTNHQ2RuaTA3SFk0ZEVweDE?oc=5",
-      "source": "星島頭條",
+      "source": "stheadline.com",
       "published_at": "2026-09-01T07:00:00+00:00"
     },
     {
@@ -70,12 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02X0lGMnI4ekh6dU5XbDJoeEdxWlhSSUc0SUIxV1dNWk00MXdnTi1jSzI1VmItcUJpbTYzZWw0Z1ZUNDY1b1pHOHBITmJmZU5jM3VBMlZKUjg?oc=5",
       "source": "CMoney",
       "published_at": "2026-08-27T07:00:00+00:00"
-    },
-    {
-      "title": "【13:30 即時新聞】永光(1711)股價走強至44.2元上漲7.15%，7月獲利轉盈與半導體光阻國產化題材發酵＋多頭均線結構搭配主力連日偏多佈局",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRnlqS0N6SFpWbmlob3o4bkhvU1JoZlB2Yll4N3NnU1lmZ0VtNmRTUkZTX19YYi13Sm5lOUVzRkkyOGltWlJRd3hzZkloSDJCcFpvVUVjTDZVRFNPbGhGemNmM0NfUmpVbjBDNHpSZE9yUmNMMFp4REloenRPcTk4QTNXWWFLWGhfWXg2U2R3?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-08-26T07:00:00+00:00"
     }
   ]
 }

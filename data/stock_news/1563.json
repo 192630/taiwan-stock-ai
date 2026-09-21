@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-20T22:33:09.633076+08:00",
+  "updated_at": "2026-09-21T12:36:29.846532+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1563",
   "name": "巧新",
-  "count": 9,
+  "count": 10,
   "news": [
     {
       "title": "1563 巧新 - 草股時程表 - 股市爆料同學會",
@@ -30,10 +30,22 @@
       "published_at": "2026-09-14T04:45:01+00:00"
     },
     {
+      "title": "1563 巧新 - 吃吃喝喝 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5oa2tkNWFtcUJiN0RYeUVVVDBVVEFlTEFhT1d5Qi02ZzgwdUx2dmRWRUw3S1V2UWNrbF9RNFIxX2FQcnpnZzJIVHBEQmhHNXhoZmVYQTV2Yjg?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-14T04:04:35+00:00"
+    },
+    {
       "title": "1563ETF數據：股利、報酬率(TSE:1563)",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RWGxpMHROVFo2SFVwekxlbE03V0Z2b2toTFdSMHpyWXdsNzVtaGgzZTdhZElDMGlHUWtKbXBMMFJyOVNRcDY2aDNuRVNtQzFucnJBNUw3MDRySVVGQUw5d2xn?oc=5",
       "source": "TradingView",
       "published_at": "2026-09-13T13:56:20+00:00"
+    },
+    {
+      "title": "1563 巧新 - 感謝主力草飯吃 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4anRTWG5halctRDFySFJLX2VmWXlNTjlWQmFBbVNCMVRKRjRXQjdvc2M0NHBGbzRyTUpreFQxVUIxdWpTVTlodkJqd1QxV1VDMXdKYVJlb2c?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-11T05:03:18+00:00"
     },
     {
       "title": "1563 巧新 - 早買早享受 - 股市爆料同學會",
@@ -50,12 +62,6 @@
     {
       "title": "1563 巧新- 雲林9/13民歌音樂會開放索票潘越雲、萬芳等人獻唱- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91blNuZHVZTm1NM0JleGhOOFRVVjQ4RmJ3Q1VPbU4ybWxjb0t4OGtYWUdOb3VBYmkyREdjVFI2YlIxajJ5UlFZME9vOEdYbHlJa2hYdXh3RHI?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-31T07:00:00+00:00"
-    },
-    {
-      "title": "1563 巧新- 民歌迷快衝！潘越雲、萬芳等大咖9/13齊聚雲林下午2點開放索票- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2SWRDVmN2WnJDVDJzZTJKNzlGREh0Y1hDa3JqNms3c3Q0MFRyMWcyZXJUcTAtc3VhZGpFWHMyRmpWc0tyeHQzZmNIOWE4LTNXbU9rS2otYVU?oc=5",
       "source": "CMoney",
       "published_at": "2026-08-31T07:00:00+00:00"
     }

@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-20T22:33:13.074272+08:00",
+  "updated_at": "2026-09-21T12:36:38.609468+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1603",
   "name": "華電",
-  "count": 6,
+  "count": 5,
   "news": [
-    {
-      "title": "華電遼能(600396.SH)擬向控股子公司增資1.7億元建設儲能項目 作者 智通財經",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4RUthTjl3RHROQWdyVmZPdTZWWVE5VHZQdUpqRm9tbW1LemNWdXZUMUQwTTVfOWJuWUdiZHh0dkI5bWxFMmY1RnNleVR4dG9HMElUSDFnRGtQWk13eWY5NXZiZlNqNUxUZU1TNzdBZUE?oc=5",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "published_at": "2026-09-16T10:49:04+00:00"
-    },
     {
       "title": "【2026/08月營收公告】華電(1603) 八月營收4.39億元，年增20.5％",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kZmd4S3dQMHRfbkEzUFltNmxRclRJRTFoLVBaVGhrNmxqUUx2NEo3bGtoZk01VDg2RHU3VVowY0hzamtKUXJhM2FRTi04aEVNbGctQ2UxTEZreEYwVElVdTdDZzFpaUE?oc=5",
@@ -24,6 +18,12 @@
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
+      "title": "金利華電(300069)8月31日股東戶數2.19萬戶，較上期減少22.38%",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zeGdORklUTUkxNThlX1VObEJrN05vdGZIUXYxczRTU0ltNnR2MXNOdmdMNVJ6b0w3dTFuc0VJRnZiRkFZY2lyZk5EdWF0aS1YUHc?oc=5",
+      "source": "富途牛牛",
+      "published_at": "2026-09-07T17:22:14+00:00"
+    },
+    {
       "title": "華電(1603)-同學風向與貼文摘要 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1PS09mR1VSaUVMUXlTTmVDR3ljSzlOeTNRR1BrSGJEdVFJeWVEdmFrMkR2S3F5NXhmelAxZ29uVWVkQko3LXp6R25WUjJjSHRvZFAwaE9jY21CazhfSDZ4TERB?oc=5",
       "source": "CMoney",
@@ -33,12 +33,6 @@
       "title": "高股息ETF被搶購！00918配息大增38%外資掃進1603張 「這檔」11日填息同獲青睞注資1.3億",
       "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQUlE5bFUyQXczZ25QSG02TGdINWdCSFBnZk9FbjFVcHZBVEdsQldqamlBOGhOMHRfX2Z4UTh0LVdYeDhiQXFxTkVCVDdPbzhzdEtjSzZVcEt1aEVDTXVvRnZGWG9zVVBCZ3ZSeGRPWmlqMGpWaFVBb3NfN3MwZVNsMUxlYm5yNE8ySjl2TEFSV29xbjBTdm16anRaMGk4RlRVOGZJQm5SbVVnTUlGRTN6d1pLeUczRHREMWQ1YllHVnJqdXRrb0FNX0xpbHBhSkt0SUl6b0puSERZeXZvVi1KUVdpWko1S3l1cFd3XzFmX2IzN2kyRzNGN2pPVnJPcE9JWUNkRlhWZlNiUEZvUUc5TG54VlRLb2JfMGRMcGsyb1BDbkUwODhGdElXTXoxSWZBVUlaeEFZX1dxSElwQV9YN2JKS2ZraU9iM1dvZ0lfbEI5VXFndnN6dFdkTlJyaUwyMjk4UzYxd1M4TG5IbWc2R2JOb0piVWp6YjQzYWZTeEhmcjhrZ095enlyNjZhU3NCa2xvZnNndjVhcGNlYTk0X2cwREIwNzZlTHJCbjY1RQ?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-09-02T07:00:00+00:00"
-    },
-    {
-      "title": "華電國際電力股份(01071)完成發行10億元中期票據 作者 智通財經",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qQURJdWJLSURiNk1DUFFXZU12bF9IcFkya3pkLWxERFBPREZ1QTNNaTNFOUJKNjNCZTctZm5OM3M0X1haYncySThxUTA5bjF1R0NMNFYtMXI0c1ljLS1iVWxqZWF2UmZyTzNtRFkyNl8?oc=5",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
       "published_at": "2026-09-02T07:00:00+00:00"
     }
   ]

@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-20T23:32:54.617617+08:00",
+  "updated_at": "2026-09-21T12:36:51.281998+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1721",
   "name": "國慶科技",
-  "count": 8,
+  "count": 9,
   "news": [
+    {
+      "title": "【09:17 即時新聞】國慶科技(1721)攻上漲停，電子化學品轉型成盤中焦點",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUzN6d3VhSlpZUTd4WGdBRUt1VGlWWUNoRUxwSHFBN0NmcFRsNHRUcGVQUDJLVVhoNk5ScDAyaW1XU0ppZzhWUHBwemhwX0dHWW03cEdKblNMRmtGNWZqUnRVN3VQczJ1S25KYktheGdEY1g4QmIyMG5odUlZbU9iNE9VeWVRUjRpQ3czMlNn?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-21T01:17:21+00:00"
+    },
     {
       "title": "今日最夯股／國慶科技開盤即收盤 量能增加有何消息？ | 市場焦點 | 證券",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80dGxWN0x6MGlhV2JqNnh6MEZwQmdSSFF2eWh6S1FOekRVQnBxaDZ3aTBaVzNCb3RlbnJxbS1lZUdTd2VRZWhKdllpSlN4UEJrbzUxTEpZYlBHUQ?oc=5",
@@ -48,9 +54,9 @@
       "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
-      "title": "【即時新聞】1721近日宣布更名亮燈，8月營收飆36%外資卡位還能追？",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS2xiY2FUVlBJUlJoT2hQal9NdkZobVE2WUZFNkdPS3pCTVdyektkTFRwUGkzYjlCeGZHalczbHJxUlFfN0hjbkpnS0laQW9HMkVvaE1qd0g2dmpwZDJDNWlOSDRsSm1NdFp4V3VMdVEyS0pnYXU4N1JKV3dGRnE3ejdFWkJic0FwTFU1Z2w4R2c?oc=5",
-      "source": "CMoney投資網誌",
+      "title": "【即時新聞】1721近日宣布更名亮燈，8月營收飆36％外資卡位還能追？",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ROVpiWUhWRENkMG51emtwdktxcFZVcVJZa1pBMzlLMkoybmdqbkV5TkNiOE9nNHI4STJlTEh2aTNRX0hJUHBOTWtoeUtLcXVQOFdSbW9MQXpSUkdBWkVoVzR1b3U0T1k?oc=5",
+      "source": "CMoney",
       "published_at": "2026-09-07T07:00:00+00:00"
     }
   ]

@@ -1,21 +1,39 @@
 {
-  "updated_at": "2026-09-20T22:33:20.374602+08:00",
+  "updated_at": "2026-09-21T12:36:46.918736+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1709",
   "name": "和益",
   "count": 12,
   "news": [
     {
+      "title": "【09:30 即時新聞】和益(1709)亮燈漲停，化工族群買盤延續",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWUdaNmlKNExtd1dQdFFSZi1fNHpaVWtqS2lXWnVYYTlkc1hSS2t6ckZJM3I3b183eDQ0TWZIX19ldlV5NGZnR3ZNSjEySEFiYm9oYzlQd0dncVlycEJiSFhkemw4S2E4UXhOaTJjUGV6TVZ2WmlZaExXV2paTXNJUVB5SVpLUzlvWDhxaVFn?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-21T01:30:35+00:00"
+    },
+    {
+      "title": "討論牆 | 盤中速報 - 和益(1709)股價拉至漲停，漲停價37.0元，成交14,677張",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45QkFTX2hXM0ZtX3dpcXVnMGpVdlRzb2VMUF9iQ29zNFAtei1IdEdyREFYVUMxcEFsUWp0Y00zNjg5ZFNkVjBINXhZU256ZkJwQlFxYnpPRF9aTnJVLVJNdDVuSHg?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-20T16:21:16+00:00"
+    },
+    {
+      "title": "熱門股》跨入半導體領域？ 和益大漲",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zN0dSemlXM0lVLTEzYlpvVVhNQjNBNUZDSzVTNFJ1NlJEOGl3YjNoODBKcWlKQkFha2RBNzVadHU0NEFkM3EwcnBHTWNLanJHWnFjYXYwbFU?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-20T11:55:21+00:00"
+    },
+    {
+      "title": "和益 1709",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZXhvLVZ2MnBraVJEZ0lLQm1LeS1WaThuQ25PMUo3MXpFcUlfRFFIcVJldHZyTldIbnJqT0FDd1RROFp0Vzd6NGRjekpCYlNWZ3pWLW0xOTNneVExSDRKcmd4a0VoRExWSzh4MjUydngwN0Qzb29jaWRrdGRXN0NPRm5qaVY1U0t3ZnlaU09nLUZmS0FHakhCSzdVR3IyVzlkNFVpZmtucDk?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-17T07:00:00+00:00"
+    },
+    {
       "title": "【09:53 即時新聞】和益(1709)亮燈漲停，量能與主力買盤成盤中焦點",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU0RPd1lEcXBaUURVY1c4MDFsbVN5ZDVoekptb3d1TlViY2hoM01KWmxQa0doNHdGY1l0d0Q0SWZtbXVVUjVaWjE3SmwxX2xyV3dpTzFtXzZLTHlfN3Y5SDNHX0pCZjdwTmRpWUJEWXJkMnYxWnJDamZqSUJ0RXhXZFN1UEpKb3lMbnNBeEhn?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-17T01:53:19+00:00"
-    },
-    {
-      "title": "熱門股》跨入半導體領域？ 和益大漲",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwUGVUOEJ2Mnh6VkJIMXU1ekJXSV9Xb2ZXM3ZjWTdPbWZwS3N2OFl3ejBfVTVEajVjNFZHdGZyWl96T25faWpVTnVBWEFmb2pJZ0QxRl9Gc3RwWnfSAVtBVV95cUxQMFBlVDhCdjJ4elZCSDF1NXpCV0lfV29mVzN2Y1k3T21mcEtzdjhZd3owX1U1RGo1YzRWR3Rmclpfek9uX2lqVU51QVhBZm9qSWdEMUZfRnN0cFp3?oc=5",
-      "source": "自由財經",
-      "published_at": "2026-09-16T21:30:00+00:00"
     },
     {
       "title": "和益外資助攻股價飆- 日報",
@@ -58,24 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZlZlYUplSmlZZTBrU1d3UVBrSVZQVUpBcmJ4X0d3d2hybmlfbGNEdWtzbnZ6RU9fOUplN1psVW4zOFNybXhPR3g0WjM4ZEl0Q3RiNmlHVlF0b1VhaHcyV08zMTA3Vm5GakRkZXBKR29rSTBTMFRTVERqUDgxVzJSOERtYzhRUkgtRGlrbUVR?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "【10:19 即時新聞】和益(1709)股價勁揚近8%，營收連月成長帶動買盤迴流＋多頭格局延續主力成本有撐",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RQV8xWkRDYzJWN0pyNkVCRmh6a3I2LWhMamd1Q2RCWFFBQVZwUjRBakFkVlFXdVBDVS1NUXd2N0tTMFdKamZqWVQ1YXRxbWlIM1ZDaFAzak4?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-01T07:00:00+00:00"
-    },
-    {
-      "title": "1709 和益- 站上32.3 元頸線，和益大漲8% 的背後訊號- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KcG9oMWxZb0FlcTVpbEhqZlotWld0dktlclZ2Z3VWazllcmNSRUFFN2ZzNnE1ek82d2stemxvODdnQkg0NVFNdTJNSUJqS0xqdG92OFo3ckw?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-01T07:00:00+00:00"
-    },
-    {
-      "title": "盤中速報 - 和益(1709)股價拉至漲停，漲停價36.75元，成交23,909張",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56SWdRODB4aWR4NnBUYmpMVTJkQ08xUUFXWTJ6SEFyTzRzVEUwRXFRVTFvRktSMHRUa21UcjJCSHhhRXNZQXl4SnRKVTczalZvcnZ1OTRUZF9kVWw4U2ZkcTl5Sklzdw?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-08-31T07:00:00+00:00"
     }
   ]
 }
