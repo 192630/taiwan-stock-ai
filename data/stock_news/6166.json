@@ -1,10 +1,34 @@
 {
-  "updated_at": "2026-09-21T06:32:40.522270+08:00",
+  "updated_at": "2026-09-22T02:37:27.205053+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6166",
   "name": "凌華",
   "count": 12,
   "news": [
+    {
+      "title": "凌華科技聯手友達顯示器 G2E展出博弈專用之沉浸式曲面螢幕",
+      "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOYldxZ0dmVHhaV3ZPMzAzeTlkMUNmQU1QZHQwQlk4SWRhU0E1bkFONGN3Qm90eFRzR2tpTFdfUEEtaklJZGdzXzUwWEw1eDUzSVN1VHJEMTYzekFmMEpYLXhWMF94aDRCV0lMczdycExLcGtfSHJVYUh3RC04OHhaVFFnc1VMNHpuUEpHOVVPYkVPWkhjYUg0NGpoRlRSMFpRamRjM3dtdVp1U2h5RjVuMU1ST3g2d0xtSThTemJYRWhkUXMtRDQ1NldCSHlZamQwTjI5SW5DcV9LYzdxLWszY2xHYm12MXAxekJJdW5vV2JPVXQyMXZ6dUZkOVYwdDBWV29SY2F4UVQ1clJWVDlVbzZ6dG5Wc2tyekx3Zm1oQmRSZlhDZ3REcEtZVElZZWp3em9xUHp1OGdxdUhoeU13S3NhN0hUTlY5SlJ3d0U5QjBXRDlyeWNJQWxybnNSdVhzcndQaEJJbi0?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-21T08:38:43+00:00"
+    },
+    {
+      "title": "△個股：半導體/機器人業務起飛，凌華(6166)Q3業績再戰新高，今股價衝漲停",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ25YamllS2NtUFZBd1hFNXpzRnhTaUM2ZzVhRmhvN0FNQWxsSWlVeWxMSFR4dWlWazBKRnF0cVp3Q3dtN0lOOVBWRy1qWmNhNDZmcmkxQjNId3dRSjROdGtzYU1ZTndoR0x0OGpLSGxUWmozYUJQenhrV0dMMDJiZWprcHg5Y1l2?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-21T05:27:00+00:00"
+    },
+    {
+      "title": "H2營收看年增雙位數；凌華明年拚賺逾1股本",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQRXZndGZZaTFWVEVxb2U4Rm4tcmlsS0c2SFpiZExscnFDVk9VcW82d2V6dnVQRTRLNHV1Q0hFcWw5VTdScW5Id01EUGNZenNWdGlFM2lzRExfUWszcHNzOW9FbVQ0R1BZRGJGMjc3ZVlVT2ZHVjNodS1NNW40RUlvcUlLTkNNTWhXYXNyUjNHNzU5bTNjWl8yTzlsRHNYcDZGVlNOYjJVdkZJYUNWMUpVU09TMVBwMmM0Nmo0TWs2NlVZMmVaVEdxYUk2YnR1eC1UWnFhakZsTWdRQzFTaEN4WXlsejJvVlEwQWJITkxiQjkxOGRCRW5pRWNYZlg3bkpvYmdqelZzb1FKOXF0RV9aVjBBeDBKQTdiZ3gyVTJrQ3JLeTNwdlRQVDB2T0I?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-21T05:12:11+00:00"
+    },
+    {
+      "title": "6166 凌華- 119進來啦!!! - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tWE1ZeFlHS1ZqcWtKRjAzOVp0bU00VU5udURBaXdRNGRaaGhNN05QS0h6NG1CcXVFdDkzVTl0SURrVHc0a0o3ZDZPRlBFOWdTdThNMkk4Mmg?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T03:35:42+00:00"
+    },
     {
       "title": "6166 凌華- 半導體設備、邊緣 AI 應用接單旺凌華今年獲利拚新高- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKa0o3c2NsM2RTWERMZERrWlVLQVhyeU5jY0loX0wxN2ZQUDI0a0NsT2J5VXNBaXNIenRhWmFLSFJYdnVDYU4tMU9YaXFlUnVxaGNIck5NYzM?oc=5",
@@ -15,25 +39,19 @@
       "title": "搶進半導體超級循環！研華、凌華卡位美中設備商 融程喊2027營收翻倍",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yT0RpelZ1VkhvSlFkZDdHZDZvbk9Kd1l5cHpuZ3cwVVlSN19OUkI2THhvNWtBUmcwMHFBbzlNQWR1Rk50NHdDbVAzVlJLZl94LU41OGgwUUlVZ9IBX0FVX3lxTE14RWcyRkJqSkY3SGtYWnBLYVU0MFRLaVF1eGhGdlk2aWxlSUNHek9HQkpQZ0pUR3E2aWg3Y3V5TlRYc1dacDZtMDJWcGpSOUxpVXhHWVdTT3cyc2hFcTUw?oc=5",
       "source": "經濟日報",
-      "published_at": "2026-09-18T09:00:00+00:00"
+      "published_at": "2026-09-20T09:00:00+00:00"
     },
     {
-      "title": "6166 凌華- 慢慢磨- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zVjF2MllGa2JHN0VZSExtSjMxY2g1SC1UYkRST2ZNeThWMXl5UHp2TlBVVlBYczBLQVB1TWNaMF9kbEVuWkZIQzZjT3VtOHRtRjExeGRhYUk?oc=5",
+      "title": "【11:09 即時新聞】凌華(6166)盤中大漲近一成，邊緣AI與工業電腦題材受關注",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PLXBUQVpjNnhiZXFRTUtDNUtmQlJzS0JrWVJaSG1LU2g2VTdVZkJ3ZTFUNUNKWGpTUV9uaDdnS2VjSTc3aTBzbFU2OEpYUWR0X0ZNVGJ1bVI?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-16T02:25:39+00:00"
+      "published_at": "2026-09-20T03:35:04+00:00"
     },
     {
       "title": "6166 凌華 - 快桃鴨！！！ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84al9kZVpBTlBpR0F4RG9ld095b2ZMa3k2SjhBSWZES2wtNHFsOFdSX0F0bkdyZXhUbTNmeHFRVlJtUlplcFY1TW9GclJCNUFNdTdXSE16eUE?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-16T02:01:10+00:00"
-    },
-    {
-      "title": "凌華科技聯手友達顯示器 G2E展出沉浸式曲面電競螢幕",
-      "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOYldxZ0dmVHhaV3ZPMzAzeTlkMUNmQU1QZHQwQlk4SWRhU0E1bkFONGN3Qm90eFRzR2tpTFdfUEEtaklJZGdzXzUwWEw1eDUzSVN1VHJEMTYzekFmMEpYLXhWMF94aDRCV0lMczdycExLcGtfSHJVYUh3RC04OHhaVFFnc1VMNHpuUEpHOVVPYkVPWkhjYUg0NGpoRlRSMFpRamRjM3dtdVp1U2h5RjVuMU1ST3g2d0xtSThTemJYRWhkUXMtRDQ1NldCSHlZamQwTjI5SW5DcV9LYzdxLWszY2xHYm12MXAxekJJdW5vV2JPVXQyMXZ6dUZkOVYwdDBWV29SY2F4UVQ1clJWVDlVbzZ6dG5Wc2tyekx3Zm1oQmRSZlhDZ3REcEtZVElZZWp3em9xUHp1OGdxdUhoeU13S3NhN0hUTlY5SlJ3d0U5QjBXRDlyeWNJQWxybnNSdVhzcndQaEJJbi0?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-16T00:40:22+00:00"
     },
     {
       "title": "凌華(6166-TW)8月營收年增48%創高、BB值衝1.5！為何毛利率反降至32%？",
@@ -48,34 +66,16 @@
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
+      "title": "【2026/08月營收公告】凌華(6166) 八月營收15.29億元，表現亮眼、呈現雙成長，創歷史新高，年增47.83%",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWEdQR1k3cXFtZ3NfSjJ4TTRzbzItTGhTSGZSSGQyTkpTYXY0S1ZtZU9aRGNsUmZRU0ZfemdGeTlQblJoREtSTzJqbm8yeEtNM2l3NlllcHc5Vzl6VjJqcGVOQWFmMEZTRlU1NGNRY21wdDdIY2I4OUZjcUFUcmRScDVNc1pyRkJLeFE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
       "title": "6166 凌華 - 這隻還有救嗎 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xNXEyaDR6MDhORFVLZEtjN1VrTWJKa0U3Y00wcy1weGx4OE5zc0hGVzI3S1RBT1RpYWJCNnV0MUtsUFBXRjZ0Vk0tb090dEczU0wwQnBwd0I?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-08T03:05:00+00:00"
-    },
-    {
-      "title": "凌華8月營收創新高 半導體、邊緣AI需求旺",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ROV93bEpzQ2VuSzZtRDFRWk9zQlFKeVFvOS1zSHI2OW4ydnplY1M1OEtsd3oxWUNwVHloTFVpOXVGUFEteTZvU1R4bjhfSXB3cGdiWHNnZTI?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-07T10:32:29+00:00"
-    },
-    {
-      "title": "營收速報 - 凌華(6166)8月營收15.29億元年增率高達47.83％｜新聞快訊｜豐雲學堂",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Ed29zVFdFSnNiby1iQnM3MHJxelB3a3huUUhRTFEwd01qVFRhU3c3SG80RW1VRkJvY3M4TW1mN3pOX0JVZlFhbmYyMEF1NkJCeWZaSndpMVRwQTQxcDkyS1JGeWhpbHpuUG96TU82X01kRGtLRWc?oc=5",
-      "source": "sinotrade.com.tw",
-      "published_at": "2026-09-07T07:00:00+00:00"
-    },
-    {
-      "title": "凌華8月營收創單月新高 各主要產品線出貨動能良好",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53Skd5NUtmTHY4UkxLTjMyeV9fSnRwaGgyVVpsZXR0X1pXZ3F4bTZOWHo3bWZWc1NLWFlkQU9SbVRCenE0OW1yVGJoaUNfOVU?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-09-07T07:00:00+00:00"
-    },
-    {
-      "title": "6166 凌華- 凌華8月營收創新高；續深化邊緣AI布局添動能- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBsSTIzZkJRMFJ4N0lmRFJOUHBUR0NEeGJzQTFfOFFoU3JidG9XS0dRTnA4clQ0V19Yc0dLOXRLSWpTZjB5SDBab2s1a2FPb0doWjNxMnNLeWg?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-07T07:00:00+00:00"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-21T06:32:43.725194+08:00",
+  "updated_at": "2026-09-22T02:37:38.051956+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6191",
   "name": "精成科",
-  "count": 7,
+  "count": 8,
   "news": [
     {
       "title": "3.8萬股東注意！精星9/22最後交易 「1股換0.62股」精成科",
@@ -22,6 +22,12 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rVlNzTHdzdExXcE1LTmZnX0UxSW12V1JmZG1XUmFKaEZoTkljUGctYXFIOWNmTEtNMDFyUDhOQlVMUllJQURWNnVkaGdkZ2lLTjU5eGxnRnpCNkJwQ1pwcFU0LW8?oc=5",
       "source": "LINE TODAY",
       "published_at": "2026-09-18T05:43:29+00:00"
+    },
+    {
+      "title": "3.8萬股東注意！精星10/1日確定下櫃 手中股票不歸零「這比例」換精成科",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qTkFYaXB1ZURIRHhZUHhSdXZ2cGZlMHk3OWIyeVJ4RFp5R1lzMjlfTXBxTHAxQ0VNaFoxRGs1eFF1R1ZhOEgyWDlwZFU?oc=5",
+      "source": "聚財網",
+      "published_at": "2026-09-18T01:54:10+00:00"
     },
     {
       "title": "3.8萬股東注意！精星10/1日確定下櫃 手中股票不歸零「這比例」換精成科 | 財經",
@@ -44,7 +50,7 @@
     {
       "title": "【2026/08月營收公告】精成科(6191) 八月營收38.01億元，年增20.45%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbTRPbzRTNWRfWVQ1YWR2cGpJUHladVZ6TzE0d1JDUnA4Y0R1WUNpRkRNaDdiTF9STU1obDJFcVg4TTZQbmZFaUJZX0kxWUthVUtQd01SYXpzVjdOQWlzR3pyRXVYRjhRZU1Na084Ti1qUmZXZDdubDhaYklOVXJnb3UzcGtqOTJaNFE?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T06:32:32.803599+08:00",
+  "updated_at": "2026-09-22T02:37:06.008658+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6112",
   "name": "邁達特",
@@ -8,7 +8,7 @@
     {
       "title": "【12:22 即時新聞】邁達特(6112)走強攻高，資安族群續成盤中焦點",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQW50bUJreVpKektfbzNsQmhoM0w0NXRDTENaTVB6NzZsT2kzRXlhSHBVZmNVOUVZNWRnbkNNcXc2TERQWTZ5a0NscmY3NlkyaDBUV2txX01uZ29UQVpRaGdKWDBRc1JuaEVKMEtXZUNPb0ZwNXNkcWRWa3ZCME5lWGlNVWI2M0k0WTl2UWFn?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-18T04:22:24+00:00"
     },
     {
@@ -30,28 +30,22 @@
       "published_at": "2026-09-16T08:49:49+00:00"
     },
     {
+      "title": "AI、資安需求強 邁達特、零壹明年樂觀",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KRlNtdWNoRWpsYkN6VzJYbXE5LUk5VFpQT1hWVk9hem5jN1pZSzM4ODJTVW8zN05wOVBhSXVhUVN0QVBWSkNsUDB3MzNtVlVOSEhxOE5LNkc?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-15T23:23:03+00:00"
+    },
+    {
       "title": "6112 邁達特- 大刻度起漲點就在昨天- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9leG5tZVBuX3k5elpWV3N4V2hRUXFnTWdEOWNNV0V1WElBMGljcGx6cG1vUDhQZFZXeFV1SXBjLUlJOEdQN0tQZkdDeGIxMGlCVmo5MEwwLVo?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-15T12:45:34+00:00"
     },
     {
-      "title": "AI、資安需求強 邁達特、零壹明年樂觀",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KRlNtdWNoRWpsYkN6VzJYbXE5LUk5VFpQT1hWVk9hem5jN1pZSzM4ODJTVW8zN05wOVBhSXVhUVN0QVBWSkNsUDB3MzNtVlVOSEhxOE5LNkc?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-15T06:30:00+00:00"
-    },
-    {
       "title": "焦點股》邁達特：AI資安題材發酵 高低震盪逾6％",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QbENnV002OXZNSUp0VVpaZnNqOFd0Ulh4cjdsV3dZdmRZT0tiYkV6dzJjakhpZXRxWTFsbjFtckRFd3lTQkg3TkdCM1QtQUxoamhpRGVoVGI?oc=5",
       "source": "自由時報",
       "published_at": "2026-09-14T12:25:00+00:00"
-    },
-    {
-      "title": "資安股嗨翻了！創泓科技、伊雲谷、邁達特漲逾半根 「這檔」切無人機攜華經等5檔亮燈漲停",
-      "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQMFNuMWpJTWVFV3ZJNGs5bFRoVHdhV1hTUDRWSTZhajA0SlJJUW9sckpMTXJIMEtvZXpGNXFoRUJzV2tEbnlnaThZbDQtdjR1S2dMNHU3b2xmdzVTUUFncGhoRi0zdzVrcGVIdllST2pHMWxEUU1yeGczV2REb1JVM0RhVUs0VlVaRm1Zc1c5NUI1X1I5QnB5alI4bDdwNURrempHRk5UV0F2V2RlOHQwMWRrdXQ3S1dRQV9MTmJ6V2RZY3RtQ3lpSnZhekR5RlM0MnRKYWs4c2JDOVVHaWJrcHB5c25melVGOUFvLWhtbk9XYUxtbUNZdTNMRFpEVmkyUnJXUjA3Y21iX19qSldLeEtKTmkxYmNGTUs2TVU3YWtZekx5RTlyUDNVRFhsYm91XzM1TnlQZzJDd1dWcnJhQmFCUUt5MTRUMEZGNG1EaFR3Rm9uRWdEbHpCUDVsNmZZNERrZndrR0U?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-14T03:30:50+00:00"
     },
     {
       "title": "6112 邁達特- 逄回量縮，再布局勝算大- 股市爆料同學會",
@@ -68,13 +62,19 @@
     {
       "title": "【09:20 即時新聞】邁達特(6112)股價勁揚至49.4元、漲幅7.27%，AI與雲端顧問題材帶動買盤，法人與主力籌碼偏多助攻多頭結構",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNWxRNmg1Mms0aVViMGhQdXFBTjdzcU5EcDVuRll6SVFCYlI0QzZXNVdiUHZJSVpEUVk4eEpmWTN4VnVkX0dkM2xhS0lHRGJxVWJQb2hHQnVLWXVkUnZjNzM2NVZuYUIyclQweFdGV0ZTeVhKT0RZS3lwWnlsdnJJRDVWV1NkYXJBLWNBblRn?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-14T01:21:18+00:00"
     },
     {
       "title": "邁達特數位股份有限公司",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSHk0VWNaWmFxWkN5LWNZbkNjYV9uU0dFY28wamhCYUYxMUI5aFViYmhzMDJKZ2RlNHIwN1dGWkR3cjFmUmZNUWlPXy1ZUUdleXZWUUhJNGtMbDFZeEdGVUpSTlFPYzItT2lpLVJXQ2pmUVRSZE1mVVRMUHQ1dmcxaEt2Q0hkdFlLVXhLRWw5T0o1ZXY2WmRZ?oc=5",
       "source": "MoneyDJ",
+      "published_at": "2026-09-02T07:00:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】邁達特(6112) 八月營收月減年增，全年營運續看向上-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU2IzVU1yTkphMWx2eWlkV255VmlLb2dYV1M2dnRwVUtWM0JaUUhneFBlYXZ3X1pLWlgzM3JhcERJdThVMnFVd0gzMXltUHdxMm9ZVEJlczBLTzNFcldUTTA3S3FPaEdIX3h6WURqalpnaHhjanBHUmhwc2NLVjk1YUh0NzdKRkFrR1E?oc=5",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-02T07:00:00+00:00"
     }
   ]

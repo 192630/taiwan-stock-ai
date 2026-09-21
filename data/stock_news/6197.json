@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-21T06:32:45.301565+08:00",
+  "updated_at": "2026-09-22T02:37:40.556331+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6197",
   "name": "佳必琪",
   "count": 12,
   "news": [
-    {
-      "title": "6197 佳必琪- 週k線為上升三法中繼再漲站穩20週ma日/週k線kd低檔金叉- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fVTJFaVdMbWVkOWRmQ0hPdldWa2tjV2trdTB6LTZJSk9iRVRGUHo1LWVvd1lPWG9hb1pvekpfMnBnaHdKV0oybjNhMVRUWEZFZHhrY3kzWlc?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-19T21:32:43+00:00"
-    },
     {
       "title": "6197 佳必琪 - 這檔還有人在玩嗎🤔 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlcFdEcXd6Ulp1THV4THF4ZTlSUXhvTEFKeVFlbGM3T2ZQaFpGWmpZVG1HOFlBajc4NnpzMEozNExLX1NvQkpEYmh4R2ZlSXFwSW5FNHpZeGc?oc=5",
@@ -30,6 +24,12 @@
       "published_at": "2026-09-18T02:28:27+00:00"
     },
     {
+      "title": "佳必琪(6197)借券與融券餘額查詢｜融資融券與借券統計 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpQnFzNm80eFRvUzM3cFpiWlJoOEE4VlZyR2JJWmNuQ0NUeDFuX0lwT0ZGSVJSODJtV2xnejlSTFNCRF81bXpuRjhkdkowMF84QkdYNGpmVi1CNVA3TENVVHBoUXAwdw?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-17T07:00:00+00:00"
+    },
+    {
       "title": "6197 佳必琪 - 鳥到有勝喔 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LV2dYNkhzZ2NZVGtHcUhWRXZvaVRWWWNEbGFYUTJNLXFkY2lwcl9oLUdmNzhqSEk2WFo3OTVSclVOZVdMcHVrN0V4dERhcUNlOGFSSW9zVno?oc=5",
       "source": "CMoney",
@@ -38,24 +38,18 @@
     {
       "title": "【12:41 即時新聞】佳必琪(6197)股價上漲逾5%，法說會AI長單與1.6T光通訊出貨激勵，短線承壓結構下續攻月季線成關鍵",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNGZ2dU5vb29TcG5XUmRKc0d6U3J6WmZFTjVwdEl3RnVYUlpGODdLNGVYX3JHZXYwZXBZUlFZZ29yeEdWRktyTjloT0dFMllDMmNzQVgzbkFsLWhqYzU5U2xlZlo3YnlZcl9rOUpQLXE1WTZnRnF1TUYyNWstQm02OFpJMlpTUG02ZUFXREpB?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-04T07:00:00+00:00"
     },
     {
       "title": "【09/02券商評等報告彙整】佳必琪(6197) 今日有2家券商發布績效評等報告皆評等為看多，目標價區間為401～450元。",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSlpyeDRQa0U1T0V0RXEtR2duaFlDLU85bmhzYVdpMFhzUnAxWFVZWUw3ek92cW9uSkhKUUw3aW1jUFpqcmxla0ladWJtb210R1pzOWJEaFZ6cjRxWW1wUzE1MUhLblBuTjJOZ25JelpfODY0d0J2SFZZT2IzMGRmU25tSWEzUmhQZHc?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-02T07:00:00+00:00"
     },
     {
       "title": "佳必琪光通訊需求成長顯現，今年營運估創高",
       "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNaDVXRVNjSXIzbTFkNGU1azV1a0VSVW5ZeDZhQm5EeUlOUEdQVWZYb1BfOWlGbV84ZnV4X28zNEJTMjA1MGROUkdQNTlybEI0YUdraUxhNFRNcUh3WGFiSXFXY3VDbUNnWDd0NzhCWTRNT0lzcjFpblZjbnB0Q1EyYjJBMkh3WnZtZE8tOGZ4Q0RTclZhUnA5NklhcmV3X2FRVkR6TEFEb0ZqX2oxMHZBTTJwMjNHSFZ1MzBhVjVmYmdHVV9PbWt4UVM1d0VQN1QtbWFLUzA3aVBZSGxIN3dKcVJzdWNkNGJ0YXpjUG5INnV1LUo3WTRhM3BLcHNRSHhpOU9ybEFaRWo2M1NQVXUzT1lrY0NzaVhEM2pycnktZUJDQ2pmM1RiTVlITWFBV1FLYlZpRWROdHZ0WHgyQU1RUQ?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-01T07:00:00+00:00"
-    },
-    {
-      "title": "佳必琪接單熱絡 CSP客戶下長單能見度直達2028年",
-      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPelZ5UTUya3NNY2xCcUpKa2lCMlFZeHRrWU1YVE55RktoQ0hXblg3cDd2YW1INmhBbm0tc3EtbkFoNTg0SlZFaGxmSGlEWDdGQXZfd1ZrWWExM1ZtZFlfMUFodVB2QzdmZURSV3VpY0JkenI0d3oxV3cxdE9zMlZGVlQ4TXVFUEZ1b3hsMTZXN19hNDUtc3JPUHg4b01GTTdsUm0ya0xySDdMaVZTdkFXMUZwanFWbDQwMGdsWTYxS2FWNWRBSnhEZEtOaFBvQmRIS2dSeWx2ZHR6TnFyTlJyMnZfMWpZbXc2M0dGb3gxM0hqTXZuX1FlRnBoYnVoNllvcFU3TUJibjlrZFVrUUNMb3FreFpkcThTZ1AzTXlueWRYQVJQV2FfZC1UeWE4ZWRVaVBOUkFPWUI4cXB1clE?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-01T07:00:00+00:00"
     },
@@ -66,16 +60,22 @@
       "published_at": "2026-09-01T07:00:00+00:00"
     },
     {
-      "title": "【13:21 即時新聞】佳必琪(6197)股價走強，AI光銅並進與高成長基本面支撐＋中短期技術面壓力下的反彈買盤觀察",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUE9TWlJnejFGbkxOck9GbkE2NUY4R016aGFrdEQzWlNSTmx3N2JJTTFpZlRHWTZRd2NhalRZZ0FkbEt4TmQycTFGdGNIRFRrc1hFcmo5QjRhTnpKanprcUo0MmhyTjRnQXVYMHgwWE9MaHVsVHIyalZrYTJtYkhmS2x5OHluNUxfcmZOYTlB?oc=5",
-      "source": "cmnews.com.tw",
+      "title": "佳必琪接單熱絡 CSP客戶下長單能見度直達2028年",
+      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPelZ5UTUya3NNY2xCcUpKa2lCMlFZeHRrWU1YVE55RktoQ0hXblg3cDd2YW1INmhBbm0tc3EtbkFoNTg0SlZFaGxmSGlEWDdGQXZfd1ZrWWExM1ZtZFlfMUFodVB2QzdmZURSV3VpY0JkenI0d3oxV3cxdE9zMlZGVlQ4TXVFUEZ1b3hsMTZXN19hNDUtc3JPUHg4b01GTTdsUm0ya0xySDdMaVZTdkFXMUZwanFWbDQwMGdsWTYxS2FWNWRBSnhEZEtOaFBvQmRIS2dSeWx2ZHR6TnFyTlJyMnZfMWpZbXc2M0dGb3gxM0hqTXZuX1FlRnBoYnVoNllvcFU3TUJibjlrZFVrUUNMb3FreFpkcThTZ1AzTXlueWRYQVJQV2FfZC1UeWE4ZWRVaVBOUkFPWUI4cXB1clE?oc=5",
+      "source": "Yahoo股市",
       "published_at": "2026-09-01T07:00:00+00:00"
     },
     {
-      "title": "佳必琪AI訂單暢旺到後年 1.6T迴路模組出貨美客戶",
-      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNbHZfNUMzbVVxNy1ZNzhQdXBIYVIxdTdYd0pIQllOeVJDOWJ2b0ZhUkpWYWVURS16UTNWRVhBQUxycExKRlRXU0tKUFN6WW5KaFVJLVJaalhzZEZGNUF5OGE1d3ZwYTVkbThGUEREOGx3ZUltaFhfVTJfWl9uR1pYemhiUURXLXp4cjFVeXRWQjZtdkxaN0FVXzV6OUVzZk42WTFEM0pfSEFxd1M1U1NMbHE3Z2hHQlE3eEtsTnVWMDBacjM2Q1hmb2RHR0JaTV9SdmxCb2tSa0JDYXdkNFRCM3Zrb3JIVUZEQS02ek1EYmhEcFMzV0ZzNUVkTVd3SGVkSk1iRVdsU2t3QXVySFVCNkVQeXFYcmtDTkFyb2lpTlo0Z25LMHZTUDE1SmpNbXVEQ3Q2Yk80Qkp3blRibXhmNA?oc=5",
-      "source": "Yahoo新聞",
+      "title": "【13:21 即時新聞】佳必琪(6197)股價走強，AI光銅並進與高成長基本面支撐＋中短期技術面壓力下的反彈買盤觀察",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUE9TWlJnejFGbkxOck9GbkE2NUY4R016aGFrdEQzWlNSTmx3N2JJTTFpZlRHWTZRd2NhalRZZ0FkbEt4TmQycTFGdGNIRFRrc1hFcmo5QjRhTnpKanprcUo0MmhyTjRnQXVYMHgwWE9MaHVsVHIyalZrYTJtYkhmS2x5OHluNUxfcmZOYTlB?oc=5",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-01T07:00:00+00:00"
+    },
+    {
+      "title": "6197 佳必琪- 今日最高46574已過46552，大盤百分之一萬過48218 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XUHZDcDVpNmN4UXFOSTlUTTRyVG5XY2hOWjdSbkt4VGI0c1M0ZGZPUll4NktucnRwbnZtOENubVlyelE2ZUNNbEVmM0ZpY0NhWlV4UTctZnU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-08-28T07:00:00+00:00"
     }
   ]
 }

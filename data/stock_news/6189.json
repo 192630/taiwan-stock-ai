@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-21T06:32:43.243983+08:00",
+  "updated_at": "2026-09-22T02:37:37.096534+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6189",
   "name": "豐藝",
-  "count": 2,
+  "count": 3,
   "news": [
     {
       "title": "豐藝第二季轉換普通股已上市46,360股",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43WlozMnJHQ1JUT29XOUFoMEJUY2ZscHk0dGx4M3hhWW9xVkdVa3hZMEwyU19pTEVQMTBrT1NieXdDMjQtZHRIQkNQUU5VSW1hLTBBdGxCOXY?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-18T02:37:02+00:00"
+    },
+    {
+      "title": "豐藝電子股份有限公司",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTWVqUDdROEFfdGh6NklXRlhLekNKcERCeGV5aW9vX05YcERJZ2VWbDlJZENRSmR1UUJtLU9La1FrMUtEVWl1M1NDdG5DZGVnektSc3BMV1RmYkpIZmhhbUF1Smsya0hYcFA0R1l0VjJCNUljTFRhWUtURnRIbmx0WG5ScU5qNktIY1dSSEFsMS01a2xOSUdZ?oc=5",
+      "source": "MoneyDJ",
+      "published_at": "2026-09-18T01:14:00+00:00"
     },
     {
       "title": "【2026/08月營收公告】豐藝(6189) 八月營收24.85億元，年增11.83％",
