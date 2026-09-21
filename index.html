@@ -1936,6 +1936,11 @@ footer{
 .global-alert-result{margin-top:13px;padding:12px 14px;border-radius:13px;font-size:14px;line-height:1.7;background:#eef3ee;color:#405248;border-left:4px solid #7b927e}
 .global-alert-result.triggered{background:#f7ece9;color:#75483f;border-left-color:#bd665e}
 .global-alert-note{margin-top:9px;font-size:12px;line-height:1.6;color:#6b7785}
+.financial-section-title{margin:18px 0 9px;font-size:16px}
+.financial-period{font-size:12px;color:#64748b;margin:-4px 0 10px}
+.financial-value.positive{color:#c55047}
+.financial-value.negative{color:#159947}
+.financial-source{font-size:12px;color:#718096;line-height:1.6;margin-top:12px}
 @media(max-width:620px){.global-alert-grid{grid-template-columns:1fr}}
 
 </style>
@@ -2092,6 +2097,17 @@ footer{
       <div id="companyProfileGrid" class="etf-profile-grid"></div>
       <div id="companyBusinessNote" class="plain-note"></div>
       <a id="companyWebsite" class="company-profile-link hidden" target="_blank" rel="noopener noreferrer">前往公司官方網站 ↗</a>
+    </div>
+
+    <div id="companyFinancialsBox" class="etf-detail-box hidden">
+      <h3>💰 營收與獲利</h3>
+      <div id="companyRevenuePeriod" class="financial-period"></div>
+      <div id="companyRevenueGrid" class="etf-profile-grid"></div>
+      <h4 class="financial-section-title">最近一期財報獲利</h4>
+      <div id="companyProfitPeriod" class="financial-period"></div>
+      <div id="companyProfitGrid" class="etf-profile-grid"></div>
+      <div id="companyFinancialSummary" class="plain-note"></div>
+      <div id="companyFinancialSource" class="financial-source"></div>
     </div>
 
     <div id="globalExposureBox" class="etf-detail-box hidden">
@@ -2806,6 +2822,8 @@ let activeEtfChanges = {};
 let activeEtfTrends = {};
 let activeEtfNews = {};
 let companyProfiles = {};
+let companyFinancials = {};
+let companyFinancialsMeta = {};
 let backfillProgress = {};
 let globalMarket = {};
 let globalMarketReady = false;
@@ -2819,6 +2837,7 @@ let activeEtfChangesReady = false;
 let activeEtfTrendsReady = false;
 let activeEtfNewsReady = false;
 let companyProfilesReady = false;
+let companyFinancialsReady = false;
 
 let activeEtfExpanded = false;
 let activeEtfRankingData = [];
@@ -3433,6 +3452,7 @@ async function loadCompanyProfiles(){
     companyProfilesReady = true;
     if(currentStockCode){
       renderCompanyProfile(currentStockCode);
+      renderCompanyFinancials(currentStockCode);
       renderStockEtfOwnership(currentStockCode);
       renderGlobalExposure(currentStockCode);
     }
@@ -3443,6 +3463,29 @@ async function loadCompanyProfiles(){
     console.warn(error);
     companyProfiles = {};
     companyProfilesReady = false;
+  }
+
+}
+
+
+async function loadCompanyFinancials(){
+
+  try{
+    const response = await fetch("data/company_financials.json?t=" + Date.now());
+    if(!response.ok) throw new Error("company_financials.json 尚未產生");
+    const json = await response.json();
+    companyFinancials = json.companies || {};
+    companyFinancialsMeta = json || {};
+    companyFinancialsReady = true;
+    if(currentStockCode){
+      renderCompanyFinancials(currentStockCode);
+    }
+  }
+  catch(error){
+    console.warn(error);
+    companyFinancials = {};
+    companyFinancialsMeta = {};
+    companyFinancialsReady = false;
   }
 
 }
@@ -7237,6 +7280,140 @@ function getInstitutionValues(row){
 ======================================== */
 
 
+function formatFinancialAmount(value){
+  const n = Number(value);
+  if(!Number.isFinite(n)) return "尚無資料";
+  const sign = n < 0 ? "-" : "";
+  const absolute = Math.abs(n);
+  if(absolute >= 100000){
+    return sign + (absolute / 100000).toLocaleString("zh-TW",{maximumFractionDigits:2}) + " 億元";
+  }
+  if(absolute >= 100){
+    return sign + (absolute / 10).toLocaleString("zh-TW",{maximumFractionDigits:1}) + " 萬元";
+  }
+  return sign + absolute.toLocaleString("zh-TW") + " 仟元";
+}
+
+function appendFinancialItem(container,label,value,className){
+  const item = document.createElement("div");
+  item.className = "etf-profile-item";
+  const small = document.createElement("small");
+  small.textContent = label;
+  const strong = document.createElement("strong");
+  strong.className = "financial-value" + (className ? " " + className : "");
+  strong.textContent = value;
+  item.append(small,strong);
+  container.appendChild(item);
+}
+
+function financialChangeClass(value){
+  const n = Number(value);
+  return n > 0 ? "positive" : n < 0 ? "negative" : "";
+}
+
+function renderCompanyFinancials(code){
+  const box = document.getElementById("companyFinancialsBox");
+  const revenueGrid = document.getElementById("companyRevenueGrid");
+  const profitGrid = document.getElementById("companyProfitGrid");
+  const revenuePeriod = document.getElementById("companyRevenuePeriod");
+  const profitPeriod = document.getElementById("companyProfitPeriod");
+  const summary = document.getElementById("companyFinancialSummary");
+  const source = document.getElementById("companyFinancialSource");
+  if(!box || !revenueGrid || !profitGrid || !summary || !source) return;
+
+  const item = companyFinancials[String(code || "").trim()];
+  if(!companyFinancialsReady || !item){
+    box.classList.add("hidden");
+    return;
+  }
+
+  revenueGrid.innerHTML = "";
+  profitGrid.innerHTML = "";
+  revenuePeriod.textContent = item.revenue_period
+    ? "月營收期間：" + item.revenue_period
+    : "月營收期間：尚未提供";
+  profitPeriod.textContent = item.profit_period
+    ? "財報期間：" + item.profit_period + "（累計數）"
+    : "財報期間：尚未提供";
+
+  appendFinancialItem(revenueGrid,"最新月營收",formatFinancialAmount(item.monthly_revenue));
+  appendFinancialItem(
+    revenueGrid,
+    "月增率",
+    Number.isFinite(Number(item.monthly_mom_percent))
+      ? (Number(item.monthly_mom_percent) > 0 ? "+" : "") + Number(item.monthly_mom_percent).toFixed(2) + "%"
+      : "尚無資料",
+    financialChangeClass(item.monthly_mom_percent)
+  );
+  appendFinancialItem(
+    revenueGrid,
+    "年增率",
+    Number.isFinite(Number(item.monthly_yoy_percent))
+      ? (Number(item.monthly_yoy_percent) > 0 ? "+" : "") + Number(item.monthly_yoy_percent).toFixed(2) + "%"
+      : "尚無資料",
+    financialChangeClass(item.monthly_yoy_percent)
+  );
+  appendFinancialItem(revenueGrid,"今年累計營收",formatFinancialAmount(item.cumulative_revenue));
+  appendFinancialItem(
+    revenueGrid,
+    "累計年增率",
+    Number.isFinite(Number(item.cumulative_yoy_percent))
+      ? (Number(item.cumulative_yoy_percent) > 0 ? "+" : "") + Number(item.cumulative_yoy_percent).toFixed(2) + "%"
+      : "尚無資料",
+    financialChangeClass(item.cumulative_yoy_percent)
+  );
+
+  appendFinancialItem(profitGrid,"財報營業收入",formatFinancialAmount(item.quarter_revenue));
+  appendFinancialItem(
+    profitGrid,
+    "營業利益",
+    formatFinancialAmount(item.operating_profit),
+    financialChangeClass(item.operating_profit)
+  );
+  appendFinancialItem(
+    profitGrid,
+    "本期淨利",
+    formatFinancialAmount(item.net_profit),
+    financialChangeClass(item.net_profit)
+  );
+  appendFinancialItem(
+    profitGrid,
+    "EPS",
+    Number.isFinite(Number(item.eps))
+      ? Number(item.eps).toFixed(2) + " 元"
+      : "尚無資料",
+    financialChangeClass(item.eps)
+  );
+
+  const yoy = Number(item.monthly_yoy_percent);
+  const profit = Number(item.net_profit);
+  const revenueText = Number.isFinite(yoy)
+    ? yoy > 0
+      ? "最新月營收較去年同月成長"
+      : yoy < 0
+        ? "最新月營收較去年同月減少"
+        : "最新月營收與去年同月接近"
+    : "月營收年增資料不足";
+  const profitText = Number.isFinite(profit)
+    ? profit > 0
+      ? "最近一期財報為獲利"
+      : profit < 0
+        ? "最近一期財報為虧損"
+        : "最近一期財報接近損益兩平"
+    : "獲利資料不足";
+
+  summary.textContent =
+    revenueText + "；" + profitText +
+    "。營收代表公司賣出商品或服務取得的收入，不等於真正賺到的淨利。";
+  source.textContent =
+    "資料來源：" + (companyFinancialsMeta.source || "臺灣證券交易所／公開資訊觀測站") +
+    "｜更新：" + (companyFinancialsMeta.updated_at || "-") +
+    "｜金額依官方資料以新臺幣仟元換算。";
+
+  box.classList.remove("hidden");
+}
+
+
 function renderCompanyProfile(code){
 
   const box = document.getElementById("companyProfileBox");
@@ -7503,6 +7680,7 @@ function showStock(row){
 
   renderActiveEtfDetail(currentStockCode);
   renderCompanyProfile(currentStockCode);
+  renderCompanyFinancials(currentStockCode);
   renderStockEtfOwnership(currentStockCode);
   renderGlobalExposure(currentStockCode);
   loadStockRelatedNews(currentStockCode);
@@ -9017,6 +9195,7 @@ Promise.all([
   loadActiveEtfTrends(),
   loadActiveEtfNews(),
   loadCompanyProfiles(),
+  loadCompanyFinancials(),
   loadGlobalMarket()
 ]).then(() => {
 
