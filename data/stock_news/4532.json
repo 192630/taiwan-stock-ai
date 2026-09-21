@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-21T05:32:35.768580+08:00",
+  "updated_at": "2026-09-21T22:35:07.104043+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4532",
   "name": "瑞智",
-  "count": 6,
+  "count": 8,
   "news": [
     {
       "title": "瑞智(4532) 個股概覽 | 個股 - 股市",
@@ -24,6 +24,18 @@
       "published_at": "2026-09-18T02:13:43+00:00"
     },
     {
+      "title": "瑞智進軍 AI 伺服器散熱",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10OGNTSmtiMW8tY25Bci1BYmNoWUhXc3FNcGhBRlRFT3JKT21Ga3QyNHJBbkZqUExpOUtockp4NHAyRE1rOXZOTFdBTW5tb29pZmptMXFBMUl3Z9IBX0FVX3lxTE4xelBwLVl1dVFGUTYyN3dPSlRvcHBjVWJXWjdpN2ZNWWNEYjRjUmhzMXgtaWRsTWk2Qi1Gdkw4NUxqaHBoUUM2LUQwb0hSTjV4dERodm16a2NjeU1vazA0?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-16T16:20:07+00:00"
+    },
+    {
+      "title": "《電機股》瑞智9月16日受邀元大證券法說",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR0toRGY0aFNzUDlSNkhhOEN0OC1MY1pNV2gxVGNrdEllSnJuYlFyTmp4cXpjOG1FcmhPWEUxN1dvTGZicXdmc0N5eE14X3hWWEtQUUd4R2hYLVhoQlYza1l5c1Y0Z3labmtQQlRUYUFfeHNULURmNThqVExvaHhLUmdhQy0yQXhN?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-15T08:26:00+00:00"
+    },
+    {
       "title": "【2026/08月營收公告】瑞智(4532) 八月營收月減年增，全年營運續看向上-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQelpzT0hpV041NkJiMklRRlMwbU1BTlI0UjlSaDNabVZsRVVXd3p4R21SSkdUQ0xPb0MzbzVJT0NxWXhWamsybWltOTZRWnEwMHUzaURVenFLa2NJUW9mVDRWbGRsb1FBNlBmY0wxRlVGVWsyUUdIQ1NyNDJ0MFNvRDdjNk9qQ0NtSUE?oc=5",
       "source": "CMoney投資網誌",
@@ -36,10 +48,10 @@
       "published_at": "2026-09-07T08:50:23+00:00"
     },
     {
-      "title": "高雄鳳山醫院「中正瑞智學堂」揭牌",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVnFFb0ZiNkhnUFpvSXZaRW8xOVBPNXZTU3hTT3ZCSV8zQTdmd2RFR1JDMXA4Y3VJX3RwYWV0NVZnRTk5NVV0b1ZuY1hyYWdtZUJlQTNRcEVqT0lweTlsdHBoNTlaeUlObnFqSDV5UEw5NXExWHpiVUdQWW5yZG9oRl9qNXY0emlLMVNOTmxUeWZVeGpYYXFJM3drblRpMVJWUG9VOXo1YUtxenR1M1owbTVfWV9mdzNJSlJPM0ZVQ0gwblhQR2RhUWZWa2NCcjE4cm9ZSVNGeHl5R0t6b1VpV3kyLWIybEk4RUZ0Z2xyTVZ5Z0p0VHJJS0FIVFlnZw?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-08-22T07:00:00+00:00"
+      "title": "瑞智營收／8月14.96億元、年增21.41% 前八月年增4.72%",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFZ1hzTDlBR3RqT19jTXRDSUVoS1RVeUExU0U0WmdETjZqZHRMTDBOQW1jVjAtendCcXFuU0FxS2lHMmFwSmlkMk1pMTVscEdG0gFWQVVfeXFMT2t0TXhNU1E4MFFhOTZUdWFmRHBYTHlOMkV4X2ZlTTRJd3JOZFZHR252WTJEd0lwWEhySUxfTnNXb0Qzc0hQeGFESV9jS1puZGlIWTZQaXc?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-07T07:00:00+00:00"
     }
   ]
 }

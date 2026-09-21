@@ -1,27 +1,15 @@
 {
-  "updated_at": "2026-09-21T05:32:37.255253+08:00",
+  "updated_at": "2026-09-21T22:35:12.512310+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4545",
   "name": "銘鈺",
-  "count": 6,
+  "count": 4,
   "news": [
-    {
-      "title": "吞佛堂4545萬課金 出納判囚8年",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRlplbHYxWEkxaGd1LXRsdVJhVWY4c054Q1BXVVpTNlZtSmVsZnE1OENkeWdoVkRja09DdnpubThYOV9HTkNocWZlOUtNS0l5dEdlSGxMZG02NXlpUVF4T29wY0R1T1BaLWRyakVTMUdfeEZ1WE1DNWJkeFVnN2JKVVg2Ml9YVHhOYmZJVC04MnBSUDZQWEJvUXRqbERucHlLaldkeGxnUFc0ZkZwZlJrV1V1ZTBtR1B6NWstQU9zcGJaS20ta19ydlpJVFM1MFZ4QkxIekR0SE5RaFZucDNN?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-18T20:10:00+00:00"
-    },
     {
       "title": "狂買遊戲點數「疏壓」！ 正德佛堂女出納吞4545萬公款 最高法院判8年定讞",
       "url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxPZmNoLXZpdXRwaHVnNHBQd1JDYm1ZX0RyY1NESl9qNUc3WDVuNEhfclBDTXdFamtfVzVfaTZlYUFUWVdjVUJ5U0ZPVnJMZndVVjY4OE04Qi1GN2VJRTFISW9XdnhzM084eHA5SUxIcFlpZ2ZHUnRSaFBwejY1cElnZEV1UGpMUnplZlo3TGVmZmFtaWVPTk1jQ2hGNWgxSW9BZExHQUx4VXRqTGNrUFlXX3JaaTJOU3ZzVDE4ZzNDbHF1THB4NnNhako4b0luaEFYc2hrdmVCdnVHRDFoSjV0YzhCUkZ2NlQ4R3gySHZOQ01aeUFQRGZsYU9UV0h5TWN1bUloNGNucGwyYmFRb0RIbU1ET2prY0QxTFNLWUJnMkdZTkxSZ2NEaENWTUI2SXZ4ZE9od2hycC1NOVVQM245cUdRRmJ3SDUtTGFlb3hNcE1NZW1jNFloODJNdl9LeHdTYXBnT3BLMzF3aERNamExZ0F2eDNwb0FKY084NkFXeVdueWtKV0RpZFpEcTdzcVJyQ05rd2s0ZXhlR2hWUXEtLWZn?oc=5",
       "source": "Yahoo新聞",
       "published_at": "2026-09-18T06:21:11+00:00"
-    },
-    {
-      "title": "正德佛堂女出納3年盜領4545萬元！瘋狂儲值遊戲點數判刑8年定讞",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92Z3BWcUM4RTZEbUR6aDlic3dfZlltSDlHM0Nua1VNU0ZpWUNxeXYwT203M01MZnl1R3l4MFdzMkRNT2VUOVpYTEh0VGo2QUIwZWc?oc=5",
-      "source": "蕃新聞",
-      "published_at": "2026-09-18T05:15:00+00:00"
     },
     {
       "title": "佛門淨地養出「神鬼女出納」！3年狂吞4545萬課金玩遊戲 判囚8年確定",
@@ -30,10 +18,10 @@
       "published_at": "2026-09-18T04:47:42+00:00"
     },
     {
-      "title": "高雄正德佛堂出納盜領4545萬元判刑8年定讞| 社會",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BZ0thZVk4TzM2eUN0bWs3emhueHNxUThZN2RVWHdlOHAxalJ4MW1GUEVSbC1GMUMxZjJvbmp6ZGM1TmVBZVA5UjVTUU5LeTdWLVVtYnpsX2RtaFFlR2Uw?oc=5",
-      "source": "中央社 CNA",
-      "published_at": "2026-09-18T03:41:00+00:00"
+      "title": "正德佛堂女出納3年盜領4545萬元！瘋狂儲值遊戲點數判刑8年定讞",
+      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNRmdhdmZLQTcyV1BYX3hVRFRJeWdyQXduTUNfRlFteWNHWkUxQVdOazVhNDd5dHBiUTY5QUlzT2FKbHE4dzE2WmNGR1A5NWdGWEEtNFVscWdPeXQ5ZTZyaV9tNUxEbEJlT2ZOZWpSZDg5ZDA0R21IUzNvU2VmSUMyQ0lSQTZCU0hwU0k3T21nY0dOY29BbFkzZlBWdWRJVWhVS1RKd2R2OGljMlJzaFdVQ1M2R0l2d1dFTlBqZmxnVVlRQUpwNkZWQzFTQV9BREdHSkVQQ1ZwYmhIOWZnaWdrMWFDUkdjZzA0QlpBSVdDekxSbFdfak52b2l2NmR6VzVDV01yNFVaOEtEUkpkSi1NbWFSYVlzWERkWEpBSTF0cVV3bTFjbW1leEZ6Y1JKMExPSXZBN1FOM3dUYlYzZ2p4Q1dxbVZwaVNuVHRaWnhQeGo0VnVLV3BjeS1sOGJHSkpOTU1fTzUyR0ZJWlhwVWY2SmVVblVZemN0YTNUc1ZGQ1ZUQXJuNHMzNA?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-17T07:00:00+00:00"
     },
     {
       "title": "【2026/08月營收公告】銘鈺(4545) 八月營收2.78億元，表現亮眼、呈現雙成長，創近62個月以來新高，年增54.18%",

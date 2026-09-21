@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-21T05:32:44.765346+08:00",
+  "updated_at": "2026-09-21T22:35:25.439637+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4585",
   "name": "達明",
   "count": 12,
   "news": [
     {
-      "title": "達明(4585) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41S1dKdE9Gd2EwZU9mdlcyUFZUX1o0N2wxcmRlZXBKemVRQldUU0RHR1gyWmpvMkNiVlFENzN5NTJhdFdKMjYyRTlIMUR0aDFFWGdn?oc=5",
+      "title": "輝達明年度營收要暴增70% 大摩點名技嘉、廣達、鴻海最吃香",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWenJYcVpRcHlXTlU3enAzekxBcDVBampmTlJ4ZW5EdHBxM2RXaFl6WWFQdEozaFFPU3otX3kteEdGZWYyWFp0aW01Z2VTV0VyWDh3RDVaZHBQZ9IBX0FVX3lxTE4wbElmRDl4Nk1WVFU5X2hnQkpTU1J3N2YxRE9IaFBTVV9uWi1qVWl2aVFmV0x1WVFzQnNOQVFsbk9TMVgyMFN0a01CdzF0cDlmY2J4UlQyc2VuVmM3S2Vr?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-20T09:00:00+00:00"
+    },
+    {
+      "title": "4585 達明 - 美日都升息楊金龍卻宣布利率「連十凍」……本周不可不知的五件財經大事- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zbkJITUNJczFCLW5ZSWxGeFJBblQyQzBWWnpJeWtla3VDeUJ6QVBmNlhXMEh0OFFuZ2d6emgtYnZrb3AzbnpTYTNscVRsNzR5M1JDNlNteXA?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-19T21:15:05+00:00"
+      "published_at": "2026-09-19T06:52:20+00:00"
     },
     {
       "title": "4585 達明 - 黃仁勳曝「輝達明年晶片銷售量將翻倍」、再談AI風險 - 股市爆料同學會",
@@ -42,12 +48,6 @@
       "published_at": "2026-09-18T01:01:29+00:00"
     },
     {
-      "title": "輝達明年度營收要暴增70% 大摩點名技嘉、廣達、鴻海最吃香",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWenJYcVpRcHlXTlU3enAzekxBcDVBampmTlJ4ZW5EdHBxM2RXaFl6WWFQdEozaFFPU3otX3kteEdGZWYyWFp0aW01Z2VTV0VyWDh3RDVaZHBQZ9IBX0FVX3lxTE4wbElmRDl4Nk1WVFU5X2hnQkpTU1J3N2YxRE9IaFBTVV9uWi1qVWl2aVFmV0x1WVFzQnNOQVFsbk9TMVgyMFN0a01CdzF0cDlmY2J4UlQyc2VuVmM3S2Vr?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-09-16T03:57:29+00:00"
-    },
-    {
       "title": "4585 達明 - 輝達明年營收拚增70% 上看6,800 億美元，黃仁勳揭最大瓶頸：是供應而非需求- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02UzNGaVhRelpWcDBaM1lqY1NMc1FaZ2R6ZHljaUtkenBvYUJPQVZuamRLUm1KMVN5X2JFNmg2MEd1eXNzaFJXTXFLemEySjk5RnBvR0tLVTM?oc=5",
       "source": "CMoney",
@@ -72,9 +72,9 @@
       "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
-      "title": "晶鏈解密》機器人進晶圓廠不能拖慢產線！達明：Cycle Time與ROI才是落地關鍵",
-      "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxNYUlnNjRoM0ZQMXYzdDg5ODVERkR0UFBDTGpBRlRFNnM1bHo5NFlwblBWYjNtaFN6Z21FclpBSDgxMXF3c1ZEdUpUU291aDU4ZEVWM0dnMmNqZWlxeHpGemo5RkZfdUNxOEExRVZLSFJTR1NEZmROMjN2cGphWjhJWlhXRWh4V0dxczhxUmR5RHhhUWF5NTJFRGZkekc2d1FIYTROYXBldjBTbTU3RDh0dUppR3BiaUZiNkQzZnpzVk81bjI1Vm5XS1RPb19nQmFManI2YTdsbXpIR3lDdEUteHN2b09rbVM3RURoMWNFMnlQSFBVcUI1TC1yQVBtV211QmJsdkI0M3lSMV9ZTjRkd2Rrak5lT1l3bnVqWXdaSkhTZ1lJcVJ6UGhGeWVtME1iSjZjLTZrX09CQ1hFcW9yb1FQVmtvLTFGQzNITk5md2U2ajFtM2FpVzZoajBuSmVVN2lZMlNvMS1pcDB2MVl1ck12WlA1SXU0SXFUemVnQmc2WFBCZkpUMUxJWUxjZWQwRWcyXzk4VEE1RFEtN0RrOQ?oc=5",
-      "source": "Yahoo新聞",
+      "title": "晶鏈解密》機器人進晶圓廠不能拖慢產線！達明：Cycle Time與ROI才是落地關鍵 | 魏鑫陽 | 財經",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9SaDdCRXBxZDJDSGNPVGs5VUZUWUNyY2pHMVYzcXItUHBMT241d2RmeHZtcTJhVEpfMGlNTEtEN3ByLW5QUHpyd041R0FlUQ?oc=5",
+      "source": "storm.mg",
       "published_at": "2026-09-02T07:00:00+00:00"
     }
   ]
