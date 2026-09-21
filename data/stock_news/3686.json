@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-21T04:33:36.462548+08:00",
+  "updated_at": "2026-09-21T21:34:03.758042+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3686",
   "name": "達能",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "馬斯克喊太陽能是未來元晶.國碩.達能漲停| 政治",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tblQ4bnNwMmY5VVhKdzZYMEVQZVB6bTFuZjBoWElWODdCa2dndGV5cWx5WDI0VjcyYndxUV95Ql9hMkdmZlZucmdXMFh2cjJKNTNiMFFBNnN3amtTRUxfazNnTTNldGRiZ1VuVVN4RWs2cjhxcm1zNzVtRQ?oc=5",
+      "source": "非凡新聞台",
+      "published_at": "2026-09-21T09:32:54+00:00"
+    }
+  ]
 }
