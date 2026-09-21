@@ -1128,6 +1128,59 @@ button.etf-summary-item{
 .etf-heat-weight{color:#d0443e;font-size:17px;font-weight:900}
 .etf-heat-count{margin-top:3px;color:#626a72;font-size:12px;font-weight:800}
 
+/* 多檔 ETF 前十大持股收盤熱力矩陣 */
+.etf-matrix-pickers{
+  display:grid;
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:9px;
+  margin:14px 0;
+}
+.etf-matrix-pickers select{
+  width:100%;
+  min-height:46px;
+  padding:9px 11px;
+  border:1.5px solid #4a5055;
+  border-radius:12px;
+  background:#fffefa;
+  color:#30363b;
+  font:inherit;
+  font-weight:800;
+}
+.etf-matrix-scroll{overflow-x:auto;-webkit-overflow-scrolling:touch}
+.etf-matrix-table{
+  width:100%;
+  min-width:680px;
+  border-collapse:separate;
+  border-spacing:5px;
+  table-layout:fixed;
+}
+.etf-matrix-table th,.etf-matrix-table td{
+  padding:9px 7px;
+  border-radius:9px;
+  text-align:center;
+  font-size:12px;
+  line-height:1.35;
+}
+.etf-matrix-table thead th{background:#d8e1df;color:#30363b;font-weight:900}
+.etf-matrix-stock{
+  position:sticky;
+  left:0;
+  z-index:1;
+  width:125px;
+  background:#fffefa;
+  border:1px solid rgba(68,74,79,.2);
+  text-align:left!important;
+  font-weight:900;
+}
+.etf-matrix-cell{font-weight:900;cursor:pointer}
+.etf-matrix-cell.rise-strong{background:#c86b65;color:#fff}
+.etf-matrix-cell.rise{background:#efd0cc;color:#6f2e2a}
+.etf-matrix-cell.flat{background:#efeee9;color:#555}
+.etf-matrix-cell.fall{background:#cfe1d5;color:#225d3d}
+.etf-matrix-cell.fall-strong{background:#4f8566;color:#fff}
+.etf-matrix-cell.empty{background:#f5f4ef;color:#999;cursor:default}
+@media(max-width:520px){.etf-matrix-pickers{grid-template-columns:1fr}}
+
 /* 主動 ETF 產業配置熱力 */
 
 .etf-industry-weight{
@@ -2438,6 +2491,7 @@ footer{
   <button class="etf-subnav-button active" type="button" data-etf-subpage="summary">🧠 每日摘要</button>
   <button class="etf-subnav-button" type="button" data-etf-subpage="directory">📋 ETF 清單</button>
   <button class="etf-subnav-button" type="button" data-etf-subpage="compare">🔍 ETF 比較</button>
+  <button class="etf-subnav-button" type="button" data-etf-subpage="matrix">🧩 持股熱力矩陣</button>
   <button class="etf-subnav-button" type="button" data-etf-subpage="changes">📊 每日變化</button>
   <button class="etf-subnav-button" type="button" data-etf-subpage="holdings">🌡️ 持股權重</button>
   <button class="etf-subnav-button" type="button" data-etf-subpage="industry">🏭 產業配置</button>
@@ -2508,6 +2562,22 @@ footer{
     <strong>今日筆記：</strong>重疊率＝共同持股檔數 ÷ 兩檔 ETF 持股聯集檔數；只能反映最近公開投資組合，不代表兩檔 ETF 的完整投資策略完全相同。
   </div>
 
+</section>
+
+<section class="card page-section" data-pages="etf" data-etf-subpage="matrix">
+  <h2>🧩 多檔 ETF 持股收盤熱力矩陣</h2>
+  <div class="heat-subtitle">任選四檔主動 ETF，比較各自前十大持股名次與最近交易日漲跌幅</div>
+  <div class="etf-matrix-pickers">
+    <select id="etfMatrixA" aria-label="選擇第一檔 ETF"></select>
+    <select id="etfMatrixB" aria-label="選擇第二檔 ETF"></select>
+    <select id="etfMatrixC" aria-label="選擇第三檔 ETF"></select>
+    <select id="etfMatrixD" aria-label="選擇第四檔 ETF"></select>
+  </div>
+  <div id="etfMatrixStatus" class="status">持股熱力矩陣載入中...</div>
+  <div id="etfMatrixTable" class="etf-matrix-scroll"></div>
+  <div class="heat-note">
+    <strong>今日筆記：</strong>名次依各 ETF 最新公開持股權重排列；紅色為最近交易日上漲、綠色為下跌。持股權重不等於當日買進量，行情為盤後資料。
+  </div>
 </section>
 
 <section class="card page-section" data-pages="etf" data-etf-subpage="changes">
@@ -3053,6 +3123,7 @@ function showPage(page,updateHash = true){
     renderSelectedEtfChanges();
     renderEtfDirectory();
     renderEtfComparison();
+    renderEtfHoldingMatrix();
     renderEtfHoldingHeat();
     renderEtfIndustryHeat();
     renderEtfConsensus();
@@ -4759,6 +4830,148 @@ document
 document
   .getElementById("etfCompareB")
   ?.addEventListener("change",renderEtfComparison);
+
+function latestStockChangePercent(code){
+  const row = stocks.find(item => String(getStockValues(item).code || "").trim() === String(code));
+  if(!row) return null;
+  const values = getStockValues(row);
+  const close = cleanNumber(values.close);
+  const change = cleanNumber(values.change);
+  const previous = close - change;
+  return Number.isFinite(close) && Number.isFinite(change) && previous !== 0
+    ? change / previous * 100
+    : null;
+}
+
+function etfMatrixTone(value){
+  if(!Number.isFinite(value)) return "empty";
+  if(value >= 5) return "rise-strong";
+  if(value >= 2) return "rise";
+  if(value > -2) return "flat";
+  if(value > -5) return "fall";
+  return "fall-strong";
+}
+
+function renderEtfHoldingMatrix(){
+  const selectIds = ["etfMatrixA","etfMatrixB","etfMatrixC","etfMatrixD"];
+  const selects = selectIds.map(id => document.getElementById(id));
+  const status = document.getElementById("etfMatrixStatus");
+  const container = document.getElementById("etfMatrixTable");
+  if(selects.some(select => !select) || !status || !container) return;
+
+  if(!activeEtfHoldingsReady || !stockDataReady){
+    status.textContent = "持股與盤後行情資料載入中...";
+    return;
+  }
+
+  const entries = Object.values(activeEtfHoldings)
+    .filter(etf => etf && etf.code && Array.isArray(etf.holdings) && etf.holdings.length)
+    .sort((a,b) => String(a.code).localeCompare(String(b.code)));
+  if(entries.length < 4){
+    status.textContent = "至少需要四檔 ETF 才能建立矩陣";
+    return;
+  }
+
+  const defaults = ["00981A","00991A","00992A","00400A"];
+  selects.forEach((select,index) => {
+    const previous = select.value;
+    select.innerHTML = "";
+    entries.forEach(etf => {
+      const option = document.createElement("option");
+      option.value = etf.code;
+      option.textContent = `${etf.code}｜${etf.name || "主動 ETF"}`;
+      select.appendChild(option);
+    });
+    const preferred = entries.some(etf => etf.code === previous)
+      ? previous
+      : (entries.some(etf => etf.code === defaults[index]) ? defaults[index] : entries[index].code);
+    select.value = preferred;
+  });
+
+  const selectedCodes = selects.map(select => select.value);
+  const selected = selectedCodes.map(code => activeEtfHoldings[code]).filter(Boolean);
+  const stockRows = new Map();
+
+  selected.forEach(etf => {
+    [...etf.holdings]
+      .sort((a,b) => cleanNumber(b.weight) - cleanNumber(a.weight))
+      .slice(0,10)
+      .forEach((holding,index) => {
+        const code = String(holding.code || holding.stock_code || "").trim();
+        if(!code) return;
+        const current = stockRows.get(code) || {
+          code,
+          name:String(holding.name || holding.stock_name || code).replace(/\s+/g," ").trim(),
+          ranks:{},
+          bestRank:99
+        };
+        current.ranks[etf.code] = index + 1;
+        current.bestRank = Math.min(current.bestRank,index + 1);
+        stockRows.set(code,current);
+      });
+  });
+
+  const rows = [...stockRows.values()].sort((a,b) =>
+    a.bestRank - b.bestRank ||
+    Object.keys(b.ranks).length - Object.keys(a.ranks).length ||
+    a.code.localeCompare(b.code)
+  );
+
+  const table = document.createElement("table");
+  table.className = "etf-matrix-table";
+  const thead = document.createElement("thead");
+  const headRow = document.createElement("tr");
+  const stockHead = document.createElement("th");
+  stockHead.className = "etf-matrix-stock";
+  stockHead.textContent = "持股（代號）";
+  headRow.appendChild(stockHead);
+  selected.forEach(etf => {
+    const th = document.createElement("th");
+    th.textContent = `${etf.code}\n${etf.name || "主動 ETF"}`;
+    th.style.whiteSpace = "pre-line";
+    headRow.appendChild(th);
+  });
+  thead.appendChild(headRow);
+  table.appendChild(thead);
+
+  const tbody = document.createElement("tbody");
+  rows.forEach(item => {
+    const tr = document.createElement("tr");
+    const label = document.createElement("td");
+    label.className = "etf-matrix-stock";
+    label.textContent = `${item.name}\n${item.code}`;
+    label.style.whiteSpace = "pre-line";
+    tr.appendChild(label);
+    const percent = latestStockChangePercent(item.code);
+
+    selected.forEach(etf => {
+      const td = document.createElement("td");
+      const rank = item.ranks[etf.code];
+      if(!rank){
+        td.className = "etf-matrix-cell empty";
+        td.textContent = "—";
+      }
+      else{
+        td.className = `etf-matrix-cell ${etfMatrixTone(percent)}`;
+        td.textContent = `#${rank}\n${Number.isFinite(percent) ? (percent > 0 ? "+" : "") + percent.toFixed(2) + "%" : "行情待補"}`;
+        td.style.whiteSpace = "pre-line";
+        td.addEventListener("click",() => openStockFromList(item.code));
+      }
+      tr.appendChild(td);
+    });
+    tbody.appendChild(tr);
+  });
+  table.appendChild(tbody);
+
+  container.innerHTML = "";
+  container.appendChild(table);
+  const dates = [...new Set(selected.map(etf => etf.holdings_date).filter(Boolean))];
+  status.textContent = `✅ 已比較 ${selected.length} 檔 ETF，共 ${rows.length} 檔不重複前十大持股｜持股日期 ${dates.join("、") || "未提供"}`;
+}
+
+["etfMatrixA","etfMatrixB","etfMatrixC","etfMatrixD"].forEach(id => {
+  document.getElementById(id)?.addEventListener("change",renderEtfHoldingMatrix);
+});
 
 
 function renderEtfDirectory(){
@@ -7311,6 +7524,13 @@ function financialChangeClass(value){
   return n > 0 ? "positive" : n < 0 ? "negative" : "";
 }
 
+function formatFinancialPeriod(value){
+  const text = String(value || "").trim();
+  return /^\d{5}$/.test(text)
+    ? text.slice(0,3) + "年" + text.slice(3) + "月"
+    : text;
+}
+
 function renderCompanyFinancials(code){
   const box = document.getElementById("companyFinancialsBox");
   const revenueGrid = document.getElementById("companyRevenueGrid");
@@ -7330,7 +7550,7 @@ function renderCompanyFinancials(code){
   revenueGrid.innerHTML = "";
   profitGrid.innerHTML = "";
   revenuePeriod.textContent = item.revenue_period
-    ? "月營收期間：" + item.revenue_period
+    ? "月營收期間：" + formatFinancialPeriod(item.revenue_period)
     : "月營收期間：尚未提供";
   profitPeriod.textContent = item.profit_period
     ? "財報期間：" + item.profit_period + "（累計數）"
@@ -9202,6 +9422,7 @@ Promise.all([
   renderEtfChangeOptions();
   renderEtfDirectory();
   renderEtfComparison();
+  renderEtfHoldingMatrix();
   renderEtfHoldingHeat();
   renderEtfIndustryHeat();
   renderEtfConsensus();
