@@ -1,13 +1,43 @@
 {
-  "updated_at": "2026-09-21T02:35:07.502099+08:00",
+  "updated_at": "2026-09-21T16:35:33.198943+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2605",
   "name": "新興",
   "count": 12,
   "news": [
     {
+      "title": "越南股市正式納入富時羅素新興市場指數 預計引領60億美元資金流入",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QUDZjUzB3VWZNZ2o4MnctNTVlbkVweF9IN2twRXhoWDFaVk5oOHdNV01USVdDYXVDcjRYSU5pc0UwTWNlS25VVjdyZVhGdWc?oc=5",
+      "source": "news.cnyes.com",
+      "published_at": "2026-09-21T07:20:03+00:00"
+    },
+    {
+      "title": "美債殖利率飆升之際 新興市場投資者更青睞本幣債",
+      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPMlBLbVY2UzNMOEJabllnY3RVVmVESWdNdWVoQ1FabFE2LWFXTF9vdEZCT1QyX0szcE5sSEk0ejE2VjJ1bDlESkJic1dmZHd3XzZVZG1QaHhuQVFEbXBXQXRxWTF6NmpZeUwwdFN6VTRPUS15cTdzWnhHdTVpVUpab2dKSWFYaGc1aC00eVhVQ3huSDVVUTBrTFZkTU9qcmU3amNOU3d6amR4d0p4OUd6bnE5MzRkaWdXem42eVVoUHFiWElucEdoUFh2X1AwMGhYRmF1QXpya3dQZnF6aUVjYzJGeWFxUUF3Y1RhU0w1LXlJSnU5TWpadUhUN2tVUWdobE5nSGgyWjV0Q3paSzBiZE9pNW1HTnEzSVNsVkhpOWNwbFFqUlZQc0RjcWZtQ3ROdGVXRzB1NjNKY3JHMm03SC1CTzhleExkbWZOMENva3lzN1MxYlBIeFZNVThDUEM4am9ra1g3SQ?oc=5",
+      "source": "Yahoo 財經",
+      "published_at": "2026-09-21T06:37:28+00:00"
+    },
+    {
+      "title": "貝萊德重新加碼新興市場股票：較美股折價約50%",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnZkVBdnU4N3FzUmVoVUpyNFhva1ZqTTNhZnNmRkV6MGZ5UG1YOWt2bXgwenNNazJtXzBVTmFBVnZNMzllSmNteDN6UzNIMEZpMU50MW1n0gFWQVVfeXFMUGdmRUF2dTg3cXNSZWhVSnI0WG9rVmpNM2Fmc2ZGRXowZnlQbVg5a3ZteDB6c01rMm1fMFVOYUFWdk0zOWVKY214M3pTM0gwRmkxTnQxbWc?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-21T04:59:43+00:00"
+    },
+    {
+      "title": "國際財經：越南股票獲納入富時新興市場指數，迎60億美元資金潮",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVUh1Q0pDdW5Uai1XSWphbjUtY1lwY2NSMkVPMWtaTWVZbURXOFQ3ZVNxZFVMdFMwdGJ0Q2NUQ3RMTHFnVFNmeTkwR1ZGUGVhZWd3emNPcnVKRDBIM2JHLXhaeG02a3ZJYW5rYXpMWUpTZ0I3eGZDZUtpaUtvWWNxSDk1eW1pUkF6?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-21T04:06:00+00:00"
+    },
+    {
+      "title": "股市估市：新興股市或面臨資金外流",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQdEhlTXJOSGxWRmotaTZfbEtfcnBWYUROb1VNeS1oelY4TkV5RTlQdkxTWGV6MC04eklkQTJnS0o3UDhsOUFXek1SZExfVk9UblJSTlhlN1kxRjdqU2JybW5DamhGZW96Y3F3akgwM2w2cVhxQm9mWXNLN2piNW9xQW1HaUVYMl9PWlBuLW1HUG9iUTRVclhZVm5iMm0ycENhdW9NYmJtQ2NxcHBrX2k5emh1cHFiWklyNmJPMThSS0NjTjl1VnNRaWUtWlZxUFBfOFZlLTdra21MdkZtems0akQ5M1hEbDRNaVdhaTlqY3Z3bkwycm5hMGlXY2k0cG9Fbk9Ta25uVUVCS0x1MkNPYVlLWURrR19qeWVsYWYteWw1bWFyb215NlhaZEkzZTVjNHRsaG9DWFltdV94cG5DR0NvbUFObHZHM3Y4?oc=5",
+      "source": "東方日報",
+      "published_at": "2026-09-20T23:52:13+00:00"
+    },
+    {
       "title": "新興市場債 吸引力十足",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DeUxQMV9MeWFCU25zNU92LU4wcUJDMGtOc2dLWVNYUUZiRzUzdS1xNS1aUDJfWjJ3cGowUi1MNDFTOGtucm5pWVlOV3pXV0xjQ0HSAVdBVV95cUxPU1pZS2F2S0Y5dDRSOHhzUHNxcHJfc0R0ZldHZ1RLS1kwZy1mZGsybGR1ck5URHNXbC1RTnJLNjRlYkJCZDdkZDlUbV9ETWxJRG5GYkJ1OFE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TWllLYXZLRjl0NFI4eHNQc3Fwcl9zRHRmV0dnVEtLWTBnLWZkazJsZHVyTlREc1dsLVFOcks2NGViQkJkN2RkOVRtX0RNbElEbkZiQnU4UdIBV0FVX3lxTE9TWllLYXZLRjl0NFI4eHNQc3Fwcl9zRHRmV0dnVEtLWTBnLWZkazJsZHVyTlREc1dsLVFOcks2NGViQkJkN2RkOVRtX0RNbElEbkZiQnU4UQ?oc=5",
       "source": "UDN",
       "published_at": "2026-09-20T17:48:03+00:00"
     },
@@ -20,7 +50,7 @@
     {
       "title": "2605 新興 - 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pR2VIZF9UeXFzRDBCdDJ5OElKZHEyZFQ5a1pOVHFFdkR4bFUtUmVBUzhGeENoRzQ1OXlWODBfajFBeFpQUUtaTVFZT1BsbmZ2Q2VWQ210cW0?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-17T13:40:48+00:00"
     },
     {
@@ -36,46 +66,16 @@
       "published_at": "2026-09-16T05:05:39+00:00"
     },
     {
-      "title": "下週「秋老虎」報到！中秋4天連假天氣出爐 賈新興：烤肉賞月極佳",
-      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPVGxXTks4dUt0djh4LXc0WEM5OElLUWtGRm9mcmcwaEszWGdKVU9LcEZtdkF0Qy16eXUwd1NxWkpWeU9uVWtHQU0xRjNROS1TLVZYMzdvOFZrcEsyRnBKTS1hUzlfQlhKWkhHQ3g2VngzNGtMa0s4aW1pREhfd0J1R1VvYl9kVW1SNHMzdGZKM3h1ZklEVlN2TjVUa0poeWRvTGFrX1dqbkdLVmMzWllqN0dfb2dUQ3F5MEhxdlZqU0ZzQ29EdTU0SS1NVGE1S1JIdlFwS2dSc1hCWTEwNE5fbEZTU25LNndxTFhOMVF2NlZQNGJWSmVaeW5CQ29mSC1SdGRSR05ZMDZ4Wm5MbmotdElneHZwakpVRHRrOE9YWHVndFRPSjY1SHpOa0NYdmhEamNiLXFUY3Y0VlRuOXc?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-16T01:19:05+00:00"
-    },
-    {
       "title": "本益比僅9.9倍+高成長力 法人看好新興市場收益吸金",
       "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOWlpOZVE0bjJDQWt1cVdrTVRwdUh0ZVducUZSUlhkT3I1UkNvLUIzdUhCcnY3NmxwaS1mY3hQS2VoWmtvUnRVS3JsTXhuR1dwVk4wY3FrdzJSdGF4RGRnSVE0Ymt0YmhUMm9ma29GTGQyUlZHd05zblVMOXN4MEpzM3M2LXY4Q3NpY2V3Znc2QTJKTmNJMjZJRVNNbi1nY0M0Z3hIbHFjRHNCQ2JoM1hJc1Z1c0JHdXp2QWptRm1HVEhldXRsTXdESE1EV3lXSVhsNVJJYU9VN3N2Z3NKUE5wNHJQT1lMYVF2Um1KajNVUmlWTVdIbHVNbWJhcVh6T0ZMVWQ1Q1d4YkRvQUhQZ1lzVnpGZHI4YmhYZGI1TF9SRm1iaEpkR3Axd0VFdU81T1JrSlZrVTQ2LXU4U0Y0QmQtdGE3ME5lU01WSy1tS1pHVWs2ay1FOVE?oc=5",
       "source": "Yahoo新聞",
       "published_at": "2026-09-15T01:53:15+00:00"
     },
     {
-      "title": "戰爭、百元油價、美債狂飆三大逆風都扛住 基金經理：新興市場可承受Fed升息風險",
-      "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxNSjBqQ1F2N1k5UmJmSGU0RUs1OFRER3dXUHVlQTRuTE5CRHBURjdCWmJtczVHbDNGRXJYNzcxRUFYWVE5U2RNSU1Pd1VDSERvdVpfV0VGZ3RmUkZoVkZkcDFXVVlpMHgyMDRucGtXckVaaFZYUlgxRUhCalFwNHZnbTdlUl9TYS1BaHBOZUR1LWhuWmlSRE03RDU2THNUZTU4SmRjX2F3S3N1bnQ2dW1tcXR5b21aSS1zdVdFckpfZ0FkMUFoNGRCWERNTjVrU3FwY1QzYVpPb3dqVWwxT0FISE1naWxKODg4Z3Y0NzFNRG1Pb2NZVE5tMmxreVZVdDBLcEtrWmRMZW1ITkxLd2lxdlNsWVpNY0N2ZTlnNnl2eURFV3l0OTJPZWhiTi01cjRBWTc2WXBVd3ZDSW1yNTVaVGxRZmtkTDk1Z3lGeTZXbWxDakJHLWVZOUFuMjNBUWFRTjdFeS1GOHdkVGZqUHZucUl0RmJubjJLUldwb2RaOEZQN1BtcEFzUzlTblc5bVJBZ3RzTk9wTklQOUw4eGx1SnpTeDlwOVNnOXh3cDZVWE10LVJtaVE2X29wd0dPakZESWN0dnoxdE9DRHBXOGVFWkt3cllYZ2ZPS0dBZXVVd09WTHhPdmtF?oc=5",
-      "source": "Yahoo 財經",
-      "published_at": "2026-09-14T22:30:03+00:00"
-    },
-    {
       "title": "新興股票基金吸金奪冠- 投資理財- 工商時報",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGdk5HNEtIc1MtZGhHT1BSaV9rWG5GRWctYnZ1VHh3M0V4MFEzQlF4V3kwaVRJWVpTQTlSa1lwaGs3R196UjVRQVdlMDlEZXhQV3ZKcVppNkF0S1c5RHp2SDFBb1FfMW5CcXhr?oc=5",
       "source": "中時新聞網",
       "published_at": "2026-09-14T20:10:00+00:00"
-    },
-    {
-      "title": "油價跳升和戰爭難阻漲勢 新興市場料可承受聯儲會加息風險",
-      "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxNYTRTRGJJcGJpa0pwRV9zQVBhU0RVYzJId0hJVUtNVkxwQ2pEWDlsNjRYWmQ2NEZPdHRscjRHelVwaFA4enlOWW93YUl3eVdMa2Y5WW1iMFVubks3emJmUVZSeVRYNkVNQzd4Vm51WlJPVDFJS0xwQ1dDa05GeWo2dmctdksxaUNyakpDOXFrOHVBbmJTS0J2ajhQZmNrQVRCSEE3SU1mQzJ0M2Vkckx3NmgyazRiallQd3BfY1ZiR1B6TXdEZElLTDJ1SEw5NjBiNTV5WHVOSkZyZ255R1E3aVJZeE5uV1J2cHZUd2lvOHZyZmVVYXNEc1RBalV6YjVETUw2NUtjVWxLdTFzVkcyYkUzcE02LTB1M0llVWJfdkNOak5KMlg5STlHWU9xMXRyRnIxQWlicnZmVjRRang0TFduRHI4c0ZQeUF3TTlLek5YRGJyU05qTlh3aXhhNTh5R3ZUWlRJSzlBLUJWa0JEZkJXOUQ5N0ZFRWp4Vzd4UkJiWGZYOFpmZnBrTDRXVWZTdXJCRmkwTQ?oc=5",
-      "source": "Yahoo 財經",
-      "published_at": "2026-09-14T12:18:40+00:00"
-    },
-    {
-      "title": "前金、新興、苓雅、鼓山、鹽埕後援會成立 賴瑞隆：打造全齡宜居高雄新核心",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOWkl2NnBLd3RJWjlScFJJQ2RXemFULWNtb1lDVEk4Q1JZR3RSQ1RYSmJLbGZmeXVWQ1lUbW9GenBnRmwxVHdRVWpFQy1aYjhBeGNGTUFBczZBckhQN29HZTJGUGx5Nm1pV2NGSHFIc0FBNC04aWxCZUttaW9Vbk9yYXY0d2tuUVJ4S1VXZlItSWNKVnUzOW9RcmFMdXlSWGtRazQ5OTBHV2dSM1dGQUFjMlFpTmE3RnFqSUhKeE1LWU96QWtyQzc1d2RzcnAxMFBDRmVBbTZVRElCVUs3cTVTM2JFZTJRYW1BMW5Gc3NiZnhtcWpVcWlqZWhLOHB6SWpNWDNManFabXlwblZq?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-13T17:27:10+00:00"
-    },
-    {
-      "title": "法國資產巨擘東方匯理轉向亞洲 人力資金集中新興市場",
-      "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPc283QldBcFVTVHZNb1JKRFdZRG95SFZpODZnY3V5TmoxbUdtOW9CdUM4eTJoWWMxVFpIMDljM01DMlJGc2VNT3hqc2xaSWRlZmxmSFNqLUktOXJsM2xNU2kzbUV0bnN0T2NpX2NLblA3VF9pb3dra29zamNhZjVEYUFUOUxEendfSnV4aVlheUhOazhob1g5VFZRcm1uRGQwQzI3VnF6cVZvYUtZc2tHcnpoQUhGZEdTSEFKdUFFX1dXRUlzaE9aTG96MWNlcW1jamZwbFZMWlJfQWVYamFieHV1dzVjaEIyaHk0WFJQLXJXWjMybzltNVRiN193R2ViS2xnMVlVWURYVlNqa2FiOFBtWjl2dUtDUlctS2NGSkk5SHVlcTF0SzRfYkhFRmg2QnBybmVDYkNGZ1U4cFpGUWd4cHNjUlFqWTd0ZG1VNDF3ZmwyX3o4Z3lrUEV1Zng2TW1YWXQ0UGxGR1NuclJvM0dvaEpBQ1g2bmVNNA?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-11T07:00:00+00:00"
     }
   ]
 }

@@ -1,38 +1,62 @@
 {
-  "updated_at": "2026-09-21T02:35:10.785422+08:00",
+  "updated_at": "2026-09-21T16:35:37.150124+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2612",
   "name": "中航",
-  "count": 8,
+  "count": 12,
   "news": [
+    {
+      "title": "納斯達克100指數期貨主連(2612)期貨價格、走勢、圖表",
+      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPQ213RnUyb1F0TTNjeGU5NTlBdFhTZGdwTlItbHJmbE5QOG02cGxWbnc0OTc4amx0Y0libUUzcy1hems3RVhHUldqcHFMWC16NjRrMUhuTDFCNzZTTEMxNGZ5djM5dDdlYXljeEZIR1owdFRXYkFoWmwtZlhSOUxMV00xU09ham1lbWk5VDh0U05nN2Z5aHk5LVE1M1hSM2lBN2M2cnRZT2lxS2VKU1RjeEt2SVExYXdxeXpsczZSYWFkMkU5bThYRXlHaUZJNGxJT292MzI3XzVhVDA2d0tvUW1IVi1PN0IwVXNERlJTMU1BMXF3RjBjeTNDbXg0OS04VlNzWnhlZ3hQUGp6dVVIV0dKOHN0RTlLTFFObnFYN1o2Y2VRRVhiR0szbXVISTZkRWc?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-21T02:35:36+00:00"
+    },
+    {
+      "title": "2605 新興 - 新興是台灣唯一VLCC現貨船營運而裕民與中航長約4-5萬美元- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ReDlyeDI4YTNUUjFRc1FoWW9xd0RoVUpRSEkyY0ZOaVlvc0QtOWtPMWlzQmZ0WlFtMkpoaXN5SHh5UXQ4Ykd6WU83bVBwNXJFSjRfdGt0c1o?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T01:41:33+00:00"
+    },
+    {
+      "title": "大阪小日經指數期貨主連 (2612) (NK225MMAIN) 期貨",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10TkZEdmJuWVZUdll4NkNtNTI0NGdBRW55d1VsZENlSVBGR2JGS0ZxMmZWYWttanNuNF9LSWlaSm9kYXlpNEdmRmpIX19iM0RzNEJEMHJ1V1k2c0NUSGc?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-19T02:52:15+00:00"
+    },
     {
       "title": "TWA00 加權指數- 大航運-115-0918中航法說會觀點- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Hc2xtc0xvRHBLZWVhUmZIWEcta21PSGFHX09aRFMxRkhIQVNnTS01QlZJeUZyaWJLVkVMWFF5cFV6UGx0ZGRaMGhNemJuemhsend6QWVvUDA?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-17T10:57:14+00:00"
     },
     {
       "title": "2612 中航 - 中航訂9/18召開線上法說會- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0OG01UWRIc3F1YV8zVXRqMWR1YTNzWldZZWZaalRHdVNGTG5UalpEcUVldjdpMU9MYjhUS25Dc3h3WXNqY1NOblhLbWhyZTdFdjlUdHZsYjk?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-16T08:50:38+00:00"
     },
     {
-      "title": "$博通 (AVGO.US)$ $納斯達克100指數期貨主連 (2612) (NQmain.US)$ $谷歌-A (GOOGL.US)$",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkotWkhaWkxzN21jOW00MkZzYjRUVjEwMzIwYnRUQ2IzbTZJc01lU1dZc1dJMUFhTEFXTjNVWGxXS0NpR0doaE5iSEh4MFVyZnplTnJ2UGk5R2NzYjZCX2hJYjNIX0wweFRKbE5xUk9hNlBUYkthT0tzNlNFeG1QX2I2dTN5SnUwbGJubWUwYThMNG9Hb3pQWmNGUzBDakY1UDVaZklqNVdXR3FzLThZcVJwYw?oc=5",
-      "source": "moomoo.com",
-      "published_at": "2026-09-15T12:12:12+00:00"
+      "title": "$納斯達克100指數期貨主連 (2612) (NQmain.US)$ 投票給trump， 他會讓做空再次偉大",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQenpJMEpDZnkxSVJOY05mRzJSLVRDYkNEbGJLN29Pcy1jUFZmX0RRYlo2bTM0QkRINGtxTUhCWGM0WnlwVlh4eE5tSm5IYlo5bHFKNE5XdW5ndGVNS0g3VmUtaWZyRVVVaXpPY0RSR2VqSW1WNTRVNjdLa0lmWUM3VldsU3hYTU9MeHFoMlg1Z0VmQzFQX3VTSzRLdUE1SzItS0VWdWxBMDVzT01q?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-14T14:25:57+00:00"
+    },
+    {
+      "title": "$布倫特原油(現金)期貨主連 (2612) (BZmain.US)$ 黃金空倉了",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRVJ1emJHX3h3cUllTGt6QndVLUQtTnIxbU9Mb09YVFk1SkU3TEZuNERvMjBuTGVpY0tRTVR5TmFlY1BZc0piUkktOVpqM2wxSG13anY2ZlhzemZsY0ZRd1gyR0N6LWI5ZWYzZ2tnVlE1THdqU191WG5qbmN5SVVJNlZYWXBHT2VtbFJpQkViMnk3LUJxaENZN0pZZHRxVXlSa3BHU2FJUzFBeHZPTklTcDlCdE8?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
       "title": "英鎊跨期2812/2612 (6B2812-6B2612) 期貨",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfVGxaeVZPSmNIdlkyTXNmMTZHVDM5di1BYUJ5SVhSeWxzdzhEUEc0YUtZTTc0Zm5zcTRwYmp0djFvdHBjUDQ5QW40UUZhMl9ULTZTeWN4VW1yRUwtUnpUWG1R?oc=5",
-      "source": "moomoo.com",
+      "source": "Moomoo",
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
       "title": "$納斯達克100指數期貨主連 (2612) (NQmain.US)$",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaTZKZ1djaUVjX19XRkZheGlWQ21TWWQ2Z1FaM0tJTUpTN1MtcGtlaFJRNGZRaTI2ejduVTdJT3ZrNjlCOEY4SFhpQ1JUSlZvMU5tdlI2STdZeEV3NWQ5R1JXTW5FcVpzMDN6U1BCSTltSXNKbmJmbXc3UjdJQnZ1ZmtKOEUxRXI4UFlVYnpIa0tMQUV5dlBTZnAzZmRNREV0?oc=5",
-      "source": "moomoo.com",
+      "source": "Moomoo",
       "published_at": "2026-09-01T07:00:00+00:00"
     },
     {
@@ -44,7 +68,7 @@
     {
       "title": "$黃金期貨主連 (2612) (GCmain.US)$",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMFRHUHAxbTdKVkVZOFR1TV9LTHFrODFnMUpnSDBoOXRDNDI0cEJQUWpETjRGd3ZZVnNlNnE5X216Wi1LRVNtY0ZkbWk5UHNmcVFkblVkdzhhaWVFcU0wUjYyYklMbGFUX0xGOEZuZGdndnhwU29IWlY2ajVyWDV2enAtU0gyTkMzLUtTendHRQ?oc=5",
-      "source": "moomoo.com",
+      "source": "Moomoo",
       "published_at": "2026-08-23T23:05:32+00:00"
     },
     {

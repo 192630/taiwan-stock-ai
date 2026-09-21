@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-21T02:35:02.623702+08:00",
+  "updated_at": "2026-09-21T16:35:26.913646+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2540",
   "name": "愛山林",
-  "count": 3,
+  "count": 4,
   "news": [
+    {
+      "title": "《上週融資動態27-7》文 曄(14.71%)、愛山林(14.25%)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbDVfb1ZtZ2NvZDFhaV9ITEFxaDRYZnRwN3RoNlJWOE9MbjNZM2lHLU1NVmdLMFYtSlpnbmxUU0llRHU4ZW15cUdMT3ZIS0dSYnpVamQ5VHRfbVZLN29mdlBFaU1fRW1DSnV2U1liaGxrUlpleG8yRXBWYTAxazRnelZtaDFubmVW?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-20T23:45:00+00:00"
+    },
     {
       "title": "林保署南投分署招考森林護管員 邀愛山林者來挑戰",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvd3VvQ0dFRlVmbUV3S3hZZzVsb3hwczRZVHJyQUhQNjd2Nm1wRGhqdmNHS1JzWnBZaElBd1MyUlBRZktyUFJKRjR2YkprM1EzZ18zWXlhRGQ?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-14T01:22:30+00:00"
     },
     {
@@ -20,7 +26,7 @@
     {
       "title": "射箭愛山林單日12點只拿1點 林子翔說輸不是壞事、明天贏回來",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16Nm1rckNDQklRY0VPRHN6N3otSERkSWdWMS02a1R2Q25lSWlZaldmMW5FUU5iTTBCUGJMbjd4UGNlU0R6MlJvVUVzV05PX1lGLXRWX3JjdWE?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-05T15:53:33+00:00"
     }
   ]

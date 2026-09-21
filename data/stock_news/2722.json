@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-21T02:35:24.337476+08:00",
+  "updated_at": "2026-09-21T16:35:51.175383+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2722",
   "name": "夏都",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【2026/08月營收公告】夏都(2722) 八月營收營收雙減，年減2.1%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYkJLYWlWLUtOaUo3MkhBS3FhSFBqYTVDTTNKcjVYaWltS2pJbXFfM3hzazBrb0hhbGMwT04wUlN4Q25ndTVVbW1BRGk3VE1OQ2F5ajBnNWV0OUFGU1A4Um9TeVBJMG9kVVV1djBVRm9TaVYxZi1YbHBkd0tZbmNxSldVWlNuSXhfelE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    }
+  ]
 }

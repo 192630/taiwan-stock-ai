@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-21T02:35:16.276506+08:00",
+  "updated_at": "2026-09-21T16:35:42.205687+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2634",
   "name": "漢翔",
   "count": 12,
   "news": [
+    {
+      "title": "漢翔(2634) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xTThuZWRSUWJvdUNhWWNJN18xeWUxTHJ5NmhUYUNwSVpVRGVRb2RUa1FfMHpSWmVfZ1BSNmtqLUFabi1aSURtcGVLcjJRNl9aYXlV?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T06:00:40+00:00"
+    },
     {
       "title": "林岱樺率團考察漢翔岡山廠 串聯高雄海陸空產業搶進無人載具供應鏈",
       "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxOUGdKQnRocVBqbVR0WDVmUGZwUE13NXd3bjRQU1diS2p6NXdReExBVW11blplY0hDX05JQkNlMzd6aWtCZmJuNkplcXdqdWpyTkpzOEo0UXVhZVVicWdOdUk2eVFGQmtNeXhmTzZiaUNvZWg5ZUt1ZWljck5fSHpXRFpkZVdTSjQycVQwUmtRcENLbm5sWHB6ZWRYRnNVS0xPY1A5aC1raWxUQmpDOG55NktfR211c1lldlhnSmdIZjVSaVFRb0dwRF9zQzE1cHlNLUNNMUhRcVBYU1oxRXd1cEs1ZUVQVzVzdUozUjEtYkJYQzc1OFBzbmhXaDhBMFh1UlhfZGdFcVdSbjZZY290Y0lCSE9lM1pNNFI1eFh1c0g0REh2TFFZUXl6SVNiMFliOC0tWERxcVRkYTM1Vl9Ndkt3UXdGd2FEZm5hT3VJUTBQQldybUFGeldzaUQ5N2c4b3JsR29QbWpmMUJPS2czdnJoTWlvcWlLaHRwLTRqVlltY3djSHllUW5TekdaZ1VoMlZfNDhoREJBWnVnRFp5MW9nT0hJelYtaTAySTI3ZmhNVEkwTjZISTlVeFc?oc=5",
@@ -16,6 +22,12 @@
       "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPbm11MUp2UTFsZ1ZhcFo3Wmt3RGZaeDdUTmN0UEpubm9hdUtZS3pNU1ZXV0k3YmZ2UWJpTmJVUENFUkxOMFhweFhYVUxlTFNjTnEtX1NtSm9EZW1PUVZSTE4xUlZtWFF0RDRfLVlkVDR6bjVwdGdnN3B2R3gtTEdVRTlWcjFTT09UUHBSbDR1XzVXRllJcGdQclpyQVdIUWpqVDFMV1hVbkN3Z01lbVZMcWxhdjFncE4wSHI1VmphNXE0MDROYkJxamN3LVJwM3Nvb0pYdmNBdER1OU01MS1kbzF2eXpoM211YVdRYjlQMDBUeWdHUXpoMUg5VkNGOWUtNXBCRmhYTEVSSEhqeGZCVGZCRnVCR2gtUV9kdlhtbjJPMW9zeWtURnFFZ2tWcEZvWVZRRFlwaTg2MWtrX1BKQmlXNThnQ3VBZ2V6Rkwzam5vdFk?oc=5",
       "source": "Yahoo新聞",
       "published_at": "2026-09-17T02:52:01+00:00"
+    },
+    {
+      "title": "算力搬進生產線！宏碁旗下安圖斯攜手漢翔，AIxWARE已串接逾3,000台產線設備、搶攻中小型智慧工廠",
+      "url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxPeHZPVU9zX2IyQ0hTbGNvYWdSZmt0YWZ5b19paVlETTJyRDRNQXE0bk92OGtJY3h0SW4wUmVua3o2NzNqaG1ob2Vxd2Fhci1XQmU1cDlzVDcxYzNRNVZVMXJ3SC05Vlp0a3VQOWNrTmtRRC1UdXM5U0pVMGV4elY4d1RzbktwUlZtbkZoOVlxUDBidjdOMkk3c09JZy0ybVF5N3ZxSEN6MDcyU2VMdXlTdjBtZFNTSVpFbGdmUDZVZVZwOGpEVS1TdlVDOFZfaTZpOEhINllXZjRPcTZBWl8tUWpWS2UtUHFCQ2VSNWV5VkRsdmlpNUFoTVlTYkdKVTNQVUs2Sy1BdkxsRmlWZmNKZFpVZUVkSlg1QjVmcElFUjRoZl9xd3ZIUHRrMEhiVG92dEhyOWpnTko3LWNxQkg1UGRoVlA2TzFfZmNNZnpsYV9ZMWxTUzhXbG83NHdPM0J6Y1ZtT3o3eU1zTVg5ejVjeDBSQUtFdnhEN180WDJQYlhudlE2ZWtabkdfcVdTMnF3bko0S2g0NXBwdzlHWlFta216NE02SGxSNmNqd21WWDg5MHF1ZXNycjlZRURkZ1M1T3hNdnlwQ0RDNW84M1c4STVoRmZNbWNPNUdYS1BCM21xTDBwVTlMODczN05Ha3lHSTYwWVYwdkxmOXpxdEdrbGU4TkJ4bGY5bFBRaHN0YWMzMWZyNkFv?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-16T16:55:04+00:00"
     },
     {
       "title": "漢翔結盟宏碁小金雞 軍規級AI落地",
@@ -36,16 +48,22 @@
       "published_at": "2026-09-16T09:12:00+00:00"
     },
     {
+      "title": "漢翔(2634)含漢翔的etf與基金成分股比例與變動情況 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBENzFTZlUtcFVpZEhteEY1VUlFQTAweUpwZUd4YmoxYXdCU1B3clFiV29xSHZsTTlrUHpzSmZJcXNYVGh3YzZLYmFKUDBlYzlOMmtPMkpoWXZmdldFcGRaVTdLaS0?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-16T07:00:00+00:00"
+    },
+    {
       "title": "空巴擴產A320系列，國內航太廠漢翔等受惠",
       "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQUEZjZG1ackxPWE1CWGl0UEpfeW55WDdycTd6NWY4cFZ4d19HYVg3bUlPemxtdy1CbGlpNmFlSURianVDMUVGMGhxQXdJSFEyT180WXBHanBPSWdFUFR3UEJIQjdDTkpscXdiNndwZzhVTU5Xc0NoQVNxa2lVZWoxa2tlMjJVWVc2T2M0MGhyekhUUzc1RWc1dXc4NnplbURvY2dNRTBETDNPSkM5UFlhcUJnWnFyT3N5emhLWHhlbG9fZDM5dzlXazJ6ZENhMjVpUlNiRGxUb04xRUNERUczQmZ0Nlk3dW5GN21vV3pDNWFiTVhKS2NpV2VfbEJpMGpQQlNucXBPTEd3QkhKTlJ3ZU1KMUVnZ19UZjFpVGxNZGF4dw?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-16T05:27:25+00:00"
     },
     {
-      "title": "勇鷹號月底全數交機 漢翔搶進維修與無人機大單",
-      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPeEJSOE16Qk1UTEtndG5QVUZ4SHZxNEZvT2d0c1ZZTW1zRWNna3R1bnZIR1J2ZzZaTGlpMGtEdFg1aFpNbG1oUW5ZRDIxRjI5SHpIclRaZFI3S3NhaTE0SWlzdEZfcmtJODZBX2hQUG8wLTAyWWVBa2JzYXlYOGdrYTRhc05MZDhOV21SQ0hrYXlLTUF5Ukp4Wl9ka1pBS29naTlPOUxaTUY3M3VzanBuS3VQdDRwbEFsS05DOHBxT1VSdFJHUGZpcG9qQ0lJaEllZHI3akxXTDJDZ1ZRaDBGcS02TzdrNjRuLVJ4OEJmN1RzRmZPc2hWS2oyRTRvcEMzYmdIbEdsLVZZTmthTnAxNWt0cWprOHhVRjBEM1ZOSkdNSmtCZ0JqYTdPM3o2bWhRSWdPQWNIbVpGWFdId3h6aU9FWUNicU1HLXd3Sll5WTM?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-16T04:07:19+00:00"
+      "title": "2634 漢翔- 【0916漢翔盤前日誌】空頭海獸來襲，風險如風浪逐浪高！ - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTMTNvT1BXMVJzbTJ1WmZkc3JnMk9sNXlFLUlRQTkyc29SNGFYampuYWVaNzRRZmQxYUNvSU45eGtDOW5LWGJINzIzbS1rT3ozVURCUU1ITHk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-15T08:23:13+00:00"
     },
     {
       "title": "漢翔、華新傳捷報 大訂單入袋",
@@ -58,24 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YcXhoVGZFa0c4X3Y4bFd5ZDdDc1hYQjVnUFFiSHZ0NHRpRnV6bVZaUHRqRkRRLVhZNUpvNEVRU0pzdkdvZS1hVW1zaElkQnRPYlZaZHNJbWNfbGIxaDNqWnBXc2dlQQ?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-10T07:00:00+00:00"
-    },
-    {
-      "title": "漢翔不只軍工！搶下龐巴迪20年民航大單 還要帶台廠一起做",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YbXBXWFJObGxackVlOVQ2Z2k1NEFGSjBFOUprdGxpc3FUbGVzY294RnlZenJpaExaUzQ2Yk1mWjZ5Si16TTZxbDUyNjdIVnNOa2fSAVdBVV95cUxQTFVNem5ZQ1UyMDN4d0JlbXRjdHZUaFFLMlMxNXdPZEtHRG44dGpsdThxY2g0UFc2VjJEczlBSTlBMVI5NWJwMFBsbHJBeWxFaDBoTHVFNDQ?oc=5",
-      "source": "UDN",
-      "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "漢翔奪龐巴迪20年大單...股價為何漲不動？法人親曝貓膩：明年「1原因」獲利近腰斬- 上市櫃",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92aEZfSzcyd095RS15a0NSNFhpNEVza0tFdW1iVG91QXd0R2d4dDJvQlhNa0R2XzR3TGVSSVZPcWdRMkpfZkFHR0pwa0dRS3N3TTExUjQwUEN2NDltbUZOVVpkazJiMkdyYnc?oc=5",
-      "source": "旺得富理財網",
-      "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "漢翔（2634）做什麼？20年長約背後的業務、營收與護城河",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yT3F6VmVXT3VPWUlrUGU5YWtOTGwyV1l4TXJxNERIZGFUcWVMOTZpSkhqTlhxRjBQcmI4RG1aMVJuWHBMTXdsWnNSRlJTYUNPQmNSZ0pDZFVucXdZ?oc=5",
-      "source": "pocket.tw",
-      "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T02:35:21.916684+08:00",
+  "updated_at": "2026-09-21T16:35:48.423403+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2705",
   "name": "六福",
@@ -26,7 +26,7 @@
     {
       "title": "六福於英國倫敦開新店 (18:39) - 20260914 - 即時財經新聞",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWVh3dmFWZGdWM25BUDRzV3BBRm5TcXBEQW85S0RuQllUQm1IT0VyT1RaSklxZ3Faa1AwWXNsTkVXak4yeVJOMVIwbk1LdHBrd2xaa0h2WmlpQlotaEtJUi1KWS1UdFNub0dGNlBsREpUNy01Q0pVNTEyRXE2UEcxckRKUEF4NkVPaUtiZnFYOXNGWjdwVFc1dEJDbjZ5QmtKVC16T2pUOWVIMlhpOFFjWnhQRHVhcHpxdWZqYXJTRVBNYlhxei1fLS1LOU05RkJrMFVac0twcnB0YnRjbHpGdy0xRElTak02MWc?oc=5",
-      "source": "明報財經網",
+      "source": "finance.mingpao.com",
       "published_at": "2026-09-14T10:51:48+00:00"
     },
     {
@@ -42,6 +42,12 @@
       "published_at": "2026-09-14T09:39:00+00:00"
     },
     {
+      "title": "六福H2整合多元事業資源，冀穩定提升營運",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNQnVJVFJWR05BLWJnak5SRmM4WDVQMl9sdkpuXzRxblp5cEY5a3Q2TUUxb0JwaTJZWkZYdXctVENnNWdJekpoUTcyNF9GLVA1UXdjOGh3aDFsLVVBdUNuelMwOFpVYk1ReXZ2S0xtVVc1TG9KVXd4TEF5NHJNZXU2YU4yU0lWbDd6dGg0dkNoam9NaF8xTnZCV3B1elg5b0VfQ1NVcC1HQUs1X0RsNGRuYlB1Q0hPRnpYeGFYN1NYV3d1YmVITEx5QngtendXSUtoOWJDemV2NXBsRnV5NTc2N0o3Qzh5Yms0TjAxeDBEbUZNelVHS0MwZTNQdG9ockM3WlYxazVQOFF5NEpXcDh1Q1JxV1dOMXMxcnVmSHZoSFRxYlJkdU1qTHNicw?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-14T08:34:29+00:00"
+    },
+    {
       "title": "六福旅遊8月營收月增13.69%創今年新高 六福村旺季營收增38.3%",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSLWNqMWM0bHpjT2RwejNCUElZNlhfanRuZ2FuQ2xEcXA1VTluZ21RXzdmUng3YWR1alFCWVVRTktfSmp4Qk1KcGw2ejRnQ1hlVjgyaTVMTlRfNTRwQVZnNnZ1NWk0dm9UWTRSdFZrbw?oc=5",
       "source": "理財周刊",
@@ -54,15 +60,9 @@
       "published_at": "2026-09-14T07:29:30+00:00"
     },
     {
-      "title": "六福H2整合多元事業資源，冀穩定提升營運",
-      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNQnVJVFJWR05BLWJnak5SRmM4WDVQMl9sdkpuXzRxblp5cEY5a3Q2TUUxb0JwaTJZWkZYdXctVENnNWdJekpoUTcyNF9GLVA1UXdjOGh3aDFsLVVBdUNuelMwOFpVYk1ReXZ2S0xtVVc1TG9KVXd4TEF5NHJNZXU2YU4yU0lWbDd6dGg0dkNoam9NaF8xTnZCV3B1elg5b0VfQ1NVcC1HQUs1X0RsNGRuYlB1Q0hPRnpYeGFYN1NYV3d1YmVITEx5QngtendXSUtoOWJDemV2NXBsRnV5NTc2N0o3Qzh5Yms0TjAxeDBEbUZNelVHS0MwZTNQdG9ockM3WlYxazVQOFF5NEpXcDh1Q1JxV1dOMXMxcnVmSHZoSFRxYlJkdU1qTHNicw?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-14T06:55:00+00:00"
-    },
-    {
       "title": "六福越南胡志明市新店開業 (16:40) - 20260907 - 即時財經新聞",
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQWnVnbVdqUW5FQ0R0NE8zaEVmbXFneU1EUWxnNWVFcG1lZTdXZzRnZ0FMdGo0dW5LMmJKUkNFbjk1UWVXV3lCUGxyMm10a1cwWU1QeFBEcTAyM09jUzFWbFl2czhuV3ZQX1Bva1ZfVGlTVUFmLWFoOWNxNGRkNUVPWHg1aEdyNVBjem1oUGdiNjNhUm5nRndBcTVfdk1VanVGcmo5Tm1PSm9DSE5iWjE3dzJ0N1VoUTRRaWgzem1GQUZESVJabkE0YnctSmwyVGlndTlsLXJPcEJWYUpGUk90RUlIaks1Z29EM29iMThnRDF6Q0t5T2d2Z3FIRTJVOTVqYkE?oc=5",
-      "source": "明報財經網",
+      "source": "finance.mingpao.com",
       "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
@@ -72,8 +72,8 @@
       "published_at": "2026-09-01T07:00:00+00:00"
     },
     {
-      "title": "高市六龜高中「六龜六福」開學禮 滿滿祝福陪新生幸福啟航",
-      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQX3lMMFhTeWhiRkZ0T3ZPX3duWk1UQnJPbkI0eWU5dEdUUnQ1TWEtVExrN1BRQjk2RzA2U1Y1U2N0OTY3ZVVJRm5KMHBmVk9zb09GcGxJRUQyOXFIVURwWWxJZzZ5Vzl6Y3RwN3RReHVZQ0pVX3BhbnNmMDFBYXFKZngtLUVaeERwM2IyaUV6T25ISDRwY195Q3Y4d0NqZkdtQmF5U3g0Wm9hRGRuejhvWUZjd3RFMjlXbnc0S1lzRDkzNkRBYndnVk05YlJ5SkR5T2t2Vi16VXVWOXVLRVR1RkRVVkZESmFfZHdTRUlabnZ3MTFOcDY1SXkwcldmR0Q4ZHRQa2Q3bTdJbWtlOWt4cldxb3lYTkpUY3ZUUWg2WFF0MC1yY3UyTEhScUNBUmcxeTItbUpQbEZjb2ZjM2lsXzJmelJsNGFuM2hITUxPeXBZZVl4SVVsUzVOUVV3b20xTWVKSmdjeHhXOUYxSVdMZVhEajA4akE?oc=5",
+      "title": "六龜高中迎新送六福 特色禮物與吉祥物迎新生",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQQkNZc3FwUkhmOFExM2JtT2FIejBZd2FiTF9RM2U1bEJBVmtORTZ1NkdnaWJBWnk2Q3dSOUlpTG1BaWZRbmhfYlAwTG9QZ3RZZ0JEMVBydjlCY1dlcmVuRkhLekpFSG8yX2Q3THZ5QmItY1pUSWg4eGkwb2V2NnFsX0xSdGhsdDZzS3NVbmluMXRVU1FSUDJNUDhxMEhNeDhneHhBalc3MExVU0ZSOHJZdThhZlpQemNaSkR0ZjJJSmJScU1GdVp0VXFwZ1poUWNjN1l1Q1V2S250NU5WWXhCMHZrZm5nSmRnVEJDUFVhSC1fcVdIRnUxbGFiLVB5bFVPQURrTUNFdHNTanBvN0l2LTY0eDhpYWtHOUl4MGNkc3VHaU5RTGd0elNDNW1fUUNNdnVWbHhRRWcyc1JGWjZ4RUtRbHk?oc=5",
       "source": "Yahoo新聞",
       "published_at": "2026-09-01T07:00:00+00:00"
     }

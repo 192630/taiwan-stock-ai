@@ -1,33 +1,39 @@
 {
-  "updated_at": "2026-09-21T02:35:05.011510+08:00",
+  "updated_at": "2026-09-21T16:35:29.935644+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2547",
   "name": "日勝生",
-  "count": 4,
+  "count": 5,
   "news": [
+    {
+      "title": "《自營商買超66-60》高 鐵(153)、威 盛(24)、日勝生(18)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWnN3cWRjc3BmSl9YMmw0NDRueHNQNTQ5UFlKNDlkZU16OHViTDJIZzlUUzRFbXd1RW1rUk9WNTZyOUpqRlpxVW44d3MwUVVKd1RlZURER2lEU2NFdXE2cGJiRTFQYUU4VFRQREt4OTRQR3hvYXJRdUYxcnN0OGJuOThXUnRnZmw0?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-20T23:40:00+00:00"
+    },
     {
       "title": "美環保署參訪桃北再生水廠 與日勝生交流智慧水務",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqX1RoRVFSY0lxTkdtRU9MdmY3V1JkNm01dENteFJMWVpUVkJBQUtLMkRFd2VwYlpUSzhYWE5NX2FrcGxvNXNIU2RBMU1PS2hxdzByaV91Vmk?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-17T01:55:54+00:00"
-    },
-    {
-      "title": "Radium Life Tech Co., Ltd.的Enterprise value to EBIT forward – TWSE:2547",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUXZEY0tSYzlFenZ6VmVvNVl6cjdTTVp5Z3pDRkJEYlVncUo4bzBPNmlqaWFNbWJYZzctbzgwTkI4THhaekhGS3RucmdDX3ZmejZaeTd1LXpTTEFlWDdBQ2E5QXNoU1FSczZhWFFYWncySTRyNFdYVTk1cWV6QUprRUFKTWtETUxoaXdhdFNCM3Nwc0dhb0NYVk5EZElrY05acEU2anhrRQ?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-15T21:13:45+00:00"
     },
     {
       "title": "【2026/08月營收公告】日勝生(2547) 八月營收10.67億元，年增81.23％",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SQkczT1ZjeHlxQ1VFOFFzUDdMM3k2OHZfX2dzQ093SlF5OWlUbVdsWGxVODExbzlIUXFUeXNIaFYwMWFuSGRPd013clZhdWhCbXJGYmNUaHFKTjFsb2NnU2hYRE9MeFE?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-10T07:10:04+00:00"
     },
     {
       "title": "2547 日勝生 - 房市陷60年最慘景氣建商公會籲解除第二戶貸款管制- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxekZmdm96YUVSVkN6OGJGeWtYdDluY1MyaExTbm9Zb0VJRFJWYnZxVzlxNkp2TE5WS1VxRzlBang0Uzd3emxSVXRZZjVWSG1uQ0sxdWQ5c24?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-08-26T07:00:00+00:00"
+    },
+    {
+      "title": "【即時新聞】日勝生豪擲54億強攻中捷聯開案，擴大軌道經濟版圖引發市場關注",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1EUGFEaEJhU3FOdlJ4cEJlaW9SR1VET2hBb3Rrbk5iTFFGTGRFYzJORzhraUR5OV9uY1o3Zi1rM0xTZk1RWjhycUVnUXlLSU1fbWNmZjRKQW5ka0FtNmt4bGY5czdnN0k?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-08-24T07:00:00+00:00"
     }
   ]
 }

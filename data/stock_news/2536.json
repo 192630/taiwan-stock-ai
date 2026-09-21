@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-21T02:35:00.789503+08:00",
+  "updated_at": "2026-09-21T16:35:24.977324+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2536",
   "name": "宏普",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【2026/08月營收公告】宏普(2536) 八月營收月增132.36%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS2ptTl9vS1UwekZpQVZNd1U2TWRkZFVsdUdXOXhkNmNpaDZNRkpPcDRlNk40LWJleTJUMFc4d2d2ZVRkemhxZXR5Ri04TE5VbFlUT1RFMlRiYVFkeEdCWTM1eHJOUk1mMm1Odkk5NVdmR2JIeVJnVkVIaEp4TTZSd0h4WWxCaWc2Wmc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    }
+  ]
 }

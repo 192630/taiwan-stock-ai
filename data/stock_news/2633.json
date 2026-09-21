@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-21T02:35:15.623945+08:00",
+  "updated_at": "2026-09-21T16:35:41.539884+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2633",
   "name": "台灣高鐵",
-  "count": 8,
+  "count": 9,
   "news": [
+    {
+      "title": "2633 台灣高鐵- 高鐵台南站旅客不慎絆倒落軌列車進站煞停...車次延誤- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBacEtSLWpzOEhLdVpVWTdZdWtXV3lURnkyQWdWTGkwY2VuZ01lSVNHaTdqb2RKNy02NXFfQkt0Uy03WFZ1cUFpZU1Kc2FEeEp4M2ZodUlCbVc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T02:41:25+00:00"
+    },
     {
       "title": "台灣高鐵攜手全聯、漁業署力挺台灣好鰻 跨界進軍旅途餐桌 「高鐵聯名鰻魚便當」開賣",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vbVE3OXRVelBHRk1wMDQxV2l4MGpaQkdEZ3Vwa1Z5S0lhalNwM1BCWnNhdDNwOVc5WkR4TVdvTmZSZWN0TWZCbG44ZVh0RTk4Y2paM28wYURuaTNKNm1XV1RiS2JGd3ZsNEZVajNUUQ?oc=5",

@@ -1,32 +1,44 @@
 {
-  "updated_at": "2026-09-21T02:35:06.336896+08:00",
+  "updated_at": "2026-09-21T16:35:32.019974+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2601",
   "name": "益航",
-  "count": 4,
+  "count": 6,
   "news": [
+    {
+      "title": "《停資停券一覽表》 金山電、益航、桂田",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdmx2NE1tdWpBcEpvYzVjWElPcmhPM2lKd1N0dm1BMDFySnpuTk1vcEtxT0FzejZVbVh3b3hxMmIxNEQ3c0drRk0yZnhJeXh3N2lmSkc5ZHE3S0Voal9JVFdacjdTVDFFN21NQkV5dFZyN1kyZXZvdVBtV0Y2RDNfM29aR20zd20x?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-21T00:04:00+00:00"
+    },
+    {
+      "title": "2601 益航 - 【益航(2601)盤後解析】價跌量增，籌碼鬆動壓力大 今天... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FTVFKVHpsbWNId1ZpX1VzaGRnOGRGV3VfSWJDU0RtN1M3SUR2N1NxUWVDV1ExMkVzeUNWYXVFeFFaVlZxNW95aGJmVklONGkyN0VQdnJra0U?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-18T12:37:26+00:00"
+    },
     {
       "title": "2601 益航- ？？？ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41SmYyOHhMeXUxZzlFQjVxNEJDNHRoRDdOaTc3cElHSmc3V2piLUE3Rm52NFZGdUc2emp6cU8ta1Z3Ty0wSUVlSkJTMTdXckxfZ25YM0dFLUM?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-18T08:18:48+00:00"
     },
     {
-      "title": "2601 益航- 益航融券最後回補日9/17 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtMjc3T015N0VlX0RJRUNkcjlrQWpxQ1VoenB6ZmxIMGJvMjJ3c3RjYnQ4ZGxuR2FoNkdrYzZON2JZVVQ0bzFhOGFibDA0V3FMbGloMkpRNkY?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-11T00:54:34+00:00"
+      "title": "鎖定大型車違規熱區！ 中和警不手軟狂開2601張罰單",
+      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOSlZYQWZvam9kQ284cVFhU3gxNVVZSENQaUFLVzJHTmk1dUNQbjliUlF5d0dXYXljRW9XWl9JNm9PdlBBeFpJdHp3VFd3MVZ1YWJ4RjZMdFlJQVloV0ZqNGEzRnZLOGRGbmx3WEkwVkNMRGNOa0kwZmV2VjZmZG5PcnhCMDh5b2t1RS1EVC16bmstZk5aWjRnblpFYnFyNVp5S2lwVzk3WEpBSW9DT1hLWTQzMjJPVDl4UklzUEo3Wkl5OXJ2c3NrVXFZYjhxenRkQ204RENrbFhPejVNalRRSG9FV2tnY2pYSEJxM25BU1AxLTduRFBVcmg0VFY0V1puLTRDR1E0eTdCRWdVbDk3dHN4Q0RES0lKMFZoUkJma3hOc1RkM0p0eWNDN1EwQlNDQWtfUkx5VE1EU2c1bDZ5OEZnWlpiRHlTNWc?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-16T07:31:00+00:00"
     },
     {
       "title": "TWA00 加權指數- 9/4【益航。BDI與BCI】 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5aTGpGNld2Mm1JS2xSNlowOVB6a3dkT1pQUWhObF9MbXJzWjhNdWFxRS16U2NiLWJxZ2lwb1YwQ0NMSlFBUHNjcFJFdkMySGxWVUpaZUhzV2o?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
       "title": "2601 益航- 益航公告本公司辦理減資變更登記完成- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91dTJJQVhnM2tkTzRFcG9aZ3dnVS13WGFibkYxR0RHQ2pOQ2pjRUNJUlFPUzd0b1JCaG16MERnUl9WQU01YVVIUjAzazhrbmpLeUNsSm5JTGI?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-01T07:00:00+00:00"
     }
   ]
