@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-20T20:37:32.076166+08:00",
+  "updated_at": "2026-09-21T09:34:36.472319+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8499",
   "name": "鼎炫-KY",
-  "count": 5,
+  "count": 6,
   "news": [
     {
       "title": "鼎炫-KY 代子公司隆揚電子(昆山)股份有限公司公告處分收益憑證",
@@ -20,13 +20,19 @@
     {
       "title": "鼎炫-KY：資產出售案無重大影響；H2估優H1",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUkpnY2x0Q0xiSG9pOGVnajBFNU9JQ0VsM3NweGl5RzFXME9HdzlzQUo3Z1N4Wlpha2J1RERqQWVjRTRJbHJFQ1NWaFRDRGk0cjhfTnZoQWVZazZBcVNyUGdSeGNBUmNJWm5BNFN6dm1yTmpyOVdVMlFIbGtZSXdXYTc1ZGR5NGtma3lRNm84eWV0UQ?oc=5",
-      "source": "MoneyDJ",
-      "published_at": "2026-08-27T07:22:00+00:00"
+      "source": "moneydj.com",
+      "published_at": "2026-08-27T07:00:00+00:00"
     },
     {
       "title": "鼎炫-KY子公司出售土地廠房 處分利益約867萬新台幣",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40Mi1HOFNDVDZEWW9UczhWOE5xdEtvUTRwbnRDLUVCb0F1eWRGY2REekE3dDBWMjRxZlR5QlpNRlVhNTlIQWxvLU9wbzVMY0V5eDNCM1pxV1BhNWdub2ZJ?oc=5",
       "source": "自由財經",
+      "published_at": "2026-08-27T07:00:00+00:00"
+    },
+    {
+      "title": "【即時新聞】今日最新！鼎炫-KY召開重大訊息記者會，說明重要子公司重大決議！",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HR0tpODRVMV9XeDYtRV9lWldvc0VFZU9kQ2Q5NWlWelJZbUJmQU14eTFnd3BrZVhkTGFieHlUZ0lVZk5QZC1JRlNBSThDanA4dERsZTRDV3JQZ19vZEI5bjVzZktXWUk?oc=5",
+      "source": "CMoney",
       "published_at": "2026-08-27T07:00:00+00:00"
     },
     {

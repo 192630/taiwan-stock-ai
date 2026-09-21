@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-20T19:32:38.081304+08:00",
+  "updated_at": "2026-09-21T09:34:20.140116+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8131",
   "name": "福懋科",
-  "count": 2,
+  "count": 3,
   "news": [
+    {
+      "title": "個股：福懋科(8131)9/17受邀參加國票綜合證券舉辦之法人說明會",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaFdWUElhVU5MODlfZXdFWW9CZlJWZUpqTDJnVUdheTVMM1FCV0xaaDllTEgybHBqaVJ3dkVHYUoyb0U2RXpBWWFsS2pxOXl0VVRyY2laejJoaU15ZExRemZtUEZhbW9kb3kzUnVlcEdKVXB4NGdXd0Z1Vjh2OW5lcnUwWm9JbUFO?oc=5",
+      "source": "ww2.money-link.com.tw",
+      "published_at": "2026-09-15T23:03:00+00:00"
+    },
     {
       "title": "南亞科與鈺創、福懋科、台積電等大廠合組高寬頻記憶體大聯盟",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zaFcxdTBSWEtoTHlhMndLQmI3WVBoTUF0YlJsVEoybkhfZXBsamNJSFBrMTRlWDFfMjY0aVBIbk5iOXNjWEhTMGo4cF80OUozbkFsS0xSTlA?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-13T01:49:59+00:00"
+      "published_at": "2026-09-12T07:00:00+00:00"
     },
     {
       "title": "【2026/08月營收公告】福懋科(8131) 八月營收11.35億元，表現亮眼、呈現雙成長，創歷史新高，年增29.25%",

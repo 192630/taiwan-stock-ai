@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-20T19:32:32.520719+08:00",
+  "updated_at": "2026-09-21T09:34:14.741012+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8046",
   "name": "南電",
   "count": 12,
   "news": [
-    {
-      "title": "南電(8046) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sbjItSURJYjhnVGx5YS1GSUFjLWVCMlZQejlpQ01POXlVQ01PWkJubVR6dG41SS1vbUxleG1HaXhPS1dxRTR0RjNpajV1NDl5TEFr?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-19T03:24:20+00:00"
-    },
     {
       "title": "焦點股》南電：ABF載板價格看不到天花板！ 出關首日急拉漲停",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5IdW1UbmJiM2FacVZRaHZQY1pCYVZCNUZNOHNIYkp4RFlSNHhuV3F4UmEzTU9qNzNQZkcwSDR6OWQzZ3FjZUd1SE8wR2RYV0s1SVM2ekwzSXI?oc=5",
@@ -36,28 +30,34 @@
       "published_at": "2026-09-17T22:32:02+00:00"
     },
     {
+      "title": "8046 南電 - 明天漲停了 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sYnBxWXlmeGZaTWJiVVp1aDBld09wTlBWZUdyTVNqd2FLLU41bTlLX1FUdmVMR1ZkblJGQ09SUkw2MWhJUkVfaUQwZlFSNkhPMVJoel9oZmU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-16T13:57:58+00:00"
+    },
+    {
       "title": "8046 南電 - 炸裂空單吧 Explosion! - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tdUlOeHF5TDZ6VGRTRFdWS05GS0dMZ0RBblVKeUFRRU0xdFdMWW9HZXlSZ2NBUFJaQTZ5SWxuYlo1N2tRcl9RcmxUN0s5YTBDa3dpelBQRUE?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-16T03:33:50+00:00"
     },
     {
-      "title": "南電(8046) 今日股價與討論 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82cmlaRERtNll2bVh6UWd4SVJYcFotTm0wamFpQTFkRURJdEdqNlB5b29qUlFmTFAyMm1fbUlxZHdzZGF2dVF2U25nUHJoMkU?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-15T07:00:00+00:00"
-    },
-    {
       "title": "欣興被搜索，景碩、南電跟著跌：ABF 是集體出事，或只是連坐被錯殺？",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NS19tTERmZzUtY2ZNQ0ZzWjVmd1R1SmhLdm1DTVp4aUs2aDJ3Zndsak1LbEZ3aWRrMkFUR3NYaXlYdkhfaWlJVWhJcWdXeDk3WEFITUlXMXloTWt6Wl95OXlHN21JRlgzclF2RHlNOA?oc=5",
       "source": "理財周刊",
-      "published_at": "2026-09-11T16:03:58+00:00"
+      "published_at": "2026-09-12T07:00:00+00:00"
     },
     {
       "title": "PCB女王喊逢跌就買！ 不只欣興、南電、景碩 點名「5檔黑馬」抱到明年",
       "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQRlc4U0lQeUR2WC1HZFNVNm13ZHVsMjZPQ0E0SUZqbU9nZk9CY0JGM3MtTlBNV0dqMFpEeUd2V2g3QlpCXzczT0ZjcU5WMnhZc3M2LUU2X04za1BmbVo2cFBMcWp0SWxvRGRHTTNGSTRMNXo4bHNxU0wyYVBNSEo3OUtEZnV4T2FBazM5SFBRcV9IaTQtVURqOGpRNDRMT0FMQ2otWVZnM29CYm5ZUm9QeGh0RFNzNDg0X2pTYnZrS3YyVFpDYTQyaXN5eWdtMTZVeEZjRkNHVjRzTGttYXpzb3hxellrNlZKQkVHdGpBeHdGUnJqbEphNFZRMjhBSVg3NGdlMXowMmN4cGl5U1A1aGM5M2dpWVp2MWJHUE0wekNaYjk1c05RdndnR0RwU3gw?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-10T07:00:00+00:00"
+    },
+    {
+      "title": "焦點股》南電：擺脫博通自製載板利空！一度漲停",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16bVF1a1pYNEFKLUk4Q1pYRFF6dDJDcUlSc0pUSm9VV1BpYjFzem1fblJKbUFKUzlKWkxydUZfenNkMVNZdmNZN0x3eFNqMVk0cmtpRHlwS2J5Rlo4ZjBN0gFkQVVfeXFMUE40ZGwzUlNTdEJ4NXJMUkZPM3c3d05qbzZHQzR1eTFOM19LdlRIZEUwRzZjNHpKS2pjaW02Y202Z2laMDVRX1RHU0Z6STJZcFBhM0VZZWY3QTdzUlVfdG1qWHZubw?oc=5",
+      "source": "自由財經",
+      "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
       "title": "【09:28 即時新聞】南電(8046)股價勁揚至1110元、漲幅8.29%，AI＋ABF載板題材帶動買盤迴流、短線技術面壓力區強勢再測",

@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-20T19:32:33.040554+08:00",
+  "updated_at": "2026-09-21T09:34:15.220581+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8070",
   "name": "長華*",
-  "count": 10,
+  "count": 11,
   "news": [
+    {
+      "title": "《一週外資買超49-17》四維航(1249)、長華*(1241)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQWktaE4tZkpWQVB5ckZ4dWZhNE0taW9XVE9sYW9WbTFKYmp4VEFtdEtLcm1DVjY5TEpnWXhnRjFlRFp3cl9wRUU0QXRNNlJDWWxyOXZxSmFwbVFqdm04Ym03MWg5dXJNNnk2TV9DQ2Nwc2ZobU51alVod0Z5V2pmb1M3TlF4VE1t?oc=5",
+      "source": "ww2.money-link.com.tw",
+      "published_at": "2026-09-20T23:44:00+00:00"
+    },
     {
       "title": "長華*(8070) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9pRllCY09iNWtuRjREZmRhTXlJS0tLOTNJTFozSzBwQWVqY2t0NDk0M2JjLWlNa0t1V2tDSWd6YjRuV2dSN1dHQ2VR?oc=5",
@@ -20,7 +26,7 @@
     {
       "title": "《外資買超38-19》長華*(424)、皇昌(423)、雲豹(422)",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeUNDSmhIRDhDVWktQ3dtd1hqdjh5UEJMT1RjbkJ2UzNEOFdURjJ6UER0R1F2ZVVkWXFWaDBLV1pqdDJ2QnBQQVR1RXhLLWhkbi1BY3lYOUxpdGJVLUxDd1VTcVVhQ2VfRHc0aWZ5czBIa1U3VnIta1VUV2hXdFI4VHNfY3l1cUhC?oc=5",
-      "source": "富聯網",
+      "source": "ww2.money-link.com.tw",
       "published_at": "2026-09-17T23:34:00+00:00"
     },
     {
@@ -32,37 +38,37 @@
     {
       "title": "《自營商賣超50-37》長華*(25)、宏達電(24)、台 聚(23)",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQmQ5RjBLRVZaTjdaMmtJYmJQTzExVmtaRldDNXFjdjcwanlHUjlQUGgzVFRpRWZ5TDBXY1BrNXl6WlpOTUpnNVRoRTc5Q0FoTFozRlJsRFYyV25sQ1JIZEFYQk9aQ1J3QkU5VmxvUjd4VXIzUFljNUtMY29ZN1Z0M2hYZTdwWjdh?oc=5",
-      "source": "富聯網",
+      "source": "ww2.money-link.com.tw",
       "published_at": "2026-09-11T08:35:00+00:00"
-    },
-    {
-      "title": "《自營商賣超35-25》長華*(23)、正 新(23)、景 碩(23)",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVFNYNUtNOUZMbFZRSktNdUJzWDducjBqd01MYVNkUXJwQUs1akhGaUV2SXNMdEFvVTk0NGhsTVU5Mjg3VVAzcmhPWEh4dHJkNDBpWm5oTVFKeGlEQWY2MW13YVQ3QTJZajdtTVJLcVVlck8wTzhpSjR3VWw3Y29HRFFsUjIxUllp?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-09T23:37:00+00:00"
     },
     {
       "title": "個股：長華*(8070)6/4～9/9處分頎邦普通股1,475張，處分利益約2億448萬元",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ1NCYkZINEpFd3c2SjBqVExPYVBNcHV1OFFlU0dkajROYTEyb2NuZkp3cDhkc3o5NmktbTZXWTVmcjRBYXVveGRkYXBWeS10TS1kNWp2QjlpcUlacWJxcnd5Y1dMYWVYck43YVdjSmdENVVuOHZyS1pXa3diZGtXeUo1R0wyeHJ1?oc=5",
-      "source": "富聯網",
+      "source": "ww2.money-link.com.tw",
       "published_at": "2026-09-09T23:04:00+00:00"
+    },
+    {
+      "title": "《自營商賣超35-25》長華*(23)、正 新(23)、景 碩(23)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOblZKdU5YTDBySy04a3NJT0t6RjN3MjVZZ1RQcEJXYkdZbmVoSURzMktJb2p2bUNEcF9qb2p2OEctendieUV1dUg2TmFfV1VNUVF3RGZNaTB2X0ttR0hNOVpkSzY2c3FpTDhQYkZjQVNCQk1pSERZaFdJbmhzY1V6Q2F5eURSQm5W?oc=5",
+      "source": "ww2.money-link.com.tw",
+      "published_at": "2026-09-09T08:41:00+00:00"
     },
     {
       "title": "《外資賣超30-15》台汽電(533)、長華*(527)、和桐(524)",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd21iZnU3LTdkQTUyaGJIQXBwdXdwWVhPMjl2ZGE5OWRMUTgwcWM0MkFyVTVBX3N1QWptaWp2ajFmWDdxZkF6ZUw3SGVjaUFYWmNydU9WcGIwR25EQ2VHdzVZN2luWnFvMkRMblIweVJXZVl2MHhGckhUWkhGallWUTd5cURlUk9r?oc=5",
-      "source": "富聯網",
+      "source": "ww2.money-link.com.tw",
       "published_at": "2026-09-08T23:38:00+00:00"
     },
     {
       "title": "營收：長華*(8070)8月營收22億3276萬元續創新高，月增率0.03%，年增率37.57%",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcHBiSE4xcTdYQmZjSXpTMVVoVGlpOWdXR2lINjhLN3UyazhXLV9ONTJzSVpBcEJFbVlYMnR4N0Utbm5fMW5nOGx4aE1VSU1DbnhFV2VkbThIbHVjT2JPVFRQZDM2TUh3M1dzYlBaa3o1MlpKSV9RZVFLNWgtbF9HbTRDUHhwX1pZ?oc=5",
-      "source": "富聯網",
+      "source": "ww2.money-link.com.tw",
       "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
       "title": "《業績-電通》長華*8月營收為22.33億元，年增37.57%",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUTAtM3pXdmR4WnBUYmVaSldyV2g0RXJrQWhsbFJDeThtblRja2IxUmMtb1RjX2twYmJOQktnb2FoaVAydjZSVEVlMzIwb1RhQ2tlc2JSak5zcTVOdG9IMFhrRUxJRE9IYWNSZ01XTzFzbDlzNXl2RkFPRnAwdjlveU9veGJ0b0g1?oc=5",
-      "source": "富聯網",
+      "source": "ww2.money-link.com.tw",
       "published_at": "2026-09-05T07:00:00+00:00"
     }
   ]

@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-20T20:37:33.033483+08:00",
+  "updated_at": "2026-09-21T09:34:37.397866+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8940",
   "name": "新天地",
-  "count": 4,
+  "count": 6,
   "news": [
     {
       "title": "新天地(301277.SZ)：鹽酸莫西沙星原料藥獲得CEP證書 作者 智通財經",
@@ -18,9 +18,21 @@
       "published_at": "2026-09-14T13:48:16+00:00"
     },
     {
+      "title": "[新聞] 傳廣州大學城GOGO新天地有人持刀隨機傷人- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14Qlg4YnN2V1hmX3BubEZhdXZDNmxhRGhzZVNUM2Y2cWl2MkpLYzh5b1kxXzZrSjNBY0lpbTZ0eHYtV1ZTMk51YzB6OTNJdkNOSWNLLTY3NFA?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-14T12:58:42+00:00"
+    },
+    {
       "title": "新天地產集團(00760)公佈中期業績 擁有人應占虧損1746.3萬元 同比收窄55.36% 作者 智通財經",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xSGRneHNFa1QtejE3LWFQU2pEWEZRMDc5ZTM4RC1ac2JoYXBMTllSMUR3U2xEWmo3dG9NTXpqRERrd2JrY3JmeVBYMDJCeHpOa1FUODRvcmlQVWlWWk4zaGk1ZEZxdDlCWkpmRFplTUU?oc=5",
       "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "published_at": "2026-08-31T07:00:00+00:00"
+    },
+    {
+      "title": "新天地產上半年收益7960萬元 股東應占虧損收窄至1750萬元",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxakxwU1lNWG9QbFF5aWZPdG82RW91ZDhMRDFnbDVXMkhoNXhCV3BtWERKVTk0YzJmVFRpUzd3LW9xYXRNTzI2a3NkWExQRGJoMXlNWmszYmxwdw?oc=5",
+      "source": "Moomoo",
       "published_at": "2026-08-31T07:00:00+00:00"
     },
     {

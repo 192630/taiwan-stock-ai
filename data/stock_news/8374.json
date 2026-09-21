@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-20T19:32:45.076936+08:00",
+  "updated_at": "2026-09-21T09:34:26.721247+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8374",
   "name": "羅昇",
-  "count": 5,
+  "count": 4,
   "news": [
     {
       "title": "Ace Pillar Co. Ltd.的Price to sales forward – TWSE:8374",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaDNNQVhBMGJ2WFVyd1RQZzBQMmRZRXIwbDJIbnVOeXliSV92M2JOaTJkVVVhOGVHblVpUTQzN2R0TGVDMWIwTmxrX3QwUnNIaE9taUdfMEN1UTExQUlwOUNqdHY5QmtaSGdCY2tRX0FVaVQ3YVNOUXp4Z1ROTjBiM0Zmc3FQaHI1RG56NWh1bGFvUE1kdFVQN0FB?oc=5",
-      "source": "tw.tradingview.com",
+      "source": "TradingView",
       "published_at": "2026-09-13T20:48:58+00:00"
     },
     {
@@ -16,12 +16,6 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE52SlUxMjV2QWY4LTlubGIxbGJQSUJQYXRpaC1lV3B5TzNuN2k3STh6TDVaZnkzYjhtTld4YmNVZXc5Wk5kMi1pRFJLTmpYUQ?oc=5",
       "source": "風傳媒",
       "published_at": "2026-09-04T07:00:00+00:00"
-    },
-    {
-      "title": "佳世達8月營收年增12% 旗下羅昇衝刺半導體先進製程應用",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIWnpYSG9JR2x2QVc4Y3I1a2Iwa0VsYmpqbUVXazBJRFQyNzd4WWdwd1BZUEh6WHJXbVo5RVZOYW5HWkxBbXQtOURTcWhiUEU?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
       "title": "SEMICON／佳世達集團羅昇、資騰與光陽光電聯合參展",
