@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-20T23:33:12.894623+08:00",
+  "updated_at": "2026-09-21T13:34:37.185583+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2009",
   "name": "第一銅",
-  "count": 11,
+  "count": 10,
   "news": [
-    {
-      "title": "德國10年期國債發行殖利率創2009年以來新高",
-      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQRFVPSkV5SlZ1QklLLU56MmVZQmN3LWk1OGwtdUp0V253YTJBb3ZlbTRPTXdWVjdWX1NTd1VZSDkzNnFHczE1QmIyTTdOTndGZVBMY3BxQ25YQXd2dURjc3Bwc0dtYkZYY1lyaUM0TTh3UTd5RjcwNUJka3JZdVJwY2ItRjJkb2tmUWJaWVRneWczaGp6WkRQZkx5Wm5yekxTZkV0blF4UnBwcndIZGpCRFdhRkdlMHVNRU5uSzVNTGg0WnlsSENEZ05qNU9LUEQxOTVyQU9HTERrenlKTEp6SjZneGlUOWVfdXRwN1Nlb0RmVHRDdmlUdm4yS2NZY28wcmxtOWs1TXN3Nk1fSWZWM0VpMTZidHR2UGxITUJhRkpKNUtyNDVfZ0ZqY3U0clBmR0E?oc=5",
-      "source": "Yahoo 財經",
-      "published_at": "2026-09-09T11:22:58+00:00"
-    },
     {
       "title": "【2026/08月營收公告】第一銅(2009) 八月營收3.39億元，年增30.27%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRGhaaHpaZUdNeGRvdVp5V1JkdS0tUXJVMTZKcXpIUDBVNU9QUV91LVZFbU94cEZkQkZDZDVzRVJNNF9yRzZ1cVhKYWhqVjVhTWwyOE45Y3VYQTR4b1FqQ3JZbHdFY2dFRXFKeFRDcDhnUzU3YmNRdW5oWGM3S29ULThzVnlpOW1PNkE?oc=5",
@@ -50,7 +44,7 @@
     {
       "title": "第一銅今年營運向上，全年看雙位數成長",
       "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPdnZxenZRVFItSVlmYjY5QzU1N09ySHVrbEJwN3BGVnFKWjh0WEhiZkRwcFlZY2V1R3I4WGxkakliclN5Z21KekhaZzhTdzRuT0lyc0tOMGQzbEtHRjJUX09JNDZRQWpPb0J5Q1htaFd0Q3JMNXNlMDBGdURaS0FveElxeEhXckxLNDNWRHNjOEZnaGh2aXowdTZSbkhXSHRJQkhYaXRQRE1lX29ucFEwMzkwYldVZVBaaXF2eUd6WmlPcV9VYmtGZ0dyOHkta0dnMVJaMDVkYkdOM2VCdEpfUmg4NVZUMml6X1RzT29WZEFJTXlHMU8wT0lyRUxHbHdnNmcwWDBldV9HeUNvMnJacDJKOVpxaUVseWk3azJR?oc=5",
-      "source": "Yahoo股市",
+      "source": "tw.stock.yahoo.com",
       "published_at": "2026-08-30T07:00:00+00:00"
     },
     {

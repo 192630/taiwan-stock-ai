@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-20T23:33:00.117972+08:00",
+  "updated_at": "2026-09-21T13:34:19.067036+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1737",
   "name": "臺鹽",
-  "count": 5,
+  "count": 6,
   "news": [
+    {
+      "title": "對下半年較樂觀，臺鹽今年拚追平去年",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPMmxyVlh2c0U3QWNWYlB3TnZiMDlDUnp0UzRhSklUd0d5MFppUEozV2luYlRIejJpSmlSOXczYWs2dDRzWHgxVnVKdEFBU25KcXdYbjBOLWFzcFdMUWVqYVppUFgtbGV0ZDZaWnFUUUxncEhEcGVnSGJjWDFPVFlnSmJ6WTF1bEdkdEJVZ2hxZzdhbG1vU3RjZzhXR3V2Tll1b2hqQThKVFBjV3NDclhoVkZYMkx0Q25ZTS1McTZjOEZ3cV9oZlVxcW9ubVBTZzJtTzN2TFBZallCVC03TjhGdmhUZHhlQXpaLXk4ZFZ2TFRpZER5czMxOFlydW43ZFJGQUlUZUxWV3ZrTl9MRHJoTVF1R3hHcWc3Y2I4cw?oc=5",
+      "source": "tw.stock.yahoo.com",
+      "published_at": "2026-09-21T04:19:55+00:00"
+    },
     {
       "title": "【2026/08月營收公告】臺鹽(1737) 八月營收2.75億元，營收雙減，年減3.88%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ25fdWJuS2k4Yzg1TTk4N0kzYnNZY21iZm1FQ3docGtSU2lkMjJMU2tYcnRxcFpqd2Z2UUZIV0lydmFjQ2NhaHpDeENjd1k0NHAtSndGa19XbnhQMi10RVhFNTNoV3ZxMHdFcWM2dVJrdnpiZ2VQR0c2bU1jZjJPeFFvZm9Bek12b1E?oc=5",

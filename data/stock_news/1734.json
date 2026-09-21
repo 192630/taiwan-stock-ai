@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-20T23:32:58.886656+08:00",
+  "updated_at": "2026-09-21T13:34:17.772971+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1734",
   "name": "杏輝",
-  "count": 10,
+  "count": 9,
   "news": [
     {
       "title": "杏輝打造亞洲製藥平台",
@@ -36,12 +36,6 @@
       "published_at": "2026-09-16T23:36:00+00:00"
     },
     {
-      "title": "杏輝法說》砸7億元擴建宜蘭廠！日本癌症藥OEM進入交貨，續洽無菌製劑與三高藥授權",
-      "url": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxPZUh3SXJFRXpyLWxiZ3FScVRVN2luMjJybW43eDYta1kzeG1ETkxHMG5ob2xwU1YzQTNpUUxCal9SZnpEVDhRXzZuWHVWcEV4UV9nU1dwRzZxcTRfU2hYTUVraklDTW9HRExqRkt0STB5bnpiQjduamNDdWZ2Y3N6am50eGJ2RWV0RVB6azhiTVBKbzlTUWxqTlh6c0NGZHFtX0dfdGZqam5QeG9BRmdnQTVCWFdCNVgwc25LbXQ3WEIxOExwd0Yzc245TTZvMzJ1WGdoVFlPeF9Jdk5KanRxOElkVE1nTzRMTmZvVHlkSlNqTWxOQ2ZMX0c0SGNTZ2ktWjNYRjd0MUJXOENtYjBva3J4ZTRQcFpCZUFhckQxTUp4aWd2OU5icFRnbWQwU29ZbEN3YkhONVRQMF9RM0NqczgtWVBzZWNNTFdRRC13R3QxNTNpTFlNRE5EMW1aNS16NkNDWEVCU2hvOHRxU2dMWkNtVTJPWEJoM0VCc24zYUFmVzRDSkFFN3RnR2dyY1Z3ZTBBd002MmlndzcwbWZVUFN2MUlfVmkwQXl4NjRMTlo0ZlphWjhZcVlFajlOcUhOc3lRS0xBMTEyTl9HYXhfSmZUbmhqSVNFNHh2UWxqM3ZBM2F3N1U3OQ?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-16T15:51:51+00:00"
-    },
-    {
       "title": "杏輝法說》上半年毛利率升至45.4%！2027年4項藥品拚領證，功能食品與醫美再推14項新品",
       "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxONHVnbEd6TkxwQV9jbmNSellOckV2WGpIMThXdS02aXlvS1VvbHUxamhHdGtyZUQ2bXhUOFFoZUR0MlBuZnRTQTc0dXg5VVlfTzE1eEpKWmJONWt1Zm1TSjl2ZEFuQ2lVaEY4NlgtNV9vMDBqeHhZNXE1SHFicU5UZEVIcHplX0k0ZGc1RlAzWjJRYndXVktvQWZ6dF91V3RiNDVUdjJRWmNpekJvOG5tWnBsVFF2NWh6WnpzampFTmctNXBlb3RjaXRic04ta0dZRktqME5UN3g5cnQ5RUxmWnpEZEZFbWhWcUZrR3BvdERGZjZWdG9SRnRjU215Qkd1T1EyRjk0Vms3bzJlanVyVzg4ZEk4bWxSWWVoSmxpTHdVN3N0WVZEYTctbldhYkxKLWt2c2FGYzY1bHhqTUhSWkdjOEJnc3U5RG9uT0YxMlVuZzJIR1ZVM09IN2tNWXAwZ0RUM0o5cFRyOUZodmZnZ1M1amxhbGFSQTg2Y2lrYk1xMUpUenpiVmY1ZzBOV0NQcmxpMlVMS3JCWnpCeFAtdmpiQXhEVGJXcXVUS2RtZE1jQUstSjVvRlJJSmRwYmZCd05FYWdXdmFtRDNtVHFQa19IWDIzUFQxT0E?oc=5",
       "source": "Yahoo新聞",
@@ -56,13 +50,13 @@
     {
       "title": "杏輝三引擎布局加速轉型 搶攻亞洲健康市場",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BcXlWSkRPU0twN0VUY0tHR1hpbDlJV2tSM0dkTVgtLUlqdVlfSVBrTFRWOXFhRENqNTBzWVI1YnlkampKOTJmSmR5SmR2NnV5djhPR1RheGk?oc=5",
-      "source": "stock.ltn.com.tw",
+      "source": "自由時報",
       "published_at": "2026-09-15T21:39:00+00:00"
     },
     {
       "title": "杏輝 (1734) 本公司受邀參加國票綜合證券舉辦之法人說明會",
       "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQT0U5aG1ENF9qelYzZjUzdzlxR2FsaGZRcTZVU0JFSlRrTDA2VHoxUDI1M25MWXVDdzNWd1dtTjlxTGlRcjlNdVJkRGNmZzhxZGVkb05KSEcwT2pLeWR3NjVLY0NsRGQyMHdKYjFBdElLZ2Q0RVlMZzNIVkxJUk5tcXFpd2pHT1hsOV9keWJxN1Y2a3BnTmYwaDlEcGhyczNtZFozTnlnT1JFWGoyRUJndEI3SnVMSkRBUWNtRllFeWc3cG1heTdmVFVvVTZjem5RMGppdnRfMFh0NTh5SGlGbEZ2ZThMVHpBYjlLeHZFNGZpV0xnX1k4cVpPYmNtVHFreURvMllESUJ1R0xnbXRNQXJ6TjhtZ3AzV0wtN0dZN1ljX2lQMDFXSjhtaXNIUlUwV2pCZUd3?oc=5",
-      "source": "geneonline.news",
+      "source": "GeneOnline",
       "published_at": "2026-09-15T10:18:09+00:00"
     }
   ]

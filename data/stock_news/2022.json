@@ -1,21 +1,15 @@
 {
-  "updated_at": "2026-09-20T23:33:17.100319+08:00",
+  "updated_at": "2026-09-21T13:34:41.396458+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2022",
   "name": "聚亨",
-  "count": 12,
+  "count": 10,
   "news": [
     {
       "title": "【財經一點通】升息=股市慘跌？2022年慘劇不會重演 重點在這「兩件事」",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vSW1WNWhyYXRtNWdVTk5CN3h6eXg0cEdacnlRbGdOWVk1OG55M3BnRzYwUTEwUzFveWU5azl0TzE0WmFMY0UweURKTGs0TVNLRkRPbVk2TWZjQXB1?oc=5",
       "source": "太報 TaiSounds",
       "published_at": "2026-09-20T06:05:30+00:00"
-    },
-    {
-      "title": "美聯儲重啓加息後比特幣再現2022年路徑？市場押注未來六個月再緊縮75基點",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81eGFMVTM5NG5QMHRIRzdVQXRwTmlYZEJheTZvNDJhbDQxem55a0dZTjUwTnhRUlFfblV6VHN2ejB5VWM4Z3VwaG5nbzVpUWNNbzlhLTRHQ0xQSDhpa0Z4VjZBYUw?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-18T02:43:46+00:00"
     },
     {
       "title": "經濟學家警告美股恐暴跌72%！預測4階段走勢：先衝3.9萬點、再跌回2022年低點",
@@ -36,15 +30,9 @@
       "published_at": "2026-09-16T02:52:55+00:00"
     },
     {
-      "title": "4915 致伸 - 2022-2025每年都有5.5以上水準 法說會說毛利率持續... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96UVJlQlNXMWZjTVVyamtMd1h6QzJzSUl3UWdMd0NiSzQtdDBBTzNPc2tYSzdua2tSVGtJQmNWdUhmbHREUXFxdFhOd3dJQ3ZNZ3N5VENVel8?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-12T08:30:48+00:00"
-    },
-    {
       "title": "聯準會升息美股免驚？分析師盤點抗跌底氣「絕非2022暴跌翻版」",
       "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOUnVOVDdubGUyN3o3N21FZWlrbXRvWnRaYVljdXAwc0k2UWY0cXdXOW1rWFJhQ2xid0I2bG0xbElfRkMxYUNLb3lOaURnMlRoZDVkS3l5aWhmTHVybnU1SG03YzNrNXRqU1M5QzdzV2VVRVNST01PNFdaMWpaUUVGNjNaWTZUQTltREY5QXlyZjR1Ukw4Ry1JYXA1NkVKQ2RsZVhrM2o0eV9nRzlNQ2szUHNCb0Rpal9qeGJqREx6MjVBT3o3S2dmeWJOdThiZzFxRjFKNm5yRldOdzBvai0wVGVqcmFZMTcwaFNhaHpZTDBodXhBY09iQURsa204SjhDTTh1UENwRzZaRHNHTjFKNjVyQXVGc2VFWGZkY0VlbFEtemNCcFl2SnAzVldXNFB0TWh6Z2NpYjlfcS1uSVY0a2lmQV9hMV9xOTNOSU5RQmFqQXVVX09sREVGQWY2V2c0THg5OTZUTkhEc2x6dm1xM3RKMHl2SklITWpzQjQyY3VEMlU?oc=5",
-      "source": "Yahoo股市",
+      "source": "tw.stock.yahoo.com",
       "published_at": "2026-09-12T07:00:00+00:00"
     },
     {
@@ -67,7 +55,7 @@
     },
     {
       "title": "輝達七連跌創2022年來最長紀錄 今年僅漲7% 分析師卻上調獲利預測13%",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lWVFyUmpRTFBNM0o1UXk2N0I1NUJUb1docTFBLUFVQWVvV3lIWjhxYS01MlM4dkYwMmFyT3VObXRFdXozMXp3T0dyZnowVXNIRTlv?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zS3Atc0tIckEyV0UyNFpQU3VMYUFQVExNZEltcHlNZVk3Q3lLQ29fQzIyM3pUWGhNUG1rTnJIMEU4dGRYMVc1YzB1RXd6clk?oc=5",
       "source": "news.cnyes.com",
       "published_at": "2026-08-25T07:00:00+00:00"
     },

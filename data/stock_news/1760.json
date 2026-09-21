@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-20T23:33:01.138639+08:00",
+  "updated_at": "2026-09-21T13:34:20.294902+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1760",
   "name": "寶齡富錦",
-  "count": 3,
+  "count": 4,
   "news": [
     {
       "title": "油價本週凍漲 中油補貼逾90億 中油採購油氣成本估增1760億",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtOEZ0UHFoMWZWTnZBeTMzS2ZjMmE1QS1oMjM3aFVjOHdYNVdYWW1UaW92aVBNeUdKQzJtanlGMm5UQTZSRnMxbDMzSnFGa1VwbU9VaG9kd1Q?oc=5",
-      "source": "stock.ltn.com.tw",
+      "source": "自由時報",
       "published_at": "2026-09-17T18:31:41+00:00"
     },
     {
@@ -16,6 +16,12 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUjlPOHdPaGpUTGk2MW5jbTh4YzZIS3Q1cjRWMVUtRVFtTDFiUlQ1T3RtM3Z6LTRaWm1BajF2UW8wZUYtd0VleENDZGtHM0ZYMVBJSjJXQkF6bGk4QVdvOU5JcnJIQkRSeEtWQzdLcklNU1gxUlAzS3pnZmhTM01VUTNkMUxUS1M4QjRvaEE3YnA?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-16T13:55:18+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】寶齡富錦(1760) 八月營收1.81億元，創近3個月以來新高，月增4.63%",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd3BnYUo0S3Jnd3pBWUJpeUhjZmVCRkZaQWpuVzgzUmRxVDFCdEJYanNGZV83c1g5dDc1WUJIanFSN2FZeVFHd0Z5VzRsRWlaczVKMHJOSXZ4SUlMdGNJUEV4d0ZCTEtxek5RV01WeTBfVEJLU2lTRWU4aVAwUEhPSDNqYXE2NmYxT3c?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
       "title": "【10:05 即時新聞】光聖(6442)股價勁揚7.65%至1760元，AI光通訊題材續暖＋法人買盤與多頭技術結構支撐",

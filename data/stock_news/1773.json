@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-20T23:33:02.052049+08:00",
+  "updated_at": "2026-09-21T13:34:21.144059+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1773",
   "name": "勝一",
-  "count": 8,
+  "count": 7,
   "news": [
+    {
+      "title": "【優分析即時新聞】勝一(1773)8月營收年增44.62%創高，電子級溶劑占比拉高至75.8%、台積電依賴度破四成",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0RklPcml6aG9PSnJHMVdQa0dlRk9ZLTB2a25ld29hUlRoVm5kVmc5UkZzaHdVUEpIX3dhVGlpQ0VCLThJdlkwc1hNLU1Fa2M?oc=5",
+      "source": "news.cnyes.com",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    },
     {
       "title": "【12:39 即時新聞】勝一(1773)股價小幅走強至164元，受歷史新高營收與半導體電子級溶劑題材推動＋短線空方籌碼壓力下的關鍵支撐測試",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcUNmcE1lVS1qWTZGdWN2LUEwNzVISy01WENaRFlpc1B6ZTdrZnluckdmb2NldUFnQVBkZV9udGRoSndxMEFvR0QzeFhkTXphVFRGTkQtSnhHUEJ2aGdTZlppNVl4bHFNQnFmUVFETGFteXZsY0NIc3l4cDFJd3dRaDRvUG51SlBaM21PWTFn?oc=5",
@@ -18,12 +24,6 @@
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
-      "title": "【優分析即時新聞】勝一(1773)8月營收年增44.62%創高，電子級溶劑占比拉高至75.8%、台積電依賴度破四成",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0RklPcml6aG9PSnJHMVdQa0dlRk9ZLTB2a25ld29hUlRoVm5kVmc5UkZzaHdVUEpIX3dhVGlpQ0VCLThJdlkwc1hNLU1Fa2M?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-09-08T02:30:20+00:00"
-    },
-    {
       "title": "1773 勝一 - 大躍進 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VNWctZXJ5SDdGZ1NtUE13c0hjWTJfOUVQRC1peGMyRXdEeVdoTGJTLUVtQjg3WUJ6a2stUjVOanN1SG1kQnd5d29EQlRTWWx0ejB0ZnRMcS0?oc=5",
       "source": "CMoney",
@@ -32,13 +32,7 @@
     {
       "title": "勝一8月營收再寫新高；全年EPS估8元起跳",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPZ2ljQ2l3TXF1ZTlWZnNJNGlKLUdNR0dkM2lXZ1hXaWRUTXFwT1B5OUU4V1FQU0hZX1JwdG9xSzRPQkNCSnJXOEJhR3djNHh4RGFQYWxxQmtaMGFWWGVRZW5NejN4UUtQaTQyei1oNG5Xbm5ONkJkWUk0eFFHRy0zUWoxTG5Cb25uU1hXb3ZveEtNdFhnaGYxemhQcElxbDNqQjljRUQ1TU1VelNNQzJaNUpWNjdLMC10QmsteFZaMGJSQWNtQ3A2a3VkRVh5eHVxRVZYYnNpekJNdGQ2dmliSE5wYkxubXlLcVFnTkFEOVpycXdMMWM2VXR6UXVKWDVqQ0duUUR5bVJQRVZ3?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-07T07:00:00+00:00"
-    },
-    {
-      "title": "細微處感受北京／唐勝一",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMHVBbVRMaGtWSldXcW9YSENFWVU4MUg2ZVVWcFVZeTlpZ2dadmk0enM3ZzhfaV90M095UWU5bnBpVVYtVFpZTHlaY1ZtaGo1WUNHS2R4eElvZGQydFhLUXJkN3JOajUtT1h6eDRidG1qaF94aUJsNEUwVTdaeXFLU3UwbTFESzBYeHZQQnV6WXVKdHFkT2xQbEdxNzIzbTVLUDN0V0IzWEg0cHNEblNhRUR0dldsSnNRSmxSRW5LVlY?oc=5",
-      "source": "Yahoo新聞",
+      "source": "tw.stock.yahoo.com",
       "published_at": "2026-09-07T07:00:00+00:00"
     },
     {

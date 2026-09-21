@@ -1,14 +1,26 @@
 {
-  "updated_at": "2026-09-20T23:33:04.738721+08:00",
+  "updated_at": "2026-09-21T13:34:27.137532+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1802",
   "name": "台玻",
   "count": 12,
   "news": [
     {
+      "title": "1802 台玻- 【美股巨頭】馬斯克要蓋時速320公里隧道，特斯拉股東該開心嗎？ - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BSUt5VWZ1ekpDRHFsVjR6TDZhREw0TmVFX1BNODdDTFBCRVFLMEtCaVFPZ0lwMml6U09saGpMSVA2Z3pjQ1hiT2dEM1FvMG1xcV9FaFlQcHE?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-20T22:13:38+00:00"
+    },
+    {
+      "title": "1802 台玻 - 硬一下！64不遠，每天開高走低搞什麼鬼 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8td1J4b0wwT292bmg3a2Mtd3Q5aEVVXzhyOXpHaDN4NC1ILW0tVWFFb0FvclFtdDdvSzJBdEViVzJ0MWV4aWZyUEdMVDh1d0F3ZjB4cmZuQU8?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-20T03:39:39+00:00"
+    },
+    {
       "title": "熱門股》日本東紡大漲 台玻跟進",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UdHBycnpyU2NnQ0o1bUlQdGY2NjVTNlc5ck5IV1pHTUZubWlya3A0SjVaRFFhOHdqeGc5ckpEa2VWdURJNm5oSnpjSWozSDM5cy1ibDB4N0E?oc=5",
-      "source": "stock.ltn.com.tw",
+      "source": "自由時報",
       "published_at": "2026-09-20T01:15:55+00:00"
     },
     {
@@ -48,15 +60,9 @@
       "published_at": "2026-09-16T02:07:11+00:00"
     },
     {
-      "title": "1802 台玻 - 馬的，又開始爛了 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5naGpJMzhpT3JFWVh1VUowSzVBYWtGd1I0akdleVZZaURhWExHVzhIZnpybGJDLVhSRkViUE0zQzEyc0RfSDdYZzN6ak1OcFBuVWhpYldpVDY?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-15T02:40:13+00:00"
-    },
-    {
       "title": "台玻8月營收年月雙增 法人估玻纖布營收比重年底將超越50％",
       "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxObkJYUy01SjZ3ZUltQUJ1UVR6cktmRUg1QnRONnR2TDIzZnd3a2lTOGhEbC04dGI4RGxVX252cV9Xb0xNNElocmVDV1dRVk5IMHJvZ09uNGJxVzQxX0JnSkptb1lMSFB6RFp5MzFJMjdyWXlJMnBpWnhpVlU3ckxYZzFKcndlZTdlTlZrcUtaMW92SkotOENiMXJhS25zNmhOdmI4WV9USzQ3TDlNRVF2dHNKRGdyNE1LdC0yRTBmemN6a0Q2SHNMOVFFSUNHOUNnS28ybVlzd1A4RUtZb2M0Vlg0VGZMUEJPbWNBQTh2ZWM2QmcxaEdLeE1kQ0NIaktWV3p3cXNSZ2RHYUV3ODdEdzlLemxTa2YyNG41TUd4ZVRBRFptdTI0QVMySHVCSWpzSUppRnprUEN3YlBRRXdtMk1rZVFfdVZVYU1ad1dlWTJvR21ndTQzaHBaYVd0TldEdzNzUmdZcVpqT0JDOHNVYWZ1cHpfQUxoWk5CSE1qaVo?oc=5",
-      "source": "Yahoo股市",
+      "source": "tw.stock.yahoo.com",
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
@@ -70,12 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sa0xQUFhlZ1FJMV94d2w4OVNlV3ZSUEFXSUxlVm9ZdFVpdjBYNnVHakFfck1tb0Q2Sk52WVZ2VEp5aElIZzBiSjBtcjU5RzJ3bjNGX3ZsWk4?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-08T10:14:44+00:00"
-    },
-    {
-      "title": "富喬獲CSP認證卡位ASIC供應鏈！台玻、南亞、玻纖布五強誰能接棒？｜股市話題｜豐雲學堂2026 年 09 月",
-      "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxQby1vNENaQVpXVm9SRFplaENrclpnajdBc3lUdzJiMFQtY1RTTlozSzRPamdWY0JvVEZ4Wm5Qb0l3YURmSENuVFRLcjFPTUlnejc3bFRISUlzVGllMW0ybEt0S0hlSjhTRTlDbnFKQUxCRnEwanRjQmNYZWZaUXI5WTRCV0tjeDBsQXJCNWlfX01CcHV4M3NQY1l1bmNmUUlOOURSamt1NTVBcVRjUjVnN2dXZGFlMHVjUVByNFhwWThFbGFvanRDN2t0MjNuZGFYOXYyZWhOdWs2cDRfdEpQeG5nOHVqV1RMWFprOWxrUG1DY3h5Qm5kaWIyRnNoeDBnVXQ1S3BXOGZOaVF3bXlBcnU3cFlPckw5andhaTMzZi05WWJTOHQxWU4yc0xoQm1qSUVfLWVrRHVDeml5ZkhkdDIwcFUtOXRDUy02Ri0yYWVJZEwxb0VGdjNjVkRySjVubGxVZU55VTRZQjBnbjJLVDFnZ2xrNHhIM1hnNGd1VmpYWUZOSUwxdlRDdmRobWpwYXo5QUJNZmdGeUZmZ0MwQlF4MS0zemJpVHJROUM1OHpUMS04Q0RMbEs2Q0Z3R3lubTVnV2N3aEozTW14WVYyTQ?oc=5",
-      "source": "sinotrade.com.tw",
-      "published_at": "2026-09-07T07:00:00+00:00"
     }
   ]
 }
