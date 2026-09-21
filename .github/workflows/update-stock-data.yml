@@ -178,6 +178,8 @@ jobs:
       - name: Download company revenue and profit data
         run: |
           python - <<'PY'
+          import csv
+          import io
           import json
           import os
           import urllib.request
@@ -207,6 +209,26 @@ jobs:
               print("All endpoints failed:", " | ".join(errors))
               return [], ""
 
+          def fetch_all(urls):
+              combined = []
+              used = []
+              for url in urls:
+                  try:
+                      req = urllib.request.Request(url, headers=HEADERS)
+                      with urllib.request.urlopen(req, timeout=90) as response:
+                          raw = response.read().decode("utf-8-sig")
+                      if url.lower().endswith(".csv"):
+                          payload = list(csv.DictReader(io.StringIO(raw)))
+                      else:
+                          payload = json.loads(raw)
+                      if isinstance(payload, list):
+                          combined.extend(payload)
+                          used.append(url)
+                          print("Fetched", len(payload), "rows from", url)
+                  except Exception as error:
+                      print("Endpoint failed:", url, error)
+              return combined, used
+
           def pick(row, *names):
               for name in names:
                   if name in row and str(row.get(name, "")).strip() not in ("", "--", "---"):
@@ -222,20 +244,6 @@ jobs:
                   and ("每股盈餘" in keys or "本期淨利" in keys)
                   and ("營業利益" in keys or "營業收入" in keys)
               )
-
-          def discover_profit_endpoint(suffix):
-              for number_id in range(1, 41):
-                  endpoint = f"https://openapi.twse.com.tw/v1/opendata/t187ap{number_id:02d}_{suffix}"
-                  try:
-                      req = urllib.request.Request(endpoint, headers=HEADERS)
-                      with urllib.request.urlopen(req, timeout=15) as response:
-                          rows = json.loads(response.read().decode("utf-8-sig"))
-                      if looks_like_profit(rows):
-                          print("Discovered profit statement endpoint:", endpoint)
-                          return rows, endpoint
-                  except Exception:
-                      continue
-              return [], ""
 
           def number(value):
               if value is None:
@@ -269,21 +277,23 @@ jobs:
               (
                   "上市",
                   [
-                      "https://openapi.twse.com.tw/v1/opendata/t187ap06_L",
-                      "https://openapi.twse.com.tw/v1/opendata/t187ap07_L",
-                      "https://mopsfin.twse.com.tw/opendata/t187ap06_L.csv",
-                      "https://mopsfin.twse.com.tw/opendata/t187ap07_L.csv"
+                      "https://openapi.twse.com.tw/v1/opendata/t187ap06_L_ci",
+                      "https://openapi.twse.com.tw/v1/opendata/t187ap06_L_basi",
+                      "https://openapi.twse.com.tw/v1/opendata/t187ap06_L_bd",
+                      "https://openapi.twse.com.tw/v1/opendata/t187ap06_L_fh",
+                      "https://openapi.twse.com.tw/v1/opendata/t187ap06_L_ins",
+                      "https://openapi.twse.com.tw/v1/opendata/t187ap06_L_mim"
                   ]
               ),
               (
                   "上櫃",
                   [
-                      "https://openapi.twse.com.tw/v1/opendata/t187ap06_P",
-                      "https://openapi.twse.com.tw/v1/opendata/t187ap07_P",
-                      "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap06_O",
-                      "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap07_O",
-                      "https://mopsfin.twse.com.tw/opendata/t187ap06_P.csv",
-                      "https://mopsfin.twse.com.tw/opendata/t187ap07_P.csv"
+                      "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap06_O_ci",
+                      "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap06_O_basi",
+                      "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap06_O_bd",
+                      "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap06_O_fh",
+                      "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap06_O_ins",
+                      "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap06_O_mim"
                   ]
               )
           ]
@@ -317,13 +327,8 @@ jobs:
                   })
 
           for market, urls in profit_sources:
-              rows, used_url = fetch_first(urls)
-              if not looks_like_profit(rows):
-                  rows, used_url = discover_profit_endpoint(
-                      "L" if market == "上市" else "P"
-                  )
-              if used_url:
-                  used_sources.append(used_url)
+              rows, used_urls = fetch_all(urls)
+              used_sources.extend(used_urls)
               for row in rows:
                   code = str(pick(row, "公司代號", "公司代碼", "股票代號") or "").strip()
                   if not code:
