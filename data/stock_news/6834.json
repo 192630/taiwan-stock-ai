@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-21T08:40:04.423712+08:00",
+  "updated_at": "2026-09-22T06:34:02.760597+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6834",
   "name": "天二科技",
   "count": 12,
   "news": [
+    {
+      "title": "【11:46 即時新聞】天二科技(6834)股價走強，被動元件族群買盤延續",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdTAtUnRXRjJZOXN5QktJNVZYQ25lNVdneEI4X2hJM2xlaEVubXZBUFo5RFFtcExPVEY1OGVZVld1dFNTZV9BU05SeWlIdEoyRzJRQWkwak1FTUZxYk11SF8wMGJFZlhsZUFHRndLOUdwNzhDUHVTZlJzOVRGN1JnMXJ0QTZqOVRucGsxcTZB?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-21T03:46:36+00:00"
+    },
     {
       "title": "天二科技(6834) 走勢分析 (20260919) - M先生 | 投資網誌",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwSDh1NEd0NnFHM1ZYZ0NSbUR5MTYycmFXNS1zeGstb3NRaWpPMUV4MnFXT1hMdmdBOTFfRGpqY3ludE81N09uUXMxbGZCc3NoRFJJWVRB?oc=5",
@@ -30,16 +36,16 @@
       "published_at": "2026-09-17T02:14:46+00:00"
     },
     {
-      "title": "天二科技前8月EPS 2.29元，明年訂單開始洽談",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxORHdzSjZtLWYwQmJORGlpeVlJcVNydUNEcnNxZUVpc2pwT2poSUNFMU9fOUNXN3VLcTB2eFJ4SHVBOUxoT1JrSG10dUJDMG9JYkhvaXljcEdNSkxBcjNMTUpRYnhtMjJ3N3B1UVBReHp3aVRHbklLTzFVOE1DdXpYWDVHMWJGcGRoaFJPT3hDUnRkRldwNGpoa294TUxlWktva21EM3Y2ZEJMZHVicEt3TUhYcGY3V3ZnaDdsX01wQUdubW9XdjIweVhCUGVYSFgwYWtHOVdEaGVTWkFxUFpiYVB3MGdBOHpHT0Nsa2tMUWlwVHZRZjNaQkFGNHhjUWd3R0RaNV9MTWthT21pc0R5RGxQc3ZPX1M3WDlZOQ?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-14T02:55:02+00:00"
-    },
-    {
       "title": "被動元件綠海滔滔！國巨目標價688元盤中跌逾2% 「這檔」Q4迎出貨潮仍重摔4.46%、天二科技跌近7%為最多",
       "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxQSDdHM1BTM1h1dVY0R3E2LTNLaWV2MGZFLXV1NFl6OENTRVhPV3lNWkpZd1lOeGJmZVV0SUpPeVpoZTNXWm9BY0toQVBpY0pBNmpyRnlfMGlpRjR4U2MwcFB0OUcyUDFBY3hjd1c4ZGRoc29CenIzaGl3cDYzck9LcXRrbWs0SVZWNmY0SFNqME5jUGhCS1lSeUFfb2FFTnZHTXBzWnltV1h3b1pkOGQyY3Zid3otVTlxNDhQWjd2YjJ3TjFWallyckdJd1UyMk5vUTNjaHM5OFRTQmFfQ1BCSkF2Rlkyc19md2hfejR4bG5FejFHVmthcmFEaS1sbUFJUWZEOWVvVWhBMkJvVEVwb1gxNEhzNGRPY0dsN1lJX29iZE4xSXNkUjk1NnZ3b0h1SDhQV25XLUtVRHd0aU5wbnZYTnRrUHBKOVdoekd4TGsycy0yYWl0c3J4VUVpbTJtUWg3MGE3WWpyWjZwRm9yWDdkUnBoUXhxbk1zMjBsekd5Y25obVlVazh2dENGWGRJa3Q0czZSZ00tYzVnN3E0Vmc4XzNtZU5tUTRDdWFhZXc?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-14T02:14:39+00:00"
+    },
+    {
+      "title": "天二科技前8月EPS 2.29元，明年訂單開始洽談",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxORHdzSjZtLWYwQmJORGlpeVlJcVNydUNEcnNxZUVpc2pwT2poSUNFMU9fOUNXN3VLcTB2eFJ4SHVBOUxoT1JrSG10dUJDMG9JYkhvaXljcEdNSkxBcjNMTUpRYnhtMjJ3N3B1UVBReHp3aVRHbklLTzFVOE1DdXpYWDVHMWJGcGRoaFJPT3hDUnRkRldwNGpoa294TUxlWktva21EM3Y2ZEJMZHVicEt3TUhYcGY3V3ZnaDdsX01wQUdubW9XdjIweVhCUGVYSFgwYWtHOVdEaGVTWkFxUFpiYVB3MGdBOHpHT0Nsa2tMUWlwVHZRZjNaQkFGNHhjUWd3R0RaNV9MTWthT21pc0R5RGxQc3ZPX1M3WDlZOQ?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-13T07:00:00+00:00"
     },
     {
       "title": "天二科技從虧損暴賺變身黑馬，為何散戶暴增近2倍瘋搶，千張大戶卻在偷偷大落跑？",
@@ -64,12 +70,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOHRQdGRSdE54S1Q0bkhWVjRTemowWTltRHNOeWZ5aUwyMVN1Z0tMc19keEVrazhxMkZ6VmhqU05QUllTQXktNllCS05kbzE5YWpyb2FONWRydzJtQVgxNDhxS244Q1FZX2xzWU82Z0pvRk5zdnNqOEFibWI3U1ZfV2VUY3JtNGplY19EaERR?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-10T07:00:00+00:00"
-    },
-    {
-      "title": "被控侵占6834萬「一審幾乎完敗」！柯文哲今二審首出庭先迎戰政治獻金案| 政治焦點",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1saW9udG9IZDVqOU9FVGVtY3V1M0MzYXFlOE5xM19jOWZoTVBFRlhGVDRINUJTV2NtRkQ1dTFxczRwLWdMRExwMFAxWU9aWHdObnIwTUp3SnUzZEJk?oc=5",
-      "source": "太報 TaiSounds",
-      "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
       "title": "【10:21 即時新聞】天二科技(6834)股價走強漲至103.5元，受被動元件族群輪動與營收連創新高激勵＋短線突破百元關卡帶動技術面與主力籌碼回溫",

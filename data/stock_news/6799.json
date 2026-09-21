@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-21T08:40:01.748898+08:00",
+  "updated_at": "2026-09-22T06:33:56.698217+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6799",
   "name": "來頡",
-  "count": 1,
+  "count": 2,
   "news": [
     {
       "title": "6799 來頡- 波段與咖啡標的- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xM3JNbWd5WVlsU2Q1UDBGTldhTlk4ZmJHSm0yRzA0a2h0QVFfQUotVUh6c1Vwc1FpVDMyWElzLWhmaXdkRmdDemZZOXhCRkJwazJRWG11Q0E?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-20T12:56:13+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】來頡(6799) 八月營收年增1.85%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWGhuZWQyUWJUbmQ2STBCWFNrblRrUFZNejYzSkEyWVRDY3hCZWF1d1Vrb3R5M1BnN0dmLXROMTNnN004ckk4MVI4TEpCV01uWF9peW95dWtMQTQ3NTQweTNPQTREMzUtaTl3VUcxVll4ZW44bzltRmNucDlyTnExVHJudTdBdTNORkE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
     }
   ]
 }

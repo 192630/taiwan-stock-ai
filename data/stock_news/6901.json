@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-21T08:40:10.061266+08:00",
+  "updated_at": "2026-09-22T06:34:18.508724+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6901",
   "name": "鑽石投資",
-  "count": 1,
+  "count": 2,
   "news": [
     {
       "title": "6901 鑽石投資 - 拉尾盤想搞事嗎 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKQnI0WjdGV2pVdF8zNk5FbzVBREc2aFEyWjRSdTk1UFhYQ2lhNlFsZUZvUlZXaU5Qd09UeDllY29jMW1IYnhvbnRmT3ZCQ0plc0Q1ZlRQUVA?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-18T09:20:21+00:00"
+    },
+    {
+      "title": "【26Q2財報公告】鑽石投資(6901) Q2 營收34.656億元，創歷史新高-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONjBYa05PZEhZT3NzLTZPN0NpQXdQM1NPMVByRzFTVmMzZ3JWcVF0Mmp3M3FJSUtma2VUQi1WS0h1WVpybDMtNVRtdHZpSU1TQmh6aTFPamIwcFdkak1lcElkcWQ0R1VPY1hrVjBDRWlKbUpVZjJ5U2pyZmFDMGZVRmNINUxtTVg4Tmc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-15T08:20:07+00:00"
     }
   ]
 }

@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-21T08:40:06.775076+08:00",
+  "updated_at": "2026-09-22T06:34:09.302178+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6862",
   "name": "三集瑞-KY",
-  "count": 3,
+  "count": 4,
   "news": [
+    {
+      "title": "盤中速報 - 三集瑞-KY(6862)股價拉至漲停，漲停價144.0元，成交249張",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tTGZVZk9PbVhnYkVxYzVuYjJBU3UyTDlpM0ppVWUyYm1SYVU4SnFpUVEtU2k4YUpwRjZUUWdDR3V6VGltUnVTT2xoS0VNYlhWVS1wTGlINXlkcVRJbjYwUGRRbEpjQQ?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-21T05:17:00+00:00"
+    },
     {
       "title": "6862 三集瑞-KY - 法說會- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtTXJEOGhJVmpjVmFPX18yZHY3U3BibWhvd1V2Yy1GQjF0NXExTzlPVFgwOXNRaEJNbzJZMkpkaDVxOFFyaWFTSmU0UGFjRTdaakR0eWlsWG8?oc=5",
@@ -21,7 +27,7 @@
       "title": "海底撈(6862.HK)：經營基本面平穩 分紅比例提高",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOc2VUYm1aZmNSRExaM01WblJFT0xkWVhrbnU1QTUzcHJkRVBNOTYteWliREZQUEZlcF9FREF0NnBiTU1vRE9rT0pQWHNiODlPUklkbkxvdy0xZER3UUV3VUp1TDhza2o2QzN1WUVjeVBVdkVxM0JNdVE2elpNcmY5RUsxcWxiYXE0b29JMHlIb0tlM0IyMWwybm55anRmRFVDOHZleEV4Q0ROLWQ4ZU90ZE14R3Q0Q00?oc=5",
       "source": "富途牛牛",
-      "published_at": "2026-09-04T14:35:00+00:00"
+      "published_at": "2026-09-03T00:06:01+00:00"
     }
   ]
 }
