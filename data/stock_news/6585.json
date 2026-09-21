@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-21T07:31:16.473934+08:00",
+  "updated_at": "2026-09-22T04:33:10.487325+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6585",
   "name": "鼎基",
-  "count": 6,
+  "count": 5,
   "news": [
-    {
-      "title": "資本市場中的AI馬太效應 ——兼論先進材料廠鼎基",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMzBpX0t0NlF1QkR1bi1td1ZYOUc2Z3RWSV9PYnBVVDQ1Ulg5RzZ3cEVqOVJ0N3dNT09jalIzN0cybVZpXzI0NUVuc3hubHpUSmZvc1RZV2hQYlFpeWZTZFhZNFBGYS0yMXp3XzJOemxnalRKRjRmZ1k5bjM5Uy14VA?oc=5",
-      "source": "今周刊",
-      "published_at": "2026-09-09T07:00:00+00:00"
-    },
     {
       "title": "鼎基(6585)8月營收僅增12%，高階車膜卻翻倍！產品結構正在發生什麼變化？",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqN0ZTdDR0cVZaSVFzbE9fQW5OUkRPd0RoNnRVQk1zbHF2YU5Ua2FUVUpHRkIzXy1HVkRvZDEtMWhLcFh1a0tfZFFkMnYzUEU?oc=5",
@@ -39,7 +33,7 @@
       "title": "高階車漆保護膜需求強勁 鼎基8月營收創歷史同期新高",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5panNXcTdUTUpTX3laSlNsUWJUR05WTEdPUnlkdFJkY212ZHdBRk4zcGI2aEpZTkJWVHp1aU1IUEJQeEw0UTNiWW5KV09SWlE1UXV5UFh6SEw?oc=5",
       "source": "自由時報",
-      "published_at": "2026-09-07T18:35:00+00:00"
+      "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]
 }

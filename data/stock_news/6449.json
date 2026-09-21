@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-21T07:31:05.806482+08:00",
+  "updated_at": "2026-09-22T04:32:42.201144+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6449",
   "name": "鈺邦",
   "count": 12,
   "news": [
-    {
-      "title": "鈺邦(6449) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5iX3duZ3JZSE5Ud1lQcWUtV24zWUVBQnA3enY0aFd4QVYzM1QyYmdoeDlrMExOYnpLNHNvNHZYc1JaUkpvRnQxbjlHczBLUUZqWmtz?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-18T22:46:54+00:00"
-    },
     {
       "title": "6449 鈺邦 - 只有崩盤這條路。 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvNkRvS3pJN0oxVXBPTjRVR3VTNXFQQWQyR2d4b2UtRFNEV001YjZxZWU5SWtDUkloTzF5QVd3a0VkX21aanVrejFuU1dacEJUT0RPTmo3UEE?oc=5",
@@ -27,7 +21,13 @@
       "title": "6449 鈺邦 - 確定了 完了完了？？？確定了崩盤了 市場沒有資金來源 被騙... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VQVduYUFSVldnMWotZ2RibGJoN0tzMkJNdGw5UVdVYjZjaXItOFEzNjREekVROE5Iank0OG1IcVo4ODlqSVR5WUt2b3pkSmFNdGVXVjhuSFg?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-11T05:28:34+00:00"
+      "published_at": "2026-09-11T07:00:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】鈺邦(6449) 八月營收4.64億元，年增21.17％",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5V2FGS1EwaVAzZ1QwOVRHbnllMkdJT3VpMFk2RHBnLXhISzk2a1VVTXNGTFRBZE1Zb2duamFDeWltWGxjZTBJdHJ4WnRzLXZfdS1kX29fWWJGakxUemdlVWhNcGU3X2c?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-07T01:20:03+00:00"
     },
     {
       "title": "【10:32 即時新聞】鈺邦(6449)股價勁揚至233元、上漲7.62%，AI伺服器高規固態電容需求延續＋短線技術面跌深反彈搭配主力賣壓鈍化",
@@ -40,24 +40,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOTzZHSUhnbmJITDV0R3VyWUQ3RExBWDlmcmNmbFJrQ0hJcXo4bThFZUF1MnQzOVFPc2UtUVhwQnFmU2pNSzY2V0REOUVGYmJjUi1LVS1iYlhFbXBpQ1h4b1Z4OU5qTGY2MkJQa3FoWGVPV2FfVUFfZ1NkOEJ2dGJZZ2ZDRVFmYU5vQ2hvdXE4T2dCMklrTWY2bE9WbHhWQTdoMTJ5d3BGeDBGYTNzX3l4eE5rRHh5b19lOFZYcF9FcjdhOHhvVV84WVdlbVZoZzUyRXFGbDdQMXNFeDZEVGZFUEpYR1NBMUNQaldERVN6YjdmSklZelUxczh0ekJlX3dhaDVWWUJqQkd4VFZTSDNEWDRVSzloR3BQeDhDX1FVeThBSDVGb1VsLXNLMURLaVBxZHFmbTh4azBvcUV2eFF0M2JB?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-03T07:00:00+00:00"
-    },
-    {
-      "title": "【09/02券商評等報告彙整】鈺邦(6449) 今日僅1家券商發布績效評等報告，評價為看多，目標價為300元。",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XQWNFSFdaRUozci1BLUt6elk3YS1QYzVzdXN0Mll5ZmFod3ZlMmhpVlVjeXlIal9LajhZNnE1QWZlUy1iZ3FtR2RpX2U5R3VvQlhJd3E0RDYwZjBRa016YTRiTHQzLWc?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-02T07:00:00+00:00"
-    },
-    {
-      "title": "6449 鈺邦- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HMGJaZm1WMlFXeExFWGhELTF5U2hyVl9mSTAyanJhMWptUUliUzNhYUJCWGM0T3QwbFNvRWdMbl9BM0pCS0F1U2YxclZ3UUw0RWZMWmFXVWw?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-31T07:00:00+00:00"
-    },
-    {
-      "title": "6449 鈺邦 - 法人/主力 準備開始做多了？ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ic0xIWDJQSWk3UzVOZ2Y5Y3pwbTNDVG91ajRQQWhpbXFCcVBIRHdSQlVWOVJ5Qy1EcW82cWpPQnpmTVhsSzB1dGlPbVN0cENMWUJYdmxNV08?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-27T10:17:04+00:00"
     },
     {
       "title": "【10:27 即時新聞】鈺邦(6449)亮燈漲停233元，AI伺服器電容需求爆發＋月營收屢創新高支撐技術面轉強",
@@ -74,6 +56,24 @@
     {
       "title": "鈺邦看好CAP取代MLCC機會增 到明年上半年擴產約7成",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IbllHRVdiVmM2Qmo3WFBiYUV6Y19QQU10WTMyUmZyWHdjeFB1ZWdXdC16RkRsNzhVcTVpUkZWaWxIbHlzVjQ0TzQ5cGprejA?oc=5",
+      "source": "news.cnyes.com",
+      "published_at": "2026-08-26T07:00:00+00:00"
+    },
+    {
+      "title": "個股：AI Server成長強勁，鈺邦H2營運力拚逐季創高，CAP明年H1產能目標增70%",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuMHo2dFdCUmR1U0s2UHdLMGV4VHBPSl82M0RjQnpuOFFVV2FQc2ZhNXA0UWF5dlhoT245NkpCS0s2QjhYRUlHejVxWHRwN1JzT0NqRkt3?oc=5",
+      "source": "東森電視",
+      "published_at": "2026-08-26T07:00:00+00:00"
+    },
+    {
+      "title": "鈺邦AI伺服器電容大爆發！Vchip月產能衝1億顆 高規產品下半年逐季放量",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aWklNU094OFdXN3ZBMGxUNF9PSGx6T1hzMVFxVldNS3JOOVRmQllLNFNJcFdvUWl0VllYS0VQZFJScllFUlJRSFdqRzZTZkZZTTc4azdsLUFac2paN253bw?oc=5",
+      "source": "民視新聞網",
+      "published_at": "2026-08-26T07:00:00+00:00"
+    },
+    {
+      "title": "鈺邦估下半年漲價效益顯現 營收季季高毛利率同步回升",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBud05SSFI2QU8xRnFXV3lzUDJLbllrajNkYkF1bTNjeUxyd2haZlJCMGZxSFdjV2FFRjVlSHFpUXhUcmpNaHMtR29USmxPbzA?oc=5",
       "source": "news.cnyes.com",
       "published_at": "2026-08-26T07:00:00+00:00"
     }

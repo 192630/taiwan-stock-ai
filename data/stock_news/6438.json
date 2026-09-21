@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-21T07:31:03.547721+08:00",
+  "updated_at": "2026-09-22T04:32:39.797419+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6438",
   "name": "迅得",
-  "count": 8,
+  "count": 9,
   "news": [
+    {
+      "title": "迅得(6438) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hZElFaEdzSUdQOE1xb0d3MGhDUkVjNXJjeFVwVC0xdi1WTktrRW8yVXJKQlVGY0hUU2I1OXlWSTYtakVpaDhDM1VoaTJPczlFaFlv?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T01:15:01+00:00"
+    },
     {
       "title": "6438 迅得- 韓信點兵!! - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtdTBQTVltSXRHYUtCaWRfNzUxQlU3WnRfVXp5VG9adG5MTjNfa3R3TjlBZ1ExbHFwVXNoUVBsMjBySFNJeHFGTmZ3eUlyZ2ZsQ1IzTjRteVc?oc=5",
@@ -49,9 +55,9 @@
     },
     {
       "title": "南下建立協同機制 迅得擬投資友上科技1.5億元拿下逾20%股權",
-      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxNdDk2ZFRFa01iSkRJLWNFU1lRVldxQmtKd1ZNMjlxd3YxeDdvWXZxOVNHcktkN3Z5c2ltdUZwYXJFSWJBVkhYNXpBN1JUamt1YTJKLTZYSW5rNC1acjdyOFJKaTJIVHNPMU5tZUQ3OUtfWV9tbmR3YThrSGtzTjMxQXdrM3pJdTdFMUtDLUprREx2N3g4TUUyTUVNZFBicjFlaVBYWFk3cHZPYXpidVAzZlFUWHdUa2ZUd2RTME0wZnpucldpSkNzZkR0dlh0WG9YX0kxQjJhRXdjdjlXc2t0OHJaSFd4OVgzM1U5dUtrSVNfaHZfVkRlYXB1dS1xT1ItMXZfb0d3aUY2Vmo1TzdDQkxJdjk3OEVSOTBXOE14REFRNUJHN3dURjEtMEFLNUtqRjZvU1daeXM2Z2ZReXJ0eFZtb3hyMHBmVm40Rjc5SVJNNVl3bTFSNEZiSXM2RFBaUlV0NTdoM3UxZlh1ZkxJM2drTk1rd1FtdlNWOWxGdTdHRVFY?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-08-22T07:00:00+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95RGw0YnluLVNfaU1wbHppSExOZkJMSkJKa2hDRVhnZEJxRmhKenhNNWQtOFAwNDlWa05hbm9SRmxzcV9YZGNISFFkRktMSWs?oc=5",
+      "source": "news.cnyes.com",
+      "published_at": "2026-08-23T07:00:00+00:00"
     }
   ]
 }

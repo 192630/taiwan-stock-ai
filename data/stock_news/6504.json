@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-09-21T07:31:09.141060+08:00",
+  "updated_at": "2026-09-22T04:32:51.857066+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6504",
   "name": "南六",
-  "count": 1,
-  "news": [
-    {
-      "title": "嘉義縣拚2035年終結原鄉、外配肺結核6504人完成潛伏感染篩檢- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QcndEVmdIdVZqcmpYdFc2Qk5ERVN2WUlldHZoQmd4QU9PZTBCLXVyeGRmR0FFLURoU1V3Y0tPRS0yX0lWdFo1Zno0Rm1taE5oWWJHNTZublE?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-28T06:53:50+00:00"
-    }
-  ]
+  "count": 0,
+  "news": []
 }
