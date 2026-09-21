@@ -1925,6 +1925,19 @@ footer{
 .global-history-line{fill:none;stroke:#617984;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}
 .global-history-dot{fill:#fffefa;stroke:#617984;stroke-width:2}
 .global-history-empty{color:#6b7785;font-size:13px;line-height:1.6;padding:10px 0}
+
+.global-alert-card{border:1.5px solid #829197;border-radius:16px;padding:15px;margin:14px 0;background:rgba(248,249,246,.78)}
+.global-alert-card h3{margin:0 0 5px;font-size:18px}
+.global-alert-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin-top:14px}
+.global-alert-control{border:1px solid #cbd1d2;border-radius:13px;padding:11px;background:rgba(255,255,255,.7)}
+.global-alert-control label{display:flex;justify-content:space-between;gap:8px;font-size:13px;font-weight:800;color:#46545c;margin-bottom:9px}
+.global-alert-control output{color:#ad5c50;white-space:nowrap}
+.global-alert-control input{width:100%;accent-color:#667e87}
+.global-alert-result{margin-top:13px;padding:12px 14px;border-radius:13px;font-size:14px;line-height:1.7;background:#eef3ee;color:#405248;border-left:4px solid #7b927e}
+.global-alert-result.triggered{background:#f7ece9;color:#75483f;border-left-color:#bd665e}
+.global-alert-note{margin-top:9px;font-size:12px;line-height:1.6;color:#6b7785}
+@media(max-width:620px){.global-alert-grid{grid-template-columns:1fr}}
+
 </style>
 </head>
 
@@ -2728,6 +2741,26 @@ footer{
       <div id="globalHistoryChange" class="global-history-change">—</div>
     </div>
     <div id="globalHistoryChart" class="global-history-empty">資料累積中；至少需要兩次更新才能畫出趨勢。</div>
+  </div>
+  <div class="global-alert-card">
+    <h3>🔔 自訂市場觀察提醒</h3>
+    <div class="heat-subtitle">依目前頁面載入的延遲行情判斷；設定只儲存在這台裝置。</div>
+    <div class="global-alert-grid">
+      <div class="global-alert-control">
+        <label for="globalRiskThreshold"><span>風險溫度達到</span><output id="globalRiskThresholdValue">60 分</output></label>
+        <input id="globalRiskThreshold" type="range" min="40" max="90" step="5" value="60">
+      </div>
+      <div class="global-alert-control">
+        <label for="globalVixThreshold"><span>VIX 單日上漲</span><output id="globalVixThresholdValue">5%</output></label>
+        <input id="globalVixThreshold" type="range" min="2" max="20" step="1" value="5">
+      </div>
+      <div class="global-alert-control">
+        <label for="globalNqThreshold"><span>納指期貨單日下跌</span><output id="globalNqThresholdValue">1%</output></label>
+        <input id="globalNqThreshold" type="range" min="0.5" max="5" step="0.5" value="1">
+      </div>
+    </div>
+    <div id="globalAlertResult" class="global-alert-result">全球市場資料載入後，這裡會自動比對你的觀察條件。</div>
+    <div class="global-alert-note">目前是站內觀察工具，不會在 Safari 關閉後背景推播；真正通知需等安全後端與通知權限完成。</div>
   </div>
   <div class="global-semantics">
     <div class="global-semantic"><h3>① 已確認的市場數據</h3><ul id="globalConfirmed"></ul></div>
@@ -8868,6 +8901,83 @@ function renderGlobalRiskHistory(){
   range.textContent=globalTime(rows[0].generated_at)+" ～ "+globalTime(rows[rows.length-1].generated_at)+"｜"+rows.length+" 筆";
 }
 
+const GLOBAL_ALERT_STORAGE = "taiwanStockGlobalAlertSettings";
+
+function getGlobalAlertSettings(){
+  const defaults = {risk:60,vix:5,nq:1};
+  try{
+    const saved = JSON.parse(localStorage.getItem(GLOBAL_ALERT_STORAGE) || "{}");
+    return {
+      risk:Number.isFinite(Number(saved.risk)) ? Number(saved.risk) : defaults.risk,
+      vix:Number.isFinite(Number(saved.vix)) ? Number(saved.vix) : defaults.vix,
+      nq:Number.isFinite(Number(saved.nq)) ? Number(saved.nq) : defaults.nq
+    };
+  }
+  catch(error){
+    return defaults;
+  }
+}
+
+function getGlobalIndicatorById(id){
+  const rows = Array.isArray(globalMarket.indicators)
+    ? globalMarket.indicators
+    : [];
+  return rows.find(function(item){return item.id === id;}) || null;
+}
+
+function renderGlobalAlerts(){
+  const result = document.getElementById("globalAlertResult");
+  if(!result) return;
+
+  const settings = getGlobalAlertSettings();
+  const risk = Number(globalMarket.risk && globalMarket.risk.score);
+  const vix = getGlobalIndicatorById("VIX");
+  const nq = getGlobalIndicatorById("NQ");
+  const vixChange = vix ? Number(vix.change_percent) : NaN;
+  const nqChange = nq ? Number(nq.change_percent) : NaN;
+  const triggers = [];
+
+  if(Number.isFinite(risk) && risk >= settings.risk){
+    triggers.push("全球風險溫度已達 "+risk+" 分");
+  }
+  if(Number.isFinite(vixChange) && vixChange >= settings.vix){
+    triggers.push("VIX 上漲 "+vixChange.toFixed(2)+"%");
+  }
+  if(Number.isFinite(nqChange) && nqChange <= -settings.nq){
+    triggers.push("納指期貨下跌 "+Math.abs(nqChange).toFixed(2)+"%");
+  }
+
+  result.classList.toggle("triggered",triggers.length > 0);
+  result.textContent = triggers.length
+    ? "⚠️ 符合觀察條件："+triggers.join("；")+"。這是規則提醒，不代表台股一定上漲或下跌。"
+    : "✅ 目前未觸發你設定的三項觀察條件。";
+}
+
+function setupGlobalAlertControls(){
+  const ids = [
+    ["globalRiskThreshold","globalRiskThresholdValue","risk"," 分"],
+    ["globalVixThreshold","globalVixThresholdValue","vix","%"],
+    ["globalNqThreshold","globalNqThresholdValue","nq","%"]
+  ];
+  const settings = getGlobalAlertSettings();
+
+  ids.forEach(function(config){
+    const input = document.getElementById(config[0]);
+    const output = document.getElementById(config[1]);
+    if(!input || !output) return;
+    input.value = settings[config[2]];
+    output.textContent = input.value + config[3];
+
+    input.addEventListener("input",function(){
+      const next = getGlobalAlertSettings();
+      next[config[2]] = Number(input.value);
+      localStorage.setItem(GLOBAL_ALERT_STORAGE,JSON.stringify(next));
+      output.textContent = input.value + config[3];
+      renderGlobalAlerts();
+    });
+  });
+}
+
 function renderGlobalMarket(){
   if(!globalMarketReady)return;const r=globalMarket.risk||{},s=Number.isFinite(Number(r.score))?Math.max(0,Math.min(100,Number(r.score))):0;
   ["globalHomeScore","globalPageScore"].forEach(function(id){const e=document.getElementById(id);if(e)e.textContent=(r.score==null?"—":s)+"／100";});
@@ -8879,6 +8989,7 @@ function renderGlobalMarket(){
   fillGlobalList("globalConfirmed",globalMarket.confirmed_data,"尚無已確認行情");fillGlobalList("globalSignals",globalMarket.rule_signals,"尚無規則訊號");fillGlobalList("globalInferences",globalMarket.inferences,"尚無足夠資料推論");fillGlobalList("globalWatch",globalMarket.watch_next,"等待下一次更新");
   const sec=document.getElementById("globalSectors");if(sec)sec.innerHTML=(globalMarket.affected_sectors||[]).map(function(x){return '<span class="global-sector-chip">'+escapeHtml((x.name||"族群")+"・"+(x.direction||"觀察"))+'</span>';}).join("");
   renderGlobalRiskHistory();
+  renderGlobalAlerts();
   const hist=document.getElementById("globalHistory"),hv=globalMarket.history_validation||{};if(hist)hist.textContent=(hv.status||"樣本不足")+"｜歷史樣本 "+(hv.sample_count||0)+" 筆。"+(hv.note||"累積足夠樣本後再提供勝率。");const lic=document.getElementById("globalLicense");if(lic)lic.textContent="資料與授權說明："+(globalMarket.commercial_use_note||"行情僅供研究與教學使用。");
 }
 function renderGlobalExposure(code){
@@ -8892,6 +9003,8 @@ function renderGlobalExposure(code){
 /* ========================================
    啟動
 ======================================== */
+
+setupGlobalAlertControls();
 
 Promise.all([
   loadStocks(),
