@@ -1,10 +1,366 @@
 {
   "_meta": {
-    "status": "waiting",
-    "updated_at": "2026-09-20T14:00:00+08:00",
-    "snapshot_count": 1,
-    "description": "至少需要兩個有效交易日快照才能計算連續增減趨勢"
+    "status": "success",
+    "updated_at": "2026-09-22T00:23:56.519096+08:00",
+    "snapshot_count": 2,
+    "comparison_days": 1,
+    "latest_date": "2026-09-21",
+    "description": "依每日官方投資組合快照計算跨 ETF 持股股數方向與連續交易日"
   },
-  "positive": [],
-  "negative": []
+  "positive": [
+    {
+      "code": "2303",
+      "name": "UNITED MICROELECTRONICS CORP ORD TWD10",
+      "increased_count": 5,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 5,
+      "streak_days": 1,
+      "latest_date": "2026-09-21"
+    },
+    {
+      "code": "6805",
+      "name": "富世達",
+      "increased_count": 4,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 4,
+      "streak_days": 1,
+      "latest_date": "2026-09-21"
+    },
+    {
+      "code": "1560",
+      "name": "中國砂輪企業",
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 3,
+      "removed_count": 0,
+      "net_etf_count": 4,
+      "streak_days": 1,
+      "latest_date": "2026-09-21"
+    },
+    {
+      "code": "2308",
+      "name": "台達電",
+      "increased_count": 4,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 4,
+      "streak_days": 1,
+      "latest_date": "2026-09-21"
+    },
+    {
+      "code": "2408",
+      "name": "南亞科",
+      "increased_count": 3,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 3,
+      "streak_days": 1,
+      "latest_date": "2026-09-21"
+    },
+    {
+      "code": "6531",
+      "name": "AP MEMORY TECHNOLOGY CORP ORD TWD5.000000000",
+      "increased_count": 2,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 2,
+      "streak_days": 1,
+      "latest_date": "2026-09-21"
+    },
+    {
+      "code": "3017",
+      "name": "奇鋐",
+      "increased_count": 2,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 2,
+      "streak_days": 1,
+      "latest_date": "2026-09-21"
+    },
+    {
+      "code": "3264",
+      "name": "欣銓",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 2,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-09-21"
+    },
+    {
+      "code": "6147",
+      "name": "頎邦科技",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 2,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-09-21"
+    },
+    {
+      "code": "3189",
+      "name": "景碩",
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-09-21"
+    },
+    {
+      "code": "2383",
+      "name": "台光電子材料",
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-09-21"
+    },
+    {
+      "code": "2542",
+      "name": "興富發",
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-09-21"
+    },
+    {
+      "code": "2368",
+      "name": "金像電",
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-09-21"
+    },
+    {
+      "code": "2449",
+      "name": "京元電子",
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-09-21"
+    },
+    {
+      "code": "2412",
+      "name": "中華電信",
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-09-21"
+    },
+    {
+      "code": "2376",
+      "name": "技嘉科技",
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-09-21"
+    },
+    {
+      "code": "4904",
+      "name": "遠傳電信",
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-09-21"
+    },
+    {
+      "code": "2395",
+      "name": "研華",
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-09-21"
+    },
+    {
+      "code": "2454",
+      "name": "聯發科",
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-09-21"
+    }
+  ],
+  "negative": [
+    {
+      "code": "2313",
+      "name": "COMPEQ MANUFACTURING CO LTD ORD TWD10",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-09-21"
+    },
+    {
+      "code": "6239",
+      "name": "力成",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-09-21"
+    },
+    {
+      "code": "3533",
+      "name": "嘉澤",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-09-21"
+    },
+    {
+      "code": "6138",
+      "name": "茂達電子",
+      "increased_count": 0,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 1,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-09-21"
+    },
+    {
+      "code": "9802",
+      "name": "鈺齊-KY",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-09-21"
+    },
+    {
+      "code": "2886",
+      "name": "兆豐金",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-09-21"
+    },
+    {
+      "code": "9941",
+      "name": "裕融",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-09-21"
+    },
+    {
+      "code": "8210",
+      "name": "勤誠",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-09-21"
+    },
+    {
+      "code": "6669",
+      "name": "緯穎",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-09-21"
+    },
+    {
+      "code": "3037",
+      "name": "欣興電子",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-09-21"
+    },
+    {
+      "code": "6442",
+      "name": "光紅建聖",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-09-21"
+    },
+    {
+      "code": "3661",
+      "name": "世芯電子",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-09-21"
+    },
+    {
+      "code": "7769",
+      "name": "鴻勁精密",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-09-21"
+    }
+  ]
 }
