@@ -170,6 +170,177 @@ jobs:
           PY
 
       # ============================================================
+      # 下載上市／上櫃公司月營收與最新季報獲利
+      # 月營收與季報期間不同，前端必須分開標示
+      # ============================================================
+      - name: Download company revenue and profit data
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          import urllib.request
+          from datetime import datetime, timezone, timedelta
+
+          HEADERS = {
+              "User-Agent": "Mozilla/5.0",
+              "Accept": "application/json"
+          }
+
+          def fetch_first(urls):
+              errors = []
+              for url in urls:
+                  try:
+                      req = urllib.request.Request(url, headers=HEADERS)
+                      with urllib.request.urlopen(req, timeout=90) as response:
+                          payload = json.loads(response.read().decode("utf-8-sig"))
+                      if isinstance(payload, list):
+                          print("Fetched", len(payload), "rows from", url)
+                          return payload, url
+                  except Exception as error:
+                      errors.append(f"{url}: {error}")
+              print("All endpoints failed:", " | ".join(errors))
+              return [], ""
+
+          def pick(row, *names):
+              for name in names:
+                  if name in row and str(row.get(name, "")).strip() not in ("", "--", "---"):
+                      return row.get(name)
+              return None
+
+          def number(value):
+              if value is None:
+                  return None
+              text = str(value).strip().replace(",", "").replace("%", "")
+              if text in ("", "--", "---", "N/A"):
+                  return None
+              try:
+                  return float(text)
+              except ValueError:
+                  return None
+
+          revenue_sources = [
+              (
+                  "上市",
+                  [
+                      "https://openapi.twse.com.tw/v1/opendata/t187ap05_L",
+                      "https://mopsfin.twse.com.tw/opendata/t187ap05_L.json"
+                  ]
+              ),
+              (
+                  "上櫃",
+                  [
+                      "https://openapi.twse.com.tw/v1/opendata/t187ap05_P",
+                      "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap05_O"
+                  ]
+              )
+          ]
+
+          profit_sources = [
+              (
+                  "上市",
+                  [
+                      "https://openapi.twse.com.tw/v1/opendata/t187ap07_L",
+                      "https://mopsfin.twse.com.tw/opendata/t187ap07_L.json"
+                  ]
+              ),
+              (
+                  "上櫃",
+                  [
+                      "https://openapi.twse.com.tw/v1/opendata/t187ap07_P",
+                      "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap07_O"
+                  ]
+              )
+          ]
+
+          companies = {}
+          used_sources = []
+
+          for market, urls in revenue_sources:
+              rows, used_url = fetch_first(urls)
+              if used_url:
+                  used_sources.append(used_url)
+              for row in rows:
+                  code = str(pick(row, "公司代號", "公司代碼", "股票代號") or "").strip()
+                  if not code:
+                      continue
+                  item = companies.setdefault(code, {"code": code})
+                  item.update({
+                      "name": str(pick(row, "公司名稱", "公司簡稱") or item.get("name") or "").strip(),
+                      "market": market,
+                      "industry": str(pick(row, "產業別", "產業類別") or "").strip(),
+                      "revenue_period": str(pick(row, "資料年月", "營業收入-資料年月", "年月") or "").strip(),
+                      "monthly_revenue": number(pick(row, "營業收入-當月營收", "當月營收", "本月營業收入")),
+                      "previous_month_revenue": number(pick(row, "營業收入-上月營收", "上月營收")),
+                      "last_year_month_revenue": number(pick(row, "營業收入-去年當月營收", "去年當月營收")),
+                      "monthly_mom_percent": number(pick(row, "營業收入-上月比較增減(%)", "上月比較增減(%)", "月增率")),
+                      "monthly_yoy_percent": number(pick(row, "營業收入-去年同月增減(%)", "去年同月增減(%)", "年增率")),
+                      "cumulative_revenue": number(pick(row, "累計營業收入-當月累計營收", "當月累計營收", "累計營業收入")),
+                      "last_year_cumulative_revenue": number(pick(row, "累計營業收入-去年累計營收", "去年累計營收")),
+                      "cumulative_yoy_percent": number(pick(row, "累計營業收入-前期比較增減(%)", "前期比較增減(%)", "累計年增率")),
+                      "revenue_note": str(pick(row, "備註") or "").strip()
+                  })
+
+          for market, urls in profit_sources:
+              rows, used_url = fetch_first(urls)
+              if used_url:
+                  used_sources.append(used_url)
+              for row in rows:
+                  code = str(pick(row, "公司代號", "公司代碼", "股票代號") or "").strip()
+                  if not code:
+                      continue
+                  item = companies.setdefault(code, {"code": code})
+                  year = str(pick(row, "年度", "年") or "").strip()
+                  quarter = str(pick(row, "季別", "季") or "").strip()
+                  item.update({
+                      "name": str(pick(row, "公司名稱", "公司簡稱") or item.get("name") or "").strip(),
+                      "market": item.get("market") or market,
+                      "profit_period": (year + "年第" + quarter + "季") if year and quarter else (year or quarter),
+                      "quarter_revenue": number(pick(row, "營業收入", "收益")),
+                      "gross_profit": number(pick(row, "營業毛利（毛損）淨額", "營業毛利（毛損）")),
+                      "operating_profit": number(pick(row, "營業利益（損失）")),
+                      "net_profit": number(pick(row, "本期淨利（淨損）", "本期稅後淨利（淨損）")),
+                      "parent_net_profit": number(pick(row, "歸屬於母公司業主之淨利（損）")),
+                      "eps": number(pick(row, "基本每股盈餘（元）", "基本每股盈餘"))
+                  })
+
+          tz = timezone(timedelta(hours=8))
+          now = datetime.now(tz)
+          periods = [
+              item.get("revenue_period")
+              for item in companies.values()
+              if item.get("revenue_period")
+          ]
+          latest_revenue_period = max(periods) if periods else ""
+
+          output = {
+              "schema_version": 1,
+              "updated_at": now.isoformat(),
+              "source": "臺灣證券交易所／公開資訊觀測站 Open Data",
+              "source_urls": used_sources,
+              "latest_revenue_period": latest_revenue_period,
+              "company_count": len(companies),
+              "unit": "新臺幣仟元；EPS為元",
+              "companies": dict(sorted(companies.items()))
+          }
+
+          with open("data/company_financials.json", "w", encoding="utf-8") as f:
+              json.dump(output, f, ensure_ascii=False, indent=2)
+
+          if latest_revenue_period:
+              os.makedirs("data/company_financials_history", exist_ok=True)
+              safe_period = latest_revenue_period.replace("/", "-")
+              with open(
+                  f"data/company_financials_history/{safe_period}.json",
+                  "w",
+                  encoding="utf-8"
+              ) as f:
+                  json.dump(output, f, ensure_ascii=False, indent=2)
+
+          print("Company financial records:", len(companies))
+          print("Latest revenue period:", latest_revenue_period or "unknown")
+          PY
+
+      # ============================================================
       # 更新精簡版市場歷史資料
       # 每支股票每天只保存 OHLCV
       # ============================================================
@@ -379,6 +550,8 @@ jobs:
           git add data/stocks.json
           git add data/institutional.json
           git add data/institutional_history
+          git add data/company_financials.json
+          git add data/company_financials_history
           git add data/market_history.json
 
           if git diff --cached --quiet; then
