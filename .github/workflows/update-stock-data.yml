@@ -45,10 +45,23 @@ jobs:
               }
           )
 
-          with urllib.request.urlopen(req, timeout=60) as response:
-              twse_stocks = json.loads(
-                  response.read().decode("utf-8")
-              )
+          try:
+              with urllib.request.urlopen(req, timeout=60) as response:
+                  twse_stocks = json.loads(
+                      response.read().decode("utf-8")
+                  )
+              if not isinstance(twse_stocks, list) or not twse_stocks:
+                  raise ValueError("TWSE returned no stock records")
+          except Exception as error:
+              print("TWSE daily quote endpoint failed; preserving previous listed data:", error)
+              with open("data/stocks.json", "r", encoding="utf-8") as f:
+                  previous_payload = json.load(f)
+              twse_stocks = [
+                  row for row in previous_payload.get("stocks", [])
+                  if str(row.get("Market") or "上市") != "上櫃"
+              ]
+              if not twse_stocks:
+                  raise RuntimeError("TWSE endpoint failed and no previous listed data is available")
 
           req = urllib.request.Request(
               tpex_url,
@@ -58,8 +71,18 @@ jobs:
               with urllib.request.urlopen(req, timeout=60) as response:
                   tpex_rows = json.loads(response.read().decode("utf-8-sig"))
           except Exception as error:
-              print("TPEx daily quote endpoint failed:", error)
-              tpex_rows = []
+              print("TPEx daily quote endpoint failed; preserving previous OTC data:", error)
+              try:
+                  with open("data/stocks.json", "r", encoding="utf-8") as f:
+                      previous_payload = json.load(f)
+                  tpex_rows = []
+                  previous_tpex_stocks = [
+                      row for row in previous_payload.get("stocks", [])
+                      if str(row.get("Market") or "") == "上櫃"
+                  ]
+              except Exception:
+                  tpex_rows = []
+                  previous_tpex_stocks = []
 
           tpex_stocks = []
           for row in tpex_rows if isinstance(tpex_rows, list) else []:
@@ -89,6 +112,9 @@ jobs:
                   "Transaction": row.get("TransactionNumber"),
                   "Market": "上櫃"
               })
+
+          if not tpex_stocks and "previous_tpex_stocks" in locals():
+              tpex_stocks = previous_tpex_stocks
 
           by_code = {}
           for row in twse_stocks if isinstance(twse_stocks, list) else []:
@@ -151,10 +177,25 @@ jobs:
               }
           )
 
-          with urllib.request.urlopen(req, timeout=60) as response:
-              data = json.loads(
-                  response.read().decode("utf-8")
-              )
+          try:
+              with urllib.request.urlopen(req, timeout=60) as response:
+                  data = json.loads(
+                      response.read().decode("utf-8")
+                  )
+              if not isinstance(data.get("data"), list) or not data.get("data"):
+                  raise ValueError("TWSE returned no institutional records")
+          except Exception as error:
+              print("TWSE institutional endpoint failed; preserving previous data:", error)
+              with open("data/institutional.json", "r", encoding="utf-8") as f:
+                  previous_institutional = json.load(f)
+              previous_rows = previous_institutional.get("institutional", [])
+              previous_listed_count = int(previous_institutional.get("listed_count") or 0)
+              data = {
+                  "fields": previous_institutional.get("fields", []),
+                  "data": previous_rows[:previous_listed_count] if previous_listed_count else previous_rows,
+                  "title": previous_institutional.get("title"),
+                  "date": previous_institutional.get("trade_date")
+              }
 
           tz = timezone(timedelta(hours=8))
           now = datetime.now(tz)
@@ -171,8 +212,16 @@ jobs:
               with urllib.request.urlopen(tpex_req, timeout=60) as response:
                   tpex_data = json.loads(response.read().decode("utf-8-sig"))
           except Exception as error:
-              print("TPEx institutional endpoint failed:", error)
+              print("TPEx institutional endpoint failed; preserving previous OTC data:", error)
               tpex_data = []
+              try:
+                  with open("data/institutional.json", "r", encoding="utf-8") as f:
+                      previous_institutional = json.load(f)
+                  previous_rows = previous_institutional.get("institutional", [])
+                  previous_listed_count = int(previous_institutional.get("listed_count") or 0)
+                  previous_tpex_rows = previous_rows[previous_listed_count:]
+              except Exception:
+                  previous_tpex_rows = []
 
           if isinstance(tpex_data, list) and tpex_data:
               print("TPEx institutional fields:", list(tpex_data[0].keys()))
@@ -205,6 +254,9 @@ jobs:
                   tpex_value(row, "Dealers-Hedging-Difference"),
                   tpex_value(row, "TotalDifference")
               ])
+
+          if not tpex_rows and "previous_tpex_rows" in locals():
+              tpex_rows = previous_tpex_rows
 
           existing_codes = {str(row[0]).strip() for row in rows if isinstance(row, list) and row}
           rows.extend(row for row in tpex_rows if str(row[0]).strip() not in existing_codes)
