@@ -239,14 +239,18 @@ jobs:
               (
                   "上市",
                   [
+                      "https://openapi.twse.com.tw/v1/opendata/t187ap06_L",
                       "https://openapi.twse.com.tw/v1/opendata/t187ap07_L",
+                      "https://mopsfin.twse.com.tw/opendata/t187ap06_L.json",
                       "https://mopsfin.twse.com.tw/opendata/t187ap07_L.json"
                   ]
               ),
               (
                   "上櫃",
                   [
+                      "https://openapi.twse.com.tw/v1/opendata/t187ap06_P",
                       "https://openapi.twse.com.tw/v1/opendata/t187ap07_P",
+                      "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap06_O",
                       "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap07_O"
                   ]
               )
