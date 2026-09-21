@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-21T05:33:06.802488+08:00",
+  "updated_at": "2026-09-22T00:34:49.607364+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5007",
   "name": "三星",
   "count": 12,
   "news": [
+    {
+      "title": "三星獲利暴衝難救 亞股成失速列車",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nVndrLXJnN3ZGb09NMmFmYm5kRUVReGEwS25SaGRYVE4wVHFKWEJjM3l3R3hmbjVmQlJ1WTBmeWFfa1JtVy0yQlNETERsSFdBZERTdV9DcGg?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-21T05:50:50+00:00"
+    },
     {
       "title": "韓股大瀉觸發熔斷 港股三星及海力士槓桿產品插逾26%",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zRlhBMTVzTFBjdXNEXzJ4MnZnUnJOUV9GUXNTV201X2lJVUE5ZjJOUFNHTmxjeGRFamlHckFfb3VDMmFsc0YtNzJ1TmhRUTR1Snc?oc=5",
@@ -24,12 +30,6 @@
       "published_at": "2026-09-18T21:17:31+00:00"
     },
     {
-      "title": "三星電子 | 005930.KS 股價走勢與即時報價",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OYm5ETi1oa21iNzhBSHhIYWxRUW5OZUJyWXRES3U3N2pLWU1TQzdrREdXQkwzWjkxVFJFQzFtTE9ybWluVjFxcjdRU2NyN2liQjN3emFEWQ?oc=5",
-      "source": "BigGo 財經",
-      "published_at": "2026-09-18T07:00:00+00:00"
-    },
-    {
       "title": "美股晶片股重挫衝擊韓股 三星電子、SK 海力士盤中跌逾 7",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pNEhZamJ3QV92dHVrbzlXMHBVWkdSejNLU2EtS1lRS1pfaThoRHUxUWx6ZnM5dFl0U1NMWWtueG1FbUVFdVY4LUUxaVVPMVViTEFXR3FHdU0?oc=5",
       "source": "自由時報",
@@ -38,7 +38,7 @@
     {
       "title": "三星、SK海力士利潤狂飆，為何市盈率還不到台積電一半？",
       "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxObGl1OGJ5RXRRQzBYRURZQXYwblpMRm1wQnotVFpBRUtiN0pINXV5czVBYjl0MmJyQjVib084RDJQY19IZmo1UkdMZ0hudkY2MUFXbXpqNmdoenpWcVEwRG9fZEN2TW1wNG9MQ2Z6V1hPdks0bk16WWUzNDVLbm1YQ2VMd3I2NnNzaWFmOHY1NDNKUWFCNzJ3X3pzSV9MU2tZekRlYld1TDlXX01LVnA5b0NoMU1yTzh1MjJpdk5UVXhkUVlza2hmZE1VQU9xei1OdXBORFM1RjhQS1h5bXgxRTlOa0E5cnpjWWFrY3NhNnhsODRGdFFrRkVKcFhacUJxTEh1THNmaWR0NzNvY2lHVTdjelVhWjVieUlqT0RoQ1JVRkhKajI2TWphbmh3amNPUXg2UmY2Y2RqdjU2b2JCYVVnV0lvYVRxa2pDaVFrd3FoVm1y?oc=5",
-      "source": "NAI500",
+      "source": "nai500.com",
       "published_at": "2026-09-16T12:57:29+00:00"
     },
     {
@@ -72,10 +72,10 @@
       "published_at": "2026-09-14T07:00:00+00:00"
     },
     {
-      "title": "KOSPI大跌3%，日經失守6.3萬關口，軟銀暴跌超10%，三星電子、SK海力士與鎧俠集體跳水",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYlhSTDFmWW5oLWNBUC1xME1VNHk2ZDhtcW1VUmFaemFfVlVZNDZ1ZjV4Vk9pYUZuMkQ1QmVUWlp5ZnlDTi1va25VdmZDUk5UY0FLb29ESVpqTFk2cFg0TnVNZUVROE5UMXNTS1lORktSWXZ0ekN2cGotbTlhTlFXRzJ4SURJd050NFlDVGxVOWU2bkpVSklLQU9HVk1FUFFpdGZfbVBFRlNMN3dMUGNBUnV1YUZxejdTNHN1RlZlU3lWSWVJVXlrbzVvOC1uYnJJcFVrZjZQakt4OFM2Z0xFNnhxUQ?oc=5",
-      "source": "TradingKey",
-      "published_at": "2026-09-14T00:42:06+00:00"
+      "title": "【即時新聞】三星電子(SSNLF)與SK海力士(SKHY)迎利多！韓國股市延長交易至晚上8點吸引外資卡位",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGFKN1BycUliTS1UcVlFSUN3Z1pLQVNCN0RlQU5KY1VOdmI3alc4QVo3a1lFdy1vOUxvSHFjVGNRMUZDblhiNWpvNl9QZV9JaGZGcU4xcTBkNFlLQUJHZHJlbWV3OXZnQ1U1RzYwd0RZdm91WWwxajVFT2RNRDZfMHFPZDNFaFlaZ1ZLRmJHc0s?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-13T13:32:34+00:00"
     }
   ]
 }

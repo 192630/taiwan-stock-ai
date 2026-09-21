@@ -1,0 +1,21 @@
+{
+  "updated_at": "2026-09-22T00:35:23.945151+08:00",
+  "source": "Google News RSS search by stock code and name",
+  "code": "5410",
+  "name": "國眾",
+  "count": 2,
+  "news": [
+    {
+      "title": "【2026/08月營收公告】國眾(5410) 八月營收2.26億元，營收雙減，年減55.63％",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LZm13cW96YjlVY2lOQVJyTFJoNEVVMXk1bnVkWTNUSlBjTURCLVEzRXV0LUZYbExtRXdpNnZkVGxtSktXVXlEWnNrUy1zb0VDbXVXRHVjajlERFRjeEE4dGpwcWt2eWc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-10T07:10:04+00:00"
+    },
+    {
+      "title": "美國眾議員提新法案 劍指公職人員股票交易利益衝突 - 財經新聞 - PChome Online 新聞",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRkJkQkNaX2ZvQzBUV1dIRmtfSC1wbTlfb2VLYlRSZTh3Q2N1ckFBX2dqOVVwMmxkbmhNNUlSWmxqYjNIWVdFUlVZbEpoSjhqN1AyczRVLW5WT29jYmdOWVRZbTdqNHVLUWZKRUdmcU5xZWl6Q1NJcVdiak9QVXlsNXNXbXhKdEpjRjA1ag?oc=5",
+      "source": "news.pchome.com.tw",
+      "published_at": "2026-09-04T07:00:00+00:00"
+    }
+  ]
+}
