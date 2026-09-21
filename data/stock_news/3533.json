@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-21T04:33:22.781581+08:00",
+  "updated_at": "2026-09-21T20:36:41.139412+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3533",
   "name": "嘉澤",
   "count": 12,
   "news": [
+    {
+      "title": "《集中市場券商賣超前30名 3-2》國票金(-3533)、華新(-3387)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR0Zzb3NuVy1BaVByWTNnT0dHb2RULWJ5SXZvQjM4NUd3VjhEaGdzbURkLU5lSnlNOU1ieV9MSDZZVmVyTS00cE9MWUVpVDRmY2ZBVjAwcThrWGZBS2RzUTYwdW1uUS1YTG9KXzJReV9ySVVoMlBIb0FTcGJtZEVwQVdfNktScjUx?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-20T23:29:00+00:00"
+    },
     {
       "title": "3533 嘉澤- 川湖、嘉澤、健策...「金條從天而降」 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBraTRkYTFqZXBnaS02dndiN0Uzc3RiVWtEQnllUFowUjFIYmlVVV9ZcFhBS3l2Z25qMUlKWUZkV1ZQSmZOVUk3bkdubVVYa1FkY2l0b3NnblE?oc=5",
@@ -30,6 +36,12 @@
       "published_at": "2026-09-17T03:43:00+00:00"
     },
     {
+      "title": "2059 川湖- 川湖市值飆3000%！總座驚「金條從天降」 彭博點名嘉澤也受惠- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FT0RiRGZUTDhYZ2lGVDJvZWY1b2R5RDUwdFk0U0plc3RaN2h4R2NmdldFNEo1VVc5TjZuRk5KYk5hcFlGaXpaVnhOV0pDUHl1bVFBVkNhdFc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-16T10:05:20+00:00"
+    },
+    {
       "title": "銅價跌替毛利率解套 嘉澤可分批布局",
       "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQX1FpQkh3VzJXNHc3SmJSREZGTEZEejBCSWhTTzByVkNWbzk4TlNDMEswU2o3bmRUbzhPTVo0V0xUZTFiRUJ3ZkM2WGo2MmxMcXBDY2ViVEluNHZBbFRPNlBUMkRDbEVRQ2p6azl3bV8zbE8tWFhEU0Y4V1UwTVM4emQ2ZmtVLWlYaUR2cV93ak16SW9SSW1Da2NsSHo4ZEpvM3FrYmVmam1iUWtTVUQ1YmZzZFZYZENFVFVfUl9obFpCd1FFNjR6cEZQM1c1aUdWTXRJTklrU29xRW1jXy1qTDJsaS10Q0VkYkJnRG13cmdxRkFfdzR4dUVJUDAzX0taaHJDR3RWLUtoUGY0cE96bWFhQkdaT0l2czRhTmV4MTdpME1nRjFSS3BZZDRnSjJkZjh4Z0gtaVZuV2t4S19qMTJ6MVZsd1U4cEcyc0ZfNA?oc=5",
       "source": "台灣好新聞",
@@ -38,7 +50,7 @@
     {
       "title": "銅價高檔回落替毛利率解套？嘉澤從2,955元重挫近半H1 EPS 39.05元 1,500元附近進入關鍵築底區",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tSHhRaHlvNE9qUnY2Yk55bTZYbkVRSVVqZVIyY0RQMFFRWnFxdHdCVHhxcm5td25qUFA1d19HX2xVdjA4endQR19vbXItTFhVdzhaQUI3aG02eXpGcnlkOGMtY3Z4WTRJOXBsOEM4bw?oc=5",
-      "source": "moneyweekly.com.tw",
+      "source": "理財周刊",
       "published_at": "2026-09-15T06:58:41+00:00"
     },
     {
@@ -50,7 +62,7 @@
     {
       "title": "嘉澤AI伺服器營收占比已經超過一半，為什麼市場反而開始擔心毛利率？",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5aenl5M2ZWeVhDSWJYTGt5VlNRQ3lKM0ZtZmtKSHFGU3FzQndaaTJFZ20yU09YOEVKRDJ5bEZ4eWxoamlQLTFKdTlwbGgxRFdXRUhiWTYtY3FwOHZ6ck9mSHRDa0tOZ0traUdFSlItaw?oc=5",
-      "source": "moneyweekly.com.tw",
+      "source": "理財周刊",
       "published_at": "2026-09-14T02:24:21+00:00"
     },
     {
@@ -64,18 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBMRVVBOHlVYnkyM1Q2b19sZHg4eEZVSV9GT0VaUzJKWHRfRzBSaWJoS2tjRHJKT09ZekdaU2gzY3FJdTJubTZkOE1DeWZxd0s4dDNwVHNmUDU?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-11T18:00:18+00:00"
-    },
-    {
-      "title": "嘉澤短期仍受缺料拖累，年底前新平台效益逐步增",
-      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQN1dlYk1YcmtPSVQxWWsyN1VoajRqTlRRWmI5RXVYRm1kOFZPeGp3WHdqYzU0bWUwNDBJbkxxTXlORF9oOWx4MEprdHlkd2xxN3lTdURQZkg3MEt4VHpDSGZ3OEZ2MzZQTEZLSWd1VGZiTWlBNkVEUzkzSTRmbS1UQ2Q5cWZETk5hNm9mV0E3cUR5NWE0VE1zQWNDN1ZfWEMxOGpzWFUyQ2VBYkp6N0gxZHNiR3UyWUY1dVlYclZ2V2NXZTFHWmM5UjhSYXNaSjJydF9zWXU0enYxb0I4VTA0c2trOGt6bG5mdlhLR0dITDZnTWdLdk5yUkxzS1BxOGJ4dzMtU2pOSDBaUnF6ek91RzBXNmtVNWNYRFF3MnR0bWpNRFBQU29ab2F5SWhncmxmZzBmTE53VlFDeEdiOW5jbW83blJOeF9jN0xrMlBqYldKaWZ0VTZBNA?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "3533 嘉澤 - 嘉澤8月營收31.98億，雖MOM衰退5.06%，但YOY卻... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GdFNKVWtVcXdOV2lWLVBwVjFDZkVnU2hrc1VXWmNUM3I1VkJXdWtuWTlNR0dNcWhtRUtlTkF2S2JCeFhKYUhnOGF2aExoSlVCcDJTbDdEWkQ?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-09T07:00:00+00:00"
     }
   ]
 }
