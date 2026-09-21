@@ -35,26 +35,70 @@ jobs:
           import urllib.request
           from datetime import datetime, timezone, timedelta
 
-          url = "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL"
+          twse_url = "https://openapi.twse.com.tw/v1/exchangeReport/STOCK_DAY_ALL"
+          tpex_url = "https://www.tpex.org.tw/openapi/v1/tpex_mainboard_daily_close_quotes"
 
           req = urllib.request.Request(
-              url,
+              twse_url,
               headers={
                   "User-Agent": "Mozilla/5.0"
               }
           )
 
           with urllib.request.urlopen(req, timeout=60) as response:
-              stocks = json.loads(
+              twse_stocks = json.loads(
                   response.read().decode("utf-8")
               )
+
+          req = urllib.request.Request(
+              tpex_url,
+              headers={"User-Agent": "Mozilla/5.0"}
+          )
+          try:
+              with urllib.request.urlopen(req, timeout=60) as response:
+                  tpex_rows = json.loads(response.read().decode("utf-8-sig"))
+          except Exception as error:
+              print("TPEx daily quote endpoint failed:", error)
+              tpex_rows = []
+
+          tpex_stocks = []
+          for row in tpex_rows if isinstance(tpex_rows, list) else []:
+              code = str(row.get("SecuritiesCompanyCode") or "").strip()
+              if not code:
+                  continue
+              tpex_stocks.append({
+                  "Date": row.get("Date"),
+                  "Code": code,
+                  "Name": str(row.get("CompanyName") or "").strip(),
+                  "TradeVolume": row.get("TradingShares"),
+                  "TradeValue": row.get("TransactionAmount"),
+                  "OpeningPrice": row.get("Open"),
+                  "HighestPrice": row.get("High"),
+                  "LowestPrice": row.get("Low"),
+                  "ClosingPrice": row.get("Close"),
+                  "Change": row.get("Change"),
+                  "Transaction": row.get("TransactionNumber"),
+                  "Market": "上櫃"
+              })
+
+          by_code = {}
+          for row in twse_stocks if isinstance(twse_stocks, list) else []:
+              code = str(row.get("Code") or "").strip()
+              if code:
+                  row["Market"] = "上市"
+                  by_code[code] = row
+          for row in tpex_stocks:
+              by_code.setdefault(row["Code"], row)
+          stocks = list(by_code.values())
 
           tz = timezone(timedelta(hours=8))
           now = datetime.now(tz)
 
           output = {
               "updated_at": now.isoformat(),
-              "source": "Taiwan Stock Exchange (TWSE)",
+              "source": "Taiwan Stock Exchange (TWSE) + Taipei Exchange (TPEx)",
+              "listed_count": len(twse_stocks),
+              "otc_count": len(tpex_stocks),
               "count": len(stocks),
               "stocks": stocks
           }
@@ -71,11 +115,7 @@ jobs:
                   indent=2
               )
 
-          print(
-              "Downloaded",
-              len(stocks),
-              "stock records"
-          )
+          print("Downloaded", len(twse_stocks), "TWSE and", len(tpex_stocks), "TPEx records")
           PY
 
       # ============================================================
@@ -92,6 +132,7 @@ jobs:
           from datetime import datetime, timezone, timedelta
 
           url = "https://www.twse.com.tw/rwd/zh/fund/T86?response=json&selectType=ALLBUT0999"
+          tpex_url = "https://www.tpex.org.tw/openapi/v1/tpex_3insti_daily_trading"
 
           req = urllib.request.Request(
               url,
@@ -112,9 +153,54 @@ jobs:
           fields = data.get("fields", [])
           rows = data.get("data", [])
 
+          tpex_req = urllib.request.Request(
+              tpex_url,
+              headers={"User-Agent": "Mozilla/5.0", "Accept": "application/json"}
+          )
+          try:
+              with urllib.request.urlopen(tpex_req, timeout=60) as response:
+                  tpex_data = json.loads(response.read().decode("utf-8-sig"))
+          except Exception as error:
+              print("TPEx institutional endpoint failed:", error)
+              tpex_data = []
+
+          def tpex_value(row, name):
+              value = row.get(name)
+              return "0" if value in (None, "", "--", "---") else value
+
+          tpex_rows = []
+          for row in tpex_data if isinstance(tpex_data, list) else []:
+              code = str(row.get("SecuritiesCompanyCode") or "").strip()
+              if not code:
+                  continue
+              tpex_rows.append([
+                  code,
+                  str(row.get("CompanyName") or "").strip(),
+                  tpex_value(row, "ForeignInvestorsInclude MainlandAreaInvestors-Buy"),
+                  tpex_value(row, "ForeignInvestorsInclude MainlandAreaInvestors-Sell"),
+                  tpex_value(row, "ForeignInvestorsInclude MainlandAreaInvestors-Difference"),
+                  "0", "0", "0",
+                  tpex_value(row, "SecuritiesInvestmentTrustCompanies-Buy"),
+                  tpex_value(row, "SecuritiesInvestmentTrustCompanies-Sell"),
+                  tpex_value(row, "SecuritiesInvestmentTrustCompanies-Difference"),
+                  tpex_value(row, "Dealers-Difference"),
+                  tpex_value(row, "Dealers-Proprietary-Buy"),
+                  tpex_value(row, "Dealers-Proprietary-Sell"),
+                  tpex_value(row, "Dealers-Proprietary-Difference"),
+                  tpex_value(row, "Dealers-Hedging-Buy"),
+                  tpex_value(row, "Dealers-Hedging-Sell"),
+                  tpex_value(row, "Dealers-Hedging-Difference"),
+                  tpex_value(row, "TotalDifference")
+              ])
+
+          existing_codes = {str(row[0]).strip() for row in rows if isinstance(row, list) and row}
+          rows.extend(row for row in tpex_rows if str(row[0]).strip() not in existing_codes)
+
           output = {
               "updated_at": now.isoformat(),
-              "source": "Taiwan Stock Exchange (TWSE T86)",
+              "source": "TWSE T86 + Taipei Exchange (TPEx)",
+              "listed_count": len(data.get("data", [])),
+              "otc_count": len(tpex_rows),
               "title": data.get("title"),
               "fields": fields,
               "count": len(rows),
