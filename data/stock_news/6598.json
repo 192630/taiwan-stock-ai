@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-21T07:31:18.429205+08:00",
+  "updated_at": "2026-09-22T05:33:11.091562+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6598",
   "name": "ABC-KY",
-  "count": 2,
+  "count": 3,
   "news": [
     {
       "title": "6598 ABC-KY - 觀察觀察- 股市爆料同學會",
@@ -16,6 +16,12 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBndmZtOHhVak83UlpSci1CUmJDUUVMbXpNRGpxUjNtR2txeWlXMlVoZUhDZnRpSXZIWTBrRVRmODFLcGlpWnM5ZnRFcklHVWx4S1FFNDRMcnE?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-10T02:28:04+00:00"
+    },
+    {
+      "title": "營收速報 - ABC-KY(6598)8月營收6,094萬元年增率高達64％｜新聞快訊｜豐雲學堂",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02eTRPTDhlbVROal9GY2J1ZngtSS1sQ1h6YlpjdF9TY3c2b0Zhb1JOMVZ0RGRFcUo5Y0FIcHVyd1BVWUd4NkI4TDRicXIwZTVnWjRjbF9lcGxpMmJ4MkNzbVhQeTZsbnp2ZmpFcWRvSFpyd002N1E?oc=5",
+      "source": "sinotrade.com.tw",
+      "published_at": "2026-09-09T07:00:00+00:00"
     }
   ]
 }
