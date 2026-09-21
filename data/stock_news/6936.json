@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-20T18:33:44.439667+08:00",
+  "updated_at": "2026-09-21T08:40:17.576814+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6936",
   "name": "永鴻生技",
-  "count": 5,
+  "count": 6,
   "news": [
     {
       "title": "【6936】順豐控股擬發行100億元人民幣債券 作集團再融資",
@@ -18,12 +18,6 @@
       "published_at": "2026-09-14T03:55:12+00:00"
     },
     {
-      "title": "《業績-生醫》永鴻生技8月營收為1.14億元，年減6.22%",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRG9QSnBLTjZyOUl5dXRLLUdkQ3BvN1hKOEhzTHJXeDFNQmd6YUNWOW1ORDFLWTV4Q1UtWmNzVHRtSmFmaTFoUHNjc2E4am1CN1dael9ERGtURzJQNWtNTEVaV21JMDJLemlMWGZZRUlxNUJyVzJZUUFoTmhpenYweU05V3FsR1VK?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-07T07:59:00+00:00"
-    },
-    {
       "title": "【2026/08月營收公告】永鴻生技(6936) 八月營收1.14億元，營收雙減，年減6.22％",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44elh3bUx4c1h6YkZHZ3dHaEszUmttWWhMU2l6VGJ6SGhTTndzTC1iYXo0cmhUWVJ6SVN1WnYyTmk0dEFGY3A3OV93X2U5MGpnMUcwanBRN2FKMVhGc3dDaEVBQmtnRlE?oc=5",
       "source": "CMoney",
@@ -34,6 +28,18 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRTBQS2k3TUtmbDRrMmtBck5vcVBjOXRrN2RnYktTZWpzNkI0bzhuSFZWWXJIRTU5TTlsRUxXWVc1Ymx1MXlsNVBERG9BSllPUUdqT2JJUWlXdmpHY05NS3lCZVRCdXJIU2JzcEtUMWo1bUcxUUJlSS03MEpHTGRZRW5DRkw3YnJx?oc=5",
       "source": "富聯網",
       "published_at": "2026-09-07T07:00:00+00:00"
+    },
+    {
+      "title": "《業績-生醫》永鴻生技8月營收為1.14億元，年減6.22%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRG9QSnBLTjZyOUl5dXRLLUdkQ3BvN1hKOEhzTHJXeDFNQmd6YUNWOW1ORDFLWTV4Q1UtWmNzVHRtSmFmaTFoUHNjc2E4am1CN1dael9ERGtURzJQNWtNTEVaV21JMDJLemlMWGZZRUlxNUJyVzJZUUFoTmhpenYweU05V3FsR1VK?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-07T07:00:00+00:00"
+    },
+    {
+      "title": "【6936業績】順豐控股半年純利跌4.1% 中期息反增6.5%至0.49元人幣 公司如何應對燃油價格大升壓力？",
+      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOOUhxMUNRNkhBdndDOVRJcFA3Q09XREctRTBWRHFOYXM0cFRKdDdycnNaTmFfOUFybFBoU2tvUzZXbkx1bEtKSkJXVnlFS25YeGpMTC1SVWFtdk5wVU1oX2cwNHlET2FQbVowSUdRLXNlNlNKZ1dQazY5QnJkUElNajVvZFA1Z2I4MUtwc3pSLW5aQnIwSGE3R1A3ejhlemxuLUdMVHdDd0wzY1dSRVJTRHRTbTFMZWtKMVVld05KRkNMRlVINEVfWDJrV3FrNjJXeG03NDAtcFQ5OW5mcEhZQkYteEJPYXhkNXczaU1pS0FCeGxMd1BUMnNwU3lzMDRBNDQzX0NBdWVnMFMtSG1MOEoydW90S3h4VnNWemxpbEVudWRCVkZpdVRfdXNyT0tGaUw1Z0JiTlJOc3BVMGJUR3BNSHdHeUpiLW1IM2Y3UDkyNDQ1bU9aNWdGanNRZ3dNWVJES0RPbzdWa0t5RV9xMzNmYmhaZE13bTlQR1VPS2hNaTVfR0E?oc=5",
+      "source": "香港經濟日報HKET",
+      "published_at": "2026-08-28T07:00:00+00:00"
     }
   ]
 }

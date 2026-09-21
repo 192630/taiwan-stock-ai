@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-20T19:32:15.953993+08:00",
+  "updated_at": "2026-09-21T08:40:26.968330+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7711",
   "name": "永擎",
   "count": 12,
   "news": [
+    {
+      "title": "永擎(7711) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3MTBPTlZVeXZmNkM5Q2xMaFpsS2R0UEFXZFRUNGI3OGJuN3hKeVFGN1RjbWNOSXNDNFZkcm4xNC1zSXdkYkpWdk1xRVdyQU05dzJn?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-20T01:01:05+00:00"
+    },
     {
       "title": "討論牆 | 盤中速報 - 永擎(7711)股價拉至漲停，漲停價447.5元，成交878張",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96eFBuNDRsc2FOUFF6S0JQMkN1QVU4Snd6Z2VoQThaallpWXY4VHZWU0ZNQ29TMGxmSFlFNXllUEpKVl92eS1XSjl3N1l0V043TGZJczlmMWpxc3Y0bmJIQmgtM2g?oc=5",
@@ -28,12 +34,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xdEdhQ3ZnaldEUFNXX2dTQVg4bWhIYThkaDZmckozR0wyQmpjSlJ2cE1LSTVTT3hTTDlsQnB1U3RWN2lJaTl6OHd4VERtUV9PUFl3ejlNRTE?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-18T01:24:08+00:00"
-    },
-    {
-      "title": "△焦點股：永擎(7711)伺服器需求強勁，9月到料，業績可望強勁回升",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLU9Ra25IVHBIMS1STzJmMk5MblhtX1J1ZGxTX2lVZU16RHFWdkxSdWY2aHhOci1oN0V5R2JQNXFxR1NobXNpVmdLS3VwQVRFVzlNRkFYY0hpRjRsWERsbUVQRTM4cjB6MkRSS3RkMHBLcEQxbGRLblBaTjdpREN1RnpsMnNGb2FQ?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-17T05:29:00+00:00"
     },
     {
       "title": "【09:26 即時新聞】永擎(7711)亮燈漲停，AI伺服器題材買盤急拉",
@@ -72,10 +72,10 @@
       "published_at": "2026-09-16T02:37:22+00:00"
     },
     {
-      "title": "7711 永擎 - 恭喜在車上的同學 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHU0l3QWZQMUU4Rl94ZmNqRkx2ckxmUWtXUXNrRWc0LV80NmQ2N1NBOWF1bTdKR2NnTHBOcmlGZF9vOFEzVU5nUlBTRmhUOFRoV2RFcDV4d2U?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-16T01:31:22+00:00"
+      "title": "台股失守46K「13檔注意股」名單曝！「群創小金雞」逆風強漲、光罩當沖過頭強茂、川湖、永擎都被盯上",
+      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOLUd3Y29heWVUQktMaWxrMHNLMUQ1djRxMHVnSklwcTFkWlNqd3puT0hkUjEtTUxBN1dGVjU0aGcwLXlUSzRLR3k3Q00xdEdfUDBQaG1fRmwwaEVRYkczSndKWXhpdUNRN1ZNN1J5YUpHaWFoV01ndTV0UTNDN2lxdF92WllGQWVpd3ZoUUphUm5LOFR0NDlCUGtYenV6NTFsOTYyZ2ZYeWhtVEQ0bGJaS3VpVUZzQTQxMUlzRHJqM2NKY3RoNHZBVmZSLTU2TVpKZV95VlhPR0hCX0pMeVdtZjM4cmZZRkNSTnVQN2NVQU5vSHo4dlNDNXBZbmVEUmhiOTktRWtFdHFycXJJOGFLaGVyczNFX0NYOXJvaWNBSkRqWWNtb3kxUTVyMTcwUHZYczNYRHVQOUZIZ0xsS2dkNFkyakVxZG50NVdYWi03TDBBR1Utbnp3?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-15T00:23:20+00:00"
     }
   ]
 }

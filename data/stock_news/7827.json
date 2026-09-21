@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-20T19:32:27.418006+08:00",
+  "updated_at": "2026-09-21T08:40:38.514444+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7827",
   "name": "漢康-KY創",
-  "count": 7,
+  "count": 8,
   "news": [
     {
       "title": "7827 漢康-KY創 - 蹦蹦哥說：傳說中的金龍魚,有時也會轉換成美麗的化身！ htt... - 股市爆料同學會",
@@ -18,9 +18,15 @@
       "published_at": "2026-09-18T02:51:02+00:00"
     },
     {
+      "title": "7827 漢康-KY創 - 🤔115年第二次股東臨時會(增列議案) - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50NURzcFgxeGdFbW9OSVNseC1WckJTemR1WEpmUkw5SHlXemN6NWRoRDVYVkZWZHhSYVZNXzNQcGNsOFVmUEUxVkRBU1h5SVhnZXUtMGlTNUM?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-16T07:34:35+00:00"
+    },
+    {
       "title": "HanchorBio Inc.的Price to sales forward – TWSE:7827",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdUtNaU41TWlwRXBBdlUxZzJnVDRJcWduZnZQcUdmQ1R1ZVRTRE9LNS1ybmdBX1JNdVh2WFczWXk5ZEdUWWUzb3Q1VzFFU19LVzkyYzY1dVUteElYWXVxMnowc2tZM0tTLWJKWWRXWGxQdW5ZNl93SzQtc20tTE9YZ0laanlxWUlQRHp1TVhUTmllZW9Rc1B6VER3?oc=5",
-      "source": "tw.tradingview.com",
+      "source": "TradingView",
       "published_at": "2026-09-15T05:13:27+00:00"
     },
     {

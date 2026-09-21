@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-20T18:33:33.672953+08:00",
+  "updated_at": "2026-09-21T08:40:09.630813+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6890",
   "name": "來億-KY",
-  "count": 9,
+  "count": 11,
   "news": [
+    {
+      "title": "討論牆 | 盤中速報 - 來億-KY(6890)股價拉至漲停，漲停價175.0元，成交372張",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DeWVzSVhNdnY4LUJySnIwY1FUb29uOXB4ZEdHRFY2aXV0cGx2eXU4U1FQU0l1NnplSTNXLVEtR1VfSW4xdV8zTGZEcVl2X1RmdWh6Ul92cllIcEFqekg0OWNJOTc?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-20T16:24:02+00:00"
+    },
     {
       "title": "【2026/08月營收公告】來億-KY(6890) 八月營收月減年增，全年營運續看向上",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FVTlzUlZGeDhDYzJxNlpZeVRKTTQ1d3hKdFdmd29QaW5LbnZzUEdaVmNtYXRhb1czRVk3bUtPZGJVRVdaU1diQXpQdDBUZ21VeWdyTlFEVUR4SERrU09LTEYwbVoxdw?oc=5",
@@ -32,7 +38,7 @@
     {
       "title": "鉅亨速報 - Factset 最新調查：來億-KY(6890-TW)EPS預估上修至11.56元，預估目標價為224元",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94SmlINE9IaTB5Q2c4Q19YQi1YMGw3MFktQng1LWJmQURkZjBGVXJZQXI1VnV1ZmVZQXN1WC16OWFGS3pzMVpxcWNFMkFiTzhpNllKVzQtWlYxNE5VUDdCamJwdk5WQQ?oc=5",
-      "source": "TradingView",
+      "source": "tradingview.com",
       "published_at": "2026-09-02T10:10:58+00:00"
     },
     {
@@ -45,6 +51,12 @@
       "title": "【即時新聞】來億-KY最新財報出爐！上半年獲利達11.3億元穩居寶座",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ1M1ekJzMHc3d3hNVzBnTnFiUGpZWEI0ai14aC1qVnYzZTVkbDJ5VUFGTTlXSDNZcVlJR0lMZ19tWnFWNklwcjZLQnhpTDctaGE5QnRpSVRFZmd0SVVpOThTbWtVUWgxZDA5M1c4S2NfOVpzaFdFQ093ZXJPLXI2UFhlT1FkdVp4V1E1b3EyNXI?oc=5",
       "source": "CMoney投資網誌",
+      "published_at": "2026-08-26T07:00:00+00:00"
+    },
+    {
+      "title": "來億-KY (6890) | 2Q26 EPS 3.78元優於預期、2H26營運緩步回温｜豐雲學堂 2026 年 09 月",
+      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNZFdlSmEtd0U1TnhCTXUyT1BzdGxHNWZWdzlRNXhnSEZMb2hnUU9ucHJNQng4bkhhN3VvTHFpRU4zVWFEU2hxalpZV3lscDBHd0FDZWNod21SWVhpWFVIVmQzVjZidTF4TWpwaDdVSkM1UmpuMWpxUzdNVE1BYkZfVWdfSTdMUGNqaTF4SU5HTFkwZE83cUFfWHg2N1pMSmkwZmVaVENVd0c4dXk1RUdyVEJiZFZ3bHFTZ09UU0FPM281U3c4R25NS0xQLU9tWWJlRU9zbzF3MmZFNU11UWVVUVBpRjJFTFZrdUpUWGctVFo1Umx6ckVJOVFxaWF0RWt3N3dxMkdqV3RzMWNTVWJMejdacU5iMXRWZHlTb0R2cGpiUFdZdnJDYXBHU1IxZWNwald1VTJZUXlxN1RvRkNhZExKYlp1RlBwcFE?oc=5",
+      "source": "sinotrade.com.tw",
       "published_at": "2026-08-26T07:00:00+00:00"
     },
     {

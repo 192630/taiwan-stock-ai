@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-20T18:33:34.457648+08:00",
+  "updated_at": "2026-09-21T08:40:10.522346+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6902",
   "name": "GOGOLOOK",
-  "count": 11,
+  "count": 9,
   "news": [
+    {
+      "title": "6902 GOGOLOOK - 蘇威元概念股- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mTGR5NE1nb3VCbV9jcUNuci1ZOU9RY0J5Y2hIeXdld1NLZTJBdElxT1hmUlBfR3FDMDd5ZXhpME9ubVBDdEd1QVA4U1hkazRhUVZsQllwc0U?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-19T12:22:31+00:00"
+    },
     {
       "title": "蘇威元:GOGOLOOK擁AI資安+Whoscall 毛利率89.6%吃全球市場",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPeVM2eThGTldUMkx4TmtSTzlBWDN6a3ZtWHFlb0hueGt0T2NiSWJidUZXNFJPYUp5NmZjendtamthOGNCR2FRNlc4VndldWpNQmFDa2hUNGxaSXBVdE8xaG1uOGZHTG94c3hGdnQ4LS03Rk9WQ29naFl4OHZRbTRUNDBEa0o0TGFsXzFhVmdhYjBPQzNWdnA3RjhReHVXNmdiNndlLXJwZnBOc3h5ZV9xQ3BUVFZDNVNyODBYelN6WGpadUo2TEVNY2ZYelRLUGdDb1Y5bHNZbnNzczBJanBqQ05hMWk4Und6?oc=5",
@@ -20,7 +26,7 @@
     {
       "title": "Gogolook擴大泰國佈局 Whoscall防詐服務觸及逾120萬會員",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VVVloOW85WXZ5djZBR0dDcmJmQWU4c0ZCZ2t2Y3FaelJmMGZ5UVNvam5UOElsR01IemtFSHJVMG1fdEQ3R3JnS0tib3lzWl9VRVE3ak1Pai1Samd6dnFJ0gFkQVVfeXFMUDFXdjYxRkVfX2FYQ0V1aTg0aFY0S1A0RDZrRUFRVElMQms3TjM4VGViS1lXRlE4ZW15OGdKRFVHTUYwX1BDVXdiYXlYVlVvaFlOR3IwSk0yMXZWVEZtX2FSb25NSw?oc=5",
-      "source": "ec.ltn.com.tw",
+      "source": "自由財經",
       "published_at": "2026-09-17T13:51:03+00:00"
     },
     {
@@ -48,28 +54,10 @@
       "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
-      "title": "6902 GOGOLOOK - 99東風？ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSb1lwRkJzVlZuSjRxbjlyaUotTklZaTdQZWVqUHF3UzFNV3U3S3NnSFcwLXpFblZyNTN0bHVrLVc0MlZ4MkdoazM4NWhjUF9SSmZtM0hBMWc?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-07T23:59:16+00:00"
-    },
-    {
       "title": "Gogolook首季EPS1.64元 單季賺贏2025全年",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xZ2VweU02UDFCMmNNTHBkU3hJNFh5TEttaE1yVDF4cDFTODdGQ0RNazR6SjFUbEc2NVI2RjcwNlFCYmJtZzAzVFJfeko4M2lTeGRlQ2tJRjc?oc=5",
       "source": "自由時報",
       "published_at": "2026-09-06T16:30:58+00:00"
-    },
-    {
-      "title": "6902 GOGOLOOK - 有趣的新產品！ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xMlA3Q3IwRzhSaWl2a0xUTmxKODdEWXkxdW45YU9mRlBTdDBFZnNTakgwNEJrUXhqT05ScGwxZWc5VnhockFCcWtpMTNjd0QtMmpGUUVTakM?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-03T16:15:48+00:00"
-    },
-    {
-      "title": "亞洲防詐高峰會11月登場 Gogolook與GASA發布最新報告",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tWFN0U19iSC04S3F6WUlJUGZONmZMZHQ2TEZvWG1xUFFXNXNIZVVJaTJaNXdPaUFfOTV2SmlxSWhoaE5EQ2s4cmV5LUpzQjQyOXROQm9LX3JvZ9IBX0FVX3lxTE9GVFlSWlFQRTJES19hbVRzaGNNQlJ5cFNuVER6VklXQnUtemNBNWtfNldfYTBodzhYRmpRTGxnQ3NHdks5NTlKUy1Ma2lXZ1NzMW5CemNPeGdkbjR6Mjhj?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-08-31T07:00:00+00:00"
     }
   ]
 }

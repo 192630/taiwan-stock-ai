@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-20T19:32:17.795537+08:00",
+  "updated_at": "2026-09-21T08:40:28.735892+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7732",
   "name": "金興精密",
-  "count": 3,
+  "count": 4,
   "news": [
     {
       "title": "7732 金興精密- 美國生技指數8月已創歷史新高，莫德納「癌症疫苗」問世1天大... - 股市爆料同學會",
@@ -22,6 +22,12 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUTRmSlh3SkMyUEYtdEVPVHRDMmVURWhDQXlQT01IbmFvTTBQSFpCTllpeGM3VFZ0eVhuMFEwVWhqbFBsVkEtc0ZkNnFOQXJJT3NyNkwxc2hBSnFsdkdncFhtUmR2SG5hd01ZQjBFTlBNOVJLZFE0ZDlYalBNallLamtNU2ZORTByWmc?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-11T07:00:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】金興精密(7732) 八月營收表現亮眼、呈現雙成長，創近5個月以來新高，年增4.35%",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UcTlubXUtNlVXb0swSkNzdzJEajVxMHkwX2psbGtLdzRnNVNTVW45RGx4cU1Rb2ltUFUwNTIxMDNLbFFVT0gyY2ZRTDRMN3Nad1hkVFZCdEttMHRpcHpLa25ZUHc3d0U?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-10T07:10:04+00:00"
     }
   ]
 }
