@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-21T01:32:25.834353+08:00",
+  "updated_at": "2026-09-21T15:36:18.658171+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2491",
   "name": "吉祥全",
-  "count": 10,
+  "count": 9,
   "news": [
     {
       "title": "【13:24 即時新聞】吉祥全(2491)盤中小漲，主力與法人調節壓力持續",
@@ -16,12 +16,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LNnhFdFpYMVZEWC1KTjBoT3duQjdPak44UFFoaVlpXzBqSkVzdV9XMXJVOExrczVrRE0tQnl1MFZpbHc2WGVmMWhxajdqLW84RWwzbXVSMnc?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-04T07:00:00+00:00"
-    },
-    {
-      "title": "光電股放眼皆綠！「這檔」卻逆勢連2日亮紅燈、友達一度噴9% 一詮、吉祥全慘跌停、光學族群倒一片",
-      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNcU9XMFFWajV2R2hJQ1REMG0tSnVXV2JOVEdHWE9vUDdIVVRURUV6RGxLaVowS1Y2RFZDanBLU01mbnpyVWx4aWc0ekZKbXc0TXMxTTFrYkpTRGg1Q3NOV1UtQmpTczFPRHFwTTAxZEg0QW1MMV9OT1pRbzZjSWlCWmpvYW9WYlpDLVFTVWdGQ25KTy1VSGJQREpnUFNoRzh4TmZDNkJ2WnpSSmdWU213RnN1cnhUcmdlUjdlV0E3N2tUZ1hWcjVCUnB0ZkYxMGxFblYwYnk1QVNpRDBtd1FVbEY0X29WdF9PcVZERWxHNEhYX0lScFpRMjdicXNDOC1hLVFZNGN4dVpTdzc3enQxYWVNOEpqWmpGWURlVHRGcFFmNjNlNXZMS1pwbmVxR2M4a3VFVE5ibWpBUGNxVzYwY2dZT0w2eVdvTFd1VEZyVkN1UUdpTGVSXzFxeUtETk0?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
       "title": "2491 吉祥全- 【09/04 產業即時新聞】傳產-照明族群盤中承壓，個股多空拉扯靜待方向- 股市爆料同學會",
@@ -38,7 +32,7 @@
     {
       "title": "是誰讓吉祥全EPS暴漲爆跌2個股本？ 答案令許多股民「感同身受」",
       "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNaWRLay1kekNrTmw0S0tRY3VqcHViYkpPY3BmUTJRdGw0N0VmeGxSX1JIU3B3MXVXVFYyUS10NnlabU1aY1ZtaEZBV29feU5POTJuMkhZa2RlYnJ1NHdaZ1ZDQUxqWEZtbmx1YThDOTRCUG8tcTNXY19vcFhDRzh0ZFBEV1JMSHI4MkRONTVPZEtVdjBsQjVPQllNZ3pmSFBVYWhsM0dDbW8wSE9fWGJVY3gwRU9NcEp3dGg1QzF5cEJpVlVlR19fRFd2V3EtbVF3OUdQbS1NTlAwNzY2bko1YTRfbmNVT1A3cHBiX0pvbGlTRllfaVhCTi1EaFM1eFlNcDhzYzctZWFmTnhEeTVlcHVpb3NuQU0yQW53SC1yWmpnSUFKaDQtWmxLaFVpb3JGNmZzSEw1aTdfNHktWVd5ZGdoWnhTb0J4ajhCbjg5S0FqdXozNUlkV2xNUVBpZlVfSlhNZXNlc21xNTVhRTZJTzJxdjRhRVh2RF9Z?oc=5",
-      "source": "Yahoo新聞",
+      "source": "tw.news.yahoo.com",
       "published_at": "2026-08-31T07:00:00+00:00"
     },
     {
@@ -61,8 +55,8 @@
     },
     {
       "title": "【13:03 即時新聞】吉祥全(2491)亮燈漲停，低本益比與業外獲利題材激發買盤＋多頭技術結構配合籌碼偏多",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjbzY4N1h2aWNRUXo1NV9lTlJEdjVINy1NR0VsaVo4MFJubGRJdU90MVg5VjhlcTlaTmxlZjhWU0IxWWZubWF1MVBJcXVGa1REeGZ5VnlMNVppamxLTGxsQnNySXFnbTQ?oc=5",
-      "source": "CMoney",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYnhScjZ1a2VhM2NpcWhFbWtZVkwzeTBrNllOTG5meUFHVlhjSDE3TFQ3RUlaWXZzSDhURkdFUnhmU0dmSEZJSnBRQ1BzV3k2bjQ5eVNxUFROa19NWmJwbUN2YmRYazJHcHZTQ2FIRkdjMHB2UHVPd25EVHJWcWRzYWVLOTNZbHJTUEZpMmx3?oc=5",
+      "source": "CMoney投資網誌",
       "published_at": "2026-08-25T07:00:00+00:00"
     }
   ]

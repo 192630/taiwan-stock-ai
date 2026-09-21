@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-21T01:32:18.908466+08:00",
+  "updated_at": "2026-09-21T15:36:11.212054+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2471",
   "name": "資通",
-  "count": 8,
+  "count": 7,
   "news": [
+    {
+      "title": "數發部接連開罰 酷澎、互動資通及Meta上榜",
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPODZVSkg5T24tWlNWU0tJdjl1eXFLTHM4OXVndzFaem5NZmx5Uzh1bFhmd29mM0VWdkpKUkJ3X1BQR3N0cEhOQTZlanNJN3FYY01wTGh1UDVjYzdHbUtQeHBZd3hXbVpvYWxVVEFBU2FQcm8wUDh0TUZrSDZKQm41d29iTkJtdzV0MnluRU54V2pUaWdyRDdhZ01WNmdrcnhReG9DY010Qm41TUZib1l4d0U3YVBWN0VPNDNSY0tCN1RXYTk1Q2Z2MHhTSlE1X21DMGVGU3g1YzZVcnN1M3Q0ZlR6SnBFb1J4eEtramlwcTZBTTRlb1Q3c0QtNWxTaGV6b0NlZjRvYTRuMUliRHY0RHVRdVFDRldpQWozOXhnNzAxZG5yRDBBRzhNbUo3UDJmY1M4UWdIeC1TOUtETHQ5X0d4dVphWG1acUo0dA?oc=5",
+      "source": "tw.news.yahoo.com",
+      "published_at": "2026-09-21T06:56:15+00:00"
+    },
     {
       "title": "國家資通安全研究院洩密案 研發組4成員放爬蟲程式被訴",
       "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxObWxOZmhGYkRQNk9lSG5sTWQyZzAtVjF1dlRHMnJ4eWt1ZU5Ra0lhTUVtcTloRzZIaXZaeTlkbG03VFVWYnk0bjdfX0hTRHRNZVl6U2V5akNJQkplQkhIX3lIX3hvRlVkbWZFV0NHbzM3ZVlVSl9BQ1dxMmhoNG5WLXU0eVExRGtMUTNMYXFOa0FqVV82Tk1QQUhPSTNneHB6ZlJNNk9YZWpadHNBaFVFS210WVdVY2sxdmo3RHNiUjNLVzNxOWRpYW5LSFF1VUpSV2hsVzNDU1B5TUI4clU4TC1LRDFGVUxOWldTbXJLdmlmR0RrelBWNWh1Rl83ZlBOU1E1VTNsNjBvRnVydm92ZkJWblVVSkZHdUNtUFRxRDNZMjF2aXpRazUtRW9JOXhRNlV0NVZqT1c5TjRmRUFfZ0FMUHU5a3lIZ1E4N1dnOVJ2Wm1EaS1sWGZndjJaRXJ6WU55bUNjRDNHLWZQd1JsSGdzd2lyZw?oc=5",
-      "source": "Yahoo新聞",
+      "source": "tw.news.yahoo.com",
       "published_at": "2026-09-18T07:12:25+00:00"
     },
     {
@@ -26,7 +32,7 @@
     {
       "title": "《上週上市成交金額排名6-3》緯創資通(72918783)",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPalJsLTRtSzRQdE9Lbl9STnNrN2xORnlpWEZnWGFVWUJaUEtyYlR2WHdyaEZTc1kzNmVCQjFrRlBDN2hRekR3QW1iQzMxejQzTnlyNGpiZTVaNlMyYXBYaC1rYVA0UEFmc2lFNE9jQWNCUnJLUzEza2w1UDh5WTcyRk9aWlhqTTg0?oc=5",
-      "source": "ww2.money-link.com.tw",
+      "source": "富聯網",
       "published_at": "2026-09-13T23:42:00+00:00"
     },
     {
@@ -40,18 +46,6 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOWDRpdDNZeHg1Ul80ay1mUTVndWE0bGNrNURtSHRRWnY2aWNzRHhkR1F1bEtXd2gzNU9MRU1BRnN6T25PMWtJR0k0OXY1TEgwaXR5OXJiSU1qOGNKeDh2WlpTTVcxeWgzc3hpTm5jUQ?oc=5",
       "source": "理財周刊",
       "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "朝陽科大資通系勇奪n8n臺灣黑客松總冠軍",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQZndpTnVzeHlGOWh3VEl2NnFxYXYzQ2RHV283dlUwbnB0OEZuai1FVEdtXzFWVkh3bVByWmphV29UbVA2U3VLQnV1ZXhEVElHakZVMmJqTUViRklQc1FvS19IRzV5TUlIa19heVhBd0N4QnJtS3JmVDEwYXg3MTh4aGhsZzNqYUstTGRLQzExcUI0dGI3UmJPWDJMOHU1a0EzbENYV1paWDBkNGRRLVdKYzFta0RXWGVaTGE1dlRPWldHaG9jb0daZmpuZkw4a3NaZmZYcWQwZ2ZQeUtzWU56WUMxZ01jU0hUTmtUTGxFcldaTEtjUDJlbkJ3eWMxZkdNeDFhblJTT2JPMGhrV0o2ZmNKcklIU092Snk0NVFBM0Z6dUk?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-01T07:00:00+00:00"
-    },
-    {
-      "title": "培育AI人才實力受肯定 朝陽科大資通系勇奪n8n台灣黑客松總冠軍",
-      "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPeEdDc1NCdjY3WHppd3lGMkVVZ3JOeTlDOHFhRHlVLXFPaVJIOHRYSHJodFl0ako3aktBRnBYcG9ZaTZXdEt1ei1DWk1NWFJqRmUwMmJ1dEs1Nm1kZlNFbW81ZUdyVlpqazRCengyMWhlWlFEN2gtdUllRm50MjBYMTZmZ001ZS1Uek5nbmdhUnR1SV9YM0dHaFhhRlpFSTkyRElTdjdBWm1zeFd1V01FQ0FQSzhocnp3V00tT0pGbTlWTHNSRkNyaFFVZE5EWllGYzJ4aWxCOTFYQXZBZk9FTF9TZVZjRUdrQ0c5YXR5QVA0RjR4N045bDVoZ1NObmlKOGNKYkRxT2ZhRi1JeU82TkV1YUx4SnU1TDdLNzVpbENiNExzTDU1bU1pUXZtdzIwV1V6NmdzYm93Q0gwUVg1NGhETWx3RC1XYXpHRGlSYXNoRE5sZVhUYmdTM1ZEWUpLT2ZUU2JMWWRuM21RU00wWHZMRU5BWXhCcE9aa1N6aEdlTk91dHhTbXZDdmRiV1RnbGhn?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-01T07:00:00+00:00"
     }
   ]
 }
