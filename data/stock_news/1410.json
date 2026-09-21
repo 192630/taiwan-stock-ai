@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-20T21:32:55.113640+08:00",
+  "updated_at": "2026-09-21T11:36:25.513272+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1410",
   "name": "南染",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "19歲網紅才還清1410萬債務！半月後不幸離世 姊悲痛曝死因",
+      "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOM05WUENyTzd6ZktIbkFxRnJpTGlPVmtaZEQzbzJDLU9QUHBpT1dFUkNvX3U5dThibi1KZ0hyOEktOV9MYjhXZi1aMXc3amZQdmRMcU1PSE1uZWZ6UW1jSUV3Q01sUjFWNVVnTHRLUFlweVpoNUV4eXUwZGVmSFlkQWY0RXRnaUxhd3FkZHNzVnJPR19MSkpVaWJUTnpka3JlOUlLc2xLdERNU1N1TzNzOGpLX0NEb3RteFFuRlBOeFVhOElHTWlFMENXV1JVbUJwcGJPTUV1dm9CV1JYXzZHODJQRVJxcnp0XzUxY2dQakllUjRMblVuYkZRWU1zSFV4TEtXTjB5MXJuV2lnRTRRZnRlZm1Bdjk0X0drdVdoUjJ2WTVpZVdKZEpPWWhYRjdCbFhieDJlbnRmQlFQSzVHemlVLVViUlhEamRneldMV0V0YUt0YXVhQkN2RllrN1pIWVc3VTdn?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-08-28T07:00:00+00:00"
+    }
+  ]
 }

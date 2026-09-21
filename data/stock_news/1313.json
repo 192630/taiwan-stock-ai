@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-20T21:32:45.790663+08:00",
+  "updated_at": "2026-09-21T11:36:14.160596+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1313",
   "name": "聯成",
-  "count": 6,
+  "count": 7,
   "news": [
     {
       "title": "今日最夯股／聯成價量齊揚 多頭反撲 本波需求復甦力道究竟有多強？ | 市場焦點 | 證券",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pU0FxWmhMeDRyeHlLQ3lTOWtFaE95YmtwejFseUZ1Rnl0all2SUo3Uy1CdnNKNW8wWjR4RkV2Zm1ERVJDTXNGbS1fZWtxajFrREJMendkSFRxdw?oc=5",
-      "source": "money.udn.com",
+      "source": "經濟日報",
       "published_at": "2026-09-16T12:12:23+00:00"
     },
     {
@@ -22,6 +22,12 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVenFrVE1OWG1aSnlMNWwtS1pTQ1VhR1BuY0ltamtqMV9Qc2ZLR05yZzJnTGRiV1U0b0I3a1lqbWhsUjFid1M3SkQ2RHJMRUZnYmZ4VVZxdG8?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-15T01:25:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】聯成(1313) 八月營收52.45億元，表現亮眼、呈現雙成長，創近2個月以來新高，年增6.04%",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVXhxVzJvV2dxblM4TmFMUEJQMGh4NzJLd2RSOE1IQkN6a0FHZkt4SVgwcVBWWWZLajR4VUw5T0ZTQnRocTJjM1Z1V0V3akFDSGZZNVp4Y3NwYWVwTkFJWURYWHpDWHV2SG9RcWNwZS1CS003aG9tSWpab1k4bm5IbHlselItREItTnc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
       "title": "聯成看9月需求回升，原料成本仍牽動下半年利差",

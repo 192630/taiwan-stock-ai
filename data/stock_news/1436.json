@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-20T21:33:00.155754+08:00",
+  "updated_at": "2026-09-21T11:36:30.912822+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1436",
   "name": "華友聯",
-  "count": 3,
+  "count": 4,
   "news": [
     {
       "title": "2603 長榮 - 長榮海運9/15 籌碼 外資-2746 投信+1436 自營... - 股市爆料同學會",
@@ -12,16 +12,22 @@
       "published_at": "2026-09-17T09:53:28+00:00"
     },
     {
-      "title": "Hua Yu Lien Development Co., Ltd.的股東人數 – TWSE:1436",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWWRnWF84T21RbVNlUVlJdVI1VUFoaTlid1o0MFZYTHljYWlWcENMRVpCdDBpalNrZjFhNTFfMFVSVmJ0S0VfbG5kM3l6aVBqdU1MaEFYY2dWaFBWZUFxRmN1VEhsR2ZabmNjRVdPdW5lLVdDalI4aGR6S0d1NG1NZHp1eWNvTjZlX0xQOG5zcFV1eHdqSHQzUEdrR3U4NUtFZnB3?oc=5",
+      "title": "Hua Yu Lien Development Co., Ltd.的Enterprise value to EBIT forward – TWSE:1436",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVERYQ2dzemE0Q3l4OWNQWVlHeDRnM0dGWTNIdG13Rng5MzRSMjRsN0lPM0hUN0dHSkdsYl9jTlNLOUUtZVVYZ19DUWtwNm9TczJNMDMtcjNTQjlHZE14RU43WXNmRHA0WGthVjFtZXMteUp2WUxJMzNpUU0xaFhyMUJicmVXNXBULXNObXgtTFp4SDFMWjI2WHhmTGpkdkttQjk1UjZTMA?oc=5",
       "source": "TradingView",
-      "published_at": "2026-09-16T14:41:15+00:00"
+      "published_at": "2026-09-16T07:50:15+00:00"
     },
     {
       "title": "華友聯(1436) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40b2xfODctX2NfRy1TczJtNVpvUkc4T25QRDVldEJLMjY1d2JEay1VUkpUMzVCTEU2Y2VsdWwtc3JMb2xrS09KVW42VnlQX3NieUFZ?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-05T19:56:09+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】華友聯(1436) 八月營收營收雙減，年減87.9%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPc2kxSFlFUWpWRWhPVkpQbGxsN05HZmFBSUQwTkMybUx0MzREeFJkc1Z0SWpwS0ZIVWJKdUR2R09mRE9VTVk3Qm5GYmZkZmVFUy10THltUnIxbEZfS29GcWlDUno4cC1qOVlmUEhUOE9aRDNtaEpNbHdXNmpMVWpxWm9fY1VJelI3N0E?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-03T07:00:00+00:00"
     }
   ]
 }

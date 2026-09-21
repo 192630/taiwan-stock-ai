@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-20T22:32:48.185421+08:00",
+  "updated_at": "2026-09-21T11:36:39.351661+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1455",
   "name": "集盛",
-  "count": 5,
+  "count": 6,
   "news": [
     {
       "title": "集盛尼龍66粒明年1月量產；高值化產品拓展歐美市場",
@@ -21,6 +21,12 @@
       "title": "集盛 2026-09-10 法說會",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSjBGbWlvajAwRlhnSzVucHVqWG8xajB3bzhqNzJmRkhhZjZ1WkNqWGdkNGxnRU9ycFlYM2VVTnpWLVBZSEk5Q29pLUV5VXZ6RkhTbFlESlBUeTNRVlJNbGNMaFZwUGxLb2VseVlsMGF2YS1kdlNodFNPVkc5YUp3X3N2YjM?oc=5",
       "source": "BigGo 財經",
+      "published_at": "2026-09-10T07:00:00+00:00"
+    },
+    {
+      "title": "集盛尼龍66纖維獲服飾品牌客戶導入 (圖)",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPTktRU3JTTHB1TFNiRFV5bmZHQ0VSeTlFb1R3RjVJSzJhR1NycUF0OXNfVzlkNmRFX0QtMXdvSHZfdE1nb3ZfTUwwOHpua3puZ0ZSU2xmOEJOZVJHT1VEdE93MnVIQzZpbXRaUWNBc3pka2hvOHV3Ulp1ZWU1d2JMbmk0S2pEaXZNdmhQbXA3QzNVaHl6NHNEU0tlZ2F6ZFgwQTFJaldtWlpjLXFPakNmZkVCM0R3LWdWbVFON0RZbkRkTDhRb0sxQV90S2NZRDNhczdFTlNGSXFKbkM2aksyZUJnUXlOSDZTeTNLMlN2RHlhMjRGZzdkZW1EUUtweFltWWpfRmloSkNBVjdIbnZyS3ppbTNGNGs?oc=5",
+      "source": "Yahoo新聞",
       "published_at": "2026-09-10T07:00:00+00:00"
     },
     {

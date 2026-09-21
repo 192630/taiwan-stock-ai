@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-09-20T22:32:54.078467+08:00",
+  "updated_at": "2026-09-21T11:36:46.093950+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1473",
   "name": "台南",
   "count": 12,
   "news": [
     {
+      "title": "2633 台灣高鐵- 高鐵台南站旅客不慎絆倒落軌列車進站煞停...車次延誤- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBacEtSLWpzOEhLdVpVWTdZdWtXV3lURnkyQWdWTGkwY2VuZ01lSVNHaTdqb2RKNy02NXFfQkt0Uy03WFZ1cUFpZU1Kc2FEeEp4M2ZodUlCbVc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T02:41:25+00:00"
+    },
+    {
       "title": "灑下3.4億元擴產！「半導體科技廠」台南蓋2廠區 鎖定氣體供應智慧化",
       "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxOZHlJQjc4blhiNVR0LVhFVjJpS3UtcEJFUzZHRkgyRTFKT2tNS0ZOLXdBalA0blJNa1NRbHNLb2stZDNDTk5YV3JYRWVfdUduSzEtdU80OW5qcnVyS1U2OUViS0t1bjJXc0ZNR0trOGNvMW9wX1hkazlhZlBucG1DM2xuSnRtR2RoYlJUdXBFYUZxb3hOMElMVTU2QUl1ZmJqeTdvREwyZDBzZHluTWw3Q0pzN1ppY0pWQVlIR0tGOTZhMF9sVERNelMwZEpZY1Y1ZjNfbWh3SGhHb3l1MFpIcTcxRmd4RXp5dDkxb3lrYXV5a1E2UWYtMTZOZGptZHk4bGh2Nko2RjdoLThvU1dvOWt5TkZtY2FodV9BelRQeFYtbDFHdE4yeXJMcElUVzRIQTRUSDZfXzFNNTV6SDBrd3FhbnBiM05PQjdSTlNhUkk0UURMWGxoMV9hNjUwVFZXUGZNdWk1cEFNYlRtSU5ZemM3ajRTTVJyYWQ3MG1GUVZwdjYwZ1R3cVp4R1NBUk5kT2ZtODM0Mzd3S00w?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-20T12:45:00+00:00"
-    },
-    {
-      "title": "台積電攜25家供應商搶才！台南釋2200職缺 半導體人才版圖再擴大",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMnNiZjZMZ1ppR00zYVZZNy12enpjc09ZTGdVd040bmNET1VSeVltaVFDTHE4ekQ3T3NnR2pLbEFqTVRZU0h5UEhSVEZDckpKZzZ4VW5iOWpuTTFHSnNKRVJ6XzBGb05nZ0J6VHRoVHVtYS1YTTVmYWJxNUlwODloQzd3?oc=5",
-      "source": "壹蘋新聞網",
-      "published_at": "2026-09-20T09:54:00+00:00"
     },
     {
       "title": "台南鹽水連棟民宅火警波及2戶住戶緊急呼喚疏散幸無人受困- 股市爆料同學會",
@@ -24,16 +24,28 @@
       "published_at": "2026-09-20T09:45:48+00:00"
     },
     {
+      "title": "脫口中南部食物太甜引熱議 沈伯洋出席台南同鄉會當面致歉引爆笑聲",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBIN19yeFBNWE9oNjFjYl9FdHE4NjVCNFN0a2hFUFduQ04xVHdJSDRGS283T1lEdjItX29BVW5PRmxhS3FPUmI2c253?oc=5",
+      "source": "star.setn.com",
+      "published_at": "2026-09-20T09:28:48+00:00"
+    },
+    {
       "title": "13組展演、23項體驗台南運動嘉年華邀大小朋友動起來- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QcE1nQS1TeE5hWlZxaC1tZEpkYWRZckFKSTZTSkJUWm51VU1WS1o5RFdfSmVrSDc0aldjZmQxb0NWWHg0TlZuNERBYTRRZ3JhQkE2TmcxQ3k?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-20T09:03:00+00:00"
     },
     {
-      "title": "影／台南連鎖機車行大火頻傳爆炸聲二層樓機車全燒毀- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TOVM4MmdjRm9IM1Ryb3FVQ09NaENSVndWOTZzQ0U5RHJVeWxqdk8zNThNNDNRdGZWWkgyZnFtUm50WDBIQk9HUWlxTDI0UFAwanh0TE1BZ08?oc=5",
+      "title": "「鍘美」每桌16800元吃什麼？評價：台南辦桌就是浮誇！",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mOG83NEluY3NQcFQxZ2MyRTBULTY0VTNUVkxlSVJWVmxnTGVqelpQeEVIa2pnRE54UmpZdDJFeHlLbG5LV0V2RGEydEdrX1JoQkdYNE85ZnQ?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-20T00:43:01+00:00"
+      "published_at": "2026-09-19T23:21:38+00:00"
+    },
+    {
+      "title": "「韓國海王神曲」原唱首度來台！3組音樂人登浪人祭11月唱進台南- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVX1U1d0ZqcWRkdjBNdnNCeWdVdHl0SzJyaTkzblA0T0k4aUNXb09MUXlDRTUwb2VodTFCc1ZQNWhkVFIyX2NWM19rX3ZOZzRPbzdLei1Jbmc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-19T23:16:04+00:00"
     },
     {
       "title": "台南連鎖機車行清晨陷火海傳爆炸聲！上百輛機車付之一炬- 股市爆料同學會",
@@ -48,6 +60,12 @@
       "published_at": "2026-09-19T04:59:00+00:00"
     },
     {
+      "title": "大型機關偶現身奇美博物館！ 台南「藝術進區」10場演出接力開跑- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wbEdJWDVYeGEzSkp1U2psbWswR1puYmFFZlYtOGgyRDBFeDIxUkhDU2Y1NVYxZWl4c2RxYU40cWstaUdZQnAtY3YyNkx6d2xZdVlURHRyUVE?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-18T20:34:29+00:00"
+    },
+    {
       "title": "為台南女兒出氣！「鍘美藝術節」今開鑼，5天大戲、750桌全滿，時間地點、劇目資訊一覽- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1aWmtUWVluSkF4RWZaYzV6ZUpBaTJYQ09HS1JfRGIyWXlpYTlZZDhsZTRrUWgwUDZKRFZWN2hfeFQtVnV6cUhRTUl4TExfVktDSnhHeDRGWHQ?oc=5",
       "source": "CMoney",
@@ -58,24 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rakY5WFk5SG9GSkZzc2FkXy1OaFZEOUs2YTdfVTBZUHhuZ0FNZUxIa2IyTzBMOHlidmQ5RXZSeENZbWRiTXpZTGcycFNWczd0YVpvM3ZxWmI?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-18T08:56:43+00:00"
-    },
-    {
-      "title": "台南鐵路地下化將通車火車站站前廣場改造人行道拚趕工- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43Sks0OTZTSENKU2dsYVY0TGxXd1ZDaXhPaGU1MUxMTVRyNTRmWlZ5ZUhINGRZLVhyTzBqQjdmZGpDdmhPUzRjNnhmbTZMeENBMVBhOEZLbGE?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-18T08:52:49+00:00"
-    },
-    {
-      "title": "2330 台積電 - 台積電供應鏈聯合徵才串聯25家供應商台南釋出逾2200個工作機會- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkT2dnY2dHMlJNSTE2bEJRcEs2VktzWHhsSnk3LXZvMkxDRXA4cjBHeUo2ZEtVYmpmdmRqRF9KeE5iNmN3YnRQR3psZzlfQ050NkdVVXpjb3E?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-18T08:47:01+00:00"
-    },
-    {
-      "title": "7566 亞果遊艇- 台南勞工領袖大學菁英班招生9／30截止報名- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kQ0dPNVdNWkFZcnZhM2dLYjN0aGtmMzlhOHliSF9pdURjNk1MWTdCZWNYLXFFOVkwc2dBVllVQmZRTnVBcGpHWUVVNkltUmExNy0tNnhLSUI?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-18T06:34:27+00:00"
     }
   ]
 }

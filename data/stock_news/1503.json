@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-20T22:32:56.299773+08:00",
+  "updated_at": "2026-09-21T11:36:48.488659+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1503",
   "name": "士電",
   "count": 12,
   "news": [
-    {
-      "title": "連2年賺1股本、配逾13元息！中興電、華城、士電、亞力...重電4雄誰最有肉？法人評這檔強力買 最新評等、目標價完整看",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10M0hPNDM4aks2aHhhMmdBNzNuTFZEQnY5dHd4OUEzYll6S1FwaGhIcEN3VHBaS042WlJRZkNjNkhhQjJkbXBNVFg5NWJCczZiekgyeTRvNzlKQlBQR1AwellyMWRqc3lCanc?oc=5",
-      "source": "旺得富理財網",
-      "published_at": "2026-09-14T21:11:04+00:00"
-    },
     {
       "title": "士電看好AIDC 5年內需求熱度不減",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvZEM1WWUyNVY4WXRVX1FYT3lfa0Z5OFQ0dmxIUXVicjBuRVJKaXpMcVlnOGRIc0pfZHBWOFU0R0Q1Z0tfZURfdnBZcHJISkJwNG50alhIUUQ?oc=5",
@@ -20,7 +14,7 @@
     {
       "title": "大型變壓器交期長達3年！士電在手訂單破600億元T3廠產能利用率逼近9成、再擴T4廠搶AI商機",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB4c05Da2F2UXpmZG94Q1IxY1lqbGNnVFE5VF81SzlKUUNOZXUzLThjZjk4TER3bUtZLUwxN2FvdF9CX1FuNExXZTBXcw?oc=5",
-      "source": "FTNN 新聞",
+      "source": "ftnn.com.tw",
       "published_at": "2026-09-12T03:30:00+00:00"
     },
     {
@@ -42,27 +36,21 @@
       "published_at": "2026-09-10T16:28:00+00:00"
     },
     {
-      "title": "士電法說會／AI 重電設備瘋搶！北美客戶一次訂10台 還得被迫漲價",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Jc0lOVzdfRlpsYjZubjBEZ1ZHTzJ2U1B4Und2N2diWmlia3BmUWthSjM1VzR3dXk4ZHpFelVvT1V3ZHQtVjI1WXd2Z0NaSk0y0gFWQVVfeXFMTUx1QUszMnk5ckRGaTNMVUFiWEU4YU5GcW9ZS3lOSHZQWG9UeWxpdS1idkFZb19PNURTbEtNVWJ6ZUJnd3l1YTFJMy1EdVBZbmhPQjUxY3c?oc=5",
-      "source": "UDN",
-      "published_at": "2026-09-10T11:13:27+00:00"
-    },
-    {
       "title": "士電在手訂單超過600億元已開始承接2029至2030年訂單- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lYjk5dC1XejhWQmN5aFp5RG1xa2ZLSFpYa3h1NTNKTEoyRDVFRXBUVXJwMFJIdU1wRjhTTVlWcGtFNUZtRHg2S093c09Sb2t4akI3dVVCTWE?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-10T10:53:08+00:00"
     },
     {
-      "title": "1503 士電- 士電法說會／AI 重電設備瘋搶！北美客戶一次訂10台還得被迫漲價- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GOHRVQ05OelJTcXdEbGZIbllzZnFSMWxUYzNjN242UEF4QkR1NWFtYmZ3R0Y4LWFla0xOaG84MExyWHhXOXNmZndIdEdoLTJTNEhYUzFwNWo?oc=5",
-      "source": "CMoney",
+      "title": "個股：楠梓電獲加碼！Palliser持股突破5%，滬士電11.3%股權成最大價值",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9halV4RHpPVlJ6cnNQaVZXOV9sRUN1UjdNNVVWbi1jVXp0am9wNUc3NFJnYjdzUjJRc1JORlJIZllDUHNWTEQ1dEYySWVmbzAzcTFIbUdR?oc=5",
+      "source": "東森電視",
       "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
-      "title": "士電T4廠2027年9月投產，客戶超前下訂單",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQNlNlVlMtcVV6VUs3YmZJaWozdFRIWEp6bW41N2xObVZDWHBqUDRERG1EZXRkZzFUR1h2QmNuRl8zT2dXbWRoT0hDNDVUZjdxT2Z6SWZwQ0dLQ0h1aGl0eWhibUxTcnBtWjcwTW5kQ3hzdTlOREtDVmdSUi0zNFVKWTd5Y1M0Xzc3WXZNUUxscTFCcjBmZERJRllXdzRLTFFvdXotLXdDYkI5UldEYmYxRnlUQlRjOXl4WFFfMThobzU4blh2M1RySWNybXZRMVZfZENycnZhcmZwQkxEZno4TXlMWS04aGdNcUowVEJQTF9WX2xJaF9lT0ZFSmhhX1hESEtvb2NTQVk3VjZSZmc?oc=5",
-      "source": "Yahoo股市",
+      "title": "1503 士電- 士電法說會／AI 重電設備瘋搶！北美客戶一次訂10台還得被迫漲價- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GOHRVQ05OelJTcXdEbGZIbllzZnFSMWxUYzNjN242UEF4QkR1NWFtYmZ3R0Y4LWFla0xOaG84MExyWHhXOXNmZndIdEdoLTJTNEhYUzFwNWo?oc=5",
+      "source": "CMoney",
       "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
@@ -72,8 +60,20 @@
       "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
+      "title": "士電T4廠2027年9月投產，客戶超前下訂單",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQNlNlVlMtcVV6VUs3YmZJaWozdFRIWEp6bW41N2xObVZDWHBqUDRERG1EZXRkZzFUR1h2QmNuRl8zT2dXbWRoT0hDNDVUZjdxT2Z6SWZwQ0dLQ0h1aGl0eWhibUxTcnBtWjcwTW5kQ3hzdTlOREtDVmdSUi0zNFVKWTd5Y1M0Xzc3WXZNUUxscTFCcjBmZERJRllXdzRLTFFvdXotLXdDYkI5UldEYmYxRnlUQlRjOXl4WFFfMThobzU4blh2M1RySWNybXZRMVZfZENycnZhcmZwQkxEZno4TXlMWS04aGdNcUowVEJQTF9WX2xJaF9lT0ZFSmhhX1hESEtvb2NTQVk3VjZSZmc?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-10T07:00:00+00:00"
+    },
+    {
       "title": "士電看好表後儲能商機，明後年迎爆發期",
       "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOSzNRRGpmUjVqRnRFWkRNQVpVMUhwd2VXX2RiQ0hpU0Z1UkZEaFdwTDV1dTktazhxRTYtcXdVUnlnOWNGRXlOV2k4anpFV0Jvb3c3X05oRzljbDlyNTNkWl96MUdZUm5PblhBTlB1dHVWNnNvbWR0aExuX3NFaGJUM1RMXzc3a1BfRTJWWjAzZ1JGcDhNUTdacWdLbHdCQnplaWhlRjdubW9QQkVfZEVYaEZfVmU4ZzRPTUdwRmdfeVp2UWxfOWVkUGsyN3NpcjNxLW1DUzhKS2tjZjlkd1I2ak1rSWR0T0d5NXVPeE5FZi1iOWZ0Z3pqU3J2VHJyMnpkQ2EydFVSbUc1aGU2SzRBaWN5NGplc2t0UVJodXlqakQ4c1Q2MWR0ZA?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-10T07:00:00+00:00"
+    },
+    {
+      "title": "士電在手訂單逾600億，主要集中於明後年交貨",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPVmVfS19RTjB0Y18zSW1oVTY1NUc2LUZyQlplZTZJeHdxWWVEb3pyaU5IdUF6Tm13LU5FXzM5d1JwQnVjaUU2S0lGMkpva01lcjNRSmQyS19KZHVBYnBDZGdtMzRkTDRfdV8xT1czVHphOTY3QTQ1TVozOGtyeHdUeWxKbURJN2JkVDBPTzVoOE1lVVc1akZlT19UTFNrd1ZGOU95ZG04V2JQTFRHRVNEc2lENHk4b01QZkEwUkJfVEFoQjloSnZLc19Eckhydml4RGNHZ3ZqVWM2bVp0MW1GRDR1a0ZQZGVXcF9EdG9sOUo4cjA1YXRIY2J1RjJQTnNWREUyclphY1lmMFJnODlLcGUtVHAzY3UzcGtyazlUUXYzaUl2d0tYVFUxMXNnT19jN0Exd0hJVDY?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-10T07:00:00+00:00"
     }
