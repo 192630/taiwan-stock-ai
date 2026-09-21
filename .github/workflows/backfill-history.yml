@@ -2,6 +2,9 @@ name: Backfill Stock History
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/backfill-history.yml"
   schedule:
     # 台灣時間每天 00:20、04:20，自動分批回填；每次仍維持 100 檔
     - cron: "20 16,20 * * *"
@@ -131,7 +134,7 @@ jobs:
               return result
 
 
-          def download_month(code, date):
+          def download_twse_month(code, date):
 
               params = urllib.parse.urlencode({
                   "response": "json",
@@ -163,6 +166,59 @@ jobs:
                       .read()
                       .decode("utf-8")
                   )
+
+
+          def download_tpex_month(code, date):
+
+              year = int(date[:4])
+              month = int(date[4:6])
+
+              params = urllib.parse.urlencode({
+                  "code": code,
+                  "date": f"{year:04d}/{month:02d}/01",
+                  "id": "",
+                  "response": "json"
+              })
+
+              url = (
+                  "https://www.tpex.org.tw/www/zh-tw/"
+                  "afterTrading/tradingStock?"
+                  + params
+              )
+
+              req = urllib.request.Request(
+                  url,
+                  headers={
+                      "User-Agent": "Mozilla/5.0",
+                      "Accept": "application/json"
+                  }
+              )
+
+              with urllib.request.urlopen(
+                  req,
+                  timeout=60
+              ) as response:
+
+                  return json.loads(
+                      response
+                      .read()
+                      .decode("utf-8-sig")
+                  )
+
+
+          def tpex_table(data):
+
+              tables = data.get("tables", [])
+
+              if not isinstance(tables, list) or not tables:
+                  return [], []
+
+              table = tables[0]
+
+              return (
+                  table.get("fields", []) or [],
+                  table.get("data", []) or []
+              )
 
 
           # ==========================================
@@ -208,7 +264,7 @@ jobs:
               )
 
 
-          stock_codes = []
+          securities_by_code = {}
 
 
           for row in stock_rows:
@@ -223,15 +279,28 @@ jobs:
               if not code:
                   continue
 
-              if code not in stock_codes:
-                  stock_codes.append(code)
+              market = str(
+                  row.get("Market", "上市")
+              ).strip()
+
+              securities_by_code[code] = {
+                  "code": code,
+                  "market": (
+                      "上櫃"
+                      if market == "上櫃"
+                      else "上市"
+                  )
+              }
 
 
-          stock_codes.sort()
+          securities = sorted(
+              securities_by_code.values(),
+              key=lambda item: item["code"]
+          )
 
 
           total_securities = len(
-              stock_codes
+              securities
           )
 
 
@@ -241,7 +310,7 @@ jobs:
           )
 
 
-          if not stock_codes:
+          if not securities:
 
               raise RuntimeError(
                   "stocks.json 沒有找到任何股票代號"
@@ -298,7 +367,7 @@ jobs:
           )
 
 
-          run_codes = stock_codes[
+          run_securities = securities[
               start_index:end_index
           ]
 
@@ -324,7 +393,7 @@ jobs:
 
           print(
               "Securities this run:",
-              len(run_codes)
+              len(run_securities)
           )
 
           print(
@@ -392,10 +461,13 @@ jobs:
           # 開始處理這次的 100 檔
           # ==========================================
 
-          for position, code in enumerate(
-              run_codes,
+          for position, security in enumerate(
+              run_securities,
               start=1
           ):
+
+              code = security["code"]
+              market = security["market"]
 
               print()
               print(
@@ -403,9 +475,10 @@ jobs:
               )
 
               print(
-                  f"[{position}/{len(run_codes)}]",
+                  f"[{position}/{len(run_securities)}]",
                   "Backfilling:",
-                  code
+                  code,
+                  market
               )
 
 
@@ -461,16 +534,29 @@ jobs:
 
                   try:
 
-                      data = download_month(
-                          code,
-                          month
-                      )
+                      if market == "上櫃":
 
+                          data = download_tpex_month(
+                              code,
+                              month
+                          )
 
-                      rows = data.get(
-                          "data",
-                          []
-                      )
+                          tpex_fields, rows = tpex_table(
+                              data
+                          )
+
+                      else:
+
+                          data = download_twse_month(
+                              code,
+                              month
+                          )
+
+                          tpex_fields = []
+                          rows = data.get(
+                              "data",
+                              []
+                          )
 
 
                       if not isinstance(
@@ -493,7 +579,7 @@ jobs:
 
 
                       # --------------------------------
-                      # 解析 TWSE 每日資料
+                      # 解析 TWSE／TPEx 每日資料
                       # --------------------------------
 
                       for row in rows:
@@ -514,15 +600,30 @@ jobs:
                           )
 
 
+                          volume = clean_integer(
+                              row[1]
+                          )
+
+                          # TPEx 表格若以仟股／千股揭示，統一換算成股。
+                          if (
+                              market == "上櫃"
+                              and volume is not None
+                              and any(
+                                  marker in str(field)
+                                  for field in tpex_fields
+                                  for marker in ("仟股", "千股")
+                              )
+                          ):
+                              volume *= 1000
+
+
                           record = {
 
                               "date":
                                   date,
 
                               "volume":
-                                  clean_integer(
-                                      row[1]
-                                  ),
+                                  volume,
 
                               "open":
                                   clean_number(
@@ -659,7 +760,7 @@ jobs:
                   now.isoformat(),
 
               "source":
-                  "Taiwan Stock Exchange (TWSE)",
+                  "Taiwan Stock Exchange (TWSE) + Taipei Exchange (TPEx)",
 
               "description":
                   "Historical daily OHLCV",
