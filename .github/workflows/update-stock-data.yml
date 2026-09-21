@@ -66,6 +66,15 @@ jobs:
               code = str(row.get("SecuritiesCompanyCode") or "").strip()
               if not code:
                   continue
+              # 櫃買每日收盤端點同時含股票、ETF、ETN 與上萬檔權證。
+              # 搜尋站只保留 4/5 碼股票及 00 開頭的 6 碼基金商品，
+              # 排除 70/71/72/73 開頭的權證，避免搜尋建議被塞滿。
+              is_stock_or_fund = (
+                  len(code) in (4, 5)
+                  or (len(code) == 6 and code.startswith("00"))
+              )
+              if not is_stock_or_fund:
+                  continue
               tpex_stocks.append({
                   "Date": row.get("Date"),
                   "Code": code,
@@ -152,6 +161,7 @@ jobs:
 
           fields = data.get("fields", [])
           rows = data.get("data", [])
+          listed_row_count = len(rows)
 
           tpex_req = urllib.request.Request(
               tpex_url,
@@ -199,7 +209,7 @@ jobs:
           output = {
               "updated_at": now.isoformat(),
               "source": "TWSE T86 + Taipei Exchange (TPEx)",
-              "listed_count": len(data.get("data", [])),
+              "listed_count": listed_row_count,
               "otc_count": len(tpex_rows),
               "title": data.get("title"),
               "fields": fields,
