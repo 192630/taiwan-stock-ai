@@ -1,0 +1,21 @@
+{
+  "updated_at": "2026-09-22T01:32:35.960682+08:00",
+  "source": "Google News RSS search by stock code and name",
+  "code": "5603",
+  "name": "陸海",
+  "count": 2,
+  "news": [
+    {
+      "title": "影/陸海警今日二度侵擾金門限制水域！海巡署強勢驅離",
+      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQeHhhZ2g2MHI4R0xHNWp6NElLN05KX3lkTi1QMmwwaXhMZlNnemFrNDJrdmIxaW81ODdDbHhEdXp0Sk9NbGFicmFYNmRSeGtOU1VCWFdUdzFKSDdnQVZEdXZFMEdLajRaVmhpWlV6UUg1X3FqamZNb3A2SWdYdTNINVlrbzdUZWVYbS0yR3lUU2xpUjEzakxBRXdEREl1V2txcnVlQWZBamVON2hiQUVYajNGZnlzMFVlVjBVMnZYMnJMc0NESVdjTDFaV0ZtZ0p3dVRsOXp4SEJFLWlaanhsbUY4VzNQdkRCS1d2MmFPNnZRd2hGZTR4T0gxVHVEX2FiSmZsNGw3Tmt2d3RLYUlJbU1KMzQyRGVXcjBWZ1BIOFk1cWxQemh2ejc4TWNsQ0hDYUp1ZVgyRVhmS2ZOTk45QnhFNWNxSnRPb0pGZzZBdHJ0YnFYV25RMzhlUUEzeEVFbjNvTnZtYW1OUQ?oc=5",
+      "source": "tw.news.yahoo.com",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
+      "title": "7成台人認陸海警巡邏「惡意」？國台辦嗆：民調煽動反中- 兩岸",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9paGtfWG13MkZ5UHFFOWdVc0JwUHVYSkM0VzVXcE5mRmN5UzEweHJpcHJRSzRUV3VNRXJJRDEwSW1oN2paMExzTHZqRnRyRFhVa1YxbEVzR2ROZ3h5NHpz?oc=5",
+      "source": "工商時報",
+      "published_at": "2026-08-26T07:00:00+00:00"
+    }
+  ]
+}

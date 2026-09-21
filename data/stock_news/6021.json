@@ -1,0 +1,27 @@
+{
+  "updated_at": "2026-09-22T01:32:47.208055+08:00",
+  "source": "Google News RSS search by stock code and name",
+  "code": "6021",
+  "name": "美好證",
+  "count": 3,
+  "news": [
+    {
+      "title": "6021 美好證- 【09/21 產業即時新聞】金融-證券即時大漲3.52%，台股成交量能放大帶動經紀業務爆發- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PWmd3VllzS1B0WDZjWUpzR2IzUUlYU2g0RzdIYnJaMXB1SVBPRDRGM3Vqejl6akxDYkVxTWhodjNFYTNmUkVyR2hoV2N6RUhwS2IwWmpmbzk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T03:40:43+00:00"
+    },
+    {
+      "title": "6021 美好證- 證期局9/11公開發行公司等動態訊息- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uQ09lNGpDVk5KUDFCM24yRlU0VWtUM29rOU5USXkzQzhfVVBrMVlSTUllSGh6azFwSFhlR1VZWFVNdTgtc0tzelZpeEIyTGxraTROQXE3YVI?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-14T01:07:31+00:00"
+    },
+    {
+      "title": "【25Q4財報公告】美好證(6021) Q4 營收7.3135億元，創下近2季新低，季減 37.53%、年成長 118.69%",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iUmtOeWxRSEhGdFppWDE0OW9SZTcxTFVSM053cnVXTFZzN2NQLUhGd3BoSFF2NzNWaGJxWS0tNlRSUUsxMXdIV1liQTU1TGZid2R0RFFHQzk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-08-25T07:00:00+00:00"
+    }
+  ]
+}

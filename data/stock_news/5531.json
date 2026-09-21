@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-21T06:32:24.628703+08:00",
+  "updated_at": "2026-09-22T01:32:31.594497+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5531",
   "name": "鄉林",
-  "count": 6,
+  "count": 7,
   "news": [
+    {
+      "title": "5531 鄉林- 央行最新房貸政策- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54VG9oUkl4WDBhenhBZFJlUS05U1FmWG1RdzRZWVM3UFU2YTFEV1ZzeHNNWGtMdDRqQlFLWG1pY1Qtc2o2aHBKZkUtVVU1ZVJRRGpyeVR6eHA?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-18T01:03:40+00:00"
+    },
     {
       "title": "Shining Building Business Co. Ltd.收入明細 – TWSE:5531",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0TXZNZUJkUFlsWm1UT19SMS1ONGZqN01YMWY2bGp5M280U1JPeDlUOFdrQzJpdTN6bGRxZ2VPbkw3X3hVbVBLX2Z3VTVGd2JpMnMwTGxYLXB4OW9IZmRzRVFVTDNOVDg2RlUyNjIwOTRETlU?oc=5",
@@ -32,7 +38,7 @@
     {
       "title": "頂樓變身城市農園 鄉林以綠色生活DNA打造永續社區新價值",
       "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQZFB2cnFENlpqM0gzRjhva083YXk1RXlYZ2ZRXy1DZk8zSy05djlReXJpXzlaZlpXNU5rZWpPc0JSZ1pXeHMtZi1fbElMVl9jWXlIM29fTTdZWWJtcEQ2YWVUUHpDTWdDTmlYNnBXNDJaWi11eFlHUTlnS0x1OElqbEs4MUhPRnY3SVF3Q0RSVjNPLWxpUFE2WUs1cmNKNV9CTVB1SjlGbnR2WUVaLXpCVjl4QVdpcHBRd2Q2ZjhJNXhveEZDUTdMYWhILWpacmtJM0Y4NG5vZ2JlS0NZcE9qMjgxcDdZZWd0UFhTTTRsVjZPcGhKZTNMMENqQUhtc1JzRzVIWFhnODhNTEM0dGM0djA4VHFQWklLR005NUw3MWhZZDZ5eUdXNkhvTzZpczZZQ2FoMkVWc2Y0Ty0xNmRfRjZjbnVKbmlOVXJram9yLWljeUlDd2lfVTBVSllFaWtIWVE0NjM5V3ZrcTU3TWlNejY3azE4X3lH?oc=5",
-      "source": "Yahoo新聞",
+      "source": "tw.news.yahoo.com",
       "published_at": "2026-08-27T07:00:00+00:00"
     },
     {
