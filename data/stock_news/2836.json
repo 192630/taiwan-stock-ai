@@ -1,10 +1,28 @@
 {
-  "updated_at": "2026-09-21T02:35:33.238979+08:00",
+  "updated_at": "2026-09-21T17:34:35.168987+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2836",
   "name": "高雄銀",
-  "count": 10,
+  "count": 12,
   "news": [
+    {
+      "title": "1314 中石化 - 高雄銀大股東持57%股票，最大股東是高雄市政府，股價低，獲利... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YV1lQbURMZDlRRXJwTGpCeHYwSTVhSGdRN01PaVhGQ0syT2tPMVlEZm1VeVhLSHJaZ3hMSlFNdW9fNy1TM2FTZjNYYklNZDQwU2Noclc0Q2E?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T04:44:22+00:00"
+    },
+    {
+      "title": "《一週自營商買超33-27》高雄銀(202)、全球AI(195)、CFA 50(194)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMWlvTXNXWjlFUW9xZll4ZjFuM2ZxVzZ4NUF3MXVaMUVDTVdLVGZBLWNWaUNGOHRkQ01TcVl0UFVXUGFWM3Y5SXJyay0yZ2dkdnB3R3lDU1VUSUZLZTcwRzVYYTY1TW5BMmx4Ul9MS0Rzb0NmMmRhblVJa0pWdmIxU0hRREF1RGUz?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-20T23:44:00+00:00"
+    },
+    {
+      "title": "0050 元大台灣50 - 高雄銀大股東持57%股票，最大股東是高雄市政府，股價低，獲利... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lalViTUtVTlByV2VsU2lwYnFBVUJwdmljSUJzV3BRcTBXZlpSUlVmMWV5cHpXUl9NdUx6Q0hnLTdCZXpseEltX2NEYTBnTVlNd0NDZGhhUUI?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-20T05:17:30+00:00"
+    },
     {
       "title": "高雄銀下半年穩健成長，財管成新動能",
       "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPVGJ2R3lvSFpXc0staHZZWTk2T3otbl91MG1rMmZwTDNOOE9wcFd6WWd3MFNjMUFyYy1idnFQMEdmYnVYc05JV0M0YkhaaDAtYWtUX2tfU1duWkFxRThXWmNvWDBKTmNlX1g2ZGpuQkpVUWd6WjBnREk2X0JyU3hHWkFOSW5RSmUyMkZaTktqbzNWalptUHpkeWxTNzJDWWZOU1UtOFJTbjltRDByYVJ1ZVpyb1hDQkIzN2taV1d1ZkNrNm80elk5VWVvLUFscHlsd3dZVjZUeGpmTkpKTnd5dEZkRklEMXVPQ1M3dXhSUjQ1bzZ6TGhhc0djX3lXR1JOR0RCYTc3MjE2Z0drSUZCcHRnSG1uMUJwTUFsVA?oc=5",
@@ -18,22 +36,28 @@
       "published_at": "2026-09-17T02:56:48+00:00"
     },
     {
+      "title": "2884 玉山金- 高雄銀大股東持57%股票，最大股東是高雄市政府，股價低，獲利... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HMTdwU3pTOUNwUFNDY1l1RkhrNUdJRWxLZkdzT0FrTnFiU3VuYmZJYkdOXzN6enN1eGRlWlNONlRZc0Y4OXVxbXgtUW5QZ05YcXI2dExFVmE?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-17T02:56:20+00:00"
+    },
+    {
       "title": "2886 兆豐金- 高雄銀大股東持57%股票，最大股東是高雄市政府，股價低，獲利... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uV2cybG5sQnoxbjhybm5pU04ta3RTdlFFZi1DdXJoS0VsV1BreC04ZGpzcFlNbzlrMkZiZllVcWIxaUo0Z0lWOHhKN1RrWkdESi1EQUctV0c?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-17T02:56:02+00:00"
     },
     {
-      "title": "《金融股》高雄銀H1獲利締新猷調整有成拚穩健成長- 上市櫃",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtSGpDdHhQNkJyMWJRTUlNalp5OWFCdTJ2NnFQd295OEtyOXIyVjd3c3dCT0hMcndoeDVuYzZWT2ZDWkJUOEJNVjQ1dXZ2VDF5cS0wVVZsM1ZnODNRblZMekFRVUFuaDZSbUE?oc=5",
-      "source": "旺得富理財網",
-      "published_at": "2026-09-17T02:06:10+00:00"
-    },
-    {
       "title": "高雄銀法說會／上半年稅後純益年增26%再創新猷 總座喊話盈餘看增",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DQjU4X2lXRFlFdk03WDFrOWVXd0FzZDlEZzJUb3VrQzJFdGVOVmc1OTZkbVN5OUlnMmlpcXRLdXlHX3hSSDU2SVZlMWVhbmVxXzJzaml2T0w?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-16T11:52:12+00:00"
+    },
+    {
+      "title": "2891 中信金- 高雄銀大股東持57%股票，最大股東是高雄市政府，股價低，獲利... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1YVRZdDFNZWpoVU1UOHA4QUNZMnRTMFdHN21xSGFDQnZLNUNnNUlRT0YwdHdJcWNpWVhiY0ItMzdibFFlS3FXSHhfeUI5dG9JV25CRkYtMTM?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-16T03:55:07+00:00"
     },
     {
       "title": "Bank of Kaohsiung Co., Ltd.收入明細 – TWSE:2836",
@@ -52,18 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9WZTJ5Q1A1NHZIck5VRE01RDA4ZVBUUzhPWmpIZ0wxRER0RVFQWEVSVUVJejRvdjNVUDFQZXI3WTJ5S0x5M1M5YTczM25mVVNyS2RmeVpMSWQ?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-15T02:46:51+00:00"
-    },
-    {
-      "title": "3037 欣興- 高雄銀大股東持57%股票，最大股東是高雄市政府，股價低，獲利... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LZ3pGYnRzRFFrTmc3a09VZnVld3VpNjRJREZjSjg5eGd0TWxMU0dzbU8yLWlYUEswWkc3SHlnSHhtYktpeVhadDhfaEFfclNESk5abnc2V3k?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-15T02:45:01+00:00"
-    },
-    {
-      "title": "2836 高雄銀- 高雄銀行董座徐翠梅擔任一日客服傾聽客戶心聲- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1td2ZBOXRGQ08tZTRFb2xRUlBZNTNGU0RMZGVqN3M3Qk9GRUMxRjJFUWNUUlpJQjRKWllzVkZxTDkyWHRQUUNpaVNwRHVKWTRyZDhpRndIVlc?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-10T05:37:32+00:00"
     }
   ]
 }

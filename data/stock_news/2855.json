@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-21T02:35:37.555505+08:00",
+  "updated_at": "2026-09-21T17:34:38.198240+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2855",
   "name": "統一證",
-  "count": 9,
+  "count": 12,
   "news": [
+    {
+      "title": "【11:39 即時新聞】統一證(2855)盤中走強，主動式ETF與法人買盤成焦點",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa3JNRjJBY3BSVmtwOHB2UHM0YVR4VkNhbkplTm9hMkRNcWkzWnFVZU11NGl4SDlUbFZZc2dNMDFrdWRmdFdFSGRRQU5DaUtFUkljQmxvcEJYSEk0TU1rSVpxNDZuWDhCS2RlcXBJX09rLTUxb0oxZ2VsaFRyY19vVDJBcUowa0ttSmN2SkNB?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-21T03:39:57+00:00"
+    },
+    {
+      "title": "《一週投信買超12-3》高股息(5830)、統一證(5073)、富邦金(5000)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV1ItRThWRm1TVndYUTFOMUw2alBTT0FCR1dEd3pmTF8wNW9yQmZBSmJTN1lPYmpUbzJCZ2Rvbmx0VHpwZjNPRXpCbGpBWUZlRDlJbnQ4RkFyQnZWTGJOMGRyVUIwOTVBb0hVaXNlZUY4NnFUdjhNUExVVHA0YkVaQk1SNUdJdXk1?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-20T23:45:00+00:00"
+    },
     {
       "title": "統一證等6家發行人申請43檔認購/售權證提前於9/21到期",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GcW9OQjRXUDZqQkZXeEtiWVdUYlVVOUN0QzZpYTZlYlhCeGliQkd2bVJja01rYmNycjlST3J2aS1od1gta1l1RUFoTnRScGxsd2pJdEtEMGk?oc=5",
@@ -14,13 +26,19 @@
     {
       "title": "統一證 8 月營收 37.58 億元：這不是生意變好，是大盤替它加了槓桿",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE81LUlSMXNNdXNkQW9jUU9FcllzVm1peUZLUXA0VmVNbnYxWHFvZ3M1RHZzVC1QcllvNDlsNFFuTHhOdTBjSVlLQQ?oc=5",
-      "source": "鉅亨號",
+      "source": "hao.cnyes.com",
       "published_at": "2026-09-10T12:42:50+00:00"
     },
     {
       "title": "台股8月飆3009點！4券商大進補 統一證累計賺破百億 大展證年增814%",
       "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPenFITjJFdTJCOHc5RDhJZ0I0TlRxS2NTWWtJUGxUeFU1S21LOHQxSkk2YlVzWXZSaUNqTkxoVjd5bGU3X3hKRFcxQ1AzU1JYc0FTMkJCakVXMnFaVUh3R19hTWp3R0tXRUE2NFV5dFJ6SXd1Y3FMTFRtOUJEbmZhMlRtMGVNeG9wdm92MjE1Mm9RS0paUjI2aU9kUlJMcjFlWFVnU082TUdna2NlUkMxOEh3VU9TRGR5RC1sT3BIa1o5MklVTTFhY1QyOFZNdW5Xck1NeVhQcWpsM0tBOEJQNGU0TXdxYzg5RDJOWU9PQzJkN3c4ckk5anFWNUxOd25FSS1VdVJEVHBtYUVnNnM5eks1MXBvTUNDUEdIOFBWUzlpeDdSLWppQy14cnlEMHJvRHp0UWg2ekZqSTJHdzNuXzVwZEFpY1pyd2hJeVJzNjBRX3Y3S3M5dHlNOVg5dVJtNmI5OTBOWFBDUE5ITTgzMnRWMEFHUEtsaGJaNXJHOW1mWEpKc2cySURjQ1NhVEIzTnROY0R3?oc=5",
       "source": "Yahoo股市",
+      "published_at": "2026-09-07T07:00:00+00:00"
+    },
+    {
+      "title": "群益證八月eps0.45，統一證8月份eps0.76",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HUEhvazd3WjVtZVkteERoQ3lzdHd4MUJHWURJNnlxX194ejJGakwzbUlCbHd6cVdDT2pNWm1PcHRsZUNaMHNLaE9aNDJkZWJXZU9uc3VsQ2Q?oc=5",
+      "source": "CMoney",
       "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
@@ -54,10 +72,10 @@
       "published_at": "2026-08-27T07:00:00+00:00"
     },
     {
-      "title": "統一證攜手政大探索新世代金融服務- 日報",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CTk9FRXFuMlVkT0REQzZURlhSSWJCWjNaMkF4SWx4alhRTTE2VDJQZjFTU3BaampQbTYyMzNMVENQbnZHal91Z3EtZmY0elhxM2tNQkVBQThlTzJWUFVZ?oc=5",
-      "source": "工商時報",
-      "published_at": "2026-08-25T07:00:00+00:00"
+      "title": "統一證等發行人申請3檔認購/售權證提前於8/31到期",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOclM2eEtieVhFS2p2bEw5QTZRYUdfbm5SN1lEVkNVZ2ZSTkVYcWpxcWZyd3dfcW9YbFBoRG10X3NIdi1ydHNrTmkzU1hteldHNW92WWIwRDg2S0t4dEU0T053UnIwRTlvbmlVREhhekxGQUlMcjRjYlBZcmJfVjNnSGpMam9JVlB6M0VSMG1hVGJsX1VLbDlYVndWay1Ha1VCM2wwaTNNc3FQWlJVSVBELUVwRWhEdHBIbE8xR2xSUGszbW9jY05seGFlak1KaU9iNXFzeXlFLVhBMTl0d2tZT0lMR1Rjd0o0R00xa0RITE5NZExEWXJjVGxPRzBiSll1Yy1KWjZlUzdoTGJrY1ZERHI0UG5KNXVEUXlqYlFSRFFHSk8tUmlhcjdKcmhSMHNURi1lVV9HeHh5STJzQ3ByTkZrcExlQkF6?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-08-27T07:00:00+00:00"
     }
   ]
 }

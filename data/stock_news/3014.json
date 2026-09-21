@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-21T03:30:15.079651+08:00",
+  "updated_at": "2026-09-21T17:34:56.929734+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3014",
   "name": "聯陽",
-  "count": 9,
+  "count": 10,
   "news": [
+    {
+      "title": "3014 聯陽 - 外資+596連9買，投信+50連13買，自營商+33連6買，... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54TTBSR3F2bnRVZjZfcDVjSlYwVE0tb1N3bWg4WU55S2l0WmRCdHl6VTI3Y1NkMW5RUm5SaUhQSHdQdl9xVnNFQzZDb0w5YW53WEVudlYtMzM?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T08:44:28+00:00"
+    },
     {
       "title": "3014 聯陽- 【09/18 產業即時新聞】記憶體IC設計族群飆漲6.33%，群聯、鈺創帶量強攻點燃AI題材 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5IYzhPSG0wM1I2aHR4TlhDVWZWUlhDaVJWWUphMzhWTURkME1IdnEwUGt4LW9DN1F5Z0kyb0xTNmg4MC1HTGNvUTN5a2Z5VG4yejJ6VTFhVEg?oc=5",

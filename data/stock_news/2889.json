@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-21T02:35:40.363286+08:00",
+  "updated_at": "2026-09-21T17:34:40.235490+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2889",
   "name": "國票金",
   "count": 12,
   "news": [
     {
-      "title": "旺旺、台鋼退讓 和解剩耐斯／國票金董事改選 公股拚主導權",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTVngwanBlY3JHeXRBS3pGWDd5aVVpM1JDU1lmQWRMNWkyY1VfcGg4Z1hyUG9NMEp0cHZRV25rY19uWEhCVmlDQlpkYVR1N0lFb2U2Wjdpdlo?oc=5",
+      "title": "《集中市場券商賣超前30名 3-2》國票金(-3533)、華新(-3387)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR0Zzb3NuVy1BaVByWTNnT0dHb2RULWJ5SXZvQjM4NUd3VjhEaGdzbURkLU5lSnlNOU1ieV9MSDZZVmVyTS00cE9MWUVpVDRmY2ZBVjAwcThrWGZBS2RzUTYwdW1uUS1YTG9KXzJReV9ySVVoMlBIb0FTcGJtZEVwQVdfNktScjUx?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-20T23:29:00+00:00"
+    },
+    {
+      "title": "張兆順：國票金一定要併 薪酬將檢討",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LdkZDdEgxQ1c4SEl6azNJZm9oTzhuSHVGWFZvZlFyV0xJTXRhbkpUSGYwRGNheU5xQURYaUtMWlNKT0h0dEJOeTBJejZVakhwaVY0SmVwUy0?oc=5",
       "source": "自由時報",
-      "published_at": "2026-09-14T10:02:53+00:00"
+      "published_at": "2026-09-18T08:24:51+00:00"
     },
     {
       "title": "2801 彰銀 - 阿姨，我今天買國票金，阿姨也買國票金好嗎 - 股市爆料同學會",
@@ -60,21 +66,15 @@
       "published_at": "2026-09-07T07:55:00+00:00"
     },
     {
-      "title": "證券、票券兩頭賺！國票金8月獲利回神 前8月大賺33億元創同期高",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10Y25vNDIybFFpa1B2Ry1FRktrYlJ6dGZsdWlJUnVRMzFZWkNTZGVLM2FGRno5ekptR0p5SHNWVjFBclYzRkJNZG82RHBRNE0?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-09-07T07:00:00+00:00"
-    },
-    {
       "title": "國票金前8月獲利33.47億、年增157％ 國旺租賃虧損加劇成隱憂",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tdlNmMUJ2WmJOSmhXWjBXLXF1LXVTRUViTExlREZBR24wQ1NEX2xDUW1FbXROMUNnNEJXTkN0NERPcFp3NkpMWXJwMmFLZGowUGthYkpTY29OWnpFM3BV0gFkQVVfeXFMTXJrZFBIWXZJS2tKMl96dlAtZDZPZmhlaklHLW5YeTR0bzlxLXNHSC1BSWRxbnVRU2ZhZU13WE5IbHhnYkx0RlRyM1NXYW1lTGJvbUMtQzZidktsdzFSUFpWcEtPWA?oc=5",
       "source": "自由財經",
       "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
-      "title": "國票金前8月獲利增158%！證券、票券子公司成業績成長雙引擎| 財經焦點",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94bk9sNy1nbTBUUWFOTzNHb2p5LXdvWkUxcDVET2xiSXJvWnFDLVhtNWZxdGROcGFId0dSZ21CU25UQU5WNDVkSTJBNlplVC04YzVicUJaY2lDLVRM?oc=5",
-      "source": "太報 TaiSounds",
+      "title": "證券、票券兩頭賺！國票金8月獲利回神 前8月大賺33億元創同期高",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10Y25vNDIybFFpa1B2Ry1FRktrYlJ6dGZsdWlJUnVRMzFZWkNTZGVLM2FGRno5ekptR0p5SHNWVjFBclYzRkJNZG82RHBRNE0?oc=5",
+      "source": "news.cnyes.com",
       "published_at": "2026-09-07T07:00:00+00:00"
     }
   ]

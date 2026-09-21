@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-21T02:35:31.839833+08:00",
+  "updated_at": "2026-09-21T17:34:34.229687+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2832",
   "name": "台產",
-  "count": 9,
+  "count": 10,
   "news": [
     {
       "title": "(2832)台產法說會 2026/09、台產財報、台產展望、台產財報投資亮點｜理柴知道:法說最速報! - 方格子",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzM09TTFhKQ2hxUVlWQmQxWllfSkh3ZWJ0VktkampVeWZkUHJWTDBaVGJGalE2UjFFRllLeFV6b0pWS3FHOXZuc3RGX1JjUkVkVnJDenR2WDdzeU91dUHSAWNBVV95cUxQUlphZVBDTm44QjJhY0hlUmJncFJIclpaWXhXa3M3UkFqQVF2ZS1oUkF3ZmktOHJaSFZYbFRwRWhlQ2JybENsN2w4dXhGcURpV28yU2R6c0ltdjBhNTNIeEFvV3M?oc=5",
       "source": "vocus",
       "published_at": "2026-09-15T12:53:28+00:00"
+    },
+    {
+      "title": "台產前8月 EPS 達4.28元 已超越2025全年3.91元",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00T0pOVl9hUTNic0dDOFRueDBBVThuckEyMnBtaG1sMnVNZXctWFQ2MmQwdzE0WjJTcGFEQ1BWR3NrZjFzYzc3Mks5dEw1UFJJ0gFWQVVfeXFMTlI4NktIU05aNnZRbGwwNXluNzZlM2J2bkc2TWx1V3Q2bHlzWWttbktpVENUNy1aVnJLVzlZWjVFaGpSVW51WmFVZEN1MDBTSW1LR0hYVlE?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-15T03:02:34+00:00"
     },
     {
       "title": "【台產 FY2026 H1 法說會】台產上半年稅後淨利8.44億元年增近四成，EPS因減資翻倍至3.33元",

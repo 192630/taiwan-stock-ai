@@ -1,33 +1,45 @@
 {
-  "updated_at": "2026-09-21T03:30:13.306397+08:00",
+  "updated_at": "2026-09-21T17:34:55.711857+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3010",
   "name": "華立",
   "count": 12,
   "news": [
     {
-      "title": "華銀統籌60億元聯貸 助攻華立AI材料布局",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQNDRfeTk2Rk96ZV90dm9rNDNyVmh1NTFzaXVqSUh4MlJkYlV2SzNrZGJ4b3l6c29EWk5PV19sMGhQbTJfRDJWZE5EZXJHZzdFaWFYOTUyTWlJdVJHSFp3S2lLVWpWQUE0SGNGSzA0dVRQbndmV2dtRHRRaEtMem43OGc0YkdtVndWNGNzM3ZBSW85QlZTU3owaUpqeWZjRnBYeW1JbDZiUDZmUGh2OWFkdUJjMTJDQ0l4OFBfVGlrb2tieEVkN2U4SWZfY3FIZTFVU0VJWldFTGY2eFllQmdFb1EyVXVTLTliZnUxZjhyVERXYzFRUHQ4NkQ1NEI1dDlYSlNwS0wwcXU0M2wwZzBoWVViVkV1Mlp1ZEE?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-09T07:00:00+00:00"
+      "title": "半導體在地化趨勢，華立雲林合資廠後年貢獻",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPOHNBRThvcndEU1hrcTF6OC1lUlJjVWJ3NzNrWThhaFllT3NITHZSWk5QUWpFMm9seVE5MzZSVHZWeGJ5aUVzNVhSQUlOUTV4RjNKOXVFX1ZSdk15TzhiR3Byb2x2OVUySkFFd290RWlPNTVJNTFKSnhidzFjenZKbVltRS0tamFsYUc0UkFsTGswRm1ZdjBFMUczQUFYWmxPTmZqTUlIZzZ5MjVBVXJHdFM4WTBibHdzY2tBV3VBLUV2cEZJdU8wSnRpaEdPN2lmNEp5SEZpSlBVNGUzNU1tR2Q2QVJ6UWxMWk9Xc0l6bXQtRjVIM2pfTVpMMG54ZDRReFd1LUROR2VMSGV5ZGY3VFotOTJyUmMybUdTSWhyTW9RYkZfLU55TFBoVWNqelJPTW1xbXZKb2FqemNqNDVSOA?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-21T03:52:34+00:00"
     },
     {
-      "title": "【2026/08月營收公告】華立(3010) 八月營收月減年增，全年營運續看向上-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZTM0aEZpTlY3ZDVPcE1TRFNqQ0ZMZHpxUGQySTRVV1VCRzhDMFpld2xYeTQ5aTFNMXV2MTg0ckZEYzktcTllVnZGUkZ3LXJFNFZPT1pmMUZMcjgwYVI3alN5VDhEX3hIOTkySlR3NjZmZ2paYk5jM0hzLWlhRzduQ3ZyOGpiaDhZUFE?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-08T08:10:09+00:00"
+      "title": "華立自動化業務高速成長，明年有望再拚翻倍",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOZWlLQkZjR2ZOeFkxcGtIeEV3VWlWOG56c2RhN3A4aVVQTUFncFcwQklidGhaVGoxdlZaTjhvSlVVSTB6VTlIZzcxeE5FTEtwVmFfTlZnMXg2YVRJRVBsNkhZVlNEWFNqUDVVdFNQUkRpWFdnTEJFNXNPaWk3andiVzlMNjJGUFJVZkhVbzBjUm5wT0l2SWZTTnZUc0VzSHdza0I4U2o4LURiS1g1OUlUanUwUzVoMWtDNUZqdkZWNmtEbXpGUzcxa0cwRlVfVE5QT0FFQXVJR0tTb1h4bkY2OVNoWUg1TFp6MFJUZ3N5Q2hNQnlINHNmTWRLck5UQVRaRXMwb0t3eUlSY3V3QVg1bnlfeGJSSW1WQUxCWTExTDlRakN0TmtfWm5LZzFoVmRzbkQ4S1VtaGliME9RbmxhYQ?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-21T03:38:54+00:00"
+    },
+    {
+      "title": "3010 華立- 【盤後焦點】IC-通路資金轉強，「10檔概念股」強勢上攻！ - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LOUlaemhBOWlPa3JJT3ZKNGFqb091MzJiMDgxZTE2RTRwRVZaWDVqWU1tNmJFTXlfSjNVM0RJR0pVbVZHQ1FwVEhub1ZoZGlhYWZwYjRpbzY?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-17T07:11:35+00:00"
+    },
+    {
+      "title": "華立股份(603038.SH)控股股東擬協議轉讓公司5.10%股份 作者 智通財經",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SeThfTTgwMnI4SzBLZUdrQnpWWWkyU3cyVk5Vc2I0MUVURE9idzh5N1lFMmhPZmM4QVNqNUFJSDdEMTYzdXRTYnF5anI2ZC1tV1JQbGRjRkxsRjc4clk4R09zQXFjdnVGV2M1VEhYdUs?oc=5",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "published_at": "2026-09-15T15:39:27+00:00"
+    },
+    {
+      "title": "華立60億元聯貸完成簽約 華銀等8銀行力挺AI材料與設備布局",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FRDA1eHVDVEFkajkyclhhcWlid2VGY1ZPSFRxSU1iTjN5S0gyZmptR01femJhX24zVmctOFhubXdzREFxY2IybTg1NzVlOUE0dWk3QUg4cTU?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
       "title": "華立60億元聯貸案完成簽約；冀掌握AI升級契機",
       "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPS1lxdG1oTU5laDU1djNKNE1vbUR2QW9SV0kyRTR5TjFNNmJ6ZFBLZmx2Z2FVNGZsV05DZy1PVHg0S1VKMDIyRXd0NG1WbmkwOC1KMjBzeHVrbnFYSGJlS3lsdVlJSUE3aEJYLUxCMlU0NmVPVmtCQ05xWV81TTY2ZFVYUnJPcDlCMVVBYktiLW14dWcwaTJzU2VtdTdEdFk1MWRaSEhPSjJqSU5ha2FBRDc5OHBrMXJWcHdUaTVielN6d1JDdjNtbGZPaGg3YWRPcy1STmJPOW56dzB0bEJ4NGRaSURxWUVCODd5bW1VXzhDLTgzVl8zanY5c21OTW1sOFRtc2V6clFCYktTYkVuQXl2NVp5MGMxaWZtaTZ1Uzh5d3RoX2lzQ1h5STg2eTM3ZmE0ZElvM1lyZw?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "台積電擴產把台灣「耗材軍火庫」訂單一路拉到2028！崇越、家登、華立、京鼎吃長單二次配工程能見度甚至看到2030年",
-      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOQk01b0F3dUplRm54dVF3ZFhWM2Zwa0xGVkdZRFhNXzdOWXNuMUo2TGZjelcyVXczSGkxYUswZWNrTTUtMU15elJWanhWcnNEeEpVVDlqQmE5R2hpbGE0OGpNdHZzSHJIRlhvbXNabnRjWE44dGhPV2FJRWJ3QVctenhiUTJ0T0kwc0RpanVXMEt0bm5TN0xBVnZGRmJtSXdsSFNuYms0T2J5Y3d2Ry02SHM1bS1SV3JxOFJ0QWFhMFJxeURVdXVkc0hVamtvdjgxVjRJVXNUWjJLT1N6TWlKcnVEZjNfZzE1Ym5HdnhicFBYLUEwd21zUVMzWmIycmc3TG16eFRKYjVzMFRxeDRNUl8zM1Y3QzlLT3BMMHcxdV96bHFrVWQ5OGZLdzZvOFBvakFJaWxweGw5T1g3WXJLMUFnTzBGWTJxVzJnU3Bn?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
       "title": "3010 華立- 3010官網 2026上半年財務狀況- 股市爆料同學會",
@@ -64,18 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPc01vMmN4NDREek9JeU1kZHl0Z2tpV3BFUkR5TTJEODdsOHMtUVgtbE91N2lILWZjeW1Bc3ZzNC1qcFR6T3J1ZFRZYXhxdEZHMlFQbWJ0RzdPdmZ5YmVUVUJpck5QY05MT1hKSmQxWTkyNnpNbU1hLWdUQ3BDcDVkSGFVdDJ2eDBnZ3V3Q3d4WFJ6blc1WnFQX2lxSXM3bUNFUGpFZEJjWEI2R1licHpZOERFa2NQSFpTbWEwa1hqZWZjazhoSHBhLUVZQVRqbERxSF81UUxQeER4YTBkZy0yN25qMTF0Q1d4NGFxWVpnTjVueUtudnJNRE94RlI2b2k2Y1NEelNCR1ppUTBrbnJIclgtdmg?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-02T07:00:00+00:00"
-    },
-    {
-      "title": "3010 華立 - 漲啊大哥～ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1SODdsNEFQRDNpX09oSmEwVS1LR1pBU3FoVlU5cmlLQWZhM0JmZlpYeXJlZVk2WkcwT3dla2pqNDAwdHJ3d1dfRDFKRHZIc0pGUVBnSktUeVU?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-02T07:00:00+00:00"
-    },
-    {
-      "title": "華立科技(301011.SZ)：取得金融機構股票回購專項貸款承諾書",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80a3ZGbU5xZnI5UzVVZjRjX0lpTHRDSEs1dHJKVnZFcGpWcTQzd0QxNXNaLTQ5X3EyQUJRVDVHLVFlS1phNEpidHhlamNYZnV0N0QzMjJXdVpOZjFsZkRQX1hVNFlDR0oySTU4?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-08-31T07:00:00+00:00"
     }
   ]
 }

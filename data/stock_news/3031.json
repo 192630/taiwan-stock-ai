@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-21T03:30:22.822090+08:00",
+  "updated_at": "2026-09-21T17:35:03.993507+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3031",
   "name": "佰鴻",
-  "count": 4,
+  "count": 5,
   "news": [
+    {
+      "title": "《一週投信賣超10-2》台虹(3493)、群創(3031)、世芯KY(2680)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN0NUR3U2X3ZrNU1EVS12QUctWDA4LWVjU3VYRTgteHBtUzNkT2lZNklzUDFIMjlXUllxZk5ocGFlUjlQQmk1R0Nad1RuNnc3MGdyY0UxZzIzUnBZbjVpRV96alplekNDeFZoLXoxbDk5YWpCNmk5d2ZVbG9PTERoc2NqeGt1WDBi?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-20T23:45:00+00:00"
+    },
     {
       "title": "【13:14 即時新聞】佰鴻(3031)盤中走強，買盤聚焦PCBA與工程專案動能",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMbldxUXpjOVZaamNkUGNMR0lrYkZDcFdPcVJSSW9IWmQzM0FuMHRFVFdJSk5oMTI1UW9pOHhnb3YtVzRvaEJiM0tYaXFZMTQ4QWFtZlo2TC15WEg4T3VTMkl3eHNxZ3M?oc=5",

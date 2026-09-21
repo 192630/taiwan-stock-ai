@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-21T03:30:05.469640+08:00",
+  "updated_at": "2026-09-21T17:34:45.360807+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2911",
   "name": "麗嬰房",
   "count": 4,
   "news": [
+    {
+      "title": "企業生日快樂／麗嬰房數據轉型 創造產業綜效",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6Z09uZVQxa09Da2cycFpscDJ5dEd1UlZmN2JRZTFveWoybDNQMkgwMHBsUmdoanVYX05zSnlrbFFaOUhwS0ZoY1EyQjVKQk0w0gFWQVVfeXFMTzRkVFB1aWZVQVRuUW8yY2V6WXhaSTJNb19BanplZ0gzNHRCRHZ3X3Q4NnoyUXpXUzh0dmVUQWFZWS1GODRnajBUTlRBWjhjTUFrM1VqYUE?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-12T07:00:00+00:00"
+    },
     {
       "title": "企業生日快樂／麗嬰房 強化跨年齡層布局",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxOFYwUjVuRXdLQW5xc1pkV1VFQzJtZzRITUFCTUdSWVBPV3hteHNaUU5FRW5UWGo0dkxtQnNuUFZ4MnJfTjl3eC00NTJtMmI40gFWQVVfeXFMT1B4T2VXcUpOc2Zhb25FUzBPUmFDME9lTER4OHU1elc0UmtaMzBCekItdDdoS0pDQUN0U2M3M05QZ3FTR05IMWpqMVNvRHk1ZVFVR1N1SUE?oc=5",
@@ -22,12 +28,6 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOVZzRmpuS1dVaTFlT1hGdWc4Q203blZjdjRzc3FuTUxJLXhrck9yRVlaSXRpTVRnQnQtTVBNZEdfRzNYVmY3TGtza0dZTFpqdUtvY1BhSUJCTFowMGNpR0NVNE9OaFdpUGlsSWQ0TnhmQmZRS2M2U3BxVVRGRTNZUG5n?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-11T17:04:08+00:00"
-    },
-    {
-      "title": "企業生日快樂／麗嬰房數據轉型 創造產業綜效",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6Z09uZVQxa09Da2cycFpscDJ5dEd1UlZmN2JRZTFveWoybDNQMkgwMHBsUmdoanVYX05zSnlrbFFaOUhwS0ZoY1EyQjVKQk0w0gFWQVVfeXFMTzRkVFB1aWZVQVRuUW8yY2V6WXhaSTJNb19BanplZ0gzNHRCRHZ3X3Q4NnoyUXpXUzh0dmVUQWFZWS1GODRnajBUTlRBWjhjTUFrM1VqYUE?oc=5",
-      "source": "UDN",
-      "published_at": "2026-09-11T16:29:41+00:00"
     }
   ]
 }
