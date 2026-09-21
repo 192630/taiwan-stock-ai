@@ -174,6 +174,9 @@ jobs:
               print("TPEx institutional endpoint failed:", error)
               tpex_data = []
 
+          if isinstance(tpex_data, list) and tpex_data:
+              print("TPEx institutional fields:", list(tpex_data[0].keys()))
+
           def tpex_value(row, name):
               value = row.get(name)
               return "0" if value in (None, "", "--", "---") else value
