@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-21T00:33:52.855062+08:00",
+  "updated_at": "2026-09-21T14:42:17.104638+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2305",
   "name": "全友",
   "count": 12,
   "news": [
+    {
+      "title": "警示股：上週五(18日)集中市場遭警示股票有全友(2305)等14檔",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT0c4MkxGX0lBYkVsSFBTSUFrLWx2RjYxQlYxUVY4MWFkZVVheThwZjJPVjQzbWVlWXdlUmI0djFUTzRpb2cyczEyOU5KekhRei1BNDFqRzhJUG9YMkFoNnN6WnFDTkxkV1lpR3dBU2NYSHVOVUY1T3pSdTU3OEdaUWU4NmFxc253?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-20T23:15:00+00:00"
+    },
     {
       "title": "【11:50 即時新聞】全友(2305)勁揚逾8%，法人買盤推升股價續強",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcnRRMEN5QXdPMVlNYUxMSUgtNUp3VWl0R2p5czNVMTJJMHVBa2E2MjM4bi1ZenNaYVphWlczN0JJQk5uR1ptTlNFVFRzZzFIUXprU1pydFdsRDlwa2ZEbjJnaDhIeFRQTWZPRGJ2MV9ZR01EcEttdzFzZF9vZS03UC1YV0E2SlpiN3pBeWt3?oc=5",
@@ -38,7 +44,7 @@
     {
       "title": "全友、聯一光等5檔9/18打入處置 光罩等29檔列注意股",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fYlBRaUdJMzQzVG85U2dxWmdiaDRpcTFncFMwUVNrQUhWS25ET2xuN1E2MlNUVTB3ZURSX2JVVlRqRVZuWGd6YkhRV1dzOWs2V0xIU2kzVzd4VVRZRDZ30gFkQVVfeXFMT3M3NVJlUklqazlqTFduaks1UjJPUlNrNmhwOHZqN2VxMmY1NXNITmxkMTRaRUhDVmk1cW5pWjllOEJucTRnWE9oNUtoaUpqd0g4NkdCZ0dCNXFQUE5XTkNPbTVXSQ?oc=5",
-      "source": "自由財經",
+      "source": "ec.ltn.com.tw",
       "published_at": "2026-09-17T10:40:01+00:00"
     },
     {
@@ -60,22 +66,16 @@
       "published_at": "2026-09-16T03:40:00+00:00"
     },
     {
+      "title": "盤中速報 - 全友(2305)股價拉至漲停，漲停價49.4元，成交18,762張",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QdloyZ0xDaXdCam9CcWFqTnBGei1YSUhJX2twWW9TRk9aR1VqWWQ2amdqNUFsRkphcFc1NXhSNDR0UE41MnNRVWR4b2cxbWtFVkNnUUZmVHhwSWdEX1FaSXZoclY2Zw?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-16T01:13:00+00:00"
+    },
+    {
       "title": "熱門股／7月獲利年增2.26倍！全友股價衝28年新高成交量擠進前十大| 產經",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tMHEzY3BXTHluT1NrYTVPYVZjdWc0b3ZzQjNPak04NHd4SlBnaTNrZlBmNDNfa181SUgwNkwyYjVXUFJ6eFhzQl9aUVQyOHJMWkVuWExzSGFTMGhYSzRxc2FXTXFxTU1iYlJIWVpxVnU?oc=5",
       "source": "非凡新聞台",
       "published_at": "2026-09-15T03:35:00+00:00"
-    },
-    {
-      "title": "8個月營收幹掉去年整年、Q2營益率飆破23%！全友甩開掃描器包袱變身光電黑馬",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1tVDFIRlpHQ0JETjdkaVlmX1VTLXhaMXUteWZsbGRTOEFVYmFZbXhWZ3YzeVZ2bEFJSnRMWkZPOVQyR0dFN0hNazFPMDF5MUlTcWZlUXRsWEE1N3FKRGxiMTNRUGJXcHNJczhvTFp5WQ?oc=5",
-      "source": "理財周刊",
-      "published_at": "2026-09-15T02:20:59+00:00"
-    },
-    {
-      "title": "盈餘：全友(2305)股價遭警示，自結7月歸屬母公司淨利2064萬元，EPS 0.10元",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQWRuZ0FJWV9VaTRKREVtVkM4dXhzOWV1eGlmdUx6UHBBLW9DZkhOaGgteVJiMGNUaUJ0M3VXTzVWbVRZWGsxb0Zxb3ZTc3VscmJJRldyWTQySFJrMUZGV1A3Z3c2NzY2NmNzZHFnaXVKWkdQcTdFcEZDNFBxMVdVVDAxS08zakRX?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-14T23:00:00+00:00"
     }
   ]
 }

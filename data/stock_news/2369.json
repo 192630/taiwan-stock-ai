@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-21T00:34:11.627077+08:00",
+  "updated_at": "2026-09-21T14:42:33.444858+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2369",
   "name": "菱生",
   "count": 5,
   "news": [
+    {
+      "title": "2369 菱生 - 有機會嗎 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZWHh0Tk9WOXdJMkRfZUZTcGUwRHg1M1g2WmtaX0tlWkdVejV1aTg5SXNVYk9IQTE0cDVPMExOZ2ZEYzVoeU1iNG9Cdm5wTWRDaWdKdXBxMXA?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-14T06:20:41+00:00"
+    },
     {
       "title": "營收速報 - 菱生(2369)8月營收6.42億元年增率高達32.9％｜新聞快訊｜豐雲學堂",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DV1pOczF2bDBsUk1sRUJZXzE0NHJ6dVBRZklsZEZEVDJMa3A4RkNPcHRsbFVoZWZld3RRNGlSYklxcm1HRmlnZ2Vva0NDOTdWS3FibkFIa3pobTI1MjBqUXBmMFk1Y2pqSnVoMWwxZ2w1RHB4QlE?oc=5",
@@ -27,12 +33,6 @@
       "title": "【11:41 即時新聞】菱生(2369)股價走強漲近5%，受AI封測與營收成長加持＋中期均線壓力與法人偏空籌碼成短壓",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWWRKZEc4VHR3NEhURGx1UXBjcVJvb1E4ZlhJc25xSzhvdTdzZklheDhfOEZzOE9HRjd6bUplWHJ2bWpUTnliUDBzS3FOSHV4ODdLOVRHOVNoMmJQbDI2WjNNVVlMZWJKVEFrU1k3eHNjdjl4Vk0wekFwcEdNZHZJRWJMNmpPOGtEdXpURjJR?oc=5",
       "source": "CMoney投資網誌",
-      "published_at": "2026-08-24T07:00:00+00:00"
-    },
-    {
-      "title": "2369 菱生- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXOGsxc1dtbFpCLUJNdVJOclI0NG1vcWYwZW04VGtGUVJZendVQUxXRTUxRDEtbTEwX3gxMkhDSXdiQ2JacUh6aUZqTzNEQU1XcjN4anhwNkc?oc=5",
-      "source": "CMoney",
       "published_at": "2026-08-24T07:00:00+00:00"
     }
   ]

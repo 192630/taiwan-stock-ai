@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T00:34:08.700588+08:00",
+  "updated_at": "2026-09-21T14:42:30.786980+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2360",
   "name": "致茂",
@@ -32,14 +32,8 @@
     {
       "title": "(2360)致茂法說會 2026/09、致茂財報、致茂展望、致茂財報投資亮點｜理柴知道:法說最速報! - 方格子",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BLURoVHZJQl8wYUxHcDVkcW1ldUd0T3p2aGpHTVdScXJiWV9iUVVDd2phUWhKZ1RncERPSm5Uc1dsU0dxdXp6X05LLVZKSmlkRkd1OFk2YzJ3N0NYUkHSAWNBVV95cUxOd2x0eXQtczgwNTBKRDl1Y2xoSlZGdy0tWnZnZDV2UWV1SzNLUS1xNDFaakRtc3ZoSExTTGlhU3lfc1JuOTlrOG1Kb0lnQnFlcUJPTHFFX1NlYlRJRUJPbFhVakE?oc=5",
-      "source": "vocus.cc",
+      "source": "vocus",
       "published_at": "2026-09-15T12:51:31+00:00"
-    },
-    {
-      "title": "2360 致茂- 致茂、鴻勁四檔搶鏡- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXTjBjaDVxeFNQYVhmSXRPZ2hwVjdJSkZQcEJUNWxvcVNMMmsycmZDa0N1clBNdXhEQy0zZWtieURvNUNBWUFkenkzUnJvQ2JsTlNRb3BnZHo?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-13T16:56:39+00:00"
     },
     {
       "title": "討論牆 | 盤中速報 - 致茂(2360)股價拉至漲停，漲停價2490.0元，成交2,790張",
@@ -60,15 +54,15 @@
       "published_at": "2026-09-10T13:39:06+00:00"
     },
     {
-      "title": "光通訊綠紅交錯！「這檔」8月營收年增152%噴逾半根 前鼎、汎銓漲3%、致茂、華星光摔6%",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPS2Rra0txWTVicUJ0M082OW5oSG1pZEN5X2pCYTNJY1ZlRTE5WnNZUUpsakZJRS1KRV9keG5STzVVYzV3dElZQ01zQl9jLThfSnVWN2dVZk1QSUxCd2Zidm0yVzhwaGgyYkJkQzB3bGI2aDd4ekVURW95YmR3czN1OWlDXzBDcDV5VlNuSk1qTjNFT21nbDMtcm55OXhrSkg4cU5rUmRUTHk4a0Y4X181WkMwdjNZcGg3SW4tejNHaHdXLXgzdjJNYWtMTWI2VmgyV2FtR2lBTklvMkctX05NNkFoS2F6akpScFN1bGNiTGZSZ0FRbUxHWk5uU3ZoS0pEbElpaDF6ZGNsVWY4ZDM2dGVoTTNxalpMakFnUWh1cVY4bHhlUmxpYXZaam1MOEhnUkIwNDlXekpicUNMLUt0NUJZdDRmenBfYTNuM3pRM2pNcEYtdEE?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-10T07:00:00+00:00"
-    },
-    {
       "title": "致茂8月營收年增156% 股價卻急殺？拆解「漲多拉回」的四項檢查表",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfQ1Z5bjFpVUdDdHY5alc4YkpmMkdIMEp4VEJmOElsdnZ1V0lVRkVVd285cERlUXZUeEcwbHc5M0tfLUtySm5HLW9QaEx3NS1VVGI2RVJMbW5QdWxqa0s3NHNnZzUzVVhJTHNKeGdZR1BoSURrRzRKRjgzbXgxQQ?oc=5",
       "source": "CMoney投資網誌",
+      "published_at": "2026-09-10T07:00:00+00:00"
+    },
+    {
+      "title": "光通訊綠紅交錯！「這檔」8月營收年增152%噴逾半根 前鼎、汎銓漲3%、致茂、華星光摔6%",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPS2Rra0txWTVicUJ0M082OW5oSG1pZEN5X2pCYTNJY1ZlRTE5WnNZUUpsakZJRS1KRV9keG5STzVVYzV3dElZQ01zQl9jLThfSnVWN2dVZk1QSUxCd2Zidm0yVzhwaGgyYkJkQzB3bGI2aDd4ekVURW95YmR3czN1OWlDXzBDcDV5VlNuSk1qTjNFT21nbDMtcm55OXhrSkg4cU5rUmRUTHk4a0Y4X181WkMwdjNZcGg3SW4tejNHaHdXLXgzdjJNYWtMTWI2VmgyV2FtR2lBTklvMkctX05NNkFoS2F6akpScFN1bGNiTGZSZ0FRbUxHWk5uU3ZoS0pEbElpaDF6ZGNsVWY4ZDM2dGVoTTNxalpMakFnUWh1cVY4bHhlUmxpYXZaam1MOEhnUkIwNDlXekpicUNMLUt0NUJZdDRmenBfYTNuM3pRM2pNcEYtdEE?oc=5",
+      "source": "Yahoo股市",
       "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
@@ -76,6 +70,12 @@
       "url": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxNbmE5TXNXRTgwaWdMT0c0aVVvNU9Zd0Jac1UwUlpUcnkzQlMyUDRGUkZlajFkbFRvMTBsLTBBTG51X3l5SnlOZXJWcnZqRUtORExBUFVFODFERHZvLTRqcTYxWlNiRTNBY1RmVXE4WDdVbU1zLUVsc0NsVElHbzVZLWJsNkU4MjdNSkFMRzRjVXVSREZha3JhbnFHQlNLeHJIQWU0VHJfTkw4N3JoZ1k1OG1yVm4tT3pncUt1QTJJc0ZaQ05MSFNHRzBpb3V0UXNFSnpwYmlxZmVUdnVKN2ZHbVRpVGktZ2JZTGxybUQ4dnh5UV9LNmlZcjdRQjhwR0IzTDdLWHI0QmdrbFdSZHczQ3JDSUxnLXVtN2hJZWJHZHF1LXlFMVI0bV8wblJRY1ZOQmtGeHFXMDdCaThsTEZhbXZWSmRlR2lXRUFaTkNHMC1BVElxa2lDenVWSWtiTi15Y0VLRE1ES3p6R3V2eUpQYURHTFJCWWM3WXRNY1hIaUNQNTZFN2lqYlJQU0gwNklvOUtERWI2Wlpyd2pFdDgyYnZvLUhuM0ZxSGhWbmppSkMwUklMWTN4VUxnZTdNcG82ZHNYR1ByUlR2UVlVQ3hOSXByZ0w2ZHlIRk5YTVNMUmdMMG1SZmZaZ3RRdGxCTG9sWHBjYW0xRjExZVFIbUtORXQzLUgwVVJhUjdpYlRDQjJ4UGozMGdRNzJKX2lOT25EbFN1Vm90UWhmSHpMNTFuZ0pVcmtnOVBCX0E2Q09SREloS0tudXlpV2w5VVgtRzVwaWlpZ084bjFhT0x0Sk5Z?oc=5",
       "source": "sinotrade.com.tw",
       "published_at": "2026-09-09T08:59:14+00:00"
+    },
+    {
+      "title": "【10:05 即時新聞】致茂(2360)股價大漲逼近漲停，AI測試營收連創新高＋均線多頭與法人買盤助攻",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTTRwTFhia2RKVE1IbDVWT0o2cXYtdVdVUy1oVWdCbUhOMlJBNlo1ZVV1d1JzR3Bra2otQWNtMXpuTkZsd0pMZng1bnptQmVmaXBLcmlISi1CQWFBX2dOMnNQYmRXTC1zR2wzdzhLMnB2RDFDS2ZuSkJrMVc1YkpfR0N1WUNVdXMxVWg1cDhB?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
     }
   ]
 }

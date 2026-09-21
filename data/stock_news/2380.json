@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T00:34:15.528099+08:00",
+  "updated_at": "2026-09-21T14:42:37.028853+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2380",
   "name": "虹光",
@@ -30,12 +30,6 @@
       "published_at": "2026-09-16T06:11:28+00:00"
     },
     {
-      "title": "台股開紅走紅！最高曾觸及46k 台積電填息後平盤收2380",
-      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOYm1EZFZsVy1lajRvTFdJRGxvYVQ4aHRaQkRpUWF1RF9nWTg4U2lyNXdYX0JycTBqb0RhclVsR1lOcENoVWpwakZDam92UzlmOGVKZTZ5cGpNVjJ2QXJpbGwtc2tsaEh1NkpLajZQYmtNcWVZbEh2UEJjcy1mN1YxcUFzVXBsVHR1RGg0cngzNDZ3VWdGV0pqcno2QzhXd09iTlhyQU8yYVJ6MEdLeHFzYjlaRWxaS1l3cUNlN3pmRzhhZl91UnpVX0VpQ3Fuakl1RHhnQll2aXRhM3UtYlE3VjBGX19Jc043OGxUWUVwQ1RxelZFS3VBTDVJQzcxbHpfRnpoMHp5a2M0MTF2LWxidUV6SEZCYkdvQlJzcjlrYTZFT3ZKOURTTkd4eEhfYmlpTDJYWFl6LXZ6QmxWTHFfVGxyTXdTUVpRN05PWFU5bw?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-16T06:07:10+00:00"
-    },
-    {
       "title": "台股4萬6得而復失！終場大漲337點 台積電除息翻紅收2380元",
       "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPaGdfSkNFLV9QMlE1T0k1Y1VwSDQ2aUQtamRueWZyWHNQSXQtWk5aVTlaOUJHbXAtbldQdWYwR2d1eDVPb01ESjl1QVdnUjV5VlZQM1VQY055Y1dmNmpPM3lpWjhHdTVrQUV6ZGVfTlJOdTNKUHNuaExtbFNOeTlwTzVoSG0xNG1HLWZEN0o1aWNZdktNeUVfYjdNdW9NbDIxcWl5V2lnUjJyWnVsNmxNbmd0ckN0WFZRdnJtNV9RcFl2WEx0Vlpid190Y3J1Q1ZCOHhSNGVzVGFGRmxGNlN5TTVQZGsydmNWeTJwd1E1NTZnSGN5Z0JDNzZjUlJmdmxxd19GTC02WEZCZHZLZF9Ic0RHOGdMWG1Cb2lTZzMzT2RKX0xQY1dSMVJzb0tCTzktZ25QdlRGYUN6OGFheFNHdUQyLXo3Rmc4U3BrN2otUDFfelRWblU3eU5TU2lOQQ?oc=5",
       "source": "Yahoo新聞",
@@ -46,6 +40,12 @@
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQU2ZabXdVUEhqOF9Xd3VUdFQ0LXJYb0lCaFhhNE5EZnQ5ZjJQWFQ5M181ektlaVJxenFGaVBHYVB0ZnozRW4zQ21iVm4xS3A3TG1RNnlybDM0eTgyWS0xd3o0S0hoVE5WU2xoZmtnN1k3aGtNWWppYTg2WVVJTXRTRVJlUzdvTGNUQ2RISzhRZGZBX09hci1zVzlRdVVQSk1LVGpMcnV1SG4tZXJNenNpM1c2YW0wd0JKWXRUUnA3RklqNzJwakRKYnV5SU53dk52VnJsNlVxQXBKZlNGMXVlWWJyQjllbjNiUUF4R0NUa2hhcjRZRmF3WEx2M3BfX28x?oc=5",
       "source": "Yahoo新聞",
       "published_at": "2026-09-16T05:49:03+00:00"
+    },
+    {
+      "title": "台股早盤漲逾200點 台積電2380元",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMExkdGtJVGd1Q2M2UkJWdkVWSUZKMERYWDI2WVNUQzhLUDF6eUUzZ29STUZ0WlFJU0JKcFNjNV9iTFBJQjJpRm9STEJfT3lfQ1BWN2hRS2VaclFzX2s5d2lBR1ZrdVNjSWhVU25McHZ6UEdfbHRDUE0zWlgxSHBiUVpraEFNdDJFMUlPT3hfS0Y3VHVqeUZ0T1RxbEJ6STVzSWZvZzJ3LXRueGpwS0c1NkRyNGwxN0JXTDNpNnV4eTV0MXA2Wmo4aWgtbVgwSl8zWTB5WnhWRmFKejlqNEpHWkVB?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-16T01:10:50+00:00"
     },
     {
       "title": "2380 虹光- 【09/16 產業即時新聞】電子下游-掃描器族群強勢走揚，全友亮燈漲停帶動多頭氣勢- 股市爆料同學會",
@@ -72,10 +72,10 @@
       "published_at": "2026-09-14T05:52:14+00:00"
     },
     {
-      "title": "台股收盤跌322點失守4萬6 大立光跌停兩周瀉25% 台積電跌30元收2380元",
-      "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPOUxUSWpZdVpScDNFM2ZYc3lCcnlRbHlsMElMOHhqTTZQRmg2ZkswQUZlZVFCU1FwSFdRQlJaNEoycVB2REVXZnVpS2s2VXpaVm1PQnJUZUx4bkZvMTE1cHRYcmdGcHNwVl9YZE5YYXZfQmFDME1LUkJyRTVsaFo4NDVKcFA2dXg3ZHQtZTJ6YUNhbU96NEhJTzNNa01RSEtqeUItemVnYkdtbV9VMlNfY2tMazZjUjlyYXRYM1ZGZERreG1NUXRrWVpneTNmWFBEa3VJX243OGx1QkxwOTB2Z3p2cmtfSzV6STNJV1NYV1FjNG1uUkpPTWM1eDdmaXBHRWU0dGdGLUJ1T3hQWnRwYnphUlJKbVNjbWVvNkw0aXFScGFfMDl1MDdTYjFMSDFRR2FxQmVSajlWYTZndnlJdnFjT2hXYURpUXQ4RDI2NEdEZi1QeWVUUWZUSFByTlpTaGVJSlR5ZXo?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-14T05:41:18+00:00"
+      "title": "【2026/08月營收公告】虹光(2380) 八月營收2.02億元，創近2個月以來新高，月增1.5%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVGowbW9hWko4bUxJbkFjdVVhWW5UUWswdXNEd1p5UGxXWlFXa2tIcHc5SkYwWnY0ejBRR2dLS0RZNWdxRXdhQ3EzWDZBUXRZSHZMQ1BoSUlvRFNhZmVqU0F5a3pYQ3VnUkFSeFZvbHhOeExwRkxwZjhMYktPX1lwNW1YVjRlRGhobGc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]
 }

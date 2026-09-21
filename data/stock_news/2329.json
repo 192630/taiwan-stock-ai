@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-21T00:33:57.885439+08:00",
+  "updated_at": "2026-09-21T14:42:21.545892+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2329",
   "name": "華泰",
   "count": 12,
   "news": [
+    {
+      "title": "華泰證券前高管張海珊轉投德銀 出任亞太區股票分銷主管 作者 智通財經",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5Q3NXd09XSEVKZ3J3MThxVTh0REtrVUhWYWhVdnFhUUlGa0ZObnd6clZwTzU5X0lxQ1ZvalQxd3dlU0h0djZGaTVVb3dnZnRyX2pXRFFPOGROMmR5Z3hoLTQ0QlRNemFGNW5WLTF1MGo?oc=5",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "published_at": "2026-09-21T00:37:27+00:00"
+    },
     {
       "title": "德意志銀行新聘兩位亞太區股票業務高管 分別來自中金與華泰",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TUDFLczhEOHFWdjhTcjZwNDBES25TWjQybkJjdkRQWGUxT0ZKQTZPUlNoXzBlR3FwMEtHaF9SYmhLU0VtRGZCZXRYZnNEZUp3enFfVGpleVRKZ1NNRmFVVWU2N3FkSzJlUW1B?oc=5",
@@ -70,12 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3cWFQRnpmNWtsNTRQeFptd0dFeDRFWkJEdG4yZkdGMnRyRk8yZnZqcDVVX3hzMkRHb0NxaWpKQ09MRFpJSm94UDlwY1RBWWlERjBucG14T3BsVWZDcHQ5czJNaGdtMXdxeFlQaVFwZXo?oc=5",
       "source": "Investing.com 香港 - 股市報價& 財經新聞",
       "published_at": "2026-09-15T14:19:24+00:00"
-    },
-    {
-      "title": "華泰證券(06886)：“21華泰Y1”將於9月17日兌付本息並摘牌 作者 智通財經",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRMzNyV3J5VDVlcU9HS1dfbFdVRndtZG5KMVZLQnBGS194V0JfTjd2YVMzX3hpZkRMQkFzd0k2MHdESVRHX0U2SFFDMkFYTmFKS09CVEUycE8tX0h4WVh6Nm81X1MxNlp6eDhyUTJrcHo?oc=5",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "published_at": "2026-09-14T12:13:43+00:00"
     }
   ]
 }

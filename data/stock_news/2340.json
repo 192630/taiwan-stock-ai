@@ -1,27 +1,21 @@
 {
-  "updated_at": "2026-09-21T00:34:00.688551+08:00",
+  "updated_at": "2026-09-21T14:42:24.039213+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2340",
   "name": "台亞",
   "count": 12,
   "news": [
     {
+      "title": "《自營商買超66-32》聯 強(138)、台亞(144)、中 航(12)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM2E3WktrZGUtYUY4TWlDNXh0Sm9WaTNQNFpKa3Z3dTRzMUNoNENRekh0Mm02N2ZaOTlBMHBIOTFid2JjcVhoSEVKYkZQampkVGFlYzBiWGhDZl8zUDJLUjJacVZxaDJxVElSVVJoalh4em03U2JYQlA0Q2dBNGV2WVMtRVpHa2FR?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-20T23:40:00+00:00"
+    },
+    {
       "title": "台亞旗下積亞SiC技術輸出印度 RIR Power新廠3個月內投產",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XQVVUdDVWT3hZcVY2Z25oRUg4enNYajNKVUpSZTFEYTFyNDBFNFV1RTI1Ry1FOUk5VDIwU1Q5VkZyazBFMXlIUUowdEwtWVZVWDd6TzRB?oc=5",
       "source": "優分析UAnalyze",
       "published_at": "2026-09-19T02:03:40+00:00"
-    },
-    {
-      "title": "2340 台亞- 和亞、星亞都摔到稀巴爛，燒股東錢IPO 一堆垃圾掏空亞亞- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JM1hiaHdITVpadzJ3TnRjZVVyTlllcUxhMjBIMEktb29QeHZkY0xMMlhiMDJ4eHh4bkJzV1o1THhIendsQzEtQzB3OUtqWHkweHFLa2FGOG8?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-18T03:42:35+00:00"
-    },
-    {
-      "title": "2340 台亞- 磷化銦缺口逾七成成最大瓶頸- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mNi1xdHRHeW5iUm1pRlVLczByaUx5VHNQYzl6UEo5V0lGY04wSGZGYTZpV0tZZlM4T1lweUhzTzRQclM5VWQtbjdiU3pPYTdiMkhQSzNud2U?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-17T18:33:01+00:00"
     },
     {
       "title": "台股開盤》強彈300點是假突破？台積除息遇外資連5賣 2340元成關鍵",
@@ -63,7 +57,7 @@
       "title": "2340 台亞- 散盡家財養敗兒年年添火問何時。若能斬斷千鈞累，另育新苗勝舊枝- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lck1fS2lGVEJqU2JwVUhYLUhTb0QyQmpkRUREVzZnRUNkeG9IN1FhaXg5bXF1RVl4TmxNNENtZHVRQ1hrYkZhR05fY0xPeHVEWXJJem45OU8?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-11T15:54:03+00:00"
+      "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
       "title": "「台亞小金雞」掛牌狂飆132%！24.8萬人搶抽和亞智慧，抽中一張最高賺6.46萬 | 下班經濟學| 財經",
@@ -76,6 +70,12 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HdnE0bUdqYVhlMU1BdzcybXpxZzRhNFFFRWZMZnN1ekRLU1RFNFh5dE9MWnNHWkJidk9GRHNJYXp3ZXVmWFRUU1Z2QWFtZHB2UEMzX2h4WEw?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-10T05:14:26+00:00"
+    },
+    {
+      "title": "2340 台亞- 櫃買雙星蜜月行情發燙！和亞智慧突破百元、鋒霈環境飆135% - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WbXhSaXFWZGhtTlBkdndxVU9ENUczMnlKdzdLT0JJTi1NdmFuZFBVai0xQ2ljVGZPNDEwaC1IQmRuSkprQnRKOVlqVFpRV3RvU1NzMmFqeDI?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-10T02:17:13+00:00"
     }
   ]
 }
