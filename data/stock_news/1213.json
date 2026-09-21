@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-20T21:32:32.578524+08:00",
+  "updated_at": "2026-09-21T10:35:20.022895+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1213",
   "name": "大飲",
-  "count": 5,
+  "count": 6,
   "news": [
     {
       "title": "1213 大飲- 大飲公告本公司董事會通過總經理委任案- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1vZnJuOEhabEtqbHBjTnpXRV9nNXlWa0xTTjRmdmlDWFZFLVpiMUw2aTRDOEROSlRXV04wVmFkclFXUEpkTXdFUUZ4ZHVEZzh3VkZPOGxxUGk?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-16T07:03:00+00:00"
     },
     {
@@ -22,6 +22,12 @@
       "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPOWNaTzRPVTJVQzA4OVpKdEVTWXpjR2N2SXpvNDEwN0dmbU1CWE03R0g1Tm1rbjRqd1pKRXV5QzFDNG52UElBakNCODI3d0tmNnZTUVBudEZPMjdnMWNweU53MUE1dlV3M3JjV29rdkpsOEk0VUhzeFZCbUdDNnBmZWFGX2xTQncwYzVXVDFaZHE5eGZEREk5QWIzUVM4M3RIeVAzcGlSQkRpNUdhbXYwUzVGdDY1cWRuSllyd2xnSnN0clkwUGt0aVBwcTlESE8zM21FZ0o4MTNhamlaLWRJVWJNVkdKa1FpOGd3ZTZYYWRPM2ZCU0Znb2F0YTNvQ3RNSXk1ank3ZXZJVVBkZXVPS21sUllEVFVtMnV5cnR6UEpzbkp3VVBLUUVheHhTN0JzQ0ZwTmp4bTBmN1lreWc?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-14T10:31:24+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】大飲(1213) 八月營收表現亮眼、呈現雙成長，創近50個月以來新高，年增17.12%",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSGQ1TXk5eExRSjZBalhjQVNMZUFWYXpIRWN1THJjVE5oNkhSdjIzRTRxSXp3cFZpY1pGYXZsYnpGQl9yRHNaNWRHLWhpRlVYM0xsVU81QzVUenA4c0N0WVFQcTlIXzBTMC1fVlFSMHM0d2JQR2hjZ3V4c3M0QmhIS1BXN1Fvb0VoN2c?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
       "title": "涉掏空「蘋果西打」公司近7億！大飲前總座孫幼英更一審改判9年2月",

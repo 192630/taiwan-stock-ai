@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-20T21:32:37.391551+08:00",
+  "updated_at": "2026-09-21T10:35:25.221293+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1229",
   "name": "聯華",
   "count": 12,
   "news": [
     {
+      "title": "《自營商賣超17-4》稀土關(1231)、S&P500(1229)、富邦越(975)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb3RuaWwyNmZfdTJJdEo0TTFIXzZTd2hkekk0eEZTV1NKblFINlpEVEhGQmlLNGtjaElaOS1sVHVUdHROak52c2pPNGJLTmVSX0F6SzlFajVFa3JfRTk4OHBlQVd4bTI1cHcyZl9TMmVwVnFxN09IZjFyWXdWWGRiRTBZa1U2SWQ4?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-20T23:40:00+00:00"
+    },
+    {
       "title": "1231 聯華食 - 漂亮 ，週末假期愉快。 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4bmh3czZ4S3ZlS1FFLTVCU3YwY2tndndrZGV2bDFuZGZwa09UdGZNVUhCNlpNWUh1ZUNaSUVWcFlVLWtmWXFRUzUtR244LWtLcEVTZGJwcmM?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-18T05:36:45+00:00"
     },
     {
@@ -20,7 +26,7 @@
     {
       "title": "聯華 115年8月營收8.84億、年減13.13%",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFYUo5NTZ0WVpwa25fb0MxbW5YVDZyd0pjaTdjY1pTbXFLSEFzSE45OGhMeUI1ektVTm5MSWRzdnpVc1hqRjc5N1l0TGNGX3FmRkFoWFlBVWk?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
@@ -32,13 +38,13 @@
     {
       "title": "1229 聯華- 🚨 主力加碼卡位？昨日主動式ETF 加碼這檔！ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LbVI4UUdmTzFRX2lHa0d3Q2hIVnJZS1hlN0d0dXVkNzdPNDJLTGJOdGZPbEFjcnZmZkV3RkNfb0hRU2ZRcloyVm1sdmhfeTVnU3dheWFEVDY?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-07T12:21:42+00:00"
     },
     {
       "title": "1229 聯華- 這檔在六年前開始存股時是心頭好，從40建倉一路到60都曾經加... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2c1J1a1l4X0RXdWxMX3lmNXhuNERMdmhqbVY3WnlRLVRmdHgySDFHbjBLdWl6Smg4WkRtWDhYSjJ1STBfMUpUMXNZcElqSy1nNWxfWnBxN1U?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-04T07:00:00+00:00"
     },
     {
@@ -50,7 +56,7 @@
     {
       "title": "1229 聯華 - 賣了那麼多 終於肯買回了嗎 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uMWpFWENOOG95S3g0cGpRNUxzZ1QydGVrQzJxRzFWeWozU0FudThOdm1QZHpqdzFwNmNCRUV5X1MyOFR5YndBQnVPMDFZX3VWZ255LS00Wm0?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-03T07:52:43+00:00"
     },
     {
@@ -70,12 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02LWxfSDlaM2p2TzRwWTNfTm01bk9sVHYwUktwNkdTc0VpWUZ2b01ZdFJrcFN1OEI1a2xBYnFZVlYtWlBERS14Wkx3OUpnVDZJaHRyZjkyUzhHN1N4dE1TaE5JNkR3SXV2QXRIbWE5YlA4VWhDbzA1ZGdYeEo?oc=5",
       "source": "商周",
       "published_at": "2026-09-02T03:31:45+00:00"
-    },
-    {
-      "title": "【00991A】09/01 操作日報｜經理人啟動換手，聯華電子新入列",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42VDdYNXFSRVNfY3FDYTVoMGE3UnpXMzhuQmxya3NlZ2l5TTYxTXhsR2I2U0RNRUctc3d2TnVYOXpuaEl3eXlHZFpfWWJfOWFOamk3eU15bEhMOFVLOEpBbXFuMlZGN2I0WVhEcGdxdWYxdXctaERfdTFfQTB4QQ?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-01T07:00:00+00:00"
     }
   ]
 }

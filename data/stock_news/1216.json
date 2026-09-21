@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-09-20T21:32:33.692677+08:00",
+  "updated_at": "2026-09-21T10:35:21.180597+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1216",
   "name": "統一",
   "count": 12,
   "news": [
     {
+      "title": "統一FANG+ 00757",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE52aWhlb3djY3FaT1hCZElmak45ampSV0pnRHQ2eDdOb09zTkRsenFvd1Yzb256WHFsNFdWQmJlRHdUZW41Nzc2SXQ1dw?oc=5",
+      "source": "pocket.tw",
+      "published_at": "2026-09-18T07:00:00+00:00"
+    },
+    {
       "title": "00981A引領台股主動式ETF風騷 統一投信成為兆元俱樂部一員",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9YSnNhWGtBdzFodlRkT2htZTVtRnRjSXh5cFRSMVZOSF9WeWNUeGF3aTRNSklHV0hJcnBFc01ZdXVIUUVUUW5hRGFvU0pCVUdHT2fSAVBBVV95cUxNdXREeDZOTlBJdmp1UmdrbDJFTWNHd19QeVpWZ0lWSkZCQWtfMVNjSGhDak5oM1BRV2ZSRzBkSGxsZU5FX3V0aTMyRktqLUtPQw?oc=5",
       "source": "ETtoday財經雲",
       "published_at": "2026-09-18T04:31:00+00:00"
-    },
-    {
-      "title": "兆元俱樂部五大投信 統一投信近半年規模翻倍、增幅稱冠",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYZGtTQmo3ckhyODJzUEVUeEhxTkJxTm1ydDM1SExuQ01RYTdsTXZQQVM2TDlvSVY5TU0xQjlxLTJPX1VmRzV2MVJCTjVsdzFtd0NFY3hn0gFWQVVfeXFMUFhka1NCajdySHI4MnNQRVR4SHFOQnFObXJ0MzVITG5DTVFhN2xNdlBBUzZMOW9JVjlNTTFCOXEtMk9fVWZHNXYxUkJONWx3MW13Q0VjeGc?oc=5",
-      "source": "UDN",
-      "published_at": "2026-09-18T03:34:03+00:00"
     },
     {
       "title": "五大投信規模洗牌！統一投信半年規模翻倍主動ETF扮推手| 財經",
@@ -24,8 +24,8 @@
       "published_at": "2026-09-18T02:59:54+00:00"
     },
     {
-      "title": "統一FANG+ 00757",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE52aWhlb3djY3FaT1hCZElmak45ampSV0pnRHQ2eDdOb09zTkRsenFvd1Yzb256WHFsNFdWQmJlRHdUZW41Nzc2SXQ1dw?oc=5",
+      "title": "統一台灣高息動能(00939)ETF股票型基金的基本資料",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YRldqTDVPM1lfazF2NWVRRjQ0eXpMcHZMV2pfM3c0STZIQWp3Zy1jVFRaaGdlSlNHOXRaS0lzdjBmZWVDRmM0emtfQ01rVjV3bmVv?oc=5",
       "source": "pocket.tw",
       "published_at": "2026-09-17T07:00:00+00:00"
     },
@@ -38,26 +38,20 @@
     {
       "title": "統一FANG+(00757) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pTXdrTFdmZzJ5Ui01ZkU1d1dWRDNRT25QaE9PbG16d3FQU2lYZWtCNWhWSGxwNEc0QVFaSWl1Y0UyeGN2cm01MHpKLVdVUkgxUUwxVA?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-16T06:32:25+00:00"
-    },
-    {
-      "title": "中一張就賺翻！漢測抽籤搶破頭 比中統一發票還容易？",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBaSDlXTlprT0FIZGZlYXVfUVlMX1Q5TTI5V1ViY0E0ZkVpaUs2YTBJdmZVUnpDSHFHelZQV3dFck5vS3JkMkhXakNmRQ?oc=5",
-      "source": "三立新聞",
-      "published_at": "2026-09-16T02:49:50+00:00"
-    },
-    {
-      "title": "漢測抽籤搶破頭！比中統一發票還容易？",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1OeHFhMXh3UFZQVEFTT2NSWmEzeF9ZXzd6Zmh3b29oVEQwVVdVOVdLYk5Xei00NGhxTmt6Yk8xSzZueGhNQzZ6OENVQzVrTVZUSWxmQTJxNkZWaWhMMllLcDlB0gFiQVVfeXFMTU54cWExeHdQVlBUQVNPY1JaYTN4X1lfN3pmaHdvb2hURDBVV1U5V0tiTld6LTQ0aHFOa3piTzFLNm54aE1DNno4Q1VDNWtNVlRJbGZBMnE2RlZpaEwyWUtwOUE?oc=5",
-      "source": "mirrormedia.mg",
-      "published_at": "2026-09-16T02:48:00+00:00"
     },
     {
       "title": "統一超(2912) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uWm95N2p3M3c0OGN0dHhJS2ZwLVBwbjROc1JISmJfeGZyYVJEcjRDSEZpZFk0NlFNRmhfWWJVVThaV0tPbjBOaHI0WTlmUldZQ2JZ?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-12T05:27:30+00:00"
+      "source": "cmoney.tw",
+      "published_at": "2026-09-14T15:32:18+00:00"
+    },
+    {
+      "title": "00988A 主動統一全球創新- 又來了，漲幅應該3%股票只漲1%，跌的時候，-2%卻是呈現-... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YU0lhOGlDSHBLc1hKbmduV3hCVjlxY2VQRTNvNDFqZmFCcU1tT3RBTEhvNjNDZGtBSkpoWUhVelIwRGpRNFZjR3MtbnBUalNERFUyMkp6UWs?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-11T01:20:12+00:00"
     },
     {
       "title": "【13:19 即時新聞】統一(1216)股價小幅走高，股息活水與穩健基本面支撐＋短線技術偏弱籌碼修正中",
@@ -68,14 +62,20 @@
     {
       "title": "00411A 主動統一前沿科技- 美國人正將他們的股票投資組合交給AI代理 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aVjJxUjRUN0h3SnpkT2pjMUpJTVhGTDJRNEh4ckhlZlBtMmxfX3JKdkRvbDlCS0kzSzFMREh3elRBS09JVHVUdW85OGhXLXlCOFh0cklfTVI?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-07T05:14:04+00:00"
+      "source": "cmoney.tw",
+      "published_at": "2026-09-06T07:00:00+00:00"
     },
     {
       "title": "統一證(2855)-同學風向與貼文摘要 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42am43bzAwbWQ4dG1RUE9Gb1d4UzU1VC1xalJ2N1FtX3ZjMkNfaldRa0ZTWmhyS1hxb0hhS25FUzZzbS1HT2x6WnBxNFk1NS1uQnJGcjRkTmVfNVRYelVfUE9B?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-06T04:58:11+00:00"
+    },
+    {
+      "title": "資料來源：統一投信, 2026/9/1。 #00981A 主動統一台股增長基金",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kcE4xRnBoNVVvLVJSakVkbzQ0TVBKU2dJWi1pV3c5bVhpS2JOR1lMTGVaelhTZWFjN1VjcFFGV3lOLWRTNDdLY2VoeVZBOW4yNzBSSTBuZnFxWk45?oc=5",
+      "source": "ezmoney.com.tw",
+      "published_at": "2026-09-01T07:00:00+00:00"
     }
   ]
 }

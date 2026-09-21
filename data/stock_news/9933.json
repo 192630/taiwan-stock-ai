@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-20T20:37:46.625930+08:00",
+  "updated_at": "2026-09-21T10:34:47.543157+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "9933",
   "name": "中鼎",
-  "count": 7,
+  "count": 8,
   "news": [
+    {
+      "title": "中鼎工程機器人攻LNG管線 推升在建工程近5000億元",
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxON0pZM093VUpXdk5qdlNZendwbmtGdnNJR0F1QkpEM0llZ1M4UWxOQmNMeHZSX0JPUUhGbnZlS1VfSXRyYXNkZ3JxVkxENFp0b3NBU2plcDdhX1VVUms1UG5jenRTa0U1QkNZX21rb1VQY2pLVDlpajlvTDVmWElKNHhsNE0xUS1nd1pnaTh3RkdnaUdBWkctZ0c2MlIzTFM4OS05LUlmbVlEWWtKQU8xUzBVRUdJeks2RjVSZ0M5Z0tfV1l4dEFuVk1KLW54R2JJNi1YUnFBTHgwTHVTSXJtUEJwdm1JUkxFVG1iQWJram5jWXZtcC0tY1lFWDVNdFVhbFMyZF9mZVp3bkxrX3cxRGpiV0E3TlpzOEFPb0I0U3J5UkpfQ1locTdkTFNpc1JSaWhxanJkMFhlRUlKLTNOeElR?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-18T06:43:00+00:00"
+    },
     {
       "title": "9933 中鼎- 中鼎-2 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pdnVPMUFmOUZZT0U4STN1bTM2VUF2XzNwZEtuZklhOTl6N1g4aGo2VjVlX1ZNX2VGRTh4WU4tYVJJVDdXNlZFM0VZSXVWTnlmYmVzczVYcVI?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-15T14:04:25+00:00"
     },
     {
@@ -26,8 +32,8 @@
     {
       "title": "9933 中鼎- 🚨 主力加碼卡位？昨日主動式ETF 加碼這檔！ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Lckg3ajRPWmQxdUFJUFZraFN1RlVtbDRLMGp5WlpDVExXWW1WenJtbWlhU2xoQVlVQlM5dUlVaUFVRFY4cjVOMjQycWdxZXJHWFRqMzY3OHQ?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-09T13:10:10+00:00"
+      "source": "cmoney.tw",
+      "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
       "title": "中鼎 115年8月營收69.96億、年增5.25%",
@@ -44,8 +50,8 @@
     {
       "title": "盤後速報 - 中鼎(9933)次交易(8)日除權息0.95元，參考價38.8元",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KREpxQWJ6bHJHUlA1eEFZVHNiaEhZbzhrbnZyLWl4SVNhb3M0TzNpR3VTMWFQeE1aWFJTWmF4YXJWYnB6aEw2MzZTckZTWkgzSnh5WXdJbnlmMUx5NUxFTzVpbkwzUQ?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-07T09:05:30+00:00"
+      "source": "tradingview.com",
+      "published_at": "2026-09-07T07:00:00+00:00"
     }
   ]
 }

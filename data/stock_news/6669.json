@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T20:38:04.115296+08:00",
+  "updated_at": "2026-09-21T10:35:07.142370+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6669",
   "name": "緯穎",
@@ -8,7 +8,7 @@
     {
       "title": "緯穎(6669) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hcDVGLXVyQ2RJSEhHeExUZ3pzSTBvcmRkd290RUk4U0Y5aTRzR18tVElNZEhjWXNnMDNIV0VvSUNxVlNET1dzbkdWODBFR3NBUnhV?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-20T02:59:18+00:00"
     },
     {
@@ -16,6 +16,12 @@
       "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOb1BsUFdjTHpoSFdwRHhlaVdndnM2RjBmTmtVc2FYRDUwSmVCVWwxd1JweDJuTHd1MGZqRGl2M1NOU3NGNmYtWWI2RVZTVnQtZFZwUDhfeXRHQW9KTGJZR1lKa21fNk5GMkVkVVRUQ0pWaURPaWhvdllxWTBWbDAtU3MxNG52VzJfZmJjV2psdklSMkw0blEzX0xLWXNLNUtCQjlIQmY0OFBkUzZqUUNvTjcxVWZ5UU9oUzVpbWVSRVd6X3BrdEdaU1hmZ2lyVjF1c1l2SVlVV3BScXJ2Tk9SSGtyRzItS2FIT2pqVEFTcU5JT1Y4Z1RTdml1R2FmdDMzWmwzcDFUS1lQRmFTS0ozbTJEREI2eGVBRG02dWduUkl2NDc5M2FwR2FsVkJYLXdqVGJxV2FtNmlISUcwbFVFcU9icmtqRjFlV1U2a0JORUpXdTNxRjdvQjZmem1obHJibVJGUlhMbDk4eFN0NE81bWV4N18wbE91ZXc?oc=5",
       "source": "Yahoo新聞",
       "published_at": "2026-09-19T22:52:52+00:00"
+    },
+    {
+      "title": "00981A加碼 緯穎股價再創新高 外資升首選並調高目標",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONHJfa3RnV2FjR0pxMkVJZ19Ub1FhVGZWdVJLUlpuYk51bGtHVXhrV0VBS0dTZUJfNVhVX3NFT2o2NG5HU3dPM0R6ZmRhU2YtczJ3WnQ4NUQwQXZKazkxbm1IZzJWbzNySDBWN25lTHU5VFpoM2Z5RUd4WDdfTzUwU9IBX0FVX3lxTFBMMFdBUjl4d2p5TDVrT0kzZDhFQld5QmgzcnpNbGVKM1VqSVI5Q2NvNVVkVDIyMkxWUkpSemR6SGc5SXhfOFVXTEpJclh2bk1mSlhVbF9sY1dIc3pSa21j?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-18T09:00:00+00:00"
     },
     {
       "title": "台光電、緯穎靠傳言股價下殺 大立光因降評股價重挫 外資反而開始買進",
@@ -48,12 +54,6 @@
       "published_at": "2026-09-17T01:31:36+00:00"
     },
     {
-      "title": "重倉廣達、緯穎、中信金 這檔ETF兼顧高息與填息",
-      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNVjVCeTI0MUFldEM4ajZRYVJJbEEzMXlxdzRMMFdBVC04QThpX1JHdjl5VldKcGZkS0l6MEpDQlM1UDRfQzlIcVBvejNsX2FPVDFweU1nY21IUzRkam54YTcwd1hFNjFlRmItNzlpdFpiS1pCU25VY3M5aDJoTEtSUEdhS1B6YTdEaXlqZjBVUDhCMTdsZjdFdDNpN1pHcGNmZlZYanhCWGN1WmRXSGRHdGYzOG83QW9Oa1U2Vkd2LXVaR0M3NEJmMllPRXQ3QzAzWjV4MUtldVJpVFQ5YjhqS0QzeTJrVEtzV0hUcHV2NVJrYjFHU2lVeVFzRXB1OVFIWG1LRnQ0T1VqaC0zUTVDYXdpa3cxYlRaYlJtbWZtaENuZU5ISEMtdWJTeWZoTEFDYURj?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-16T18:58:22+00:00"
-    },
-    {
       "title": "緯穎盤中驚見跌停！閉門法說傳「新平台專案展望保守」 引爆外資程式砍單",
       "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxPaU5VdkJIM21sMWZZWFVCYnBaNC05TFY1QkpXeXJXSFhEWElsSlVEdkQtRVp4YVhwcWhHalNJVzVEZEJCbk5ITlphVGYzVkNibUNnZ3BKLU8wQkl0ZkNEZVRjTWNKdVZBN1REMG5kS2V1bVlYX3lfVjA0OEQxZW85eDFjQnRMN3dFMHlaNjhOWkZuZGdsMWNLTVZfQlNJTF9jWk9HbnFJdFNhNlZmbktHRjV5dGdGeUNnUDdLR0dVYkJsNmtIQ1I3akszZFFiYjVNbUkxdjFpRXpKUHQtZEIwY0hmUTBrbDBlUTZiSmVsVk4tbGV5VXVkaUNjY1REN3daLWxlY21JM212dnowX05lUGlENjFtak91c0dEOW9YV3JYMVN2WFJsQ1hUZ0lPTElVXzBEZ3ZZZTI1emQ5LTlSdVN6dXgtYjhvQnpGRWlnWnNfOFlnZG9iOFExQ01Sd1h4cEFWSDA5aVRIYmMtOWt1OXM0UEsyYmJtMFhqMEpBM0Jqa1VyZXZlNXhpQTRjc21FdjNFU3J5SFJlbnZrU0NOYTdmQVNTWkdzVnNTY1NhQ0l5MDVUZ0dxZ0Z1ZXRHVVFWS1lUVU1aVQ?oc=5",
       "source": "Yahoo股市",
@@ -68,13 +68,13 @@
     {
       "title": "緯穎怎麼突然殺到跌停？砍單傳言四起 但真正原因可能是這個...",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kWmhTb3J5bHBFSlNSeDJhOHR5U1ZHeWpqcFBSb2piRzE1RklJdkttWE9PRWQ5Nm9FRDJSLUc0R29jVjNNZ2hqVkplRktfX09XTDNFYXA1Rlhnd9IBX0FVX3lxTE1pUTBPNnUwOVRrUjVqNDFzbjY5ak16RlJNYVV2eG9JWExzbXg2amRsbkgzRG1kNEM1eXdEX2VTMkt0WXFZekkwUEw3dkpGaDl0WE1Yb0ZUOWdKMnRLYlBJ?oc=5",
-      "source": "money.udn.com",
+      "source": "經濟日報",
       "published_at": "2026-09-16T06:37:08+00:00"
     },
     {
       "title": "盤中速報 - 緯穎(6669)股價殺至跌停，跌停價2085.0元，成交4,095張",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96VGdraFNvcDViaWZpTTBmSDN5VVluN3Y3X1EwVS1yVW00a2lDeHdsd0hZMkhnbEE1a0NENWNnLWhUOU56dUt3UURVeUxjVXBMTzNCcEZEWlpyaC03cVFLSUZqc2tYdw?oc=5",
-      "source": "TradingView",
+      "source": "tradingview.com",
       "published_at": "2026-09-16T04:39:00+00:00"
     }
   ]

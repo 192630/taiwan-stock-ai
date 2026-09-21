@@ -1,27 +1,21 @@
 {
-  "updated_at": "2026-09-20T20:37:57.380215+08:00",
+  "updated_at": "2026-09-21T10:34:59.462688+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2882",
   "name": "國泰金",
   "count": 12,
   "news": [
     {
-      "title": "國泰金(2882) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uX3NaUWN1RHFqMDY2WEJSbERHNDhiVlFuZlRhc3RUQjRjajliRlRHdUR5aUFIOVA1ZG1Vb3dRd1FMY3YyUXQ0ZHNGNG5XLUdYaTJR?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-20T10:12:15+00:00"
+      "title": "〈國泰金經濟調查〉9月景氣樂觀情緒、股市風險偏好回升 仍憂民生物價影響通膨",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BWG5Ca1lqQTVXOUdzNXJfeVg2Qm1HSVpfT1gtU3hueG5reGM2NzFuOF91OF9UN0I1cDNzSGd6MzdyRGNYb2JvVC1CUnVBeEU?oc=5",
+      "source": "news.cnyes.com",
+      "published_at": "2026-09-21T01:17:40+00:00"
     },
     {
       "title": "熱門股》外資認同股利 國泰金大漲5%",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zRmNkMm8zb3hFT0RueXZpbVVlRUxpV2ZFSDJIUjFYY0RTWXhGT01na19wN0tHVWttbk96ZmN3X2RrREdxSW9uTlpPQXZVeWxQUVRCajJSMS0?oc=5",
       "source": "自由時報",
       "published_at": "2026-09-20T06:18:46+00:00"
-    },
-    {
-      "title": "國泰金前8月獲利986億元 國壽淨值已近兆元",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PYnFiOUFaVC1lM0lOMmlNeFVONE1OdEVmLW9DWVllR0ZvcVpfTUpjXzgzTTQ3Zng0R2NVcldfbEpxeDY4SzVYc1dLclBSOENQcmZRaXJVN2w?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-18T00:06:50+00:00"
     },
     {
       "title": "國泰金今年有望配息3.5元 續尋併購成長機會",
@@ -60,16 +54,22 @@
       "published_at": "2026-09-14T10:18:03+00:00"
     },
     {
+      "title": "國泰金前8月獲利986億元 國壽淨值已近兆元",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BUFQxUDcxNWtkcHFZcTdWTXlvQTl4WG1tUDRhVnFGTmhFR1hQTEVySnAyR3dXNURpOGpUcjl3WUtFMk8yNUFCaTJjM2pId3p2RFBwNTNSbkdPX01kSHZJ0gFkQVVfeXFMTWliUDFubW5KQUFDb1ZxelZXZ2NFNlVRQU1tUWFyeGo4TzRXaGlyYzhhZW44dzJSYlllcWx1SjZTaEdhdUg1bXlpTm5zX3BGa0N2TkJRZEFJVGl3bEFuei1ibjJhUQ?oc=5",
+      "source": "自由財經",
+      "published_at": "2026-09-14T09:58:14+00:00"
+    },
+    {
+      "title": "國泰金前8月賺近千億 保留盈餘影響破2千億 | NOWNEWS今日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMWkNrWlhPSXV4emlOR0dBRHVxZTBsaXhaaDh6LUtUNHRPcHZJSXY5c01XdkF4a0xpdkFGWmVMSmczTzJmS2pCSDMwT0YzaGkzbldZN3dn?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-14T09:26:19+00:00"
+    },
+    {
       "title": "國泰金前8月賺近千億 對保留盈餘影響數突破2000億元再創新高",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvMTIyRkJLUEkyOVU2RXEyX3VqS3pydkE1X2xTQWsyRjNNN2lLbU1naWdBRFBfZWF4QXVFd094R2hBWGtUcmJGWE44T1Y3SDQ?oc=5",
       "source": "news.cnyes.com",
       "published_at": "2026-09-14T09:09:12+00:00"
-    },
-    {
-      "title": "國泰金前8月稅後淨利近千億元 對保留盈餘影響數突破2000億新高",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBQy15eVRibzRQdUhxanVZNmxReUxuVnhqdk9DT0FNMkwtNllvTXRTS095ZzhRVzZlQmlzUW94a2NGVWtXcTU5Vmc2bE5lV3p3OFHSAVJBVV95cUxQQUMteXlUYm80UHVIcWp1WTZsUXlMblZ4anZPQ09BTTJMLTZZb010U0tPeWc4UVc2ZUJpc1FveGtjRlVrV3E1OVZnNmxOZVd6dzhR?oc=5",
-      "source": "NOWnews今日新聞",
-      "published_at": "2026-09-14T09:07:27+00:00"
     },
     {
       "title": "△個股：國泰金前8月淨利986.4億元，加計FVOCI處分損益突破2000億元創高",
