@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-21T22:34:59.045193+08:00",
+  "updated_at": "2026-09-22T23:33:21.952438+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4433",
   "name": "興采",
-  "count": 1,
+  "count": 2,
   "news": [
     {
       "title": "HITO-Communications Holdings, Inc.收入明細 – TSE:4433",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9VMU9CQS1xVjZzX2ZublRuQzg0QnJQdnpTZjVoMFdEMjlLV0FrbTNFMkRtWXYtbG5OM2hURERQZWswX1h4Q3VaVEU2cDEtOF96bFAzUzFDcHB6MEt6SXhaNmV2U1B1bDREZ2FEYlpfdTBTUQ?oc=5",
-      "source": "TradingView",
+      "source": "tw.tradingview.com",
       "published_at": "2026-09-13T20:24:36+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】興采(4433) 八月營收1.68億元，營收雙減，年減45.53%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbWtDOHh2QkhvbWR4TU1lbEdLMFhDQWdLY3hnNThhM3FFa0lMdERJdWp3LUFkcE0tSHZhMkx1enBsWXo1Tjc5T2w3RXlQU3Jma2hLWEZzandBSkc1bEN3QW5XWERoaEVBbkpJbTdMZWNTWFFJWkJBczhHQkpMVjAwczVfcjFpS3JCQ1E?oc=5",
+      "source": "cmnews.com.tw",
+      "published_at": "2026-09-09T07:00:00+00:00"
     }
   ]
 }

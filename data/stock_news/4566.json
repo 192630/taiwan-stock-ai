@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-21T22:35:19.660802+08:00",
+  "updated_at": "2026-09-22T23:33:42.575801+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4566",
   "name": "時碩工業",
-  "count": 3,
+  "count": 4,
   "news": [
+    {
+      "title": "時碩工業(4566) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RVHBfaVNQSFRZOGl3QjlRbEE1dEpRSzkwbnhGOVFwbWp2U0h2c3ZoX0daaUE0MlN0VVJPN01KOUtuVmUybVBtY05ZTlF1Ti1iWVE0?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-22T06:05:56+00:00"
+    },
     {
       "title": "討論牆 | 盤中速報 - 時碩工業(4566)股價拉至漲停，漲停價76.3元，成交3,300張",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXYy1SQkk1MUE3ZDByRDJOWDJVajI1VjltaDRmbHFzdGc5QnBiaDFCeWFSYXFUUkVhNUdSWHc2a3VENkRpV2IxS0k2QzBZTnNNQUpQSk5Cdk9pZkcyc29Vc1NxSnE?oc=5",
@@ -14,13 +20,13 @@
     {
       "title": "【08/31 申報轉讓】時碩工業(4566)經理人劉思儉於31日申報轉讓時碩工業股票60張-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcjhOS2loX2E5MTRSaFVLM2JTeVpZMERqV1ppWFV6eUVjd253MmhKVGM5LUVsemp2TmZ5MmRwSHJxWGxpSzBKTkJHOTJIUDVGTnozZldfeHpIUHFPcllKeGVNVnJENE96cHBtdUxoUFI3TnY3bUZhTnkwVTAzUHRtN2lkVk52M3AzeHc?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-08-31T07:00:00+00:00"
     },
     {
       "title": "【08/31 申報轉讓】時碩工業(4566)經理人張哲銘於31日申報轉讓時碩工業股票15張",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NNnRlS21WSVBnMHdOb1AtSFdaQUF6b1p6WFVndmVpQUZJTzVFN0JtLWFGdXpLdFNQMFZQbE9RQmw2bGlZWlNjODA2Zm90dkFSM20xcFdma3VmejY3bEI5UjlVanl2WGM?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-08-31T07:00:00+00:00"
     }
   ]

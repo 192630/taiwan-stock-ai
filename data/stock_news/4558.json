@@ -1,20 +1,26 @@
 {
-  "updated_at": "2026-09-21T22:35:16.839421+08:00",
+  "updated_at": "2026-09-22T23:33:39.727962+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4558",
   "name": "寶緯",
-  "count": 2,
+  "count": 3,
   "news": [
+    {
+      "title": "《投信買超5-1》聯電(7901)、京元電(4558)、臺灣IC(4250)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWU90WHFHZHlaRGxIOFR3ZU1fN1VCZ1FBVUxDdGwwNTNUMWJiZWdZeGNDdGpzZ2Nmc2tYZUNGczlEek1UaDVBVEJuMDh0RUJzNHN3RGd1dVlvOTh6RExIc2tRNkZON1BPWTNXa3F2ckpuQXpqYVRFdU9KNVBiYzFHdGJ2MG9fSlhr?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-21T23:36:00+00:00"
+    },
     {
       "title": "【2026/08月營收公告】寶緯(4558) 八月營收月減年增，全年營運續看向上-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbFZ5ODg4ZUY1SF83TC1rdjJ5a3EyVkJfU0NEdGVYR2VLR0N2M1l5YTF0LUJfYW94RXBNSjRiV01jbmRMMUNteE1qekNJbjVIVGhGTDkwQnZYT0VLZm9BMEVJcUY2YVFnRjhMYV9tUU9aUnFCeEZQWXl6RHpMRjhrLUhDQk8xZUljTlE?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
       "title": "3008 大立光- 我就是看得遠半導體廠軌道的受惠轉機-寶緯- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1YW5GQzR0bEgtYXF2NGpSOTByVEhsQ3JzMmdhR2pTSkdrb2FJWWxPTERjRWpCdF9LYmZ0Mk9xakwwelNVY2R6MFFtQjB1X1dNOU5KOGJ1ajg?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-08-27T07:00:00+00:00"
     }
   ]

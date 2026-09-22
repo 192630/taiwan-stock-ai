@@ -1,26 +1,14 @@
 {
-  "updated_at": "2026-09-21T22:35:13.437890+08:00",
+  "updated_at": "2026-09-22T23:33:36.312029+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4550",
   "name": "長佳",
-  "count": 5,
+  "count": 3,
   "news": [
-    {
-      "title": "2454 聯發科 - 聯發科多空觀察：4580先觀察，4550破量再空，4600站... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mSzB4eHM2bDlTZ2tHekp2amRjb3FDVTZIQXFKNDNMeTVGWllKVDFEQzdpYWt1NEVrOHRxcUJDWl9yNUVYenhDR2hKRURQVER1LUMyRkRObk4?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-16T02:58:06+00:00"
-    },
-    {
-      "title": "6841 長佳智能- 再度破底- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GZk0zQ1hxOVhRRVI4RTdMR2g5S0htQjNqMlpxdVVRaFcxNDJFYXlRTWpiV0pKV3dQR0M5bnNuanl2RFdhNGtScmlmSlZ5UnRpa1NkekFUT1k?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-14T03:45:58+00:00"
-    },
     {
       "title": "【2026/08月營收公告】長佳(4550) 八月營收表現亮眼、呈現雙成長，年增20.11%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcTBTLTIzUk9XNkVtSzRYTkNOMW5PMWVvWGFPMzNCMENVdTNVdUJ2ZS1oRWZKVkJKdXRoNThMenF4SmpuRXlOSlVoVjZJLXhmdjRvQUJnaUwxcUJDSXdwRjRLWkhYMkcyd1JGQUNfM0p2WkVBdXZKSXhKN1RDRURpdk9qQjlNMzItOFE?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
@@ -32,7 +20,7 @@
     {
       "title": "長佳智能 (6841) 本公司受邀參加寬量國際舉辦之法說會「Healthcare Corporate Day」",
       "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNNklvWXFFSWVwaEtXSTNQM2NlNkNxcXpzWno1aEdoUVZ1YTNWZUp6Wk14aHNZb2I0Z3hOSU9kVzNBNUlCNGJhaWZDc0o4Qkg0XzhKRFFuUlBnMDRPbWR4bk1EYWVmTVdkQlZLUFR3WUkzRDFsRVBVNWlFaklQT1lzalpZZGJLN1J3M3JWMFZicTdVNzZta3l4eHU0MVFaZ3pVbEpybFR4UmJVTGNaTGFNWHlTVHRWdE91cW51bEdvRzZBTFZoUU9fQ21MNzBQRC1Wa0daaGJNSnlORjFIaWllaWtJTFFROWhEQTB5V3BSSXE4QW81RFR5V0dDZEN3ci1ORi1fWHhEcXJVR3d4MDdSd01wM0RyZFhiRnR3alF2aE9oVzFNaTZRU1o0bEwtTXljb09KSjFB?oc=5",
-      "source": "GeneOnline",
+      "source": "geneonline.news",
       "published_at": "2026-08-24T07:00:00+00:00"
     }
   ]

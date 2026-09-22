@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-09-21T23:33:18.789442+08:00",
+  "updated_at": "2026-09-22T23:33:55.372044+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4728",
   "name": "雙美",
-  "count": 1,
-  "news": [
-    {
-      "title": "【2026/08月營收公告】雙美(4728) 八月營收2.23億元，表現亮眼、呈現雙成長，創近2個月以來新高，年增48.82%",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ3Z4X1pVSzBHQnkxMkV4WFlCLUlucTVtR0laTTZucmhKczNNZllHa2tpbVFvc05ZM3JiUUZ5TUJMQUxGbUJ3WGItWHE0RFRjN3liYzlwWFJhQ2U5RElOM0oyNDBleEVMMWhFcUFzOHlYOFFaRmp2M0VTemdTX1lLcEIxa3RWYndMQ2c?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-14T08:10:14+00:00"
-    }
-  ]
+  "count": 0,
+  "news": []
 }
