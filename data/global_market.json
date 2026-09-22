@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-22T10:30:44.717377+08:00",
+  "generated_at": "2026-09-22T11:31:06.273668+08:00",
   "taiwan_market_phase": "盤中",
   "update_status": "更新完成（延遲行情）",
   "risk": {
@@ -17,9 +17,9 @@
       "unit": "USD",
       "source": "coingecko",
       "symbol": "bitcoin",
-      "price": 85741.0,
-      "change_percent": 5.305706227902858,
-      "data_time": "2026-09-22T10:28:30+08:00",
+      "price": 85595.0,
+      "change_percent": 5.098476759397097,
+      "data_time": "2026-09-22T11:29:00+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -30,9 +30,9 @@
       "unit": "USD",
       "source": "coingecko",
       "symbol": "ethereum",
-      "price": 2745.62,
-      "change_percent": 3.020571208608402,
-      "data_time": "2026-09-22T10:28:30+08:00",
+      "price": 2738.04,
+      "change_percent": 2.6191856350300116,
+      "data_time": "2026-09-22T11:29:10+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -43,9 +43,9 @@
       "unit": "USD",
       "source": "yahoo",
       "symbol": "NQ=F",
-      "price": 30880.25,
-      "change_percent": 6.6178120738170465,
-      "data_time": "2026-09-22T10:20:41+08:00",
+      "price": 30888.0,
+      "change_percent": 6.644569889688746,
+      "data_time": "2026-09-22T11:21:01+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -56,9 +56,9 @@
       "unit": "USD",
       "source": "yahoo",
       "symbol": "ES=F",
-      "price": 7834.5,
-      "change_percent": 3.6789518957189173,
-      "data_time": "2026-09-22T10:20:43+08:00",
+      "price": 7834.25,
+      "change_percent": 3.675643485740753,
+      "data_time": "2026-09-22T11:21:02+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -95,9 +95,9 @@
       "unit": "USD",
       "source": "yahoo",
       "symbol": "CL=F",
-      "price": 92.76,
-      "change_percent": -9.440593576100753,
-      "data_time": "2026-09-22T10:20:41+08:00",
+      "price": 93.13,
+      "change_percent": -9.079371277945924,
+      "data_time": "2026-09-22T11:21:07+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -108,9 +108,9 @@
       "unit": "USD",
       "source": "yahoo",
       "symbol": "GC=F",
-      "price": 4382.4,
-      "change_percent": -0.11623931623932454,
-      "data_time": "2026-09-22T10:20:41+08:00",
+      "price": 4382.3,
+      "change_percent": -0.11851851851851437,
+      "data_time": "2026-09-22T11:21:01+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -121,9 +121,9 @@
       "unit": "點",
       "source": "yahoo",
       "symbol": "DX-Y.NYB",
-      "price": 100.415,
-      "change_percent": 0.10467550593161598,
-      "data_time": "2026-09-22T10:20:44+08:00",
+      "price": 100.382,
+      "change_percent": 0.07177748978167953,
+      "data_time": "2026-09-22T11:21:06+08:00",
       "update_status": "延遲行情／更新頻率依來源",
       "stale": false,
       "is_realtime": false
@@ -143,15 +143,15 @@
     }
   ],
   "confirmed_data": [
-    "比特幣 85,741.00，漲跌幅 +5.31%",
-    "以太幣 2,745.62，漲跌幅 +3.02%",
-    "納斯達克100期貨 30,880.25，漲跌幅 +6.62%",
-    "標普500期貨 7,834.50，漲跌幅 +3.68%",
+    "比特幣 85,595.00，漲跌幅 +5.10%",
+    "以太幣 2,738.04，漲跌幅 +2.62%",
+    "納斯達克100期貨 30,888.00，漲跌幅 +6.64%",
+    "標普500期貨 7,834.25，漲跌幅 +3.68%",
     "費城半導體指數 12,433.17，漲跌幅 +11.70%",
     "VIX恐慌指數 14.87，漲跌幅 -13.55%",
-    "WTI原油 92.76，漲跌幅 -9.44%",
-    "黃金 4,382.40，漲跌幅 -0.12%",
-    "美元指數 100.42，漲跌幅 +0.10%",
+    "WTI原油 93.13，漲跌幅 -9.08%",
+    "黃金 4,382.30，漲跌幅 -0.12%",
+    "美元指數 100.38，漲跌幅 +0.07%",
     "美國10年期公債殖利率 4.96，漲跌幅 -0.66%"
   ],
   "rule_signals": [
@@ -399,8 +399,13 @@
       "generated_at": "2026-09-22T10:30:44.717377+08:00",
       "score": 13,
       "status": "偏多"
+    },
+    {
+      "generated_at": "2026-09-22T11:31:06.273668+08:00",
+      "score": 13,
+      "status": "偏多"
     }
   ],
   "risk_change": 0,
-  "risk_history_sample_count": 43
+  "risk_history_sample_count": 44
 }
