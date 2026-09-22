@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-22T01:32:41.594698+08:00",
+  "updated_at": "2026-09-23T02:37:21.007386+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5878",
   "name": "台名",
-  "count": 3,
+  "count": 4,
   "news": [
+    {
+      "title": "$KPJ (5878.MY)$",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5uWWVfaG00REVYcGlpNkhaX2VPV1JDRl9BUmthMWg0bVlsbVNMaEFYLU5tdC1rdDlLZ01VZHN2d1ZkenRuWkN1YXA5blpHYnVUV2VWRHZDSVdla2JtWWhIdXpFeWM5d1V6cE4tbWR5U0lJRzZrWFkyQUZR?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-22T03:26:57+00:00"
+    },
     {
       "title": "《櫃買市場券商買超比前30名 3-1》台名(95.88)、五福(42.00)",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSlpzZWxFclBXOGREcmNyd1F5WU1wbjNlY2VkTkR5czNZWkotMEFJVnhXYkY2Rk5BUDFFQWVnNGJ3M0tsRWNjSjM5MXlhOXdNLTNwQ245MWdOdXVNNGhwQlpkNFRwdGpReTZMLVQyekRuNlZyaWJTaXo2bF91TFRBbFN5c19va1Vv?oc=5",

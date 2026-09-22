@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-09-22T02:37:05.434833+08:00",
+  "updated_at": "2026-09-23T02:37:33.370924+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6111",
   "name": "光聚晶電",
   "count": 2,
   "news": [
     {
+      "title": "光聚晶電 更正本公司之子公司115年8月背書保證申報資訊",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EVkZfc1NlNElTT0JCMnI0WEJmU0dVbXN3MXd6ZDZiWnM3VXY5bHN4OGJvZmE1T0I2dXVkVUpXWWE1aURmNGZnbm53WHg5ZEtWQS0xLWVjQk8?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T10:07:00+00:00"
+    },
+    {
       "title": "凃董再出手! 光聚晶電擬斥資2.52億元併購造隆電氣、勤曜電氣",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LM0hrSUhVQUFuYmlCSzA1Y3RmT2EyQ1Q0TDRGWVB3VTN0b0VYb0JyZ1NVbTVXcTBBV3lFTEJYQnltTG9lVC1rcm5ud0ZDR0x4RXBUWXlzT3I?oc=5",
       "source": "自由時報",
       "published_at": "2026-09-17T03:00:28+00:00"
-    },
-    {
-      "title": "【營收快訊】光聚晶電(6111)公告08月營收",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5IejIwSVJYSkxlSnlkVm94QlpuX2ZBbkJCVEswMnh1YmgwNnhVMkU2MGpQbEhRRTdNdlpTeG1SUWg5MHFhbTl2ZDBCbGxXejNIakxhV0VRajk?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-10T08:24:54+00:00"
     }
   ]
 }

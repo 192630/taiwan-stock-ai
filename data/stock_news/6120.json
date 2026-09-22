@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-22T02:37:09.569820+08:00",
+  "updated_at": "2026-09-23T02:37:37.514343+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6120",
   "name": "達運",
   "count": 12,
   "news": [
+    {
+      "title": "【09/22券商評等報告彙整】達運光電(8045) 今日僅1家券商發布績效評等報告，評價為看多，目標價為63元。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMGltZ290aWFmTUx5R3ZhdFVVYXZsVF80bGFuWGxDclIyR0ZYZ3ZZdlNQSXBlRS0ta0UtQUZkczB4ODY2UE9VR19OWmJHUnZoOUZBdURrV09WMUNpd09keEJ6d3NDTi16amprVGdvdFFzaWZfVldyWVJyb1dGamdaQlJPaFdyaFh1VEE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-22T10:50:08+00:00"
+    },
+    {
+      "title": "【11:31 即時新聞】達運(6120)股價走強，市場聚焦獲利轉盈題材",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeFRZQTU5anR5VklFbF9HWlZ1cVh2VGRYbHI0dkRMV0Y0RDZzXzdHU3RYUVV1eFZ0dDZTWW9GdWVfMUhCYUtONm5wdXVtZnVkOTNzYzU4UUxoaTFoMkE0dEdxQVYyUVFUQ2RORmtwQmxLZld1RUZuSTJEbXhhd2hDQll2V0lNYm5aVXM2bHh3?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-22T03:31:56+00:00"
+    },
     {
       "title": "達運光電訂單能見度達明年 軍工、網通雙軌帶動下半年營運走揚",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjcTFUZXliWEcyTWFSaXZZMFRNMTZScURId3BkMWJKMHhSckp1WGZUMS1ZTTVKSlVyLWVLZ3M1RHMtTkJqZ2lqQ0tBWXpxZm8?oc=5",
@@ -12,16 +24,10 @@
       "published_at": "2026-09-21T02:08:21+00:00"
     },
     {
-      "title": "達運光電（8045）法說會 4 大精簡核心",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhRXo1bm56eDVuRXBxdjh2WDlfUTE5V09QU0FDOGxjcFhvbm92cUpFR3U1d3c3b3RfdU5ZNklQdjViZG83MVU4a0NkbER1QTNwcEF4VjJzUjk?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-18T16:19:15+00:00"
-    },
-    {
       "title": "【11:56 即時新聞】達運光電(8045)股價走強，無人載具與AIoT題材成盤中焦點",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQmtxWjZEWjVOTE1FTFpkdnFsODNQcTNUamZBWmNyUXhkMDJReXhpZVNjYnZqUEJna3M5N25BR1RKOXFKWm5FVDlycTdTMWQ5Vnl1alhJdEpLbUNHem83aVJRTVBzcUIydWhKRHJJVFF2clRSQkdRd2JqWVhhOFFfMEFhRlljS2lrVzA1RDRB?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-17T03:57:06+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lZWUyRUU0Y3JoS01kbTgtaks5a1lkWnlpZUtQdW56SWRFYUhHV0NBVGM2bXYwVkMyV0ptSENiMWZ4VUwwNlBwUjZlRmdMSXUzNm4xdi1SM1o?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-17T03:57:09+00:00"
     },
     {
       "title": "達運上半年 EPS 1.42元 盤中股價衝上漲停",
@@ -42,10 +48,10 @@
       "published_at": "2026-09-15T02:48:16+00:00"
     },
     {
-      "title": "跨界出擊 富強鑫搶AI封裝、達運光電吃下美軍工大單",
-      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNSko2RUp5VjdCWDRlNDR0ckctUmphZWdZd1FmQkpiejJlMk1TVTVPUUxxejh6WGZ1MFFWd093RFZHc0hsOC0yNFllaEZIX3FvUkVSbXM2ZHdISXpfd2F6RW82SHM2YlVEZ1R4MXFUcG0waUFQaE5xMzZ4d0gzSkwwWFUxQ082T09FWjZzdzk1SkhvbUd1ekNkZW1LNjU4YWtROWNIdnZKT2VFbVpEZlZHSjJvTkFudUxIN0FhSHFlUFlNZEhGWUIzdjBDSTBvdG9MRThSOGQ1ZnZNOEhQRUdoZ0h3U24tOW1LeDUwWTJaVGlfaVZtQkViMkRsclI3YXBYb1ZFRWk3M2Rnb0xvaGU0NldrblVrWWZsanJWX3p6Q3ExNG9ya2tIS28xWndudlZIV1ZoMXFWUTVwVXpweVZnd0FyWUlJcVg0?oc=5",
-      "source": "Life 生活網",
-      "published_at": "2026-09-15T00:23:36+00:00"
+      "title": "達運獲美國奧克拉荷馬採購合約 攻入美防務鏈下半年展望審慎樂觀",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KSTlUdVdnYzBCbWZZLV96MVFuVVhIclkxcGQ0NnUtMEdfRWE2V0dNZFUzZzNORlIybDVHWHlYdFZfNzVmVnlwY3d0ZTJ3M0tNWC1kWk9ReGI?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-14T14:40:13+00:00"
     },
     {
       "title": "8045 達運光電- 期待對股價有幫助！ - 股市爆料同學會",
@@ -63,13 +69,7 @@
       "title": "達運光電獲美國奧克拉荷馬採購合約 攻入美防務鏈下半年展望審慎樂觀",
       "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxOZ001bDFzaDd3TnNsUVZkeGpZUmlIc09kYUhWV2V2VDdkaGowbUp2ZUl2QTh6amNHQ1ljREhhZmg2eHZPS1BvZjU4NW5UclhZMjI0NnpPR1BZaEU1SjV1NFZPTGtSaXBrUGZxYmExcWIxXzJDTW85RWNzb2hHQkhKRVphVzZiRzUzYXlxTHpFbDZKVTlkX3ZiYVZEemRJN05IZkF2MU5CWTBDQXlaaGN3RDV3cEU4N29icTRZbkJwd1luWjdvY1d4TmdRa29YV1lTaEJWWEgzSkFfemx6NjNIN0JMNF9TNjN0TlJEekZ5aDhQQnN4UXZHRnZBZUc5dHBYNjRLRUhBdTh6QWt3dUdTTzVvZGdrRzZ4cWlqMUU5LXZCcGdxTVpoRDRHODR5d241RENIZjMxMGs1NVpNS1pfWFA4SHg0NTVhVjNkZDkyTjBXZjJybnc5eU9BY3dqQkswbkh5S2RmUS1oallKR3pULW9FY280TmdDOGY1WUoyT19aTThraU5uZ1RYZjVHcE1EX0R3UzZOcklPX2dOcUpvUEt2dHNzVEY5ZEdSZm9xNEZWOEwzM1NpUnRyRGhPbGo5RDI4RlVWR1l3aV9MZF9tTA?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-09-14T07:19:02+00:00"
-    },
-    {
-      "title": "【2026/08月營收公告】達運(6120) 八月營收13.38億元，創近2個月以來新高，月增33.68%-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNWpxcUF5Y2VXWk44WFVuMFhhX3c5YW1lTzU2OGxRcjBKTlRMUXctb3pQYnczNHRUZjJneHVWbWstMWV0TmxEVlp5Vm55YXNlMFI1ZXlHSGZKWUp0dFdVS0kzblR4M2gzSUZyc2p0aGdoeG5VaEJNLVhZQzk3Z3FaZmxUQUJ5MVNWUVE?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-09T07:00:00+00:00"
+      "published_at": "2026-09-14T06:31:09+00:00"
     },
     {
       "title": "8045達運光電、任務酬載無人機新戰場",

@@ -1,33 +1,27 @@
 {
-  "updated_at": "2026-09-22T01:32:27.112317+08:00",
+  "updated_at": "2026-09-23T02:37:04.099170+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5515",
   "name": "建國",
-  "count": 12,
+  "count": 6,
   "news": [
+    {
+      "title": "討論牆 | 盤中速報 - 建國(5515)股價拉至漲停，漲停價53.2元，成交635張",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82X09hcEhkYUtqSWdxTU9IX1NZa29UOFc5UkE2VEZrYlF0VE5iMEZONlVlOHZwRzI4R1l2UE1INWJYOTc3VE9GQUpHUkNra25sTVQwcFV6cVNoMmR5bm9OMk1CTjA?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-22T07:04:53+00:00"
+    },
+    {
+      "title": "近建國北路通訊處喋血案 富邦人壽回應了！",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQcmJfdjQyQnF2bjFwMGNsZU9hSGZ4dzhnSmlvbW1INS1wa3dwT3RFX3VWRnZ4YTI5ZUpNS09JdHNfdWJ5VGlZRG9Mb3h2aTQ5R2FxeVFMR0FRX2tFeHJWS3BkZFJwY05yenhMeHNYM2k0eFd3X3pFRXVPXzN1c092V1Y0a3FOdl9LYVRMM1NxLUtFNUl4N2d5VUV5SnlWZ2RnbjNYeUl3ZDdVcnRlczRTTU5ZbTNOZlZaWDRIRTA4ZU01TUhzU0k5R0lMNlozcTdOdnlKdmlYeGM3UjQza05VUU5rd09DRWdNQ0lSWENqRFRlRVp0NDVYaHA3VEFXdnNSXzAtV3dnU0l0MlVCNFUxM3VyNTJiS3QteWhTVXN4S3BqcnhfYU5yNF9NejU?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-21T07:01:36+00:00"
+    },
     {
       "title": "搶攻美國建國250週年商機！宏達電結盟巴黎奧賽美術館 VR重現自由女神傳奇",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1aWU1oeWRHNmVDc1B3VDljQzE3OUpMVXdUQUhQUVJqYjg5X3d0ZHlNNE1wVkduZUI3Z1NmcTRKeVFha3hhdkVoemVuZmN3a0ZiZDZlWjk5M3E?oc=5",
       "source": "自由時報",
       "published_at": "2026-09-14T19:09:00+00:00"
-    },
-    {
-      "title": "建國市場遷建10週年 江啟臣拋市場升級藍圖",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOWlVrMzIyY2pmYTlmelVEeFA5MjF1ZllHQVVqcHNGMHYzeHNTbkZZRk5ZUWFJTGhMZHJjM0RBQWJIX1g3T2VLVFp3TGhaZDdPOG1uQ1ZGV0tsTWNpanVuOXhNSUM0NUZTb3Vxd2RMaEIyc1ZPWjBXNlFENnowTG0wODd1NU1qS0M0dkNPbjNETjlQaUJfREs0U09fV1RpUXRBZzNvZ2lobXhMRlVuQXhrWXdHY2ExXzdoY0xJS1lpTUxOWE5QZlRsSXBic3AyUUZEX2VYb244R3dzRWJyQzVWVU03NXl1RkFZbkdWT0RldnE4OHlXQ015TGVPcTRiRFBHLXpNZkplRFhIc0Mxd1p6cW95cXBIeldQNXFHZUlJWFk2WVBDRGZCamg5UUZjQXM?oc=5",
-      "source": "tw.news.yahoo.com",
-      "published_at": "2026-09-13T10:08:25+00:00"
-    },
-    {
-      "title": "桃園區第七屆教育盃羽球賽 建國國小活動中心圓滿落幕",
-      "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOcDJncXc5eWxWamZTSXJKUUlaWlJjM28tZGNSNXB5X3lxLXptX1VIVS1TRWd3V3kzVFVMNmp5Q2V2dUFnUms5MTJFemZHbU9VNzY1LUVBS294MzNhbFk1YUwweXA1Nlp5X04ybDlFSUQtZUxyUE56ei1wYm5IRVdqaGRCZy1JbzZiMmZGVTB0aEFMdlRkTWw3aWplQzcwUlBGZWRqS0x5VTFVcDhLNC0zMzFDYzM0V2ZlNUtfQkREbU1UZktBdWZrVW9xRi05UmF2YjNiYkUteUozZGtEQ2FrcENtUGlJWk9QUUdRV0VmekM2LUlfX3JNMXRObXkzR0RMSHJvQTB1aDZkXzVpMG1ZR2xzd3JVbzQ1WEo2YXQ5c0l2UDVaak9qY1JGU2Ffcm10OFFNQktxRnFDcmQyOGctNEVLenFIRV9tNlpzNTg4bTc0TmZLNlJ0cm1QT243Y09MWnk2YjBzZmhYN2haVTBSQVlraE8?oc=5",
-      "source": "tw.news.yahoo.com",
-      "published_at": "2026-09-06T07:00:00+00:00"
-    },
-    {
-      "title": "紀念美國建國250週年 川普肖像1美元硬幣開賣即售罄｜#鏡新聞",
-      "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOZ21kcXZmUXllM1pkS2JUUHJSMGRKdHduVGxuTjJQaF9jNU9DOWktTlJVNWpmb3E4R1dULUVrMDluWm5DTlhJY0laOUFYYUI4SDl4OFNJVExhNnQwd3VHVXNOMGN0bl9SWDZiWEpjdmVSQ1NGWW1nbXNRVm9KdHVjaFhqWXZwalpTcmhyMV81OFplZGpaTV9HN29OcTlhbFBYUllZTFdKRDdGMEtQYmFXcjJDeXY0Z3RyMkpyQkhUVmJSaUVjdElnS0ZUTWRfSno3TkhKNUR0ZzZJZ3prb2ZkQUQ0bGlGakJmMERjY0JSUlB6V0pBVDV4Q19RVlpHNXRidklIWUVCOEpHVEJQdUxTRUhNd09wVy1fZ3BPVEdTWWJWV3EtdktIcUIyMmdiMlZDbDZSd080d2toblpWaHR1TVJXa3FwaUxmZUpPbGc0N0lUVEJudll5OE14R0pHTUUyZ0FaRXNjVEREaU1wMFRIYjNteE5kbU16MEhN?oc=5",
-      "source": "tw.news.yahoo.com",
-      "published_at": "2026-09-04T07:00:00+00:00"
     },
     {
       "title": "川普大頭登1美元硬幣！美國推「建國250週年硬幣 」近900萬枚將流通 25枚收藏卷賣61美元",
@@ -36,46 +30,16 @@
       "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
-      "title": "建國科大擘劃轉型新藍圖 以杜拉克思想打造辦學新方向",
-      "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOODEtX0ZKRTIwdHgtRHRjWkp2NEs2dWV6dDRXRXR0ZnNXbXlkQk1PN09wWHprX1YxWThZU1BBczNYdVYwbDRocklqWHl1bXJ2SkU1QU1LNWpFT2hVZ0FjVXB1RDg4Vm5UZFdiWkh2eFNXUnN6amFWdWstOU96UHR0TWFnRGx2WFVJdlN2MklZNE9IcFFWSGFsS3JWSWo4emZodW5UWTFoUmIzZTd6eVc2dW1jcDhQRk5GUTlDUHlTcDlTYVF3dnY2S1lDaENBbENkOTNzQksxX0ZTbmFKNDJFWERMcW5hZXlnSDd0REJCZEwtSG80X1dZTmlGWFZncGZQeUlHRWdGQVNtalVqWGstYTlHRkdxeW5nRDBZOTRJVTRENHJkQlk3Qy1nVDJjNWo3MjFITnQwRUFRc19FT1MxV3lxSnY4TVBBNU9aYjhpaS1Edl9OZ2RxdVl1UmxKLWEyU19PLXJ0MHU4dUk5T2lad1UwcFQ?oc=5",
-      "source": "tw.news.yahoo.com",
-      "published_at": "2026-09-03T07:00:00+00:00"
-    },
-    {
-      "title": "何欣純登記後首日走訪建國市場！沿途傾聽攤商第一線需求拋市場升級、串聯東區打造觀光新亮點",
-      "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxNcGxDcUxEMkw1TkpSNk03X214cXF0S0pMejRxN0RzUGh2TXVQdUhUamY2VVRrVld4dmR4alVzYUpydVd3RHA5ZUU4MjlNTnRBZzVTMllET3JDbFh2MmhBR0sxWGFBekc5TERmS3ltelhuZTBqY2JCTHZHY1k0NGliVDI2UlFtUnRfY3RWUG05STNhcVpCUHA4MXFjaWtBU1ZMZHlSNGU3RTRLRUFpYndsQ0tZNjJQRkc5SjdQVnRaUnh3Ulk4NElMSU5HRFJyN0pUTHFNbHR1Mk4yeE43QVlVNlFlaUxPaWhfdm8xXzRlV0hJRVVHb0duSmZ0RXZ2M3FnNTdmck84VVNFM0Q2eU10X0R2bDdFSUZKTV93QWd3eFRLd2cxVmRuSkNwVDZtRDcxTEJqSUk5ZEgtRERBWHBmZUdRSGhPdThNeXV3RmhCUnlJVDNWRS1zbTZoRUYtd2tWZDJITVBPbDFDTWxIem55akdPVVY2REtGZ2dYaFFuYlpibUJzaHgwOXBIUU8zUzhTRWlEN240QWJhRWhKVWhweU1qdl9vR2FTZmNTSEZmUEY1djdmU0hFd3RETXpwWG9EUnBaRXpSOUctYmcwVHFQcVF3Q1NWaGlELXFyQTdmeG1lQjM1QTN0TzFleGNtYlJVcjZsVndlTWROREJTRmZVSG4tZ19idGdqYS16T3dmS1dTdkFhOEM4RF81eFNNblJ4MTg0Smc3UVZVV2o5dS1pLW93X0dQazcx?oc=5",
-      "source": "tw.news.yahoo.com",
-      "published_at": "2026-09-03T07:00:00+00:00"
-    },
-    {
-      "title": "搶攻建國市場票倉! 何欣純:台中市民需要會做事的市長",
-      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOUFBOSmJGMmRzUEpHa2ZOOERUdXhQMUNTRUp4OXNLU2xDSjNsWXpPU2dkb2JHR0V4eE1PWTY1dG5ORk13bXJobzFKMjVXTWJxWTFwNmVyZ0QyRUFIckpvX3J2U0tURGNjU0x0TWhVelBVU1BtQVNlcU91VVhsMXU0TUJNUDhGZGRtTVEzR2piM2tMX0U4UGt3V09LQXRsTmNUN0QwZ2tiQ2pXODJQdm1UbEtodVlzQ1ZoSU5ENmF0cDAyMnQ1dTBFMG9oZDRvRFBqSDBzSjgxa3k3aGE4ZlF6czJtVlBNZnNXcl9ucVMtZmtSSURqMU5KWFNLUXhFbllHd1JJamh4dGtlVDZYNGRSZzhQYWhCNFlyM0dveGlJaVlwcHdYbkk0enFUU3U1R0VCM1FHbWEzY1ltaTJheVd6N1UzMmlKYjdIOS1vRHhfcURjU2F5ZzA2OEFpYlVEcWVsUk1FUkhGQVlDQQ?oc=5",
-      "source": "tw.news.yahoo.com",
-      "published_at": "2026-09-03T07:00:00+00:00"
-    },
-    {
-      "title": "越南建國81周年國慶日在台晚宴 洪申翰上台舉杯 吳東亮、吳東昇共襄盛舉",
-      "url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxPRm0xcmp0MjlNSHp5ekZvNTRreHlPMDNndktNTW5tWmg5VDR2LWREZHpTb1ptMEthNy00ZEVqVzNyb3AyYmEzeGtzT002XzlEa1FnVGhsRXRJSktlRDJ2SGJoc21HUENiRkZQb3lfdzdKaTZnTG1JZ1lfZHh6VUhCdnlIclkzbko2LWgxSVI3anpHaXVzR2wwQ2lBZE4ySXlPdDVIVG5oUWhkTlozS0NTVmhva2lZc2JhN1dJN1pXaVFnbmxkNS1LY1diWFk5VFhoeEdMMl9nTlJJZWw3NGtyUkNsODc3R2dHb0xpcW9ndFVXaTVaNWtGdnEtMkZ0N0g0YUtSb1BLUmVpU1Rrd2o4RnNpcVZoYjdndkxfcTkzVkZEcHRBRmcxdGRnVE9FSFJGQTB1eWlsNjZ5alhSckcwLV9ZQm5feElvTGpmM05tel91SmdLa1ByUDh5ZG9LTU91QXJKY05LT3FyTHV5NURQTzFBRjdzVXhsRGhidUQxT2ptbEo1TjFqeEhBM2JCeVJGNE1MbGJNQi1tYmROcEdLVnRPa01QVHgtR2FxX0lSQ0Rxb0FHdm9rU2NmbWNKYXF4Q0E?oc=5",
-      "source": "tw.news.yahoo.com",
-      "published_at": "2026-09-02T07:00:00+00:00"
-    },
-    {
       "title": "建國科大拜會榮服處 提供多元進修管道助退除役官兵提升職場競爭力",
       "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxOVDkwdVJRc0hWc0ZERnotbFdnZ3pkRzA2Wmx2NVd2ZURoQ3Y2OUVSbmgxdjBLbmxBQUNTRnc1MlRHMm1uS2RfSWt5ZWs4WWM0X3VQNXEzMWg0ZnY4VFVnWVc3Z0w2cjNsT09QZEFVbGpXa25SNmJYODhUYkdCR2JUR3d5eVc2QjJndjF3WmVVSnQzV3JzcnZmMFczdHdwLVZIWTd0VS00TVFjekY4VTA0VGoyenVUZFNrX3JnSEJJUnFNdUVwQkhIV2lubV8xZ3BpdW1Jc2dmMG5sRmo5M0w0SUIyVV9CRXhMaktHcnRWdU1LMzFMdUVZZjNqYjU5N3R2d0h2WUQ1aEh1V3FNMzd5c3ZaUHNyRXZNNXBPY1dycHF2RmU2UzFPNUt4MXdsODZDVm5KemFEU0tIWmNEeC16MGVFY2NrZHBWYU5HRXpIWnBmODV0R1hBWGZBaU15ak9hRHRqdFNIQ09UNnN5OWNXTWNUaTV0TG11ZG05ejdMY2xCY094RmRLTFVpQ2w1cXJVclF0dXVyeU55QkU2WGZVUVNwNlE3Y0ZHcndPVkx1LW85R1hScThneWs1dzQ?oc=5",
-      "source": "tw.news.yahoo.com",
+      "source": "Yahoo新聞",
       "published_at": "2026-08-28T07:00:00+00:00"
     },
     {
       "title": "退伍不迷惘！建國科大攜手榮服處開啟職涯新路",
       "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQQ2V1LVBXVnBydGpiM2dIZmVVZnNoT0VJNzdtV3dQcnZfT1Z3SXNOZ3E4VFh0ZC1KXzVnUXVDaWFVMENaTllEaXp6cENZMmQzMi1BVzVJa3FDWVFqSUtmOUMyakpZdVVPOGVYQUtaZFRwRzJMWnc3SERkU2ZRVllkNG1ucVo3WWhqLVA4clM0RnlGR0V6QV9GT2lia0VuVjdBTEhTdVBJeld5dV82VGZSTjBSLW5yWjd4UDhqMFNyR24xbjdrb0V5VGpTMHBKcXZ6bXhDSnByMUFKV29leWtHWENudWY0Z0ZyaHRUOC0yaW9UTkNMX2Q2WHQ0ZTZtZ19xTDlKZ2VwYVg2SGdFYkpacUljYzBQX0h4azZzaGxiU2hvQ2NpYkkzenoyU0REYXN4T2ozd3U0ZVRwdThxa0lOb3pGTnc?oc=5",
-      "source": "tw.news.yahoo.com",
+      "source": "Yahoo新聞",
       "published_at": "2026-08-28T07:00:00+00:00"
-    },
-    {
-      "title": "黃仁勳新愛店！快閃北市建國南路買肉包",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FNzQ3UkgyQWl0RWJ4a2thdGJfbllhSFlvS2s3c20xc3cyQXdnenhyMVZIMVVRUVVKWDdIS1JxdWtzWTg0NTJReFhXdDRfbXB5NTB5MzNhMzE?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-08-23T08:14:41+00:00"
     }
   ]
 }

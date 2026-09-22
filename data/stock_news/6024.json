@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-22T01:32:48.023694+08:00",
+  "updated_at": "2026-09-23T02:37:28.367044+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6024",
   "name": "群益期",
   "count": 3,
   "news": [
-    {
-      "title": "【2026/08月營收公告】群益期(6024) 八月營收月減年增，全年營運續看向上-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZE5Fb2VfQ3lHdmNJUjI1eGllVm1LMk55bHlGZC1WZ3FNUm9NSUM3WEtmQ18wWksyelpEMzlJUUdIRDBZaGdWckVPRXF4S21PZTd5WUJEZHlQVEI3SGdFWEpOQUhjLVNTR2lfNk9ZaWhYT1VBT2I4cFF0VnQ0SDNKNWxOdnZoNlNqOUE?oc=5",
-      "source": "cmnews.com.tw",
-      "published_at": "2026-09-08T07:00:00+00:00"
-    },
     {
       "title": "6024 群益期- 存股簡易估值-期貨業- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rbkJLUTR1cE0yUF9rY2poUHVEeTNqYjRDLVlDVU9rVlpKcm4yMHloMXJEWjBNLVVLWlczMFptQmc1WHkxcmZzWHFNcVp1SFpPWFV3UG1ueDQ?oc=5",
@@ -18,9 +12,15 @@
       "published_at": "2026-09-08T04:29:32+00:00"
     },
     {
+      "title": "【2026/08月營收公告】群益期(6024) 八月營收月減年增，全年營運續看向上",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80QThUbGFUWUhJcnZKREpscC1Ha3pJM19EczczODhzclRDeG56RERpMEx6U3hfM3A2ZFFScUZxTks4YzJ2c1RWRDJlQnFOTEtQMmRVSHZoT09zNC1RcHRDRUJRb20yX0E?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-07T07:10:03+00:00"
+    },
+    {
       "title": "群益期「2026人機交易對決」9月1日開戰！獎金衝上近200萬元史上新高",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xejdQQi1Pa3BqNE85Z1NVWkVBcDJBUVFzdUlUSkotOU1nMUhMRVRZelc5VEpxRUdUODRYMDl5VVRPMThWei1EdzdlcDhBRVFn0gFWQVVfeXFMTVRfZTZqX2Z6RUxXQ0FqeDQ3bk10QlhMS25sQ3FBdkM0Vk1ubFFOS0MxVnlIVmpYajNlR1FEQ19QUndiOEp2VmRycmNCM09hUjNXRDN5QkE?oc=5",
-      "source": "UDN",
+      "source": "udn",
       "published_at": "2026-09-04T07:00:00+00:00"
     }
   ]

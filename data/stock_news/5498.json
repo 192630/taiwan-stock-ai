@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-09-22T01:32:24.848072+08:00",
+  "updated_at": "2026-09-23T02:37:01.640198+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5498",
   "name": "凱崴",
-  "count": 6,
+  "count": 5,
   "news": [
+    {
+      "title": "討論牆 | 盤中速報 - 凱崴(5498)股價殺至跌停，跌停價52.3元，成交2,311張",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZVnBNcENlRE9QeXhBd2RXUGFJZXdab1JzcUVaaktidjVLek9WeUZqRXUxQWx0WkgzLS1UbmtHSEdYVjhfUGpIeEFwMVdLTXV0Skd0MVRqT1pFd0tJWEF2VmpuNlM?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-19T22:17:37+00:00"
+    },
     {
       "title": "5498 凱崴 - 給翻譯翻譯一下什麼叫做驚喜 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MTXB1SjZsUndXVFZpOW9oY2NNWFpjdk00eVBVVW0yYlZGQk1kVWllV2ZrWE01S1I2ZWN0Qk5kSUE3dzJkSjRvLW1wckNPcU4xblc1RU5fUmY?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-18T05:32:01+00:00"
-    },
-    {
-      "title": "討論牆 | 盤中速報 - 凱崴(5498)股價殺至跌停，跌停價39.1元，成交2,861張",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHdGo1Z2xwcFBxNDlhMTNKajRDNFlFQl9KdndTMkd0WF9YWC1TVF9oWFhKczJEaFR0OGZzeldCUHhxRWcweVRWYzlvYm1nczFJeVR4SlB3SFRrak54N0h2U21EX1M?oc=5",
-      "source": "LINE TODAY",
-      "published_at": "2026-09-18T03:04:16+00:00"
     },
     {
       "title": "營收速報 - 凱崴(5498)8月營收2.31億元年增率高達87.52％｜新聞快訊｜豐雲學堂",
@@ -32,14 +32,8 @@
     {
       "title": "【10:54 即時新聞】凱崴(5498)股價勁揚7.69%至57.4元，AI伺服器帶動鑽針擴產題材發酵＋股價穩守短中期均線上方、主力成本支撐偏多",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTVgzNjBkaW5Md2R1QkRsTEVqN0Vsa2ozZU9oLTF2MWtTR1B0WUFUWG1qaUNRTkJic1pWdkFkT1JVV3d1VHlrSDEyTzhaa0hCTlNHak9jRmdpY0tKZF9MOEhFTXduUmRpd1NxdjBIb0RFeFdWV0lBVXNwNDlScFp6ajVPZW1hWlplUFQ5dGhn?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-08-28T07:00:00+00:00"
-    },
-    {
-      "title": "凱崴鑽針年底月產能2500萬支 明年再擴至4000萬支",
-      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPdjUzazViRXp3bmEtdkc4RE5jSTVJeFRXMW9TS2lmTkYzOXQ1bG1LMVUzeUl0TWpSVTlHN0pzRUhRMExhZXBIZUkydzhYOGRTM0tfc1k4b3otWURuNTZCQ1FnelhlR0ZNUFhYZVk5RkpfclBXR0ZfZ0NDbnYtVXk1OWNMdF9KMGZnYlloSmNsaGdNS2RLamMwanl3MFczanZDcHV2LUxQV3llQzdVV2RZV25TZDVkdVhpWnEzdGF4eWpvU1IxTnhrU1NCNmg2Q2UzajZfVVVVR2pHcW81cWctS1JJRHg5T09HZUpnUExmcExUdjdITksxSzRtWTFiZGpFdFF0LXZWUXpKS1N2MEtyLUNFVzhuWVdNWVlJajh6cHdFSlJKTVlIWDFzWGxVdkNab2hldkw4VVFqemYwaFhN?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-08-23T07:00:00+00:00"
     }
   ]
 }

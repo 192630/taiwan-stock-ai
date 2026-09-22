@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-09-22T01:32:23.950073+08:00",
+  "updated_at": "2026-09-23T02:37:00.676191+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5490",
   "name": "同亨",
-  "count": 1,
-  "news": [
-    {
-      "title": "【2026/08月營收公告】同亨(5490) 八月營收1.09億元，營收雙減，年減6.77%-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTk1PYkhmZ0xVVzlZOUEyWHBmNW9jVXJLZDkzOEZKOXhlWW9OSERhMkdNYmFmaFB0dk1QS25Xb3NSSU0yc2dBN0FPcHR3NFdHTE5nZDJpeXJaRk9xMW8xVGkwaTdnb0w3UGUxVmU3SkRpdWRSNzFsSDVvdi1KQ253Q2JZUEh0T3RBY2c?oc=5",
-      "source": "cmnews.com.tw",
-      "published_at": "2026-09-02T07:00:00+00:00"
-    }
-  ]
+  "count": 0,
+  "news": []
 }

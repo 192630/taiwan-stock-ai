@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-09-22T01:32:22.264659+08:00",
+  "updated_at": "2026-09-23T02:36:58.733741+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5484",
   "name": "慧友",
-  "count": 7,
+  "count": 6,
   "news": [
+    {
+      "title": "慧友(5484) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vRkdpMXd2dHluSUhfV2VoZVh5UElkZXhOc0NIc3VWUG5ieTQtMjVLdnZaNEpKMUhHZ2ZTcl9ISG5MSXBzckR4RUNnTExDMGZWWm1n?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-19T17:07:54+00:00"
+    },
     {
       "title": "5484 慧友- 機器人股要動了嗎- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4YThMeUZ6NmVIcm1CanNlRDJvcG1fVHlYcjlZblNRU0tsTVVKTzN6S19XUXNsek1RTHRxXzlkRU9Udkt0M3lYUHo5Y2VIZlFLQzR0bHgtV0E?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-19T03:15:28+00:00"
-    },
-    {
-      "title": "慧友卡位Arm實體AI生態系 名列首批合作夥伴搶攻機器人商機",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBsSy1GUlpid1B2U3dDZDNObDF3elZLRWNQRi1scGtiRmRYdjd6OUR4bUhNSkE0OEZuMUNTUGQ4T1I4M3o1RU9XLWc5Xzk1YWhnd1YxY2NaSi1kMVdjaWdjMjlnT3hTcVI0YjZ5aDl0VQ?oc=5",
-      "source": "理財周刊",
-      "published_at": "2026-09-09T09:01:39+00:00"
     },
     {
       "title": "慧友列Arm實體AI生態系，攜研揚優勢攻機器人商機",
@@ -32,7 +32,7 @@
     {
       "title": "AI邊緣運算商機上看2000億美元！跨產業落地引爆變革，慧友等台廠受惠-財經焦點情報站",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdmF0VTBQMkoxRkRZVHkxX2hHcHNHY2NTSWp0NVNuME5semFnQlFpbWhYOGJrZC1aM3gxa3Z0cS1YdmtqWGVTa1V5c3drY1hfMng4SFJkdkpqdU5Bd20tTDhIUFVOWFZsX3R4emtUZER3RVRURjdDRnk5cTF1LXJfd1pB?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
@@ -40,12 +40,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fTEJWWW56dUtacDFWZ2pXNHk1T0FRWkJtR0N0dm94M0E2NGpUTjRwZFdFbmgtQm96RnNNTHV0YkRtcUZKVWphRHZ5OXhnQXV0WkRuV3JjSGM?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "宇樹科技上市4天狂瀉40%！台廠機器人慧友、所羅門等綠一片",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HRzMxcVdvUkpTb0hQSUkzdHBSTG9JRjNwTndmRFVkRGpMNVlERjhBUURJd1lKYkRaelNCUkhaaDVkZVl4ZmtqWEMyYS11UkU?oc=5",
-      "source": "TVBS新聞網",
-      "published_at": "2026-08-25T07:00:00+00:00"
     }
   ]
 }

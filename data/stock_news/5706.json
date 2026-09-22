@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-22T01:32:39.725626+08:00",
+  "updated_at": "2026-09-23T02:37:18.871592+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5706",
   "name": "鳳凰",
   "count": 12,
   "news": [
     {
+      "title": "8420 8420 - 職業軍人退伍轉身變「鳳凰」！屏東警消廖柏勛獲楷模- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SdmhYRHc4RjJ0bDQyRXY2WGJUVVVPc2lGWWJRZDltTy1TYkZVc2pjVUVMdF8zbTVacVM3MTRrWkdfaXJ1SVI4N01UMjhPdFJpdGs3czBUTXU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T16:11:30+00:00"
+    },
+    {
       "title": "$瑞波幣 (XRP.CC)$ 鳳凰將再度崛起 [八卦]",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYjQ1THVQUk5seWE2V2lZb1IxS3BfRHZpN2w5d1FoclR5dF9wSWNWRmlWZnVPRGV4VW44Y0F5TTJ4UVVmOW9zV3BZbFR3OGpUdFRFbTVGRW1DMC1hRmZ3M0twejk2MTFxMEJXc21oYVk1WlNxaXdTY3k3bl9JTzFOX0RvTnktSTNjX1pYUUs2dTBhOVlqR28wenhB?oc=5",
-      "source": "moomoo.com",
+      "source": "Moomoo",
       "published_at": "2026-09-21T00:25:05+00:00"
     },
     {
@@ -42,10 +48,10 @@
       "published_at": "2026-09-11T08:21:00+00:00"
     },
     {
-      "title": "北分署推薦「微型創業鳳凰」中秋禮 永續、在地、健康特色好禮一次選",
-      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNaWtna3Q3VjdDV3cxQUZ6VGNBM1I0dU1SeFFOTUxhZ0RwNHRsX3RmdzRPaHY3Sk5YOTdHTTJhWTF4M25qc0NUdEROWWlmalBLMmJRNEFON201OXR3NjFGc1Znd0NlQ0JCVXlVT1NTOURvaTAzZFpZRXpmTXU0aTViOThHQ1UyNmphOU1jQUpoTFUxY2tTNGdWd0NBbU8wUldGdENYODhkd19YOUY5ck9kRlhOVFJCRk5vN3F3N3otNUFoM1Vwb05VRzRaMWczWHVLZGJwczdYcndVaUdnU0d5cVU2cTlnakxWYnJmTlhSTU5NQTVGbUxFdEc4ZTJiMEgydDk4RnJLV2x3MGpfQVJIeEZpemJxemh5LURmY3dpSVlNdUdvekh1dEFxS1EyaE5Y?oc=5",
-      "source": "tw.news.yahoo.com",
-      "published_at": "2026-09-09T07:00:00+00:00"
+      "title": "獨／鳳凰河輪獎旅團夯 明年10航次企業包下",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oNlZfT25JMGRHMlNSYjR5SmFPUldFTnpzbU9HcVpfTk9jeURKVXlLTExqd2hTcU5MZUZUUWVhU1ctcGFMTGhIcG91Z2RYSXU10gFWQVVfeXFMT25mMDZzaUVQSll3OFIwbHBrTEhFWFNBRGNlU3J4UHpaNk55bHdYbkZKWmd3V3gxcmpsVXRVY3BHSGJjLXNrUDlXQnQwb2dFSmw5MEpsQXc?oc=5",
+      "source": "udn",
+      "published_at": "2026-09-05T07:00:00+00:00"
     },
     {
       "title": "5706 鳳凰 - 獨家／鳳凰河輪獎旅團夯明年10航次企業包下- 股市爆料同學會",
@@ -66,15 +72,9 @@
       "published_at": "2026-09-02T03:53:23+00:00"
     },
     {
-      "title": "展翅迎光健康復元 桃療代表隊出征鳳凰盃運動會",
-      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPcFJyZkx6UUZmc0FGLWhpeGtmS2FsQmo0Mlc2NkVXQlp0X29pY1dnU1VGZmZtckhyY3J6bFJnV3pyNWZIcVJXeHFJc2ZnTUZoNGdGREtrMzA4WWNpUVV1UjUwc0V6SXpBTl9CQVQ0U0xsVTR6MExScURJRkpOak5ZaEp4OG10N3cwZWVYRGxTY1RTZi14VFFmLXhyWU0wVVA1TWJUYm5wTWJ1ZjVfUDh5R29QWGlyYzAxRjFZVTROdlhob01VNUdBVWpFb1dRVHZLVXVxX0luYndZRUF3WEg5N3RQNHEyREFSdEV2dlpfVVQ0YTUxV0swdm1aV1Q4dmdKMnAxcnd6VmVvM0RSOE84RE8zb0k2RnMxZXYtb0RLRExrdGxwNDl5dkh4enh2dElYb1lrNHpvM0xVMkhoRGZrbUJubVQzZm5HVU1vNGNtdmI?oc=5",
-      "source": "tw.news.yahoo.com",
-      "published_at": "2026-09-01T07:00:00+00:00"
-    },
-    {
-      "title": "火鳳凰活動千人爆場、豐原青年軍接力成軍 江啟臣：為全臺中打拚",
-      "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPTl9lNkgxOXpaNEZDT1hJSmk2SlM3UTZ2emo5TDN2XzdjMHg3M2hUYXFGMThFeVdMeXluMkE2eWZoQmZjMjdRdU9QUkphWF9KUkxsTGR5bFFic2JlVDAyU2p2cTdBZ3J5NXkwYWZOQ1VVV1hENnA2WExfb2ExcW1YZlZyR3hUeHFqWDUxeXd6QUNJbUI5SDdlaHgyREJ2eEJCeUtlUDR2UGdxOEpFLWhjd3dZZ2wwRDVIbTdlY3VvR2RrQ2k3NnVsc3g3ZnBXS05LWjREQ0FNNjVSdzV1REE4N3JId2dDY3dlXzFCM0ZudGFNMFdoTERoUGlLZkh3LUtBSE5DQnlvVVJHMU9pZzlIM1ZxTHVKZ05ZdjNlcndrWHA5WFVLN2ZtYURvb2UyVEtLZVoxMjA2SlB0dEM4NG5KV1lRUkxXa3hlZFdVUTFnUXhwbUlTel9tSE1Vd29kLTN4SFp4a2lCbDloODhJcGt0SWVVaVhmVjZFR2xjbFlGd19RaFFTVFRJekpHb1VuTWtQQzFQTWpDM2JmQWs?oc=5",
-      "source": "tw.news.yahoo.com",
+      "title": "江啟臣：火鳳凰活動千人爆場、豐原青年軍成軍 「發兩萬、打皮蛇、卡好用」",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWS09KXzEtM0hJamdvSUxvNmxSU3U3clkxRnB5S1BORXRzRVlieDJQcmhNMS1NSk8zNDZENUo3NFhvdDlyeDJBbkd2TUtNajRDRWM3RXE1ODNUd3laUWJuWFNVbXV6QUlFTlQ5UDF2cw?oc=5",
+      "source": "理財周刊",
       "published_at": "2026-08-30T07:00:00+00:00"
     }
   ]

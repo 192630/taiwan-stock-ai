@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-22T01:32:29.408146+08:00",
+  "updated_at": "2026-09-23T02:37:06.851791+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5522",
   "name": "遠雄",
   "count": 12,
   "news": [
     {
-      "title": "古典風裝修 24坪 1房2廳 90萬 台南市 遠雄建設│新源邸（6/20） 裝修案例效果圖",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LN2paODAtVC1qY3AyaDZDcjA1RmZoMmV6d2c5empVV2UyWUpjWkwzNVVzeG1Rb2c1X2hxYUM2MzNLMklKSWk3QjdTZnRyOGNJMW5lWlVR?oc=5",
-      "source": "100.com.tw",
-      "published_at": "2026-09-21T11:58:50+00:00"
+      "title": "混搭風裝修 32坪 2房2廳2衛 51萬 台南市 遠雄建設｜遠雄安南町（7/14） 裝修案例效果圖",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sT2RGUlJDVFluNFZZNEJsaWRKcEhjVkxWVHlRbDJTc09VVGV6ZGJyR0V2NW83QjBCdnFFWlgyQVRnSTduUlZFWHMwR0QwQnR2RGw1dTk1QQ?oc=5",
+      "source": "100室內設計",
+      "published_at": "2026-09-22T15:59:50+00:00"
+    },
+    {
+      "title": "古典風裝修 24坪 1房2廳 90萬 台南市 遠雄建設│新源邸（19/20） 裝修案例效果圖",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTTnNqN2t0aVhpQ2lLYUVPZU9YLVFhamN3VmxFRndGdXg5eEVUeUFnZHlsUnlpdkN5OGVXRmRGUGx6UzcybjU0ZXZxMTJzbG5MVDV6LVpB?oc=5",
+      "source": "100室內設計",
+      "published_at": "2026-09-21T16:53:57+00:00"
+    },
+    {
+      "title": "遠雄建設「未來建設ing」永續嘉年華登場！攜手跨界夥伴體驗永續好生活| 永續ESG",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBHS3FHbXA2d1dIQjZnRTBFZW84aUlEaFNtcnhMeV9qN3dPaEh3T1FQNHBHcXRkQ1dfb2VBNW1DNnpYX0VjZldSbw?oc=5",
+      "source": "三立新聞",
+      "published_at": "2026-09-21T10:18:45+00:00"
     },
     {
       "title": "遠雄港(5607) 個股概覽 | 個股 - 股市",
@@ -20,38 +32,26 @@
     {
       "title": "混搭風裝修 32坪 2房2廳2衛 51萬 台南市 遠雄建設｜遠雄安南町（2/14） 裝修案例效果圖",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBNNkpEbTBxWE5HZUVYSFhRMkRHZ1FQQXEzcXhpZVJZc3IxQTFDd0x6Y1FvaTUtenN4ZUdIUDU2WlV6dHA3QkJ0S0F4YzRQNmFKMzVfQ0g0cw?oc=5",
-      "source": "100.com.tw",
+      "source": "100室內設計",
       "published_at": "2026-09-21T03:44:09+00:00"
     },
     {
-      "title": "混搭風裝修 32坪 2房2廳2衛 51萬 台南市 遠雄建設｜遠雄安南町（13/14） 裝修案例效果圖",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41Z2RqUHdibUU5TVF0dnppbXVQTk5RZ21odzNZU1dhSkJyT2pfV2FsaE5mNGxLMmZvMHd0dGxNRW1ocFdWamJQNXZLZ292OHl4SGJnWmFhNA?oc=5",
-      "source": "100.com.tw",
-      "published_at": "2026-09-21T03:44:07+00:00"
+      "title": "混搭風裝修 32坪 2房2廳2衛 51萬 台南市 遠雄建設｜遠雄安南町（11/14） 裝修案例效果圖",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA3UThIajJuUWxjMXF6RGh3aGpuY1U4OEF4Q0ZZUW9jcmxJc3pkUzBGLW51UEFLTEV5VE0xamNrQm50S0NRRlZveXhWb3JZV09YVFZJVzZXQQ?oc=5",
+      "source": "100室內設計",
+      "published_at": "2026-09-21T03:44:02+00:00"
     },
     {
       "title": "混搭風裝修 32坪 2房2廳2衛 101萬 台南市 遠雄建設-遠雄安南町（14/14） 裝修案例效果圖",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JTEZyekdUN2lVNGItbVhRdldaTGFxcUtZMHFISFdGVHJvNzgyT2swTDZhaGJNMkF5QjhlQUJSaGo4NU51ckxHNVdpLUowNHRmYW9KNkx4Yw?oc=5",
-      "source": "100.com.tw",
+      "source": "100室內設計",
       "published_at": "2026-09-20T16:35:20+00:00"
-    },
-    {
-      "title": "混搭風裝修 32坪 2房2廳2衛 101萬 台南市 遠雄建設-遠雄安南町（13/14） 裝修案例效果圖",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE96a0M1emRfcG1nS0NncG9BRElMYl83c1R2aW56aDJ2Z3l0X29WdTJVMG95S2NUbXBNeGNXSTF1MjlaVlJ6VEZrSjFmOGwyR2FwdUw4bFpKaw?oc=5",
-      "source": "100.com.tw",
-      "published_at": "2026-09-20T16:35:01+00:00"
     },
     {
       "title": "古典風裝修 24坪 1房2廳 90萬 台南市 遠雄建設│新源邸（11/20） 裝修案例效果圖",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuZVEwdnpDTEJZWHp5UVFVX2lvbWhlWHNNSUlmVG5PX3Y4MDhabnZHTU4xeGVRM0JiMFpNZnFZTlhpSmRfVVM0Mkt4SUhPU3VxMGFLSEZ3?oc=5",
-      "source": "100.com.tw",
+      "source": "100室內設計",
       "published_at": "2026-09-20T00:04:03+00:00"
-    },
-    {
-      "title": "遠雄建設「未來建設ing」永續嘉年華登場！攜手跨界夥伴體驗永續好生活| 永續ESG",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBHS3FHbXA2d1dIQjZnRTBFZW84aUlEaFNtcnhMeV9qN3dPaEh3T1FQNHBHcXRkQ1dfb2VBNW1DNnpYX0VjZldSbw?oc=5",
-      "source": "三立新聞",
-      "published_at": "2026-09-19T10:36:42+00:00"
     },
     {
       "title": "遠雄(5522) 個股概覽 | 個股 - 股市",
@@ -60,10 +60,10 @@
       "published_at": "2026-09-19T05:32:05+00:00"
     },
     {
-      "title": "遠雄明玥2000坪只蓋一棟，優越產品力衝出6成5銷售口碑",
-      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQTlFLYUNkcWNYR2JpbXowdjg3MnBhUFVldkNXajRFcEhKNWNHbGdRMmVvSHZnbWpHZ0ljUm1sYUVmRXJSQjNZZmRvYjRVc3lzb0ZYR0ZqdnVjUWhKYVdRRUNNLVdPZEhEcE1fRmdMZlV0OGZSY1psWmh6SEhXVVVWakpGNkxuQmpnbEtHMGF6YkFlOGtkSUFfbXM0YzFTa3N0d2ROc2dCZXZtVVZTY2tHLTV1LU9HRy1ZZjVfbFFrbHV3ckotZjNkeUFNXzh1a3FZZ2RkZVVDYnp5STF0REtJbjRQTENoWG5QNlpZX0MtOG83ZGl5Zy1odldvT3pzR0V6U1ZBYzVKaUxGdzZVeXFfX2RCWFVBUjRDVXBiY3NjSnpzalJVWGVaWlhkVjR1Qlludk5jX0FxcW9GUnhxdk1iWGdDOUdKOFE?oc=5",
-      "source": "yesmedia.com.tw",
-      "published_at": "2026-09-16T02:47:14+00:00"
+      "title": "遠雄明玥揭露135筆，亮眼銷售口碑攜手雙藝術家策展「好好生活」",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qY0NoajdUU05kcWhQYkxfRUs0NVMyU1ZDd25EZkFwV0Q1RHdUbHVCQlNxTm0zdE5pbElJcmY0QjU0cFNEZFVlZXRjUzFqY1V2dlE?oc=5",
+      "source": "蕃新聞",
+      "published_at": "2026-09-17T00:30:00+00:00"
     },
     {
       "title": "遠雄建設首度公開品牌影片！「美好共生」化為數位新敘事 全新官網同步上線｜熱門話題",
