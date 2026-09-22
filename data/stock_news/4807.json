@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-21T23:33:31.123914+08:00",
+  "updated_at": "2026-09-23T00:35:24.612335+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4807",
   "name": "日成-KY",
-  "count": 2,
+  "count": 3,
   "news": [
+    {
+      "title": "日成-ky(4807) 2026/9/15 法說重點： 1... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qUFJsSVdEN1lGNVFJc0JoeUFxN0lvaDYxYXBLNFVrUmpPemZSZjl4My1mNy1Vb3o0aTg5ZV9pTXg1RUFLelp3eHAwMmdDZWpoclB1OGx5UlU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-15T10:01:02+00:00"
+    },
     {
       "title": "【2026/08月營收公告】日成-KY(4807) 八月營收3.43億元，表現亮眼、呈現雙成長，創近96個月以來新高，年增105.43%",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5KX2pDWm5Sd3FfNzJmTTBfTkhTU01iblB6Mlpxd0FndDFELUhZcU1JWHVXMlpYcjZkN0d2S1VxdVVKalhVWDg0UzhtTUpadFhTenFaTEtDT09idVlTVVJYR01INWpvRWM?oc=5",

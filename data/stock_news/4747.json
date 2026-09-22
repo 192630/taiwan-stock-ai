@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-21T23:33:24.151651+08:00",
+  "updated_at": "2026-09-23T00:35:17.751386+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4747",
   "name": "強生*",
-  "count": 5,
+  "count": 7,
   "news": [
+    {
+      "title": "4747 強生* - 美眾院通過對俄制裁法案！川普最高課100%關稅中印首當其衝- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SWDJJbjFPbkk1SUhwSXdYcmhCaURpMnBkTlktN0I4OGRQb0ctbTVfXzlvTFVTb2tGcXRXYnM2VS1lb1BuY1pWTXpXYndaQTVhR1hDY2ZEMXE?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-17T13:14:32+00:00"
+    },
     {
       "title": "強生* (4747) 公告本公司股票面額由「新台幣10元」變更為「新台幣5元」 公告期間：115年7月22日至115年10月21日",
       "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOVTZvRHJLMmk0bmpCSjBnVDQtcWg0MUVYcTExSDRXNWVpN19lSzJaa3NVd2JTWl9NLWNVVk83MDdsekxXOGJTM0FnQ3JfTlNWeWZTeVFvWVpqZW9TR2JRSW92Z2V5TlhaaElNSDMzQkFOdE5rWXJmS0NNVlpQU0Uxa3ZERmJLZWNsQzlYNXRGTlVwZnpXYmdoaWNES01nbEZDbG5MZ094cVRNZVE1ZVJuUkduenBJVEcyVnhaX2VLSGpKSlZmdFZ6SlNZZVdiaEg3czc5c09OcHMtVmZORUQwTW96WU9BTms1SGh1WGVNVzBYeXdsMVZ6SkdyN0ZLMWsyakVLVnIwbDFiSG9vckVOa1pZTlZLZ2JvWk1XQnlQQ01DREJDV3ptSTBJNVNkMFZTUWZwMm44UEZvVTU0?oc=5",
-      "source": "geneonline.news",
+      "source": "GeneOnline",
       "published_at": "2026-09-16T23:20:53+00:00"
     },
     {
@@ -16,6 +22,12 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BcWJ6MHNzX1llZ0ZkX00tbk10MnZJQWxnWmRCQUFqeHp4bVE3elBfMnZ6c2l0Z3lpRWtTSmdmV21rOW1peEhSNVNsNVpjWXlYZHFfUC1lQ3I?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-14T23:53:43+00:00"
+    },
+    {
+      "title": "4747 強生* - 科技巨頭籲開發減速川普：AI監管風險只是炒作- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xOVVoX0NZbEljc2FhS0d3SWNhbTBYVWRxc2dISFBrN1VIN0dVcm5abUhSdkZJc2NMZWp3MWpGa1hRZDZfTUF6Y2F0QkJyeU5TQkpMZDBTZW0?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-14T19:40:00+00:00"
     },
     {
       "title": "4747 強生* - 美政府AI 沙皇嗆Anthropic 與 OpenAI 想放緩就放緩，別假裝需要他人同意- 股市爆料同學會",

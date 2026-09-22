@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-21T23:33:50.697354+08:00",
+  "updated_at": "2026-09-23T00:35:43.739706+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4967",
   "name": "十銓",
   "count": 12,
   "news": [
+    {
+      "title": "AI伺服器＋DRAM漲價助攻模組廠！威剛2025年營收增82%、十銓躋身全球前五",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wV0RBSFdCRlBfcENqVjNQMUlsWnd0UndXVXYtS2hUbFNDQTdJUm41aWRPZ2ZBdnh5bWNoYV8tUTY5cEJtT3l3T05kN0JjbDAwSmc?oc=5",
+      "source": "鏡報",
+      "published_at": "2026-09-22T09:40:00+00:00"
+    },
+    {
+      "title": "十銓(4967) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JRHVMcXlCbWQ0VmRjMFg5VHlLaTJXTDNBVEwxNGhBQXM0LXFrMW9SU2R0ZmQ5NkxCaEhnMnJyV3UxVkwwalZQT0JNTjAycVFsQ0pN?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T01:27:34+00:00"
+    },
     {
       "title": "十銓科技 | 4967.TW 股價走勢與即時報價",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wYzlLWmhOMW5VRnVsLWQ5Y3N6NF9JSW50ak5QQWFoWlR5aFA1OHJGeTBiTGNteTV4QnpubHlwMWZ5WFhVUzZScndpakVsMkEwR1l2Ug?oc=5",
@@ -32,7 +44,7 @@
     {
       "title": "《上週上市外資持股增加率前15名2-2》十銓",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcjNRREtSMjlDRkxGa0J3N3ZIRmZkNVVaRzV1VXBzdi0ycTZ3dDJmTUtEMzZsZ1dlU1lOM3hPNG1ENm80ZjFVRnFEUGFhUG95LW93SmN5WWV3S3Y1a2tITFB4eXNBUHpkdDRCdHNTUml3U0ltWlJmcjV1WHFxZ3lDSEdzT000OVll?oc=5",
-      "source": "ww2.money-link.com.tw",
+      "source": "富聯網",
       "published_at": "2026-09-13T23:43:00+00:00"
     },
     {
@@ -42,15 +54,15 @@
       "published_at": "2026-09-13T04:12:34+00:00"
     },
     {
-      "title": "記憶體綠光刺眼！「這檔」8月營收旺翻逆風連3漲、十銓漲1.45% 群聯失守2000元、雙雄齊挫4%",
-      "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPYWdyQUYtOTFsRmp6Ri1Sd2JmelVpMHI0c0ZsWnd2QTJNX3Fjd0RjLVJBWkJPOFZJZmJ0cEszUndRVmdma08tdm53Z1ExaC1fTUhpX2FKY0p4MnVXMDNSM3BpWGl6Q2pJWXZVQUFqZ0d1M1Q4X2NkazEtWW96RTV1RHNJTHQ5MEVnTlN1WTJOSlpJTmdlR21seUFuNlI0cGkxRkdpYkswSWlwNTR3V0pYVWM0TldCamQ2d3JLRm5Sd1JReENwN0stZHJab3RFVjFNYTA0RnI3TlZHLVc4dEMzelhHamh5QVdKak9oR0NDRmpONk1YVFc3d2QyZlE4OGlnZU1TelY3Z090cmZ6Y09tcFBUSUZmcjhZSkl3eEdWejRTWG5PZW5Kdk80d01vcGZjUG1landFRTVIc180NGtqbjRZeU9NcGhCX09OTW9vcTRKZzBqcnZXU0hlV1kxdVZlZ2NR?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-11T07:00:00+00:00"
-    },
-    {
       "title": "記憶體漲價趨勢不會停 十銓：這次真的不一樣",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IUFpyVFlPSVlzbm9pQU5zYUJjb3Y4MnlHLThKNEJfQ04yd3BLVFJ3bjFhbEVNNkJSYXRIWWJuRzJfVHhVMndVdWxKbFIwNXBuYjg5WmVLLXA?oc=5",
       "source": "自由時報",
+      "published_at": "2026-09-11T07:00:00+00:00"
+    },
+    {
+      "title": "記憶體綠光刺眼！「這檔」8月營收旺翻逆風連3漲、十銓漲1.45% 群聯失守2000元、雙雄齊挫4%",
+      "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPYWdyQUYtOTFsRmp6Ri1Sd2JmelVpMHI0c0ZsWnd2QTJNX3Fjd0RjLVJBWkJPOFZJZmJ0cEszUndRVmdma08tdm53Z1ExaC1fTUhpX2FKY0p4MnVXMDNSM3BpWGl6Q2pJWXZVQUFqZ0d1M1Q4X2NkazEtWW96RTV1RHNJTHQ5MEVnTlN1WTJOSlpJTmdlR21seUFuNlI0cGkxRkdpYkswSWlwNTR3V0pYVWM0TldCamQ2d3JLRm5Sd1JReENwN0stZHJab3RFVjFNYTA0RnI3TlZHLVc4dEMzelhHamh5QVdKak9oR0NDRmpONk1YVFc3d2QyZlE4OGlnZU1TelY3Z090cmZ6Y09tcFBUSUZmcjhZSkl3eEdWejRTWG5PZW5Kdk80d01vcGZjUG1landFRTVIc180NGtqbjRZeU9NcGhCX09OTW9vcTRKZzBqcnZXU0hlV1kxdVZlZ2NR?oc=5",
+      "source": "tw.stock.yahoo.com",
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
@@ -64,18 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vMlFiS2pHTi1kV1BUdU5qS3dsNlZTSHV3bjBfbmh3TFZhT19UdndyeTBSX3pwMXh4NVREaGpfMTNwN2JhTXd2WXp4NjhOZ0ZLbUxrcUlaMWw?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-09T10:55:44+00:00"
-    },
-    {
-      "title": "記憶體綠油油！「這指標股」卻逆風噴4.44%、威剛、十銓8月營收旺均漲逾1% 愛普、擎亞跌逾3%、宜鼎止步連2漲",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOck1jZFJxa3VBbWZ4ZmNQZG9TSkQ3Tno2VHZQOGUweC00dnRZX0hTMkJWbHZEbjFNLVdrSWFJeXRIZU5FUHZwSzBmYXlFdUxwVl82SVF0Y3VUM3M5NnBibElWUGFkdEY4OWVCZ1FVbXFpYl9lRi1Qc25uMGJLOTYxb1hXSi1VdVcyQUNWZmVDZzFiTnZSX2NWa0tyOG94RG9USlRoM2FDbmFhRU0ySlktSFVCa0xiSXZ0SU96WGtES0ZZZkUyMnZfaVNNT2FrLTZpc0Jyb0xVYXU4RG8zYnhRQ1VlLS14dGNZemtjRnhXeFdzUTg0UkxjcE1kS2xkd296SWZBTGpkZ1RWUFl2Vy14c242TzdfaXVuZjIyblI5Y1pYblgy?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "【2026/08月營收公告】十銓(4967) 八月營收35.13億元，表現亮眼、呈現雙成長，創近5個月以來新高，年增275.06%",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObUNvY0g1cEVZN0cwYUN2eGJvUVJnUHEzdTNnaklEcVFMalhEM01KSXh5eXlRaTZISzZOSWh3eExxendnWnZCeHRvUm1FMElpMy1faWZZZWJsWmhkc1Jac2hjMkJWeHVBT1dfQjJKVHZTY1BHanlFNFZWZGN5aU9RX1NkZlVwRkVFOHc?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]
 }
