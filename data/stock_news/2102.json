@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-21T14:42:00.971960+08:00",
+  "updated_at": "2026-09-22T14:39:26.367488+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2102",
   "name": "泰豐",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "2102 泰豐 - 美國生技指數8月已創歷史新高，莫德納 「癌症疫苗」問世1天大... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3MWJzQXoyX1NET0FIc2RhUkUxU1VJb29JT1Y3TjNMUWtGczNZdHFMdTBWbWhMLXNfaERKV0FZMjVfSlIxY0Z6VzZZS1VERFI0UmxSSlQ3U3Y?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-16T12:34:49+00:00"
+    }
+  ]
 }

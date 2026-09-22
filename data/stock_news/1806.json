@@ -1,10 +1,28 @@
 {
-  "updated_at": "2026-09-21T13:34:28.061899+08:00",
+  "updated_at": "2026-09-22T14:38:56.939915+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1806",
   "name": "冠軍",
   "count": 12,
   "news": [
+    {
+      "title": "亞運台灣首金出爐！「軟網混雙」余凱文、黃詩媛冠軍戰打敗日本摘金- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPbG4zdDdYOUw3cTN5X25rWlhRY0d1di1Jc2txTmhVRXlzM0Z5UWVuRk9lR25HLThXZHR1T2Ytb01hcnloZV9FQUR6Nk1GbTAzNnlWam1NYm4?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T19:04:46+00:00"
+    },
+    {
+      "title": "首屆全球農食新創大賽串聯8國新創台韓團隊分奪農業與科技冠軍- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9zY2x4UWh4ZXY2NEUyems2c2ZaUng2bE9SVk9aY21MS2hMbTdTd3JsNzFMWW95alFFNkdzc3dDTDFvN2J0OW11T3dpS3A5Mjh4QjRWdmVsZ3I?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T12:54:43+00:00"
+    },
+    {
+      "title": "6758 冠亞- MediaCreate 9月 7 日～9 月 13 日一週銷售排行榜《鬼武者Way of the Sword》蟬聯台韓冠軍- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DZm9LV1JBUkFZb0hQSlU0U2FPbXZSSU5RckNRdUMzQ2ZNXzBfZGxweVRuNVk5UkF4dTE3X3JPcWxGNGxXZWNDTXpIbnlfamw1QmVtckYtREs?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-20T22:07:51+00:00"
+    },
     {
       "title": "💥台廠10倍隱形冠軍",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tT19NcE1VYWNXY3F5WkZaQVJ4YXhPRkk3MEVNNjhzNmJmdFMtcTJMMDE5QXEweW5EWFo0VTNyUWc5NTgydjhqQXljSzl1VTZDYVhnYzRfczc?oc=5",
@@ -36,12 +54,6 @@
       "published_at": "2026-09-18T09:00:00+00:00"
     },
     {
-      "title": "「隱形冠軍高息ETF」00936除息首日慘陷貼息...再遭4百股民蛋雕",
-      "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOdC10cFNDYXE0cFRNR2pwVC1LWnNWY0Y2cnlOcmpfSU9KUEtUR2hLM040MEJNN1l0ZjhOenhwUFhFUkROb1JQLUtWbWZ3M0xGb29qT3hNR093ZmNkaEtmVGZiMXlFZmF6MF9uZ0x2TVZUUmNiM0dOUlhsY3NxQnl3MFBqQUM2YThodjZLMlFlYXJkUnM3RFFYMzUxeTdKc2RYVDdsWEVMaXg2QmZqUEF5T2s1YW5vQWlIMGhwVG9RdG82aWg1ZFc1YlQyRU5IWENGN2ZEb1FCRVhKSG1sMG83NHpZTTVPcTlyZTdIX3NvY1dxcDNLOGw4YzBnT1ZCUFZmWW14MWp1VHhpVW51MTNrMV9zRGhYSTVfdWhfRUpyVHpBZXYyRHM5SU9QUzVJaEVjNFN3TjJFTmJ0VEJ3bzZ0elRCalFWSlJBRVplZnJsZl9YLVRPZXhzQXVvSEZiUm0tQWxGMzg4TDRpR0RPVEZSdXpGbFJzeDlUWjA4?oc=5",
-      "source": "tw.stock.yahoo.com",
-      "published_at": "2026-09-15T01:52:48+00:00"
-    },
-    {
       "title": "台股擂台／周冠軍「股市獲利王」何文高 本周看好緯創、奇鋐",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWRkdXaUI4MGJLQk9pTXBNbnBnNzU1OWRYNDkzMmRVTVZnT0RsUENDdmVid3RnV3czMjdTbTR2T2dNcWtUc1dTOF9oZDRRWWJybUxpQmwwaEJQSmVO?oc=5",
       "source": "經濟日報",
@@ -56,26 +68,14 @@
     {
       "title": "買大盤不如買它？台股高檔震盪大洗盤 「9檔主動式ETF」績效霸榜...冠軍狂噴84%",
       "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNWm9YUC1fbWdkZnVDZHpkeE45X3c3YXlzNGpMbVIzYjZiNnhCcUVQTkxqWko0b3pDZGQ5WnhGNmFkbTlCOHJWWHRPdGNLUTlnYi1ua05DUHFTOHVWYWpUclF5LU1EZVhTRUdtMm9oNHdzWGFfdUlvb3dGajBZakZXUUFtQkVCcHhYR3JnVjVnMGctZ2d3dXc0eFkzUHdqeS0zWnRLWERyTWdMaEpYUVl6NUkza19vOEtiSGNZelFONWxSN0dtbTRIWTlqSkZrbkZ2YUwwMXFqbzhxYkV6cjY3LXZMXzVRMmNnQXV3Wi03UVRYWGFNU3pkNF8zU29SSzdjS1l6RXJkMF9CNDFzRmlwaUtlLUxQTjFaQlFUYmNZZW5aVHJ5R1RwWU1IX2d1RFBpaVk1SEhuTlF5NkxabnRKRFRMNzBONVV2WFlRT0RYWjdxRXhsZklUaGpiYVZPbDA1OXVET0FPSlM1Umo5b0UzajY3QnV0SXJOcTBzZTIyeG1UMWV4S1loUS1tdmVOcXIteEpjcm5PQzFzMXZhOW1vYWdDYVVfWVlfSmR1TEpqeGZBenZPNG1BQQ?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-02T07:00:00+00:00"
     },
     {
       "title": "「不能只看台積電！」 證交所董座點名隱形冠軍：科技島真正價值在這| 股市要聞| 股市",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5RLV80VktIU1hZREo5ZjRnb3ZEX1daSzZJdXo3akdneFJQTGt3UDFZTVIzcTlOVG56QUNNYnQyNW5mNmJOOTdMckxRVVZTUW1G?oc=5",
-      "source": "UDN",
+      "source": "udn",
       "published_at": "2026-09-01T07:00:00+00:00"
-    },
-    {
-      "title": "台灣優勢不要只專注在台積電！外媒曝科技島的「隱形冠軍」公司",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnYUgzaVRSNnZkZW4wZ0RIWWk5VnZlR1AzVFhUNXdZUGluNFZMUVdueV9BN1JFT2FOSVNncFZaTVB4YzhZbnlHSFFOOGE1cnZsMHA3dUh1SXRYWnQ0aUZF?oc=5",
-      "source": "自由財經",
-      "published_at": "2026-08-31T07:00:00+00:00"
-    },
-    {
-      "title": "《Pokemon GO》WCS 2026 上演超激戰！日本選手擊敗前世界冠軍- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVc3JmUGF3Wm1ydVpIU3RpbnBWMVZlb3ZFY1Y3RkdaUk5KdjNxVmRpXzViMjJ4Z2hCRFNweXdydnJLc3R3alRKX1lEc25zcXdrcnZXSEJFV08?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-31T07:00:00+00:00"
     }
   ]
 }

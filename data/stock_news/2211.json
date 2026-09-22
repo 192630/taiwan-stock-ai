@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-21T14:42:07.926527+08:00",
+  "updated_at": "2026-09-22T14:39:33.736013+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2211",
   "name": "長榮鋼",
-  "count": 3,
+  "count": 5,
   "news": [
     {
       "title": "2211 長榮鋼 - 食之無味 棄之可惜 公司不敢股票買賣 檢調會查有無內線交易 - 股市爆料同學會",
@@ -22,6 +22,18 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wQV9lVG5NZ2hmNXBqZWJtUFdnSk1MTmxLaUp4TGpiMTh2OV8xSzVDWU9yd2JnR05Sci1NN2tDdElKY0RRWk1KdU1nSlV1aDk0OXlfczhhdWw?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-14T05:01:09+00:00"
+    },
+    {
+      "title": "長榮鋼營收／8月14億元、年增11% 訂單滿手",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmcG9fZWVMU2tES3U4eDNSazVkYk1DN3V1b29DTWR5V0taTEJWUjVod0IzV2cxU3FfZjBWNnVucTdjNWlocE1Uc0ZWeWp0SWpm0gFWQVVfeXFMTUJURHdXNXN4WXE5dHBaR2Rxc1ZzXzVBRVpGV1luOWZxbkplbkVPemdqanpocU9XZW1NNE9MaUxJLWlGeV9fZ0RoZmk5ZzA1UUxIZk81bFE?oc=5",
+      "source": "udn",
+      "published_at": "2026-09-10T07:00:00+00:00"
+    },
+    {
+      "title": "2211 長榮鋼 - 公司要有競爭力 要不斷研發 跟黃仁勳 一樣 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wYWFWRUF6bFRJdExPWFhlRWNRR3F5cXhmSlhFOUdVSC1MNW9UR0tiZjZMQV9BU3diaTRUZTB5MkNBdGhUSEVsc2F5bXl0SE1xdjVnX3Fldl8?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-08-26T07:00:00+00:00"
     }
   ]
 }

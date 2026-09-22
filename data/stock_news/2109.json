@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-21T14:42:04.053927+08:00",
+  "updated_at": "2026-09-22T14:39:29.585182+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2109",
   "name": "華豐",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "華豐科技(688629.SH)：公司和阿里在AI數據中心領域保持深度項目合作",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QdjI2WVR6WHZrcjJFa2JCZ0pNWG5tcTI5cXhKY1B1MzB3amlCZDJNUnZpdHNiT2FWRXBTT1gtZ3NmWWVlTmJac3I5XzVwdF9nSDljUWhVVlIzUQ?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-21T07:43:41+00:00"
+    }
+  ]
 }

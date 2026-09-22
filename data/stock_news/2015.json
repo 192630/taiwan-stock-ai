@@ -1,32 +1,44 @@
 {
-  "updated_at": "2026-09-21T13:34:39.817049+08:00",
+  "updated_at": "2026-09-22T14:39:08.914766+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2015",
   "name": "豐興",
-  "count": 9,
+  "count": 11,
   "news": [
+    {
+      "title": "ISO 9001:2026 發布：自 2015 年以來首次重大改版- 新聞與統計",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZFFTSFpia0xGbE9xOHA0cUVpNU9iaW8xRUQ2dm1XakNvdlVQc2tFbGpBd0loRVVwVTRpQjIyOWVUR3QyXzA1Y09TQ2NYQmxkM1FZYV9zdmIxRnNicVlLZnZRd0dSa3pkTzlEbC02clNmZEhVMS1IWnZucFIxNmRKQnhpR2RXMldUalVwaTJrdmFuRlFxU0Q4?oc=5",
+      "source": "IndexBox",
+      "published_at": "2026-09-21T12:13:49+00:00"
+    },
+    {
+      "title": "廢鋼行情走揚刺激鋼筋看漲買氣 豐興調高鋼筋盤價",
+      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNcFU0N2xEYmJDbmJDVjNFWENiMVByVjktcGhKR2trZkJZS0FUMDVadmt5QTJ2VjFNQlNjN1AxYmxaTW5SdXBreGl4Ykc1TWF2WnZFRmZDSm0xZGVoR2tJaS02QkxMbnFJVjFlTEZWWERVYmtYVTNPZU1McGEwQjVFS0JPX2RaLWhaanJjWUx0dUd3NERPSWhxTDlPRjBqX21QNDRLZjBzWjA1YnZJZi1ORVRnWV9fQ1R2QlhWMnUtWVB4bWNCWGc5NS1xZFVEYnJCNUctLVBEMWVpYXVuWUJvZWlnVVIzMWJwMFE2OFhmeHBWUHk5dmY0UEJjQjFHRUllbGRpcl95MTBHNF9jbklYVmloelF4Nnc1VkVTYnJqM09scGd6Q3FVQXI3MmdXSGU0ekF5WUtjSHB5RW9HVk1QemlZcFEtTE5lTHhBQ05neDBuUmZQREFBNk9USHA0SjRnUklKdzFPSQ?oc=5",
+      "source": "Yahoo 財經",
+      "published_at": "2026-09-21T05:40:54+00:00"
+    },
     {
       "title": "看漲買氣浮現，豐興調漲鋼筋價每噸200元",
       "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPNnQ3d3ZwRTJqd2JLa29qSThwLWRrMGwtUEFLT0NjUXJtS1htX3BqTm54ZFJfTFY4OFgwY1lHNzFmVlB5X3MtQU9QdDRtMVhaR1ozU3RycG9MS0lkajBBaEhwazJWTURjckdyTGE0cnQ0Q19pNFVIb2I5VWdxSGpGc2pqOGQxaDRvdDFyLUw3TlAwVVpqRVpkWDVvb2lzenJNYllQS1E3Q3BMLWV3a0JqeHkzcXZSVG9MSGhna0NBQTNTQnJnbUdDVmtCRjJZWTE2ZFVZaG4tajd4S2pVdXJWT1Q0RkFXTEs2d0dia3ZMSmlwQ254aWc2dTYtdmVrYzNILUpNc0U3MkhONF9vR2dzbE95aUVOTDFPc3ZCNHZFLUw?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-21T05:12:12+00:00"
-    },
-    {
-      "title": "豐興本週廢鋼收購價續漲 鋼筋交易清淡轉平盤",
-      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOZUk5VGJyOXRiRWxLQUJleTFDczBuNEZLNmZCemZBMHZiSnF2dHcwTnZQcGFxQ1NiTktMQVRUT1RRTmh2bXFlR0FXVmQ2QUlQbV9JRFpPNnJoX1FLejRtb1dRVTNxc2Ffdk53ZjFncWhQNlctcHpsVDVlOWdMdGViTnZORDBlb2xlQmJmUHN3bUYyRUgyaDU1MDhyN2Q1TFlXOXctNm9CcmlmcWhpUzFWZFNnYmlOYnlzSEJ2S25maDBuVkdsTTZLWkZRb084QjNXSXM0Ym5xWGZyWW5fWkJ6ZnM5YWRkS2UwQnpLLVBlN0RsT3FmaVhiYlZ6MWNleW9fSWJ3VXZYaElUSFhBcFVKaFFGWWdrSld6VGhkRnZ1czdoMUxuUTloUHpuZGMtYnhZd2FsU043cWtMWGtRZzNfNG5pdlJHcEE4VmVIZg?oc=5",
-      "source": "tw.stock.yahoo.com",
-      "published_at": "2026-09-14T04:57:06+00:00"
     },
     {
       "title": "反映市場預期，豐興調漲廢鋼200元",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxORXQwTWR6eWpoVzMyeHhRQk9haGJ2SlZheVlmOWFzQWlyTGtkX1JXaEhuX1o4d1AwUW9mTkluV3lhbGllMEFvbWZoXzdWSlRlVlQ4LVM3NmtISHU3bnZfMEhYSU1SQXNnd01DaU9KbzJwNktzUUtPYlJ5N2hWRjFoeVFMODRyeXdCcWJZRURaREZOM3hDRkVpUGJHM1NhUU43OUpxZnhEbDl3cW9SNl9LTE1La1I5dmNfcTcyeV9oekZOME5YVl9qYVZ6aXo3OHJnOUlRVjFGWHB0bGF0dUtCUERmNW5WLXptakltRERha196VEhzNFlhVHVqUHk?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-14T04:05:24+00:00"
+    },
+    {
+      "title": "豐興本週廢鋼收購價續漲 鋼筋交易清淡轉平盤",
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOZUk5VGJyOXRiRWxLQUJleTFDczBuNEZLNmZCemZBMHZiSnF2dHcwTnZQcGFxQ1NiTktMQVRUT1RRTmh2bXFlR0FXVmQ2QUlQbV9JRFpPNnJoX1FLejRtb1dRVTNxc2Ffdk53ZjFncWhQNlctcHpsVDVlOWdMdGViTnZORDBlb2xlQmJmUHN3bUYyRUgyaDU1MDhyN2Q1TFlXOXctNm9CcmlmcWhpUzFWZFNnYmlOYnlzSEJ2S25maDBuVkdsTTZLWkZRb084QjNXSXM0Ym5xWGZyWW5fWkJ6ZnM5YWRkS2UwQnpLLVBlN0RsT3FmaVhiYlZ6MWNleW9fSWJ3VXZYaElUSFhBcFVKaFFGWWdrSld6VGhkRnZ1czdoMUxuUTloUHpuZGMtYnhZd2FsU043cWtMWGtRZzNfNG5pdlJHcEE4VmVIZg?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-13T07:00:00+00:00"
     },
     {
       "title": "原料成本高掛，豐興調漲廢鋼、鋼筋價格",
       "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQOHVVdFlJeHMwdnE4NmphMVBpS2QwUWZVa3NBU1lVVUp6ZDA4clZwOTF1Yk1JeEhvSHpPQ1hMNER4UDB6UlFMZGQyeTh0Y3NEaExyRWxSMGVZUEd5WlhIMGNNVHI1eGNQbmxSdGNXSkJsWmtmQlJMM1FqMFZhRzY0OHN2bXYzREl4TmNmcUZUTXRfNC1IZUdhOGhpS0J5WU5UNFdvN1lYcWc4TTQ5bkZSMTBNNW9ZMzJrQ3pDbTRvRmJzY0o4ZWtKZXBvNTNQVmFaVFNDZURSUFFLN3QyNVNNdVQ4NTBDaW1ZYzkzZmVncDFUb0NITTFhV1FZWHhWZVFfWnRZRzZzWlJKVnJfTVZaVlZxVHhNczlBZ1BpZmtR?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-06T07:00:00+00:00"
     },
     {
@@ -48,15 +60,15 @@
       "published_at": "2026-08-31T07:00:00+00:00"
     },
     {
-      "title": "國際廢鋼築底有撐 豐興鋼筋盤價開漲盤",
-      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOUmpNdFJyWS1wTUlldFNYdDJINGVDWFhIc29yME82LTZRVnZDYW9KeF9vVmVFNXRCek5HUFZUaHBTTmxrQkxoUTFURjF3a2ZLbFA1cmEyVVN5NjRsa2dfQTJ2Mlp0dlhZa0VmN0h3Q2RraHVrZms2RWJuSFhZQ2E2WjVPZWdoV19VaGJDV21QS1RySmNMUG53a0tvTlpIbm5SVmdtMFRzNDU5bFdTdElmcE44MXFjUEE2N0gzOGJlM0NqeVV1M0l6bGdsTERXQVV2RjZQcVYwTHczeGFiMkFfaVVtU2Y5VUl1NHRvQmFaV082NmZ1OGpjM0l4dnlKdWUxcWdRX0pOcFdfOUd3cXlXclo3YmRfbk13MGlRUG1xLURkMWNOdHMwaA?oc=5",
-      "source": "tw.stock.yahoo.com",
-      "published_at": "2026-08-30T07:00:00+00:00"
+      "title": "鋼價回溫 豐興看好第4季",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfbVcxdHJFamF1Z3pPSEY2Y2xkMHFVc19FblUxWkRDV1ExUEtQakxyZjlTamlBdFRXWm5uN3ZFTzVDZnEzSXB2WnpoTDV6dUJk0gFWQVVfeXFMTmhCeW1xMy1BczZhQ0liaXdRVnlvZy1Xcm9scTBFc0VFT3l1QU9LSjkxUDEyNnZjYnp1S3ZKa2xoajJ0N1B3OFlyU3lacWhQazY2b1k0eWc?oc=5",
+      "source": "udn",
+      "published_at": "2026-08-29T07:00:00+00:00"
     },
     {
       "title": "買盤仍未明顯穩定，豐興本週盤價維持平盤",
       "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNbEx0b2NqYXE4dHBRRzdjVVBST1hJdlVQVGdfdDBKTjhkbGo2UWhleXNhdnFEZFRuSGRheV9CWWQ0SUpubU56bWZjTlJ6cXREejFUM3FlbE9BYUI2QWpTRG9EVDRpNjc4endOdHdvRFl1ckxKemRQekpHY1Y3TWR1VzJiN0dyRUtjZ3pFWGpyWFpSOGlvUkRObXhUVk91ZlJVVEE5R256ZDNzNFdjMWhpaU1LVldUd19kTk9DY1E5N0FCT0g2Zm9jbFUzUlFtVlFyQ2VBTVhDakNIVlY1MkNmV2hjN0VZTUxIaXplek15bEk5ZTBpNHVxTS1rbklOTU9yamZqa293c3R6Sy0xV3NCZGNQWHg4cDBMWVpnYmwwTTRGN0sxNnlmTi02dXVwYWE5M2o2Vg?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-08-23T07:00:00+00:00"
     }
   ]

@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-21T13:34:55.859472+08:00",
+  "updated_at": "2026-09-22T14:39:23.838997+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2069",
   "name": "運錩",
-  "count": 4,
+  "count": 5,
   "news": [
+    {
+      "title": "【11:18 即時新聞】運錩(2069)股價走強，市場聚焦獲利躍進與毛利率提升",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZlByUzR3bjNQcXpWVUxBQU9TcGhoWW9acGVvakhDdlpTMEVqdFhoWFU5eW4xZ0FzclpPcFZQenZxUHpFb0JPS3N3cnNJYTZtbnVGdHZWWFVieTlXUi10V0kzaFExNVJUM3BDNEhxMGlpMWRjWHNMLXRqbXFCd09DQ3YyUnRpNWg4Vlp6dXp3?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-22T03:18:39+00:00"
+    },
     {
       "title": "討論牆 | 盤中速報 - 運錩(2069)股價拉至漲停，漲停價22.4元，成交678張",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnLTV5emdFa1Q2b25ZaUFZT2s2c3JfUUUydEF4ZzJ6Z3hYS0ZBck5NamZFYktlZ1lMTFV5dmVpcjhhelpVQThONXFBNGZvUzhTekk0anVkX1F4U3Z6bXNSYUlZb3Y?oc=5",

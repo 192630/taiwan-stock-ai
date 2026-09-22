@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-21T13:34:52.959940+08:00",
+  "updated_at": "2026-09-22T14:39:20.624397+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2061",
   "name": "風青",
-  "count": 6,
+  "count": 7,
   "news": [
     {
       "title": "【12:42 即時新聞】風青(2061)盤中走強，AI線材題材持續受市場關注",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWUhFTjB2VURFbG4zU182cTZpLVlHTGNfTERtV1FvWlJHUlgyaGU4YnNWSzZLTGRFRUZhWUxCSXRDSTNlSTZ3RGZZcU9YQzZtTWhyN2dXcVlUc0kzQU9PZ0ZHZUdUX1h5bEVCend4MVpvUEl2aFlhVHlkZjQzOVk4YURUbGhIazcxaExvLWF3?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-21T04:43:01+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rM0ZHMVFVWVRWOFY4TDlGWjBhdmNEdG9Jd19kZFZ0Y29rZjYwd0hhODRWX1NrYTZDR29EdDdiYXFqaEJ3cjhUR3ZHWlJ6bEVuOUlQaVlIYkU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T04:43:04+00:00"
     },
     {
       "title": "【12:39 即時新聞】風青(2061)股價小幅走高至48.2元，AI線纜與HVDC題材支撐，高檔回檔後短線買盤迴流觀望",
@@ -22,6 +22,12 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RazhaaWRVZ2hKeGdKVG01TmhBRmNKTXE2QkNDaTFBdDZtM1lUaHJkTzhnT1l4VkxrYlRGVmZZS3lqS196SWRoSFBZbGpad2VqcnFYRHNlYUE?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-07T07:00:00+00:00"
+    },
+    {
+      "title": "【10:19 即時新聞】風青(2061)股價上漲6.94%至55.5元，AI高壓線材營收持續爆發＋短線反彈挑戰前高壓力區",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSHUxRGdOaTFJTkF1ek9jNlJmTXFjeUk1VDFiZ2psanc4NXE5TGFVUVZrOC1TTDVGNUhMUkxkM0IyTkd6TzFaNHIySFJyQ05pTjNQVC1YZVdUVmUtQnpUcXZ5MldYMXdHczhrV0lOdjdaeFdhWHZhSVYtRXd2TWkxUF91NmJoR1RwaFB6SkZB?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-04T07:00:00+00:00"
     },
     {
       "title": "【11:13 即時新聞】風青(2061)股價上漲逼近漲停，AI線材營收連月成長＋短線買盤回補挑戰前高壓力",

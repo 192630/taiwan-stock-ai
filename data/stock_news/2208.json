@@ -1,14 +1,32 @@
 {
-  "updated_at": "2026-09-21T14:42:07.461059+08:00",
+  "updated_at": "2026-09-22T14:39:33.259601+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2208",
   "name": "台船",
   "count": 12,
   "news": [
     {
+      "title": "高雄台船爆工安意外！員工高空作業頸遭夾擊慘死 勞工局勒令停工",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3d2pYcXc3OGNST2FoN2d5Mmowb2gwTmpTaVpoemIxXzNsTkpER0hjelZWQ2pUaEtsV21OWHZjekRkcjhJTm02TTFrWVEySkJmc1VPWGNmQUJXNkExNjA2Sg?oc=5",
+      "source": "民視新聞網",
+      "published_at": "2026-09-22T03:55:26+00:00"
+    },
+    {
+      "title": "台船工安意外以撫卹家屬、施工作業檢討為要 持續按計劃進度施工",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04X1YtbjZPcVFjN2RvWkpYaWRjREdZSnJVZVhDVERFUTRULXRZVGtMczk4TnR5d0F2TzVkS2M3VTlPX2hwSk9peURuX0duWjJ4OUHSAVBBVV95cUxNc1h1bTN4NjRraGI1bXBReDJTaHZCMEpCQU8ta3hIdGl6enVsampaSmhJN3Jib0h4MzdCdWZyazE0WkJkZzRlaEdxZ2hzVjRMUQ?oc=5",
+      "source": "ETtoday財經雲",
+      "published_at": "2026-09-21T12:57:00+00:00"
+    },
+    {
+      "title": "《航運股》台船發生工安事故 已通報主管機關",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ1ZDNDI1SmdXdkhHZHZzbExrMkI3bU1QUTBtLXJfWHVnZ2U1aTBCYVM5N2xrSEJ4cURxM2NoUzViQXAxS3c1eXphVEFmSVo2YjBMeERCX0hudTQzMFA4ZFB3X0RxNlpORVdCWnVWUjRhdmFnNktUcko0cWV3aDBLVUJCbjBxUHdf?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-21T09:31:00+00:00"
+    },
+    {
       "title": "台船衝國艦國造新單",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1pVWtTQmI5Wmszc19EVXFuSFUwSmRzMlZUeG56ZDBUaHlZYkdVNVI0Q2VUSGdpYUl0SXF1dUhsZlEtTE4zMDB2NVh2WjZhZnFF0gFWQVVfeXFMTkNfNHV0UHJSOEtFeWZibGE0VWhPYkh0NDNQZTNobFJsdnc5QXJqdDkzSzIzdEpUemtjSkowYmJfQk1nczRWdU1JaFhnMDJMLTdYSDdKdGc?oc=5",
-      "source": "UDN",
+      "source": "udn",
       "published_at": "2026-09-16T16:23:07+00:00"
     },
     {
@@ -18,10 +36,10 @@
       "published_at": "2026-09-14T06:50:29+00:00"
     },
     {
-      "title": "2208 台船 - 美國生技指數8月已創歷史新高，莫德納 「癌症疫苗」問世1天大... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBMWGNOVWdEc1QzRHJXMF9vbVNFVlBrbTBFcGN2RnZ2VE85cGk0Q3pxZDVRZVIwUnIzNjBiRGpzNFBpRVc4OEF4dWJVdmZXRlExOUg4T3EzeWU?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-12T03:12:15+00:00"
+      "title": "台船攜美商 攻無人載具",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5UEpLb2JmUFozSXUyOHBFb1FEOFJOSGlzN3lMX05NTF9PeDVCZHpKUklnNTBaeW1rejVXRmxSSVNIS1Q2TXJzX09RNmVSNzdH0gFWQVVfeXFMTjZnSldCZFZTSGE0MUVrUnc3a0x3MHFERllEdHo2Z3J0aXhQWmpnOUhpNXgxMU1Hb0twM2c3UjBfNUliZmtzaGg0QjBSTTJFUDVMVTNTWVE?oc=5",
+      "source": "udn",
+      "published_at": "2026-09-12T07:00:00+00:00"
     },
     {
       "title": "2208 台船- 興達港遊艇船位完工修造船廠將營運- 股市爆料同學會",
@@ -48,34 +66,16 @@
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
-      "title": "台船「牽手」美商Havoc布局自主無人載具在台生產 擴大台美合作",
-      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPSG9VYVZEM3o0SEpLRl9TelhOWE1SUFZJRUxINWtZVHluemxQLVFpamJCbnR5cUNERGFLREYzcW5IMlA1cVZiUWhFRm51X0M1LU1DRXd0UXNBSC1WOVNfTTRETlRncnZKMFVrRThYb0RzeXNiNXVXaDhiVTV5ZFdQUUpWSjhlMlNuVHdLbHl5bVhFNjR5UUZjbGNZelg0bFZiSGVCY3FmTWxXczBtd2lMSHBFS3l1cjJ4WDhjTGZEZ2VmZG9CbVpVS0x6YlpQX2VoRkdjUVZXY0pReDI2TzN0djhFQ3hpZzdXVnRiZjdPYjF1T0R5T3NoTVh0aktaVUZmaWh4ZHU2QUJGTjFYdDlYdmd2Ympmei1MdUlULVZhYkQ5Uk1DNWZuNngyZG9zMl8teDV4SkdIOGN2bVNFM1NXMzFOQTlPbWNtNndhZk9tSVBLV1FmT3gtUm9URTNhOG0yRVZ6ajRqNnM3VFBEcURkajlrcDdxdUFfT1pUTHVR?oc=5",
-      "source": "Yahoo新聞",
+      "title": "台船攜手美國Havoc強強聯手 布局自主無人載具在台生產",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ZckttTlp0cVNtSmxVQVc4OVYzQkZXRmFWbXI5ZDRNa2VCaDVNeTVaMDVBcnNsc3l6dmRtWHZCYU80aHRRX2prbVI4YmNXOUxC0gFWQVVfeXFMTXNfdzdlSEs1MEc3SDY3M2JWcFRpSUZlbVBVR3oxTDRGNHBwb2NTeHUzZWp1QW11ZGx0RzV6QmZxMDVXenVDbGY0N2s1STFqV0syd0lNZ2c?oc=5",
+      "source": "udn",
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
-      "title": "美台國防合作再下一城，無人水面載具在地化生產啟動，台船逆勢漲逾2%-財經焦點情報站",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdGI1cU9lendEaDUwalhwYVlDb0dyUUhqaktfdks5eWYybkhDZUVJY05PY281MU03alN3Y0VvcHhSN0liNlgwbFc0Qm83NmtQTldMdlJPRHJGcWMwWHE2bjY2WWR6c0w0R1lJWDhlZHlDM09YNElqcFN1M2V3aU1EWjl3?oc=5",
+      "title": "臺船(2208)站上19元，成交量能否推動反彈延續？-雅筑股期理財術",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdGUyeVlKeXExYmk1X29UbWtBYkJpbXI0aGdkWGlPcE1VOGpDazR3RElvTmNRNnZlSVZINncza1NpdTlIbWR4ZU1ndm9jTW9FekdEOTJPWHJBaEFfZUdTVDFyc1c2X21WckwtWTE4cDQ4U0w5OVN5Y3k0VDItbFRSdw?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-11T07:00:00+00:00"
-    },
-    {
-      "title": "2208 台船- 台船攜手美國Havoc 推動自主無人載具在台生產- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mbFExWkhURTZ1UnpTT0NVT3lIZEk3a0VXZUpBNUNVNHNyVDlsWEtTbW5ja0hyZ1E2NnFTeUJwaWNqNWlEZ3I4UkxIQTBZcTBaTlpPcFNaTzU?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-11T06:56:32+00:00"
-    },
-    {
-      "title": "盈餘：台船(2208)1-8月合併稅前淨利4億1855萬元，每股稅前淨利0.33元",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa0Rqc3RzR2JCaWF1cjVjaTUxcWdyVFkzTm0yWkxmNERKcHk4TmRvN0pwNE51Mm1QYllaM0VORzl1cDAwc3ZodDNwV2d5Q0luVDVCTFRDMEU4bTlVNGxkN3NrSlA5ZV9fSTRKb3h5d0liWmpkclNWN2JOZDl5Z2wxbFVjNFhCVTFp?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-11T00:24:00+00:00"
-    },
-    {
-      "title": "台船攜手美國Havoc強強聯手 布局自主無人載具在台生產｜新聞快訊｜豐雲學堂",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJY0FRYldkb2V6V2RlN3BlTlBmOHN2bkdGQ1pzN0U2OGhGcnpNYzEtRWNDOUR5N01ZcXFOeGZTRzNTV3FRLVFjVmxhdkIwMkFfamlJc3Vqbzg5QmF2OU1KMHRNa3BiYjFqa21ONWxDZ0J2ZTRHZ3c?oc=5",
-      "source": "sinotrade.com.tw",
-      "published_at": "2026-09-10T07:00:00+00:00"
     }
   ]
 }

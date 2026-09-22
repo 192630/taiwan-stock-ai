@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-21T14:42:06.441072+08:00",
+  "updated_at": "2026-09-22T14:39:32.152691+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2206",
   "name": "三陽工業",
-  "count": 1,
+  "count": 3,
   "news": [
+    {
+      "title": "個股：三陽工業第20次買回庫藏股期間屆滿，共買回5,006張，平均每股62.92元",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQXdOcTk0QWJ6Y1BLbFFMV25FVzRpUFdadVdGUWdPYmd2dW9MZ1NNYXhiUzFuTXVzVmJ4RVYzaDhaNmxMWU5obHBqZWVfamt6VWFtQzVFN1VNMUxFRTZqUEhxMjJXRkwtS1FXejdNQUhwUk1mWXZHbVIxVXN1VTBULTNpNThnLVFr?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-21T08:53:00+00:00"
+    },
     {
       "title": "三陽工業(2206) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ad2ZMRzV3LVozZHRlZWVjNTJDcGt4T083TUxDTmJPbExoQ1RxMEFLaU5GcFV2Q1kxWHBTamc3MmlFWG9QQ25KNEFGU3hSb0U3REFj?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-18T06:02:56+00:00"
+    },
+    {
+      "title": "不怕欣興無量跌停！外資進場接刀2206張",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8taFprX1ZWZnFXV1FnXzA2OXZ4UzhTZ1pGbjFwVHlWVjBqYjNSVTV3NElpbmF5cjdtTHZwX3Rva2pDbW9QVkhidG1TMWU5eVBMUG9jTW9kNks?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-08-31T07:00:00+00:00"
     }
   ]
 }

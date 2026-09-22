@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-21T13:34:40.869557+08:00",
+  "updated_at": "2026-09-22T14:39:10.244964+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2020",
   "name": "美亞",
-  "count": 5,
+  "count": 6,
   "news": [
     {
       "title": "2020 美亞 - 美國生技指數8月創歷史新高，莫德納 「癌症疫苗」問世，1天大... - 股市爆料同學會",
@@ -19,9 +19,15 @@
     },
     {
       "title": "ST數源：2020年年報、2021年年報及2022年半年報存在虛假記載9月10日起被疊加實施其他風險警示",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhMzctTUFHTWZycFlmRC16QzJHa2FZeWZmNHphRUV5a01Ycm5hNWNGSFFXY3gyWGpwNHJkMC1ReDFQSGVxNkJvNS1ZRjlqWWxtbVNod1RuZGNhSjNPUkxzNjctWHVEYUFPbWc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10OVVHRThEeEN0cEp3NTdxQUZuZTlDT2VLcmFvb2xJMWRBSmROQU43LU1wb0FoUGFHUlU0M1N1WHN0X1hTcTRwMjZEaUxIWkFKRUhLaWJCMUIycHhvekxNc2xTdnVGVGVJSTgw?oc=5",
       "source": "TradingView",
       "published_at": "2026-09-09T11:39:17+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】美亞(2020) 八月營收2.72億元，營收雙減，年減37.05%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeW5GcDVjd3FEMGltY3dVT3NLckN3cHNsU3ZmbG5BTmVFZ3pmWU5fdW4wWWVWeWdBYThyRVJ6QmYxdS13S212eEpJek5RUGI3QTMxZTVxM0dUQ05wWEoxLUVIMTdLcEg3bm1rTGZaaXNBcjhqbmtWdGtwSjQ0UWRSaWhkTVZMZHF6Z3c?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
       "title": "美亞 115年8月營收2.72億、年減37.05%",
@@ -32,7 +38,7 @@
     {
       "title": "華爾街最強多頭Yardeni：現在不會急著押AI 仍看好「咆哮的2020年代」",
       "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPTjM2VENoNUo1aUlnSFZQUVBuMXNSY3hlZV8tcUVzbUFCWUFUSF9HTXNZTE1QS2RnWF9mSjhRWGR3Y2FoMkxHRW92Q085R3A3UFQ5OVExeFF6ZU1yM3prOUVMaGZLYkNGWkRFR3BRbFN0aFBwX190V2lxLVhXcXgydFg4eU1JcV8zNWU3XzJfWmp3ZS1hTTduekRZQ1VoRkJta3JNWTFiUGFSOWhrZUZsRmg1NHVDYXh2SjZhNWJiaEVFVlNJQmhjUUNHTzR4T0t4RG9NVVE3cHl1Y0k0UHhIclJscm5GUXhyZWwtSm56MHc2VHdNalBMOE1zSmoydW44ckR1YjQyaWJHck1DTlFQX19OdEFYLVMtMV9ocnZfODVRWl9ydmhBRkJJSlJJb3Z4Z0g0b0xodW1sQlFMYktCSmZHcFNobEs3VWExamU1VjRYd05MQUVfajdyVzA1bTc2Q2pVUXp3WTZwbE4xczZsVFVCX1FpbWg2?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-08-27T07:00:00+00:00"
     }
   ]
