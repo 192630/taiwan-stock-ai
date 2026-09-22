@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-22T01:32:16.741413+08:00",
+  "updated_at": "2026-09-23T01:33:43.965209+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5457",
   "name": "宣德",
-  "count": 4,
+  "count": 6,
   "news": [
+    {
+      "title": "《櫃買市場券商賣超比前30名 3-2》宣德(-14.68)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS0xWQ0VadnpoaVVaVW9yWmF1Y25taXhDSlRMaVg0NlRSRjM2N0M4QzNjUjV4bHU4QWRHTUdHVWdLWWxsUGNoZ3RidGdOdE1XazAyYzYxUFN4WEVvRVlPUlYxNzhDcVJucHF2MEhmSWtXcE5YZHNxdjNsQTJTeTk5em5aNnZCYkxy?oc=5",
+      "source": "ww2.money-link.com.tw",
+      "published_at": "2026-09-21T23:31:00+00:00"
+    },
     {
       "title": "4915 致伸- 【09/21 產業即時新聞】無線耳機族群強勢走揚，聯發科與宣德領軍點火反彈- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xeEV5WjBMdGZjZkZaTWRLXzd1Z2F4TFlDdWJ6MkF4WnhKVVNBd2FwdkNVTEZLakJqcU9PWEwyOS1nY2d2WmxFNFFsV0Z4YVBKdG10Slh1UEY?oc=5",
@@ -14,8 +20,14 @@
     {
       "title": "【09/21 產業即時新聞】無線耳機族群強勢走揚，聯發科與宣德領軍點火反彈",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMjk3aFVEeUkyZFozLTRWZkxXN2hrZHFSdGt1dkVvVkRlR0FkS0YybC1HNnBiZDdKMmNZNEp6NzhMbk5RWVpxbG5Jbl9IQmF4YUg1VjZHSnA1aEEtT1BxUkpROW1OLWRKRlFkal9WTlVQMmFkMTl4cVlSUGJWYWFlMm9zb25ieVlzT05rMHVkRUZsbng2RU5QZlpqcTd5eGc0d2RodTlJM3dvMnJaUTRxV2E2VkZlQW9jNVpYNUh4UlFXbFBrV1JpSXItUWR3NlE?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-21T01:30:33+00:00"
+    },
+    {
+      "title": "5457 宣德 - 口憐- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1iZUMxS2x2LVNiSHdibXBjRDYzY0t3NWMzazlCdmhqM1d4Z3V0Z3pwRXB4Z0I0Sy0zeWJpVDI5ck5TZ01EYmp1TmhmcFhFNUZrZTZsMS1yUEk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-16T02:06:54+00:00"
     },
     {
       "title": "5457 宣德 - 天天都便宜 - 股市爆料同學會",

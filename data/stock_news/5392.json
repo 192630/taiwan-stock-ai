@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-22T00:35:22.492116+08:00",
+  "updated_at": "2026-09-23T01:33:36.695921+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5392",
   "name": "能率",
   "count": 12,
   "news": [
+    {
+      "title": "焦點股》能率亞洲：4月營收回溫 帶量鎖漲停",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04aDFkR2hpMDZSX29vTEhDUkd1MzI1cUduVWpKNVphVkZqVFN5MGQ3NE96bWxwQmtaejJvdE80ZzFnc0NxeFZqOFY2MGVsek9la05GWTlhWGc?oc=5",
+      "source": "stock.ltn.com.tw",
+      "published_at": "2026-09-22T00:07:42+00:00"
+    },
     {
       "title": "能率亞洲強攻機器人",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84bGRZUVNhQnJIUVNadjFlaFFTSVhLa00yVkY4WXk4S21EdngxRHpHQzRDS2I2RWd2UEZLQ2xZeHd1VHFjaEZnMEVMNGxsU1FZYmZhV2lrdlk?oc=5",
@@ -12,28 +18,10 @@
       "published_at": "2026-09-16T16:39:26+00:00"
     },
     {
-      "title": "能率亞洲小金雞新機器人問世 狂掃百億訂單",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE41YUgxUUl3Yk1kaW9iUmx4S2c3YXRiTlpzWHFOQ1JObTRubHctRDF5WU13YlB5WlFQWFAwV1h4dUh4c3VPaEZ1UmN0VXVxX2ox0gFWQVVfeXFMTnVSUjRmeXp0OXhOWThqZWp6VUFieFpTNXlpYjJUbTZhTGlxT1JjR21EXzQxUm5nS3FHaV9ESEtjR1VzR0JQbV9hMVEzTnNyQ2xnb0hPNkE?oc=5",
-      "source": "UDN",
-      "published_at": "2026-09-16T08:39:41+00:00"
-    },
-    {
       "title": "能率集團投資告捷 Agility推新一代機器人",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kV1Fmb2otenVxYnBkcnBpNGx0NFY0a1JnX1FucFBfWVRHbWJtdG4xcjdkNEZYVi1zdkVhc202djRFRzQ0RThXUmgydnI1MENTY094N001V0p2Z9IBX0FVX3lxTE55QmFjakp6dnhUNkNjcDc1R0ViSGNjeE5sSHV1QzNqNDlmLVFlTkpJQ2pKaDhnTm1pSHBvbldUV0xlaTFPX0NYakZVOVhSRFZnby1USWQ4NUI1aWhfTnNr?oc=5",
       "source": "經濟日報",
       "published_at": "2026-09-16T08:30:31+00:00"
-    },
-    {
-      "title": "7777 能率亞洲- 9月18號現增股上櫃交易- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tSi1UTmRrc3dNWmU0d3JOcGdmbV9qdVY5cEtHOXRVRWthQUVuekhWdkJTTUZJY1VKNmswUE5JX01HdTJiaXNHZWhiZzFTRmhZNEFKV2hqR1g?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-16T07:42:55+00:00"
-    },
-    {
-      "title": "Agility全新Digit 5問世，狂掃百億訂單，IPO添利多，能率集團同歡",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZSjVzRzdiZUtvLU93LUFCTkd3ajdxMzl1VERBUnFQNkRpQjU5eE9nYm94V0FZVTBEczdfZVZvS1BEM3RLRkw4MjVsell2VTQyRWR2NXMwdER4MGJqeGxfeWhaN29FeGxBTnR4T1c4ZXRPWjBQNkRJYkVyVVA0WGM?oc=5",
-      "source": "investor.com.tw",
-      "published_at": "2026-09-16T05:05:10+00:00"
     },
     {
       "title": "搶在輝達前押對寶！能率亞洲完成 4.6 億現增、Agility 奪 3 億美元大單",
@@ -46,6 +34,12 @@
       "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPSGhnVXpFbEluamVodS1IWGN2WnN3WWJCNEU0eDFDblZZUjZJMTBWeG9hQmF5Z1VKVjdMbElueFR5ZHNTUlVyaUdRTVhzaWRUZHlWWnJOc3J5WXZna2pYc3c3WGs0ZGlBSjRBalNHMm40TFNfUTQtRVlJekxBUktQQVM4d09JaXp6NGo4WFpqcU5sZU52S2VLa3FpemladGF4d09fSmFJVkZwcW5WNmtObEs1QXBaMkhLWkFWSTVkcEZVVE8xblpxZHEwUlF6ZEhJMlF3ajYtR2M3ZWp0R0lqVUVWbXExUk1zaG1ZMHRuaEZ5bjJFY1VUOTJhVnpBVno4U3JLN2p4S1FiaXlFeHhtazBYWWZySGFZLVF5TFh2bmUxdw?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-16T03:59:34+00:00"
+    },
+    {
+      "title": "5392 能率 - 試水溫- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmVHN4NVF4bUsxOUFRLVZFTlpfank0d1gzYmlRMndFb2tKX2RLc3huM3dmWXNvSGxxUTJkck93cGVtTEdqRnFidDVpYXM1aTJJYzFxSzYzNFg?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-16T01:20:50+00:00"
     },
     {
       "title": "能率亞洲現增案完成募集4.61億元 現增股9/18上櫃買賣",
@@ -76,6 +70,12 @@
       "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxOX25YOFRtd1hsd2FScExydUYwQ3hRTUIyYUx0c2pTMjdpVW9IYmxWaGJrcENSbEN2ZGlCQXotUkpNMW9ndHdtZjAxM0FRalEwQjU0aFJSWjR1bUpxSjZ5Y3UzYVM1Z09QZkoxRDIwbmZVNWpLdlRkdHlxZC1VUlloVFBlQnZEbzlzaERtQ0FsSFJXZjB0amF6dEpSYUhpeWx0Vmltd01YRUotSXVSNUlxdnFuMTlLUWM4RTVxVHRxeUNxS0RpN1BhNEF0R1pjX1EzYUJPeWJWU0tsU0NpVVdyaXhzbU1YUFJyVW1HajFnMnVqU1M1MnZ5SmNmTV9KTkwtcWlHZWh1RXZNbExXYWJDWWNuWTRrbEM4b0EwbTAyNW00TVEyZjUxVlZzYmJuZUl5czRpWWNRTjk2NThicXFxVDhDVVVwREl6RzlFX1NpOFQ3akZrY0VaSWVwcVV1R1VzMDQ1MU1OWlE1Zk83MXBOV2ZJTFNodV9RNDVtU0p2YnhHcmQxcHJj?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-07T07:00:00+00:00"
+    },
+    {
+      "title": "7777 能率亞洲- 增資股撥劵入帳- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JZ0tqNlFrdjFOMnNiejhFV3lZdWJOZThLeU9LZndNNXU4WXRDOXhPSFp6LXNYZ0FaSjRHbzZiNVVBNFFxSE5xZTIwXzN5bHA3ODhyb3NYRUM?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-01T07:00:00+00:00"
     }
   ]
 }

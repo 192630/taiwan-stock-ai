@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-22T01:32:18.576426+08:00",
+  "updated_at": "2026-09-23T01:33:46.041016+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5468",
   "name": "凱鈺",
-  "count": 3,
+  "count": 4,
   "news": [
+    {
+      "title": "討論牆 | 盤中速報 - 凱鈺(5468)股價拉至漲停，漲停價26.7元，成交204張",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XWTAxSTVaX3otWE5WRElJYjFKcER5ZHJONF9BeDJ4cHBpcmw3TVFWcW45S3RKc1VlQ0FhdzBpZnlvQ0tvWjNEMVhWVkNVNG51MWtlZFBaUEFWeHBpWGxpSjViMHA?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-22T07:37:45+00:00"
+    },
     {
       "title": "8月營收年月雙增 法人看好凱鈺明年EPS年增率可達280%以上",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhS3V6bWlPUkdzelp2V3BwOHV1YVlKNWVfYkl1aTJLTDQyYjZzWENNLVVydXprNzBvaGZ3aFg1RGNxTnV0MEdSVWYtdmZLYWZPQnFMRUhZN3lIcUNTaXh4SEJxdmNiamxLVEhpcVYwNA?oc=5",
@@ -14,7 +20,7 @@
     {
       "title": "【2026/08月營收公告】凱鈺(5468) 八月營收表現亮眼、呈現雙成長，創近5個月以來新高，年增232.89%",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZERZZHlVZkVsU2tybDVQMW9pbVdZVURhQnhjVENuSkZROXJBWVdDMlAwVWtVZERsU0lwc2hybnZVNGsxOVY2VHAtYUtoRmhvd1pqWk5zZDFJTWxoMVQxdndjT0poU1J5eXNsMzE1U01sYjVJaG0wR3FnSEdnU1Bna2dZeFEtZE1vcWc?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {

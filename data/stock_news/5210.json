@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-22T00:34:55.510701+08:00",
+  "updated_at": "2026-09-23T01:33:06.330743+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5210",
   "name": "寶碩",
-  "count": 4,
+  "count": 5,
   "news": [
+    {
+      "title": "董事會：寶碩(5210)決議辦理私募普通股，額度不超過2000萬股",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcTE2dEJhUDFXcjBSZl9ZZVFpU3JrU3N2eVhjbTdvQ3JIVU1HT3VVWEYyeXpQc3d5aHF1VFo5ZHY1TE1GVjE4YXVhWnV6SXFhdHpkYzA4QVpOc195S0hmNU1kMlpKVnA1TmhIM3NfX3NXY0J5VG9RekdNV3FzTjh0OWwtYkdsaG56?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-21T23:05:00+00:00"
+    },
     {
       "title": "5210 寶碩- 寶碩公告本公司董事會決議辦理私募普通股案- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HS1VoSXNNWVAyS1NqQnM3aFYzYnE3ZGRIdE5HcjBETG01ckc2X3k2QVRualktakRVX1laNWF3V09SQWRZcVZMaWEtTXZGTnVsMWVlOVVEbUI?oc=5",

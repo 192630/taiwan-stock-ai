@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-22T01:32:18.140723+08:00",
+  "updated_at": "2026-09-23T01:33:45.562964+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5465",
   "name": "富驊",
-  "count": 6,
+  "count": 7,
   "news": [
+    {
+      "title": "【10:41 即時新聞】富驊(5465)股價走強，盤中聚焦主力買盤延續",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTENLUFZBOW5OdFpfM2VRdy1WQndLaVZHTExWc2RRelBaWE1JbjJMQ3VFZjQzb2lvZVAxZlRhWUFEMnZ4Y1VzQkVERHpYdlZhTGZidWFUMzlYdTJFQUZCRmdxYU1wSUoxNmlGd2RBLVFXODNIemdRWnZXb0VsUXlwci1ScmUtVDktN1FyakJ3?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-22T02:42:03+00:00"
+    },
     {
       "title": "〈焦點股〉富驊業務多點開花2027年營運看旺 跳空漲停",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80Z0o0RzdUdDE5dklKSlk2NkJSUTdxRjQwSVBxdS1ibnFnRlpHQ2NIa2UwSmJidW0yd0JWVnF6dmtHRzRBdmFxT2UzaTk0OU0?oc=5",
@@ -14,7 +20,7 @@
     {
       "title": "【10:03 即時新聞】富驊(5465)亮燈漲停，高階伺服器與AI題材受關注",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORVU2cFRvVkJNQUcwaElxNE1xTzlEVm9VMGlCZG9hRjQ4bUt4T2hyeGhvenlaRVFZZTdtaU1hX3BSMEwzd2RvWW5jaVpMNjhmRnRZZ25xUk94NjlCQ0RhTGhWbmNHRXY3cTdQbTZ3MHUzQlpvREg5VFhzOGFmZ3pHLWVlNVNsbTJ6dEFGWFhn?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-21T02:03:47+00:00"
     },
     {
@@ -32,7 +38,7 @@
     {
       "title": "富驊HPC、1.6T交換器明年量產 AI儲存訂單看到2029年",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oSFBrb0I3cmE1OVN0WkpkNGtMUEMzUlRrZ1hMdnVRaDNYMEZBc0lTazI2NjYxd0VPNXZNcTNnSDZQYVByamFnVTJvaG40dkNRaVhCSEFSWE0?oc=5",
-      "source": "自由時報",
+      "source": "stock.ltn.com.tw",
       "published_at": "2026-09-17T09:23:39+00:00"
     },
     {

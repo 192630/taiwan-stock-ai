@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-22T00:35:03.619397+08:00",
+  "updated_at": "2026-09-23T01:33:15.246739+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5251",
   "name": "天鉞電",
-  "count": 6,
+  "count": 4,
   "news": [
     {
       "title": "【11:57 即時新聞】天鉞電(5251) 盤中走強，安防與資安概念成盤面焦點",
@@ -21,25 +21,13 @@
       "title": "資服發威驊宏資、華經、訊達再飆漲停！電子股台灣精材、天鉞電、光鼎齊亮燈 台達電噴5%撐盤",
       "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxOYUJtZ0pscDdaODBJN1RoVjhyRmg5ZGdOeVU1Tmc3dnQtQ3d1dFd2V21Ba0N5cFpYbGZCeGxWbUE3SnduQ2UwNUd1XzFUcXdydEduT2JQaGp2dUtIY05JQk5lZFAtNDVGRTNnUEwtbmpKcWhocFRKNzhIZm90dVVEbVdjSnNsQjRBLU03V212b2FTODhxWE5vSmRfY0huTC1OcmtSRUpPZUpLTFVuQ294d1R2MlBvYUxsZVZEQ20xaEZNMmxwenY1RUppUE1LRUhKRTJpRnluMVk5SWhJQlhMUUVjNEk5d2ZQb05iMExVMW44TGVvMm9LVDdpVnBmaGNiVlJaMk1mQVNTbmtZaXFFa0JtbHBVZmdQMjRRU2F5eXVIdXlDRkVueWIzSTBDczdKcTBhdU5fRy0xVVBSaXNWSEFXdW4wZ2dUQzNzUnZKdWpISTR4RGZyUUQyZU80b28wSXBWMnkyREN5TVpUd0IzS0VxNXQ5U2xlamRPRTNYbWRyQldpMU10Y1V4eWc?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-09-15T02:13:20+00:00"
-    },
-    {
-      "title": "《台北股市》盤中焦點股：友威科、天鉞電、華經、恩德、超豐、合晶",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdkFiZVlaY2VDbWtWMENETjluYkpaaUZfNkhxYi0xVUZMM21feUhkR055Wm56Q3JINVhPSEhlbGtYUUtjVGpiMWFGa01pM0NRbHRORVRjSEVJSkhRUGFYMmZLZnJEM0cta2kyLXlXTVFYY0JnSmhHME5KZ0lNNmJjRFpjNUtsZFV4?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-15T02:06:00+00:00"
+      "published_at": "2026-09-14T07:00:00+00:00"
     },
     {
       "title": "【2026/08月營收公告】天鉞電(5251) 八月營收表現亮眼、呈現雙成長，年增9.69%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc2FmRzEyc0JKY05VZFpiakY0SV9ILVBUY2Z6VE5ja0ZzQkFVdDRpSGxSSG5JRnlod1BtNU9DemlVSl9tVXN5ZnNLaGdkOFFGS1BuOExWTTFKMVJxRDFwMXNud3VQNUhUSC0zenJKX3pScVREVlZRRHVWdWthbGpmUTFUSGQ2NlZaT3c?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "5251 天鉞電- 聰明錢開始找低基期生技股：莫德納1天大漲176%癌症疫苗問世... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CaVlCb3J4VkFoRUVJWjQtOGM1RG9UOHJ1b1puVUN5Zk1XekdERkQ2VExQUTZEVW1OWURQMDZIZjZHNnR6dnR3ZXlQQmpzbGZ2SEJoSVNIRlo?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-23T07:00:00+00:00"
     }
   ]
 }

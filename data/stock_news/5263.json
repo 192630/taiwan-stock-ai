@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-22T00:35:04.486956+08:00",
+  "updated_at": "2026-09-23T01:33:16.185576+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5263",
   "name": "智崴",
-  "count": 7,
+  "count": 6,
   "news": [
-    {
-      "title": "智崴(5263) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14eWVSTmMyRE42TTVydnpaSjJrQS02bTN5Yy1iRDZZdjhEdFlXV3I1WWhYOVFCTEw0cGJlMkVST0hsaWp0YWdpQzFqT2Z6UDF1S0hV?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-18T20:42:02+00:00"
-    },
     {
       "title": "智崴引進哥吉拉IP搶商機 上映首月票房破千萬",
       "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPdm5nZWh4a09YR202dXpudjFveGVVLXJTcXJLLTBfMWFJS1l3dDZsUE5qSTdRc0I5cTh5SERwU3BXRjZULWw4NU1uMFh4cl9EeTdURDhQY2RWckk4a2FVZVR6Vm5RcmVWV3o2LV81NlgtSnVHZXJheTVQRWxISzJaX3puVkVBWkFTQUFvV09DVElpek9ibmpGeXNYWndiLWR0QmlkODlzSE5pdGZhSndzUnI1Zy1wTmFlT2dPM0hOVHJnMXhmNE1jdl9hLTZjbnd0VmFDMzA0bUtGRnVGU2xfajNodTZmdzQyMm1Oa0VGUU9OaDhqYzkyNmo2TllqVlBJdGpFS3A1QmMtclFZMGRLelJDRHhVcnQ0eG5yUmQwclpQYnVTMjFfRmJTNmlQZ2dFZG1tVm8zbUlrd3hmZ0cyXzlEVQ?oc=5",
@@ -20,7 +14,7 @@
     {
       "title": "哥吉拉飛進台灣! 智崴i-Ride首月票房破千萬",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VVWl5b2JTWVp4RFlWZmJKek9tNmQwaXVIRXJPS09WVlF5U0NkeDlFd0laVHhOV3FMemx0MFA5Z1c4WWEtelVSd2xHdzgzREdYNnIwaXhoNzE?oc=5",
-      "source": "自由時報",
+      "source": "stock.ltn.com.tw",
       "published_at": "2026-09-16T18:30:00+00:00"
     },
     {
@@ -44,7 +38,7 @@
     {
       "title": "Flyover併購效益發酵 智崴8月營收創新高、年增逾216％",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UT0ZoemtFeXFCU1ByOXFzaGpkQ1lRY3hQM3p1TG55a0YzWWZwWXIzbWhkUkdPa3YyUEZhdTMxWGtvSnlYNVdRRXFZRnZMa1FIcl9LUUE1dHhOSG96N08w0gFkQVVfeXFMTm5jWkJLUjdqc1UzdlRfalR5WDloSVNramdTSXlacWpxS0pqZW0tMzBwM0huNGZYcFd5SDJlVW1zMlpLWkI2bnhiTVJrWXhLaW1Ma1dfRG93djJnREU4ZEdjaGFfUw?oc=5",
-      "source": "自由財經",
+      "source": "ec.ltn.com.tw",
       "published_at": "2026-09-10T07:00:00+00:00"
     }
   ]

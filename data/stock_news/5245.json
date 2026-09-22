@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-22T00:35:03.143782+08:00",
+  "updated_at": "2026-09-23T01:33:14.739473+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5245",
   "name": "智晶",
-  "count": 4,
+  "count": 5,
   "news": [
     {
       "title": "《櫃買市場券商買超比前30名 3-1》君曜(40.69)、智晶(30.29)",
@@ -22,6 +22,12 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9CdDgybElsR0NDdDJyZlpYaURNaHFwc3BpZEtQNEs3eml4MnoyQmQzeksyZXlVblFjTWpyTjNoeENXS0FvUjdFTUZOclVsdXhpdG1lWElmMlo?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-15T10:30:28+00:00"
+    },
+    {
+      "title": "《櫃買市場券商買超比前30名 3-1》智晶(46.35)、逸達(21.75)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQTkxejd0cTBzMnQ5eU5tRVpVUjhSclliTVV0SlZSR0xUZHd4OUNKSDAwM2dqMUlmZEZUdTVsN213OGs0MFY4WnRQeWcwTHRvdDBySlFESnRiU0lrcGdkQkpqejZvRWk0Nl9hVWljX0FCaDZuQ0xGZnpNNUw1QzJGY0xxeGlnRXN5?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
       "title": "【2026/08月營收公告】智晶(5245) 八月營收年增46.66％",

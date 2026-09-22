@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-22T00:35:15.634115+08:00",
+  "updated_at": "2026-09-23T01:33:28.830839+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5324",
   "name": "士開",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "5324 士開- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zU3JaVWZLS1IyaFlYSlQxLTRuMUZVMlZaTlZ1bVg4U1JrSnhvWGd3azRKdTBUY0VsMjZPQ3l1aEdRU3FqZTBMS0VLT2Y0QWNrak94NHpUSk8?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T12:37:30+00:00"
+    }
+  ]
 }

@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-22T00:34:59.525162+08:00",
+  "updated_at": "2026-09-23T01:33:10.768999+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5225",
   "name": "東科-KY",
-  "count": 3,
+  "count": 4,
   "news": [
+    {
+      "title": "$IHH (5225.MY)$對我來說已經太晚了。股價已暴漲4.99%。現在才意識到這是IHH，前幾天業績出爐時我還以爲...",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeTBHMHRBMGEwUWpwY1UxN3Naa2RaVlhiY3JFRUthSG12Q2NqNHZKWE1zYXlMYkNsYWFBQWtqZ1A1V3ZVSkRVZlBNWU5HRXgxMG1sUXlJN0ZjcjdKeWN3TkNxNUFGaFlCNkZ1NGh3cl9yNDlyYjRFNk9VUDJVbzUzc3hGZUN3ZUlRNmw2LWFnOU1idFJnOUVPNGIwWEI4eVdp?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-22T09:24:18+00:00"
+    },
     {
       "title": "5225 東科-KY - 記憶體已不缺！宏碁陳俊聖：PC 僅有2類關鍵零件仍供貨吃緊- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByN3Vzc0JBYUJaeXhSLUdldUxTbWVJakJydVRndTFKNmtzMFVWVUtUckRxRExoT3oxcU5DdUV2NlNRb1RLek5HelhoRjRGM1J0eDk0SnZieDA?oc=5",

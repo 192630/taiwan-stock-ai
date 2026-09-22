@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-22T00:34:59.952992+08:00",
+  "updated_at": "2026-09-23T01:33:11.290523+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5227",
   "name": "立凱-KY",
   "count": 6,
   "news": [
+    {
+      "title": "立凱-KY 本公司債務人五龍電動車(集團)有限公司於2026/9/3(百慕達時間)經百慕達法院頒令解散",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BYVhHVVZ3Q21IRXZXMXFzQWEtWGhHdkRJS3R2RXoyc2lMZGlPT1pEZFpzT08wU2xLNnktY2xWTXZucmYtSDl1ZEVrSlhiM0NRNkZtNTl6Q3k?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T11:12:10+00:00"
+    },
+    {
+      "title": "$IGBREIT (5227.MY)$",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52enNxSjVhMlVpUkkyYXRLa1cxUHVfTHZsa3ZiNEdTeS1abDgyQ3FDWGtyLVQ0dFlkUG0wUXhHWTY4VTFTbVhuVnZmM0I2OUt4dndBTVRvMW05X0pUTnlrNnV1MDhLX0Y1cGdGRUJFOWhxUV9GSTBFaHF1RWpKQ0k?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-22T09:47:38+00:00"
+    },
     {
       "title": "【13:20 即時新聞】立凱-KY(5227)盤中續強，市場聚焦臺南前驅體佈局",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNlJOMElIMWFGTmRnWV9hTHhFazVGa2ZkSkZ3cm80Z1ZzSnEtaHhPNWFVVUg4b0FuYVk0cHQ0Z0JHVzJnVFhMRGIzVW5heGY4SnNtMHYyRU5ndTFKSDN1bDhseW1ubTUzVjR2TFp3bF9hMVkyTGdYLXBrY0NlXzhZWlQtSVhvUDhTRlNPeHVn?oc=5",
@@ -28,18 +40,6 @@
       "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPOWItZGtxVFVPejliN2c4cXlrYTZTczJ2R0lLQ3ZXcFJJSEUtZmtiNE5hOEVZX2JhZ0ZYVDE2X05TSGkxbWJCcDFrakhQQTZILVRQLXpBMmVBZkJJVENTb0lPaVU3MmxGNTJVUE93bE5DTHp3RkF5aXZSb2xOTWZfbHNYVTNHSFNZMGdpNS1XbHJKSUF2czUtRzV5TDlORDFaVXhKamhkOUJTY3hKcGZhc0VnVG5iZ3RabHc4NS0tMDlpVkxRVHdWMVpBQXVNOVYzX0NBQU9qZlVjSU5nTGlheWJIUDNvOTJzR1BwR3VoSmxsc3dDVHlYaDdVWnVIWTV2eVZ3ZzF4MnRwMzJqWUtBdHNRZlF0TVV4TzJqTndRMVc4Ynh6YnkwQkRBU2R3c1JoZVpBVms5N0N1czB6SHdmbTk1aFZvTFR6TEgwTXU1dlNtNURMSkIyYkRKYnhmWkI5UUV5VVpWRGVDWnkzb2o3Y2lzTzBRenJXOEp5Ykc4RDRfYmo5bmc?oc=5",
       "source": "Yahoo 財經",
       "published_at": "2026-09-16T03:07:55+00:00"
-    },
-    {
-      "title": "Advanced Lithium Electrochemistry (Cayman) Co. Ltd.收入明細 – TPEX:5227",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwdzVadlJTa21CMXdScDgxemlwSldUTkh0SDBLOC02TkNfRkFQdVJ3aE9hQ1VDaUNjM3ktTG9ka3h4V1c1LTRTWFY4RS1JdjNHbk02NjhGaUd2dlcwS3lwY093M01yT00xQlhqZnlJYVZrWGs?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-15T14:36:17+00:00"
-    },
-    {
-      "title": "營收：立凱-KY(5227)8月營收167萬元，年增率-85.49%",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ0FiaVhrblRPYzVZdE1xa2lHeHl0ZmNmMUgxYkFiS1N4RzJ2QVljUFBJV0phc0FfTnZFRHdXUEtRWDMtTUxQaksxMWxjWlNxSTFYbU9MVGtzMk84dVFJTE44bGVzWkRSVGVKVzNRS3FHcVhSd3B3Ry1MQ2dqbmdjbUJZbXVFM0xF?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-09T08:12:00+00:00"
     }
   ]
 }
