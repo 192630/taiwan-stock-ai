@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-21T10:34:53.910326+08:00",
+  "updated_at": "2026-09-22T10:34:46.231502+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "9946",
   "name": "三發地產",
-  "count": 3,
+  "count": 4,
   "news": [
+    {
+      "title": "【13:00 即時新聞】三發地產(9946)盤中走強，高殖利率題材受關注",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91cTRIeHM5Z09TNFhoVEpFdmtaNmc3YWxYR2UzamZsNzl3V3R3a29QOXpLcjVoeVY4NDZsb25LdW1SZUwyMWItdUxBNDBiQzAyNmwyb2VrMEU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-20T05:35:05+00:00"
+    },
     {
       "title": "San Far Property Limited的Price to sales forward – TWSE:9946",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMFhOT2V0blRZOUhWa0dMUHRCMktDZTVuSG54Ull6TnNyVUppRFQtRlEzdFpZNDg5RV9iZE1kbWNTQS10TF9tUkZibmpBVDN5LVkzZmdMYzE0dldJXzNzY2lEZURabndoWjNIYkRtQWlTRkllMHN3cEJ0RlBFdkJBajl6X2J2eW54TWxHeE5qbzBFS2pIX1A3c09B?oc=5",
@@ -12,15 +18,15 @@
       "published_at": "2026-09-16T16:56:15+00:00"
     },
     {
-      "title": "【2026/08月營收公告】三發地產(9946) 八月營收表現亮眼、呈現雙成長，創近3個月以來新高，年增185.26%",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0RVRfZjI4eVNBRW5Sb080V3VOalozTzJBTEU0X2E1S0FYMGRHSnQ2SzBWdFZQdy0ydjFBMFVXWTdUbDJQMEhHNGk5cDlkZmRIRkVTYXFZeFM5blJkejhhYllxVUNoM2M?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-09T09:10:04+00:00"
-    },
-    {
       "title": "營收速報 - 三發地產(9946)8月營收6,759萬元年增率高達185.26％｜新聞快訊｜豐雲學堂",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sal81ZUZzVFEzcmlBRmVEX2NYcWVVQURySGRXOVVUVEM0YTJfNWc1WWpfVkdkdHZTajVOanZrdlRyZ3I4eWdLWlFyLUdYcEo1UzNvSXhtNWRQa0JqZi12WWRHRzFDOXBBTFNNcGlfbWR0dlRsOFE?oc=5",
       "source": "sinotrade.com.tw",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】三發地產(9946) 八月營收表現亮眼、呈現雙成長，創近3個月以來新高，年增185.26%",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0RVRfZjI4eVNBRW5Sb080V3VOalozTzJBTEU0X2E1S0FYMGRHSnQ2SzBWdFZQdy0ydjFBMFVXWTdUbDJQMEhHNGk5cDlkZmRIRkVTYXFZeFM5blJkejhhYllxVUNoM2M?oc=5",
+      "source": "CMoney",
       "published_at": "2026-09-09T07:00:00+00:00"
     }
   ]

@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-21T09:34:42.686366+08:00",
+  "updated_at": "2026-09-22T10:34:31.423356+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "9907",
   "name": "統一實",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "統一實(9907) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMc3FQSkZMd0EtVUxidnZBTzRLUDBvWEE4RFlfRVdxVnZYb1NNV0lyTGNYWF9US0Z5UHhzOG5tcV9mc3hPazM2NlFaQ3B6YXNoMUhR?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T06:55:30+00:00"
+    }
+  ]
 }

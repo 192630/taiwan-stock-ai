@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-21T09:34:43.698273+08:00",
+  "updated_at": "2026-09-22T10:34:32.397474+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "9910",
   "name": "豐泰",
   "count": 8,
   "news": [
     {
-      "title": "【09/14券商評等報告彙整】豐泰(9910) 今日僅1家券商發布績效評等報告，評價為看多，目標價為90元。",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOU9sMEdER0FYQUJLcVUxZUtpVU5VTUZjaXZCa1BQYmNpSVc3d01SQWg3YXdHaUVsZDdWaWhRMWNkMnk3WlEtQnlCSnBnYlFEcjlfSkZ5eXBZbG5VLTNLamhVTzNtMTdrV1ZVNDl0M0hWazdHQlZZc0lBaXRDa1dOb2RIS2xiQjlTNHc?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-14T10:50:07+00:00"
+      "title": "豐泰(9910) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83YTF5cGtlSzY3QzItUjhBdGZOWURwSk12Wkc0ZnRvczB4SHhReU5aNFk5Z05MbzBKbmpsQjV1UGpueWxVNTlRajlXWDllSjBSb1gw?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-20T19:26:23+00:00"
     },
     {
       "title": "豐泰營運有望回溫- 日報",
@@ -21,12 +21,6 @@
       "title": "9910 豐泰- 豐泰自結前8月合併獲利24.53億元，每股稅後2.48元 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50a0oxZXlQUERmUzR0WWl5Y3NFYWlNR2VqT1dRTkdEWDhZU1RWRGRfd2tyOEY2MXNUNkxEZU9DNFZrRy1aeHJuYm1ZTm93b2Q4VFB0d3EwVy0?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "瑞銀轉彎喊買豐泰、降評來億- 日報",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXUWwwTlFUNlk2WGVsU2s2TXFDYTlVU2hnZXdsVmJLNkZ5SEVleUctdEpuSlY1UkJDT1RTUzNOamwwQkVlNHlQY3ZTOWJVc3oxbGpFR1pKTjVxQ29DWlNv?oc=5",
-      "source": "工商時報",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
@@ -52,6 +46,12 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90NkROX2R6c196YTMzcGVaNzZtTXZUYTdPdFVELUZKWVhVLXVaQ1p3aTlqYkhLdlVteHlqVUdWTWRZaW9uQ2RhMDVCZmRaeUJpajVtRko2MXY?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-07T07:00:00+00:00"
+    },
+    {
+      "title": "9910 豐泰 - 恭喜發財❤️ - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvdEVxbC1CdEVkN20xZkNzNmNzNVppOUtaUFpIWVRNakxsUHFqSTlSaXZWaWtDQm00RHJGVEt3Z2tjWnh0Z193YThZVEE2bjQtaHVMWmY4ZzA?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-04T07:00:00+00:00"
     }
   ]
 }

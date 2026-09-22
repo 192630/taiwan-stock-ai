@@ -1,20 +1,26 @@
 {
-  "updated_at": "2026-09-21T10:34:50.465133+08:00",
+  "updated_at": "2026-09-22T10:34:42.720064+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "9939",
   "name": "宏全",
-  "count": 5,
+  "count": 6,
   "news": [
+    {
+      "title": "宏全(9939) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LTzlSWVZZSDdHVG4yUm5OUnRXMzh6ZVdZS09WQ0o5MW5sbFpCbTNyN0Y3X1NZdmJFQ0lOZlRJeXRqaldBaTZ5LXJZTWtsbXFPektJ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T02:39:04+00:00"
+    },
     {
       "title": "9939 宏全 - 財報不錯看，獲利穩定向上。👍 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hOXdnWkp6X1k1S0EtWkxZcUdZSlRHblgyNjBFeDlnMEstY0kzT3REYURKeUZ4X0UtYlA2YlJFOWFFdW1nUGhIemhQUjBVSENhYmZKbllDQ00?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
       "title": "9939 宏全 - 這張圖看起來蠻有趣的, 來看看未來會怎樣 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01N2NwVjdjZ0thR1NRMmpiWWhFeW9UdVBYMWJRTDlRaUlJM2NzYmsyb19uaXJlbk5zeVhuM0ZOM1AtNDYyWXQ0WmU1ZHZ0Qlk4bmlxcnVleWU?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-08-30T07:00:00+00:00"
     },
     {

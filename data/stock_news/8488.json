@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-21T09:34:36.045345+08:00",
+  "updated_at": "2026-09-22T10:34:14.283012+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8488",
   "name": "吉源-KY",
-  "count": 2,
+  "count": 3,
   "news": [
     {
       "title": "討論牆 | 盤中速報 - 吉源-KY(8488)股價拉至漲停，漲停價11.4元，成交201張",
@@ -14,8 +14,14 @@
     {
       "title": "營收：吉源-KY(8488)8月營收3億8564萬元，月增率21.70%，年增率24.98%",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZXE0SjJzOEd3Q3VoZnIzM255WDJIcjZyTXBqZ2poMnRWNnhONHpYWW53NXVsTzRxb2otNGFrTllUcUpocUNOY0l2aHZXWklQTFBqejJQUnNJenV4SnFjSXJiSEF2R2xIY3IyeUhrcVV6ODNYYVQ2Vm13MFJ4bnd5bkVMWS1ZUXVT?oc=5",
-      "source": "ww2.money-link.com.tw",
+      "source": "富聯網",
       "published_at": "2026-09-09T07:53:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】吉源-KY(8488) 八月營收3.86億元，表現亮眼、呈現雙成長，創近3個月以來新高，年增24.98%",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTi1KdnU4aW1aUnVpWHBWRDlwOEJpNnJNSnlNbWlZcC11MEl6cXlVTkhBWjZId1NMSWdJWEkwa05aQjJqa3hpVkgxR2F2RlhmMVlsR2dTRFlPT2NJQWtWTkJfcldxWmNiczlIVzFqeGFBSnVQUlljRVlUaTdqSzNWOGxsc1FIaWlzUnc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
     }
   ]
 }

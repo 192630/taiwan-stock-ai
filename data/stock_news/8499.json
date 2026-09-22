@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-21T09:34:36.472319+08:00",
+  "updated_at": "2026-09-22T10:34:15.162330+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8499",
   "name": "鼎炫-KY",
-  "count": 6,
+  "count": 5,
   "news": [
     {
       "title": "鼎炫-KY 代子公司隆揚電子(昆山)股份有限公司公告處分收益憑證",
@@ -20,7 +20,7 @@
     {
       "title": "鼎炫-KY：資產出售案無重大影響；H2估優H1",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUkpnY2x0Q0xiSG9pOGVnajBFNU9JQ0VsM3NweGl5RzFXME9HdzlzQUo3Z1N4Wlpha2J1RERqQWVjRTRJbHJFQ1NWaFRDRGk0cjhfTnZoQWVZazZBcVNyUGdSeGNBUmNJWm5BNFN6dm1yTmpyOVdVMlFIbGtZSXdXYTc1ZGR5NGtma3lRNm84eWV0UQ?oc=5",
-      "source": "moneydj.com",
+      "source": "MoneyDJ",
       "published_at": "2026-08-27T07:00:00+00:00"
     },
     {
@@ -34,12 +34,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HR0tpODRVMV9XeDYtRV9lWldvc0VFZU9kQ2Q5NWlWelJZbUJmQU14eTFnd3BrZVhkTGFieHlUZ0lVZk5QZC1JRlNBSThDanA4dERsZTRDV3JQZ19vZEI5bjVzZktXWUk?oc=5",
       "source": "CMoney",
       "published_at": "2026-08-27T07:00:00+00:00"
-    },
-    {
-      "title": "8499 鼎炫-KY - 有戲嗎？ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tRHdjSC16STk1MHdaTXVUQWRfajh4ZHlYT3Z1WURXcHlfZXFuazlsNjh6NXluOW0wTFJWTXkyTDgtb3J5WGE1VmFWdllkRTdaOXNHQnlLYWQ?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-24T07:00:00+00:00"
     }
   ]
 }

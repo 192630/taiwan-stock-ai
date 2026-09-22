@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-21T10:34:46.048937+08:00",
+  "updated_at": "2026-09-22T10:34:38.932004+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "9929",
   "name": "秋雨",
-  "count": 1,
+  "count": 2,
   "news": [
     {
       "title": "SEM Holdings Limited收入明細 – HKEX:9929",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1faVZDYXFpV3lFbGdKMzFRWEJUSHFHZ25XeGIyWlF5bGMzRFA0VHl2NGhBNEl6dDRCcDFKSmVOU1EySjdlOFk5OUlSVkpqZU9QaDRaUHJHX0liNXdDVlVPNV8wS3hoZE9mUktCTTBzbnY0Wmc?oc=5",
       "source": "TradingView",
       "published_at": "2026-09-15T14:36:33+00:00"
+    },
+    {
+      "title": "遊日注意！ 秋雨下不停 「杜鵑」最快今生成撲沖繩",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SSm9RaXFScFVWSGZWaS1nc0pjd1VTMVNSUkx0QXNtRW4wODN0VXoyem52SXpRWjN0UlNYYWZuZjhTeE5EUGFscWZLeFVRVGJ4TUc0?oc=5",
+      "source": "東森新聞",
+      "published_at": "2026-09-15T07:37:00+00:00"
     }
   ]
 }
