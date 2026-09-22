@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-21T17:34:46.875862+08:00",
+  "updated_at": "2026-09-22T18:34:37.890242+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2915",
   "name": "潤泰全",
   "count": 5,
   "news": [
     {
+      "title": "潤泰全(2915) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yVDlZZ21zM3BKbkU5NG5zRzYyeEItZFRYSUl0ZHQ1Znl0VVdqUDBpeTg3U1NIcDhxSzJVVGEtTjc2SnBwUjlpekw3TThiQnVSRE8w?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T08:43:48+00:00"
+    },
+    {
       "title": "潤泰全1~8月EPS超乎11元, Q2現金及當約現金約41億",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByT08zZHFvT3Npbi1Gek5RelpxdkszYjVkWGxldXpOcDJkMUtOemdWR0hnak9lRTY0SUQ1U3AwTklNYlVBRS1fRml3VnlqZDRDaF82cm9JeTc?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-15T10:45:01+00:00"
+      "published_at": "2026-09-16T01:45:01+00:00"
     },
     {
       "title": "2915 潤泰全- 壽險業的投資是否為邊領利息、邊等價差資本利得? - 股市爆料同學會",
@@ -28,12 +34,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrQUs1ZzhiZHdqcW9OM09ub3VHYUtSdHFOVzdVM0dEWlBIVmFtS3RXdFVTTHpKblZVRndwQnNlMENQVzZEb0ZuMWtCUFhSQ0ZIRUktOFM1c2U?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-07T07:00:00+00:00"
-    },
-    {
-      "title": "買進聯上發，潤泰全，寶成，長虹",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ONEgzMW9TeHdjUkFKRVBzRzBjU1V4Rmp5TndwTnJORnNGTEMzcHVtdDE0dmg0S3ZwaXR6cEtKOS1sNTh2aV9lTTJiU0tweFp5bGh3MWljNlM?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-02T07:00:00+00:00"
     }
   ]
 }

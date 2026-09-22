@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T17:34:55.711857+08:00",
+  "updated_at": "2026-09-22T18:34:47.129535+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3010",
   "name": "華立",
@@ -24,12 +24,6 @@
       "published_at": "2026-09-17T07:11:35+00:00"
     },
     {
-      "title": "華立股份(603038.SH)控股股東擬協議轉讓公司5.10%股份 作者 智通財經",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SeThfTTgwMnI4SzBLZUdrQnpWWWkyU3cyVk5Vc2I0MUVURE9idzh5N1lFMmhPZmM4QVNqNUFJSDdEMTYzdXRTYnF5anI2ZC1tV1JQbGRjRkxsRjc4clk4R09zQXFjdnVGV2M1VEhYdUs?oc=5",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "published_at": "2026-09-15T15:39:27+00:00"
-    },
-    {
       "title": "華立60億元聯貸完成簽約 華銀等8銀行力挺AI材料與設備布局",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FRDA1eHVDVEFkajkyclhhcWlid2VGY1ZPSFRxSU1iTjN5S0gyZmptR01femJhX24zVmctOFhubXdzREFxY2IybTg1NzVlOUE0dWk3QUg4cTU?oc=5",
       "source": "自由時報",
@@ -48,6 +42,12 @@
       "published_at": "2026-09-06T07:00:00+00:00"
     },
     {
+      "title": "華立唱旺半導體、PCB",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NajduZExxQXlNa2VBQURxOGZFcWxKdm52Yl83bG5YdFdNTkRYZDNJSEhfUzI2VTBrcUdPLVpPV1hKMjFpMHM3MHZKQkRydVBpOW05ZEdsdzNXZ9IBX0FVX3lxTE9ieUpIVXhoem45ZXRsVXNCVFAzUFBpRXU5TklYNFh5LXljcy1ObU9NZ09pc3BIU3JMa0JzclpDV2Zkdk9uQVItR1FPNXgtNmR1aF9UN2kyd1ZDNFUzcHNj?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-03T07:00:00+00:00"
+    },
+    {
       "title": "3010 華立- 利多、展望連三發，可惜股價不給力⋯ 只能寄望8月營收續創高來... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxblFoZnNmT01OeF9tSmZyODVETEhtRVY0anMtdEZLZFlUc3VqZVhOWU1ZU2x4WHItUGR0X1BSQlBYOG9kTEdWOUlCZ2tZTlV1V19uU0hQdXM?oc=5",
       "source": "CMoney",
@@ -60,14 +60,14 @@
       "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
-      "title": "《SEMICON》華立下半年續強 明年拚雙位數成長",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPN29CVTZNX3ZDc2I1VmJ2RG9Menhia3JlbVU2eVgwb0lQNXd6RTVibE9VQlVQY1p0dWlFeHp3MUxDMnRsdXFxam02UlV1V3cyMTV6a1lGa0JBNHdMSzRKdGlyckJkMDRROGZUeGNpU0hOazRidXF6TDZsVk5yVG1VR0g3NERvT3BPbkVVay1sUEVxNFhqSjY2OFVxSlR0ZVdscVR0eFNyLXZ1MXE1clhHdnhzRnc0azEzWThyaVhRdEFuaHZfS3lRdHU1NFpMR0w1aGFaYWkxZERWbGpMN0VpdExjeE96bjBubDBodG0tY1ZCdkgtN0hiWldpeGhIdF9PNk5IdFk0alJhbHBNSHk4UHhEZDJ4ZWxHOWNN?oc=5",
-      "source": "Yahoo股市",
+      "title": "〈SEMICON〉華立：半導體材料調漲10-15% 需求看到2028年底",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82SjFYcG40VVhuWE9xMzVqaDg0dkgyajJYM3BXWnZKaXVkNFhEa25WaGVLYWU4aGJ4aTlNZjFEWXJvZVBaNUdmUVdzQ0sydFU?oc=5",
+      "source": "news.cnyes.com",
       "published_at": "2026-09-02T07:00:00+00:00"
     },
     {
-      "title": "〈SEMICON〉華立：半導體材料調漲10-15% 需求看到2028年底",
-      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxObU93RHZ0QVRLMU9jSUtpU3IyV3plMW5kNGdBNWJ1NlZkaUx1XzNELUxZRzdjakxlNVdueW5FazZSMm1iUFZnSVJiVVVIVnZZRUQ4eElXOVJmY3RlSndyOTUzM2gzU2Y0Y0FzdVFoX2Jna3RaS2s3VWxkczNqNmRRLUZKb2lubkhlX2VSemM0d1d5Wm5GcjFraTdTS0Z3TUZydlYwSXpZeWQwMURRRGtmamlsamQwc2RGUldXLWhmS1JPVG1KU1Jsc3Z3Q0ZMTDdnd3VUNjFNM0dDcDIteUxrcGk3N0lZRUdHQ2FUOHladUJHc2Y5MExlUTU0eW50SUJTRUlwa0xtQmgzejNJYnc0Q29uNmgtMGU0enFvenhSSFRmNzhDcFZZcA?oc=5",
+      "title": "《SEMICON》華立下半年續強 明年拚雙位數成長",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPN29CVTZNX3ZDc2I1VmJ2RG9Menhia3JlbVU2eVgwb0lQNXd6RTVibE9VQlVQY1p0dWlFeHp3MUxDMnRsdXFxam02UlV1V3cyMTV6a1lGa0JBNHdMSzRKdGlyckJkMDRROGZUeGNpU0hOazRidXF6TDZsVk5yVG1VR0g3NERvT3BPbkVVay1sUEVxNFhqSjY2OFVxSlR0ZVdscVR0eFNyLXZ1MXE1clhHdnhzRnc0azEzWThyaVhRdEFuaHZfS3lRdHU1NFpMR0w1aGFaYWkxZERWbGpMN0VpdExjeE96bjBubDBodG0tY1ZCdkgtN0hiWldpeGhIdF9PNk5IdFk0alJhbHBNSHk4UHhEZDJ4ZWxHOWNN?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-02T07:00:00+00:00"
     },

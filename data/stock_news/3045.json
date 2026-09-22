@@ -1,15 +1,33 @@
 {
-  "updated_at": "2026-09-21T18:33:48.727608+08:00",
+  "updated_at": "2026-09-22T18:35:00.382229+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3045",
   "name": "台灣大",
   "count": 12,
   "news": [
     {
+      "title": "有這檔股票注意！台灣大廠今天9/22最後交易日，「10月1日終止上櫃」， 換股比例一次看",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4zeThZeFBZLThSY1g5REUzOG1NNkM0Z3E0WGtjMDhLTFU5YUwzdE1ZbzJrNlNGQTdoZU9sRFhfeG9WTE9HSjVFS2cteDJCV21T?oc=5",
+      "source": "風傳媒",
+      "published_at": "2026-09-22T01:44:59+00:00"
+    },
+    {
+      "title": "台灣大三大引擎加速成長迎黃金十年 獲利勁揚外資狂敲",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zY3pMMHdiLTdhS1p5aVlldmdHenAtMHNkYXpoZnZQQmJubF9QMW1hd3RDVDhlOEYycU44ZWVwS2N0dFhZcm1iSC1NNXR6cXNuLWtaNDhJeXhNd9IBX0FVX3lxTE9uMHdBZWh2TXRSMU5rWW1EQXFYWUVzcndFczJCcUNpZ084ZGNUOWtOWFBuMmFEYXdScUdaSW9iaGhRbzRPVWY3bGNmWEdRcUxUN2N4TmNCR0dPWG9sdGk0?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-21T09:00:00+00:00"
+    },
+    {
       "title": "2303 聯電 - 台灣大深化內容布局，攜智寶推〈電鋸甜心2〉進軍全球遊戲版圖- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JUDNGQzJQejltcGVQbWtpWS15UmFqU0d3VVl1YkZmOFhGZWV2UXpkbGUzNkRxS01yenBIbmtZTnZKRTZuZ1ZjNjR5NVk2Y21VUTBESXVWN2k?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-20T05:41:39+00:00"
+    },
+    {
+      "title": "名人找個家／台灣大資訊長蔡祈岩要住得舒服- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nMkgyUGgwem1yY0FEbGdydXlQVDE0dXZoQWRnQlpVNHkyWXE3REFxWlA2NzU2dmFLMVRxU0IxaGR6NWdOS2c0X1lhUUdHdmtXbm5GZlZ2TWU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-18T17:39:29+00:00"
     },
     {
       "title": "安聯台灣大壩基金-A類型-新臺幣 的總覽 | 鉅亨網 - 基金老司機",
@@ -24,6 +42,12 @@
       "published_at": "2026-09-18T04:38:37+00:00"
     },
     {
+      "title": "個股：台灣大旗下台信電訊公開收購精誠，公平會受理，公開收購期間至10/6",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yWHYxM21hRllaVE5LcHdmT0Z1Y2ZEYzVWTmNTVl9wbk1wQTREeUpoRjlJdWNuTmZ0cHlRaEhXejNNU2lEY0JSbnA2UEVCaGJvbUlVeURR?oc=5",
+      "source": "東森電視",
+      "published_at": "2026-09-18T01:06:00+00:00"
+    },
+    {
       "title": "台灣大子公司台信電訊收購精誠公平會受理- 日報",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14Y1o1cUVHTGV3QTlCamtYQXdkWGNEZmRPYThSSjd5OUE1M2ZUR2Qxa1pSanI2M3J4VDNZYlBTa3U1UHE0WXBFRGxWZlRTQ0RfWkhTdVlfQlBwZlRyRURV?oc=5",
       "source": "工商時報",
@@ -34,12 +58,6 @@
       "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNMUVqZFVRelhBOFlLVWN3OG02YWlKZlFVTVd6OE5IU2hnZ0luSGFFRmtvU2FJTjFVY29sMG52c2g1Y2ppZ3V2MHNmTDNNSVlKSm9NNzd6dUF5RWZsSmJBNEV1YkZQcllyVFZqbHBtY0J6bi1OdVdrZkJLUEFmeXJ0djNkOUhYd0NycGpVUGpFWU9nREQ5SHI3c3MxejhrMXN4d1UyMTBhUmtIc0x0emNrbUJGb2hRN2tFMDJsM29HeHJUeFZ4bU1fOHpTRzJVTkQ0M2t0WTd0Mm1HVXpnRC10Wlc3cWRGLVY3ZGtoeE94ajRnSFYtVUtkb3V6b0xlT0JiQXpZMUFOeGZVaW0zRkgzdWFQdDFKRTJNYTM1RGl4MUcxdW1meWlUZ290aUhscGdld0trUGp3eXJTUjgtUGNFenlIQTQ4RzFKcnU1T0ZaUXE3Zw?oc=5",
       "source": "Yahoo 財經",
       "published_at": "2026-09-17T10:30:43+00:00"
-    },
-    {
-      "title": "台灣大旗下台信電訊公開收購精誠資訊 公平會正式受理審查程序依法推進 維持多元競爭、推動產業升級",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUVNnSVdsS2lrQmVBcEx2NnRIdWpEcXl3cm41bk5hRllVSnR0aVM5d3ZlOEEwUjBINEJaUEcxSTgxcUh0U1BMeGtGRkpJckNkZWh2bmotSk5RLVFGajBNVkEyZWR5eERHRDZWYmt0bjM5cGNBWVp6U0hrMWNhWTZNaA?oc=5",
-      "source": "corp.taiwanmobile.com",
-      "published_at": "2026-09-17T09:38:36+00:00"
     },
     {
       "title": "台灣大「頭香哥」連莊3年 提前34小時排iPhone18 Pro明開賣！",
@@ -54,28 +72,10 @@
       "published_at": "2026-09-16T00:54:55+00:00"
     },
     {
-      "title": "台灣大受惠外資調高至130元 推升股價創新高",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83VGk1M25KVy0yODdReExoQWZrdEdyOWtwUkM1Q0FKanRUcGYwN0psZXdubnc2cGdla2NUeDhoSGZyLUFiZmJQdEFfN3owMERpampNeTVhSmZ4WEZvQmw0R1kzdExZMTVnOE56bHcyQXEweFlMTHRHVFktTUvSAV9BVV95cUxOeGVVeGlnZUlBWXUyQ0tISmFRM05BaVBQUjVsbGQ2emkzaGpCY082eDNVeUZtdjA0S21HcmQ1QnVjZXdxMFA5cHROVlFTcklVZzdDS2JFZE5sbmdQZnNsbw?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-09-15T09:54:12+00:00"
-    },
-    {
-      "title": "【13:04 即時新聞】臺灣大(3045)盤中穩步走強，高殖利率避險概念受關注",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMjFPcHJGYnpEVkF1eW9hOFFyNVd6Ty1ISWppR2JqX1lrVDJPdS1QeDQ2ODFVbW93Z04wbG1hRFpDVjRJVzZyN0NGS3B2SUJzM2NDOXFBLTFpSXZRVk84TmRsWnlWLUE2cFY0Y3lXNUN1anFacVVzN3J6RVBjb2pSY1BNYkNHYTg3T1hwM25n?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-15T05:05:14+00:00"
-    },
-    {
-      "title": "外資券商調高台灣大目標價 股價衝124元創高｜新聞快訊｜豐雲學堂",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81cktCclg3OGVySmJnWnJjdVFRak9ub3NnRFUzUVJValpsQ1g0aWdxOGtDVkQxamoxTUxBbzE2OU5MMXNncVNZbUVBY05wLVpDSnNyRUo2YUtTa2NDSUozWWlsdzQxZ3Z2T3dXelZ5TUZvYmNYUVE?oc=5",
-      "source": "sinotrade.com.tw",
-      "published_at": "2026-09-14T20:41:00+00:00"
-    },
-    {
-      "title": "3045 台灣大- 外資連買- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zdVdIeE5lSDRpRVJzN1Z1eGZkeGdPc1hfb1FfRVp0RUhMVDlOVTZvbnFvbFdWRnIyQW16aHRfVEZYX2hwLXdVNVJ6U2RUUFlpbFBIcW92UjE?oc=5",
+      "title": "3045 台灣大- 🚨 主力在調節？昨日主動式ETF 減碼這檔！ - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90YXhHSDdTbEMzeFExaXNqZmhOZ3pEZmVkcnl2SXFQQW1ETkR1Mmh0YjJwdjZqZEVHclozR09ZeDRyMGxhNGRQckF4ZzlVLTVZSmF3dW14QzY?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-13T06:59:38+00:00"
+      "published_at": "2026-09-15T19:43:56+00:00"
     }
   ]
 }

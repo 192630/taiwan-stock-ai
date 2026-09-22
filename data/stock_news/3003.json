@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-21T17:34:53.340251+08:00",
+  "updated_at": "2026-09-22T18:34:44.719263+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3003",
   "name": "健和興",
-  "count": 6,
+  "count": 7,
   "news": [
     {
       "title": "3003 健和興- 健和興EPS爆發性增長- 股市爆料同學會",
@@ -18,6 +18,12 @@
       "published_at": "2026-09-16T09:40:00+00:00"
     },
     {
+      "title": "《電零組》健和興前8月每股稅前盈餘3.19元看好Q3、下半年- 證券",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tQWlHc1ZsYUtoQURwTnlHRUtZcVpYeTF0MV9XcUY0Y1l6NDFkcnhwYkRmakhudEczOHNHWm5Jd0V3WURKWTA2VllhdE9XMnNUa0xxQThkS3VCZEdkZTFN?oc=5",
+      "source": "工商時報",
+      "published_at": "2026-09-16T00:54:00+00:00"
+    },
+    {
       "title": "【2026/08月營收公告】健和興(3003) 八月營收5.48億元，年增59.31％",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51cGJJTG5na0JZcWdnVThIRTZPazJUUW81UGpoSDBKQ01mbFZJQ3JiYUwwZHBkdjhKREQxalYyVmdtbGxNdlFMSVplN0xEckJnWl9HMmhOQWRvMEE5YkNRUHgzM0JscWM?oc=5",
       "source": "CMoney",
@@ -30,16 +36,16 @@
       "published_at": "2026-09-06T07:00:00+00:00"
     },
     {
-      "title": "WTI原油跨期2706/3003 (CL2706-CL3003) 期貨",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kV291Tm5oYnFhMWpNcXdkN1RiT1lYMElkLTczZjAtaXBHOGliVERERWZ2cmhqZFdUX3ZZVHdTZDA5TU5IMUJvZHdPVXdsNlRRUjRENDl5aVozRzAwXzNObzZCVS1HSlE4TnpLaU01SEJ3YXo2OTA0?oc=5",
-      "source": "Moomoo",
-      "published_at": "2026-08-28T16:53:01+00:00"
-    },
-    {
       "title": "【12:25 即時新聞】健和興(3003)股價走強至72.8元上漲5.66%，綠電與充電槍題材吸引買盤＋主力與外資近期同步偏多支撐多頭結構",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWUJ1QndVVlZkTEVOQ2ktQS1RMDJVZm01cUp0dllETVVydkJITklQRHdhVzZBbExCVy0yejZ1Ulo1aDc5R1paOEdXR3QtODVXX0FhVmJZcmhFakdjLUY4bW84VVg2Q1RWZm9Td2ktVXl2V1NBSERfS0o2UGZHRzFsMlVUTFg4Qk5tSkZKUzl3?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-08-28T07:00:00+00:00"
+    },
+    {
+      "title": "WTI原油跨期2706/3003 (CL2706-CL3003) 期貨",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE40RlBhanhQbEZTaDVHcTdiTUpCVGpuaDFnN2ZTdHVGLWwwUEo4UVRhX2FpODlJbTV2TTFNSC1lSVZBRVpTTFZxWG1BWGlkeEZMeTJkaDJycWZTazFOUUtXcWx3?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-08-26T08:37:36+00:00"
     }
   ]
 }

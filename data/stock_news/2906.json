@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-21T17:34:44.024044+08:00",
+  "updated_at": "2026-09-22T18:34:35.414657+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2906",
   "name": "高林",
-  "count": 6,
+  "count": 7,
   "news": [
     {
       "title": "2906 高林 - 八月營收較七月略減，大幅超越去年同期。 - 股市爆料同學會",
@@ -39,6 +39,12 @@
       "title": "高林上半年業外大補",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iMy1La0E0SUJwRWVnZUhja0YzOEtPMV9WYmY5Q1hDamR3cnFEZ1pKZVdjaXpPcGw1ZlROd0VoakpPZGxlUHJlaUhVeDhUNFg5RnVpWmVJbjZ2UdIBX0FVX3lxTE4wbVRacGxUb0xGOUV2cXhjRU5zZnNoVU9ocEtIYU54bEFlVXZBbWRWZTNyV3BvSkh4czFqQVVXQjlXTEJyX0xBeF9yWTctUHZfYVpGRDNqMnUwT0c2UUg4?oc=5",
       "source": "經濟日報",
+      "published_at": "2026-08-25T07:00:00+00:00"
+    },
+    {
+      "title": "高林法說會／轉投資報喜 上半年業外大增近5倍還押中AI新創Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nQ0swOFhCbnpvRmo1Uk5Ja212aTViNUkxYXRPMjM0Q3dtUFJWd2g1ejlHWmNZX0lLUG1RaUpBazhiR2l6TF9BWVRfbDZYc1NF0gFWQVVfeXFMTm5DbVFDdU5aY1pYN1psTEhEMk9SejBLSGt1ME9HcmMydUFWUEY0eXNqS0hWeURnemkzRU5YX28yV1c1cjVocmFNLVZsNGRGNG94VUFJOUE?oc=5",
+      "source": "UDN",
       "published_at": "2026-08-25T07:00:00+00:00"
     }
   ]

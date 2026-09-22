@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-21T17:34:52.470190+08:00",
+  "updated_at": "2026-09-22T18:34:43.685546+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2949",
   "name": "欣新網",
-  "count": 7,
+  "count": 9,
   "news": [
     {
-      "title": "欣新網品牌客戶/服務規模擴大，Q4旺季迎動能",
-      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPeWFaUW8xejFmYWRSVlFaQ0pGa2dKanBSWGltMGJScHJfRjl1WEYwM1N2YTNIRmRIY04tdmJTVmRDa0llWmpOX1h1UlVfV2gxQ29wOHBKZmI0R04tUVNVZ1gtNWlpUmFNVGRxaWQ4ZjdJOHM1STZrejZyeHNwYk9rODYyYXFkSnFCWkg0Vk1qeE0tbTFxYmZKTGRRLWZwaU1mbkV1eThKNzdnZnFoNFdZdFE4N0N5ZzZ0MnpiVGxrd0JiRkVSWVFXRWh5MEs2NkVXcUhvUkU2SGFyWjNPWjR1ajZzRmVQaWNSR2JQbkJhWnlQazBBZGJlbEpoZG5vTkpEcFExd3FNSFlrTnhQQlR2Y2hDSzJkc2xqdGkxYmFiYVU0RDJ4Q3hoZHNxdUtnQnJhRlFMS3pHWVo?oc=5",
-      "source": "Yahoo股市",
+      "title": "欣新網品牌客戶/服務規模擴大，Q4旺季迎動能 | MoneyDJ理財網",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kT3BkYVV2UERRcC1xSDl0eHI3OFBHY2ZUTWJ6MWllRWcwTmhFYnhiTzEtR3N5bFN0Q1V0RWZzZmpVbmVacWtNY2lFX3QyMzEzbFJKbkpn?oc=5",
+      "source": "LINE TODAY",
       "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
@@ -18,9 +18,27 @@
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
+      "title": "【09/08券商評等報告彙整】欣新網(2949) 今日僅1家券商發布績效評等報告，評價為看多，目標價為86元。",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DN1lXcUZ4RDNDU0M0RUNvWFJpS2RLc2JTMTJwOFF6aG56UV8tOG41MUZaeVoycEFLQmxwZDRXSlJOdldMbE5aYlRycUtuNlp1MVJwTGlYRlc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
       "title": "欣新網加碼亞洲市場，菲律賓成長快速",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOUE1pMlFSRDg3eUtickVxZ3VTdy1na3R6MEJnVTZaQlhrNjNCQk80cFRVb0lnNlV6MWJHd1Iyd1hkQ0ZFWkVOSUVSVHJDUzRnWEJha0hfTUlDWDI0TEhZUWxmUzdfUmlMREtZeVlWYkdPdk01MUQxdFFVdkpQZl9ORmNUcjVfMGpuUTFIVGduTmcxZXJPTGRpY2JieFk0dExTQldHOXk4cFJmUERNV1ZLVkItLWlRQUNPdG05VUdsY181dk1UNHA0WjdjU1dyUlIxenJMci1CeEhOcXF4OHVRNzVSSXM1X0xZX0d6RmhRUmdyckd1QVV5NEt0cndPcjYyRTBHX0cyeGZxMDlmWXNQU2xwZFhiV1dwc25ORQ?oc=5",
-      "source": "Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52Mkkwdm5CYjZ3YmxRYjg1YURIalNHRkZlRmZhR2w0VExubTZKaVNqZmVsaU1feFhodnFQRmRfUk1nNFpyeVZRT3V6X3VjcHpmTUpXc2ZBUWM?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-03T07:00:00+00:00"
+    },
+    {
+      "title": "欣新網H2成長力道更強，2027三引擎齊發 | MoneyDJ理財網",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SSzMxMlJIM3U1RTNrMDZZRHpENUxKajcxcGdsNXpoUTdaQllrX0RfREtpeGxWUTctVlBqM0JlMktkV1pkeFE4UGNWWVBER2NmcWdzV0xR?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-03T07:00:00+00:00"
+    },
+    {
+      "title": "欣新網加碼亞洲市場，菲律賓成長快速| MoneyDJ理財網",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11S0ZwRHR4cHFrVlhpaWNBUGZJdlYxWVYwcFMwaDg1b1RRLVRkTTBEN1NMZ2NmZDdnMEJPMW9RdmhGT3U4dUFUUkhKM1k4WldDdjlrVEtn?oc=5",
+      "source": "LINE TODAY",
       "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
@@ -28,12 +46,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ZZjd6SVhiZ1NaZ0RoaVZhTmhseGN6Z2t3cXR2cS1yNW9jX195ZUMtaEplQUtOd3hFOVA3VXFZbVF2N1dUbkFVWHFZLWZIYkNHRnU1TnAwdUE?oc=5",
       "source": "自由時報",
       "published_at": "2026-08-27T10:22:10+00:00"
-    },
-    {
-      "title": "欣新網斥近億元入股日本電商，海外布局再下一城",
-      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNcVBtZkE3cUVlSlVsRERWeG5SRXJuYVhfRTFRTmFwbUo0WjRFQkIxTVhnZFZyVFNiNmFqQnJDY3BHUlRnZ1FvSVE3dnVKaDI5VVlBNlJsRHlRV2RwVzV0QVdGYkx4Tk5IUmtKS1hab0dvRjNuaFdnZno2UFhiRjJfMzg1MWtSQUZJcVB6ME1rNU90QWo1aUoxRk1QYkFEcHZXejl3RTdTb3JKVlpHLTNZN3FnQVdycG9GWDliajF3a0ZQRER4dHdRMnZHeE9udjVvTzZfbjlweVNiZDJMY2lnNU42RlIzejdKbF9zVHpQUTdtdlVJaGZncGdMaWM3LWJ5WnVsZTN2S2hwNmozZUNvdFQ4NC01WjliMTNTSGU4LUE5azZxT0c1eUw1N0dJeFNManFxWk5FaVI2OTh0OWg1ZC1CNU9EUW5oNW9CUHpB?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-08-27T07:00:00+00:00"
     },
     {
       "title": "欣新網斥資近1億元取得日電商業者3成股權 亞洲營運網絡成形",

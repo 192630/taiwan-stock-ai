@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-21T17:35:05.399426+08:00",
+  "updated_at": "2026-09-22T18:34:56.256547+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3034",
   "name": "聯詠",
   "count": 12,
   "news": [
+    {
+      "title": "3034 聯詠 - 上下震盪 可來回操作 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aS3hJY0cyQUNHRUJMVXJpUnkwRGhwemhsZ3FxLVR0SVNKSDVibFhxUHpKbXh2NHpPbVVxd0JzdnBoWDNfLTc4M212bXY2cmUwWjdFMGh3anI?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T10:29:19+00:00"
+    },
     {
       "title": "《投信買超7-6》技嘉(232)、全新(217)、聯詠(215)",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWnE2Ulp0bHJxU0hSNWxaUUJZMjNweE1zeTVKUURmSmx0TnpFZzlGYkF5TmJST1RiN3ZSa2F0QWZKNVhYRXU3ZkdYWmhVXzY3X1pURXFseG9lZG42U1hFVEphajdWcXUwTGtiOWltbGkxVTgzb21CelNCZUFrYUtpR0N0SjhGWDhp?oc=5",
@@ -66,16 +72,10 @@
       "published_at": "2026-09-13T19:00:00+00:00"
     },
     {
-      "title": "3034 聯詠- 🚨 主力加碼卡位？昨日主動式ETF 加碼這檔！ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByS0YyLW5tMm43LTBWdzk4YzRGd19mWkFWMW1iWDFIaGpKUTdabi03V0k2SnNsUW92cGtnR3dHLTltS3ZfUjFQZWxMcWxjekhrN2RHRjI5bEI?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-11T07:00:00+00:00"
-    },
-    {
       "title": "AI 催旺 IC 設計 集邦：前十大第2季營收年增73% 聯發科、瑞昱、聯詠上榜",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43ZGpHZnBLNmtTLTNTUnhIVTZONFFrc3llZG10UnRhQTU3TUNqQUJTVnRIS3MwR09DQ0IwSDlaUmR3amRhelN3SkNTTllKYjZ3SXZyMGNZaTRBQdIBX0FVX3lxTE1LN2RHVUotTE9rMWhIV3VMWjFoeHBsdVhfMXl2TUN1VzctSDc2X1JyeXpmSWpjV0xQaUZWcV9jMDV0T1RUUnVoeDg2cHNyV2NZQTQ4WEhDS2VsNjlxTUZv?oc=5",
       "source": "經濟日報",
-      "published_at": "2026-09-11T07:00:00+00:00"
+      "published_at": "2026-09-11T07:46:16+00:00"
     }
   ]
 }

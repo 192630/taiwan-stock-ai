@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-21T17:34:51.653202+08:00",
+  "updated_at": "2026-09-22T18:34:42.775671+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2947",
   "name": "振宇五金",
-  "count": 11,
+  "count": 12,
   "news": [
+    {
+      "title": "穿制服、學補貨、練收銀！鄭孟洳攜手振宇五金帶孩子探索「小小職人」 | 徐炳文 | 地方新聞",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZREIyWDdBT19KOHVfMThOQmE2UTRWa05zSXRmUWhGcTYxTFB0blZwWll6QlZudlN4Ny11MjV1cWtVc2VveHotRDhLZHk3UQ?oc=5",
+      "source": "風傳媒",
+      "published_at": "2026-09-22T08:03:37+00:00"
+    },
+    {
+      "title": "2947 振宇五金- 921國家防災日…南消與賣場攜手推「防災專區」 舉辦短影音創作比賽- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9la0V6c0ppYmM0OXZqcV8yTWtpbEhqeWZ2cHFXTm1uRDBlRkNzaVF3RUdkUjVsMnNXZm1qYlNuMkZMODZXTnFsczZ2U09TZFljdWhINFMyNVo?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T09:25:05+00:00"
+    },
     {
       "title": "第一類接觸／振宇五金穩步展店 規劃每年維持6%至8%門市成長 | 櫃買動態 | 證券",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZRnBEd1VNcG04NVgwZjdBb1lya0pDQ0NUalcxRFJ2bHcxQ2dOUmc3N0RiRjFrSmhTcGk2SW9rN2lpa1NWUTRoM2ZkcFNtSzM0QmdZUTlnckRDcGx6b0Z3ZnFUQXV0VVFnd0F0S3dUYWdWWUI2U2FYWA?oc=5",
@@ -13,21 +25,21 @@
     },
     {
       "title": "第一類接觸／法人：振宇五金今年每股純益估3.3元 | 櫃買動態 | 證券",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15NlJHRWhxWkRwbWFNUk9HdUx6Tl95Vm1jNWxaYnVLWXNiZzlvR2hQRGwtcGRhU09ZR3A0V3psZk1LclFYc1lqSk82WjNLNE5yN0JGTkVWbDJlVGFsM1RZNlNlcjlJODc2b1lGUTFSczdOcC11S3YwMQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53MUlUMndrRjRTLWZ6Q3lMcUlIbUROeU91a2RzSFNjVGNjRDRMckdTam14WjJPWkR4d181cXVLNWNzQmhNbnhYUGlIRS1ja2g4STNnTFBydVFYWVU?oc=5",
       "source": "經濟日報",
       "published_at": "2026-09-20T16:51:33+00:00"
-    },
-    {
-      "title": "《家生活》振宇五金深化會員經濟與電商通路 營運添動能",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQno0SGxWMjczcy1VQXkwVGstamI0aDdrS1Q0a2otVlBoaXA3eTNCaUh6WkR4UTQzcnlQcXlzNm9FdHpMZjdyamZtbVo5VV80aHdTLVk4ZHRwejlRa29naXVUeGJuQWRTNFVXeWk2WC0ycUJuMjBYQ1RJVGh4Y1RKLXFQYnpmeXc2?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-19T02:57:00+00:00"
     },
     {
       "title": "2947 振宇五金- 從「出資出力」到「價值共創」，基督教芥菜種會如何助力企業將ESG 精準投在刀口上？ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xS2k3a3JOQWFPMHl1V1lxMXU2Y2xkc0pYcUpIZ0p1N3dzVTl6N1A2NnR3MnN3SlA5TnBjb0JRbkhfVnhTR3d3UGc2Q3Z6S1N3OXJfcUwwWVQ?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-18T05:42:26+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】振宇五金(2947) 八月營收2.09億元，年增1.75%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZXdoMkdGbHA3aERrTVI1aGFxazFxczRfR1pEMzl2TkxoREZSUTc0UVRmeEUyTGV5Wk9TdUFBZlhValp0SE9ZTlF2eTE2T2FndnlXNjRMNVh5VjQxV0o3eENaOXRncGxWa2kwa1RUTzFfcVhScVg2MGV2cXNBU2FwdVhhc3R1M2pncnc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
       "title": "振宇五金營收穩健成長，迎秋季整理及遞延需求回補",
@@ -60,15 +72,9 @@
       "published_at": "2026-08-27T07:00:00+00:00"
     },
     {
-      "title": "振宇五金法說會／百店後再擴張！明年展店年增6%至8%、毛利率續揚",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqdjk0MXVZVzUwaFNaVWtjV0xrMzhEaC14SG9EZkNwSWtOeTJEVzdLQlpYaW9hR0NvcFZYNWVoNnZwZUZKRHJqdkVQLVNONTJxdEtCMFVGOTZTd9IBX0FVX3lxTE9EV3B4bEllUHBGaWw4R21HY2NHS0pVNkFYZnd1Q1FOcWhzMm5raFNiOUxKTGdpRTV6RXpJOEhISTljWFpvMlE2LXNjM283UHkxd3VIZkFQTWotbXdEVGRZ?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-08-27T07:00:00+00:00"
-    },
-    {
-      "title": "全台老屋修繕掀千億商機，最新數據揭五金通路逆勢展店潮，振宇五金受惠！-財經焦點情報站",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR2dibmNnTFp2SzhZb2c4anNrdW43MjdMakZqd085TUh3aUZadnhrcEVXU1dHeWN5SHdKbXBkRXh2aVFkSGdEZnk5Mm5KOWpWSldOb1JmRVoyNE5rLVI2T05uVThKSG9YSVVXbnBKU3BtdEZyVUl1eEwyT2hXY3dmYTJB?oc=5",
-      "source": "CMoney投資網誌",
+      "title": "振宇五金法說會／百店後再擴張 明年展店年增6%至8%、毛利率續揚",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6OG1UTC11U3dFb3NpNk1uLWV5eGdBMXBEcDNkcy1ULXhPTmNTZGpMMHRPU043SFRwdG52Uzd6c0JDZDE1SmNQRy1BVjRUM1830gFWQVVfeXFMTmIxNTgxMDN2QzA4OUl4YkdHUDdvRy1Ga2hIN0t1ckl0OXNxc1pKb1RoRWFMREJRaFB0VWUwR1dJRG0wNmxMejIxZ0QzTG5ueWNpU29iamc?oc=5",
+      "source": "UDN",
       "published_at": "2026-08-27T07:00:00+00:00"
     }
   ]

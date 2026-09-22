@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-21T17:34:41.717219+08:00",
+  "updated_at": "2026-09-22T18:34:33.295226+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2897",
   "name": "王道銀行",
   "count": 12,
   "news": [
+    {
+      "title": "王道銀行(2897) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55RDU0NV9VeUNoVWdzZG1fQjZpdkY1Mk9hWHFBUmZtUXg0SWQzdGNsS1hkQ2tTT1hXaTV2TWVZbU1SUjBqNUtqdjJ2TGMzby1UcUZR?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T05:19:05+00:00"
+    },
     {
       "title": "【13:23 即時新聞】王道銀行(2897)股價上攻至11.35元、上漲3.18%，高配息預期＋外資與主力連買支撐多頭結構",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRXFnTEh2azRGWkxQYU05Rm1MUVZEWEk2OF8zX3R5NXRWWkZBVlllbE83T3NueVpDQW1UVWQzYzRjNUswVWw4ZEFnNHdlaUtWWlJRWmNEUnBjZkp5V0duNjh3cHc0aEpUdG9kWVlBRG9qeVRqclZDLTc2dDVJbGJoeXdTa3RGTGlsVy1KZERR?oc=5",
@@ -24,21 +30,15 @@
       "published_at": "2026-09-11T09:02:47+00:00"
     },
     {
-      "title": "《金融股》王道銀行搶先布局穩定幣攜手幣託攻企業跨境收款- 證券",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84OE5lMnpGOWl6NXpGMzI2WGNpSk95NGVtX0ZwNGUxX19LcVBOQzM4RFVNajFaTllBUmhyTXFuMkdIMURFZFBTZkxVVEgzZENvOXVtb1lKcXU5alRxTXBn?oc=5",
-      "source": "工商時報",
-      "published_at": "2026-09-11T07:06:00+00:00"
+      "title": "王道銀行攜手幣託，推「企業穩定幣跨境收款服務」",
+      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOd0Rac1JpOWx0VmVXamJQY1ZhMDVSQW9oc2d3M1otd2loeC1mZlMwQlh6ak5VSDNqNVNoSldMcFNqNmppdHpSU1RhQ0hQYkIyNDZxVl9tcE91X0VoUjRxSWhJdk53SWZZaWxxOWoybWstMGJxMUZtWWpEZ0NqSnNfUGhPY1ktNFpyaGdjNkRRaFhpQ3F5elRDQXJiUTI1bXB1T041bVg4eThNdV9aQzBVb2hlU292Zl9SVm5lRmI3QUhVdmEybGpNRmo4UEFMUkZJNXB3bnVuaUpkU1lSazJkVnFqZHJ2eUNIbEZGaTFBb1I4bms2eW1jRms2RXI4ejVDVUdodVliT1NKTTNHeEpuR0dzdVVQSHB2cVpIRGE0cHpPZHkwT01EWkFWbmZOSlA0dXdEUVVtaUMtWU9UdThQX1RTWDdEQ1V3QU5BcWxB?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
       "title": "2897 王道銀行- 穩定幣敲開銀行大門！王道銀攜幣託推「企業穩定幣跨境收款」服務 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1QnB1ZnpFWWlsdENNNF9rZXQyRXNiVnFhbldobWdSOWd2bC1KbXlqTXIzNVEyUnRmbXdtWnpvakx0VWEySG1OY3lRRFppa2tRUVQzQm9mZE8?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-11T07:00:00+00:00"
-    },
-    {
-      "title": "全台首創！王道銀行攜手幣託。推企業穩定幣跨境收款",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0tbU4wQkJVNllvSTBQZzVVUGFYdC1RS09BMzBDRGR4ZXNiX3J2X00yYy1xVG9qUHplMlprZGphZzVCUDNPekNJa3o1MA?oc=5",
-      "source": "三立新聞",
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
@@ -55,8 +55,8 @@
     },
     {
       "title": "幣託與王道銀行啟動全台首例企業級穩定幣結算先導計畫",
-      "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPRG9BNy1oOE43b0dHMk9pN3VIdDBSQkU5bzNXZzc4MUlDOWo2TnFfaVpTOTBaWklURGJadXJibEFhRllkcmtnTXliR0RJZUVSS2o0dUw1UF9ZTGZFSWcyOXFocFZxWElLQUU0bmlWT3VQTHQ5cGswR0pNdXdLbjJMYk5pOXhqblNxVjh6LWhwRG5JMjRqOTJrbjhScWhwM24xSmFnbklFblZyVUxwVGdDbm1TbnFQS3M0LU90QnBLUFFlUk9NYTRvak9PaDlNQ0FGeTF1OERjNkZOM0NwTlVvN2psRFFaRW5GV3JjbEE2OFh1YVN0aTNlb1l0QW1zVUpNWEFQaHdzUEdPdXlUemE4Umh3SFAtZ2ZWeXM3aW9Gd25RcDloTi1wNkhkN0NQWGFEZFlwdjRrUU94RXlwVUQ4S0ZHMXphbUtEdXRPTDNDRkhxaTBiTWJMYjZnbURoTTVibllYTXduWnZsd1FkMWlrV3M5aXZhZzd6OTVSOUcxZw?oc=5",
-      "source": "Yahoo新聞",
+      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxPaWtRTzRXVE5hUFFHVnRSYVQ3UUJZem4tMHA3TXhyQWRia2JrX2RUQUo4XzVXdXFOVXZPM3hSUzNERHV3X1kycDBfNGx6MVY3X2JhZ3hlZUd6QTJhWjU1OFFRMkF1YjBXU29QZWRrYTd2S0ZydGt0VDhzS01QUnAyZFBmTkxzMzY5dXNMUmpoSVJpNTcxVFRhODk4Uk93dzNYcFFFVFVkWUZRXzNBdHpUSms1UXR2NUtTaUhUbTMtMWpTZWI2MGg3ZlpJU296bmktWEQ4VFJQdXczRVdDcUF2QkdrVFBmSXdydXl3SnJqTmhFODdvdVNDV3poeHhCTjVhRTdPZDlFSkpFeUNBYWRORk9lNTltRkVKbXI5TWx5TWJzZmFnNUUxbXZBRFdmUGM2QW1SZUVtOTJxYXhwbFAxWEo3ZGJmN2QyS2ZQblE0QVprUEV4ZEozdTBwZFFmQmhFVmp3em16bXdXZ3NvQWE4UEk1eU9wTmJKb2s2WFBsX3ZLbGNFajdz?oc=5",
+      "source": "Yahoo股市",
       "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
@@ -72,9 +72,9 @@
       "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
-      "title": "王道銀行法說會公布2026年上半年營運表現合併及個體稅後淨利皆較去年同期成長逾五成每股稅後盈餘0.54元",
-      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNVFl6VGstX3JUTjhqczZEVDF2MmlBWDk4bVNEd21HajBicFdHa3hmWW9sV0JObnpwdzVsQWtSOC1ldGlLSmkwR3FVdnRoNmVFZjRwdWQwYk53SFJIMlpxLTRpclZpQXA4eHVnT3Y2SXJUSFhtUDFHNFBLVkFxTGJVWWZnU0ZMZEp5Wnl3Ml9RREliczBiclBveDdEbGs4clMtbUFLRDdjeldOd2VPSVhMUVRpMERBREpQWFRtU0JaRGZ0NHhjNUplMGhWbVp1OWZ2dGRyNm84ZW1aUGZaTGpnMTZPVUNRV2o3bkNacTExamRsRzRjOUlKaExTazZQcmNiRG0tQkhBLU5uX0FGeGJySnF5U1NQWHVvNHBzWFljY2NpajZIUWlaQy1Fb0UwOE5QV2lSSFV4VzNhQ1p3S3dkcGN1WE9Hcl9pTHdFc0Z0RnFSdWotZHMtRGd5X3Q5a0xMWVk3R21NeVVsNEl4cTFybExrSU1PUVhZQmc?oc=5",
-      "source": "life.tw",
+      "title": "王道銀行法說會公布2026年上半年每股稅後盈餘0.54元 | 財富管理 | 商情",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44bTg3YTh3eG9zS2RiRWlvdkRpOEJxMEdCWThkRVpTd1FxS2NxbkxyWmFpTmdPeEZfNzlBSWlDQ3VFcXpGTlNyOUlfVnRNR2hEa2pGTURncVVLdw?oc=5",
+      "source": "經濟日報",
       "published_at": "2026-08-28T07:00:00+00:00"
     }
   ]

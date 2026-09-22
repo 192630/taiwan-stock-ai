@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-21T17:34:51.221675+08:00",
+  "updated_at": "2026-09-22T18:34:42.295634+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2945",
   "name": "三商家購",
-  "count": 3,
+  "count": 5,
   "news": [
     {
-      "title": "OK超商換招牌！藍白魚形Logo曝光，三商家購收購半年後出招，不跟7-11、全家正面硬碰| 數位時代",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84UlpVT1hxa0E0RWVRbVRaN1Q0d2xxdTRiUDE4d0daaHhUOVJDNlJFdW5VcmVaaVVSTUJGMVczQXhna0djUnBZWHZjQXFmM3pXOUV5dFVB?oc=5",
-      "source": "LINE TODAY",
-      "published_at": "2026-09-21T03:53:57+00:00"
+      "title": "三商家購晚間6點半召開重訊記者會 總經理出面說明重大決議",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pbkRxejR2MDZ5Zm9PMm00QmFubEo2WG53b0xZdm5RSmFRSVE4eDZEM2gyd3Z2aVFOTDdjR3FWRkYxNUg4c2dyZEI3R0N2NXlXSEtCWnQ2TW0?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T09:57:10+00:00"
+    },
+    {
+      "title": "快訊／注意！三商家購晚1830開重訊 說明重大決議",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3T3kxRmFVOHNYdjR4YW9QelhXNjRObnEyR24zWEZaVk12d0FOeXc5UkdvbnpxSmJITE9lT0tCMlE0bFRTajE0MXBaYw?oc=5",
+      "source": "三立新聞",
+      "published_at": "2026-09-22T09:28:52+00:00"
+    },
+    {
+      "title": "連鎖超商整併潮最新動向！微型超市成戰場，三商家購1.25億收購效應浮現-財經焦點情報站",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQnlqVDV2NUw2SElDcmZsZVhvb25MaXhKZk1PZGpRYmVxUE1BLWRfVGptdkppb0JPRnIyZTZKSC1ZYXhBUENKUjZBbnA0YklOU29KVjZ1bGFrNUJCallrZ2s4cFFublQzUVlBZkdSdm1qMlhTUUdybUdGTU1nd3dIeFlR?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-21T11:23:03+00:00"
     },
     {
       "title": "三商家購總座邱光隆專訪／打巷戰 衝庶民經濟",

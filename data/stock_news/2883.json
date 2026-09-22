@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-21T17:34:39.272112+08:00",
+  "updated_at": "2026-09-22T18:34:30.757472+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2883",
   "name": "凱基金",
   "count": 12,
   "news": [
     {
+      "title": "【09/21 申報轉讓】凱基金(2883)子公司法人董事代表人許道義將於09/24申報轉讓凱基金股票1,000張",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93SVJRSmF5bXF6NTdWX0NSb2dzZzAxQ3g4eGtQaWV4aHI1MzRYNzd0SkZEUGNENnZPVGxtd0pycHl5X0ROT2tsbzBTcWthMzI1RGIxYUo1dXpFVzlmMllLcTU3SlVQNTA?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T13:10:03+00:00"
+    },
+    {
       "title": "00919換股納入凱基金 股價昨日飆漲停、今盤中續飆逾9%",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMYXlZNUdDb3Vhb1FQdGJ4bzYweWYwd2VhbmUtc2toaUpCYUpOeXd0UE4tWGVzSjlyd0tzb2hZNGlBdlV3Q3AyZm1JeGhkZzA2WEZjSzNwaUx0d9IBX0FVX3lxTE84Q01wNjJrWXNsRU9GVWFjRzQ2V2d3SXUxQW5kcllFYXpfN0IxQVFIUXM2RFM0UllqaGc4WGE1N2ZneXI2cUZ5eHlsUGpZdFZUUUtZb2RSMUQxN2o1RHdv?oc=5",
       "source": "經濟日報",
-      "published_at": "2026-09-19T09:00:00+00:00"
+      "published_at": "2026-09-21T09:00:00+00:00"
+    },
+    {
+      "title": "72萬股東開心了！凱基金股價創新高 突破40元關卡",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQU0dYV2lBeE1xWW5IV1FoamhyUTNqcjVxalRjZTNTNl9Yc1FRT2xOcGNrbG40QzZOUjJnZHUxZl9ocHA1Qm5iWUxRelFXUGNlcGpITjJSNGxaRlpUUGNfcVVRV1V2c0x3cFBmSEVDR0U1bW5LNElMdThYc1JGV0pTYkYwZEV5QQ?oc=5",
+      "source": "緯來新聞網",
+      "published_at": "2026-09-21T06:30:00+00:00"
     },
     {
       "title": "熱門股》配息銀彈增 凱基金飆24年新高",
@@ -64,18 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQN25CT283Vk1ndVVQN1g4cDVKejRubmVsSmktRXJSTnU5eFBTWmNBd2pydVlyM1VraGs3Z2Y4SVZKbVhpOTM4N0JSY2NaM05LTXJaNUUtVVMzWERpQVRpb2gzQW4yVkdoTVlqRG9pYlpfU1E3Qk1rWTktWGZweW1NaWdLSQ?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "凱基金上半年獲利與保留盈餘雙創高 壽險、證券、銀行三引擎推升股利期待",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ERnBBN0w4QzNKbUVVTllfeWp5SHdqZUtPcjRuN1pXR2Y1SHZqNUlSSktBY05SODZCNkMwWTJERmJsYUo0MkV6NHJ5cllCYy1JM3ZNZ09wR29BdGctajVQLTBHd3BYZGd5UUtXOFBFVQ?oc=5",
-      "source": "理財周刊",
-      "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "【09/08 申報轉讓】凱基金(2883)經理人黃浩泉將於09/11申報轉讓凱基金股票250張-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNN3JwTHVxai04VnpfUU1KQTJrZkZENUMtU1I0NnZtZ01qZE5TSW1XRDFUNE1PTzJ3emg2TVhOUURQMlZPZEdpdVBHelV0djFDcmtjMHdVeWJseHB3cmttb3VBekZFYThxbkVfSHFjVmNHWmpXZV9NUFJ0RkV3dzEybnhjWFBCMFotdGc?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]
 }

@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-09-21T17:34:40.732925+08:00",
+  "updated_at": "2026-09-22T18:34:32.342786+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2890",
   "name": "永豐金",
   "count": 12,
   "news": [
     {
+      "title": "興櫃股王漢測IPO 永豐金解密晶片「守門員」探針卡",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rMk50SjI3V1ptOU5TOG9Qb1V5cVY5OHNuZjR6alh2aTBuUFgtdVYyRHM2LVhfeVJYVnNYek96c1RrYVdJS1NwemxYb2tJdjItT1lYZ2xlWmxlYVRLMXVJSlhUTDVfYlBNZ2VhbmJR?oc=5",
+      "source": "中時新聞網",
+      "published_at": "2026-09-22T08:19:53+00:00"
+    },
+    {
       "title": "BABYMONSTER台北演唱會 永豐金證券優先購票序號",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94UEZneXRSdGZjb3QwNkJXZVpsbFg0MTlkT21KQjFINU56YXRybzlZaklDV3VZLW5iRVpUbTNiVkRZREE4ci03c0VWY3ByWjd5aTJzN29OLVNETk9h?oc=5",
       "source": "卡優新聞網",
       "published_at": "2026-09-21T07:18:53+00:00"
-    },
-    {
-      "title": "永豐金(2890) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCZDR0aGlTMVVKOXdiQTJFWmg2ZzZzcEd5M1Q4V2RuMGlJaFk2SElwZ1V2V2pSaEhHSHh0UlM3X3hJYkhNWm0yZlFzYVg5Z3hyOFBv?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-21T06:35:55+00:00"
     },
     {
       "title": "大型券商首家！永豐金證券上線「金融Fast-ID」",
@@ -42,21 +42,9 @@
       "published_at": "2026-09-17T03:55:38+00:00"
     },
     {
-      "title": "永豐金證券「美股2.0」助攻 權威升級對焦華爾街",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1ckZJLWw0Yll3c3p6QlYzcUZFTkdhODhJOXBmdDZJM3RxWGR0NHpJQ2JjZ0ZabmprVHBOUE9sZHJhcWNGZS1HRGpEOWJ1WnotUUE?oc=5",
-      "source": "蕃新聞",
-      "published_at": "2026-09-16T08:06:01+00:00"
-    },
-    {
-      "title": "永豐金(2890) 今日股價與討論 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13T0pRdnZGWGNTc1RFYXJMMmVKcjZLSlNLcXZIdkEyNWphbHFJa2dELVZyY0REakFaZ0N3UzRzZG5yenJLU2xWcEcxRDUwSlU?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-16T07:00:00+00:00"
-    },
-    {
       "title": "葡萄王(1707)9/17受邀參加永豐金證券舉辦之線上法人說明會",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XOWk1TnUyRE05dTV5N2xpd3MtZ1AzNXIyZk5ZeWxxcXhVQV8xS1o4b0d2WkgyUjJwaFVTT29fbTd6X2pWbHZ2MVJQakRiN1lWTmtmQ0xqTndsQjk3OGxPSVJETndPRnc?oc=5",
-      "source": "環球生技月刊",
+      "source": "news.gbimonthly.com",
       "published_at": "2026-09-16T06:47:07+00:00"
     },
     {
@@ -64,6 +52,18 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nUXUydk5wTnVQd3U1TkdUOU1fOXNXQ0lFeWRNVHJjUlpFQTl3akJKRk5rMEE0VV93UmdkVTBPT3E1T0R4UTRiSWp4VFVLVmxya2Z6dXNtUkZxd9IBX0FVX3lxTE1hanJiSTRoeC1VR3lERF8yUUxEdnNabTM1RHBKN2JQSHlSb3NjMFFwQ2xhbE9HNFk5OHNGNC1obnE3UWJiVllSVmxad2ROOExoVk1BX05yWm02VERvYlpj?oc=5",
       "source": "經濟日報",
       "published_at": "2026-09-16T03:11:55+00:00"
+    },
+    {
+      "title": "永豐金(2890) 今日股價與討論 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13T0pRdnZGWGNTc1RFYXJMMmVKcjZLSlNLcXZIdkEyNWphbHFJa2dELVZyY0REakFaZ0N3UzRzZG5yenJLU2xWcEcxRDUwSlU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-15T07:00:00+00:00"
+    },
+    {
+      "title": "永豐金證券暑期校園調查 年輕人發表宣言：美股與 ETF 更適合我",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iV3NHN2czU043VlEyOGN5aU5wSVZxYjlZNGJtR251NTVMd2M4bUFBYU1wN04tOFMyYzBTNjlfUTE0bzFIODhVUk9BQ2xhanZ1LUIzclBQWFNRUdIBX0FVX3lxTE8zX3FuNTZ0NXUwUmtWRF9zWnUySlh3UDdPZnNlRnBhcWVRcnhUek9id0U5Ry1Tak44TXlfMGxfdkdjMVdXMWZrMjlBVThEbFFQVFhPV2hCUVFHdEpEa1A4?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-15T03:01:20+00:00"
     },
     {
       "title": "《永豐金證券首次暑期校園調查》年輕人發表宣言：美股與ETF更適合我",

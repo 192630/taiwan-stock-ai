@@ -1,33 +1,27 @@
 {
-  "updated_at": "2026-09-21T18:33:49.605450+08:00",
+  "updated_at": "2026-09-22T18:35:01.166655+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3047",
   "name": "訊舟",
-  "count": 5,
+  "count": 4,
   "news": [
     {
       "title": "盤中速報 - 訊舟(3047)股價拉至漲停，漲停價15.2元，成交3,074張",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE42cm5rRDc3dUV6ekhHaEV4MERGWkNRV1ZOLU1UUnhoVGdxMFhLQnFVWTNmdlFPVmNhSktvY0VBaS1SSFdHNVdQc29INUJMZnpnNGVCa24tTTEzeElKbVhqLXI4a1NKZw?oc=5",
       "source": "TradingView",
-      "published_at": "2026-09-21T03:46:00+00:00"
-    },
-    {
-      "title": "3047 訊舟- 蝦米，訊舟才跌這就能上報，我的前4檔跌到連記者不削報- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9zUTg3dVNCTmZkX3lSbkpCUGctd3FMU1hFWU43MUpUc1ByZVhjWm05RFdxaF8zSWpfaG0teWxqelZZWHFIWjFUczg4aVNqSXJVQUh2d2doczY?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-13T03:39:55+00:00"
+      "published_at": "2026-09-21T03:46:35+00:00"
     },
     {
       "title": "訊舟自高點崩跌69％！股民慘賠26萬 嘆：放2年還是解不了套",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kTjVob2ZRc0FtbmQ4bENMMFVsckpMelZPUXhPbl9EaWVmdjdCNWY1LWdYcF9hbVRic1cyclFsTnZiRzBzY21Sc2Q2SXpUS2xuVlF5c25SUTJTbnZuNG130gFkQVVfeXFMUGMyZWdZbVIyMHpvRW5WZ0V2RFoxb1F0NHlvbUNBM0dPYVN0RTVqQk12SXFJYTJWSDhJQ0k2UjktMHJkMTBNOXpTaEhRWUl2Q0haT2czZEZsSzI0ei1xbzB5c0prZQ?oc=5",
-      "source": "ec.ltn.com.tw",
-      "published_at": "2026-09-13T02:34:57+00:00"
+      "source": "自由財經",
+      "published_at": "2026-09-13T07:00:00+00:00"
     },
     {
       "title": "訊舟日本新專案2027首季啟動出貨 短期審慎應對料件漲價與AI排擠",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9teHo5b3JZUHpYN1U5R2RIYUZpVk1Lb1hBSFRHc1pHQVZqM25XdGJKR1lPbTk5MjFBemx1bkFWQTBkbzkxWGtndWU2RnJibjA?oc=5",
       "source": "news.cnyes.com",
-      "published_at": "2026-09-11T09:46:33+00:00"
+      "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
       "title": "【2026/08月營收公告】訊舟(3047) 八月營收2.77億元，表現亮眼、呈現雙成長，創近7個月以來新高，年增28.02%",

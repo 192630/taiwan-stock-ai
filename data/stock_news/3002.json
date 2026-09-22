@@ -1,27 +1,21 @@
 {
-  "updated_at": "2026-09-21T17:34:52.919808+08:00",
+  "updated_at": "2026-09-22T18:34:44.288602+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3002",
   "name": "歐格",
-  "count": 7,
+  "count": 6,
   "news": [
-    {
-      "title": "歐格營收連續年增兩成，AI資料中心PDU題材發酵，但為什麼毛利率反而掉了一半？",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4VzBXdUhkMmlwVm9pMDhCWmhoeXgxUmlHYjVxNGNtM3dCeS1uNU9Ib1M3SFQ5TDJTYTRTajJNa2IxeE5xZkxxUWgzTXRISVplUVF4eXJCN1dERlVnYnBiZ21DX0haVG44aDI4LXBLUQ?oc=5",
-      "source": "理財周刊",
-      "published_at": "2026-09-18T05:41:23+00:00"
-    },
-    {
-      "title": "廣寰科、勝昱、歐格再飆漲停！電子領軍精測、聯傑、杭特齊亮燈 富喬、光鋐、合邦攻頂鎖不住",
-      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQRkdoMVNfTWt2TDNUSDc5RDA2Y0t5WnEzbmZCM3JTNVdxa2I3TzdvY3RYY2N0WDZZVlYxNjVKSFQ1LWR6dHNKR2V0UUxFUVB0YmJELVE4UWl5VG5VUThTRjA3SXNuc3REU0JfMUx5cm5EdUptZHBZaUlQSFNVbm1PUjZYR2VOdzhTRGNGX0xPRVNoSjhHN01mUmtDakQzMUwzbEJwTG5mNHUtTC1PYXFGZ0JibF9DdGhCUTNqQUEyaHJtRWNVZ0RvY09jeTgxUlI2RER4MjF6OVVoNmkzZXQyWHdHMThYWTYwUTE4MER4UEw0bnBfWS15N0ZpZUp3ejdCVERSTlpoc2tpSmc5V2hEWGVKeGlJcXh2LXc3OWcweTMyaHdxaUpLRDB1N2dDY3hoeHlCNVV6ZHlqWFdqbk1KR1JrcVE?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-18T01:54:05+00:00"
-    },
     {
       "title": "【09:26 即時新聞】歐格(3002) 亮燈漲停，延續近期強勢走高",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41WVpXUTdIRWhUN21maUZmYjQxZWdGWTZDNHJUOWl6UTlVaHJEMHFUeWpiTXlhR1RXYjZsT0o2alJxek8tY3c4OEZYeGJXWVFmdmxNWjkySWwtanEwcl9FaVdlYVBKZGc?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-18T01:27:03+00:00"
+    },
+    {
+      "title": "歐格營收連續年增兩成，AI資料中心PDU題材發酵，但為什麼毛利率反而掉了一半？",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSZ2RGbFdpcnhlQnZvTm5tZzJUNU8xNkhzVUdxQlhhUjB6cjZvSU5SVWJzSXBGUHlSVFhUS29xN3dPMWo0amVYT3hxdUlsSTRZYjNJeVlBRl81RGpESUJ5UFVwZXNGajNaZTN3Z0Yxaw?oc=5",
+      "source": "理財周刊",
+      "published_at": "2026-09-18T01:18:08+00:00"
     },
     {
       "title": "歐格電子股份有限公司",
