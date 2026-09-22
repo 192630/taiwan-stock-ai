@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-21T09:34:14.131640+08:00",
+  "updated_at": "2026-09-22T08:39:14.542790+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8045",
   "name": "達運光電",
-  "count": 8,
+  "count": 9,
   "news": [
+    {
+      "title": "達運光電訂單能見度達明年 軍工、網通雙軌帶動下半年營運走揚",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB6SmtXRUJ0T1gzbkpvb21pNEtYMnE1XzlrdmdpTzU2S3FxUmVCRENadXhKT3pTTXktZ0F2N1R0UXhvUE1TbnQwN0J1SEQ0ajZVMW9ETmdPMDc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T02:25:45+00:00"
+    },
     {
       "title": "達運光電（8045）法說會 4 大精簡核心",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhRXo1bm56eDVuRXBxdjh2WDlfUTE5V09QU0FDOGxjcFhvbm92cUpFR3U1d3c3b3RfdU5ZNklQdjViZG83MVU4a0NkbER1QTNwcEF4VjJzUjk?oc=5",
@@ -14,8 +20,14 @@
     {
       "title": "【11:56 即時新聞】達運光電(8045)股價走強，無人載具與AIoT題材成盤中焦點",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQmtxWjZEWjVOTE1FTFpkdnFsODNQcTNUamZBWmNyUXhkMDJReXhpZVNjYnZqUEJna3M5N25BR1RKOXFKWm5FVDlycTdTMWQ5Vnl1alhJdEpLbUNHem83aVJRTVBzcUIydWhKRHJJVFF2clRSQkdRd2JqWVhhOFFfMEFhRlljS2lrVzA1RDRB?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-17T03:57:06+00:00"
+    },
+    {
+      "title": "熱門股－達運光電 無人機題材熱",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1YWUdCWkFGVjRvTExDeUFRbFR0TkRTX2pGcjktbE5ES1BTcFhZOWpQS3QxM1pfM05YTmpDT25jME9FUXNsdVpheVB3bnA1dVNhUjZsZDZEZUxjTC1GSndCNngzVV8zRmlhY2Yw?oc=5",
+      "source": "中時新聞網",
+      "published_at": "2026-09-15T20:10:00+00:00"
     },
     {
       "title": "〈焦點股〉達運光電簽署美方委任採購合約 激勵股價早盤直奔漲停",
@@ -34,12 +46,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sVjBXRTRIdVE3ekVYOG0xZ1dBNEgwbll4RjBXa3Q3SXNtV000UGZqZ3MtYjdjVVoxRGNjZGoyZWtqRHc1N2Vhek1xdlQtS3d4ZU1ZT296WkM?oc=5",
       "source": "自由時報",
       "published_at": "2026-09-14T09:22:44+00:00"
-    },
-    {
-      "title": "達運光電獲美國奧克拉荷馬採購合約 攻入美防務鏈下半年展望審慎樂觀",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkbVdLUE5BSmtvS2lZZ3JYdnQ3YXVTaVdnR2RWcnE2VUxuM3hESWNkUFJZY2dlMWhNS3o3ckpGS3F6TU9Zal9XRzNfQkxMYTQ?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-09-14T06:31:09+00:00"
     },
     {
       "title": "8045達運光電、任務酬載無人機新戰場",

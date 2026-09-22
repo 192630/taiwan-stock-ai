@@ -1,0 +1,27 @@
+{
+  "updated_at": "2026-09-22T08:39:23.538989+08:00",
+  "source": "Google News RSS search by stock code and name",
+  "code": "8080",
+  "name": "泰霖",
+  "count": 3,
+  "news": [
+    {
+      "title": "8080 泰霖 - 本週籌碼變化 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwX2t6QjhpdnlQMW9ETTgzUGlsTGNXcDI3aXl6NkhEYkdPRFVWbHM3TjROMXR1YkVVYVIxdUxOdDhlODFsQzJyWDhPRlRNU3hVTWs5emJyNFA?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-12T23:25:39+00:00"
+    },
+    {
+      "title": "8080 泰霖 - 土方費用 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOTW9kYmRib2xOcHZhWG42ZHQ0Q2xGWnJyOHFCTnJWY3hob1lhNUwteW5MQjllVlcxcTBSendmUGhNNm1oZFpWYmNEVzhnM2Qwd0d2RUwxNFI?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】泰霖(8080) 八月營收創近7個月以來新高，月增73.48％",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JbFE4OFlheDNlX1ZUMDFLalM3elFtRm1WSDY2Tm5HcWF2d2F6VmE3SEF2ZTZxVWYxUjFNaUpoNHRQUll0dUowakJPdG1ISWtWMm50ajU4cmVibllTUm1FVndJUVVKcUU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    }
+  ]
+}
