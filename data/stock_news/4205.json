@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-21T22:34:50.459220+08:00",
+  "updated_at": "2026-09-22T22:36:36.516274+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4205",
   "name": "中華食",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【2026/08月營收公告】中華食(4205) 八月營收1.77億元，年增1.19％",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DVnpUNGRjTjFPaTR1WHpJTFFDT29MVUZpbGk3cjZ4aDFfU1doOC1PUm1XaXlyQmp6Skx5RTMzcjVLVTBxaEFrQ3dIRFNUbTNHVGtnRmg1enpBZWFUQ0ZpWG51c3Bjdw?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-10T07:00:00+00:00"
+    }
+  ]
 }

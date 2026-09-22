@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-21T21:34:36.848227+08:00",
+  "updated_at": "2026-09-22T22:36:31.751024+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4173",
   "name": "久裕",
-  "count": 1,
+  "count": 2,
   "news": [
     {
       "title": "久裕興 本公司115年08月自結財報之負債比率、流動比率及速動比率",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KUWxhSzNmaWtYM2lNUW9pTTgzTDlHNk13dERqMVRvdlZacGN3bkt5VFZxRmlEUUdPdnhWcVhOVm9DbHc1VEdyQTRkVEk2MnA1c2ppdjdCUXU?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-21T08:01:36+00:00"
+    },
+    {
+      "title": "久裕興 本公司115年07月自結財報之負債比率、流動比率及速動比率",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wMi1hejhBd0ZOeXAxclhfSUFlOGswcldsZmlVX1dBM1V3Ynp1bXYtOV94dEloNlJ6LS1waHZvMG5uSFBrbk1Lay0zX1ZHUzc3cGk2bFFlWG4?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-08-24T07:00:00+00:00"
     }
   ]
 }

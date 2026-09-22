@@ -1,21 +1,15 @@
 {
-  "updated_at": "2026-09-21T22:34:50.017548+08:00",
+  "updated_at": "2026-09-22T22:36:36.083833+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4198",
   "name": "欣大健康",
-  "count": 2,
+  "count": 1,
   "news": [
     {
       "title": "【2026/08月營收公告】欣大健康(4198) 八月營收營收雙減，年減3.17％",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsOVFSN055R3VwWnQ5QVVTN1FzUy0wS3Z0bm5VMnFIWDJjYkNadm9PQm9kSUNpcEZpZTYyRlRvRGt5a0NJNy1qbXpLVi16NHoxQk9oelpEV3Y5cGtPR1V2WTJXczREXzA?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-11T07:10:03+00:00"
-    },
-    {
-      "title": "S&S Healthcare Holding Ltd.的每股流動資產淨值 – TPEX:4198",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ1Z1S21xNVBaTWxaWVh2dHRENEdSMlZpbkRrVjNCaVp6QTVIMFFTcnktSTZhZUk0Z1lSSjJYNXlOQVVtLTlETW5OYmJOeTZDTF8ybnh2OF9HS3A1SFJmb1ZvTDNIOC01U1dpRVlzam9UTnI3X1pWd2NsVU8yWk1LZFNGYVF4WjRzOTlmaG5LN0lSQzJFdHc?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-10T10:24:26+00:00"
     }
   ]
 }

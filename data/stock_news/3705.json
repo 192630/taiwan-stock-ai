@@ -1,20 +1,26 @@
 {
-  "updated_at": "2026-09-21T21:34:09.044329+08:00",
+  "updated_at": "2026-09-22T22:36:04.496387+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3705",
   "name": "永信",
-  "count": 9,
+  "count": 8,
   "news": [
+    {
+      "title": "永信至誠股東奇安創投擬減持不超3%股份 市值上限約7200.86萬元",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jV28zX2hKZFdpemxQRWpFSDltMGlrWVZ2MmtBNHI5T1lXdDhXcURlOTRRemxzM09QNnZpQWZGT1N4OUhWS2dMcjlPQWQzNDRlVWFkVmRxWHp4QQ?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-21T13:59:47+00:00"
+    },
     {
       "title": "永信至誠(688244.SH)：奇安創投擬減持不超3%公司股份 作者 智通財經",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXLTNaVTJUalZfOEZPVTJjRW1zWEloSlM3aDZiM2ZFcDFlcnNla3I2bEZCYUlxYm5kOUx5TGhpZnVkMzV1WnBrQ3pWbi1kbHBJUzZyN2djUXhISGlMNHgzSXNZYzBXOWVBdG83Nll1Z2I?oc=5",
       "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "published_at": "2026-09-20T08:18:24+00:00"
+      "published_at": "2026-09-20T10:37:47+00:00"
     },
     {
       "title": "永信 (3705) 本公司受邀參加元大證券舉辦之線上法人說明會",
       "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNR2s0NzRTUS1NMVppWmJmbE1NcEdKT1NBdm1KVVRoRXZSdDNsVk1wN05Kb2NjTkRYQVZpVDd1alRldjJHTFc3Vk5FLV9ETXhoQjRWTEdzNlVSWWJXMlFaakdpc1dINVpPa3NjZXdrNW1vX01qMWd5TG13Vml5QWZKSEh5RjZGV1Fva3o0bUEzNWZubUI1bTBTWGR4VG5HVzNYR3FFQklVdTNaZnhCS2d5THBRaUxMTWdGSzVnVmR1RnlQVWJ5cjhadHBaN0NJS240MTlBWW9TUVV6V2JVODJjaU85X0lEU3RJS2liY1VjX3ZleXk4Nkd4OTJtdndMcDZCUktOb0t4UXV1TEVZQ3hCWnFkQXJ4TWtOWHhUMnVUTnN5WEpfNy1NY1g4Q0NoNDBOQTJacG5R?oc=5",
-      "source": "GeneOnline",
+      "source": "geneonline.news",
       "published_at": "2026-09-18T07:29:52+00:00"
     },
     {
@@ -22,18 +28,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNalJIUVdQREc0SU5TSXA4M2lyaFluUFFReEZFWm9Ic2phdjkybFRzRGNtU3NjRE1TTG5LT2NZZVdvcGV4N1RpMTdjb1R5Q0F2UVd2eVJvUmhiVkZ2WWVVTDFlZjdnTG1aWHJkeTljNzZLR1g4NE9KSTAwVmFMdlI1T09oS3lBVzQ5?oc=5",
       "source": "富聯網",
       "published_at": "2026-09-17T08:36:00+00:00"
-    },
-    {
-      "title": "永信建(5508) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBWlJ0V3hPekw4NFJuUk5kdG9TdmlDS2tYRU0tcXZwVWNGWDRMT0ZqT2dnZmNUV2UySWd2dVBDZU5fQ1RBOHBldGlNUzJ0QlR3R3k4?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-14T13:56:58+00:00"
-    },
-    {
-      "title": "台灣企銀攜手永信推廣安養信託 老後照顧「超前佈署」",
-      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQQXItdnhMQ21OUnZSZGQyLVpxV2dtRnFnYlQ4M3pmVUU2NV82bmEtMWk1aGlNN090RzJzUHB5WFFqTDNEUVlQWENNVi1wWjRUd3hCTU8tVFJndkVlblgzSnhxdXVjQ2d0X1NaMHZCVWhTR2ljSlN5cVJkamgtZkdLbzUxWi00eENicGM3VGRjQzIwOS0ybmpWZ05LZXdZSFo5Ujc3QmdqaEpSQVBtdVNIUk9yUThqajU3aWRlTzFjWFlwRXBrd2pCbVZ6YnBPMzdsQi1XMjR1NEFpbzY0Y21RTjVzeFpyWTZUOFdIY3RGV1FVNGdaVjRaMFBaRWhkU1BxYWtJOFh5SmV6MmZjTUNlWjZNbURpbUd6SUxhZ0MzUktWRlU5cGt6bmNhV0Vfd3puMzZmR1otY3RINHgtRWpiZlBQX013aE1WT3NLdGdwbl92Z0lRRFdwWmx1S3NDZw?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
       "title": "【2026/08月營收公告】永信(3705) 八月營收6.33億元，年增4.59%-CMoney 小編",

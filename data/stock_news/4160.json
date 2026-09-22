@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-21T21:34:31.873775+08:00",
+  "updated_at": "2026-09-22T22:36:26.729228+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4160",
   "name": "訊聯基因",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "4160 訊聯基因- AI設計新藥訊聯集團：我們不會比Google慢 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JeFViTXY4WHo1YlVWaHU4YjVIcWFIaC1zX09UWHo0V2d1YjBmNTFGSEZvazBWNHcxR253RmxlNWVER0RDSGJOSFlpNmxqNlFsaktTOE9jWjA?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T03:19:33+00:00"
+    }
+  ]
 }

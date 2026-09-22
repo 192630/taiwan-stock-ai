@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-21T21:34:07.468823+08:00",
+  "updated_at": "2026-09-22T22:36:03.038455+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3702",
   "name": "大聯大",
   "count": 12,
   "news": [
+    {
+      "title": "兆豐率公股銀齊挺半導體供應鏈 大聯大旗下詮鼎168億元聯貸案今簽約",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yUXcybFBXdTVjUy1NUFcxekkyQ20xVWVCT0tTNHNyYjdtNkJQbnFod0lCTDNUdjNNNnUtWDE1d0oyZGlRTU1ER2JZSlZXOFE?oc=5",
+      "source": "news.cnyes.com",
+      "published_at": "2026-09-22T11:23:33+00:00"
+    },
     {
       "title": "3702 大聯大 - 今天三大法人買這麼少嗎 那誰買上去的？成交量還放大 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DVm00dWRYMldhTGVBWVZoYk14X29TYU5QMHdmQWZCVUNmbGZ5OFQ1NWxBZkExdk9PbHREVzR3amZOekJqbWx0U0d5bm9wUHN6TW9ySzNscXg?oc=5",
@@ -16,6 +22,12 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5peW5ySm1wUFZLM040WmJGNmQxZ05DXzdIbkdkTE10aE9CT3lZdU9qbzMyZVBZd2hPNExnSkktTjA2OUpHZml5SWdVZVV3REVLZXhTamVNZzU?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-18T06:49:00+00:00"
+    },
+    {
+      "title": "8.6萬股民歡呼！00999A重倉台積電、大聯大、聯發科「拚3個交易日填息」 配息這天入帳",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOUHg4RUJfZW9tbERQTy1Sd3B6ZDhPaE1sUlNKdXRpRXliSTFXS3pwd0pzTmZmcGc2STRPOW1KLVkxcm14NTVyU0ZmMi1rZERpTG1FSVl0RkxGUE5zY1lKcUZqQnZKWXJxMHdPZ0h5ZGtoSkNrVjN3UWs0T3BTSGluS3dCVjFGY3p2eUwzUEs5VXIwS1Foel9IaGdVekl3aENpejZHczMyOVllMWtFazlCWGFzVGhHUUpFcFhpaGhuMXB6RVlMMGhiRWIxYjNaSFExSG9CVVJtN1Y4WlBXc1VOSUUzTnRBSVNPSkVtbklpbGwzOFpaSGtRVFplQ3ZNMlo4TVh1TUFhbUdvaDJmd2hhc1hNQl90NTdvYlRaQmlHTHFUZVBRWmhEZ2s3dw?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-18T05:15:00+00:00"
     },
     {
       "title": "大聯大控股 | 3702.TW 股價走勢與即時報價",
@@ -64,18 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VMWdoX1JKSHdieEVmVnhja2ZsTHA2bktLQVgzUzR0UWVuUTNBMndqT28tejdneGdKeUFFS3p4YldSZzNMYUdrZEM2Z3l2MmYtQVNnWm1LVmM?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-10T07:13:42+00:00"
-    },
-    {
-      "title": "大聯大控股股份有限公司",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYy02YTR5SXNsQkdWWEs1NnI3V2drNDRpendfYlJtQ2RnSkxDX0FDZTI5OF9CbC1mZXNUemwwaTZCNVJyQ0dpd0NoS0ZrMVRxbWlOY1lRTHMwY3oyTl9CcTJZWmJkZG1KX2JLaEhCd1J4cFE3SHFzUnZoMU83ODlhU1FLa19ZWGFpZFFFU181N01CVWZZLTlB?oc=5",
-      "source": "MoneyDJ",
-      "published_at": "2026-09-10T07:00:00+00:00"
-    },
-    {
-      "title": "IC通路雙雄大聯大、文曄 前八月營收雙雙突破兆元",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5vdTNSeS1qQlZwZzdpZEZVcUxVR2ZIUHo1WjFfdzVlbGdiVHFuQjVUUFpGTDhvd1NLNi1HTTJqY19udVA2ZThpR2JpclAxbVA30gFWQVVfeXFMT2FLb1lQQkJZUWxQRWoweWJ4TmROdkNQVEZzU09WbWpQUXZIS2swNi1tVDBZTW5CMHBJN3JIT0N3VHM5eTd4Mjh6VjdXQ1NDM242czRQOXc?oc=5",
-      "source": "UDN",
-      "published_at": "2026-09-10T07:00:00+00:00"
     }
   ]
 }

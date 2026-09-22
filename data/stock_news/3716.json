@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-21T21:34:14.243011+08:00",
+  "updated_at": "2026-09-22T22:36:09.724805+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3716",
   "name": "中化控股",
-  "count": 2,
+  "count": 3,
   "news": [
     {
       "title": "3716 中化控股- 向高产田要增量中国中化\"生物+\"激活黄淮海粮仓新潜能- 股市爆料同學會",
@@ -16,6 +16,12 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONC05cWJOakdXR3VaUWR5S1Y4TE92WmxkclhtTUkzazk0VFdhdmtuVFZLaVkzUzVNTTcwbTF1UGVFNFdmYVltMG5RVmwzZnFGQjhhR2JvT0o3amRPNGNGMEUtZTltMjZPY3ZqNmtMaF9KQlU5Uk5qbkExOUxtR3AyaV9nZ05tQzlF?oc=5",
       "source": "富聯網",
       "published_at": "2026-09-10T05:39:00+00:00"
+    },
+    {
+      "title": "【營收快訊】中化控股(3716)公告08月營收",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaWHZhZjQ4eE53S3RJTzVDWHhYaHVpNHViRDJKU1NpdHlZVFJuNDFCUllmTDVMV1E3alJxTGJMOGd3bldORjN1UWozVkVDWlgxX0NVeEFvRWg?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-09T07:00:00+00:00"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-21T21:34:39.466460+08:00",
+  "updated_at": "2026-09-22T22:36:34.234378+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4188",
   "name": "安克",
-  "count": 11,
+  "count": 12,
   "news": [
     {
       "title": "安克創新(00668)因限制性股份獲歸屬而發行合共137.77萬股 作者 智通財經",
@@ -16,6 +16,12 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOEEwVldqSGEwb1ZjY0hqOUFsQTlwak9NZ05rUTI2WjFLY2kwUlpVWWJPMkUyUEptUWJXWXRLeUtIZ2FkOVlYamdxWld1Xy14d3FraWtPeDA0QmhscW53ZGh2Q25hbWxOZFVXQ19aT0VraFpuOXJHeE1jMThzeHhVbzlhSjJzT0d3?oc=5",
       "source": "富聯網",
       "published_at": "2026-09-17T23:33:00+00:00"
+    },
+    {
+      "title": "安克創新(00668)將於10月20日派發中期股息每10股8元 作者 智通財經",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mNTNQY1psdDZaaExQbC13NE5wOWhVTzVadlhVVGlieXFrOGEyM3NJRXQ2dlk5TmVjSjh3ZXZTRmVXUnlMZVgyRXFDS2lCRk9hQUpPZG84cjI4UGRzS0pqUlhhVHM5RHZZUk1McldZNnE?oc=5",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "published_at": "2026-09-17T14:59:42+00:00"
     },
     {
       "title": "安克創新(00668) 海外監管公告-證券發行及相關事宜",
@@ -38,13 +44,13 @@
     {
       "title": "4188 安克- 【08/31 產業即時新聞】醫療器材耗材族群盤中強勢上攻，上游原料雙雄助攻帶動類股強漲- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96QVFIelhlekJudHRoOU1qczV0c3l2WG9rSW5TVFF5Ry0tcU5sWlJVQ1JYUU42OXEwTmZLRUtGd1ppY01XUWI1ZGt5R0xqd0twTzFsZURDSGo?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-08-30T07:00:00+00:00"
     },
     {
       "title": "6733 博晟生醫- 【08/27 產業即時新聞】醫療器材耗材族群盤中強攻，安克攻勢凌厲帶動市場買氣增溫- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00QnJyYjc4TndrOFhEU25oQXhXTjJpNHZkMWl4Y1ZNUDdxRUFfZmZIWld2cTRmWlVRMm5HMjk0eTZYengyNExieEMxNEQ1clVNd25va045SGw?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-08-27T07:00:00+00:00"
     },
     {
@@ -68,7 +74,7 @@
     {
       "title": "4163 鐿鈦- 【08/25 產業即時新聞】醫療器材耗材族群盤中走揚，安克漲勢凌厲領軍表態- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DcE5FNFltNlVIS2RpcnlLdEYxZVkxZHZPdGJfbXkzTUtLTEFnUUJjV3BVTVpQZ0syR1BUY0p2WEV4dGh0bUM2bDVGZmxINXZnbUd0Z1hvNUU?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-08-24T07:00:00+00:00"
     }
   ]

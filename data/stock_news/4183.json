@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-21T21:34:38.839075+08:00",
+  "updated_at": "2026-09-22T22:36:33.712005+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4183",
   "name": "福永生技",
-  "count": 2,
+  "count": 4,
   "news": [
+    {
+      "title": "4183 福永生技- 【09/22 產業即時新聞】醫療器材耗材族群拉回修正，龍頭權值疲弱拖累、個股各自表現- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YdThBWjhQNXBEdmdEclZRVExOUURUMm5RY3p1XzVuM3JyaUtfOXhLbGdnbnU5OEhzOXdrbHY5S2x1cE9JRUYzRU5mTkFpVVJYWkJlSWZqWFo?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-22T04:00:49+00:00"
+    },
+    {
+      "title": "三井化学 | 4183.T 股價走勢與即時報價",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HX0dWMVhIQkRPYzhIcF9LVGhqZjhNOFpUQk1PMXBHU2hkaDNZaFo5MTBCTmZFdmZwV1NHOE5VMGNOcFhaNmdvYVA2dnBBaEptbldF?oc=5",
+      "source": "BigGo 財經",
+      "published_at": "2026-09-18T07:00:00+00:00"
+    },
     {
       "title": "EPS Bio Technology Corp.的Price to book forward – TPEX:4183",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa0tmS3BnRjd5TDAwdHhuZE43UVR3U0Q3cjJPLUhmbXZ6d1lvZ1ZsMVV6cm95YjlQcmpsVjduLThibjFjbkpaN1NWM1QxcnBwdW5hTlVTcDY4V1I1a3dsNEZzdlM5RDZGMVNVWFRTT2dBYXlaT1FqRnJXOEYwREhoU3VzX1R3TGFLczRqR1hTeEtKa05uYWl3NA?oc=5",
@@ -15,7 +27,7 @@
       "title": "營收：福永生技(4183)8月營收3169萬元，月增率20.80%，年增率-19.08%",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY3AyUXJONW5QM1BfTkZENFVqWFpwdnM3ZW9MR1JXb1Z0OW5Ia3hxZHBfaTM3VTg4a0F4ZWQ1cTR2X09rbGJoc2R1OHRvckVJbHZEcWdiUVV0Tm1iMkQ4b2MzdmVyMUlwLUwzZG15QmpzSHFXekZRczVTWWdPaWJFaC1TQXR1N2FG?oc=5",
       "source": "富聯網",
-      "published_at": "2026-09-09T08:41:00+00:00"
+      "published_at": "2026-09-09T07:00:00+00:00"
     }
   ]
 }

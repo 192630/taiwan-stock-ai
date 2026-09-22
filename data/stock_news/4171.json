@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-21T21:34:36.364417+08:00",
+  "updated_at": "2026-09-22T22:36:31.233750+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4171",
   "name": "瑞基",
-  "count": 1,
+  "count": 2,
   "news": [
     {
-      "title": "瑞基營收／前八月1.53億元、年增8.58% SATLite 跨出海外",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VdTYzcnNRWEl1OHAwUC1VdUR4elNwaHEyaG9wVWt6R25qaG9jM0dPSmNaeTc0SEo1TjhQRUl2OW1YMnQybUMwckRleXduQ1NS0gFWQVVfeXFMTTA2SkF4UlZILURQdjZSWTdzQ2dVUU45MVNYUk1oMjhnTUUyaHRPN2FTZjY3d3pHQzRaQVB1dnZDQ0dXRjhqYmcxRVRHdDNGMl9PdnRnaWc?oc=5",
-      "source": "UDN",
-      "published_at": "2026-09-11T07:00:00+00:00"
+      "title": "4171 瑞基- 為基層警員打造健康後盾新光人壽捐贈健身器材傳遞企業溫暖關懷- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05aU5GWHJYMHlld0c4RWNzWU5acXA1aXpkeUV1WDBNZHBmV3hyYV9EZURJSjM4dHFIbW1UOEx0eE5aWFBGRURyZU1QcnlISmRCVzhKYzNTNE0?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-21T11:45:50+00:00"
+    },
+    {
+      "title": "4171 瑞基- 新光人壽捐贈健身器材助中正一分局升級訓練空間- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iZmxrc0s0UVd2UUlLT3N1TFZJa2hzcWl1Nkt6QS0ybE9aQ3hfdHhBQWdrWEV2ektJUlNxak1ENEM4ZlpWQzd5dGEtSWo2Y084bDczU3BMTW0?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-21T11:25:13+00:00"
     }
   ]
 }

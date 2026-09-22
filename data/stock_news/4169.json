@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-21T21:34:35.877858+08:00",
+  "updated_at": "2026-09-22T22:36:30.744050+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4169",
   "name": "泰宗",
-  "count": 2,
+  "count": 4,
   "news": [
+    {
+      "title": "泰宗(4169)董事會決議11/17召開115年第一次股東臨時會",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZMDFUdGhYLTZJMi1wTnBZLU1KYUxva1hoRERBam9JeWJEd3lkeFRGQUs5TmYyQVNKYVRtX3RPY2tQWXR1aUp5ZlVJQ0thVFcyOTRnQVBJY0F4TC1HWGF4SmFzdHBqanBWM2dPZC1kOW9VQQ?oc=5",
+      "source": "環球生技月刊",
+      "published_at": "2026-09-22T11:49:05+00:00"
+    },
+    {
+      "title": "董事會：泰宗(4169)決議11/17召開115年第一次股東臨時會",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS3ZUaEp5QnE4aFc5VTZjMUdWZDY4cFprWG5NUk52eEhPTjRLeDN3QkpCaW12dkVSNmJYQ0o3ekUtZnFvR0lwei1WbjhBaHFzREdXVTZPNnpDYi1EOUpjTGdiZ3p3SlAzT3IyOF9kS0tvdGE1VmN3RjhYcjc0STJIcGZ4UUY4RkJW?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-22T05:49:00+00:00"
+    },
     {
       "title": "【2026/08月營收公告】泰宗(4169) 八月營收表現亮眼、呈現雙成長，創近2個月以來新高，年增21.8%",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Nb1ZRc0xzY0RSLWVGZHhld19yOFZjcFpiYzc1cHU4UEhGSnVaMUtfTVBPaVFEV2hHZEpGalAyQnVlbjR5TUE3akVJUHd0NDNpN1NrLXFiZDhKeDFCTkNUV2JHRnQyYmc?oc=5",

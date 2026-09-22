@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-21T22:34:52.839399+08:00",
+  "updated_at": "2026-09-22T22:36:39.174328+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4306",
   "name": "炎洲",
-  "count": 2,
+  "count": 5,
   "news": [
+    {
+      "title": "《櫃買市場券商賣超比前30名 3-1》炎洲流(-25.93)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbHl6ZjdXM3o1emN3WnA3dzdHTlpnV0ZzbUdTekNKaXl2NUM2Q09pNGZQb1JhYUZsajY2NU15UlBWeEg5UndYcUd1UklOVU9WRFp0M3FhRFJnbEZEVGNIOUxTaW1KaXdSVEo5bmRQSE1tSlN6eTFza181ZFZKS0JMSFBUVm5vRjNT?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-21T23:31:00+00:00"
+    },
     {
       "title": "個股：炎洲(4306)9/23受邀參加永豐金證券舉辦之法人座談會",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYVlJaEcyMlZtelpLakxOZ2FjcmNXcjBtTVZyMWp1WlZzQjJiOTUweGtodWZRYnE1S1RQckN1N3pXS3BtYW1yWC1yOTlRcGRRVGZ1OVRPRHpHRWVaUW1YZ21KUmEzNkNHeVZvb1JPUFpYbUdnWUw3WXA5d3RpU292aTVQdkJFbFhU?oc=5",
@@ -12,9 +18,21 @@
       "published_at": "2026-09-21T07:15:00+00:00"
     },
     {
+      "title": "【2026/08月營收公告】炎洲(4306) 八月營收月減年增，全年營運續看向上-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWDVaMFVLaWtvWDgxb0xtcWNjN2JHSzU1MlQzWFJJTlc2R0ZjNkNiT21iT05UeWZydVgyLUhVN2NSTkVFVTVKWGVQTDl2ZmdjNV9aVXpSbXlWWkM1OVJ3ZTNSRzg4bW5rR2VWXzRoT3FrN1l0R3VtcmdxWjFWVnFRT2JjcmNTdnNlOHc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】炎洲流通(3171) 八月營收2.19億元，表現亮眼、呈現雙成長，創近2個月以來新高，年增13.47%",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQemdHaVRxdGJkdHY0elZpNEtaV21sS1k5ZmNuZ2Vzak5HbEFkSXhibG83Wmw2UUZkd2J3SFJQVTN6TkdTcWlPLVpEZjNDR1g5dm1mckd5QmJFSnF2Y0k1cUpUSGxTd0dfMUZOOWtEMk9tNGwzWV92RXpDM3EtN1BlZlVMNHQ2dXNYUHc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
       "title": "4306 炎洲 - 前七月稅前1.21。 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOSDhHVFZ0UVAteEhxaFNNd3YyVnBoamRzWjBJNnFoWnBkZkxCVlRsZGpYM3cyUlh0SzV6NWljZlZNRVBxWEpoNjNwRzZWcWtHQUFhaDdYM2g?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]

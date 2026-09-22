@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-21T22:34:51.419242+08:00",
+  "updated_at": "2026-09-22T22:36:37.614070+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4303",
   "name": "信立",
-  "count": 12,
+  "count": 11,
   "news": [
     {
       "title": "信立泰(002294.SZ)擬4.27億元回購子公司信泰醫療6.14%股權 作者 智通財經",
@@ -14,25 +14,13 @@
     {
       "title": "信立(4303) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKYlNfSUJiSE1LeVFoYkFuUmJnSVBFdV96MGNLaEtsanYwQ2dpU0ZDNkctMFFaQVI5TFRyT2hSdTlmODdlSlI1bEt1dG1vNGY0OFBZ?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-17T02:50:09+00:00"
     },
     {
-      "title": "品牌拉貨助攻 永捷、信立8月營收締新猷",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOWlRvZXlZUXRWX21tQVdwVXB5R3dOTjRSWm5reVJya1JBZDVyZ3NISEU1VEVncVQ1Y1FEalZOTnNMb1JjODRVX1BpV0tUT1F1ZTBjclRHWlFNQk5iRWVWSzFaaGZ4V2J2UlpJRVNXZGdhRjNsREpQa0x5YmdncWdJZUFCQWMzMFVYcVBJZWU3M2s1ajdOMmlYczRnbDJpMkVodnJPS2c0Z2Rndk5ZTngwVllvOElTdHFoVTNRY3BZXzBsbGN4X1AydE5VTkQzVjJyOHEyV1UtRFdsYktRMEJGWGJGRUp4YnZnWFVvaGdmaU1XRXhuTWZqUU9nRk5RUFhDdnQyMERudUh4cnJ1WVRnbC00OS1qZ28?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-11T07:00:00+00:00"
-    },
-    {
       "title": "信立8月營收年月雙增創史上同期新高 受惠運動新品拉貨暢旺",
-      "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxOVHdMQ202cHYxZjBxWFhsaTJmdEk5cXpUS1Zlel9IOXBjUGpyRS1uVm9abjlhSzR2OXBVYXdSMUMtMG1vbDF5cVhhX1FaWGVoWXRZU1dzMHprNzc2X1pYM3ZSbTBHUm1iSW9NajRhRE8xV1lubDJnMjB0b1FqcU0yaUltZ3lDaXRDSm9CblUzQndORGRRQldKM2hJZkNha2NDZC1FclFMS2V0NzVGUUZvaEl6VkVtcmZlWjFsZFJLWEhDOUc0a2ZCZUdHNkxOWnJxZnktT05CMTRMS2d4d3JzYXZ6RUNJZWdEUWNxVVBsaXlKMk9la0M5MkNyU1ZBSUhUeWFrUC0teE5FbnJoVDQtMlRxeFprQzV2QWZEYW1YRHBGNXd3cThnMzl6NHhjSlhfX3FscUtkNjN6TDY5RUpVdGFhUjF6Qlg3VGw4RjhER0dmZnR2YklFQVhiZnpvUEtOTUJqOFBIM0VZWjNOSXMxMGVPQTliWXUzaVBSMGRSblV4YmZhdTd3enVRaTNlQ05VaTVxT25B?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-10T07:00:00+00:00"
-    },
-    {
-      "title": "信立營收／8月衝1.48億元 年增52.2％締新猷",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4tODlsQkV5TThLMkJBOGl2bjVKeVAtczBBMGxsTnVNUWszVXhCdW5XNnBJUy0zTEFaR3dGZlNXcDFUSlh2b3pDY0p4NDJiRXlr0gFWQVVfeXFMTl9qNnpIQmNyVlZKbzhTN1I0ZnZHX1kzN3I1ZF9EeUc4SFdieUFnM1Z6RFh1Q0J2YXdXNWpkeDNlR2FWNmtJVXh6cG9UY2FkbGFWLTN2dUE?oc=5",
-      "source": "UDN",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03YWRNa3VNYzZidmw4TkZrWE52NmhfNkJpME5CMWVac1IwSXV6YVEtbGxOcTNKdk5ocWdjTE9qZVFBRm5mbEtFcG1TcGpqTVU?oc=5",
+      "source": "news.cnyes.com",
       "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
@@ -76,6 +64,12 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVHZ6SVZDSzV0cUtpcy1BcEZLSlZCZkwtUGZkSkVGcEVQeURoWVlXZnNFUDl0c1l3d2REdjdoWkZtMDNnRlNnbEkyZFg4a2YyeWo2V1ZmdFl2Q3E2bHJOeGx2WUE0a2ZSOW9tTHlyU3pJUi0wOFFvckJKY0xpb3VkWkk1Q1hOZ0pITEZuVXdR?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-08-27T07:00:00+00:00"
+    },
+    {
+      "title": "【11:51 即時新聞】信立(4303)股價勁揚逾3%，除權息前買盤卡位＋多頭結構延續推升",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNXZ4RXhJSURnaE02M1J2a0NvcDgyc29IVjFnenZJWm1XUXptVXktMWM4LW1xemtYZU9sQk1oMzhqR3F5UVBMYWk2Q29uVGVHTlVVTVhYQktaYzdNU1d1WHctekMwb1NoOFVwenpfTTlEeGVyU0pkWWdQR2ZQQXJIUWZ1QkJJeWwwXzlUYURB?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-08-24T07:00:00+00:00"
     }
   ]
 }
