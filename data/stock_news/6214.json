@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-22T03:34:16.007486+08:00",
+  "updated_at": "2026-09-23T03:32:23.010680+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6214",
   "name": "精誠",
   "count": 12,
   "news": [
+    {
+      "title": "台灣大併購精誠、布局3大千億事業體！總座林之晨：未來3～5年是企業AI升級的主升段",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE05TVRZS0JYME9xWDU4YXg4blpGUTdETVhZcDRBQUExVGxMdkwxa09QQTdiaTUzNnlEODBWNjd0XzBDVnJ1VDV5YWd0NDZjcVpoX2hSUlVabm5LbkRSRy1CNk9YcThXeGViWTBybDN3bGpKbVdDTG8tOXFGaw?oc=5",
+      "source": "財訊",
+      "published_at": "2026-09-22T10:03:27+00:00"
+    },
+    {
+      "title": "精誠(6214) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56WHFJaWNtOXg1eDJSQ2pRZzUwZ0xrWm8tWDdyajdILW5pT2NBNXh0ZTBmREU5N0xGZU9DZHBQOUlXN0ZZRWRwSUtEQ0d1aDBpaGxB?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T09:14:39+00:00"
+    },
     {
       "title": "台灣大收購精誠倒數10個交易日 溢價幅度2.87％",
       "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOcU5GVU1qMl9YQzR1YlBKcVh3OVBrOHo0ZGhEdWw5RUwyaHlpVHhia2xFQm1VTkZhVkplcG1XY29tMVpmb3YyQm9FTG1WZ2VRYTl4aEg3c05kX2xzWUh6cmU1WGlENExOVzkxSW9XWVAySV9FVVVOdktVYmw4U1AzckZBZkhOY3JHdlloUXdGZjhWTEVqdHZkZVcxak9zMUh2a1JLbHZndzY2NHAwWkFiakRIYllROWx0OTM4N0dLa2pGTWdwYUVrS1pXMTJydVVmbHJpQXdWUUF5YXNqejZBSU9rd0g5Q3h6ZkhUM1RhVkxHQTlsRGp3R18tOVlzZzNMNmlERnZQNnJabkUzblNBalFpckhqN0YwaXBTQVFucS1uVWw4MUlnNA?oc=5",
@@ -18,21 +30,21 @@
       "published_at": "2026-09-18T06:46:00+00:00"
     },
     {
-      "title": "個股：精誠AI第三條成長曲線啟動！在手訂單突破600億挹注未來2～3年營運成長",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ONlFtOWlwVWloRFRSRDdzRk1iOGZHanJRSHVhRGhwZEVoN21xbFQwdENxcHJEcnhIRWVWMEhPaWx4ZmoyT3d6X2I0OTJReXNFUjBSY19B?oc=5",
-      "source": "fnc.ebc.net.tw",
-      "published_at": "2026-09-18T05:06:00+00:00"
-    },
-    {
       "title": "精誠瞄準AI成為新成長曲線，布局未來十年成長",
       "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNeldoOTFaMjVuOG5aTm42UlQyZWxsYjRxbjZBUi04cVlCT2F6NTRtQ201VU5PQWt4UWM4dkRDZmZBbXhuNlV0aXJ0UHRNSElkVUZzdHZNRVhqRGt4cXRzVzl1dXdIcWZVSmduQVlLX3A1X0o3WXNDSXhDSHYzSEtjaWJJWU1fb0JkdllvT0dwLW9HcFJTY2dWZVM0TTlwQmppTHJrSGJsOEJHcDF5ODFmY2MxWlBHSkRyQUdVN2w1M1NfaXdOcnpVT1J6R3dSQS1SM0RHY0hTMThqWnNULUg1Y0hqYnFVZkZtclhXT0ltUUJMbHI0QlNKVGxqNUZ2VVZZTUVwUVhleGJ5YmxiTUpIQjNvX0NCQUMybzVKU3NkVGZ0SWJtbGpSTldwekh6UVRYd1NMV0VJWkwxZE1rOVZQUTQyNA?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-18T04:11:45+00:00"
     },
     {
+      "title": "個股：精誠AI第三條成長曲線啟動！在手訂單突破600億挹注未來2～3年營運成長",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY3RwNXdpZHhzazNycHVjQ3lWc1I5NVZaRkNxUFBoSHZkbjVBSWxUdWo3SlhqUkx2ZmxZQzQyTlhQWUdmU2luOWdaaURCSHNBdko4V1duMTROakxNZTZoS19lMXNnNjB5ZjVReDBoUjZhVm8zY1RTbFE4bWd5RTR6eXV5Y242YVll?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-18T03:35:00+00:00"
+    },
+    {
       "title": "(6214)精誠法說會 2026/09、精誠財報、精誠展望、精誠財報投資亮點｜理柴知道:法說最速報! - 方格子",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11VUxrUS1VSFllZGowbHNUZTFRc092cW1mZU0yb191WldtRXdyY0xtYlJlbnhSZDU3N2E2ZFE2a0lWNEtwRmZSbDRKTU9nNEs2b2dFNnk1dUhNNENLNUHSAWNBVV95cUxPOGx6RE5KYTBhNTE3b2Z0MHRKTklrcjRsSlNzZDhTcmZVX0IwSmhTdWdaaHYyMDg0ejIzd0tzRnRIMnJieHBvZC1fa21OSkVfQ1hwbGRiSjd3S1RTLUtBVTZZbUE?oc=5",
-      "source": "vocus",
+      "source": "vocus.cc",
       "published_at": "2026-09-17T14:46:12+00:00"
     },
     {
@@ -40,6 +52,12 @@
       "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPUnZabXVPSWNTZXBMNXNCUzR1UURnWGdxR3ZvSGpnYlVpdVNaREdrbS1VYS1uUkNrWFlQVktWR044NE9pWXRBWnFFYm5zd2VPWk56TjVPWkxZZXlFZVJiMXBwTVZ6eHRnRU5rODJ2YUJNVW1uVG4wcC1PcElFS1dTVWxaVk5BTkcySnZ0dTNvZnVTR3NPQTdQYWM3QWRFdWl6a1lLRmdXSmFQdnA4dUJ4RnU1OTI2TVRiVkhOMHNmZ3otYmF1VnltOEdYNXBNSXlvTUZJT2dmSkJqd0NYZTM1MEptcVJnY1dwVUpieG5VVUxDWUtWZGZ1OE52UzNKcmVxbW5nRWc1a084dXRmczQxUktidHRQM1JCNjd3b2JjbmUwU1o2dlJOZzFqZU1lVF9UNzhTWFlybkhGR3NfZDZWVHRZdl9EQnpqczQ4WlFsMA?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-17T10:30:43+00:00"
+    },
+    {
+      "title": "台灣大公開收購精誠 公平會正式受理！依法須在30天內做出准駁",
+      "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxPWFZtOFpiQ2tlVzBpZklBaVpoTmJEckFLSTBKLWs2eDl0ZWlPZ0dDYjFKOU1TRkd0M1BDdU1jVmVPUVlnY2FJY2tfNGdfaFEyeHF0VFAta2xKd3JmQXVZbmR5UG5rMDM3TFhIZDRyNXBidHllMXA3SE5TUDFxSkdXeExTV0VPOWtNTXVSLURSc3RiOVF4RjAzdFNDMXU3UXBLdGZGTUVFbnVFUXRxWmUwczhTSTNYLUlCcmtjb2FldDJyeXRaQmpvcGZyMDZtM2NmMXkyWDkwSmI3VjE4UllHNHRfX2djb21ub0o3cGVzQldNUUtDZmxoekp5cGFYcU5ieEpuSDd0LTFvanprYjVadWxUSW9wX19oak9vM1dqSmxMZFdQMTV3NjZyNUJjOFUwc2xUOGI3Y19hZ0RTUHVXNlE1clh4dl9wVFNhV2xMZkh0WWNOeWxuckRQMzU3OEFMdVBldzdUNF9aeGFEdGtfeU83QWhJT2JYQzhMVWVSSFpKSEhOSFlkbEdoTkJlaDhO?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-17T10:25:35+00:00"
     },
     {
       "title": "台灣大旗下台信電訊公開收購精誠資訊 公平會正式受理審查程序依法推進 維持多元競爭、推動產業升級",
@@ -50,31 +68,13 @@
     {
       "title": "《通網股》3外資看台灣大收購精誠：補強ICT最快路徑、目標價看130元",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CcGVLYzMtemF4RGluaDRrLXRnYkVhWVUwRTFZTktzVlQwcWYzSHRFUGttUExMZE1Pd1Zhb1VCQXBSc0JZbHpKQXJoN1IxMWluZzdMQm9KQmJ6RGZEcjJnd09zWDZYVDhHZHc?oc=5",
-      "source": "wantrich.chinatimes.com",
+      "source": "旺得富理財網",
       "published_at": "2026-09-16T00:54:55+00:00"
     },
     {
       "title": "台灣大林之晨：若成功完成精誠公開收購 明年營收挑戰電信一哥",
       "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxOS1J3NlpWdmd6RVdyeVR0Y0FmYWd0M0N1ZHdHRXB6eGxxMGhyOEpKc28yUTB3MWxJTjJOVGZCMkg2Nnh2M01MSmxKS2Yta3FTSUNGMVdVQ1pkcXpPekQ4cV9LU2ZFU2pXNHF4SlpMYlAtRWNxZTRmQmgtV0dMVk1DWFpzTzcyX1ZQLWFTYXBUZUxxcThETnM2ZFFXWG5INnNia3FYM3RCTk1wbnhlWFEtd1M0ZlVqWDA5Sk5OLWFXYWYyY3B3X3VhcTBUa0YzWmNweVlpSW9vTTQ3anphZnlhRXREUjg5eC1fOW01aVJtOFdlemFLRHowV192WXl5cElxdXl2cU5NdElOQm0zMWYtWUp1dDM4NGd2NThZYTJqME50eThEczRBSUNVcDBrelM2Zm5iYzl6MGp0ajNpdFhBQ3hVVUJ3YnpMcFR5UEFCRHFMaWpqSl9aeDllNjF4enVQeVY4eXhGZ29DTWF2aEtEalZvX195QzRMOUd3MDc0UXZ1OFczU1ZhT3FxUVFuWkU0VGFHMklmUQ?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "台灣大上調財測再拚精誠入袋 精誠董座5字悠悠回應",
-      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPNmpaU0pLd3J4UkNGWTNRbUN3QlFJVUI4b296YmhyXzRxdnZaV3A5Rk4zNFFoU2VYLXdNRW5qU2lFc1ZwcjU1VE1sVTZ5eXJZVkJyUDZnc2paMWlIVkdtN3NKVlZxWnJ5NDdLWUljN0pKZHNTR3Z6Z1dkM1ctVFpidW9JYTQtVGhFbHc0M1lmQkdhdnJGZlZRbnEtdEpVMHBuX0t4U0pKVUc4cEJnXzhUblQxQUdNbWNUbUxyOG85dUVldFhBc2F4R0hRNUhwS3NCUkxiZmNsZnJyX282SVFGekw4dVZvVDNwWkNCM2RMQTVaLW9EdFEtNjNGRzFEY19maXdXTkJzOEdJZDdEZW93QWVMTnVLRTlqdkdJYW1ZcGF5V0RzSHNpcHBNTmc1MUQxV001VVA4cm8zZ3NqOHR6d0pxcDZLSDZheTlXQkNKdXVSNnd4MkVUNVBkYkVrdw?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "台灣大收購精誠需要公平會點頭！ 林之晨：這是一個「長期」課題",
-      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOVkotNWc3aEE1VEVNV29FWDJjOTh3OUk3OUJMUlRMMi1TWlZPdUVMN1duY2UzcGcyNVlya2p0Q1lVamhJZHkwbm1BSVBLLVFaRkktVW4zaU5vaFRsM1hUQjNpLUxnX3loV2l4M2N0LUJFeDVIMFBTVmlFM1hGS21pdy0xY0xFQzUyR2JEZ0lXM2JOQXdya3ZyMVpJdFVFSjNEckVHRW4wVVVBeUttdko5a0FOYnBzN0M5TmpyNUcyNEtmVnQ2VWZVa0N4LVZmRnUxMWtVZm5nTEd3c1V2UnVqZExvbThJRG9kSmtYMkVVcFZYb051WkIzdlQ3cjNxM205N0xfZHpQVWlhNGZYSjhicnhENnZwN28zam9KUkhwNDhXVXNENFBZX2tLc3hRNGJvcXJCUWtKVDVNd0xjWE5vZ3N6ekdSTGEyaTItd1NzYU1rTzFFODJCekRJSHhHWmRp?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "台灣大併精誠完成後 營收超車中華電",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQQTJVX2pmZ2Y3YXhKV3ktVG94MGFULVluSjdYMWxzNThwYnNOUTVXa3V3dG1hWjVQTzYxYllrNkVGMjlxTTVDLWFyQjZLZWVUV2hJbWxsalR0OVFhLWxUVHVQTHlBNEFHRU5wUlhST2IwdjNQdWQ4OHRNb013WThheVJnOE1nNEV1Umh2SjlpZWtQNzNPemppWnBYMS13NFhjRFBTRDZJX2Qzb3lrbTdRODI0aTd5T1BkOHk4MWN0QjhJWnZFaTg1TXk0TUpkUmR0al9CeW9IVXVOYU9PbG8zTDZ3N211cy1CNHA0LTZYWXJfQWUyYUx1QzVVaEpKNV9XQXRHY1VQNjJMcERPMTlMV1c4aU4?oc=5",
-      "source": "Yahoo新聞",
       "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]

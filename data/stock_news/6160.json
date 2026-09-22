@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-22T02:37:24.841343+08:00",
+  "updated_at": "2026-09-23T03:32:00.028361+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6160",
   "name": "欣技",
-  "count": 9,
+  "count": 12,
   "news": [
+    {
+      "title": "4.8萬股東看過來！欣技股東臨時會紀念品送「這個」明為最後上車日",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aOTVuSnV2ZkhTMlFpd1pKbEVCTzlIeHJSUWJESlliMndtTWZVdTBOeDJOb3p4ZWE5RmJzY3o3cUtwZDlIS3YzSFdZNFZBVlBJTUw5RlAtOFRxWmphcXIw0gFkQVVfeXFMT256UE40U21YY3dnMEU4UWtvLVNKRHpDby1EeUk4Xzg5RGpLd2NYc2tKenhHMjc5Z0VWNXFZQ285alV1QmdxWjcycGU3cHJOVHhuUUgwdmYwUUl2ajAyX2ZBUTk1SA?oc=5",
+      "source": "自由財經",
+      "published_at": "2026-09-22T05:00:53+00:00"
+    },
+    {
+      "title": "CipherLab Co., Ltd.的股東人數 – TPEX:6160",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSUh3cHNtdDhRS2g5WmNxQWRheGh1VFRDdWRha1RUUURMaHVKSlpGdGFRenBmbUhZaVY2RExVNjR3bWxneFczUXJqby1qVnJLTjQxN1pQVDNCdU1yM2JUZXE2RTBwZE9UOXNINHFnT0pUOGhyZm41aVBsYkYyR1NvU1Byank2Qld0UlNIVjJpVTF5WHNDcnk2amQwRlVwRDZ6T1ZB?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-20T06:38:08+00:00"
+    },
     {
       "title": "欣技 8 月營收 0.53 億元：單月降幅大於累計降幅",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9WeTF3VGxfTHJ0Z0VfZUdrdWhMazQ3b293Sm1lYXMwR2w4YXJWc3FQNy0yak9lX2w3VDF3ZC02XzlvbDUtVDl1Mg?oc=5",
@@ -15,7 +27,19 @@
       "title": "【09/13現金增資公告】欣技(6160) 將進行現金增資1.1億元-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSDZiN0l6MVJaZUF0YmRsVnlnSjNEcEx3akpaNVhILXRTcDhZRGRsUzdvM2NabGtLbTVIc1NmS1JyMzdjanBILTNNbVV6VXZZM3Y1SmNYc3h5aFY0N2QyYjZuTzhZZGpLZ3V5RUNJZFphanQtZ29UcEhySnQtbTczeXlEUjFqb0xTS0E?oc=5",
       "source": "CMoney投資網誌",
-      "published_at": "2026-09-12T23:10:08+00:00"
+      "published_at": "2026-09-13T07:00:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】欣技(6160) 八月營收營收雙減，創歷史新低，年減39.83％",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoVFluNUtwRXB3RjZQLURQek5RY1dkcHh0b19iV3pLaThhN3RUVnJ1cGxCVzNqNzBjWWNkaGktLVdZcmF1c29HZ0tlY2ZIZFpwQWs2MXJHVE5xTFRJUVVDX0ZGbXo5ZGM?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-10T09:40:04+00:00"
+    },
+    {
+      "title": "《業績-電週邊》欣技8月營收為0.53億元，年減39.83%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbFJFUGhldzd4YWlZN2ZFRVlsUmgtellhLTM0MVktUXhJTGpuUnlCa19ScVJNMVVLVWNtTWt6SVRENk44TDVqRTNub3VTVU9VWlhKQnl0cHMyOWFDN1JfdENzRXVKZ0puWlJCR1Z4WjJPZEpqZEU1Y19LVS13cE9WVFdsbG45MWRI?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-10T08:53:00+00:00"
     },
     {
       "title": "董事會：欣技(6160)決議10/29召開115年股東臨時會",
@@ -50,13 +74,7 @@
     {
       "title": "欣技推新品 營運添動能",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3ZUIzMzl1LW9oVTR2Q0Rya0k0dDh2STB4Q0d6VDEwZ0dYcGtaWkhiOEhQTjZiNmduUngzb0FtV3o3UWFmekRtWjVMdmRtdjVT0gFWQVVfeXFMTkhYQ3ZwT1RMVm8ydmZwc0JhT3JNa3ptUlZEZld3dWQ3SDl6dkZ2ZTIxQXJET2pPbDZsUFB0aXZ4bFlYby1zckszUkNRSWFtTXlnMzZyUkE?oc=5",
-      "source": "UDN",
-      "published_at": "2026-08-24T07:00:00+00:00"
-    },
-    {
-      "title": "欣技資訊 AI、軟體服務與新品三引擎啟動",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuY3FLX19DWlZGeGZLOTB0RExRS1pjQ3ItT2NINkV6V05sMFhGZ0E5RGtVME95X1BoUDJUMTFNNlNJaXZ0ZE9icldKd1RsUUp6V2RGel9SS3VkUdIBX0FVX3lxTE81UzNaWVIwOElabkxidWMzTWRGZjBUOUtwLUxpWUlCZjc3aVZkYzhqWTB1MGhQX3JxM2pEeHBwdGVsYndUc0d5RDA3NGRQb05FMmRSaW5ORmh3eXNsLV80?oc=5",
-      "source": "經濟日報",
+      "source": "udn",
       "published_at": "2026-08-24T07:00:00+00:00"
     }
   ]

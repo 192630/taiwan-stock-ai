@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-22T02:37:17.471882+08:00",
+  "updated_at": "2026-09-23T03:31:52.905119+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6141",
   "name": "柏承",
-  "count": 7,
+  "count": 9,
   "news": [
+    {
+      "title": "【11:40 即時新聞】柏承(6141)股價走強，重訊記者會成盤中焦點",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX0tzV2lVR2JROElLYW9HblVGWk4yU285aEkzcGUxZjhKVjdDWGZlOUROOWphTGc2OWJIRUdJRzVYLXVXMWdVbUFySV80dVctSDd2MlM2TFV6MGRoSkx3WGVwM0JZektNeG5PN05zUDRBbTdQOHZBODB2N3lENU8tanhwQWpxRktyYndaZUp3?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-22T03:41:54+00:00"
+    },
     {
       "title": "討論牆 | 盤中速報 - 柏承(6141)股價拉至漲停，漲停價50.4元，成交4,109張",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96TGUzaUVBU09aWHJ0dFpZMElzQlpEZ29HVVc4bUhkZFlEODQtZ2ZFUWxQRC1xN0tNYmNzOTBNeUZ1a2xvYWlXZTkwX2p4R3BiY1pvbXRkSDFtWWRNenV6R0lHQ1Y?oc=5",
       "source": "LINE TODAY",
       "published_at": "2026-09-20T05:02:15+00:00"
+    },
+    {
+      "title": "6141 柏承- 又上又下又上又下- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02OUxRQ1dKYWk5cEg0TkJXR253ZmpDMkozcmt6TTJrMzdxWjdsMGxxY2JpdVVfWWx5ejh4a2YyeEZXT0MxVUp4bFRjUkRieXdVME1JLXFHTjI?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-15T05:46:10+00:00"
     },
     {
       "title": "【09:45 即時新聞】柏承(6141)股價勁揚逾6%，重訊記者會題材發酵＋短線買盤回補推升技術反彈",
@@ -20,7 +32,7 @@
     {
       "title": "盤中速報 - 柏承(6141)股價拉至漲停，漲停價55.5元，成交2,503張",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZZ3J3NFN0NENWREthU1l1VG43SnFTQlBMekVmajdQWXhsTl9nOEc3Y3p1SXF1MS0tbUwzR2toZ3BzXzFLdFQyN3FUWDFZdExkMnVva1FWQVlad3R6SFVBbGdvRmloUQ?oc=5",
-      "source": "TradingView",
+      "source": "tradingview.com",
       "published_at": "2026-09-10T01:54:00+00:00"
     },
     {

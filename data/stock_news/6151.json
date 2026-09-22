@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-22T02:37:21.490658+08:00",
+  "updated_at": "2026-09-23T03:31:56.702045+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6151",
   "name": "晉倫",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【2026/08月營收公告】晉倫(6151) 八月營收1.56億元，表現亮眼、呈現雙成長，創近2個月以來新高，年增18.59%",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmxSMmZrMHJnVjl1eHF3UzVrQ04yeUg3V29YbWJGOV9PRXEtQWNFN0tTVW9HbktuOEM3NVV6ZC0tQU1NNGtKTlVfRGxzeTBGVnhPU2kyb0hlWHNBd0FLU01JR2lhWXRnaXZLTE1lNW9nWTNJZll1clppRXNBT1NxMUc5cFh0dXBqYUE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    }
+  ]
 }

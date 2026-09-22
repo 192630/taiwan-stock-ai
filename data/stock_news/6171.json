@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-22T02:37:29.606066+08:00",
+  "updated_at": "2026-09-23T03:32:04.808083+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6171",
   "name": "大城地產",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "大城地產 公告本公司台中市北屯區仁平段541、542地號住宅新建工程承攬契約追加案",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4VzRSZE95UE5XWHU0YW10ZWZYTk83aUFET2dxbUVmQnhOaWtNd2kyYjJSWGtzUkxIMXVHOUlSbWNyR00xNlQ1UFJ5WEtqNVdLWm1GbTZLaWg?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-18T03:57:00+00:00"
+    }
+  ]
 }

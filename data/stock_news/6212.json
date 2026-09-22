@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-22T03:34:14.801420+08:00",
+  "updated_at": "2026-09-23T03:32:21.924800+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6212",
   "name": "理銘",
-  "count": 1,
+  "count": 2,
   "news": [
+    {
+      "title": "個股：理銘(6212)9/22受邀參加台新證券舉辦之線上法人說明會",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeWZKSFJkM2FvaFpaOVVmMy01Y1A3enBCelRqUXo2OERmQlFvNHZDcjhBLUhzYUlqVGdXdG9rLTc5Rk5VZHJlQzZhNXF0NzktWDYxRlpHVE5FV1FmSF9rZlozZVVXWDRZZ1RCZzdHdGIyY2xxendGbjZRcTZpaFFHWXI5d3dCVUZX?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-21T05:50:00+00:00"
+    },
     {
       "title": "【2026/08月營收公告】理銘(6212) 八月營收營收月減年增，全年營運續看向上",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZNWdVTmxnczd6Q2l3WXVIVGJZUkN1WkUtV3JnVEkwMnh1NVZBc2U2VHdzdnkxdElIOGFYSEtMZDdvM0E3WTBpeTlPNnVxLWhzLU9TZV9rdEtwY2hacUhiLVN4LUNDeGs?oc=5",

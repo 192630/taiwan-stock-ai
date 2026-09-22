@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-22T03:34:10.473948+08:00",
+  "updated_at": "2026-09-23T03:32:18.019592+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6203",
   "name": "海韻電",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【2026/08月營收公告】海韻電(6203) 八月營收1.59億元，創近4個月以來新高，月增6.2％",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2TjV3YWpicjRYWUpac3NvN1p2YUtISjZYN3ctcTVUNlFsX1RDWlpra2lwMmNxUUY2eElmcm9oMmlGaUVLRTBaV1JJMENidHFNSkhHSmFsT1lCZnBQRVprN0U4Zktpajg?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-10T07:00:00+00:00"
+    }
+  ]
 }

@@ -1,15 +1,33 @@
 {
-  "updated_at": "2026-09-22T02:37:16.941224+08:00",
+  "updated_at": "2026-09-23T03:31:52.404594+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6140",
   "name": "訊達",
-  "count": 4,
+  "count": 7,
   "news": [
+    {
+      "title": "前鼎上月 EPS 0.24元 訊達-0.1元",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zZXRhb29Vamd3QjhERFJYNk1yZ25vQnBYZm1fcGQ4bE9YQ2ZYRnYzNGJGTS01YTRzbzZabVVMNDdfbXlsc0NhWmxhRFV3QXlLUHFfWjFlT1JyUdIBX0FVX3lxTE1ScUdqRTJ3N20zS0xXOE5zeklHdC1sdXoxWFJ3cHZKd0dVc1IzcG13QllsSlo5cl94Rk5OV3ZDSmZWT2NyaHZYM2ducHVRdWEtR0stWnBQTGs4N1Jfdndv?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-22T16:33:22+00:00"
+    },
+    {
+      "title": "訊達獲利／8月自結虧損525萬元 EPS -0.1元",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE15LWU0OFl3dkRWaW1SVkd4bFVjNXAwSzNHQW1SQmJCcEpLemJpNWhMa0l1Y1VEYTFVYV9IWkxKNEswS21vc2NiN2NNYXVRRnBx0gFWQVVfeXFMTUNEWXp4Q3BTYnFGMnNQZkkwZ1otazdIMDJpTWtjRFNQcklDX1hLcjVDYmdSel9EYTE5T0FiNEpWRzU4WWRkR3haSk9COEJYc3JBLUhtY0E?oc=5",
+      "source": "udn",
+      "published_at": "2026-09-22T09:10:14+00:00"
+    },
     {
       "title": "投資人保護中心延長受理訊達、國產內線交易案求償登記| 財經焦點",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZRWM2YjhUaVpGZjRuZlA5SXJBQUpHQjZwRERocmFjUm02OWZGWk5TRDVpOTJzQ1I5cFI5emRZZFp1YlJnaWh2N2xIdldid0xvcW9IeEZJR0tHNFlr?oc=5",
       "source": "太報 TaiSounds",
       "published_at": "2026-09-21T08:49:02+00:00"
+    },
+    {
+      "title": "6140 訊達- 哈哈 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RQTd5WGdBY2R4V18tRDVjR0pwLTN1dWtFdGI0WUdSWmRRWDZNc0FITXJHbnBlYjZ6RURHUjctcUVfUWpLS3dJbHRuM1RaVEluUXprclhhTG4?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T04:56:01+00:00"
     },
     {
       "title": "【11:06 即時新聞】訊達(6140)勁揚近一成，資訊服務族群買盤升溫",
@@ -27,7 +45,7 @@
       "title": "資服發威驊宏資、華經、訊達再飆漲停！電子股台灣精材、天鉞電、光鼎齊亮燈 台達電噴5%撐盤",
       "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxOYUJtZ0pscDdaODBJN1RoVjhyRmg5ZGdOeVU1Tmc3dnQtQ3d1dFd2V21Ba0N5cFpYbGZCeGxWbUE3SnduQ2UwNUd1XzFUcXdydEduT2JQaGp2dUtIY05JQk5lZFAtNDVGRTNnUEwtbmpKcWhocFRKNzhIZm90dVVEbVdjSnNsQjRBLU03V212b2FTODhxWE5vSmRfY0huTC1OcmtSRUpPZUpLTFVuQ294d1R2MlBvYUxsZVZEQ20xaEZNMmxwenY1RUppUE1LRUhKRTJpRnluMVk5SWhJQlhMUUVjNEk5d2ZQb05iMExVMW44TGVvMm9LVDdpVnBmaGNiVlJaMk1mQVNTbmtZaXFFa0JtbHBVZmdQMjRRU2F5eXVIdXlDRkVueWIzSTBDczdKcTBhdU5fRy0xVVBSaXNWSEFXdW4wZ2dUQzNzUnZKdWpISTR4RGZyUUQyZU80b28wSXBWMnkyREN5TVpUd0IzS0VxNXQ5U2xlamRPRTNYbWRyQldpMU10Y1V4eWc?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-09-15T02:13:20+00:00"
+      "published_at": "2026-09-14T07:00:00+00:00"
     }
   ]
 }
