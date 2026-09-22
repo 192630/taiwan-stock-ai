@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-22T04:33:09.626520+08:00",
+  "updated_at": "2026-09-23T05:33:27.984639+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6582",
   "name": "申豐",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【2026/08月營收公告】申豐(6582) 八月營收表現亮眼、呈現雙成長，創近3個月以來新高，年增6.74%",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeDVqTmp0OW45RXpsSzA2SU9ESmxPbG5TcVdwV0ZoakpmQlQ3Q0ZnUEJjYmZsOTZVUm5YMmNicFh3akJhQS1nUlNaUmRHUWFVWDlvSldfOHFRTjI5aHd4WHBOazVJRm4wSjZsOE9sT21IdVpNdGd6WjJxcUtPdDZYZ09OM0NSWDVRM0E?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    }
+  ]
 }

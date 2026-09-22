@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-09-22T04:32:44.750270+08:00",
+  "updated_at": "2026-09-23T05:32:59.691687+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6465",
   "name": "威潤",
-  "count": 1,
-  "news": [
-    {
-      "title": "【2026/08月營收公告】威潤(6465) 八月營收年增128.67%-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbmR5d2FoUkJjRm9fNVREb1dabXNUMFM5SDRpZk9vVFF4bUNRcmYtandWTlB3NFRkRVJCTjlzRUE3MlZFYVRjZ01iVE9iOVp0WFFfSVpJS3FSeklwdm42TnFKRWlZb0ZVaFIzSjRSbXVVaVBmRFhjeVM3dVhPQV9NVElULUNmejZzdWc?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-08T07:00:00+00:00"
-    }
-  ]
+  "count": 0,
+  "news": []
 }

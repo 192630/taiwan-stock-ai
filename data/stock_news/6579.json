@@ -1,27 +1,21 @@
 {
-  "updated_at": "2026-09-22T04:33:08.779817+08:00",
+  "updated_at": "2026-09-23T05:33:27.083694+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6579",
   "name": "研揚",
-  "count": 7,
+  "count": 6,
   "news": [
     {
       "title": "焦點股》研揚：基本面助攻 漲停攻高",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95VlVlYkFzQUVIa0JTNG5tb1V2Y05NQmlpSGNyRnFDNGp4b2UwVmxoaS16MGNnM3otbE1uWWxkYmNPOWF1bm1tdk5SZTM4M2JScWZ3bkxzTlU?oc=5",
       "source": "自由時報",
-      "published_at": "2026-09-20T14:53:05+00:00"
+      "published_at": "2026-09-21T18:36:31+00:00"
     },
     {
       "title": "AAEON Technology Inc.收入明細 – TWSE:6579",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1pUlpLSnlBWUpnal9SSkpmODJySGN2UVZ4RW9ES3A2eTdUNE9GMGViWlRBUU9NdlUwYm1VVWdEWWpIZnQwc1I4X05tNHV3bVhaTzhtanhiZmo2bk95UTQ3X1Axc181Z2dYaDRoempMQnRlQWs?oc=5",
       "source": "TradingView",
       "published_at": "2026-09-15T18:53:50+00:00"
-    },
-    {
-      "title": "研揚(6579) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tTTU1Y2EwZ1BGRlpsMXZ2N05oVnlJc0ZZUW5KMEhxWWRuLTN4cE14cUZoYi0zRXdBeTZFM0JUelNKeGVpN3FNLXpIV1psNWJQbXhz?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-14T03:46:09+00:00"
     },
     {
       "title": "研揚亮相高通SMARC模組新品 攻邊緣AI應用商機",
@@ -43,9 +37,9 @@
     },
     {
       "title": "【2026/08月營收公告】研揚(6579) 八月營收9.85億元，表現亮眼、呈現雙成長，創近2個月以來新高，年增26.58%",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZVJGMnZaV196Wk9MclVJLVpWamx1WFZ5YTNsbUxhbnhQUDlsbEdWSlhxZ1BNUE5WT1VFMFRRTEozUDJUcXdJdHJrTU9zblpaUWZ4Y3JjWEU4ZmxnOEFDbEE1QXZrbnZLLVR2M0c5TF9GdkpadWFmR2dIS3Q1b29qMkI1S1ZWSjJqQVE?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-06T07:00:00+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WcGlFd2JHbGRweHJtTXZKM05nenJSOEQ2SmdJNVktNTZoWEt5Yndoem1vNl8tX0U3a2dvTWFhbll0RGttbVhKS1pjYWMycGZNWk5kenEtY0ZVRVcyYktSNUcxT0ZNQVk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-06T07:10:03+00:00"
     }
   ]
 }

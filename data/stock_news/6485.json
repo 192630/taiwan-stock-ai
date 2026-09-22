@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-22T04:32:47.832652+08:00",
+  "updated_at": "2026-09-23T05:33:03.127567+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6485",
   "name": "點序",
-  "count": 2,
+  "count": 3,
   "news": [
+    {
+      "title": "點序(6485) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQU0Z4YnJUWlI1RU1JMWhoN3ZxRGN4eHd2Ykx4MTJ4RUFIRVNqOFFFWTJvd1owOWhZNE9XZFNiQk1NcEhITzRjQUUyZldYbTJwLWtv?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T05:13:40+00:00"
+    },
     {
       "title": "【09:56 即時新聞】點序(6485)亮燈漲停，量能放大成盤中焦點",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd1pmVVktQzFmbF9pQ1lMVjNCSDdFWmpfbWdrN3pjRnBRUENJRDJUUEVVdEs5bnV1Y0NMaW5Tb3ZBTlV6Sk9ZZ29YbEMySllBZlhfOUtJN2x1eHJGOXhpV04zYUxyeUhwZ2FKenZ3TTUybWROMHczVHA5NFJ1cjd2VTQ5dDRfSzNjdGNkNERR?oc=5",

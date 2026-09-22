@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-22T04:33:07.462958+08:00",
+  "updated_at": "2026-09-23T05:33:25.662576+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6576",
   "name": "逸達",
-  "count": 4,
+  "count": 6,
   "news": [
+    {
+      "title": "6576 逸達- 公司債有人大買，現股卻有人大賣- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOWW9rNEEyVkQ2Rm4tTUlkSmVGNWVJNTVMcjZBZVEyYmxSVkdab0thV002MGg5MTdjMU4xazVwa1ZEdGRNNTZxQ2JaMm0xRWxzQ0lOUWZLRF8?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-18T07:49:39+00:00"
+    },
     {
       "title": "6576 逸達- [新聞] 味全龍挨轟後連丟2顆觸身球！統一獅布雷克也不爽場邊比一- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9panJvME5XWDduM0EwSzc3UUFSS3VZX0NiWWJRRUdzRVZpRGR3SmpkVU9rM1F0MkQyeElmcnE4TVdfYXhLUmRwdEZUZ29NdXhSZnlZQXFqd2c?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-13T15:49:12+00:00"
+    },
+    {
+      "title": "《櫃買市場券商買超比前30名 3-1》智晶(46.35)、逸達(21.75)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQTkxejd0cTBzMnQ5eU5tRVpVUjhSclliTVV0SlZSR0xUZHd4OUNKSDAwM2dqMUlmZEZUdTVsN213OGs0MFY4WnRQeWcwTHRvdDBySlFESnRiU0lrcGdkQkpqejZvRWk0Nl9hVWljX0FCaDZuQ0xGZnpNNUw1QzJGY0xxeGlnRXN5?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
       "title": "逸達前8月營收3.19億元年減逾1成 CAMCEVI三個月劑型下半年陸續於歐美開賣",

@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-22T04:32:53.613949+08:00",
+  "updated_at": "2026-09-23T05:33:09.606572+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6509",
   "name": "聚和",
-  "count": 7,
+  "count": 5,
   "news": [
     {
       "title": "6509 聚和- 說話要負責！ - 股市爆料同學會",
@@ -30,22 +30,10 @@
       "published_at": "2026-09-15T04:50:53+00:00"
     },
     {
-      "title": "6509 聚和- 想想那些買金雨的人- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXQWlTSzhIMThLcTlqZjZnRmFyTTB1Wm1pR2NvS1VHcm5QNmRaWVh3NFlwdkdnQjBoNTE1Y0tYYllNSkxFRVVIR1FCTkhXY01MMEo4S2ZSNHI?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-12T08:03:48+00:00"
-    },
-    {
       "title": "6509 聚和 - 平均月營收: Q1 4.6億 EPS 1.19 Q2 4.4... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLY1ZWX1NxcFhjWXNGVjhGRFk2cTVFMHhxMkZVTkNRMVhINWhKTjlBMW1uSXRPWjZjTF8ycnpxa1FhSEs0UHBEWWktQzZjNHFxdlNTalBXMnk?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-10T07:35:36+00:00"
-    },
-    {
-      "title": "聚和國票61購02(710874)即時走勢 權證資料查詢 | 權證 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56V29HOTRnSGtrS3B3U3RGZ0hvX2NFXzhOMjN4Si1Ra0JtQS1oRmJITmZUVDFWM0NOcHNMRzFpOElCMFUzN3NIRXpqd3JvSWF6ZXp4LWpkRjhLdkpSY2haSTVFWGZhVEdlSlZXVXY5ZmE?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-23T03:53:38+00:00"
     }
   ]
 }
