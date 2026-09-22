@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-21T16:35:31.094881+08:00",
+  "updated_at": "2026-09-22T17:33:40.278690+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2596",
   "name": "綠意",
-  "count": 7,
+  "count": 5,
   "news": [
-    {
-      "title": "社區攜手打造綠意宜居新生活 新北社區綠美學競賽成果揭曉",
-      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPQXFBcHlIRzJhQlkwUUZrRTdoV2Y0aVI1ZzN4SVlWa3ZYUnl2LU53M0tiTExXR21mOWRTRFJNN0NRdUZGZndCdGZGQmVETTRFZEVlM3NucFNEbXJvSnJZNkdpa0dCZ3lUU3dfbTNKRTY1b3BVeFg0RjdYS2NMWmJBT3FXV0pIcU9xMTQwdXBDU3gzSmNKT2lfWWprOGhaclJQV2E1ZnlzcjkzWDNBendrdU5UU1FwRGpkTkliYW81WFQ1cWVkcUtDcmZKQ2VRQnV6eU5zLTNFSENET2I4UHUyekZiY2hSYkVKeGppTGMwemF2ZURVTHppNWJHeVI3eFlfaGJlaVpLaHdSd29rQ0ZRQ2pKTGJEZzg3LU8xSVhEb090MmNxMlBsd0Y0QXlkakk5TkhhWWxabk56Y0RVSUpid0JjQzMxM0k3UE03QUZoR3dLbTNKUDZwNExZMnBfeUEzc2pfSl9Cby1Yck00NENIZFlsWjdYeks4dHRkZm1NeWFROHFXVEV3Y21peHY?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-20T08:12:30+00:00"
-    },
     {
       "title": "矽光子綠意盎然！「這檔」吞連7跌挾IET、光聖、華星光挫7% 惠特卻逆勢飆漲停",
       "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNSUw5d0I4N3pHeHJOM3ViMGwyRVR4dzhtU29GZVc3bGNUZ3VrNmFKU28xM2prOTVtaWp3LW05R1pBZkEwNE13QXRyWXNjcWlCenhxdVRzQlQ1akJ5LWwyWE80b0xZNnVFLUxZZWtJdUR4amJzc3F4N0c0SGx5bElhSlhoRDNMV1NwaGJIM0NiUlhGVk9xdGZXQ01PaG9rNl8tcl82REZEbWEzbzhHWWFKUGlLU21DaEtWaTc4c1Y0QWRFQ3pVMUROcWphZEE3UkYzUlNfcF9hN0MzZlVqQjdsZ1V2XzlBbTRQemZ5ZUF0T2M1UXVsbE1EXzdVQUtmaEJMRk9jbkI0Wkp6aW4yTUdOUUFENnFBVHRKZUxOVzNaTzdpbDV0VzNqb3RrRnY1RW15VmxhZDZHSldxcHN1WE5YMFFBMXQzOGROeHpR?oc=5",
@@ -34,12 +28,6 @@
       "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxNYklJMnM2bm9LNURBZ0lHcFZpV2poWXZCWFQ1V2dvazlTem9DbmZ3aU1HZjk0YmtXNlpQMXg0MUR5U0d2SHRzY3NhVmkycUJmVGF0eEVTb21WbC1nX2RVa2JiVjNKQWZ6WlYxQ0RhaTZ3eWdraVZINUo3bVFFTnhFT2NxTzE1QlREbVQyYlAzV0pRRUFUMlFvUGFoeXh5QWlLMllFWE83WmJKeUJLdnlBcU1RNFVCQ0pXb3lBZkIxcE14b29sQktKRDF1YnQtRVJ3Q1JlQ1FnQkp4SkEtWjVUSDVyMDlXUlZsZWtNTXRtcEFENUtvYW5UUTJGbk0yV1dKeHNZaW9NS3c2cGhfdDdBdXEyWmlKcGMwUkRUcG13LTlVUGMyZVZDSjRtQ0lSSWlHLVFWblN4V05GU0xWbkd3LXkwVEZrOWRORFR5TkFaMGx4V0lsaVczZ1VCRGJrcDhQME1yenJsWHhCM1g0dmZzUS1ROWZnY2V2N2J2VkpEUHA2MzltZEtVUWxn?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-07T07:00:00+00:00"
-    },
-    {
-      "title": "集鹿水山城綠意遊 南投旅遊百K自行車小鎮漫遊最終場登場",
-      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOQnh6cmgwcEVKUkp0NVBUUUZ6VThSWjNNT2pRdmV5ODhVaUpJemxUR2o0cUFBckhfYW9wdEJfd1ZFM0hraWk3RFdzQmk1em91ZDFRa2IzcjlTQjN3clN6NUdmM3d4ZE50VTJRS2JrZGFmN2lRQzdxYmVNa0dJVjZKTUJlZXdhaTdYQ0pkcEFaWWVURExRSHRfUHpkZjJ5TmEzSWZ0YzBWMEJJVGRuNEJ0NHhNZmx3TlRtU21TMGFOdm1nY0Fhb0M4X1d0b3ZHVUlrMmlHZzItU2tDYVBlY3VLVGU0dDEtOUVId3lWdXhGMlFPVnVEQzNGTlJkay01dnpidHlYZGVRc0J5eTI3Tm1pRVFfWk5ZVDBEOGFOWXRJd2h0MWxfVmY1WUh6VlhqZFlUbUtFN0F5QUtsRWxJZHlELTF3eEdiS0k2TFhhb1ZXWGItUUxJQUoxdGFnSzQ3NjRTTWtmakRRVWsyT1FPREhMcDc5RFN6OXptSjljS1FYejYzZw?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-06T07:00:00+00:00"
     },
     {
       "title": "綠意就是教材！大葉大學「綠教室」獲永續銀獎",

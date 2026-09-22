@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-21T16:35:48.864151+08:00",
+  "updated_at": "2026-09-22T17:33:57.675470+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2706",
   "name": "第一店",
-  "count": 2,
+  "count": 4,
   "news": [
+    {
+      "title": "超10年美債期貨2706 (TN2706) 期貨",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14VGlLbTBDOG94aUdLaHFadWVVbEZQTFlfM0k0Mi0tZXc1Unh5XzZ4WmkwQzV6aE9UdjY5OXJwWkFaX0U5ZnNKOHY5eWtINGlQcHY5S3FEY0NBcGxTYy1qRFJ4RFJSS0xyUi1lNXhB?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-17T16:08:51+00:00"
+    },
     {
       "title": "歐元跨期2706/2611 (6E2706-6E2611) 期貨",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8ycWR2TlFsQzEzYnlnSm5malBpd1dkTnpEX19ua3owVXgtdkp5bk1RbkxnTkxoV3dpTFZqZTJyRGpzWmhMUEF1VHhLU3JKUkZGcUZDbnM4WTNHOUVZMkhhR29n?oc=5",
@@ -12,10 +18,16 @@
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
-      "title": "A50指數跨期2611/2706 (CN2611-CN2706) 期貨",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5IRzR3eGs1d3FuSzJmMHZ2TFZJWkk3TGZ4QnBBTTNHMEp5VFBqVmd0NmwzMUFZSlF5RFlyNHlVZTRrVVlTa1daNjZ5WG96TldHMkwtbUF6b2UwdXF0a0tXQzRYM3prNlNVb2loNU1SNG5XeFZGci1j?oc=5",
+      "title": "日元跨期2706/2611 (6J2706-6J2611) 期貨",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2YlB3MnVpMEtOMWVtMkRuRkJEQzFVTFZ0VGhNZjZNLURPVHNnMk1QWEVOZ282OGg0c2t0bUFCb3pEQ0hraVRvS0ZXd1lnYmh6MlF1RDBPdW1mMkh3VHl0VkRuVzFlUnVoYzNrUTQ3dTV3OU1QRjAw?oc=5",
       "source": "Moomoo",
-      "published_at": "2026-08-23T01:10:32+00:00"
+      "published_at": "2026-09-11T07:00:00+00:00"
+    },
+    {
+      "title": "WTI原油跨期2706/3003 (CL2706-CL3003) 期貨",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE40RlBhanhQbEZTaDVHcTdiTUpCVGpuaDFnN2ZTdHVGLWwwUEo4UVRhX2FpODlJbTV2TTFNSC1lSVZBRVpTTFZxWG1BWGlkeEZMeTJkaDJycWZTazFOUUtXcWx3?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-08-26T08:37:36+00:00"
     }
   ]
 }

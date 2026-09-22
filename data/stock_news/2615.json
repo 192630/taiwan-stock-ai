@@ -1,15 +1,33 @@
 {
-  "updated_at": "2026-09-21T16:35:38.809502+08:00",
+  "updated_at": "2026-09-22T17:33:47.768187+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2615",
   "name": "萬海",
   "count": 12,
   "news": [
     {
-      "title": "2603 長榮 - 2603 vs 2615 ratio weekly lin... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4RzRpMHpvcHFRSVBoejZld2FwaFRySWJiaUNmVXFDQzBhUUpXM1ZicXNqYWdkaGxwR0VzbU50eXdNT2tqUGhVX2dtZ2ZrODRMYjhhNmJRYm0?oc=5",
+      "title": "熱門股》第二季大賺115億 萬海揚帆",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vb3NHOEMzdXJoTlNJVE5GbGU4dlFIc1puV0s2d2NmV1g2NS1jWkFqZFphQlhvVUd5dkUtUzQ5OGxtTG5Gc3FuM2dxQTJ5S0ZQM1hHRGhEVnQ?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-21T20:16:38+00:00"
+    },
+    {
+      "title": "貨主提早拉貨 長榮、萬海看旺Q2、Q3",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45NUlVRy1UaF83WEhuWk51eDlwTDF3a2JpSExaNnM2Q0RlZFlfaDdYU1kyS0dwdnFNMkJ6WmlnQ0tlRVFTMHA0OW92dzBDTEdScXFYeUVVSDI?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-21T19:45:01+00:00"
+    },
+    {
+      "title": "萬海：運價欲小不易 今年營運勝去年",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1IQ0J2NTc2ZzViUGJXclN5U1VtdE9obVQwUFh6dWxBRU9nOXpuekhtMzlKMXprT050VHpDOUQwYVRnQ09OVFZmRDZ6bnlEd3BMX0pOUElIcmk?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-21T09:27:37+00:00"
+    },
+    {
+      "title": "2615 萬海- 強勢整理- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ZdVJra3RPT01sY1JtVU9neld2RXRkUk9jNUtLc2lsUFZoV0FrU3p3RmdNX0s2Uy1tdkhKSkotMmhqcGQ2djhJcmNZdkdKRHZxMHExNlp4WmI?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-21T02:46:54+00:00"
+      "published_at": "2026-09-14T02:03:50+00:00"
     },
     {
       "title": "2615 萬海- 萬海大戶這麼沒信心- 股市爆料同學會",
@@ -24,8 +42,20 @@
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
+      "title": "2603 長榮 - ---狙殺萬海！--- - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3OEYydXExZE1PUUs0R0xCZlJ1Ty1LVHJLQm1CWnBETkJidXIxV1NFU0ZWSHJUZzRPZE9abXRzMnQxSUk1d2tNQTY1bG5LaFMyTUJiYXotTjQ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-10T07:00:00+00:00"
+    },
+    {
       "title": "2615 萬海- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyNnVBWmFyc3J3MnFYdmZKbDZMcUhWQ3ZLMVZGUWdVcXhXRzlzLXg3UjFPTThZVVNOTWNHMFppQ1gxMC11Z3hZRExXWEtlZk8yZEp3Mk9WaTI?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
+      "title": "2615 萬海- 該不會最後一盤拉漲停- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiZWpwRlZYajlrbVd6QTZNcndsSmUtRk5OLXVyLU15QWFiblM4Q2EzaERnUnl2ckRXeklPRmZtdjJjMWxNQ09NSFpIbm54RlNUcmU5V254RG4?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
@@ -34,12 +64,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxYVhXM2FVNUJ4TWhpZ01McmtGM0hwN0ZuQ29VejdvSnVCV0lVVVBMLVduWmdpNGt2bTJuV01vREpZSkM0SHRfM2NzM1JMbnMzeWZnTnhhOUM?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "貨主提早拉貨 長榮、萬海看旺Q2、Q3",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45NUlVRy1UaF83WEhuWk51eDlwTDF3a2JpSExaNnM2Q0RlZFlfaDdYU1kyS0dwdnFNMkJ6WmlnQ0tlRVFTMHA0OW92dzBDTEdScXFYeUVVSDI?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-06T08:00:04+00:00"
     },
     {
       "title": "2615 萬海- 萬海離月線最遠，最強 - 股市爆料同學會",
@@ -52,30 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLThnNFYwX2k4aEk4UDVycW1aMklLNWVqQ1ZrUHZOWmVYcVdvQk5ydk85QWs2VzRaMnladEhsS3gyOW5Sc3l3Qnpob3c4cFhsMnFhX3hvYTZqWmNCQ3I4S1JIdzU0TXJyS0QxeERhcnJNWGd5TEZVQjhrZEJDRmtyemZNQVdSaWdZNVgyMDBB?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-03T07:00:00+00:00"
-    },
-    {
-      "title": "緯穎(6669) 於9月2日除權，參考價2615元、配股與營運重點一次整理",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wR3hCV2xFTWJKQXF3UGlidlp3SndQZE1CZkFENkNNYlFEWWZ1Vzc2QTBOQTBTUnRkd1JwQk5BeTlwR2FXZDBHOGNSeS11dF9JZ0h5cmN2UlFmRzJ5?oc=5",
-      "source": "pocket.tw",
-      "published_at": "2026-09-02T07:00:00+00:00"
-    },
-    {
-      "title": "緯穎9/2除權19.83元！股票1張變2.983張 股價明將從7800元變2615元",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaTRUaUlkcldPZEhsNUxGVDJQdE9kcXdPWGJDUmZpUnBZRVVBSkRGV3MtVkhxblZnSXR2WXJEUndGWHNDT3ZaYWtJTDlHLWt6aU9UR1VOcDVReGQ3WmplcU1ocDhRZDE1aU85R292UlFuN0pDVkxmQ0poMDdJSDRnUDdvdzc4WndTVnpyV1lIOGtkSXg3aWhyNllZa0owN2RYRk1lbDVnVmFKN3pSVGxWNFJfNy1BVmdGYmdSQnVFaGZiUDFvdV9hek11LWYxYm0tLVFDcXRXTHBGeGVqOGpnOFlVaVA5MVE?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-01T07:00:00+00:00"
-    },
-    {
-      "title": "緯穎除權明開盤參考價 2615 元！借鏡世紀看高配股籌碼效應",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HamQ2QmRsWDQ4X3d0THh3VkJQeExLbkgtNkR3VElIR0MtSUdncDlVaXpRTkE0Z1E5NE0zMWl0dzNFWVAzbzM5YTJLOGlJOTV6ZzJ1REl0SXpraGtGeVJhWHpjdjZfRFI0SEhhZFA3YmhzZjFXdGc?oc=5",
-      "source": "鏈新聞 ABMedia",
-      "published_at": "2026-09-01T07:00:00+00:00"
-    },
-    {
-      "title": "萬海1個月飆40%，長榮、陽明可以買？杜金龍示警「上方全冤魂」，揭航運股最佳買賣點！台積電、聯發科高勝率買法",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUnppdXAtRTg0ZkNPOFpXNXhxUnN6NXlQTzM0WjNMYm5nNHVtb2VaWERuRnJLYmJjQlRFaFI4RjJKV1dGX0dGcF9SR2lBS1EwVFpKMUpZOC1QeWVKbkstakp2ay1QNGlVTTVsOGFycWNRS19uYVRoLXpmTnh6SG03ZQ?oc=5",
-      "source": "businesstoday.com.tw",
-      "published_at": "2026-08-31T07:00:00+00:00"
     }
   ]
 }

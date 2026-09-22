@@ -1,21 +1,33 @@
 {
-  "updated_at": "2026-09-21T16:35:35.434689+08:00",
+  "updated_at": "2026-09-22T17:33:44.569348+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2609",
   "name": "陽明",
   "count": 12,
   "news": [
     {
+      "title": "陽明：荷姆茲海峽「情況蠻嚴峻」 看Q4淡季僅緩步修正",
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNM2xMLXR1SG1jLTRodkt4cXp5WEFDM08tOGZqYzlxc3JsazZwZHRkeEh3QWw5TU9JZ3NxcHJlZFVrOUtfcWVpV3hMRWwwMEtMaUllNlEzTHlFQ19QbEJYTHVMXzNFQ3ZjX1VWaFNUU0hIRVFZaW1lbFQxOEkxU21vYTVxMTVndDRSSnhsdGdlTTBoRlYwMkE3ZnRyUmZhb08wcWNlSjczS2ZQWlV0dDF4QUVTNG5na1NSZmtjRm1LTG5PREdld0tGemZySjJ6azVWRDlMOU12TE5LY0gyWHZnSTlmT2NwcjlaRUYtaWYzMzhPZEVSRVhURkJzZkZhRFpMX0ZJbDhldndFQklfRmo5WjNJZG5oNE44SXEySUkyUFk4cGFLM3I2VHZzNDFEengwQktJRUxFWG1qXzNiWk5FQ0RtczFhQXk2alRTMzFNV1pUNVln?oc=5",
+      "source": "Yahoo 財經",
+      "published_at": "2026-09-22T08:43:05+00:00"
+    },
+    {
+      "title": "陽明：塞港延續，Q4亞洲/美東運價有望續處高檔",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQQnl1c3N6ZmwxWnR3b1VBVjJfY1NfU1dTUzRLckx0RjFnbE9wQU11a3JuaHpOX2VlSmtOaDU2eE5KWjBacHZlV0VYN2g0RXlpRFhzbDlVWlZDMEtHUFJhQ2dGUHpENDF4eEM5cVNNOEpTeHJ1bTRCMkM4SElQZkJPN0Z1eHFSREtrZjlWYV9wczJYNUVVLWpnMDR3NVRudzF5blQ3VW5NS3F0WEJOMmV2aTVIeWtMeElhUzlybWdZZ1BUM0ZHZ1ZiTkY3emJGSVhvU19kWWtjUGEtQnREcEU5bmh5ZkphWVRCX0ZqLUVVcTJBVk1wWk55UmN3WjJaV0VuQ3Y3VDViYlJLTDJ1QVE3c084Vk5FUGhlSjRjSjh4VkZBQjRKWVBHd2Zhcm93REFyN3NMQXNYS1A1UQ?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-22T07:25:00+00:00"
+    },
+    {
+      "title": "陽明交大辦健康台灣論壇 陳志鴻分享深耕計畫成果",
+      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPTXpCbWoxXzU5dzZHS1RoYmhCVmh4X0tqOU9kT1ZvSW1XSWllRHRKSGl3WjV3b3I0a241dTVSbEZPYVJnSlBiSjhzblRWRHdTS29WM0ptTWJpeVE2N2hOMEp3VkZGc0lGVlROcDhBLVhNZG0zT2hDdWRfSHlIQVdIdERRQ2VmY3BaX1VxQmJ1aGowSGhoS2dtMndRV2NZRVRlSU5MMVBxdjd0Nk5Lc1hPYlJuUmh3TDZJNTJKYk1DMWgtUnViZFJCYmJaMTFBUlpSdzRHdjAwcUItZlpvWFpJa2FPOFlES2RfQ0xKdkNoR0I5czJwX1JxSElkT1lVdGkxOWdpVS05ZmRZSXlxdUNaNzQzM1EwbmxRdUg0Z25hSjRjazlxMy1BVE45NWNybmFBNUJfdHRfMXpjYWRIU0JsbzJfRThHdTROdXBOeDRZRUFxM3ZqRW01OEkyRkE?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-20T09:16:49+00:00"
+    },
+    {
       "title": "陽明山13坪套房「只要180萬」！ 她月薪4萬心動了 網急勸別衝",
       "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQTTdIWmlxZkpnNUNJY19VNHFxRG5sdDJ2ZXVjbWx6NnlKZlJoZDFaeXc4VTkzWHdxNV9ZNlR3cFJUeTYza2RPWlpYVlRWaHA5ZmFlMTFfX0xLV05naHJtVmg3MlRqN3B5V0hyT0huT1FHemhVZGx5YVFXeXUzVnM4Q2ZhNC1VajZkZVB1UndtQkRDaFRGcnlXSVFkWWVPT0pqNS1QY2lZcHhMekhvQlVPcGFhbVJ1YTFYQk5scUE4cy1pbGkwc29JSmZjR29uSWZTeE5yVFpveGIyRGpOLXhHTFVRYlgwZzBDY1doeGotQXA1SFJNRmNuVk9yc2l2Wm93MjZtQVBDX3J6SC03dkd1M3kxMm9FaUotMVZaRDgxV0wyY2M4eEtMWUVMa0VRMlhSdTdPMEtlVEo0NnAtM28yNW5JM0FZMlJNYTVsVWtJd2ZMVFpBbzhNSDh1ajRRMmkxbzF3?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-18T10:58:00+00:00"
-    },
-    {
-      "title": "目標價110元！SCFI有望迎來連8漲…長榮、陽明、萬海最新EPS預估出爐法人點「1黑馬股」：獲利彈性高",
-      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNZHZZTmE4cmJ6TEVHYkpNeDl1c3pFUmJ2OFFJWTlVMzdZamJSOHJZNDlmZmRDZlZ0MDBBWWZfczdsNnYxdWpYVl9pMms4N3p5STd5TUVrN3ZHdUg3ay1iVS0xR3RnMUxYZFRFZVJQT2pSZkRFQTZYZ0FkSXJlYkltVlJtQU00UVdBZDBBMG1IZjN3WTV1V2R1MTN5UlJWVFRoNlF2Y3dTT21tQkk2VHk0UURkeXJuQ1Y3Sl96bHAxa2xxckYyZFRfMmt1eHplTXpHYU9BdU1weVBZUlVqZTlpUzNPV1pWOVFpTkZYeG1YTDJWUktJS2c0NXVlMWlCNUo2NnpkX2ZYT0lKQ3BWbURvaGc2LW1RQ0F4V1cwUHc5cFJSRXlJWlQta0JLZ0xUSTh0bExmQmV2eHNBdEFjWDNUUjVVam0wYjBib3I5WGNrSTlVLVZmOU1DUW5DazBqU1VndEZBS2U4dnVJakt2WHpDbkZqVmhQaVE?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-18T05:05:00+00:00"
     },
     {
       "title": "熱門股》中東戰火升溫 陽明爆量漲停",
@@ -30,34 +42,22 @@
       "published_at": "2026-09-17T14:45:00+00:00"
     },
     {
-      "title": "女失蹤成陽明山白骨！ 男友協助賣地「場勘」成女友葬身地",
-      "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOLVoxdEM1Z3ZPTlFhNVZBS29vci1VN2lDSTFrM2duZGhoWnBiRnBRT3YwLTBCOXlKaDE0TEhqTWd4NXpaTm44YjdlZ1Fnb1hVaHkzNVgySTBxVWE0dzc1OFRuVjZ4MThEVnBVSUpUaG9ZdHdBcTZFU2FRN2w0bVhCUVg0VHZxcEdhMWxuNDEtYXZkTExUeURITDh2RGVIeFlFcXE0NmZ1aWtoWGVjaG95clRBTHZ5eFhpVk91MHA5NXRDN2FNaGVHUVZSbDhaNThlUk5BV0xROWU3Z1dhT2F1Sk93MW90a1JBX1J6QjRtTlNmeXQ0aDZHcTRiNlp2UUpPNnBDYkNsTElwUXdydmF5TFAtZVJKVnNIWEFBYndYMGV2azl2ZUItNHBRUkZTankyVTRlT2FmNUdZOWx4akg3WXJ0c2N1TGdlVmJ2VXlhaWttTWpPVjh5X0RDaGkwa19lV0ZOTnpIOWtOdms?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-17T10:11:59+00:00"
-    },
-    {
       "title": "陽明「滿明輪」命名 冀強化亞洲-西地中海運輸服務",
       "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPei0tdUhuWjcxVm9aZVNVaC1DQUVyejdRbl9BdUJncl9ocDI2U2Z1bVlqVzdBT0FsVnVwUS1PXzk5RWRZRXkxeHR6ZU03YzVzaXlIRXhpM0xIU19aSEtiRFpZM2htVklZNDMwV3dCYm1QWkk2V0lnR2FZT0RxVF92dkY3T3hjYk5Fa1ZrVXh2bFpIQVM2ckJzczFTRWxDcWw2cDIteUtNR3MzOWMyU1NXRTBmRXVMRFI4elhKTVFqRVNLX24wbzBYUXJkUVpYMmRiVi0zYThUazI2QkhpTnJHaHlvdTNEaHpETGdiR1VYUGl0OFRDVUx2ME9CdEVhcG1lR0ZucGhuMllWc2JNTzRZZFpHVnhyNnh5VE9oNjVYSktNdTZ5U1Vva1Y5TkFsWFhPOW9SQktwS3Jza3RXTUpiaXZ1ZTJiYzUxUktTc3lOQU0?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-09-17T07:59:55+00:00"
-    },
-    {
-      "title": "狠男勒斃女友棄屍陽明山！化為白骨多處遺失 檢方複驗「拼湊遺體骨骸」",
-      "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxPNDFPWTVWcjE4d2ZpZy1WUGZIQzVxaTdUa3ROYmt2QWFLemlPNTlUMWFiVjhKdVQ5Z2xjZWJyMVh1T0NKZXUtRWNNalQ0dFdDMF8wbmYzWG5YWmRVS0ExRzZ6OG5hUjdsU0xfdGVJN0l5bGF0elpaU1RxN1l3cTN2a1dEcWtHWDdKNlVkdi1IVmRSV3pjRk0xaVN5ZjMwbGZ0SHRpcGhaVzljWFktU01ia3Nzdmw1dXNpN29HUW81R0daM3ppZWtpaWxaS012M1JEVTFfR0IycFdCa1RaT1dzRU5MM3dnNzBjQmN3Q3UwRGZDMGNnZWJQOWpuTDBDYWg1SmN5UkVWeDR1cnNpdmQ3aGU4NFpiWnJFeDFYazR2QTdabDQ5VDI5UDA4UlhQZmxISEptQnBESmh6X0EzdFRtWWdvbXEwVE5xZmpQcVl2UGZpVVNTb0NhQ21vUWFrMGw4T2RueVZHQlBCVWFxX0hqX0ZaUHNUU0hla3h5VE4wNWFMaF9vRURadFRmWEJRZEV3dDVOUjhmcHJmb3dHZk9URmVPMzFJSlpMejRudE00dlZzaUU?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-17T03:28:37+00:00"
+      "published_at": "2026-09-17T05:45:00+00:00"
     },
     {
       "title": "陽明股價淨值比0.64倍，為何散戶狂逃、大戶外資狂鎖碼，60元天塹卻三度攻不下？",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxUE5lLWw5QkFOQXRRcWo3cms2QVZrckNNdGRYZ0hoMXpZZ2FZSEtDUG5zcGdmSlRlakpqdXZWdlpOY2lsVzN4cE5HSm9Td2tJWHFSMzgxbjRKVmIzOGRmWnlDdE1LZ2R1dHV1M0V6Yw?oc=5",
-      "source": "理財周刊",
+      "source": "moneyweekly.com.tw",
       "published_at": "2026-09-16T03:39:15+00:00"
     },
     {
-      "title": "獨家／辦陽明山棄屍案 士林分局遭爆「卸責又搶功」｜#鏡新聞",
-      "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPUGNmVkpxMWFTWW1PVWhWZnlaUjlSeWN5amxXc1hDOUJlTzV0MkNxRVNUYkV5UVJqYXpURmRTRHg0eFFTQnJkY3JfSXhwVmhjNEdaRmt2RzZjWU9YSzdFd2NyQmFZME9lZ0ZxVkpYNk5vb090cF84eXUwTS1OZ1loWFhYOHBxSGZKLW1qZzdNUlJiVjB2YURnaUtyS2k5eVByTXRvRkJOVnF6akQ1ZWZzd0phVEgzRzZBYm1ZS2lZWGRFZ1lFNmtXbjZicG9yWFE2X2Nxd1FlU0pmeVVheGtSN3E3ZWk4RERjQ09NUjl5YTBtTm5CWDZqVDloRkxNQWsyQ1lQTFpCSHFhNWowVVY2bTVYdlVYdTYtQW5aMTQzdnduaW5YRjNYQ1BsU05UajlhaFFycFAzdkN2X0JLWkxqakI1ZGYzVXNiUGV4T3ZXWHExMHl4UzRhbmNZQjlVR01ka1JkWnRmMS00NlZD?oc=5",
+      "title": "台灣人基因減少中 陽明交大揭「天擇」痕跡",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNVVFaUzNVMHlyQkl4ZnMzN0tHRnF2VE9iNTV1eXZEQWZLLWRpRkdsc0xEeFFEZkZJWHdIUTd0S1pJajRSMWtVSnZ2cWtFWThfd1BYSENYLVltWmY5M2dyblJRVkNCSThVNjBWMjFpb1lLUGNoZGN1ODBFOWgtdmtVSDRLYTJYM1NMMGdNdHp4U045REpvLXpCMkdXU3NfaDJkRXp5N1VWOWFRMUpjM09OMlMwajFUSUh6bEtEWTJJQzdYaUFtaHdpd1FhYTlIbktqcVlMVXVKNEpmSTJrZld3Z0lkT1ZickFfMk9jSDlNRmZTN3R2VUplMHNnWUtHUi1jRTl3TFpodVZzUUJZSXR5VlZYaUNpb0pQazhneTFBdE5vMWs3cXVveUFMaTZUSGkwRGplTlFMUFo?oc=5",
       "source": "Yahoo新聞",
-      "published_at": "2026-09-15T11:21:22+00:00"
+      "published_at": "2026-09-15T07:25:25+00:00"
     },
     {
       "title": "避險資金湧入 陽明逆勢大漲",
@@ -66,16 +66,16 @@
       "published_at": "2026-09-14T09:13:38+00:00"
     },
     {
-      "title": "陽明山白骨女死者身分曝！昔掛千人斬布條爆紅 慘遭假富少勒斃",
-      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPbHVqbGFFVzJFaFRzY054VVpXUkxGTjdNc0NobFRZNGhIaEVZdm85S0lkX1F1ZXQyOUNEdWpucmdSZ19WNWRBMlRBU0FQZHlwRC1BVHM0V3dmMVM2cmJ5ZW9YY0RBeXFWMmc3LU9NNVgyNEptVGp4WFo2dkJtQ2xIUHRZUXVRTjlLNk9TOElFWE96QjhKR29Ec3QwemRHT0RINmZvc1hJQVhSTUd4TjJnRGZZMnFoU1NlSmQyZ0tYRVJpWFZ0Y1VZTm5FaGlPRGRrbVlfeFBrejFnaWl0SUhXQVV6NjI4NzAzamR2anN1dWNvWllrZDVCWGJ6WXAtaEpObnNXRDdnMG5EVlFKckJQc1U0MGtJN3NKcWgyREV3ZDZMRDEtQlRnbFQ5YzVHdTJYMGl3aW5DWDc4LWt5R19INjVRUnExNVotZWx0U3MyTnFBVVNCb21wUG9Zd3VldXhya3pVc2VkbHQzZEtJRVlyeWUxZ0dNdXRXTEJvcVVJUk1UNWM3ZVloZGY5LUVpWjNteHh2d1ZGRUJIZw?oc=5",
+      "title": "獨家／棄屍男昔有女友仍追求店員 約「半夜去陽明山」",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNSFJhMlcwdnZhRExIQ2l2V0NuQ29vXzhoVTdaY05CSEVELXlmQ3JuYnV6Z016UXlZUmpMbFYxbDhpdGwzLXBGVlBhd3lQYzdYbTRFdzdMX08yN08xb1Q2dnU1cmVuMElTY2VOX0dUdW5PRnFvOE5STU1mY2R4OXhVbFhOeURsWE1rZExDb3MyMjRXcUtwc3FlOXE2Q3hMdXdRN1lkLVFXZjg3dUh1aVlrRXVkSEFzTEVGQmctVTg1eFhUQlJFVlBkVlUydHp5Vy1Wb3JhUzJuajZvZmoxY29icFZqMDBodVRZQlVyLUlRMXJtWXNXeDdRVF9oYW40TDdzdEZVNnAwM2ZjZG5HYlkxYmJ3bUptbHo0REFTNFpkTExudXAyUy11bXJZV1ZQTDRwS1hMakdjeXdraU5VY3VuVHlza1Z3Q0NEREpYVjNsN0RTNVE?oc=5",
       "source": "Yahoo新聞",
-      "published_at": "2026-09-13T21:05:00+00:00"
+      "published_at": "2026-09-12T07:00:00+00:00"
     },
     {
-      "title": "陽明山棄屍案! 嫌疑預謀勘查地形 警下午二度搜山找屍骨",
-      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNS203a3R2U3AwZXJCaFlwVk5ZMUFlekIwZlF4bUY3UWxFZ2RBMjdPMmFlbGJCeHhPeEFEV05OcWhUbm5heDJheVBOdk1NcTkyUGZMNGhKZXNfRndtSkpiRngwMjhDcldtNjdnaEZPZEZkclpaZV9kV2RFcUt1WGYzZWRYTHNoZkwwZTk1amJRTTQ0SWRvSDVXdTIzN2EwcHFjOUdnWl93N3hNUm5YaENzU2RhRE9sUlZNLXc4dnNNSFRFWXJ6b1V0RFFCNUhJek5DcEc3dk9OWXJwSTluSGc5NGM5Y0liaDBGYV9NMWFFcWcxVDJXSG1MOHBGdHhNUWxXWldxVURVWVRjMFFVSE96Sk41cXQ3WVo5VUJnazNpanpXQWhrNGtLbEF5ZTZMc29FTkpTLUU0ZEpWUEdBUUc3Z0NmeUk5UXloN1prRWd3eThUbzBwVWM1WU9NcGcyd2JTMGU4bzQ4dEVSdERVX2YxbXowUGR2QQ?oc=5",
+      "title": "狠男勒斃女友棄屍陽明山！士檢聲押禁見",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQaExXbERCZGF1VWh2Yk1RLWRDMDB5T1l4c3p2TDI0S2ZkUGJvUGFrTC0tZGI0ODI0eC0tOTk1YXBfU000b1Y0N0Vja2NjLTNSSzJtN3NXQnRmTzhReFJkNVNrN2Jva2pZU1BhaFhFbFRDTW9mQkNOMDVLYlduVzM5WEVSSDJQV1gzUkpCN3ZzbEdBdzhPUjc1ZVYtQklWWFVQOHJSeUlheWJKNTlJM2wxZW8weVh5Q3BfTXJBQ3I5Qm4xUm9FX2o4Y1p0dFFPQm5aS1lhSkE3ZkFlLTF0X0JaLXBqUUJLUmdBRW96elpNZzBsZ2hRZGpWZUpvck1FeGRZUVpLQkc4cWlQX2tUQkEwWGo4bmdHV0lNTzNhVDdQZ3E?oc=5",
       "source": "Yahoo新聞",
-      "published_at": "2026-09-13T21:04:05+00:00"
+      "published_at": "2026-09-12T07:00:00+00:00"
     }
   ]
 }

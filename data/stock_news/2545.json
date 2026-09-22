@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-21T16:35:28.786486+08:00",
+  "updated_at": "2026-09-22T17:33:38.258768+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2545",
   "name": "皇翔",
-  "count": 9,
+  "count": 10,
   "news": [
+    {
+      "title": "個股：皇翔(2545)9/17～9/21取得聯發科股票111張，每股均價4,804.80元",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV0JjOUx2V3kxSXQ4a3VDM09SRzk4ZFY3X0lSM2V1OURPSE5rV3U1VW5PMVVReHlIVWVvWnQtcmVJb240X256MENKTjNWYTk5WXBsbWNKbWpBcUotM1BtUE5YYktleGZYcmRjRGlFeFB2ZFVaN3ZudUdPU3NiM2Z1NnhNOVd5VnhB?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-21T23:05:00+00:00"
+    },
     {
       "title": "個股：皇翔(2545)9/18處分聯發科股票115張，獲利約245萬元",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM2hSZHdadDUyOGdiSjV5R2g1dG8zM3BidGlkVXNZSVdncVBVc2tFVXh5VnZ2aFZPWFBZOFo4MGJ4X1FGV3c0UUlERmhLY0gzSWlTa1lfZkpJOEI0UmVic2k3T19lUk1tY1VOYUlkWEhmNS1yMkY3MmJnVHFjalk3MlZic01CMU9S?oc=5",
       "source": "富聯網",
       "published_at": "2026-09-20T23:04:00+00:00"
+    },
+    {
+      "title": "不蓋房子當股神？買台積電大賺7.7億 皇翔鬆口：將隨「1件事」調整",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1LVExENFRhV01pVWlyLUxRUkt3ZmlueHEycDc3R0VFZ0dqRTNrSW1CdkJzZ1J4RmhtYmUwWG8yWFNjRHhtWGtIZNIBTEFVX3lxTE44Tm1CMXBzYTlYNUxYLWU0OUc3QWw3a3hGWjd4NWxzWktnMElnM1JWUlBTRXVhLWhxSW02emM5dGFWSHFzZ3ZlNnB1MXI?oc=5",
+      "source": "三立新聞",
+      "published_at": "2026-09-20T16:54:17+00:00"
     },
     {
       "title": "個股：皇翔(2545)9/4～9/17處分聯發科股票66張，獲利1223萬元",
@@ -30,15 +42,9 @@
       "published_at": "2026-09-15T23:02:00+00:00"
     },
     {
-      "title": "不蓋房子當股神？買台積電大賺7.7億 皇翔鬆口：將隨「1件事」調整",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1LVExENFRhV01pVWlyLUxRUkt3ZmlueHEycDc3R0VFZ0dqRTNrSW1CdkJzZ1J4RmhtYmUwWG8yWFNjRHhtWGtIZNIBTEFVX3lxTE44Tm1CMXBzYTlYNUxYLWU0OUc3QWw3a3hGWjd4NWxzWktnMElnM1JWUlBTRXVhLWhxSW02emM5dGFWSHFzZ3ZlNnB1MXI?oc=5",
-      "source": "三立新聞",
-      "published_at": "2026-09-15T19:54:50+00:00"
-    },
-    {
       "title": "皇翔下午5點舉行重訊",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DT1A4X01GdjVUajM2ckN2R1pRUDZEX0ZUMnFha1V1MXFmM0JXazlmbWNBMTVSM2NqTmJIR0V4M2o5UTVBdEVtRVJxN0lFVW02RHJJSW1mNGNTZ9IBX0FVX3lxTE4tMDJvSmJjeWFDQjkyRUh2WERxMF81Q0dhcnpxcUxESmhESWh6TkVqT0xqTkl5ZGFvaUQ1blREc0NXSWpLaTFkNFpvc1B2ZVh1NGt3UXhXaWZ3c21YRnk0?oc=5",
-      "source": "money.udn.com",
+      "source": "經濟日報",
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
@@ -48,15 +54,15 @@
       "published_at": "2026-09-02T07:00:00+00:00"
     },
     {
-      "title": "皇翔賣聯發科股票",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vcTNodWZrZEhfNkljUlBwdE9DdHg3RHNrX01DbnM5R1VSU0trWDFWWHlwTTFESE42R0tQcUQ5OEE1VnRJeXFLa3lBd3pnaVFXRWdlbEhXYXN2UdIBX0FVX3lxTFBrcUpLaklGMUJsRHFmOVRVd0EzX0FKaHNrTUFSOUppdjNrTzFBaWVpbldWWXNuQnFPVXYtX1NQM19sbXViZUNwMkhDTk53ZnFjWHhLZGR2ZHV0UHFtYWRv?oc=5",
-      "source": "money.udn.com",
+      "title": "最大韭菜？聯發科漲停前 皇翔建設處分175張、損失1,475萬元",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vMld4V2hCdVNCdUxZcWJuSVduUHk2X0ZiUVBsYVhkenE4azhIMXBpLUNtRy1CMjgxYVpDQ3lDLXJOdjdRbWRXQmlDT3dSekhuUlh3S0hVZHVuUdIBX0FVX3lxTFBZbTBWMm04NWZ3S3MzNW1PVGRhajZweERfeU1ma1BTWDhHSE50QndnY2ZoenM2UmpjalFTTWJNTXA2OG84REYxNk9IZlhEdDVnMzg3RHdwc0Q2QXVFVnNJ?oc=5",
+      "source": "經濟日報",
       "published_at": "2026-09-01T07:00:00+00:00"
     },
     {
-      "title": "最大韭菜？聯發科漲停前 皇翔建設處分175張、損失1,475萬元",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vMld4V2hCdVNCdUxZcWJuSVduUHk2X0ZiUVBsYVhkenE4azhIMXBpLUNtRy1CMjgxYVpDQ3lDLXJOdjdRbWRXQmlDT3dSekhuUlh3S0hVZHVuUdIBX0FVX3lxTFBZbTBWMm04NWZ3S3MzNW1PVGRhajZweERfeU1ma1BTWDhHSE50QndnY2ZoenM2UmpjalFTTWJNTXA2OG84REYxNk9IZlhEdDVnMzg3RHdwc0Q2QXVFVnNJ?oc=5",
-      "source": "money.udn.com",
+      "title": "皇翔賣聯發科股票",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vcTNodWZrZEhfNkljUlBwdE9DdHg3RHNrX01DbnM5R1VSU0trWDFWWHlwTTFESE42R0tQcUQ5OEE1VnRJeXFLa3lBd3pnaVFXRWdlbEhXYXN2UdIBX0FVX3lxTFBrcUpLaklGMUJsRHFmOVRVd0EzX0FKaHNrTUFSOUppdjNrTzFBaWVpbldWWXNuQnFPVXYtX1NQM19sbXViZUNwMkhDTk53ZnFjWHhLZGR2ZHV0UHFtYWRv?oc=5",
+      "source": "經濟日報",
       "published_at": "2026-09-01T07:00:00+00:00"
     }
   ]

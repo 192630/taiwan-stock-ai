@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-21T16:35:33.198943+08:00",
+  "updated_at": "2026-09-22T17:33:42.430441+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2605",
   "name": "新興",
   "count": 12,
   "news": [
+    {
+      "title": "新興股債 適度加碼",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NTXNabHJtMkJreGE5aXh4WldIbGFqRm5rRTBCM2NNaVJ0UVd1TkJld2RFdjFPcnIzbkFYSlN6Uk1kVkhyUzRtRGJpS010UHk3dGExYk14Y9IBV0FVX3lxTE9NTXNabHJtMkJreGE5aXh4WldIbGFqRm5rRTBCM2NNaVJ0UVd1TkJld2RFdjFPcnIzbkFYSlN6Uk1kVkhyUzRtRGJpS010UHk3dGExYk14Yw?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-21T18:04:12+00:00"
+    },
     {
       "title": "越南股市正式納入富時羅素新興市場指數 預計引領60億美元資金流入",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QUDZjUzB3VWZNZ2o4MnctNTVlbkVweF9IN2twRXhoWDFaVk5oOHdNV01USVdDYXVDcjRYSU5pc0UwTWNlS25VVjdyZVhGdWc?oc=5",
@@ -19,15 +25,9 @@
     },
     {
       "title": "貝萊德重新加碼新興市場股票：較美股折價約50%",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnZkVBdnU4N3FzUmVoVUpyNFhva1ZqTTNhZnNmRkV6MGZ5UG1YOWt2bXgwenNNazJtXzBVTmFBVnZNMzllSmNteDN6UzNIMEZpMU50MW1n0gFWQVVfeXFMUGdmRUF2dTg3cXNSZWhVSnI0WG9rVmpNM2Fmc2ZGRXowZnlQbVg5a3ZteDB6c01rMm1fMFVOYUFWdk0zOWVKY214M3pTM0gwRmkxTnQxbWc?oc=5",
-      "source": "UDN",
-      "published_at": "2026-09-21T04:59:43+00:00"
-    },
-    {
-      "title": "國際財經：越南股票獲納入富時新興市場指數，迎60億美元資金潮",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVUh1Q0pDdW5Uai1XSWphbjUtY1lwY2NSMkVPMWtaTWVZbURXOFQ3ZVNxZFVMdFMwdGJ0Q2NUQ3RMTHFnVFNmeTkwR1ZGUGVhZWd3emNPcnVKRDBIM2JHLXhaeG02a3ZJYW5rYXpMWUpTZ0I3eGZDZUtpaUtvWWNxSDk1eW1pUkF6?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-21T04:06:00+00:00"
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBjM0tjTU56c2dKTWVGLWswNnFGbWdlcXBuNXpoMVZ2aGpRMU5GZjdOa2xfNGVWcUFacnROdDd3TEg2UmtXZTg2VlVUQ0plQ01lcTA3TjRGYnFoQUhHeHU5V0tybXV2eXpob2pEM3dRRnFaNHZRbEk00gFfQVVfeXFMTzk4WUdBRGh0b0s3UXhmMVZRd2V3elAxcVZYVmVVbkFPelNsSWlvSVBrMmhKTk9uRDJoaDBzcUkxb2RCV21kUG90Z0dpS3dCVVBRWkpYdjNVbDBEWTVLUnc?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-21T04:59:45+00:00"
     },
     {
       "title": "股市估市：新興股市或面臨資金外流",
@@ -37,7 +37,7 @@
     },
     {
       "title": "新興市場債 吸引力十足",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TWllLYXZLRjl0NFI4eHNQc3Fwcl9zRHRmV0dnVEtLWTBnLWZkazJsZHVyTlREc1dsLVFOcks2NGViQkJkN2RkOVRtX0RNbElEbkZiQnU4UdIBV0FVX3lxTE9TWllLYXZLRjl0NFI4eHNQc3Fwcl9zRHRmV0dnVEtLWTBnLWZkazJsZHVyTlREc1dsLVFOcks2NGViQkJkN2RkOVRtX0RNbElEbkZiQnU4UQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DeUxQMV9MeWFCU25zNU92LU4wcUJDMGtOc2dLWVNYUUZiRzUzdS1xNS1aUDJfWjJ3cGowUi1MNDFTOGtucm5pWVlOV3pXV0xjQ0HSAVdBVV95cUxPU1pZS2F2S0Y5dDRSOHhzUHNxcHJfc0R0ZldHZ1RLS1kwZy1mZGsybGR1ck5URHNXbC1RTnJLNjRlYkJCZDdkZDlUbV9ETWxJRG5GYkJ1OFE?oc=5",
       "source": "UDN",
       "published_at": "2026-09-20T17:48:03+00:00"
     },
@@ -54,6 +54,12 @@
       "published_at": "2026-09-17T13:40:48+00:00"
     },
     {
+      "title": "新興(2605) 今日股價與討論 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFNTlCTzhDTzVqRWM0WjJJRTlsaWJFUzk1MlNna0F6VTczMUxRRkNrUTVrYmk5NnBmQVBXRnB4S3JjNVc3ZHAxYm8zd2lnRkk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-17T07:00:00+00:00"
+    },
+    {
       "title": "美銀美林經理人9月調查！股票配置下滑 逆勢加碼新興股市",
       "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQZ2JVRFU0clBjY0lEQ0FPa19RMVg3RzhQeHJsYlRqWExqTFRYc0xBc0VMYzVpS1ZlTXRVQVlsSFRPZUY1TjlZek8tWHA0N2ZxTmk2TDVpX2p4cC00N04tNlduS1VOblRXU1pEc08zWks0S2FfN08wLTMxY0xFeFhpX09OVC1jcVpXMldYekJxejFkbXRobUloTWNndjVtNUQyeFYyVVFnbC1JMFhHejlzTDdYZ0dPLUlsT0wtTmt4QnJvR3YwSkdtVC1kMjhvMGdDU3IzdmFqcUprWXd6ZGdMdVNSRzFmQ2NaM0I0ODNSUmYzcVI4R0lndlA3TXgtYWZETHI3aG1UNm9GQ3JxdVJramVkb2NNU0JhTUt3ZjIwa3dLYnpQcXZvZGJzT3hYd29Md2hMUW1ZajZiNm5EbHphMkJNY1o5UlpTb2RFMW1pejRmV1BJZUhaU1ZSTWY5dWR0NW9EVUhKb3Q4Q3VPYlZEWDgyZFVqVkE?oc=5",
       "source": "Yahoo新聞",
@@ -67,15 +73,9 @@
     },
     {
       "title": "本益比僅9.9倍+高成長力 法人看好新興市場收益吸金",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOWlpOZVE0bjJDQWt1cVdrTVRwdUh0ZVducUZSUlhkT3I1UkNvLUIzdUhCcnY3NmxwaS1mY3hQS2VoWmtvUnRVS3JsTXhuR1dwVk4wY3FrdzJSdGF4RGRnSVE0Ymt0YmhUMm9ma29GTGQyUlZHd05zblVMOXN4MEpzM3M2LXY4Q3NpY2V3Znc2QTJKTmNJMjZJRVNNbi1nY0M0Z3hIbHFjRHNCQ2JoM1hJc1Z1c0JHdXp2QWptRm1HVEhldXRsTXdESE1EV3lXSVhsNVJJYU9VN3N2Z3NKUE5wNHJQT1lMYVF2Um1KajNVUmlWTVdIbHVNbWJhcVh6T0ZMVWQ1Q1d4YkRvQUhQZ1lzVnpGZHI4YmhYZGI1TF9SRm1iaEpkR3Axd0VFdU81T1JrSlZrVTQ2LXU4U0Y0QmQtdGE3ME5lU01WSy1tS1pHVWs2ay1FOVE?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-15T01:53:15+00:00"
-    },
-    {
-      "title": "新興股票基金吸金奪冠- 投資理財- 工商時報",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGdk5HNEtIc1MtZGhHT1BSaV9rWG5GRWctYnZ1VHh3M0V4MFEzQlF4V3kwaVRJWVpTQTlSa1lwaGs3R196UjVRQVdlMDlEZXhQV3ZKcVppNkF0S1c5RHp2SDFBb1FfMW5CcXhr?oc=5",
-      "source": "中時新聞網",
-      "published_at": "2026-09-14T20:10:00+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB2MWZwbWczeGNWZkVNN05fQVdHUjk1aU1ZN3V0RHJON1BWUnpIay04eWFhVE5IVENxZnZBUmprWVBHYy1SVmRiYkF3?oc=5",
+      "source": "winnews.com.tw",
+      "published_at": "2026-09-15T06:03:00+00:00"
     }
   ]
 }

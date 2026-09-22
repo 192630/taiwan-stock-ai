@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-21T16:35:46.904233+08:00",
+  "updated_at": "2026-09-22T17:33:55.604414+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2701",
   "name": "萬企",
-  "count": 1,
+  "count": 2,
   "news": [
+    {
+      "title": "BTC 破 8.6 萬企庫扭虧，Strategy (MSTR.US) 與 Strive (ASST.US) 逆勢加倉 作者 智通財經",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kdUdLNWtUT1RTM3lKcFllRDdDVHIySGc1TUJTalh2SGdtV2g1YnBMdUhfYU92LW5qZFcyeFhfZjk1d0wtS1d4QTU3ZG8zaWdkZ0lRbk9NY1pwV1BDaWVXTUFDdE9VaGhMamtrVmo4SGQ?oc=5",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "published_at": "2026-09-22T03:50:56+00:00"
+    },
     {
       "title": "英鎊跨期2702/2701 (6B2702-6B2701) 期貨",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZSUd5WHBPcEVfMHBxemtPcl9zZlI5WlRMdFN6Y2lmNG5TdTZZUFItOHAzWU4tMU5IUjV1R2llVTJSSkV3cUl1aFFwbHRwdHM0Rks4N2phZ1NPZWdhTkI4UnJn?oc=5",

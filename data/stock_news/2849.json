@@ -1,14 +1,26 @@
 {
-  "updated_at": "2026-09-21T17:34:36.414608+08:00",
+  "updated_at": "2026-09-22T17:34:15.980520+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2849",
   "name": "安泰銀",
-  "count": 9,
+  "count": 11,
   "news": [
+    {
+      "title": "安泰銀 (補充公告)安泰商業銀行授信資產轉讓之公告",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FR3BkWTc0am11a2ZTaXMxT0hRT2hmek12bVZCd0lXMDFTYlhHYllTck1DTGNVUloxMngtek9XLXZLRDRNdHA2bWI2YjljdDhLQ19XQk1CZ3k?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T13:07:27+00:00"
+    },
+    {
+      "title": "安泰銀 安泰商業銀行授信資產轉讓之公告",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9CVkFCSC11bXlZMlNqeU5NajRFZF8yR1V5U3Q0SWJUeE9BUjN5bkxuYkJfUVRIeDg2WGJKWFRuZy10ZzRQb1hJRUZ0d0JZclZSYVVyczBsYVg?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T10:37:37+00:00"
+    },
     {
       "title": "Entie Commercial Bank的每股營運現金流 – TWSE:2849",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeDRzdUhoWVVoMTQ3Z08tTExyZUsyM1lzWWd4bm5WNXJaM0l5c05QTnU2SWpOdzE2Y3hCT2Z2TlJ2bTBfamJ3TmcyaUxORGFfZHhmTnNlUldjM2tKQ0M5NVNoenlMQVZWXzhWdGk1b3h4M2wySVQtYTQ0MnVOOXI3SHppNXM2TnFodzB4SEVsV2hEckgwNmxfSC1RRTlJc0pwanZSYzhsSTJkVGVS?oc=5",
-      "source": "TradingView",
+      "source": "tw.tradingview.com",
       "published_at": "2026-09-16T08:07:46+00:00"
     },
     {
@@ -19,9 +31,9 @@
     },
     {
       "title": "安泰銀高資產財管業務正式啟動 深化家族傳承與企業接班",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10VHF5SElkS2R5ZXZqZHZvVy1LWUZqVVVGZXhhbVZXUFVqWEZRMHg0Z2dnTjgtb1ZtZG9LaTFUTVVRZnl5VHJza0VfenI5LTdmWEp2NGNYNTY?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-16T04:07:41+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UTEdpaDNXREdPRVplSTR6RXREaTV2dm5tMDlqTXJUVzZBRWVZWEFRZlJkRWRubnNVdlNUbXRhOENZeFV6M2E1MEVpYzFYbHM?oc=5",
+      "source": "news.cnyes.com",
+      "published_at": "2026-09-16T03:18:56+00:00"
     },
     {
       "title": "《金融股》安泰銀高資產財管業務啟動打造一站式服務- 上市櫃",

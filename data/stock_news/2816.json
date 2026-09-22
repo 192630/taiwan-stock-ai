@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-21T17:34:33.332116+08:00",
+  "updated_at": "2026-09-22T17:34:12.416269+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2816",
   "name": "旺旺保",
-  "count": 4,
+  "count": 6,
   "news": [
     {
-      "title": "【2026/08月營收公告】旺旺保(2816) 八月營收16.32億元，表現亮眼、呈現雙成長，年增19.61％",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tV0h3NmJ0WTB4MnV2ejlLUXZxRmhqMDhfODlQOGVnU3Z5eVhfa1laZHBjb2hSRGRwQnREaGM0ek92VlBacmdMdzloYjJyeEs4UTVFb1VNaXNRYVU5WGVGaTk2bEczdVE?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-15T07:10:03+00:00"
+      "title": "【2026/06月營收公告】旺旺保(2816) 六月營收月減年增，全年營運續看向上-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNem91Ynp2anJUSm1ZdGEtbUtfQlNBa1k0RnJhOTVFVjNONjF3VllwUE8yYWtseWc4TkJMaTBsVjdjN2hKeVFDRV9acVktdUl5UHl5RXlRV29RY2x4bG9BckxiTk9HR3pLRGFmblZLclpGZFpyQ01NcUREc2NwQzlBZmc4dkY0X0lKNmc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-15T07:40:08+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】旺旺保(2816) 八月營收16.32億元，表現亮眼、呈現雙成長，年增19.61%",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd1o4ZXZmTEp0QmtUS3pkVXhndm1lVGh6eDFNMXdrWV9sNk5rY2pRQk4tNGROTXlpTzNqcHZqMUhvbnVBNWs0b0VaSW5pMFJFQnBYc0tEd0gxekNtQ2NjamFMOVNzdEtIX05US18zOTVodWt4TG5ESE5vamhUM3pXTkpMa3VEQ09uLXc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-15T07:40:08+00:00"
     },
     {
       "title": "旺旺保(2816)-同學風向與貼文摘要 - 股市爆料同學會",
@@ -28,6 +34,12 @@
       "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNWmVBX0tMVVE3Zng5bDBCcmNlb0JCUXY4dlZUc0ZFYXYzSjVsQTdZemZOTUhTcDhSdDk0ZWZNMjJlZ29feVF2OFk1bmYybGFEM2VMd0hucUlUcmlZazlQVVF2ZU5aV0wydC0tWHB6UGl0Nl9WUFl1OUNHNFJ2RlFNYkdKcE9RdllJMzdCaS1oa0h2V01ELUVTSXNXYzRmUURKa3hHYi1CZ3Vqa2F0dklaWk5MWlp6UDBRakt1YXNhTGlDTS1qb21TdjhOZ2JzVGlEYnJ4SVE0TTFJblpLR1dZZlZVMHliaXVXSEJmRTJKR2Y3RDF4aTlvaHFkQ09zeWloSk43QXdPaTNnM3lPc3hRVjVYTE5jN1gwaTRJdVNRQVc3M2NxV3p0VjNXbmpZcl9KbzMtSWd1X1NyVWp6OXM3ejlEd2l4dDEteTR3QWVqNjg3R1hyYWhUMWx2Y0FSSmhqWTRJZnBrQkloWXR0VWsxcEpUVlhNTGliWXc?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-08-27T07:00:00+00:00"
+    },
+    {
+      "title": "旺旺保上半年獲利暴增384％ 股價衝近33個月新高",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLMFRlcVFXMnVKQTJNdHdRRGtYa1RjbVVNVlJfMlJMY3FUdTQxeHdwa21XOHd2d1FGUVAxdFJrU2NubjVEN0FCc2JwbE5sdVdsY3RGdUtHT1k?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-08-26T07:00:00+00:00"
     }
   ]
 }

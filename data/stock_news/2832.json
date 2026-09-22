@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-21T17:34:34.229687+08:00",
+  "updated_at": "2026-09-22T17:34:13.357679+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2832",
   "name": "台產",
-  "count": 10,
+  "count": 8,
   "news": [
     {
       "title": "(2832)台產法說會 2026/09、台產財報、台產展望、台產財報投資亮點｜理柴知道:法說最速報! - 方格子",
@@ -13,9 +13,9 @@
     },
     {
       "title": "台產前8月 EPS 達4.28元 已超越2025全年3.91元",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00T0pOVl9hUTNic0dDOFRueDBBVThuckEyMnBtaG1sMnVNZXctWFQ2MmQwdzE0WjJTcGFEQ1BWR3NrZjFzYzc3Mks5dEw1UFJJ0gFWQVVfeXFMTlI4NktIU05aNnZRbGwwNXluNzZlM2J2bkc2TWx1V3Q2bHlzWWttbktpVENUNy1aVnJLVzlZWjVFaGpSVW51WmFVZEN1MDBTSW1LR0hYVlE?oc=5",
-      "source": "UDN",
-      "published_at": "2026-09-15T03:02:34+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43VXBnWkZQckVRbVk0UXk4RGN0dEM0R0tfWnlfcG9VdFQ1d2E1RWU5b1UxT0NmYUt1bnR5cDhOU2lGRWxQSmQzSnBPY1N3Q0pHTUxHdlo1clV2QdIBX0FVX3lxTE56cFpBLV9fbzgtS2t2dzBXb3BSMkdOS0pWMFFrUkJ0Q0RjT0J4RElNcjhQMmxJdTdiUjY4blN6dTZIREotMWVkWUFkaG15UmtXb3luamU4NzFJV1hwOHpr?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-15T03:02:35+00:00"
     },
     {
       "title": "【台產 FY2026 H1 法說會】台產上半年稅後淨利8.44億元年增近四成，EPS因減資翻倍至3.33元",
@@ -42,12 +42,6 @@
       "published_at": "2026-09-14T02:31:00+00:00"
     },
     {
-      "title": "台產前八月賺10.85億元 EPS 4.28元",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pWkd0WUdYMlh5THNTWl9lVlFaclRhVEU3cVdfNnpadWd1ZWViOVExOFZzRmczb0NRNnVyME1rNjhkeUZBZGRrTktJMzZJaVQyLWdzNEVpMkRVeHBzUllR?oc=5",
-      "source": "工商時報",
-      "published_at": "2026-09-11T07:00:00+00:00"
-    },
-    {
       "title": "「這機櫃」掌握台產命運！謝金河點名「15間台廠」",
       "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPSEJpZ2hYMlcxNjdjMDhQaWY0VGZDUXNLeHVlNjRSdGdhcEhrTzFreS1jMTRrM1RMTjAyUmszX3pSemo5Q3JVWEN4WDJQeVZwUVRsN0RqV0NsRnZRZmw5UUEwWGI3cnRqdDV0eVpCNzdBTDNMb2I3WTVaMUtpdmlYczJ2NUd6cTk2aVhPRjRLX01rZ2pHRGxRcTF3UGhfZGtLckU5SERHMEhoaWhOX2FnbENUNG11QXZHd0wyb19QOUNNUGk2aFVTOEQwR3ZrUEtxUUxCcVlFdURtR2VBZ2dIengxLU9ROVlvQUFZdzI5QzgyOVlRY2tRMUhid214U2lsYjdOb3FNQkhQOWZ1aENhS1NBNUN0OUliYmJrdmxaaVJIbm94WDVSVlN0NVpTdw?oc=5",
       "source": "Yahoo股市",
@@ -58,12 +52,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XVEFEUERBTmZHNldpZDUtYlp1S2gxcmlPVDBKcm94M1hVc1ZySUhOSXZPUGczREdQcS1yY2szRi1uZjNrUjBWMGxydnRtQ21tdXBOVGdLQnlXQQ?oc=5",
       "source": "經濟日報",
       "published_at": "2026-09-04T07:00:00+00:00"
-    },
-    {
-      "title": "2832 台產- 台產公告本公司研發主管異動- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GQklnQ3ZuQ0Y3YXV2WURzdlRMVFlIQjJWTzRHazFhc2NsVmNiWk1IS3I1clR4LVJrakJVanUxMGw1VjJ2dTJtWVpGeDBfeXZYSWozSURrSmE?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-28T10:06:45+00:00"
     }
   ]
 }

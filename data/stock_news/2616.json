@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-09-21T16:35:39.281280+08:00",
+  "updated_at": "2026-09-22T17:33:48.217395+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2616",
   "name": "山隆",
-  "count": 1,
-  "news": [
-    {
-      "title": "山隆拚轉型1》搶搭亞太永續博覽會 山隆要把「碳數據」變成新服務",
-      "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxOaEZ2b0s0V1FWUHJqWVRqWWxRQUNSMlZYYndzdHUyV1kxYzZUN0FyUjVKWWRxWDhpN092YnhqajR3ZzB2bXhsbjREeW0tWnNTUzJtQlNEY1NNc1h4cjRNVU9wbTBWVEhpOUoxSUpDNE5SSHh3MTQzZFNtZHc2anFQWnZ3NVMyTGR4aWUzZy02bklwd21mVl9Nd3BQZDd6NGFvenU5ZERxcWpudVB0MmJyVVJEQldsa25xSm1QM0oyMXhtZHJUVUUtbkpJQlc0YzkxZVRib2NRVEo2OHM1ZVJzOWhvT2paQTBGVGZnWjhDUXdRZExpamtpXy14cW5renFHTWxta2l3LXJZeHNnYnBYNlBWUzEtSWZUQzVMNXR3RjVIMk9tdV9jZHl5SGZ6UFBNNkwtaFlNNGJ3VDhzSTZlaTdaWDdwSHRKTmJmLUFnZ3NFcjQ5bzM0YVM2WDN4WHFGQnJpaGlXYmk1ZHZEdTktOWdBem5FWE8xWFpQRm5GQ0FXTDdmWHFsc2xBbEc0b3EyUnc?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-08-27T07:00:00+00:00"
-    }
-  ]
+  "count": 0,
+  "news": []
 }

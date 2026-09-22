@@ -1,34 +1,10 @@
 {
-  "updated_at": "2026-09-21T16:35:42.205687+08:00",
+  "updated_at": "2026-09-22T17:33:51.011671+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2634",
   "name": "漢翔",
   "count": 12,
   "news": [
-    {
-      "title": "漢翔(2634) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xTThuZWRSUWJvdUNhWWNJN18xeWUxTHJ5NmhUYUNwSVpVRGVRb2RUa1FfMHpSWmVfZ1BSNmtqLUFabi1aSURtcGVLcjJRNl9aYXlV?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-21T06:00:40+00:00"
-    },
-    {
-      "title": "林岱樺率團考察漢翔岡山廠 串聯高雄海陸空產業搶進無人載具供應鏈",
-      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxOUGdKQnRocVBqbVR0WDVmUGZwUE13NXd3bjRQU1diS2p6NXdReExBVW11blplY0hDX05JQkNlMzd6aWtCZmJuNkplcXdqdWpyTkpzOEo0UXVhZVVicWdOdUk2eVFGQmtNeXhmTzZiaUNvZWg5ZUt1ZWljck5fSHpXRFpkZVdTSjQycVQwUmtRcENLbm5sWHB6ZWRYRnNVS0xPY1A5aC1raWxUQmpDOG55NktfR211c1lldlhnSmdIZjVSaVFRb0dwRF9zQzE1cHlNLUNNMUhRcVBYU1oxRXd1cEs1ZUVQVzVzdUozUjEtYkJYQzc1OFBzbmhXaDhBMFh1UlhfZGdFcVdSbjZZY290Y0lCSE9lM1pNNFI1eFh1c0g0REh2TFFZUXl6SVNiMFliOC0tWERxcVRkYTM1Vl9Ndkt3UXdGd2FEZm5hT3VJUTBQQldybUFGeldzaUQ5N2c4b3JsR29QbWpmMUJPS2czdnJoTWlvcWlLaHRwLTRqVlltY3djSHllUW5TekdaZ1VoMlZfNDhoREJBWnVnRFp5MW9nT0hJelYtaTAySTI3ZmhNVEkwTjZISTlVeFc?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-18T07:46:36+00:00"
-    },
-    {
-      "title": "漢翔採用輝達超級晶片 與安圖斯導入邊緣AI工作站",
-      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPbm11MUp2UTFsZ1ZhcFo3Wmt3RGZaeDdUTmN0UEpubm9hdUtZS3pNU1ZXV0k3YmZ2UWJpTmJVUENFUkxOMFhweFhYVUxlTFNjTnEtX1NtSm9EZW1PUVZSTE4xUlZtWFF0RDRfLVlkVDR6bjVwdGdnN3B2R3gtTEdVRTlWcjFTT09UUHBSbDR1XzVXRllJcGdQclpyQVdIUWpqVDFMV1hVbkN3Z01lbVZMcWxhdjFncE4wSHI1VmphNXE0MDROYkJxamN3LVJwM3Nvb0pYdmNBdER1OU01MS1kbzF2eXpoM211YVdRYjlQMDBUeWdHUXpoMUg5VkNGOWUtNXBCRmhYTEVSSEhqeGZCVGZCRnVCR2gtUV9kdlhtbjJPMW9zeWtURnFFZ2tWcEZvWVZRRFlwaTg2MWtrX1BKQmlXNThnQ3VBZ2V6Rkwzam5vdFk?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-17T02:52:01+00:00"
-    },
-    {
-      "title": "算力搬進生產線！宏碁旗下安圖斯攜手漢翔，AIxWARE已串接逾3,000台產線設備、搶攻中小型智慧工廠",
-      "url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxPeHZPVU9zX2IyQ0hTbGNvYWdSZmt0YWZ5b19paVlETTJyRDRNQXE0bk92OGtJY3h0SW4wUmVua3o2NzNqaG1ob2Vxd2Fhci1XQmU1cDlzVDcxYzNRNVZVMXJ3SC05Vlp0a3VQOWNrTmtRRC1UdXM5U0pVMGV4elY4d1RzbktwUlZtbkZoOVlxUDBidjdOMkk3c09JZy0ybVF5N3ZxSEN6MDcyU2VMdXlTdjBtZFNTSVpFbGdmUDZVZVZwOGpEVS1TdlVDOFZfaTZpOEhINllXZjRPcTZBWl8tUWpWS2UtUHFCQ2VSNWV5VkRsdmlpNUFoTVlTYkdKVTNQVUs2Sy1BdkxsRmlWZmNKZFpVZUVkSlg1QjVmcElFUjRoZl9xd3ZIUHRrMEhiVG92dEhyOWpnTko3LWNxQkg1UGRoVlA2TzFfZmNNZnpsYV9ZMWxTUzhXbG83NHdPM0J6Y1ZtT3o3eU1zTVg5ejVjeDBSQUtFdnhEN180WDJQYlhudlE2ZWtabkdfcVdTMnF3bko0S2g0NXBwdzlHWlFta216NE02SGxSNmNqd21WWDg5MHF1ZXNycjlZRURkZ1M1T3hNdnlwQ0RDNW84M1c4STVoRmZNbWNPNUdYS1BCM21xTDBwVTlMODczN05Ha3lHSTYwWVYwdkxmOXpxdEdrbGU4TkJ4bGY5bFBRaHN0YWMzMWZyNkFv?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-16T16:55:04+00:00"
-    },
     {
       "title": "漢翔結盟宏碁小金雞 軍規級AI落地",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlQzBnX3kxRG9mX0lndktfOEdUbVQ3OEJtZ1hSZ3Qwa3MyQ0NGemVTYUNXZHJRVWwzeGt6QzNQc0dSU2sxMjhoOU9TV1JwMmFOUDdqNGdoNDg?oc=5",
@@ -60,10 +36,10 @@
       "published_at": "2026-09-16T05:27:25+00:00"
     },
     {
-      "title": "2634 漢翔- 【0916漢翔盤前日誌】空頭海獸來襲，風險如風浪逐浪高！ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTMTNvT1BXMVJzbTJ1WmZkc3JnMk9sNXlFLUlRQTkyc29SNGFYampuYWVaNzRRZmQxYUNvSU45eGtDOW5LWGJINzIzbS1rT3ozVURCUU1ITHk?oc=5",
+      "title": "2634 漢翔- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5bW1qRWlZWk4teE84WmJrdW1PazdHUWl5SG91SGo1dmVoZWpCREd4OGJ4RlZfOVF2NElXcmt2ZERWR2dJeXhNSmtXUnFSQmw2Z01URlA0c0s?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-15T08:23:13+00:00"
+      "published_at": "2026-09-15T05:11:11+00:00"
     },
     {
       "title": "漢翔、華新傳捷報 大訂單入袋",
@@ -72,10 +48,34 @@
       "published_at": "2026-09-11T19:00:32+00:00"
     },
     {
-      "title": "漢翔(2634)主要產品與營收占比 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YcXhoVGZFa0c4X3Y4bFd5ZDdDc1hYQjVnUFFiSHZ0NHRpRnV6bVZaUHRqRkRRLVhZNUpvNEVRU0pzdkdvZS1hVW1zaElkQnRPYlZaZHNJbWNfbGIxaDNqWnBXc2dlQQ?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-10T07:00:00+00:00"
+      "title": "漢翔奪龐巴迪20年大單...股價為何漲不動？法人親曝貓膩：明年「1原因」獲利近腰斬- 上市櫃",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92aEZfSzcyd095RS15a0NSNFhpNEVza0tFdW1iVG91QXd0R2d4dDJvQlhNa0R2XzR3TGVSSVZPcWdRMkpfZkFHR0pwa0dRS3N3TTExUjQwUEN2NDltbUZOVVpkazJiMkdyYnc?oc=5",
+      "source": "旺得富理財網",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
+      "title": "〈台股盤前要聞〉外資爆第四大買超 台股重回4萬7、漢翔拿下龐巴迪20年長單",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DRzJsYjJxcnZnZHVyV1JGa0V1Z3N5a1hCdllFcFlkSGNNNDUyV1hRYWdaZXplRnlscHNBWlNjREFsU1RrQmZOSkE4dHlIVmM?oc=5",
+      "source": "news.cnyes.com",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
+      "title": "漢翔民營業務創里程碑！奪龐巴迪20年大單 今成交量1.4萬張",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xZmJTWTJ6RWFqQ0lMRXlkMUFJa0hBYXlVRUV1UW8xckVmMTQ5LURxYUQtalA1NkZseDRRdGJmMGVWX0FRSElFT0dzODZkWE0?oc=5",
+      "source": "TVBS新聞網",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
+      "title": "漢翔拿下龐巴迪20年長約，挹注民用營收穩健成長",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQMF9ZSFpocVduZEVZR2pGNnZlY0hhTnVWUkwtQlZmVVcySGp0dG9ieklKSnBuYjZxRk5PbzlpMWQ1UWkwS2tMYmV2TzNRNzdjd2EtcmV0emxJa3pTQUR0eHhoWE1fdnllanNZc2szVy0tLXp6T0I1b2ItUDRyMm8wOTBmdkd2S1FWMjQwcWpTQ2I2TFRISUMwekI0bWdHU0R6RXBuTlNvMXRwRHlELTdXa1hmMXg4X2RvMmxNSUhHWVpBZ01XRm1reU5oYlBYTVJoMVFyT3VDUV9tSzV6U18wSHdZMENVc3ZiekVaT2pNcXB0aE1Cd1I3ZEFJWFVLVm9mZVh5dEdRWUc3YU1IT3JZTmNBZS10NGxoamFDQ2RoTXpfRkEtbTE0ZlJQbFhOS3k5Q2NObFRKU0otVEd0OEpkOTlza1RURXJabWpjWXBScw?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-07T07:00:00+00:00"
+    },
+    {
+      "title": "漢翔搶下龐巴迪20年大單 龔明鑫直擊：台灣躍升全球中大型民航機製造強國",
+      "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxQVEg2M3QwM2FWQzFkbVZnbFhiVFNpdnNMbGtrTWZNZG5KNmJ4eWVfeTJ2czd3RG8xYnlDaGNXdTdZd1JTZ1JfUlZRbG12aU5XeWFtRU5abkpWQVBlZVRySEQ2NzMzaUx6bVBaNzZUOXJJV1JnbHpUcG01YUVwOElvOHh4d2pNYkE1M0dZZmNJTng5bUV0TlZfNVVYT3Q2TjZKMDh5RDk4bHNQMkNsMlhrU0hwa25ZSmZpdWFSbXNKRE02QVowZ2RfRGl2MmladXhwbnNCQzJoMGs4RE81OFhmYWlueFlpTld2X0ZoWHhYVGtmMnVESEwtay1xZmsxbUZKNEZVMXNQTFdIS0JVeXlmelp5N2Y0MGtoWERNUS1pZkdvU3BWMTZraHkzekxMM29GaF8zOGFTQ2ZEMWtzMjBFeWhlYkdNa3ZiV01CVG9yTGs1Vkt2Zjh1X1NVNGFvMU1FbUJ3Z0tqYi0ya1pQclQ1bnFGOXJ4bnNtM1ZKSHV3VVZWTzdMcnZ6SUNRVUQxRXRiREhCaXlWQ2RxMFM2bXF4cjlUS1RNWmhzc2Jvd2hxWnAzTzVEV3RHUW9SVzdJY2VCNkNsRHpGRXpaOFdiTkRmQ055UXVOeWc?oc=5",
+      "source": "Yahoo 財經",
+      "published_at": "2026-09-07T07:00:00+00:00"
     }
   ]
 }

@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-21T16:35:52.110467+08:00",
+  "updated_at": "2026-09-22T17:34:01.031134+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2724",
   "name": "藝舍-KY",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【2026/08月營收公告】藝舍-KY(2724) 八月營收營收月減年增，全年營運續看向上-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRzA4RXRCbnVySmhjRTg2OWo5aGxidlhYRE4zc0V1eEdEUEFDOVVyVWptVDVJNDFvd21JemRkVVNhUURXUHc1ZGVDak1CQ3hBWm13STB5QTVVU05nNmt5SGVvcG4wXzN3SDIwUHMzSG5KTS02aW5hWTBSNElrcVJTNWgwaW53Y1ZoMmc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-14T08:10:14+00:00"
+    }
+  ]
 }

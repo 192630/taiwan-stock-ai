@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-21T16:35:30.513218+08:00",
+  "updated_at": "2026-09-22T17:33:39.776295+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2548",
   "name": "華固",
-  "count": 7,
+  "count": 8,
   "news": [
+    {
+      "title": "華固(2548)成分股、持股明細總覽",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE01blN1bEVOb2VMclRZUkdiZmtTUlBOcW9SN2FoSl9OVkUzOWk2M2Mtem5lZGRHeXViTVpZRDd4UURrTFNIOVU2UlB3?oc=5",
+      "source": "pocket.tw",
+      "published_at": "2026-09-18T07:00:00+00:00"
+    },
     {
       "title": "【09/09券商評等報告彙整】華固(2548) 今日僅1家券商發布績效評等報告，評價為看多，目標價為105元。",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWmZEYnNRYnJISnlLN3pjNXlpTHJBRFNFU1RiaDk0aERQMV94U0trR2U3WENsMjlCeWtZdUd3VHYxeDZkbVROMWhHWmNNblJtX2UwR3lrX2ltakhNSFUzQ3Rwdk5Tb1duUlcwMDNaNDVyd0ZUYm13U0dWTDh4M1gzMHZyUG15WG9GU1E?oc=5",
@@ -38,7 +44,7 @@
     {
       "title": "房市谷底撿寶營建股？興富發、華固、長虹、達麗搶卡位… 看懂「928檔期」前的關鍵訊號- 證券",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQNk9KcnZHVkRMVDRXdXNVZlM5d2lCRXhpNWtTdkFPRDhsTHdoSHNuMWNvYk9PTFJjVEE3aDYtRmk1X1dYSXMzMEZXUldlb3NpQWE3S2tOVG5jUTRCNF8w?oc=5",
-      "source": "ctee.com.tw",
+      "source": "工商時報",
       "published_at": "2026-08-29T07:00:00+00:00"
     },
     {
