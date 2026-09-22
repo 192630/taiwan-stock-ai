@@ -1,21 +1,33 @@
 {
-  "updated_at": "2026-09-21T14:42:33.988794+08:00",
+  "updated_at": "2026-09-22T15:34:37.980509+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2371",
   "name": "大同",
   "count": 12,
   "news": [
     {
-      "title": "2371 大同 - 33會到嗎 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03c0daY0tDQ2lzMHhFRHE1cWZEQlNIUVVHT0pSMWx5alhaRlpXMUsta19HZWF3V203eDlEeWNHa1Y5cS1lTjZ3VHBpQjVxdU9nSXJCYU9idks?oc=5",
+      "title": "三立財經台總監傳將退休轉往大同工作 昔認靠股票「財富自由」",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OblNKMHozNThjejlPSU9LZnpORk96QlFuV0Z6bUVnS2FOc2tmR1hBSHlEQXM3VjJQcVRNeU55RkpJdWdnRzF0TzZwQmh3dlZEMWxIbnpoRkNpSmJzS3pIZGxkNENqbXJtcnNEWGxB?oc=5",
+      "source": "中時新聞網",
+      "published_at": "2026-09-22T07:22:14+00:00"
+    },
+    {
+      "title": "焦點股》大同：AI電力題材發酵 股價漲多拉回",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZMjJpZi1OUEloVmc0SWtpRnBmZjh2UzdfZzVKZGcyRGVnLTRPUzE3d3ExNVdwazFra3QyWWVPQ0RNbk1ieThjdThOX19VdlVfczZIeWwybG4?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-21T11:58:00+00:00"
+    },
+    {
+      "title": "2371 大同 - 張董事長～ - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaekZGWm9IS09EX1A4M0I3MEFCVkltZjBGUG5ERU43STlRT1JjcHZ1dlNfVHdGak1kZ3RXSVpBUlB3RS1XUFVEZTdGaE9VR05Vckx4QkxldV8?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-21T04:24:51+00:00"
+      "published_at": "2026-09-21T02:47:05+00:00"
     },
     {
       "title": "大同集團(00544)存倉市值總計2896萬港元佔比25.87% 公司股東將3200萬股股票存入交通銀行信託作者智通財經",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95T0szZmtzTkU1VEY3WlpHTVN0VEh6TUE4ZHVCX0xGRGhFbUh0U3Vhd1cwcERJQm1Wc3k3b3lybjBhM2ZRYWNHSHUzUnRUclBSZFZocktHX05qRkN0OXI0UDl5MXZPSUFjckhUSlY4MTI?oc=5",
       "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "published_at": "2026-09-21T00:56:15+00:00"
+      "published_at": "2026-09-21T01:43:20+00:00"
     },
     {
       "title": "百年前台灣學生怎麼上體育課？台中大同國小史料揭「屋頂做體操」",
@@ -24,16 +36,10 @@
       "published_at": "2026-09-19T15:33:08+00:00"
     },
     {
-      "title": "焦點股》大同：Q1營運表現壓抑 股價走軟",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZcVBXV3UyY0MzaURfbEZ5VHRwcXRMb2hkeDctQkxPa0ZsTE5ZdHBaNm5kRW1qa21oTnN6UmNzUUs4Q0sxYm1hTEJ4QWc5Wl8xUHRTUUVjMnA?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-19T12:56:04+00:00"
-    },
-    {
-      "title": "焦點股》大同：中國法院將強制執行華映案 股價走軟",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5V2JGcjJsZV9WZU9sLTd0U25PQ0pmUk5GYkhSRk5NY0FLS2Q3YXVOYjF4MGhQcE5COEhmbmRSeW8zOFV2Y2NNNHl0OHlxQ2RyRlQzMWJFdVQ?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-18T22:29:37+00:00"
+      "title": "大同加速布局新能源業務",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6WmpBcjNQZVRoWDY2UEduZUYzWThJbW94TE5JRFBvdExDVlRVQ3pSZFhuM2RWM2lpU0lvdXREWUhuSk5VQy11UmhFT3o2WEQ50gFWQVVfeXFMTTVaZ19kOHpLanA0MDZXUmxIOFo3ZGNDbVkxMmR2U2FGLTQtTjNjdGFZbzZMcHV2ZWU1cVNHWlZTUVhOUVMzalJ0eUxsWHAxaDZhUldJU3c?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-18T14:50:36+00:00"
     },
     {
       "title": "【12:16 即時新聞】大同(2371)股價走強，AI資料中心示範場域成盤中焦點",
@@ -60,22 +66,16 @@
       "published_at": "2026-09-16T02:19:29+00:00"
     },
     {
-      "title": "【12:48 即時新聞】大同(2371)盤中走強，AI資料中心與北部電力題材受關注",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91VFI1dHBfWktiNk9ZdThHS1g1eUwwUVRzVnJtbHVSNHBkemhubW03bGlpOTl1bVpwOG43ME1IbGJyRm9iZWVNME5Ua1BYLUVqMmJqUnJoRHdhNU5jVlVRTzM0RGZIVUk?oc=5",
+      "title": "2371 大同 - 題材沒了 大盤紅了還是得跌 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iQnd5Q3RqX0hhTUk5bVZSWUxvMldLNzRKajR3bjJSZFEtdmtycWI1MTZjUGVwY09BbzBYNDgzemlkUzZCM3JqaFVvQklRa1NVYWZyUmFFenE?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-15T04:48:35+00:00"
+      "published_at": "2026-09-16T01:17:18+00:00"
     },
     {
       "title": "法說會速報》大同土地開發三案總銷430億 未來四年認列",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XdC11Qm1YdFFDLWR5SHVTRzRmZUV2dVR2cEZSV1VQMzQ1djJCV0xqOE11UDJwX1ZsdGdnVS0wNWNTSGtRdHNxQzhEcl9XV3pEWkFaODB0RWU?oc=5",
       "source": "自由時報",
       "published_at": "2026-09-14T07:13:36+00:00"
-    },
-    {
-      "title": "2371 大同 - 綠電鍋參與標案權還要幾年解封？要公告周知！ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqZTNfNjB6SEFtd2d3d3o5TGw3YVlURnhlOFZJODN0enQ1UXVCSW41bkktZ3c2LW5QYjRwTDBLdWtpRzVzOUxZVXlnclZmdDRPaUk2d3N2UXI?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-11T04:27:16+00:00"
     }
   ]
 }

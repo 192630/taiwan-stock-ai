@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-21T15:35:52.353527+08:00",
+  "updated_at": "2026-09-22T15:34:50.607540+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2419",
   "name": "仲琦",
-  "count": 6,
+  "count": 7,
   "news": [
     {
       "title": "【11:29 即時新聞】仲琦(2419)股價走強，低軌衛星與月營收創高成焦點",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZHYwVXpiRjhycWlHanRVZmw0VzZKb1poYjlIb0hwNTZzSHc0NTJyV0R2M2xLdm5Hd1NkaXdreGVCaDluZW51T0xsMU82TklPNGFLX3Jibm5Md3dpdVYzTHMxT3BLOUwzbG1hQXRMRDNET3VtLWdhX1lnWkNyMWNMNVBxVVFWX0FfM3FvTmxR?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-21T03:29:58+00:00"
+    },
+    {
+      "title": "盤中速報 - 仲琦(2419)股價拉至漲停，漲停價30.65元，成交5,203張",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sa0VHMHBGVkN5TTlQRnVLLTNRYUc2ME8zYnl5UzJ3S0hQYzVDRzZKYWRnNXJyWnRuMUlIdTliLUFjR0xxS2Fxb0FlbTVaVGU0VURoNVdnSnZPQlFFZHdHamlPUEg?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-20T20:30:00+00:00"
     },
     {
       "title": "低軌衛星撐盤！「這檔」連3漲28.2%挾仲琦漲停 大眾控一度亮燈、宏觀大漲5.66%",

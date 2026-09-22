@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-21T14:42:31.261222+08:00",
+  "updated_at": "2026-09-22T15:34:35.201629+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2362",
   "name": "藍天",
-  "count": 12,
+  "count": 7,
   "news": [
     {
       "title": "高階PC、商用需求助攻，藍天NB下半年拚成長",
@@ -30,36 +30,6 @@
       "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
-      "title": "迎國際清潔空氣藍天日 柯志恩提三大空污政策",
-      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNc0g0bEVoODB1dkxFakpLa0Y2enQ5a3RSSzQ3VDQ0UXBEOThucHN1UGdhT3pvNWdQaVZyeHVMWEM0Sjd6SVlTZ0JFb0h4WnBBeHlEaTVIajhhc0xyVUh3OGxMRURfa0JhNDZuWkdqQllyUnJ5MktBYzZYbkYtd0JXQ0VkZXZqTXlZRUhXOTczVnlBSlhQSF95dFlwNkVXRHpMVWlnVUh4cDgySGctWHJreTZWdTNzR1R5bEl4d0NHNmFUVzlra0hvcHZITm9LVkF0X3hZaENkdWhxLXFxYlBQQ2pBak1DSlpwRmJRT285RUtjT3VESDd5ckMyLXJPUEpmZm85NXMtQ3hfZWJYc21YVTl1VDR0MEJOalBxd3o1aGZ5b2xIUmM0Z2VXcXduNlZPR1ducGpDekN5bXF6azhIYkxuLTI?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-07T07:00:00+00:00"
-    },
-    {
-      "title": "柯志恩稱是最好的接棒者 讓藍天再現迎向高雄新政局",
-      "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQb041cFBKMVhTVnE3N3FCN3NVN2dBZjhWTk1TSi0tcTFFU3dkenFjUEx3YXBZOEx4MnV3djlUajgyWjNTdFdnbzNyS3NwbHREQXM3OGJudDZFUE4yZXRRLXRIaHBKYU5vSzB3MTRQMFo0V1BmNWkydlFmT3AwRUtwdFBPR2VDQjZsWklUOHc1ekZzV1dnOG1vUFZqdlZBVDV1OW9XLVBPT3U1Yy1uWGFhSEhRa2VrdFpWc3NVdU1HM01pdHdnTzZoTjVLN3lsS0dPT1lWM1hib0xDVnU5T3cxbW5iMDF5Q3NBcHd2YkZCVkZVRURXb1lvQmNVWjJnak53aFhvckpCWl80dlZJOU52SmJETm42N1FnNUZkRENmNkxPdFdQVlJIX1ZBdHVNVHc0ZlZOSWtuVXpwWXJzenpWN09ScnZmaXlnLVpBR0JDNzZqSkFfbGR1QTN3OGlLNkM5RWNkRlBaTnc?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-05T07:00:00+00:00"
-    },
-    {
-      "title": "藍天白雲給願力 趙信玉穿梭前線不畏苦",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPanhqaHBCblhRVU1zeTdfcE1vQTlsUC1qdFl3MjVnbGp0anNhQ0ZSVEREV1pkMkFqV0VpLXgxM1FJeENyMWNBTEhxV0hxeV95YzNNbER2Vk9aZEVLQ0FrdVRqYVFHYUZGM0JaSmRWa2VpR1lwQWxQVURTRHFFNkxsNmpoU1g2Z3Z5SnNGckZOUEJKV1FlZG5NS2plMVRhanpBaktWZ0RmbVYxLUpQc2IxeTA3d1VEWFJkRTNTeHMwclRMZXc5aTlEVWExZkdMdDBHbDNjWDJub2dGM2FGMUF0c2FUNlUzVy1QbE5wclRySGRBalRkeFpmODdfTzBBOWZtSVNYbnlfQWhxYlIxWWJKOElzTnhibndPT25oRUt5QzE?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-05T07:00:00+00:00"
-    },
-    {
-      "title": "王金平陪同登記 柯志恩喊「高雄藍天再現」",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNZU1lU0VueXotLXQ4aXZsU0lxRE9XTkpzcTZEM0Z0UTlrTVFmTmVVNVpIWlVTRlo1MFVTZkhudjJZdnpEbTI1ZmVkX0tORkNvb1prYmFzRGZFeWtvN0cwT2hDdmZLMTlvY2VGNklvWmhuX0Y0d0xnb3RMVnRMS0syNFdVc3ZNSDhzUDZwM2ZXeVBMY0VXZVAtOTlrQ25qSkxCb3g3cnNFcHc2WnU2VXFxTTVOMGhWMFVtcEI1dzJnYklHSS1fWXdSazA4dXYtUFJGbXc5N0hvN0lSdHZaVms0LXJ2Y29Bb0lxTVhFNkl3VlBqd3BTYUxvNFdlYWlhdlNuUGlHeUdGd1lfYUYtcDU2eFRTUEZHVUlHTFJDcVFCdFgtQQ?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-03T07:00:00+00:00"
-    },
-    {
-      "title": "陳見賢重申信守承諾不翻盤 徐欣瑩喊話期待與陳守住藍天",
-      "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxQZ2lKMjRhRk5oOUtqbHJvUFBkMFVDX1RSdEx2QVc3b1NrY1ZWTkstaHlNLS1RVHRHY2lhWl9VMnVOUXhKR3lvaXVHNTVQcnRkYXViMlVKQmRyWWtyS0NWNW9PM1hjTEl3VEoyRjJfY1Y4b3BLMktRSHJzM0JoZGZCVVI1VTF0YVZaQ1NPN3pwdGNXblF6QWFOemZrbFFnanJOajdGOUQ0M0tXZ1VNRTMzc3k5b3FfR093d0dzNE5EYnZrUDRJNkNsRUdfWVNEU0FPUXRNeG1CZkw4UW02bFVoem94MHhmSC0xTEx0SkNkc2ZReDNKZGpncWktcVZidU02YUJVVVpGRE03d1JCNHJmckhlNDFGcUNhRGFZeXB3ajlpZExhQzUwT3JoTmxzTzJKWC05MGJHUjhkS3pGS3dDbHB6NUdxWUxXSkFCSU1Fd1E3ejQwWTZWaGRwX20wYWdaQlpwd1RpZ3BhNEVHVVNtMlNBV2x0R1V0a2RYVEpSRzY?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-03T07:00:00+00:00"
-    },
-    {
       "title": "科技治理守護藍天 中市環保局推動藍天白雲行動計畫 展現空品改善成效",
       "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxPZTZRTGRJOF96UTJCOWFxMTZtcTh3bUpSalpTWk5MYWY0X1FNU1FnZC1oaHR3V245YUtBdzlNR004UEVXOG9nSmFMQkg5QWs4RXR4cUV4MWhXR0hwT29uRjlaMkpac2ZySlhjblE2VnVJelVuVUJPNzFwcG5aeE1ad203Wk5zb1AzQjItSDlGeVdSLXNLVmkwalNBM2NNV1VvRWpLdWNvSXllbGIwMzI3ei1aemNORV9BeXVYV2lRbzJMMHZzS0NwTmFXcXZZQWRGY0ZfUmVvZ0hvdTh0V1BZRlQtVFZ1Tl9UdzZ2QktRSlFtX0FWVk55aDdRVi1lcERWLVc3OUFySFg1cTZvRFVNSHF6a2xjMllpTE1ONXNENUJjY0Y5NHlhQ0ZrQy02VjllNWdick12MHZxYmMtQmFMeVd2SDRqbm1ESkJBamFQYURlbEEwSFZKeEJCTTFpazdqNGVJdnBHWmFPV1ZSbC1sZUVQMDR6S1VCSHo2Uzh3VUZndXg0YnB4cDdPRi1qeUVQSGtCSE9saUI5bF9SYVZyOGwzcjFCSVZ0NGZRMTYwejNXOWZsVmxlNk84aXlHYUxBYTdFeC1yZ3k1Zw?oc=5",
       "source": "Yahoo新聞",
@@ -73,8 +43,8 @@
     },
     {
       "title": "【13:03 即時新聞】藍天(2362)股價上漲至48.7元，受AI PC與筆電逆勢成長題材帶動＋中長期多頭結構與主力偏多佈局支撐",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tTVNTRERRYTRVNDVVQm1Zc3A5enZOUE44bmFqRm9RQmozV25nbHlEXzhxYTlMdWJpNWhpQVhWOWszRmdFSXFnT2FteFRxNkZnU3IxOFl5V3Q?oc=5",
-      "source": "CMoney",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOWNLTlU0TE9hSlVaWlNSdnlzQ1hKbjg5T1Z0czVjUk5faVIxcmpBT09vdGJ6NnlFTFQyNmxfOUgxM3VrVlVvbVRQR3BPTTU5RmVlSWJLZDZyeGJiM19CYWJqVWduaGJCRTJVQU9ZRjZEa0ppLUZfVGpUWFJTTkFTR09tcEJPTVd0emRZUE5B?oc=5",
+      "source": "CMoney投資網誌",
       "published_at": "2026-08-24T07:00:00+00:00"
     }
   ]

@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-21T15:35:47.118573+08:00",
+  "updated_at": "2026-09-22T15:34:46.278506+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2404",
   "name": "漢唐",
   "count": 12,
   "news": [
+    {
+      "title": "《投信買超5-3》日月光(542)、中砂(509)、漢唐(456)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTUlTckQ4bVFONXpkd3B4bm1jNS04VGo0dXpBblJnRmRtMHFKVVc0MkQyOWwtdFZYZWpwQjhXQ2JmSEhmYTM0b1BaZnNOMlVUWFA1WGo2X1h2Z3V0REdVMHY1RjVGX2wyc0F4YmtpMXFvS0lyTWVTQUVlaUdOV1N4NzJyZnU1OVQ1?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-21T07:59:00+00:00"
+    },
     {
       "title": "2404 漢唐- 漢唐終於「久旱逢甘霖」 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qVUtvYWxWSWhMWnp3TXBqQnBHZTk2emVvQk5pYWRNcmkwbDQ3cElvakYxdzBBQkhRdVhtV2lUSnF3SXEtUGl5MDVTZDV1S29GYlZieGwxMUg?oc=5",
@@ -18,16 +24,28 @@
       "published_at": "2026-09-18T03:17:16+00:00"
     },
     {
+      "title": "2404 漢唐- 久違了- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SeG5VbTBJSl96M2lXRzVnS2lGUm5wRDBfSElYUGsxVnZCNTZjUlVLaURoYkZfMjlMZ0xLNHNuYm9qZ3pyR2VFOTlWT0otVWtITmNxaGxQaHA?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-18T03:04:05+00:00"
+    },
+    {
       "title": "【11:44 即時新聞】漢唐(2404)盤中走強聚焦半導體綠色廠務商機",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaWJhVE1UeTV3VUFRbU9aOHh2QXRheTQwRlYyb0ZHNkd4dkZoaGNmcGQyc1ZzQVA3akJXZTJRLXR6OVZ3Um45UlhEWS1BZHREWG5rSnBLSmZib2RiVlRZR1gzM0NZQmVFSEZXeW84NjdUMlFoczNwUl9ZdUo1M1Q4YzRFU0RIZHhIOE9aS1p3?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-15T03:45:22+00:00"
     },
     {
+      "title": "2404 漢唐- 今天美股半導體大跌台股是撿便宜的時候？ - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16MklraG1TdHYyQzQyUmtZQmNPc3B2dHlMTDhfOENEYzBpR0xVS19mb0EtVEJRVGxaUUtPUk5kRjA3Vzl3ejNlcERqMG1mU0V6TDFpSDlWa0Q?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-14T21:12:37+00:00"
+    },
+    {
       "title": "半導體擴產熱，漢唐台/美專案能見度高",
       "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQTmZGM2MtcHNyNVJPOFppUnRodXkyME14djY2bERRUE1GM3BYTF85MkV1U2tXdV9VNnR5SXlPX3hNdGdFWlNGRzFCNjZtYkF5MmRzbllsMkxEM3FTRFFPWVJOb1hKaF9NOGdnYTkzd2JoUDhtdlNqbWF4UTBkSHZFSHl4djFJRU9LTFhLUjBiWU1vZ3QwNTJlUER4VHVXbWZiSDJkX1Bfd3hXUmdtUElyVDRJazhjcGZRZGwyNWZGTTRGYU1PZE9tYWR5dEJ6Z0h2ZWFxaUJJdkd2ekRScTBsOUhlemJUU1VQdW5Ta1d6TFdablFkczI5WW0yaFVURHQ5TTRDMFJSdzM1VU5obEN1cGtCUHNJekRINDlIVjVn?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-09-14T06:03:29+00:00"
+      "published_at": "2026-09-13T07:00:00+00:00"
     },
     {
       "title": "2404 漢唐- 大家多看看獅公的影片，就知道主力是怎樣出貨給散戶的- 股市爆料同學會",
@@ -40,18 +58,6 @@
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WWmNWMVh2QlJaUnRDSmUtRVR3Rm9rTzhzX3VJWXF1ZWJkODljNnBTUjJUSVQ2OWNybWdSYkFwZkJmNTZNeXJMU005Znh0MEZs0gFWQVVfeXFMT2V4eXdOeDFvNFBPQXg2S0hDakFrb2hON2JoRHZKeFoxOFpNcnNTY3pIR3pBbEZWcnEyNFJ4Q2ljbTZSR3hEUXZIc0g5UVZCYlZQT3JYcWc?oc=5",
       "source": "UDN",
       "published_at": "2026-09-11T07:00:00+00:00"
-    },
-    {
-      "title": "漢唐 8 月營收 93.92 億元：工程公司的產能是人，不是機器",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE43LWFDTWZ4Sm00ZjYwV1FXM19TNGw4Wm5yQkFMS1BaWG9la1ZkMnBUaURBME1ld3ZVLXo4enZ0V1VMbjdCWDlTcQ?oc=5",
-      "source": "鉅亨號",
-      "published_at": "2026-09-11T00:50:56+00:00"
-    },
-    {
-      "title": "營收：漢唐(2404)8月營收93億9237萬元，月增率-5.55%，年增率59.05%",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNDc3SUZYLXpNTHY2QXBCblFYb2Z6WVhJTHVGNlhya0pHQnNRMUY5cDJyVEN1alhyS1FFUjNqTG9IMGJ2WDB1cEJVYU1qalZwcjZiVFBCeVU1WDhMb0JObE01a3NKRFU3MDhzYzFsNE9QS1FTTjNSSXZqQTMyc0ZRYmQ5Z290NG5K?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-10T23:07:00+00:00"
     },
     {
       "title": "營收速報 - 漢唐(2404)8月營收93.92億元年增率高達59.05％｜新聞快訊｜豐雲學堂",
@@ -69,12 +75,6 @@
       "title": "AI建廠潮全面升溫！廠務工程訂單近9,000億，亞翔、漢唐誰最受惠？",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1NbHZfdGZLNVBWbEZEQTdCaXdGTm4tQmJHOXl6R19XaVJ1ZS1TTjVIaHl2dkpiNEU5bDNqU01vRjZHY2MwVHhJOGdRcHItTXhSTzdFTUF3UjluTXdoR1RCVzJOczU1R1VqYUQyeHZCLUJ4UlcxUFBiczFzajl0dw?oc=5",
       "source": "CMoney投資網誌",
-      "published_at": "2026-09-07T07:00:00+00:00"
-    },
-    {
-      "title": "《一週投信買超14-13》漢唐(152)、統新(151)、華城(150)",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTzhUQTBlZmdaX2tlcV9nZHB2VHFpNzlxZEtidlV2Mi1zRmhxRFpzMDU5bGUxQzQ4ajN1V1dYRjZ1alFGeEt0V0NEZUlhOS01bE13Z2FYVXM3N3JxUU1xZXJLYUNObVhPRXAxQ0ZFYk45MkExV2NwYmRWUVVLWjkwZnl4Q3h2SXh4?oc=5",
-      "source": "富聯網",
       "published_at": "2026-09-07T07:00:00+00:00"
     }
   ]

@@ -1,8 +1,69 @@
 {
-  "updated_at": "2026-09-21T15:35:41.896207+08:00",
+  "updated_at": "2026-09-22T15:34:42.288845+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2388",
   "name": "威盛",
-  "count": 0,
-  "news": []
+  "count": 10,
+  "news": [
+    {
+      "title": "2388 威盛 - 威盛代子公司VIABASE CO., LTD公告取得金融資產- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Fc2ZYQldhczVnUC0zdnltSmJOenRZc1FwZ2F4TWdHS05rOVMyblRRUlgzRHZaY0l6TWN4aVd3d3V0d3hlVTI3T2lYam5UNkYxRlpJMnZYY1Q?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-18T06:25:06+00:00"
+    },
+    {
+      "title": "2388 威盛 - 男的叫敗腎…女的叫宏屁 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BeTU3ZEpqNThyS1h1MDQzS3QxRy1HR1FHbGw1eUMwVVI3NEdWNVYtUVVWZEw5N2RaN3l4Z0Q5cnpfRUdTT3h0Rnc0VkdLcVpGcWlkYTEtSEI?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-18T05:05:36+00:00"
+    },
+    {
+      "title": "2388 威盛 - 用江恩理論分析看看威盛- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iSWl1eDFoTU4yWG1oWGEzM1o4UjFILVFYeFZiS1NudXRJRmVGQTc0YVFPVHpoU1I5YUR1SkFpalFXU3cydExrbzVoWjlyNXhmdkczRUlHLXo?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-14T13:30:58+00:00"
+    },
+    {
+      "title": "TWA00 加權指數 - 來2388「威盛」用月線來看上個月8月低點在69.9$只要守... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jMndPS0VIc3ZhRV8yWlY1eVlNcmp5WUQyQlRGM0hsN3JNazJfMExmLXduN05GVGd2LUd1UmFiWWhmRHJxNFlOQzMySklEdnVIUlhBT3JFSUQ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-14T03:49:18+00:00"
+    },
+    {
+      "title": "威盛科技股價跌6%！為籌資15億美元發行新股引發市場反應",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORzZraDZJMXVJbDM0bGk5bU1HcFlnWTZRekNzdFdUWE5tMDBNY0d6bDNpVUNoeE5Gbi1aX2ZXMWRiTFpiNWIyWUJPSXI3dnZpcWtYSGVfMnFfQjZjdFpfN2kwYzJnbUFrY3otZTViVVJrQkp0TjlPdjVIZXB5QVVray0xLUc4dWlEX1ZCVTB3?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
+      "title": "2388 威盛 - 幹~~忍不住罵髒話- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00Z2dxa3FNbDFfcWVUNlNKVkRaeTEwNVVTTEp6QmJDV0s5amxWeXoySHZnNy1QRnBHQkphelV1TE5GSjZJcngyOUJjYnVRZ0RDMi1WTnFPZGo?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-08T04:03:59+00:00"
+    },
+    {
+      "title": "2330 台積電 - 威盛短線站上79.10$轉強，有低檔分批佈局低接- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zSDQwYzh0VUZtS1A5c1VPb2FSZ1FuVGdOUGR4Z1V1eEpLbDFkQ1VxVlpNbWlCQ3YtbEpsaDRmSTZ3UktpM1c4X2R2c01lQmtrSTA4QVJIeVM?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-07T07:00:00+00:00"
+    },
+    {
+      "title": "【09:38 即時新聞】威盛(2388)股價勁揚8.27%、報81.2元，受庫藏股與邊緣AI題材加持＋短線主力買盤迴流推升反彈延續",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbHJ0V2ZhU2xBbTFudndCdVA4LW9fX0lZbWVmWjAxUmtTalVuTmgyUURkRFJGV3NQLUJ4QnB4Q0kwbnNxVUgxNC1OLW9qaUhSMnFDUWxlZVBDUkI4TXdmeEZMWmdkUm9aT1dHclZOeWhSaEctYUJXRlY3VjdLWTVIVlp3MHZGN25GTWZnemF3?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-04T07:00:00+00:00"
+    },
+    {
+      "title": "【11:56 即時新聞】威盛(2388)股價上漲至76元，庫藏股與邊緣AI題材延續＋主力買盤回補支撐短線多頭",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwNzJNajRRTTA5blBsVFBxNGdKZmZtUFd0dVJIelFSVHBJVlloeVJ1WnAwc016a1Rva2hqd2sxSnZ2Z2NrZFVLdHVhWWlhTDVWTHI5QkVTc3VoME5hSGRRd2FpSmhBZmc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-02T07:00:00+00:00"
+    },
+    {
+      "title": "【2388業績】中銀香港上半年多賺7.1% 第二次中期息維持0.29元、特別息0.2388元",
+      "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxQbXAzT0xoZWtrNHl0Q08wLW1TdzdwdW52X09jRWpCU092UXM4NXI4Zl9zaTZBSDFGQmJIanJvc2Q2WkVPd3JIZUZ6RmNnd1BMYmMxbC1FSWtrZDhLdUtTbXY4eHlEVEdvZWs5T1hPVjg2RnB2MWcwdUVuMXQ3SC1FUzBwdTNFY1BKRklrcjgtMEZocnczbVM1TEZZeEZPeFUwbEdobzZmUXJOeUFzN2tmeDNRQmlaMFFCWUdIX1NjUE9WNndPUjl5dXRWSzlfS3VwWnV0NVV5VkNUT05GeG1TSEgwMG11VWh5Q0JmdmtQZTgtWjRFYV9OX0N4MXBuMmJyUE1SXzVjZGRFWk1BSjN3OUtqaWQ5Smo1WksxOHJ0Yzg2UjdycVRZN181TkU3cFY0TWxUek1XLWt5MmpMajBqZjBDWGZBaWF5OTdpaDVTMUwtWF9mb0pVTms5YnZpS3p1RXgtUUpvVy1jVGU4T2J3bHZYTEN6ZkZRM0tCUE9uU21aVERJZTNKZ1EtMFFoMkFsVWF5REVNbk41aW5fRXUweTM1UHV1b0l0Vk1OaGg3Y0Q0RGZQN1ZaUw?oc=5",
+      "source": "香港經濟日報HKET",
+      "published_at": "2026-08-28T07:00:00+00:00"
+    }
+  ]
 }

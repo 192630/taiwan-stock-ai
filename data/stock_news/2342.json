@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-21T14:42:24.518768+08:00",
+  "updated_at": "2026-09-22T15:34:28.173769+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2342",
   "name": "茂矽",
-  "count": 9,
+  "count": 11,
   "news": [
+    {
+      "title": "【13:18 即時新聞】茂矽(2342)盤中小幅走強，電子族群買盤延續",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdzBzTjVITkI0Zy12ak1rT2txSEVoOXBGb0YyV2JNZmQ0d1lFWWdJY0FfYVFLVHBicUFrRkFIUzlUUHB3TW5BVE90OUFmdThhb2MybkwzUjlkUDl2VDBtTHowUDFJVlNCVl92TENYSTUxWmhWbktFMDRjZkgzRFdhbzd5TmpITm0xeHVISEZ3?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-22T05:18:37+00:00"
+    },
+    {
+      "title": "Comba Telecom (2342) Singapore Share Transfer Agent Renamed to Ascentium From 1 October 2026",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUVpvTGpFX0JNNHVBRHYwb181eXhNeGlWYmtPVElxekxzbHFuX0gtNHEwcFdTVXZTSk5WZkExVlQyZFA1MW5FenE3dU8wQXE1MzdPWU5ZYm0wd1NRLVZoVnZVZ0hOTUZvWk5SYXpjbEVSeUFSeWdkbTB3OGJQQU5WeDRuU3RmQmtyTGdVR3o4MkItS3ZuemFIcmJwazBaT1R3Z3pDQ1pOMHBtRFJUQnBUQ19yOHluT2xScnpacEtDZjI3b2xGVTlEU0VDZw?oc=5",
+      "source": "Minichart",
+      "published_at": "2026-09-21T11:50:00+00:00"
+    },
     {
       "title": "功率半導體漲跌各半！「這檔」軍工產品推進漲3.38%、健策大漲205元 茂矽、富鼎仍挫逾1％",
       "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxNOENnTE8xVFJJUkJERFpYWlhPazBaWEJzQzczR3NWMEE3NWlQX0hyYjE3YUlQaEplbXgtanpsSFZteEczdVowa255Z0hNUXFmRU9uT25ITDZycHJMdXhoM0pGc1hvR1dlbTVYUkV5ZEtLUjlDNXZrMnBuSUZoTF9udnI1OGd3SjZ5S2VZcDhzWUxVT1BDUVR5aGlUQVpqdG9NU2VzanJFb1IzVW5zVXdQYWFIOWk0SzhWMHBMLUpPdVVvZlFYcWkzOEJhMF9GS1RGSjV1TWtibktoQmJQOVpVaGN0cklyZkdRZmRyemN2MEVTam1NVTB6SHlreDNvLWNacHk5RURsOHQ4QlJPMUo2RHJZN200TEFrRFJ1cVhBbFB1UGszOURHOFl1U1E1SXpYZWZPNzJCdjhXVjBtaHZXU0ZGYXVidmx2Z0FmNnZxbTFELUVhdEdyV0tvejl5M0d5MnRsdW5SdjlONkd1Q0YwM1VhTUF0Q3I3Ukh6UA?oc=5",
@@ -36,16 +48,16 @@
       "published_at": "2026-09-16T03:19:07+00:00"
     },
     {
+      "title": "Mosel Vitelic Inc.的Price to sales forward – TWSE:2342",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVWZSbWJGTnJPQ01nak5oS19zUjlWSzlFbFpZZHhodm1HWUpOUjB6YWlVQ1NuVXVEM2RVYjZCWmR1ZWNodGQxRHBUdVN3MGozZW5CanFONkJZa1RWdGo2RHNBdVM2R3dEYVZlUzhKX3BuQVNIUno0T2RKdWtoc3hpc0JLM2RTZ2M2clhWdG5Ba2RueUdzb0dmVkhB?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-16T00:13:17+00:00"
+    },
+    {
       "title": "【11:04 即時新聞】茂矽(2342)股價漲逾5%，記憶體族群資金迴流帶動走強＋守穩季線附近吸引短線買盤",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Lb19NTXU1ZGI2RFVXeHhmUExKRzZpTUFjMmhYQWlFcGNnSjJ3Uy1wS1BhdmZ3aFNQRWowSXlQeWNFYXFIVU83WkdnaDd4a1RzbTdIbjVVVFZJb1V3M1UwVkVjRkNTdWc?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-14T03:05:33+00:00"
-    },
-    {
-      "title": "Mosel Vitelic Inc.的Enterprise value to EBITDA forward – TWSE:2342",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSjV3RTh2dXhMRWpPaFE4OVlhY20zOERlU290VF9QZ2Q4QkREWjhDeGptNHJNQlRtWlZTa1dwVFF0Z1R2bzBvcmU4Y1VrX3c0MlBDbDZmeHd3Qm9FX3VWdTQ1bjkzUWlINUpSOHdYUnJ2eVpKNDBORnVaSTF0NVZGYkU3NDZVeHBVelhWTW1tTExzWHhXdkNuYjdDdG1EQzBsZnloS2dTX0lhUQ?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-12T15:19:38+00:00"
     },
     {
       "title": "2342 茂矽 - 國產碳化矽功率元件由工研院技轉？ - 股市爆料同學會",

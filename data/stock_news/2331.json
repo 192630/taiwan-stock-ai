@@ -1,28 +1,10 @@
 {
-  "updated_at": "2026-09-21T14:42:22.017001+08:00",
+  "updated_at": "2026-09-22T15:34:25.773049+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2331",
   "name": "精英",
-  "count": 8,
+  "count": 3,
   "news": [
-    {
-      "title": "精英(2331) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mWEpVX3YtTnNmdGlLMncyaTZPRDlvbk9BcmNtV0trVkxnYXQ5WmMyMl9MV2JHWFZNS1BESENlY0t1dFY2R1JObGxHZkhYdHRDVTVz?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-21T05:00:51+00:00"
-    },
-    {
-      "title": "《少女前線2︰追放》大型主題活動「鏡像冗餘．下篇」開放精英人形「索普」狩獵開始- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56N2NnZTA5TWZybWdkT3VUTWF4S3JRQ3prN3RRYzdJd1NkemZTUGg2TmRYd0czMndTbmZmRHNVb2xsWDJaaUMxYjlIR05sTmVXQW8yc2xVd2s?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-17T09:17:47+00:00"
-    },
-    {
-      "title": "精英獎更名「入圍名額放寬至6席」 雙人組合首納團隊獎",
-      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPRFFXelQ5QkxPNi16TjE4N3pka2JOenFrdlNFeEZWUV8wX2lkQ1pncmxwUzJVUHQ4QzdfSkFzYTY2bF9Yc193NGlLVi12akZwR0pjcE1GVGZhNGl5dHRvYUZxMnN2eENGWlRXOFZRQWUtNjJ4ZHZIbUJwOHM5X2JQbURRSlpoWFdsRmNleEFSd2p4MHB0SVNtd29lTFZvUXRxR2twQlhsVkMxb1Zld1JyR3N1NkJqMUFpLVVYRC1TN0tMS1NYdzFJUFdOdDllOXphQUxJdUFIcURPY1k1c3dFNzBHX0dIMVAzNWR2NUxKc05TZlo3V1o1cms1a0VLa2ZUd0VYMFZpampLWGFVX2lKMG5MRkZTUnphbnBIelprU1JDYS02M0dVczNYRjlTTmowZ0V4X3ZwaGlsbVVheFg2R0hGb2I1bU5aSnpzMm53UzdsaEhHYkFDVnlpTmYxMEk?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-17T02:19:54+00:00"
-    },
     {
       "title": "《五年規劃》李家超:體育政策繼續推動普及化和精英化等「五化」",
       "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQaU15VHI0ZV9NN3JaTjdXZkd4VGYzWXBuYjI3U3BaTlRwODNxc3R1ejU3aFV4dWFmdFhsdzZBN2FyVUpHSGNIekhlcmdiTWo3aENKRnd3NUF2UGlQYmNmUGtMaXBzT1ZJa2dUZlE2NkkxYVRXSjdhOWVCRndhem9xSUs4NzZzNkVQRnFTbWJNUHFEcFlLRHZ6U2RtYmlJaHZmbHJtcWY4UFEyd1dfUkpWdHJSSWxCb0xuRFExcmU0bGxtcU1BTXlBdHppR1lZYk01WXQzdW1aUlhxeVQ3b01oS01CUUN5bWpJYmJWSDN5SnJqcVB0ZmhSa3VDSDFDVXJNZF9kZ1VjSWFRS3hYNXpmaWU0c2RsN002a1hVbU9KRUR4MlZhYVc1T0VMemRvR2tkRFFRZ0RveG56WmRqcml0XzQ2eERSdkROSmtDYW5JbVZWZnpMRWF2NUNmUVRocVR1NXdsa2RyRURxYjFYeDItRE14SkwwN182MFlrRTJYRzFmNWhsam5GLUZGSzlTZw?oc=5",
@@ -30,22 +12,10 @@
       "published_at": "2026-09-16T04:23:25+00:00"
     },
     {
-      "title": "科技精英賺了超乎想像的錢，卻不知該怎麼花",
-      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNSnJmZnZQaWNXMXZvbXJZNnZjeEd6RlhZQjFCOTdMS3VBaTFEVXRTd0U3ZjhDQVpZaTZYcTRsazZESDJEbmt6dVI5bkl6dDBGb1JmQzE0bXZ5V3V6ZVY4SUhCUm9pSjZsOXFsa0N5dkRvX0ppcU5sSDMwRDVXZHpUZ09kV045Wld3T21tZmxGOFB6b2dNQ0dfa1U2QmNtcHloVktYNzFtUzBIbXpFMWlNOHJiclExWEJQaHVGV0hwTXl4TXVjZlJ6OVdCSTB1RC0yVWY4VFQxb1VndEZ0b19SdlZmYk1ZcDBUX0xZQ1BHcnQ2emFJYkZEblZXY1dIU1JWc0ZOMVYxV1NNUF9HSG5SeVZILWk4OUkxdkNDSkJCdkpVNzhNU05HU1ZDTlBBTDgxejI4?oc=5",
-      "source": "华尔街日报中文网",
-      "published_at": "2026-09-10T01:23:38+00:00"
-    },
-    {
       "title": "精英(2331)子公司與轉投資主要持股明細 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oOTJXaVpYcmktVmRLWTdsOVJla2lfbW1QTENTNlc3OENFaXk3ZlpMcG9QYlMxTzRXU3laemwxSFlJeVVzMGt2SUd2YkZRT0xSNlRoQmZKTERzemRqSF9KbVd4Zw?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "產假5個月剛結束！華爾街精英命喪時報廣場",
-      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPb0hMYl9mcWdWeGhPY1NNbmx1XzF3cTNLSVlBWmMtMzNDR3J1emhYTUZ2OTZfXzBhVGN6OC1vS3pTc1Y4Mkdfd0ZTYWV6Qy0yckJlaWpaTW82R1NxcXI3bUFsNjg0UXRmX01TdjQwa3RRZWJvdW4xX0pucDdNclBfWnRxd0szZkVtOVUtZzZPSmxLN1dDaVZxenU1NU1BREpYM1NLWjdMTXBrWmxZTFRTVU1RTktyLV95a2RCX1lxMTlWYUdEMmtOVmhhTk9vdjMwM25FaXVjSkNCZXNFZS1CRmtwUUc4blplWkg4dndhY2JhT05CNFFmSHpzZjNaVXd0ZU5lWjhNbFNGc19ubTNVZi1fbmFGRTRvdEFuSW9GR1VZM080YURYa3lHX1Z3UQ?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-01T07:00:00+00:00"
     },
     {
       "title": "月給母親6萬家用！年薪200萬精英男看清「1真相」 留存摺果斷離家",

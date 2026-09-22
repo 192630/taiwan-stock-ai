@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-21T14:42:31.697401+08:00",
+  "updated_at": "2026-09-22T15:34:35.678881+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2363",
   "name": "矽統",
-  "count": 11,
+  "count": 12,
   "news": [
+    {
+      "title": "【12:48 即時新聞】矽統(2363)股價溫和走強，市場聚焦主力與法人買盤",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONXFqd2xiSHhTRzh5Nmx6OVFqNHJ3Z200aDc2VnFESTJxdnU5LXFCR1pfdEk1eF9XSERZMXk2OVNWTWEya1FJNG1PZkZTLW9FS09jS0cwMFZJME1qN3hiMWZ0bXVOT3ZxZkNMZUVhRzBkS2g0cElMYm83cEpDWXlRb25HdU5nX3ZROEw0dlZR?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-22T04:48:33+00:00"
+    },
+    {
+      "title": "2363 矽統- 一漲停，一堆妖魔鬼怪都跑出來了- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TaHZiZU1MYmNJQk9CbElLUkx3TVI1NHAxejBSSWtwc0EteDFVYW5zMTFFZzhrZGNoSFlVWjV4MVpoaTZRZVFXOEdILTQzM1dOQXNBV0RRTVY?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T10:44:23+00:00"
+    },
     {
       "title": "【10:49 即時新聞】矽統(2363)攻上漲停，買盤聚焦營收創高題材",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMGE0TnkwSjdRSVQ1ajBTOGtaSXJrQTF3QkRseUE0Q3l3bTVweTVEV3RnY1prTXpXc2hwV2RGd0F1TnNUZWhDRkdnQmRPWk9DdWdvY0pCc0hvLXkwWVo2SzBGZGxzX0dqNVV2OGFVZFpYSXpQb3Y1RC1HNkt5TG55eWJIMWNZanpsYVRJclZ3?oc=5",
@@ -64,12 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mMm83WjZoNHhON3hCUEhzV1J5M1FNTE9HSEtGb0Q4d1ZEdXU0akpKd2VnQXNkcWdzNVRwUVZRZ0cya2htQW9mbnU3M3AxcDZZdFRvenpzMTI?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "【13:14 即時新聞】矽統(2363)股價上漲至52.9元、漲幅3.52%，受營收高成長與集團整合題材支撐，惟技術面仍在中長均線壓力區、主力籌碼偏空拉抬味濃",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTWdnWS1UZVZCXzU5NU54aWwxaTEyX1hzdXZ4NVVWakpXWVd2Ty1vZkNnbU1ucmJySFBuck90TG4wSWgtbG1kUGtMSkVBMUxCYnNzUGVEOXVYY2JUUU53RFdacXZVcmRqbGo0d1BiZENSMDdHWGVDUTZ4elZmcXBnWmM5UmliUlFFaFNZbVd3?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-07T07:00:00+00:00"
     }
   ]
 }

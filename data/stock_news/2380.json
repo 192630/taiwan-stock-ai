@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T14:42:37.028853+08:00",
+  "updated_at": "2026-09-22T15:34:40.899279+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2380",
   "name": "虹光",
@@ -28,6 +28,12 @@
       "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxQdmtRcjhsT08zUmc3MklqMWpHNWwzVlc0NElDbHdMUFdHalR1bGpPc2FhT0w0UXBuRXgyLXQ0Znk1UVYzN2pwaEhRS1A2VlZ2clc5cFdGYnY5R29VRGMwRS1TZURmUzlYQ2Y2OE9RVzVPajNpN0hPeDFvTFVXRC13enVsdHI2clAwNElUWEdVeXI2TWFrVm1lTGs2RHdoSElPMGxVel9JVklqcmgwSFh6bm5BU25IaVFoNnNtR0dacjFIZmNPZXRrMTZUakcwV2lLa2NUaHJUdVJuQVJVUGY0blp1OE9wQXNkU1VWcGp0dDFYczBSeUhJX00tVy1hOHFBNlVGTTZhOU91Unh1WmNjbmpPYWxpMmZ6WF9TcHJveHh1QXpuZHVuaG9xZkViQTVyZFg3NmJiazVCUnc0ak5nbVN2TWRUSzdOOGxKal8wMm1QSGU1dzhJLXc2SzIyVGx0ejlpT25hWjVISTk1dWQwYTJB?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-16T06:11:28+00:00"
+    },
+    {
+      "title": "台股開紅走紅！最高曾觸及46k 台積電填息後平盤收2380",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOYm1EZFZsVy1lajRvTFdJRGxvYVQ4aHRaQkRpUWF1RF9nWTg4U2lyNXdYX0JycTBqb0RhclVsR1lOcENoVWpwakZDam92UzlmOGVKZTZ5cGpNVjJ2QXJpbGwtc2tsaEh1NkpLajZQYmtNcWVZbEh2UEJjcy1mN1YxcUFzVXBsVHR1RGg0cngzNDZ3VWdGV0pqcno2QzhXd09iTlhyQU8yYVJ6MEdLeHFzYjlaRWxaS1l3cUNlN3pmRzhhZl91UnpVX0VpQ3Fuakl1RHhnQll2aXRhM3UtYlE3VjBGX19Jc043OGxUWUVwQ1RxelZFS3VBTDVJQzcxbHpfRnpoMHp5a2M0MTF2LWxidUV6SEZCYkdvQlJzcjlrYTZFT3ZKOURTTkd4eEhfYmlpTDJYWFl6LXZ6QmxWTHFfVGxyTXdTUVpRN05PWFU5bw?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-16T06:07:10+00:00"
     },
     {
       "title": "台股4萬6得而復失！終場大漲337點 台積電除息翻紅收2380元",
@@ -69,13 +75,7 @@
       "title": "台股終場跌322點失守4萬6！台積電收2380元",
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxORC0wRHBWekxUeXlNMWJ0N1Y0TTB5MU9sRTRmYkxJYkU1MUN3eVBtQ0pLekhWWVVTYWNUQW5vb2ZnV1k5RWZNdkhrN1p4dUxVS0Y5ZnVZNHc5eC1QLWpsdlZpdnhsZHhadEwwY0N1S1l6czQySkw4LWM3QS1zMzItbEtrekIxRDdCcUE4UFZfUTJOMk1LbFJVRHVhcjhOSE82ZE51UHNNam52UnM1ZjdBa2hRLUZJdFlJc3VzaHltNXVac0NrYXowYklWOXVvUzduaFB5ZTFYUVFCRDFZT1lZeUU3QzhyUXNXbHlNQ1pseGtuaWF5cmZ6SURseWhKVVhhdlNuXzFXLVc?oc=5",
       "source": "Yahoo新聞",
-      "published_at": "2026-09-14T05:52:14+00:00"
-    },
-    {
-      "title": "【2026/08月營收公告】虹光(2380) 八月營收2.02億元，創近2個月以來新高，月增1.5%-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVGowbW9hWko4bUxJbkFjdVVhWW5UUWswdXNEd1p5UGxXWlFXa2tIcHc5SkYwWnY0ejBRR2dLS0RZNWdxRXdhQ3EzWDZBUXRZSHZMQ1BoSUlvRFNhZmVqU0F5a3pYQ3VnUkFSeFZvbHhOeExwRkxwZjhMYktPX1lwNW1YVjRlRGhobGc?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-08T07:00:00+00:00"
+      "published_at": "2026-09-13T07:00:00+00:00"
     }
   ]
 }

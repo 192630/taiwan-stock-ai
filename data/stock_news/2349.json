@@ -1,21 +1,8 @@
 {
-  "updated_at": "2026-09-21T14:42:26.360815+08:00",
+  "updated_at": "2026-09-22T15:34:29.980670+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2349",
   "name": "錸德",
-  "count": 2,
-  "news": [
-    {
-      "title": "錸德 公告本公司火災事件說明",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ncDRvTnV3akVmbDhZWVVqcVM5aGNoSndoSGVqWjZOOEswQWRRTTc5UlZUUnhUVGZIQWNUWnh5TUFvM1NGVDM3bHZuUlVpMmlmTi1Qb1RucWo?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-05T07:00:00+00:00"
-    },
-    {
-      "title": "【26Q2財報公告】錸德(2349) Q2 營收21.7239億元，刷下近4季新高，季增35.01%、年衰退4.88%-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU05jSU9KanZpNzhzZmg4TUVGa05zbmNjanFsWU1RWnZoMEV6cEJzTmZUWlk3SUxqRjZuSHA5NGdWaHhIbHJaeTBzTkZ0U3lnMmdHbkdiSVgwdzNiNkZpSHFkb3o5MmNkVkREQkh0eHdvdUNfcXdQZWtIcHA5d2x6TW0zWUc3bWlqYlE?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-08-28T07:00:00+00:00"
-    }
-  ]
+  "count": 0,
+  "news": []
 }
