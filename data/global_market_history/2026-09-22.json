@@ -1678,5 +1678,145 @@
         "is_realtime": false
       }
     ]
+  },
+  {
+    "generated_at": "2026-09-22T12:30:49.271164+08:00",
+    "risk": {
+      "score": 13,
+      "status": "偏多",
+      "color": "green"
+    },
+    "indicators": [
+      {
+        "id": "BTC",
+        "name": "比特幣",
+        "unit": "USD",
+        "source": "coingecko",
+        "symbol": "bitcoin",
+        "price": 85531.0,
+        "change_percent": 5.237448551267996,
+        "data_time": "2026-09-22T12:28:20+08:00",
+        "update_status": "延遲行情／更新頻率依來源",
+        "stale": false,
+        "is_realtime": false
+      },
+      {
+        "id": "ETH",
+        "name": "以太幣",
+        "unit": "USD",
+        "source": "coingecko",
+        "symbol": "ethereum",
+        "price": 2736.66,
+        "change_percent": 3.046659115492224,
+        "data_time": "2026-09-22T12:28:20+08:00",
+        "update_status": "延遲行情／更新頻率依來源",
+        "stale": false,
+        "is_realtime": false
+      },
+      {
+        "id": "NQ",
+        "name": "納斯達克100期貨",
+        "unit": "USD",
+        "source": "yahoo",
+        "symbol": "NQ=F",
+        "price": 30837.5,
+        "change_percent": 4.722932072299999,
+        "data_time": "2026-09-22T12:20:47+08:00",
+        "update_status": "延遲行情／更新頻率依來源",
+        "stale": false,
+        "is_realtime": false
+      },
+      {
+        "id": "SP500",
+        "name": "標普500期貨",
+        "unit": "USD",
+        "source": "yahoo",
+        "symbol": "ES=F",
+        "price": 7833.25,
+        "change_percent": 2.5294502617801045,
+        "data_time": "2026-09-22T12:20:43+08:00",
+        "update_status": "延遲行情／更新頻率依來源",
+        "stale": false,
+        "is_realtime": false
+      },
+      {
+        "id": "SOX",
+        "name": "費城半導體指數",
+        "unit": "點",
+        "source": "yahoo",
+        "symbol": "^SOX",
+        "price": 12433.171,
+        "change_percent": 11.69578880416268,
+        "data_time": "2026-09-22T05:15:59+08:00",
+        "update_status": "延遲行情／更新頻率依來源",
+        "stale": false,
+        "is_realtime": false
+      },
+      {
+        "id": "VIX",
+        "name": "VIX恐慌指數",
+        "unit": "點",
+        "source": "yahoo",
+        "symbol": "^VIX",
+        "price": 14.87,
+        "change_percent": -13.546511627906977,
+        "data_time": "2026-09-22T04:15:01+08:00",
+        "update_status": "延遲行情／更新頻率依來源",
+        "stale": false,
+        "is_realtime": false
+      },
+      {
+        "id": "WTI",
+        "name": "WTI原油",
+        "unit": "USD",
+        "source": "yahoo",
+        "symbol": "CL=F",
+        "price": 93.3,
+        "change_percent": -8.448631145128054,
+        "data_time": "2026-09-22T12:20:47+08:00",
+        "update_status": "延遲行情／更新頻率依來源",
+        "stale": false,
+        "is_realtime": false
+      },
+      {
+        "id": "GOLD",
+        "name": "黃金",
+        "unit": "USD",
+        "source": "yahoo",
+        "symbol": "GC=F",
+        "price": 4373.1,
+        "change_percent": -0.6045866763642852,
+        "data_time": "2026-09-22T12:20:40+08:00",
+        "update_status": "延遲行情／更新頻率依來源",
+        "stale": false,
+        "is_realtime": false
+      },
+      {
+        "id": "DXY",
+        "name": "美元指數",
+        "unit": "點",
+        "source": "yahoo",
+        "symbol": "DX-Y.NYB",
+        "price": 100.351,
+        "change_percent": 0.13071243264817425,
+        "data_time": "2026-09-22T12:20:48+08:00",
+        "update_status": "延遲行情／更新頻率依來源",
+        "stale": false,
+        "is_realtime": false
+      },
+      {
+        "id": "US10Y",
+        "name": "美國10年期公債殖利率",
+        "unit": "%",
+        "source": "yahoo",
+        "symbol": "^TNX",
+        "price": 4.963,
+        "change_percent": -0.6605284227381978,
+        "data_time": "2026-09-22T02:59:53+08:00",
+        "update_status": "延遲行情／更新頻率依來源",
+        "stale": false,
+        "is_realtime": false
+      }
+    ]
   }
 ]
