@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T10:34:57.096437+08:00",
+  "updated_at": "2026-09-22T11:35:52.075820+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2317",
   "name": "鴻海",
@@ -8,31 +8,49 @@
     {
       "title": "鴻海(2317) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uYWE1ZjBSVWJMOWI2TTBsRDZ4R0wyZHBfNUVRMFBUQmhVOFlYTW9FUUJ1UHdMRTBhLXA2cnMwVXhmeEE2d2cxdm5vQVQ1NGFOakJZ?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-20T12:16:19+00:00"
+      "source": "CMoney",
+      "published_at": "2026-09-22T00:34:00+00:00"
+    },
+    {
+      "title": "睽違2個月！郭台銘再買鴻海股票430張 持股市值千億元",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9YY1FxaEdDZXVwZjJQUFBLR3RNTFRuMkplU3BYTjFBUEdYbE9iM1dsclpaTVhvOFU0bVduc1lEMlN3Y0Y5eFZr0gFLQVVfeXFMT0w2bkQ0VFV0LV9zQmdDVDRvOGtJb0huekMtTzZlSzlYb0dIUGtvckJ6cTBERjdVSUVZSVc5VGxtM2QyYmtTekRzd0hJ?oc=5",
+      "source": "三立新聞",
+      "published_at": "2026-09-20T19:32:50+00:00"
+    },
+    {
+      "title": "2317 鴻海 - 工業富聯回購股份完畢- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5pODVuMkpmUS1SVk0zMkM3YzZLS21pZDIxNmtwNEg0dFBlNDZENnZreTVQdkNPU0pxV2dVUE9pNUdYc1JkTmVwR3pRWkt4WWtKTmtRUlloNE4?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-20T10:40:35+00:00"
+    },
+    {
+      "title": "2317鴻海走勢預估",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ieEFJRThtcmUtbGR0UTd4bVY2WU5VcFNjTFBDUTBzcm44WUFPbFAzLVY4N2k0ajVuY3U4M0t0dDllWkY3b2dQaUVTZUdnRERrME1RdW5MSm0?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-19T04:53:47+00:00"
     },
     {
       "title": "2317 鴻海 - 淺談最爛權值股-鴻海 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02eDlUNmdwWThybFVaT1BvR1BaQm5CLVdSY2plN3pSdmdiSFV1c2lxcVpTbHNZdHl1YzEwa3JzcG40bjB0Yk80UFRRWDVNN3pxa09abGNCY00?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-19T00:45:29+00:00"
-    },
-    {
-      "title": "鴻海(2317)外資、投信、法人籌碼變化與自營買賣超總表 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iWmsxTks4TW5QLU1GU3RMMHdKZHphWlNmcDk3WGRDRkJtUWtVVzVWanNNREhTSHd4ZUFlNjNheFZONjlSNlJWb1hPZmJEbjA0WUtYVDh6MVBfQU80eEFGV0hnT24?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-17T07:00:00+00:00"
     },
     {
       "title": "2317 鴻海 - 新聞都在講升息機會變大!還有人在買炒高的鴻海? - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5RzhEZzhlYlBaR05fSFVrMnV0OHFjRWRjVlZKVlYyZ1NVX3V2ZFBOYzQ1Z19yR0pfMHUzZVhWRnRMREtUU05RYm5wNk1SNDBDSDJwTl9KaVQ?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-17T03:50:21+00:00"
+    },
+    {
+      "title": "2317 鴻海 - 微軟畫紅線立下「AI 憲法」影響全球基礎建設投資牽動廣達、鴻海 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIay1saVk0aEUwcDdpTTRBaUlZTHNGeGx6bWc4Q2NmZ0VOX0JDWnF1dHp0cW1lY2dnbWE5SW9uRHA3SHAzSHlDZVk0eldtSkZtQkhKekNiTnc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-15T18:44:05+00:00"
     },
     {
       "title": "2317 鴻海 - 持續關注新iPhone的銷售- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PdXJlX0RKUTByQkxNeTBqSVBYNFJCMmZxc3NfNDNNM3hWM1pxVjJxRGY3aGdLRkE3eVV5ME9jeHI2ekNrZFEzWEU2dWw4UXJ3U2k0MWN0ZEI?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-14T08:34:21+00:00"
     },
     {
@@ -44,13 +62,13 @@
     {
       "title": "2317 鴻海 - 這不像鴻海! - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxQ09ieTVPM1ZFTXdLQXB1VWtNa09fQUxnZVN6MTl0MkxWV2pnZGlJcFdMaTBUa2Z2b0xscDJZZW1sTmJ2OWJJcFN5SmdJRTVEZzZDTU1aTHY?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-14T03:29:04+00:00"
     },
     {
       "title": "2317 鴻海 - 為什麼跟蘋果ceo合照，鴻海股價還是跌? - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54RlN5N25YNE1XMGE1bjh3TFRmODJDZElBOVhIT255T3FxRUVheDBQU2xralBVRGh3WnZXdnRCcTRMOTlsUzg1ZG1uck5WUG5Zc0dvbG5jcVM?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-11T03:15:08+00:00"
     },
     {
@@ -58,24 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLWJLaEJha3Q3aEQwYk1TTTRaTU1NZzhYbm9hWVlaWG05VlpieHEtM3VLZldpV0h4bEJ6c25FTGtPSFlKWjJwbVVHMzN6RWJsNmo0RWRBd3FVX1pCcmU2bTRpU3JFRWhZcUlId3FOck4zd2VRSHk5bFBmWXRHLWVMMQ?oc=5",
       "source": "今周刊",
       "published_at": "2026-09-10T07:00:00+00:00"
-    },
-    {
-      "title": "疫情股災重押鴻海300萬最後賺3倍 關鍵藏在「這一步」",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBWYVNmdDJTWjk5d1hLSHN1UTV6VXo5TnFyVXBXYmdpRGM4VEF2aDUySFJnUUpscURaMVc5aXduNW9DVGQ1dE9sZnlnQQ?oc=5",
-      "source": "三立新聞",
-      "published_at": "2026-09-10T07:00:00+00:00"
-    },
-    {
-      "title": "鴻海股價太委屈？不敗教主曝光最大問題2大催化劑加碼- 財經",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DdHBZNGM4MzRVYmpyci1mcl9ra09jVnhYU0hUTzRSZE5RTURwQ0xjMkJzcjc2cFZvTHlQcDgzREpEcmhFUnAtbFFMNEJEZy1FZ0lCRExmZ2RQdlc2dmJkcGVOV2R1OTE3enVMeDVn?oc=5",
-      "source": "中時新聞網",
-      "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "2317 鴻海 - 股市聰明人！！ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92OWptVEJsOTZSS012NDZQQktoY1NsaGdUWVA2SU1tclpuZ0JQd2xMM2NDcUhZTk9tbmVfUmowSUNLcEFWbVBBNWQtQlJBT2tZbTQ1dWxBcFM?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-08T03:43:28+00:00"
     }
   ]
 }

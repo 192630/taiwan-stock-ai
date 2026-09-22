@@ -1,13 +1,25 @@
 {
-  "updated_at": "2026-09-21T10:35:10.731180+08:00",
+  "updated_at": "2026-09-22T11:36:04.325014+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "0051",
   "name": "元大中型100",
-  "count": 2,
+  "count": 4,
   "news": [
+    {
+      "title": "元大中型100(0051)成分股、持股明細總覽",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBmWHgxWjk1MXZpUGx0ZkRraEhPZXJfVnBkRTNzWGF0YWowYXJjYTZLRnFvVzFYdHJ0N1hOUGxONnkwZGdYaUxVRlV3?oc=5",
+      "source": "pocket.tw",
+      "published_at": "2026-09-18T07:00:00+00:00"
+    },
     {
       "title": "元大中型100(0051)ETF股票型基金的基本資料",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwUXdaRWxaUGJIWVNGRXVwNEpPT0FmTWVQRFNNRld4cnI2bnE5Sm9YdW82ZEszeUtnYXg4bkpMNEJMRWVpTnc1UGRpMkp1eVBoWUE?oc=5",
+      "source": "pocket.tw",
+      "published_at": "2026-09-18T07:00:00+00:00"
+    },
+    {
+      "title": "元大中型100(0051)持股明細總覽",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oN3RsUzlNdUU4bkJjMElHbTh3a1VmNEctekYzOTFEbnZMckNnQmxyRjZ2S3hzNEZWbTFnSlF1aS1MeUo5RlN6SlVUS0ozazZJTVRwLTNvb1ladw?oc=5",
       "source": "pocket.tw",
       "published_at": "2026-09-18T07:00:00+00:00"
     },

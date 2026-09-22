@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-09-21T11:36:14.760939+08:00",
+  "updated_at": "2026-09-22T11:36:28.370651+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1314",
   "name": "中石化",
   "count": 12,
   "news": [
     {
-      "title": "1303 南亞 - 🥰盤中南亞科富喬南茂中石化南亞京元電國巨華東台玻宏致光鋐華- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhNkR3RGFjN2lhendJdUp5eXRrR0JDRTRaeUNlVUZ6NXppdjVOQTV6cE10czBJanpNZlV0MTRZdWdwc1R0eEJuUFBEbTd3LXFHaGRLS29oRlM?oc=5",
+      "title": "1314 中石化 - 心情平靜- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xX04ydmpGZUpsYU1fTHVFQm02cnRLU3ViSV9uX1NDQW9YSkZjNnhQeXVXVEFIcFhVOEc3VzFmd2JBZTFkTURvb1dfN01yNERjZ1pzS0tKWUg?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-21T02:59:48+00:00"
+      "published_at": "2026-09-21T02:36:50+00:00"
+    },
+    {
+      "title": "中石化老店新開！將活化頭份廠轉為 AI 資料中心 股價一度大漲",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4dF8wcmJvRlIyQks4cDlYUVBuaWRWVElxOHVLaVFmYmVPaXJoQlQ5cTgzQ09uLXlISF85eGZoSmZTRmhiZm5YN3BZZ2JzbllHV1VKdV9weDlvQdIBX0FVX3lxTFBFcmdfSEw4X2pGaWpkekFZQks4UDJMdWdMYS1GS0FmUkc4aGpqM1I4blp1S01taTRSMUo3cl9EVjd6UkhhUl9FWUNhclM0Z2ltNkNZUmtqN21nQnMtVkpN?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-20T09:00:00+00:00"
     },
     {
       "title": "1314 中石化 - 這篇近期受訪資訊相對完整，新聞分享，僅供參考，投資盈虧，請自... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FTEFKLV9pTGFlUFJGa2tHQy1xX0NOYkl3SUVnRzY0ZTBfWHZka1o2UDlXN25VWF9HN21qQmkxb2JtMDMwcTlsRFBTYnJCVmFGZUtGZm51NWg?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-20T08:04:06+00:00"
-    },
-    {
-      "title": "1314 中石化 - 轉型的契機- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EcG9vZzgwVFJzMjB0S3o3WHM4cXZYMFFvNGIzV1J1emM1NUZ1TXpTLXVncEJ4ejBXelRTT2owZ2JWMjNRLW5YYnpibTRQblhYWm9scGttb1c?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-19T23:02:05+00:00"
     },
     {
       "title": "中石化老店新開！將活化頭份廠轉為 AI 資料中心",
@@ -42,12 +42,6 @@
       "published_at": "2026-09-18T04:11:55+00:00"
     },
     {
-      "title": "中石化老店新開！將活化頭份廠轉為 AI 資料中心 股價一度大漲",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4dF8wcmJvRlIyQks4cDlYUVBuaWRWVElxOHVLaVFmYmVPaXJoQlQ5cTgzQ09uLXlISF85eGZoSmZTRmhiZm5YN3BZZ2JzbllHV1VKdV9weDlvQdIBX0FVX3lxTFBFcmdfSEw4X2pGaWpkekFZQks4UDJMdWdMYS1GS0FmUkc4aGpqM1I4blp1S01taTRSMUo3cl9EVjd6UkhhUl9FWUNhclM0Z2ltNkNZUmtqN21nQnMtVkpN?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-09-18T03:32:14+00:00"
-    },
-    {
       "title": "《集中市場券商買超前30名 3-1》中石化(11859)、陽明(6051)",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNHhfRlBpUlRVM2k0aGJXSmxGb0pTS0pkMWZidURKdkxpWUFibGVkdVZZYmI5U1AwRVdUeU9Wckx3M1FSWjM1ZndRdFJlZm8zTGYxaVg5MmljWmZaZFhqUW5wcHAzWWxFaS1GTGJySEJkZ2VnYW1uQnNEN3F4QUx3dGgwdExNeTNJ?oc=5",
       "source": "富聯網",
@@ -66,16 +60,22 @@
       "published_at": "2026-09-17T20:18:55+00:00"
     },
     {
-      "title": "中石化釋放資產價值 活化頭份廠、高雄前鎮特貿區土地",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSc0k4U0VMeXR5ZlBPMm1FNjBNSWpCREgzN3BIc3NmazRZT3M4bE9rMjFIdGN2ZTNWSm9oSDJVckw5b0ZxSk8yaG1Gck1XakRxNWFXZEQtaFY?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-17T13:52:48+00:00"
-    },
-    {
       "title": "今日最夯股／中石化爆量衝漲停 法人大力加碼有何題材？ | 市場焦點 | 證券",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fRVh1Qy13STZJOW5sd1ZtYmc4SmlSLXFXMnRnNzE5Q285cExWUFhob3AwbEpXcUYxelBoZmJ3QUtkSUpLbXM5UjhqWW5zaU8zWWdfREJLbWZpQQ?oc=5",
       "source": "經濟日報",
       "published_at": "2026-09-17T12:23:22+00:00"
+    },
+    {
+      "title": "中石化力拚轉型切入AI市場 預計首期算力中心規模達20億元",
+      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPTjlQUXl6T1lZenYxTmdzTXZZNnRfUC1iakxQbVlHazhGU1dHM1NzUkNwcl82aVVZUGFMUUhLZ3l4djVwdDRuamZKc1lQRlNXQkNELWNuczV4UmxWbjhsWXo1SkF5R2xLVmJRU0RyLTdydEc1aE5OaXVEQTFmeE13WmloN2tpZVVHZ1lJSTFma1RfVWExLTZwWUdBU3poZ2VpbUFXOXNLRVhqRUpnUThKZmp1Q3VUOEJkMnR1VXRVZ0RicWEwODNfdWVNOW00Z1FneEFIZGxyOWV3bHFwUEEtaFVlZGVZLWgtSllJellSNFhIWmlfc2xackdVZW1MLURBLXlqRkhPMDBLX2Vyc3N2VFA0LUYzWF9fVGItNFBvakNBUWJjWUExWlQ5dlZZVzNxanFVM0NOeDAtb1JDTy1Mczd0UGsyUUxPamZXbHBFZ1hTWDAwb0F4aEg2aV9OVnQyLUg5WUNacE4wcndDYkJWMmF2UjJvd1JHLTdONHNHTzR4eHNu?oc=5",
+      "source": "Yahoo 財經",
+      "published_at": "2026-09-17T11:57:18+00:00"
+    },
+    {
+      "title": "中石化董座：釋放資產價值厚植轉型以改善營運 頭份基地評估引進AI產業",
+      "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxPYk1MZ0tyUUFyR3hiV2lZUnpZT1RZX3R4WE5QUjRaOXhKcmFVU3pqNkthazR0WDVtdjEtT0dZSDhXUUJBdkRxQ3ZGekZuUC1OY1BzaU5GNkpnN291RmJpVDdteVJSdW9rb0dGMHdRNkdQWEJiNEtYTV9RV2hWQXBOamtpOVBJb19BeUxzWEIxWnAxU1dVQmk0bElZdTFaSEVabTJuUjhPbFdTNnUtY0pSTGQ3LXRkYTRzY0IyR2FzZmZxZVhNN3VfaFBLYTdMZHJ4T2F4c0ZVN1ZoUjBnZERlOW14cnFNdEF2bE0zbVBuX1hoWE1IMWFkdW5GMFE1SFpQdHBPX2RsRlB2dGRtTUl3em1xYzVNbHJnaFZGUGhobV8xUW9ZMVhZRmVjdlFLMUxxV0QzQ0F3YW9YUnBXajdhN3dRUzk1cGxXN3k3MlIydmhPdVlncVdVOG5oUHRBNnFRTlFYZk5yajNBYmNhMU9mS0tPeGpPc2hxcnQ5dWxUcFhWMXA3UHRoai0xMDMyMjJybm4xUHVCVDgtU0pDaHIxcWhQRzJMQW1MTUxuN1pxUjF4NlRLSHhmaFBNTmtfN2F3YzZGVkdHaF9FWk0?oc=5",
+      "source": "Yahoo 財經",
+      "published_at": "2026-09-17T09:27:59+00:00"
     }
   ]
 }

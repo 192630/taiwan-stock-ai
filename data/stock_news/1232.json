@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-21T10:35:26.173831+08:00",
+  "updated_at": "2026-09-22T11:36:17.799597+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1232",
   "name": "大統益",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "同業停工讓營收成長40%，大統益迎來爆發？",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lQktXTGp1RzFSVlVhU0ZSQlJkLTJwcS1PdjdsaU5HbEJaTnFIem9EYm9HazM4dUN2dlpYM09EVUpuVmI1SlNzVVRFVEZxaFpkQllrYW1OOUk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-18T07:06:04+00:00"
+    }
+  ]
 }

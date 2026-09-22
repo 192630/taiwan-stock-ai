@@ -1,0 +1,21 @@
+{
+  "updated_at": "2026-09-22T11:35:50.354291+08:00",
+  "source": "Google News RSS search by stock code and name",
+  "code": "9962",
+  "name": "有益",
+  "count": 2,
+  "news": [
+    {
+      "title": "科學家發現全穀物攝入量對心臟健康最有益的“最佳平衡點”",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE03eWlGdTUxQTR6WU1yY2V6Y21sSDJnbzR3YmFMMk45NkRIQ21XR000a3hybGIyNzc3MFNGZDh3TG5UbDBqMWIzNA?oc=5",
+      "source": "鉅亨號",
+      "published_at": "2026-09-18T09:30:00+00:00"
+    },
+    {
+      "title": "逆日步零錢・日證金東證股票（2・終）(8086～9962)（申購日08/24）（結算日08/26）",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZnRhT29FYVJMQ2d4SklhbTBQTElLRkJGSDRpeHFKWTd0RzE0Z0pkczZXcDJWRWJpRUNSWHBsNEdlWGJUbWw3ZGRObWN1bWNXTTVGdFM2Y1JzWUFJSkRzVF9HcXE1TENQRVBnVVVGZVJmNkJWYm1FdFRDcENwWEVmVHMzR1A0U1M0WmljYzIzVjgwdmRJOUVZOE1KcTQ1elJNYlNUN3dBaG5leXJCUGhxMXBXbGg2dUJUNldjTQ?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-08-24T07:00:00+00:00"
+    }
+  ]
+}

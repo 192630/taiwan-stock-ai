@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-21T10:35:17.432034+08:00",
+  "updated_at": "2026-09-22T11:36:10.057256+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1109",
   "name": "信大",
-  "count": 7,
+  "count": 5,
   "news": [
     {
       "title": "【2026/08月營收公告】信大(1109) 八月營收2.69億元，營收雙減，年減26.47%-CMoney 小編",
@@ -14,20 +14,14 @@
     {
       "title": "【營收快訊】信大(1109)公告08月營收",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40Zm52VENxMU1LV0tFTkNVYWhmaFdYalFXNlZYczZaNDF1elJPYWtOejFzQzVGcU1LZl84OVM0amF3cmRDdm1YTDlJVk9jbDlWWE05MGlodDA?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-09T05:57:58+00:00"
     },
     {
-      "title": "凱旋青樹社宅43戶招租湧進1109件申請 中籤率估4%高雄社宅熱度不減",
-      "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxNM1k3TXVnbnNWRGhoTU5Xb2RnclF3VElIaElaeFo2b2FzRFlDSV9MeU9fWVlUd3FTV05WajJneDBUN2N0SkdHOFRURUVSeEFjZTNZTF83aW1RaDdUVmtGX09SSHJ1SnBWazJoTFBMQ05jQmRwSjRkVjA5ZnlsSTNnMUdhb3B0ektlNjdVU1l6eEMtYXZjNDZoWnBaX1M0MWFqdF8tcVVpNjZpTi1QVXhZd2JaZU0zUm5hX1FlN1ZpWUZJeTF4cFBIM192RlhWNXdDOS1EOWQwRXhmekNXRlVkSXdZZzRTSnNBWHhVSXJqeW96MkJBYy1PdnR1THRFQWZmci1OVGxaRlpZSEpjVlBycWlfLTgyb2RIelBaOG9heFJ3TTFiLUpjeHcwZUoteFpTNkdLOTVKTnFHbXU5b3NDRlMydlVnazhrUEt6WF9tZGFuOVNPQkl3Nm51aUM5N1RUdTFCR051d3lkWUxJQkdNLVBqMldmR3NtNGxrVy1kejN6dnNYVVN6SjlhTDZwNzNISENFaDZoaw?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-02T07:00:00+00:00"
-    },
-    {
       "title": "外資大翻多！一週狂買台股1109億 這3檔金融有戲狂掃近25萬張",
-      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPeXVrekxzX0dFTTM1X0FkaVBTdnRUUnFPd2tKbEVxWXdCUFpKeXB6NXJQclEzRE00Z1BOOEx4OWhNSGlZVHhQN2dwOVNJdGs1RkhSZ1BsRnBXZERodmh0ak5vS1l4bDU5eXcwMFFpX0wyZU1lTkhPdGJwRWxyVVVfVmM5R0JzYkpRVnJ5ZGc5bkM1bHJvQWZsRkRLZHF0a2RnVXRsRVlmbC11eTBFWTcyUy14WFpkdXRHSUpLWE9kSWVtYkxpQUlOUktPc3hSTUJRQXRzY0FiM2h1Q1JjbmFSTGM3VEhRY1M5NTdRZVZvOXZpZDlmMTJobThick1PNHBsRG5KeTVfQnZTcDVHcF9NampBQzBNYTF5QVlMVktKTzhSQ0FSXzUtUDFDcWVGNmx0N1NwZXJVc2xHWlFFWi12VDI2VkZuTGpsTUFrdE5fV0x0dDlJbUREc2FoNEx1TlJ5UUhHY2c0OA?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-01T07:00:00+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9yd21ncVFvbkRxR2wwc0w2Z3lUWi12S09pY3phTW9IME9GYUp5Y0c5QmhGSk5HMzRrS3VWQ01hRklkLURQck9UVTBmRQ?oc=5",
+      "source": "三立新聞",
+      "published_at": "2026-09-02T07:00:00+00:00"
     },
     {
       "title": "聯發科憑什麼吸引輝達投資1109億？分析師揭這招「完美雙贏」：關鍵在這產品 | 張大任 | 新聞",
@@ -39,12 +33,6 @@
       "title": "外資上週買超1109億元 敲進金控股",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIbVJDYlB2T1Y3YVVyY3pDMDFfVDh1V3J4OHBHTUJoMWJqa0RFQUtzMW9Za0pjd1JfcWhQTm5nTXl0bV9xcEZfS0hnaXRjam5YUVM1SFpFdnFBZ9IBX0FVX3lxTE14VnhsdHRvSzRIMkdjTjRiMW9BRkZyaGdNZG4xTVRqN3lveWlxaU96V0tGdDZiZ0xWMG5Xb0xnNGJxaGpOSGZ3cUVuVjB2djV3UV9FSmxCcWtfOG1LYWpJ?oc=5",
       "source": "經濟日報",
-      "published_at": "2026-08-31T07:00:00+00:00"
-    },
-    {
-      "title": "【內房股1109業績】潤地中期純利跌17%至98.4億元人幣 維持派息0.2元人幣",
-      "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxQN1NCT0p2NnJqS2UyUkhDTTN1QlZWTy12cFNIZ2o4REJmR1ZSYWM0eXB1a1NBc3FURHU5c1V1OGFPVFpPSG9EMTFSdXRnUGl1dDl6VVl5VjFPQmtqb1VTR0NzcjM3VDFzNTZMNGpQOG1HclZPbVNDaFpnU0E0cTU5YjZobERMOUZWelVwQTBrREVKR0NnWVNLVGtZTVZTekJlWE14TFJSUC1pQUppTGFib3puR0FWVXItNWJOTWgydllsRG5ZcDVKYk40Uy1DN2Y5WjUyc1NybTlFWUo4cm1oQ3drVVZaVHV3b3Y3UUlGRnlFLTFDdm1OYUV5N2FHLVdFOUxqaXJxNXNBZFByYVlraDhWUFZ2NkE2YkFaNmNCUkx5TUtqdElmSW43cWFBWV85UWRJWkRsTXRNZGtRYURhZFgyY0Z5dG1HaHhPTjUzS1RSbU8yNFIySHRDX2hxcDdPUnhTa19PaUtud1l5ZnpOYVowRTdqNnNZQmFyQXV5RHc2LXM1UVNrYkRDTFhxZTNOLW5EMXdUTGJzMzVWOTNCa1ZLeEJpakU?oc=5",
-      "source": "香港經濟日報HKET",
       "published_at": "2026-08-31T07:00:00+00:00"
     }
   ]

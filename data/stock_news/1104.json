@@ -1,38 +1,44 @@
 {
-  "updated_at": "2026-09-21T10:35:16.200508+08:00",
+  "updated_at": "2026-09-22T11:36:09.026594+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1104",
   "name": "環泥",
-  "count": 5,
+  "count": 6,
   "news": [
+    {
+      "title": "1104 環泥- 大盤可能要衝５萬 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBEVXI4YktCcC14Y3h3WUdWRDl4Q0NzSkhQV2pDM2tBb3MtdFMzOEJCX3FLY0tuOGNvYVpWSkM5NEUwTjllYlhDYWsydFBiaTRReHlMSnJUb1M?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T11:33:36+00:00"
+    },
     {
       "title": "1104 環泥- 為何我會說：大腳默默在撿便宜？ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KdXcwbjhIX3p5TDluY1B0Sy16TkFJZm5MSUQzZFFONDRVSWw3S2ZHUjJDWFREcWlQTXlWcEk1eldqVi04UVFIUWZvc2FJTEdSYU40dy1Melg?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-19T08:21:04+00:00"
+      "source": "CMoney",
+      "published_at": "2026-09-19T23:21:04+00:00"
     },
     {
       "title": "1104 環泥- 新北坪價百萬宅三連發最高單價達124萬元- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjUFY0UzVmTHh3UmdGRUVwdkpIWmNCbUhiUGY3a1duQm5hZG9sX2ZwanA5dlZyX2hhMU5Da3dEbzRsQ05RUkx6bFpfRHJocFJrVmtvVDFpTmU?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
       "title": "1104 環泥- 新北市今年來百萬新宅僅3案，總價則與豪宅標準差一截- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9WZnQzZ0FrMXpMd2RIU1VscHFSVV81c0FWN3E3RzB3d0NGUmh4ZU5qT2taTk0tbTVGUEZvUjZ2TzgwLW8zR0gxQUdHem9XeWJEMGJqZlRsNDk?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
       "title": "1104 環泥- 新北市今年湧3大「百萬宅」 品牌、地段為關鍵- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zSjFUX2ozc00zc3p5Z1N5VmM0c3c3TWtOazZkcm5mWkNpb01haXhmS2JRaWNMWFFzQzZGanRMOTlBWGVkbUpJaFliazZlYTRBTTFzN1JpdkI?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-10T04:04:09+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5oMDhmazNsTS1ra0wzTEY3RkVDalZ1YzEtRXIzbzJ6SF9zQzRQalN0bDNMSUcxcDlld2tjZFlPZVQtQnVEazR5Yy1XR0tWRl9YVDQzZTY5cWQ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
       "title": "【13:11 即時新聞】環泥(1104)股價走揚至27.75元，受惠政府大建設與低碳混凝土題材＋月營收回溫與法人買盤助攻",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TX29pdW55WmMtYkM3SUpmQjdudTlmcTI3TlhvdzR0RjRVNjVTVzJiejlFSkgtZWxqUy1Ld1lFR044R3BadkpIb3VXLTVlZ29BR1pNSWJ3WU5lOWZFTkYtRURDLVo0M2M?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-03T07:00:00+00:00"
     }
   ]

@@ -1,14 +1,68 @@
 {
-  "updated_at": "2026-09-21T10:35:14.640023+08:00",
+  "updated_at": "2026-09-22T11:36:07.656687+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1101",
   "name": "台泥",
   "count": 12,
   "news": [
     {
+      "title": "水泥袋背上街！台泥股東臨時會限定白色水泥斜背包超搶眼",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lQUtUdTNVMUV6MWduR0JtT19sU3pZR1U0YzVJUkNaX2lWYkJFWFNNS0k2OXd3SEtjT3hEaWtyRjYxRGRRajBCVXFJc0NBNjBoYXlULUo0R0tNMzUwNlNz0gFkQVVfeXFMUHpoSmM5MFpoR2U3V1pqaXl2TWNWS0FrTHJqRVFBRlNyQ3g3YVpNa01rNFBTX3VPVjllc0xLVV9LREVHaG10QmhWVjdEWDBhOXA5LTZfOVhmOXM1ZUxSb1ZfNGh0TA?oc=5",
+      "source": "自由財經",
+      "published_at": "2026-09-21T10:36:25+00:00"
+    },
+    {
+      "title": "時尚「水泥包」背上街！台泥臨股會紀念品引發騷動 股東們眼睛亮了、零股族也能領-Money錢",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1KZl8wLXp5Y1hwV0FVZDY0MmV2eHFPSXRmejU4STN6Z0wwYk81RERlazVGQWlEUnRkSXlaa0hLRjE5dk01WWNwSUVDQ1Y3NGxfSmJBNTA4N0F3YW9SY3RjTlR0N0xpaml0V25YR0NmaVZoR2Y1Z1JqOThhVUE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-21T10:06:50+00:00"
+    },
+    {
+      "title": "台泥真的送股東「水泥袋」！股東會紀念品斜背包爆紅、最晚9/22買進",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ST3BUbU9tcDlBaUhUWE0yejVJcExId1k0UXNiRUpWTFpsVURIQVRHejFlM0pqNE04WDB1V0NMcFpTNHZqb1gzZlh6bGF5UzY4elNRWkVR?oc=5",
+      "source": "Business Insider Taiwan",
+      "published_at": "2026-09-21T09:58:00+00:00"
+    },
+    {
+      "title": "水泥袋背上街！台泥臨時股東會推斜背包 白色限定款亮相",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE55aWVlNG9TTFh6dDl5LW5zSHEzSEYzUlQyS2U0V3lqM1pnNjVIdjlNZnd3WXpPSWRQSFhLbW5mYkFOM0w5RlBDWjktbkVyS1dieHRaLWVnN2VFcHVWbHdUOEFKcE9HcjNpRUFHYS05RHg1N1pEY3c5VVZkMA?oc=5",
+      "source": "財訊",
+      "published_at": "2026-09-21T08:23:38+00:00"
+    },
+    {
+      "title": "51萬台泥股民注意！股臨會「水泥包」曝光 白色限定款更搶眼",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5EOU5GWmFSSjRNaWZXN2VqRWk1ZC12WUw5RV9wZHhxeUFUckRuZFkwbVcyeUVCNXFndDRTU3d6UEZBOFZJS0h3YmJjOVhnSnNNN2fSAVBBVV95cUxNcExzTFVCWnFyeF9QUWFsZVl3M0ZSMnM2SFJGaXRSMU9DR2NsT2REM3pPaVFrYkFpSDJ1YkdkOTZKNXpGenZFQjY2NVhudVVrTA?oc=5",
+      "source": "ETtoday財經雲",
+      "published_at": "2026-09-21T06:04:00+00:00"
+    },
+    {
+      "title": "台泥 10/13 臨股會拚歐洲事業掛牌！「水泥袋斜背包」紀念品搶先曝光",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81aHlsX0xCTEtxSWNtVmNQY0dvMGF2dmxFS3pzVnpoMkJVUHEtakVDNm1JQkNHQWZfcGhNWFdVNGptVHAzQWFUbFdobDZBdFlkc190MDlMNkNJLXJ5UGtCQVQ5S1A5VlYzQnNKTQ?oc=5",
+      "source": "finance.technews.tw",
+      "published_at": "2026-09-21T05:38:48+00:00"
+    },
+    {
+      "title": "水泥袋背上街！台泥臨時股東會紀念品 水泥袋造型斜背包搶眼",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjMU5aSkdsWGhOam5ZdmxWeDRpQUxoTXctVTRjX2tUdzl5Zk1ZekltTFkwZ2FlemJ3U0U2UTViWktSTmxPaWNURkRZM19YcVpP0gFWQVVfeXFMTkVhbVE1QXlxZGFIdHFqWVVRVXBsQVp3Y2pkbHQ5Zk9YdG50OFZNOHpYY3gzMGRoQXFtbksyc1QtbjIyMVFZM2pjOG56cHl2ODJwU0pMRnc?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-21T05:26:51+00:00"
+    },
+    {
+      "title": "股東扛水泥！台泥臨時股東會發水泥袋斜背包 白色限定款搶眼",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VMDlfRnZodnUtVjJjRmo1NHc0ZTJLS3R5bmtkTWJLR0xRM1JSaEpJOUpvb2kxWDNoamFrQjRCU2FBOC1hVWJFcDVEZEQtSFR1MWfSAVJBVV95cUxOVTA5X0Z2aHZ1LVYyY0ZqNTR3NGUyS0t0eW5rZE1iS0dMUTNSUmhKSTlKb29pMVgzaGpha0I0QlNhQTgtYVViRXA1RGRELUhUdTFn?oc=5",
+      "source": "NOWnews今日新聞",
+      "published_at": "2026-09-21T04:00:50+00:00"
+    },
+    {
+      "title": "51萬股東看過來！台泥10/13臨時股東會推「水泥袋」斜背包 零股也能領",
+      "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxNNXp1aV9aWlBXNmQ0T0pUbVZYQVQ0b19Za09obWN3VTBla0dkX1VTbC1lbVA4LUl6ZHVpSFlVazUtWjR0b2Vaa1R2RHItTVdxY1pJYTd4SFlYRm52Yjh2cFJMa1BKSDh3cHNMZE5obFhWY05KWGVHZzdNaXQ2bk85N0tBQWI5c1RYblNXUjYxUElVWE9TYk5DY1BzOThaU0cxcmFoc3otcEFXWTg5Ym5FYjVYZGhEMURxX2xveEhjNGxUS3ZDYnVQeHpVcGlzdDdjUEFMRjFNMFJyRjdGRHZUQlZIcWJkd3VKNkhkaDE1R3JyTW1tZ0E0UzE1WVdsekhlczA1a1l0eHZ5djdfMkYwLUNaMmFKWEFnWWViR09ZS3A4dXRtWTk4eV9ZRV82dkZ4MXRmVVJvbndEeGdtR0dPaDZyMXR2dVlKaTNiT3NrQktmd0o0YWgtM2x6QS1FQ0ZkUDJBZG96WGd1bzRtcnNHSTFRZHpTYmxDSU03NDM2bFRBRkwwRVJZV2NFQURmclZWTkpxOE1wWExRWFBLdWNvbjAtTk9mS3pFS3QzZ0VlX3BpSHc2?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-21T03:32:41+00:00"
+    },
+    {
       "title": "1101 台泥- 這才是新聞- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1IYVp2anp5OURjaEYtZk5YZlNESnBCVFE5VDlkUnlmZkJ4cDQ0STBVZ1RrTXlCUEtvTDdMR0tXM2RBcXFTUXpGUm93R3NyWmZSQWo5RWg3ZE4?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-21T00:53:22+00:00"
     },
     {
@@ -18,64 +72,10 @@
       "published_at": "2026-09-20T02:17:58+00:00"
     },
     {
-      "title": "台泥 內外營運皆美",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VQ1NiZDFjb1o4Qkc1SVBKS2NqdDdFVkVEQUNCaU9QUDlHbHJHVVdycDBLZG51eVpOYVB6eEZYY2lCdnhJRmlGS3hDakRVTzBsc2h2c3dKNmR0TF9PMU9CN0hQQkpJOWdDRkNJ?oc=5",
-      "source": "中時新聞網",
-      "published_at": "2026-09-19T20:10:00+00:00"
-    },
-    {
       "title": "1101 台泥 - 美國生技指數8月創歷史新高，莫德納 「癌症疫苗」問世，1天大... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rZ2tFNGdMTFhhLTVmNXlhRUgxQ0RsRlNJbFYwNXpQTDM5dF9sSTZpWDlLWUZybXBnc3Y4VTA0ZXN6QU4xNDNFYTRxd2hoZmJCeU1Pemd2Ujk?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-19T02:41:13+00:00"
-    },
-    {
-      "title": "1101 台泥 - 基本台泥現在走的是 23～26「遛狗理論」 中間値約是24.... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kczdzVXN1NjVtOWg1THlxRS10UWFIdFp6MzR4MmwtZ0FhcXhOYUxDT05sMndmV2R3VUdPUDJudEtYazBCZ3FvelgwenlDMTQzYWZ3aHY4bWU?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-18T06:09:56+00:00"
-    },
-    {
-      "title": "表弟力挺辜仲諒！中信金董座顏文隆家族 躍居台泥第三大股東",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fZEE0X3Z6X01EX2ZyQkNRVFgwbFlNWjZtZHR4Q1dIMGI5SkVURkY3Rk44QkVmTE11UzVNMllPTjJoNk9RcE5rRm5odnBORU9nMTF2VXdEdkw?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-18T03:35:24+00:00"
-    },
-    {
-      "title": "台泥荷蘭子公司 評估赴歐IPO",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfY3JwUlNyWlcyUmVDTlhjSEdQamk1alVhTXVOM0M0ZGdXQTZMc3Q1Y3dlM1hjVE1CNnVoUlNtalZVXzJJencwLXdnMllNaGFEX0lLc0ZISjI?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-17T21:54:54+00:00"
-    },
-    {
-      "title": "1101 台泥 - OYAK大逃殺，股價創一個月來新低 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KRWM4RnVNWmtwNVRUVzBZWXU1d1RyTXZLNzk3Ny13a1VyUXFSUHBoc3lQc0hjTlZVUnpaUFEyTmRrR3NPUVhjSFAwVXcxRDZmUlFnb3l3Mzk?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-17T06:39:10+00:00"
-    },
-    {
-      "title": "台泥該轉成台泥生醫,股價必$2千,起床伸展後先看台電發電量",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CcG1ES0NvSWN1dGRvdUJkTGNjci1nd3FydGNUdjJDbm14cjNHY3JabVFUX3ltbGRSc0lET2k3TkxfNG1KTjZ5eG9zdGcydHdfT1RNeFRoMno?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-16T00:19:44+00:00"
-    },
-    {
-      "title": "1101 台泥 - 台泥這表現叫辜董情何以堪 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04Y0FzbWp2SWlWcXl6anlKMUEyX3B3SENvOUJwVmVmaGoyc1UtQ2JwOUhKLVJPWV9ZU29WQTVMWUVUdFVuSmZRcUlraG51UGFSRkIwZnRrNWo?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-15T02:41:40+00:00"
-    },
-    {
-      "title": "《外資》賣超股：台泥、友達、玉山金",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZDJlcW41a2FmNlMxUUtKaTM3a05mYkJUUnVpTlE0ZENvbVBjcVd1WW9CTWstdW82cnRlTkFOY3VrR0hUYWVOVUVkWFBuV0NoRUtnT3lGLTh1dno3ZU15Q0swbjZCTG0yYmxzRGMxcnB6eWtPUFlzSWJUNWNzVERVWXctQ0xheDJR?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-14T23:40:00+00:00"
-    },
-    {
-      "title": "1101 台泥 - 【台泥(1101)盤後解析】外資主力聯手倒貨，股價帶量下挫 ... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwT1RVQkdud29QRHp1YXNLUUZvdU5XUzA4WHlHeEtkM2ZJVjJzaXdyUmhuLWZad19qNWZwN3dwcVF2TERTQ0R0MU5IM2hvZF9tWV9aZnJfb0Y?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-14T12:07:39+00:00"
     }
   ]
 }

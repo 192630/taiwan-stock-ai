@@ -1,39 +1,27 @@
 {
-  "updated_at": "2026-09-21T10:35:11.954435+08:00",
+  "updated_at": "2026-09-22T11:36:05.297621+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "0053",
   "name": "元大電子",
-  "count": 12,
+  "count": 11,
   "news": [
-    {
-      "title": "0050 元大台灣50 - 元大電子（0053）更名為「元大科技市值」 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YSmh5WThyOTBreWNDbVNuNG1UQ09EcGpIaE55NXg4RzhZRUJhVEhfZ253Z3JwYUxNRzhwZDBRenQxeDNUZTVSXzVVVnBsdGRoX0FxN09kNXc?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-20T13:27:29+00:00"
-    },
     {
       "title": "聚焦AI科技產業＋市值加權布局 0053更名「元大科技市值」",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HY25SNzNCZzdRVGs0eUxVTlQ1MW5EVXYxTUxPRkJrQW54RjJpV0xITXo3Vzg5cmZZUUVpRzhKVW1mV0pUTzlqdWpSZ0REb0xxQ3dXNU9GbFc?oc=5",
       "source": "自由時報",
-      "published_at": "2026-09-20T05:29:05+00:00"
+      "published_at": "2026-09-19T19:57:00+00:00"
     },
     {
-      "title": "2330 台積電 - 聚焦AI科技產業＋市值加權布局0053更名「元大科技市值」 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOSU9PTEpUbW02UkltNjBoeFVnU1AtUERCckNSMURhNEthem1GUTB3bFg3VzBIY3ZsYVBvVFFjZVlQUnBEUTRzM0FyWXpiQU1zeTNWOTRQNGM?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-20T04:32:32+00:00"
+      "title": "元大電子（0053）更名為「元大科技市值」",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YSmh5WThyOTBreWNDbVNuNG1UQ09EcGpIaE55NXg4RzhZRUJhVEhfZ253Z3JwYUxNRzhwZDBRenQxeDNUZTVSXzVVVnBsdGRoX0FxN09kNXc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-19T17:06:50+00:00"
     },
     {
-      "title": "AI時代來了！0053更名元大科技市值",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORy04N1had2JVeGxMdWJrQmZjeFk2UzRVRVdwZmQwMEVSVGMzQUttZ3BWdmlBYWRZNzBGM1h1dnZhOEJPTTZ0U2ljTVFQNnFnVUZ3YzJlQ0pNVjFFT1lLNzdOeFl5LXZDLVUyMXdpMFQ0MEp2elh0YnFmZm9CTGt6N1doOEk1dFUwbGZ2dXFXaFQyYjZYTWxoM2tydlhyQjJ2UjFpOU5PSUN2aFk4LWp6M0VUX0ZaUzdPamdRN3pJenI4UXVUNUxIYlJqTFVYSlE2U3ZtUUNQWUVodWJkMnJ0Z2xWRFh6ZGhqNDBySw?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-18T06:54:59+00:00"
-    },
-    {
-      "title": "叫「電子」太落伍? 0053改名「元大科技市值」拚向上",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQa0d5a2tSLVdwV3VRMDByZy1rd01FQjFyWVVWWklTR0pVMF9sc0RHcHZQaUtTZEtRNXV2eUQ1dllnbHQtZEg5akxVY25CVlRFVzVzcUFZMV81ZlRVQnY4U1hPZVZ0YkdMb01YSU8xN0E5dVFZckJKeFJJTWgtcWZYb3MtcHBqU0pFVTNUZXN2N0xPSEVzUnNpM1BuNy0yemJ1TW82R0Rka3cwZndyOFRNcDdvZFpWVzBWRFJJMS1yTGJxTTgyM3hYMWt6cGVDNjdRSVNZU05VbTl3d040SlEwM29DOE84MzJGSGViWVFKcncxVHdpSksySjc4djJ2dHpHVmVEMWl3?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-18T06:53:41+00:00"
+      "title": "科技ETF股王0053更名 10月12日生效",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tQlpqd3ZCSmZaMVVFWUlRMDZlYlJSenhRQ3habVQ3OGozWEI0VE5mY21MTDNvUTJ2cko1aThjZDBkNXNiRF9CVVpyYVQ0MXl1emVn0gFYQVVfeXFMTW9LNHFoX1h4SjdSTkhWSk5rOGM0eHdXRGtqZXpPU0luazM4aTRhdzBxRWE4blRsRTM4bXRKeUM1cm4wUWxTNEpVek1BV255TWF0RFZBRmpxRw?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-18T07:01:30+00:00"
     },
     {
       "title": "元大電子(0053)ETF股票型基金的基本資料",
@@ -68,7 +56,7 @@
     {
       "title": "0053將分割 專家建議同時加碼0050和0053才能攻守兼具",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xLUVpVGpUem9jb1RlYXhKcjRMMjExVGVPR2lSWVkzVjRXbG1vb3FpeFE1N0hMa0N3aERRSU9qQTVqbWxLRDlwNFZVUzh6d2h1YmtCMEVJdEI?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-08-26T07:00:00+00:00"
     },
     {
@@ -76,6 +64,12 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52aUdYb0lGNkxCY2lSVG9KQ181X1paTlhCejc4ZC0zbWIwTkpsanBGR1ZpbVI4aHZ3V2t1SmtIZzdnQk1DR1RvUmZ4T1lXQVN3bko40gFYQVVfeXFMTi10X09hRVM4NkN1bmJJZGlVajF0bzFtQ0hPLVlHS0E0UnJKdFJ6WEx3ZkV2emdrYkxOR0RTc1VwTkM3OXpUTlJBaDlJQ0d4Tlhwb25TRGNqZQ?oc=5",
       "source": "UDN",
       "published_at": "2026-08-25T07:00:00+00:00"
+    },
+    {
+      "title": "0053 元大電子- 0053擬提分割並不配息！周冠男點破迷思：配息只是把資產還給你- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRUWl5TEkyZklOZ0VySjJMeGgwVHVtV0laT25Kbm11RXFhTGxENkRGdzhDbkliUHE2dVo3eV9kYldEdzIzQlNLSk9GdGhzcFlpVzVJaWM1RjM?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-08-24T07:00:00+00:00"
     }
   ]
 }

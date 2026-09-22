@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-21T11:36:12.069764+08:00",
+  "updated_at": "2026-09-22T11:36:25.966832+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1308",
   "name": "亞聚",
-  "count": 8,
+  "count": 9,
   "news": [
+    {
+      "title": "亞聚(1308) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Ua0lCcXZpbTR2dUFKVWN3eHVqTFRDeVg3dkh5UWw3amdVYUtNREZzUFpLTEljN0MyRFNYVklTQUtHZm0xaXBCMlN0RWxlbUJsbVRB?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-19T14:22:38+00:00"
+    },
     {
       "title": "【13:24 即時新聞】亞聚(1308)股價上漲4.24%至14.75元，受8月營收年月雙增與EVA、LDPE拉貨題材激勵＋外資買盤回補、中期多方格局延續",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53LThKWUk5UFZhbUdUdlhxb0lTVkVkeF8wM012M0JMUUZwWmYwakhMWFM4dUlxY0VkbWRHNlNGMUZVNTlzb2VUYVVVSVp6VXF3MjItNTBqNUo?oc=5",
@@ -12,15 +18,15 @@
       "published_at": "2026-09-09T05:25:10+00:00"
     },
     {
-      "title": "油價飆漲、下游買盤復甦 台聚、亞聚、台達化8月營收成長",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBVEo2NDhfUTFIdU9OVmM4djJQc3l3NEEzdzRmdXctZlRGVUZVd0I1QUY0X2pPckI0MjdFZ1BoNHYyUTFpUDVkUlpISTMwT01M0gFWQVVfeXFMTVFpSWlvLXVGYVY1MGJCX2E1dDE5Mkg5aldCejRKMU1iZ3F3MU5GVHFLLXNXQ0hEMmNwSTJGVVRObzFLTEFSUmdpend5a3hSYnkxTkYtc2c?oc=5",
-      "source": "UDN",
-      "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
       "title": "【13:22 即時新聞】亞聚(1308)股價小幅走強，受塑化族群題材帶動＋短線結構低檔反彈測試壓力",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVkJFbmlkcGZyOUpJSHFCTVFBVnZEVGNaeDRtMHYxcFBPQlN2b1A0M2VXMEZDd0lBTC1vRUpHaC04cDFvNWFGcDBHVzl2LUN0blVJTDRVZTBWQngzdDZMM1pXNXl1UDkxRUhPZVJUN2ZnMUJ3WUFBRGg0ZVlxdEpCS0kydldicmJmTHZYeElR?oc=5",
       "source": "CMoney投資網誌",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
+      "title": "油價飆漲、下游買盤復甦 台聚、亞聚、台達化8月營收成長",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ORDg4dUZPVExMd0RvZ3A0VW00MGU3aXpmVUFseWFOSFZ3R19jVjhaakE4R18yZFZ6R3lpdHY1ajVTM3dvT3pBejFPaFU4R1pzZDJZX3c3SnVCZ9IBX0FVX3lxTFAzYUswLXhrM0RfbERONUp5RDN3el81cGpLaEpNWGItLTY2NDZ2cmExS2hLY2VWMy1VcjN2bkpYR3Q2TnlRZGZreXZxdzNJbC10dmJfVDlOR0JtVE1xamFR?oc=5",
+      "source": "經濟日報",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
@@ -48,9 +54,9 @@
       "published_at": "2026-08-27T07:00:00+00:00"
     },
     {
-      "title": "《塑膠股》亞聚Q2轉盈Q3聚焦光伏回溫、EVA買氣- 上市櫃",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1WVd4eGZnQ3RJRmxuVTIyT2dsZmNzODA4ZHRXRGxjTjRuVXk4dktEZERtdFl3cW5YZUtkRnJEVENWZE5CWnlOWlBqT3MxV19WSHhqMC1CZTJGZHFBWjlwWHEwWEVqd1Y0cUE?oc=5",
-      "source": "旺得富理財網",
+      "title": "台聚、亞聚營運好轉",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91Yl9Cc3BrRzFpRVBJcmJmdkhtS3kyQkJOV2VmMHhFbUZYSkJ5bldJX1lEY1VMeXJWclEyeDBkQlBuWU9oY0ZIbEg0ZHZrNDNZU1paeXVqNmlFUdIBX0FVX3lxTE9CM05oSWNsNVd2Z1FJNkI5eHV4UkZrd1BXNWRtUHhQcVQydlRkRm5sMFR5a29XbXBpXzA3cVRRblp5WjVLT21aa25FVHJNZW80XzRKV0FZTk9mS1F0MFNJ?oc=5",
+      "source": "經濟日報",
       "published_at": "2026-08-27T07:00:00+00:00"
     }
   ]
