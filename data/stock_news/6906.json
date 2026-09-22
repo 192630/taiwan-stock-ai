@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-22T06:34:20.607588+08:00",
+  "updated_at": "2026-09-23T07:32:43.534960+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6906",
   "name": "現觀科",
   "count": 8,
   "news": [
     {
+      "title": "現觀科推BoostQuant技術，助客戶減輕硬體飆漲衝擊 | MoneyDJ理財網",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xbXB2Mk5NbHVPRFdsaWdWNDFodzhXN3N5WkhGeENVbFlhc0FKV2lyYnFKQW9nNl8wb1VLMk5MVERPZmRjc0t3ZHFQZUFDaTVHZU5JYnFR?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-22T03:38:45+00:00"
+    },
+    {
       "title": "現觀科新案持續推進，營運動能有望逐步增溫",
       "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPSDl4XzhmQkpuMWdKYWFTOGM3TEVHc1kyRXBfLXVqX1BOTC15cTZzQmJSNUE0bW95eHFNTDdMUXp4aEw2SF9yZjJGODdwRnVUQ2FIdEVMNGowamZhd2pMMC15Yk1oZXNKZVBrV3pfRDk4Vy10cHZWTnAwRVJKZWxlNW5ZQ25oSEZ2MzhSMUM4enZEV2FIX0lCRVh2OTA4SWRNR1MxZEJSTFA2X3JERWxVakREQTNsdklsdVB6X3h4dHFfWVMxOXozempVLW92d2c1NWV3Qi1LVWZSa1RaYWgyV0MwWDQ3cUE5Z2lLQ1RSOUVzYmdSeHRyM2t4OUt3RUJ6eDhsV2lZUmdQNHpPbTl1b2VLVzcxcFNRN3drOXVGUzVWX0ZtOWpHR3liLUVLWnNlZ2x0SmtadUZEcVY0QXdvUg?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-21T03:09:22+00:00"
+    },
+    {
+      "title": "《數雲端》現觀科 GenAI首張電信業商用訂單到手",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSWZmQmlNVEV3blhiTkU0YWRvampkcDl1N1ptYXRKLTZRV0lhUGJBQ2tiMi1sdjBWaW1DaTJKMHBDQnV4Qml6RzA4Nk05dG56Z3NhQy12XzJ5WlE3YWtSV3ZyX1JKekV1a1ZiS1BWNWpCc09nalRzM0FNNDRkTG12d2NRYmVqZlFD?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-19T05:00:00+00:00"
     },
     {
       "title": "6906 現觀科- 9/18法說會新聞- 股市爆料同學會",
@@ -30,21 +42,9 @@
       "published_at": "2026-09-17T18:56:00+00:00"
     },
     {
-      "title": "6906 現觀科- 明天法會- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xNUF4dG9zR3VjT19Za09LQzNZZzVBd3I1QXdPbWJBd1U0Y180NmNhZUJYOHRNNGRpUmlKNWg5Snk3MHBkOXJQb2xhMHZGZFhvUjZhUWFrNUg?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-17T08:18:19+00:00"
-    },
-    {
       "title": "今日漲停股｜大盤下跌307點，盟立、大甲、現觀科等AI半導體與自動化股逆勢亮燈0903｜豐雲學堂2026 年 09 月",
       "url": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxPWF9SbE05cEQ3WVg3NDdQZGlvcHcwZldhZjU5N1JGTzkyOFItZUVWcW1Nc0lmRTdPajZGSld4cmNsYzFvMk8tSFdiNEFsdXN1am1BS19VVVdGblhvUWlWUF95M0JLaWx6YmlKYkVtajIzNElOZlpmZUxrVkVfZ2EtcVdGR3RKSzN2RkM5cXo2UkRoNzlrNV9LQ3FieUZ4NnVRUlE3enJxUDgtdWphbUJxblgzc0lKaGpyRDdrbGFreExIT0xRSkpoeHBOazk1bmhIYjc5QThHTEh5Um9vbjRNeWtuOVhkSkdWdUVFLU1YLUMzby1xV2tTdkpZSEV5U0pjSTU5bEhMT2xvUVYyZWQtTzlUaGlQc29MdzJTb2hOUW5rLWUxX09pQzFqMFF4QmFkNjJJdkZPQjhlR2NuaXJaelhackNkcS1qNEtkaHVXSXlKS1hpUDY4SndsR0ZHeVNsX1JQN3hfT1NoaTR4SmFkVDFpRzdNR3k0V2RxYm1mdnJqYkZ0eUNQUlF6d1dDbGstbDIzVDV4UlNWOV92Q0RoMjBVZzRsVVdKRkdGamQtTWVrSGMzOHRXWlZxMndZNjV0bG1mV1lxREpnNDV5cXBfWTdsXzhNSEpWUjV5b0p0NDdkTERlN3Y0OFp3N0Nyc3NLb0ZkVGFsRF9mVUNm?oc=5",
       "source": "sinotrade.com.tw",
-      "published_at": "2026-09-03T07:00:00+00:00"
-    },
-    {
-      "title": "【2026/08月營收公告】現觀科(6906) 八月營收表現亮眼、呈現雙成長，創近5個月以來新高，年增1.2%",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPbHYwTmsteHZDMVM5R0xYSk9zRFdRRVVzQk1pU2w5UDNZV1hBTllianNSRWVkcV84ZjZ3SXFUVzZoSTJKSGVTbFJOaFlyS0M1TWdMTzJIcHRNZkRpQzcwUjlzaHkwcGM?oc=5",
-      "source": "CMoney",
       "published_at": "2026-09-03T07:00:00+00:00"
     },
     {

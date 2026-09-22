@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-09-22T06:33:55.195742+08:00",
+  "updated_at": "2026-09-23T07:32:10.158751+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6792",
   "name": "詠業",
-  "count": 1,
-  "news": [
-    {
-      "title": "【2026/08月營收公告】詠業(6792) 八月營收月減年增，全年營運續看向上-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOVFoSkIyU25WOURyT282dmktX2NfUnlSM2xYN0d6QmNoa2hUT2Vvc0d0X1Uxc0ZvSFZFdUMzRWxic09yd3UyU0JfZ3VkcVF3V1RoTk44ZWdBZUJBclRUbGd4eDJTUTAzYWRYU1Z5UU0tb0puU1QyN0dfS1MtUEpkMUJ6d0xOMkk3blE?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-08T07:00:00+00:00"
-    }
-  ]
+  "count": 0,
+  "news": []
 }

@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-22T06:34:24.108099+08:00",
+  "updated_at": "2026-09-23T07:32:48.009674+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6916",
   "name": "華凌",
-  "count": 1,
+  "count": 2,
   "news": [
     {
-      "title": "【2026/08月營收公告】華凌(6916) 八月營收月減年增，全年營運續看向上-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaHhfNFVFdGF5cUJSWk9vQ3ZzWU5icHRXYkhrWkNmU2ZqMmJmYzVaLWRGTkcwWWlTUTk3dlBXV05tdE9yT2RpTE5RVXpOdmFnY3M0a3J4YXFvR2hHRzVPYW1uOUtYMUs0bDNiSDNXLWxHTDdXX1R0RGZWemNvR1VlaU9BWDdfMm5PR3c?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-08T07:00:00+00:00"
+      "title": "【2026/08月營收公告】華凌(6916) 八月營收月減年增，全年營運續看向上",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wdEFOVXJHUUdBSW81R1NjX2YtQTlHZGhzODY5U25yb2ZGVVpDQTJkN0NRQVFGcVZNT0k3UE1Tck02TGRnZUlfdWx2SmItTWZHX244eVFVbi1SVDltVFViY0dhNzdjZU0?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-07T09:40:12+00:00"
+    },
+    {
+      "title": "6916 華凌 - 🤦‍♂️ - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41WEF4clFWWFJtN1JQWlJBLThKajJBQ0VCSFA4Qlo5YmtObDdWT1FKdHNsM0RVOTFHNFptLXhMTnlXa2MtcGhuN3pyOTBNc05tVHNudVpMc3Q?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-04T07:00:00+00:00"
     }
   ]
 }

@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-22T06:34:00.899927+08:00",
+  "updated_at": "2026-09-23T07:32:17.854696+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6829",
   "name": "千附精密",
-  "count": 12,
+  "count": 10,
   "news": [
     {
-      "title": "討論牆 | 盤中速報 - 千附精密(6829)股價拉至漲停，漲停價239.0元，成交1,235張",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xREh2SWFnNktucmxGZ0JTSHNLRjFWcVk2b1RydDJpaXNuY2pUSVNfbVFQb0U0eFlCd0RuSjg2T2R3RmQtZUFJUjVVaXIyeTA4Q1hIbzFKbEg1cDRuZVVsQ0MzRUU?oc=5",
+      "title": "千附精密(6829) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QQ0NTSjRGWlRtNHQxelg0NnFJQ0hHeWFQRVdTMkNsRTJZSi1sbXhiVVdWamo5SXJqUlFfUTlIb2JqVGFVNHg4ODE4ZFR4SV9laVkw?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T07:30:36+00:00"
+    },
+    {
+      "title": "討論牆 | 盤中速報 - 千附精密(6829)股價拉至漲停，漲停價244.0元，成交2,412張",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JUFlBQ2VkNnVaR2pvSUlldnkwOUExRkJ6TG55MlZ0UlFaVzlybjR5MmJ6QnZuQkdwOTVtMWZha1VjNUI3b28tODhhMVJZUTFod3hCY2xnNTRFUkpuTlZQZVRPMDc?oc=5",
       "source": "LINE TODAY",
-      "published_at": "2026-09-20T16:19:55+00:00"
+      "published_at": "2026-09-20T16:28:46+00:00"
     },
     {
       "title": "【11:34 即時新聞】千附精密(6829) 盤中走強聚焦半導體裝置與航太題材",
@@ -18,16 +24,10 @@
       "published_at": "2026-09-18T03:34:30+00:00"
     },
     {
-      "title": "千附精密量子題材 增溫",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBiWFJXUWlkbG9XaWdOX0NQSUJXT0ZJdzVTaUs2LWQ3Z0FSTUJzSUhBcjRGQXEwTm44QUk0QjBlVU9nZmhOMDhwdWhtWldaZnNi0gFWQVVfeXFMT2xHQXdDRW5QRkFab2ZNUmgwY2hiQXM4SE5WS2MxRUw4bXVGcnBXSFZtVFpXZGFCNjZxZm1FUEdWaXBHSEhkTWNrdUZ6Z2NldjgxQ0lSUnc?oc=5",
-      "source": "UDN",
-      "published_at": "2026-09-15T16:09:42+00:00"
-    },
-    {
       "title": "千附精密量子設備 報捷",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iZmdDRElyZlN1Zzloa3JMRThKak5mNTNCa1MxNG45YkdPNkZ2NnNsc3dGeERPV0IyQ3RUS3p3QWJ1S1hLajZUQWRNUXFxRTlET2pvYlRpVjE?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-11T07:00:00+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhMjdCVjJKdjQyS0tXaGJxZTI0Z3RINzlPWkQzNkMxWGxydlFjNGJGSGdyR0IzaFQydEd6M05xZjMtcDcxWHNwNGtkWEV6TlVC0gFWQVVfeXFMUHQ0cE9Mak5QZWZhOUliM1M0eEhIb0FTRnpDaV9kd3ZQTWdqblRlTGtDZFYwT1MtSWNsanh1NHE1X3lXSm4yRWtZRGJURk5kWS1MY29pRGc?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-12T07:00:00+00:00"
     },
     {
       "title": "【09:38 即時新聞】千附精密(6829)股價上漲逾9%，延續營收成長與航太軍工題材＋短線主力近20日偏多、留意高本益比壓力",
@@ -48,22 +48,10 @@
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
-      "title": "千附、千附精密8月營收同為今年次高 嘉義馬稠後新廠第4季取得使照",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1nSEtnVHh5OE8xVi1aX2hhV05iS0VuMXBSVjVnb1V3bXR2ZDR1MmFrVDRmSHppblB3Yk1qbzI2VmVKaGVhQVgyak1JLUM3ZFA00gFWQVVfeXFMUG9QX1U4LUlhQ3A1NmJLR0RBc2RuWTdPV2E2WXlPUWdpeWxhWHl6aGdKUlBQMU1FZXJ3Y3B4QnZ5SjNvX01SYnRLcW9uSFhOSlQxdFd2bEE?oc=5",
-      "source": "UDN",
-      "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
       "title": "【10:07 即時新聞】千附精密(6829)股價勁揚逾8%至263元，量子低溫裝置與軍工題材發酵＋高檔多頭結構續強但籌碼集中度升溫",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa09NaklZNEViZG9JS3d5eFNEYmxKTEJSSVBwbnBYYnpTa2tPZ3Z2MkQ2WW53TWM0aENpUjhjb3F6dUZ1eTFDLUFaT2g1ZnJ3TUw0TjliNnRRZElYOS1iQlJlQVFZSV9yTjhLVElTV3ZpSHdQaEZqQ3RpZVhESEdUQlVSaDFCRHJDcGYxV0Rn?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-07T07:00:00+00:00"
-    },
-    {
-      "title": "千附精密嘉義新廠拚Q4取照，半導體/國防撐H2動能",
-      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNdFFYZlZ2VU0zX0p6cE43bk5SNXE1U0Z0T3dEY3hwQzdYSUZaZ1BpendSV1FfNUg2Yk5CT0E5czFoTmF4Y1dkNDlZdUhPVjJyUFk1R0lDOXpjQTRZRzZYQXBpcVdYU3lQLUJWb3pYbElCdkk3RkNRQlpMSzU0SnJYSXdlb1o1ZXNudUp4VVg4MTh5NmtVMTFDQUJzYlgyQ0h5bGJ1S2stdkxBTF8xMWdvY2Jib0ItMk81T1ZmcDJvZ05Gb1ZhbXpybG8tSlV3NXRuN3JYZVpzc2tEOEVnZTVWMjFzaG5nRFduLUxkNzNCZm90ZFo0Ylo1LThkV1d2S3NTVTVIU3hmSlNHUlI0aU1uLUZDS2VrX3VfcU9sNk1oZ1E4SEFXeU9ia2ZfSXNFWUhCbWtoOExnRUxkNTViemlGYm00N0hhclk?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-06T07:00:00+00:00"
     },
     {
       "title": "【10:36 即時新聞】千附精密(6829)股價上漲至246元，量子與軍工成長題材帶動買盤迴流＋均線多頭結構配合法人中長線佈局",
@@ -72,8 +60,8 @@
       "published_at": "2026-08-31T07:00:00+00:00"
     },
     {
-      "title": "半導體需求熱絡，千附/千附精密後市續看旺",
-      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOUGMyd2tfYmlhdTlpVXl0VGs3a1NkaFNYTk53eFVQSVc2Zk5RS294NU1IMVlabGQtamtqN0FONDlYakdCYTRsZy1oWGZVRVpuSDRDXzNfc1lQY3JJSXp6RGFyYWU5RUFadWNvSjRVd0czQnQ2djcwY2RxSUhra054WG1pQ055M3pQd29oX2h5TDBlQjhuVnBOdmxVdVNUSFVCUXhpemxmd3RydVk3b1lKZ3h4ZE9la2RWNG1aaXduN1FjTmI3SXhHSGpNTi1RcXpHbGhoRUpHcEdTRVdZS1YtWHRQblZkMGlCbERVanpxdkRTSGE2bHItaHRZcHdteXhJcVEwc29ySFktalRKWUJNeWpCOXJIU0RINDAwaGpLYWdUOV9pcDE5dkdyVjExZTRGZE54QzJR?oc=5",
+      "title": "千附精密下半年動能佳，半導體/國防成長力強",
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOOVNUWWE4T3lId1pUUjF0aGdqMUFuWmFqYzc3U0RHaXVLMGFPNWNUUlFveU5IU0MzMGxSR0lBckc4OUJkUmhvWTRSWmxndWNyQU1ldFZmemJwOU80Zml2ZkVPX0JBTVlJZVBwM2FBa0QwWDhtQUhZSUw0SFFmQU1fNHlPUzQzUy1BZkg3MlUtVHFhMWtpc2laZlZRYWxxMGRCY0w5Qlg4aXVlSGh6eGVQaEJNLUoxdVBZc0JkUUdoa3hYVU1FeTVDUE5YcGVOLXEtUHF2X0llRkxubURTbjZJZENxVGR1MHRfLUdlZU8wLUVQVkNJaktCeFpEMHd4R3BXS01rdXZfTFhkeTNmdGlhMjJySkZpYVVtWGhwQ3o3X3J1eUNWRl9QVExxYlhOVm9CTEZxd1FnZDRycENteUJjR1R3?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-08-26T07:00:00+00:00"
     }

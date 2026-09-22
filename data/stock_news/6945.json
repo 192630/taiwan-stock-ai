@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-22T07:33:17.557596+08:00",
+  "updated_at": "2026-09-23T07:32:59.145928+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6945",
   "name": "圓祥生技",
   "count": 12,
   "news": [
+    {
+      "title": "《生醫股》注意股：圓祥生技 近5日漲35.27%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVV9McTRFb0lqS1NQei1PQVJGZldTeGFSZGhfTDlhY0JPNlNjVjVTbEJHWUt0OHpWNTJYSkdicXU5X2wxZjZQRmE2cEdsbGtWOGpsX0ZsTUR0Uy1kMGNpU2g5S1lSS0tfZkJxZ0trNmRfb1RQQzdPQnF2MmtUemNBVmhXZTR0M2dC?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-22T00:16:00+00:00"
+    },
     {
       "title": "09/14-09/18生技股週報快訊：永立榮漲幅42.01%、圓祥生技漲32.26%奪冠",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE04Q3JjVmRfMUZTRzhfTE5ra29ZZTBFTkdDa2FBN0l3R3F2NkhlOEtGRl8zcG1RdGh2YThuNE1Yci1aZ1pjZnBPTTVpbTdRRDgyWUVMaFNLeDY3Q2tFWXlSYTBiNFFiZ2xGOG0zRElWWkotQQ?oc=5",
@@ -36,6 +42,12 @@
       "published_at": "2026-09-17T12:36:13+00:00"
     },
     {
+      "title": "6945 圓祥生技- 祥祥的好處齁- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGODVfeTg0RFlSS3JPVWlpZS1iUVhmYUVyckQxUTEtWGhCTERlYjNINW9ndU1XNGtNOGxJc0N3N1JwZmdTQk93X1ByWllGSTY3T19mOFU0Zkk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-17T02:55:29+00:00"
+    },
+    {
       "title": "千億美元自體免疫市場！圓祥生技攜手生醫重磅大咖，開啟美國大門",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4yM25VQW9tbzlvdmxqbGpJZHZBeWdraGFWdTBZY0JQNDlhS2stZDJJTDdyakdjeVB4aWVZQUNnWExja1FhUWNrWWxFS0xMdzlkOHVyaHUzLUw?oc=5",
       "source": "CMoney",
@@ -60,22 +72,10 @@
       "published_at": "2026-09-16T02:26:17+00:00"
     },
     {
-      "title": "圓祥生技(6945)",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUU81bGItcUM5bHhBcWY4NVNyV05fT1oyOTNmd2pXcThIc1d2a2JTUWJSSlhOdFhycDBfYnd4YWJVMWpMa1dVWDA3UnRwVmZiUXAzbHNyUmFIZGVLcVhLWEppTVdtMlNoQk1uc1dKUkFQcVo5dHJtUkFVMDdBbmtYV2tYWTg2QQ?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-15T03:45:56+00:00"
-    },
-    {
-      "title": "6945 圓祥生技- 眼藥將入關鍵變現，圓祥潛在資產推進多點齊發- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nNXBkTms2QnY2dkFGaXJjTFI2TmJ5eVJ4OWtSYUgzYXBLSUtBZkgyU0xGNkVZNVFmcERhS1BRMUt4M0plNzJ1VjliM2xTakQ1T2VTalg5Um0?oc=5",
+      "title": "6945 圓祥生技- AP402：目標百億美元HER2 抗藥藍海市場- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xTlhTQ1NqcmExdWVGN1Z5OXpHTlg5dlVJRXhJOXFMaEYzS0paeWMwaGplbnc4VHNUTUcxOUg0aW9nbDNYNExDWDRHRmZsSHRJSkl6dlI0emY?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-15T03:29:49+00:00"
-    },
-    {
-      "title": "6945 圓祥生技- 傳統 PD-(L)1 耐藥性癌症族群的救星：AP-203 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wTzJWWkt5SkN4blZRZC0xSjVYSFI4SHlPbFRVaVIyZGpwRXZjeTk5N05MNXNNank1Nm04VmhTOWdKMnhDUDB2WVBKMEpnUHlHd2d0RUN3V2o?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-14T14:14:40+00:00"
+      "published_at": "2026-09-15T23:10:21+00:00"
     }
   ]
 }

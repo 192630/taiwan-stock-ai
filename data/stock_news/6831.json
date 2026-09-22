@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-22T06:34:02.067088+08:00",
+  "updated_at": "2026-09-23T07:32:19.413156+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6831",
   "name": "邁科",
-  "count": 8,
+  "count": 6,
   "news": [
-    {
-      "title": "百邁科龍虎榜數據（9月21日）",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFT0NhR1RvN3R3UEU0dElMYVBkLTNES05iWElHTVFWR0JBZnFlOUNoM0JYTEFJT3daVXhzV1VmVU5KcXJwMzVWZ3FfcDRLcHdMNmlydzV0QmNqQWZF?oc=5",
-      "source": "Moomoo",
-      "published_at": "2026-09-21T09:33:00+00:00"
-    },
     {
       "title": "營收連3月站穩5億大關 ！邁科CSP客戶拉貨增強 法人看好Q4再創高峰",
       "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNdnJVY2ttaDhTMk5Ndm1Ea1R5V253Rm9ETWU2Ull2OFNQNUFNQ0VwVDNlSXczYjM1U1pXZHNfYThWNzhoNmQ5cUNRX3VQTndSRHZuRkN3OE1GeFRJZTRjdnpxdjBmejN5M0FsQUdwTWZ1dWdzOENGSEU3TGlBNWR5OVFRd3g5UnlFak5Sa1RNc2tnd3Bjckg5LTU4V1pfY2NwXzU0U1hlREs0eWR3eE1mOUpUREswTEJyTUpqeGYxZFoySURDRUVMaEV0N3YxTzh2dFR3NXpVN2kyT1gxQTQyNlBCRzc4WmJiWVItWFBWR2QwbWw1TjlQakRwZE5DSzZGajJZdEdKcEZmM0RVVWRFM2FUTFR5MlVRQjhFXzkzSVREd0J3Ym42T1M5ckxBOVFoajJKS2k4VXpFWHhDRmNKMDJkd0Rhc1MwbEZyNG9uLUJsTmhSTmZSd0NhXzJ4bF9peGxjbzFoUnBvVGNEcWQyc0JKYlNVOXZqcko3NEVkM285LXY4YnpSckh5MkcxMjE0ZlRiOXdhYnk2WVl5V050U1hvZw?oc=5",
@@ -19,27 +13,21 @@
     },
     {
       "title": "ASIC拉貨動能強勁 邁科Q4至明年逐季成長",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qSktFOFFOTy1TTm9OaW9JMm9DMllxbWZOTndqRV9yMmdGY2tHWVQ4eWwwZnQ0ZFBIcDlxVGprYTQ3TzV2enhYRWxReHpJNHFjM2UzWkowa1Q?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-14T21:32:34+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LMTRnRkZUUEpqb3NhVkZxNlkxbDVkQ3AwZVZWWUxES29mVHRfWHNCc05RMWRqLTBIVWFRaEtCanlHYTVLcnZfczlDb1U2TzhSdW0yalN3?oc=5",
+      "source": "自由財經",
+      "published_at": "2026-09-14T21:30:00+00:00"
     },
     {
       "title": "【12:45 即時新聞】邁科(6831)股價小幅上漲至566元，AI伺服器散熱需求與營收成長撐盤＋高檔空方壓力下的技術面偏空整理",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNVZ6U3JKNVh5MjJ6WEROTE9OZXQtQVp5SENVLVZoa1RTLWZSVE5NcFhyY3FPSU9HRlVDbE9IekY5aldLaXZiTldYd3lIX2VQTm10Q3VfLTYtTDk2N2Y3OERsWUdfOTZfREV2LWppNFk5TFhQcDRjRmNsdVhyR2VFbkZGOHQ4NFV6SjcwX2ln?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-11T07:00:00+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81X25RSE94QU1WVnR5MUd3ZzRWLUZUWHRqcmR0SWFhVlZPeVBaMEc0cS02QlV6YVFBMDB2SEprdWhsM3FoZWlHMWFBYU1MX2NJMGJSYXFEM0lGSTNRQy1rd2JHOTVzbm8?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-11T04:47:20+00:00"
     },
     {
       "title": "〈焦點股〉邁科受惠美系ASIC貢獻8月營收再站上5億元關卡 走揚收復5日線",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xRHNOZksxSlBNUjk1SFRXZ1NndnVWOXd3UjlzTGpDcGloLTdlOGYtQ25FTF9Va1Nab2ZuU0MtakpGSGR5eFdMd25mdmRjZk0?oc=5",
       "source": "news.cnyes.com",
       "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "【2026/08月營收公告】邁科(6831) 八月營收5.12億元，年增29.1％",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ENUwyQ2l4S0tBaVJnamk1VWpnd3VxM2s3Zkh3b1czUk5VOFJQNEFrTmtxNWhnSWs1Y0RudzVrUXBPMFZQdWNNMDhOYkpiOXllalpPWTlMN0otU1BYblp1SVJGMWdCRGs?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-08T07:10:03+00:00"
     },
     {
       "title": "雙鴻、邁科8月營收維持高檔；Q4動能續升",
