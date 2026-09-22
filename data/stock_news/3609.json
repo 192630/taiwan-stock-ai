@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-21T20:36:56.829592+08:00",
+  "updated_at": "2026-09-22T21:35:14.064578+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3609",
   "name": "三一東林",
-  "count": 4,
+  "count": 5,
   "news": [
     {
       "title": "盤中速報 - 三一東林(3609)股價拉至漲停，漲停價24.05元，成交206張",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qLXZPeEhGQ0J1dzc5V0VoTUxMZWszRjdYT21KSmdfT1kxcGlHRURVZklCN1VmQlV4VkJkTG5hQXMzZ2ZOUUZ2NHZtUGpTMmdZd2VtYXNEdTdmRHpXcFVWY2czakpXdw?oc=5",
       "source": "TradingView",
       "published_at": "2026-09-21T03:11:00+00:00"
+    },
+    {
+      "title": "討論牆 | 盤中速報 - 三一東林(3609)股價拉至漲停，漲停價24.0元，成交201張",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fNjJHMTVNRlJ2WDdvWnFxbXZncUVMMG1qR3JaS2xTdk5uLXZXVjd1N1h1Rl8zQnZyQ0dCdUNPSHQ0R2RDQzVLZFY1ZEdmbV9GTEdkZ25Cd0xGZmR2bWtxVnRoWVU?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-18T15:46:46+00:00"
     },
     {
       "title": "【12:49 即時新聞】三一東林(3609)盤中走強，市場聚焦高階汽車與AI洗車佈局",

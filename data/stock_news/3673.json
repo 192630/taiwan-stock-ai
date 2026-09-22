@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-21T21:34:00.534855+08:00",
+  "updated_at": "2026-09-22T21:35:28.206335+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3673",
   "name": "TPK-KY",
-  "count": 11,
+  "count": 12,
   "news": [
     {
       "title": "3673 TPK-KY - 黃金真的會衝上5,000美元嗎？ - 股市爆料同學會",
@@ -32,6 +32,12 @@
     {
       "title": "TPK-KY(3673) 今日股價與討論 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TaHYtcmZnR01LNjBYUDZaVWJTOXdlQXJIUkVPc19tS3hGWnZzbXRMRW1NazdnQnllMUpYYWlnLWxROHRyLWZVbW5fNDN3U00?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-13T07:00:00+00:00"
+    },
+    {
+      "title": "TPK-KY(3673)外資、投信、法人籌碼變化與自營買賣超總表 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02N0xDdWJQS00yQUJtbnFac1RPaGs1SnpxODRWSExUd2daaFNicklDeThhQ3VlZm04cjA4QUFsQkFSOEJmVW1MZFI3bmxkU0cyUHBxeE12YWxSM2FrMy1VdHpuVVk?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-13T07:00:00+00:00"
     },
