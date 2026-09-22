@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-22T03:34:24.668169+08:00",
+  "updated_at": "2026-09-23T04:34:01.051792+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6231",
   "name": "系微",
-  "count": 9,
+  "count": 8,
   "news": [
-    {
-      "title": "系微(6231) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YVlRIa195bnZIeHB4cm5YakJubGIzTDhMWmltNF9GenpCYzl5VnhQSXhsWC1LU0JOdEZWbmlNNGNuUlg5UlN1Qnd2Rkt0VThxaVQ4?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-21T13:53:30+00:00"
-    },
     {
       "title": "6231 系微- 資安是物理AI下一個防衛軍- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vODZkRW14RFMxODZleDlpMldtRlh4bGRSLTdMR21icHNtWXVUZ0hJYTJHeTFpNXN6bXdjQ2xtQmRMM0NxczAtazJiNTJ2cnRuVFlYOUIzLXY?oc=5",
@@ -32,7 +26,7 @@
     {
       "title": "系微切入Arm生態系，拓實體AI商機",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRW5tNnhXOHJWTHNsVUVTWE9Senk3SGtjckVSRjRmcVd5ZllDWDZvaDJJSUhNU0d6Rk1xOXI0b295NFdnLVlaSXpFYkFHNWJ3Yks4b1I1MjlqNGVRTThneEJQaEtKSWg3SWk0T3pOZ0pYZEQ1UWpSTTBjRXJiMXVNVUZaRE5BdFB2Y3FQRTFGZ2kyQ1daclU0czd1RkpQbVFNZEFWLV9BdkxWTnNVRDYtdU5TVkJGU3BjLUZielJ1dDhzeG9nV0kyMjcyOUswTkdLcTJLeFFReTZVQnFHTVZQSUFlYzR3Qk1kZDdxd2JNYkRIckU?oc=5",
-      "source": "Yahoo股市",
+      "source": "tw.stock.yahoo.com",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
@@ -56,7 +50,7 @@
     {
       "title": "系微加入Arm實體AI生態系 為首波合作夥伴",
       "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNZU5xRzU4TWdyQm1wbFhmR2JBeDVpQlBlMUFBbE1RSUtoNGsxTC1rZllrYWo5aEFoWU9ZQ0Y3Z21oVm9ZblJnclN1a0RnbXhiRngtOUNaeTJlcURQRUNxR2NqUnBvT3JON2RJX21fRjJFSlJxVWhoWUZ1VmJ1RVhzMHN5LXNCRGN3SXpRWnpCekVIbEoyVC00Wks5TFlsRU1oX3I2TUhTc0c3dHp6Yzc2QnR6RjJtOG81Nlk4U3RqZHhQbzFCcTRMWmF3QkFCa0pORFQ0c1FxQUpHSmNRZkJBMFRsT1hScWlxcksxU25YYkpIalhsckV6RjU3OXJGSlVLaW1fazVoQ0lLRFB2MTFCeENidkgxMGR4ZURHZ0hPMDFINXc?oc=5",
-      "source": "Yahoo股市",
+      "source": "tw.stock.yahoo.com",
       "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]

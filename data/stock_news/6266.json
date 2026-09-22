@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-22T03:34:35.519724+08:00",
+  "updated_at": "2026-09-23T04:34:11.620865+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6266",
   "name": "泰詠",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【2026/08月營收公告】泰詠(6266) 八月營收3.32億元，表現亮眼、呈現雙成長，創近39個月以來新高，年增10.52%",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUDRIeXEyOGpMRmlUTkFjS2dmUFVnQ1dZMnJtb3ZsUFg5YjlnelFyRTRERTBReVZLNFFHcFUxOXFEZFdOdXRyV1o2aUtsV0ZjMVotelJNTTd1aUt4Q1d6NGh6OFFvUFJ2TUFhdzVMLVFwV1VuNk11VjJ5OUMxdGhhZ05BUHdERVg2N2c?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    }
+  ]
 }

@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-22T03:34:46.869798+08:00",
+  "updated_at": "2026-09-23T04:34:22.161965+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6409",
   "name": "旭隼",
-  "count": 8,
+  "count": 9,
   "news": [
+    {
+      "title": "TWA00 加權指數- 旭隼- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB6eHBRSXZNY3lKY1M1ZmxhYWJMRWFYN1RJWDVUdHBCYURWRGdSNzBNblU5LU1JSTZzSFNES0JmZzAtMEpvWm92R2dFaUNYOC1mN1ZwamxGWWw?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T21:35:57+00:00"
+    },
     {
       "title": "AI基建耗電估等同日本！央行最新釋出5000億資金助攻供應鏈，旭隼受惠-財經焦點情報站",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTnl4Z0RYbS1PTjJUQzBfcHlsaVhfLVBhWUNOMTg0SFptNy1SOGwxWDlvcWdhcDF3RTJqZmJ1ell4TTZxUEtDeGxRRWN0UzRmdlcyQkRWZmJsRms4TDBqWTVrMW1MRDhyWFo5MDZPSGhER1N6UVQ0VzZXUXZXM0NleFZB?oc=5",
@@ -19,15 +25,15 @@
     },
     {
       "title": "【09/15券商評等報告彙整】旭隼(6409) 今日有2家券商發布績效評等報告，目標價區間為980～1,128元。",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVWJfcHdtYXBSS3MxUXc0bDA2VDMxZFdJR3ZkbUoyOUd2TjJqN3JpRmFkVGFlSnJlMDRwMHVIM2VsWllwZVJKLUV0bkwxYTBmb05haEpDeC0zV1BEalhDeWZzZHRpRU93QWIwRkhiSXdUd1dCZEg3eDdGZGNCXzVmQ2w5d1JUOHVIN3c?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-15T02:20:09+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42aHhKdGV1amwtVC1GVi0taXVxdmtHT1lnU2VENzNVVHl5YWNvdjVGdHp5eW02Vkp6dC1CczF0TkNTUEFmMjRnMmlxNGVXMjA3WTJFUnVQU2hWM0ktQXBySnhIeEtDUnc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-15T02:20:04+00:00"
     },
     {
       "title": "旭隼股價從1,380元一路修正 AI時代UPS需求不再？旭隼是被台達電打趴了嗎？",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0zdUVvTXRNLU5XQ2wwTGN4UkJoYmNISjlydnJPZDQwN2gyZm1SV0JSTXVTd3FMQ3B6eHB1Rzg0OHZnSE5RcEgxZmNvdHprNE5yeThuem9ELTVZa1ZTT09MUFJNTXFOeVByc2lYZm8zOA?oc=5",
-      "source": "moneyweekly.com.tw",
-      "published_at": "2026-09-14T06:51:49+00:00"
+      "source": "理財周刊",
+      "published_at": "2026-09-14T07:00:00+00:00"
     },
     {
       "title": "6409 旭隼- 【09/10 產業即時新聞】電子中游-變壓器與UPS盤中下挫，指標股賣壓重拖累族群修正- 股市爆料同學會",
@@ -50,7 +56,7 @@
     {
       "title": "旭隼UPS看Q3續回升，HVDC拚明年下半年貢獻",
       "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNeUd0ZmhjRHpGUmZMMnp1UmZidV9mbHRHUW4ycms1clZCdHNSUzZqT0EwUWV1R05JUFVKM2V3TDFEMk5CbDZKajJqS3gzMzZLbDhoZG82U1lYYUN5bGtUeENoVU9xc3NOS2lRaEcyQ29aMVBNQUs4UHE4ZmVRbjVpcEZBTGl6bjRaZ0xwa0piNzU2NEZnRndLX0RVU0gweTlWLWZqWEdSdEJUU192SVVTOFRtTDhETE5CVi1ENE04Mmx1WWJwLURZSXY2QjFSVmlJWTgyVzJPemFQMl9FLTVqUmJjMmJ0M0RibzBHOEVHZ1J3dGZHRDF4VnU1eHZ3ZzZWazBmRDdsWDM5cEhIMzM4Tg?oc=5",
-      "source": "Yahoo股市",
+      "source": "tw.stock.yahoo.com",
       "published_at": "2026-09-06T07:00:00+00:00"
     }
   ]
