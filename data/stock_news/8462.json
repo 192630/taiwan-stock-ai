@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-21T09:34:30.986424+08:00",
+  "updated_at": "2026-09-22T09:34:16.036715+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8462",
   "name": "柏文",
-  "count": 5,
+  "count": 6,
   "news": [
     {
       "title": "柏文8月營收創次高 樂看毛利率、營益率將逐季大幅增長",
@@ -24,15 +24,21 @@
       "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
+      "title": "健身雙雄8月營收出爐 世界健身-KY年增5.21％、柏文年增16.75％",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FcFB1aDZTd0kwalNyX0EtNHUzSmdlSzVXQjFrU0UycTBVMVFUa0tDRWpTNHVrR3ZKaUNrNFRkbDFHeE9tOVEyc2ZEYnBhV09fdVNtbEFiSDh1Rm5melpJ0gFkQVVfeXFMUDBiaHJDZHZUZ08wc0JqbkJSbUVSbWtoQ3IzWC1nTDBjN2ppWHJrd3VOM04tdHJ4Z2x4TXdfcUZhS0hsS0VObGM3RWQ1RjZNdk41ZkpxZnJqU3BHZ0lXQlBtVWlFTg?oc=5",
+      "source": "自由財經",
+      "published_at": "2026-09-10T07:00:00+00:00"
+    },
+    {
       "title": "柏文(8462) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Xa19Icm9neGdhOV8zRFVfZ2kxZ044aW8weWNYYWhzV1lXWENaWHFpTmw4M1p3YjFpWFpaRDdfNEhrSHVUYnQ0dWhfUUgxSk4yY0Jz?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-07T16:47:36+00:00"
     },
     {
       "title": "8462 柏文 - 是柏文嗎？世界健身機率不高，大直旗艦店太近了 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuTVpRWW1Ma25ZX3p3bTBZSGdWUXVFWjRmUkZubUQzcDlmSFJaZzJDWEJOZS1pNEpYUElhNDkyNTA1bkJvR2VpRi1ycXdUOVF6QVNsV1lrUVU?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-08-31T07:00:00+00:00"
     }
   ]

@@ -1,27 +1,21 @@
 {
-  "updated_at": "2026-09-21T09:34:20.140116+08:00",
+  "updated_at": "2026-09-22T09:33:43.152903+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8131",
   "name": "福懋科",
-  "count": 3,
+  "count": 2,
   "news": [
     {
-      "title": "個股：福懋科(8131)9/17受邀參加國票綜合證券舉辦之法人說明會",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaFdWUElhVU5MODlfZXdFWW9CZlJWZUpqTDJnVUdheTVMM1FCV0xaaDllTEgybHBqaVJ3dkVHYUoyb0U2RXpBWWFsS2pxOXl0VVRyY2laejJoaU15ZExRemZtUEZhbW9kb3kzUnVlcEdKVXB4NGdXd0Z1Vjh2OW5lcnUwWm9JbUFO?oc=5",
-      "source": "ww2.money-link.com.tw",
-      "published_at": "2026-09-15T23:03:00+00:00"
-    },
-    {
-      "title": "南亞科與鈺創、福懋科、台積電等大廠合組高寬頻記憶體大聯盟",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zaFcxdTBSWEtoTHlhMndLQmI3WVBoTUF0YlJsVEoybkhfZXBsamNJSFBrMTRlWDFfMjY0aVBIbk5iOXNjWEhTMGo4cF80OUozbkFsS0xSTlA?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-12T07:00:00+00:00"
+      "title": "【09/18券商評等報告彙整】福懋科(8131) 今日僅1家券商發布績效評等報告，評價為看多，目標價為70元。",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnV0tRQTU0dEl1b3lFc1pPS0RIZk1jaXBaRHBxZ21Yb3ByVllhLWtMTjl1Q3pLMnFaX0xoNDJwXzUtZjhxbzk0VHJfVTl2b3M0SHpXWlZ4YnBKbGl6cVZFMzBjQnZXd1k?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-18T10:50:03+00:00"
     },
     {
       "title": "【2026/08月營收公告】福懋科(8131) 八月營收11.35億元，表現亮眼、呈現雙成長，創歷史新高，年增29.25%",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqVWxnNS1GNkJmNl8wUWxVNXV5eVdYTjE2MEt1cHBvSkVCNDBuYUxfMnlfMWpsS3RxRFpFNHZIMUx6LUNqbnNGWlhzNHpWWWViMmZuTnFVbVVha1pTOE5qNGxRQnZZdw?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-07T07:10:03+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44Y0JkQUo4NGp3RW5HTU5NbUliTWpralFhcWo5TThCXzBjdlFZYlQ5TzdtTE9PWnExMWwyR2VfNUhKeHkyQmtzNldRZWV2X0xiaElLN3M5ZklWTmlSRnhmZnd4WTNrSHM?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-07T07:00:00+00:00"
     }
   ]
 }

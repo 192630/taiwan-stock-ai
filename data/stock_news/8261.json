@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-21T09:34:24.803222+08:00",
+  "updated_at": "2026-09-22T09:33:53.313466+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8261",
   "name": "富鼎",
-  "count": 5,
+  "count": 6,
   "news": [
+    {
+      "title": "功率半導體漲跌各半！「這檔」軍工產品推進漲3.38%、健策大漲205元 茂矽、富鼎仍挫逾1％",
+      "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxNOENnTE8xVFJJUkJERFpYWlhPazBaWEJzQzczR3NWMEE3NWlQX0hyYjE3YUlQaEplbXgtanpsSFZteEczdVowa255Z0hNUXFmRU9uT25ITDZycHJMdXhoM0pGc1hvR1dlbTVYUkV5ZEtLUjlDNXZrMnBuSUZoTF9udnI1OGd3SjZ5S2VZcDhzWUxVT1BDUVR5aGlUQVpqdG9NU2VzanJFb1IzVW5zVXdQYWFIOWk0SzhWMHBMLUpPdVVvZlFYcWkzOEJhMF9GS1RGSjV1TWtibktoQmJQOVpVaGN0cklyZkdRZmRyemN2MEVTam1NVTB6SHlreDNvLWNacHk5RURsOHQ4QlJPMUo2RHJZN200TEFrRFJ1cVhBbFB1UGszOURHOFl1U1E1SXpYZWZPNzJCdjhXVjBtaHZXU0ZGYXVidmx2Z0FmNnZxbTFELUVhdEdyV0tvejl5M0d5MnRsdW5SdjlONkd1Q0YwM1VhTUF0Q3I3Ukh6UA?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-21T04:16:36+00:00"
+    },
     {
       "title": "討論牆 | 盤中速報 - 富鼎(8261)股價拉至漲停，漲停價202.0元，成交2,162張",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kRVozY0RIbFE2LVhTSk8yWDJjakRLZl9CdDdMYUVYc0k5SEMyRmlzTXBaaGhXS2pWODhfQzVuUUVCQnJfOGxyMzV1RjE4cmlFeTZIYzZkS3ozcGVfNlkxTE5KS2Y?oc=5",
@@ -26,7 +32,7 @@
     {
       "title": "5425 台半 - 爛到笑 跟富鼎一起下去 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43d2VMRGMyR3l4TlRoR1I0cFctcl9EYWstOVA1MkxaRXRzSWVMTG0wLUluNUxvd0w4eDQtcUttUlE5Q1dubGtaTGpqLWQwZUs1LXpEeGJhakg?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-10T07:20:09+00:00"
     },
     {
