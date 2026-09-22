@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-22T05:33:18.024144+08:00",
+  "updated_at": "2026-09-23T06:32:55.981657+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6637",
   "name": "醫影",
-  "count": 1,
+  "count": 2,
   "news": [
+    {
+      "title": "Medical Imaging Corp.的Price to book forward – TPEX:6637",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNm9Yd201YmVFRlpMSXdXMXNBcmxuakROMk9zLVllcmdPSXE2SXllR2xDeGV4bngwbkcwTkRhNzY3b2FjNkpGNlo3dDkxTUJrTTdGYkNCY2hBQzdfaXNaN2hNWl9ZTWVlaUhnX3I2aDVpZ18wMVkwU0JvZHZua3BNXzNYOFRYN0FUUDEtOFkyV1JaTDZGQnhXMw?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-21T14:42:41+00:00"
+    },
     {
       "title": "【2026/08月營收公告】醫影(6637) 八月營收年增0.9％",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1URERMZTVzc2F4Nk9uWEZKSFRuNFVXSm52aVhILXlHbXJ1OF93SDF4YTNoM3M4SHlGNkYteWFXQ2w2RVgyQ0prOG5sZDVwM3JBaThCMkc2U0lhTFJKUkhzdDZ6TVUtOVk?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-07T09:40:12+00:00"
     }
   ]

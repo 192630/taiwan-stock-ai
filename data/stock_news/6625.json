@@ -1,33 +1,39 @@
 {
-  "updated_at": "2026-09-22T05:33:17.127445+08:00",
+  "updated_at": "2026-09-23T06:32:55.022688+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6625",
   "name": "必應",
-  "count": 5,
+  "count": 6,
   "news": [
+    {
+      "title": "JALCO Holdings Inc.的Price to sales forward – TSE:6625",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMnJaYUJ4SHdySldfS0ZKWmNtTjN2VjV4a3hTLWtaVnk2ZEdNNUVMS3Y3UFJXak1Jb2JQTDVLNkZzZFVGMEo4M2MwaXVtdXFtYzZsRldWRnNTcm92eC1wLVB2SW4xQ0ppckNuc3czX3FXNXBBVHB3MElRMVlwbGIyb18xMzgzTF9GTXBVQzRSZGRCOHNXU0drag?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-22T06:57:43+00:00"
+    },
     {
       "title": "6625 必應- 王識賢被問「最想對女兒說什麼」他1句話女觀眾想起亡父淚崩- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93R0JCX3ZtWkYxVVBUSk1wRUVEMUlaRW04RzRKWTl6YWVLaVh3UTFIcXkxYjJYQVc4MlN5ZGlOaUhfeE1FbHJYNTMyRHVxM0lRTmM1d18wa1E?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-20T20:40:13+00:00"
     },
     {
       "title": "6625 必應- 沈伯洋合體黃世杰中壢觀光夜市掃街淡季迎人潮商家坦言超振奮- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ia2NjVEZvb3pnaFlXbWdPNHl4SW1nY21WR0ViYURNTlZjblQ0a3V5czBNbnpXWktMYVlGT2I3LURzdWoyR0VqZ2h0LXc1UWFieU1sdHJRWGs?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-20T00:46:16+00:00"
-    },
-    {
-      "title": "JALCO Holdings Inc.的股東人數 – TSE:6625",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOGZaY0RRTk9TUmJhQTdUTmd5WDdwekdrYWlhTlJWNW9TUUxmV21scmZQTktSdXc4ajBMc0Z6S0gyVzNycGN3VHZKemJpeGxidjZqMlVsLXZlUXRNMVdwdEdTTmZQVDV5c0FtaDRYVEc5WVl3QVdJY0d4WDkzSlBVSlFmM1U0VGhtMTZIYkM2Y2RoNE1MS1hoWEFmb3pRX3ZHb3c?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-16T12:01:23+00:00"
     },
     {
       "title": "【2026/08月營收公告】必應(6625) 八月營收3.77億元，創近3個月以來新高，月增0.4％",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fZXM4b2QzMmVuaUZvamhOV1dCN3dQejdLYjN6bzlCcDR1LXFCY2FZUWN4eFM0X1N1Uy00S2RQVTlDWUhzTXNyUlV6eFhUd0lOXzVSV0NkdkRMd1dvNEhyZFJLWVNuUQ?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-10T07:00:00+00:00"
+    },
+    {
+      "title": "有球必應！華航再度攜手莊智淵舉辦公益桌球營 啟發學童潛力",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xMFc5ZlgwMHZkZFE3ZjFPMk1BY21EN21WS0gwV3RxakdPckJ5TjFPOU9NckNvbHNmOGdoTUR2MHYxM1RxU05PR2Jnc3lFOXJw0gFWQVVfeXFMTlQyeUowNHBUTlhCWUdCZ0lxeDFzZFZNdTRtNEhmbEcxUjdZSlgtNlZobWVvSmhnbmp4SV9INXRhbmZya1ZILU9hTDZiUzZGRlNjZHdZUHc?oc=5",
+      "source": "UDN",
+      "published_at": "2026-08-26T07:00:00+00:00"
     },
     {
       "title": "全額·日證金東證股票（4）(6625～8334)（申購日08/24）（結算日08/26）",

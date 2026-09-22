@@ -1,32 +1,26 @@
 {
-  "updated_at": "2026-09-22T05:33:33.222101+08:00",
+  "updated_at": "2026-09-23T06:33:12.029800+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6697",
   "name": "東捷資訊",
-  "count": 4,
+  "count": 3,
   "news": [
-    {
-      "title": "【26Q2財報公告】東捷資訊(6697) Q2 營收2.9248億元，創下近7季新低，季減30.28%、年衰退2.69%-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTTlJVWdCT2UyYkIzNmswTS1fMEJ2a093RmNUdllHaXkxN29QQmtjQmZGa1o3ZVEza192cmJ2M1daV2pDN2FLNGQ0U0xiNmlSZ2hQNm9LU3lLUlFuU1FxR0RjN1hBMV9wNDI4UlNTT29pWlpDZS0xS1lSa1V1ekFRMlJWNW1xZUtYQ1E?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-15T08:20:06+00:00"
-    },
     {
       "title": "【2026/08月營收公告】東捷資訊(6697) 八月營收1.1億元，年增15.82％",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpeVU1aGgwYXAzSXZDZzBPVWR2SkQ5cktTdzk0ZHU0aWpHWHNDbG11NVREWURLMkJjcVpUd0VxX2pVdG56ZldHa0Fvam9lRVhGaGdscWt1OU5kcHNZNHpScE00ZmMyVG8?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-09T07:10:10+00:00"
     },
     {
       "title": "【營收快訊】東捷資訊(6697)公告08月營收",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MT2k4cDVhRklDUDJPeHozVEhhanNkOGpjMWttOUhsY0dtSFB3R1JBcU9aZHhGaTI5dlp1aEhYRkpqMlRud0lzVjdfNEIyVy1NS3hWd1BMWjI?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
       "title": "東捷資訊 115年8月營收1.10億、年增15.82%",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXNGdJMWJIbFAzRnhhazR2d2prNjJ5SUNGbmJvSTBSQzA2THRSellsVXgwaWR5aVVDRlZtSWdiUG1kWl9oQ2JNV0x6el9kR0daMXJFVnlTd2U?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]

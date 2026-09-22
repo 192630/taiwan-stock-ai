@@ -1,21 +1,15 @@
 {
-  "updated_at": "2026-09-22T05:33:40.869222+08:00",
+  "updated_at": "2026-09-23T06:33:19.892932+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6732",
   "name": "昇佳電子",
-  "count": 4,
+  "count": 3,
   "news": [
     {
       "title": "《半導體》昇佳電子9月22日受邀參加線上座談會",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRTdXUnFnNXgycUZ0b2JnM290WTZJT3YxMUluQi1PeTVxdDdQV1VUby0zZm5ZSlYzVFNqNzdJNmRkRmMxcTM0Yk9SVVlvaEY1VkVqWlU3Nk5jQnp3bzNZSEV4U3pHMnFGSmZXcENrSEFXVnRqdWRJSUQ1RkN4RTluRlYwU1k5UzNw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb29nSnBEVE5EQS1uc3hmWWVxTlFneE9UdG05UnRRdTVvNkxRanBZU2JNN1hTZ3lINGdrWlZqTy1CU0pRQ1hzZEY3VUJsWFRCQ3FhRGtBaWlJdHVpUDVvRUZ2V0EwMEZpV3lDZW1Qd3JuZld0WG11eHRHOUNzSmpLem1JS0ZwT1dR?oc=5",
       "source": "富聯網",
       "published_at": "2026-09-21T08:23:00+00:00"
-    },
-    {
-      "title": "【26Q2財報公告】昇佳電子(6732) Q2 營收9.9339億元，連2季衰退，季減4.88%、年衰退17.95%-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUnRMc3d4WjJQenNjZllEcFo3TnhqMEZ4TnpMVFlCckgyMFBHcm96OWNRZ0FyS0ZXaWQ0NUJpYzFBVEw2M2g1MS03VW1XVXJOTzlnQzF4ZUZLeWNBaUJYVTRXTExvZnNyd2RpVjBYNzhmQ2ZMRnBRQi0yM3lBb0NhR3E4dnJCb2lrOWc?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-15T08:20:06+00:00"
     },
     {
       "title": "【2026/08月營收公告】昇佳電子(6732) 八月營收3.05億元，創近2個月以來新高，月增0.65%-CMoney 小編",
@@ -26,7 +20,7 @@
     {
       "title": "【2026/08月營收公告】昇佳電子(6732) 八月營收3.05億元，創近2個月以來新高，月增0.65％",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NWEVPRW5SeWI5LWFxbzFyOXdRMEZMa0FaRDdHQUxWeXoxVXVMdXoxOVRKZXlIcktiVDRLODNQTVhQZHB2dlVrUHpHaWJDbDNHa2U2UEpiZWpydnA5TFdmMTFjcC1LSW8?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-07T07:00:00+00:00"
     }
   ]

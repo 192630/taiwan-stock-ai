@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-22T05:33:44.512955+08:00",
+  "updated_at": "2026-09-23T06:33:25.541154+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6743",
   "name": "安普新",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "6743 安普新- 安普新115年8月營收7.18億、年增12.68% - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0WmppTjRfV1NGRXUzSXQ1dDdsSXBUck1GTGtIUFFUdzF5MHFMY2VEYlVBWUpLd25KSDFmb29RUUdjTDRqVVVyYS1IaUtWZWtzdjF0MksxWUU?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-10T07:00:00+00:00"
+    }
+  ]
 }

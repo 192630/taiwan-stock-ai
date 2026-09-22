@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-09-22T05:33:24.959071+08:00",
+  "updated_at": "2026-09-23T06:33:03.290062+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6666",
   "name": "羅麗芬-KY",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "Genius.fun宣佈，平台發行的代幣將添加「6666」後綴作爲品牌標識。",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcnEwMGhuYUFXOEw3ZVhGQ2dzS1RKSTBpYzJaaURNRGJGaEtadnd1UERCSGtrSGpBVFVvZDl0UE93Zlh5MG1zQXlDcm5xM1BTWjFYRUNhQTMta3d3NmpRaWxZU18zTjlicWhkUExOWlJINUp3OTRBeHVjaDNaMndtV1QwemJ2TXFkcElYa1N3WmN5N00yNEphVjN1RV9UaGlRZ2p3QlNmdmtYVWFkbjFndzVEaw?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-22T00:53:24+00:00"
+    },
+    {
+      "title": "【6666】三家私募基金據報正考慮向恒大物業提出收購要約",
+      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxOSWVCUGZleGFkZ1Q1UkdzYThzM1ZQa2gtd1hzdGhrWVVXekRLNWw0b25vMzBvajBjOTlSN0tzLUxIZG0xcUJfaTV6b2lpejhwSUZPYllYeGpPSGRkRnMxdFBDSVNLRzIwd1hoY3lJV1RBUHdZVzZRc0ZRdXFaMjlkR3JEaUI5b1l6c0N2bkxSRjhpdXdDT2FUR05ZYVViLWZlaWFScU1lN2l1NG9PcDE3cjR2TzVRTzl2SWdZR2VPNkI1NjRNcmlCZjM3STBDTWI1YmlqY3V3NzRTVXV1QXAxV2U1MEU4NGRITnJRaFYyN3Zjc0RDYmp0RkFvbzNwVkstUkZiNTIyU2o2M0YtS21OUXhxNEdVR2VzNDJwUmJDMktSNDF4LVBMUWV4LWN2dEpRRmg1bGFjRFZsQ3ZLdF84dTYzdFJSX0JyLWhyamZ4RkdKN1BPU1U0ejN2MGRmZnNIWVh1UjJQeF9TYVhsSGQyYmFsODJGUQ?oc=5",
+      "source": "inews.hket.com",
+      "published_at": "2026-09-21T08:38:06+00:00"
+    }
+  ]
 }

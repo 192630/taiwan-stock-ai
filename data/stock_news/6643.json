@@ -1,14 +1,32 @@
 {
-  "updated_at": "2026-09-22T05:33:19.927245+08:00",
+  "updated_at": "2026-09-23T06:32:58.007008+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6643",
   "name": "M31",
   "count": 12,
   "news": [
     {
+      "title": "【10:57 即時新聞】M31(6643)股價走強，高速傳輸IP題材受關注",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcEJZTTQtM3lqc2piSUxQcVRoeXBwaEhfbHNLS1pkUmVEaDU2WkV0Mkd6U0EzVnF1a0d1TGd0TUxWQXRsN2NvWXdXcmpLXzg2YXY3QTdGdjFjUzVfamJXaUstTThwT0NkWlR2NW50R0hlQ3pmNjRSa2JybXg0U0pKNmtRZ0haVHoyR3VXemVB?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-22T02:58:42+00:00"
+    },
+    {
+      "title": "6643 M31 - 槓桿開起來- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GMTEwUjVndDJra2ZiT2dhTEhiN0pmOTJ0ZndweDBPZTZmVm55Q09fUzlFNUpKcTl4NmRRWFNQcGVGMW5ldGJOdnB0ZU5WZUpsTERJUnQtZEk?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-22T02:41:50+00:00"
+    },
+    {
+      "title": "6643 M31 - 新產品新商機- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1OZFZwSVNXOFA5WUx4N2JqSnNYUENsamV4YldZeThyVVRlS2tjQ0h0WmJsZV96REMxamlLeTRsYVk4QVlENmZhNzRiNThLLXMwVkZCdzVZWV8?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-22T00:21:04+00:00"
+    },
+    {
       "title": "6643 M31 - 完全命中- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qTHo1Y0dBTmpGVTE2cEZ1SFQyeHQwbjJVTjFEQlM2d1pCeWlKXzZDZkVTU2l3VVdKTU51Q19GeDBiNGpyT2VNMm5mOU15X1AweW04blVScms?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-21T09:58:15+00:00"
     },
     {
@@ -20,7 +38,7 @@
     {
       "title": "6643 M31 - 錢卓望遠鏡發現神祕X 射線天體，或能解答天體物理學兩大難題- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jYVhfNXZNa1c2R3JidERQeEczZ3hKa0pKSzIyS1NBaUNuS0FKbVNPUHgxNG50QklyVlBmMkJhZUdnb21vWWNwengySXFXRDhkbnAtQXpCLUk?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-19T14:15:30+00:00"
     },
     {
@@ -37,14 +55,14 @@
     },
     {
       "title": "M31擴大與Rambus技術合作 強化MIPI一站式解決方案",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9FTU1fYXBJS1FzVkRFNzdoUVhzVy1vYm55WEJJUDBmck9ISDhLSzA5Wm83V2c0cjFKLV8xczFWOUJIckdrdzAwNXdDaw?oc=5",
-      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XTnVRd1JaSlYwR0Q4SGxYMldYTmZfZFFXc0s4bzBoMTFwSVNwUTNOU0U1bExXOXhwck1veUotSEhPdnl5QVFCeGFzZm16eUE?oc=5",
+      "source": "news.cnyes.com",
       "published_at": "2026-09-17T04:59:09+00:00"
     },
     {
       "title": "6643 M31 - M31攜Rambus強化MIPI方案單案合約金額可望提升- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE94YjNxcEtRT1FpUmc0U2tTMUY3aWZFaUtuZW41LVVFaHZhdm1PM1ZpdWV0MWZiMjM4cEpmbU0wNlRVWlkzQ2IyZmljWGZRU3NQOHAxbWx0ZFA?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-17T04:44:19+00:00"
     },
     {
@@ -54,28 +72,10 @@
       "published_at": "2026-09-17T03:32:00+00:00"
     },
     {
-      "title": "M31擴大與Rambus合作 強化MIPI一站式解決方案",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hR0pkUjU4TnJ3RTZsaEh5ZzNIc0pBVm9ULW5VcFlaQU92WTJ4a2JDbDNvdFdOazA2c3lYY2kybEhfMlN0NnRKWV8temFfX2VhbGRKWWdrcFJtUdIBX0FVX3lxTE1QeVhxR0VWWUZ1UFg0TWdTTlUtbGpmOUFIRTZkdFJWYlE0Q1Fxbmx6TmZTZUFNRXdZUUhXZnpjbXNSQzE2aGh6OW95TUhDWG1WbzI2cDd3Y1lkMXdkN3ZR?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-09-17T03:25:29+00:00"
-    },
-    {
       "title": "6643 M31 - M31擴大合作提升MIPI 介面領域戰力- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kMDlYR1otY19fdVlSd0NJdktwNWpuODBmdWRtY2pFVGtBQUxEWGVqZ283Wi1WdHE4dDE1MWw0aEdVajY4U0F6NXBvaEtjb1FRT2FOT3ZrN0k?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-17T02:40:57+00:00"
-    },
-    {
-      "title": "M31擴大合作 提升 MIPI 介面領域戰力",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HU25pVmh5ZWh3bVNXX0pnTENIX1U1elFzZ3dwTEUtNk9HcVBDTTRIVVAxSWl4N1pEd0ZGckozUW5DbTh6ZUVzMm1SZ2FjWUx6ZkRCMjJhOTZnQdIBX0FVX3lxTFB4S1FMV3B5bjI5RW4zallSVHR1OFN3Szd6dDE5MFlvMGlHYmM2dEVMTWFLaWs3YTJId2xhelBSdmVZVXlibEZCMnZ3S2VINjZGV2U3NVNNVXdoLVlCOXlj?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-09-17T02:21:47+00:00"
-    },
-    {
-      "title": "【2026/08月營收公告】M31(6643) 八月營收1.76億元，表現亮眼、呈現雙成長，創近8個月以來新高，年增73.08%",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbC0zRlZMWm1lMVhoUFhOUlhnMlpVQ01ySTRESzRTdTEwT2F5Z0M3cjQySkNVZ2JLQ3U2d1ZTQ2tJS1RpOUsyMGZwdHlpQmRKOGo1bEVJX0swQnVoeVc2UWwzUVYtcHMwVUk2bnEwRWMyY1ROQ0FFMFRiMEJVXzRCbVNGODE5TWdhY0E?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]
 }

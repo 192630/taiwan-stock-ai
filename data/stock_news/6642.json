@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-09-22T05:33:19.430325+08:00",
+  "updated_at": "2026-09-23T06:32:57.482848+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6642",
   "name": "富致",
-  "count": 1,
-  "news": [
-    {
-      "title": "【2026/08月營收公告】富致(6642) 八月營收營收月減年增，全年營運續看向上",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLdjZSOTJDaFM3YzZMd2N0a3NFUVZ6LWV4djFveDFYYy0tS2FqY2hXNUdOanlpN1pPaERJTVgteGEyWlZYUkw2QkJWOElHdFhob2pLMEdlckJNUXctc1RHVHJuR0RUT1k?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-04T08:40:04+00:00"
-    }
-  ]
+  "count": 0,
+  "news": []
 }

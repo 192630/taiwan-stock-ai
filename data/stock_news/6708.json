@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-22T05:33:35.097586+08:00",
+  "updated_at": "2026-09-23T06:33:14.021503+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6708",
   "name": "天擎",
-  "count": 2,
+  "count": 3,
   "news": [
+    {
+      "title": "Mars Semiconductor Corp.收入明細 – TPEX:6708",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11dWRXczVzVHpPbGF2d0JPeE15UzdNc25MeTBYMEU2UFRjUWZNMDg4V0U0Z3EzTF8yZHVKbXFBYi1KS1I1eEppMVZSN01aN2QxX0JrZnJWclNuUjdCRVc3U3dqTklOUXE3cXItRVlhdnl3bU0?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-22T11:02:52+00:00"
+    },
     {
       "title": "【2026/08月營收公告】天擎(6708) 八月營收表現亮眼、呈現雙成長，創近2個月以來新高，年增37.74%",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd3F5THE1eGhFMGs1cDhkLUtEYmk3d3FwMDlOVko2d0JWOFVQN1ZraDN6Q0NJcjFUbFpLOEcwMm9mLU1oSlpJTUM1SmZKZkZadzgydTk4b1B4XzJ0LXZjeGRTMDdINE9aOFctRy1tTlEzN0RBc2xMUU11V0NDSlVzRjRZQVZUbVBWaHc?oc=5",
@@ -14,7 +20,7 @@
     {
       "title": "6708 天擎- 天擎115年8月營收3079萬、年增37.74% - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WWDFDclM5ZGMyQ3lXQ2RtWjY2TS10dGg4TGlJWE9xd0xDaHJNcWh5bW00bWlFdTFmRTlndWN3MDBadTluc2pLdVlCWGFmbi0tZ1ZPWXlxcGg?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]

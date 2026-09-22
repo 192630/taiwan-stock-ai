@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-22T06:33:47.514915+08:00",
+  "updated_at": "2026-09-23T06:33:28.927590+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6761",
   "name": "穩得",
   "count": 5,
   "news": [
     {
+      "title": "穩得(6761) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Oc3laZ2ZCSi1Hc0gtQU9qSE15ZklQek5peDFuQ3NRdUZXaHVtM0ZZQ0xPaXcwQ1g3Z1JWZEdvRGhJelJ0blQ1U21LUVA5dTJpRU1F?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-21T01:09:44+00:00"
+    },
+    {
       "title": "TWA00 加權指數- 穩得住、扛得起，這才是交易紀律的內核心！張琨琳 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zbmFEVWRyRmxVcWZZcnY2Sm5Cb1k5SFkzNC16MDZwbW41ZDhrRWN0WDl4RzUwUmNEc0Z1dGdWbWxYaTIwRlJQeFRZZjNFX2ZmZlhsZXlhRFY?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-17T10:46:42+00:00"
     },
     {
@@ -20,7 +26,7 @@
     {
       "title": "6761 穩得- 【09/10 產業即時新聞】電子元件通路震盪下挫，大盤修正壓力沉重，留意短線籌碼變化- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GSEpmem5LSGVUbGk4cEhpYzc2RkFyVGtLb3ZvamxmSzJCazl2bU4tNTBwclhCcklHWEg3eG5zTmxJQ25keE1Nd2pGellnb1B0V0dyR1lmTjk?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-10T01:30:33+00:00"
     },
     {
@@ -28,12 +34,6 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVmhvWUNBVlFlb0VzNHY2RWZKMEJUMkRCN2Q4NHNIdDhzbVlFYTVUUDVaVkU4Qms5ekZvUjlXR0xSci1CQzJIYVFBOWhNM0FLUHFua2J3TGxLQkJaOWhKYlFQVWRPdkh6S0VXaElwQmhKVlN5V3l1VkloMS1ic2hWak04Ny1UMUh6dUE?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "6761 穩得- [討論] 國聯賽揚獎人選還有機會翻盤？ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91NGhmTjNDYlRpZkwycVNmWHRRcnkyQ1RZR3JCSFhnTC1zNkRyTlR2clZub2tJNllvNGhMYlVTdmdwUWJPSnM0OWZIT2gyX1dWaDJ1RENBS2k?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-03T07:00:00+00:00"
     }
   ]
 }

@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-22T06:33:48.475137+08:00",
+  "updated_at": "2026-09-23T06:33:29.832839+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6763",
   "name": "綠界科技*",
-  "count": 5,
+  "count": 6,
   "news": [
     {
       "title": "【26Q2財報公告】綠界科技*(6763) Q2 營收4.7797億元，創歷史新高，季增4.63%、年成長12.96%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb0g2N2RsVTlwMTJVMlhfOXhzUjQxMWdwMEw1eUlhYXlpZUdmNU1oQnpnU3pXd2xicGZKd2tVWnZVTndKbHRUV0QxTExVRllVOGo1VjM3WFBnb3Rick1jREIzYXM2VzhhbW1DUFhOcHEtSlhDMUdmcG1hLVRxNi1pTDZMVEpqSW9tM0E?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-15T08:20:07+00:00"
+    },
+    {
+      "title": "《數雲端》綠界科技*8月營收年增14.91% 免費電子發票會員年增逾2成",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMU96VDhnUDduNExVclNDaXBrRWN1bWlvYTF4S3g2cV9DWm1vNThKb1M3M0ZkcWVFYnlibFhHNFlkNmx6YTJsRnF6NGtMYS1sSTFmdGtHOUltSWQyLVI5WXozVy1maEhBaHRMVE50XzBfN1lmWHBQX3hvcG04N01LbmJkdGhfUmp3?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-08T08:49:00+00:00"
     },
     {
       "title": "個股：綠界科技*8月營收年增逾一成，Q4電商週年慶與雙十一檔期營運看增",
@@ -20,19 +26,19 @@
     {
       "title": "【2026/08月營收公告】綠界科技*(6763) 八月營收1.56億元，年增14.91％",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CVndmazc3a0J0WXAwZ0ZEd0Z1VFVHOGNveXlvbS1YWkdfem9KREJLSWNtNkV5S3FyUnNaSUFSSWhhdnJSQk5jX1lxRlVPeEpmTjBSRU5mVk1wZzdNU2pRTTNMdDNOVFk?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-08T07:10:03+00:00"
-    },
-    {
-      "title": "營收：綠界科技*(6763)8月營收1億5636萬元，月增率-0.78%，年增率14.91%",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVEh0X19LdFZ6VDlXVm9LSHFnbzR1bGxrd29lam9WREFHZ0E0MGpqaTdLWVVKM3ZYS2xSU3Z6NUpsRFp1eHJ0YjFjTVRYcVJieDVfaWtsS0dkblpSdnB2Zll1TDBIaFdiRmhBU2YzM19ZNjRQWF90Q1ZrcVlQNVhfQTQyODBnUl9I?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
       "title": "【2026/08月營收公告】綠界科技*(6763) 八月營收1.56億元，年增14.91%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQzdjVGh4YUkxcVpsWjJ4bzN1RmNoTXdiY0NHR2JxMUtZZ0toZ0RlNFBHR1YtdXdic090cS1fSHlZQUpPbzR6aXA3Sld5QnFVSVVBNTdMV2RVQkNKVDZNc1dReVJyTy1kSjB6S2pHRkxCb1F2UC1zdTQtbVJGNlp6SFJoSU9vUk9Rdmc?oc=5",
       "source": "CMoney投資網誌",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
+      "title": "營收：綠界科技*(6763)8月營收1億5636萬元，月增率-0.78%，年增率14.91%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVEh0X19LdFZ6VDlXVm9LSHFnbzR1bGxrd29lam9WREFHZ0E0MGpqaTdLWVVKM3ZYS2xSU3Z6NUpsRFp1eHJ0YjFjTVRYcVJieDVfaWtsS0dkblpSdnB2Zll1TDBIaFdiRmhBU2YzM19ZNjRQWF90Q1ZrcVlQNVhfQTQyODBnUl9I?oc=5",
+      "source": "富聯網",
       "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]

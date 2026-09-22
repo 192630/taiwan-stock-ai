@@ -1,20 +1,26 @@
 {
-  "updated_at": "2026-09-22T05:33:20.860126+08:00",
+  "updated_at": "2026-09-23T06:32:59.003092+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6649",
   "name": "台生材",
-  "count": 5,
+  "count": 6,
   "news": [
+    {
+      "title": "台生材(6649) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WWUZPNnNXRHVnYm1ETzl0dDRuUTNOYWV1dWZSZU1DbFJFeFdNVDdFYkJIVFdxamxlWk1BXy1Vd3NQcFVmaDg0VDBCY3FOUEQyTElj?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-22T01:08:13+00:00"
+    },
     {
       "title": "6649 台生材- 振曜子公司AI光纖訂單能見度高，擬加速擴產- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93SVpxZnZ3U3NaeTVtWnc1RVQ2OE1laFVXMWQta2pqS3J3YnZSVFh0UzFxWFJ0LTluUTNQbUdPTlNJLUFTTGI0c25SandJTzNBOE1IYVdTaF8?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-18T03:30:47+00:00"
     },
     {
       "title": "6649 台生材- 沒比較沒傷害，具有競爭優勢，用過就回不去了，靜靜等待業績發酵... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Qb2lvTExBSFpDaXRxUWpXRkZURW5ZWDFCN1dPcjhfbnNZZjZIY0ZBbldiTjBKY1VvSHg4bEZLT0pzOHVOUi02NTVaS0Z0dUhEMHkwWnFvQjM?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-12T21:55:47+00:00"
     },
     {

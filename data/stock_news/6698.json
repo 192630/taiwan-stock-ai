@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-22T05:33:33.670137+08:00",
+  "updated_at": "2026-09-23T06:33:12.474176+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6698",
   "name": "旭暉應材",
-  "count": 8,
+  "count": 7,
   "news": [
-    {
-      "title": "旭暉應材 8 月營收 0.69 億元：月減輕微、年減幅度仍需拆開看",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE14b3JsaWNncFlUVWJnZ255RVJJbmFKQ2I3Q1lmMmxFS0RvQ0JrMVJNMmFzbTNuT05qV2x0OENHODZkRkhFeUptQQ?oc=5",
-      "source": "鉅亨號",
-      "published_at": "2026-09-17T10:18:49+00:00"
-    },
     {
       "title": "星空華文(06698.HK)9月11日耗資4114港元回購4800股",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TVjdKNy1lVnFRcC1xTHVkdmptVDZPUVlvOVltLTY4cUFGdFZFZ3FWdzJZMVhtUGYxR1BhN1pLMklxamN4eFVxazlJREpsaU9QeHBpcmxKUlJHVE5rSlVKRGJNcldSaXpHb0g4?oc=5",
@@ -42,16 +36,16 @@
       "published_at": "2026-09-09T06:11:00+00:00"
     },
     {
-      "title": "星空華文(06698.HK)9月3日回購1.03萬股",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9obWtYQ01mbmdWTjF6UFRDMUZNbmFHNHBvUDVTZEdVWEtXNjE4Rndxd2hralJPUmc0MmNYaXJnbnBkZ0J3b255ZGVjRWlnZTE3UEJkQjlqSDdhZlRxMFA4akZ1VzZwdmc0WHc?oc=5",
+      "title": "星空華文(06698.HK)9月4日以9722港元回購1.17萬股",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaNlBvaGlac21ZNlNvTktfVjFZUno0ZW9ZWWRPLXpvR2M2dU1UVTdPU0hvcl93Q19JdHVicml6VS1NRHpUUF9SXzl0ZmFhOHgtV0hPVDRpbTk5WkhKNkZyUE5YY2RxMEN6LTdR?oc=5",
       "source": "TradingView",
-      "published_at": "2026-09-03T07:00:00+00:00"
+      "published_at": "2026-09-04T07:00:00+00:00"
     },
     {
-      "title": "【08/23現金增資公告】旭暉應材(6698) 將進行現金增資5千萬元",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00T0VLQ0F6U1phb3lTTDh1YmdmVDdtbkpBZnZLZGxkYktWM1htaFdSVlM4QXlVTTFSVUExdk5mV3I5VzJiSC1mVVp3eWZvMExzazl1bU9UOFZXZDJPX0pqSDRBQ1F3cHc?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-23T07:00:00+00:00"
+      "title": "星空華文(06698.HK)9月3日回購1.03萬股",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZcWxRS0tQdG1PVTdLREJDUWdVSkZhbW55TGhrakg3WURYU1lvekxoQ3laaklHTzhFNXlsQXV4WDJxNGhMUkczQkd4NnJIaTZoVTdRZGlFSW0xRExtcHVkR0VkT0dyMHRnTGdF?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-03T07:00:00+00:00"
     }
   ]
 }

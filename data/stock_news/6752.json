@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-22T05:33:45.432343+08:00",
+  "updated_at": "2026-09-23T06:33:26.491665+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6752",
   "name": "叡揚",
-  "count": 6,
+  "count": 8,
   "news": [
+    {
+      "title": "企業導入 AI 常面臨「系統孤島」！叡揚揭「三大關鍵」助突破 AI 落地難題 | 科技新報",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uNmdmODZ6ZWZwYzZsVjJZZHcxd1hRQTNsN0pscWE1cEo4MUdwT2pNX0NfMVlPbHdlZWYzMy05ckxMeFVkYVhHZjZJYW8yM0p2Q1NqMEh3?oc=5",
+      "source": "today.line.me",
+      "published_at": "2026-09-21T22:00:18+00:00"
+    },
     {
       "title": "6752 叡揚- 企業導入AI 常面臨「系統孤島」！叡揚揭「三大關鍵」助突破AI 落地難題- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NTlB5WW9aU1BCR0JwMllkU3RNX01tSWlyd1VERGthSEpHWVFkQnlfWDZSM2RCb2poaWRKclV1eGJobW5YWGM4dENqV0VWOUh1bHlZOVN5MkI?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-21T10:29:11+00:00"
+    },
+    {
+      "title": "松下電器 | 6752.T 股價走勢與即時報價",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lXzg4MjZ0bEo5RmktSDJkZUdPX0dZeGt1R1VEZ3YycDVOV0ZCX05Uenpra21EYTZmdjkxX1JLT3NEUXcxc0JhbFFSbE1sTW0zcGZB?oc=5",
+      "source": "BigGo 財經",
+      "published_at": "2026-09-18T07:00:00+00:00"
     },
     {
       "title": "【26Q2財報公告】叡揚(6752) Q2 營收5.04億元，刷下近2季新高，季增4.14%、年成長3.14%-CMoney 小編",
@@ -20,13 +32,13 @@
     {
       "title": "6752 叡揚- 當 AI 競爭從算力延伸至電力！能源、AI 代理、機器人如何成下一世代產業關鍵？ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9zdWRHX1BCTEhSUzRuUXZYaTZPX3hjRDdYWTBwM3pXaTZSa3JSV0szVTgwR1pFM1lvZ0h1OUg5UHNvb2lJOXhfcVExb19uQl9TUDZwejV3NlI?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-10T07:09:33+00:00"
     },
     {
       "title": "叡揚攜手Mend.io 拓AI資安版圖",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVmZIb2lfaXVYclZSamhCWXlFNTdmbmNHVF9acTEwZGd4dVp4LVBjTDVJMEJybE1TckxrdTZBZmFjOE5ZWklNZS11UFZSNkFxU3lfbU9kWjItaGhhLUE3SGliT0FLZlVPNWhGX0lfR1NOZHR5eElKLU5acm9wYmt1bjcwaHo3WlJhM1d0cTVJQ0NEN0lkTXBZYTJjTHI2M0w4LUpDc3ZBQTh2SEIySUFqNzY3bWdKc21XTEZ5U21aT0E1YXMzTkxtX1dBQTNDRWplVFgzWQ?oc=5",
-      "source": "Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jdDhkaG1vb19GdENZVGNOS0x4SnYwWlNSSnNOTTNTYkRDNDF4c2I5dldOZWZkMWFXc19sN1VRQlp3eTlxZ0ZmOWUwMlFhYkE?oc=5",
+      "source": "news.cnyes.com",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
@@ -38,7 +50,7 @@
     {
       "title": "6752 叡揚- 叡揚攜手Mend.io 拓AI資安版圖- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtMWFrX1pINkYtZ3hXWDBSdThhb1hVREVVbUJpbkRERWh6anNOZnpDMlhTUXIxSHBTeTlmQWE2Sy1zRUtEMERKNzJTYUhhYnI3cFNtZUM2UlQ?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-08T05:15:54+00:00"
     }
   ]
