@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-21T11:36:47.470450+08:00",
+  "updated_at": "2026-09-22T12:35:00.727071+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1476",
   "name": "儒鴻",
-  "count": 10,
+  "count": 9,
   "news": [
-    {
-      "title": "儒鴻(1476) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxc0E3QW9pM1A4Wl9MTVF1VjZaOWlSNzJfby1GQ3FUWDQyTDJHdEdyT1hmRl9Tb0NSSDZ0VUMzZHBmLXdkLWRRR2IzODlxV3lPYWE0?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-20T10:17:45+00:00"
-    },
     {
       "title": "《櫃買市場券商買超前30名 3-1》金居(2169)、亞通(1476)",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQnJ1MG14dUMyRjVYXzF0YzExcW1DWXluemNNTnMzNXdEejgzTDNxRDA4TGJ2ZnctUkxER2pHM1lzaVRSdjFyVnhZd1JmbS1jR18zQVByZWh6MnRXQUp2QXJGeUN6Wm1iSy1PeXZGNkRDaTFMUnM3SFpDbHJmMW5rbWdmT09mYlg3?oc=5",
@@ -30,6 +24,12 @@
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
+      "title": "【2026/08月營收公告】儒鴻(1476) 八月營收33.11億元，營收雙減，年減1.13%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU1h5UGRac1d2RjVHdjU5NEQ2cG9yNS1yR24wOUdObjV6alA5ak1qVGh3aHBwRGx6Q0RLWk9yUFhnME1TYnJzdWR5aXlTZnhDR3h5NjJJaGhyVmRCTmxKMk40S3FjaVZ4cERJWjNXbWQtSm00RVN2Tm5FSnlVNjVSejZSWHB1ZFhFMEE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
       "title": "美股法說 LULU｜Lululemon 財報盈餘大贏預期，盤後卻崩跌 18%，儒鴻、聚陽等台灣供應鏈影響(LULU US)",
       "url": "https://news.google.com/rss/articles/CBMigwRBVV95cUxPdUpldFJfbjd3Rk9Va2psNGVCdjM3LVV0bDB2OE1nX2pzVVlTaEJFZTFCQW04c3VQbGZJWnZ1eUFsd0tVTkJ1Q3RrMlQzYl9kdk8ycGxBQ0VBaUVJMVBHaGU2RXVCcnFJR2J1MXh1SnhfaTVwMlcwM09JZlFxOVJRbUhuQ3NrM0Q4Qm5GQTFDTWRPV3JpOTZtX1RLLUM4MmV5MjBXTjVvTEZuTi13Q3VkSTBXSmFxZnNkcm9TQXFfZmV5VUVDSHVwZmZsUm1YSlRDbG9yZ1hMaFZmTDFwWjVNcjBGUnEzZ0JESVR2Q3VEbUo3MEs4MElnbWphNFZZY1dSNlhyR09qaXVaZXN3VFNQdHNxTlRaTXJMTTBfSVZRdmFheklCbXVqcTdQTldaWTV3VG1CNGt3VkJScVlFMzlfQjRTbklLUS1mNWRqX19UUzhPSjJsREl1bk9Pc3NyRjdhV045X0EzRzZLV3ZjbVZKczgzaXZfeWNnSnJiazZ4UEFxV1R6Y19mdDZXQlBLeVRObXNHaHR5cmhnMUNXeDJPUjJ2cU5YQjdscDFDV2gyNkpmYzFkZkw4M29zSHd1RHdnWVM5eFJVdng3V1B1QWtoYWFIdzVqeXl3V0E4N2tkcG5xR3N2cl9HeW5QcDM0TXhPYnJjWWY5WHdOVzlES005WlBfcw?oc=5",
       "source": "sinotrade.com.tw",
@@ -40,12 +40,6 @@
       "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxNSkprbDQ3VmhxWGRJM2lYRWVnQUFUR2ptSHJ2VGhBRmpOSmlGVmtsajFMTEN5b1RRUkZNc1IxTjZKTGdwaHZYeTJtRGI0aFhwZFRCVW93cmpYN1gtOG1uMTA1ZkZlV0QyMm1RSExoSE1TNW9YZFdZTGJCYlloN0E1ZlllX3hwM2ZVTzg1RDNPbFQxYWluaC1FNDlzN3pUdHpMYVV0S0dUVVpTR1RfMmlCS3JtS2ItT2FjYm56WFE5aHNZNFVyQXk3UGM0eFJIa25BOEtsakk2cFJUc05XeWNHVGpDUWZCS0xrNFQwX2ZFYWtmdWFoaVJWMl9wWEhzWkE1SUNzd0tXNzhoMHpQeFhhdkhaYWtWTHhobkhYejRNR2toT04tdE9sb1htdkhmNFY3bFQ3S0Z5bmdRaEV1dmhSeUxEZVdYano2RjFDWHlCWFYwckVRd2M5R2R1aWwyTmd0S0NhcE5tb1RGSXZBcVAzWHotTnRHRjV3NjlyTkh3aXlQM3BhQjdtMURocVZ5WTlSd1N2ZTVRX0t4U1VZMzIwQ200cVdpbEt3alY4T2Zwd2h3cnBMMmVreERGZWZ0ODN1OW15Vjg4ZlJ3LXRXTG1BTGJwSERrN2JDRUFBYmo4VUFIVG1KQW8zTkNqemk3b2d2NXpOX0NVT0ZnNjZBNXFNSDFUY2lfcTQ5X250Q1gwbFVOaWxSakFDWWVjbWJ0UQ?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-08-31T07:00:00+00:00"
-    },
-    {
-      "title": "【08/26券商評等報告彙整】儒鴻(1476) 今日僅1家券商發布績效評等報告，評價為看多，目標價為366元。",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQVhnT2JmOWlxdFNaSnE3ejMyWVRNbE9iVkhpem5YTS04N3oyMzY1emxqNEdCeWFITzdSd2wwRnZTb1BwTDR1RUVCZ0k4S3kyc2NKU0NNQ3FVOWpJYldHMWx4QXJLSmg2bVNUNHBWbTQzUVV6TVZObXRfSHJLVjYwTjdOYlJGV0xnZVE?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-08-26T07:00:00+00:00"
     },
     {
       "title": "AI熱潮避險標的？外資儒鴻目標價升破500元",

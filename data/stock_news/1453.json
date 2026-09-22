@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-21T11:36:38.414274+08:00",
+  "updated_at": "2026-09-22T12:34:51.773886+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1453",
   "name": "大將",
   "count": 12,
   "news": [
+    {
+      "title": "3714 富采- 金包銀之富采：Micro LED大將量增強彈，多方大漲飆升！ - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12UkxUbDNKNHdVOC01MG1ZTXFCNEh5ZVpMWHhaRkJiUzVUTnVGN3JzTHd2bmRnNTdGTUZNQ3h0X0trS1ZBX3VpeWUxUXlsczlfLS1mN3VJRU4?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T11:59:43+00:00"
+    },
+    {
+      "title": "金包銀之力積電：晶圓代工大將營收高成長量縮拉回，短線震盪沉澱",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5RUswRjZQTUJCR1lxX1RGOWs5Ym1ocGtJbGVCVWRMaHViQlVVQmp3dV9nQU9ZRUo3WC1QZVFEWEdIVE1qMXZIWlFVTmhBbGJHLThfN1FIeWE?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T11:57:21+00:00"
+    },
     {
       "title": "【金包銀之合晶：晶圓材料大將量增強彈，多方大漲飆升！】",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOV0VCdHNCQTBKQjRCVDBEdUJhTlNZUlVCT2RCTHpqQUNjWE41dGRyNm1QWllncmRHeXNacUJ2Z3BZSkhvb1htU2FObGhtWTh5UmJmYm45alU?oc=5",
@@ -64,18 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtckFxaWRWMUVudWRuMU1BNFExUlgxcjROMmg2YkZ6cUZwM0lfRmlQLWI3QkM1WGFSM0FZekFhNWlwdUs5SXQzcDRFNDNSbXpITTRZQ21jVEs?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-16T11:59:18+00:00"
-    },
-    {
-      "title": "3450 聯鈞- 金包銀之聯鈞：光通訊大將營收創新高量增強彈，強勢亮燈漲停飆升- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTbTdHQmo5eURjc1MzQ3pnVjlZdGZZNXRpSkRjRng2QmFvV0lxdDJqREtuekV2YWRDbTljeVlvV3QtSzFSWkY0b0d1SnJaOHpjNU82bElVRUs?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-16T11:55:32+00:00"
-    },
-    {
-      "title": "3450 聯鈞- 金包銀之聯鈞：IC封測大將營收創新高量增拉回，短線震盪沉澱！ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkR3dSUks4V280eUliRzJrOGtNVVRoTnROeEp1dUFwWHk1RVVYNlZPYU5WU1gwMUZoOW9CSkdicF9aeF9QOFFMY0VidS1ISk52bDAzTV9mTVM?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-14T12:03:13+00:00"
     }
   ]
 }

@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-21T11:36:33.409917+08:00",
+  "updated_at": "2026-09-22T12:34:47.475313+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1442",
   "name": "名軒",
-  "count": 4,
+  "count": 5,
   "news": [
+    {
+      "title": "《上市公司除權除息 3-1》名軒 09/23除息",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQd2xKX1pFWkJob1RBNWpydFZCRUdzNnZfVVhKdjAwWDRVLWxGTXZSZjJDaFA4QWtKWjBaaWFiSDBQTkxuZlVMMUpWdFJZa05IYXFYd1QxWDdIbzBQRTZGN005akdOZzZjZm5NMlBxUUZDdVBnSTVWRHVLcmZFcDBTdUtIdEMwLWdk?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-22T01:19:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】名軒(1442) 八月營收月減年增，全年營運續看向上-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSzFVdUpya1hiZlczbFdrVkhFdWxranRld0NDYjFkaTZEcjVqa3Vacng1WUFMTDVwc0Vrc0l0Y1JRN25RenRNVUFpN05TeEhtTmFIS050UGZuUFd0NTA5OTVWV3V6MlFpbTdNcXdHUW9aNDIydzlGNUdpb0dCV1VWbVlFREp1bUo1UWc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    },
     {
       "title": "營收速報 - 名軒(1442)8月營收2.66億元年增率高達64.57％｜新聞快訊｜豐雲學堂",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GX1FONDBnSXZvVXNmLTBRYzZWX0lzWmhpLXlFNG1zLU1Ua09SX1VWOFdwcFNscUx4V0paUXY0Z0VTbmxBU3pkMWtfeGFmVHQ5aTNHWXA4TUJKQ2o4UmNrQzFKVVZ2eHdTZWl5RGtvRHRCVEVFV3c?oc=5",
@@ -22,12 +34,6 @@
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83cEZoaXU1eGxwV2gzVkhqNmVPNzUxUzBta0ZsLTNIdjRSRVF1WlpwYnB6M2cxZkR5R01OdmhIeHB0dEE0cG9kcWtEdzlKdWFwaDFDa1NqZDktMS1DMFhRMXBxek5ZcUUxYlpUVHpR?oc=5",
       "source": "中時新聞網",
       "published_at": "2026-09-05T07:00:00+00:00"
-    },
-    {
-      "title": "欣興5兄弟不離不棄 尾盤爆1442張收紅",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMLWxFN1NCbWNBOTZROEtYbVRQM2pETy1aSFZfMW1QLXluZVA0QWxXLW9oZDh0aTEtTGJoNjZiaTBpQVJoX2JNMzhSRThscVBLbnA3YVBudjIwSGdz0gFiQVVfeXFMUFFMdTh3dEloNVl0dFBaenV4dWU4YXpYZjhDM0JRdXJxYXUtN3dKVUVJQkJoWmxUMjZsOTNqSklEYUpIUzJ0MkVHakJxUWNQOGxTZ1prLTl6azhudmo2WlhuT2c?oc=5",
-      "source": "鏡週刊Mirror Media",
-      "published_at": "2026-09-02T07:00:00+00:00"
     }
   ]
 }

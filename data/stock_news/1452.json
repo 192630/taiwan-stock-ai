@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-09-21T11:36:37.835554+08:00",
+  "updated_at": "2026-09-22T12:34:51.218870+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1452",
   "name": "宏益",
-  "count": 1,
-  "news": [
-    {
-      "title": "【2026/08月營收公告】宏益(1452) 八月營收營收雙減，年減33.93%-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY0FXY0JZZXpSTHRNWTRsMmRod3RrQmNUd0EyM3lSaWxEOWkxSXF1TGZzSURKRHRYM29UOWJac2hkVTBCME45TVZ6OVVEb21wT09ua3NaVThnRUhBdmR6eFFWanU1cDVqcFBOTDB0SzR3V1pJakZHTVpyaDF0OWRqb01XRkk1bXRSa1E?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-02T07:00:00+00:00"
-    }
-  ]
+  "count": 0,
+  "news": []
 }

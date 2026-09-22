@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-21T11:36:43.559007+08:00",
+  "updated_at": "2026-09-22T12:34:56.897451+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1467",
   "name": "南緯",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "1467 南緯 - 台灣好朋友！5月溫馨接送賴總統史瓦帝尼副總理今年第3度訪台- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tNEo4eGZaSC1mLWpidmRCWV9hZ2FxN2RLa2gtSE5PZ0w1RTRkSDl1eExvM3JSakd1NlFyU3JNSFNMWWY4VGlkVjBtd2xweTNmNmhDN2F2MzE?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T11:47:55+00:00"
+    }
+  ]
 }

@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-09-21T11:36:27.930262+08:00",
+  "updated_at": "2026-09-22T12:34:42.191334+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1418",
   "name": "東華",
-  "count": 9,
+  "count": 5,
   "news": [
+    {
+      "title": "東華附小國家防災日地震演練 從避難疏散到緊急放學迅速確實",
+      "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxNbUZmUjNLS2JzdVF6aVVpVEJHYTlJX3M1Z3VKcV9nN3NYeUxkZWdpMFBmZ05TRjhqZzFtYUVYN3F1VzFnTU9WRS16RWdHSDdQT3dacFREVHZmM0o2RGxlamx5UVZ5aDg2UmRmQzFvWnc2MUZUT0Z0Z1hTai0wbW5sRmZ3UmhQMDJBYlNDNlVvSy1vMTNBU0U4clJBSVhtXzBHUEVVQ2EyN0VPTlB2VWdfVExvbHNEYUVNT0wybE5XMVJxNVh3a29Xbk4wbmEzb3dHd1RtZEtoc083UU1pT0kyakhTOVMwOUtwUElxbDFsQ1FhY3RESnVBOHhjRUp2Y3lzdGFIRFlKbHYtM2JxM3hWOVlFc3BKczRZMEZKT2xiWnBOYTluOHlCMVNIVTUyV3VxcjZ5SjdmZm9tNDU3d1oxRERPRjZIUk9vZW43OTF0MWMzNjJuZ1dYX2Zzd0ZFdFBxTlVfa2M4bmdUQWtRVXVSVUhLbEZla2lOVzg1SnRwdlVncHNJenVUek9RZWVOTzRSbS1RY3RFd04?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-21T08:25:21+00:00"
+    },
     {
       "title": "中職／岳東華讚梅賽鍶「控球大師」 葉總：長得拉美控球日本- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlOHZEa2N1Y3FUcGFvN0ljT0FDWGhqSjRzZUstUXJ0bUxuVWJ2ZENmSE1DVUotZGw0MWRCSUVjQmhWUGw2MWlzbkROWE1tTE1yZzNVd1NHWTA?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-20T06:13:36+00:00"
-    },
-    {
-      "title": "聯合再生能源與工研院、東華大學 捐贈太巴塱教會太陽能板強化社區能源韌性",
-      "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxQMWtxZ0VxeTFmNk9oa3pIaFlfNU9uNmpPaFZZTGJId2doRjFEU1RiX2xkSVVnQW1qanNxN3d3bDFkRnY3U3Z3Nl94NE5raVdWbk1nOUhIREEzbWxwMXdCNWJrbnVQUW1HU0hBY2NUVGpFSnB0TmptbUNkTmNvWjI5VEZpRWF3Wkx1MS0zbVhuNjZGWGRjRmNZQ0dxV3h4QlJaeTZxaTJoQUF3N1BfdGdrSHpJXzl4aWZ5dHJENVRBRzRWMXdqbVlqRWtIWWo4UEdVWE1sVDA1YXBXT0kyMmZ2RlpXcFpVT1B2UnNzYjZyRGJLelVUYXg3YWhMc2NLRjI5V291ZE80TktJTExJU2xqRVc1MXhEb0NzeUgtaDZTVGd3bHltYmFvcEdJYnY0TWpxUWtkZlJnRmJlWEVvQklVVVkyT3lXVFpRVnUtTk9UQmVnNzhrZ0lIZS1UY2dLSkN2cElJWi1MYkVUWTVjc0JIcGlwWkRsS3RFMU5SVWtGclBXWHFGVEwwUW9Od0pDZ0I5VEpMUWZRU19RMnhqZFFxTTRSekZxNENydHZnYVBfSnRaZUZhN25VMGh1QWs5emRaQVRYYU0wb0xRVC1TNkRrMzdONk1scG9EeV96cjNyRHF4QQ?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
       "title": "東華三院黃笏南中學有學生涉偷拍被捕 校方：警方調查完成後會向家長學生交代",
@@ -24,20 +24,8 @@
       "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
-      "title": "東華附小開學首日迎新活動有趣 新生劇場陪小一展開校園新生活",
-      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPQ1hZX0VEQTE2aGRVWnhlMzl3YXZnajU5TUxGanl5bE5KOEdVRnJoOXhHOVBGUTZfQVNMXzF6TmFTUGtfWDhobUNLUkVOZ3pfQ29fc01jM1RMS0ZFMGRaSk41clA0Z3o5SFQ3SXdvdFRPMmc0VlN2Z21ORGpNdFg5YWswRFdUck1OMjF3ZlBrN2MzUTlKY1dlcTlzcnZxMWNUM0dIRVRBUFlBMkpYU1ZSX1JLZDFqZmdUcmxFMjBNbGRtU0pkQm1xcVJUQ1V1TDhLbVhiUTd3UWc0VG9DYUdpZE84UDFlNEk3RWRjVmplOWlGN21VVTJzVjlFSFFnS3hyeFJrRC03enU5ZlZvN21GVndpWTZCdGt1ZXRtYW13c0lOekxyUTNoY3l1eDNkZEJ2UHA3aWllcUZSY0V5ak5OWERPODhiNlpPZlAyLVNSTXJkSW96anJaS0NaTk9lU1o0UTFRVnJ0NzZRYVowajE2TzF4V2Y2OElLWWlNUmxzTjg1dDhYVEFZaGx4cmwtYkZkRWlnNGlNcmxYZw?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-08-31T07:00:00+00:00"
-    },
-    {
       "title": "東華附小開學前校園防治 花蓮市公所協助除小黑蚊",
       "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQdkhNQUJGTUlZMXFjWTVYSDBub1duYlA2aEZTX2dLNXduTFdYSTBqbTF6NFVXUTA1MVA3ck1WU3JPMmMzaTQyZmdVQk4yMHNsVjBxam5FRU8wQ25nWUF1b1RXYm42bmtfc1BIRnFWTXpvSEJsRTRrTFhwaFFROEtaUENpSzZQbkVxWW1hTmRib0JpeUlfamktcFNuWi1TQUhtS3VmbTNsSUxMbjU1TjFGVkVEWEZVMWlYRXhJWmxNV0JmLXowVnVjVmFpWjQ1NVJ6OXBvVUJsUmd0VEN4VjV4THdnX2JDRWwxaFAxNXlwc29lUmc5NnhVX19wQ1ZIRWxQdzZNa0VjYVFZb18tOU1wT1lsTk55T2lIeHBJVVR1WXJzR2lxQlZBMkdYLWp0U1ZNSldyVUxiUEFDZXVSejBuYTlhMzV4SjRxaDcwZEdUQWE1RFVhaERSWjdnNU4?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-08-29T07:00:00+00:00"
-    },
-    {
-      "title": "開學前加強校園防治 花市公所協助東華附小除小黑蚊",
-      "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOZ1ZSMHo1MnkwcGJxYWFRcHBVempVTHVOVENIbWlabkxvZWhsV1hzTU42MlI2WmQyY29VSTlSN3Q0LV9aQkg0U3I1WWhMY3JkRmVwTmFFWkhVS2xudkN6VGI0Qy1QZXlBd21pcW9QbUdvcjB4VzVDU1duSU5BdkVQYjRMS01lOUhoWHd1eFZuRWstSEJuc2VCQnNWUFJsdllYeDRfT1lvT2UwdFZUQmVBRFFHY0I0Y0VQNHFMRUFhY1ZqZnRqXzZiSTR3WFpma213WHRrMDk1U2xUOXJfV0NsTVdJN3dHWVRLd1hDWjBVVmZUZzlWczZLbjJJakVBQ3NMdXNLaF9wSV9fTWZzSFVOcmhiYVdlaVRWT1ZGaWZTMzBrTmg3a2hKY01QYm1oa250UjRUZXVNLUZqWVhfNHRoX0lKR1lKUGQ5bnJzM2k1WlZCd1VGQTJBNU9hMzBvcmVmdWxBa1dKN2U?oc=5",
       "source": "Yahoo新聞",
       "published_at": "2026-08-29T07:00:00+00:00"
     },
@@ -46,18 +34,6 @@
       "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPZ0FtMmJERmpOb2FXMU5CbjJFQ0dKRlI3TnZ6TTh4YzhwVm5UX0loRVZxYmxEb2RIdHczU1l0V2YzTXAzOTZReFRFRnprQzFiVWF4eUNPMWxZNm5yZHZjYzh2VU01R1N5MmEwVk1DVVVBUXFZYjFFQzVleTlvMkZlOWI2WlhDZEFqQldEMXIxN2lOYXcxbVBHVzliS2M2NlNHVjBSdkpPelpHSmRzamM2TDZZWlQ4UVdidzdSZmVsX2RyR2hjZzhIZjA4Yk9rQWZtb3JrbXFvMWJEcU5vcTFKNEk5VElJZjc0QkJMQkY0enJFTVQ3dWk0OVQ4ZE50UzFhTGlRQUh3TUdRRHJ5dXVIY3U4WFFQNlA2N1NNcFlyWEk4dy12RTRRcllPbzlubzAzWlln?oc=5",
       "source": "Yahoo新聞",
       "published_at": "2026-08-28T07:00:00+00:00"
-    },
-    {
-      "title": "從玩樂中收心 花蓮東華大學前進富源國小辦營隊",
-      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPemR3Rzc3U3NrQ2U5Y3VaZWZvZEdFdDgySGhUOHd5U3ZBOXEyaW4xd1B1NTZNRlRDZEdrS0Z0a1pGalNNOWs5Sk5ZSFZMQ21VbXJCZ29yRUJ6Sm9ucmZqc1RMaWxicF9ZZnlfbXVEdXRtS1BXNlJZeVhVR0tSQkRXUkFFX25YbXRWdGpYTEFfTWdjMDR5UjY0NklrSmV0d1MyR1ZKYS10NVJfSG4wQVRpQWk1VC1STXcxZEIyM2puTFJ1a0hLbDhoMnVmZlo5X3BKdkhScUVENkNRY0Z4S2c5Qm9vSWxFSVh2ejFVb3RGUGRPRUFKYXpPRG5HV21mQTFtNEd5T3Z4RldNLTBsNk4wdmhiTE92Z0ppRWxNSkVNVEotWkFTN0pCQTZwREZRdFlTQ2dLck5KQWFua01vM09rUldCWVpXa0tfbHNWaE85dGM?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-08-27T07:00:00+00:00"
-    },
-    {
-      "title": "拜訪移工的家鄉 花蓮東華大學前進印尼",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQTXotSklidVpjeWM0LUVSVERra2pLMk90T1VlcVV2SDJtVHh6aFVJYkx4LU4xNkcxQ0FDTWVzc00wNGt5STZFRExyQUNkelZkcUhiTUJTOHVqX2p5ZVRPaFJwQnZXQkZ6QUxBRUV4TlprU0x6bXpJc1ZJbXZaREVDVTgzcWJYTjdLZ0cyUHh4UDNYaGt4SHZ4V1RpOHZIaUpQRTJZbjQtLWhTWmtUZjh2eG1WRXptbmhoNWhoMklIb1doajZqSG9qNnZfUnNVSHlrRnhnRENDS2xsd3YzdVh4UXlEOFVHeFVkVXpOejA4dWVMaVJvbk1NcnNiX2VYRWQ4aFZPTTFPa2k3V2FhVEU1bFpmYzFxRTlfTzFaeTl3Z28?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-08-25T07:00:00+00:00"
     }
   ]
 }

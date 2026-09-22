@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-09-21T11:36:36.845589+08:00",
+  "updated_at": "2026-09-22T12:34:50.311358+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1449",
   "name": "佳和",
-  "count": 0,
-  "news": []
+  "count": 3,
+  "news": [
+    {
+      "title": "個股：佳和(1449)每仟股配發9.99999434股，115/10/12除權",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNclJLemZVYmwxVk53aXc1dXYxQ05fUU41Yk1rTF9hanMzcW56bWR2Tkt4N2NvbUZjdVY4aGp0UmhGSEFiMU9BRXg5a29vaWtHZGZPdGdBVG12M2Q1VDdNRG9QdGxYNkcycTZKb3hKQnRNRmZKdXFXZ2l0RFQyd1o2WTVvUlNZb3Z3?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-21T23:05:00+00:00"
+    },
+    {
+      "title": "1449 佳和- 佳和公告本公司114年度股利之除權基準日- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1yWWN0TE5SVkpUV29YTDhyYndSMUtYSjk3TGVJLVlxbEt0bUJGZVphZ1B1NFl1MS1QOGdiYjZ1VnZIdi1hLThydF9xMzMyWEVoZi1vV2IzOTc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T09:42:52+00:00"
+    },
+    {
+      "title": "佳和實業參與環境部產品數位護照試行 提前因應歐盟DPP趨勢",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rVDdwR2xEWDBEeWFCeXoyMXgyU2pwQkdFSHNEdDM5UldRX0hMb0tJSWc4R1M0RDE5UlhQd2d5eXdZRTBzelhJdEZpd3Q3YlJf0gFWQVVfeXFMT2hfdWtXQzFoc3gzUkpsbEs5cjNKRGlYUG1EZ2VzOW9tdTY0NUJWUGlYUDBQUUNCR0k5X0FTVTE0Y291YUhhRUZwbGNQUTB4YnUzRVVPdFE?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    }
+  ]
 }

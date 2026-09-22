@@ -1,8 +1,45 @@
 {
-  "updated_at": "2026-09-21T12:36:19.913965+08:00",
+  "updated_at": "2026-09-22T12:35:06.681031+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1521",
   "name": "大億",
-  "count": 0,
-  "news": []
+  "count": 6,
+  "news": [
+    {
+      "title": "焦點股》大億：董事長辭職 股價竟強漲",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96MEI2a05zNGtSQi1Ec2ktNy1pQWJhbDdkSUFaOC04eU9yODZCUDNDTEJpejBjUGhjWjlBZExRTEJqaWVOU0ItY0xXUFUxWklObktnMFBMaHc?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-22T03:00:31+00:00"
+    },
+    {
+      "title": "1521 大億- 車頭燈廠大億轉型！董座吳俊億請辭專任董事- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fVVBDSURSY0Fqd2RpZGdaSmlEOEQ2a0ZhdmxiNkp3bWhjeFRkcVNHRnA4LVdtbmJlUDlIb3RLWFJDYzFiVUdVenZLM0NlRE9TenlFd3k4aG0?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T11:15:47+00:00"
+    },
+    {
+      "title": "最新車燈供應鏈加速轉型，近50年老廠大億創辦人辭任交棒專業經理人！-財經焦點情報站",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUGNtcEVPMklZSDR4ajIyRnVXVHdLcWNKSlVILWJhbzc2S2RQYnV6V2JNRXhMRm44eDhIZ0puODlXMFBabFdIRnFkSUtNWGktRUk2NFQ0Z0diTWUwdHNyY3lZT0tCY3hNSXJBcXdEVURwYWl0S05qSnJPU0doN21iVEhn?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-21T10:23:12+00:00"
+    },
+    {
+      "title": "TWA00 加權指數- 大億車燈董座吳俊億辭任，交棒專業經理人體制- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBodlhVMjd5YlRoT1NCUWFnYUwxaHFkT0JLV2JVRHJldjZmeGl6cFU5WV9NLWRaLS1VQTNNNkp0ZWtZTnhNTFJlWXNxU0hjZUlWVm4zc1NCUG8?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T10:04:31+00:00"
+    },
+    {
+      "title": "創辦人吳俊億辭董座 大億:邁向專業經理人體制",
+      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNX3dxLTNoUVN1QjFIREtvUVJrSXZqRVRTaXhqcFA1aU5yemU0TV92VVFsYzEyUHJOeXNaa2t6UmdQbU9Wa0hSLUE4VlNmbGkyb21GblFaemh0RS1fNEhMeVZTV2tTeER4WHlXbVBFa0U5bFg0TWRJS1Ytei1FVDlZMGpSSHZESXk3a0JQQndKSUJBTEhuX3diNVh0SUs2UEhIc1FrdWVfSVBoM1Q1SThYTVMwcXdhR09oeTFsZy1RYnU2QXhRclZ1a01LT2pJSjNGU1dVLVRRY2FLZHNqOVhtSDNYRWFVcm5tclpVZGIzbXhyMWdWbjNvRWZyUWZRbkhvU0Z4SjNsZVk2S1lkV1RCTXdyVFF2SFROTkJ6Q18zcjdDZ1MwbGJBRmljWVg2VFV5NTRSYlRzWjZOMVBHbDJtejRxOWhVNmdDZW1GcXRB?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-21T08:18:00+00:00"
+    },
+    {
+      "title": "震撼交棒！大億交通創辦人吳俊億辭任董座 未來布局曝光",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE43eTZ3Y0FNbHpBb3duVzZROUxzYXJraHRPalE4VHQ5cEx0UkF2bEZOdEpRMlpNYTl2VzNESEtCaXBndEhTN19EUDRPUDBnWm1x0gFWQVVfeXFMTURBNVZVZHo2TnNTQ19DbVIzeVNwb3BZWXZZdjVobHYtWUlnVXE1cUtxZzF1OEVyVUNqYjY2elFEeFJyNHpyYndYVjJQa1E4S21KV1h0VWc?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-21T07:33:13+00:00"
+    }
+  ]
 }

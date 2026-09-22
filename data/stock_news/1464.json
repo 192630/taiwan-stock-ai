@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-21T11:36:42.202470+08:00",
+  "updated_at": "2026-09-22T12:34:55.544487+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1464",
   "name": "得力",
-  "count": 3,
+  "count": 5,
   "news": [
+    {
+      "title": "個股：浙江福發第三期拆補金入袋，得力(1464)Q3獲利升溫",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xQlZQVHI4RHFUSXRQSkVybDkwRWUzT05mT3ZHNWNJanQxZ1NPWU5jOVpFbGFYc2tSRHJ4MDdBd19iQ09wUHdWRzJ2TElBUzliaEkyektR?oc=5",
+      "source": "東森電視",
+      "published_at": "2026-09-22T01:06:00+00:00"
+    },
     {
       "title": "得力下半年旺季需求回溫；安徽假撚紗廠投產",
       "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPcFRzWUQwanRwbnRUbmY1UTdNMVk2dV9KYWhQR3VhR1k1YkRjeFBaZjFaU01fWnVSeVhaR0pkcllzTXJZS00ydDZvRHdQSXNBZUpWX3ZTYTFGYmdaQmpiRV9GajN4OHY0amotWTJjaDctc0RaTWNPZTltbUtHZEZ1cWRaNk4xSjB1VXhWdUVJdUZvZk1aSlNSX1lyZjVmc0NpQTJNUkRIdXp2UVdRdktoVGVQbXNxdG5Dd0UxVmxVYlFaSG84ZU4tbE1XNFBMU0txeER0RU5sRTNEZ0NqNHlkdUJnSVY5WjE0VDRGaG5qdUd0RE83YzFCWHMxdDFrSkplTlloUTRtQ1EtV3hXa0lSSHhiR1U0bjFldW9BUWpOV09oeWxSWjFSU0RYcHZGaGRfVjg3WXNKZGF4dm5yNkttcQ?oc=5",
@@ -22,6 +28,12 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOemY4ZWFmUTRreXM1YndGWXBVdl9LSTE1a1VCMWdjMXFrX2ZYQk1WblJPYVpmQ1J3MmVoa3J5OTFvZUFrdHVtczdFM1E5eWF6RG92UWtTamVzWGJxZzd1YmlpZ3hWSnpSSElzUXQ3X0sxbXpQSE9zN05KVVIwQWI2UkFiNzJYT0N0dGc?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
+      "title": "【26Q2財報公告】得力(1464) Q2 營收29.5919億元，連2季衰退，季減0.96%、年成長4.93%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONFd2NW1IdHNkdDFSdUExakYxSTlJaTlYWlIzQlFDcW1waHRpZHBTdDkxN3ZyMUJsS0lqazBaVElwY2g5OFFBcnpOdHl2c0cxQW5NMmgwaF91UGptNkNZeW5rSGFDQ01EaFNpS0d1WlpvTWlRR1J3b1V2X2F1aEJUWVBBUzV0T2VGVGc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-08-25T07:00:00+00:00"
     }
   ]
 }

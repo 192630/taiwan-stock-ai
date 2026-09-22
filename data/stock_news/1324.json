@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-21T11:36:19.854510+08:00",
+  "updated_at": "2026-09-22T12:34:33.928580+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1324",
   "name": "地球",
-  "count": 11,
+  "count": 10,
   "news": [
     {
-      "title": "外星人或神秘文明在地球活动的证明？(图)",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIcVJIRHd4TTBINGxCX2xGVGZqV01YYmhieGQ3US1BcXlKNDhGWFNCc05RQzBQX08tNmNOekhKUE1NblVLMldnbS1HcE1vSjdFQWxqb1dEQzI?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-21T02:53:18+00:00"
+      "title": "Rocket Lab爲Synspective發射了新的地球觀測衛星",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOanNXRlNzVTFNNXRVRm9KTnl6U0JVMGc4ZXNWZzRSN2pCV0FkNTdjOG9mOHNGZW15Nk5GVUFPbFk4SE5mX2NHR0NPY1FwVmZnbUZXTzZQeXF2NVlFSWU5aUduQmdyNGwtaTNjVERDNXZWR0tBeGtOTkFhLTFzTmNkMFNaUGwyNXhOZFUtQ3lXV2dJMC1Gck5sTVRrWWJDYVRtZldnSzdwc184OTRwejJsT2dmWDBmWUE?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-21T11:43:56+00:00"
     },
     {
       "title": "吃塑膠也能救地球，NASA 贊助新技術將PET 變身3D 列印餅乾- 股市爆料同學會",
@@ -28,6 +28,12 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oUkVEeVN6STRmRWdKM0JzTXJFbkdRbGtVTUItQ1NXOGdjQUFqVHgyUmZKQ2pwWWlMNkdKTVZRT1lpOWRUb0tTWnBMTGtYLVJZQ3NZRno3b1I?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-16T10:18:33+00:00"
+    },
+    {
+      "title": "SpaceX(SPCX.US)星艦測試最快下周二進行 擬首次將火箭送入地球軌道",
+      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxPTVNMd1prOUdtYVA0QmZDQjhUT2tCUjQyYnI0ckpfX0RRTzNfbDlNUHVuQjNCRU16OFdzN2Q1ZjhTMFJyOXdMdC1ZZ2MxOF96bWpTUG5nTXN6TGhOT2V4b0NMVkM1MGRCRzdYYVBWOHEtN3VxTHJ4RmNaQ3VRZTZQTzRjMXVoUHZidklldVpZdGJkR2VnQzdNM1BSRWVnRHBMQVBTRXdJM0syY3ZGOWFlbWNSZjRTUURsNmZDYXVYWVAxekk3Z2JkZm9NZVhscTI1dng1WmV5ZjBuUUJrdUhTRDVUZ2pUOE9YTWdPWE5fMGJvNHB1b21OR09LRk9xcTJ5WDRSbkczczZ4c3VWdVM5U1IzV2xJeTFvNkJKTHI5Uzg1RE90M2FzRll0S3Vka2tURWZXM1lmelNUM0FScFdsMHdzWUhrM3NubHFmRXFzY3FJQVgtM29OZnpwQ0lIZGQ3aTFidVVEamltTGZpVFF4MlYtNTJuSi11b3huZE4wSmRhLTlaR2gw?oc=5",
+      "source": "Yahoo 財經",
+      "published_at": "2026-09-16T01:58:06+00:00"
     },
     {
       "title": "地球環保基金川西「韌性與共生」跨學科研學團成果分享會暨記者會",
@@ -54,22 +60,10 @@
       "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
-      "title": "District確認MobileMT地球物理異常：在瑞典Alum Shale礦區的每個鑽孔中均鑽遇石墨質黑色頁岩",
-      "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNcVNhVGhXVzZVUTRvV0F0eXluLTlEM2pyd1h2LVpnMVpRelpNSTVfYjVsUUhLb04xTE1TZlgyVjR6MHFkaWhONG1aV3RvMWloN25MclBJdFpRWlJVNUVYT3NXNjF4SVU0U1VpYTFRcGdfZGk2d2t1SGY0cEdaeG1pOXZVc3o0MXhBV2tLZVN0YXdHU21EekFTdU1Qc1oySGJxeVBkUG1WN3BmaWYtWjBEYmE0N2pjakY4NHVfYURJOFIzNFFuU2tjZ0toRWtzR2xSMi1vMVBhZGIwOWp2X28wdmc5NnNpUF93b1ZGMG1XU3FQOUUxZTdmTGZCY2VKQk1yQU9MdXRaTEx5bGNyR3p5cThBMkdhQ2JkN3ppVTRJcG9aZTVzYmtXRGl6S1V4STRVaTFVNFBPQXU1Z3Y2X2lQdlV1UVhxbldpdWlxYXhKVTAyTGxudk5BSTQydDROWTFBM0xqcG1n?oc=5",
-      "source": "NAI500",
-      "published_at": "2026-09-10T04:08:41+00:00"
-    },
-    {
       "title": "地球自轉加速引發「現代千禧蟲」問題，BIPM 擬廢除閏秒誤差放寬至 1 小時",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WMXVLOC1lM0hkYzFhTDkxeGFTOVJUZ2o5ZEt3RGtvOW4xazZnXzVOR0JPMmEyQTYxTG5laFJacmp4a0FrNWxNVUltemFxUlJkY09uQmFqVEk?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-07T07:00:00+00:00"
-    },
-    {
-      "title": "遮蔽恆星光芒尋找第二個地球，NASA 與 MIT 聯手打造巨型「花朵遮星板」",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jLVdYOW1TVURPMlJHM1FOSnB2eGdTYkdwaHZFVTlJZXBMc3JlaTU5eF9Ob0VHYks1YXhOVnctcDlNZE9YeGtWNWJxc3ZiVm54d0U1aHhqVGk?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-04T07:00:00+00:00"
     }
   ]
 }

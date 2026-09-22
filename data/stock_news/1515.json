@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-21T12:36:17.937214+08:00",
+  "updated_at": "2026-09-22T12:35:04.733999+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1515",
   "name": "力山",
-  "count": 5,
+  "count": 6,
   "news": [
     {
       "title": "【09:37 即時新聞】力山(1515)股價上漲逾6%，提早出關後買盤回補＋短線跌深反彈縮小技術面空方壓力",
@@ -34,6 +34,12 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hOTJFMEhLR01xZ0xmX2F6emI3UlVpMUVQeVBGWDJPcmx2S3lvMW91V1FEV3lQWGtHamVNekthZktoSWFyZWZreWJvXzY3U05kZWRwYXR4a1c?oc=5",
       "source": "CMoney",
       "published_at": "2026-08-24T07:00:00+00:00"
+    },
+    {
+      "title": "1515 力山 - 上上下下-追綠不追紅--整理中- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1vWV9DeWZ5T3ZyaElFUW9GUlpXb0pIVHlZY3NnUUhKLUNhYTZwUFRtZ2FXT1FfYlpWbktfMnRRMXlSYS14MXMwbkxRSUF4WWMzZDVYYTVtcUI?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-08-23T07:00:00+00:00"
     }
   ]
 }
