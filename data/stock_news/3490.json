@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-21T20:36:29.633989+08:00",
+  "updated_at": "2026-09-22T20:39:21.804889+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3490",
   "name": "單井",
-  "count": 9,
+  "count": 8,
   "news": [
     {
       "title": "討論牆 | 盤中速報 - 單井(3490)股價拉至漲停，漲停價54.6元，成交3,366張",
@@ -52,12 +52,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQTdBRUlqbXdtMHBoV2dub1RiSHVSRlp2X3drckxXYzllRk96SkZyWDRJcDZnem82Wi1lbExVVld1TEJyQjBZS04tRUJOMW9wbG85dXQ2dDcxRERPN196M1dMVzF2cU1QTjc3MWpSTWJ4RmJmWFVJY25QMUM3UTRRX1VINDhvM3dtZHdRVDFR?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-08-25T07:00:00+00:00"
-    },
-    {
-      "title": "3490 單井- 怪博士獨家快篩選股做功課成績單回顧- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zZ1hCbEJLR1VsTmM1UWMyS19OR1RhQVdlaHMzQTduMDR0c3JEMFN0N09HcjFGRmpGa2E3dWRxbTZyOHhkZklVTlZfSFZtUTVnQ2t2TjJlWlY?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-23T07:00:00+00:00"
     }
   ]
 }

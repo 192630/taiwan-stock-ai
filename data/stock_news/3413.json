@@ -1,32 +1,44 @@
 {
-  "updated_at": "2026-09-21T19:35:35.955275+08:00",
+  "updated_at": "2026-09-22T20:39:10.132898+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3413",
   "name": "京鼎",
-  "count": 11,
+  "count": 12,
   "news": [
+    {
+      "title": "京鼎(3413) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yaGg0UV9FczBLNm84cWhVbC1yV1loSkdGbnZvcUtoSlpjeEhJWFhFdHY2R01TdlhrR2hEMkdmazJLZE43NHk4RlEwYTRKQVdmeVhZ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T02:47:43+00:00"
+    },
+    {
+      "title": "3413 京鼎- 應用材料上漲4.42%，連2天大漲- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yb3JPbi1CLWxPZzJlUm4zd2xvZkdWWUhkcHVTTllEckp0dkJRelBTMUs5a3BuWGd3ZWZ6TURPZF9kb2xQSHp2OF9DNl9kRXdzdXhOdkwwa18?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T08:09:58+00:00"
+    },
     {
       "title": "3413 京鼎- 關注低本益比股- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FNG45d2ZBVHVFYy1Fb2s2S3ZfU3djLWxyUDczVVBSUTZGampLMHN1U05DbmNTM1E0Z2Z6VF9xSW9ESS1UVUpjc055TEdnSGl4NEs1U2Y4YlE?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-20T01:41:44+00:00"
     },
     {
       "title": "3413 京鼎 - 只有崩盤這條路。 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxTkhSVWdNZnJTdXhsbTBqdS1YblJIQnNaQ3JUSENWWEEwekJva2ZPeWdxaTRjWVBYZkd0VVZMQ2pzQTBVY29yZmJUS00yV2hQQUdtdjVoeE8?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-16T10:50:12+00:00"
     },
     {
       "title": "3413 京鼎- 搶救京鼎股價- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWbG1peDJtUER0dHdyWUNyUkpicXJmcnhPSkRXdGQ4R2ZBbU1JeEtWQXlJeFdjNmppaGdTREFIMzdXS2xqYXRoejJZTV9TSUxCeGtuOEZ2c2g?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-16T06:47:28+00:00"
     },
     {
       "title": "3413 京鼎- 台指期拉高結算- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wOWR6WW1XRXVjSEVoYzY3bGpCNjR6a3pHSXIwTTI4bnE1Y0x0LXFKYkNuU2RuOWxIR1VOMTg3WHBWYm1kaVNpUFk0LTIwbWFoeTkza2M3X3Q?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-16T03:24:38+00:00"
     },
     {
@@ -38,38 +50,32 @@
     {
       "title": "3413 京鼎- 京鼎今天跌太多了- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhRlVMTTl1ZWt4X2dzRDN6TmFZd0lGZUc2NGY2MVo3dGJKUnZYb1g1S2Jzd2xHZEN6STdkRkhKX3Z4VUpwWUdySXJDZUI0c2tuME90QkRUSDA?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-14T09:07:26+00:00"
     },
     {
       "title": "3413 京鼎- 京鼎兩檔活跳跳- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSRnhKZ2N2T1lWakQyZVUzMnVpNzZpeFBjV3N6TlUwellTdDVNMEljZXF4MTJGbVBSQ1ZYSkRsVDhITXJKdXQ4SzhlSXg3Qkh4V0I1VHlwOXc?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-13T16:56:47+00:00"
     },
     {
-      "title": "3413 京鼎- 本土金控系上修京鼎至390｜今日3份研報- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GS00wZy1aX0oxcUw0ZDRLWWFtM01ZSnBhalFzcUszWEpyVlNnN1lwaEdpNnRCMkZLMmtzZTVOcks5eXpLeWpoVW1zSmxkVUx0Zy02TjRhZmU?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-10T07:00:00+00:00"
+      "title": "京鼎 兩檔活跳跳",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBMGprRVU4SDEyc3NGZ1kyYU50UklwM01RdE5BVzlGX05Xa1RLWWtub29lcWdDM0Z6Q2NOeUQtMjNSbmp4QXhzZEFHZi1YVmdk0gFWQVVfeXFMT2xGWTR5LU9KbTI3c1hOZ3VHWHljcE5RUk9YT3p0TUdSWWVwY21xbjhwZU5DcnNGTW5KNHBxRWlqeGNaT1QyYnpWUmtKTUJhTFdsazVOU0E?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-13T16:45:03+00:00"
     },
     {
       "title": "3413 京鼎- 京鼎下半年營運可望優於上半年泰國擴充應對2028年後產能需求- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyLWZyRHJFd2ZIRVpZUzRuSnpMZHpfSG1zQ0N2NHhBdXRRX1hpbHlxZ29ZTmZrelJRZFFwemdpRjNKM0ZiZ3g4VkFRRE5KRnV2bWVJdUt3REQ?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
-      "title": "3413 京鼎- 京鼎業績很好，股價卻還在右下角，要加油👏👏 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56Vk1UN1FOb1BqNHJZREdQX2J6NU1rVGJQcTFZYmtUeUxaQktPYWh0OUFHdU9USTEyMnlxYzJac2FwY0dKZ1lZSjhnMjIyd2QzLV9jeVU0b3A?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-07T06:33:26+00:00"
-    },
-    {
-      "title": "3413 京鼎- 京鼎8月營收22.49 億元- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZR040OUhQaFE1TXZRZWp0S09vZUg4M0NBMkJCQ0xfX0NJQ2ZhejBKVEZCQ1oyeFJmMnRqR0szRzJBT2tjYnluRmdBYl9SRTg4ODN0amZfSU4?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-04T07:57:32+00:00"
+      "title": "3413 京鼎- 本土金控系上修京鼎至390｜今日3份研報- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GS00wZy1aX0oxcUw0ZDRLWWFtM01ZSnBhalFzcUszWEpyVlNnN1lwaEdpNnRCMkZLMmtzZTVOcks5eXpLeWpoVW1zSmxkVUx0Zy02TjRhZmU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-09T07:00:00+00:00"
     }
   ]
 }

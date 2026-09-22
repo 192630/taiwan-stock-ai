@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-21T19:35:38.598260+08:00",
+  "updated_at": "2026-09-22T20:39:13.085902+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3437",
   "name": "榮創",
-  "count": 7,
+  "count": 8,
   "news": [
     {
-      "title": "焦點股》榮創：活化智財資產 帶量漲停",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xT2I1R0lDbUI5azlnM2pCMzRGYkxTWkpPdGdFZ0ZUbWRSaElBbHh2M1JIc04wWkZyancya0pOb00tTDRHdjJrNzhwRE9PVTRnNGN0ZFJmV3M?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-20T23:05:16+00:00"
+      "title": "Advanced Optoelectronic Technology, Inc.的Price to sales forward – TWSE:3437",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSHRPd3RMMXY1YTBndzFXV2F0T1VNVzZxOVhYTjlRX19sQ0x0enFkeEFFRllJc2g4NnRkWlR2T2FIV0I1WGluU3Y3RUZGbGVucDJRTC1sTjBNZGI0aGVRUy1MZFRsRXJOUTdTREhvVC05dzFoM0s4VFRObHdQLVFrVVRndzFQX1V2cllPUnhGYWc4RFVFWmkzSUpB?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-21T22:24:10+00:00"
     },
     {
       "title": "【11:10 即時新聞】榮創(3437)盤中大漲逾9% 主力與外資買盤成焦點",
@@ -18,9 +18,15 @@
       "published_at": "2026-09-18T03:10:25+00:00"
     },
     {
+      "title": "焦點股》榮創：活化智財資產 帶量漲停",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9YMFBHT0x0cjh3R2tkZmx6SGZDOTZNV25ycmtpdVpibVNmVlFhNG9DaFFXVFZkMm5pLUpnMnB4TWZZR2lxUFowaW5Id0pGaXlhQ1N2dFZwVUJwQ2tBbVlR0gFkQVVfeXFMTnVaUXJiRDRuRGh6TnFtTkNxS0dQOWVqT1pMOEY2VTAwUlBkTGFScFFJQV9Bb19JY19ZQktFZzYxelFHdF9qallRMG4xbXFMRVpoeWl0M01MTnJkczhNMjVmVWxzWA?oc=5",
+      "source": "自由財經",
+      "published_at": "2026-09-17T02:53:49+00:00"
+    },
+    {
       "title": "【09:23 即時新聞】榮創(3437)亮燈漲停，Mini LED與感測佈局成盤中焦點",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9oOVllM2hzT182Mm9ZZnBjaWx0TmFXVXdLaGc2ZndiTmZqMkg1ajNqUGhveHNDODBTTl93cjYwelRYRXVyb3BydDJDeElJWFhwWjRiNVJNNFY?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-17T01:23:21+00:00"
     },
     {
@@ -30,21 +36,21 @@
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
-      "title": "3437 榮創- 榮創逾20件專利售美商Edison Innovations 保留使用權深化雙向合作- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1vMms1MW93LTl1TGltRVRELThjeXA5dEpwYzBWVzdwTTNoTDQ1WkR5YVFudS1PNnh3OURJSU9meXlXbzVUQ002VDQ2RWhLNTFJV3JrNzJ2QW8?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-10T10:53:32+00:00"
-    },
-    {
       "title": "【2026/08月營收公告】榮創(3437) 八月營收營收雙減，創歷史新低，年減42.51％",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwd2dMQm1FZl9YYVVOVDV4TzVvZnBfNGtTdWNYWEtwbnZBZjlzaVRteXRLZEd1QmhPOEptRm1JOW8xVXYtNW92MkhDcktBek5BUG02LTU2N2F1d1ZkaEhLendiQzZ5Mjg?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-10T07:10:04+00:00"
     },
     {
       "title": "【12:22 即時新聞】榮創(3437)股價勁揚逾3%，受惠車用Mini LED與感測題材發酵＋多頭均線結構配合法人大戶買盤加溫",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVkxDNGFaQVg2TEJnR0liZElaNjVJOElGSFE1SVF2U1ZheXhIS2hnbG9KeVhwYVNwdzcwVHVKZ2lJc1FVN1JEaUZpNU9tVGdTd0VzQkxJUGp2cVU1VlkzOXhGNlJUM1dIeVdUVFkwdUo1WlVVX3pSRWgwcG1MYjByWWN6eFhod21jcGNlWDBn?oc=5",
       "source": "CMoney投資網誌",
+      "published_at": "2026-09-10T07:00:00+00:00"
+    },
+    {
+      "title": "3437 榮創- 榮創逾20件專利售美商Edison Innovations 保留使用權深化雙向合作- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1vMms1MW93LTl1TGltRVRELThjeXA5dEpwYzBWVzdwTTNoTDQ1WkR5YVFudS1PNnh3OURJSU9meXlXbzVUQ002VDQ2RWhLNTFJV3JrNzJ2QW8?oc=5",
+      "source": "CMoney",
       "published_at": "2026-09-10T07:00:00+00:00"
     }
   ]

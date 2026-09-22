@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-21T19:35:33.180581+08:00",
+  "updated_at": "2026-09-22T20:39:06.871817+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3379",
   "name": "彬台",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【26Q2財報公告】彬台(3379) Q2 營收1.1449億元，連2季衰退，季減37.89%、年衰退62.29%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYVF0UF9pYnY3bDgxVHpkZVQ5OC1jX3RIa1pHZ1EzZnZhRnkxYTNIR1ZKMXJDYTFrLW1zS0VwZm0wSVVZME1jNmZXU1FQa1NQdC1qMS1GMFNscUNZalI1MkFQbDExZTE3UkRzdXh4YkNxLUhUeUJWWXpFaV9ZTHB1NzhxR0xCNnV4YWc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-08-27T07:00:00+00:00"
+    }
+  ]
 }

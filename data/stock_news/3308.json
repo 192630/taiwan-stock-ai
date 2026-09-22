@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T19:35:21.391076+08:00",
+  "updated_at": "2026-09-22T20:38:53.033049+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3308",
   "name": "聯德",
@@ -8,7 +8,7 @@
     {
       "title": "3308 聯德- 【09/15 產業即時新聞】電源供應器族群強勢大漲4.43%，權值王台達電領軍AI伺服器商機點火- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00UkRWbkRaLU1pQkxfUUFQd1FvUmxBdEgxTGJHN3ZwVEdBcldFN1ozRjk5TzZ6MXJMVFhXTG8yeW1JT0N4RnNPcTdaM3ltQXRWWnpMZ3hYMzk?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-15T01:30:09+00:00"
     },
     {
@@ -19,9 +19,15 @@
     },
     {
       "title": "【11:57 即時新聞】聯德控股-KY(4912)股價上漲逾3%，AI水冷浮動機構件題材發酵＋均線多頭格局吸引趨勢買盤",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkVjJIdkxYMERkWDR1SE5ubHZNb3JFVzRfRTlxQ2o3WjFzcFZ0TWN1dVhfeFhZaTJYY2h2dklhYW9zMFdJOUJkZkxXTnRzZ1BpMDZHV09Fb05od1BrY3RCYllzNm5DUUE?oc=5",
-      "source": "cmoney.tw",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOEdiSm1Tc2dtYzktdXFqNXRib0lTdFZ0U1Jwb2FMaUtKbXBxdjVZQmp6ekdabDEySmNOYjEyWENKNC1KQ2drdXBqNHR6UzZRX0hNMkZMVElWbHNwMU9uTTNQN0VkRk1DRjJvVEUwMEFaS2R6eE82aW9DeHFyOG5Uc0NLT2lxeHUtX0hDaFlB?oc=5",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-02T07:00:00+00:00"
+    },
+    {
+      "title": "低軌衛星沖天！「這2檔指標股」帶量飆漲停、新復興、聯德控股同步攻頂昇達科漲逾半根、CCL廠卻遭挫",
+      "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQWjdQUkZsYjN2b3V1UHpSeWxLbnRwMlJIS1p4R1otOUJKV20zMDRvcVBUNFhMRUM5ckhpbnhwcXdiU2tzRFdRR2dpa2xsYzdQZURyS1h6LU9GcXBaUjNhaHhaZ1pYcmZUYmFqazRxTlAzcjhHci1wRmxyN1VCb1VzUXZueXd4aEZrdmxJbWEwM2xweEtsMk83OXB4WEhmb3VwRjRTNWowT1pxNi1KWWFyR25xQ0o1SURXYWt3SWZKcUxleWEtbXRPRzNQOWdoM1piQi1hMDdlUndYT2c3UGJreTlVOG1wUDNIOTRhZWpXN0pMSENadW1mTjhiLXNjMTZMWDlaOHZ6TVc0NnhEb2VhVEpOOWlRajM5bVkza1ZyLXlySHU0WVc5NVBSVy0zSF9SUG9uWjluQkxFMW1SSkcyWkdoLVducTBoZXdMYVpLTk41UWVoUmxhWVpYSGlSQndTTWRydFlIQUpwTi1HdVNIdHItZVRfQi1HeC1oV1hoUE9OMDZzX0FjV2RwblM2emJISlg4amlPb2U3aEFZMWV6TnFBY1Atdw?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-08-27T07:00:00+00:00"
     },
     {
       "title": "伺服器、低軌衛星挹注，聯德控股-KY營收看逐季增",
@@ -30,15 +36,9 @@
       "published_at": "2026-08-27T07:00:00+00:00"
     },
     {
-      "title": "低軌衛星沖天！「這2檔指標股」帶量飆漲停、新復興、聯德控股同步攻頂昇達科漲逾半根、CCL廠卻遭挫",
-      "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQWjdQUkZsYjN2b3V1UHpSeWxLbnRwMlJIS1p4R1otOUJKV20zMDRvcVBUNFhMRUM5ckhpbnhwcXdiU2tzRFdRR2dpa2xsYzdQZURyS1h6LU9GcXBaUjNhaHhaZ1pYcmZUYmFqazRxTlAzcjhHci1wRmxyN1VCb1VzUXZueXd4aEZrdmxJbWEwM2xweEtsMk83OXB4WEhmb3VwRjRTNWowT1pxNi1KWWFyR25xQ0o1SURXYWt3SWZKcUxleWEtbXRPRzNQOWdoM1piQi1hMDdlUndYT2c3UGJreTlVOG1wUDNIOTRhZWpXN0pMSENadW1mTjhiLXNjMTZMWDlaOHZ6TVc0NnhEb2VhVEpOOWlRajM5bVkza1ZyLXlySHU0WVc5NVBSVy0zSF9SUG9uWjluQkxFMW1SSkcyWkdoLVducTBoZXdMYVpLTk41UWVoUmxhWVpYSGlSQndTTWRydFlIQUpwTi1HdVNIdHItZVRfQi1HeC1oV1hoUE9OMDZzX0FjV2RwblM2emJISlg4amlPb2U3aEFZMWV6TnFBY1Atdw?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-08-26T07:00:00+00:00"
-    },
-    {
       "title": "聯德控股-KY 公告本公司調整115年第2季現金股利配息率",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50cV9qZERucS1YTVdwS1FfMnZOQXZTc19oRGl3NlFqaUJHWGpWeDBvUFVRWmtDN0w5Tld6U3pSTl95NXFvUUktcXBqV0drd1F6OE9aZG5CYzA?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-08-26T06:04:32+00:00"
     }
   ]

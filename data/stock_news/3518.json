@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-21T20:36:35.569922+08:00",
+  "updated_at": "2026-09-22T20:39:28.425461+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3518",
   "name": "柏騰",
-  "count": 7,
+  "count": 9,
   "news": [
     {
-      "title": "【11:48 即時新聞】柏騰(3518)股價上漲3.8%至30.05元，SiC轉型題材帶動買盤迴流＋短中期技術面仍偏弱、主力與外資籌碼壓力未解",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56bVBTa2RISURlcWJxdkkxWm5RTXIwVERfX19kSVo2b3NWSDZqZzRvc1ZLOFBuRHZZaHpsUmtiXzJiU3YwVjRaTzVKbnUtbGdKb3ZlbTczQ19ZQTRvbGROSVdqN1dQZEE?oc=5",
+      "title": "3518 柏騰- 多空拉鋸戰- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90N2ZCRXNRNWVqbFQtbEFJakZyZldJY2h0SXI5by1EeEFVREE0SHM3Y25hQ3RsZVdvd01LQ3BUUkFqRmd3V0lhRnktNkRZaUlYSEdSZ0RfUnM?oc=5",
       "source": "CMoney",
+      "published_at": "2026-09-22T02:05:28+00:00"
+    },
+    {
+      "title": "【11:48 即時新聞】柏騰(3518)股價上漲3.8%至30.05元，SiC轉型題材帶動買盤迴流＋短中期技術面仍偏弱、主力與外資籌碼壓力未解",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX0pVZ3F3VHVzRTZGRXhGUVlOc2tNVVpXMnI0V3NTRC1JbDZCUGZaOXYzZkd2VE5xMVN2eVUzbWlKNGFHVm1ic2xicFVQcFk5ZkJfZjExTGFrVG91N2s1WHlrbmY4SGdZV3Z1c21BVEFMNlcyVHp6Z0xYalBLZG9XSjgzV2ZZWldXYS16SFJ3?oc=5",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-14T03:49:18+00:00"
     },
     {
@@ -46,6 +52,12 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJSUlWRy1oRHg5WDBqbmdjanEyUFMxLVFBMUptWXkxRXdaVGRycC1kZEQ5V1RaYXh4WFhNUWxzVUtYUVBlbXdQRzUwaFJQeXBsaDFha1E3UjE?oc=5",
       "source": "CMoney",
       "published_at": "2026-08-30T07:00:00+00:00"
+    },
+    {
+      "title": "3518 柏騰- 盤整中- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56YWhUOGlld3dNREQ0VnU0Ty1lQ0t3R2JlNzJJUzFQWmx6RzVhQlgwalRob3lwZjVxclpQWW04TWJnbFdvSUJPTnladG4wbFhGWi1qa1AzTC0?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-08-27T07:00:00+00:00"
     }
   ]
 }

@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-21T20:36:31.498907+08:00",
+  "updated_at": "2026-09-22T20:39:23.929947+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3498",
   "name": "陽程",
-  "count": 11,
+  "count": 12,
   "news": [
+    {
+      "title": "【11:38 即時新聞】陽程(3498)股價走強，軍工與自動化設備題材受關注",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSXNhQjBLTWdsR2kzRlRCQm13TW5IM1FFRTQtZVZvdUpMWW1kVVg0MFBtUjhkUm53V1czVVhjQ3pCMXJBWUR6dUNjSkVDRldpS1VndURBbjZUM0lpSk9iYXhJT09aX19vRkZPWnVkUEFXSVlwSm04X3dPdDBFNUluOWpTRkxOU0hPSzZlVFl3?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-22T03:38:34+00:00"
+    },
     {
       "title": "陽程(3498) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VaDZpMnk2dS1pVEdyY0E1bS1weG5KMmF1dzZHa2RaRTBSSEFmeGI4WlA2dER6ZlVOaFYtRnh2YmF5UjJ0TmpwaDUyVDNkb1kwamNv?oc=5",
@@ -24,16 +30,22 @@
       "published_at": "2026-09-16T02:08:07+00:00"
     },
     {
-      "title": "3498 陽程- 融資洗一洗，比較好攻- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSQnJXT2ZnVm81NzEtY3Y5MjFZRF9rYkFXRFhzNkRBeUM5SmtENFBYMEFTVWZiMkhpeTE1cGZEN1ZQTC15NWk1TFVVQncyQWZWVXd4Ul9SUmI?oc=5",
+      "title": "3498 陽程- 再次命中星期四,量能夠就噴出- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTeUp0M3VXQXFoNG9BMlNMRUdiQ3BnSE9yU3lmZUJOLVBFOEw0M1VwSEthSU12YlNheEVwNFZETVQwV3hvRUZWSlAtbVVndWJDRHEtZjcyQTU?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-14T02:56:57+00:00"
+      "published_at": "2026-09-16T01:43:19+00:00"
     },
     {
       "title": "3498 陽程- 蓋牌等下季季報- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXeGJTUVRKTk04V0NtXzhEMU9XU3VaMWFlVGJDRXBSVEFBdzBrdnVnN0R6SzJkeHVuWHREWVVjaTc1MGstSEpfdU1UWmpkZXFSQmwxU3BKa1M?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-05T07:00:00+00:00"
+    },
+    {
+      "title": "今年擴產40％發飆了！「這檔」連2根強鎖222元刷史高 陽程驚見懸崖殺燈熄恐翻黑",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwUVBMWE5kbkNXSkRRaW1XcjhTR1J5T2NXVXZGT2xwOVRKWHNCZTRsWG1rOW9sS3ZlRnF0T09pVEdCUWpCb2hyTUZ4NA?oc=5",
+      "source": "FTNN 新聞",
+      "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
       "title": "【09:14 即時新聞】陽程(3498)亮燈漲停至221.5元，軍工與先進封裝題材點火＋多頭技術結構配合主力大戶同步加碼",
@@ -54,22 +66,16 @@
       "published_at": "2026-08-30T07:00:00+00:00"
     },
     {
+      "title": "3498 陽程- 【08/28 產業即時新聞】玻璃基板盤中震盪分歧，AI先進封裝趨勢點燃部分個股熱情- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFNE1wVEs0U1Z5ZHFhM2JRbzlUdWlYRDk0dXVVdUJnN1dYRGdRUGVjeDV1WEt1SHo4aHpNcFZ0NW52dkUtbmE1eGFQZXBWcWVhUDlLZ2ZyZHc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-08-27T07:00:00+00:00"
+    },
+    {
       "title": "【10:00 即時新聞】陽程(3498)股價走強漲逾4%，軍工自動化裝置題材吸引買盤＋外資與主力近日同步偏多推升多頭結構",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQlpkZFZnLURYeDhKZ09rWWlQbkI4TmVNM3JPRjNaQlpoaXBacjI2OU5jNVFORDY5MHJwNE5PTEZHSl9SRE9wcXd4ZkdxYnRkNFRDdWtfRmFMdTE4aElRY1NuWW9MamJJZ1hKNDhRQnFYMmNieWNEdWw2ejEyNm5GdHBlX1U2Nm4yUmtXNTd3?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-08-25T07:00:00+00:00"
-    },
-    {
-      "title": "3498 陽程- 🚀 SEMICON Taiwan 2026｜ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtTVh1ZHg0UDd6X2p1eFp3aU1jMDZrNERKX0RxMk5OZnkzQUNhU2ZOQi0xMmdJbmdyNTktNV9idmw3N3RNcWlhQlRUdWRzSlZaY05hRUw0UEw?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-24T07:00:00+00:00"
-    },
-    {
-      "title": "【08/24處置股公告】陽程(3498) 08/24到08/28列入處置股，採2分盤交易-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd2ozeUM3VWk2Z1U4bHR0QWJuTEJpbE1NOHYxQWc2VkpsYXVRZ0xNQWMyNFNTVFJadE5INkVSVGpSRGRtNGFGRDEtODFBVlFUUGZtR2JBWXpMa19MNTBKZ21uZFZYV2tnZ01xakxsTVpFd0FKWDcwcmlyQ05Ya2pubzF0NFREWVRDRHc?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-08-24T07:00:00+00:00"
     }
   ]
 }

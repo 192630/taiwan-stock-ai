@@ -1,20 +1,14 @@
 {
-  "updated_at": "2026-09-21T19:35:28.182528+08:00",
+  "updated_at": "2026-09-22T20:39:00.627348+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3349",
   "name": "寶德",
-  "count": 6,
+  "count": 3,
   "news": [
-    {
-      "title": "值得關注的股票：新達產業信託，寶德新加坡｜長橋證券",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WR3lxdnpfTy1sOVEyZXAzanNmYVBQTlN3cHY1b2FHT2hJQV9KeFVtdFFqdnJpVDhFSElLcUZDOEI1c3NVVmVBN05zUmI5ZUZMV1J4eXlR?oc=5",
-      "source": "Longbridge",
-      "published_at": "2026-09-21T00:37:23+00:00"
-    },
     {
       "title": "UI寶德新加坡房地產投資信託：打造可複製的增長與資本循環引擎",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTUhORWNRNVdmai1KejlKRU1FWklETGMwYUl3V0hPUFBVS1BoRUsta0hLakVrSDRXZjdsNjUtRjREMU1HNzZQWks4dHJlaHVQSEJ5VGZybDdBeEE3dm84NzA5SUxOazJoSldEaTJyUEZVNGdwb3BZWkhieHdGbjV3UDlFVDBpaXBBbTF6UXdKQUJjWWxPRVVpOUhXSF9FNlpZZ254aHRzT01iWEhNdVJzbU9aUVpBbUhuc0R6TkNKajZmcmtC?oc=5",
-      "source": "moomoo.com",
+      "source": "Moomoo",
       "published_at": "2026-09-18T12:15:25+00:00"
     },
     {
@@ -24,22 +18,10 @@
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
-      "title": "3349 寶德- SEMICON／伊頓首度亮相大功率UPS 新品和800V MV SST - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RZS1jVW1ZQVJOcDAxQkVUQ1o5WDU3ZVpVZE1aajI1eXRfWThuQy1VQ01qa2JkeVJJMUxqU3RWQ0o2anFsLXNRX0wyT3lDTXl2S3BNR1BoYzM?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-02T07:00:00+00:00"
-    },
-    {
       "title": "寶德科技股份有限公司",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMHhtMTAxM2dUUFpSTUw4WlJ4dUZEeWdFdjI1T0RMT1lIV3k3RW80RkdSM0QxZlozUFlxdkZka1pMdHpsdGZMa0pkTHFrYzJIcEcyaEYyTFlfMjRRNmhqRnVlUVVjUzZjTzFjNzI5TXY0TUZsNHJRYm9na1dzcWtOelRFY2VhNmY2UmdDRUxXUC1rUlg2RF9z?oc=5",
       "source": "MoneyDJ",
       "published_at": "2026-09-01T07:00:00+00:00"
-    },
-    {
-      "title": "3349 寶德- 【08/31 產業即時新聞】電競族群盤中火熱，輝達新機拉貨潮啟動，散熱雙雄領軍大漲！ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwc2Y5SHNITHNJZHNIRGl1MmtaYjFKaXVMMXV1cWpGT1Z4TWppX3lLd0cwTWFhR1doaHE2STJfTmNLbHZlaXR1MGo3cHFHV19ZM1p4NzU2M2g?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-08-31T07:00:00+00:00"
     }
   ]
 }

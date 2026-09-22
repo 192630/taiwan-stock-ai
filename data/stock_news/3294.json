@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-21T19:35:18.702539+08:00",
+  "updated_at": "2026-09-22T20:38:49.959619+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3294",
   "name": "英濟",
   "count": 4,
   "news": [
+    {
+      "title": "《櫃買市場券商買超比前30名 3-2》捷流(17.30)、英濟(16.62)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUk1PUUlsYndmbU8wbDlXanBCa2g3WW5sc3c3QmdmSmxiT3c4WGFvYWNNTUlIdkNxSmVVT09NMHFFc0U5NW9fRC1EY0VuM3NkazFxTzdDTzVkaXdGdTItUHJFdjZ0ZTJ2c0JqMzBHcnM5X0J2RTBDVDV5SmRFYVRBM0ZwTEdkS1RJ?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-21T23:31:00+00:00"
+    },
     {
       "title": "《電零組》英濟AI新技術亮相！ 機械視覺結合邊緣AI即時運算模組- 證券",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DQUxYbktkVDVtVi1keVFZUXFDMlB1X2dsR004ZTRtSThBVkxpelZCQjIyODd4WkVCVlZwdlpyTmhlcFFYeVE3T0xySmVSejYxTnFPdG1hYU9BUUhfTGY4?oc=5",
@@ -20,14 +26,8 @@
     {
       "title": "【2026/08月營收公告】英濟(3294) 八月營收月減年增，全年營運續看向上",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03ZXIxOTFVQnBhaWc5aGxGYXhobm5MVFJnRjl5REx3cFhidkc5amhoUkhsOFQtU2JIcGV5SVpKQ2tHWGI3QVZuQkQ3cHUzaFREbXhXMjlvV1JtcjkwcnpiX2hiMUpoRTA?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-10T08:40:04+00:00"
-    },
-    {
-      "title": "英濟(3294) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NWnExNFA2T2NNbGRiYmg5NFVTSU1sTzFNTnkwZVdDdkVpaXdEUG9MUzROV2hYNmlxTjViVVo5eklwajRIWnI4ek55UkhYdXlNcEFj?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-10T01:55:16+00:00"
     }
   ]
 }

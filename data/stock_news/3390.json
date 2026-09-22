@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-21T19:35:34.503846+08:00",
+  "updated_at": "2026-09-22T20:39:08.412751+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3390",
   "name": "旭軟",
-  "count": 1,
+  "count": 2,
   "news": [
+    {
+      "title": "【12:39 即時新聞】奇鋐(3017)盤中走強站上3390，市場聚焦液冷散熱成長動能",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82TkFscXJBRklLRXV5Z1ZEQmFwVmxlbk5ubFpBNVhaREx4cHZUbGlMVjY0RmlJQXRoUXZDYlZwSWZlYk9TRGU0ZzVPdHl6REVtb2lFQ0xTT28?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-18T04:40:01+00:00"
+    },
     {
       "title": "3390 旭軟- 只是手腳比較慢- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKTjlmQkV0dEgwUDFkWmp6d0JGRXdTajRCN2JwZk9xd3JUak5hYU9jcGgxVW9GbGJLN3ZSbHpYMlBhOENJaVdNaFZpTjRmdjVYeXZuaTQzTTE?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-14T02:29:53+00:00"
     }
   ]

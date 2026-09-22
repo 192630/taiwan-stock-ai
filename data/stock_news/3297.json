@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-21T19:35:19.603459+08:00",
+  "updated_at": "2026-09-22T20:38:50.985179+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3297",
   "name": "杭特",
-  "count": 8,
+  "count": 9,
   "news": [
     {
       "title": "【09:10 即時新聞】杭特(3297)攻上漲停，資安安控題材續受市場關注",
@@ -30,9 +30,15 @@
       "published_at": "2026-09-13T16:33:42+00:00"
     },
     {
+      "title": "【即時新聞】杭特拜登迷因幣LAPTOP首發閃崩暴跌，川普家族概念幣亦曾狂跌逾九成",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOW1ob3dCMmE1N2cyRDYxTGJRRm1ZQ21SXzB3MGZCX1lQOWN0X1lReUt4ZUZrcHNIakhfZW9FT0hzT25UUGs4bFh2MDlLQjJVQm9NTEI2eHduNUU1WFhYVVlkSlF2N3pHMFE5Y1hkTE5oeDFpUld1U3hHTHMySnBEZ2d0TkxCOGMybG5rMWFkWDI?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-10T07:00:00+00:00"
+    },
+    {
       "title": "「LAPTOP」崩跌逾 99%，杭特・拜登迷因幣數小時蒸發近 2,000 億美元估值",
       "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQdnZoYk5TT19XNEtJeHJ2OFp5UWpuQnRlbmZtakwwdDI1N2Q3SEJYN3N0ZDByZm5iRjVvdG9HR21qVmJwZUt5bXJQRkJIWUt5V2xwY2ZTc2dTcUc5eTViYmhzYWNYQVJSc0k3ODgydUN5MFJwV05JQk9Ycjd6MHhKWXFyWC1LNVVmODZZWkpqWHQwZTRibzBhcjhUMi0wZTFMOUtuTzByZkwzYlZRODh0MC13ZWVvdUtyWDFYSTVLSlpFemVqblZha2gtNGdqTlBjdC1MOHRleXhJdWxwSk5HWlJoY2NQN3c2TWFQbDJHV2Y4UXFlbzlHRVZhb3hsUmtoRU8wTDdPbjJtX1pNMWdUVWF6NThhcmQwenlqbFFTVXVZZHBjYm1HWnhKZllVV29zYzdycWR6TGt3dkpRaTFYYzhqWmpJOWt3NUdB?oc=5",
-      "source": "Yellow.com",
+      "source": "yellow.com",
       "published_at": "2026-09-09T16:03:28+00:00"
     },
     {
@@ -44,7 +50,7 @@
     {
       "title": "【2026/08月營收公告】杭特(3297) 八月營收年增10.48％",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10ZTlQd194TEpGakJNRjRMQ19BR2dwOTJUZUpia3NuSXhDQTVxUzVHN0ZzZ1VZMVUxbW93R0ZfT2hkSlZpY0NScmh0VXQ0MTBCOV9rbk5JM1J1RERhWGhQSTRxb0FBcU0?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-07T07:10:03+00:00"
     },
     {
