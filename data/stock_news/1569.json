@@ -1,27 +1,45 @@
 {
-  "updated_at": "2026-09-21T12:36:31.442211+08:00",
+  "updated_at": "2026-09-22T13:33:53.056024+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1569",
   "name": "濱川",
-  "count": 6,
+  "count": 9,
   "news": [
+    {
+      "title": "【11:21 即時新聞】濱川(1569)股價走強，主力與法人買盤成盤中焦點",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb1czOGpiTURJQUljTE55TURpeUVrckFTWWFCSW9IRXl6RmhmSUFPaDcwUlhLcGdVdTlvTFNsSml3a1NSRUNWYUx4T1hvbWM5OURwX2JyUkJaR0l6SUU3bHdDOFZHQ2w2aGgtZHVEaW40elBYSFlTQ3NsZ2tYYWhsNi1tcFNsYWZkQXYwd1hn?oc=5",
+      "source": "cmnews.com.tw",
+      "published_at": "2026-09-22T03:21:58+00:00"
+    },
     {
       "title": "【10:19 即時新聞】濱川(1569)亮燈漲停，資本合作與AI題材受關注",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS3hveDkzLVl0VGhpXzhmaHp5clRoVE5ycGNMSWRmcnRvb1lwZDBDbDR3TXlJdGxSVVYxUEVnanBRcjFLbjFaMjg2R0hkRmZhLTRHd3pUVldORFpKY3Z4RHRMalVFbGg0Mk5QdTYtTDZCMHZ6a09xNVJpY2dLeXRtTFFUQjVGZzNUamNrdHBn?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-21T02:20:22+00:00"
+    },
+    {
+      "title": "1569 濱川 - 軟 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBEbjZNc0dQRDBmalhQdU1iZnV3ZFBMa3BrTUhYaGptUnZYUEpaWlNvU0t2czFSTDlhTTlDWl9yODhoSHgtT3BIX21vV1ZYSEIyWkJxODlvWjc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T01:27:17+00:00"
     },
     {
       "title": "【12:28 即時新聞】濱川(1569)盤中走強，市場聚焦雙鴻資本合作與AI佈局",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVjhNWWRjbWloWkYwRGN3S0NkaWtWOVBYbWQ0Z1NZOUZDbjlXSm5kbzR2SGd6eFIzZ3pHNGNoMjZEWmNXLUtzWThrZ2U2QUFxcF9CY2JZeUZTcHVyUEZfdzNmOENhbGJ2bDJPQmtGdTA5ZTJTNmwzMjViY1VRb21abFZqNGtTNFF5MHlCRVBn?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-15T04:28:37+00:00"
     },
     {
       "title": "【09:49 即時新聞】濱川(1569)股價上漲逾5%，AI水冷散熱轉型題材帶動買盤迴流＋外資近日偏多、技術面維持多方結構",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV0ZNQ2lyamhFSzNuX3Z6VkFBemd6TmF4QWszeGxBa055Ty01R3dvb2tNNVpBYkpCLWdTblRRNVlNREVwc2dibzBzZ00wYjZWNnpYZGgxMktkdklVaVUzSUxaZTVsWThMdExEQ2wzNFBOcEFuQVpvcE9GMnE3U3NJUDdMZ3ZNXzRxUFhXVmR3?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-11T07:00:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】濱川(1569) 八月營收2.09億元，創近2個月以來新高，月增0.84%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVWdZSTlqNFNrVUt2dVp6LUVKX0hma2xTUmljcjk2N1A0M2xjekh2N1d3d0h6UGdNaFc0cDBqZmc5XzlYbDFUeEh3el9GOVRhNGVJM21yamxfb0F5RjlrQko5WGxyWjYtWmluMjFKRWdDZnlacjJsU3BIYWI4MmJmdjBrTHRRbGpXSlE?oc=5",
+      "source": "cmnews.com.tw",
+      "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
       "title": "1569 濱川 - 有夠爛 - 股市爆料同學會",
@@ -32,13 +50,13 @@
     {
       "title": "【12:57 即時新聞】濱川(1569)股價上漲約4%，AI水冷散熱題材吸引買盤，技術面多頭排列搭配法人與主力資金偏多",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVWd4bktaY3VpcTk4MWs3SzVKTmNYMFY5Ukw5SGMtSDZiUXBKZ1Q5Q1BTS3pfTF9rS0c0eXRwX29MQnFudnBkYkc4SVNpaUVWakNqR29Sd0dLN25tVVI0WHl0QVNQVm11emVwWWpvTFBTSS1aTmNxbHB0bWVRWFRGaEhIclZqQWo2OHRWMWl3?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
       "title": "【13:24 即時新聞】濱川(1569)股價勁揚至48.7元、漲幅7.27%，雙鴻長期資本合作與AI水冷題材加持，短線多方量價結構轉強",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVThDeTk2OFAzYjNHODJUZXVEWUJ6QlpLbmVJaWpLaFRJcjN0V0NMRk1IQjI2c2Zaa243RUh5amF4aW5PWVZFZ1ROdkF2NldpUDVIeWhhUTFjNTVRSWZWVDFieWE5Vmo2d2pVUTRjYkxmdUpMNUJ2R0R3c0pBdVQ2c180YTlqbEpfM3ctR2tB?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-04T07:00:00+00:00"
     }
   ]

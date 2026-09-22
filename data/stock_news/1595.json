@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-21T12:36:36.619471+08:00",
+  "updated_at": "2026-09-22T13:33:58.639978+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1595",
   "name": "川寶",
-  "count": 2,
+  "count": 3,
   "news": [
+    {
+      "title": "【13:21 即時新聞】川寶(1595)股價走強，設備族群與AI擴產需求受關注",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMnk2R3VxQVY2bVF1OWJRdkQ2a1BwbE8tNXBwSHdKLVlUYmJZaEJhNXU3OUhHN0JxM2ZCcmR0TkUzU3I5YzU4RENGRUdjUGlPdFV3SXg1T1pKNnBWSjgxOEVtTVhjejJNNnhQQW13X2RXTHNJOVZycjZMU3U4Z2NKTkllT2FlWWlfZ0p1RmlB?oc=5",
+      "source": "cmnews.com.tw",
+      "published_at": "2026-09-21T05:22:56+00:00"
+    },
     {
       "title": "【2026/08月營收公告】川寶(1595) 八月營收年增35.61%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdktSRm9PTE9sSnU0SDZqTlBDTC1uRjVCbTdndF9fZTY5MEk0QUItOWNhSXUwbmZ1SEgzWTZibC1uTlNkQzh1SENqakNMUFVaRnpZQVV2RVlmOVpjV3V5OXZ2U09uRnEzS1FUdUM2QWZNNG5EZ0NwUWhsWXlzejBJempSWmgtQ25Qc0E?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {

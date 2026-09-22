@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-21T12:36:50.244215+08:00",
+  "updated_at": "2026-09-22T13:34:12.752988+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1718",
   "name": "中纖",
-  "count": 10,
+  "count": 12,
   "news": [
+    {
+      "title": "討論牆 | 中纖再賣台中銀股票17,965張 獲利7,328萬元",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ta2gxclBpWmgtOTZXbUozVWZFRDR3aDBZR1FMLWYtVE5FMk54RmtjVHE1aEpqbG5YWHBydUFyeXBHOHpoMmVMaUljWjBIZVo1M1FfZVJjMUhSakpKTU5kNkdFa3Y?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-21T22:24:38+00:00"
+    },
     {
       "title": "討論牆 | 盤中速報 - 中纖(1718)股價拉至漲停，漲停價11.2元，成交31,702張",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uMWpDRVNWd192SXMwei1zaC1lLU13b0FEdF8zSVhJdFJ4b01iR0JQWEZwa1F4Q2JQa0E4NWM2bHAyQml5SUZzR0ZwQ1IwZ2JCaVplSV93Y1o4YnUyRDk0ZWZpU2I?oc=5",
@@ -12,33 +18,39 @@
       "published_at": "2026-09-19T01:45:12+00:00"
     },
     {
-      "title": "【12:36 即時新聞】中纖(1718)盤中走強，資產調整與處分佈局受關注",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DM0w3Wlh1allydkZyNmhReDhQWHZPRXNUSzdCb0VZcURjR1FnMzdwaVRiVmx4eGkycTdVeVNNRUFsOUp3Wmc5aVduMFBldkRqUHBTNkMxOGo?oc=5",
+      "title": "中國人造纖維 | 1718.TW 股價走勢與即時報價",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42Y2pjemVPM3ljRm1IVlJwV0U5U20zb2VER3huTG1jSVdNa21XMGxPYjNsdUEybnEtLTBua3lNYW1aUW00SXM3VmdXVDRtQXl0NkFPTw?oc=5",
+      "source": "BigGo 財經",
+      "published_at": "2026-09-18T07:00:00+00:00"
+    },
+    {
+      "title": "1718 中纖 - 掛賣11.95 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nVnBKZzhMWk9PWHRHbVkyZ3g3ZkFPR0tCRVdYYUJHbmxWR0dGaENkWTJPeTFVeDRQQ3gzdkh3MHMzRVZuVVNmWWpmRlRBcW9Ob21FUVZTeU8?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-17T04:37:22+00:00"
+      "published_at": "2026-09-18T00:56:57+00:00"
+    },
+    {
+      "title": "【12:36 即時新聞】中纖(1718)盤中走強，資產調整與處分佈局受關注",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa09UWG92Vl9JdnJjcWdNektxQXI4YnFKOFlyUndobWhPZlpFQkZGUWs0VUFLb0NIS1lNLWpqTlU3ZkpUc3lLRjJ3WUMzY1lER3AtNWVjcmdPWkNqNzhhalFzQ2xJNjVkSTdRUU1UOFBIZlpLeTdiWkdrbEt0Zmw4Wl96TzlZOEYzNDN2WHNR?oc=5",
+      "source": "cmnews.com.tw",
+      "published_at": "2026-09-17T04:37:20+00:00"
+    },
+    {
+      "title": "中纖AI算力中心如何提升現有資產使用效率- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jdTZNUmdKc0NtRDcyYTZHaG9mZHpqZ2dlNkNCTTUzeDZzNVc2dTFxWm41M3dDeF91TlE0bXgyMU81b0lORy16UUxJYzVsUjNhYlZ6OVd1aGtVNURTTTRXZFZwMWlrS3dlT3lqNTQtclgxeGdGd051aE9lWQ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-15T18:44:54+00:00"
     },
     {
       "title": "中纖活化資產 再處分台中銀股票獲利1.14億元",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGbVFoNE95Um1RUHoxNER3Ri1ZQmxKMjQwZGxNdVU0bkZJWXJmN1c4Zk1HYWNpenVSSmN0R3BnekJYTExQRWI2S19QREFJTW1z0gFWQVVfeXFMT0QxeGFjNmNDZVhLZHVtUnZJdmFWZG9xUS1MbUNTME5HNGRZdVd5eHY5ekQyLVkzaWRyVmlYS1pvUWhlTF9IZ3V3N0dBek5FYXFqd2dxbVE?oc=5",
-      "source": "UDN",
+      "source": "udn",
       "published_at": "2026-09-11T07:00:00+00:00"
-    },
-    {
-      "title": "中國人造纖維 | 1718.TW 股價走勢與即時報價",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE42Y2pjemVPM3ljRm1IVlJwV0U5U20zb2VER3huTG1jSVdNa21XMGxPYjNsdUEybnEtLTBua3lNYW1aUW00SXM3VmdXVDRtQXl0NkFPTw?oc=5",
-      "source": "BigGo 財經",
-      "published_at": "2026-09-10T20:12:24+00:00"
-    },
-    {
-      "title": "China Man-Made Fiber Corporation的每股帳面價值 – TWSE:1718",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcWFOd3k4RmRTTFlJaEJUZ2twMUNhQTlCZTNXV3QyODcxQWNGb0dHaGppbUZpUGROWnIzejBlNE9BTXRlYlpxMmVQOEp2RThKNkZCVmo4ZV9CVE1JNnpHZUhJOEdnM1hBTVM4dDk1YVBhai0zNzE3Sm5pMEc3T0N3UzhxMlZKcGRabjFRTDJTY1JkczhIYU1YUGc2aTV5OFdy?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-09T23:44:41+00:00"
     },
     {
       "title": "【12:47 即時新聞】中纖(1718)股價上攻4.33%至10.85元，資產活化題材延燒＋外資短線回補推升多空拉鋸",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeXY4UHRpOWdiLVFnR3Vwb25SaXdmWUZPUDF0c3djR1JITjZFd2RsQk00RFJhZ3RSVFcwM081aGtUZXdhUDVHWk9XWnBGNjliTWJKU3BqcWZHbC1nV3pnamx4cU1NLWpUWGNkdDAwdHNXY054bmdFTlNaN1d4RkFwXzdzV01iTWV2LVpzbU1R?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
@@ -48,22 +60,22 @@
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
+      "title": "1718 中纖- 破月線- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02NFVyUUVlVVdBMXhMNEhwRDVjNTF5WFVwUXFfS05UcUNQX0M0VlJrbURmVnZzc2NaWE41MVN4bkNKTHRQdkdzeE9CSEluV0ZhOVY2TUxRYmg?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-07T07:00:00+00:00"
+    },
+    {
       "title": "中纖為何要申讓台中銀股票？",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVXRGY2VYVUQ2aW05Q1EyVDA0NjBlLWduNjdhZy1GaHBBemFnRjhOUEJITkk1czFnZ252eGNORDRJYjJMRVNKRk5MTEJKWEV3Q20zZHgxbjNqLW9FVFZxZmVnWkwxTkJZaHVmWFRaWlRqYlF5VlduQWpSWmpjRm1tOTVVSDVhSjFJZV8tclVlM25pQ3RwT2t0NXRR?oc=5",
-      "source": "UDN",
+      "source": "udn",
       "published_at": "2026-09-03T16:46:04+00:00"
     },
     {
       "title": "中纖再申讓台中銀8,145萬股 持股比例仍為最大股東",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41dGlfRWtHVTRhWEdvQUU4Z3NLRGZzLWVXRzdhS0stVjg0OVQ1MFlHNExvQVluNnVWNWJMR0F6OFZfUE9JZW1sRnlyNks2UHY2N0hsRGRPVmRKUdIBX0FVX3lxTE5veDB3ZTVldGh4N3VIM3pRTzhBX1ZGd1J2SHpDX216dmNlTlVXa3ByUkZmVTBWWjZ2Zi1NZGRKbGdZdExJSk1nUDRuSm9sdU5YcE1haXVPcjZkVjRkVkhZ?oc=5",
-      "source": "經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxX2ZFN0hvS0NBelZTLUhjNEpWM1hraldVb1E3UzlGLVd3UVdydktuSWJIS002amxuWTVrSlgzdVk2UzNlX2tCNF9kWjhya2JS0gFWQVVfeXFMT2IyNmc5UVlHMGV3OXRBd1g3alJMQ1RmcS1tQm9GY3Z4RmhqZXo3QWR3clpZN0l0SVV6THNLeHBxMUs4c1p1UFhjdVp3bE5VVTBjYTF3QlE?oc=5",
+      "source": "udn",
       "published_at": "2026-09-02T07:00:00+00:00"
-    },
-    {
-      "title": "中纖此次申讓台中銀股票數量為何？",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeTdRS0hXVmRFNm5MdnRYWFhEREdERjFiN3NSNUpHa2RhOE9JaDRrT3RqWE15d1llNjUwdW5FcEtzVEJQcDZvcDk1a2JjR2o1SUo5VmRnYXFmUEFMSnMwbDNDbks5ZjFSMHRTWkJHNFJhNHJjT2NXdFJCRjEzazVfVEV2bTNycEgxTXZVQUtnNnFQOVRTR05sNDlB?oc=5",
-      "source": "UDN",
-      "published_at": "2026-09-01T07:00:00+00:00"
     }
   ]
 }

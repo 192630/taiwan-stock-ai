@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-21T12:36:33.369348+08:00",
+  "updated_at": "2026-09-22T13:33:55.205500+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1583",
   "name": "程泰",
-  "count": 2,
+  "count": 4,
   "news": [
+    {
+      "title": "《集中市場券商賣超比前30名 3-3》程泰(-19.24)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONjFWMFFKMkxKckY4NU1hREd6S1U5bzRHZ1JLUXZ2R0YwdF9Gdk5IQkFqc0tXTUEtazBfOE1qZG5rdUVJNGxBTHFmdWxDcndFeGpKaUZUVG5PN2hKYXRvYVB6YURtczhCT0x0bHRZVGp3VXhnM1hRRENtNUhQYXd1V19VaFNuSTNy?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-21T23:31:00+00:00"
+    },
     {
       "title": "工業富聯股份回購實施完畢 斥人民幣10億元買回1583萬股",
       "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPYTFwNENCSDQ5aFhGbzUzNlpRbl9sNk16T0x1OGJkSTk0Z1BfNjNVZmNvZGhIdVZsQk51cXhtRlRqRUtvM2MycXpxLUdLaHNwMEpWdGtrM0FndGVKVW4wUWd5by1jMjQtbnNwQWduS3dTNm5INWFYY1ZRSFgxcTZWcWNvUUczenphMzZRT1RjNGxzY2NaODVYTHI2S0JsaEdfTFJTcTNQenIxZkgyR0NiaEl5eHFSbTFWYm50bk5OUFlzakNycU1IX1BmX2t2T2hDTW1qTlBJdi1uaVVjMXZHeFdZZk5pS0ZDWGVpbl84YVdQXzA2YUFXTUl5Nl9IcHFtbUtXQ1dkZ3hLNHpLbVdKUlliOTR6T0lVWEs3TXhyczRkX0pZd01GMjJreXZEMHhhT3lWN3hMWEVmLXI5QjZRUng1U1BLeEJOMGM1QkRYOG94ZDg0TDhXNmFWQ1ViSDNpelVKelF2Y1czRWsz?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-19T00:49:21+00:00"
+    },
+    {
+      "title": "1583 程泰- 程泰115年8月營收3.37億、年減10.14% - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xazNfODFzVnBuOXZCYmVkNGE3UmZNQV9BNXp0d2MtRkZVWHd2akhEODl6QnZHLTZXSmtKOXZTNDJMeHdITlJRRWJJVzZMQVZNeVRybjhFX0Y?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
       "title": "程泰集團取得伸興5.1%股權 楊德華：純屬財務投資",

@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-21T12:36:34.694922+08:00",
+  "updated_at": "2026-09-22T13:33:56.631751+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1587",
   "name": "吉茂",
-  "count": 3,
+  "count": 4,
   "news": [
     {
       "title": "【2026/08月營收公告】吉茂(1587) 八月營收2.11億元，營收雙減，年減1.96%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV2c0UWtCM2lUaFJXVGFWOTVzVk5Qa1BCTEpqelk5SkVNdDVxZmVrbkJQZWxiNW5pY3Z6THBFN3E4clhGSEZLRmNTbG9ocm1zX2NyVUFQSk1ubVA2RElqcFdvbG9PaXFlMHpQc09PUXJNbFBLd2s1aG0wMmhZcGpmclNPMTdpYjJoSHc?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
@@ -16,6 +16,12 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xMWtUeC1uLVN6Yk5KVzRHcldaUThkY3VuaXM3bmNEem1tOVNSVDQ3R2d4V19JcmtxdmFhblROam0tdGJ1Y2lkYWlaeVJrNHlqb09RSEhHRWR1WmJMZXpkWjJ3aWdOdVk?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
+      "title": "1587 吉茂 - 庇護工場中秋訂單受衝擊亞洲航空響應訂1000盒 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TNE1mVnQ3QnhHRlhsdVotRjd0WHpQZ0lGSG9KaEs4VnRmV3dudzJLMlJHUHRnb3haamFHVWVXanEzZnNzTk1GQXQ3U1hndDBRaDNkQTBuRDk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-08-27T07:00:00+00:00"
     },
     {
       "title": "1587 吉茂 - 中秋送禮也能做愛心！台南7家庇護工場推特色禮盒黃偉哲籲支持- 股市爆料同學會",

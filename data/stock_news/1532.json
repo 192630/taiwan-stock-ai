@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-21T12:36:24.593726+08:00",
+  "updated_at": "2026-09-22T13:33:45.814679+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1532",
   "name": "勤美",
-  "count": 5,
+  "count": 7,
   "news": [
+    {
+      "title": "3443 創意 - 創意報酬率1532% 個人紀錄文2026/9/21 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XT3p6MmxrLWFVS0tPZ1IzQzdXQmhWS3RHd0hzX1pyR09ZTjBIY2lTeEhoekZ1TXp5SGxQczZzZDczU1VCdjVDelZ2ZTRjVlFET2tKMzJxMk0?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T07:50:53+00:00"
+    },
     {
       "title": "勤美璞真躍租金最貴豪宅 實價登錄顯示月租金55.6萬",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhcVFqMnJuUGtqTGlrVGsteHA3ekMyQ2NwaWE2TVFDdUFTV3JTMzVuckJodGxFbUdEcDZVOEFwNmlKb1pMUWZiWW1zTkR3OXRnTGxvY3RSVU5xNUZl?oc=5",
       "source": "udn房地產",
       "published_at": "2026-09-09T18:19:02+00:00"
+    },
+    {
+      "title": "「勤美璞真」月租逾55萬躍北市豪宅租金王 原來租客有這些盤算",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KWGQtOWRXVjNONHh6Q21STy1WNkRYZzQxVkIzaldscmF4b01pRl9hWG4xaDBoT2ZpZUNuTnNtTEhxUjRVeWJqdU9IdnZUMU1x0gFWQVVfeXFMUFktMUE3ZUY2T2hKemFxaGktb0pSSl84VXFIaUpBWFR1Ui1meWtackt2eW5idnJDbkU5SER0b2cxR3FzS1dFa0NyN0RsQ3FrSVB1cmFUWmc?oc=5",
+      "source": "udn",
+      "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
       "title": "〈房產〉「勤美璞真」單戶月租金55.6萬元登今年豪宅月租王",
