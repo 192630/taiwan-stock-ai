@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-21T18:34:12.909731+08:00",
+  "updated_at": "2026-09-22T19:34:14.695008+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3168",
   "name": "眾福科",
-  "count": 3,
+  "count": 4,
   "news": [
     {
       "title": "眾福科多項新品Q4放量，H2營運看增",
@@ -14,7 +14,13 @@
     {
       "title": "眾福科航海產品出貨旺",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE56OGRrMklXeGlzdzRUUEpFVVlRSmI1a0tPbElwLURQeUdwenZNaWVVTEEwbThLSzRxcy1GRm9ZMjlaakVjZzVCS3RRTGVfN3RO0gFWQVVfeXFMTlpPTWZDZm9IUHhXREloMXJsWkY3dmdjV3dXamVUU0RWYXVoQWRPMEUwTGZOYkJaOTktMWk0ZWdwTF9LOVExcVZ6MTlZWTRhM2FxMXZqUUE?oc=5",
-      "source": "udn.com",
+      "source": "UDN",
+      "published_at": "2026-08-25T07:00:00+00:00"
+    },
+    {
+      "title": "〈眾福科法說〉明年營收可望續成長拚獲利優化 提前備料確保出貨動能",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GcHdIR1dUYThxWUZXaXhGazlGUHUtSWVkMFVOOTlEbmhKZm4wYkRJa1BpQjN6eG9HZmw1NTdWbGJzd1VjZ2RjWnMwNnNVbWs?oc=5",
+      "source": "news.cnyes.com",
       "published_at": "2026-08-25T07:00:00+00:00"
     },
     {

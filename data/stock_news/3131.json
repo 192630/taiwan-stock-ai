@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-21T18:34:06.513542+08:00",
+  "updated_at": "2026-09-22T19:34:08.229481+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3131",
   "name": "弘塑",
   "count": 12,
   "news": [
-    {
-      "title": "千金股解密—弘塑3131",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MSm9iYjhJb1R2YUpVR3ZLT2kyaEtEMUtVU1hFS0l1TXowb085Q2pyZFFMWmlpLVhNSVVuY0M4N3B3Rzk3TFY2OVd0VVFvQUVMSFYydWF0TjI?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-20T23:47:36+00:00"
-    },
     {
       "title": "討論牆 | 盤中速報 - 弘塑(3131)股價拉至漲停，漲停價2485.0元，成交389張",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zVkpFWXRpNERRVnUwTlc0NVZ1VDYwekNaTGNXSGprbkpnaXpkaUJQRUs3MHhwMWNZVmF6Mzk3NHFjQ2JJN2dlZUFMRlNfVndDZXFwcnJpSGVKRkd6cGNVT0s1c3U?oc=5",
@@ -38,7 +32,7 @@
     {
       "title": "弘塑插旗美國、新加坡",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfNERVVE5lR3N2SzloSUNBa09peDlwRDRfMG5kUzlBNFAyRHphcHBtNkpCcHE0SWRQMkRuN042MEpDNTNpelNIeXJpQXRJYzNL0gFWQVVfeXFMTXh2NndZX2RKSl9SZV9DWDRoTmY3R1A0ZlFIQURLWTJNSS1wbU9LcEN5MnJZRFhGUjRIcDE2UFBoZ2hIY2dRbjc0YkgwcTlCWlZpdmlVZlE?oc=5",
-      "source": "udn.com",
+      "source": "UDN",
       "published_at": "2026-09-16T16:35:10+00:00"
     },
     {
@@ -62,7 +56,7 @@
     {
       "title": "弘塑攜手德國Singulus 搶攻半導體先進封裝",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YcjNFZUplakhHTkVYSEZYbWUzdzB6QW1xTG1ZV2xTY1lnY1I5WDhWcjZNSjFsUGd5aU95VGxzdWptZzFIMm9zQTV5VE1NYnNUNlhCQmM2ZFA?oc=5",
-      "source": "自由時報",
+      "source": "stock.ltn.com.tw",
       "published_at": "2026-09-12T08:25:48+00:00"
     },
     {
@@ -74,8 +68,14 @@
     {
       "title": "弘塑、辛耘接單看到2030年",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DS09Sd3hxTGZqXzVCa2dIUmxoZTBuTTVJYWVyVmF3VXgybTBtdnVmVFhIYWpEQXZhNkVsZTNtSnc0YVFFTEdlYU5sLWFIM0l4T3JfZXg0NkE?oc=5",
-      "source": "自由時報",
+      "source": "stock.ltn.com.tw",
       "published_at": "2026-09-11T09:33:54+00:00"
+    },
+    {
+      "title": "【00405A】09/11 操作日報｜大砍一半弘塑換手轉進愛普",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9pNFNJeGRGeFhRSmxGMjB4UWFCbGVxMXlqOUdkX0hNbE9rVGF3bUR2WE9HZ29wQVlvdk02SmQ0Q2Q0V0RJdUdaMkoyMDgyVnZCRzBWX1RvbmxtS085VG92MGRQTDZmUzR4SUtXdkhJTk1uTkV4US00cWtZYWtyZw?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-11T07:00:00+00:00"
     }
   ]
 }

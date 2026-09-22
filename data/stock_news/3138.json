@@ -1,20 +1,14 @@
 {
-  "updated_at": "2026-09-21T18:34:07.457439+08:00",
+  "updated_at": "2026-09-22T19:34:09.240341+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3138",
   "name": "耀登",
   "count": 12,
   "news": [
     {
-      "title": "耀登(3138) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmY3VnZW1mOW1pT0pkSDRXMjZsaWNHc2QwcjJ6c3Q4YjdPZXBJYjJrZmp0X3ZsX2NQMTZWOVBOM0ozZU5mMGtjUThKMGJjeS04RXZB?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-21T06:45:01+00:00"
-    },
-    {
       "title": "低軌衛星與太空軍題材點火 耀登周漲21%重返百元",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uQ0E1cXRhRXF5M2VFa0dCbkFnWlhRdTJLVkNfMEtkME9iTjF6WUZkak9BQkpJNHpwdHRScTBMN2dHenpyQV94QVFfcmdWdGgwYVF6bFpydkJRXzBLNlVXU21Qemx5U0dHNVZwakhrZ185T09oMDNIT2lR?oc=5",
-      "source": "BigGo 財經",
+      "source": "finance.biggo.com.tw",
       "published_at": "2026-09-19T09:05:00+00:00"
     },
     {
@@ -22,6 +16,12 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQeFNXQXNrM29za1piU0hicEp6UlZ3QU54VUJmSmlEeGZFVUgtUXpSbTNaSG1EUDREQVBLNE5BSnU0akZzdFJzajYtYjR2bE0?oc=5",
       "source": "news.cnyes.com",
       "published_at": "2026-09-19T00:29:47+00:00"
+    },
+    {
+      "title": "3138 耀登- TREASURE香港演唱會驚喜不斷獻唱〈告白氣球〉廣東話「我愛你哋」全場尖叫- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05bE5vZEJITXJ3QkFuaUF2U18zUGFzRFFRSnZZalRBdHczTnFpMEh2ZFBzNEpFRVljQzhhS0lXa3hVbTktTlZJeThkYVB4aFNZTl96WmI1X1M?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-18T06:02:18+00:00"
     },
     {
       "title": "《熱門族群》迎SpaceX第14次飛行測試 耀登、萊德光電再鍍金",
@@ -38,7 +38,7 @@
     {
       "title": "SpaceX逆勢大漲逾5% 低軌衛星鏈點火！昇達科、萊德光電、啟碁、耀登接棒升空",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZUzNUUDhaZlFiMUFlb1liX1hLTDQ1LWxRN081VWJ1U3Z5QU1mYmpQRVZSdlhKcVlhdUJzZExiT0ZNalZjQlVoX21Lc1doQ0tVS3hHekJ1TXBrWnozd1MxRTBlaWVmVV9YSjVQZ3E0UQ?oc=5",
-      "source": "moneyweekly.com.tw",
+      "source": "理財周刊",
       "published_at": "2026-09-17T01:59:34+00:00"
     },
     {
@@ -62,7 +62,7 @@
     {
       "title": "美國「太空軍」首度證實部署武器 穩懋、昇達科、萊德光電、耀登等迎商機",
       "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPaFhQSFdBNlJTSEZhZFBiSkRocWFtWFdSRE00ejl4eWJaVUxLNXFqdzJjbl9nZU9xeWZJRDdES1I5MkhXMk1VY3RxUFJ3RXQwWGI4LW43REUzOGhYclowek1GN3hiWUhNSWZSYVZfNTBzMUViUkZDWGptZGhvM0JveG5ldzloMEZZMndXTDRZUl96c1dybVBwbW9xWWcyaHdSVmJIdUJQT0h3dU1YbXFCaVpjOWs4eVpsZVJMNDJHdWFyZXFTQUt1WlVPQlNfNVY1Y1BnSHZhWDc5MjljN3pfaDJyNjdvSDhwWFBXX1hDc2o3Wl9jb0t5U1o2anNxWDZZN0hWVDJUTmU2MjhHbmxyN25GMzFFbzlLUGduQldlUVlBcjg2Y24wQnpWYWFjWlF6?oc=5",
-      "source": "Yahoo新聞",
+      "source": "tw.news.yahoo.com",
       "published_at": "2026-09-15T22:40:40+00:00"
     },
     {

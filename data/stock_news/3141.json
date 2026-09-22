@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-21T18:34:07.914455+08:00",
+  "updated_at": "2026-09-22T19:34:09.704270+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3141",
   "name": "晶宏",
   "count": 12,
   "news": [
+    {
+      "title": "《股市行事曆1-1》晶宏五(31415)上櫃掛牌",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONUcteWFBZFYtMGVoQTdTT2FuX3RyNEVjNVV5dkViZXF3RFRqTkR0cnpMdXdNdlg4eDVnc2sxNllvd2NFZ2N4SlFIRFlUSHFCa1pweFVuOVVzYXZfR2poa1Rpa1RvSmI0MGVmd1BuVVQyZ2YxeUVlNk1acTllNkYyTGN6ZG56WU5t?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-21T23:39:00+00:00"
+    },
     {
       "title": "3141 晶宏 - 拉上去就賣- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sRHFBSHV3X0lRZnZDMy0yMXJsam44N2JNSkUwRXhHaHNBb3FHS3N6dzQ2a19Rc2I0V19uZnYzbld1RVBsUE1vUmc5SnJJQlZmcWhjSTZUS0I?oc=5",
@@ -39,7 +45,7 @@
       "title": "盈餘：晶宏(3141)股價遭警示，自結7月歸屬母公司淨利4300萬元，EPS 0.58元",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVExxZ2U2TzhuckFRN08zbjZlWUsxVEdCelVMdnQwZjFPZlJPZHZ5YUd4d2psWTItYWkxRWxPMFVsMFNJd0tyVHdvcTdpaXMzc2FCbXRVRnhneHYxbS1RU0pPSnR0bHNFVjdIa2U4eUN2eGd6b3ZxdHU3S1pVcXdQT21LaWZoVzdO?oc=5",
       "source": "富聯網",
-      "published_at": "2026-09-08T07:41:00+00:00"
+      "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
       "title": "3141 晶宏 - 掌握主力動態！1000張大戶持股增加排名1-5名 - 股市爆料同學會",
@@ -70,12 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOREFibndfNHdyRF9QQUtydy1VaVlUaVR6VXJEeTZJZm5KYjVuX0ktZWowc3EwOXFwcXR4eVA2eHRMRklhTkhlb2JwVjJIcmhLQWdNUzY4Qm0wT1B5QUlFMFdseWlyd1ltNDFNcm8yMGdaNnBrMUVwejM0Z2E3N0tUWVVYQ3hpdFhiUzZXTVFn?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-03T07:00:00+00:00"
-    },
-    {
-      "title": "【09:45 即時新聞】晶宏(3141)股價大漲至99元、漲幅9.39%，IC設計與ESL題材帶動買盤續攻＋外資與主力連日買超推升多方氣勢",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaWlmRVFSYnNwaURMNGI5QXprVDk5M1lOM3VxT0FPakp4SDZfQXAzcnlidFBIXzdNd1ctdWNiVjlFbUphajNfeGIyeGZHbXBZdE9JYjVDQllYSVlzMy1mRGRpYUlieTRXYjJTenJiRnBaS2Nsb2VWYllUZVdzV1NrX3JCdTFoaXQ1X2RPR0Rn?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-02T07:00:00+00:00"
     }
   ]
 }

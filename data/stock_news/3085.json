@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-21T18:33:59.535144+08:00",
+  "updated_at": "2026-09-22T19:34:00.760065+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3085",
   "name": "新零售",
-  "count": 3,
+  "count": 6,
   "news": [
     {
-      "title": "中國新零售供應鏈(03928)更改財政年度結算日 作者 智通財經",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GWktDc1l2ZW1fWnlZVzVjcDQ1ZzdMN3FhRGFxdm1mWnRSTmZjaTk5R3VWai1FRjh6QnlGZ2Zoc3JfS3VUTnB0eEg2MDI5aUZxLWEtYXJGNGVpaHctZlQwNjl5YkZlamxKOW16YWpKY08?oc=5",
+      "title": "特力屋13萬張訂單奏效，管家軍團打造新零售高獲利引擎！",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Ld0t0ZGlmaUt2NzRjRnhOdGlmSElQWDNzVWpicWpWRzV3VVBUVjFnR2RzYTNPWUpSaEt1VDhtVzJxMThDS0FiSHNuWQ?oc=5",
+      "source": "鉅亨網",
+      "published_at": "2026-09-22T02:00:07+00:00"
+    },
+    {
+      "title": "Oportun任命新零售長及產品長，強化領導團隊 作者 Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uME05eGVKTzZUNnBiTFVBSDV4M1dYOFpNaDZmbmxCNUpRbDJxdGhFaE93VGU3d1hFU1BaWDNwVklKaE9LeVJhQTE0RWlkek5uWV9SejhfZmw4M01DT0g5cVpqb2JNaF9Gclk0WkMwNm8?oc=5",
       "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "published_at": "2026-09-21T08:47:39+00:00"
+      "published_at": "2026-09-21T20:25:10+00:00"
+    },
+    {
+      "title": "中國新零售供應鏈(03928)更改財政年度結算日",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFJnRWRpMi1FSWhiT2MzNkU5emRabUxuT0MybGNSVW4yTFRGWUNNbXNiTHNGMk1ncHNiMUgxcEVoMTR6WkQwSkpLVkxqZFpPTmpIRjJvYUozNFRWTTdSLWJwRG9ZVHlCTzBpelFCcENBODIyY2Q3cDBaQVhWRHJleVVCc1UtT0NrU3BHYURiU211NjVCTkpkM3dZb1Itd2pONUtNdGZYOGUyQQ?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-21T14:49:12+00:00"
     },
     {
       "title": "零售通路熟食商機擴大！年底將開出逾六百坪最大門市，新零售佈局挑戰成長一成-財經焦點情報站",
@@ -21,6 +33,12 @@
       "title": "個股：新零售(3085)減資換發新股，舊股最後交易日9月30日",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaEtyYU5pSWJVc3Q2ckNkZ3UyaTlYY0VCMGtlT3FXQkxXY2VZb2VUVmd4WG1MX19jcEVpb2NqUU1QZ05ZRlNjTTBSdkJ3c0dhT0gtdVRoY01UOFEtNUJPMUlXQlRpOUVRdkNYaG9jX0VjMlg2TXlVYW01bGExQWx3OEFLamhvdTNG?oc=5",
       "source": "富聯網",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
+      "title": "微風25周年慶宣告轉型 三策略啟動新零售布局",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Sa3dkaTZZY1lHWll5cExCXzVfSnFmamJLX2ZHRTVabkFVdnRKLTBmajBRRkhkRE9pLWlEakx1RTN2dVdtODl0RjVuXzN0T0xX0gFWQVVfeXFMT3c4UXVySFNMdG5NMmhpeXFMTXR1Sk9UUkx2dDlkcXJlWms0bDN2S01icW1rdDJqMURuR01uMERBZDJyS2k4Y0dqVFl0Zy1kN3BBOThab0E?oc=5",
+      "source": "UDN",
       "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]

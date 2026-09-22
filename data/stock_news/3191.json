@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-21T18:34:16.212956+08:00",
+  "updated_at": "2026-09-22T19:34:18.187146+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3191",
   "name": "雲嘉南",
-  "count": 9,
+  "count": 7,
   "news": [
-    {
-      "title": "半導體廊帶關鍵拼圖！嘉義市「西區大發展」打造雲嘉南產業新都心",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kU3JBR0lRd0Fva2VfZzhfN0JkZVI5LU1YejZfOWdsbjRsWW9NSTZnRDB2TUhRR0h0UnRNZmYyZkFMODJ0NkM4SE51cGZGbjVWd0NNcnpmQ1pPRjVBZDFyaVUtcHkxcE9IU3Fn0gFwQVVfeXFMTm9NRVhSLXJ2eWtlRHM2cDdvdnhYLWQwM1VwNlNZSldLNGZWaXlKS0lrZ0FRSGVQVDVvM3I3cjVqSVdDd1JPODdlb3ZUYXNDS2FRSWNwaC1FZkhRRVkxamhoNUZnNi1ERVBBOGxZWFRFRg?oc=5",
-      "source": "好房網News",
-      "published_at": "2026-09-18T00:55:00+00:00"
-    },
     {
       "title": "2026鯤鯓王平安鹽祭 雲嘉南管理處徵護鹽騎士報名至9/30",
       "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOakozN1VJblNobFNQR1NLSGZTM05WekZ2Q205SUxHdEQwME9YMnhxVVc4SXRNazZCOUtidUpSQVl5dUpBRUZ1ZmVRZVpZeldoNDRXVUU5bjhxeGJBLWo2ZEFHeEtvT19zY2RjNGY5SjJpX0JvYU53M29yV3I4eHJqSk1tM0pRNmZLbnBJV211MkF4NzhUNGtiRF9RNldMQVp2R0sxZ2dpeGY4V2pwMWJzNVZVQ0lmTi1FYXFVQXV6RXl2RnN4OTNETllpYnowdVRKVDFTX2dqVF91VTdCemdEWTRGbS05Z0hRRDB2N0xTbFFhQXdUQ0lmekV5eGo0UURhbmFCLVd4LWpJbGpaNkttLUdmc1lNUTZsc094UFRZQjJ5cHMwNkY4YjMzYmFFVU9FeUM4Q3YwUTFFSmtTUWUyUzNHMmw3c1JzdExhZHdCNWZYLXB0TWd0Qg?oc=5",
@@ -26,26 +20,20 @@
     {
       "title": "雲嘉南首家 新樓電子處方箋上線",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMFRvR1pQVjFVSVpiUW5ZdnNncFdCUU45X0xic01uUUJkYnZaR2dVMFVBbnd3OEtYNjZzSFJWZHVwVnhtaHlkbUttdEZjcDl3OUd1QThWOUxrRWpzZkxJZ3djY2gxVEkyMnFwNjdIRmJmNDNXQmhPVkxsbWRwcTdZOUpWOXlCbTFjYjZQdXhYWUlSaTNXQWVtMXFFMHl2ZV9BRVhtVVJqbEtiS3JQQ2RXTXQxN3YydEhWVXY5SmNJYjV6TVNUc1U4N005RTFwSUNJelBiZnBrc1pmZVFpOXpFZFF3OVJjdzlmMHdaV2hmUE1qTmM5VExHSmpHcWI?oc=5",
-      "source": "Yahoo新聞",
+      "source": "tw.news.yahoo.com",
       "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
-      "title": "雲嘉南分署銀髮中心辦企業參訪與職能培訓 助中高齡順利轉職就業",
-      "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxQR0NNUWJVN2ItUjFPcV9LSEVlb043S3ZjSml0X0ZpT19ObFRRRXVqX19sNWtldGZId2ZGd0VDdTlmTXNzOVZacHZSaWk0eF9LNUdKNHRrUmFRNUdWWFA3TW5DU1gyNFpGb3Q3YVo2MmQtN0pyN3ZPUmh6RldqN1pDaVdKakhyOWtNcF8tSm45TEI2VC1UaUE5T1FZTHJ1WERBc3kxZno0NjNnT1NVT2ZvVWZSb1drLWtUZXdBZXlqbkd3YjZyVlhxYWVhbVVHdEQzMldTNTM3Q3I2SnE4bWFpTTB0emkwUVhMLUlPZTFDTnBNZ3BrcUVTWlp2TTRkN3p6cElHbFZQWEtxc0Z5QVYzRU9ZS1RyTGcySmkyT0hOVENUOElXZk5ISG9aS2c2U3Zrc3cxX196RGJIbHZoVk5zUWNKSmduUE8yZTFqWFV3T1hhdjlUS3ZuTTJVaEFUZExzaFg4TFJWdXU1aDlTQldUSjdaa3hDM252NmllaXpzUzRHMU9XeUh6RGE1S0NRNnRnS1RoeUFlMjFuOE1QOVlSTDM4NU5WSHBsanN1Nk5BUlQ?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-08T07:00:00+00:00"
+      "title": "雲嘉南首家！ 新樓醫院攜手健保署首上線「電子處方箋」手機掃碼就能領藥",
+      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxOVzlicG8yYnM3el9sbmgtRE1lY2dGOUFyWTJ3RWlfMy1WbXhGRWtDNjVRZnp6Zy1HRjYyVG1iN2oxMVM0b05aQVl6clhuRkN0ZWp6YklHRHpxUmlEZjJzWGtqMllYcTh1SWVsR0xJREFxV1d2VXZjSFlnUWEtSjlqTnA0dUVDdUR1SnFpY1ZTXzBfbVR4aGwyWnZaV2lpdHpKWjB0eWMzNmpmbUVWTGxlMzBQOC12Rjg2NjBQUnVEeDRwYjBWWG11eEZYU2NrWWZKNlk5bjZMQ1dMZ3U0eUFsaDdnYTlLX1gxbGdta3RLaUZ4OHVkWGFGd3M3aDkzd3Y0dmdxYjJOLWVQQnF2Wk13Vm9wVU5BenQ4dHpzMGR5ZzVzRm1ldUhVb1Q4ODE0cEhweEctTEZ6Tk9rMFdHdmRWREtEZ3lnWkw2M2RsaHE1UnpyVTU4M0VGVXVScGVlOFJPeTBNNU1pcG8yVnNlME1xZU5CVUhDeWlCRU1BR19vdnpJRFRWN2JKR2VuT3BYbmJmbF9Yd0lDcy0wRmFBajBHR2JVdUctdGxyTm96ZnVMQWIxTkZ0cktfVXRsd1EwdU0?oc=5",
+      "source": "tw.news.yahoo.com",
+      "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
-      "title": "婦女再就業獎勵遭冒用 雲嘉南分署澄清防詐騙",
-      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPU2NHdVpsSlg2c3RZdzQwN2d4ZHpOVmxKUm93dy1ucjg2cm5wbWhIdlJncGY1TzM5bGVoU2pLOGQ1eGMyeE5COTEtMVBqV2M3OGQwSDMyWVd2TjlucHJobVlZMXpLRmJwbk4yYU9yYmZJNXpOQlFyOXRvaml5Mk9hTXoyWFZGM29kbm5ZRURSS2NKNndCZF9mVVNldldyZ2l0aFVub3kxdXFOM3c2MDRBLUFQYi1lc1hYTDVfYjB1ZkhVQ002d0t4cUJlWnRRdlhWNlNxSVV1aHNCbzJhZ25BSmpITm84NERTUHV4VERDNTBQN3Jqa0xjZldDNUtINWhZeU9QQXpSaEJ5SXhZWlQya0p3WWdvaHUwdUFKVFc5QXhlRUk1YnNvbWRDb1FONEdXWDBnTnZvWGRldWp3UlpROTJNS0c?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-03T07:00:00+00:00"
-    },
-    {
-      "title": "連日雨害 雲嘉南牡蠣受損3成",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOelVNX2FrV1N3NmtraDg0R3FxTHh0RFkxYnBmZ0V0YmdvN3pvMTVrcU1Pd00yM1lmek5FTG5VeWhlZ01QZlNod3F2MVlySTloVFJKcHZ5SDlQR1F3ZUdHWklpOWJkZFRUNkZURXJRRU1xRm5hQTEyMjA2ZGt6OXVqRUg1WFFLSV9pV3I0ZzdwbE5vNTNVVWZpWUR0N0RiU0NkMVVsc0tzN1JqSDdKa0pleTB6bUtheklJZ3FYaU14T0ZfS2F1UDRBMmwtcGNBTDBFZVB0NGlpUHctVFRlMzdzaGRMeGxCQQ?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-03T07:00:00+00:00"
+      "title": "「婦女再就業計畫–自主訓練獎勵」無須繳交申請費 雲嘉南分署籲慎防不明招攬及詐騙",
+      "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxPQTF4QU8xVHlLeWFCN3VGVzJvb190X25wemxpenRsTThzQlctMVlkSURvYVQwX19JZEcycDVwVGxrLUhKdTc4VkxFUC00UHpWOEpIQTBHRFJMSXhoZDFGNXZUQW55V00xZC1NTVpiQVNQcnNnb011b2l2UGVwVkVQc002YkpBNk5DVTJpNnhVVEszUFFtNVZVbEJHZ19DZkFjY1VBUU5oQ2Y3TDFKX1VuV1p4cmpCLW9oNDFYaXI2eEQzTDlFNkJFU015VGd6ckVMMnVDM0laUDVMM0tzZHVCdUVSbEEtZzNPTGVENDU0MEtOZUd2dEZtdkRhTzdvY2lWOXc5c2NaWEJ2dFR3c2VTZjRNZXpndkN6QllKazliT2toZHp2M2Q1WWwzWlg5eXhCNk5ocHBBR3VBc1V2UHozSVZRc0FxZExjbm5XekItZmdBcmU5MGFvOVZpWldPTVAteGJRQ2YyX2J5aXE3czdNLVA1MU9GeFJXc3dmMnVZVDI4a2JNaGFOTVZPaDNIRTExa1FiTjVHaXFTUVlySFh6cWJFcVFFQ2tVZ3RnMlNoU080em04Q09pQ2E0enNxdVI3ZzMzWjdvVTYyLXQ5MFBsWm5Vb0VBZG1ndXJ2ejlpbVNwOU9ySTNFU3pHanhBOGpVdU9CbFBuVThCZk0?oc=5",
+      "source": "tw.news.yahoo.com",
+      "published_at": "2026-09-04T07:00:00+00:00"
     },
     {
       "title": "Coinbase Pro 24 小時流出 3191 枚 BTC",

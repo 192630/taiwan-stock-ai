@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-21T18:34:22.489129+08:00",
+  "updated_at": "2026-09-22T19:34:24.644439+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3228",
   "name": "金麗科",
-  "count": 3,
+  "count": 4,
   "news": [
+    {
+      "title": "深度解析3228 景旺電子指標與財務數據(PE, P/B ...)",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TZUZCWDJpM2tJdjIxLVFzN1o2bWw5MmhfaER4dHRfXzRHbWhkUkJ2emNFWmNoOGNBWEYwbFhaQWZNa3N6LXJtdUZiNjRXUQ?oc=5",
+      "source": "sl886.com",
+      "published_at": "2026-09-21T22:27:06+00:00"
+    },
     {
       "title": "【10:08 即時新聞】金麗科(3228)股價勁揚至186元、漲幅8.45%，受IC設計與CPU題材加持，多頭動能延續配合法人及主力買盤支撐",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOFA1WmhBeTdQLTlfYTNlZ2JGdEpsRVZ3N2gyOUhfbDNENVo4UDNmeEs5VXBiMUtkSUJqdFd0Ym9GRUh4OXZnUUNXTHVXNjlmNWFQZ3JsZEdrZ1h4ZllkREQ1ck10WXRBR1pxclBZZzk0eHYwT1ZtQ2RjWkFMcGdXOHJJZ2FaQ3ExY0dmblBn?oc=5",

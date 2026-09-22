@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-21T18:33:55.476362+08:00",
+  "updated_at": "2026-09-22T19:33:56.378892+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3062",
   "name": "建漢",
   "count": 3,
   "news": [
+    {
+      "title": "3062 建漢- 建漢低軌衛星題材靚- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WYWlWSF9NN2Eta1FrRTVieXQ1VC0yY1BiaHJFbUhqR0NOMmJvSXRlVTZYSWl5aUZCRFhiMG1ubWxpTTVPY3UtSGZBdXY1am8zSWhSNGw0QU0?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T09:41:56+00:00"
+    },
     {
       "title": "【11:36 即時新聞】建漢(3062)盤中大漲，市場聚焦衛星通訊持股動向",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOHN3WnJwYzFWWmdYNW96S3lTR0RmV05XbWJIbFBxemlRemZUZGswdy11bnV1S1pqNldTS05kcXZvY3BSeGJVeTd2N1dyWEJYUHFVQ0p1X0dEaHItbktidUF1RGdOVlpHcTlPYjRDejgxc2pCb2RKd1NOdW9LaFd5NGFFbGhfcG9kYjdqb1BB?oc=5",
@@ -14,14 +20,8 @@
     {
       "title": "熱門股》低軌衛星題材 建漢創一年來高價",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52TDRUSHVsYWh1NjRsU1QwRE9YLUs1WmVhc2M3cDdxTzdZNGQ5S3gyb2JCVXdGaDZPVDF2U1l4SEFrdFFYQUxHdmxFNkpyX0UzX3htVkgzOFo?oc=5",
-      "source": "自由時報",
+      "source": "stock.ltn.com.tw",
       "published_at": "2026-09-17T17:41:01+00:00"
-    },
-    {
-      "title": "營收：建漢(3062)8月營收3億4192萬元，月增率-5.61%，年增率34.74%",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYlZscnI4Mi1PbXY2ejNsRU94WENkNU1hMDR0TERtQjV1ZXUzYWNBWjg3V1VjNVpzS1ZiRS1tdU4zSllBR0VoRXFnMmljUFZjaUVEUklacU42Wm00S0tSQVl2T1JOc21UX0ltS3pNY3VvOW9WS0xDQ2tLRW9jbWxKcEJYRE82OFdS?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-10T05:57:00+00:00"
     }
   ]
 }

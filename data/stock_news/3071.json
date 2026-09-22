@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-09-21T18:33:57.244070+08:00",
+  "updated_at": "2026-09-22T19:33:58.292746+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3071",
   "name": "協禧",
-  "count": 6,
+  "count": 5,
   "news": [
     {
       "title": "協禧電機內線交易案「董座逆轉遭起訴」 胞姊認罪換緩刑",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQU0JKTkJGeFV6a051a0pGUHgxWHVVVktacjVMZExxclZpS2I0VVZ0OHFfWkdkOWpEYTR6RW5kdzhKVzlqRER6emJkN1JZRGdqQUpkU3JXbk55SHlLSFHSAUtBVV95cUxNcldEeUhzQ0p6LUpxM1J0OWN2WWV5a2ttTG95d0ZuT1YyelRmUXdVU2l5bG5RVVo5VTJEcV9iVEpXZllLUld4aDFBSDg?oc=5",
-      "source": "ettoday.net",
+      "source": "ETtoday新聞雲",
       "published_at": "2026-09-16T04:53:00+00:00"
     },
     {
       "title": "協禧電機董座不起訴被撤銷 涉內線交易賺28萬起訴",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ySFdpR0VQenZvQ3hReDgzd29MLUNVRnlhZUl2Wk0wX25YNlF4bjY5Wllxd2hNZVAwdWJRWTF2cURVQldPWjhWc1BZem1qTzZT0gFWQVVfeXFMUG1qRzhUdzRJMldiRFhTNTd4cWJHN0RfbWsyTWlYQzd5ekZCWnhLR29ZeXl4ck4zMmRHRWpRY3BPcjA4dGxmbkZIZ0NfeVJpdHZ1dnJyWHc?oc=5",
-      "source": "udn.com",
+      "source": "UDN",
       "published_at": "2026-09-16T04:04:24+00:00"
     },
     {
@@ -24,22 +24,16 @@
       "published_at": "2026-09-16T02:56:21+00:00"
     },
     {
-      "title": "《社會》協禧電機內線交易案逆轉！董座不起訴遭高檢署撤銷 北檢起訴",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU2tjb1lWckZxY05wYW0xbU9hVVluUFNySXVzWWJ4ZHNGU2lOZGJXeEJkLVBSdDdsZ0JIWW0yeC1kWHMtbGRqQTRPVmVDaEVfV052T1VscmdsWTRBYTZ2VGJyMVpFZFVsazlEUm9iU0VobXBJU0hybF9WN24wSm5OY18wd0JaOWZE?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-16T02:35:00+00:00"
+      "title": "協禧電機內線交易案逆轉！董座不起訴遭高檢署撤銷 北檢認定撈28萬起訴",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KVWNTTVJSWXdnYVZ4OGFUc0hsYV9ITExqMEhrdHQ0eWdkRjdxam12Rnc3LTJTWVpCdVM1Z2ZUTFJjUXJ4WHpWYUZyaDVrU2ZkbXVfcldfVGItRWsxZWhxblpRaFdIX3pzY21meWNR?oc=5",
+      "source": "中時新聞網",
+      "published_at": "2026-09-16T02:24:15+00:00"
     },
     {
       "title": "協禧電機爆內線交易 董事長偷買股票獲利被起訴",
       "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPNWN4elk1aE95RWMxb0RWWEY4VmtqX0lyU1g5Z0lTbmQzTktMU0dtNUN0OWpsUngxN2xuWElLTjJaajQ0TUpONHhlTExlRzZmaEVEcWQ0cDdLc1hiQk1taWhyeERvZVBoRWNoOXF4M1d1V3Nqb1B2Qm0ybG1ITy03eDFQSHQtc295V2hrMDFjSnZuV0hINmIwNlVWcHN1U0wzRG1ObTNBanhuQ1E2VmEzTm9qV05ha3BzS0dJamtmMThxMVE0RWppTnlEVUFUbEk5U3dYTE91WDBIZ192eTdzb1ZjZlVyRnBNbGFCUEVQblhBaGkwZE9GNlpGYUU1dzV0dnRKeFRoV3lPYXBhYmJXYk5PLVhYWmpMZGxocHFKUGwyR081ZlM4dlpla0xKT0VfOHVJcXFMRFpFdVVvazNHVHVnc24tak01SGJQZmdFeUY?oc=5",
-      "source": "Yahoo新聞",
+      "source": "tw.news.yahoo.com",
       "published_at": "2026-09-16T02:23:34+00:00"
-    },
-    {
-      "title": "【2026/08月營收公告】協禧(3071) 八月營收1.94億元，年增4.52%-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSEhYREE3WXZJX2VfVXBaXzVPS2tibXlWVG9LejRKTFFWLXpPcEtDWW5fbENGSmJOYjFGMUxxSXNCbS1XSlFxV0tRUWtST1Y3T1MyX2M2TzB1ekZySHBRYTJYczBUT1ZIX0ptVDdGbWxqX19WOHltNXdXcG82TzB3emUwcElObVhqRGc?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-09T07:00:00+00:00"
     }
   ]
 }

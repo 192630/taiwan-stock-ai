@@ -1,14 +1,26 @@
 {
-  "updated_at": "2026-09-21T18:34:00.871684+08:00",
+  "updated_at": "2026-09-22T19:34:02.190310+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3090",
   "name": "日電貿",
   "count": 12,
   "news": [
     {
+      "title": "3090 日電貿- 幾時要動- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiSHE0Nk12ZGpQVk1Hc2JTSExqMkxYblprSzZQLXJBQVRwYWtFSXZXN2NwU2Fhb1hNaWNEQVhWLWI3U3NUVUIzLXdhaVNHSzdoYXgyaUZnR1c?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T07:40:35+00:00"
+    },
+    {
+      "title": "3090 日電貿- 幹嘛一直壓價............... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYNzl5d1YteUZoRnlGNVZOYjQ0LWU1YWxmY3U5eDJfdlNjcU9TVk1pUjA1eE04N3JhM2MxYVhMYTdjVy1oTW5DeXgxMTZtOElzUkV6QkZlYno?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T04:49:22+00:00"
+    },
+    {
       "title": "熱門股》被動元件大缺貨 日電貿3週翻倍漲",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhVWZRd3pobUowN3lTMTdzVVloWkZ5ZEhtZGdVVWJXejhUaDcxUS1mc29pVC14SmFYdkl1cV9YTldqbExvX2s4dUZxV0x4UEVxbXJYR1JWYVQ?oc=5",
-      "source": "自由時報",
+      "source": "stock.ltn.com.tw",
       "published_at": "2026-09-17T22:48:29+00:00"
     },
     {
@@ -16,12 +28,6 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqWVRVNnF4UjlXbkstSjFReFZLcWNVR2pBMGd6UTI1b3VFQlpMSWJPbTRDR1lNTHRGVk1sckdSMS1XbjZlU3BTazYxd3hNMWxKWHJHR2pReFFwWmNVRXRJVDZyTFh0SG9fYlFHOG9YNDBaTnc?oc=5",
       "source": "TradingView",
       "published_at": "2026-09-14T01:24:16+00:00"
-    },
-    {
-      "title": "【12:54 即時新聞】日電貿(3090)股價小幅走高至169.5元，受惠MLCC漲價與被動元件景氣回溫＋短線技術面仍偏空籌碼待整理",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdUZIWjd6a0FTc092NXdtQU80ZlJ4QnVaWjBxVXl3MFcwQWxqRjA0TVlsQ0s3Q0o5eXRFVEVueWI0emNHN0ZCRno5NGVhM3N6NUhVZk4xN0tIX0lVcWhSaGN3SUxBeTkwUktOR0J0WlRmY2NwWXI0STBJY2VWQ0tuWjRDZlZoSFVkS1FPYnNn?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
       "title": "3090 日電貿- 【產業焦點】iPhone Duo登場股價卻跌！蘋概股「利多出盡」，市場的錢去哪了？ - 股市爆料同學會",
@@ -34,6 +40,12 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BZGhXSUIwN3VzUnhNOTZyMEp6R0ZQVVYwTzhKQVV4d1hkNmRxWUV1NkpKTU1PR1VyVnFZQlFQckFFbGFuMWJqWWxwTldiWC0zV21RX21CbWg?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-10T07:00:00+00:00"
+    },
+    {
+      "title": "【12:54 即時新聞】日電貿(3090)股價小幅走高至169.5元，受惠MLCC漲價與被動元件景氣回溫＋短線技術面仍偏空籌碼待整理",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nNEdwZUlrdTlSVFlRSnZxbXNYX05fVmJYWGo3NDZLNzBEenhZRl9zOWJoakplV294dGdzQlpJSktmTGxEeU05R3JzMUkyWG9lTHc1cDI0LVk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-10T04:54:42+00:00"
     },
     {
       "title": "日電貿(3090)千張大戶與散戶持股比例，持股籌碼集中度查詢 - 股市爆料同學會",
@@ -60,22 +72,10 @@
       "published_at": "2026-09-04T07:00:00+00:00"
     },
     {
-      "title": "【09:58 即時新聞】日電貿(3090)股價上漲逾6%，AI伺服器被動元件供需偏緊帶動買盤迴流＋月營收歷史新高支撐技術面偏多解讀",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVTgzN3VqQ05oU3JHWDJoLXVuRTRueWQwSVNHYVFyVk1zVC0tcW9wYkwtcHpwVDR4VEpfdjJVd05TS1JPZm1aSUFtdTF5TE5HZ3o3RGxKd3p2WGpVUDZVbFU1eHRSYTRJT2ZlYXV1ZDdVc1ZBN2U5SWNRMXBCNDcwdWljcGE2SzgwbENiODhR?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-04T07:00:00+00:00"
-    },
-    {
       "title": "日電貿 115年8月營收19.13億、年增38.45%",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sUjVDNno4UWhBbXhGM2dFYVFQaHZNN0ZzcF9GTW9rUzJZOWZiZ0tteEVKTkRxNlY1V3I2VGtNN3BGNlRrZlBkcnVzcFQ4N1JMdk5Ea0cyN1Y?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-04T07:00:00+00:00"
-    },
-    {
-      "title": "被動元件全噴了！「這2檔」連拉2根攜國巨、華新科、蜜望實漲停 金山電、日電貿衝9%",
-      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQVUVrSVJubU0wbWNNWDZMMTBwZWw2VmdJMmxtZHNkanMyS3B0LVAtbmM2MzNsbWxRZkpvc2t4ejEzX216NDhjUWdpZGM5OThrdmhLMGdxbFZFbkcxMmlqNG9LMVFwSjhOQmdmU0ktR0ZxRVlpVHE1UWg2TW9jRV9wMjVmTmVGMXlQcVo0TWNnV3p2RFFqSFVtNmdIOG5vQXN2cm1jM0doN2FLX1A5V3JZNnJ6M2NjS3FnUE8zak84SzlFYklEeTJuRFgtQzk2WEJWaTh2enZKWXBVb0NuWXdqZUQtN1RaejQ0ZmRBQmZZZ0ZLWmJ2aGlvNWJWamVTaGxxOTJDYjI2V052RmZaYVFLaWU2aV9kdTZZdkZENGpSUDVfeTdKVzhURXE2dEtHcmswSmY1SXo1aGVKcHdRYnRvVnlwY0dvWDE2a3c4TXRzeWVfaGxNVnl5MTRiRVUwV1M3LU1hM0ZvMmRwcVdkUEYyYVRUNERveFE?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-08-27T07:00:00+00:00"
     }
   ]
 }

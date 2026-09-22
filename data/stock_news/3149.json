@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T18:34:08.845167+08:00",
+  "updated_at": "2026-09-22T19:34:10.640826+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3149",
   "name": "正達",
@@ -12,10 +12,22 @@
       "published_at": "2026-09-19T02:13:14+00:00"
     },
     {
+      "title": "正達 | 3149.TW 股價走勢與即時報價",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBtSVV1Z0ZrUGJzMFJnTG9lZDBGMHNLWHJpZmQ1UFgwRmxxTTRmcVE5T3hfWUh6bnpBRFZSLTlsMjlvdFZjTEhoajI5OTd6ZktaY3V6eQ?oc=5",
+      "source": "finance.biggo.com.tw",
+      "published_at": "2026-09-18T07:00:00+00:00"
+    },
+    {
       "title": "3149 正達 - 這是啥情況⋯！！ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9oREFOY0xRLWpSUnJUc1VSNkVGcFFwUUdyU0I0ZGlpYXgtcVdhdFpzeVZnaklnZmxvUUpNRWNQSEl0UGJCSDRlVnZWYnY4akZmU09uZl9EX04?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-18T05:31:54+00:00"
+    },
+    {
+      "title": "正達(3149) 今日股價與討論 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByckdQaGxZRWtBVVRLdmE4WFhQamJTUWNLZ1MtWU5lS3VGN3BKSGJVT0w5b1FOSHdabXlyRnZBV2xGZFFKZnRkRVQ3UnhEUlk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-17T07:00:00+00:00"
     },
     {
       "title": "先正達據報秘密申請在港IPO 集資額或最多加碼至780億",
@@ -32,7 +44,7 @@
     {
       "title": "彭博：先正達已秘密提交在港IPO申請 集資約50億美元 (12:18) - 20260915 - 即時財經新聞",
       "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOWHUySW81ajYwZkxueDB6cGI2bUUzU2J3MUFZVkU0UHI2T0lzTkp5Nm9TTTNZZVJfbjlqS3I4M3Y2blhJdEI2OWFlR0lmYllFMjY0a1RWcTVIR0VmaGdmV2gxejU4Q2xyRmlZYVJ0VFJmNmZFVE5HanJTR1dXMTEybExQNUZvZl9hVnpER1ZKdWVaWWRiRjVGUDFkZl9Ub21oQXhMSkM2a0UwbGtFQzU3OFVTMXJTZDhYWEdDd3U1TXlya0Q1eWF4UTU5T3B3cHJOOHVoUFJidmFDcFdaQXVlcm0yOVk4TjlKMks2Y0g2dzB4dWhWSVI1b25GVWs0VzlNOHpFZlJBS2Q2OV9nbUpicnhKVElTeXZjMEtRX3JnMWpXQjVkeTdyOGFpSHRsS0ZmV0daOTN6OGNvdFNaSGlDMXZGcmlPUFBNZTFaNnB1MnBGaWh2QS1TNDB4M3JaN3dDU3p3UFAyLW5QejA?oc=5",
-      "source": "finance.mingpao.com",
+      "source": "明報財經網",
       "published_at": "2026-09-15T04:20:41+00:00"
     },
     {
@@ -62,20 +74,8 @@
     {
       "title": "許庭禎今年才接正達董事長2個月 因涉慈濟BNT疫苗詐騙案遭台中地檢署起訴",
       "url": "https://news.google.com/rss/articles/CBMizgNBVV95cUxOc0FhaEhZa1dpWE1zZUx5bHBqUEh2NFZqMVo1dVAyNG91ajRpZ1BFX0d5c3I2OE05c0RjM1R4LUZMQVIwUkJkT05BYjBHS3BJRnlpMHd6MHhtTVBUc0NOLW10ZV8xaWZpdE4tUVJRUGNUUHg1MFJteG1HSEV6MWhvS2wwM2hBall0ZnRSNzFiR21zRTFyNWRSR01pN2N0a3VJRG9aQVcyYXQxT3VJWnB5bzJueDVZOXRZUXg4c2t5dmF0U1d2LTVNUDlyY0RGTmk5MnVpSEtWaWRBdFlWbFBFaXdOMFVqWTZ2RjBEREc1OXNMUGdNbjFsVGJ6cG5SQzRnajcyRkdOdkxDdkJENFdCd01MTWFXODRZenljcGVDb0tERC16THJBMDJFY3diMVhGZDZwcjFqOGJlZXU3aVNrQzRCd0ZkNVlMMXU5RGdaMnYxNTVlcmRBMVM5eVdfaVpLbFBDTUxWZVFuYzY5cGE5b0ZDS3NlbTdVd2htZU1qdGtpY1dwc2FvXzJIY2pmZDFPUWp0cFBQVjB2OVdSWE9Gd1VqLVNQYy1YMVVzVE5wQWgyRzRyRWEycjZCN1dmdklqLVJXTDNwMmlCVHZfUEE?oc=5",
-      "source": "Yahoo新聞",
+      "source": "tw.news.yahoo.com",
       "published_at": "2026-09-06T07:00:00+00:00"
-    },
-    {
-      "title": "3149 正達- 好了好了，不要再演了- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BZVkxek8xcDMwdGlyQ3NsLVJ3VG9UVDRwaHF2eFpvNks4eEd5YWxnN1M1Q20yYkZSZV90NkxDWEVyZHlaVEFibmk2UXpBOS1hc0xLaklHa0Q?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-04T07:00:00+00:00"
-    },
-    {
-      "title": "正達董座許庭禎被訴！公司：起訴書「嚴重」不符事實 檢方回擊：涉加重詐欺",
-      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOX2l0Zmd1OE5FX05TcGFGdlMtLWJqUENJY25MNnhkWThwN1lVbWJOSzd0OUM5d3EwcTlnRkRWOEtoZWNueW9kQmRCWkRDMEZZN2dhSGdFVDVvbEs4bUhZWGlpdlI4VXloTVRZY3pZVk5vZ0Z4NmNtTjVWYW14bDhxdS1fdEZiMWNzNDVKYXJUUlluMnExMDdGTFY1Z3hFTENyQkRva1RmRnhGMU9tNGFvYmFBNENGN0tyd2tQWXk4eG1kQzZoSkpYREM2cFFjN1ZZeTMzMWFIQXdSN0Rqc1ExNEliRWVGbW9QR1hsZnhNY2RHa1hDLXNfcFBCNHVUcnl3Y21OQzBoNXp5eVFFdlN3eW55d1owOXV6a2RncFJPWXhqUzZ0SXBQQ08wNV9MVERBY29sTjRWTXpmN0s0RkFIVGI0alpkWkpa?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-04T07:00:00+00:00"
     }
   ]
 }
