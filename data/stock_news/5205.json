@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-23T00:35:56.429787+08:00",
+  "updated_at": "2026-09-24T01:33:51.427309+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5205",
   "name": "中茂",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "$SENDAI (5205.MY)$",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9seVA0MDVIRjhEdWtfM3NFdkVJRlFPM2Y1cXhEMHp6Tzg4OXJ6bHI4NHQzOS04OEJhN3dVX292dGlra04yQk9ja2lOWUJTdS03dDBWdUtfN1NxU1VIMFRQeFZOMlBxaTVBN2xGaDJNc2s2WklITE4wZU9mLWpFdw?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-23T01:50:51+00:00"
+    }
+  ]
 }

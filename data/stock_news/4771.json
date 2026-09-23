@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-23T00:35:23.166795+08:00",
+  "updated_at": "2026-09-24T01:33:16.919895+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4771",
   "name": "望隼",
-  "count": 8,
+  "count": 7,
   "news": [
+    {
+      "title": "Vizionfocus, Inc.的每股盈餘 – TWSE:4771",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeWVGNnNicGxrUEhJMHktVmJwOUcxSzBFenJDR2x4NDNRV3VQbUs1QmpmU04wVUJha1gwckQxSlFYaWQ1Mk5INUV5R3J6LTZkMVlFcEYyNDFOcXlIVjZHV2RMMlowV2ZWMnZZSzZJZU50S0QxQndSbTZOVWJESGtraUV1aG1nVkpYSURzUFd4a2JxbnpWOUlqSTBZdlY?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-22T21:32:27+00:00"
+    },
     {
       "title": "望隼產能從5千萬片往1億片走，8月營收突然暴增七成，隱形眼鏡大擴產才剛開始？",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10MV9uVHFWVE14WHc3WE5KbFlIY0tpbWNQNEpjVWwtTkhRN1V2SVdCSHdreW13OHlCcFZIM3I4N2pxMHNsQ3g5cDkwZFZVTWxQYXpBRTZ6Z1pIU0JjZ1hXZlhaQkdkamJIWWpMTW0tZw?oc=5",
@@ -34,18 +40,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14d3pVQjZ6N2QtVHpsXzFUakRVNUstNVBMdzNMcER0N2J5V0JDOVBKTTVSeWdpU1lOSlB2Y0xzWlhMRjRRUlVkNlpHTnBjbk0?oc=5",
       "source": "news.cnyes.com",
       "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "【2026/08月營收公告】望隼(4771) 八月營收4.37億元，表現亮眼、呈現雙成長，創歷史新高，年增70.64%",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYWxuS0hPdUM1OG04ZVBod3BXUlMwaGpOM2FGbnBZMGRWbDlCRERSTGowckIxc2tQc1hZQ3U3S3UtMU9mT2hnb1l3VVA1S0hFTWU3bi1UZDg0bmtuSXpxMU1NUXk5Q3AySldMMlJrSTZRQXVGT3k1LVVOWkk2NXFNV2oyTXd0bTJmTEE?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "望隼8月合併營收年增70% 中菲行增39%",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzRkFYM0JMZmdMOWxrZVJtclU0OW5VUHA3LVl4UDFRcUtwVUJ6NTB4andmbXByQURHWHVNQ2Z1QTJHRzJ2UkI1c3JvZW5JQk9tM3hJLXo5YWtiZ9IBX0FVX3lxTE1MRk94Q2FnZDBxakJ1U0FTQXJxWHk0ZU5oWU83N084cU51dlIxR190S2hKVV9vTDlfbUJxWkVLZUcyV2dGNkxJYVlCM1ZrTVNEb0FjaDFBWmxxcFljcGdn?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-09-07T16:40:32+00:00"
     },
     {
       "title": "眼球概念股迎旺季買盤點火 望隼盤中漲近6% 視陽、大學光齊揚",

@@ -1,21 +1,15 @@
 {
-  "updated_at": "2026-09-23T00:35:33.894296+08:00",
+  "updated_at": "2026-09-24T01:33:27.827863+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4931",
   "name": "新盛力",
-  "count": 11,
+  "count": 10,
   "news": [
     {
       "title": "Q3營收估續寫新高，新盛力今年營收挑戰50億",
       "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOUi00bzVid2hBMEhQSGwyTnc0dmZKYjBHMmpQalZSYWlKdWp5OGc4cmVsc1hudnF6WEM5UEZoWGhTV0w0UjFPWFI4X0NoSDA1VUI1cEdEQWdLME00Ukw4elJoMUptdUtWcTQ0eGFtaG1vdDVYT1VNRVc3czVWWk9VWW5ESEdKRE04U29PZjVYakx4LVpOOFNELVpHcWpiY2tJd3lPQm1oblEycmg4MXY1c1ptc1RHYkZqVldTZFpHMGNiVC1XQU55c1duRzJuUEROWTBHd1NmSUJMeEZ5RFM5VXIxU25RVlBJVmlnRm1DdTV4R3pCcFE0YmI4VDFQaHMzVEtwcE9HMHdKRm1BYzJDUG9IaWRZTmVYZ2MyNjVfakNCZ2NZYV9lOFJnMjRQQQ?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-16T05:45:40+00:00"
-    },
-    {
-      "title": "新盛力(4931)財務報表｜損益表、資產負債表與財報分析 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nS21ZZVI5eVJjMkZxS2diR2EtQ2xCVDJ1QlFSYXpyWlBBMVVFR2g5Zl92b3VrUzhWLXg0ZHRpLUJhc0lHanpaVl9PTEhPSG9BYlg3bFdvck5Hc1IxMVdnZjhsQ01udE04?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-14T07:00:00+00:00"
     },
     {
       "title": "熱門股》上半年營收大增 新盛力帶量漲停",
@@ -39,7 +33,7 @@
       "title": "焦點股》新盛力：BBU發光 營收表現不俗",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSNFFaVldQdVZnR2djeElicHQtVFdkMTZPQ3NTb0I4WThac0RqTE1sZndzVGo1T2tEdnRhQWdqaE1oSGJ5TkhwdmZ3WGYwUFBqemprWndCdVQ?oc=5",
       "source": "自由時報",
-      "published_at": "2026-09-09T02:46:10+00:00"
+      "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
       "title": "【2026/08月營收公告】新盛力(4931) 八月營收4.95億元，表現亮眼、呈現雙成長，創歷史新高，年增125.87%",
@@ -54,12 +48,6 @@
       "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
-      "title": "4931 新盛力- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IMmo5Z0x1VFJDS25yT0Z1UVlUbGE4cHE4ajVveXd0cW1mS2FhckZncHpjV3dRenRBOXZwT2x1elcxdWU1ZDRHUDJOLVVLM1h2cVJ5dUtKbko?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-01T07:00:00+00:00"
-    },
-    {
       "title": "4931 新盛力- 長線抱根本不用怕，雖然勝利真的很洗，AI電力永遠都缺，遲早會... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ybkhaZGRlZ0RmUzRxanRJZTNXMElVdVRYNWxwa2RiSGlVTjgwTUk3V1BITHJ0R2Z2UmJlZXljdnR3aHVtNEE3dHNLRGJkTElaMXFUbHZ6TzY?oc=5",
       "source": "CMoney",
@@ -68,8 +56,14 @@
     {
       "title": "H2單季皆有賺逾2元實力，新盛力今年EPS拚9元",
       "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPc2xadGJFUGhvVnlYZkg2MlVtSG9VVnJ4UVBkY0lMVERuemd0SjktVG9zeXJiWVZXWFY2WUlJVEVwRTFJUHRoVFFWVWNiMXJ4WV9KdlVoVnM3S2R2VURiajY2RE5lYW8tUlgzQnFrTTE4M1JCekpoSHlhejNlVDBhQXYweUdsdDRCUmlJWmY3ZUdCUjlMNXA2UlItZ3BMS2NEOHUwQnAxVi1uM3dDQmVETGlqckdNYWptUzdCbGhSaXpJdHhTMTV5ZVZQWktXdml5bnZMRGQ3Y1diMmFZU2d1VmhLdkxZUFFoQWM1V0JXbkFrNEs1aUFpMjVtb3FKeUtNbWVzNFRkOW5CZGVkMW4wOV81SGpia1Z2QXpqVnQ1SExveTQ0Tmc?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-08-30T07:00:00+00:00"
+    },
+    {
+      "title": "焦點股》新盛力：漲多拉回賣壓出籠 震盪走低",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uZGh6YVgwcFNnbGpwOEJPOVhrQVJBSnc1Ym9BOEVVd1k3M0JuRHpmMUJQT3ZYTjJFc0FULXAwNGkwVnhYZlBxUVhWTTA0MW5nSlRPamI5N1VKa0NiWDE4?oc=5",
+      "source": "自由財經",
+      "published_at": "2026-08-25T07:00:00+00:00"
     }
   ]
 }

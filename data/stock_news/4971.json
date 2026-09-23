@@ -1,10 +1,28 @@
 {
-  "updated_at": "2026-09-23T00:35:44.706117+08:00",
+  "updated_at": "2026-09-24T01:33:39.463992+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4971",
   "name": "IET-KY",
   "count": 12,
   "news": [
+    {
+      "title": "IET-KY(4971) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsOTRJUkt3LUxyUmt0UmdQU0sybG0zbWhKbVBIcjBsZFhvaXJOWmdobDdkRU1ISWp0U056b3BFbkFxa0FrTExVVTVZNzZ2b09RaWJZ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T13:30:01+00:00"
+    },
+    {
+      "title": "4971 IET-KY - 【09/23 產業即時新聞】軍工族群拉回修正類股逆風走跌航太與造船指標股相對抗跌- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5Ql9GSWJDZktid3FtaE9GcVo0ZzNNTXJOaDktS0Q2dFE4YWJrUDM4NEVCeWpObk1wbkU5dVo2MnZpUFROanFkYWdkdXFUUkxyZkZUNzFrU08?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T02:10:44+00:00"
+    },
+    {
+      "title": "4971 IET-KY - 開盤就是空 中秋烤肉加菜😂 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yREpDcHNZaFdRdUVsUVJFMnZtaWpsYWcyd0tZcmJacHAtVUIxZ25aOWJoR1RHbFNBaU1lY24waVdDZU5CekJvNjMxSDM0Rjl3NkpOeml4UFA?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T09:53:04+00:00"
+    },
     {
       "title": "4971 IET-KY - 【09/22 產業即時新聞】晶圓材料族群強勢大漲矽晶圓雙雄帶頭衝高- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LSkNHZ3ZrLTZrWFJSREpDbHhGRnFXVFVjblBzbzUzbWlMVGlvaWVva2VsZzRsOHc2aDZlMVZxM0VpV3lYTzJLWVFvbVhmQjVvclFQVl9ySTA?oc=5",
@@ -12,15 +30,9 @@
       "published_at": "2026-09-22T03:40:41+00:00"
     },
     {
-      "title": "IET-KY(4971) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5FRWJ5STlqa1BLcWh0d2wxSll0b1JBRHNaaDI5N204a202YmpaQXIteGRxNmJRbFFqRTJSV1hYbWFrX1hKRTBBQk1n?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-19T22:04:31+00:00"
-    },
-    {
       "title": "IET-KY PD需求強勁，明年成長動能加速",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPd3hxcEhYZDNKUFRxak9RTlZIZll3MkhfNVNmNTQ0SVhMVGoyZ09zMHN4M2JhYlpzOTVpU3F4Z3VrbEd5RG5pNXVweGd6Qld5a010bUw3WjNEZGg5RG9nTFI4UW5UUDlxZWRsV3E2VGtTSjBjQkpUMXAwb25ZYW1VdjNQVEFrc0RxX0JmNHl4UVF6WlFraWg2bDJ2V0d0bUZuUzAzSW9UMHIyaUhKUmxvSExTT1lWTk5XRWw2TTg5SlpUMi0xbGl2S3otcThKeGVLOFQxekJoTFpSUW1la2daQ01JbGxuZUJJRUV0YkZha0JNUkFkYkx5Zg?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-18T05:15:36+00:00"
     },
     {
@@ -28,18 +40,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nN3o3N3NoQVo3LTkyVUtaZkFORHhDT1hoa2dJOGVWem5PclRMUG9HeXM1STk4LXpkVVY0Q1VTT1Z1WVpjZngxREVBNmh1VW1henNXVmUwdU44UUVO?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-17T07:00:00+00:00"
-    },
-    {
-      "title": "4971 IET-KY - 台股今天（9/16）總算甩開連日重挫的悶氣😚😚 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DT1I2VEp6Wks3ZU1lU0l6TlFLY2xDN1M3dDNRQzdQbi1NOWpibXYtR0NXSVRCU0dHaklXeHJuTy1zUFVkUERwQnByV3lNT0F3bmx5ZFR5aGI?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-16T11:56:32+00:00"
-    },
-    {
-      "title": "矽光子紅一片！聯鈞、IET-KY、光鼎亮燈漲停 光環連4跌18.25%後漲8%、立碁重返70元關卡",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYmVPOHM5cUF3WDA1UTVqVTRTQkRLaVlaa1BLMk4wbkRHZkdnZnB5NjBydFA0a1ZjQzY1d0FwYXRiVTdxamZVaHFuaGp5bVR2dWJxMW9wdmN1eW5PY2JQQ0VWQ2NIc1BKQ3VPYWFORmhyV0pPZXh4MmlDaVJzSTIwb19NTXpwN0dhQ1B6eXEtdEtYTW1ENTBDWlhCMW8zRTNVTGVyZHp6aU9sZUNydG5zVWZteDlZaG9CdVFv?oc=5",
-      "source": "tw.stock.yahoo.com",
-      "published_at": "2026-09-16T02:31:24+00:00"
     },
     {
       "title": "【09:30 即時新聞】IET-KY(4971) 亮燈漲停，矽光子族群買盤點火",
@@ -54,10 +54,10 @@
       "published_at": "2026-09-16T01:26:00+00:00"
     },
     {
-      "title": "4971 IET-KY - 今天不會見紅了- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3M2xUb0ptVkRBcDdBSVhOM0UwbUxRV0huQnFaaVYyNE5SRlFxU0c5M2dtSjNqQXJJR05CWEVqYWdxM2hzaGltbXpSWWMyWUFRaDBSTzExVGo?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-11T02:04:50+00:00"
+      "title": "矽光子紅一片！聯鈞、IET-KY、光鼎亮燈漲停 光環連4跌18.25%後漲8%、立碁重返70元關卡",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYmVPOHM5cUF3WDA1UTVqVTRTQkRLaVlaa1BLMk4wbkRHZkdnZnB5NjBydFA0a1ZjQzY1d0FwYXRiVTdxamZVaHFuaGp5bVR2dWJxMW9wdmN1eW5PY2JQQ0VWQ2NIc1BKQ3VPYWFORmhyV0pPZXh4MmlDaVJzSTIwb19NTXpwN0dhQ1B6eXEtdEtYTW1ENTBDWlhCMW8zRTNVTGVyZHp6aU9sZUNydG5zVWZteDlZaG9CdVFv?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
       "title": "IET-KY明年EPS年增率逾75%",

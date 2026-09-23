@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T00:35:51.681182+08:00",
+  "updated_at": "2026-09-24T01:33:46.366040+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5007",
   "name": "三星",
@@ -9,7 +9,37 @@
       "title": "三星電子 | 005930.KS 股價走勢與即時報價",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OYm5ETi1oa21iNzhBSHhIYWxRUW5OZUJyWXRES3U3N2pLWU1TQzdrREdXQkwzWjkxVFJFQzFtTE9ybWluVjFxcjdRU2NyN2liQjN3emFEWQ?oc=5",
       "source": "BigGo 財經",
-      "published_at": "2026-09-22T10:54:46+00:00"
+      "published_at": "2026-09-23T15:50:31+00:00"
+    },
+    {
+      "title": "韓國KOSPI收漲近1%，三星電子漲逾3%，日本股市繼續休市",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVW5VUDZDVUo5dHI0Qjk3TGpLeEJHVFJLNHdhMTVqX1NqME1Vck9RZGo2eWRrd0pFRHVTdUxSM05hTmZMZXJ1eEdzVUR1NFJldkdGYjR1X0FVM1dWcFR5X3NxVTNVbGFKbFloZDdZRzIwZ3p4TVlUTkI0MkZIeENCcWxmZ0hKOG9oTjU3dlJFMzZrd2x5R0NmRUJBbzdMQjg3ZFVnN01sN0xlM3JIbUY4MDByZDBwZnJzd0VZLUhXYTEwQQ?oc=5",
+      "source": "TradingKey",
+      "published_at": "2026-09-23T06:58:00+00:00"
+    },
+    {
+      "title": "韓國KOSPI開高逾1%，SK海力士與三星電子走高，日本股市休市",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTzdmZ25SWjdzVXVUd3ZZcUNFbTJFbFVaSzVvakdTTXpxRGF3V0NDZXlrTE5UbDNkNEZRQ2ZaclB2M09KcUtXaEVqZzVmUmpxa2tSWENjX0Mxb2NVX19xdWVZSHhjNm9JaGt4c25JMEZTQUozV3R0bG1SYnRTaUczRVdIQXg4U256RzU0YzBrUHdtQW5vVjltaHlRa1N3WHJ4UjZqZWkzdXBMTGNoZjhvQ1Z6LVgzcGVJbE9MMndOR1hMUQ?oc=5",
+      "source": "TradingKey",
+      "published_at": "2026-09-23T00:44:07+00:00"
+    },
+    {
+      "title": "三星電子股價今日為何上漲？ 作者 Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oNkJkcGg3R1lBQl90QTNPNGg4bEpxV09fdDE2bTZHYUd3TWtoN01aWDlFR1BTUDNXUGRzSUdqeWVOOWpEakUxZW5JQ19JQWROelBpTDlFUkV1eWk2UDBqSDRubkJxenlSZVBEeEFkQ3phQXZCNmpZ?oc=5",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "published_at": "2026-09-22T11:54:31+00:00"
+    },
+    {
+      "title": "韓國三星證券「股票累積投資」推出兩年，十個帳戶中七個為節稅型",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91NDNLaUNXb2pBMTI4WHhTQVdrS3NySDh0LU13Z2hkcTJTUjBRSjVwdlV5RmpMdFZfUXdkWjgwalM2ZWVkdERjekhmM3FKRVY2LTZWbEhKRXdlb0UwRVdZNmMyQ3lOX2hiM2JlSkVUTkhrVnJtSFZ2eDln?oc=5",
+      "source": "BigGo 財經",
+      "published_at": "2026-09-22T07:06:00+00:00"
+    },
+    {
+      "title": "Shinyoung證券：韓國三星電子外資買賣，將成股市方向試金石",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5LaW50Q0JsejlBdkR2eWhINmdtRjdiMVotTzN4czg1NmRkN2IxT0M5TGlPeUdSM19HRlFzTHpUMmJXeEJhcUFRY2JFbTlYMnVSMmhrYy1ma2dfV25pbmpWOTBQS1lOdDRiWFpEZXp4c2ZwV3dXTGZUanVn?oc=5",
+      "source": "BigGo 財經",
+      "published_at": "2026-09-22T04:05:00+00:00"
     },
     {
       "title": "三星獲利暴衝難救 亞股成失速列車",
@@ -18,16 +48,10 @@
       "published_at": "2026-09-21T05:50:50+00:00"
     },
     {
-      "title": "三星HBM4大擴產 明年產量至少翻倍、產能增近四成",
-      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOUC14RXNEeEU2QWVQbThQcmVJY3U2aU5XUDE1dDM0TGVZYXkyOEo2U2l5ZHpUYXFIaWhnbEU2Q3BqNmtaOTFnMVdqVk5SeGhFTDkwODRBcEUzaUJ4dUxDeUdsN0hoeU9sR0YybE4zVEd2NzlWMGdWNUpMLU55WWVObm1YTjBYQmkyNUNTcjJFNkNxZTVscFdyVnlmcTB1WmxUbHVRREVvN1J3U2RPRF9kMS05X2E5N3c5aThoczBMblhPYjhUVDAxNTF1RGZQQmd2OXkyZTdsYlVTTzFrVEI5RlVObW9TdTJFUld4aDFfcHFXcFo2Rnh2M1BsRmhFTlJtRWR6X2ltb1VPRERVbHRfSkc2WUlMaU1qcnVqcTJwbW5sT2dTMHNNd2ZCQkROYUxfVDRGdlBKMEhrdTdOVzdnZGFHbjNsMlpSLXc?oc=5",
-      "source": "Yahoo 財經",
-      "published_at": "2026-09-21T05:46:52+00:00"
-    },
-    {
-      "title": "狠甩三星！台積電2奈米再奪聯發科大單 韓媒認了：產能良率佔絕對優勢",
-      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxNLVlxQ1BiMGIwNGZXTXduNDF2QldBMU1CZ0EzU3hKZk1ua3FYNTFJTFFzSklsRHI1anVQaFpaS2FBZm1NZnpFbURHUzRiZFVyalQyU3FEdmw2U2drd005MkkzMGpHSlRRakktMTE5am5CdF93RTlaSTRjcWZKZHk1aVQtS3ZXWTZSUmhNWGRnODVoM1I5UlV0aXQ0RmFqZURxVFJteC02WGhYWURLeGdGdnRQRkk0emFjWjNGTVBBUkU3ZkFyaHRQbEtVay0xUjkzNkhSZW9CWFQ0cjdWODA0cTh3OFNvV1NWRmRhU3VHcTNZbE8yY2xBZW5KYTFRZ3QtVEhha2dQcmNtYVNjYnNXMlNRZ1RDMERLMWRjanU4dmY5clFNX3hlamtYTllKVEIwOHdtaHFjQkhCUE5aNHJHUkRoMEhPelp6UTRIOWVSU3NYakRHV1pXT29reFNRT3NuOFNXUVRUcFltMS1pMFVrcnh6T2hFWGlLc3Y5TDA3emlwZnVxaDdHbE1laW5GSEI2QTNUSFlTSTl3Mlh4TjNjbklmZ1JScXNRaEpXRFRwRlBxMkQ3TzBwOHgyWnk?oc=5",
-      "source": "tw.stock.yahoo.com",
-      "published_at": "2026-09-19T03:53:13+00:00"
+      "title": "韓股大瀉觸發熔斷 港股三星及海力士槓桿產品插逾26%",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zRlhBMTVzTFBjdXNEXzJ4MnZnUnJOUV9GUXNTV201X2lJVUE5ZjJOUFNHTmxjeGRFamlHckFfb3VDMmFsc0YtNzJ1TmhRUTR1Snc?oc=5",
+      "source": "AM730",
+      "published_at": "2026-09-20T09:09:12+00:00"
     },
     {
       "title": "爭得千萬股票分紅 三星罷工暫休兵",
@@ -36,46 +60,22 @@
       "published_at": "2026-09-18T22:50:59+00:00"
     },
     {
+      "title": "西部資料、三星齊漲！Seagate科技股價上揚7%引發市場關注",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd1UxamZ1Tk1GNDJMb3Qtb1BabkVraWVXUnhnNlJDcmtCWkRfUVFZRFdXMHVLS2VmYnI1QmR2aEFBNF94SXFzeTk5WlBobTN5RlNpZ3A4MjhJR2I1S1lxQ1d0eXdpb0x5X1Q4N3ZLWEhsYXg1MUZJV0lRXzBjMVpIM2dPSHVJcld5djNjcUtn?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-18T21:17:31+00:00"
+    },
+    {
       "title": "美股晶片股重挫衝擊韓股 三星電子、SK 海力士盤中跌逾 7",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pNEhZamJ3QV92dHVrbzlXMHBVWkdSejNLU2EtS1lRS1pfaThoRHUxUWx6ZnM5dFl0U1NMWWtueG1FbUVFdVY4LUUxaVVPMVViTEFXR3FHdU0?oc=5",
       "source": "自由時報",
       "published_at": "2026-09-18T06:38:15+00:00"
     },
     {
-      "title": "iPhone Duo發表後三星摺疊機Z Fold8銷量逆勢成長 主要有這些原因",
-      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQZTJlalFlVURuSzhmVGNnUVVKTHZYVzFCSFB4ekUwMFl4MlhfQU5QTHZGTkJpYjdIc3AwMFhtcmdvWnZrUjBJWFg0STl3WVBLSy15X1JCSEJjUnpqMGJOOU10RHU4cmc3ams5dk5zOXk3SlNReElRV3lneGdUNVZSMi1OSEhDa3BkQmxWZzJueDBKNk5pVXNiUTNGNzJfc1AwVEUydnFIc29ZM0tQMzdTU3hxV2h0MDRyMzhNR1lBZmlmNVZyaFNmSURPY0VGUkRnc0VHaEF6NGFIQ2JBRTNLazYtU0hjUzVfSm5fYUxRcFJ6aGJGdTk3ald4OVZxOW40ZG5NR3N4a0VxS1VFbWQxMTFtRDc0WGhVR1pDU05YWGxMWjRNZlNiZlF3WElKT1B4MGMxU05XcGM3d1NVRU9yYzc1OF9TNldpajBCVV9GSjVuWWZ1b2tnTGtJaGtLdWd0U2lWb2hRNGEwU1BhS2Zv?oc=5",
-      "source": "tw.stock.yahoo.com",
-      "published_at": "2026-09-18T06:30:00+00:00"
-    },
-    {
-      "title": "三星瞄準美國區域電信商 搶攻無線通訊新商機",
-      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNR2xUUHhuQUNWR2hzbUNQU3AwUWJpcUVtdUdmNVg2dzFpYmx5YlFKTnltZTBVM2p4WjBCOFpuRF81V0Zuc2dDVjBWNHBLQTAyYWk4Q2NWcjk5aHp0UUJHbC1uQV9BVlJaYWg1ZFUwV1pBcHZpTjVrZXdvV2tQT0NIeFJWU1ZWY1pJVHdKMVBVYW1SdXNVdVAyb3p5SkNqb3Y1ZVRpQWkzWlpTaUVRaGJwZm1waVRzUGtGZGcwUnFxNTdjVU4zZGhrU2JiRGNqTkZpNEpuN2xxMG9rNWhnMlVtMy1ENDJrdFN0T196cGhwRzZ2QjZnV2VzZUFhOXZpTWdQd215T0ZCM3MtenVORXZfSC1GWEtoWDh1NnJjQ0tYMGlzTThmVlkyUkctQkZEQ1BHSEVoeHh3Mi15NnN0MW9fZ1dYdzYwYk5LTTZzcA?oc=5",
-      "source": "tw.stock.yahoo.com",
-      "published_at": "2026-09-18T06:18:45+00:00"
-    },
-    {
-      "title": "平板都會有新機 傳三星將於下月初發布全新 Galaxy Tab S12 系列",
-      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQVFlULVJrc1U2UURwU2lqZDd3ZFBVUWJ3dkRGOVNQZUFpV0swUV9GaVh6N0k4cHZ5R1RZR3VkMk9GUzN2ZUhFeFZNN3V4VS1rOEFIZms0ZjlSN29lRFNNcHNkWEpKMFFOY2I1al9GVDhvQ2VCRFh5OW9ZMU03dUdqd1B3d21rWEdhYzRxcmlvZXhOaWdYQzliRzRITlBOVVotM0dteDRseElfWXhDOERNdGVLWmtwa3dqV1pCNS1WVlFMaGtNeXBvZjZNaHU2bjZfMDhKUXdEQ2JPWnhNV3lDNTRNbkJoOXgydVZ3TFZRaHdqdXdPWGFXa0dQbTIzLThhQUlNejhVaHMzY0VDVzNVcWhzWDg4VU9ETEpiOWxocWNERHdfQS1RcnlqaTJ1MzRPbFZWa3JzX2pvbUFjaEJNOFFFbnp1X0d3ZlZ5WA?oc=5",
-      "source": "Yahoo",
-      "published_at": "2026-09-17T05:53:29+00:00"
-    },
-    {
-      "title": "不再一條龍！三星客製化HBM擬採雙軌並行：自廠或台積電製造基礎裸片任客戶挑",
-      "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxQSWVzRmFORGJYazZ2bjZrTjRpbUlxUVF1b0NsOS1BbURqQTE2ckVnVHo0ZGVfUWhiZVNiWVVtdjVyd25qNld1N09uOTg4bFE5eGRpTDBURXk4V2dfMXE4Q19OVll2QzQ4NUFOMElsalF4MTFQTnVCdlV0eFdRdzJ1YUlJRlQ3YThUUWJxZ0hUVllsSHUyb3ZTaktRemFQcnNaMTRpMl91ZjVhNW9pZmJCTlBzTzduVDNJdG9xYU1rSzhxTnhyRlh6a0pJbEN2RmJQWEhxLUE4RWdXZEJOdEtINFBRZmJlRUtHRElVUThHV1RRMHVlWUp1OWtOOXZKdDlkXzhTTDZ0YmdYQnJkdUxXV2hwQVFrNmJJbjVJaFVGeE8tUXlZbGFmQTMyTWpUMTllUW5NMWl4M19WMERQel9NODlpNEpFbW9oa1VUcE9rT1BzeFdwSzVBQ05STUxhenhGX1RtbTdEbkpLRmQyclN4UVRaNWxHQnRXcGdTSFFLS0F4UXNPZ290WFd0YUNBVWcweFJIM19iRDZMaFpfQnhmTHlzNjFQam5BcnFwY2VJYzZpS0EtYzB0U3VZdUx5VERyNkRrTnVBYWEtQnMxMk42UFFNMTdfUTZUdUE?oc=5",
-      "source": "Yahoo 財經",
-      "published_at": "2026-09-16T22:00:07+00:00"
-    },
-    {
-      "title": "二線三星警官涉毒！皮包藏安毒遭逮 警政署開鍘了",
-      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOM3dmeXMydDB2RWVDcHlNaE5xaWViMVhjdnBrc2ZwclhDejV1RTJOeXFMbkFNNFBMV29xZlhVbXZlcVdTZkxRVmRUTmNiNlFuQmpxRkFIejB0VEQzdE9zbmRxZXVWc2NYSjhuWDZzVGJGeWNkdWNxMTk2dzNIeTlRNjdaSzd5V0hqZ1NVbXJtWmotemxlZzFDU2VyRnZqNmlJeENKVmt2UEE5aE5wVVFEbC00aGNrcEVPa0N1RTVGbHBUX3piejZXYzVNUXpnWlMwUkQ4NHNqYzQzTlJVc0R3RWducDg1T3lkMWxqd044YnpIWGN2SUJrVE13LXhFUnZGNkVxMGlGTUdLOWdTaHNtR1JsYTRjWkxfOEtqQ3FfQ1ktWDk0d1oyaXBkb0t4RzN1cnZ6U2VMVHNwazg5SW82dEtNRUFmLVdHZk1GZHpNcFBiQQ?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-16T14:15:09+00:00"
-    },
-    {
-      "title": "三星、SK海力士利潤狂飆，為何市盈率還不到台積電一半？",
-      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxObGl1OGJ5RXRRQzBYRURZQXYwblpMRm1wQnotVFpBRUtiN0pINXV5czVBYjl0MmJyQjVib084RDJQY19IZmo1UkdMZ0hudkY2MUFXbXpqNmdoenpWcVEwRG9fZEN2TW1wNG9MQ2Z6V1hPdks0bk16WWUzNDVLbm1YQ2VMd3I2NnNzaWFmOHY1NDNKUWFCNzJ3X3pzSV9MU2tZekRlYld1TDlXX01LVnA5b0NoMU1yTzh1MjJpdk5UVXhkUVlza2hmZE1VQU9xei1OdXBORFM1RjhQS1h5bXgxRTlOa0E5cnpjWWFrY3NhNnhsODRGdFFrRkVKcFhacUJxTEh1THNmaWR0NzNvY2lHVTdjelVhWjVieUlqT0RoQ1JVRkhKajI2TWphbmh3amNPUXg2UmY2Y2RqdjU2b2JCYVVnV0lvYVRxa2pDaVFrd3FoVm1y?oc=5",
-      "source": "NAI500",
-      "published_at": "2026-09-16T12:57:29+00:00"
+      "title": "亞太科技追蹤：三星電機進入MLCC漲價週期；台積電CoWoS產能上調；CPO影響被高估",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIbEFvMXptMXJ4WnJackxQZ2JJVmNwcmNYS0R2UTVLaGhVdmttR2h2TUtYblhMYThCcThlbzdjeS1yU05wX00tZm1rRk9NdXNFS0ROSk0yR3I5dw?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-18T04:54:01+00:00"
     }
   ]
 }

@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-23T01:33:09.262364+08:00",
+  "updated_at": "2026-09-24T01:33:55.367839+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5220",
   "name": "萬達光電",
-  "count": 4,
+  "count": 5,
   "news": [
+    {
+      "title": "萬達光電雙利多 營運喊衝",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaSFFXdS1ycElmVXEzZU43aUx6ZndKX3NsVm1GN0VwRmNrY1BpcTdzSTE3bUFabHJkcU5pdG1vMktPUzYwMVl0b0d6Nmx3OXl5anBtUXBLX2ZUN0VSLS1Xc09fWWlGX19DSTNV?oc=5",
+      "source": "中時新聞網",
+      "published_at": "2026-09-22T20:10:00+00:00"
+    },
     {
       "title": "萬達光電歐洲工控需求回溫，營運動能續增",
       "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOVThPSnhvVUluWVRCOGhKTkVEaVRyOVdrOWl6SjBPSWFqNjFzM0ZCY3p3ZkN1X2pES2N5dG9WQlZWMDN3RzBaZnJLUjY4cUVlSkc4VmFQT1YxMnp1b2wzMjdZWUxmbkdncFVid2dQMlNnOGJ1QlpKNE9Zb1Z1aFZYdTJXUHUxYXoxYk9GbDU4YjdTX0FXajBPb0ZtMkFvYzFOdm05cjFza1lSVmd3OFRaTk9wYXNTM1dRMlFKZDM1Q1d0X09BbjlNZkl3ZDJuX2hGZ04xWGNwRUJhUkR5R2ZPZXBkakZnZDA3VHR2VkcxVC0zUWhzTVFFRHRmLXVFVjFURDVqMUxrZ0FIdWxneTlHeU5GanRuVElfWUt5eUd4dU5pU3dFRGdadlpYMVRGQzFSMHZzQg?oc=5",
@@ -20,7 +26,7 @@
     {
       "title": "萬達光電 2026-09-21 法說會",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVzQ0TVlZWHBiVUNZMzRpaHlQS01fNkF3VTZyUXF0bnc5YW1lOEdlU2V4WlR2MjRCUjYzTTlLQkk4Mk9OS1lHRS1FYlJFQ0FqbWV5bXd5QzhnMVlXQVhoOVR6akhVWkFQUnk1aXowUzN3b1E4aDRiQU1jbkFNR0xDOFZuS0w?oc=5",
-      "source": "finance.biggo.com.tw",
+      "source": "BigGo 財經",
       "published_at": "2026-09-21T08:22:39+00:00"
     },
     {

@@ -1,27 +1,33 @@
 {
-  "updated_at": "2026-09-23T00:35:36.113238+08:00",
+  "updated_at": "2026-09-24T01:33:29.976938+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4938",
   "name": "和碩",
   "count": 12,
   "news": [
     {
+      "title": "和碩小金雞東擎今年「考200分」 童子賢笑喊：不知道股價會怎樣",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qSk9fZ3RGY3BsMDllWUZqakpmclJYRnVtV0IxMzBsbzZ1NlVxSXRwUFNYMEpoVkQzcXI3Sk1LdV81ZFlkLWpPeHFyaVp6V2JXdHc?oc=5",
+      "source": "鏡報",
+      "published_at": "2026-09-23T11:04:00+00:00"
+    },
+    {
+      "title": "和碩童子賢笑捧金孫不嫌多 期許東擎上市如放風箏要姿勢漂亮！",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VamJrMG84TS1xTWVBQjF5TEdORVNFQUdJcHVka2xKWjJQUUJ2YnlwNlhpWFBibnF1YWtuaXMwaXNRSjRUZ0E3T254dUVqVXdsWEtWLUZpOFprQ3R1NWNvTkR4VTM3QdIBa0FVX3lxTFBpaXRwSkE3TG03VTZrZ3Vib0o1NmZIY1V1TDF2VGVYVXVLV0pHZ015QUhyN3lBRkUzc3J0SzgxYWxOVVF2V0JYeEVLNkZZSWFYREdPSlhsRjJrTDZjZHhZZUJ2WlpVb2V4dU13?oc=5",
+      "source": "鏡週刊Mirror Media",
+      "published_at": "2026-09-23T09:56:00+00:00"
+    },
+    {
+      "title": "法說會速報》奇鋐去年大賺近5股本今年將逐季成長／和碩今年業績挑戰雙位數成長╱中美晶打入低軌衛星市場",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42b0lyeEdYcEhJOTdheWRzV3FheTNzY2t2Tk1kS21PQjlzal8tVmp3UlVZdFBCQ2EzTnBGNVlpX3hZYmE1bXFrOTA1bVBicTRJUGNpYjBSWVY?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-23T00:30:59+00:00"
+    },
+    {
       "title": "和碩華擎小金雞東擎科技10月下旬轉上市 董座李俊瑩樂看明年營運",
       "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxPNklEM0ticTdtODcyYUtCOENYMkhHcGFXT0s2cWVxQ3QyQzllVHBFeXh3VGxDZzNNZjFyd1llT2VYSVVocGtlVEYtQ0lQWGZEcnhNam5mYTJaUmstbWh2Y3dqUXJxam1sUjJodUdqRUhtcWV2LVFXVjBkR3pDeXpwVFRScmZ6Tng3aGZpMU95c3dZb0g1Vm1sdmJzUC1kLUxDbUVSMnlCd2VaYXpKaC1EVTVvWHh1Y1NnSkY4X3VCd3BlZlBOM0dNLVgtRXBNY05hcy1tU0hyV05wNVpKRlZ5VTRKUFJ5SjNVS3d3Y0NMdmU0d3d2bDVnRENtWmpkSmsxLWFQNVBWT3Y4WVY2VjBpZzFBZlJYbmtuMFVPdERGSmJLbk1lSTdmZHQyRzdjWlhiZFptSFZfczFrOWZfNUZEWmlxdU1LVWkybXZ3WFl0UURReC00aGF3c0hlb0lybjQxVVQ0TGhyOTZTYWgwTlRuTzJscjBoMlh1aUd5aUZyM2hsSjRzcnRNeEtWZ1BobFBZQXVmSjRSUG1GNEVRS0lqSmhHaDRpYklfZktzanBMRQ?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-22T09:06:47+00:00"
-    },
-    {
-      "title": "4938 和碩 - 沒讀二重唱，揪好一起凍漲😂😂😂 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FMjlYSG0zbFF5Y0VtQjl2SDhYdUpCNExkRFhSNzNMX0NVRklnY0tpRjJSbEFXTEFRZ3RKa2ZaVmRIWURabUxxMl9EVS1HRWZfUm92aGhwUXQ?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-22T01:19:29+00:00"
-    },
-    {
-      "title": "4938 和碩- 記憶體不是已不缺！東擎3對策備戰記憶體、SSD 看好 AI Box 明年放量- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fVzNRT1ZKMU54TDJoY1dFRGFfMExFZWhtbDJKZXJZanBtWm9QYW5pVFlUMTJlM2dJek5xSF84TUp1bDdMYUtxMkhzOFJUdXFtc1BEb2RYMGc?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-21T22:31:33+00:00"
     },
     {
       "title": "2609 陽明 - 9/18 2609 -4938 - 股市爆料同學會",
@@ -32,13 +38,13 @@
     {
       "title": "和碩童子賢談AI依舊看好 笑問三巨頭準備飆車嗎？",
       "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOdGtXNGF5djBDaFVmZlBtVmJRUEJJYVE2NVZvN0lHejU0dk1nRExHcUJNdWFwU2dMNldJSGdwRDNwLUVSdVhzUkxNOWhfU3FBaDZfejJIdzJFTGNFRk0xakJpU2RLeTJuMHdNLWlRbUlsUUhMTkJsbUdCQ1ZFTU9NdE9OeG91TkVMZ1h2bHA2RWx2akVSX2NBSFZFUUJ1U2U1Z3VCcHIzVGdYLU56Z2k3clBvLXRrUHktelQ2WjVvT2VvUnE5N29PN1NjeUJFTXc2R2VIOVlTcUdGQU81M3E2Z3ZSRXc2S2Y5cXRjYWJtOU1lSUtHdEJ0TGR6TWVUSzZ4cDBzNGdtZGdsMHFjWUJPQ1ZnZXI2amxpSGlnSVZrejNOU3dRQlhYN1pzX2dxcVAzdUxiY3pLSUpCYjVoS2t3aS1Id09qaFU?oc=5",
-      "source": "Yahoo新聞",
+      "source": "tw.news.yahoo.com",
       "published_at": "2026-09-18T10:52:00+00:00"
     },
     {
       "title": "AI三巨頭齊喊煞車 緯創林憲銘、和碩童子賢仍樂觀看AI產業",
-      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxNR3ZJYnFSMnA4WlhrNUNlVnhEZ1U2WWtEclhZNkxoVzQ0ZXlXc01tckQ1aVgyZ0ZPZDBMNzEtZzE2SkV4bkVwNUo2LVhGbG4yTWtyeXE5OExCa2dLNkNnU29kT3NaVGVqRFFKYzJIbnlScFVsZTlsQ0VBR0tiNHFsTGQzZldMS05RZGJzdVNKR1AxSWoyRDV6aE9keHprLVh0RmtGeFY5UHBWdWU2WWd6STd5eHp5OGVldE5jRHZhc1A1b2RMUDRfYkZsYlppbWhRZERQR0tST2dSaG16WUhic1ZjSU1jQnNnSmxMel9rQ0dnaGpCZHZkNlBvQlQ4Q3R5amRHYjVFbFllaS1QdU5SazBUZzREMmhvZ3dCT19WR0lOc0dUVTRiODNHbHhlbFVBbDJXUUxlMTFBeFJpQzBjMlZOLUl2OXczOUFkZ0NTbHlmTHpfS1pJSm9qNEZYUXdsa0RCdzBlb3FtYVVFWURuTkphZmVwZDFEdUE?oc=5",
-      "source": "Yahoo 財經",
+      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxObUxObjgwSkNsOHY0b2QtV25PeDA4QUpfRWRVa2IzWEFyMml0TFRhM2hkZlZCLWM1SFBlNm5pbzBVZWVDQzBuNE1hMVZ3b0lLYk9jcGk1cWppdGc5OEU2ZFJ5QjZvMURmVzhlS2xoOEJQaGo5UkhSUldlWHp5dDNZclB6MFNNMTFral9sRFFpeEpDRlQzV1RjLUJyT3RrQkd5V28wdmk3NmZrbUtsT2MzY1FfTF90ZVJxN1NlMmZHSVRHU1lkWXpOVDZVd3hla25PbEFlWWxhbE9HQUFuUDl6V25DS1oySnpHWk4yNVpwZVo4WC13bHZyRlpvSFhjYzY4bVA3TDRBRU43WDg0dm5hY2tQVTQtY2FzMUV4eER5VG01NGw4cFpEUXRWNG90Wkpfb0tHdk1VTFdkUHZoZ2IzaTZWRnNKRWRySEVjeGgwbXpORGI1YTNSN3VoZmJJRGQ2eE94R3hlM2ZzRFpRUVZsZGFZaDBqaVk?oc=5",
+      "source": "Yahoo股市",
       "published_at": "2026-09-18T10:11:53+00:00"
     },
     {
@@ -54,28 +60,22 @@
       "published_at": "2026-09-16T23:33:00+00:00"
     },
     {
+      "title": "和碩(4938)營收查詢｜月營收統計與YOY年增率圖表 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MSXJQbjR2TkIxcE9KYV9DaGpsTFdMNEtnY1BiT0o2Vi16bVM0em5aNEh6ZDlvbDNGVV9LeEQ4aEN2Z2p2M08tdHVURXpKNHphdWNNUTV1TmlkQzIy?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-15T07:00:00+00:00"
+    },
+    {
       "title": "4938 和碩 - 廢就是廢 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04ODI2U2p3NUFYTTdheWJwTjBfWWhJMVBsbkptLWF6dW5xeElnaUZBNkdQQW1fejMwRHVmODV3TVFNdmFva2dSRUhvdEczbWVvaHMwNDJXVlg?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-14T01:42:38+00:00"
     },
     {
-      "title": "和碩營收／8月883億元、月增2.66% iPhone 18 Pro 帶動",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0cmFmWG1TU2xweUNQYzltWlJWb0hLMnVaanJwUDcxOW5obWRoLUd3QVB1aEF1SkRMZ0pUX21Yd21iUFpiY2VNVmRyMXhBWnZuRmhlbTFPLXNWUdIBX0FVX3lxTFBLbmtmLTVtdzI1dWZ5a193WnBDYXB6ei0xZG5iZ1ZLemw2SDcwRGR2Mnc2ODJZTXd2VGdXd3dYQ19MVHI5WjFKRzlmdTZnTV9FS3g2SHcyRElOVVpBRUlZ?oc=5",
-      "source": "經濟日報",
+      "title": "和碩8月營收883億元 年增34%",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOU9mWWY1U1lkbndubkhvQ05qMnExVFctOWs2Q0dlNnhPc1BSTFBiT09rMEpUaWZodVEwUTdnY25CR2pHS0lMWVl0T0lBMFpWbVgtWXNVcEJveXNudFZUZzU3N2ZiRjN6Z2Q4VG9ibF9VdlkyUE9hU3NXMm5ZMHVlcGdkSzBqTVhLZ0JseXlEVXZXNEFDMHhkOHVNSmpHWmhYQnVQZ1NfbWxSV2NvTGtXMlc1Vksxc0c4SkFKZHlFaDFJRUFRMnVSQlpaZHY1VlR5?oc=5",
+      "source": "Yahoo股市",
       "published_at": "2026-09-10T07:00:00+00:00"
-    },
-    {
-      "title": "和碩8月營收創今年第三高 看好第四季營運增溫",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVN2x4TFE5VVYteWxzTDBUNHpEU3FpSnJ1cXFmOUhvSHFTbGVqUTRmeW5BLXg4elNmQXdmVzBwMG5SNGVFcXJtcnBNcjVFUkhiQUdMLXN6S2Y?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-10T07:00:00+00:00"
-    },
-    {
-      "title": "大咖談AI／和碩董事長童子賢：AI將帶來生產力革命",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92Wlk5ZWFUdTd3M3JfX3ZYQWl2THhIMF9OM3Ewb2VEWU5aajNnUnI2eElvWkV1cWx6RlI3SlY1ektmYm9CcGtsQ1ZuMFgwYVFwT0l0TnZ4TVE?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-07T01:25:34+00:00"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-23T00:35:29.248360+08:00",
+  "updated_at": "2026-09-24T01:33:22.824016+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4911",
   "name": "德英",
-  "count": 3,
+  "count": 2,
   "news": [
     {
       "title": "德英生技獲外交部邀請 接待2026美加領袖代表團展現台灣植物新藥實力",
@@ -16,12 +16,6 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZSGViY1BrNEMzaXpPNk45NzE3eTdkN0dFeWd4NjhzZ19xc1RnZ0o3UTBsckZseHZDVG5KMTRVdW9WQnBIV2pydHN4OW9PUVVDNUtJ?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-19T02:06:53+00:00"
-    },
-    {
-      "title": "德英 115年8月營收1156萬、年減55.33%",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpN3FldWI0UXI4TDBWNUROek9WS0RrS3p6SEVYVFdxZnA4RWFuTExESVNpNEhWZ1ZLcWt3RG9DZUQxSDJNOGQ5Zlg5Q2NQaVVISFBCNklqM1g?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-04T08:47:52+00:00"
     }
   ]
 }

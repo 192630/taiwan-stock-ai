@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-23T00:35:43.188857+08:00",
+  "updated_at": "2026-09-24T01:33:37.704916+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4966",
   "name": "譜瑞-KY",
   "count": 4,
   "news": [
+    {
+      "title": "討論牆 | 盤中速報 - 譜瑞-KY(4966)股價拉至漲停，漲停價590.0元，成交2,485張",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84R0E1eEJOS0NFcDJYTUJyRG02LXV0WVZWYXN2SjZqWXBweVhkR1Y2TGJVRFJzUjhGbG1qamlqRV9vYjFPMG5rLWVMMWVqR0N1MW1oRnF0Qm11TjRPRy1PQnhzaDc?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-23T06:29:09+00:00"
+    },
     {
       "title": "【13:00 即時新聞】譜瑞-KY(4966)盤中走強，AI與高速介面族群續成焦點",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbEFTSE9MbWVac1Rxd21SemlRTnhUUEg0YU9ZXzIzb2NEZzk0djM1cDI5SUU1dHJrc3pvV1ZVZmhLMVRaOGJSU3c5a1ppSnhNdUNEZmlEUzBvdW4xYTdiMG42MnVXZUF4MGowQmExWmVabkN4OUg1aUZYc3h1WmQxdG15bmhOTmZpeGRzMmRB?oc=5",
@@ -22,12 +28,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jWVNqYkQ4WnZsTy1PaHZ6NFpnX1JaMU1jNW9MMUQ3ejUza0lCT1ZNenZXNUhrQ2FwY2hpcWFjQnp1M3BFTmZER0FHS2JEakRyVFFOZUVVWEw?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-04T07:00:00+00:00"
-    },
-    {
-      "title": "《熱門族群》AI把高速傳輸推上風口！祥碩、譜瑞-KY迎升級商機- 上市櫃",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40dEsxT3ozbEo4NkROWnh5VWo4TVFKZEJPNmZhSWRmUjhSMzF0Y09FM3VhaVpWR09rSU15aEhMYkNkcGVyT3Z2TXp4VnE4Ymo1dVNieXJjZW9DckFoUkdicklpbVhGSVV5bnc?oc=5",
-      "source": "旺得富理財網",
-      "published_at": "2026-08-24T07:00:00+00:00"
     }
   ]
 }

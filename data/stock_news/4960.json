@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-23T00:35:42.178761+08:00",
+  "updated_at": "2026-09-24T01:33:36.588183+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4960",
   "name": "誠美材",
   "count": 12,
   "news": [
+    {
+      "title": "《自營商賣超30-17》微 星(65)、深100(63)、誠美材(61)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTDdWNVNSUHdDckowcy13T0xScWxuS0NpaHVLdXNuM0NVMXNzNDI0V0c5RU5Jb1VUM2hvaTVfQXRKWmVNZzBoMjg4VF84NnJzM0FiU1h4ZVBPMkFhM2JhRnlMZmtpVXNvbmhkdU0zaEFYU2tBWnRUZXU0NVNqQmNCQTRPTmhkS0FS?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-23T08:37:00+00:00"
+    },
     {
       "title": "《上週融資動態27-16》達發(6.54%)、聯 茂(6.30%)、誠美材(5.95%)",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdVI5UnN6RVJ5c1Y5YzU3Qmo3TEFFR3A3VnJ1WUFsa0ZWTzBlM01BZlFOb3ZXNG14amhtZzR2UDJLWUh4cXhWVGZfMUNGdGRKZjNCWjFmYXAtd2pLX0EwcWxlZHdINGpadVVuWGZweDBUbXlMNVNfNDBjeEhraEJjSkNrRlNUUFlL?oc=5",
@@ -38,7 +44,7 @@
     {
       "title": "光電漲不停！「這檔」衝第4根創高領光鋐、誠美材等7檔漲停 友達、富采、瑞軒都走高",
       "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQRmgxeEZlYno1amhVaHdQOEVSaHk1dmFFODl0bzNka1NPUExiUXFJZEtNZ0kwVmk0TFZvWGYtZVE5VUJucmpTcGhzZXlIVlFhME9uQXExZVhReHFHU3dBZ3ZZOVJVYmFqLXA0RHR6YVd6SmdOYUFCNl81Tl82RkJPZkxLN0tIem94eDFnLXNNVGJWWGloN3hzVjlPU2JkU0c0UzFlTWhWeGE4MlFNMWctSGxpemlPU3lpTUJrQTB3dlRaa3J5eTNkdEM1TGdiR0pQZ1ZoYy1DTzd2NVBxRHJzTEt3VFk1T1BkQnQwWXZtclpvcVpvS3Z6MTZWZzJqdHpoTWZCOU1kajJQMUlzdm1ISkViTS04bW5iTjNGbGVUOFlSNGlYci1pZmcxckdiSXpOaW1UMW1paVNaeE9QeXFwLVdoU2twNzMxMVFUU28yU2ExMW5vWkFWUzFNUDY5RE14RjNzVDUtbnUzazFIelRPbU1kemdZSUEwQUNwNjZHbGlwb00?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-17T07:10:00+00:00"
     },
     {
@@ -70,12 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdC14NzBMX0N0RDNjODAxYW1JOUEycmFmT0FKYUNfdUYtaWFaNU93QkFfV3d4ZWtIZTMwbHVjOXJ6U3otVFFNRVMtVjdua1pSTEk0VDJhUVZjZGVMLW5ZN0RmeUplT2pBS3dfdVZubTROUUl5LXlGazFOaE1tc3BDV0dkSWlKMGNm?oc=5",
       "source": "富聯網",
       "published_at": "2026-09-09T06:52:00+00:00"
-    },
-    {
-      "title": "【湯石照明(4960)】關於湯石照明(4960)最具洞見的投資分析與市場趨勢文章集合",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1xbmRqWUl1YTVLcWtvVUZDNU1rVEMyLTBQZXMxRy1oMm9KdGkyTzEzTDllT196V2lzTEJ5OU9zMzFtRWFyaUtrVldTUF8tc0ZPazlkZ1BNU01HaHZMcGNrMWw2VUFrTkNOdnJFZnJZT2Q4YkhEVFVB?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-08-30T00:40:41+00:00"
     }
   ]
 }

@@ -1,20 +1,14 @@
 {
-  "updated_at": "2026-09-23T00:35:55.997708+08:00",
+  "updated_at": "2026-09-24T01:33:50.931171+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5203",
   "name": "訊連",
-  "count": 4,
+  "count": 2,
   "news": [
-    {
-      "title": "5203 訊連- intel AIPC MODE - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xRVhFR3NmS2QwUWlDanZ3b1pNNjJmdl9KTkdQRlpUcEVfMkF4TkJIdjh5R2pLXy1MeC05Ym5yMFFYLUhiYWVLQS13MWF6allseTUxWi0yVGc?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-20T23:44:20+00:00"
-    },
     {
       "title": "訊連產品迎年度大更新，加入AI Agent與AI PC運算",
       "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPZUpMMTVOS1dqVzJtMno5d0U1ZzBFZUpOUDJkR0kxYlZxRFZJZGxWak9nTXBSeHM2cE5hU1l2Vy1hLUhjMXA3TlhGa3h5TDNkVXNLUlRta0xKREJnSGEyLUM3NmhJUlNOb0tmRUpJSGtJYnJRUmlMU29zM2lLUTZ1OHVrWjQxLV8waEl1ZU1LcENQT01NeV81akpaZFlVaTJNNVdsUDMwbHdtbzFUV1l2bEVYRGxEM3QyQXp5R3dLbFAySmp3NFZMQUtMUjY1VUNnd2hjY2pSc1ItUEdVdkR5Qlp0LUp1QTYtVlU5NXFNWDVtZjZkV1Q3TTN6eDZ0WnpPZDY1QkxJWGtQNUlHdmtucTFPXzNJSXQ1Vng2RXFaWjJMZw?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-18T10:07:05+00:00"
     },
     {
@@ -22,12 +16,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LNWZ4QVZvaE1xOUNTZTZfa2lKeWFjNFA2anR3Zi1xREdLNzQ5UWpXX25IOTdCdXVyRkliMi1SSllkTThCeUJhWWhGRjh5c00?oc=5",
       "source": "news.cnyes.com",
       "published_at": "2026-09-15T03:32:18+00:00"
-    },
-    {
-      "title": "群益金鼎證券攜手訊連科技導入 FaceMe AI 最快3分鐘完成開戶",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BR1R6MEVIQm1QSUlpaXRZcThocDhIdE9OV0lZWDFrTzcwSm41Y3FxZHhmX2pKMjNPNFM5b0RoVER4VWsyTmRaNG5pLUlCQ2RKcjFMNmxtUDlyZ9IBX0FVX3lxTE9KX1dMVUJZSzRqUlhoM1BjREx1cGNySHdzVXUxSG9UOXV6c1o4Y0lJbjBUY0I5eE1JaXRoYXo5RDJDSDRjbjFZYy1qSVU0WkwzUzVuMWtHZldTQzN0VzhR?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-09-15T02:28:14+00:00"
     }
   ]
 }

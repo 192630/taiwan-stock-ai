@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-23T00:35:50.515381+08:00",
+  "updated_at": "2026-09-24T01:33:45.208331+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4995",
   "name": "晶達",
-  "count": 5,
+  "count": 6,
   "news": [
+    {
+      "title": "熱門股／漢測上櫃首日飆122%、衝4995元！中籤1張大賺274萬",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uU19MV1dTT05KeFA3blFuQnA0bTJoRzJ4eEJyZWxCX3ZNOGpyS1d1V2VJMWpCY2xNQkJzSDZzb25VMzg1V0I1c04wcEllYkkwRWNJZU84dEN3bk1TblM4?oc=5",
+      "source": "非凡新聞台",
+      "published_at": "2026-09-22T21:32:30+00:00"
+    },
     {
       "title": "掛牌首日飆4995元封上櫃「三哥」！漢測中籤戶秒賺274.5萬 昔連虧10年、前8月營收暴增125%",
       "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQVDJ2SGMzZEFybWNjejFTMGVVWXF6Y0ctS1lRV1ZoR21zVkpKRm44czR1RWZqYkhaOVFwTXlPWG9zckxjWmI2V1JqcC13Q2VsRzk4WUM3QllZNWpGcEVrd21nWTFDb2pLZG5lU29yR0Z5OGF5WjllNEFCR1VNcWFWUmtkZXI1ODd1NGlpV0xZZW1uMHpKVjMweEZmSUVpb25FbTNOam44SVROeTJhclVfWG9RakswUUs4U0lFeXZlM2dYd0ZGQTFkTE1WNFN4Q3JiSU9qMWMyQ3VPX3cwZnZpMXJSLUpaUVRHdnlJSUNxM0dWemxCZVI4YUZ4NkdXNTlNZGFrSU9GUUFKc1FyTGRFcFVndHVZRkY4LXFVeHJ1Wl9jc1JROWMtcnBwd0t2ZmdBTnd5cVN1akJpWEZvUWhwb2Y0RngwYzIxaExFOTVaeDJOenZ2UHZaTWtFTWl4TzJBWG9QS2diVklKYU13YVZGSWluMDRpbkN5QXFiZVh5MTZ0Zw?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-22T09:30:00+00:00"
     },
     {
