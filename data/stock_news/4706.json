@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-09-22T23:33:50.954881+08:00",
+  "updated_at": "2026-09-24T00:36:25.363772+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4706",
   "name": "大恭",
-  "count": 1,
-  "news": [
-    {
-      "title": "討論牆 | 盤中速報 - 大恭(4706)股價拉至漲停，漲停價35.6元，成交208張",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZNW4wOGRqSHdBNWJsd01XbkhVU3BKYnlqR1VpbnBUUDlha0p1eWgydzZtTS1uWDg4bVpUZzBodWg4d0NMOEQ3VGF3SktLeTE2LTd5NFRXMFFfTWFLc1lMbWh4ei0?oc=5",
-      "source": "LINE TODAY",
-      "published_at": "2026-09-11T04:09:46+00:00"
-    }
-  ]
+  "count": 0,
+  "news": []
 }

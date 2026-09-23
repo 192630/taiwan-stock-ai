@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-22T23:33:47.500534+08:00",
+  "updated_at": "2026-09-24T00:36:21.950980+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4583",
   "name": "台灣精銳",
-  "count": 4,
+  "count": 2,
   "news": [
     {
       "title": "Chiome Bioscience Inc.的Price to sales forward – TSE:4583",
@@ -14,20 +14,8 @@
     {
       "title": "台灣精銳(4583) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WMHpWLWt3SUwxdVg0Y3VMMXJYcmhYQzEybTNWLXBrY0hhcGwyZTlEOHdJaWs1SE85bmFkNFlhRjEzVzNnb2V0a2wzWGNCaGhlOG1r?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-12T09:01:29+00:00"
-    },
-    {
-      "title": "4583 台灣精銳 - 廢物公司 低能高層 漲都一點點 跌都一大根 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11ZlZvUUYxMEdZdVk0REk2M0VyN3UyRUgzV012WUV5TGNtM1JBRVB0Yk5jbXE0QmF5SDNwLWFGMHRZWXl6Q3IxenhrTVlGZUxTQ3hoMXlvYU8?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-06T07:00:00+00:00"
-    },
-    {
-      "title": "4583 台灣精銳 - Where are you?林X偉 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwckpwY1VhdzJIdGJnUjF3TTIxeThQWDgtZGIxNU10ZTdmQXFLVGF4MTRCYXJSWHNqS3NIWTlGVVFZZ2tta28yZFdJR09uSTZHbTBQQUNfN18?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-08-24T07:00:00+00:00"
     }
   ]
 }

@@ -1,26 +1,20 @@
 {
-  "updated_at": "2026-09-22T23:33:30.490162+08:00",
+  "updated_at": "2026-09-24T00:36:04.665416+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4532",
   "name": "瑞智",
-  "count": 7,
+  "count": 6,
   "news": [
-    {
-      "title": "《投信買超7-6》正新(165)、高力(163)、瑞智(160)",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMVJSanVSVTk5ODhvTlB5ckpEa0dxaUJmWWRwRFMxNnBvaE5fWlNoclNrZDg3NEZZOENha1lfNEc3ekE5bldVUElhckR0WmRoQ09KQ0FsZ0E5cU96dG5PRUREdlBiRjBxbG1WQTkzWDl1dXp3bzlCSnQ3bEh2VjgyYzRZQndsVmdt?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-22T08:11:00+00:00"
-    },
     {
       "title": "瑞智(4532) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93aVRVOFNaX1dhZGJoQ1pQckxobkhjdlgwbTk1d1pZZWE3ZE4zTW8tZXlYd21QWnNMRGdVcFpxNEFscnY0OC1uaWZLT0ZjYmhZdTBj?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-19T08:19:52+00:00"
     },
     {
       "title": "瑞智跨車用搶進陸廠供應鏈- 日報",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HYXhIYUVvZGlkT3hVWFhwZEh0Tm9IUURsNzlJbW51dE5TQ3IyN2s1V2hlaFE0NEN5YW1NOFNUakRTQUtHWW14R2d0ZWFhRjktNU9aZ2owY3FCd3NRd2tJ?oc=5",
-      "source": "ctee.com.tw",
+      "source": "工商時報",
       "published_at": "2026-09-18T19:00:00+00:00"
     },
     {
@@ -32,20 +26,20 @@
     {
       "title": "4532 瑞智- 瑞智自結前8月合併營收155.29億元，年增4.72% - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9POWYzSVc4NnNFazRiak1EUDV0a2g1a0NaNTJuU2RaeE03R1FqN0FYYVZ0V29FVnBMZ2JrZnJDZ3U5cTduYXFXNHNDTlZaZjBGQXQ5eFBPVGk?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-07T08:50:23+00:00"
-    },
-    {
-      "title": "瑞智營收／8月14.96億元、年增21.41% 前八月年增4.72%",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFZ1hzTDlBR3RqT19jTXRDSUVoS1RVeUExU0U0WmdETjZqZHRMTDBOQW1jVjAtendCcXFuU0FxS2lHMmFwSmlkMk1pMTVscEdG0gFWQVVfeXFMT2t0TXhNU1E4MFFhOTZUdWFmRHBYTHlOMkV4X2ZlTTRJd3JOZFZHR252WTJEd0lwWEhySUxfTnNXb0Qzc0hQeGFESV9jS1puZGlIWTZQaXc?oc=5",
-      "source": "udn.com",
-      "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
       "title": "【2026/08月營收公告】瑞智(4532) 八月營收月減年增，全年營運續看向上",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6cEs5RThXODRiTnRfN084YnBJMDRpSEJBX01tYjJFMzRwYVVQWVFmdVIzcGZqRlpLd3pDcEJsTF9qc3JKNFBxY1I2Q3F2WGxsd0NKcktUQm5pc0RiUTlFZm5ZU1YyNEU?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-07T07:00:00+00:00"
+    },
+    {
+      "title": "4532 瑞智 - 8/26的專訪 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nbXBPWUhocmpGZGliaWlwNFhtaGQxclhwUDBHdy1nQkh5bGJHY2tzZ09kTExzOFJNNWlOckp0Ti0wMU9DeGxzcjE0QXF3Nks5cXk5aEZjeFc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-01T07:00:00+00:00"
     }
   ]
 }

@@ -1,26 +1,32 @@
 {
-  "updated_at": "2026-09-22T23:33:55.821431+08:00",
+  "updated_at": "2026-09-24T00:36:30.862844+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4729",
   "name": "熒茂",
-  "count": 3,
+  "count": 4,
   "news": [
+    {
+      "title": "4729 熒茂 - 整個無言整個無解 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MZURhb1N5Z3pla2VZT3pnaGt4U2NtSjVDLUtmbTA3bU9vWjIxZ3dQSl9yVmJlc3I3ckc1VVZZRTl2bkFHX2JFWEU3bFJSN3c3VDZHWFllT0Q?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T03:08:49+00:00"
+    },
     {
       "title": "恆瑞醫藥(01276)：HRS-4729注射液獲得藥物臨牀試驗批准通知書 作者 智通財經",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83cTdwRkdaeTFHU1JCcFJKVUhMcWhNY19GVW9KUHNXYXBsQWN1aEZ5TUFvdkE2T2J1ZGZIbmRDTVE1NnRVc25KWlBKbjJFZXRnaHlNZHBFVk1HQ3dCSnZhQXctX09hZHRpbmVRSEk1OG0?oc=5",
-      "source": "hk.investing.com",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
       "published_at": "2026-09-22T01:20:38+00:00"
     },
     {
       "title": "恆瑞醫藥(600276.SH)：HRS-4729注射液獲得藥物臨牀試驗批准通知書 作者 智通財經",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WZ1ozU0liV1RTZG9pQzVUX29LMFFzcWNnQkpockd2bTNjdDg4TE5WR2hud0Rvd1dvU3owN2lHOWhBRFRzcS0yOWYwcW55eW9oY1E4ZFVOY1dBSVZZMnJsU2huay1XNF9sNzdxcEFzelc?oc=5",
-      "source": "hk.investing.com",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
       "published_at": "2026-09-21T09:30:01+00:00"
     },
     {
       "title": "Hurco第三季財報出爐！每股盈餘0.35美元，營收達4729萬美元",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYVJzdkZXaXVTbVRjUTNRTEgxR0JTdFRhNFdhX1NEdl9CVTNBTVpHR0Y5SjdTdEp0SVQxTDZjQV9selA2aEtzbXg1cU5JLUE0MDFJOU9WTy1KU2dBSXptMXY0TVR4eFRIbncyYmhCRnJFWEN2NHlZTDhPRWVmQTFMaFlNUEVNTkpHX0JVX3Fn?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-04T07:00:00+00:00"
     }
   ]

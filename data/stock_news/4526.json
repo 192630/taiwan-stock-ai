@@ -1,38 +1,38 @@
 {
-  "updated_at": "2026-09-22T23:33:27.926228+08:00",
+  "updated_at": "2026-09-24T00:36:02.107180+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4526",
   "name": "東台",
-  "count": 9,
+  "count": 10,
   "news": [
     {
       "title": "PCB設備供應吃緊，東台訂單看到明年上半年",
       "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNOW5xXzBFdVVYSER1QnBRWVRiZHFxMXM2U1JlSmJVV0hxTnQ1NlNOVkw0SE1ZNUF4SXVvOFA4WGdOSnFWNjJKbGE3aUJvSXNQOUNHbXRka1NUUllNUU1mbm1MTUI3QUhHbjRTcDhIYnhzak1LanN4S1NDRVFoQm5IWkhhOFB6VDQwbVMxVzRKUzFtSlhOMWw3a2EtcUpVQlFhN0d5TzJYaHZwNVd5eGRZenlvd2tIelY1S0ZfanByVGFTOExfdkhuRk1LT2hEMU1jcnAyaER3Ym9nekdJR05XYmR4SnNxcGRSTVF0QzZmMzhPdE9XS2NKajllSXVIZ2Y3QWhZUEUwVzZzamlxNzRaeEV5NVk0N1FrRExKR2paSTMwV3FUX2kzR1ZqdUo?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-09-16T04:55:14+00:00"
+      "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
       "title": "今日最夯股／東台在手訂單明顯回升 股價收紅 | 市場焦點 | 證券",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5M1ZxOXlIV0NzVnBNeWI4ejh3UVM0emFvMnY5UHQ3NGxPLVdHMTBYU2lEMVZIbG1CZlREN3ZjaWc1dzRXRVcyOURfMXVFY0RUaTh5dzZRS21Ldw?oc=5",
-      "source": "經濟日報",
+      "source": "money.udn.com",
       "published_at": "2026-09-04T07:00:00+00:00"
+    },
+    {
+      "title": "東台切入電子設備 先進封裝技術亮相",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxORUJiWXlaYzVqdmt5d0dyUzFRNlUtLTJsMG91OEUxUm1jLXdjQ2VYeEx3NVFVWjNPTkYtbGpjdFFucGMwSGhNTlR5NVFET1hFX2M1R3ZPTmxVQVppN3dpWGNyUGsyUXQyemNSUHBKbWR2aGxTX0YzZlVucGVjQThwWl91d3lVZmNCcHlmeDl2a3lSdFllTDE0cUdSSWVLT1dOZDZHUU9Vc0RaVS1nM1lDZ3RSXzJPNjJzcTBOUm5pSFRMbVZhVlVmaFlGRHFnWDczYW9lRXNLbExWemwxbjVWRzk4d3hkZUdXNmFzX0JqMHB3aGlRMHdyZWg1OFRMeW0za1lRMWZ0ZlpUcWZ0SmoyeGg2S0g?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-03T07:00:00+00:00"
+    },
+    {
+      "title": "【11:42 即時新聞】東臺(4526)股價上漲至32.5元、漲幅4%，受半導體與AI設備題材加溫帶動，短線站回區間上緣搭配近期法人回補支撐",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2d3pzanhQVkdxVUt4bV9jclJaRXBZUjUzM3pxcktodC1Pbk10U24xdC1WdGZBbzg1N1VCLXRPdVJ4eGEteURkWXZtLUxSZ2M1TDk5SlA5Q3I?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-02T07:00:00+00:00"
     },
     {
       "title": "〈SEMICON〉東台半導體與電子業務占比升至4成 下半年營運優於上半年",
       "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxONFRtX2Z3MkRvTlFzQm52M1ZZejZtVmxTOFVHLUQwOVljZEZwWWZJT3RfVlJncUlGZHEtbzE2QmhkNU01Z3pZMmE0Z202U3c2N0xTNE5TVkp0WVVySE9USTZxUHdkeFdXS2pNOHh4bF9Halo3dnN5UFp5Ty1xUFQwVjJWeWdPLUpRU19FZzZuRGpVbU9kRG9ycFczQXlDdjNjbXRxYnY1WmVqb1UzOXpFb3d6bVZmTF9IQmtsWWhnLTFiVTJ5VGw1WmN2VWV0UElLYjF5Y2YxZkVLcFlic0NMa0xKQUlHRFo0UFFlNUVleDBFc25WdE9Wd29NQlMzTFJ1SXVDdWpyejdTOXJEVy1SeFVKOUdIT3M0djNqSl9xckRYel95a21MdVU0cl9HRWhBSkhpd3JpYldIVlJrYjY3V1p2Uk5MT0M4dEM0TVl1VVVIV3BINnhYX1NSNTNqT2U4WXVwMUJFWV9SZmoxcG8zQzdRV2NTVnhyR3VBWGptZ1VfRXJHQVd6N0lPV1BncXh5TlZJcg?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-09-02T07:00:00+00:00"
-    },
-    {
-      "title": "【11:42 即時新聞】東臺(4526)股價上漲至32.5元、漲幅4%，受半導體與AI設備題材加溫帶動，短線站回區間上緣搭配近期法人回補支撐",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2d3pzanhQVkdxVUt4bV9jclJaRXBZUjUzM3pxcktodC1Pbk10U24xdC1WdGZBbzg1N1VCLXRPdVJ4eGEteURkWXZtLUxSZ2M1TDk5SlA5Q3I?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-02T07:00:00+00:00"
-    },
-    {
-      "title": "【12:47 即時新聞】東臺(4526)股價上漲3.11%至31.5元，AI伺服器與航太佈局題材吸引買盤切入＋短線脫離低檔區間帶來技術反彈空間",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNmhYMzZsR2picnMteXMtS19fT2xwd19CMkR6THZjODJZVGZlUUhuNTd6TTM4b2NLTWYtUl9iaGZzODJRdUY4YWNlblFRcWhKWkRQZXNJdDViSVhUXzMyeUd2WWJnVHFwekU1NjhaYV82WHlCZXBseHd6OU1jcjAxOGpSeG9WbzdFU1p4c253?oc=5",
-      "source": "cmnews.com.tw",
       "published_at": "2026-09-02T07:00:00+00:00"
     },
     {
@@ -42,9 +42,21 @@
       "published_at": "2026-09-02T07:00:00+00:00"
     },
     {
-      "title": "東台 SEMICON 攻 SiC 硬脆材加工！雷射加工設備打入EMC 先進封裝- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55UWxPb2hXbmV3MmFnblFST01QWi1EQi1zaG1Vbms5RU1DdGVjSWJkUVRVRnY5dG9wZmVfUk1FYk03LVNMZ1RXbkRTTFpwV1lLTW5mM3FuRE4?oc=5",
-      "source": "cmoney.tw",
+      "title": "打破日系獨霸！東台「客製化神刀」撬牆角 CoWoS創平機2台已交、雷射鑽孔機10台在手",
+      "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPYmVVTlJCbGdoVzdGZzZ1Y0dCWWNHN0JoeHpJaGxoVVY3VHR4OGIwNjMtLXoyVS1HU3hpcGphXzN2dlktanBDMks2UkhULUowTEt4OC1fUDNXWmtodENDS0hrTzRFVFRMRUNhTy0tZkM2Z1duU0ZMb3VMdm5LNzFMUXJ0M3VLWmZqdHpHTUpqYjd6Z0tJZVFNOVY2QktUaE1pZzdQUFp3M3AxMmZmSUxOUWd4WEo5eWJwTGlvS3JTSm9TVTJNWGpGT0Q3LXhHRXVCeFQwNURNcm5lS3dnU0F6cjVURmJ1aW0weThIcTR2ZGVuLWJLRGg0anhMVldlc2dIWUgxa21rbjlSZ2lhTHdUTEdnRDRQdE5mSTE0enpwVDBUVE5QbVNfaGktQnM2aVprYVJLNVQtVm5zaWZDR244VnhPYUtReFhnazZIeWs1OVcyS0hpbFA3VWxOZTVDYUNtNWVLeEZNV2o?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-02T07:00:00+00:00"
+    },
+    {
+      "title": "專治AI晶片「高燒不退」！東台均熱片敲門半導體大廠 從蘋果M4瞄準到輝達Rubin",
+      "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxOa25NZkJXb0R1dFNwU1JiVW1qeVBjQWVtVFBIbkRJSnZaR0hFVy16UENFYzAwVFlxYzRvVEpUbEQ2RXFGMmhxNmw5TEtRa2ZtazRZREdsRDNIdDhvemM3a09UOGRmWUFXRXFCNmpqZFh6UXlBMlRQcXVtcmF2QzBpc0I5cHM4dnV2NHZmWjFFLVlTOUJ4dVVBelNhc0Zkamp0VnJ4b09kQktKc212N3JWNTJ6NVFEaVdRakZMTTNHaTdGLS04bHMtNHlaTVdxR1hYR0x4djBlN0NHbVlHT2lnY0ZHdzVPRnZRdWh2eGpQX2VOc1RWTGt5ekxXM050RmJ5Q1Z4ZXlwTWZFSDRUTHQwbXd2aE9OS242Q3hvU0RTdXVIR19GcG11TGNIZmxHeFJOX1BXM3ZDTkxFaktfbFFEaV9rQm1YV0l2dWY0SkhjQ3duWVlTa0JLVFQyTWtzTGVjSTlhUXoyV1VJWUdBSmF6elJqZ3JNUk5DRTAtVERBS1BNYkpJdkIxTGUyMW8tVk5FVmc5b1BiSTAzWDdiOXdQNTE2d1lvcndseFdLTmJXR2Rmd1E?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-02T07:00:00+00:00"
+    },
+    {
+      "title": "【12:47 即時新聞】東臺(4526)股價上漲3.11%至31.5元，AI伺服器與航太佈局題材吸引買盤切入＋短線脫離低檔區間帶來技術反彈空間",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNmhYMzZsR2picnMteXMtS19fT2xwd19CMkR6THZjODJZVGZlUUhuNTd6TTM4b2NLTWYtUl9iaGZzODJRdUY4YWNlblFRcWhKWkRQZXNJdDViSVhUXzMyeUd2WWJnVHFwekU1NjhaYV82WHlCZXBseHd6OU1jcjAxOGpSeG9WbzdFU1p4c253?oc=5",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-02T07:00:00+00:00"
     },
     {
@@ -52,12 +64,6 @@
       "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQQkMwc3dpaUdEMlZHZ0tfT05qMWNUbUx5Tm9OaXRxZWNHcDVScnBKMV9RYzdCVy1hbklxNGRQS3J1dUttQ1ptMnpSMDZDZ1JaMTBlZHpxY2kwTWNGVU0zX3dMWVoyRjRvSTYzNzlDd2tTdFc2TWtuY0ZVeF82MC1CMWdEYzl5ckFtcEpSWWhqczh3REw0VkE0RFVFS0VpUDc4UTlYQndxVTZ3cHF1bF9scTdLTjgxSm9PWUJZQU1ldVZoSUl3QTVKTmZuMVFIaGM4c09PWVFzb2VuZkktMUY2LW9YZXBuaGtoeEVWR0xhVXQ4aGVjWU0xR2VqNXFtTHZ5QUVTamRvVkcwR0YyNGZ2M2dTM3pBNEVlczJqLVRqUGxjcE95Z2ZscGFBVF9TM3lhcFd4X3JYZ2dRSzhOUWhzVzl4Mm9TMFR5b3ZWU05SOHRsQ21fSkQ0YUhCckl0OTN2RnRjVDhUR3RVcUk?oc=5",
       "source": "Yahoo新聞",
       "published_at": "2026-09-02T07:00:00+00:00"
-    },
-    {
-      "title": "國際半導體展 東台整合電子設備與工具機雙事業部參展 (圖)",
-      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxORzE0eVB5WFd6ZmFQc0FxYnBwWGx2MlFKU0laeFV0OGNkdXNjNTNoaHRmWmpxY0QtbXFLQnRka0VoT0l0T2dwcWVKTDl6bGJhTm1Zakk4V0JxM0x2VW5SM0M2b0I4QnlYQlBpc0VGY2lfamcxWUN3RldOT1dreVdDTjVRdk9Jc3hNd2UtZ19NLUZQWlBvR0ZsQ2xxZEhmcm5DQTY2clJWRjI0UDRHVFFrSVdQbWpjcFBFVmt2bGVfRm4zSElEYTQtYXVkTXN2R2ozdTE3Vmw5SmRzVHEzNHZpSmZsanA2dFJBTkRuU0NzU285VUd4VDBFMDFJb2JoVUNEeWF1YlluRWxRYnZnd1Blbkl3bnNzSWp6c0RYdHZpZUpodHdoWHNFcEVBTmEwVWxfUUxJYS1WemtBVVliWEN3WjhJRGctU1BEUlFKYW9VNDJOVVY3VzdXXzZUaDI5TjVXdG9uU1J5UTloSUZObG5pMUJaS1FYQ3VBNHdsc2hJSDMydw?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-01T07:00:00+00:00"
     }
   ]
 }

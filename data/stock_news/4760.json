@@ -1,39 +1,45 @@
 {
-  "updated_at": "2026-09-23T00:35:19.659333+08:00",
+  "updated_at": "2026-09-24T00:36:38.546138+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4760",
   "name": "勤凱",
   "count": 12,
   "news": [
     {
-      "title": "AI需求續旺 勤凱營收年增幅居被動元件族群之冠",
-      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQWHlaYXpBbzlvSTBqckxEX1U4VWRMbmJCM3NlRlJaYkNOVV9YM0xTWU00ZzdrTWx6a0ZtaVpVaWw2dldWQ1gySUVDd1pFUDRRcmNQVERBclc0a3FZdnVXM2FHbnZ4XzQySU5xLVloRG1zSG5Zd3FkZkxtX0dtMWVUdEdPVTBvZmhMMTE2Z01LVzBLRGl5cXhmaHBNNDZhYkJSLXRvdnVvZndpeEhZV00tb3lhdVpFdmxRYW9peGlQTkthMEFfWDYyTlVLWWVhZzItUzdjaFpuSTgwVGZWd01fLUpyN19DZE1kQU5KOElmbWZURkpiNWZGcnB3RWFrbktYNDJNYVdXdGhSc05oUmJCZDVELXQwUW9sRi01b2MtLTVEdzF2RnQyY2wyMUZyWnV3ZlZHS2V0bkpMMExvQ0hiN1NpUHB4dHBpRzdUZEVHWQ?oc=5",
-      "source": "tw.stock.yahoo.com",
-      "published_at": "2026-09-22T05:52:28+00:00"
+      "title": "勤凱(4760)營收連11月創高卻暗藏「虛胖」？毛利率探底後，銀價回落能帶動獲利真爆發？",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82QlFjVmZYNm1ZRGFYUE1VNDg3SHJWRlNkNndqYWcxSkJ0LTM5YlB1Zk8zYWVkWGhIVUQ0ZkFRcVRRNjdlR0F1anFGcUFSelBwZ3VjeXBn?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-23T06:04:39+00:00"
     },
     {
-      "title": "4760 勤凱- AI需求續旺勤凱營收年增幅居被動元件族群之冠- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWXzliR181NnppMTJRRDhYbkVVZEQzajJkUE0yVER6MnlTdHFWaUhLSTc1c3VTeGdMbjJzRUZoT2V6YkVRNDFfTllrNWpvd0c3OHJsdmQ1S2U?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-22T05:00:30+00:00"
+      "title": "《其他電》勤凱前三季獲利 拚賺贏去年全年",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWG9fWFJLTVJZbnh0X2F6eTZReHFlbWJfUUhZSV9FRVp0aDZYR0RpRVpDUWV1NjF6SV85aEpqNjd1VFJIZU9OaFVObDJ4SUxoUjFSeWszVlJ1eGNTdTJWTEdWSXlTc0h5ZFFUYi1sc2ZYcm9OM2xPd09IMU1MazdXbnF5MUQ3MzFI?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-22T23:58:00+00:00"
+    },
+    {
+      "title": "AI需求續旺 勤凱營收年增幅居被動元件族群之冠",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQWHlaYXpBbzlvSTBqckxEX1U4VWRMbmJCM3NlRlJaYkNOVV9YM0xTWU00ZzdrTWx6a0ZtaVpVaWw2dldWQ1gySUVDd1pFUDRRcmNQVERBclc0a3FZdnVXM2FHbnZ4XzQySU5xLVloRG1zSG5Zd3FkZkxtX0dtMWVUdEdPVTBvZmhMMTE2Z01LVzBLRGl5cXhmaHBNNDZhYkJSLXRvdnVvZndpeEhZV00tb3lhdVpFdmxRYW9peGlQTkthMEFfWDYyTlVLWWVhZzItUzdjaFpuSTgwVGZWd01fLUpyN19DZE1kQU5KOElmbWZURkpiNWZGcnB3RWFrbktYNDJNYVdXdGhSc05oUmJCZDVELXQwUW9sRi01b2MtLTVEdzF2RnQyY2wyMUZyWnV3ZlZHS2V0bkpMMExvQ0hiN1NpUHB4dHBpRzdUZEVHWQ?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-22T05:52:28+00:00"
     },
     {
       "title": "村田MLCC停產、台廠吃轉單紅利？被動元件回溫「國巨*朝600關卡邁進」 勤凱領頭衝3%、概念股多小漲",
       "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxQWG9fS3Y3TGhQcENUbVpkbEVOTXp0NDBtUGdEOGp3alIxM3pETERkaUtWWDZHakhKREVZaDRJSjhoRTBwV3I4REZVMUtOSXZVNjdnM1pFVXVhTUJJN3g2RzZ0UEx3V2hPdk1KZWEwLWRLUC14azRJa21LWGxFV2puU0d6NGN3MmwyWXgzUWtYenZFTHdDYTgtS3M3YTFPU25ZcV90WklNYTkyWkFWM0MwcTA3YzdrSnRpWmlrOFdTZEd3a1ZqRndrc1dlbWdhLUtoUTk4MElIX29iV0RsVUp6XzdMNUtHQUlDYkxaZGY3R25zQjA0VlRzYS05a1RmbzBsbktPQWNIOUtOWDNhY0FOY1hNT1MxTXhrcWdKZUxpZWZ5TzdkZXlOcGVrRzF5Mk0wbUZCVkFzZjVhbW1sTkM4NHFjMUVoc1paZlJXcnEyX1FiM29fdzNrWDczYUg1QjdFdG9WXzVfMGxwSTZJQ3dkc2FwWHBXR2dXVXYzRHJwNjliRnF0Z3NtbU53?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-15T03:43:20+00:00"
+    },
+    {
+      "title": "村田擴產 法人看好國巨、勤凱等供應鏈受惠",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80cTd0Znp0SFhnUlVESzMtaUk5LTE5dkIxdVZ4Q0I0TVUxS2luaTF3eWM0MEJoYkRJZ3BJYW9HT3h1NjcyNFFrQUdjMmNvb29J0gFWQVVfeXFMTmtnVGtHd09FRWxDQWRwZVZnV1ViNFV1UnJPY2MtWTctOV9kWTh2Y29DZDdDQVllQWR2dC1ndjJkY3dYTEJmc2dRbnlLamFOb0tTUEJDSWc?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-15T02:28:34+00:00"
     },
     {
       "title": "4760 勤凱- 這隻的外資最變態，只要利多見報，ㄧ定賣出！美商高盛、美林，大... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAya01Ra2U0Z0RUSGxHWW9xLVQ3T0x4UFk1Rl9ZQmxJaFRNNG1wMFdBS1VTTzQ2MXFST3Z4VC1uTXotMVo0SzdiVjZMdUs2Qmx2Z3hRaU96RUQ?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-08T22:41:30+00:00"
-    },
-    {
-      "title": "【2026/08月營收公告】勤凱(4760) 八月營收3.05億元，表現亮眼、呈現雙成長，創歷史新高，年增91.54%",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTFFKdmRNT08wUVZyS0xlZkdsTTh0MnFqTG9lNEpfclVLVlFLc1RGalFmZnJaUUhWRHREM2JOeHhWRXJCbU9kUGRDdUZhZ3hxb3YxWjM3NWZRSWhBcXNieU9sRENDNFI2ODUyczliMVVxVEhRQ0xxaTEzNWlmbmlvdDBoLUxiQmxuUGc?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
       "title": "2330 台積電 - 📣0909台股觀盤重點 🔴【PTFE】勤凱切入PTF... - 股市爆料同學會",
@@ -50,7 +56,7 @@
     {
       "title": "勤凱切入PTFE供應鏈 合金膏獲軟板大廠採用",
       "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNQ1p5Yll4VW5McmkyMWd6anY3c1Zja3UzUURMUFhnNU9TajdfSGc0SXlmdks1bkh0UEc2a2g1a0VwZ2hOaThXUGNIUTZpeTFrRnl2LW9rNFBpdXNGX0R6Y1luY3NxV0ZLRDZBQnozOHFiTDRsdkViVnRLTHlWX2xEZWdGc1hPRE5XZnFYam45V2VzYUthNXdQM2U4d0pPWDE2WS1FT0ozblBKdGdsUVlvVUdxZlNpYnZCV1VZa3A0QzBRNjR6YURvN25MdzdiR2s2MHFteHg4WGRmVnNTaHpqQ0UtLUx2VHg5MEhDNFY0MEpLa3NLa0x2U1IzMkVYajQzbE9PQnZ3SWozVlNjUFo1dVl4SXpiY21qb2hNMjUtNG9wZkxERzJRalExMk4xZw?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
@@ -60,9 +66,9 @@
       "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
-      "title": "勤凱8月營收再創新高 購入機台啟動擴產",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQbFFseDJHbVBiZlpZbTFrazRuTllDNTZpZXNGR2RySW5lQktKX2MzVFphS3h2S2dvMTVqYXB1RUpoNGNYVkV2Q0ZRNzdaSldvaG5FVG1KNm9IdnlveHlfSmo1Wk9IcmJkZzlVcURTMFQ5OVpZaWh4VlQ4eHVubGxGV1JMUHRmTFBITzRYajlremZKY0dRdHhlSDB6SE1jeEJLdkZmbzBQMXJlSFA0Q2Y4czVlOE5zSEFpb2VfbEw2djh6di1pUHRxcW8yTEFpMzVJS2RUZk9RUE5wU3dlOU1mSFpJRWlXN3IzQk5LTzJPRHdwbzZrbDNBbFM1QXAyRFNFdExtcVY0emwtOF9salhHVnNubXpBSU9Pc1NWbW0weUxHMjZCYTN5M180WGE?oc=5",
-      "source": "Yahoo 財經",
+      "title": "勤凱營收／8月3.05億元、年增逾九成 積極擴產",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fc055bHNKdkxOZ1lzc09ISjVRNlg4OGlmQVI1VnhFcXFBdzNSZ1ROaE8wbE9jVzR5Z3BHV0JJUVc4NTVlamViN3h3Ym5ndU1fMVBfUXpmWWpzT2PSAWBBVV95cUxPNXQ2NmNPVnNQWWRKVTBUOW05ZHhsc0lrQ3JaUnVrNmNISG4xRFIzRDV1eWtJUUV2U1ZWQV9oRVF1MHR0Q1FYZkJ4V1VIRTRndTRlMGs4VkdYS0tRYkdybXk?oc=5",
+      "source": "money.udn.com",
       "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
@@ -70,12 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBMYnQ5WnJiRTVaZzVLckxVaWJubDdacU9YRTA5U1NUdVRPZVFyaWVNLWp3MnVTQ3dWc1JFcjByTVVHckU1UkRSd2w5MXRQZWRsUGdrRjJ5aHU?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-07T07:00:00+00:00"
-    },
-    {
-      "title": "被動元件一片綠！「這檔」慘摔9%領信昌電、華新科、禾伸堂跌7% 國巨、勤凱也掉5%",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQVFI3Q0ZRbU82ekszZ0lrR0p5ZUhGdk04SkcxUGJkalZHRW9rWVZ2enZMZWpYcjFoMl9wVEthNjlwTDVuN1RYN1kxQ3BvM0g4a21YNHozME4wYmQ1b1hXUmJ3LTdsc1RKRWV6YUhvVzFHZkZPaVBHa2M4LWJjbHRXbE91QlFqOEcxNkp4NWgwcjlacVhMZ1NhZ3ZOZWl6QVpYRGJGUDRjd1RjQkV1NW5PZ1dybzJpV3BGZUhmVG1MUFFOWldEYnhNVGU4bHFTRm5VcnVMTEhhMUlmMGFfdjZta09uQm9CbkdISDRTSElZWHZTX2l5Z3BiVkxxWTBfOUdxX2Q1VTdTQmQyQQ?oc=5",
-      "source": "tw.stock.yahoo.com",
-      "published_at": "2026-09-03T07:00:00+00:00"
     }
   ]
 }

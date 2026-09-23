@@ -1,21 +1,15 @@
 {
-  "updated_at": "2026-09-22T23:33:37.325798+08:00",
+  "updated_at": "2026-09-24T00:36:11.567142+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4552",
   "name": "力達-KY",
-  "count": 2,
+  "count": 1,
   "news": [
     {
       "title": "【2026/08月營收公告】力達-KY(4552) 八月營收2.53億元，營收雙減，年減13.84%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaEY4S29kb0pldFpnOFkwUzZoekgtLVdtblpyWk10Q3pfY1dpeGJNZWVReUh6dEYxWTFmZGZOanZZZUp5YWEyNTc3dG1OMUxhYlVnUU5VNjQ3V2M2LXZkTTdvT3l4Y0IzT1lkSjcxWXNxWmltNG9UUXplQ2JsTy16WGwtMVpRc19vZGc?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "力達-KY上半年陷虧損每股淨損0.07元 去年0.6元股息10/28除息",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ma2IycGRnVW9YeUFwRzdLX2ZoY2ZoMDdsdW9xcjFlcFRXXzBuYWZJcDJHUFRwRGJIbWxyU29BNWNLSWx1ZHlYQnU2a1l0c3c?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-08-24T07:00:00+00:00"
     }
   ]
 }

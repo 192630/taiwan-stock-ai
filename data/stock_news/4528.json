@@ -1,20 +1,14 @@
 {
-  "updated_at": "2026-09-22T23:33:28.856187+08:00",
+  "updated_at": "2026-09-24T00:36:03.103364+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4528",
   "name": "江興鍛",
-  "count": 2,
+  "count": 1,
   "news": [
-    {
-      "title": "【2026/08月營收公告】江興鍛(4528) 八月營收1.12億元，營收雙減，年減1.08%-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQM2RSS281UmtyZ3NHa1JvYVFFVGN2YmgyVEhYQ2JZOFBKMHN5ajdMdlo5TjFLdzVjVzEwXzl3TWlONE5CTmFubVkyMnlTOHpLdTVBclV4YmRNYzJ4WlNRODZCNDJIakNZQ3JzaC1qZ2ZWYlk0TmRCTzN2ZlA4bXgxZlVuMWN5XzVJZWc?oc=5",
-      "source": "cmnews.com.tw",
-      "published_at": "2026-09-08T07:00:00+00:00"
-    },
     {
       "title": "江興鍛 115年8月營收1.12億、年減1.08%",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RZVdXV3l4NlJMbDRtSklRRzRkYjd6QXpBWldMRTNMQlBpT2FPR1NKemVEQVlORXpuOE1ncjRxaTQyLVNKWmhOR2k4LWNqR1owNk9pc2lUYmc?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-07T07:00:00+00:00"
     }
   ]

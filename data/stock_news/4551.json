@@ -1,44 +1,56 @@
 {
-  "updated_at": "2026-09-22T23:33:36.759437+08:00",
+  "updated_at": "2026-09-24T00:36:11.124983+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4551",
   "name": "智伸科",
-  "count": 6,
+  "count": 8,
   "news": [
     {
-      "title": "營收速報 - 智伸科(4551)8月營收8.02億元年增率高達33.5％｜新聞快訊｜豐雲學堂",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4U0h6Mk5TUW9jbmdCV1VrM1NqekFpVkpqcVNTWlNjM1NINHhHOUlZZWFlTDh0OGN5WmNCQllmMFFLM0ZYejZURTlMVUpHWHlBaDFHaTFSWExuVERhRkZDSnFGWk5WR254VXBkM2ZiUFdmdDRCdHc?oc=5",
-      "source": "sinotrade.com.tw",
+      "title": "智伸科受惠客戶擴產+越南新廠，Q4營收拚創高",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNOUJETHl4c3FsaGN0eDR2MWdTZk5aVDBKdFZubWd0c1paWGQ4VFRjVG5XSVFsUXVPRDhUbGpmWHhkNTM1NC00RjdoVTFDYzlBXzZxa243U2Z6c0VIMDlGaVEwVnhsaW9WQURfRkpuSzRod2lEOU43bkMtR3FiZXBZN19rUXppTkNvcmF6RE12Y2phTWZxenRiM1RiLXVwV2RtNkk2MHhMbTRpOWhKUHo1OXZhZ3Z3N1hfRGU0RVVWbklTekdNSDY0VFktd3UxNnZod1phb05QQ3NMSnkzbVdtR1l5REdpXzdXNFk2VWZscVBqU3I4V1R6NVZfN1FfeUVBOXQ0anctUm1HYlZ2eUFGZ1Qwc0hwU1cwbG5XU1VzY2pacUc3UzlqamNBLXFqVEVUaTJqV3BGaUI?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-23T05:25:43+00:00"
+    },
+    {
+      "title": "【10:50 即時新聞】智伸科(4551)股價走強，市場聚焦營收高成長",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTy0tcUlKRklPSjJpNUQ4d3hwUDJhYXdSbmZoYnd0V2RHWjZTWUp0WkJ1ZzdYV2ctcVBxMnBvUjhLYWtJclJCYjRpSXJ2UzdWSUdldWxBck1ETFFrcWJ2c1NSNDJIa0ZnZktxOG1xRy1FLWg2eFF4aHcxTXJtTVczZDE0YkZQSkcydHR6bElR?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-23T02:50:55+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】智伸科(4551) 八月營收8.02億元，年增33.5%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNzU1ZXBaVDNBUEtLVXNOeHhpeGNTMUw1OEhRekVQXzJ6UTVLQkhVbWdRemhqYjlDbjVNSDJ6VXJzTjMwaGNlemU4Wi1tNzJFU0hGeGhzakdUSzhxSE4xLWEydndPSG9WMTNtazZfQjVFeV9ZNXpYNEM3YklIZ3A4aF9hbGhZTDI5SkE?oc=5",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
       "title": "從黑手到算力心臟，智伸科靠「三年打怪」心法跨界奪伺服器散熱大單",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YaEs4UDFWdEk5R0xLem44eDJGX3hPbE1wOHV5WWtIR3AxQVVUR2VjZ3ZYWW43LW5WcFA0ZEQxQjRFLUJCNWYwX2o4RTllSHB0Z0Z1aWxHVHY?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
       "title": "【12:44 即時新聞】智伸科(4551)股價上漲至170元、漲幅5.59%，AI精密金屬與伺服器水冷題材帶動買盤迴流＋短線關鍵支撐區上方企穩吸引低接資金",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTlg0anctc0VNaFp1OXJNWVBmTkdLY2MtQ0d3bGdnanRKOHRZWS1BTHFxeXpwMER6UFpNeXNQdVhZOVAtYUI5TjhzVHd0TTRJdUdiMV9BbE5OS25zbGl5eFpmZ0M1Tk1UczhseVpYckRFcGRlcUxSQVgyWURGS1ZtSVY2Y1J0ZkpEdlZCZTJ3?oc=5",
-      "source": "cmnews.com.tw",
-      "published_at": "2026-09-04T07:00:00+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UYnl3T2FxV0VyQ1pwUGd4X3BCWThyS0ZZeVZXeW1VZE5TVmlBcHdrbHV1bE9KR2dnS3N0VHItV1hNbHpGSUtYRjZSUVlnWkM0bU94YTBQRWNDYUg1bGdMTTFJOXd4aEk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-04T04:49:04+00:00"
     },
     {
       "title": "老牌黑手變AI散熱黑馬！智伸科1月決定做、第二季就量產...總座揭驚人拿單速度關鍵，每3、5年就在「打怪」",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMHNfbkthQVNyLUdWcjBOM09lZEJ1SWx4akNfUGt0YnNqZl95WFBGLTFydHkyOXhfRTlJUEtRQTN0TVgydTdEWDVzYnNGM0FWWUplLWtvUzU5ckRndG9id1ZqWkJCd25SbmRLZmNVblhKaG81bVRuZVNaNHREcnRsdg?oc=5",
-      "source": "businesstoday.com.tw",
+      "source": "今周刊",
       "published_at": "2026-09-02T07:00:00+00:00"
     },
     {
       "title": "【12:21 即時新聞】智伸科(4551)股價勁揚7.21%至171元，AI散熱＋車用精密零組件題材發酵、短線技術面止跌反彈配合內資承接",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaDB1Tlp4SGhROXdUQnJsRUtLX2p2MnJWZ3A2U1loVVV6S1J1ZldZYjZIazFTUU1uS3JDWUJsT2NOS05kU0k2c0k2UXZCejNJM3FPLUlJV2JfQjR2eHZDNjBfUEdSM3ZpNWhWemphY3l3bDNOal9zd2F6NkxLdk95a2NtMzU1bThRSy1UUl9n?oc=5",
-      "source": "cmnews.com.tw",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QSVlicVZQbVppY1V0bGFFUmtrZ2dFX3NScl9LVHAteU9iQ212QjhnbVNmSXBrWVNZOXBsQXhYbUdPSHpYdEx1SzJXM0pUdFpsS2g0TEplcUZFS2FpRG1NSjRGOFlnMVE?oc=5",
+      "source": "CMoney",
       "published_at": "2026-09-01T07:00:00+00:00"
     },
     {
       "title": "【12:45 即時新聞】智伸科(4551)股價勁揚站上170元，AI精密金屬題材帶動買盤迴流＋短線結構轉強吸引法人關注",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPenlYeXRLc3I1R0VIaGJpUGV2VWhrSXhqZlUxanZaX0xzLUZqcEpTa202MXZZeXJXQ1ZSTjZUeHAwR01lUm1MSU9SZ002V1BwQ2FUYWRvcDhVb3kxeDV1a0ZzcHBvVm1sUHcyVjc5c0owSFFuVXhVZkpqMWZsbHdTRi10azVydlF3dFJ1Y1d3?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-08-27T07:00:00+00:00"
     }
   ]

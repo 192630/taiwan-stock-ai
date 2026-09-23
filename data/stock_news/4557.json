@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-22T23:33:39.225917+08:00",
+  "updated_at": "2026-09-24T00:36:13.611117+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4557",
   "name": "永新-KY",
-  "count": 2,
+  "count": 3,
   "news": [
+    {
+      "title": "永新-KY明年馬國新廠開始貢獻，營收有望挑戰新高",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOOGxMOEdRaVhSTkZZNTVsdE9SVm9RLW5wSDk3NGNEOHNFMFZSUHlzMGdKX2VQc3BOZjBvVzczNjRRNVhvbGVYaG1IN2QyeVVfanFnSXZYd3NaLTRkQk5YMllKenM1emc4Y1lOMFowLXRQVENRR3JoeDdLQW1OMGpYaXRoVFY3MEVqV1BkcnJwbUktRi1lQUpvQ0UzTHhkd0ROZWQzNU9VU05zZTE5SUtlY1pyNGdWWTlWT3k1WEdZLWd6U1ZmQm5VdUo1cWFQUUtDdmd3Y1lrblpKSFZBNjZjSEpzVFA4N1kzUElZQUJWZ0tBWFo2THVzQjJ5NFI2QnBXbUFmbEVjMFpYT1BkUGtJVGZVSE8wdWlfYjB3Q1JLWi1qNmJMRzgyaTdnYkRLUklweU16UmhYSGVLMzRVMVZCMHpxdm1LSHZFRkswRVdIZXA?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-23T10:01:00+00:00"
+    },
     {
       "title": "【2026/08月營收公告】永新-KY(4557) 八月營收3.3億元，年增4.22%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaExJLUQ3RGN5c05GUG85N193QmJibTlyMDlDYWdtQ08xUlBwNmtzVHBZNFdiT2h1Z1FPbm9MTU5TUEdZUnZrSUcyUHAtWWZrLUtQcE5oTmFiYUJ6MHJEQUVGd19FSnhfbV91c3NIX0V2akkwNV96TjYxVHBhUS15QTRJQ2w1UEFPRnc?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
