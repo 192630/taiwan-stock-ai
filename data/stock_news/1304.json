@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-22T11:36:24.464520+08:00",
+  "updated_at": "2026-09-23T12:35:29.892701+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1304",
   "name": "台聚",
   "count": 12,
   "news": [
-    {
-      "title": "1304 台聚 - 有種就真的漲上去 😂 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GTG4xYzB3RkJpS0ItUGg5WlUzb09wLXFTSEsyeHNqSmJsU2dCdlRDS0NsemxIR1lQZWtDQUFQRF9DZ0pVd3VVcjBGSG5TYTQzUDhpbmJET2c?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-22T00:53:12+00:00"
-    },
     {
       "title": "台股西進首度倒退嚕》中國學徒複製台灣經驗 台塑寧波、台聚古雷淪錢坑",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwblNsSzJzNFFiNmp5R1N1X1lmRVZOZ3E2ZjZvaWhndjhEbzNjVURyWk5mZ0xLOWoxWk1XODFBVm50b3VBTDdOTDBjNXBqc1hVXzFTYkJDWVI?oc=5",
@@ -30,21 +24,27 @@
       "published_at": "2026-09-14T07:31:20+00:00"
     },
     {
+      "title": "台聚、亞聚評等因獲利復甦前景不明而維持信用觀察負向狀態",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mYmlCTzFNVWlOdk0tR2pDNnhiempTRWZHMFdPMm1iZVR5VXkyMmxHYlVxT3ZrbnJPbTg1dmFiY042bElfQXNDMmxLZ1lBNC1V0gFWQVVfeXFMUHR5VTh5dkFuRnFlN19CaEhJODJ0NDRoazNHZ0drZmIxR3lUZWk4bGI1b1pPSUk3Sk1CcjhzNzhLQllvQmJSQUZHcHhSWGlSQnhWT1pkd2c?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-14T07:00:00+00:00"
+    },
+    {
       "title": "【13:24 即時新聞】臺聚(1304)股價上漲至12.85元、漲幅4.05%，8月營收年月雙增帶動買盤迴流＋外資與主力籌碼偏多支撐短線走勢",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUkJ3M1JmSGQ3NVh3ZENmTUhtenBJeXo5QjZ4dlE0VUNJTzFidVk1UVRyYkRTdkZwVkZWdHNaamw3Wld6Z1RSYkZCdUtyQjBGQmRzY2paQS1LalNGbUlMOVlGMmkyLWl1ZEk2ejJZaUdsdWR2Q0ZBTFpORnBmRWJGZWNGUnQybWdpQnZXUkV3?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
-      "title": "【13:12 即時新聞】臺聚(1304)股價上漲至12.45元、漲幅2.05%，塑化族群題材延燒＋法人與主力中期偏多結構支撐",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONmZZSWhiQWNISlBTVDRLZW1UZldrVTl3RXBJYjFVU2lRYkJiclEtR3F2d3l5TE1CR0hkWjQ2TTVyak5pUmtIZ1VIRWZoMENZYUVOTDRzVFZreXh1N3JuUnpCaUh6WVpNQWpoVkd1dlN4N3JBeDlTbjVkNUZ3Y2IweVg5QnBNSi1pLVlqeDB3?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
       "title": "油價飆漲、下游買盤復甦 台聚、亞聚、台達化8月營收成長",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ORDg4dUZPVExMd0RvZ3A0VW00MGU3aXpmVUFseWFOSFZ3R19jVjhaakE4R18yZFZ6R3lpdHY1ajVTM3dvT3pBejFPaFU4R1pzZDJZX3c3SnVCZ9IBX0FVX3lxTFAzYUswLXhrM0RfbERONUp5RDN3el81cGpLaEpNWGItLTY2NDZ2cmExS2hLY2VWMy1VcjN2bkpYR3Q2TnlRZGZreXZxdzNJbC10dmJfVDlOR0JtVE1xamFR?oc=5",
       "source": "經濟日報",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
+      "title": "【13:12 即時新聞】臺聚(1304)股價上漲至12.45元、漲幅2.05%，塑化族群題材延燒＋法人與主力中期偏多結構支撐",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONmZZSWhiQWNISlBTVDRLZW1UZldrVTl3RXBJYjFVU2lRYkJiclEtR3F2d3l5TE1CR0hkWjQ2TTVyak5pUmtIZ1VIRWZoMENZYUVOTDRzVFZreXh1N3JuUnpCaUh6WVpNQWpoVkd1dlN4N3JBeDlTbjVkNUZ3Y2IweVg5QnBNSi1pLVlqeDB3?oc=5",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
@@ -66,16 +66,16 @@
       "published_at": "2026-08-29T07:00:00+00:00"
     },
     {
-      "title": "亞聚終結10季虧損 台聚集團靠「少賣」先救獲利",
-      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOMEFRVEFkWlZ4VHJ2VUlaSXdyOEZqaExxTDcyM0R1X01GdzN3REg1bF9JY1JVbzZsa1VVTXk3bmUyZkxkTkZ2bjR0ekMtYy14UnFiZUZzdHlXWHEySHptc285MHFNRjdWV1dGcjh0MjB3WXJBRjgzc2FSR3dqTlVndy0zcnR1d05zQktLN3dmeEFoVWdCeGkwTWtlcUtSSmlwYlB4TUVZSnRDMlo2aFJxbHVrTGROWkJ2a1A0c2hyeE82RWYwMWZxVk5CNXVRNG5Nd2gwbkphTWtjVmtOOU5iQjZ5N25XU1VyRHU5bkszOWZJNmZCMkRON1NLa0h0ZFhDdnY3YkkzdlBmUUlRWlNHa0lGbzZoclU2TEFZRXNvNXhYV0hYYTFNaV9OQ2E4SlpIU1E?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-08-28T07:00:00+00:00"
-    },
-    {
       "title": "1304 台聚- 台聚集團高值化轉型拚突圍亞聚、台達化、華夏強攻差異化產品- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBMZ2ZjSGtDWkt2dmhKMnk3YlNJNUZyQkVxVnpiU05hQWtWS3hYazNrN0prRExua3ZJNlVYYzBQVEFHMDZYMnZGVW9IN2VqdGFVb280VmdDNV8?oc=5",
       "source": "CMoney",
       "published_at": "2026-08-28T07:00:00+00:00"
+    },
+    {
+      "title": "台聚、亞聚營運好轉",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91Yl9Cc3BrRzFpRVBJcmJmdkhtS3kyQkJOV2VmMHhFbUZYSkJ5bldJX1lEY1VMeXJWclEyeDBkQlBuWU9oY0ZIbEg0ZHZrNDNZU1paeXVqNmlFUdIBX0FVX3lxTE9CM05oSWNsNVd2Z1FJNkI5eHV4UkZrd1BXNWRtUHhQcVQydlRkRm5sMFR5a29XbXBpXzA3cVRRblp5WjVLT21aa25FVHJNZW80XzRKV0FZTk9mS1F0MFNJ?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-08-27T07:00:00+00:00"
     }
   ]
 }

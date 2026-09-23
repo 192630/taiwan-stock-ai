@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-22T11:36:16.887860+08:00",
+  "updated_at": "2026-09-23T12:35:22.557316+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1229",
   "name": "聯華",
   "count": 12,
   "news": [
+    {
+      "title": "聯華食(1231) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zNjJaSVlLNzlhdnJ0WWhTcFVaS2QxY1oweE8tbVdGTlJ0NmQxVTBQR18yRFFZOFRhSFB2UnVkaFhKbDBpU1FBd0pJT09sZHIxUV9Z?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-20T04:29:02+00:00"
+    },
     {
       "title": "聯華食品總經理林家齊退休 扶兆民暫代",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EWHZ5YmlPdl9aandzN2djZmFaTkpBZXlGdW9VeFhDVHNkZkVhM212ME9YN0JJdFVXNUFybFlSWm5DRHhNVFZSS3B5Q0c5Z0pNSGw1NXpveHU?oc=5",
@@ -22,12 +28,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LbVI4UUdmTzFRX2lHa0d3Q2hIVnJZS1hlN0d0dXVkNzdPNDJLTGJOdGZPbEFjcnZmZkV3RkNfb0hRU2ZRcloyVm1sdmhfeTVnU3dheWFEVDY?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-07T12:21:42+00:00"
-    },
-    {
-      "title": "1229 聯華- 這檔在六年前開始存股時是心頭好，從40建倉一路到60都曾經加... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2c1J1a1l4X0RXdWxMX3lmNXhuNERMdmhqbVY3WnlRLVRmdHgySDFHbjBLdWl6Smg4WkRtWDhYSjJ1STBfMUpUMXNZcElqSy1nNWxfWnBxN1U?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-04T07:00:00+00:00"
     },
     {
       "title": "聯華電子八月營收驚人增長30.7%，創新高！-CMoney 研究員",

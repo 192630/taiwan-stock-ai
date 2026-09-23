@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-22T11:36:17.352687+08:00",
+  "updated_at": "2026-09-23T12:35:22.979260+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1231",
   "name": "聯華食",
-  "count": 4,
+  "count": 5,
   "news": [
+    {
+      "title": "聯華食(1231) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zNjJaSVlLNzlhdnJ0WWhTcFVaS2QxY1oweE8tbVdGTlJ0NmQxVTBQR18yRFFZOFRhSFB2UnVkaFhKbDBpU1FBd0pJT09sZHIxUV9Z?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-20T04:29:02+00:00"
+    },
     {
       "title": "聯華食品總經理林家齊退休 扶兆民暫代",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EWHZ5YmlPdl9aandzN2djZmFaTkpBZXlGdW9VeFhDVHNkZkVhM212ME9YN0JJdFVXNUFybFlSWm5DRHhNVFZSS3B5Q0c5Z0pNSGw1NXpveHU?oc=5",

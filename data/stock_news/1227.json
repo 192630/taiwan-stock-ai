@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-22T11:36:16.374443+08:00",
+  "updated_at": "2026-09-23T12:35:22.103693+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1227",
   "name": "佳格",
-  "count": 5,
+  "count": 7,
   "news": [
+    {
+      "title": "1227 佳格 - 趕羚羊樂色 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05S2lMUDNDMDJzelpvd2VVSngtbXNzWTRJSmtzTnNDY2ljM3pjVG5OQUhrZ0dOa1RmTWdDUS1kanNqUVFwY09ObkFweEtSbU9xY0FHNC1CaHA?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T10:31:38+00:00"
+    },
+    {
+      "title": "佳格迎40週年推數位互動體驗深化營養教育| MoneyDJ理財網",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43V24weTloamd1eXVvemhlZnlwSkVRZ0YzckJBQVp1TFBTcFJLTXFib09LVU1YNV9LSmJSZmNXRFA3TnZsVTBKOW1JSkk0UFNzbXpJMmJR?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-17T10:08:11+00:00"
+    },
     {
       "title": "1227 佳格- 台中會展中心二期展館統包工程簽約宣告啟動- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPdnpMeU1qdmRxOWJ4MERteEpLenViRjNIME90ZmtGVU5GSGxfUjR1OFZ1VmI0Qlo2UmFYZy16eWhacGxZN3VpUl9yREI2c29sa0d6R0xaM2U?oc=5",

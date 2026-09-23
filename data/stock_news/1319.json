@@ -1,27 +1,21 @@
 {
-  "updated_at": "2026-09-22T11:36:29.817735+08:00",
+  "updated_at": "2026-09-23T12:35:35.169192+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1319",
   "name": "東陽",
   "count": 12,
   "news": [
     {
-      "title": "東陽5月營收18.48億元 年增3％",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1iem5DS2JfMUxQZV8wMmh5UzVUd05DdnJlTExjdm1GMGdxb1V3U0NfbTQ4a0hqTWZ5WlNEYkNKc2tHRHZVY0E2M3MxZ1dFVGQ3Y2xtZEN2TU8?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-21T04:00:40+00:00"
+      "title": "東陽(1319) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kaDM1YW9BWlk0b2RlR3NjR29YTjVLc0RLSktfVW54a2wzS1drVGhfV2EwVnA5YkhrREwyaU1KTlUyTVQxUnA0NmVTeTVHLXREejRF?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T04:21:34+00:00"
     },
     {
       "title": "東陽、堤維西：下半年拉貨節奏可望回歸正常",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95ZmNBdjNieFV5Vm45QVdIYXQ0RVNpMVJjWk1pOHhqbXB4cVNzQmVIUG8xSEN2WGJvTE9fNzdoN0xvRkFfQXBxdjFNOS1JMU1UclJUbTUxc1Q?oc=5",
       "source": "自由時報",
       "published_at": "2026-09-18T01:41:55+00:00"
-    },
-    {
-      "title": "東陽第4季動能有望向上",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2WEJDSGhpWlJpX1ZtWGg3cjBKZm9ZLVJ1bHNmMU9YZHZOSGNaa0djWkZsclQ5dlJ2eDlnR1VUSEdySDVWYmJENDZocEZZT0440gFWQVVfeXFMUDdtejE4RlRHdUNybW81bm5wek95QjVqTV81U3M4Z0RWNG9Ba0NfbWRnOUotbmtwZFo0UDJrNUxMWmpfaXhVSThMcFFyaElXTVF3QXZCVlE?oc=5",
-      "source": "UDN",
-      "published_at": "2026-09-14T15:15:50+00:00"
     },
     {
       "title": "1319 東陽 - 關稅下降後，本業已經明顯改善特別看近三個月- 股市爆料同學會",
@@ -54,12 +48,6 @@
       "published_at": "2026-09-13T16:25:00+00:00"
     },
     {
-      "title": "【09/09券商評等報告彙整】東陽(1319) 今日僅1家券商發布績效評等報告，評價為看多，目標價為92元。",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORWw2aDlHWXlBLWZLYXB0R01hb2FkSk82LWc2QWN1bzVaUGluVXNjeEphelFlSjByOUV5Y2l2SnJtU1B1MnFOcEJTUXI3R1lHNzViRHZjN0JneWpqV0tfekV2dUxZOHNlSWRHcWhzTkJ1WkNvUks4d2I3Z200Q0RpYjF5N0FGa3dIRlE?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
       "title": "東陽8月合併營收19.46億元 年增7.4％",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2VTVVdnZrN3RBOF95T241NEJCcTNNUlkyN2sxT1V5WFdVemNpeW51eVVJUDBJOUlxeVV0TUJpeTlZZUx2a2MxbEtmQVVwWnNsWXNndndieUE?oc=5",
       "source": "自由時報",
@@ -72,10 +60,22 @@
       "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
-      "title": "新東陽攜高公局響應「交通安全月」 9/3西螺拚平安",
-      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOWU9GMVlRX1JUd2UxeEN6Ry1XeVRFb1ppSEMxZHpyUU92SVJmN3FMck1FMDlzODhmOHB0QU9Ob05TQlVOdk1PRkF0VTFYYk9hOERjNHFxVGhBa3V1TTRFdG5pbFNjZUdFbTlfaEUxNzRONGI1TXZLM0dsYUpRWnNiTmdOM2ZNNXZFUVZ0MjJVWlFEM0M5cUc3VHoteEhzbXlSc3JvVDhRblI5Y3k2MDZDLVBmUFRWRnI5S09ldFZnMTY2NXg4cHJjMko4ZXd4LTMtVnEtcElicG1jR3dmb3VOWEJvN1FGdVBxNGJ0eExIUy1GeEtydzdURWhTWlItM3N2czMxbzBPTDN2MHpINVV2bjBLTkRXdTBUSldVd2V5aFByUHNRbklLSWNPVGs5S09VY3E1dDZhRTNoUkgzWkE?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-03T07:00:00+00:00"
+      "title": "【09/01券商評等報告彙整】東陽(1319) 今日僅1家券商發布績效評等報告，評價為看多，目標價為100元。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOXlzWFdNR1BMaTN6aWNhTVB6WFpQSDV6a3dWU3VkUy1hMTBIT21hWkNwc1RRWGJpS3puUDNIV0dJbFBveFlHanREQXFkbXdxS0oxWnFtUkZVanE2N0lKdzl2ZTJBMk9hMmVjY1lIM1hnTG44eXpGaVZMblc3NHAwVjdGTVF2SmtCUkE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-01T07:00:00+00:00"
+    },
+    {
+      "title": "東陽光鮮蟲草與澳门種遠科研、隆泰健康達成戰略合作，助推冬蟲夏草國際化發展",
+      "url": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxNV3lmeEVybkg1ZXAwR2xKeUk3RzBvZnJuY25GeDJnaTlrV1cybnZVRFJCVERBdEFDU3JlVzluZ0sxbXpMc1lXZlFRVWZPRjRvUWoxNFBQT2paU3NZMmFPTUtoUDBTa2luUDkxSzIyYjc4TUNObDBTUTBQbFhYeWNPbG1RdmNsYmMtaWZTYzBqeHdBZjdOQUMzMU5PR04tLXdNb1BIVmtvZW1ZczNmeXRjU252a3padUJ4VDNEcXhXLWVReVJDQmxVenRwM1dxUFllU3pFUXA1UGlUQ013dVFxMFZXWS1aQnJodC1PQ2x2c0d5cHdxNzV2a0k4Tk12TUxiMUFVMEM5N192ZDFFVDBhdnIwT05xTm8wUFZ5d1BTUDBPMjN3N2lFWExpaDFucWJhMU5manBQZnJhT1NmaVZVeHlNelJZMFFqbWNnUFBfNklydXdDYmlBdHREaHZ6cmxWTVhiYWU3QU9rM2Nxa21OSHlOQnV5ZGlvb1lXY25pWHVZMGVKWFhJenkwbUItVmJPa0Q0MUcyNERrZDhfNWxfZElVSzhBSlEzNmhHU3I3RS1Nb0Y3bWFDYVRNaGQ0QTg0WjhWNEFMbXZGT1Z2TWIxbnhpQWtRdWZsMWVXcTY3dXhDWS1DUVpnWVRWc3U0cUhkTXFCMXB3?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-01T07:00:00+00:00"
+    },
+    {
+      "title": "新東陽新竹米粉輸港遭驗出甲醛 食安中心勒令停售回收",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lYkZjdEpoUW5OWVZrcFNCclA0UFN0TTdIM2drTWQzOHA2eHBBaVZCbTZRM0ZhdHZDeVVpMFkyazhDR2lxU0FIdW5FenY4ME9qRHBV?oc=5",
+      "source": "東森新聞",
+      "published_at": "2026-08-29T07:00:00+00:00"
     }
   ]
 }

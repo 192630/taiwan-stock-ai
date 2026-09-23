@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-22T11:36:15.463468+08:00",
+  "updated_at": "2026-09-23T12:35:21.254276+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1220",
   "name": "台榮",
-  "count": 7,
+  "count": 8,
   "news": [
     {
       "title": "台榮(1220) 個股概覽 | 個股 - 股市",
@@ -16,6 +16,12 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4tSHc1QWxXNWVKaGVfbXFnZVJscVZfRUhCdWRqbFlwU21USWxWZWZ2ZGo4WU1XWk5pX3RlaWVfU3p0d2UzMFBIM09UTQ?oc=5",
       "source": "FTNN 新聞",
       "published_at": "2026-09-13T07:00:00+00:00"
+    },
+    {
+      "title": "1220 台榮 - 美國生技指數8月已創歷史新高，莫德納 「癌症疫苗」問世1天大... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tZkI3cGJsX1IxR2VJTzlhbDJXSlUtUlI3UmhKSDZwaGpRZXh5MDF6TXhlbVdRM2JzRjJ5VWN4ZDlXTkxydV9WeEgtTktyVTFrUmVEYzhfTDc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-12T07:00:00+00:00"
     },
     {
       "title": "高點賣在1220、賺走141億的那隻手，最近又回頭買—— 4 步驟找出國巨的關鍵主力",

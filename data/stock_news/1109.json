@@ -1,21 +1,15 @@
 {
-  "updated_at": "2026-09-22T11:36:10.057256+08:00",
+  "updated_at": "2026-09-23T12:35:15.933489+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1109",
   "name": "信大",
-  "count": 5,
+  "count": 4,
   "news": [
     {
       "title": "【2026/08月營收公告】信大(1109) 八月營收2.69億元，營收雙減，年減26.47%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ1djX3RYUjBCdmUwT01NM3c3VFlFQU53bF9oeTVKYWk0MEpkbEJSc0lMTjNGcUk2cWVTRW1fTWJzQm1RU1lkbWRhaVJSVWxDV3FnYmxGaUpaWjBPU2hJZm5DMzU3dDBEQ3IyeEJVc21oQzIxT0ZZaWdKbG8yb0hOOUZ5T0Z0VHhvWkE?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "【營收快訊】信大(1109)公告08月營收",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40Zm52VENxMU1LV0tFTkNVYWhmaFdYalFXNlZYczZaNDF1elJPYWtOejFzQzVGcU1LZl84OVM0amF3cmRDdm1YTDlJVk9jbDlWWE05MGlodDA?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-09T05:57:58+00:00"
     },
     {
       "title": "外資大翻多！一週狂買台股1109億 這3檔金融有戲狂掃近25萬張",
@@ -31,7 +25,7 @@
     },
     {
       "title": "外資上週買超1109億元 敲進金控股",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIbVJDYlB2T1Y3YVVyY3pDMDFfVDh1V3J4OHBHTUJoMWJqa0RFQUtzMW9Za0pjd1JfcWhQTm5nTXl0bV9xcEZfS0hnaXRjam5YUVM1SFpFdnFBZ9IBX0FVX3lxTE14VnhsdHRvSzRIMkdjTjRiMW9BRkZyaGdNZG4xTVRqN3lveWlxaU96V0tGdDZiZ0xWMG5Xb0xnNGJxaGpOSGZ3cUVuVjB2djV3UV9FSmxCcWtfOG1LYWpJ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdDZ6TXBwLVRwVGw4clY3TnBFT2J1YVFLb2t1WW13Qk9qbERDRDVCZnQxSVc0MUdLYjBDb3hxa1VJUFR4VWlkVEVvclRQaHhZRDhNNW5Ec2ZVMVdEUmhNQnYwMlJuTHY3SHF4Q1pEc0l0VklSWG5NNFJ5VFVDMTRVMmFFR3haelVhLVhmYkxJbk_SAV9BVV95cUxNeFZ4bHR0b0s0SDJHY040YjFvQUZGcmhnTWRuMU1Uajd5b3lpcWlPeldLRnQ2YmdMVjBuV29MZzRicWhqTkhmd3FFblYwdnY1d1FfRUpsQnFrXzhtS2FqSQ?oc=5",
       "source": "經濟日報",
       "published_at": "2026-08-31T07:00:00+00:00"
     }

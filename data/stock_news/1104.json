@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-22T11:36:09.026594+08:00",
+  "updated_at": "2026-09-23T12:35:14.919656+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1104",
   "name": "環泥",
-  "count": 6,
+  "count": 7,
   "news": [
+    {
+      "title": "環泥(1104) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YcHl0cVJ6eHNVRHp0UVNDRWY5RTZzcE1oVFRqbmZfVFNmWk5ZN2FadTdmNmpwZWpLTzZiUHJwZ0dKWTBEV210bndCVUY5TU9falpV?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T09:42:56+00:00"
+    },
     {
       "title": "1104 環泥- 大盤可能要衝５萬 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBEVXI4YktCcC14Y3h3WUdWRDl4Q0NzSkhQV2pDM2tBb3MtdFMzOEJCX3FLY0tuOGNvYVpWSkM5NEUwTjllYlhDYWsydFBiaTRReHlMSnJUb1M?oc=5",
@@ -37,8 +43,8 @@
     },
     {
       "title": "【13:11 即時新聞】環泥(1104)股價走揚至27.75元，受惠政府大建設與低碳混凝土題材＋月營收回溫與法人買盤助攻",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TX29pdW55WmMtYkM3SUpmQjdudTlmcTI3TlhvdzR0RjRVNjVTVzJiejlFSkgtZWxqUy1Ld1lFR044R3BadkpIb3VXLTVlZ29BR1pNSWJ3WU5lOWZFTkYtRURDLVo0M2M?oc=5",
-      "source": "CMoney",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcnpjWGdtamlqVlFZdlp6WERvWk1jci1sMGotcGxUcXFSb3FyTTIwc0E4eGNPdXVuZzVqN0VTU1hNTVlIYjU1SVVrRTJwdzNudEs5MjdyZWgyU3M5UU5lLUtLUy1DUkhhR0hSTWIyYWgwdTJicXpWZU5rSFhhZ3cwRW0yM2R4OVRMNFd5V3Nn?oc=5",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-03T07:00:00+00:00"
     }
   ]

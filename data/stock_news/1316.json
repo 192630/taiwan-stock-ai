@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-22T11:36:29.335404+08:00",
+  "updated_at": "2026-09-23T12:35:34.604976+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1316",
   "name": "上曜",
-  "count": 11,
+  "count": 12,
   "news": [
     {
       "title": "上曜邁向千億產業控股平台",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVFZQMnVlYk00Y1RrdkphY3BLbGw1dWxkNFFobTFBcHNORk1lTnMtZnZnWUoyNHg3Q081bWIzVWczZUlyQmhnUWRneEtHMDhoZE1XcWhqYm12bm5WTkJ1TVF3Q1BUS0pVd1FUelFsT0JGcEVBMEJROVJicHRPbm1NWDJlOHJlUkhwUnF2c2pjT3NkX050S3JRZncyWGY4UldWam5sOTNTQjU3eWV4cEU3SEJ3dVBrVmNEOTZKNXlkSllvbnpoZ3I5cTNfbDNvOFI2RGdYYmdUaVVWZ0paZE1sZ1J0MTZmemljWVZr?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-21T11:13:44+00:00"
+    },
+    {
+      "title": "上曜啟動「千億市值大計劃」 10家上市櫃企業跨域整合",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UN2JEV2JYdWRjNjBrdEd2czY3bEtadHJqbFpMQlVKdTZPYVQwaXo0eFY4NHNJWXRBYXFfS0t1bXBfYjd0ZWRtZndsNU5VNDJMNUhFdFVKUE5hQdIBX0FVX3lxTE1GTHFoOWJfR2pMQU5wQWxzX0oxVDlmUWQxWFZpS1hSSmMtZktjM3lKaHJVNkk3T0NrY3FkcW9mVm04d0RkaC1faEdzeFdveEVMN0I3RTEzNm1zR041TzB3?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-21T09:00:00+00:00"
     },
     {
       "title": "1316 上曜- 上曜集團啟動千億市值戰略目標串聯10家上市櫃企業- 股市爆料同學會",
@@ -24,16 +30,16 @@
       "published_at": "2026-09-21T05:22:00+00:00"
     },
     {
+      "title": "上曜啟動「千億市值大計劃」不推薦買賣",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EdGo0X3daNTlLazUtTU1LajFFWWRFeUZDQ0sySkF6a0Z0ZDFpZXlLaGhyd2JIS3pOdmV2ajZGQ3I3S3FnMjFOSmFZbUllTzlXY3JYSHRiQUo?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T04:48:30+00:00"
+    },
+    {
       "title": "1316 上曜- 上曜啟動「千億市值大計劃」 10家上市櫃企業跨域整合- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55TzM5VHBQWEJ5RzdEbmY4cWlFRGliNjI4VmtPcjRVcktod0NUMS1NOERKR1FraEs5NmotWnlTMDdtSTEtNHlKc0x0TFBUY01ZaklOQklfLUk?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-21T04:05:45+00:00"
-    },
-    {
-      "title": "上曜啟動「千億市值大計劃」 10家上市櫃企業跨域整合",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9QN3dGeThqZDRrZEFjQXAxaGpKOWZkeFZLVElqdXQtYk5Wa0dheWdWaGxHcHdhX1RnMFlpcUJYY2dDUWlyRl9uZEhMNlAyVGxY0gFWQVVfeXFMUDhST25zQ0xVNlRzb3Btd3hSOXJHY1hCTXVDam1kd3ZMc1dDYk1IRUdiaDF3dFFJcC1TQXRFc2hUZFBQeVNPWjVKZUlEa1c3TFpqNGtYRWc?oc=5",
-      "source": "UDN",
-      "published_at": "2026-09-21T04:03:22+00:00"
     },
     {
       "title": "上曜挑戰千億市值 智寶跨足好萊塢影視",
@@ -62,7 +68,7 @@
     {
       "title": "上曜建設開發股份有限公司",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZkNxWE9kc3VtWk53N1NfMS1QZ3VwVDlXb1hlTkNiZ1MwRFFhZGNnTWluZDkySTZqRlZHNUV0endNWFoweDk2b1N3M3VJYkw2MmZwbHZnc2RxaG9iVWlEMldxY1pMOUVOY05hVmhwQ3cxanpnQ3RHLW0xZmJ6T25iZnlDXy16VF9rWnZNWnlqc2tWZ1hibmFj?oc=5",
-      "source": "moneydj.com",
+      "source": "MoneyDJ",
       "published_at": "2026-09-03T07:00:00+00:00"
     },
     {

@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-22T12:34:32.918554+08:00",
+  "updated_at": "2026-09-23T12:35:35.642421+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1321",
   "name": "大洋",
-  "count": 10,
+  "count": 12,
   "news": [
+    {
+      "title": "大洋集團1991清盤呈請再度押後 法院令付2,000萬港元保證金 股價敏感內幕消息曝光",
+      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNZFVKdXpfR2djOGNrRTcwZV9iYzJvY2E2ZmFYYWNMMzdTYmpUS0NlRExCb3lKS3NkVDdnT194OXZYTk1jTWVlcW8tZFlKaWFnS2o2WmdoT1AwZENqcnAxSzVBT1lLOE1nRmxPajNDQk5nS2R2LVJYeVctOFA4TmlTeTRzRjlnNTFWWlNpdnBLQkhKYjdzdmhEYWFMX3NWdHVkcHlfN3J2blVWRW9YU2RZUTdzMWFhR1RPTnJpLVMyUWlnR21YSUtmTHVsa1UxaWc2OERucWVXVUNPcVozSms5T3JYdnlMc2lWSElFTnU2T0ZobmZmLWRvbHZTOW9PcHdyNVdHUkQxZFVvTC1SX3UteERSd3JwWVFyS2hRYUNENW5iODlKejNiV1poQWhOY2VFbHhIc2VXZGVjeG4ya3FYSEpoSlZoWkY3Z1pnNkpweFFLX0VhU01Vak5Udw?oc=5",
+      "source": "Minichart",
+      "published_at": "2026-09-22T01:02:00+00:00"
+    },
     {
       "title": "1321 大洋 - 預售屋動工了！ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kUXFLcnY5bjVtT1ZncmZZbktZUE02SWIxNWcxZE9kTVhJN3BMQ0loZkFOSUZRZmFUTzc1a2RxbDRBa0VZZ0RPTWFIbEJQcm1kSWV2V0xNUkE?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-19T05:46:55+00:00"
+    },
+    {
+      "title": "1321 大洋 - 【09/17 產業即時新聞】傳產-塑膠族群大漲4.19% 塑化雙雄帶頭衝，低檔資金回補力道強- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uSDFXbWJrcllSejVoY3ItVzlPVWFCaVR4UmMtMHBGNUdBcEVqcjBQQXVLbVYwYmxzN0V3SExSVFkwdERTb2ExdUpodmtlTEVWUDNZVWxYY1I?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-17T01:50:44+00:00"
     },
     {
       "title": "大洋集團(01991)：擬向採購方提供智能吸附式美妝魔鏡(配套IP公仔化妝掛包)的研發技術服務、配套工程服務及長期整機量產供貨服務",

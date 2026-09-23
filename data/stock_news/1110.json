@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-22T11:36:10.555833+08:00",
+  "updated_at": "2026-09-23T12:35:16.468079+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1110",
   "name": "東泥",
-  "count": 6,
+  "count": 7,
   "news": [
+    {
+      "title": "東泥(1110) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtQ0d2dEVHaGZOX1puOW5td0FLT1liTllPUGdZWGduSE5hT3ZjUG1iamU2RmlmbDhfdGZvWUNQNmFVSktVNVRQVEVlWkhad0hHQjFN?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T16:45:03+00:00"
+    },
     {
       "title": "一夜1110架無人機被擊落！莫斯科煉廠再遇襲",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ldWM1aWxZYXI2M3UxOWlQdzVPZ3BYU3N6V3JNaGlOLVl6Q1RXTTdNT0FQcGZzM3R1ejJVcHJ2emxjeW1xUU9KcUdJLUU5Y09aWmFmb0RBdTg?oc=5",

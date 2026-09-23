@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-22T11:36:18.667096+08:00",
+  "updated_at": "2026-09-23T12:35:24.240285+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1234",
   "name": "黑松",
-  "count": 11,
+  "count": 9,
   "news": [
     {
       "title": "SYY 西斯柯- Sysco以每股81美元發行1234萬股，籌資助力收購Jetro餐廳倉庫- 股市爆料同學會",
@@ -24,12 +24,6 @@
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
-      "title": "黑松柑仔店微場景盲盒今起7-ELEVEN加購 集滿4款可拼完整店景",
-      "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPdTBqOE10bjRTRFo3TUFJaWhHTjFKQUJJWE40ZzZVeVU0YXZwZnBiQ05Oa3BoSGZ0UlpnSF9lcU41SzYzY01pZW5OcF9PNjhVeEEteFF0MXdWd3lIRmxrODIyYkZLZVdSYzYwMnZ0R0V6bkhvb3VBbmpYLXl2OVI1cktfYzFwbUQ1U0ZlR3NpTjQwVktkTzBoWEwxNk1pbTZ3VVFObk0tanVraEEzMUlYM3drMzd2R0o4Wm9uUjJZV0swRUc1Y25FNUF2OXBkZjFJcWhPV1dXT2oxNkEzT1Nva1JfckZpS2N5aThEdzNTNHk1dVhvcGdFdjA4Qk9WWHF0NmRPaDNablNkcElydXdfQVRBd0RmcWNQTXZ0VUgtRUxoTW44Sk0xbmh5WXhEMXR2bFpRTnVJNDFYZlJKVTdlRjRDNkMzN1ZzcHNsSk1VTkY2SW5nSlBqN1VmaXRuX25PYVlUcEJrTHFtZEJ1cy1ENW8xT2Q?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-02T07:00:00+00:00"
-    },
-    {
       "title": "AI時代下，為何統一還能屹立不搖？聯華食、黑松、台鹽...4大食品股誰最賺？",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02LWxfSDlaM2p2TzRwWTNfTm01bk9sVHYwUktwNkdTc0VpWUZ2b01ZdFJrcFN1OEI1a2xBYnFZVlYtWlBERS14Wkx3OUpnVDZJaHRyZjkyUzhHN1N4dE1TaE5JNkR3SXV2QXRIbWE5YlA4VWhDbzA1ZGdYeEo?oc=5",
       "source": "商周",
@@ -43,20 +37,14 @@
     },
     {
       "title": "黑松重現迷你柑仔店 4款盲盒7-ELEVEN限時加購",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmRExWcjJJTUx5QUdwUUdvZ3NGZmtaYXlhcjE1SUhONFlWbjRRcDRsZ2Nzd0QtTHVqSnk1ZElnS0xNZnpZekFfeGJLbWJPQmpwa0FmR0tDYlk?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-08-31T03:42:59+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zYjg1SkJ0T1R2N3dPLVZVVVRlNjl0TTcxV0pENTNpaGRqWktpcTFOTGJtNHloblBCTDFMNDQxbWNFamNUR2J2NXAyMXY2MGtsdERuRFJmNDVLT2tsYzQw?oc=5",
+      "source": "自由財經",
+      "published_at": "2026-08-31T07:00:00+00:00"
     },
     {
       "title": "1234 黑松- 黑松把童年縮小了！柑仔店四款微場景盲盒9月登場- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KQzdQLXc1Y2RSemtscnpmV1BoaEpMejh2d1k5aVE5dUFPc1I3OTMtLThaUGJJVDdzLUdld3pzS2xvckx5a0EyaXhJS1h1YnhZVUVZTDgzRFM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rZm5BdmZwUkxVOGZMb0Z0Z2RUTmZLcGpuOEFXZ0RWRU95WmR6eXdIQXFyNFdvWkotN3BET3VJTC1sUzJpQXBjLUJLRFRHZlJZR2JQdTNReVU?oc=5",
       "source": "CMoney",
-      "published_at": "2026-08-30T07:00:00+00:00"
-    },
-    {
-      "title": "盲盒重現童年回憶！黑松迷你柑仔店開張 85℃開吃大耳狗",
-      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPQk1iSG5pLWhKRVBDS3RGZnE5SWhCWWtiUXgzbUZOd3JnWlRKUlJtV0hwTF94a3dGM2hwaXVJM05ZNFdYb1VyeHgzMXYwcWtsdXEwbDNmRy1TcENzV0dBYWlWMTNYck9TbVRoOTNVUV9jTUp1YUFLUU9ELTFSeWg3dFVMZEdFcEF5MkotYlppdDZ6ZkJiQkxkSGhZMEswdld2ZGRvbGIyRWZOTENTa1ZEMDlscG9tYUl2TlVvNDd0QmUwbEo2RVdXdGZTY2VvNHdTSmhJU056UG93TkEycVc1cnVtVWdjRDZlcERLWlJfRklDeUFaMHJvVHJua3JMcXUyQVVqMWFqVFNiazkwUXowVGZuY0J4RkdjcXRsSE9WTXBYVHlzdWM0aEl0MldLdUg5R0tRTmZCMFlZQUxxdTlNUTNoN2FmNmZ3ZjFMTWItQmtRd1JmUHJyVEkwaEJmMlJPTUE?oc=5",
-      "source": "Yahoo新聞",
       "published_at": "2026-08-30T07:00:00+00:00"
     },
     {

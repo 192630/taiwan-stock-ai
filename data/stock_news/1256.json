@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-22T11:36:20.409761+08:00",
+  "updated_at": "2026-09-23T12:35:26.003839+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1256",
   "name": "鮮活果汁-KY",
-  "count": 7,
+  "count": 8,
   "news": [
     {
       "title": "1256 鮮活果汁-KY - 《DJ在線》建構雙生產基地，果汁雙雄添成長動能- 股市爆料同學會",
@@ -42,9 +42,15 @@
       "published_at": "2026-08-30T07:00:00+00:00"
     },
     {
-      "title": "鮮活果汁-KY在Q2賺回逾半個股本 上半年EPS達8.98元",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80aEc3ZVhZR2hWMXpRWEpWVzVGd2I3Y3Z6Mk53LXlsRUtlNTNsQmlMWWs2UWlNNkJBLWtwNEJiUmt3RGNMNnBta2gyUjZXbGc?oc=5",
-      "source": "news.cnyes.com",
+      "title": "鮮活果汁-KY上半年獲利倍增 每股盈餘8.98元",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8ySmxHNHBKQkhqQTIwcUowSElid1ptbmxqVmE3bnBRWXIxdG9NUUd5cm5MYlVDRXRvaWlXS1VrbXBCSWo0WGRVTDI1Y3FXYmlua1ZiT2hsUkVyR1ljeGc?oc=5",
+      "source": "中央社 CNA",
+      "published_at": "2026-08-28T07:00:00+00:00"
+    },
+    {
+      "title": "鮮活果汁-KY在Q2賺回逾半個股本 上半年EPS達8.98元｜新聞快訊｜豐雲學堂",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MZkVQc0FDNHpDQ1dKU2d5THZDWkFGQTNuazhZaWc2dm9nWHcycmVKQmxNaUdSUDRlQW1lcmxSNENPckg0dW5USm9YNWNpdkdPcmFPWWs5Z2NqckhlcjBRcThwVVdpdE5BMUpCRjhpU1BfcWw1alE?oc=5",
+      "source": "sinotrade.com.tw",
       "published_at": "2026-08-28T07:00:00+00:00"
     }
   ]
