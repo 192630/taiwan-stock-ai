@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-22T18:35:01.972097+08:00",
+  "updated_at": "2026-09-23T19:34:53.512229+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3049",
   "name": "精金",
   "count": 7,
   "news": [
+    {
+      "title": "3049 精金 - 耙王 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00eFkzZzhWQ3hKek50b3R0LW9MY0lrRXZiam1ZYldvSmlvUVVsN1dmSUFhQWZfWGFTdUZmUDRXNUFFbVNCR19oQlY0aU5PdktnYXVxUUxwVEk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T02:42:00+00:00"
+    },
+    {
+      "title": "3049 精金 - 耙子 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52aktNaXlOanBtUGRHMHBKVkw2a004LXM5cldXYUJGVlA1LTAwMFRhS0xZTHVqdFppQjdYR0xSeFRWeEgza1NYdk9QTXp3aHZ4SmlCWmxoYVM?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T01:26:23+00:00"
+    },
     {
       "title": "精金(3049) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmUTN5MGw3S0hCUGtuUndobzBJa2I2OE5xSEp4dUZEY2FuV2FVbVQ0REotV0R1TU1seHJKT0ZnQU93bXlkQnZYMVhyN2xjeV9GQy1j?oc=5",
@@ -24,28 +36,16 @@
       "published_at": "2026-08-28T07:00:00+00:00"
     },
     {
-      "title": "【即時新聞】精金(3049)最新爆量2萬張亮燈，主力急卡位小心拉回！",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSFBvdE9kVFhkOWwyOTBCcUJjNW1GSjFDSXN2NG5JbXB5bDFTenB5eTQ0VFpVa2FZTUZmeXltalUwdHlFZnNlaVJMRjQ3a3hneWNSaWFiUklWaGtxQXVuX0h4S1REazd3TFVrdjdhLThhU2hTam90eHJ2b2lqN2FmTkplcUxFS29wX2lBQVhwcWM?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-08-25T07:00:00+00:00"
-    },
-    {
       "title": "【10:18 即時新聞】精金(3049)股價走強至13.2元上漲3.94%，受惠融資融券恢復與多方動能延續＋主力與法人同步偏多支撐短線結構",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObmVxRGVHZ2dweW1WRVJsZnoxQmFmV1dJVkRxdDVPMUNmYXVTSlgxc2VFY2FkNHhSQnE2SGY2VlhFVVRFOHhLMjdVV3JxQ1hVb3R2UC1OUFZSXzY3Q0VjZWgtXzVzd245MWtzcHhnSWpPTFJQYjZaRnh3UG1KTWpmUk5jNEFSR3A2VEVFMkFR?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-08-25T07:00:00+00:00"
     },
     {
-      "title": "【即時新聞】精金(3049)爆量狂飆逾7%，這「2檔概念股」獲大戶卡位準備接棒！",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOb2Q0Nm1kdUpxczNHZDNGa1VzWTZhOVJ1RDA0Tkwwa2JHb29tbENreGlidXk4amE1OVQ4N1k5LXhtM2M2eXAwRGJzTTlqQzdKaEZCeFRIOXZ1RWdFTTFESWRIMFJrYjYwcXVraElYLU05Yl8xUzVMUmNYWjFDNmVDV2xxcDRsN0lrdHR0N0JaQUo?oc=5",
+      "title": "【即時新聞】精金(3049)最新爆量2萬張亮燈，主力急卡位小心拉回！",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSFBvdE9kVFhkOWwyOTBCcUJjNW1GSjFDSXN2NG5JbXB5bDFTenB5eTQ0VFpVa2FZTUZmeXltalUwdHlFZnNlaVJMRjQ3a3hneWNSaWFiUklWaGtxQXVuX0h4S1REazd3TFVrdjdhLThhU2hTam90eHJ2b2lqN2FmTkplcUxFS29wX2lBQVhwcWM?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-08-25T07:00:00+00:00"
-    },
-    {
-      "title": "【09:06 即時新聞】精金(3049)亮燈漲停12.7元，融資融券恢復題材點火＋前一日外資大幅調節後短線買盤急拉",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSkNQekE0THUxLTJFTHFCdzFNaE5Tc0o3UnZxWnR3SVhUTFdzOHhsOGhKc0Z3Z2FxYWdkc3d5a1ZTc1hGODA5Ukl0TnJ5WVpHbTg5Q1hWU2I1dFl4cExHNldhZmUybU50RnpwX1gyaGxOUEc3VTBjay1MVnhudDEyMDhGbElyd2N3NF9XWUJn?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-08-24T07:00:00+00:00"
     }
   ]
 }

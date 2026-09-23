@@ -1,10 +1,46 @@
 {
-  "updated_at": "2026-09-22T18:34:59.045606+08:00",
+  "updated_at": "2026-09-23T19:34:50.325347+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3042",
   "name": "晶技",
   "count": 12,
   "news": [
+    {
+      "title": "9／23台股雷達｜金像電、晶技、台泥題材點火股價強勢原因曝- 證券",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHYm8xaEtrNFlZSHphYmp1SnROeERteFJTZ1lzTm9DbFA3WV9VMXNaS2kwb2FudHZYRjNlcHJVNEJYa2U3VEpEc0tOYmhrY3Vla1c1WGhXN19kUQ?oc=5",
+      "source": "工商時報",
+      "published_at": "2026-09-23T11:27:00+00:00"
+    },
+    {
+      "title": "8150 南茂- 🥰籌碼火熱股；南茂強茂國巨嘉晶漢磊台泥中石化宏致晶技華東， - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwQk1aYmxUNGdzbW1XeFhYTGtMMUhudExTMlZRNTAwLTFtT2dMWE9McHZuR2wteVZVVDV6cG4teXFPSmJzc3djcVItY2ZtdkswY3VBZHVuSWU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T06:21:01+00:00"
+    },
+    {
+      "title": "盤中速報 - 晶技(3042)股價拉至漲停，漲停價201.5元，成交22,474張",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kQUVvVVRZR0N2QzFCSk5JWkRPZUN0Y184ZzkzTHh5RFJ1U1VfSVBBbFNIblIyRTZVMWR2Wndmc0VSZGozbC1GUWtORjgtbnc3cURzeXZPdE5qQV95VFgxbS1mMUhMQQ?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-23T04:08:00+00:00"
+    },
+    {
+      "title": "【09/23 產業即時新聞】石英元件族群強勢彈升，晶技領軍買盤點火迎轉機",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVWtzYnNlcHNObVRUWkc2dDJVbjBGc3lEYTRWSExZeDNyWEZvWldIeVM3YzJSWUxTTFV6Ry14RUFVN0FzOW5RWHV3UFlOUXB1YWpiSnFUX0Jkd3FjenI0UkFuUEdsb1hHRlRPZGtnQWVnLUx1OFVhb1pJT1RwdS1oODJUNzRCWUlXb3EzY19n?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-23T03:50:38+00:00"
+    },
+    {
+      "title": "【11:44 即時新聞】晶技(3042)股價走強，市場聚焦高頻石英與AI光通訊題材",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdEpQVlFIQTJQYzJVVVBiVTllNFhvaUFjQ094LW5NYlVqbXctWGJob3h0TlRRYUF0d0tXUHZyRXU2OHRmbVMxTVNhTXFvWmw3U2o0bDVmeVB3NnRqbEpsRlZvVWRUR0FvbVV1cnJUbVdqR0ZRSHcwZ25PbC1yZHFCdDlOSWZVOTItQVQwelJ3?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-23T03:44:29+00:00"
+    },
+    {
+      "title": "3042 晶技- 今天真是太意外， - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1CQXBVUTJweWxKc0JDZW5fcGE4Qi1NVGU5UEZlaldHZGVoV0Z4cXltOTJuNG8wdUpQMFVuYkdxeWtSUmFobzQ0MFd0TUxET2VKckhnR0J1T3k?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T05:38:23+00:00"
+    },
     {
       "title": "討論牆 | 〈焦點股〉晶技AI王牌產品助獲利成長 股價爆量向上挑戰半年線",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ldkRlUFJPQ2dRaUhkanhlNkx1ZjVBaWJQU3RFNDFmRml4N2I2bHB3QWFlc0NaRW43aVRnNXEtejVNUjd1b0NabThQbzZSTVVidWoxdE44Q1BiSzhnNEdnYm1ZRkY?oc=5",
@@ -32,50 +68,14 @@
     {
       "title": "晶技8月每股稅前盈餘0.82元 瞄準三大應用",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CdWVKSkVLY2Y3Mnp3WjZsNmxZcEZxM25fNVJ0RFRLS2V0N1A4NFpCUHREcmZULXp4V0JnU3c2Y3BKTEQ2aTNkcGV2TFYyb2Y3b0tfY1FoYXdIUdIBX0FVX3lxTE9za2ZDTzZ0WjBKeGpNdnFqbVRQNUNaT2xCS3lXY3FJamdzWXRhT2JrTHFrUUF1TTBvN25vdGlWcUNSS0EyTmpva1ZfYTBzd0V6MTgtbnQxblI5SEVQNlZJ?oc=5",
-      "source": "經濟日報",
+      "source": "money.udn.com",
       "published_at": "2026-09-15T16:15:39+00:00"
     },
     {
       "title": "晶技獲利／自結8月 稅前 EPS 0.82元",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84UHlkMHZ0QlpqaU1PQzh5R2dDSWVxZF9TQkd0d0JYNTBuMzFySkZJRk9uc3c3cWtGaVJzYXd0N2t0dFpuWTNkbWtGYWRiNmpJNVJBNkxKSGJrZ9IBX0FVX3lxTE5MVFN3SlFETUs1QnFhRDhZandtWW5IVk0tUGZ1eDNfcGJMenFHUWE2cHdwb1hfcHJKUFFfS05tcExEbTNBMXhMN2RHb0luQjA4cW5vdDMtSEFBLTNjYmhr?oc=5",
-      "source": "經濟日報",
+      "source": "money.udn.com",
       "published_at": "2026-09-15T08:16:30+00:00"
-    },
-    {
-      "title": "晶技8月營收14.15億元創同期新高 單月每股稅前賺0.82元",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KZ1dWdTNZaFNoNWVsclpDblpsVWoybG5fdDFacjF6cXVkOXJoYlNubXZaUnowTUJKUE9rQWlCQzJGekd1enUwWFlsRnl3OTA?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-09-15T06:56:50+00:00"
-    },
-    {
-      "title": "《電零組》晶技自結8月每股稅前盈餘0.82元",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV28xT1AxQUpPUUg1OUtpUUNYZXRITmNLcWhGbkZvektxVHdxRTlkS0ZTcHBVbmE3aGRfOV9aMHpSWDdaNi01N2JRVVZLVVk1a05ZOUV6QUhaSGU1S3l3WFNWUGd2Ui1ndm1zWm12Yl9kdnVrV281YmFzWTRZbEE2M1I2TmNFYk1R?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-15T06:07:00+00:00"
-    },
-    {
-      "title": "【11:05 即時新聞】晶技(3042)盤中走強，法人與主力買盤續成焦點",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb3RLd0ZXWFJDTnlHWFlGUEtoTUZRVHdUSmJPZDdGUEg2aUtnMENjQ1dtRHFQekp5R3oxZEJoN0VFOUtFZ3hieDR6MnpvM29xaXNDb2M2VURZbmJ4aThvbkpiLVQzM0lrZWx0THZSbUlvZG9NVjZ3QUNTcFkwcU9RdzFKZEhWckUtcjlmSmRB?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-15T03:05:24+00:00"
-    },
-    {
-      "title": "3042 晶技 - 177有撐 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zTlFaVTVVaXdoZWNxTkdCT0ZYVTRCNXlXeHk0VzVielJ5eEtjVGF1cm1HR293QnVnaGwtM2NiMmExWHdwV0swdWM3bTNJYjYtRXpxT0Z4bUo?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-14T05:07:33+00:00"
-    },
-    {
-      "title": "(3042)晶技法說會 2026/09、晶技財報、晶技展望、晶技財報投資亮點｜理柴知道:法說最速報! - 方格子",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XWTNwakkxalF0cWFOZEdjQ3pMdTF6cnp5ZGlodVNuTDhvY2FwVlZtYzhnZ0ROQjY2U3IzMWZnNlhLcFNJUU1aOWpQOGYtbDgyUUV4aG9GWEMxZGZHZ3fSAWNBVV95cUxQRm94THA1NTVYeGhHUnNKaktmcGNOMW5zY0Z0d0xEaXpWLTZRUlQ4SDY0aUtQTXVrZ1gtZXQyM2ZwcmU5aXFGVnBhZXBPM0VUZzFjbUNMYXhLWVNRX0d2Q3Q2M00?oc=5",
-      "source": "vocus",
-      "published_at": "2026-09-11T07:00:00+00:00"
-    },
-    {
-      "title": "南電、國巨、晶技、新日興…新iPhone來了，頂規價11萬！蘋概股為何一堆跌半根停板？規格升級題材沒了？",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN2lhWklQSFJIQ0J4TVhYUGQ2NXNYczBFRjB0U2lwMmg4X05aXzdvaVZfei1ObjRlZ0I1TVdrenFYYjN4bWVqTUN6Q1diVXM2aFRhQjY3V0hIU0RieTVPYzVkLXh5NWZkUDVfMS0zazItcERFX2NQaEdINE0zbzFieQ?oc=5",
-      "source": "今周刊",
-      "published_at": "2026-09-10T07:00:00+00:00"
     }
   ]
 }

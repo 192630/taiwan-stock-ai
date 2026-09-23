@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-22T18:34:52.318069+08:00",
+  "updated_at": "2026-09-23T19:34:43.003972+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3025",
   "name": "星通",
-  "count": 2,
+  "count": 3,
   "news": [
     {
       "title": "星通(3025) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0TEh3RTNJSVZiLURWVXdsYkYxV2JIbmlZUmYyb1NiT0pvd00tTUtNLXo0aXplY1NPdVlTV1Z6aTh4Nl9PUy02TzlhZXJSbFdib2c0?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-19T03:40:21+00:00"
+    },
+    {
+      "title": "3025 星通- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LZHV6VTFESGNXZklZRERtdE1JQzluNnRIeVRucGhJamk1WmQ3TWk0aXVKY3RDb0p1Vy1BWmVYT2lXb2RxdWZLbGU4VVpyWlhRQkI1aFRmR1I?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-19T03:39:49+00:00"
     },
     {
       "title": "【2026/08月營收公告】星通(3025) 八月營收營收雙減，年減12.67％",

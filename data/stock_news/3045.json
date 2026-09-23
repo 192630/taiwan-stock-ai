@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-22T18:35:00.382229+08:00",
+  "updated_at": "2026-09-23T19:34:51.765504+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3045",
   "name": "台灣大",
   "count": 12,
   "news": [
+    {
+      "title": "台灣大、遠傳iPhone 18銷量較前代大增逾7成 果粉今年最愛這顏色",
+      "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxObV9QM0laNWVzTTV3QjJNZG9jZlFWc1NTRmFPRk8xNnJoWEpyU2tlUndOM1RYeDJ1YVNGOV95X2NoWWdKVGJySlc4S2pGUGYxanh4amR6THFPWm1sUXAxY1ZieWZ3VDRwUTd1NGxvRGJBSmw1YndySm9KaElfMEJTX2RWY292UUtzR1FLNFJWNXllLTNBcDBRWVRGTlF0dVNIOHgxa251UmlZLXplYzA2dWZjbjF6TThyaFI3YWhRX0ZrRXZnZThaR2xwZ29TaXMwWHl3WjI1NDljVThYMHBsUWctTUQtQkV5Qkg5ZnNQRTZQUGM4M1FyMnFqSVFTTVhENk9RZ0VJNFFHbjkyODczS01qRnZ0dFg1LXhuZXBGYkIwQ0M2N3Q5bUdOb3EzMm0xcTNIcU0zejd0VlV2ZnpQQ3BGaHVjX0NYdl9SUHNianRia3FRVWJPdnk5ZGVRN25Ea2E5alZWOU5zUlR6UlZhaG9pU3RITjRacl9GNGdMSFI4c2FCNG5xTUZ3?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-22T06:27:03+00:00"
+    },
     {
       "title": "有這檔股票注意！台灣大廠今天9/22最後交易日，「10月1日終止上櫃」， 換股比例一次看",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4zeThZeFBZLThSY1g5REUzOG1NNkM0Z3E0WGtjMDhLTFU5YUwzdE1ZbzJrNlNGQTdoZU9sRFhfeG9WTE9HSjVFS2cteDJCV21T?oc=5",
@@ -14,7 +20,7 @@
     {
       "title": "台灣大三大引擎加速成長迎黃金十年 獲利勁揚外資狂敲",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zY3pMMHdiLTdhS1p5aVlldmdHenAtMHNkYXpoZnZQQmJubF9QMW1hd3RDVDhlOEYycU44ZWVwS2N0dFhZcm1iSC1NNXR6cXNuLWtaNDhJeXhNd9IBX0FVX3lxTE9uMHdBZWh2TXRSMU5rWW1EQXFYWUVzcndFczJCcUNpZ084ZGNUOWtOWFBuMmFEYXdScUdaSW9iaGhRbzRPVWY3bGNmWEdRcUxUN2N4TmNCR0dPWG9sdGk0?oc=5",
-      "source": "經濟日報",
+      "source": "money.udn.com",
       "published_at": "2026-09-21T09:00:00+00:00"
     },
     {
@@ -30,28 +36,22 @@
       "published_at": "2026-09-18T17:39:29+00:00"
     },
     {
-      "title": "安聯台灣大壩基金-A類型-新臺幣 的總覽 | 鉅亨網 - 基金老司機",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVmc3aWY4Y25LM1VwQ2ktV0pDaGtmZ1lmX1R0V29yV0lnMTZReHhpRWhlWmY2UlN2Smw0RzNZWnRfWnhhMmxNdzd2SWpubS02aUp0WW1uTHlzVGVxdEhWMUhTWGluYzFIWURKdm51WVQ3T0hOVEFFSW03ZWxsSzM5UERNS0R6Q1kzRGJuLVBMVDMzTkZFaGJtWk9fZmU3WFRyb2RENTliTDhoNzFnb3pFSk04NG90cGJmbVVSMTZCRGpBY2RhVVJuX1JBZTZZTklWRWZSMzBDUFlnV3hlWkNmRWZZUGJ4TFpMbGtaY1VB?oc=5",
-      "source": "鉅亨網",
-      "published_at": "2026-09-18T07:00:00+00:00"
-    },
-    {
       "title": "〈蘋果新機開賣〉台灣大：iPhone 18 Pro系列預購量年增雙位數 超越去年",
       "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNMm9odFdWWEkzODRQWWhJS3VGNnZNUm9nUnhLYkxvSkZYMHVMVE1DQVV3REdScUZKVnVzLUJNMV9xYWlJRGxyZmpWM0RnbWJITm1uc09zWTB5QkRUOWVIRmEwSHpjRXNPd2pxMlUxZVRSTUN3YXhjTXlMR1BIRmh4YUR0bUYtYmxhUzdGZXlwNldhT0U3VF9pQ2dYbjVfRm1EZ0liSE9qdjBpOVJidm5QeXl3cExMSUZNTU1nYnZzU0cwSno4bGNDcjFCV25aTXI4X1Y0R3haLWNLWG5tQnFUUXJNR3dDUGdhYjR5ZndReFNGWjVVcGFFTTc5aVpyQWtkZFZXc0lNYkl3Q05rbWFqZ2FjLXI2ZDZlcnJvcFZIU2JmVENyd2lvWVFXYzN2cVBQb196NjJYaDd3MnhWYndva29iRHQ3RlE0OHZSMERuQ2R1Snp6dkE?oc=5",
       "source": "Yahoo 財經",
       "published_at": "2026-09-18T04:38:37+00:00"
     },
     {
-      "title": "個股：台灣大旗下台信電訊公開收購精誠，公平會受理，公開收購期間至10/6",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yWHYxM21hRllaVE5LcHdmT0Z1Y2ZEYzVWTmNTVl9wbk1wQTREeUpoRjlJdWNuTmZ0cHlRaEhXejNNU2lEY0JSbnA2UEVCaGJvbUlVeURR?oc=5",
-      "source": "東森電視",
-      "published_at": "2026-09-18T01:06:00+00:00"
+      "title": "iPhone 18今開賣！台灣大、遠傳頭香哥現身 他搶下頭香只因「合約到期」",
+      "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNYmw5ZzZkRUpqTjhHNmoxVmlkWHlyYy1qS2RLQVU2SmJuTWdTQXo1ZGNQd0hmMVBvX0Y3Y1pDTndvUWFVeWFVNjRvVmZUVlBMajROS2xzdU1KbVFBak5TZVJBVjhoQzR5MWI2N2dEOFBQTkN3SG44VVBkRlpqMTMxSnN5ZVIwZXRkemJEbS05NF9tME9QcEtBUnM2alFEZG9RSUlTanFpSVNnZEhaV01yVjh6X2JuR2c1blZGbjF2YWlHakpySjduV3JsVWlRUzFtT3pRWDhLaVcyc3czQXFFaVpjSllwWk13QVBQM1pXZWRZQThWdVUtemRUOVVOY05TYnFYZmNmbms4eEJjd1dmcUNMX21IUm5abno5akgwanFPZ0hsVFEyRHN4U3pnQVNaT2FReHZ2TXJaaWFCdmpuRVh5SlROaEdiZnBlSTl3eUVyZ2cySVIzbVN5Ykt5VnZjczcyTE9WMmZsLUpad1N2cGNFX3A5anc2eWxKcS1MdG9aS2NOM0RjU0RCWnFUY3VvWDE4TnJGdU9kRzBuMUVIcUVGOEd2UktRZnNXYnVjRzByZzZxZXJoTg?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-18T00:12:23+00:00"
     },
     {
-      "title": "台灣大子公司台信電訊收購精誠公平會受理- 日報",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14Y1o1cUVHTGV3QTlCamtYQXdkWGNEZmRPYThSSjd5OUE1M2ZUR2Qxa1pSanI2M3J4VDNZYlBTa3U1UHE0WXBFRGxWZlRTQ0RfWkhTdVlfQlBwZlRyRURV?oc=5",
-      "source": "工商時報",
-      "published_at": "2026-09-17T19:00:00+00:00"
+      "title": "台灣大子公司 台信電訊收購精誠 公平會受理",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPcmZlTm9wTzF4V0ZfQVk0NHA0Umx0OGZrMTB6SjFDX3pwUEJIT0cxa0dWVXYwLXFmUko3U21uTzlQd282aXNtSDVkR3FkTHk2c1hnZnVzOVU2eG5PRlROTmJSc3QydWRIaklZ?oc=5",
+      "source": "中時新聞網",
+      "published_at": "2026-09-17T20:10:00+00:00"
     },
     {
       "title": "公平會正式受理台灣大公開收購精誠 溢價已達38%",
@@ -60,22 +60,22 @@
       "published_at": "2026-09-17T10:30:43+00:00"
     },
     {
+      "title": "台灣大旗下台信電訊公開收購精誠資訊 公平會正式受理審查程序依法推進 維持多元競爭、推動產業升級",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUVNnSVdsS2lrQmVBcEx2NnRIdWpEcXl3cm41bk5hRllVSnR0aVM5d3ZlOEEwUjBINEJaUEcxSTgxcUh0U1BMeGtGRkpJckNkZWh2bmotSk5RLVFGajBNVkEyZWR5eERHRDZWYmt0bjM5cGNBWVp6U0hrMWNhWTZNaA?oc=5",
+      "source": "台灣大哥大",
+      "published_at": "2026-09-17T09:38:36+00:00"
+    },
+    {
       "title": "台灣大「頭香哥」連莊3年 提前34小時排iPhone18 Pro明開賣！",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mdFR0UnJPUEFkdkYycklqRTZyYUtYakUyYVJhTzFDTURTUjRyRElVdFI1MnBTODRNMVdtWGhrNmg5RGFyUE9FUlB1VXd3aVRSMk15Vg?oc=5",
       "source": "品觀點",
       "published_at": "2026-09-17T07:38:45+00:00"
     },
     {
-      "title": "《通網股》3外資看台灣大收購精誠：補強ICT最快路徑、目標價看130元",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CcGVLYzMtemF4RGluaDRrLXRnYkVhWVUwRTFZTktzVlQwcWYzSHRFUGttUExMZE1Pd1Zhb1VCQXBSc0JZbHpKQXJoN1IxMWluZzdMQm9KQmJ6RGZEcjJnd09zWDZYVDhHZHc?oc=5",
-      "source": "旺得富理財網",
-      "published_at": "2026-09-16T00:54:55+00:00"
-    },
-    {
-      "title": "3045 台灣大- 🚨 主力在調節？昨日主動式ETF 減碼這檔！ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90YXhHSDdTbEMzeFExaXNqZmhOZ3pEZmVkcnl2SXFQQW1ETkR1Mmh0YjJwdjZqZEVHclozR09ZeDRyMGxhNGRQckF4ZzlVLTVZSmF3dW14QzY?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-15T19:43:56+00:00"
+      "title": "iPhone 18、蘋果摺疊機預購來了！中華電信下午3點起跑 台灣大遠傳本周也開搶",
+      "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxNMzF5dk9hYzV4Wmp0OVh1cmRiazB2VVVtMXh3a0xmVW96LUpiUTg2eWhVLXhacE8wMk1UM0Q3a2sxN1g4ZzBOaldiX3Y5TmJvTkFvM3ZPUnNzdkJ2R2xrSFJ3NHNCODBPbWk2cHpjSWdXcFJ6SzN1Y2dQR3M2X2Ftc01hOGpNYTlHcE9yUFhVVUxYWU5qQ0N0aUJiZXk4bnpvekxCQkU2N1E3TFB5QXdxT09Cd2w0d2kwcjhXSFR5VDVxeWtOTHRNYWdmOFI2enU3NWtMUktVNDBKb2pSYUgweXRKaUQ5Q1djWUlMc2NoV212MWE3SWZhVEhOODhONko5TzZiVnBkZDFTYXNoTjBNaUphU0dWcEVIZnBtaHpWMGY5UGlmSzNaWE1TemFtQTJpcURmOFIzSTdJZHUtcVYxdDBIMzE2UWFSQ0puaHlaOEUxaVRfZGItM0R0cy0wRGp0UFBBbjJTeXNVbWNpNHY3TzdCN2RKV0ZqR3FmWGY2Wk1lZ2VKMzNIaUNmYlllTUREU1g5VEJzZHRSOFpSNkZsZUFXVmdtQ0ZzNzRIWEl4c2VRVGNINkdlLUVXaDZRV0lvd0tPZGFRa2xvSXZpSjc4a2ZR?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-17T07:00:00+00:00"
     }
   ]
 }

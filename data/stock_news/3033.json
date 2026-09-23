@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-22T18:34:55.792227+08:00",
+  "updated_at": "2026-09-23T19:34:46.758014+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3033",
   "name": "威健",
   "count": 6,
   "news": [
+    {
+      "title": "3033 威健- 我的看法- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mVkNxNXNrLU5fUlg0WTBOVEd1emlqQ2ZlSE9mNHpwNXJZUDluVktyZmduZURiTklYTW5YOUs2dTVOM0RUcW03dERpWlRzR0IyeTFWSXU5dV8?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-18T13:44:56+00:00"
+    },
     {
       "title": "3033 威健- 人生海海，繼續看海🥱 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YaGE4VlVPcHFPbmpGUkVwaklWNVUwbUwwMDVRX2NjWkRhLVJVZTZzZWw0UUUtc0lYaVFXX0dPc29NTHBBZ2M3b21ncUJTX2tuR1RWWTV2OUg?oc=5",
@@ -34,12 +40,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mRTRBYWV0VmlENjhvVktKc0p6cExxRThqNDFHOGFtVDhabXl6QUowMUIxeldvc21haWx0aHhuU2ZvczIxZUxmVWlJcHlpR1dSWmdXNnNxeUI?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-04T07:00:00+00:00"
-    },
-    {
-      "title": "【12:47 即時新聞】威健(3033)股價上攻逾3%，受電子通路族群走強與營收高成長帶動，惟技術面均線偏空、主力與法人大量調節壓力未消",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa2I2blRyU1NuaUlpSWpJanRhZi1FOE0ybE9NcV96cTVKWHUtN1I1U2tPTWJYTWRiSVV4eUJHSFJzNnlsVmVJX3JmOF9DeVhwc3NSVjBqWkoyZGJab09MczMtVTBJWGVfdFR0SVhXNXNSX3ZRX0JjaXVEMlVrZUsxanMwZHBSLUNMS3l3andB?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-08-24T07:00:00+00:00"
     }
   ]
 }

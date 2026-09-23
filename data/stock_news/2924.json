@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-09-22T18:34:39.094242+08:00",
+  "updated_at": "2026-09-23T19:34:29.535025+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2924",
   "name": "宏太-KY",
-  "count": 1,
-  "news": [
-    {
-      "title": "全額·日證金東證股票（2）(2924～4686)（申購日09/15）（結算日09/17）",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQemV6dk5FdDczWktYWVloZmtKRGlYSmJRd2RSc0RkaUQ0dHMxbkwzTzlLeWtFZHhRMmFybGJnZURRa3dqd3N3MVU5eVNCU0Q0WDA1cXcyV2JsaTB4andScHBYUDlZcTl0ZWhMMFVURGFYQmxUTVE5RWx0UHhMV2hGMUhKaE83dmFEYmVIVzF1V0FUNmRqVGU0TFI5bHdkTTNmZmJIRjJndVRGcGRxcWM1aXI3ZDU2bVl3bkM5Vw?oc=5",
-      "source": "Moomoo",
-      "published_at": "2026-09-16T07:39:59+00:00"
-    }
-  ]
+  "count": 0,
+  "news": []
 }

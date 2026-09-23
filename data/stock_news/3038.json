@@ -1,21 +1,45 @@
 {
-  "updated_at": "2026-09-22T18:34:57.709837+08:00",
+  "updated_at": "2026-09-23T19:34:48.836506+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3038",
   "name": "全台",
   "count": 12,
   "news": [
     {
-      "title": "2748 雲品- 雲品直指婚宴市場年年萎縮全台婚宴需求新竹衰退幅度最大- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ucERNcG5uSmplMWxVS2pEb0JJUDFGWU95bWNzdTFyVVBKSzFFa2RtTnpPSkRwSUhMVllVdWQzMEo2a1JBSGpGUFFCaHlyMmMtc285WG9lcEQ?oc=5",
+      "title": "OPPO發表A7 Pro系列搶占中階實用機市場 10月1日全台開賣",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0OU1QRmNHYTIyNDZ6Tkp5MzVGNzRQRUtQSnEydGJxVUlQLTFLOVBucVFSSlZIdmN6N01rcUl4WHhUd1pZeWhlbW94dw?oc=5",
+      "source": "鉅亨網",
+      "published_at": "2026-09-23T09:40:34+00:00"
+    },
+    {
+      "title": "2330 台積電 - 🔥股票賺到全台離職潮🔥 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1CbDlUZ0tQN1hUall1ZC00WDBCeWtSMDFjQVBYZXhPM3V3Tlh4cWRmVUZoMVhBYUtqbGVBWW5BdGFUZ2VqSlpCb3lLTDV0QW5vYW1UOFY5cEQ?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-22T09:57:32+00:00"
+      "published_at": "2026-09-23T08:49:12+00:00"
+    },
+    {
+      "title": "全台近30萬輛營業車牌照稅10/1開徵 估稅收逾12億元",
+      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPYXIwMVB5VnVwRVBDNDJybEZIS1R1UEhxNXB2RmZjMTNxME5qakU0bjlOTWY4RFJNT1l0cVJHbnRqb0FPVVRocUc2WmRhMFJmTHJJWHl3aTZCWUZLRWtTZG5LM3B4YnRXN2RJcnlXcDNJOHFxaFI3X3JSUUxCRVg1dDhYMGIwZ25hVmFvc0hId1I5NFVMT3VWUEZSa2hfOFNDeUNsUEZpNGRNc2V3NEp4RmlxUUVFU0NUNmlhOGVHa282ZjVNLWFUeFFvZEoxOEVzdG9UODZOT09JQkFyNGhxR0pJTmRfMVJiWjQybUJDQWprVkJ3MkYxRTEzd0ZpWmlGbkZlLUJlTVEybkllV080RXk1VVZyZkhCUTBxeVB3cXBsUkotWnBsSklNbHZwNk9Ua3lwWmdaOW84U0w2LW1RdEEzaGVTOTRsdmc?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-23T08:25:47+00:00"
+    },
+    {
+      "title": "雲品直指婚宴市場年年萎縮 全台婚宴需求新竹衰退幅度最大",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HUWNQSk8yeW4tU0NubnRWYjVlZUE1eHV0MkM4ZDMtN0RjdlVnTFpwQ2xTTVZPMURPbzdxMUMyRy1seE5hX2Z5T3dkN3l1WVE?oc=5",
+      "source": "news.cnyes.com",
+      "published_at": "2026-09-22T09:34:45+00:00"
     },
     {
       "title": "魏哲家一句玩笑全台歪樓！台積電目標價5,010誰喊的？「股板因這件事集體吵翻了」專家拿出數據講破真相",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFc2cwNTdVNDUwaXlDYXpoSjNjNkRKRmFGOVl2aEZpYVd3ei1IemluV2RiMzU3RnRFaFJoOGF0b1JFSVkxUHQweG9rbXhZYW81Tm9fSW5udkxEU3I3MXVnZnM2TUZaR1RraGc?oc=5",
       "source": "旺得富理財網",
-      "published_at": "2026-09-22T06:11:15+00:00"
+      "published_at": "2026-09-22T06:13:51+00:00"
+    },
+    {
+      "title": "全台都不想生！19縣市人口自然成長全轉負，老年指數也全破百- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LenNBc3ZlUHc0bVE5ZTBjM2NlaFJVR1M5Z2VPTkNnVVNhUkYyRXhmMlpZcnZkM0xkRWFFUnRXWlhzUU5CMnprOFRvbWlKT2NnUzNIUlNraUs?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T04:29:31+00:00"
     },
     {
       "title": "全台生活「最難過」城市曝！月存僅4千…專家揭主因",
@@ -48,34 +72,10 @@
       "published_at": "2026-09-21T07:35:00+00:00"
     },
     {
-      "title": "重機家庭日圓滿落幕 全台近500車友共12車隊響應！",
-      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNTWdsV1cyZU1fQ243NWdQSzg1YTRDa0VCZ0ZVdjA4OF9JODFwV05saldNeEx0Y29WZUdmRk5qUkRjNnFITVZka0ljMWZjTjhwQ1E2Mjg4bkVsbV96LTd1aVhxdmt6Tk92RkZSWE1MWUg3Y0JRSUlUWFo4bzR3QXZ1ME5PbHNjWnVqTmhjcElJSTJ4YVl2X1FFSEJFZWhXSmtLeFZIMGxYY3lCSXVkOGpkRzI0TXRqS0FJc2JKYk5UUlMxV3pYc0FLb2NIcGhmNHJsWkdkdkNuMzlKTWtnWXd3ekc0bThfa0NwcUhUMFdtZTkxQXQ3a1R0a2VuUU9Hc1lXWEIyY2RqNWJuMkJ6XzkwSUt6cUNsNkJVcExFN0VGRGl5WUJmRGU0LWFFbmh5cXlUZ0pMSGJKOGVnN1RCZkRsaGRSdFV4VDA?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-20T15:16:02+00:00"
-    },
-    {
-      "title": "老師荒、學校慌5-1 》全台教師大流動公立國中小教師開缺創5年新高- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBMWWpYaUltUkM5NTRJUENJNVV3Rk9GV0JyOGk2VTl6NVljSVc4a1AyNVRxYmcweE1SRXZ2V1RFT0J5aUZ5Qjc0eGNRblhLeUhFTDlQUmVXbDc?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-20T15:13:20+00:00"
-    },
-    {
       "title": "嘉縣推蒙特梭利教育打造全台首個幼兒園到國中完整體系- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTYkFYM3NvMjdBa1BFb0M3RUJ0elhRQ09sTTFNVmY5VlVrOHFqMEZsMzBnbF9kTDRYODVIbUJUSlEwT0FkeXZkMEViaXIyY2l3Q09wZ1l2Ql8?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-20T09:08:31+00:00"
-    },
-    {
-      "title": "6月新制懶人包／交通規定更嚴、郵局股市新規、電費增 全台受影響",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBtNGNsMW9DSEFMMGZFNDdESFh0clVCbWVwMTQ0T3djVDRLWG9DYUdiYVlyUWFrUWxRSUpWeno2MDFXT0h2Rkh6VtIBTEFVX3lxTFBWajZVVUhkV244WlY3RnpuZ3hpYV9oSlVpRDhFczNzT3lRT3h0MHl0WVgtMmFrNkw3YzdoQ0hGeWktRF9hSnlTV2xOZlQ?oc=5",
-      "source": "三立新聞",
-      "published_at": "2026-09-19T12:19:19+00:00"
-    },
-    {
-      "title": "6407 相互 - 重現全台首代醫院志工女力！廖梨伶「戀愛般情感」 張家慧育兒加倍算利息- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80a3JEcklFT0Vua29zX0p6TXBsc2NodVJPMk5wcmw3ZC00bkc5VEJIa1BpNFN5WjRNdTU4Wktta2dvbzNlNnVqS1dkXzdyNDRMcFE2LXZJMjA?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-19T01:14:53+00:00"
     }
   ]
 }

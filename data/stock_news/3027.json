@@ -1,21 +1,15 @@
 {
-  "updated_at": "2026-09-22T18:34:53.203304+08:00",
+  "updated_at": "2026-09-23T19:34:43.983293+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3027",
   "name": "盛達",
-  "count": 2,
+  "count": 1,
   "news": [
     {
       "title": "Billion Electric Co., Ltd.的Price to earnings forward – TWSE:3027",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOFF4NTBlenEyMTF2SGctRlVTeEFGOGQycXhIMXI3MG8zVUh2dTBoQk9fMG9idU43dXd6TVhnZl9tOGZlbXJLRDZYNl9STDAzbDB2c0U0Rkl1OEREb1dsRTRJWG4zeVd2dG9icExyRFNyNUNucmJnbzRBNDUwb1QtbXlqZGtMZHh1N3oxeGNUMmF4TlNmVlNWcUJTMVBUZw?oc=5",
       "source": "TradingView",
       "published_at": "2026-09-16T15:29:07+00:00"
-    },
-    {
-      "title": "3027 盛達- 台積電提升再生能源用電比重先進製程研發雙軌並進- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11cjc0WW1VVFoxM3ZEVkNVVUhvOTFrNFM4SXdvM3BaZThWbmFWY19JMmY5cTRqemFHRTgtajNjTWlvcnMzLWFEeWFxd3YtX2JxUlV0MFZ2Y1E?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-25T07:00:00+00:00"
     }
   ]
 }

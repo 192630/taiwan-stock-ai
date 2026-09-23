@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-22T18:34:53.582540+08:00",
+  "updated_at": "2026-09-23T19:34:44.402561+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3028",
   "name": "增你強",
-  "count": 1,
+  "count": 2,
   "news": [
+    {
+      "title": "增你強國內第六次無擔保轉換債之轉換價格訂每股67.8元，溢價率104.79%",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BMDRxeVltbFJqQklUS3dabnVveVM1eXhiQzRrUHJ1VWdRMHR6MW11b2dhRm5Nc0E2SnRpa3BoT3pGUjFRekNYc3BfMFpIb1BKLWp5VjVuRjU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-07T21:31:53+00:00"
+    },
     {
       "title": "營收速報 - 增你強(3028)8月營收67.33億元年增率高達87.95％｜新聞快訊｜豐雲學堂",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44ZlAwZHktcGJTZkFYTlNaN1NxLVJadlh2RmxFeHYweDBiRF9mZTJNZElCVFdRVFFNNjJwd3ZUbkhTNmYwT1FhR0tMMFJtSW5VMDh2NGRlWmxzQl9CY0htOV81M2JXazdjX2pMX2Z1RmREc1B2QXc?oc=5",
