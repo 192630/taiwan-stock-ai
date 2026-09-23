@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-22T08:39:12.651267+08:00",
+  "updated_at": "2026-09-23T09:33:21.816681+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8040",
   "name": "九暘",
-  "count": 6,
+  "count": 7,
   "news": [
+    {
+      "title": "【10:11 即時新聞】九暘(8040)盤中大漲近9% AI網通概念受關注",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSW9BU2ZtLVExVGc0YzBibGp4MlFnLUdLcDA2X1dnMG12RWxyamdGS1BOMXdyazBNc3RiTGZrajdEeDdSWVJ5QkxhVUpuWm03c2pXSzFUeFJXMXNoSjYxRWtxN2NqSVM1TzZWSmwtNUtxRkF0dWZDbWlpRF9vN0RzT2hXTDJobW9XSEd4WFln?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-22T02:12:00+00:00"
+    },
     {
       "title": "討論牆 | 盤中速報 - 九暘(8040)股價拉至漲停，漲停價82.5元，成交2,582張",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85dlg5am5wc1dwS3hiTGY2alE2bmVodTRRQVJuR3hFbmt5bV9ZY3phQWZ1NTBqdFVmSW9zNGJ1RXhudFFMdXF6eWoxaUJQOGs5LWpJd0tfQmUwclptNjl3UEo2Mko?oc=5",
@@ -20,13 +26,13 @@
     {
       "title": "【10:58 即時新聞】九暘(8040)股價上攻逾6%，AI網通與以太網IC題材帶動，短線跌深反彈結構配合法人連二日賣壓消化考驗",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ3U4RmRMck9oRDVZYVBPYTZveWY1TTZOMHdWYkpEVWRqQTJ3V2w4LTlMQzNOWmp5NFFHOE5kQm9FTy1XY0hMTnFRTDZxdUM4eGM1ajdTVU1ia0Z4QWhYd1NPVU13Y1J5R3N6Q1dBN2g0QmVJOWNkbGJGRmJ1eEVyckFOOTFkQVhVQTBJQjVB?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
       "title": "輝達35億美元認購聯發科ECB AI生態圈升級！達發、晶心科、九暘營收動能同步升溫",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrM29XeElhU2IxRmhSbmtHSzBXNlREV1JBRVlvbHVITjcyS183LV96WTFTV3c2NEhJSXNLRmx6YXVrdHItNkh6SnR3WVk2ZGp2N3hubmZ0bGFmX2dRX0c4bFd0TkNFU3poLThNeTFPUQ?oc=5",
-      "source": "理財周刊",
+      "source": "moneyweekly.com.tw",
       "published_at": "2026-09-07T07:00:00+00:00"
     },
     {

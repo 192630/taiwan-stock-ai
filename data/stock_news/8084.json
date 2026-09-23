@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-22T08:39:24.957233+08:00",
+  "updated_at": "2026-09-23T09:33:33.759688+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8084",
   "name": "巨虹",
-  "count": 12,
+  "count": 11,
   "news": [
     {
       "title": "8084 巨虹- 巨虹公告本公司現金增資案延長特定人股款繳款期間- 股市爆料同學會",
@@ -16,6 +16,12 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95WGdQMHl3RWI3bEViNy12UGFWdzBQZ19KZVZOeDB1V1ZfNjJMelNsaG9fX0FXUnVJTTZ2cFJMTnBpVjFRQkt5TEI0aWZXZDl2aWNSZW5xcEk?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-16T02:30:39+00:00"
+    },
+    {
+      "title": "記憶體缺貨商機旺！巨虹8月營收飆145%創20月新高",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQW1TZ3N1dm5sLXE2MGtRY0VWME8ySzU2SVh2S3FvVnFiMlJEWDRSd1ptQjNXXzFOelBvaGxSYnJZUlFudXQ2ZWlwVlRCcDNnU1A0aTh4WjljVGR1SEkwSTY2OUcycjRpLXFlZTRfREE3RjFPRWNucW1YRUtYSjcwNndn?oc=5",
+      "source": "壹蘋新聞網",
+      "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
       "title": "巨虹8月營收8778萬元 創近20個月新高",
@@ -42,12 +48,6 @@
       "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
-      "title": "巨虹砸45億迎百略「回台」！獲逾8成股權 百國醫材通路入袋",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYUpZVjhRSEt2NmpwaUljZmpyVzNiUUlzbFpZa2p4ZE9UNTI1eWNvaUhMRnlaTFBJRnUzeGJGdFQ1RzRoR1JPYXVKWmJvcHhrd2JIYWNyMW1YcEhQSFVNLVdPalk2Z2YtMUpZUWJTVUhVSzNYMnotNzFIOHJFMnFHTXBn?oc=5",
-      "source": "壹蘋新聞網",
-      "published_at": "2026-08-26T07:00:00+00:00"
-    },
-    {
       "title": "巨虹擬以45億元收購百略82.35%股權 強化醫材通路價值",
       "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNMWpyWk41YzJGZGNibnZ6Sjg0TG1Uano0dU8tczY0OFN1c3ZrajU0bzEtVHhYaGl6VDF3c2tUZC0wbDFUUWNIeVhzZnNfVGpvV2dHOURxRUxGbkE5N2hmZzI1RWhGTGNBdEtWZEtKdi1OdkNhZXBjaTVLeVNBRmN4QW1DMmpqVmhjcmtmUjBEUi1XMnlGZHd1LVNzYXBoeFVCNDZHcTdka1hqOThvMTFWUnVhNmp1cnZPdkkxR2dxOWozdDQ5aTl0VzR5MUR1TjBJOWVFaDhvblR1Rzk3ek56aDN4RFA0YTNKT29qdFZqTTdjaWJIdFdWNWVNa3BaRjJQRFhKMUhzVkRKb082LTFXVHQ5Rk9rUzhOMGpsS2hfanpVbTVEYlhHcGdUUGVjY0Q5QlpXYkJLREFkRGJJN08taWl1bGdsMlFWSVFqMTgxemFtT1lpamNn?oc=5",
       "source": "Yahoo股市",
@@ -70,12 +70,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DNDhXM1JDendaSWdud2N3S29BQ3I5a3ZRWXpUS2UtUjlTYmdZOXp6SF93UThnZC1raDNJMW9GQjFKbk1Td2pwUGhkODhKMzhXZy1MbXczUVg?oc=5",
       "source": "CMoney",
       "published_at": "2026-08-25T07:00:00+00:00"
-    },
-    {
-      "title": "8084 巨虹- 【08/24 產業即時新聞】記憶體銷售族群盤中強勢表態，DRAM合約價看漲助攻買氣升溫- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84dUxTQmlmc180VXVZSEh4QzNYUTIzcUFzcF9PYWl4VlU2VVpDMGVMU3FrYkljZXdIY05EY2twQVVlMXgyV3htOWtZZDNTWkRENk1XcDhWTGc?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-23T07:00:00+00:00"
     }
   ]
 }

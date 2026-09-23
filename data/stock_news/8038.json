@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-22T08:39:11.563461+08:00",
+  "updated_at": "2026-09-23T09:33:20.750636+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8038",
   "name": "長園科",
   "count": 12,
   "news": [
+    {
+      "title": "《櫃買市場券商買超比前30名 3-2》長園科(15.87)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRzRkcXRkT0JIV0RWbmRod3MzT0tyUE9Ta1d3SG51QTJCVUs0ZWtiaVRNYWNvREdlWFUxYjZjbG9jYTRORU1aQWpyeHNSeTZrbUNNeFBJdThWZXZ3aFRWMGlnSUxmdlR5ZGxtUDlpdldRWDNvSU1ZRmVjVl9RQlNfdGg0N2g5SjR4?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-22T23:31:00+00:00"
+    },
     {
       "title": "△個股：長園科(8038)搶攻AI算力中心能源商機，啟動能源系統整合計畫",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbUtXc09uLXY3cWVaU25teGZhRk1UYVR0dzJDa3BwUkxLVzZWZXAwZUwxbVhjbTA4NEFCd3hqb0RDQkdXUFlhNUFvNjZwbGp3NzBrU0ZfZTFNU2R4ZnpLdklDXzlQTWdtbWwxeUJsT3dZdlppbzBLSjlmT0xTMWRsMm9DRkRQaWdK?oc=5",
@@ -14,20 +20,14 @@
     {
       "title": "半導體營收佔75%！長園科進軍AI機房",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13cVpGYi1JalNtdC0yeWNfTzJKc2dybW82emY4cXJ2SW5kQWhvVWhhUjZkUDN6NTZEaE9UUTV1Q3BCQjFhZk02ZnlPOU1YeExTZjNJNWpaanVyUUdE0gFiQVVfeXFMTU1RZmRYWE9wam4tSl9pT21IdGljYUtXUFpabVBLQ0xFQjZ1SjRsRWthdlBaNHUxOUp3MEcyS3V4WFY4NkZTZnpJUFBXbW5wdk1Mam9qdmEycXpGeTJjc1F2X3c?oc=5",
-      "source": "mirrormedia.mg",
+      "source": "鏡週刊Mirror Media",
       "published_at": "2026-09-21T20:00:00+00:00"
     },
     {
       "title": "長園科搶算力中心商機",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2M190QlhsRGgtbmZQdU90R0ZVc1lDLTdrbnhGRDNXVW4tNlQ0b0FRdHZ0WkcxRmQwMHctbDZaejk5YWtvNDd1ejJMVUNIRmFH0gFWQVVfeXFMTW1vd2ZELU44cUdfLUx1UjZ0aU1GNXFOVUp0ZzhkVkhHUVdIUTFfZWIyZi1fRl9IZ0RBenVaZk42cEFqVnprd1VjYTZGSnpLZTZuVVBqUHc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEeTRuNjZPNUY3czZTakZVUE5WVjRUU01pNVhoV2Rmd3poOXBIUTVtQTdYNlg3YlNPM1MzaU8xV1FPZTBGbWo3OWJ0d2hUcTJEVlRCa2pvYzMxeEVJSnJzejhYc0g4dWNwZHVuMURpM2MzUdIBVkFVX3lxTE1tb3dmRC1OOHFHXy1MdVI2dGlNRjVxTlVKdGc4ZFZIR1FXSFExX2ViMmYtX0ZfSGdEQXp1WmZONnBBalZ6a3dVY2E2Rkp6S2U2blVQalB3?oc=5",
       "source": "UDN",
       "published_at": "2026-09-21T17:47:32+00:00"
-    },
-    {
-      "title": "長園科半導體 UPS 技術延伸新應用 搶攻 AI 算力中心能源大餅",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IU01YWDJVZ3p6VVFKV2FQUkxQVFJWem95MkNESTdkcEo3azNnb3NNNXgwMEh4YzVYNjZZY01sVDBieFp6V0dmT1JiNldha2hHTWpRcmxfM3VNVUVPRFhYTWJjZE05cUpDWG9lOGQ0SzhXZ9IBVkFVX3lxTE43ODlkbW1rWERYRUkzNGFNS05rOWFQdU5hZjVrcGExRFpmdFdhbmhJTG1DTS00ZUZCQWFDLUxhbW1Ua3NHTGx5eEE0aV9PUndmX2RGQmVn?oc=5",
-      "source": "UDN",
-      "published_at": "2026-09-21T09:22:49+00:00"
     },
     {
       "title": "長園科半導體UPS技術延伸新應用 搶攻AI算力中心能源大餅打造營運第二隻腳",
@@ -62,7 +62,7 @@
     {
       "title": "【09/15 產業即時新聞】氫燃料電池強彈近5% 綠能題材點火、長園科亮燈漲停",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZGxSUXJVWFlxSzN4ZTYwVzlOb3ZEM0h1OTZtbklmdWtLbzV2eUJ2T01zXzJwTUNEdHJtYlh6bjNkTFJLcUMwcktiT1VVenNVQjRJRHI5bWUxWFZKTTRrd1JkeHJHaFBfd3ZsNEVLVXhNREQtQ1ZxWDVCbEgxMkpVQ0h1WDc4VlU2dEdWaHhn?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-15T01:30:37+00:00"
     },
     {

@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-22T08:39:15.632296+08:00",
+  "updated_at": "2026-09-23T09:33:24.712761+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8047",
   "name": "星雲",
-  "count": 7,
+  "count": 5,
   "news": [
     {
       "title": "外資：週三(16日)外資賣超上市股票179億8047萬元",
@@ -20,7 +20,7 @@
     {
       "title": "【2026/08月營收公告】星雲(8047) 八月營收年增231.85%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYW5VSkVmVGlDSzNscWJyOFJhd3hmdkZuZU5maXAyQjV1SWRxTklqVUI3VnN3MXNjaWUyS0dwVVFxRmwwcy14NldObFZfaVFwczFrT2N5TFFPeUJUUjdYemxLVzdPQVR2a3pkYUgwdlJPYWdvN0dNZ2F1YnV5TW1rM1JHcnZYVU13cEE?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
@@ -34,18 +34,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaaVNzalowYk9HM2tfNXhBTHdyYXdLWC1KZmdlNFJZamlvdi1feVZpcGs1X2NkVTIxWXBURFFNSVd0cUR3ZzhsMXRQTjdiYnhTbjYyaVF5eFo?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-07T07:00:00+00:00"
-    },
-    {
-      "title": "佛光山推出星雲大師常設展 敘述大師弘法故事",
-      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPc25nUWJXVnFES0lQeWMydGxzY0VnR2h6bTVQT0JFZXYxdUdkNkRna2k2aXlLLW1vb0Q3NTNQTm1DZExtSTB1ZnNsYUJOV2tvWWNzZEx4SjRmTWdRcU5uSHJCWndYUFB1WDNnVlZTeFNielVsVndOSm9oZUc2Z3IyQzc5dXlISFpQZ1prc3hldnU5S1hrUFFxcjhfSDdxUVpYXzVHUi15VE9CVnZuSjdUMWVIa0ZmX25wdTVkVS1TSG5QUzJkcG9QMk1OWllPUkliX2J1cUQxcXFqczJtTWg5cmdYMGUzcmYwZVdRZG5UMFFOdVVXRHBMVW42QXRWTjBYRFQ2dE40c2VqdWlrTFY3UVk0anV2U1NuNFJ5a016SVY0MTRIQjY5NHh0ekgwQnRRdkhxeXhLN3JNbXhXTUI1eHhYeFk?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-03T07:00:00+00:00"
-    },
-    {
-      "title": "NASA 韋伯望遠鏡捕捉「獅子星雲」，紅外線視角揭開垂死恆星的壯麗終章- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBMTDEwX0pNN18zV1h2Z1NCcmZTME1ud3VDLWlRcEdhR1YwcXo4bWRWVUk5SDJucE5DYURQOG9aWU9EQ3FGLXh3b0dRTkVTTGZONThKOF9CZ2Q?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-29T07:00:00+00:00"
     }
   ]
 }

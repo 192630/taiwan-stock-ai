@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-22T08:39:05.173557+08:00",
+  "updated_at": "2026-09-23T09:33:13.839330+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7835",
   "name": "永悅健康-創",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "個股：永悅健康-創(7835)參與國家健康政策落地，搶攻健康幣及運動幣商機",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVXdnSl9XaG1ZQTJiREVIR1JjaDNqc2FQQ3hTZFpsdDE2d3Q1WVEyZ1gtWlZYQ2haSzNUODAtNy1EcFNzOVJuMXcyUlRQOFlvYWZQQW1YLUpCTU5MeFhRS1VMdDJvYUN1R1NGWmstMXRxellpSkxMV2FRUmRDZ09NYTRMSGM1QjZ6?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-22T07:35:00+00:00"
+    }
+  ]
 }

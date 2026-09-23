@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-22T08:39:07.037459+08:00",
+  "updated_at": "2026-09-23T09:33:16.387592+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8011",
   "name": "台通",
-  "count": 7,
+  "count": 6,
   "news": [
     {
       "title": "台通(8011) 個股概覽 | 個股 - 股市",
@@ -20,7 +20,7 @@
     {
       "title": "【2026/08月營收公告】台通(8011) 八月營收1.38億元，創近2個月以來新高，月增8.65%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQzlCOFpqOUZ6V3BTMFNMYkJMWXRBR0pRR19HOERkWmU1TDZpNV9aUkFKcldXaGN1aERycXhCbDlrblhiWW8tNThRaWt0QlZ0aGlLX2RjRmpnYVVON0l6YlVYclFLc00wWld1S0tuT01qN2FZc003THhhQngtOUdORU5WeUlSQjlidWc?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
@@ -40,12 +40,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZWVA3X3FVMllRbXZoREJ4TS1wbkhNcUxaY2JUWHJJRXN4SlRYTjBrNWNrRWFOZkJzd08yS1NCbGQ3YlF5akVfRHlLTE0xTEFnT2VRRWVMRGM?oc=5",
       "source": "CMoney",
       "published_at": "2026-08-31T07:00:00+00:00"
-    },
-    {
-      "title": "8011 台通 - 台通（8011）從「一次性專案工程」轉型為「長約型常態維運服... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xdUk1VzJ4alljRUg1aW1OanVQcnFjOXVEUG1TQjZjUnBwVzR3cXlhM29BNzJJNVpITVk4TUxDeTl3ZF9OZHdPOTZGSEZiNC1aLUpnT2htZDc?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-23T07:00:00+00:00"
     }
   ]
 }

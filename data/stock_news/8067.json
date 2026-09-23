@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-22T08:39:19.363507+08:00",
+  "updated_at": "2026-09-23T09:33:28.230080+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8067",
   "name": "志旭",
-  "count": 3,
+  "count": 2,
   "news": [
     {
       "title": "【2026/08月營收公告】志旭(8067) 八月營收創近2個月以來新高，月增22.04%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON3lnQjUtT0xKd0dDeFp2TkcyUUhyTXpRcHZsSE96WmdCU0lTeEF5YTBQRGI5SG9XV1pScUo1a2ctMEpFa0h4a29qZHZ4aS1BeEVWSmNYMXB0aFFRMGVVd3kzU1UweTRpdWRnYzdPbUlFak5qaVBZLU1oc2s4QWNwZ2VfLUlHemZsVFE?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
@@ -16,12 +16,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53WnRIdlRGTEVreFZHYVRFbC12Zzh2bnphbkhydG5teHdGUWhFRGkyMzNtYXhaN3pTQTl2THo5NFNleXlnWWVtYlRDb25McXoyR2VOZnBzZllMUC01T2NjMjNrcXExSnM?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "營收：志旭(8067)8月營收823萬元，月增率22.04%，年增率-10.19%",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLU44ckVPS2lGQlJHcHZZUmNlam5ZOFE0NmQxNlZQbVVYSFlVa1ZDM0pLZ1JOa1A4b2hrV2RuWDlyYmVOX2E5aFJWOVMtZW5wMXVHQ0wwby1mNkY0S3RuOFdabDVsTnpWOFZaNDQtZGg4aUxueVpnV1FDUGlZcFVCSUtNRkwyLWlD?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-09T06:29:00+00:00"
     }
   ]
 }

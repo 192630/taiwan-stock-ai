@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-22T08:39:04.694100+08:00",
+  "updated_at": "2026-09-23T09:33:13.340518+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7828",
   "name": "創新服務",
   "count": 12,
   "news": [
+    {
+      "title": "店頭市場11:00，價差前 30 名：漢測、旺矽、信驊、力旺、精測、創新服務、聯亞、台燿、弘塑、印能科技",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RZWdMbW9FZmlPYm9NdmNxZjJHUG5ObGlTcGZJNWpzODhNUlVEUml5S1I4MFR6ZklfY3JycGd4dkNMWWNPcU5SN1NWQWhkbXQ5RWtBVklHb3BtTWRVU0hFS3p0MzB4OVI3T25pVUI0d2F5WmF0blZHSg?oc=5",
+      "source": "PChome Online 股市",
+      "published_at": "2026-09-22T03:00:02+00:00"
+    },
     {
       "title": "創新服務 今天零股比現股便宜🌟",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45M05OcHp6SjRMNXFYQkZFendMbVJsb2Z6em5icmc4OWUyc1VVZHc4a0dLQU84VVdhbXFUX3plNThmcW1jbFZyRlh4Mmd1N3R6WEhBT3hfVHI?oc=5",
@@ -30,15 +36,9 @@
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
-      "title": "【2026/08月營收公告】創新服務(7828) 八月營收1.57億元，表現亮眼、呈現雙成長，創近8個月以來新高，年增192.14%",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSV9OWFlDdW5UVk5ER2lnM3gxNjc1V2Jzb1lVQS1ZQndCSDF0SmNtVDdMOGJfXzJTWnFpZlRkWndBQUhydXowR0I0VnJWSWhfNVFiT1l0NVY2NjBEZ2YwLU44dV8zcTQ3aUhFZlJrNWVkaWh3RURXTl93TjE3U0ZWNUNtdkhTNDFoS2c?oc=5",
-      "source": "cmnews.com.tw",
-      "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
       "title": "【09:18 即時新聞】創新服務(7828)股價上漲逾8%，半導體測試題材延燒＋主力與三大法人買盤同步增溫",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdEw0Q2hDY01zT2w1Z1kxOUptMS13amV1dm96WDlVQkpQemZFRnhBQzJuaGozWWNsUkVab2FRR19TNTRQejlaOFhYX2k3WVlvdjlsQ2tfSnJiZmNJSjI3OG9iOGh4RkxfVldnem03Rmx0ZG9XOW1qZ05VZU52OURaaFNTaGVTa1F0WDNDN0NR?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
