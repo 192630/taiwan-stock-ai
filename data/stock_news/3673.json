@@ -1,56 +1,50 @@
 {
-  "updated_at": "2026-09-22T21:35:28.206335+08:00",
+  "updated_at": "2026-09-23T22:35:51.212952+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3673",
   "name": "TPK-KY",
-  "count": 12,
+  "count": 11,
   "news": [
     {
       "title": "3673 TPK-KY - 黃金真的會衝上5,000美元嗎？ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBubDZUSHFCalB6Mm81U0ROejRRRkRmSWxtU1N2Z2liNndTbGcwdzN5MkRtRWNyQ005TEpaYUp3NFFxdWRPb0ptVklwUmpWaFpHMkJWNVNsWGo?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-20T06:11:26+00:00"
-    },
-    {
-      "title": "3673 TPK-KY - 終究是垃圾樣- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJZFlnVkd1QmJZbFV1VmhWS2VWM3hyZXpXYzhWYU0zZnlRdlBoU1VBd2N1UnNGUU5DNGRYWVd4dk5VRTFmY1lnTVNRb1FIRkZDRVRjRU45Wnk?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-20T04:02:13+00:00"
+      "source": "cmoney.tw",
+      "published_at": "2026-09-21T05:55:51+00:00"
     },
     {
       "title": "3673 TPK-KY - TPK-KY機器人與AI 視覺感測模組TGV 玻璃基板布局- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11bjdseWlOTlI3THZvR0tIQjcxVHA4X1R1OFEya2RCRk02Zm9CY3FNRUxRNWktVjU3aVQyTUQ3cjdrc3dsZExvbW91Wmd3Z09pRTZyanhaTWQ?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-18T03:34:03+00:00"
     },
     {
       "title": "【11:22 即時新聞】TPK-KY(3673)股價上漲4.38%至64.4元，AI晶片TGV玻璃穿孔題材帶動買盤，短線延續跌勢後技術面嘗試止穩",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPV2liWndqU1huX2k1eE5Qb3c5Z0ZZMFdWNW03cGRndl9hS2t6Wnl0TlFSeHZSRVdRdTVLR0VSOFFGX0M3R3JmUU1zVmVhWTFnbHA1bEw0d3RIQWhzN2xab3NMODQ4T2x0X09LVm5WclhLM05xa3k3Z0FjZTI4elhQY2txQUtoTHBmVG16anZ3?oc=5",
       "source": "CMoney投資網誌",
-      "published_at": "2026-09-14T03:22:24+00:00"
-    },
-    {
-      "title": "TPK-KY(3673) 今日股價與討論 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TaHYtcmZnR01LNjBYUDZaVWJTOXdlQXJIUkVPc19tS3hGWnZzbXRMRW1NazdnQnllMUpYYWlnLWxROHRyLWZVbW5fNDN3U00?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-13T07:00:00+00:00"
+      "published_at": "2026-09-14T07:00:00+00:00"
     },
     {
       "title": "TPK-KY(3673)外資、投信、法人籌碼變化與自營買賣超總表 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02N0xDdWJQS00yQUJtbnFac1RPaGs1SnpxODRWSExUd2daaFNicklDeThhQ3VlZm04cjA4QUFsQkFSOEJmVW1MZFI3bmxkU0cyUHBxeE12YWxSM2FrMy1VdHpuVVk?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-13T07:00:00+00:00"
+    },
+    {
+      "title": "3673 TPK-KY - tpk gis 龜兔賽跑- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvNjZ6ZkhHYmVLMk5MZXBOOEZKRGxOTTJXTmh3ZkFLTDd3d1lROFVIdndnblpPU2l5enMxUFBDZEFBeUpLYWo0NzBvTkFLbGlTeV9FM1U4RGo?oc=5",
+      "source": "cmoney.tw",
       "published_at": "2026-09-13T07:00:00+00:00"
     },
     {
       "title": "3673 TPK-KY - 小心！真正麻煩的是11月的CPI - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92U2RDdDdVeFdKNV9VeDRDWDd6NkpnMzhRcVpBVVN3QnhxZXRBcHBFSTY4UkVaMFRuQ2FrVDNoRG9FLTVqZEV1a3Q3V2hFVGp3RFhuWEdORUI?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
       "title": "6962 奕力-KY - TPK-KY下半年拚較上半年成長，TGV試產線啟動- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfdTVGb1BaNUw2ODFrVnAxMDVwRlM5MFBxQS0tTUl6dzVYZy1PV1ZVOFFqb3Z0b0pTcl90Z2pyb0lOZElacmEtMmwtY1BibW9yc00wTGlNRVo?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-10T04:17:03+00:00"
     },
     {
@@ -68,7 +62,7 @@
     {
       "title": "3673 TPK-KY - 美國企業正全面加速導入AI - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJYi1yNzM1VGY2X3ExbXY4VTRodGpoejdPQ28xMTdTMUc4aWJkUGVjRmtVRFVNNWZ6SDJ0eWh2WmNIS3dSMEhsSG5vRHFYMnQtZUtfQ094R0w?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-06T07:00:00+00:00"
     },
     {

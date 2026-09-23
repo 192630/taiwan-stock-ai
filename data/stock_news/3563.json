@@ -1,20 +1,38 @@
 {
-  "updated_at": "2026-09-22T21:35:02.640384+08:00",
+  "updated_at": "2026-09-23T22:35:32.968394+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3563",
   "name": "牧德",
   "count": 12,
   "news": [
     {
+      "title": "【12:05 即時新聞】牧德(3563)盤中走強，AI高階檢測布局受關注",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNDV2bFRiRDdDZ2hCVF9HYll1WWFfTWlzdTRyYnZvdjhIcUppRzlFOWlvRXZvVnJZUkxObzFUekJrMUs0S1ZKYllCWFY2SDgwNnVCdC16ZkNvUUxRY3ZDSW8xc0ZqdzBwYzJyR2dKTE02WHBLS1FLQmRhMkNPOFRSVXIwbXdmTFBRNkRJUER3?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-23T04:07:48+00:00"
+    },
+    {
+      "title": "2330 台積電 - 牧德落底後，這裡位階創造出彎腰撿鑽石的機會- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrVFFYQWVOZVBjS2NqbVlkQWN5cFZ1SzNUa2RlNklWSlNhenJSUkwtUmEyWHh6TWY2UFFTODJLNXhxalBGQURjWV9tWjNsQmxxcFZLZ3VEWTE?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-22T10:37:10+00:00"
+    },
+    {
+      "title": "壽司郎 | 3563.T 股價走勢與即時報價",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fRUt5Y0RNN0JNSzNlTWl6NzM2NGVQVjhmVnBxWEFKdW5Dd3h2eHJLLXFqZ1NXdWZvRTA2dDR0SFdoSEdwNHU5Q0p3RmNISW9zUFk0?oc=5",
+      "source": "BigGo 財經",
+      "published_at": "2026-09-18T07:00:00+00:00"
+    },
+    {
       "title": "3563 牧德 - 只有崩盤這條路。 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FdkNYa2ZkakNFSVZXOXY5VFJqNTUyR1U3WmhRZjBsa2xNOEMwcE9BbkFVSWVERFlHdGpsMkVuWno2clV0Y0NSNXZsa0pVbG5XMllNQ2tHMGU?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-18T02:01:41+00:00"
     },
     {
       "title": "3563 牧德- 日月光推進擴產砸3.34億元向牧德採購設備- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jTXYtemowU0lBN3Z5Z05xRlJVUm95ZkRhU0oyUzRac1I1RjR1YkZRVC1jdUJEc1pxTVpTcV9tNnNRWTIwNWZQVWhOdXo3cHpUUEV0VWh4NzE?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-11T10:18:13+00:00"
     },
     {
@@ -30,15 +48,15 @@
       "published_at": "2026-09-11T07:41:00+00:00"
     },
     {
-      "title": "日月光半導體再斥資3.34億元 向牧德購入機器設備",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xWTVfNkhGMnBrZWhwb0tVLTBOY1F5MnQ5T2dGRG5icHBLVk1kWmZwSllKcDY3anlkeE5kSHNBTXcySUpOR2s4R0tCakVNRTlVVW9acWNnZk5VZ9IBX0FVX3lxTE9RUlFpTlFqV1RNSzJqb0liTXppd215cHZjbTh3UHlBSTNTb0F1T2tBTWVJamtzZFBxWmg5d1ZFYTd6eXN5alg5eTBDTlpvSThucGY2endVQXZiODhpb0FF?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-09-11T07:00:00+00:00"
-    },
-    {
       "title": "日月光投控斥3.34億元 購入牧德AOI機台",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XbFU3V01pQUpsYVNCN3FReEpCOEtxdlNJc3VJOFZZTWFldzhQZW1HQUprMVVLXzhkZE80Wkt0Wm0zemRwaFlRSm5vZjI4R3c?oc=5",
       "source": "news.cnyes.com",
+      "published_at": "2026-09-11T07:00:00+00:00"
+    },
+    {
+      "title": "日月光半導體再斥資3.34億元 向牧德購入機器設備",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xWTVfNkhGMnBrZWhwb0tVLTBOY1F5MnQ5T2dGRG5icHBLVk1kWmZwSllKcDY3anlkeE5kSHNBTXcySUpOR2s4R0tCakVNRTlVVW9acWNnZk5VZ9IBX0FVX3lxTE9RUlFpTlFqV1RNSzJqb0liTXppd215cHZjbTh3UHlBSTNTb0F1T2tBTWVJamtzZFBxWmg5d1ZFYTd6eXN5alg5eTBDTlpvSThucGY2endVQXZiODhpb0FF?oc=5",
+      "source": "經濟日報",
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
@@ -58,24 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNC1rVFN5ZU14QVRLTXRyOGtuaTAtNDN4dXB6WGF2TU1pSkVTdXlIQ1I4WWZ6WEwzMjlHR3NUN2dKVXBJV3YzME05c0k0c0JwUDhVYWVJT2w2ODVzVFFlOTBuSnlNYzdLVy1RV1NFN09wbUxjVVpsX0lOT1pHU1piRjlINmkyZnp2cHNFRnlLemlQSnlQa0t3?oc=5",
       "source": "MoneyDJ",
       "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "牧德 8 月營收 3.61 億元創高，高階產品訂單延伸至未來數季 | 科技新報",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCTWVQbTVXLWpSYjJTNlJNNGU2RXF5R19DNDJ1R1NYeGxLMExFVHlDelhkb2VZTDlOSk1kYlI0MFd6RTg1NF9QdzNrRjRYekVYSEFXWFh3?oc=5",
-      "source": "LINE TODAY",
-      "published_at": "2026-09-03T07:00:00+00:00"
-    },
-    {
-      "title": "牧德營收連六月創高；接單能見度良好",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNT0JVR2pFdUJNUGFDdUZ5bkJfUl8yalJHbXZmQnBITFlPWEZZVVVfWHZxLTgtNkJQZms2UVR4bi1Eb01CUWFEYjFsRE9PaksyT0g4YTl2eEtYdDlmaUpQRVlteTBkazlubUJUdGZERDdGTnBESnFXSnEyeFowdzQtcFhBTFNIR2JBeV9VWVhhZE1kQm51QUlDZmpyNUVzcmJIZEpxQnFOOGUzd0JyUm9CSkV0Ti1sbTBVT1VFcXNlOTY5a1VFNU1HbENDMjhGZDBCTEprYno1a2s0OGFFem1FaEN5OTJjeUZUYzlLUFZWZVJrampFOE8tTHduYlJzYlQ0aFVLTVFyRDh3MVR4eWxLMWFicUpzUVpkUGlIaw?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-02T07:00:00+00:00"
-    },
-    {
-      "title": "AOI設備廠牧德8月營收3.61億元續創新高年增35.68%",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOcTlrR2V4V19KaUc5WWx2T0hlb2JoUFBoaEtNbFdDZzNSV1p3bDNGOGZXQ0w4YnBGaEdjZ2tRNldaMWY4LTR6eFF4cDFQTnh0UUVGVkVPNE5rNFdJNVlwMFJraXh0REpCcURlUXdrQ2VwazZRdkRIMzUxREc4RVd4SlBvQ2VTYnY1YU5rbWVFSUlHZi1Rdnk5SV9iZVhUMzl3cnp4Q21ONTkwVWhKaWZaYWxCX1lqV1VUams4VnA2eVNQQ1VvdFpnbWRlSkZTTjZsNEJnaWdvQUtySGFIY2hPWjk5Y1JfUE5VU1VNcFF6OGVSeDlRSlZJWXpST3AyMUx0TVM2ZzdKY3F2WV9SN2tLMlA5a2hNSGs1WFFJc3g4TUpDYnRSQWc2QzJqRE0?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-02T07:00:00+00:00"
     }
   ]
 }

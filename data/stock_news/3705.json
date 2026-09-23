@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-22T22:36:04.496387+08:00",
+  "updated_at": "2026-09-23T22:35:58.435783+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3705",
   "name": "永信",
-  "count": 8,
+  "count": 9,
   "news": [
+    {
+      "title": "永信 代子公司CARLSBAD TECHNOLOGY, INC.公告2026年股東常會改選董事",
+      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPYjk3SExEZTZCLThIQm9MUjVTT043c2tMUE1GZUYycGRWcnpLRUg5RFpKQlBpazNlQzRrOVVEZEpGUkpucTQ0WVk2YlJaYU40VDc1VWpOcGRWV2dETVNORm1QRUFIM3hHNWY4M29OOGNCNUZMOC1PTkR3UnpMMlNXbUdkS19OV21zUnNVTVMzY0ZVVWRYQU1ISDR6Y3Joc1lncTg4UVZFSmJ2NnYyWHFLbDZVVlhDZWYtTlVKeHFtR0RYU3hBcDlvem51MVZCRTkzYVBXRHItelUxYWNtV25QTTJSSGE3aUo1MjA1V3lvelh0Ul9YZDVWaHZjMXpLRkduS05NSXhBWUhzTHotSXhjX09mWFNBdVFNMVR0YWdvSjhSaTQ3YUstS1hHejdFN0tLUUxSNW5EMGZKbGlfZkE0ckp1NUhwSmpmUkFhaDVR?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-23T07:44:00+00:00"
+    },
     {
       "title": "永信至誠股東奇安創投擬減持不超3%股份 市值上限約7200.86萬元",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jV28zX2hKZFdpemxQRWpFSDltMGlrWVZ2MmtBNHI5T1lXdDhXcURlOTRRemxzM09QNnZpQWZGT1N4OUhWS2dMcjlPQWQzNDRlVWFkVmRxWHp4QQ?oc=5",
@@ -20,7 +26,7 @@
     {
       "title": "永信 (3705) 本公司受邀參加元大證券舉辦之線上法人說明會",
       "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNR2s0NzRTUS1NMVppWmJmbE1NcEdKT1NBdm1KVVRoRXZSdDNsVk1wN05Kb2NjTkRYQVZpVDd1alRldjJHTFc3Vk5FLV9ETXhoQjRWTEdzNlVSWWJXMlFaakdpc1dINVpPa3NjZXdrNW1vX01qMWd5TG13Vml5QWZKSEh5RjZGV1Fva3o0bUEzNWZubUI1bTBTWGR4VG5HVzNYR3FFQklVdTNaZnhCS2d5THBRaUxMTWdGSzVnVmR1RnlQVWJ5cjhadHBaN0NJS240MTlBWW9TUVV6V2JVODJjaU85X0lEU3RJS2liY1VjX3ZleXk4Nkd4OTJtdndMcDZCUktOb0t4UXV1TEVZQ3hCWnFkQXJ4TWtOWHhUMnVUTnN5WEpfNy1NY1g4Q0NoNDBOQTJacG5R?oc=5",
-      "source": "geneonline.news",
+      "source": "GeneOnline",
       "published_at": "2026-09-18T07:29:52+00:00"
     },
     {
@@ -44,13 +50,13 @@
     {
       "title": "永信建 115年8月營收3.19億、年增633.65%",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85LVg0Q2kyRWZGYmdjZ3N2TzkxTjJMSlczRG81N3N6c3kxQmdBd3o5bXhKZ3NHeEFoOW9mc0hucFdSU2hLWjYtdVlYU1NoQjZmUUdjaWoxV08?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-08-31T07:00:00+00:00"
     },
     {
       "title": "運科中心攜手永信藥品推聯名營養品蕭佑然補給、補水一舉兩得- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1dE5uNWJtZDJvZzVRMWlrUmVyYVlBOWUxaHM1S0lpYV9zcF9lTFFYRHRlWUlQTTlXZHJHWUZYWEExUDV3YTdyX29SLVp3cE82VUphOGk5Vno?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-08-26T07:00:00+00:00"
     }
   ]

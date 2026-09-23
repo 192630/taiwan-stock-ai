@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-22T21:35:04.354195+08:00",
+  "updated_at": "2026-09-23T22:35:34.198903+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3570",
   "name": "大塚",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "大塚製藥 | 4578.T 股價走勢與即時報價",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jcTEwV0s2WXg2d3lnUHRoSGFWSDJzckpGajl3OTVuVzBlb3ZPbGtJWlZWWlZFeTBIckdnclhBb19UWFlpbFdMTklxUGQtaUxqREZr?oc=5",
+      "source": "BigGo 財經",
+      "published_at": "2026-09-18T07:00:00+00:00"
+    }
+  ]
 }

@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-22T21:35:25.253959+08:00",
+  "updated_at": "2026-09-23T22:35:49.101313+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3664",
   "name": "安瑞-KY",
-  "count": 5,
+  "count": 4,
   "news": [
     {
       "title": "安瑞-KY 公告本公司115年08月份自結報表之負債比率、流動比率、速動比率、現金餘額及銀行融資情形、應收款項、預估未來三個月現金收支",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ER2dPY1FjaDhOeWV4eG9wYWdfN1ZHSmZDWS16dV9JaTlwQmJnUmJ1ZUV1RzdMYTU3ZThzMWhSWE0tN3dkTnJKcnJyNTN0ZzJ3R0NIbmxHX2c?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-15T10:11:38+00:00"
     },
     {
@@ -28,12 +28,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYko1QUlRNWZ2cHZIclAzNGE1eF94NDltcFJtUTRveEE0S3NRRjJVNmc4Q0x2WFczQTdqcmV1bFpXd3VodTRyVXBHUXhwZUdQLXBYYlBEZkQyOTNzTERvcGthMm9SdF9VcHZqOTdGc1BwdUVYeXBlNm4wWkg1NmZ3alhBRHVHMmZY?oc=5",
       "source": "富聯網",
       "published_at": "2026-09-04T07:00:00+00:00"
-    },
-    {
-      "title": "盤中速報 - 安瑞-KY(3664)股價拉至漲停，漲停價9.17元，成交203張",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rMkN4dHU4QnlVc0w4ZDdBUkY4b20zZzlEVlFLTTFiR0NlN0YwRlMzRC02dW8zWlJIeFVWcWZCNGNvM0RsOElBdVN0aGJ0YlhFcWZTbEJuWjJSNnNzWWtsYlJNemtPdw?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-02T07:00:00+00:00"
     }
   ]
 }

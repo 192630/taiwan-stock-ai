@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-22T21:35:20.102276+08:00",
+  "updated_at": "2026-09-23T22:35:45.166796+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3630",
   "name": "新鉅科",
-  "count": 4,
+  "count": 5,
   "news": [
+    {
+      "title": "《光電股》新鉅科總經理 張乃文新任",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVFliTWM2SnFhR0ZrQmxTZ1o5Wl9YVmxjSUJRZzJlV0ZqSEExYmplWlpZNV9iMDlyVmt0RXpBcTV2d21zWFdGU0FDMTF1OEdKRkVaX2FYQWd3U1ZSQUxnLVQ1S1JLalZGM0JEWnRkdmpRTG9FdVBHbkNWOGRhbVdTenUxUm5pc2xh?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-23T09:03:00+00:00"
+    },
     {
       "title": "清科控股(01945)9月22日斥資3630港元回購2800股 作者 智通財經",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tZVJrWkFyWEFkNV9CTVNSSHdfM3FSTDVtdUdjbHlGQTVCNnlscm5KY3FCMEp0Rk1qSktwbk05amxYS3ZIVXAyaEoxbWxoX0J4X1lDQUdGcnZJemlkMnRZUkY4SFlkWUZST1hkMHFweVA?oc=5",
       "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "published_at": "2026-09-22T09:57:29+00:00"
+      "published_at": "2026-09-22T10:32:41+00:00"
     },
     {
       "title": "【2026/08月營收公告】新鉅科(3630) 八月營收1.72億元，創近2個月以來新高，月增0.85%-CMoney 小編",
@@ -26,7 +32,7 @@
     {
       "title": "新鉅科 從今天起暫時不公開分析 近期有人用融資大買 籌碼凌亂",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nSEw2b0tSQ2JnUlVyamdiZ2tSZHJPZkhWLS1TVE5HTl9vaDZubGxSWXNUcVlVcThyaVhzQ2Y3QUl2aUNYd3pPa2xZeVg0QlBXVWRVSkxNdlA?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-02T07:00:00+00:00"
     }
   ]

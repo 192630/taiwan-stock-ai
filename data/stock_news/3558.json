@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-22T21:35:01.822356+08:00",
+  "updated_at": "2026-09-23T22:35:32.523362+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3558",
   "name": "神準",
-  "count": 4,
+  "count": 5,
   "news": [
     {
       "title": "「9月魔咒」成真！財經達人揭4大關鍵：神準避開台股狂跌",
@@ -15,12 +15,12 @@
       "title": "逆勢押注10年期殖利率觸5% 神準分析師認為美債的拋售還沒完",
       "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOY0xIc0dVbFppU2JDQ3FsSWV4TUJEQTEzRElueGxuaXBnTTRNNTN4OHloVkJOWWJfV3Vrd3dLN2JDcW1ncDYtdERUaWhxVHRWNWphYlZ3YU9CTUZ5cWJ0LS11d0I1MmZKMUc3SGkzVXYxN3I3TEZCQnlpZTBHb2tNTHI1bGR2am9zTk5Xb1JEaEd3ejR3U1o0c0NmdlNnSXhOT19YZ1Y0ZE52MEVxV05UTWhNbjFOS19pUTduQTEycXdGLTZCT1NPa3NHdDg1RE1aVzlKbWdCVE9CYXRGcDdRQXJ2cEg2d0d5QTIzUFFKNEtmajkwRXA5eWdYZHY0RW04NUFZaGVqcWVKeEVoelhIV0tscTlpamVEaGRJbkhYaXNhYUk4bWpCb1JqUzUzRDZaZDZxVENkeFBfNDNsWjQ0dDRFTUp3a2x1NnRXRktpQnFmM0JyRkVKTEdzNFBacEExOW43eV9GY01nVUZtd3VMclliQkVPTWl1N05VcEJzODVZVU44cDFwa1ZmMmtxOWc?oc=5",
       "source": "Yahoo 財經",
-      "published_at": "2026-09-14T19:04:52+00:00"
+      "published_at": "2026-09-14T07:00:00+00:00"
     },
     {
       "title": "TWA00 加權指數- 🌈神準只是日常：一個口令一個動作⚡講座群組分享：一起修仙吧- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93TEdGSDdrbnlUeXloOWpvZkwyc2FzdUM1dHF4a3QtUFJrN1dfNDJsYTd2Q1ZrcjFob0xNbzZsRWRNMzlNREdSWFFOWHdVbWtxRXFSOWNxUXY?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-08T10:03:38+00:00"
     },
     {
@@ -28,6 +28,12 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLUNNSU5QVGxmUHp1c3cxYnpHSHFRLW0tX3ViU0lJYmlnUUxHdmE1UklvVmRTaDVZa0JLVk5wWFZmTmtOVl9pQVFSa2cwSTBuRG92SVVJYmtDc3BwZjhMbG9IakFhaXFKNmNaYVg0M2JpaTNPRDVtdlRmZ3dNZkhUMjlDMzc3SEUtTWc?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
+      "title": "少婦開車「騎上護欄」神準側翻塞進水溝！3歲兒、5歲女受困車內 熱心民眾急奔救人",
+      "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOUDAzRXFGZ0xFaXYyRDlCUkU5WG9vRW84d0hyS3E5UVZBUWNuVTNOMFFWQzNFbTR5R05wd3FBcmdkSGh6emRzc3NRamMyV25RMm9pc0prcFhEOFNkUlNvTG51U2tPaW1MaFRteUphNWZyUS1rUXB0VHFrSjBtMG9paUNDVWFaNkxBaklTdGVkc2FhaE9OdEZvenlhVkZyaFBMSTE2RmNfUndLNEw3WjNqU3VNOHR1WGo4RU9lNTFUNnpUTFY2QjZWMkhydk5DZUF6VWk3WDA2dFJHVWNvVGEyVmZMQ3RFRWZiT2RqRmtzSDRfT3M3SVVDN3dEX1ptRXpFNFNUamtKRmVldHNEdzA5cDV1RXhBY0xVMHRzaHdUMm9Vb2lxUmRhYk9oLVlqTmRjZzBkc3RLSlQzNjhpWEYyb2hfR0k4cXZRN0lpWVozX0stM095T2lLNVA5SEIzTk5jNV9QUFlOUkJEemwteGtudldUQWUxaENRblpR?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-08-27T07:00:00+00:00"
     }
   ]
 }

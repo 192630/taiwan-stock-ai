@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T21:35:14.590834+08:00",
+  "updated_at": "2026-09-23T22:35:41.359886+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3611",
   "name": "鼎翰",
@@ -14,7 +14,7 @@
     {
       "title": "【09/18券商評等報告彙整】鼎翰(3611) 今日僅1家券商發布績效評等報告，評價為看多，目標價為225元。",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnLTF1a043c1FRWnBSQnVKdVd5QUI2N2VwLTZZVVJVWTlmUGp0NmdHRzE2Uy12TlNRWDB6OExxQU9hOF9BYzJFQU84dEdvcVRMRXZyb2hzWW1KdHVBenU0V3NtVDJObGM?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-18T10:50:03+00:00"
     },
     {
@@ -30,16 +30,16 @@
       "published_at": "2026-09-17T07:51:00+00:00"
     },
     {
-      "title": "鼎翰併購效益發酵，RFID成新動能",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSmhrWEF2ZGdzbXdDVFRkbWlVOGNEaWtiS2o3YWZKYldrN0RMd1FKcmhscmVyS0ZackUxZTdoeGZ3RXVMdjN3T29xbEtrZGwyci1mRDNqRmFueXdGaXk1WnVjY1M0VjFQdFVpQThrOWpkRUd6MzdxOTZCTlpwOEcweVMtbU42QWdNeDJzRDZuYmFSOGt3NmR5STl0WDBHQjQ4RGl4djZyRklBVVNiODhnWE9weVUzN3IzclBWRjNJbWphYS0wWHFVZFBKWjk5Y2ctTzVhS0hIUy1TbEswU0pXWXlDcVUwTTVTejJSMW5oX3pjQQ?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-16T07:06:55+00:00"
-    },
-    {
       "title": "鼎翰H2營運看升，訂單能見度至明年H1",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNVGNINEdXcXBRWGh0Vno0ZWoxWlBOYWNzaEVfdkh5dlJDa3NNdFU4VDljWnZMUkZ6UzBhNmFxTTJjNkdlR0txQ0FjYVF3OHRzRnRNTlBlS0ZIaF9mb0FSZ2U4R2FiSXhIV2RMUFFPMXFyNTNsd2xhVzZ5TmJXVWFjQnBsRWlNUVFtTzJhcVRldUttNGVQT2I2ckRHU1NTdDVMOGNvSmd6TFlfeUIyZEptdmkzaDN5akNQazlFbFlBeVhER1VfNFBhUHpVdldSRlJSR0JjeGtLckE1cmU4dWdINnd6bmh3VEFIUV9OMURnQXlicmFWekZFakFLb3VXWjBjMU82Uk9lSXk4QQ?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-16T06:39:49+00:00"
+    },
+    {
+      "title": "鼎翰併購效益發酵，RFID成新動能",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSmhrWEF2ZGdzbXdDVFRkbWlVOGNEaWtiS2o3YWZKYldrN0RMd1FKcmhscmVyS0ZackUxZTdoeGZ3RXVMdjN3T29xbEtrZGwyci1mRDNqRmFueXdGaXk1WnVjY1M0VjFQdFVpQThrOWpkRUd6MzdxOTZCTlpwOEcweVMtbU42QWdNeDJzRDZuYmFSOGt3NmR5STl0WDBHQjQ4RGl4djZyRklBVVNiODhnWE9weVUzN3IzclBWRjNJbWphYS0wWHFVZFBKWjk5Y2ctTzVhS0hIUy1TbEswU0pXWXlDcVUwTTVTejJSMW5oX3pjQQ?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-16T05:05:00+00:00"
     }
   ]
 }
