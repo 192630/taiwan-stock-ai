@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-22T17:34:02.543637+08:00",
+  "updated_at": "2026-09-23T18:34:59.910612+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2729",
   "name": "瓦城",
-  "count": 5,
+  "count": 6,
   "news": [
+    {
+      "title": "Zhejiang Galaxis Technology Group Co., Ltd. Class H的本益比 – HKEX:2729",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY3pmT2NxLWFfTEpZeGczenF1YjhUMjhiajcxdHM1UENJTjlpUTU1QVc2YU5MZF9ic09hb3ZpMFBwcktaektPNXJXXzRrZFNTSWFUVlp3VHhhU1dCNnRId296dWtiMnJqdTFieXYzamhaR21GcFFnUkFvNm5IN0pQWE80ZXA2TEhMd3BZX2ZUY2VFM3BWcTkzeg?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-22T06:42:32+00:00"
+    },
     {
       "title": "個股：瓦城(2729)預計買回1000張庫藏股，看好中秋連假挹注Q3營運",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUnBuYTdVSDg4UTJ6X18tRGRITUYzYWxZZHNhWFFHeHpXTGMtN0JfeXRoYnZVaG02LTFZR2dwenhvME5VcEprRFpoSkNrZTlCbUVYM3JZSk9fZzJ1OTVVQUZoTWdqSzljN2o4aklubU1zdmVHQUllS0Y4NW9BZ0hnWWxkQ2tWOVhQ?oc=5",
@@ -20,7 +26,7 @@
     {
       "title": "2729 瓦城- 瓦城8月營收創同期高，海內外拓點Q3添動能- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZOHJiRXpWZ2t4VVB4UkxlWDhGMmxHcVE4SGpCWDNoN1FGOEtYVk81Q2hldFFVVmVuMzBaRlVnMDNaVHZna1c3Q2RBSTNvYmwxcmNld3NrZ2M?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-11T01:45:34+00:00"
     },
     {

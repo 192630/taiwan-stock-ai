@@ -1,14 +1,32 @@
 {
-  "updated_at": "2026-09-22T17:33:44.569348+08:00",
+  "updated_at": "2026-09-23T18:34:42.176868+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2609",
   "name": "陽明",
   "count": 12,
   "news": [
     {
+      "title": "陽明船隊持續自有化，提升公司營運競爭力",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNbmkzWmhwazR3VnFHcDAyYk5lUHdDb203LXN3bjVSUnlDNzVTT2g4U0RZR3hBM3E2aXpCUC1ucF96NUJnX0lKczJicFprN0hJVXVHQlpBanRFcXZ5ZUV2bHVKRzBZc0VPQUp0Qm5lTzdTMVU4VXcxYkdFZkQ1ZnpKQkR1TnVWbEZIbUNFYkRIdXVuRW1vTUpxMHZsdHNUQmd6cE5pT0o4ekJ6QWo0SU5IbFpvcnhhdURzNVZmYWV5YVBVR25oMXN5bHdtcGJHQnlPQVhTMm5hQ2RZb0l6aHZXa3BlTmtad3FNUHd2cjdjUWkwZjg1Qzc1ZDBvNXNSYUVRNlBXNmd0RjNUcWNCMWNKQ3RHdWg3aGF0WDVBN1JOVEpLczl5WjJqVVdpRnRuOGZ0Sy1meQ?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-23T04:49:25+00:00"
+    },
+    {
+      "title": "陽明海運法說會 Q4市場供需預期維持相對穩定",
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOVnRtaGxZMWhyaDZYLUY1cjRadlBHLVN1RktxUENsdTEtaE13XzFYNVVqemtTQmxsby1ucjFHdmxUOVN2SkxKMmpjdVk2X3FtMFloRXlRMG5mcm9VOVJyaVVVOUI3RE5TaUtnVjIxa2lyRlM1S3Q5WU9qS2RMNDBrY3RKZzh5VWM4aFN0dENhN05kMTZtRm1nVVEyVktLcTJ5aE5tbFMwc0NyLUZWd21jV2FPMlhDenNIRVhfZGpiNDB3RC03aHNUYkpsdEVFLTl6VmFSSGYyd2JHOUx4QU5nSGF5a3A3dXJrVkI1ZEV1YlhpRXhRb2ZubFBsTHlHUk1kYTJUckNZVmZPWUp0cTljRmdJWUdqTlJiY3piaU51Z0ZTOHNjOTViQnhVWXZHRFV6cXMyQVdwY1BZQk0?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-22T12:03:07+00:00"
+    },
+    {
+      "title": "陽明法說》亞洲線第四季將迎旺季 樂看運價優於第三季",
+      "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPQWZDbVQ0c2xfTzlzZDlyeGE0ZzlpR0ZWUnhvaEVybWo3eTl4cWQxcFVMMkZhaWNYOE9wVENQcG45ZGRkZVQ1VWFHVmRiNkQ5STN5bmVhRVliTkNjdGFNSlU4dkpwSEY3blFkamY3ZW9qb1R5M0hnSUxYbWtEbjhxMmFHWWxkS2xSejMyWUN0YzgzSHRMUlBGcUZ2SDlRN2FSTGlXdEZFS0F1akh5dDZuQzdPZldvcTNPOWhrSGZJd0FpSUtfQWZHSzJoNVZ3dWdNU01OZ1VTZjF4VW1UU0ZFbTY1NXYwOC1iMHdTczBvRFZ4MUJkZXA0ZFRKRjVKWHpza1d2Rk9vRHZwWFZ0MWwxRUZNZUF0bTc4ckk3RmU4X3cwYnpwV0pGRFN0eVJHYTBuUGhVeDl0ZUZEbmNsZXJNNWRDWVB3XzBfdk1NX2ZEcHltODVfd2ppbm9ma1VoN3kzQUk3RTQ1NDFRcW1wOVF6OXQ3SnUwdVZDMlVsbA?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-22T10:01:03+00:00"
+    },
+    {
       "title": "陽明：荷姆茲海峽「情況蠻嚴峻」 看Q4淡季僅緩步修正",
-      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNM2xMLXR1SG1jLTRodkt4cXp5WEFDM08tOGZqYzlxc3JsazZwZHRkeEh3QWw5TU9JZ3NxcHJlZFVrOUtfcWVpV3hMRWwwMEtMaUllNlEzTHlFQ19QbEJYTHVMXzNFQ3ZjX1VWaFNUU0hIRVFZaW1lbFQxOEkxU21vYTVxMTVndDRSSnhsdGdlTTBoRlYwMkE3ZnRyUmZhb08wcWNlSjczS2ZQWlV0dDF4QUVTNG5na1NSZmtjRm1LTG5PREdld0tGemZySjJ6azVWRDlMOU12TE5LY0gyWHZnSTlmT2NwcjlaRUYtaWYzMzhPZEVSRVhURkJzZkZhRFpMX0ZJbDhldndFQklfRmo5WjNJZG5oNE44SXEySUkyUFk4cGFLM3I2VHZzNDFEengwQktJRUxFWG1qXzNiWk5FQ0RtczFhQXk2alRTMzFNV1pUNVln?oc=5",
-      "source": "Yahoo 財經",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPblA1TUFQNWRJTlBkQWVyVEY4VTdwZk8wcnFESzMwU0FLY0tCLTAxcUFKVWJ0VmRnR2FidkRaMDF5OTBKT2pqeDk3dnpJNzZLUFRUUnVDc3J6SS1DNllkVV9xcmVmQVhFSGhMMTBvbnJteHE0T2JFS1BkVUhHdzBuWlRwOU0ySUlVZWs3MzBGNWNjNmxUeUtKOHI0dlFkRTRCQnNMNU1YRW1TenpkZUdfaENycjJmbDFyNGQwNllaUkRCNW5McXpmNW1MMGJkVWx0SG94U2JfOWIwMGkzZktINDZZbzhjQVFnN2J3OWk2akp3eVRNU0g4N0hndWlNUU42dE9fUlNrUGFNbjVpbE5KUm1aSkd2SlZUWkN5WlFHejlWMGQ2aU5TTDQ5YVE2RWFJZzJNLXlNLWpPZnF1LVN5UHZiRWktakNCX2V1SkItMHFBUQ?oc=5",
+      "source": "Yahoo股市",
       "published_at": "2026-09-22T08:43:05+00:00"
     },
     {
@@ -18,10 +36,16 @@
       "published_at": "2026-09-22T07:25:00+00:00"
     },
     {
-      "title": "陽明交大辦健康台灣論壇 陳志鴻分享深耕計畫成果",
-      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPTXpCbWoxXzU5dzZHS1RoYmhCVmh4X0tqOU9kT1ZvSW1XSWllRHRKSGl3WjV3b3I0a241dTVSbEZPYVJnSlBiSjhzblRWRHdTS29WM0ptTWJpeVE2N2hOMEp3VkZGc0lGVlROcDhBLVhNZG0zT2hDdWRfSHlIQVdIdERRQ2VmY3BaX1VxQmJ1aGowSGhoS2dtMndRV2NZRVRlSU5MMVBxdjd0Nk5Lc1hPYlJuUmh3TDZJNTJKYk1DMWgtUnViZFJCYmJaMTFBUlpSdzRHdjAwcUItZlpvWFpJa2FPOFlES2RfQ0xKdkNoR0I5czJwX1JxSElkT1lVdGkxOWdpVS05ZmRZSXlxdUNaNzQzM1EwbmxRdUg0Z25hSjRjazlxMy1BVE45NWNybmFBNUJfdHRfMXpjYWRIU0JsbzJfRThHdTROdXBOeDRZRUFxM3ZqRW01OEkyRkE?oc=5",
+      "title": "串聯清華、陽明交大等15校 東海大學扮演中區AI資源中心樞紐",
+      "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOQ0pDZmZ1TXlTS1otaFRRSHR2MEFGMTVISmlxVV9DREhYOEFrTmFKZEc0V3k0RUpZbFJtQzFieGVDUGh2NDVab29UamFKVTVQQTVaZ0RaZmpwUDlGdENVV3ZaNUdFbDk4NWs4NEkweVJaUDJaa3llS1FvaFJJV1RHQzVVVXhwVkt0T3BUMzU0U3hpUTVjYmNERkZVSnkwU3RwWnFWWUozc0lFQ2pDeWpKcW9CWGhQSkZiQlN4N1VFdW5mLVhqUFhuZmF3RXd0NWV1YzZvTVlORUJCeDFvM2g2WEVGQVRuaHVzMXY4SldVTnpSeWpCUXFGNjN3Tl9QQ0c2R1l1WXZyOFpXZGRONWJCaFp3b2ZWY0JjRlNBcWhIOHlleHNsM08ycnlLa3hfcTlvSHhaMUh0cUo2ZU81cUZwcV9oa3J0d2xVYmdrS1VQaXNra0NhWTZVTXBSNXJLNVRMWmVUM3E4TU45TVktWEtwaEU2VnRDQlItSU9r?oc=5",
       "source": "Yahoo新聞",
-      "published_at": "2026-09-20T09:16:49+00:00"
+      "published_at": "2026-09-22T06:49:16+00:00"
+    },
+    {
+      "title": "陽明(2609) 今日股價與討論 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zN05RYzN5ZnhQN1ZTZEE3bG1XSW85dVJJUDI2YWdCcDJOeVE0ZWdDMklHTGlxdjBIM1ZRcjBwN1FjMnF5VUJfS3FqQjhUNXM?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-20T07:00:00+00:00"
     },
     {
       "title": "陽明山13坪套房「只要180萬」！ 她月薪4萬心動了 網急勸別衝",
@@ -42,40 +66,16 @@
       "published_at": "2026-09-17T14:45:00+00:00"
     },
     {
-      "title": "陽明「滿明輪」命名 冀強化亞洲-西地中海運輸服務",
-      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPei0tdUhuWjcxVm9aZVNVaC1DQUVyejdRbl9BdUJncl9ocDI2U2Z1bVlqVzdBT0FsVnVwUS1PXzk5RWRZRXkxeHR6ZU03YzVzaXlIRXhpM0xIU19aSEtiRFpZM2htVklZNDMwV3dCYm1QWkk2V0lnR2FZT0RxVF92dkY3T3hjYk5Fa1ZrVXh2bFpIQVM2ckJzczFTRWxDcWw2cDIteUtNR3MzOWMyU1NXRTBmRXVMRFI4elhKTVFqRVNLX24wbzBYUXJkUVpYMmRiVi0zYThUazI2QkhpTnJHaHlvdTNEaHpETGdiR1VYUGl0OFRDVUx2ME9CdEVhcG1lR0ZucGhuMllWc2JNTzRZZFpHVnhyNnh5VE9oNjVYSktNdTZ5U1Vva1Y5TkFsWFhPOW9SQktwS3Jza3RXTUpiaXZ1ZTJiYzUxUktTc3lOQU0?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-17T05:45:00+00:00"
-    },
-    {
-      "title": "陽明股價淨值比0.64倍，為何散戶狂逃、大戶外資狂鎖碼，60元天塹卻三度攻不下？",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxUE5lLWw5QkFOQXRRcWo3cms2QVZrckNNdGRYZ0hoMXpZZ2FZSEtDUG5zcGdmSlRlakpqdXZWdlpOY2lsVzN4cE5HSm9Td2tJWHFSMzgxbjRKVmIzOGRmWnlDdE1LZ2R1dHV1M0V6Yw?oc=5",
-      "source": "moneyweekly.com.tw",
-      "published_at": "2026-09-16T03:39:15+00:00"
-    },
-    {
-      "title": "台灣人基因減少中 陽明交大揭「天擇」痕跡",
-      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNVVFaUzNVMHlyQkl4ZnMzN0tHRnF2VE9iNTV1eXZEQWZLLWRpRkdsc0xEeFFEZkZJWHdIUTd0S1pJajRSMWtVSnZ2cWtFWThfd1BYSENYLVltWmY5M2dyblJRVkNCSThVNjBWMjFpb1lLUGNoZGN1ODBFOWgtdmtVSDRLYTJYM1NMMGdNdHp4U045REpvLXpCMkdXU3NfaDJkRXp5N1VWOWFRMUpjM09OMlMwajFUSUh6bEtEWTJJQzdYaUFtaHdpd1FhYTlIbktqcVlMVXVKNEpmSTJrZld3Z0lkT1ZickFfMk9jSDlNRmZTN3R2VUplMHNnWUtHUi1jRTl3TFpodVZzUUJZSXR5VlZYaUNpb0pQazhneTFBdE5vMWs3cXVveUFMaTZUSGkwRGplTlFMUFo?oc=5",
+      "title": "陽明海運15500TEU級LNG雙燃料全貨櫃輪滿明輪命名",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPRVNDdnYzUGpRdGlnME1HWEMxMFFMUWZLa01Kang0N2Y3cXpfQXFNLU9jRUo4VU83OHl1ZG1UNTJxYlBTcF9vNnZ1SjVJYnZ4UGpTMWxnLVdjQXpMZ3lBUXAwTV9XVlhMOVdiTVBmcThZNXlqNXNWeENUam5LR3JSdFR3dHBDOFNaakxsd3BwZkRHWnJqay1rNVNuYkEtOTkxZTV0NElPSV9iVW1BQXRTZnYtOVc5bU5KNnJiQkpNWEJMcFdPQXBKaENfOHhNNzU0ZGw5N1BPSmQwWTVpTFp3NTFObGo2Mno3Yjg4Wkd3cmo3RUZsMEpCLWJycFZqZU5TLW9LaXFFX3NYQURyTkY2V1BNa21fY1QybGlOT1JWWnVKc0NXT3Z1d3JON0gtQQ?oc=5",
       "source": "Yahoo新聞",
-      "published_at": "2026-09-15T07:25:25+00:00"
+      "published_at": "2026-09-17T12:35:56+00:00"
     },
     {
-      "title": "避險資金湧入 陽明逆勢大漲",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95eVczaDI2cHpqRDVQQnRuUjhIUEpLcXhmbU9QN0dYTTdKN3RLSTdSTFlvY0lod2VpVGhkenRDeWpwQU5ZU1N0ekljUUtmelNlYV82OGtOVzM?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-14T09:13:38+00:00"
-    },
-    {
-      "title": "獨家／棄屍男昔有女友仍追求店員 約「半夜去陽明山」",
-      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNSFJhMlcwdnZhRExIQ2l2V0NuQ29vXzhoVTdaY05CSEVELXlmQ3JuYnV6Z016UXlZUmpMbFYxbDhpdGwzLXBGVlBhd3lQYzdYbTRFdzdMX08yN08xb1Q2dnU1cmVuMElTY2VOX0dUdW5PRnFvOE5STU1mY2R4OXhVbFhOeURsWE1rZExDb3MyMjRXcUtwc3FlOXE2Q3hMdXdRN1lkLVFXZjg3dUh1aVlrRXVkSEFzTEVGQmctVTg1eFhUQlJFVlBkVlUydHp5Vy1Wb3JhUzJuajZvZmoxY29icFZqMDBodVRZQlVyLUlRMXJtWXNXeDdRVF9oYW40TDdzdEZVNnAwM2ZjZG5HYlkxYmJ3bUptbHo0REFTNFpkTExudXAyUy11bXJZV1ZQTDRwS1hMakdjeXdraU5VY3VuVHlza1Z3Q0NEREpYVjNsN0RTNVE?oc=5",
+      "title": "桃園市教育局攜手陽明交大 打造科技教育新基石",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPMk1KM1hDczE2TFh2cWcwN3RhQzVJMjNRbDJKUEQzSjdSWXBBMTZETmV6OFlGby1qaVRoUjRpLTFCeDJtclNxQ0xRS0NHR0czLTRkanNfb2tOVVgtNVlGZWVBWFNrM0tDbE91R0JXUUxQYzdSTTJPQzhBTjYzYjJab1JPV0xSZnhsdVdkbnBzOHkzcm1KTUZzNmRDaVJCZDBwTkx1bXU3amROSUxxSGxDdnlPVjZQazRZcHEwa1lCTEYwaHdtVGFUTHI4UENKWnlaUzE2bTQ1NXEyYXJPOU5La0RsR21pc1FRRFI0QUxLbTMyU0REc1ZoU1hyWUx4NDNHVmQ0ampnRFg1NHVGeWZVeFJDTmJkWjIyY3VYc2tONWlQbkpmVHl0Q3dWTDAwWlVNMUVzeGZ2NlNZYW1tczdwbHRic255LURpSUFVSmEydFY?oc=5",
       "source": "Yahoo新聞",
-      "published_at": "2026-09-12T07:00:00+00:00"
-    },
-    {
-      "title": "狠男勒斃女友棄屍陽明山！士檢聲押禁見",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQaExXbERCZGF1VWh2Yk1RLWRDMDB5T1l4c3p2TDI0S2ZkUGJvUGFrTC0tZGI0ODI0eC0tOTk1YXBfU000b1Y0N0Vja2NjLTNSSzJtN3NXQnRmTzhReFJkNVNrN2Jva2pZU1BhaFhFbFRDTW9mQkNOMDVLYlduVzM5WEVSSDJQV1gzUkpCN3ZzbEdBdzhPUjc1ZVYtQklWWFVQOHJSeUlheWJKNTlJM2wxZW8weVh5Q3BfTXJBQ3I5Qm4xUm9FX2o4Y1p0dFFPQm5aS1lhSkE3ZkFlLTF0X0JaLXBqUUJLUmdBRW96elpNZzBsZ2hRZGpWZUpvck1FeGRZUVpLQkc4cWlQX2tUQkEwWGo4bmdHV0lNTzNhVDdQZ3E?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-12T07:00:00+00:00"
+      "published_at": "2026-09-17T08:03:56+00:00"
     }
   ]
 }

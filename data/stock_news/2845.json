@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-09-22T17:34:15.506665+08:00",
+  "updated_at": "2026-09-23T18:35:12.446917+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2845",
   "name": "遠東銀",
-  "count": 11,
+  "count": 10,
   "news": [
+    {
+      "title": "《自營商賣超30-9》遠東銀(282)、台 玻(266)、未來車(253)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcGYxU0hBbmc0dkRnNHJFaFpuOVh2WVJyanJ3QzdGV3ZvaGdsQm9nTi03ckpKQ2tyTEZSWjl6T1ZXWm1CaEw5dnZOMVJGQ2ZsWHRsejhzMk1yclNTajM5dUJRZWNXTXF4bUVTa184bFNMTGZFaFhEYWdkbE1tLXJXUVd5cVozaXc4?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-23T08:37:00+00:00"
+    },
     {
       "title": "9105 泰金寶-DR - CCET連9跌 原因來自witit、遠東銀、凱基前三大賣了約... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YV2hYQVltdm91WWNjZ202cU5NNHZYeERkUERpTjIyQmxVSmcxRUpJa0wybWNLVnFtcGRySXVLQXhHMzNDM0poQnN5eTBZY0hUamNFaHFyXzA?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-20T03:55:13+00:00"
-    },
-    {
-      "title": "2812 台中銀 - 台中銀、遠東銀、台企銀、聯邦銀、彰銀 本益比低順位銀行 本... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zV19JaW03NjFiaEtVUFdoUGRuTDJTWFhaSkMzbmswenQ0VzZ6STZrc0pzYWNGSk5DUENHTzV1Sl9jLVRhUW5Yc2YzRUdJSWZvZ3JXRHhTdG8?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-20T00:04:20+00:00"
     },
     {
       "title": "《金融股》遠東銀統籌主辦昇貿與大瑞科技25億聯貸案簽約- 上市櫃",
@@ -26,7 +26,7 @@
     {
       "title": "2845 遠東銀 - 【遠東銀(2845)盤後解析】投信大力加碼，籌碼趨於集中 ... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zWXRxYVhaQ294bWRiXzN3Y3RPOURldUVpbmtUOThpNXU1bFZReXFQY0o0djF6Vnk4MHQ2MzVOVDNoOTZ2cGNvUkdrcWFXbS03NDBwS25WdUc?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-14T12:56:32+00:00"
     },
     {
@@ -36,21 +36,15 @@
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
-      "title": "2845 遠東銀- EPS 速報累計EPS: 0.69元 / 當月EPS: 0.08元 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00ZlVtR2dkOHYyTVNUVkFDeHBla3pGS2dGYmdlSG1KNTU5TjNiVmROX0tJeHdBeUJLTFhzeTBKaW5Hclh2aTl5RWdxSUNzMU5WZzBUeG85WXE?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
       "title": "2845 遠東銀- 【09/08 產業即時新聞】金融-銀行族群盤中強勢表態，資金卡位升息預期受惠股- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3MDdPR0FVQ1lWRUhhVWEwX1o5SWFwVk15YnJkdHBlUnBJWE5YWExUWmRrRkFCVjR1NzViUUFQYWk2QzNCVGxOOW5OMlY3ZnlfUU50VF8wME4?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
       "title": "【10:42 即時新聞】遠東銀(2845)股價走強至13.6元上漲4.62%，受主動式ETF與金融輪動加溫＋法人累積買超帶動技術結構偏多",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PVERmcExoWUdvZXRiWHFfNXJoc0NhQ3VtQzdoTHV0SjZJa2UzUmtCTnFoU2FNZzRFblY4b3JXaDJ6Z3I5bVREcEJHTEZGNHpGc2tkQjFMSXQxenc2SlpTS2YtMjlMS3M?oc=5",
-      "source": "CMoney",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNEhyb2NtTVJBY19sUGtVOUdMbmlQQVAwcVR3VGtvX2dHOUVFZkU1dGFEaGhzaFl2OHBMQmphelhxMjAwdWFnem5xTk9zNEd5MklhYkFYa0xqOW5vcHZkS1BPcjRQQktMZUR6NDgyUERsQ1ZGSEFwbjFCbF90dzVyUElnQ0ZobDhxcU1NLWdn?oc=5",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
@@ -62,13 +56,13 @@
     {
       "title": "2845 遠東銀 - 【遠東銀(2845)盤後解析】外資大買萬張，股價悶平 遠東... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13Z2h6M1R3Yll2cnMyRVRIQWNtUm1uYTVKZzZPSndoQjJVc1poLXhPYVZueUtkSU1ubzF3ZjVsMmc3SnpoX0NOaFVtNlJTQjdyZEVnQnZHdC0?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-02T07:00:00+00:00"
     },
     {
       "title": "2845 遠東銀 - 【遠東銀(2845)盤後解析】投信單日大買，籌碼高度集中 ... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yLURZbEZyaHpMOV9KMHpMWVRueVlrVDRQdGJPWTNaUUtSTkxCSm9hR1RlUU9MeW0tWDlfQWE2a21FUmdxR1ItYS12a1JndWZ4cmhFa0Y2dTk?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-01T07:00:00+00:00"
     }
   ]

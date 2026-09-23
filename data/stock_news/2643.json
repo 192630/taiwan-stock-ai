@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-22T17:33:53.935695+08:00",
+  "updated_at": "2026-09-23T18:34:51.378002+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2643",
   "name": "捷迅",
   "count": 4,
   "news": [
+    {
+      "title": "捷迅孫鋼銀：貨運海空熱況延續到年底",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MWklnZGdrWkJxY3RmWWlteUxyR2hWaExOQUVPNTh5RFU4SUxHXzVPeV94X0xqRG9sT0drRUdNekxxb0dIdjB2cFRzZE9sRm1UYVZ1M1ZWb00?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-22T14:16:56+00:00"
+    },
     {
       "title": "董座顧城明法說會承諾兌現！捷迅8月營收衝今年新高 高毛利AI訂單強勁兌現",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PSWxzOTlRWWRINDlzbDZXUTZRM2F4UjBDdFdOWFNqQkRIYkV4dzI3d3VndmpDNGFpMF9FcW9GdTRoOXFUaHhXVWRFZkc4V0l5OXpWaWozVm1vZVc5aXlVR0NsXzdjZ9IBa0FVX3lxTFBiTzhHbWRzS3NreFh4OU11ZEJzcm94X2ZRSGx5MWFYSDhXb2hMdTBMVW00cDE5dUVDUnd3Tk96bjhWTEVPN05lMkZpcnVsa2t1Z0FUMjl0alNsT0VJU1RwakVXbGl4YTNxRV9r?oc=5",
@@ -19,15 +25,9 @@
     },
     {
       "title": "【2026/08月營收公告】捷迅(2643) 八月營收8億元，表現亮眼、呈現雙成長，創近9個月以來新高，年增7.8%",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTbVdqNGlZejZNejVsa0dTMnRkNVBHSkZlOGd1U3I5aUswTlpyajhZaUl1b053WVEwVFF1RkZYMlR2dUhYeVBpUEVFcnhsRnhhS210RWI3UmJ0QXFzMXpHWENLY25sdEE?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-08T01:20:05+00:00"
-    },
-    {
-      "title": "捷迅孫鋼銀：貨運海空熱況延續到年底",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MWklnZGdrWkJxY3RmWWlteUxyR2hWaExOQUVPNTh5RFU4SUxHXzVPeV94X0xqRG9sT0drRUdNekxxb0dIdjB2cFRzZE9sRm1UYVZ1M1ZWb00?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-08-29T10:45:08+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS3NFSXVYNnFZNi1TWHQyWEtvSkRqaHYxczdRZWVNYjRpeDRYckJsb3FkZlJJWFBpYXlLNVk0Q0FxZXJZa1JSeGxKb1ZqSm5hX1VZOExkTnNJZjFXa3NHRDQ3OE0yMXdsNFNzMWI1cmNPcTU1VzR6bjQ1dHJ4X1VteGlwUm0wSXJ4RlE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]
 }

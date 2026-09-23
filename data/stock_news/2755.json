@@ -1,21 +1,15 @@
 {
-  "updated_at": "2026-09-22T17:34:09.737363+08:00",
+  "updated_at": "2026-09-23T18:35:06.805353+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2755",
   "name": "揚秦",
-  "count": 11,
+  "count": 8,
   "news": [
     {
       "title": "【10:48 即時新聞】力旺(3529)股價勁揚至2755元，受AI資安與PUF硬體安全題材激勵＋高檔評價下技術面反彈空間受關注",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdXZqWDc5QzNNZjRNZ1ZvWExRa0xSVHktczI5WlNHQWs3aG1xZUZmZlRJTzhDcXVqS1ZIWV96bzZ1SnFJRUdQSUI2RFZjemotZUZuWTBrcWNFdklza2hjcTYzRHVjSjk1NEFuRzlwRUMxMFZybU5WOVI1NF9RSUJCbU91OVdRWlNYQmVkMVlB?oc=5",
       "source": "CMoney投資網誌",
-      "published_at": "2026-09-14T02:48:46+00:00"
-    },
-    {
-      "title": "揚秦8月營收創單月歷史次高",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOc1Y2YmE0WTJkTUU0U2Fubjk0SkxSMmdfSGpkc3NYVVY4OUdkQ3NnR3F0LURNU3BucnlnMHBid3p1aU1nNVVXdlNPQ0lMM0lzTkczc0xLR1AxRzdVQU9oWjB3NjVXdnU5cnVFVVV2ZzNKYXc3b3ByV1BUdWZQMGV3ZVI5WDIxV05YemRPUGFQNy1OMVNnYUhWYkQ5ZmtDMFdZYWk4ZGdob2NqWkk4WGtvRUlqMWJQOGlMSDZaVjYtN3JxTW40UXFqTjBfREJQalZZV2E1WjFYRm5kQXE0U1FUU1B0dVA?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-08T07:00:00+00:00"
+      "published_at": "2026-09-14T07:00:00+00:00"
     },
     {
       "title": "揚秦規模經濟效益顯，Q3營益率拚再攀高",
@@ -24,16 +18,22 @@
       "published_at": "2026-09-06T07:00:00+00:00"
     },
     {
-      "title": "2755 揚秦- 揚秦規模經濟效益顯，Q3營益率拚再攀高- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0a29hWkZPMldnQWR3anROcjQxOUFfSU9VMXBVVnhwTVNZOV9XQ3Robl9Sbl8wdDdRS3FPbFNXa09wRzRkaXdXR2sxZHQ2M09tNWRVSlBzOVk?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-06T07:00:00+00:00"
-    },
-    {
       "title": "【08/27券商評等報告彙整】揚秦(2755) 今日僅1家券商發布績效評等報告，評價為看多，目標價為132元。",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdFc5RmZGOXB3enF3ZERpUW5VQ0ZtN05SRFF4azRNUHVqcUFwZGhxcmZPTUZvOEN0QktfbmdzS2I5OUk4aFlfSHNuRWVWc0QwRjRRbF9ETFhqODl3VklCMXlhY2dJOVU0WDlpcVd3akhDWDVTM3BxMnhBS2xRbms2ZDFuWDR4NmNNaEE?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-08-27T07:00:00+00:00"
+    },
+    {
+      "title": "揚秦每年拚淨增百家門市；美國首店10月營運",
+      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPN1dXS21peHhYdjFNdkcwS2FQZ3YwYzYyUlg0Q1ZuRC1OaTkyZExDbmphT3NGOG5aN3ZCdFR1NVVERTdHamtXaEFSb1BYODFGTkZLYk5vMU5JY3JZck1jRTlYamREbU9rRHNueW9SaUNEZGhObVRTekdSSHBES1FCSjVfUHQ1M05fTFVVR1pYV2pocUk2SE9WaDVIZS1JVXhqQVZmMThzSjZXaTdTUHRMdGxPV0NQanJPRUIyMUkyMkJDRW1kb3ZSY2gtSnJVUjNtXzZnZEs4aHNWQTE3Wkktc0NocWlsM01CVXdTZ2Q0b2pwVk9OcmxPUVY1NUxzUkJ1ZDdpUWhTcng1dEkzcUtBYkNVT2UtN0M2dEMzamNqdjJTUWpaRjZhS3hqaV9qaDFLNHUwa29Ubw?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-08-26T07:00:00+00:00"
+    },
+    {
+      "title": "揚秦多品牌佈局 主力品牌麥味登4年內拼1500家",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jOHpWMzJfU2U4d2ZELW5ISGhYOVROUzBja2pYeHFlM3RMQXQ0ajM4TkF6d0w2SmRKUVJFOWhqZ2R6Q2k0N1kyc21zX3ZBWTJnUXJ1YTVNLU9YN2hVREVj?oc=5",
+      "source": "自由財經",
+      "published_at": "2026-08-26T07:00:00+00:00"
     },
     {
       "title": "揚秦AI賦能優化營運，智慧物流明年上線",
@@ -52,24 +52,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiwRBVV95cUxPemlRRW54Vk9YNldvWEdsdnBJbHVwbnJnYUpWRm00aUxLcExxdWdheXppbUNmTm9FVU4yUGZVS0xBcGFyWjFEVnpFdm5OQ2FCTFZXd092YWhFV01SZGJZaHFZbXpXQmNpWVRreVBfQ2VZRTJMTDVnalZuRTlzaUZCM282WGNBMkRNc0QzTklZcm9BRkh1aW9pcWRjdmRoN0dKWHQ2bE1IV0pXQzJoZ2UtTFVYcnRGOEVhZV92TW9zNVpxNXFUTVJNc0hGUnNPQUNNdk95cXFfVEFjck51dTgxOXVpMG5ULWFLVDdCZ2VWSnlKZ3pLenp1eE9lcTZvajJ3dEdnSnNOMHFMUnNlWWVxOE5ES0hoRHZ5Sjd1c2M5Qjd5WmRtTmV1QmNLVENPY0FqRmxjcXI1aTNEUnp1dzBGU2c0Wlc2NUMwY3lxT1hhVnNsdlQ4QW5xNlJpY2tNSklMZmdiYkQ4ejlGazR5VTIyRmRxVFRzYjRoTTV6WklKODgyU3ZwenZYRmlleC1wV2xrTHFNR3pNczg0WDU3b0VaSFQzMXcwc0k4cFJubFF5SmtGM3NfZ2t4cUk1OVVLZVpZUDE2ejNlM003Qk15Z3MyRFFTY01rckNsc1VrT0VlS2FYZXFYT29VNWl4S2VWX0JfR1JOdkVHTVRGVkJEZ2NLQXpoYkowRm9QMGRV?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-08-26T07:00:00+00:00"
-    },
-    {
-      "title": "揚秦多品牌展店！麥味登拚2030達1500家",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPTkhvRURMWnBRTi1qekk0VW1LVXFqdWlZb1EwNlJwMFp6WlpENGNMZXV1Zm9aekV2RWpNRHp6bUZPYWdiRExrWW1VaEpEZl95NTNNT09LTFprUHpJdjJuTThVZW4zVEZJYmYzWDU3aTlBbl9QVnA3UXBmb3NjX2hoam9xeDVrWDJqRDFqWHF0UHhIZkROeXVvemUzVms2dkhnaWJjdl9rU1U1Um5QcHpNalY3OF9lTVMxZnYxUF91UlB2U08zaGFadHlSTDE5RXl3UGxhQlRmNXc0XzZUeEZ1QURGTURZQTRuS3pPSWFadEN6Y0pRYWJnTHpuWQ?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-08-26T07:00:00+00:00"
-    },
-    {
-      "title": "揚秦多品牌佈局 主力品牌麥味登4年內拼1500家",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jOHpWMzJfU2U4d2ZELW5ISGhYOVROUzBja2pYeHFlM3RMQXQ0ajM4TkF6d0w2SmRKUVJFOWhqZ2R6Q2k0N1kyc21zX3ZBWTJnUXJ1YTVNLU9YN2hVREVj?oc=5",
-      "source": "自由財經",
-      "published_at": "2026-08-26T07:00:00+00:00"
-    },
-    {
-      "title": "揚秦每年拚淨增百家門市；美國首店10月營運",
-      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPN1dXS21peHhYdjFNdkcwS2FQZ3YwYzYyUlg0Q1ZuRC1OaTkyZExDbmphT3NGOG5aN3ZCdFR1NVVERTdHamtXaEFSb1BYODFGTkZLYk5vMU5JY3JZck1jRTlYamREbU9rRHNueW9SaUNEZGhObVRTekdSSHBES1FCSjVfUHQ1M05fTFVVR1pYV2pocUk2SE9WaDVIZS1JVXhqQVZmMThzSjZXaTdTUHRMdGxPV0NQanJPRUIyMUkyMkJDRW1kb3ZSY2gtSnJVUjNtXzZnZEs4aHNWQTE3Wkktc0NocWlsM01CVXdTZ2Q0b2pwVk9OcmxPUVY1NUxzUkJ1ZDdpUWhTcng1dEkzcUtBYkNVT2UtN0M2dEMzamNqdjJTUWpaRjZhS3hqaV9qaDFLNHUwa29Ubw?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-08-25T07:00:00+00:00"
     }
   ]
 }

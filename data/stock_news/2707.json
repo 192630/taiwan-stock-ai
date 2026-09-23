@@ -1,14 +1,26 @@
 {
-  "updated_at": "2026-09-22T17:33:58.241380+08:00",
+  "updated_at": "2026-09-23T18:34:55.397854+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2707",
   "name": "晶華",
   "count": 12,
   "news": [
     {
+      "title": "北市稽查蔬果農藥超標！ 高雄空廚、晶華酒店、全聯都出包",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LMFE3QlgwWlhIaVVsSDMxVFJndDJMbjA1b25wNkJPZk01TGMwLVBhWS1xdEdHM2w5TVJhOFhQT3Q3dGtyQUlyRE94VFdFRDlFN0E?oc=5",
+      "source": "蕃新聞",
+      "published_at": "2026-09-23T03:19:00+00:00"
+    },
+    {
+      "title": "2707 晶華- 500盤2026／「麥卡倫極致工藝獎」Impromptu：展現對工藝、品質、細節的重視- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96S0x5a1VlM0hnSU0tam5oN0piWkFPcU5vQjMyNmZxQ25EWGx5YVhaNjdDQTlFZDRISHNSRWVUakhJUUp4MFdENUh2YTZMMWk0QWpPRWpfVjM?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-23T03:11:13+00:00"
+    },
+    {
       "title": "2707 晶華- 東森林口新地標12月底開幕，六大策略串聯多元事業- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BbzdvZk9iQzNIZTZuVHJNNy1xVWVRV2x4dnRmdnp4QXYzLXIzNGdycU1ZX0M1LXBXOTNPUWVKcC1MWENVeUJZZHllMVlRS25GZHA2U0RReG4?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-22T06:43:00+00:00"
     },
     {
@@ -19,9 +31,15 @@
     },
     {
       "title": "中大型婚宴減幅4成 台北晶華拓微型高端宴會版圖",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HTE9hQndkekpWOGJiOElGMlRXeERFMTFFNXRmVjdOcGh4TTZUdDA1b3JscWR1QlIwWGo2YTRzWlpCUHFnSTdJVUppd1dZZEx3el9wNDRRQ28?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-21T02:25:42+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zcGp6VXRPUUxpVFdnZFNVX1N6SUFyR2xaaGlEZ2c3N2Q4NG5wc3VDOENNU0J6Z3ltTlNIcjBhZFVBNEg3cWcwZG5jZGRBTUU?oc=5",
+      "source": "news.cnyes.com",
+      "published_at": "2026-09-21T02:09:10+00:00"
+    },
+    {
+      "title": "婚宴市場轉向小而精 晶華攜麗晶精品推「晶之宴」",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdHZhaEdfTWlIQ3c0SWpvTjlLSzRhRThQR1B4eG8xUGV2U01MQTdlYUx6ZXdnb3Y2V2htUEVFSUlfNEFzSV9HTE9IOFU5YTlNX3JBd3pLbW9GR2J4SmtJN1l0NGVzeXlUVmU4bVk3Q1gyT3dkYklfNXJrQlc2aTBJWUZwZ2Y?oc=5",
+      "source": "壹蘋新聞網",
+      "published_at": "2026-09-21T02:00:00+00:00"
     },
     {
       "title": "旅宿業首波外國技術人力抵台 35名印尼技術人力入職台北晶華",
@@ -32,8 +50,14 @@
     {
       "title": "2707 晶華- 婚宴市場變天！大型婚宴5年減47% 晶華搶攻10桌內高端商機- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2WFNlQjR1QUN0b1I4NW5TelZiNVR1X1R5c1ZJVDROWk5oSjZHVmlScnRKeVFxMlIyWHJUdFdCbXcyWXVPWnNrRF9qblNHSEw4cGE2SHBIMU8?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-18T10:28:38+00:00"
+    },
+    {
+      "title": "少子化衝擊婚宴市場 台北晶華推晶之宴逆向突圍",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wR25ONGJOS1U0MzdRVUdIQWxiY0NIXzdKbENSeFFlcDZTVW5EQm9sN1JrNlpxM2NYV3oydVpRZTZHT0kxTUFLU085VmxHN2M2MmxCdFBlQ05vb1o4dTJB0gFkQVVfeXFMT1J4RDhHeXFRcEpjZUU0WlNyQjBEQWVDUndhSUFJdFQ3aGJpM3hSSENUY3lxbTRzVVFVU2NVQTN6SDNtUFdyb2U4UGJSeTRUZU5pTkVNdHhBdzJFZXZNR1dGSTlFTw?oc=5",
+      "source": "自由財經",
+      "published_at": "2026-09-18T09:01:21+00:00"
     },
     {
       "title": "婚宴吹小型化風，晶華攻精緻婚禮穩業績",
@@ -44,38 +68,14 @@
     {
       "title": "晶華(2707) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PdzhDWC0ybkdXbjZBREMzZlpPa25ZZ2lTSC1sS25aZUJZdjl1dElFWmhNSWQtb0xqS3VpOHpvdTJwa2pTQ04wOGplSzVQR2NTSG1z?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-18T01:37:03+00:00"
-    },
-    {
-      "title": "少子化衝擊婚宴市場 台北晶華推晶之宴逆向突圍",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FTUdxZXBPdEZfNGtUMzNJMDdjUnotOXM4eWJ4NEVvbUZMdHlabW82enlZNjZyOXNERFUwdFNjWWJjRTJmZlVJa1JMR2NZWVU2OXVPamNKU1o?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-17T18:01:00+00:00"
     },
     {
       "title": "2707 晶華- 觀光署攜手晶華深化觀光人才培育35名具在台實習印尼籍員工返台加入旅宿業- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xSGtpNVQxZVZpYmgyZlJsLVpnWEdsWVZKNkM0V3BKenY4elZPT0xuX2JPNjFYcGlSYjBUbWUyZTRORGd1RGVUT2xPamZZNFczeXNySHhIam4?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-16T11:16:43+00:00"
-    },
-    {
-      "title": "觀光署攜手晶華深化觀光人才培育 35名具在台實習印尼籍員工返台加入旅宿業",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wRmoyY0pZMzZXejVtTGNhQWdoMzF3OFQ0b2UxWXBQTmNhNGVXdUZYTFpUczdqWF9XWFM0ZC1GYnlKamkwVV9TQ2EyWUJWckU?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-09-16T10:29:11+00:00"
-    },
-    {
-      "title": "1815 富喬- 🥰籌碼火熱股；富喬強茂南亞光鼎頎邦瑞軒穩懋元鼎全友合晶華通- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14cXlLdUk2NWhhOFBIemdDRXJ1Q3dBNUhxeV9laDhjTXdxZHBwdUFjQ2NYVVdENktoZHh0UVdUbUp4UEdZQ2Fod2szS2FLZmpNN3hfRy1hdmo?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-16T06:19:46+00:00"
-    },
-    {
-      "title": "2707 晶華- HBR管理年會》當AI時代來臨，下一個20年企業管理勢將面臨變革- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rZldtM1hmUlpPcHhtZkNQT0VRZGU2aW0yT01sQ2pIcHFMV2tNaTZFdHVaQ3ZwVktLQlpndVFZOEtHdUlHV0I3NXBDTkRsRkdzTU83STNldXQ?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-15T18:42:20+00:00"
     }
   ]
 }

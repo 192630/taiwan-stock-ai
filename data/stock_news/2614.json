@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-09-22T17:33:47.172779+08:00",
+  "updated_at": "2026-09-23T18:34:44.775908+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2614",
   "name": "東森",
-  "count": 11,
+  "count": 12,
   "news": [
     {
-      "title": "股票全被盜賣光！他電話一按「**21*」股市獲利歸零還慘背卡債 | EBC 東森新聞",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfWVdfODlLRy1vWGRtS2FOUXNtcWpfUU5MMXZMdmZpdkZ1UEJhQ1VfNHl6N29HcmZlR0Z4MjdfYkpQcFVla1ZpLTBGdU5KNTJER2JENzJR?oc=5",
-      "source": "LINE TODAY",
-      "published_at": "2026-09-20T15:52:03+00:00"
+      "title": "3.7萬股東注意！一檔台股今最後交易日 10月1日終止上櫃 | EBC 東森新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iNTkwLWFzcGRMMEdyaEExd1JUREhQTUlkUmFfeUloU1NTMUNDYWxYOWVyUzVCRGxOUlllRzdOM2VtUVBrT0ROQlRYOEtPWl9pZEIzNEdn?oc=5",
+      "source": "today.line.me",
+      "published_at": "2026-09-22T01:07:16+00:00"
     },
     {
-      "title": "精星（8183）股東注意！這天「最後交易」 10月1日終止上櫃 | EBC 東森新聞",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnb2FBZTcxZVM1WTBYTDl2aXNyLU83bTRiTEtuMjY1a19uMGhjcmtJWnNJaHI4RVRaTXA4UGRIMWtFZnY4NUdyMWFNbkhOQVlyQnpmM0dB?oc=5",
-      "source": "LINE TODAY",
-      "published_at": "2026-09-17T12:37:56+00:00"
+      "title": "東森深度周報／台灣人口50年後恐腰斬 手機成生育殺手！？",
+      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPRk9MTkFFRWdVZFlQY1ZWamJkUVVKVzZwamJUdHZzLUtVRjBiaThfVGpJVlQxa1I0UFhody1xZDQ0RGNGeks4ZlVpNmNqTkMxVUtiVHloWHV4ZENhd2o4X0xlOUs0WFRYYXJIcW9jTmVSMVNqRzRWTnZuSm9MblYzZERjckhnWU5wTWZfYlNaZ2dIRS02OWRYNUtyRVZWT0lYdndkMlE4Z201YnVsbVplMTZTUmpJYnVpS05qNkRHSUhFdm9jcEFmRnYtM2x3eG42V1V1WmZxQWJ5azZvaVQxR01mNTZVTXRubkN5b29ZQ0NSQ2JZM1c1TmV1ekJKVEFYMVFES3hIU0c2MGdncEIzYUtEY1dOdGJPRkJ3LTVoVGJVMEpwVVFRZ1I0b2pMQlZPbWJUU1l1bzVkSkdHN1p4VUpyLWxkSk5lUjVUbXJHOEx6UHdDN05lWTdXWm4xRVds?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-19T22:00:00+00:00"
     },
     {
       "title": "涉東森內線交易！知名律師夫妻套利133萬 二審改判緩刑",
@@ -32,19 +32,25 @@
     {
       "title": "收購東森電視爆內線交易 名律師林則奘夫妻二審獲緩刑",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOMVhHY201MGk1dWVRQndyTHdzeW85VmFwLWNoSWlQdUU1V09QYVRWcUM2ZzlaRzlWRVZzald1SXNiNnlETWJsNnZZQlQycU1HTWM0LVFTMHBfQ25URERnaVZINy1haDB1ei13WWdR?oc=5",
-      "source": "中時新聞網",
+      "source": "chinatimes.com",
       "published_at": "2026-09-17T04:15:59+00:00"
     },
     {
-      "title": "砸225萬試手氣！新手「抽中漢測」現賺256萬驚呆 | EBC 東森新聞",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhLTZLWGhRbVZSNk5BLUNjU182ZGFfT3dtcGNJVmpXZFBITm1MMFV0dXRBdW9MWnduMUhEVUFTc3J3Q1RWNlpIT0FRQUJua2NZUjRVNUZB?oc=5",
-      "source": "LINE TODAY",
-      "published_at": "2026-09-17T01:56:58+00:00"
+      "title": "東森深度周報／急性血癌奪命風險高 醫師示警初期四大徵兆",
+      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOMVloejJCa3V4czZQVnhINXcxNEpWV0VjUTNuSFBTelZsWHJJT3FoZ3N5YTV4clRweEVFM0cwZkFKaHl4V3JiNmdqU2tnRVNuTnBKZkUzUEJYenJ1eDl0c2VYSjN5OGRvNk8tN1lHdE5jVnZSTVlqMlFLNlhpbVVXTlhpOFdXTUZMNkdtUVBLdUIwdzJoV29BZG03cTJiUUNfaTl5aVlMUEdfS3F4RlE0UEtmUl9paVZUYzRfdm1KaU5DYW9HRjlvelZjSEtVeUp1UWtvZ0N2R0FYLWl1bkJ4eUJVbnlQR29xcXM0dFZ3NUZiUDU1OTFwY3RoblowWFJwUUJOb1Z1QlB0ZXpsN2tmaTNtM1l3NEQyMUZoUE92TmF3OFdLNnU1NzJkY3lOMjRkSGFLcXZ1SXdfZXNKT3ZvTXJVU21hSDdQNW5uRGJ2OFN4cF9FTGVMUXFwM2ZNU1B6Q1pCYTdkeElEcVExaFhpR1dMM1ZBMzIzMndBQmIybGdBQQ?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-16T22:00:00+00:00"
+    },
+    {
+      "title": "東森深度周報／新聞系正在消失中？AI時代考驗新聞專業",
+      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPemFnUURTbGppWjlqR3ZCc3BXMHZBemhjWFR3Z2xWNzhuUXJqQkpBX094SGJXeHp1R2JjWW5Rc0poRkZOUG96di1jX09lcUNwUlpzaXhxMmowX1phUUxUcV95em5NallyT2xwZWRhYTZiaERuaVFWUm5XamxMSHJoTFl6aV9uSUxEeFdzTG54YThCanFVTm12VzExUlBMM2tfUFJtMWw4dWZLV284aVFOZ0paY2R0anFlYUJ1Y0djQllTaU1TR0NlZzZKMHFtTzc2QjNWYzgxU3ZVX3llNHhpUGRPVmFnalBDY1ZPWjFaWng4V2NIWDdxYjB1N3l4bXl3bHNmNm5GanY2LUpuMDQzVUV6ZnZNaVlDQ3RpR2Z1SW9ZbE5WTjJ2dGh0THN2VXQzMXZtUExwd2lHNEtqOTgyV2hxMWI2VDJRR2w4RWZwY3lQMVc0X0YyLTNaT245QWtp?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-13T07:00:00+00:00"
     },
     {
       "title": "台股注意！2檔股票明起遭處置 4檔也被盯上 | EBC 東森新聞",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FUzNfZm9Ba1FOQ2lyUUVSV0VoZ1daUWFwYkZ1cGFOX1E0VEk5NUlsMmlTQTNFNzJDWW9pNTUwR3RwclRyOFFDTGdjempvaF85U2tCSDdn?oc=5",
-      "source": "LINE TODAY",
+      "source": "today.line.me",
       "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
@@ -56,7 +62,7 @@
     {
       "title": "4檔個股遭列處置 大立光漲逾200%入列 | EBC 東森新聞",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hQXpOb1BJX2dJcHYwX212LUU5VWhfQmlZSEVvTDkwaXR2dVprZGQyZk1FQXdyTDJLekFWYkxtbFdDYTU2Q2duSzZBNF95cXRYVWJiUy1n?oc=5",
-      "source": "LINE TODAY",
+      "source": "today.line.me",
       "published_at": "2026-09-02T07:00:00+00:00"
     },
     {
@@ -66,10 +72,10 @@
       "published_at": "2026-08-30T07:00:00+00:00"
     },
     {
-      "title": "東森深度周報／幫孩存股「賺百萬」 養小小股神當心贈與稅 | EBC 東森新聞",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oUU42c2ZjTUJfSENNOUxfb3pocGw3MDRfeUd5MGpPTU43eWEyUXBDZlJYRmlJU3Bvd2RNTFY2Q3MzRE94d3hvOFVVSnF5emFpZkg0RHZB?oc=5",
-      "source": "LINE TODAY",
-      "published_at": "2026-08-24T07:00:00+00:00"
+      "title": "東森深度周報／律師頻繁涉入詐騙 資深前輩盼喚回「公義初心」",
+      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOWnN5WTZwczFLZ2dyMEhoUnI0X2JaZVY4aW1sckx0SGxuZFB3eHhUT0tIQ3JMbTFCSVRpenJkVEVHbDEwOTFVYWR5aldONTBzLTRocFVFa2d1QWtJNjlSbTFFOFA0LUZ0UTFEVVR5QmhfOXh2NFdqTVhLcUl4SlFoc05HZDNGQzFaSFNla0picFNmZEZFOEtiUFFubkZndEJ0WkhmbW1RcWNSbHNMaDE4Sy11QWY2NGNPVzZoYTdYVDZQUFdCU3haaFFIZTV5Sk1PeENkdTl6WHNwbDVZTGltSzhQYXIwa2FkWXhkWndsREl0RWFpYUp2ZnVGYUpIamNwbl9Ocl9PNTVNLUdZSzRKRFlNbnBfQ0psQkF2OTYydmV0bHI0Y1h0NE9ISGt3aW5pUl85MEc3UThkV2tUX3dKZVltYTZrMmdKcGd4dElTNlBnb2hpcTR0dGdBMTRuTnZtbFB0UjF2czZjQkpxT3dFLVR5STI2UXVHNVUwX0lKMnBfaVk?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-08-29T07:00:00+00:00"
     }
   ]
 }

@@ -1,45 +1,51 @@
 {
-  "updated_at": "2026-09-22T17:33:56.182780+08:00",
+  "updated_at": "2026-09-23T18:34:53.411091+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2702",
   "name": "華園",
-  "count": 10,
+  "count": 12,
   "news": [
     {
       "title": "彰化傳統戲曲節精彩連連 北管小搖滾、明華園大戲週末登場",
-      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNRllROUZlZEpYQi1tRDRYdk5IOXdnNm1KdmR0a2EzWXNEZklwRmg1OXljemVSWFRmaUI0WEsxeTcxdUd3RXZETFVxUmlnZHgyTC12MTNKOVoxSWRBYi15RnU5REpobmVUYm5rMGlwXzF3RG5xYms5eERHdnlMT3l2Q05IanBiS204bUExVkRpVEoxZUlnUWNLRHp6OEt2TVV6b3hYZWlBYjJDOWlZMGQ1U3VNX3l3V1ZYUkhMeFlvbS14MnN2UUtfSWZWYzZzcjRLTmJ3ZHZsN3VBdWNwZVNya0hYR1JsVmE0ZG1lLTYwWmwtcmFiSVV1dFZpVDFwRDd6dFBvRDRrNFBOVUlQd0QwUll2VHBydGxFYWZpaDFDY2cwSndZbUJ1Y0cwRWsyVy1xYTNialRMWHRrQ3hRU0RqV2hqSFh1N3hwS3B6eGdNbzltaXVRRlFuUzB5SEdiTnl2cDZERklUazdLSGZEQi03WFBjdG9fWGktYXdYTWtrcFY5QQ?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-22T07:38:32+00:00"
+      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQb2FDRGhaOF9pbk9GVWQxenZwZUxlNjBxTHR2a0xrNlA1Mk9RMTM5bFNwaDZTUGVzUVBfY0Z5b19FaHdiRXFTNmI2MFFjaGNpQXlqek9ldm9ITm45Wk5FeUJWc1RpaGlMZll5ZWozZzNIak5tdEhfWTFQOXdqRml4YnQtT3QwVEg1ak9PYzdiUkVrbzkyYU5DeXU3SHBhWnlIYWtIWXNmQThFcDh5UnZ3dkdlR3IxRUN6dFpWMkNxYlJMUE9vclF5TWVKSnlid0hqcXEtVFFGLWRjcFNBY0lVaG1GWEdMejRCT2Q4YXVHdllHdnh6ejV6OXE1MUQ3c1pVY01XNXJZTzk3OUpxaVlkZU83Y3JBUjEwcGFEZE5sODZtc1dMc1dGOW1VUEtmV3l0YlpxRVE5a215T2xRdHVnX3ROUHVLM29ZQThSSlpocDdxcjBvSGUzUnNxNnhpVXdDMlM3ekFTa25jWVJhX3NnQUprd0dyZU9oQmVJaHVwUVBiMVF3N0E?oc=5",
+      "source": "行銷人",
+      "published_at": "2026-09-22T05:27:45+00:00"
     },
     {
       "title": "2702 華園 - 美國生技指數8月創歷史新高，莫德納 「癌症疫苗」問世，1天大... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JZ1RYSGloZ3EtX3ZlNmprLWU1emFvSFo1bmszY21IeXJ4MzVwOTlncHgwZFV2Wl9QWkZaU1FhVDFLZlJNc2ZMQTVIX0JFQ3RTR1lsRjJNN1A?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-20T09:08:26+00:00"
+    },
+    {
+      "title": "國家文藝獎得主也有百轉千迴時 百年明華園《貓．阿修羅》翻轉出新貌",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oOF9yWm1ocEY3bkRDUUF4T0JDcFdxRF96emw2ZnJpc1FOY3gxOTRkNmt0ZFppVGZObXF1SFlqZXZrdERsNE0wXy1vRF9URTdpZG1lYWdJNGVnUFNWNlJRVNIBZkFVX3lxTFAxU2lXR19pX01Zb2ZrMU1EYkQtNlp1X0E3cXh1bEVoWXhwenhBcmdwdEkxTk8xalFIcThwUXgwS1VzcjZIRTRHazdxWUVHdHZ4U3ppUDkybVJPVVpHR0pMY0dNN05mUQ?oc=5",
+      "source": "art.ltn.com.tw",
+      "published_at": "2026-09-17T15:20:00+00:00"
+    },
+    {
+      "title": "2026閩南傳統藝術巡演特邀明華園演出《蓬萊大仙》 張善政邀市民共賞經典",
+      "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxPaVZFc0xyN0JHSGttY1ZEeXV6Qm95eHVyMXBoUDBwSGRPVnlyck05aGxKbGphcVAyS3plZFlVSmdGajlqRDEtb0VENVN5T2hpV2F1T0tCUzdWTDJoZ0h2NHo0bkItUDJ3Y1J3YW81bEFIcW5TNEc5R3VkQloyRTc4MDZGRGE3anE5V0FxUlBnRzU0Mm44dW1iRThCUmtDVEt5TlJwbmRyeXBwc3oxUUlEMGJLLWs4SXdUa2lqWjNENk0ycGQ4eC14eWlLVXJIM2djNWZBRkhZa3AxZHBsZ3ppTXJxbWNDdkJUdDYwT1hBMFFNRzNrSkUtUWNWZmNKdmRLOGJJYk43QnlMaFBpc2EtZGZKeTRCTi1FVkdWTUIxRmdlcy1QTURfc3RnZTZ3U04tRlZ4ejlyMmJ2VGh0V3A4WEJfS2lSejBLTzBRTHNQY1hkRGJNQzAyM013MVYyMENZc1J2QVJBbE9oVmkxNm0xQmdJU29pbHZiLVBhYmFOTzZMSHppRnpFQ2JlaElrZU5fTG1DeDYtcWhPZ2hHRF8yVnJiT3Z1NGtkYk0xdXhTSGVDT0NaVk9Ha0J4dlYzU3o5TWF5RkV6RW9YTjA?oc=5",
+      "source": "台灣好新聞",
+      "published_at": "2026-09-14T07:55:10+00:00"
     },
     {
       "title": "1301 台塑- 明華園到嘉義新港開鑼孫翠鳳領銜「紅塵菩提」吸引千人到場- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tdnFfNjdpWnJ6bXV3cF95UnhEU1hPcU5GbV93UVBrUHd6SWEwUjhLay1PUUZRZTdfRXRWYm1fdjJNNFV6VWQ0eU5nMm0tSVdlYml1V1Awcng?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-12T07:00:00+00:00"
     },
     {
       "title": "英鎊跨期2702/2701 (6B2702-6B2701) 期貨",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZSUd5WHBPcEVfMHBxemtPcl9zZlI5WlRMdFN6Y2lmNG5TdTZZUFItOHAzWU4tMU5IUjV1R2llVTJSSkV3cUl1aFFwbHRwdHM0Rks4N2phZ1NPZWdhTkI4UnJn?oc=5",
-      "source": "Moomoo",
+      "source": "moomoo.com",
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
       "title": "1301 台塑- 明華園新港公演狂吸4000多人台化、南亞及台塑贊助兼做公益- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QSzVISlgwX01MQ28zUHpiWnJMelBaeU5aelJVUzNwZEY2ZTdxa1dJc1JyT1dCeXg0ZmhPRXM2aEczWHRUS1ZDbG4ycmljVF84UGZTOHFWaEk?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-11T07:00:00+00:00"
-    },
-    {
-      "title": "明華園9/11嘉義新港公演 (圖)",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNY3o3VE4tVzZqQ2ZfaGpRWnBnNThQc1JJZGsyWGpzcXBJZURsbUhGRWxzUl9abzZyaW1rMl95Z1B6SVlpTTkwOWRuQUhBQmsycW9qUkFLREt6QmRPSm5VcjVxVDNMX1pqYXNqMHRMdS05cFRKbEczVkVaUUdpT3M5UWVGMUFjcmlfRkVDclRmR2dRSWsyZ1F6aTJRdXFDaVl0OVVrV2dVOTE4b0RNdTgybWNLenJ2M0tkLXlWWjRybUdUV081TVdNNXhhS1BSUVRIc0E?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
       "title": "【2026/08月營收公告】華園(2702) 八月營收月減年增，全年營運續看向上-CMoney 小編",
@@ -50,8 +56,14 @@
     {
       "title": "明華園拒演鍘美案…孫翠鳳遭「親姊背叛」家醜被挖好友唐美雲發聲- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GNWN0LUpwWUM0b0pwZ1VFSVhTS0JWd2RMblFfb2I0OG9uTTVKU3YwUm0xQzFHWUpEcXlwVVVzT3hVbnBKbDJCU0NoYTFRSGlBLUhWcHgydC0?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
+      "title": "寶塚與明華園交換頂尖之道 驚曝孫翠鳳一特質不可思議",
+      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNbTFMLTJmTVgzSU5FMEJsdTNfLXRENG9Da2o4RGktMGRJQVFhYWVlWkRoa3pVTGhxRndQdFN1dWVOdnotbEZ1YXhPLWxIdVNOZEd3cE1CWklpdEN5SHpEcXpUa2Vqc1FWSHMzUFFtVkdVd08wZUdRd0kwaWFxd0NoMWN1QUFPU0d2bE80RWVqMzktdG01bHFDVU1CZ2FUOTNKcjBsZGkxc09TTWU5ZnJ6UURPaEU0azJxNkpyNDNlWTVRODRCbUc2b01LQmRhNkhKS0Z2SXRuaEI2MzBZdDB6S1F4SUZQNkJyc0FEQ2VFcEFlZ0tGYm93WnA1Zjl6aWk4UkF0cG8wYzBSQm1GY0Nva3FhaUdEeERsVjRqZUhiTUZyaWlsQmd3bzJtWEJDUEt6NTdKOFFEbXRlRnV3TWsySThWa2xlM0pjcWI1VHFLOGVJNW1iNUZvUWtHWV90Tzk2Nk9SMmNlcHJuQQ?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-04T07:00:00+00:00"
     },
     {
       "title": "明華園大戲 花蓮「忠義傳承．義民祭」富里竹田義民亭圓滿落幕",
@@ -62,7 +74,7 @@
     {
       "title": "以太幣參考匯率期貨2702 (ETH2702)討論區_期貨評論_交流社區",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40akp3cmhWMklhRk9wWDhnbFJkc0NZSkZEaV92VXlBQzJveE55VFJ3LXJVMDQ1ZkRLclFjZkk4WFd4a2tObmZ1UTdaX2szbEJnVlI1ODlWc0psX1ludkxIcDNBaUY3Q3M?oc=5",
-      "source": "Moomoo",
+      "source": "moomoo.com",
       "published_at": "2026-08-25T09:38:32+00:00"
     }
   ]

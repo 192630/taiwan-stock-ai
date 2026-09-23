@@ -1,32 +1,50 @@
 {
-  "updated_at": "2026-09-22T17:34:11.971268+08:00",
+  "updated_at": "2026-09-23T18:35:08.994081+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2812",
   "name": "台中銀",
   "count": 12,
   "news": [
     {
+      "title": "中纖目前持有台中銀股票的持股比率多少？",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOHVueTBQaEppRDk4M2V3d29pMGFwQTN2dmN4VkdaSGNaalRzLUp6SVd0NEFsbUdyUk45YkJnZzBiVV84cVdHejZDTVcwdmQtaG1XN29ZRkx1Ulpya1YwRkp3WFdQNXB0dUluWFc2ZjNxYUJGYnAzWkFIVU1VTXFkMzJjSXFBVGNHQ2xJdnFsbGNPVUNDZGI1OWVn?oc=5",
+      "source": "聯合新聞網",
+      "published_at": "2026-09-22T19:37:50+00:00"
+    },
+    {
+      "title": "【26Q2財報公告】台中銀(2812) Q2 營收97.7433億元，創歷史新高，季增9.55%、年成長20.01%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOektieXVnWTNoTl81RnhiQm1vMDFGUFJEaVpEUjlnM2JvVF83VkZCSk8tSVJZVXI3ekdNdzFTMGl5bk0zWmwxcHZSVU9aSXp5c29fNXIyNlJDUW05dXFYM2RTSVN2X19QdGhnZ0RZOGV4WEhOX0FzS0RfMlIzLTNnTlhxaFg3LWd2TWc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-22T08:20:05+00:00"
+    },
+    {
       "title": "討論牆 | 中纖再賣台中銀股票17,965張 獲利7,328萬元",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ta2gxclBpWmgtOTZXbUozVWZFRDR3aDBZR1FMLWYtVE5FMk54RmtjVHE1aEpqbG5YWHBydUFyeXBHOHpoMmVMaUljWjBIZVo1M1FfZVJjMUhSakpKTU5kNkdFa3Y?oc=5",
-      "source": "LINE TODAY",
+      "source": "today.line.me",
       "published_at": "2026-09-21T22:24:38+00:00"
     },
     {
       "title": "悲情的台中銀",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jVlZ4eFRfNkc1NEhfNmxUUEtEZEhVUWNVRVg5bjFyZ3BCTjRpTV9fRE5IaE85U1pHeU1KbGFTLUhlbmJlU2g4VFRoWkZma0dLQXdzMW1PVk8?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-17T03:05:36+00:00"
     },
     {
       "title": "2812 台中銀 - 【台中銀(2812)盤後解析】外資買投信賣，土洋對作 今天... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxdUhVZVlQVWdxRkFjZEVBOVZTTHJmRFQwU3htaldveWdrVWlTV2twVnRPVGZsMTdBM3hKcFJmZWhobE9LODdEbm9xeUtTTXBrQXZnc3d6M2Q?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-16T12:37:18+00:00"
+    },
+    {
+      "title": "加元跨期2812/2612 (6C2812-6C2612) 期貨",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBabVI2UVNrc2VPYlNvQ1NpQWdlTDNfNlNHd21yTG90MXFMOGZnc3V3WVdtUjRYOXQ1MVdJaDNsYjZmNlNSV3N2NktGdjFOUUtrb3FCRTE0dkh0dEhpY3dIa1NB?oc=5",
+      "source": "moomoo.com",
+      "published_at": "2026-09-16T12:30:45+00:00"
     },
     {
       "title": "2812 台中銀 - 先買一點 🙂 希望別讓我失望 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YTXdHdHN1aS1Qc0dHc0k5MjZFOHU0Yk0tNWJKal80NU90MkJsWGNBc1BaZHF2ckQ5ZFZUMEUxV3Nlak4xM1hzbTFNV3ZjNV9PYnFfTmQ0OFo?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-16T02:43:40+00:00"
     },
     {
@@ -38,44 +56,26 @@
     {
       "title": "黃金跨期2810/2812 (GC2810-GC2812) 期貨",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iMmYxSzRYQUV3LWk3eDdPdHd2bi1qQkthQjhpcmNmM3hjaWJSZDlSZUsyQkZ2a3FCN0tSMTd6bXh2TUlrQXZESmN4THg3akMxS2pneTRtekFjdFRZR3BheVJXajhQRGxXMEpMVnNuaGlENEZlMFE?oc=5",
-      "source": "Moomoo",
+      "source": "moomoo.com",
       "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
       "title": "2812 台中銀- 純粹問問大家想法- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQNWdlR0VpTjF6R1J2U0Q5VDhCY3pQbXZONFhNMWtzdkV4eUZQR0F5NFM3Xzk0UlpsNTM4VWkxUVhuU1F2cXhDVXVPdDAyWTlSd3FZT09yWGs?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-15T04:05:59+00:00"
     },
     {
       "title": "2812 台中銀- 比爛？ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56YmRYYWlUdEhQMVZScEEyUTV0bm1aNjNrcDlMWFBvaDQ3azdTeU5TdHpEdUVndDJXQTE4VjVGQkZRSjVuRldud0dqSGYyNEE3VGp6TXNOYXc?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-15T01:35:31+00:00"
     },
     {
       "title": "2812 台中銀- 大股東已賣掉張數。 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9OZHpjRHRVNk1ybHFWakEwcFhWS1ZsQUFMUHFTWF91aGJvdGNTaEpRVDk0WFRYSlRyYm5KSWhGbmFRZ2lhVmIwNjRCVUNqQlplZDlGaUtKMDM?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-14T23:11:12+00:00"
-    },
-    {
-      "title": "2812 台中銀- 再看看大股東中纖做什麼- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE94bC1CcjB1bUtEQl83amh4ZzBaeFFKRkdnUk9SYjdyVFZnVmQ3RFk5ckJTNzJEZk9PbGNISV9jT2FXN0lNSzh2aFM0V2J1V1c2dURCQzA0RTU?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-11T15:19:13+00:00"
-    },
-    {
-      "title": "中纖活化資產 再處分台中銀股票獲利1.14億元",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGbVFoNE95Um1RUHoxNER3Ri1ZQmxKMjQwZGxNdVU0bkZJWXJmN1c4Zk1HYWNpenVSSmN0R3BnekJYTExQRWI2S19QREFJTW1z0gFWQVVfeXFMT0QxeGFjNmNDZVhLZHVtUnZJdmFWZG9xUS1MbUNTME5HNGRZdVd5eHY5ekQyLVkzaWRyVmlYS1pvUWhlTF9IZ3V3N0dBek5FYXFqd2dxbVE?oc=5",
-      "source": "UDN",
-      "published_at": "2026-09-11T07:00:00+00:00"
-    },
-    {
-      "title": "【13:08 即時新聞】臺中銀(2812)股價上漲至19.45元，受金融股資金迴流帶動＋外資與主力中期偏多結構支撐",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd3VyQ0lhT3ZlNV9na3RNNV9FZXVaRFpILUxnOGwxaFM3dGhKalIzQ0hVZFotMWdGY3I2aldVU1B5SUJia2NvSWU4VkktLXFwM0pQN0JNWU9tYUk4dklhUmw0MllPVjVBc1U3MmNrcWtHeGttaExsSjJmU0hsU0c4ZWE0RTBHT2RtT1lPdnNR?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-11T07:00:00+00:00"
     }
   ]
 }

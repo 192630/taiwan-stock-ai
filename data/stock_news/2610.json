@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-22T17:33:45.083635+08:00",
+  "updated_at": "2026-09-23T18:34:42.704164+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2610",
   "name": "華航",
   "count": 12,
   "news": [
     {
-      "title": "2610 華航 - 外資年撤出台灣- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNWXJ5RTN6MkJDTzBQa1RwVWhSWllWUlhGbEUwSHlFRUZEVHBMa1ZiaHlYMUEzdkp0end2ZkdoX04zWEZSSjdmbG1IUGw3aWxNS0FYMFRWcno?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-21T04:27:30+00:00"
+      "title": "華航(2610) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10dGJaMHpkaU10RTlkQkZFeVhkUHIzNDhkaVJMTHdXaTVZbFJyVF9MQXNGbll4Q1h6SHBJZmx0d1FqMXlwa0ZZUWxTdmpQdndJN2FJ?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-23T08:25:32+00:00"
+    },
+    {
+      "title": "華航(2610)-同學風向與貼文摘要 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FSHVBc0tkRFVGVmQ2N09mbldVWFhXcy1CWWxpM3dKUGFPbmMtMnkxTmh2Y09RcURZYnZ3dVVOWm11VnZlVGItRzB6Nzhhb210R3EzaFQ4TktTNG1wQldYQmp3?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-23T05:39:51+00:00"
+    },
+    {
+      "title": "《台北股市》投信22日買超股：聯電、華航、長榮航",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWHMxX3ZUZ1MzQnVlalNhYi1YVFV2N3hBcTlmTmdHUWVrS0IyeUdFV1k1SE1wdGNzQUN2Ui1jX0pha3otMzZqblE1T3VScVVFa1MxMkIwLXMwQjFnQ0w0RXBqUWNfQzM2Yk5UTFB1andEQ1J3MzhwaVgtMUo3a01jcmwwTnVTQTJV?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-22T23:34:00+00:00"
     },
     {
       "title": "旅客留意！杜鵑颱風影響 虎航、華航21日航班異動",
@@ -24,12 +36,6 @@
       "published_at": "2026-09-20T08:17:09+00:00"
     },
     {
-      "title": "華航下一戰1》787年底終於報到 華航機隊大換血正式啟動",
-      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPY095cllRUWVOU3Z6MlR2NF9xOFNDeUJZWmVNWUhZNzJkc3dUaXcya3hPNW9tQUdjd2ZKd3RZOEdjbXJuSWI2U2lGaENsSGx6cEVLRXdVei1manRPR2FxWE9sUjZJS0NZZTVGVV9NOUJnd3IxaHYwN0lTT1RFNng5dmxRTEREMXEtbEFCdXg5MnA2QUpoU2IzbklLc1U5Y2t6SWFUeVJDMTZ4MUdNa243VEtjMVVFX3kzMW5xaTRRc0lJQnhLMi1fQmUxc0Vlc09peXRiUzFPeDI4a0Qtbmhod05tQktVUDgyTTVuX1k3TF9ENGNkOGFyQmVSQkt5OE1tckUzNkpSNWhpazEzNVJOc2VwVTJMeVlubGphazEzdldrMFZZS3lHdzNwSktjc0JuQktSZE1UaU1hSjk2SU5HSmVjYjhYelphaGFhSU1KeW04cXlsR1pDVQ?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-18T22:00:00+00:00"
-    },
-    {
       "title": "華航加入天合聯盟15周年 總座：發揮聯盟綜效拓全球布局",
       "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNUVpadEQ1eGV5NFA1VjkxdlBvaVlTc3NKcDRCRFd0R3YwTkZmWFZEZ0taMjZPMHNjUldmRndTa2VhaXpVNzNqZnQ2N1ZKMHRMWXZYbG96NXMyaTFzbERXNDA1ZmJFN2U2dVBvdVltRE1kUFRzc0ZmRkRyYVpCbjhkRmdRaDFLbTZiQnZaN2llYU1qcG93MTlQN2VrQ2pDQVhyYVFVNkQ3QWpsLU1XRndLMmM4T2otd2FGMWxweDBnSV8zWjR5Z3Z3N0lFVGhEMU5Gd2p0cExud0xZbkJBbWg0UW9KSWJiOW1pMHZfRXEtam1PcmFsbHZtWlF4S0c5RERldFJjMzAwUzJvM09qX0VMSVpnanVtSDZTLUYydFR2Mk54NEZEcVc1VXBIOE9lb1pzOUZTaWFJVWIyT3dSQlFMZGNlaHFiclo3eXpZaXVUdEI3elhoZFgzRmt6c3ZxdFUwc0J6MHpQTG8yTnVzcll2VUJULWE?oc=5",
       "source": "Yahoo股市",
@@ -42,40 +48,34 @@
       "published_at": "2026-09-17T02:37:23+00:00"
     },
     {
-      "title": "華航總經理讚貨運表現「非常優異」！ 目標今年第4季單月維持80億",
-      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPYzA2M3EtVDBPOTFPRjhYMmVZNWZBaml2TVgyZ3JKYjJadzUzVktPYzVDZ19EVi15VG55ZldpcWRWdmNyNm9NXzg0a1VPMnZHaEJYWUh4THV6LXhLOTMwN2RtOWptbVhUQUcxakZ4eDkwbk0wSVBDb0t3ZFBFTWJNTE5oNzliUHN6UWlvUnpJaDVWdGZnS3JuYy1kelpuN2lVSjM3Zi0xTzJjZ1lLRmpNMDBNUDFSUkxna0JnZzRlZ0g1eUtLWG5oMDhsM0tWTGltMEg3NVRkeDBiWUtXdl9ROGRKVERiTjVoLV92UzliaXRFelN0RU1ieXU2UDVOUklrZFVhNHo5RlVROUEtTENOZVAyaWJZcDVEM056VHZ2TXQ3SVk1bW82SHRkbE1GVVRiV1E0bG5WWUtudVF3enNUSzNwaEV0aGMzUDF0WklTbjlHQmlmdHBKamZYcHpaWnpmWnczRGVMZ2JYYnUxd2U3ZUlLWURXWlA3ME1HdTRzeGozdnFWYVE?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-16T11:41:01+00:00"
-    },
-    {
       "title": "新機訂單排到2032年！華航暫緩直飛印度原因曝 霸氣喊：兔子不能停",
       "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxQaThBcW9UMXB5MHB1Tk5ZeVVEaEl5eEVoSEpBMVoxNmh5SFZWelBaaUdHZVNyMjhEaTBhbjEzaHJrVHY0Z2NWXy1WRjVheUQ5WmoydmZOZWNqd0lLNkxIQ3hDU3hIRndTWXVHakFCZ1JramRWUlBGVjZCN2ZGR0tBcjF3N0dyN19NUWJ0dUhGOFBVT3I5ZHNSeUlyYmZycWtIZTZLbWVpajJnLV9ENnJvVGl2XzF6TjBKN3VkSnlBZTBhS2tXZE5EcVAyTm9TRkthYlgwVTZUdWVXUVJhbS1GcnZXdlQ1NTNkaGZBZnhlbFhzbXBNc3VlNG9zakxIT05vZ3pBR0Qzb2RsVWpXcDc0X1FkcngxZGJkcmo1b0dEWmNkLVhuQ2t6LTZ4bml0MEhUM3BHSVRpUHQybEVySENoS0hpUDlWWlA2VWJWYmx2cU1fQ0pVM2ZWYU9abnJiZzNRdGltTzdwZkxNdHBDeHRaTTZnN2JjOXFUbnNhaXdsZk5EWEdUOUJWdWZ6Wk1oU3JjX2d2TA?oc=5",
       "source": "Yahoo新聞",
       "published_at": "2026-09-16T11:37:00+00:00"
     },
     {
-      "title": "印度客貨運蓬勃考慮跟進「新航線」？ 華航：先等新機隊到位",
-      "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQd2J6aEJ2TEhvMUhFRDRGM2oydGVWVnhudnNIQldkclFPZ01DeGVxaDZNanRiQmxBQlJkRVZyeVRPS3NOaGFlb2dYS3pLNU9xQzNwMDVXVTRKRWotT0xsakVNT3VpejdDbFhnNUJqSW5kRDE2MTBoRmJxaDhrV2N6dmpRTTJEQWNWT2VFUnlnbkh0enBYR1BBcFJUdVBqeHJrOUhGRi1kTjJRU01jNkJSUjhHeW1SRzFZdEp0WnJUQWNBLVFCYm9ua0ZneDVveW9HUXdmNWRKa25aRHh6THpjUmVrczlrcXJ5eUpDVEJkdTdIVDZ5amFtb3NLUU1CTkx0OHZMYmNDdnAxSGJvVHduUHdMa0pwZHR0a2VLWTVSRlEzbnAwNXN1R3pWVkZDQTlFY0ZhcTQ0WENBaUdWOGZKNnkzTGg1ZmNycTlBVEEwcnV6aTZ1Um5QUkFIQ2QzNVB2cl9rb0VaRE5tY1E?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-16T11:35:56+00:00"
+      "title": "華航 (2610) 機隊大換血有多關鍵？2架787牽動歐美航網-梁姐價值投資心法",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUC1aYV9Gbnlxc1ZSSE1SVk9yb29BMEhuSmdDNW5YbjVBZy04MGV2dklYc1FUbWFxbEhWNGE0aTdqbG5lOUpGR241LWYteW1pTExpZVEtR1AtRVZKd2V3a0U1dHk4MmRjOWRHWXY2NVpaUHVaYUllYWpjOXNvNElBNWpPZDk2dw?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-14T23:06:17+00:00"
     },
     {
-      "title": "航班延誤免驚！華航入天合聯盟15年曝新計畫 超狂「跨航空救援」將上路",
-      "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNUl9PNGxrN1lQSDBFUXdiTk1CTThBTFFTaWkyc0ZGc1JCRGMzNm5panUybHlsd0l2NWJQZHl0V3JuWFhtQXhIS2FiLThtWjlpSXh0aUlkQ2txV21kSHpMeTV3QmNBSTFTUWlweDlxZ3lzdzdCdGdLakhRWGI1cjlFcHJBWS0tZEtDakhuSzFSZXNxTEtReWZNNEpobk5UeEhrZE8ybkVuOFJ5bEFoZWZ6bmhlX19abVpwX1NTSm9mYjY2c19JTW81X09HNjhVbnZrVHI5d0tOYzlMNVNET2IweHpCd2FKZTJtWFRzRTNiVkNiUWZxSlJqckNFbXlKQ1VsdF90VjVLQ0FMcDdqT25zNDh5Q2U5dGNwUnhVY1JzUnR5eFdWbG1lWEJhZGVfY0tUMHc4dWMxN212TFFnN2szXzdmTHc3ZmJzLUMwUmRMU2ZCd3MtZG5Gd2cydHY4czcwRDNqYlFBYk8wcFZCUE04dzdKMlVmM09WOEFzQm5MX2ZxWnF1TXNmeDJPXzRLYU4wOHBhSjZJbFExVjc5Z2RJeUx2cHd2NmlWMGw4?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-16T11:22:00+00:00"
+      "title": "華航首度完成長程航線使用40%SAF 再寫永續新局",
+      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPR0s5am1tMW0xZm1BZnc2M240TFVKZ3BPcENad0VTbGVvc2tNb2dPRWtpenJzMm1taktSelRqTjBnYllFS0FON25qQkNZWldWczRVUnl2Y1luRlMzU0EzMHk1b0h0aWdNWHJPcmFvaUdxTUlwUkphUjhqMC1vQmM4bFRyMTZlV1ZMNTVMcDYzZzB5Y3RzdnYtSzdZd2IxLUNUcy1yQklOS1hIcUNoLXhTaTFiV0ZiNDZmUVNEMV9GTVZMNE1Wa0s0OXRoaEFha184MTh3cmZZMUVSdmEyRV9QSHlRem9HaVFEekFUYzc5ZmUxaVJPYTA4YzhiSjRybzR3VkYwRHozWmxFVkcxX3NNc0pDYmVNcEowRGIweWlFdFpqRGpaSVhOUTM2d1lCZDh1U3p2ZEYtRmVwX21ORWJv?oc=5",
+      "source": "Yahoo 財經",
+      "published_at": "2026-09-14T07:00:00+00:00"
     },
     {
-      "title": "華航貨運營收拚單月80億 總座肯定大喊優異",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQR2ZKdnNxUERVV1FtLVRVU2wyVXdaSndaMzdrR0VtLWhIZjJoSW9NY1pBRzg3RXZnUmszRHpJbVBmMzVCX1ZiYlRuRHRjdWFlckFMcnJ4aUJVWXB6eXdIdkpWeGx1Y2tOb1Nyb1FRNkFNN1JES09rLVEwMS04RFNiY2ExTXFmV0VDeU9DcTFQdi16OWsyUVZLY1JvYVlPNm5QZTMybVdDZHExVUstTVNhM3gzaklOc2lrUmFxTGxfdHVnNFBZZy1jODBGckJFWXhSV3VuLUhTM0trYmp2S1lZUU1tTFBONEw2M0I1UEtCRlAzRGVDNWd0R21MRGYwa0Z6aXFsZGxZamxzQzRLSEl2NWRNd09NWkF0dlp3WjFhQl9jY2NyZHczdjkwenlRNlk?oc=5",
+      "title": "華航睽違10年換新機隊！波音787將擴至24架 最快今年底迎2架新機",
+      "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPNFIwNmRUdUtkZ2V4ZUZYNUZ0ai1TZElmVVR6d3NwMEU5RTh6bEp3dk9mSE84NzRIczRXZVhNUjdHSnVYZXhoN3k1LXIwRV9Rei1GbGh4ZGtmMjV1cTY5TmR0ekliQ1haRVlUR3FxdDQwSEpOZk9SVFNhc3dEdFBxMmRlQ0pHU3ZVa3luV1VOTktCNjVQVnI4UGZ6OVFVZEpQYm92Sks1XzFyd1pkWmkyWTItVFpIbzFnWW02YTVhUUJBb3BuUzJhNnFVYTFvd2YxV3lmcC1HR2NmSGhDV2ZZN1dwaUtNMnkxWUNDNWpyaUtkQUFzSTFPWFhJSHRvbGxMWkFCWFphbTVBLTJHMGdOeFljSXFOLTIySHpxamd1aTBiUEhqTThROERUSjZiOUxtUmJLZmpzZHVhb3dTR3p3ZTBRTkVoa2VQRWRhc3gwTlpOUTVuNUxHUzJyb0Y1MTVfYW9JNjhRV1JQRFROZmFkSnVmOE1tV3FQTFhYTDhlNXA?oc=5",
       "source": "Yahoo新聞",
-      "published_at": "2026-09-16T10:53:13+00:00"
+      "published_at": "2026-09-14T07:00:00+00:00"
     },
     {
-      "title": "佈局印度航網華航暫不跟進 總座曝原因",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPTHJkQmNXcHFrQVoyTjhncmc4QTc0Sk8xNGJwQ0tGWWk4WDR4VDFPZmtVdUp4bFJSZlJ1T1NGd3ZrdkJaZUdGTjdHQ09tdlY5NzN2NWpnVTlaNE04RnJNamVWXzh2UGZxU0xweVExRVMyZzBGZDZmRWNaX2twWlVxRlZjcE9VclhWTXlkNXZndmJXd1hOaVVEWWk2UlowVGlvbHYtWkFKUm9sUEFtSnZEeTJXNXJURFFwbnYyYVNmVEVnNXJRZU9mS2xmVHJfOV8tdm44QThJSGZsc2dZQzRVLXVGVWxVUEVBSDhhX3hNMndhUUQ5dDB0MGFxZlFvR3lBVk1VZ29Rak1QYmNacGtCN3JtQzFndUFZM3RqQWRNTkc?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-16T10:40:20+00:00"
+      "title": "熱門股》美伊和解油價跌 華航慶賀",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11a0d3RE9WbDJYa1ZPSk9JMXBDSG5oZFVmd2NBU29YYy1xX3VKYnkwbE5mVnM3QXh2cWkyRm1nU0ozUVJwaDUzelA4NWNtWnhmT0cydWZUT3U?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-13T10:59:11+00:00"
     }
   ]
 }
