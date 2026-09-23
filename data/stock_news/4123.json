@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-22T22:36:18.229594+08:00",
+  "updated_at": "2026-09-23T23:35:19.859354+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4123",
   "name": "晟德",
-  "count": 8,
+  "count": 9,
   "news": [
+    {
+      "title": "4123 晟德 - 買31四張 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByVU5qUUVCbmkwVFZyZUd3ZTlfeExmeHVsVEp6VDlyM2tiNnQ3NUFTTXctSXpnMzJ3UkRKLTVheHFpeTFzR29DdVlqOGNBeWx4dlhUYllRbm0?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T10:01:16+00:00"
+    },
     {
       "title": "ABVC、保瑞、晟德，生技企業的營運轉型各顯神通",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NenA1aWtvMmZwOGNMb25rd2hlLWZhV0Z0b0dGMno3SnVvZU1FVkVkdi1jYlQ0SWZpaWN0SFVWQldPZmtzSUVTR0pFcHJkT3o0b2pKR1ptNEhIa1M4dkQ4UlYxX2xSQUE?oc=5",
-      "source": "Mobile01",
+      "source": "mobile01.com",
       "published_at": "2026-09-18T07:54:55+00:00"
     },
     {
@@ -16,6 +22,12 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5pMDM0QjJKcDFlU2pMNGJHcXh6NnZVQWdZNy1FaHpwQnowRFYyeHNmVUFVeWt6X2ttMVFwbWJvOEU2QzZCeUZsMHdndFBrQmpPSXRxTlJJdE0?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-15T08:31:08+00:00"
+    },
+    {
+      "title": "4123 晟德 - 感謝 萬寶週刊 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LNDIxeUlPNFRVQ3NmTWJTS1ZGenl6NlJZdkVxZkF0Y1NsS0M0TDJiZGNQOHo2WGRheHlRNHNEZTV0UWZ3MkN1ZEFBV0hwaS1ELWdWOWdSaU4?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-13T07:00:00+00:00"
     },
     {
       "title": "4123 晟德 - 晟德本業穩健推進 ，持有資產逾314億元。 - 股市爆料同學會",
@@ -31,15 +43,9 @@
     },
     {
       "title": "【11:47 即時新聞】晟德(4123)股價走強，上漲3.21%至30.5元，氫能轉投資題材吸引買盤回補＋中長期技術結構仍偏空下的反彈觀察",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcjRXVklzeTM1dmI5U1pMamljTTNvOEhlUUFmbHgySFY0Z2tzbzhlOGZZZFFKMGNoWUJJM25vUGJMWlBrcnlBemZxdmh6N2lUNUZHVGhiTlNhdnRRZmpDRlVLZDRBMHJJYmQ3REVKYndTb0VFR3p6eDdIbDFRb29BQVFGOWNqaGpiT3pyNWRn?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "【2026/08月營收公告】晟德(4123) 八月營收1.51億元，年增61.53%-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZXNjX1dHbmpmdzZldWdGclRwT0dKbXBta1ZvSlpHRThqLUZ4eDdhTkFYdkR0Vnh5SDRnREpnZkFOS3BjQWpobXZ6X3VGYXlyMW0ydDdJVW83bThrbElYTE9ZZ3VSLWVLLVNxeVBKSUE5bEFGVmpFelRwQy16TkdxMld2cEU1T3JOUHc?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-08T07:00:00+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BMFdxTFJQRl9JaFFfMDBzbzVsUzYzQV80SEJMTU1FeXRkMXp3NDQzdDBnWkJKVzdoVUpMSy13czNDb1p1ZVdNTFVqLXlyVXBBODNjVHo2REl2R0w3WkxDMTNKMk9zRlE?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-08T03:48:39+00:00"
     },
     {
       "title": "4123 晟德 - 私募借卷套利 - 股市爆料同學會",

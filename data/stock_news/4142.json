@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-22T22:36:23.395729+08:00",
+  "updated_at": "2026-09-23T23:35:25.282043+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4142",
   "name": "國光生",
   "count": 3,
   "news": [
+    {
+      "title": "國光生技CDMO訂單增50%！9月流感迎出貨旺季 | NOWNEWS今日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pdWVJelprNUV5VERhMWUxaFUtMi01NzdjS1E4V2VLN3E5UGl4dnllSlcyQkUwSjV2ZTNiZEN6T3pzMHhpTmlFd2JWVFlCcmNYRjVjOUVn?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-16T09:58:13+00:00"
+    },
     {
       "title": "國光生CDMO業務展望正面訂單年增50% 全年可望轉盈",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vZkdQZlAyeG1rd2tYVHNqaUJySDFoOTYtZ0VIZGJwcVY2eUREUE1TaXdTWVBtLVhOcnVOdi13cy1ST01aRmRZYWpaMUhFTTg?oc=5",
@@ -16,12 +22,6 @@
       "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQb3Ytb0N2X2dhWmk0bEFkZGl3LUhHRUFZWDVkQllYamhrVmp1RUpmZmxtT1J5OWZia0w0ZnlMNzFLcVVFYmxKV3BBLUJFSWFHQ2Y1cFNzT2gwcHBnbWJSR2VRTzQzUGZmR3RieFZUWll6NzVnbjZRS0owdWtNRDU2bGNTT3hXWnUxTnNIYkJjQTdjd1JmYXlQckF4UXRwc3VZckRreW1zbVRYODEweS13Y18zeEhNcXlRSmRPbnBaSU05V21FWmE0clUteWFDdUUyRGFyUFRKdWgtdjhKdWtHdmVqcnFHVVZ6cVFkNS1XNHpZR01NX0pqanItY0MwRVpTVzd0UzNQSU9JazUzMHYwTjZINkZJOTZGLTl2TjFfTzVCY0J4QTBGVVBrNExYZw?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-16T08:57:00+00:00"
-    },
-    {
-      "title": "國光生技CDMO訂單暴增50％ 再開產線搶高價單",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPY2J6ckpxMkN3OXo0TVVOWER0d2Q1b0xFZFhxNTV6d3dVa19FTzdMM1AtS0pyNDJWSlFsano2Umw5V3p5NHJRSGZYczBid1F6U0V6Y0tHZ1lEM09YYjR6MWxpd2h3a09vVUJIVXNiOW1TSFdHcVU3czBDUVZoME9sbG9NbkxWNllfWnl0Yk9SQU1Rb25kRnZiWVZ2NkE1eHRrMG4wcmcyUjhyTjRQZGxwUTlza0NWcFM2bU13dG0ydlhXc0JqQzlYWXdCRU84WUxxX3VEa21NTTI1TVdfT0wyVWpxQ3FJZkpuWWZTbVYtcUVaWW9GR0ZWMThDZ2tKQlRZSDFrYVpWT3U0QU1wdXVoSnZ4XzJ2UWZhMThsOQ?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-16T07:06:38+00:00"
     }
   ]
 }

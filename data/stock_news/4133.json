@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-09-22T22:36:21.475213+08:00",
+  "updated_at": "2026-09-23T23:35:23.245541+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4133",
   "name": "亞諾法",
-  "count": 1,
-  "news": [
-    {
-      "title": "Abnova Taiwan Corp.的每股營運資本 – TWSE:4133",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZnUzX0FKc1k0N2xRWmFBWUl6MGlvbkNGSnJJVkJPQWdvQ01vS1RJWDRLSUNYbVB0cjRXWWduZjBEdGl2eEhoYjh4X3ZxbWNHRE5SblNSa2M1a19zaWYwMWtuaXkyQjQxdkhqZzVNM0hFUGpOQXhpaTdiQk41YXluLUtabHhUamVJVjYxbmVJam03X291Z2RPRUp0djJzYm5DYjZId1cwSQ?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-10T18:59:00+00:00"
-    }
-  ]
+  "count": 0,
+  "news": []
 }

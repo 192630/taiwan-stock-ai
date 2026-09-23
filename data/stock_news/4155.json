@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-22T22:36:25.779177+08:00",
+  "updated_at": "2026-09-23T23:35:27.691294+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4155",
   "name": "訊映",
-  "count": 3,
+  "count": 2,
   "news": [
     {
       "title": "【13:30 即時新聞】訊映(4155)股價小幅走揚，受益營收連月成長支撐＋技術面多頭排列維持偏多結構",
@@ -16,12 +16,6 @@
       "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNUVloWHhFODl3RWktRkxlUDRjX1ZEQzBiMDBvcS1qRW5lWl9UbUxRc1Z1eGxiM3VYMXBzYy1rZGc2QWQyb2F0YkZUQ1BSOXRIRElyUVRkbnRqbzdXcUU4bklyU3lwNmFlek5MSXZqV3pPdHMyU3QwNmRVUDhST2tNbzg5d055Y29XeTJva1ZWNlYydkh3LUNxNEpTZjJOMlNDWk5VU3hYSDhudWo3ZkdMQlhpWWl3NE9oNHY5dW5sYzc2Rjc1MWVYclFaNzYxdXFwSXFpMjF4bnRVRFhaZkhiMy1UNFM4M2Vha1Z0WHlfUUdYUUZ2djZKUUtjMVBHQ2VSem5QZURmTlYzU0lKYXVZVGhSU3EwR29IQjhmWFJnS2pZRHFSajIwSU5pTDJuVFpJS2pTQUpn?oc=5",
       "source": "geneonline.news",
       "published_at": "2026-09-03T07:00:00+00:00"
-    },
-    {
-      "title": "訊映建新廠並啟動減資 衝刺營收及提升獲利 | 醫藥生技 | 商情",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52MlZjVWlwM0hoNHlqcnh4NEViSkVrc01EcGVFNGZLSjc2S2NwbE9VSHRaQnJzMVVNYkpDZklrOXR6dG8wUnRtRjJXRFhqMm9BTDEyTXNyWEZtQQ?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-08-27T07:00:00+00:00"
     }
   ]
 }

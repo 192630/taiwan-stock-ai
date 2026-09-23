@@ -1,21 +1,27 @@
 {
-  "updated_at": "2026-09-22T22:36:35.617911+08:00",
+  "updated_at": "2026-09-23T23:35:37.870604+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4195",
   "name": "基米-創",
-  "count": 2,
+  "count": 3,
   "news": [
+    {
+      "title": "基米-創 公告本公司營運長人事異動",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBneVRhYmdIVDJUdVFLT0tHS1o1Ml9OdFkzdloxdDBWZzRCd2o5b0dhamV2OVRsUFFsQmJPOXhDMlJOOFlXelJVcko3Z0FOVVVxOURrNzMxcm8?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T05:57:24+00:00"
+    },
+    {
+      "title": "Genomics BioSci & Tech. Co., Ltd.的已發行普通股總數 – TWSE:4195",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT2Vrdk1hZzNvcGVVd2lSUVNWZmFEVjU0bVJNZlZVOGxJM1RyTXFKTzJMczMyUFcwSzh6OW5adVhEQzRlbUdTZjJmY01tN1Z6SFRrdWhLd09ROU5udnhEV0c0Q1FhbXZWZWVwQm1DeUxxUXJVY21IbDZnM2V1andDR3A0RXdKT090NmZjSGk0aVRtTl9obmRKSlJmbThXZ2s1US1TaFFR?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-22T07:00:16+00:00"
+    },
     {
       "title": "Genomics BioSci & Tech. Co., Ltd.的每股有形帳面價值 – TWSE:4195",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPakhQODJzZ195bnQ1MmNGYXRCMFRZNWtIR1daQU5UTW1fXzNsUm9ENUJNX0RVZkV5YzMyWTdFV3FGVjhEU3ZzX2JpVkx3bjdndTRHTjhSVGZQV0c5ZVRWWlJ5eC1WOUx4djZnc0NDSllYcjV3MEpscmpVSllhWF8zZDM1OGhJZnZLdDJrRnV2U1Rzb0ZGQkY5NXNvS18zbEloU0tTNw?oc=5",
       "source": "TradingView",
       "published_at": "2026-09-21T21:55:12+00:00"
-    },
-    {
-      "title": "Genomics BioSci & Tech. Co., Ltd.的權益總額 – TWSE:4195",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ2xwTm92UGEzUGZEaUxCN3NEWV9kdWlzTmFJV1c2SEpqREdfNFFicVhkNU5qaGNQTTl5amtha0RLZlVOTXpPaElLTFotYndhaVFjall5S2RjbnptbVQ3YmhPQndOTHh1WEdpTjU0VUZTNDVlcjQ0bTJCXzBFQ0wtS3lVVHVDRHJhRVcw?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-15T22:27:29+00:00"
     }
   ]
 }

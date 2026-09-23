@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-22T23:33:25.322741+08:00",
+  "updated_at": "2026-09-23T23:35:51.376789+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4503",
   "name": "金雨",
   "count": 3,
   "news": [
+    {
+      "title": "4503 金雨 - 堅持每天破底，大盤也扶不上來的那個男人，綠色是他的幸運顏色 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Hb3VFbFl5SWNMRGhnRjdwdG9pd2NVYXhmUHFtV2Y4MDJ5a0g4dlRoSW15NUN0aXZxWFMwVDIzbldfQlA5cHRCdWZXM1VCMXJIa3ZUV2oyREU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T01:55:12+00:00"
+    },
     {
       "title": "討論牆 | 盤中速報 - 金雨(4503)股價拉至漲停，漲停價28.85元，成交577張",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmTWhyTjFLZDkxd0xlbHZIYWhmWUROaG9TVndXMXNGa1M3LTc4Q3dhUFBMbjlBQ19zcG9OUHl5c044bl9fYWtwcVFUblNVSHVfY2xqZE5mMTJSTWlTUDdsemFnSzc?oc=5",
@@ -14,14 +20,8 @@
     {
       "title": "4503 金雨 - 卓董沒救了，節哀 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXTkcwRlRqUEl1SUR2NVhidGtDb0U2Nlg0MWxRY09TTUNIQ25zOWh5ZS1VT1Byd2NXSTh0Y3c4VjZ5bVBFb05xa2tpWjRYNXRlbUVFdVpGZl8?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "盤中速報 - 金雨(4503)急拉3.21%報24.9元，成交180張",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5STEk3WVk2dzRKUGtRbTBwNEpMM3NtWkR5VGkxT2V2VC1QcVFKUDRUQllsUXpjclc5ZnB4Y1dSWmhaYTc3VmJBMFFVVXp4azBMM2stZ1pHR1lDQktOcThtbkNibU82QQ?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-08-30T07:00:00+00:00"
     }
   ]
 }

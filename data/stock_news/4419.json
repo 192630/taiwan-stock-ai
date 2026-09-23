@@ -1,20 +1,32 @@
 {
-  "updated_at": "2026-09-22T23:33:19.399075+08:00",
+  "updated_at": "2026-09-23T23:35:45.608555+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4419",
   "name": "皇家美食",
-  "count": 2,
+  "count": 4,
   "news": [
+    {
+      "title": "King House Co., Ltd.的EBIT – TPEX:4419",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTXpJODhmU3BkVU9iOFhBdjVpZDdNM19ua2U0RmFfaUFLWU9NeVc0NnNRV0htbGJ6OGl2ODEwWkN0Z24yMkVrdUVqaEhibjdYbDQ0NXFhcGV1NWw4UlpjOFpZOEp1TnE3M0lCRENDbjMtZmMzQ1ExYVMxLXpCUWg2XzNMbXM?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-22T06:52:51+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】皇家美食(4419) 八月營收2.34億元，表現亮眼、呈現雙成長，創近3個月以來新高，年增5.04%",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOGhtb3JtTWRaU1hveHBrYlgwOW9KUmwtbFFYb0owTGpBWDJPUDlXb3htVURVOVNDNkpMSHVpbGVhRjY1RjQydjFCSXo4d2Jjd2NmZlZUdTAyTXFoYUtTWmU4TUpwM0xucXNsZmkwdXp6aVhnOV9PWTJSUW9VRkkwT2F5RHNOWHk5RHc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-14T07:00:00+00:00"
+    },
     {
       "title": "4419 皇家美食- 皇家美食公告本公司董事會決議私募普通股定價相關事宜- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xN1F1aVpabXh4V1htMjRJLTU4RFlYam5LU3BENHhuMU5pWlgxWnRoOWxuQldTT3hTbXh4NGhza3ZaVVFjYlBVdWtkN1pvWXBpQTBWM19TcUY?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-09T12:11:04+00:00"
     },
     {
       "title": "皇家美食 代子公司台鋼漢堡王股份有限公司辦理減資彌補虧損致債權人公告",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16a25aQUhHUk1IbXh6MmY5WU5WZzRfanFwd25jQ0IyWnlvV3lCYzdhMVN6djUybUpIcFRxXzU3YTBmNUhndmFEUU1PX2M4UC1fOXZ5LWZ4MF8?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-09T12:10:55+00:00"
     }
   ]
