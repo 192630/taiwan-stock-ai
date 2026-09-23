@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-22T20:38:57.587333+08:00",
+  "updated_at": "2026-09-23T21:34:50.486551+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3324",
   "name": "雙鴻",
   "count": 12,
   "news": [
+    {
+      "title": "雙鴻(3324) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83V2haRldfZ1JUQWx2VXZtR2ZMQ1VfaGtpbjhXcWUzSGtoTkZHOWhuYUNaZ2hkYkJEb1hNekF1NFJKeGRmTGJFa1ZIV3hkd2c4azQ0?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T11:09:01+00:00"
+    },
     {
       "title": "〈焦點股〉雙鴻AI伺服器水冷散熱需求不墜 衝1630元再創天價",
       "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPZThJOUVjWUV4eGp5Q2VDZE5pazZLM0xLNGZXYUs3X3V3MWo5cUFGZkUta2VKdXpQYXpGWnNxMks3WFhZdjlOUWJwdzVxbkhLNjZwcFhPci1RbTRHV2cxNElYV2xSZVJMbHgxbnF5Q29ISm9RXzM3U1ZOUGxVN0E1YzhkMjZuTWZ0ejMwYmkxbnM4Y2NWeGZ4bXJYYUNOb28wT1pNdy14dmRDdEE0YWNTVnlScjM2a29YcHJxVUJ4N1F1cGYtbEhhOGpsX0FLNVF6X1g5b0pRTWl6Z0YxTFBicHM1c003REdmLXFqRnMxang0dFRjWmt5aDEzdE1hcVZPcTdjWHlmaW1jWllVMWdySEh1Y1g2cFNnSU56RHEwT2p4U09pX1dzcy02T0duSTZZcmVzSlcxRnpIY0VFamRIVWh2elRsVjN5UXZTNDFDbVd4THYtSDZJXzN5WHJ5UjNHU0dZTGt6eTlaTEFXeHhWMw?oc=5",
@@ -36,6 +42,12 @@
       "published_at": "2026-09-22T02:18:16+00:00"
     },
     {
+      "title": "業績撐腰 雙鴻漲停重返千金",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkUWVNdEVOck9Xa2RjU0FpZlpVWmE5bWZNMXBtTG5oaUlvUTRFNWJ5b3B3Rkx5MUxlc2g3dzJvcGFKYkxsZFhwUE1vNzg0SldpTEJ4XzB4THM?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-21T23:09:02+00:00"
+    },
+    {
       "title": "討論牆 | 盤中速報 - 雙鴻(3324)股價殺至跌停，跌停價1300.0元，成交1,561張",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1McjI5eXZHV2JFSlI3Z0NCMWRPZVhzRksxck93WnZjUWF6SkFTNlB4MHJVR3pfNWw2NGM4MGVsMVI4U0Zqbk5oQW9uTnFDRVAydGxVMUlHbm00ak96b3AtLXJMcXU?oc=5",
       "source": "LINE TODAY",
@@ -56,26 +68,14 @@
     {
       "title": "【12:12 即時新聞】雙鴻(3324)股價走強靠攏高檔 AI 散熱訂單成盤中焦點",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPM2U5VlVhMTMycUI1OVpxWFNjak80TXJoMHVlcmhORnYtU29kem15UWpROV96SGx0aU0zUFRUb2tCcklDQmo4bGVaUmpiT2NTaHI2dWcweko0TW00clMtelFYWkxmY0pNM3lHZlpxU050d1RCT0dQVk4yMlhpWWFCWnZkc1RucW9JRDhxbF9B?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-16T04:13:37+00:00"
-    },
-    {
-      "title": "業績撐腰 雙鴻漲停重返千金",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkUWVNdEVOck9Xa2RjU0FpZlpVWmE5bWZNMXBtTG5oaUlvUTRFNWJ5b3B3Rkx5MUxlc2g3dzJvcGFKYkxsZFhwUE1vNzg0SldpTEJ4XzB4THM?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-14T02:20:02+00:00"
     },
     {
       "title": "【13:14 即時新聞】雙鴻(3324)股價續揚至1415元，AI水冷散熱營收提前達標＋站穩多頭均線結構、主力與外資買盤偏多",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaGhuTnBxR25EVWI2YkUzV3ZTOGlWUDZHbS1ON3ZtZk1tTXZQOTlfMEZfQy1vZ1F6QnRGallCQXBXb29fTmhXVkFGeEh1ZzhxdF9vWkoxT1U2VWgtZkxDS3Y2N2owR2xSZnM2RTVvZFJGUkVVS3hkR2VIOTBNeExJc0JjMTFQak9JVUVXb1Zn?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-10T07:00:00+00:00"
-    },
-    {
-      "title": "《台北股市》注意股：8日36檔信驊.聯發科.雙鴻.精測.台耀.尖點等- 上市櫃",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00RDZYVWJfNUJBX0tzZk9ORDM0QTdfMC1INzFzSXFDQWxSM0I2eE1wNmNsemlJelFpT0F5UVNWVU4zcXN1c0RBeWpwQTJjMG56clR6andGbTRsOTRUcXR3YTBZV01nVU53UVE?oc=5",
-      "source": "旺得富理財網",
-      "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]
 }

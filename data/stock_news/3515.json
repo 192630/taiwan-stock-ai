@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-22T20:39:27.384299+08:00",
+  "updated_at": "2026-09-23T21:35:15.073620+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3515",
   "name": "華擎",
   "count": 12,
   "news": [
+    {
+      "title": "華擎(3515) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1EenBYZVpRLUdmOHdVQ1hPMUY2d0JUcHc5YWZGek9OVk8teVNSTWVFN3VLUm4wenVlWXpnZUZsV1kxcE5OZmhJQWZaTURGa3E4Y3ow?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T12:16:44+00:00"
+    },
     {
       "title": "3515 華擎 - 東擎上半年獲利超越去年迎接邊緣AI 資安法規與開放自動化三大商機- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUOGF1dlJXQlJMdlk5bU1JZlF3Z2FkSlppNW4wMjJvcDE4Q2RrSlY0N3hxbUJlOGY1UnY5M0o2ZE9OaEdSZUVFZ0F1M0dxQ0ZLcnJXY1hrQTQ?oc=5",
@@ -12,15 +18,9 @@
       "published_at": "2026-09-22T11:01:38+00:00"
     },
     {
-      "title": "華擎(3515) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1EenBYZVpRLUdmOHdVQ1hPMUY2d0JUcHc5YWZGek9OVk8teVNSTWVFN3VLUm4wenVlWXpnZUZsV1kxcE5OZmhJQWZaTURGa3E4Y3ow?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-22T10:57:53+00:00"
-    },
-    {
       "title": "工業電腦添新兵！邊緣AI與遊戲串流商機發酵，華擎小金雞獲利超前-財經焦點情報站",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRlF6ZXFlRXFBRGN6cTZIUEloV3d4eEt0UGg1WjdrMFdWN3pRTWJZNF83TU82WnJuZXFHb1FsNGlodk95Wm9HaHl5OTBMY193T2JjYmNrNVRKUzVKXzNIeXcweXBnSjJYazJJY0U4ZVloX1dlUDdRVmQ3bTJmT0lSNFB3?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-22T10:23:14+00:00"
     },
     {
@@ -38,7 +38,7 @@
     {
       "title": "華擎小金雞！東擎科技H1營收年增破9成 擬10月下旬上市",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GLVpmenlzWExFc3U5Mk0tOHVTalhsWGFDVjhWNzlUSThfUDQ3OVBieG4tMFUwT0hCd1VQUXFVdjhENWVRR3RGYk5VclNQbVE?oc=5",
-      "source": "news.tvbs.com.tw",
+      "source": "TVBS新聞網",
       "published_at": "2026-09-22T07:40:00+00:00"
     },
     {
@@ -72,10 +72,10 @@
       "published_at": "2026-09-16T15:05:45+00:00"
     },
     {
-      "title": "華擎子公司東擎首推英特爾次世代架構工業電腦 加速邊緣AI市場部署｜新聞快訊｜豐雲學堂",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrOWFtbnFvTW5jWXJzbnNLVl85c2w4czZUYVNCVExVbnFNZXRGZ0ExSXYtM19LZW5WeWYwY2lnZmY0Y0VycWtMVFQ1RzFZZ2pwZHFJU1N3YmpXODhqLUc3b29fOUVCMzVrNjdmenFLX1FQSVd3ZUE?oc=5",
-      "source": "sinotrade.com.tw",
-      "published_at": "2026-09-14T15:32:00+00:00"
+      "title": "華擎子公司東擎首推英特爾次世代架構工業電腦 加速邊緣AI市場部署",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13aldaV2lsQV82Ym9RQlpnaTBlajR2QnFueFZjVFpucm96T3phenppWTFxQXRMZ0plMGZuMVZ0dUJJc2FZUUIxMzFYV3lMLVU?oc=5",
+      "source": "news.cnyes.com",
+      "published_at": "2026-09-15T06:32:15+00:00"
     }
   ]
 }

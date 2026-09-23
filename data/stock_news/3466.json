@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-22T20:39:17.593951+08:00",
+  "updated_at": "2026-09-23T21:35:06.742409+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3466",
   "name": "德晉",
-  "count": 1,
+  "count": 2,
   "news": [
     {
-      "title": "【2026/08月營收公告】德晉(3466) 八月營收表現亮眼、呈現雙成長，創近4個月以來新高，年增49.73%",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pNG1HX2g5M2FYT0djNFFJd3ZmMmRsMHRKd2FNejZRSXVTVW1qYnRNY1ZRV0NzR00zeVlGV1ZFUmpNWGZrMXEzNTl5aTg5QWhka0lzQ3NUR0FRMEE5Rl9hUzJnU0prQQ?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-10T07:00:00+00:00"
+      "title": "記憶體供需緊俏！「這大廠」砸3466億擴廠 目標價上看608元",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPN2YyeGI3aXpiT0RtMFU5ZGZQMEpVV2Zudi1rR1Rtd2tLOXpySEtnTnJzRVJoTEdzaE9uTm9LVGxYRkdUQlJld1ctX2pOZmRVXzY0SDdTMkI0cWoxZG9FZTBUUHFTRUEtNFQyVkpkOGZxZEpNbHhBSF9jb1dfTzZkNlhJQWJDSXFpajdaQmp3VktDblFoTm1wY3ZnWUdzZUVTRlU0akgwNHd0NjVXTENBMXB6MDN1NHdrZEN2Y2N4aWVLQ1B3ZlNoVEdObVRPVm1vc0dSRG5IUXprMXhHTTVxYzBDX0M3YktuWDNRQU45dFZPNGdGc2dObkdLWEZ2QTJlMmRKTk5xek5uQUk0WEVRMWNGMGN1X3hLLUY5ZF8tVnhlTERtdEdrSGFJLWQ3bjVLaVl0R0Fya0NFUU5nX0NoRWVDRHR4SXhnTnJoSnpOSW8?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-22T17:35:00+00:00"
+    },
+    {
+      "title": "DRAM報價漲不停！這「記憶體」豪砸3466億元擴產 第三季營收估年增6倍、目標價衝608元",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5QRFdmRnl3UDN0S1R2dnV3TFJkTUJTZ2dXUWg2M3gwdHVoODZNbmdkWkNSQldZbFE5Q0NYeTlETmpnNE1UOGlRTW9CZw?oc=5",
+      "source": "FTNN 新聞",
+      "published_at": "2026-09-22T14:15:00+00:00"
     }
   ]
 }

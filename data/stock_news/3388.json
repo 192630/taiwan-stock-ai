@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-22T20:39:07.937001+08:00",
+  "updated_at": "2026-09-23T21:34:58.796694+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3388",
   "name": "崇越電",
-  "count": 4,
+  "count": 5,
   "news": [
     {
+      "title": "Shenzhen Creality 3D Technology Co., Ltd. Class H的Free float – HKEX:3388",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRHpwS21UZHZTNWJjM0FhZW1TVlJ0bENXdGtxTlhrOVgxY1U5M0tJNC1TdnpkQzltYzB0Y1FsTUc0VGR5YVMyTmtBMk1PanhyZEYzYlRXOGtrcU1pZ3NxTXUzTnNoTEVCZEV1bXMxQTNkNWR6UXFMX3o2UDMxYUlVdnNoLWpGZFRBODhkUjRoQjkwQms2VVBjM2JhLW5qQ2Q5U1llak5B?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-23T06:01:28+00:00"
+    },
+    {
       "title": "崇越電擴大海外布局，美國據點貼近伺服器供應鏈",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uLXVDZF9jZGNmNXJKQjJiY0h6SE9jSVVKZHVQMElEQmo2VzFQOGxjeTA3bXA4alFlMkpOVnVYUkVZLUJnVVpCRGRUdXR1X045ODlQNENlcHQ?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-21T04:47:03+00:00"
+      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNNHR2TFNOLU5LeElvdXJzd0gzeDNHZWVQbHNyTDRZTGR3alNfNW1VWnByOHVxRTN4Nkp0eUdMdGZnTXVMamRYTl94QW05VkpxZGFxaHg5ZkFtY3M0ekhFZFVRbU9rN0hieXk0RlVhVV93VXZodUdsWHNiS3p1TzdhNXB2REVuSV9HZ0Q5RXREWFc2N2hGX2RlZndmUll5UF9oV3BkME10M20zZGJiY2dqUXlRZlpNSlVINmVVN2xFMmZjUTRyZW90Vkd3SktQSm1yRW12YjhRYTZKelBaeE1VWktDU0ZJejNXb3ZmVW9oa1BuSDZOOXl4ZTVNTUdKeXFuejVmem5ZWHhmVjZ1cW1USkJiWGd1S1FuVktfQ1ZEUVZqUWdVNDJWU1BYNzE1aTVOTy1HblRLZVlLUjk1SEhKSVgtOHVoTnVsQ0psMDNkbmFXNk9TcHNZQw?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-21T05:21:10+00:00"
     },
     {
       "title": "崇越電(3388) 個股概覽 | 個股 - 股市",
@@ -26,7 +32,7 @@
     {
       "title": "【13:09 即時新聞】崇越電(3388)股價勁揚逾6%，AI高階材料題材發酵＋前波主升段後多頭結構續守",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd0ZOM2c1SUJKX2c4WFBRUjBVRWlzQ2VHOHBCR0puclBpM2dISWlLMEJpYlFpY1pCOVM5N3U2cTV6bVM5X1pTQ1dDRmN4VjI2aU13bEhFSDV5eVM1LVduemE0VVpGMkpKUkpUdjhRWVdRbVB2WkVBUS1ydTVQdDZ5OHpQbUNnOC1NNmNFRzl3?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-08-26T07:00:00+00:00"
     }
   ]
