@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-09-22T19:34:25.545713+08:00",
+  "updated_at": "2026-09-23T20:39:24.096131+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3230",
   "name": "錦明",
-  "count": 4,
+  "count": 3,
   "news": [
     {
       "title": "錦明(3230) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiSlZ6aW9Va2xWenlZemN5al9KSEZkRTBIVWxRdEJobXd1TjdHQXZVY2xNZkJodnRRQ1BKc0ZWbkNua0dkVU5RVm9XZ1cwYnJ1a0c4?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-19T20:07:34+00:00"
     },
     {
       "title": "【2026/08月營收公告】錦明(3230) 八月營收表現亮眼、呈現雙成長，創近25個月以來新高，年增50.87%",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXdmhXcUR2Ykd1VFA3d1UzNXJyaXJ1V1ZoTFI0TXlWSGE5NkdfSHRVaWpRcldQNUc0UWo2WFN4MkVJeXd0WnAwQ0J6UGU3TTR1N0R3S0l5MkJlWGduU2NPb2hOb3NVTEk?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-09T09:40:04+00:00"
     },
     {
@@ -22,12 +22,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcmVFTUljekNzcXpTSjdyX2dqN2R3NkM1bFpJR1pGVmxJcmU0X0lza01leEd2elhZZjk2b0x6YkV6ZTRYdXpsT3RMM3lBUXVydGk5Yk43RE83YVZ5V3QtQ0g0YWRtZXh4bHN1b0pCWklrdU9vRHVrMC1mbGtLQkZLTUxBeTJ4TlFtSTBpUzNn?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-08-27T07:00:00+00:00"
-    },
-    {
-      "title": "3230 錦明 - 🤫 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SRmpYUjVlOXpITzhDRlg0eVFXRjFtdmxfS1FvMHJfYW9LdDdhWlBObFljLTZKQk01U3k5Z25ib2p5R3pnZmxjWkE4S2c0YWZxUWwzRXhVZVU?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-26T07:00:00+00:00"
     }
   ]
 }

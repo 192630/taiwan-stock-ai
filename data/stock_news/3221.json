@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-22T19:34:22.822626+08:00",
+  "updated_at": "2026-09-23T20:39:20.923651+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3221",
   "name": "台嘉碩",
-  "count": 7,
+  "count": 9,
   "news": [
+    {
+      "title": "【12:34 即時新聞】台嘉碩(3221)盤中走強 聚焦高頻通訊與營收成長",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOczkyVE1YMi1scU1kTU1qcXFIOFZPbThZWnJSR19XRnN5UjNKU0d4a0EySGliLVBBR01MLVlmRXdwTHhnczFIVTl0U2RNeDJFdDUyOXpoRkJFTE9uRzFGOWtCMTlmMGs4UzJOV3F0b1FZSVFJOVdUTFBNWHRsc1FsRVoweU5SM3BoUXI3Vjd3?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-23T04:34:30+00:00"
+    },
     {
       "title": "台嘉碩今年EPS拚四年高，明年LEO/AI占比續增",
       "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPQWV5amlYaFBiZUxDOUowdjBsck5INWNjcXU1Rm1JY0otV05ONWprOGhlZWtsendtdUFvZnlkX1o0UnRMQWgxTk9MampvbFhIV0VjWlMzTXR1dktDYWRYWFpzSmgwX2lNRlZmYXVqcmllSnlKMjhJeWFwVmw0T1BGOU1GRHhKOVNMLXZTalF1NWhEVlZEUXBtY1lIQXlmZU56WXI1aW9ucGY1SkVvSTlmS0RSenVaYXRsSkxkQ3JpR0RUdGJGTEZHdExKaG03N2hIcWRqemVNSy1vTkR0QWw2SG82My12T0puOF8zUkhNdXBRVkVRdWprSzhmMjRTazI3Q0dWZDlfRG1mcjZtcTkzNERNVnJZX0RINW1ZSg?oc=5",
@@ -14,8 +20,8 @@
     {
       "title": "3221 台嘉碩- 【09/16 產業即時新聞】濾波器族群逆勢揚升，昇達科與安碁領軍攻高- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZVmp3TXp4TDIxUGo4RHJxWi15UzFNZDRDSlU0UUtONEJNZGhTb2swVlpnX2JINHBZUjZSYkZCTXFSOW02cnRlcmNvRlRpSTRwb2x3MTZ2VjY?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-15T10:30:32+00:00"
+      "source": "cmoney.tw",
+      "published_at": "2026-09-16T01:30:32+00:00"
     },
     {
       "title": "【11:08 即時新聞】臺嘉碩(3221)盤中走強，市場聚焦高頻通訊題材",
@@ -24,9 +30,15 @@
       "published_at": "2026-09-15T03:08:46+00:00"
     },
     {
+      "title": "【2026/08月營收公告】台嘉碩(3221) 八月營收2.26億元，年增28.65%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZWdVTFM2ZkdqU1U0bW9NWU1BRUg4bzRfOHpCN2ZVaFMwblA3WEMxWmk1RFNoTkNxVFVwMjV6RTJPLTZIdjI3VFpKOVlwX3l5MkZKeFhEemNfd2NzcHMzZ3d6U1FOaEZWZGh0VVRCX2ZCZUNWcmVqaERkNWpielJORDllMWktSGdWSGc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
       "title": "3221 台嘉碩- 【09/09 產業即時新聞】石英元件漲勢強勁，AI應用需求增溫帶動族群躍進！ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sWVhYazVwbmZKbWEwYzR1RUVIVjlQdGlpdFhzODhIcjJtOU1lWGZrekVIWDF3RGxESUtPdnF5Q3NhczlxVDhvbjlQbkQ1TkxsUjUtSWh0VFA?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-09T01:31:37+00:00"
     },
     {
@@ -38,7 +50,7 @@
     {
       "title": "【11:43 即時新聞】臺嘉碩(3221)股價勾強上攻，受惠被動元件族群回溫＋月營收連四升帶動技術面轉守為攻",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0UXRGN20wRHZ2OEI5MDVnTzRWZll2SmNXSm5TMi1jVEVIWkt4ZGRvMDh5cnNUc1czdEJ2VXlVSG1Hd0pKbVRXZElLaWpodm5QWi04MjVSbkQ4Yy1FdldKdmlDWi03TWs?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-01T07:00:00+00:00"
     },
     {

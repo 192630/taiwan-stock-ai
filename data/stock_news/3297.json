@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-22T20:38:50.985179+08:00",
+  "updated_at": "2026-09-23T20:39:35.997539+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3297",
   "name": "杭特",
-  "count": 9,
+  "count": 8,
   "news": [
     {
       "title": "【09:10 即時新聞】杭特(3297)攻上漲停，資安安控題材續受市場關注",
@@ -38,26 +38,20 @@
     {
       "title": "「LAPTOP」崩跌逾 99%，杭特・拜登迷因幣數小時蒸發近 2,000 億美元估值",
       "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQdnZoYk5TT19XNEtJeHJ2OFp5UWpuQnRlbmZtakwwdDI1N2Q3SEJYN3N0ZDByZm5iRjVvdG9HR21qVmJwZUt5bXJQRkJIWUt5V2xwY2ZTc2dTcUc5eTViYmhzYWNYQVJSc0k3ODgydUN5MFJwV05JQk9Ycjd6MHhKWXFyWC1LNVVmODZZWkpqWHQwZTRibzBhcjhUMi0wZTFMOUtuTzByZkwzYlZRODh0MC13ZWVvdUtyWDFYSTVLSlpFemVqblZha2gtNGdqTlBjdC1MOHRleXhJdWxwSk5HWlJoY2NQN3c2TWFQbDJHV2Y4UXFlbzlHRVZhb3hsUmtoRU8wTDdPbjJtX1pNMWdUVWF6NThhcmQwenlqbFFTVXVZZHBjYm1HWnhKZllVV29zYzdycWR6TGt3dkpRaTFYYzhqWmpJOWt3NUdB?oc=5",
-      "source": "yellow.com",
+      "source": "Yellow.com",
       "published_at": "2026-09-09T16:03:28+00:00"
-    },
-    {
-      "title": "「筆電門」變現？杭特拜登突拋「$LAPTOP」加密幣 「這天」正式亮相",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPUGF0NGUwNlVXSjZReVhnc3V4VlpiWWExcEJIR2hQZFdIMW9pams0aE9rQVBhcmRfc1E0LVBpSnoxV2FQTXRzSVB0RlBNSnhQOC1tbHF2SmttLXNyV0tCcjlma2lSYnI3NUhPWktOemNJY0d0VnVWT2ZPdlUwanhiN3ZKY3dTYmd4d2d3b0dHQnZJblRNeUdZV3Vjc1N0MDRMTEY4VGU4RWRkbFJJSDVjM0J1ZGxHdWFNeDF4Rm01VVRmZFdjX1JjLVZETDdGMTlJT3RqYXRxTXJsQXhPLWFicUpuVHhxUWZTRGJFanRpVG9WQ2ctSFhRSDEtUkFMM2Z4ckhiSzB4dEI?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
       "title": "【2026/08月營收公告】杭特(3297) 八月營收年增10.48％",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10ZTlQd194TEpGakJNRjRMQ19BR2dwOTJUZUpia3NuSXhDQTVxUzVHN0ZzZ1VZMVUxbW93R0ZfT2hkSlZpY0NScmh0VXQ0MTBCOV9rbk5JM1J1RERhWGhQSTRxb0FBcU0?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-07T07:10:03+00:00"
     },
     {
       "title": "美前總統拜登兒子杭特：可能會參選2028總統大選",
-      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPMnZfMHBKX0ZfRVcwT2ZPTmRzbDUwaU1ZZE13OHB6R2g2VFM2ZUxta2tpLU9nTHNNQXZaZUY2QmQzQWFLWlg0Nk1vS3VFbE5xa1dodkYwSC1rNXdZRERLM19sUEJnM0hHZTNRSGg4dEhxLURxdkt1ZTg3UXo1ejV0REpkZkdPaHAwZGJHSWc3OWVBcmVTbTBYbG95VWljMEkzTU9zRmNNWmdVbDliMVBjbEI0Unk5N1ZrYWc4bFVFTzZkZU9hc1hjWU1LQm5nSzBvMzVJUktidDl6Q2hTX2ZlZV9yalM4SDRaaU9OaDhWV19xLXQ3alZMczJabFBHcVhIZ2VkbFNsRjB1VjZvcV8wbHM3NlNpei1KLTFXR3pBUnhldDdTUHdJbVRncEZ6RWhYNVc4cF9PYUZGU2RxaGpEUk9pNTNIdw?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-06T07:00:00+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGV1ZIMGpJcW42ekRNeV9WTGhHOUpsaS1fOThaanpFSkZmTUZCSG1hbzhzUFUtYmYyNl9FTk04NmJ2SGxQNzAzR1dlSDhvV1k?oc=5",
+      "source": "news.cnyes.com",
+      "published_at": "2026-09-07T07:00:00+00:00"
     }
   ]
 }

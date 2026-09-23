@@ -1,21 +1,15 @@
 {
-  "updated_at": "2026-09-22T19:34:16.655077+08:00",
+  "updated_at": "2026-09-23T20:39:14.309870+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3178",
   "name": "公準",
-  "count": 8,
+  "count": 7,
   "news": [
     {
       "title": "公準雙引擎啟動 ASML、SpaceX題材匯流 High NA長線商機浮現",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5aM29iQVI0ZnBmb2hvbHVvM1dZNnBtMkZLdTh2OGZQdndTUWxRcjRWbjkyRDlDOTZVT1FUbWxnOWFYOGprWVNLcGpZWkhPbndxSUs5bWN5UXdmWEUwOE1ocjZVQ3FQWUw4QkdDcWxvSQ?oc=5",
       "source": "理財周刊",
       "published_at": "2026-09-21T08:50:04+00:00"
-    },
-    {
-      "title": "中小型股作帳行情啟動公準、華東等銅板股響叮噹- 證券",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wMnBtY3ZkTXY2bzBRMGNhenFKQU12UDVnQ193TDBPRVdGakRHNS1fTjdXT1g3NW9FaTVxMUlWa0FUNmJaT1Y3SnNJV2k5Mk9oaWJJWUh4WS1RcjYxaWs4?oc=5",
-      "source": "ctee.com.tw",
-      "published_at": "2026-09-21T04:27:00+00:00"
     },
     {
       "title": "【09:13 即時新聞】公準(3178)攻上漲停，短線買盤與主力動能成焦點",
@@ -32,7 +26,7 @@
     {
       "title": "2330 台積電 - 公準卡位HighNA部件，迎2030年導入潮- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96TU5xa2Q5akJPb2VwMGFaQU1KZFBsN1pfU1FTell3MnNoUnlRYzVqZFJRUUFmbjdEeXB2LWlYcWhDdGxHM0RFTHhLMmpiNWh6eTk5MmtIQUI?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-18T03:00:18+00:00"
     },
     {
@@ -44,13 +38,13 @@
     {
       "title": "3178 公準 - Dent-de-lion - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIZ1g5LWFTTUFBcXA0NXI3RmtYcDdjWkpvVzN3R0dDaTJKRlEwY0cyQ2x6cDZqUUNnci1vNVFtZWFIRWhnTDJmS3VGbXdwS1g2V0hMTVBzQVo?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
       "title": "【2026/08月營收公告】公準(3178) 八月營收月減年增，全年營運續看向上",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84QVFmb25kTE01YWZacFBKUmowT0lneEk2TEZCQktHZU53QlE5ekVsQm1lTGh5dWZDRC1pRXg1c2VBTWZ2UTBsd2ZWQ1pTR1VtanpnUGlBcWFaUzV3UW5DdzZMbVdOVWM?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-08T08:10:04+00:00"
     }
   ]

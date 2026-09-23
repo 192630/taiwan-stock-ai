@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-22T19:34:32.077772+08:00",
+  "updated_at": "2026-09-23T20:39:30.982933+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3276",
   "name": "宇環",
-  "count": 1,
+  "count": 2,
   "news": [
+    {
+      "title": "台股創新高！投信反手賣42億10大苦主曝光 「這檔」遭砍3276張、45萬股東心寒",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBWW1zbGx3TzM5WGZjOFpNSjl2dkhTNnowR0l1VTE4OFpETzVkSE8zQ0RLTVkwcEhONkphdVVoaHJ2ZlUxX2NCN2tKQ2kzYlg3TmozV3FNOVc?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-22T17:37:00+00:00"
+    },
     {
       "title": "2387 精元- 精元8/3~9/18處分聯發科97張，獲利約3276萬元- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZNF9OYzVpNUN1eUNORWV4T0Q3bUZJc1BUaVgtcFh5amYzVFBlTGlqdkU5RW81cDBMNW05TWk3ZW4ySElaVGhQbExuVUxQNmM1MnRucWo3bHM?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-18T07:35:14+00:00"
     }
   ]

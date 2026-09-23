@@ -1,14 +1,32 @@
 {
-  "updated_at": "2026-09-22T19:34:03.799795+08:00",
+  "updated_at": "2026-09-23T20:39:01.125667+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3094",
   "name": "聯傑",
   "count": 12,
   "news": [
     {
+      "title": "焦點股》聯傑：8月獲利、AI乙太網路需求受關注 放量攻漲停",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03Z0dIX0ZxUkl3ZWxkMnozMzI2bEZ1NVVHTjVuQUc2ekt4alN6Zm45OGoydGNLdkQyMDc2QjctUXpXSUtES3FEdXJkaU5OMlVQQU1EaUZaYUROSm5GYnFj0gFkQVVfeXFMUFp3Yi1jWXpLMnRuSEJTYmlFZDB6ZkRFdUtmYkNCanJvMEJxbkhwZmpna2RJWEpGa1IxNzl0cklSdzNlYUMxMnFOc0ZQSjlLcC1uOW90U1h6TjFZLXFzdzlycVZCMw?oc=5",
+      "source": "ec.ltn.com.tw",
+      "published_at": "2026-09-23T03:03:29+00:00"
+    },
+    {
+      "title": "【10:00 即時新聞】聯傑(3094)勁揚近一成，注意交易資訊與獲利成長成焦點",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdHZiUUxZUENhTzVwUGdEREdvLVl0WDNYQkx4OGR1VWFoNm1iLXhaY3VudGpXcU1QejVjTklRXzN2Z3lLUjQyMjd1WG1SZkR4QkduUDRISW13bGx0TWFLOVR4ZHNfcE13SGlhMV9tLURJNDFvcmdqM3otWjNsTWJQN000NFQ2MmNQUjRFbVNn?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-23T02:00:51+00:00"
+    },
+    {
+      "title": "聯傑獲利／8月自結賺275萬元、EPS 0.03元 AI 工業新品拚下半年發酵",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nVVhaSUxreXpHaWRPb2xvekhlUlFaMFNEY0FQU1c4QWE5YXFnZ2Z4eFZGRjduLUlOcUFLcEtNSXI0ZlluQW15VE44S1RWY3RO0gFWQVVfeXFMTk44TkhXM1kxUjRwRXhsdzNhUkk4bkVVVjc0NTY1WkJGd09ySElOa1dzeHZOM1ZxQkRmYTZ6ZEZTdGJhd19oTG9Md1JvTzAzcXJNb3hXM2c?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-22T09:05:43+00:00"
+    },
+    {
       "title": "聯傑 係因本公司有價證券於集中交易市場達公布注意交易資訊標準，故公布相關財務業務等重大訊息，以利投資人區別瞭解。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wZHNwcUkzRURtLU5vZTJFQ0ZLckh4QmJ1Q1hVaHVISUhIakFYRnBIWDdnMnlxTm9hcUVfWmVvNkQ1ZTQzcDVHNTVvVlpxeUQzS1dNRDRPR1c?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-22T08:02:00+00:00"
     },
     {
@@ -20,8 +38,14 @@
     {
       "title": "3094 聯傑- 【09/22 產業即時新聞】IC設計族群飆漲6.71%！權值雙雄聯手出擊，高價股與題材股點火接棒- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5Nkg3aHVaM0hNRFB0Snd3V2FMX0gzZTUxNlFJUGFqLWVldk5hWHlubEs2bzhaZUdFZ3hhYlVXUENGaE9qQkFYckV1YUFzemRiZzdfUFJNSGc?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-22T01:30:31+00:00"
+    },
+    {
+      "title": "《半導體》注意股：聯傑 近5日漲29.09%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRWR1TUt4UFJlUS14T01KVVJaZGFabW83SE9uaFlMc1pERW1MZTBWUjJIbWVVcG1mX1hGdndOQ0Jldy1mZFNzaExqd05tVElUa1plRnhLTENEbkhwQjlDSFU3YnZjU08wWFFtVUg2NHhVSUVjUkM1eGdLd05LYXdURGRDQkVSX2lj?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-21T23:55:00+00:00"
     },
     {
       "title": "聯電 #智原#聯傑#創意 #世芯#華星光#聯鈞#光聖 #惠特#順達#台達電#新盛力#友達 #群創／理周TV-20260921-林鍾翔飆股急先鋒",
@@ -42,40 +66,16 @@
       "published_at": "2026-09-21T00:11:14+00:00"
     },
     {
+      "title": "《半導體》注意股：聯傑 近5日漲26.41%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMEYwVDhMMnQ3dUxsNFFQWFNpWU1ZVEZSaVFkY1h5RXNNTDFTUmxlVG8yNVc4c2hiVE5GbVlkU0swQ3NvbXpMMGEtWUM0M3ByakVSUkczWU10c2NRSUVPUVFtTWVmRzFkUkk2U2t5aDJIVUhBYldtdU1hVUtpdXhNdURUZXdNMEI4?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-21T00:07:00+00:00"
+    },
+    {
       "title": "【09/21 產業即時新聞】Apple Pay 族群強勢走揚，IC設計點火、聯傑亮燈漲停引領多頭",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Jdnd6VUdZMG0wcll1WnRjWmdIVFFmRGhCc2RqbXJSTlAxdWRQZmpIQTIzZW9LcFVrNlNRQ0xvendrSW92TFRpdlFVU2pTc2kxNVN5RE5Vb2E?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-20T10:30:51+00:00"
-    },
-    {
-      "title": "台積電回神、創意飆漲停，資金重回電子科技，外資集中市場回補約略870 億元，RS動能策略鎖定宏致、聯傑、合晶｜ 2026.09.21 #台股盤前解析｜今天 Shot 這盤｜豐雲學堂直播｜豐雲學堂2026 年 09 月",
-      "url": "https://news.google.com/rss/articles/CBMi9wZBVV95cUxQN21OYWNLaXdPYWN1eGttczFxQlp4RTI3Z1VYRGRIdzNGN0ozR2ExSF8zZnhnQjRuSnFhd2lUTUpnNllxVjFyWS1fdFlaYkRCU1ZzSWRNbmw2aWtyRXZxUXV0YnhEa0pmZXJnWGtyelRGalhQZ2ZlQ1hBOS1WMDZCZXZ4MmYycmlnd1FIWTZsWkdMQWxMOTZaOWZHa2N1WFF1eTNhaXc2VF9DZ3Z0dXZLU3J3cFJFcmsxNUkyOUdqcHNnNDloczhaQVRBaGdycXlZUldIUURCR1FlZG9lOEVoT0dfZktKZms5X3V0SFlqLUFhX1BNRk9sNk5ySXlFZExpeVFzVlBOblRxZUg0TGxiVFR5OWxscENzSGwwd052aDRBZjNkcEhNT1lrSy1ERkFZY3pNRUNPaHQ0UktSUUN6elVPbmNONEw4cHN1RHh3dms2V1ZYOVgwRVRjaVhnQnRBV1BHR1IteC1aVmtYcTVMV2k4WUV4dWJHeFo5VVRRQ2d5My1iTFNtZG4yTVBGeUtPYXlLRTJVOFA5LVZMaGV6TTlkSTNoUl9hV3VQNXpaY3NrVnhZcUpFNUctTVBSa2dSVHNhSGpFcWJpbzFLMjlkbWZvT0trdXRCYmxJUkpfUTRqcGw4RUhFd3FhX2JKQXR3T3U1UEdRZlBwRjZ1V3U4czJudkZjSmxTNV92bzQ3VlpVWmdHTndZWnBmNS1kYlVPbFhKRkowVGpLREdEQ2UxVmtUQ2dwdnRUV2Z2bzNkX3ZWYUpqSzJwc3JwbmFXTVhVYUcyVVZDSUNTRXRJZXRiblZzYS1YYTM4bHdfVUJHSFhmTE1PN20yYjYxNjcyQmF3eUJ6RFE4eFRGUjFIWXEzcFpXa1dOMHgyS3pLNmwyeTJBTlVMdWg0Tk5lalFXd3NGVFI4MkN5UmRTemhyVS01UXNCUVhQdXJsRjNob001TXJDYzBrV0RYTXgtSlhOMTJwcXVKS3VKeFhMd2RHVmlCbFlTdHZ4c19FRTdGWGFhd01aUnoyaGxBajNSRl9kbzNHejQzd2hEeWRqdnRkT0V4ajFFTEVlWjlpMkFNcjZlUlh6MXRRbUZmbmhoQnBVeUxYZ2xRbjNTS0FVem1WU1Q1OFdwRmdPWmV6RXM1THdTTmcyUkxaMFNjeXdRR0o3eVlMS3NxOVRWaw?oc=5",
-      "source": "sinotrade.com.tw",
-      "published_at": "2026-09-20T10:01:03+00:00"
-    },
-    {
-      "title": "【0918台股盤後】台積電回神、創意飆漲停，資金重回電子科技，外資集中市場回補約略870 億元，RS動能策略鎖定宏致、聯傑、合晶｜豐雲學堂2026 年 09 月",
-      "url": "https://news.google.com/rss/articles/CBMiwwVBVV95cUxPY0JZXzI2eTdXVUZYdzY3b0FqaUliTHBKM0NWeEQwaUZtS0xGOUVQcVFTUjd3a0k3NjhHNFBSMjN1UEZJMV9FOGxRZWZsMndPMjQ1Sk1aX2o1X1NiZmMwblRCcHNLSDNSTF82bWNjRDh6NXRXNzZzZjJ1bGx1dzFzb0JZNDV2UTdkQmxHLWV1TW9CUWVTY19BaDA2VzlzMW9tcHY2MTh3MVU4azVVWW15Qnk1ckYyblZQWHRKbU5XTXN1VnBGWHI1YUt2MXo5LXloZ1I5SkI2UnJLcmFtSUlHcVhmcTRhNFdkMlVRUmoyRmRQSnFzS29OSWFTTks3dXd5VGFSYVNERkdBSFY0TU5XdFJPeUJKM2tQOXhFNjNhMHh5MDVORnEzWDFuYVU0bEJ6NVBuUEJoUEotMGdCejhXeGRkZkxEZ0RHbXl3ZmlsRmRXaHIxeG9hNktvMXQyV0xOcWMxTGpmTm9oaDJhaGpmS085X1dDcC12OFQ1WlI2dGNaTkc0aGNvSEJCZWZ1akZzWUJkaEsyZ3BCdjdZUXZIeTI5QmJ2SnZ1V1RySjcwZUp5T202MWxUa3R3SFdEaTAzd0R6VEh0Wkh2RXU1d0dQYmpWb1YwOGlTbWQxRHZiMVVPU3hHWU5fV0pkclNPU1BOU0FGY3ZvbVZ6bWxnMnZFc1dGUVlDN0E4eWpIMVRNRnVnT016Z0kwTm9FZEVsNTN2eVVGZUw4cjdxQ1ppTkNNcUpZb2NaeWZZbW9XcnkxV0JKLVFsdzhCajJJZnlSWVE5RXlPeWswczNGbWpYMHRDbldoeXFHTWlCRDlnbG9OQlpOZmlQQk9IUWZCV2JXMFlIcjgyRDNQa0UxcDlKZmRGb0ZuTEpvMTBLc0p2VXhKd0pIT09wYk95bWo2S0RwbXpCcW5SaVpQMW1Ibjd3aHVUMW53cw?oc=5",
-      "source": "sinotrade.com.tw",
-      "published_at": "2026-09-19T08:40:08+00:00"
-    },
-    {
-      "title": "台股狂漲809點！記憶體大漲回血「南亞科、華邦電、群聯噴半根」 IC設計聯傑、精拓科齊亮燈",
-      "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOeUNvdnEyVWEtUXFTbi1ZSTFGeW82SW1tZWdQV0hKU3RDeGliaXpPZElONUVqdkQ0Uk11QTZqSW1jSEUxbzhhVGdVaWhETFFPMlk1WDF5TDhqR1YtYlllTXFKV25DZV9qdDdwMGY0U1FQUHVuSDJDVFRqTXBHN2NUQnNIUTdMYmlrM1dOSTQzem5JMHFfNjZkeS1fQmQ3SnVvcW9oWVB1WjRXd2tJZFdEdmVvTzRtZ3dISVVVbTEwSjhFbUtlU1VTWXBWam5ERUp0TFNzR3VfSjRvSFU3MTU0eG0wdU9oVmdzaW0xNFdDakVDblJrV2Q4Tk9CeXVwandEWFBIOWRxdGNSY01iazBxcldBWm95TThqbGh2cm5kVmpvMTktVmpPc2NxUXpMczBnOXV5Rl90TUJHSWdUN1hNX2JVa2dtVkRkdy0tQ2k4WlIxVFhJWXBweVA0RUphbXFlQ0RmVzhYOS1TWVpTTzlqQU9NS2QxeHN6?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-18T05:01:29+00:00"
-    },
-    {
-      "title": "廣寰科、勝昱、歐格再飆漲停！電子領軍精測、聯傑、杭特齊亮燈 富喬、光鋐、合邦攻頂鎖不住",
-      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQRkdoMVNfTWt2TDNUSDc5RDA2Y0t5WnEzbmZCM3JTNVdxa2I3TzdvY3RYY2N0WDZZVlYxNjVKSFQ1LWR6dHNKR2V0UUxFUVB0YmJELVE4UWl5VG5VUThTRjA3SXNuc3REU0JfMUx5cm5EdUptZHBZaUlQSFNVbm1PUjZYR2VOdzhTRGNGX0xPRVNoSjhHN01mUmtDakQzMUwzbEJwTG5mNHUtTC1PYXFGZ0JibF9DdGhCUTNqQUEyaHJtRWNVZ0RvY09jeTgxUlI2RER4MjF6OVVoNmkzZXQyWHdHMThYWTYwUTE4MER4UEw0bnBfWS15N0ZpZUp3ejdCVERSTlpoc2tpSmc5V2hEWGVKeGlJcXh2LXc3OWcweTMyaHdxaUpLRDB1N2dDY3hoeHlCNVV6ZHlqWFdqbk1KR1JrcVE?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-18T01:54:05+00:00"
-    },
-    {
-      "title": "2303 聯電 - 《強勢台股特報》麗清,GOGOLOOK,光鋐,聯傑等20檔 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qVlRWaEMyaWF2cTBfYW5ZUC1kTTgzblAySmhoZHhiaXdJbUpyV3hqbU9zZkdfYnhLZlFIMEJOajlkUG1yTDBKNmpZV0hsckJpU1BQUWEzZkY?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-18T01:53:27+00:00"
     }
   ]
 }
