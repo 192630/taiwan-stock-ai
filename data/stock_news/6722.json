@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-23T06:33:17.492472+08:00",
+  "updated_at": "2026-09-24T07:30:44.090505+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6722",
   "name": "輝創",
-  "count": 1,
+  "count": 2,
   "news": [
+    {
+      "title": "人不在家電費高達4萬6722元？台電一查3年紀錄：用電量是一般家庭7倍以上 | 太報",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fNURRNkI1ajlsOWJyUmpsYVRMTlB6UE1vS0V4LXJRMlZaeEZvWjNTQUk2OWoxVlFrRTJiRkU3ZkhKZlBwblRsakpXNURGTDJrSTBOb0pR?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-19T02:52:06+00:00"
+    },
     {
       "title": "【2026/08月營收公告】輝創(6722) 八月營收3.96億元，表現亮眼、呈現雙成長，創近4個月以來新高，年增1.57%",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PcmtsV1ZPSkNuajlXMHJ4bGxMcU90bmV0M01qQllac1dwNzY3Rjl6SE9vSTFJaFA4cGxPbkdpdUVXZUZES3A4YV9GU09pbHI1NXMycmZhaHdfUTByMEE4UjZGay03Rm8?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-10T07:00:00+00:00"
     }
   ]

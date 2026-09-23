@@ -1,15 +1,39 @@
 {
-  "updated_at": "2026-09-23T07:32:14.226066+08:00",
+  "updated_at": "2026-09-24T07:31:02.109936+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6805",
   "name": "富世達",
   "count": 12,
   "news": [
     {
-      "title": "【12:18 即時新聞】富世達(6805)盤中走強，AI液冷與伺服器題材續成焦點",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05dG80ZDMyZTI4S3hySEhPSm1yQWg5dlpjUThvU1luRjdERVh5LXdXcnRpS0hNRTNLdEh2WW9DeG1oMURwa1dfVE1fSk5PdEVXQ2dETkdtQkg?oc=5",
+      "title": "【00405A】09/23 操作日報｜清倉環宇-KY，資金轉進宏致與富世達-CMoney官方",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrbHRwX3U5b1ZWWDU3ejJlWGRyeEI2bDg0OU1XVWgyZmlEdkVfVW1yZTlXOGR6WW45NmRWRWlxb2hMRzk1aHd4MXBQOS1Mc3JOMC1LWlkzMGo4RFdsQnVnMjhXaEVLWlZkMVVvZDZFQnJCR1c1RkduUUtQNk1mdw?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-23T09:41:22+00:00"
+    },
+    {
+      "title": "【00405A】09/23 操作日報｜清倉環宇-KY，資金轉進宏致與富世達",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTzd0NHhRdVM1Z2x5N0dGejljbzNqS3dENXZ4RnJscnVuMHVraGptbE10RmlVUVppT0hrWVVEempxeDVlOG5seVVncm9ham96NVl1LVkxNGJqWFhLd1A5dFozLTVTcGxiQTNJRHFlaFBHRnRSUzBKOTFlazBsaHVFdEdJaElibEJzTVRVc25DeXZwN0xxWXp6ZC1KNnd4cUFVdldKclpydWhOSnlGUm1EMWRvUXVkZFlEd1hfRjJHOA?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-23T09:41:22+00:00"
+    },
+    {
+      "title": "【10:24 即時新聞】富世達(6805)股價走強，AI伺服器液冷與QD快接頭成盤中焦點",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXYkRPYkdaVDJtNjE4OGlndXczZ1ZUU1ZleUpHQTR6TGpUUzBURjBaVjFlZExleTk2ZGVBNmoxam5YWEh3b1RwdTlLRlZxMC1qeGxoTXI2NEc?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-22T04:18:33+00:00"
+      "published_at": "2026-09-23T02:24:11+00:00"
+    },
+    {
+      "title": "《台北股市》注意股：23日44檔信驊.富世達.友達.創意.高力.尖點等- 上市櫃",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MWUNnVlUtUE8zRVVHTW5DZ21XNnA5dFg0a0ZWY2pHanlZaGZFS0JJSXE0OWZaZDlFSGlOLWREUU5oUjZINFFGTTNmeVc3TUFDVFRZaHFsenJ2a2FRY0xKc1ZWLWJFenZUblE?oc=5",
+      "source": "旺得富理財網",
+      "published_at": "2026-09-22T23:53:28+00:00"
+    },
+    {
+      "title": "6805 富世達- 真是渣男這麼快就軟下來今天追高好慘! - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lck1lcXVzSlNCNDJFOHFyT1Boakx6cUZkVmgyNlpfVnRhbHdrWFgxam9sUnA5STJiei1XaFdTU25OX0RXVDRhd21GbUh4cm9EdXpYZk92QUk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T05:28:33+00:00"
     },
     {
       "title": "富世達9月營收拚創高；Q4水冷接頭擴5成產能",
@@ -19,15 +43,9 @@
     },
     {
       "title": "三大法人買賣超 – 外資買超(2454)聯發科、(2409)友達，投信買超(2308)台達電、(6805)富世達，法人合計買超470.38億元",
-      "url": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxOelZjQl9iNjJqd1ZjbVRrNnBlSEJUT3FmMFRMaXc3Wi1fcHlnZGh5eUYzMzczaG9RUktyZXFYRlVYX213MG1ySEdOakVhRFM3TEFHdTJHVnNnVnpKWmRiMXZLUzNXampFd2FXVVQyTWJ6ZGhnQ3N0VEM3Um9VTDdRT1Z1bmFLYjN5UVFVcEtDeHgtZklKT2dfYzZ3cWl1X3NBbnVLN3VTYW5pWTI0Vm96TmZnOGswZjN1REZZdC1haWplOHlXZnBMUXJvS2FETkJxZnkyZUE5c2NXNWg3ZW93b0REdEo2UUoyYlNJV0pkR3hqeE8yVU5TbC1KclBTNHgwMnJBdDZYLWhHRmxxbjJVUzlwQ0JGY3Q3eVJRdi1rNnFrUC1OMTRHNFhLcDJRU01Qc0VUQVFUVVVnYVZjV0E0dmhnNlpDaWJSREpTT0FZc2ptLVJfNURQcUg1LUNKZm1ERTgzZDFDRllsbTVWaEZBNWtwWXA1eE9WWHBXd2VueUJVeTlvTzNjbF9nY3JlQVlZaC1tQkp3amdabTRtMWFoX1N0WVJLOEpmZmdrX2NXamh3VlBPTkZyZmhsLVJmcENLZ3hCc3YzYlY2Yi16U1NCMmY3OXM5bElvX0lBZWRUcDN4SU5ZREpuZDF2a0pjazViLW8yYUNaRndUWlBpWTA2SW5jMlNXVGxTUE4xeWh6N2wwbFZNLUtIYlRFQ29ESzVXX3BOOTJnRTYySnBtSXpNbHAtbW0wUk9uQi1hYXY0ZlB1Z2dDUUotTVhaQ2RZTWtyNU1aVkZIQnVuV3RPMGNj?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigAVBVV95cUxNMVBiN2hMdm9pS2l6Nm1NamRGWW5tT1IyZVNHelpPRGNnU0plbkpGZHpMaXk5dG15a1lCUVp1VXh3ZDd2amE1YzFBOW5SUk92Q2IyMDZMTmNwSGdodzZjODRJMFFxMUhwLVpBNy1PckZTeWVIaHZzMFpfT2RHTjJKcWQ3Rk1jZ3JyTTFpbWlrdjMyYXhZNzZ4N05zYmVyVm9ITmJvVGlzWi1XM04zTUZFVnRsVTFkQ3h0Mk52ZGYxRW1OR1czZnZha21PdEtfYkhaV0w5TGZTTUhhZTFlaXY0YkNHZV95ZndIcEt0SXhnRkZtTDBCaUZnSmQ4eVliOUFQek8yWHkzeXN3bFJtNmw4aXpYWkQySnpqLTNJc3FTYUo3WnU0V0FIVTlFaVR0WGQwcnBqQVdCLXd4OVk4S003OTVuUlNqY2FTN2tNN0ROcl9zSWxqRnQwckQ5OU5IUHZWTHhrcFZBZ0tma091WkJWd2lNcm5feGZSOURiYThmcEdqY21iRG5rLVJrQXN4S3BnM3FLUzg0MF9VSWV3TE5oa3BnWjluQTFscW9DWW41M2s0aXhLUkY0LXNLMS1SSXZROU9Bc2hERjluX0lrZjJRTktHRHotRmxEWmJyMU9xRUhTSzBycjJ0UnJwSmFmSUdodVdxWXVFdm94Sk4yY0ZjdDVZT1lwczJBeG9wa3VDdDBRQ0FMalhwNUZIenR0elZRcWpuaEI1QzBsc3p0dEVVUmpPa1lkRW9zbFpsMHA2d2lic04wekU1RkZyUWFjQXh6Qm53LUxvZDlXaHRGdjVBaE5rLV9sb0FFSEJiU01MM0prMHVjVFZHM2dnc3pQOWRD?oc=5",
       "source": "sinotrade.com.tw",
-      "published_at": "2026-09-21T13:49:16+00:00"
-    },
-    {
-      "title": "【09/21券商評等報告彙整】富世達(6805) 今日僅1家券商發布績效評等報告，評價為看多，目標價為3,000元。",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVlhWVFA4bGROR2JDTThWSExsNGRhTTdzU3NHZzhUd1dMR1RUWW5pa1p5WVJlNXRhNUxjaldVS0pEdVJ3aU9NNjktSUk4d3JKZXZmTmprR0xMd2NFcHlYM2NMQW9UeWZnWFBYajYyNWZkMk92dktHYXJmV0dDSkU1VFRtUG5US2t1WlE?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-21T10:50:10+00:00"
+      "published_at": "2026-09-21T11:36:33+00:00"
     },
     {
       "title": "【00405A】09/21 操作日報｜經理人集中火力重壓富世達",
@@ -42,40 +60,22 @@
       "published_at": "2026-09-21T04:56:18+00:00"
     },
     {
+      "title": "6805 富世達 - 要翻黑了，拉高出 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1OSVJucEZZTTdSX0ltWGhVZUdZWUh1Qk9BMERYSldHYk9QNEpib2p6ak9oc0RRaWMza21NSWVwWldVS1A1cHNzUlFQSnpPVy1tUG9nSVNINnM?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T01:39:28+00:00"
+    },
+    {
       "title": "富世達反彈不是安全，是市場再開一次逃生門",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rRy11U0xzZmVyYWJJbWcyTXFYT2wzczRnMTU4MUh4ZUVZTlFsRHdNb2FMOHlMbUxacGZMeW1uaDRndjJrd1hpdlFpZ0VPbWdpeWtYdU1QLVg?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-20T10:36:47+00:00"
     },
     {
-      "title": "6805 富世達- 今年美股四巫日後兩度先上後下，漲多的達哥週一是否迎來沉重賣壓- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrN0NYUTluc0RnNy1YeTVTMHVjZmFRcG9MT21uVG1GOWNvRmU1MExQUGpwMGRmSDhkNlVnT3RuOTRsbnVBZjBxMjZtUzYwMi16VVJnY2JiTXI?oc=5",
+      "title": "富世達(6805)借券與融券餘額查詢｜融資融券與借券統計 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aY3EyTlBCZHRFOUFGazRlc3UwRFdpcjRUaGxKZGVtYnlra3hsMHpLVUVxWTNHd1B5bDZaZ3l3VlRoY19IZ3F6aVFZa3J6dTlJQ2hkZlVoVlVPMERINV9KRFBPb25sZw?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-20T03:44:45+00:00"
-    },
-    {
-      "title": "48檔千金股狂歡！信驊衝19500元、精測富世達鎖漲停 備位軍團蠢動",
-      "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxQdTNDb2pMQXdfVnRjd19EMXN3UVB4U2MyVmM5UUVRQjVZUzZDT2JTUWZaVmdiUkZfdW1GcU5MUEdUMjh5NXZTLUo3UXk5QnJ5Szk4N3pnUk1XWTV4Z1lkdDdJN0M0WnRqNDdKai1idUV0am1wQXNQUzNhY24wcXJEeENTMThUSXE4Z0s5aW1Cb3pSUi1WUHFYeHdQeUlIa1o1amZGeUo3eWlaQTJKLVJTVFZpdUItUV9paGl4RXI1LW9yZHh4TVBfUEphMEZxZGY1aUVBNmwwaXpQSENGSWxZRjBkSWEwd0trTVU5UF81OW1acTZ5dE9mNHJ0WGFUay05TDRLVzN5NUFURTRENHFQVXl0RFNvWFEzYjFlRm1MOW5YckFBNmVTaEN6bmdYeDg2M0Nmd21DUHVlaW5Vdk90LUtQa1AzOU02UHlMMjNtV3VBUFhwdkdsRzR2Sm1DWk5BUnlqVzVXdjlGZm1tSGRtTVlkODdhY1E0aDE2Q0RudnVxSDJMRTN6TUViOTNDUzVYZ1VHWm5qNW15ZDJ4TWc?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-18T02:28:12+00:00"
-    },
-    {
-      "title": "【10:07 即時新聞】富世達(6805) 強攻漲停 聚焦AI伺服器液冷商機",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIaXJDTkZCUldrUEkxdjRrSEl1Nk54S25yZW9KbWFUcENyUF8yNnZvdnVnZjRfRlYtV3BHRXhibHdOd2NyS0ZvZ05hdVZ0SjQ2ZVpyR29WeTE?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-18T02:08:32+00:00"
-    },
-    {
-      "title": "🔴富世達漲停，更是短線從容下車的時機！",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BNkhxZGJSSnZ2MkFkYzRJeHo5eU1tUDNYQVdUMTRaQjJfT0wyQ1h2d24zRUZ6eDUtN2JoU1Ytai00ZDczTENVSkpqcnJLNEs0LTNhNGVSTVM?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-18T02:07:32+00:00"
-    },
-    {
-      "title": "富世達 兩檔活跳跳",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFLTIxVUJ2NnROTWVzZGpHQllEbGhmV3pPRGozR29meTQ0dDB3T0JVdzJ2SGk0VnI5SmRQY0ZveUx1ampuS2FYWVFRZENlMW5Ba2N2WGhVZl8?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-18T01:44:16+00:00"
+      "published_at": "2026-09-20T07:00:00+00:00"
     }
   ]
 }

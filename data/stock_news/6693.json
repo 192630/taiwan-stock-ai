@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-23T06:33:11.082469+08:00",
+  "updated_at": "2026-09-24T07:30:38.032645+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6693",
   "name": "廣閎科",
-  "count": 4,
+  "count": 5,
   "news": [
+    {
+      "title": "【10:07 即時新聞】廣閎科(6693)股價走強，市場聚焦營收連創新高",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTkllQ2VGT2k1Yk1hSDM1S2p2MTlKaTI4NUw5b2t3S05DVTRub01Nc3NMMG9nQ0M5b2NBY1g5NzlhVEkyMk1GQVkwWGR0anZrdW83TWdib3Z2ejVVN3FCdThsU1NnY3lSWUgxRUJrTmFUNlR1SXFXTENsOENDN2RxMkMyb3NEclRMNVNDcDFB?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-23T02:07:31+00:00"
+    },
     {
       "title": "【12:19 即時新聞】廣閎科(6693)走強逾7% 聚焦營收連創新高",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYm5mS3hqeHR5LWJDQ2lMaHRrNDNWUDBEaTNYMG5fT1VmTmdJRm1QRGE2dzFXRnE4eHVaSURPcWlnZGVoa2ppM29Ta1RHaFM3dTZlcHB6V2drcTdBWnZPWWZaWm5hRHFYVS1wRHNlSkJLb2JoX292Qm52SUpwTTRpd1hvWTB4NjVqS0pXZGJB?oc=5",
@@ -26,7 +32,7 @@
     {
       "title": "【10:47 即時新聞】廣閎科(6693)股價上漲逾8%，AI與電力題材延燒＋月營收連創新高激勵多頭回補",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2MGdiekdxZVZaQmFrR0tIUVdkeTdyWlpDanBhVHFmcmk4aVIzWDFBRE00U0Rsc0pLTk5fanlucVZ2b0swZ1p3SE94TFBXajBTUzJqLWhsOFg?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-08-28T07:00:00+00:00"
     }
   ]

@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-23T06:33:35.249065+08:00",
+  "updated_at": "2026-09-24T07:30:58.241430+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6790",
   "name": "永豐實",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "永豐餘綠色採購逾63億 獲表揚為績優單位華紙與永豐實發揮循環經濟 | 民視新聞網",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0c1dYZnNXbG81eUFuSTI5dEVZMFgzQmtVMlU3NXdCNmlrWkJfTU4xV3hqWGNpNDBpdXR0eU5WOGhIQm5UNkxVdG83amV0MDFSR0ZvbFJ3?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-23T08:03:58+00:00"
+    }
+  ]
 }

@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-23T07:32:17.854696+08:00",
+  "updated_at": "2026-09-24T07:31:04.455200+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6829",
   "name": "千附精密",
-  "count": 10,
+  "count": 9,
   "news": [
-    {
-      "title": "千附精密(6829) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QQ0NTSjRGWlRtNHQxelg0NnFJQ0hHeWFQRVdTMkNsRTJZSi1sbXhiVVdWamo5SXJqUlFfUTlIb2JqVGFVNHg4ODE4ZFR4SV9laVkw?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-22T07:30:36+00:00"
-    },
     {
       "title": "討論牆 | 盤中速報 - 千附精密(6829)股價拉至漲停，漲停價244.0元，成交2,412張",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JUFlBQ2VkNnVaR2pvSUlldnkwOUExRkJ6TG55MlZ0UlFaVzlybjR5MmJ6QnZuQkdwOTVtMWZha1VjNUI3b28tODhhMVJZUTFod3hCY2xnNTRFUkpuTlZQZVRPMDc?oc=5",
@@ -42,12 +36,6 @@
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
-      "title": "【2026/08月營收公告】千附精密(6829) 八月營收2.72億元，表現亮眼、呈現雙成長，創近5個月以來新高，年增56.52%",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWjB6cGlrRTlYS2xrbUdyNExyb09EQk1ZLVl6d0NhczFmeVk1SUVtQlBmeldJazNKOF9VTTVTejhBclVHRjMyVUVidHFnVG10bEhZckpUa3pDMEVNdldzLTh2RGJZc3BmS1hnUHo4UVplS0dZZ18zaXJ3YThjRVRwbVR4V1NrcjRaV2c?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
       "title": "【10:07 即時新聞】千附精密(6829)股價勁揚逾8%至263元，量子低溫裝置與軍工題材發酵＋高檔多頭結構續強但籌碼集中度升溫",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa09NaklZNEViZG9JS3d5eFNEYmxKTEJSSVBwbnBYYnpTa2tPZ3Z2MkQ2WW53TWM0aENpUjhjb3F6dUZ1eTFDLUFaT2g1ZnJ3TUw0TjliNnRRZElYOS1iQlJlQVFZSV9yTjhLVElTV3ZpSHdQaEZqQ3RpZVhESEdUQlVSaDFCRHJDcGYxV0Rn?oc=5",
       "source": "CMoney投資網誌",
@@ -62,6 +50,12 @@
     {
       "title": "千附精密下半年動能佳，半導體/國防成長力強",
       "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOOVNUWWE4T3lId1pUUjF0aGdqMUFuWmFqYzc3U0RHaXVLMGFPNWNUUlFveU5IU0MzMGxSR0lBckc4OUJkUmhvWTRSWmxndWNyQU1ldFZmemJwOU80Zml2ZkVPX0JBTVlJZVBwM2FBa0QwWDhtQUhZSUw0SFFmQU1fNHlPUzQzUy1BZkg3MlUtVHFhMWtpc2laZlZRYWxxMGRCY0w5Qlg4aXVlSGh6eGVQaEJNLUoxdVBZc0JkUUdoa3hYVU1FeTVDUE5YcGVOLXEtUHF2X0llRkxubURTbjZJZENxVGR1MHRfLUdlZU8wLUVQVkNJaktCeFpEMHd4R3BXS01rdXZfTFhkeTNmdGlhMjJySkZpYVVtWGhwQ3o3X3J1eUNWRl9QVExxYlhOVm9CTEZxd1FnZDRycENteUJjR1R3?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-08-26T07:00:00+00:00"
+    },
+    {
+      "title": "半導體需求熱絡，千附/千附精密後市續看旺",
+      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOUGMyd2tfYmlhdTlpVXl0VGs3a1NkaFNYTk53eFVQSVc2Zk5RS294NU1IMVlabGQtamtqN0FONDlYakdCYTRsZy1oWGZVRVpuSDRDXzNfc1lQY3JJSXp6RGFyYWU5RUFadWNvSjRVd0czQnQ2djcwY2RxSUhra054WG1pQ055M3pQd29oX2h5TDBlQjhuVnBOdmxVdVNUSFVCUXhpemxmd3RydVk3b1lKZ3h4ZE9la2RWNG1aaXduN1FjTmI3SXhHSGpNTi1RcXpHbGhoRUpHcEdTRVdZS1YtWHRQblZkMGlCbERVanpxdkRTSGE2bHItaHRZcHdteXhJcVEwc29ySFktalRKWUJNeWpCOXJIU0RINDAwaGpLYWdUOV9pcDE5dkdyVjExZTRGZE54QzJR?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-08-26T07:00:00+00:00"
     }

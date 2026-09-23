@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-23T06:33:01.468029+08:00",
+  "updated_at": "2026-09-24T07:30:28.182127+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6658",
   "name": "聯策",
-  "count": 3,
+  "count": 4,
   "news": [
     {
       "title": "【2026/08月營收公告】聯策(6658) 八月營收2.08億元，表現亮眼、呈現雙成長，創近3個月以來新高，年增104.05%",
@@ -14,8 +14,14 @@
     {
       "title": "聯策 6658",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RLWtEdVpUNXFfRGVoUk9hZ29OdXAxbDR2ZzlfN3ZlMHA5bVhSUkFNc1I0MHlvZUVRQUQ5eExLaUJ6T3pJVGNrYTl3eC1hYm9EejRoOEZqZ2w?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-06T07:00:00+00:00"
+    },
+    {
+      "title": "【即時新聞】家登創投最新宣布參與聯策私募案，持股比例達5.57%",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYjh4VmpaeVBidEhucm9TelhKTGNLRTlTcDY2dVVsUlRzYnVPWGlnV05aQ1IwUDdQOTZzYnRETlFCckttblotbEp4YnZFRUo4TmVKX3ZWSlpKQllZWTNxenB5NHQxdnh6alpDVVRxNmFmS0dPX2NBTTdpWTdONnE2UDVXSHdWMDNNdFl4UWlEMkE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-08-27T07:00:00+00:00"
     },
     {
       "title": "家登創投參與 AOI 廠聯策私募 累計持股2,137張比率達5.57%",
