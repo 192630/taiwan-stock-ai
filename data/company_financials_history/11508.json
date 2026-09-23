@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-22T16:41:09.885423+08:00",
+  "updated_at": "2026-09-23T16:40:03.272907+08:00",
   "source": "臺灣證券交易所／公開資訊觀測站 Open Data",
   "source_urls": [
     "https://openapi.twse.com.tw/v1/opendata/t187ap05_L",
@@ -12,13 +12,14 @@
     "https://openapi.twse.com.tw/v1/opendata/t187ap06_L_ins",
     "https://openapi.twse.com.tw/v1/opendata/t187ap06_L_mim",
     "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap06_O_ci",
+    "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap06_O_basi",
     "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap06_O_bd",
     "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap06_O_fh",
     "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap06_O_ins",
     "https://www.tpex.org.tw/openapi/v1/mopsfin_t187ap06_O_mim"
   ],
   "latest_revenue_period": "11508",
-  "company_count": 1394,
+  "company_count": 1395,
   "unit": "新臺幣仟元；EPS為元",
   "companies": {
     "000104": {
@@ -22534,9 +22535,9 @@
       "quarter_revenue": 1328929.0,
       "gross_profit": 1139304.0,
       "operating_profit": 688894.0,
-      "net_profit": 577826.0,
+      "net_profit": 571925.0,
       "parent_net_profit": null,
-      "eps": 5.65
+      "eps": 5.59
     },
     "6541": {
       "code": "6541",
@@ -26043,6 +26044,18 @@
       "last_year_cumulative_revenue": 1116660.0,
       "cumulative_yoy_percent": -39.52456432575717,
       "revenue_note": "全球記憶體供應吃緊、漲價，客戶採購轉趨保守"
+    },
+    "7812": {
+      "code": "7812",
+      "name": "稜研科技*-創",
+      "market": "上市",
+      "profit_period": "115年第2季",
+      "quarter_revenue": 71253.0,
+      "gross_profit": 36242.0,
+      "operating_profit": -109313.0,
+      "net_profit": -101441.0,
+      "parent_net_profit": null,
+      "eps": -1.69
     },
     "7817": {
       "code": "7817",
