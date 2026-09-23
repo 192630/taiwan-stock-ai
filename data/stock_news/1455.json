@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-22T12:34:52.628545+08:00",
+  "updated_at": "2026-09-23T13:34:13.608007+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1455",
   "name": "集盛",
-  "count": 5,
+  "count": 6,
   "news": [
     {
       "title": "集盛尼龍66粒明年1月量產；高值化產品拓展歐美市場",
@@ -24,10 +24,16 @@
       "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
+      "title": "集盛高階纖維產品獲品牌客戶導入看好第4季營運增溫| 產經",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3QjJBOXB4M0R4RGFQZGVwWWR6M0xidkxaeXNSYmtaUDlzZ3FHcnAxUWQyc0VlbnF4RkpVU1c1RHN2cWJPd0lJeGtPVzlVVnNJazRwekc4VHdDcTk3MHc?oc=5",
+      "source": "中央社 CNA",
+      "published_at": "2026-09-10T07:00:00+00:00"
+    },
+    {
       "title": "1455 集盛- 集盛115年8月營收4.65億、年減0.80% - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05STkzZHRKU2lVaVZPS2FkX0JZZUpDdmJvOTJEMVRPNmp1OW9vY1FkaEw1bHY1Y0tkcDhSSUhaeTNtU29reFN1NE1nMWdsXzJUMTBxWWtRcG4?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-08T07:14:30+00:00"
+      "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
       "title": "集盛 H2營運拚優於H1",

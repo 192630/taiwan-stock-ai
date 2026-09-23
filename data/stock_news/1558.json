@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-22T13:33:50.329235+08:00",
+  "updated_at": "2026-09-23T13:34:33.969634+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1558",
   "name": "伸興",
-  "count": 7,
+  "count": 6,
   "news": [
+    {
+      "title": "【優分析即時新聞】伸興(1558)8月營收年增18.63%，縫紉機本業回溫、宇隆機器人供應鏈進入收成期",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KWTBkb3o4QTF3Vi15bmYxbUUxUWhCWm1zWEtaTk5taTB5YnI0YVB6LUhNTEM5Q3ZqNzlRNngyLWhVUHZoeTJra0xFWGZCTDQ0bF83d0JB?oc=5",
+      "source": "優分析UAnalyze",
+      "published_at": "2026-09-23T02:04:12+00:00"
+    },
     {
       "title": "1558 伸興 111",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0OFp3QjNNLWpaNlctQnJtUktHZXJHTlRpbjlRcFlvVDVmZmgxclNSLWFBemVvYTVQR0M4MUg3bVdLSlZiQ1drLUFKazN3NXhxUTNjZjJSWjI?oc=5",
@@ -27,19 +33,7 @@
       "title": "伸興、廣華8月營收齊揚 攻AI與高值化迎旺季",
       "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE9DcVNfU3Rad1ctbEtrRHBjbjBTck94Zmx1S0JLYUs5Y183SXVNOHZMVWhpcDZSUHpSM3c?oc=5",
       "source": "ENN台灣電報",
-      "published_at": "2026-09-11T08:42:07+00:00"
-    },
-    {
-      "title": "【2026/08月營收公告】伸興(1558) 八月營收月減年增，全年營運續看向上-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUlMzMFFjbktQN1pYNGFac0hfdHNseHB2Tll6aWFHUTAyRUZhVjQtN1JUeElod05nMTJPaWY4SF9mTkxVVGhiWlA4YzA5dV9rNjAwU2djYU5UbGlXcUJnVXIzVUp4Uk5GWXBtS3c5M3VucDg1TUpPWENvbU81ODdicVJWVmNkVUw1Tmc?oc=5",
-      "source": "cmnews.com.tw",
-      "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "【新股IPO】麥科田2041截飛、傳超購437倍 孖展194億超購322倍 醫療器械商 入場費約1558元、無基投",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYOFk0a0liXzZCai0tSWo3UG9ZVlJDR2FuZ2FHTHNJZmM0RHotR0I4WnRNSmpsS2ZSM1YxazNlZnNBUDVrQWFYSTlJeGpid0dBeW9GWE02aXZ3RXhWOFlDZDlfWHBLNi1SWmc?oc=5",
-      "source": "香港經濟日報HKET",
-      "published_at": "2026-09-02T07:00:00+00:00"
+      "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
       "title": "程泰集團取得伸興5.1%股權 楊德華：純屬財務投資",

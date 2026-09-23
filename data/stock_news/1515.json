@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-09-22T12:35:04.733999+08:00",
+  "updated_at": "2026-09-23T13:34:24.286068+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1515",
   "name": "力山",
-  "count": 6,
+  "count": 4,
   "news": [
+    {
+      "title": "2330 台積電 - 🤑💰💵 力山、太普高未來也一定會大漲，但因為我持股不多... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WYUxUTVVSMk1NZ0NuUkNsOE14R3BpRm92MjV2NzRsMVZqeWxvVmE4aHdqOHV1SGFtZ0g3OGMzYXMtTGtqMkhTM25uYTAtSEw1Q0FfSGI0YjQ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T02:49:52+00:00"
+    },
     {
       "title": "【09:37 即時新聞】力山(1515)股價上漲逾6%，提早出關後買盤回補＋短線跌深反彈縮小技術面空方壓力",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdnU0d0hLLU14VFhGcFBLb25tLVJrTFAyWGpuTDlIQy16LVJtcjBKeDZ4VlZQNlJfNk9NRGthMXdMZGRfeUVIMllHazgtdFNnNTEzYTRxM2NsR09WVGk5aHFJLUFSQy1QZEVzLUEtaGt5UEpyVEMyTlF2U2piZXFiNUIxdTUycmhzd3JaMHB3?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-11T07:00:00+00:00"
-    },
-    {
-      "title": "【2026/08月營收公告】力山(1515) 八月營收4.6億元，創近8個月以來新高，月增5.96%-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcEwyMVppQlZadFlrRDJxeEVsVDlJUFlkeTdVTVBaMDJfQUN2d21mR3ZILTl1UlY1ZDZDWW5kdUF2SGxzSjg2eDV0Z0p6czRGYWJrM0k1MEJjLTA1UmJfQjlvMURZMlRaR1NIamFMVFQ2X2I0SlpLMnpDb3M4T1RLaTBjRGpfWF9uRVE?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
       "title": "【12:04 即時新聞】力山(1515)股價大漲近8%、站上35.9元，處置出關後買盤回補推升＋短線跌深反彈扭轉技術壓力搭配高本益比下籌碼仍偏震盪",
@@ -28,18 +28,6 @@
       "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOMzlqbDVzZVNyQ00yVG9GYk53WGFYMV9TN3FxNVRKa3VWSGdxZnB3NG1Rd1hVTmxkLXFQc3dmajdUUUs4bHRYNVBFUzdsZ1J5dWVNWlRhN3VwNmo2V3ZSbEVILTBDVDlKMlBLVlhRSk04UXZBS3B2NUhxU2JYdTZLZnRwQmpaTlo3V1Z1UHppVTlUdnh3YWUzaXRDd3dfZGhMLTNldktWRFczM19mcXZGSVpsbGhaSkp5Q1NsTEJNQU9sUHVyUVZBS2tDMUpYNE9fdFQyb3B2WEYxMGJQYXpnTjIxV016UHJVcUtsbVhlUl9Ga3dWVzladmJCU3BjckptamR2TThYWGl0ZXBLdWtyZGxNaXFyU2hGRk5OQUZXaHpjYWs2dXgzZDgzLVFGbTIwV0t0MUlvTXJ2WHZyOWdYQk5SbzQ2MDNhWXRob1hB?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-08-25T07:00:00+00:00"
-    },
-    {
-      "title": "1515 力山 - 阿良、紹軒難道要噴了嗎？ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hOTJFMEhLR01xZ0xmX2F6emI3UlVpMUVQeVBGWDJPcmx2S3lvMW91V1FEV3lQWGtHamVNekthZktoSWFyZWZreWJvXzY3U05kZWRwYXR4a1c?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-24T07:00:00+00:00"
-    },
-    {
-      "title": "1515 力山 - 上上下下-追綠不追紅--整理中- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1vWV9DeWZ5T3ZyaElFUW9GUlpXb0pIVHlZY3NnUUhKLUNhYTZwUFRtZ2FXT1FfYlpWbktfMnRRMXlSYS14MXMwbkxRSUF4WWMzZDVYYTVtcUI?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-23T07:00:00+00:00"
     }
   ]
 }

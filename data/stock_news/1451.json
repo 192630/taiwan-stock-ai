@@ -1,21 +1,15 @@
 {
-  "updated_at": "2026-09-22T12:34:50.761266+08:00",
+  "updated_at": "2026-09-23T13:34:11.961679+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1451",
   "name": "年興",
-  "count": 2,
+  "count": 1,
   "news": [
     {
       "title": "美伊停戰利多 台股收漲1451點創史上第2大",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02SXdCZWdGeG9hczZoa1FJVDQ1QjFNMzF5WG1pcXp5YU5BZmcyMjBKSWEyeTY0d1l5b0ZmanRrVnljUzRtckpVR25leW80Z0U?oc=5",
       "source": "公視新聞網PNN",
       "published_at": "2026-09-14T07:00:00+00:00"
-    },
-    {
-      "title": "【2026/08月營收公告】年興(1451) 八月營收6.54億元，年增36.8%-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObXo4T1FHZGhuMmJOTnE4emNJS014bVlxaDFEVkFBbkx4b0lNakNjNzdIOU1yMWRkNF9SLXR2b0ZERUlEMlNvRUE1ME5nazVpZ24zOWV6amJzUnlsaWxwcFYtSDJwOTFDSUo4V2Z2Rnctb2tIeDZVU3JfTFRWNXJoSVVfUTlfYkQxeGc?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]
 }

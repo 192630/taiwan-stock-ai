@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-22T12:34:44.141290+08:00",
+  "updated_at": "2026-09-23T13:34:06.022064+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1434",
   "name": "福懋",
   "count": 12,
   "news": [
+    {
+      "title": "【09/21券商評等報告彙整】福懋科(8131) 今日僅1家券商發布績效評等報告，評價為看多，目標價為89元。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaU0tT1kyb095Yi1MUGpzM0c0YXV3Y2ZNYmVja05pWkZUZHpFSG5PY21tM3BoYUV3ZlM3UWt5QVkwdUFnNHRpSTAzcDhxdGVfN2F4MVFGY2ZGZUR5TTV1Qk9Gby1DeDdJeWJTdkVNeTd6STluU29PcHB6Q1BYTVliaWZfczhmRVVqUXc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-21T10:50:10+00:00"
+    },
     {
       "title": "Formosa Taffeta Co., Ltd.收入明細 – TWSE:1434",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqYTQwR0g4SXVrN1U0djc5YXZ2cEsxLXZMSkNjVHEyRW55UC1OTFQxdzVvUDRuQjRycWNvMnNveHZTYWluQmJyM1R1NjZDWEVyYXFPbWpaT3ZjOUNQVXBvRlJUY2ZTbDFRbld3UXhJM3FQU00?oc=5",
@@ -70,12 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrQUs1ZzhiZHdqcW9OM09ub3VHYUtSdHFOVzdVM0dEWlBIVmFtS3RXdFVTTHpKblZVRndwQnNlMENQVzZEb0ZuMWtCUFhSQ0ZIRUktOFM1c2U?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-07T07:00:00+00:00"
-    },
-    {
-      "title": "毒油案15人遭起訴！福懋油脂出手撤換代表人 蔡清松遭解任中聯董座 | 財經 | CTWANT",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Oc3FsZDVkUllQWUFQS3BVSHQ0WFpaYzNfcUlUelJxLUF2ZFBocUp3cVRjMUNZSld2bXBZUlYzekpFbkp0YlI1TTlSVjZGRlHSAVRBVV95cUxPeEpnU09fcm5Ja3J5a0VmOXJybTMwWEdXc0lqSDlJZnFEUUxTUzBwSzJpSWJyQ2k4VEJXdEg1ZUtVc2lHOGcwM0R3VEd2WURuWTBUQ2I?oc=5",
-      "source": "CTWANT",
-      "published_at": "2026-09-06T07:00:00+00:00"
     }
   ]
 }

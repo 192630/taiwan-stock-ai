@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-22T12:35:09.458039+08:00",
+  "updated_at": "2026-09-23T13:34:28.487378+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1528",
   "name": "恩德",
   "count": 12,
   "news": [
+    {
+      "title": "恩德(1528) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPYThIbFB5R01iT3Z0VFJrdjE0Q25ZekVISmtRbVJmRlR3QmdFc1otTjFLYXc0TDBZQ0VIYWZEVGFrZDdKN0wzcnFBMTM2WXJ3Q2R3?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T05:53:03+00:00"
+    },
+    {
+      "title": "《電機股》工具機產業沾上AI題材 恩德再度亮燈漲停",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOajllQm1WQTZGQVZESVZHUUpTTHlaYmJ3b1BwenRlYUZFYjRaZk4yVDFhcEY1VkI5U0oyRkZia1NiMUVhQ0REWlNrSDJ2ZmlJeGVJN2lZaWJPUTE1VVNaem5pN0J0Z0ZhTnRIelA4RWIyY04xLTZRZm1nMW52Y0dwS1lzRFN5VC02?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-21T04:13:00+00:00"
+    },
     {
       "title": "【09:37 即時新聞】恩德(1528)攻上漲停，買盤聚焦營收連三月雙增",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZENYenIzOXJIYlM5TDdHSHVoMXJ0M2YwemloVHczRjZ1MllkREZyNkxwQW1MdnlkQ29Ya2JlZ2FZLUV6NTAtSGtwTUIyQjZDOXRPelU3YlhsQ2tncUNoblZQRVFlY2RSNWtyZm8tZEtrQ2I2a2xnY1Rqazg5cjU0dS0yeE1ubDJtTHZBQWV3?oc=5",
@@ -54,28 +66,16 @@
       "published_at": "2026-09-15T07:17:35+00:00"
     },
     {
-      "title": "《台北股市》盤中焦點股：友威科、天鉞電、華經、恩德、超豐、合晶",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdkFiZVlaY2VDbWtWMENETjluYkpaaUZfNkhxYi0xVUZMM21feUhkR055Wm56Q3JINVhPSEhlbGtYUUtjVGpiMWFGa01pM0NRbHRORVRjSEVJSkhRUGFYMmZLZnJEM0cta2kyLXlXTVFYY0JnSmhHME5KZ0lNNmJjRFpjNUtsZFV4?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-15T02:06:00+00:00"
-    },
-    {
       "title": "【09:21 即時新聞】恩德(1528)盤中走強，法人與主力同步關注",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOEFqeEVjc0hRelBfdEtrclRHZjBSZkNXdTJzNzJ3aFN6eG10cEhZWXhuTXRCRmdsNDVwbjBxbUhjVExoSW5GSkhVUEFEME9ka1hzcEhGa2JtVzU5akk0V09zZUJFUWhNSnZsM3FHa1pqWlRVS0VhZ0tHeWNldmx5UHVaNE12enhBYmVPdUtR?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-15T01:22:06+00:00"
     },
     {
-      "title": "1528 恩德 - 今天瘋了嗎！瘋鹿概念股- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xQ3dZRXN1SDlFeXhCQkRFN3ZyNmd3SzRNdFBRSmFnanZjT25SYnp0Y0RpRFBZUWhBSjhiX0dZNnNCaUM5Wmx6eV9sNVdHbk5XWDBJVk9qb28?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-14T06:29:24+00:00"
-    },
-    {
       "title": "【09:27 即時新聞】恩德(1528)股價上漲近8%，AI伺服器視覺檢測＋月營收連三月雙增支撐多頭結構",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBMR2NjSjVTNUFSMVhxOGlPYkx2TVgzT0p0aEkyV1MtX2J1aTJsVkhaalB6WWVnRk1qMXZWMlNVaWllRTVSWGJjYU5KajVYSW5WZkhlUVU1V00?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-14T01:28:02+00:00"
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeGxwZ2xGaFF5YnVTdWd3TjVoUGdabFNDZElqYzNYMlNoRDlZQ2xrVWxGNlhlNXQwUUFvZkt6cmRybV8wVVRqY3Y4RDJnMEI1cVVET1ZMdE1hOXFBRlJGTWxTUFdzWklmRGdPaEZDbnRoMEJITWU1M3JhVU52Y1dDS19uZnZ0bEdTQnB0NnVR?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-14T07:00:00+00:00"
     }
   ]
 }

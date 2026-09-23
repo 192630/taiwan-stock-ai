@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-22T12:34:43.619681+08:00",
+  "updated_at": "2026-09-23T13:34:05.571642+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1432",
   "name": "大魯閣",
-  "count": 4,
+  "count": 5,
   "news": [
     {
       "title": "大魯閣 本公司為子公司-株式會社TAROKO背書保證公告",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvbnVKZ01EWFlkYW12cUx2OEZRaHhUdXRYRE5XVnJUbDBhc2I4dlZjRGN6NGxwcE85dUhXSUw3cHh5U0dSVVEzU0FaR3JoT3dOX1lsdG5zWUY?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-17T06:28:39+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】大魯閣(1432) 八月營收創近8個月以來新高，月增17.19％",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5uRHVmVExyQWR2d1FucWVCcVFuQk9CMDdPZ1JENFdXN0FtdXVQOEtPTUdOWWZFTnRHOGFfbGpVVEF4MzBqZnZrUGFMXzNfSGI3SlpNclkzS01HNkc1NnZlSmR6RUVPazg?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
       "title": "大魯閣美國推運動酒吧新店型、日本首店9月底開出",

@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-22T13:33:46.255307+08:00",
+  "updated_at": "2026-09-23T13:34:30.644438+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1533",
   "name": "車王電",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【2026/08月營收公告】車王電(1533) 八月營收4.6億元，表現亮眼、呈現雙成長，創近3個月以來新高，年增20.06%",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNN3dJQ2Zva2xLSlNqVktVajBxczByeDhqVk00S3JsUkd1QVJSZy1LQkkxZC1yTzZ4MTQtZ1ZNX3ZERlNPZE1lS0ExTTB3Mmt2TExMc051c0lIVnFLS25fbDV1Q1FyXzBVS1A2cEVMLU5oNVg5Qi10YTFzMWUtSGpReXZtSzBna0JncGc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    }
+  ]
 }

@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-22T12:34:40.835318+08:00",
+  "updated_at": "2026-09-23T13:34:03.148325+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1414",
   "name": "東和",
-  "count": 4,
+  "count": 5,
   "news": [
+    {
+      "title": "東和鋼鐵越南廠獲利改善，全年有望轉盈",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOaTBwZ29LWE9NYmZKS0pUZU9MbTR2N0ZoUUZlWGRDOUZLbWE4TXo1OGhFZk15NFEzZHc3YTBRbnVGZXVGN1pyS1VuTHQ1TDJFOG9yTDRuTFdobWxjbFpKNHRoblY3OG1iblB5LThrOGxfVkZkUmJLT282eExEdjFIalFkQjUyMzY0X0NKSThfZ3o0SkFuSTY4bk9BajZIYnB2ODk4N2dlemRFbllPLTZaaVNqQVhQWHRHc2I4aWRSX1BxdjRRSjkxWFdTMEFWWl9BQzFSTmdhUzBZLUpGV0RfNFdEWGJXRUpBRThzNEE2M0FsNVg1M1dZdXFpQ21BNU9pcE95Y0Y3TGhuQ2I3MnVONnVvRXFGUXN4bk5fTGg3R2xEN0Jua2RLUQ?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-23T03:44:16+00:00"
+    },
     {
       "title": "東和鋼鐵重返美國市場，添成長動能 | MoneyDJ理財網",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ERmhpb1I0UEhxcEV0TlcyQVpaUW1XUlZBdTlMYTl2MERxWWZxVlpUR0lEVnNKRXFLTktJaVhKS19Nc1FwRmh4ZEpsUGhCTnRwOE5IWTN3?oc=5",
-      "source": "today.line.me",
+      "source": "LINE TODAY",
       "published_at": "2026-09-18T21:44:31+00:00"
     },
     {

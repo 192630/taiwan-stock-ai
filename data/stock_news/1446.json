@@ -1,8 +1,27 @@
 {
-  "updated_at": "2026-09-22T12:34:49.361786+08:00",
+  "updated_at": "2026-09-23T13:34:10.786014+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1446",
   "name": "宏和",
-  "count": 0,
-  "news": []
+  "count": 3,
+  "news": [
+    {
+      "title": "台股48K風大！瑤池金母換股了 00981A砍這檔1446張、5檔反手加碼",
+      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQSXhmUmFlelROS2ZqSmJILVR0MlNRMnp5eWM2MVZQeTV1NmRBdjBpSWthWmgycUU2NDdlcXhwMDVJZGxTbzZJZzdtanlDTmlkRXRjY0dpRzM1RXFqRTg2a3RQRnlBTEwwdWZnT0xBaHdwZDc1TTlzWUFXNGhOczR2akI4Tm5rYndXckY3NE1INlM3ZWtwSXZEOXByZWtIV2ZXN1hHY3NJNEZNT1BiaWVacHlUZnB4blQzcG1sTy00TkczempDQS1ZZXczTUVOc1VDQUYxbE1KRnNqajZvcDBJLXpULVBwV0ViOVJLQmlWOTVNc2gwZjliMVcyTlRUaENjMWI2Z3J3UHJ0aWFiSXRkcmI4cHVnMUFvRVd4MVNiZmxZTUh0RUU3TGVjaGl4VlZLMTk1LU1xMGF4M05GempPSFJFSFo4VHRPWHBIU2d1a25IX2hfeVV5MlhYNDBBaHRpYXc?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-23T04:48:16+00:00"
+    },
+    {
+      "title": "00981A大換血！4.1億狂掃臻鼎831張 「這封測廠」反遭暴砍1446張、貿聯賣掉7.6億",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5CSVpORnd2Rk9UUmpETTluN3czSW80SVVyOEZZNTlyc25nZUpfVTJDRXdyU0kyX0szUnVTMFNkTDlxbHYzYW4xcHBVcw?oc=5",
+      "source": "FTNN 新聞",
+      "published_at": "2026-09-23T03:10:00+00:00"
+    },
+    {
+      "title": "1圖看》台股48K風大！瑤池金母換股了 臻鼎、台燿、金像電、國巨、貿聯、欣銓...00981A調倉這9檔：1封測廠暴砍1446張",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CYkw0ZEJ5U09hWHBGdGJickozQW5JSnJvTnBMQnB1aUlLdTdfa19HSUxYelJlUXZrN0tqN0J2Y0NEZ3NEYTR0RUgyMFp0OWxWMTlsN09sRDFnVk11UHJVNHozNTBETC00N1E?oc=5",
+      "source": "旺得富理財網",
+      "published_at": "2026-09-23T00:17:12+00:00"
+    }
+  ]
 }

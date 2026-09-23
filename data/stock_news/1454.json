@@ -1,21 +1,15 @@
 {
-  "updated_at": "2026-09-22T12:34:52.192013+08:00",
+  "updated_at": "2026-09-23T13:34:13.184517+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1454",
   "name": "台富",
-  "count": 2,
+  "count": 1,
   "news": [
     {
       "title": "台富下半年審慎保守，訂單估與上半年相近",
       "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQdmt4WUtmQnlQWHZmNTJNNFZhNWRsWExDM0pUd1NtRkFDcndmRlQxN1lPclI2Nzd3b016LWJNX1RfcUdCS0FNM0JxVmpaMmZuazAzWG1jaHhjRzRSVWlBOEdaWWs1VzJfSzFXRHVfWFQ3aGs5U1ljby1jaWROWGNseG4xSERvZGtiSTBnMU5zOGhYUkcxOXNoTnp6YW9LMVR4MEZOeS1ISTRzenc4SW5ZMHZXUE54aEFEdUhyZWpFOXpJOUZaQ3FFWl9DcUNMYWxaYjhILXJSTHdnckV2NWxsOEZDNDBaYzloaFZDcm8tb25tU1ZCdFp5WmtBRmNmeG5TX2VqZFJMNUREU2p2Z3lndUpTZmhWUUpjeS1LT3U3eFJLU2FKZjB5XzZiLVJoWXBOb1dqUw?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-06T07:00:00+00:00"
-    },
-    {
-      "title": "【2026/08月營收公告】台富(1454) 八月營收營收雙減，年減40.51%-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVXpSTjloaFpTSEt2V3p3YnBJd1M1cDJ3SjFNR2NlRTBhVG9oczFPVXRRVWtkMzZZQXJQZ0E1V2JCaVJTZ2hXZWN0MzFmZ1hzVUtDell2REdnQ1dWS2ZXeDM0ZWQ5RUx1NlB4U2RRUUllNHl4aWNBc3FfYWdWU2toTS1ENHlCa1Y5T3c?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-02T07:00:00+00:00"
     }
   ]
 }

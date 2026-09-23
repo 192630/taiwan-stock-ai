@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-22T13:33:49.712115+08:00",
+  "updated_at": "2026-09-23T13:34:33.535150+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1541",
   "name": "錩泰",
-  "count": 1,
+  "count": 2,
   "news": [
     {
       "title": "1541 錩泰- 【09/14 產業即時新聞】Home Depot 族群漲跌互見，窗簾大廠億豐強彈領軍、修繕需求回溫點火- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrVjQ1LXFMbEpYaEpLUTloeGswWWIycGhsRW5YZzZDR1lXYklqS3BRZkxwX3lrT0FZaEg3VkJ6VEpJU2l3SFRsdjVSM3VDakNNYW1NNmV3c3I?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-14T01:40:53+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】錩泰(1541) 八月營收1.85億元，營收雙減，年減45.25%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbWtqMG8tQjZXczdqRFUyS04tVEI4ZVB6Um9XejhyYVZuWUVCMFByeTlEUDZMRlF0a0ZJTW5Eb0hScVJOMkZsNzE0bF9wcmlOTFY1dDl4TWxEZUNPV2d1eTRwRkhCb2dlUDJFaU1Bb1phZURWRWt1VzExWkM3WndYRTlzRG9hbFM1VFE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
     }
   ]
 }
