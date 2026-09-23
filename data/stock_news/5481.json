@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-23T02:36:57.606213+08:00",
+  "updated_at": "2026-09-24T02:37:14.598560+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5481",
   "name": "新華",
   "count": 12,
   "news": [
+    {
+      "title": "新華保險(01336.HK)獲摩根大通增持152.72萬股",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyUmVRTU9qeDJUMnplUVIwdk9PVlQzRm9xT2pWNjVQS2pPeTVKQ3lVY0lUM1R1V0JBYnh1cnItbTgzQmVRQTh2dEZRUTktcVRJNDl3cVc5V1NJcS03MDluYl9Wd0tnMFVabVE?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-23T13:37:56+00:00"
+    },
     {
       "title": "新華文軒(00811)連續三個交易日收盤價漲幅偏離值累計超過20% 不存在應披露而未披露的重大信息作者智通財經",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sanN3QzlTdkFzS2RwU0REWXpKTVFvTmNZRWczd2U2Vl9KN1lDcjR3TmJVOUtRbVpEWDdCX1AyTjR1Y09EV0pPM1lQaXBMQlh5UGx0S0cxZVpmZmZLNjhIZVRMSFFyMVRUcmg2emROWGo?oc=5",
@@ -12,10 +18,10 @@
       "published_at": "2026-09-22T12:32:42+00:00"
     },
     {
-      "title": "上交所發佈關於內蒙古新華發行集團股份有限公司有關股價波動事項的監管工作函。",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWnZrREpTUmR2M1hJY0FScTd6b3FNdm45dTNqV2pQLUlhc3ZIRUcwS1ZXLVdkdE1sdURMc0F4emtQYThQVEhQTEVnZHdGN0xpazVuUERVYnY1SG5jOGlwakNIblhSMm0xZDFXTF9nTWdHWkZGR2FERzUwZWZqVDNRSGFBeUJmTzFQRC1rSWFtN09hNFRLZmE0WlZnTzVETmlFZjdtRThuV3dUdExYYXFwUDBqdzdhX1U?oc=5",
-      "source": "富途牛牛",
-      "published_at": "2026-09-22T12:12:57+00:00"
+      "title": "新華文軒(601811.SH)：公司主業經營不涉及新技術、新產業、新業態、新模式",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVXVDUjNtYnBrZGlXb1BnZUpIU05XQnB1UUNIWE42NlZqOFU5WXdveXlYbkd5NUtkM3VDSmtEZ2g3UUQzVXpTNzgtM0J2ZnBXSnJmOThWeWNlVWlkbmhzZ1VYbDdPMTRrSlc1UElaazR0dGhhc0I3NWpuNUFwXzJKcF9kRWRmY3RwbzNOeWFHdXBNZThWcUozOHNnVXZxU21BaW1lczk2ZzRNM0tQV1ZMZU1rQQ?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-22T12:04:48+00:00"
     },
     {
       "title": "山東新華製藥股份(00719)：A股股票交易異常波動前期披露的信息不存在需要更正、補充之處作者智通財經",
@@ -48,10 +54,10 @@
       "published_at": "2026-09-21T13:42:08+00:00"
     },
     {
-      "title": "新華文軒(601811.SH)擬3.46億元收購四川民族出版社100%股權 作者 智通財經",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44WkE3WlFBZGFOOS1HQUIwMVZteUJfYUU0Z2cya0NMOTBmZVZxTHJIa2dUbm5GZ2U2bEZtMTI1dTVsVHV5U3BBUEdUQXF0SUFZRXRNeGJLb21EZkxMVklkOFZRTktzbGhuamVDSDRyZzY?oc=5",
+      "title": "港股異動| 山東新華製藥股份(00719)早盤漲超8% 左卡尼汀口服溶液等獲得藥品註冊證書作者智通財經",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IbHhmdjlWNVRTSHZUZ3Iyc2gzdzUwb1JGamZIa3NEX1FCaFF3YXdiZGhYSHNzanJxU2VGczNjdERKdHpqaXJUQUhmT1huNWJ1aV95clZSeTVsMjdmUzE3bWVQNlN0Vm16R05YZ1NWMUw?oc=5",
       "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "published_at": "2026-09-21T10:47:06+00:00"
+      "published_at": "2026-09-21T03:41:44+00:00"
     },
     {
       "title": "新華製藥(000756.SZ)獲得左卡尼汀口服溶液藥品註冊證書 作者 智通財經",
@@ -70,12 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FWHpINWFxSE9QdWc0UERBYmRMeW93YkJJblFzdGdUZ3N6bWIxcWNJSF9SRzRKVGs2M3R0dXk2dlBCZkNpNXhRbnV2dGdKNUpEWFNsYW1QbksyY3F0T29NWmdmX1VFX29YMUtfaFBCTzg?oc=5",
       "source": "Investing.com 香港 - 股市報價& 財經新聞",
       "published_at": "2026-09-20T09:19:26+00:00"
-    },
-    {
-      "title": "明日復牌！新華傳媒擬購買界面財聯社100%股權 標的公司2025年淨賺1億元",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE40UzA3MFdHbE5kTjdoZTlmdDVLcUVORjBhOWttWHdRbXVXUzNtZmJZYkZaTjY0TElLTnI4dk9aZjJyT19JUzlxRjBOdS1nQmpabE9rTWdLMmxpUDNoTm1fcWZiMGRlblJma2lR?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-20T03:22:00+00:00"
     }
   ]
 }

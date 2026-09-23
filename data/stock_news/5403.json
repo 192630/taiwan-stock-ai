@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T01:33:37.752089+08:00",
+  "updated_at": "2026-09-24T02:37:02.817724+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5403",
   "name": "中菲",
@@ -26,7 +26,7 @@
     {
       "title": "中菲行：半導體加持 Q3空運仍旺",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xQmd5MDd5R2lpM2FHQ0I5My1pV0h4UXIwSTFqNU1WUkVuWTJyVHZXQmNnaDExYVNJUHVKd2trMVpBc2Vyak5jX2Y1UHpPN0h4Yk5JQVgwWEk?oc=5",
-      "source": "stock.ltn.com.tw",
+      "source": "自由時報",
       "published_at": "2026-09-11T19:30:01+00:00"
     },
     {
@@ -34,6 +34,12 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ0VaLTY5anY0VWtGRmY1Sy15MnpfY0VjREllLXV5bVpzdG1Xcl8ybnJoYmNOMWVrMFRNRmpmSGRCb0hZOUhXV19icEpmLU5ldmx5SV9SVDl6YnNRZURSVmFIQWdydXhJc3JVa19aVzN5dFRfQ3ZtME1MdHJMTEl3NlZJNWhKNnNlUUE?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
+      "title": "望隼8月合併營收年增70% 中菲行增39%",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzRkFYM0JMZmdMOWxrZVJtclU0OW5VUHA3LVl4UDFRcUtwVUJ6NTB4andmbXByQURHWHVNQ2Z1QTJHRzJ2UkI1c3JvZW5JQk9tM3hJLXo5YWtiZ9IBX0FVX3lxTE1MRk94Q2FnZDBxakJ1U0FTQXJxWHk0ZU5oWU83N084cU51dlIxR190S2hKVV9vTDlfbUJxWkVLZUcyV2dGNkxJYVlCM1ZrTVNEb0FjaDFBWmxxcFljcGdn?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-07T16:40:32+00:00"
     },
     {
       "title": "中菲行8月營收創疫後4年單月次高 Q4更樂觀",
@@ -70,12 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hOEFGQWZQbGRKbWNmTmozS0JqbHdMbUtHaEpzN1JXQTNNZkVfMkt6Z1F1bUpYb0pDSko4V2pJYUFkYjl0Z2ZNMzVfcjRZdUE?oc=5",
       "source": "news.cnyes.com",
       "published_at": "2026-09-03T07:00:00+00:00"
-    },
-    {
-      "title": "鎖定同胞綁架！陸男遭中菲「跨境獵殺」 成功引渡回陸受審",
-      "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNNXZxYnBMaXFDOWhIekRzR3Z5MW9vNkVnQzBoTWJmd1NycUVqdWI5T1B1Y2pwbm9nbXo4eEdlQnk5NlJmUGF5YVM1UUxOVmJwMG9tZHAtWXFzbzJMenhLRnlBY1FMWGE5LVR1REZENC1jVHJfaEZZc3Q5Vm5wdnlmZlZuVWd5WXZualFIZFd0clpma1J0aEl5OGU1M0VobVN5ZEhxaHJZQzFvdEFaVGpxdWQ1Y2htVWF0MXVIN3FzT244eDBUT095TjBjWUVxRER0R2QtOXFiQ29tMlJ6NVVqbG9YUzUzTDVVUlh2Z1c4NkRSdkNuZ1hFdTEwZXJVSXliM1lFbWRUQWlpX3dNYV9pbWM2NWlGOVNhVzM3RXFOSkk0c2k0ak5tVGo4bjNxTTBPcW5OeXFETkdBX25xNHZ3YmpaSEhidVA4d2NQTzY4RG5yTGs0R0NOb0pwLV9LNGtvZDBlY2pBdVdVLUE?oc=5",
-      "source": "tw.news.yahoo.com",
-      "published_at": "2026-08-28T07:00:00+00:00"
     }
   ]
 }

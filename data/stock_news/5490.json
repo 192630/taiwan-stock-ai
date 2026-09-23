@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-23T02:37:00.676191+08:00",
+  "updated_at": "2026-09-24T02:37:17.734798+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5490",
   "name": "同亨",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "3491 昇達科 - 上週五外資買超371張，9月11日外資借券餘額5490小增1... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XbVY1bExUWnpIQmFKWkN1NDVWS28tNkVLakp1TGc2MGcxQzlPSzVmSlNRQk9uR2xMRG54ZmFreU9fSkF6VkF2elRtV0lWdTAzMGZ1X0FXSWg?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-13T07:00:00+00:00"
+    }
+  ]
 }

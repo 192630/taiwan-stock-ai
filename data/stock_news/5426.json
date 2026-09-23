@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-23T01:33:39.318259+08:00",
+  "updated_at": "2026-09-24T02:37:04.433415+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5426",
   "name": "振發",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【2026/08月營收公告】振發(5426) 八月營收月減年增，全年營運續看向上-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM0V0SFV0b3daRzBJV0pxaHhtVk51UDNwbTZOOVg2S1QwOExqWV9xTnVRZFF5RTlQMkpjRXR2QU9iSHNjVG5vLS02azl0cnpXOFpvNGkwRXVmY3FIVzZFZklib3JERUdWeFBybDhWZjd4N1k5UTluTXRyV3B6RHY2LU5ObEhFb29Bd0E?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    }
+  ]
 }

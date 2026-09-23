@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-23T01:33:28.830839+08:00",
+  "updated_at": "2026-09-24T02:36:53.557209+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5324",
   "name": "士開",
-  "count": 1,
+  "count": 2,
   "news": [
     {
       "title": "5324 士開- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zU3JaVWZLS1IyaFlYSlQxLTRuMUZVMlZaTlZ1bVg4U1JrSnhvWGd3azRKdTBUY0VsMjZPQ3l1aEdRU3FqZTBMS0VLT2Y0QWNrak94NHpUSk8?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-22T12:37:30+00:00"
+    },
+    {
+      "title": "新北消防義消、防災士開訓提升民力救災能量- 生活",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mWUc4NGdhUlNwd0pzRVkxYkZIZGlnU1pFLWtYSUdPblA1TUhnNnNYdFFIcTZ2VU1aOWlkb0lIYUJjYnlkVzBZRDVRNC1aOXhhenhuc1htaUFyOVpLUEh2ZUIzQVY?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-08-25T07:00:00+00:00"
     }
   ]
 }

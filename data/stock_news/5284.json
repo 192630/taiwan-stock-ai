@@ -1,20 +1,26 @@
 {
-  "updated_at": "2026-09-23T01:33:19.686476+08:00",
+  "updated_at": "2026-09-24T02:36:44.731003+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5284",
   "name": "jpp-KY",
-  "count": 4,
+  "count": 5,
   "news": [
+    {
+      "title": "jpp-KY(5284) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XUE1UOWpHSXNQTnFKNW03YnprV3hJb2E4WEIwR0ZwWXQtYy1IRnF5M3d6Zk93YnNmX0NjQUNkRm9oNlU1SV85VjlSaGtVdzhLMGg0?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T08:43:04+00:00"
+    },
     {
       "title": "營收獲利速報》jpp-KY營運3大動能 2月營收創新高",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LOC1zdjJQNF8yajFTNmFLY3pHeWtSbnF0QnhJRmVjZDNqd1JKMDdKQTR6QVpfS1J2aVBnRHR6aHdRc1l6c192NmpSa3RfdkJMY2NEZURxQjY?oc=5",
-      "source": "stock.ltn.com.tw",
+      "source": "自由時報",
       "published_at": "2026-09-19T18:08:22+00:00"
     },
     {
       "title": "討論牆 | 盤中速報 - jpp-KY(5284)股價拉至漲停，漲停價276.5元，成交332張",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GcXhLOUN0LXpQdGdQSkJJNGhMYkJhQ01waUV0cF9iRnBsa1lzbTN0QjlqaHZ6NnlDRjUzWVNmTTdia2pPSXhNNmZCYk1iVnZjbnZTNVlOX3BaVXhCRk1qUkI4ZDU?oc=5",
-      "source": "LINE TODAY",
+      "source": "today.line.me",
       "published_at": "2026-09-19T15:15:24+00:00"
     },
     {
@@ -24,10 +30,10 @@
       "published_at": "2026-09-16T01:37:41+00:00"
     },
     {
-      "title": "5284 jpp-KY - 該申購嗎？ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BWjZRMGd4aGU4dGxIU3VfMkRtYjlFR2plVWd1bHVyall4bDBDQS13WTlmazh1SEpvX0VZeHJZTjB0NDVOd2RBTnk0SXNoVTZjaTFXR0N6MHA?oc=5",
+      "title": "5284 jpp-KY - 沒抽中屁屁🫠 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16NkxtNWFFYmpRZlNVenVOMUVybzlVbk94OTZueDlTaTEtdjFhalVmcWJiSnVZUUFLOG9SdzBaanRmamFoRWVQS1p0RWx0Y2dfdDAxNGRibm0?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-07T15:04:58+00:00"
+      "published_at": "2026-09-13T07:00:00+00:00"
     }
   ]
 }

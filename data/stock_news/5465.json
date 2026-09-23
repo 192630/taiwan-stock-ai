@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-23T01:33:45.562964+08:00",
+  "updated_at": "2026-09-24T02:37:10.920488+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5465",
   "name": "富驊",
-  "count": 7,
+  "count": 8,
   "news": [
     {
       "title": "【10:41 即時新聞】富驊(5465)股價走強，盤中聚焦主力買盤延續",
@@ -36,9 +36,15 @@
       "published_at": "2026-09-18T03:00:58+00:00"
     },
     {
+      "title": "電競機殼廠也搭上AI順風車 富驊搶進資料中心 明年營收拚增5成",
+      "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNaW5ZTEUzZzFwbkszRzJjWDhJQ0ZMSUhvZFFaa2UtelUyMUdkaXd0aE4wekVYRHV5NVNlUEJXS1ZsM0lxOHEtUG5mQ3BJLVg4VDhTTDFjRWUyT0pjUTJmdlFjNFVpdWV3Z2oyc2hUTEU5NjdBRENETHoyVGVNenhXZmx1OUIycXRNb0JQTnRGVW5YUzc3VGlMRU1xUERMcFIyalUwUEliUWtUSnpHb3JKZnVBSGk5YlhpN194Qm0teTl6amloakxaYkdBOE85VnhRbzFZcDQ1Qm1Ia0VoTFE3ZmI4d0ZaUW9aUmVLTXVfa2thZmNoZWJlLWNBNnJkY2NJN0VORUwweGw0V0tWb19iOVVqNDFaY1lpU3lRNTBlUXVDcmJCM1hGMC1lTHktelo5ZlFoWmZEa3NvZDRtTEo3VjZaMHdIRHRPVXFZUFZwbVNRb2RFb2l3dUFlLURLdmc2ZEhtcW5lOEoyTUhZN0tjblFXRDdwdDJ4ZFJZQm5tSDlWdENIaWZPbk8tc21Cb1FHQnc?oc=5",
+      "source": "tw.news.yahoo.com",
+      "published_at": "2026-09-17T12:16:00+00:00"
+    },
+    {
       "title": "富驊HPC、1.6T交換器明年量產 AI儲存訂單看到2029年",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oSFBrb0I3cmE1OVN0WkpkNGtMUEMzUlRrZ1hMdnVRaDNYMEZBc0lTazI2NjYxd0VPNXZNcTNnSDZQYVByamFnVTJvaG40dkNRaVhCSEFSWE0?oc=5",
-      "source": "stock.ltn.com.tw",
+      "source": "自由時報",
       "published_at": "2026-09-17T09:23:39+00:00"
     },
     {

@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-23T02:37:01.640198+08:00",
+  "updated_at": "2026-09-24T02:37:18.670308+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5498",
   "name": "凱崴",
-  "count": 5,
+  "count": 6,
   "news": [
+    {
+      "title": "Key Ware Electronics Co., Ltd.的Price to sales forward – TPEX:5498",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOT1NCaUxpcHRYM24yUEtIZHlGZ2E5QnFoR192VHBkdkx1ZDBSTlBnYVlBWno1Vy14cG80X3d5SWh6TXI4eGFkRUVxZGVyc08zdE5YSjdVWUhIMlVPcURiak9jT1ZKSGhXV1R4WU5FX2g5cHpURldSMlBYcHdEc2N2T29XejVYcDhHX3NPMFFLSWVUN184WnZIY2RB?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-22T05:47:10+00:00"
+    },
     {
       "title": "討論牆 | 盤中速報 - 凱崴(5498)股價殺至跌停，跌停價52.3元，成交2,311張",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZVnBNcENlRE9QeXhBd2RXUGFJZXdab1JzcUVaaktidjVLek9WeUZqRXUxQWx0WkgzLS1UbmtHSEdYVjhfUGpIeEFwMVdLTXV0Skd0MVRqT1pFd0tJWEF2VmpuNlM?oc=5",
-      "source": "LINE TODAY",
+      "source": "today.line.me",
       "published_at": "2026-09-19T22:17:37+00:00"
     },
     {
