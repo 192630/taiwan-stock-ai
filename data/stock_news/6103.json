@@ -1,20 +1,38 @@
 {
-  "updated_at": "2026-09-23T02:37:31.319109+08:00",
+  "updated_at": "2026-09-24T03:34:02.652474+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6103",
   "name": "合邦",
-  "count": 4,
+  "count": 7,
   "news": [
+    {
+      "title": "矽晶圓漲跌互見！「這2檔」雙題材發威齊亮紅燈、合邦跟上飆漲停環球晶、合晶均收黑、中美晶挫半根",
+      "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxOeTAxSmtiNTd6VnJCNE50Zm1qeV8zekJlOWlZQmdhaFNGcmN3c3NzRXhxdDZrMWkxTm1DbW96Y0JuTHE5Y0x3aFBRSGJ5bnAwNW01blNBcVQxTjczQ1JLaGpNMUUxRTRKZWxJM3A5QUxWMWliVk9meWVPYjVfNjNpNFJXOFFoVHhmRUVUcUhtRU1FekwweEdZWTRYTHR1aEZVWERKQjYyX0NPREVUZnhyQ3pKdEE2ZlZlNDFwOEItSG5wbmcyTlN5cFl4V0hheUJXYXVhRXZLeW1fUi1vZlZmbnNnWjV4TWlVRGlkYXBwS0J4SUFRc2U4VVZka3Jodzl6NF9oSjBJRXRKWDVkOEl6UExqYndXTG43RDVFbnEyZ05xa3VzckIyaVdZSkNJU2tPRVFna3BITEhpWkY0TUQzQzFveGkySTc3alhrQlBHWjZUOTFYdHk4RzJzTEhaUkRFbkZEUWRURzlZb3ViV2EtNHNvTkhwdjdoVFlmWi1NV09Ka29Qc2NZWUtoVWtraF81SWJuU0NRVWx3aER2ZlpnOUtpbEtUYmI1TElKeW1nMVVCUQ?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-23T08:30:00+00:00"
+    },
+    {
+      "title": "矽晶圓漲跌各半！「這檔」法說報喜直奔漲停、合邦、嘉晶齊亮燈 昇陽半導體、中美晶仍挫逾3%",
+      "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxQMDBIcEx4QjhhWkR6b0NzR1NLc0VUTXJLN0pPRjl2emJYaTVxa1hCNTlobV9GdUNHckMyVXF3Z2lpRVllV1hOZzlJbGdkbjVEZ0lCUjZNNjZrR2JPTTBJUm1PRlh1Y1Y5MnJmVVpLeGYzc0k4TmNMSUZVRzZ3SkNoVUJEYXBGdkpaV0lFc0NhTlBIaG0xT0lhQUI5ZWlOS0c1d2dIamNxRldNZWlJNkJkNEFLMVNtV2hPYlhEdjVZUlRtUmhPT2x6VF84c2Q0ZWtfdGpIeHZyejB3ekFfU0VVMHdtSy1ZY1NXTHB3WXg1WnRNN09MOFZoN2hiMFZWaWJ1OXVGMHBGOWhTWUQ2NlZsTzAxb1pkSXZzVDRPM1VDMTJYX3Q3V0MwN0ctWUlGbEJYdUpDb3Y5bjAzbThKdmhpYXJ6WlUyYWZ3QmE2QUFZUnUtZGJMdHZ2QVROaGVUSHllUXZZVUpNZDRRR1pFVEFoa3pOekdKN2VfQWc0NjN1V0U?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-23T03:45:22+00:00"
+    },
     {
       "title": "【2026/08月營收公告】合邦(6103) 八月營收營收雙減，年減52.22%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTTFvdFNEMDVRQmhHaGRta1VXT2U5VDZfaV9tR2x1RlhDdGEyd2FqNmRlNUw1bzVhWHE4VW9pZE5JNWpRY2NzdW52VEcwMGFkN190R1JMV01RMkZCa1I2TzUyNHh0Y19nMmFycjFKc0g5SUlxampuZUhuOXppMWFCR0ViV081RFNWOWc?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
+      "title": "矽晶圓綠光熠熠！「這檔」8月營收轉強再搭漲價紅利勁揚4.27% 合邦連飆6日後重摔、遭列注意股盤中跌1.55%",
+      "url": "https://news.google.com/rss/articles/CBMizwNBVV95cUxNNElRdXdQVGJ4cVlmUHpWbFBHUlZFZjJCdGMwTDdrVHZGNy1zTFFSUVAzV1d0VldGMWl0R2lnbTZyT3RzNk1sQlV6SXU0U0NpQ3RZYlU0cV9BR1JMSjZCMWJPcFhBZ2g0MG43ZTM3ZTZSd2JCQW11cl9Rak9TLVl3NE02R05BZFJ0aVBpNXNRbXNESUpJSDlaMFY2cUwyZzRQS08tb3cybDlZQUZqWWs5RGIwMUVBNzVnQWNlLU9fYjRWb3VaODI0X3I1RFRlVjNDTldrQ1VvUTlmYkJ4X3YzN3FmalE2UE5aS3BJS1dUeUptXzUzQkVjMU0yT0JJQ3EwR1UwUzdGV0Ztc195RkdoaVhuWndaY0lMRThXTnZUQXIwemJJTWFHZWFlNjV4Z0oyd2ZVQlE3bXljTG1xX2EzajhENEhKR24tZkM5R1RvT2JYM0RpcUpZTEtQWlpyLVItV1hGOHJ5ZFFOYkVneXJuelI1UFowczVuRDMzVW85cUx6d0dhdjg2dDBYcTJEakVrS0dEc2k1eV9EeXJoLWlqemU3WThRazM1TnB1bERLdDRmRTVkLUxhNU01MTBhQS1ZNUl2N1JFWE55bnlFa0Zr?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
       "title": "【08/31處置股公告】合邦(6103) 08/31到09/04列入處置股，採2分盤交易-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOa2RUTE5ETmVaR0phLXlqQkFQazA4WkcwOXUxcTUzbnhQbDFZd095WkltdFlUWDBoTWhrYTByckExcTZ6bXNSY3phRzlGQkVieElvcFJONWEzMjRtMDRYLVJRSW9QcnB3Rno4OS14TmlnRHFmci1ISzNlOVFoWFU1aEhROHB2Qi1Nd3c?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-08-31T07:00:00+00:00"
     },
     {

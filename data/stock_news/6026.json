@@ -1,20 +1,14 @@
 {
-  "updated_at": "2026-09-23T02:37:28.837720+08:00",
+  "updated_at": "2026-09-24T03:34:01.235914+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6026",
   "name": "福邦證",
-  "count": 2,
+  "count": 1,
   "news": [
-    {
-      "title": "山富9/30參加福邦證舉辦之法說會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB6Q2dSMFNkQW1mdlhzcjZQb1hvaTRTWUhXM2x0QnhDS0NCdnFtQmgyTFNUcW5rdlN4YWhXMWs2ODM2V3BRYm4wNXJFTjlFUkhiVDFOODFaMU4?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-22T11:12:30+00:00"
-    },
     {
       "title": "【09/11 申報轉讓】福邦證(6026)董事黃顯華於11日申報轉讓福邦證股票5,000張-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTFlFRWEya0NHaVZtWVFodUdzVExEUklaaW4yTjBzLXM5bXdHU3lCeXJVM01UOEJYZlF1VklQQTZFdmo0eGEwYVU5Tlk0Y3ZOTk52aHFGRGNnVHJTMnU4UC1PTXBsdHppeWxRTnVVa0xkbWZxT00wdDNicmljbmw0dm9zMXR3YU9ycGc?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-11T07:00:00+00:00"
     }
   ]

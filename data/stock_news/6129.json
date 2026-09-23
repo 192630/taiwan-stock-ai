@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-23T03:31:49.140833+08:00",
+  "updated_at": "2026-09-24T03:34:12.802712+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6129",
   "name": "普誠",
-  "count": 6,
+  "count": 7,
   "news": [
+    {
+      "title": "《上櫃公司現金增資一覽表》普誠",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUnJsYVdYdGx3R2R4OWp1aDZ6WVdWZTJKSGdEb3MzaUozc0M4OTZtaDJIWklxTmZtRTAxS05zRFI0QUZjem5Yb0EyTGFadXdFeXJTeFRRX1lablh0dVp1aHhldzgyNWhuRTR5M25PTmVnZWFMRkxfV2RreGdVOWxScWRNQ01lZloz?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-23T01:13:00+00:00"
+    },
     {
       "title": "《上櫃公司現金增資一覽表》金山電、普誠",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVWx6WkZCcHc4bEROMTQ1RF9IeU4wN2gtWWdOX1VnMHJHY1lxczFPSWNIbkt6LWRGY2gycWhmalFXS0FVTkJaaVRUQ3U5ZnNPVktUeE5DTkxLbG9GXy1vUE80dXZCMmM0eDJHNmhDaF9mZWZoaWlUWHo0Y24wUGxzV2l4aUZ0bTVr?oc=5",
@@ -20,14 +26,14 @@
     {
       "title": "盤中速報 - 普誠(6129)股價拉至漲停，漲停價14.9元，成交521張",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QbGxvZ0p0S0lfY2VuR1l1b0d2aTdSY2JUQTN5QkNZLWwyUFkydG1aNmZQTGNWck9zc05zNS00MEVlRkRzNDdOYWxqWFJVZkxpNTh5d0ZjQ3hqcGM4aXMyQnotVmhadw?oc=5",
-      "source": "tradingview.com",
+      "source": "TradingView",
       "published_at": "2026-09-16T04:16:00+00:00"
     },
     {
       "title": "【2026/08月營收公告】普誠(6129) 八月營收1.29億元，表現亮眼、呈現雙成長，創近2個月以來新高，年增43.6%",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONUlrendZMUlUN09ybjYwc1BselBXWFRzSGdWZ2h6cDItZkRtTzhLT1NpYU9MWG5IYm1uLWpMVU5wQThxNEc1NV9Ib0VDYnpLM3d3SzlRNVhCV2tpZkJsYmtpZjhhM0VSX0dGd2NEZ25Vd1hlb3lLU0xjdjFkTEFMOU0zbEVKMlhHTUE?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-14T08:10:14+00:00"
+      "source": "cmnews.com.tw",
+      "published_at": "2026-09-14T07:00:00+00:00"
     },
     {
       "title": "6129 普誠- 普誠115年8月營收1.29億、年增43.60% - 股市爆料同學會",

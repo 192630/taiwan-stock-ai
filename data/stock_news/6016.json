@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-23T02:37:26.325130+08:00",
+  "updated_at": "2026-09-24T03:33:58.917547+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6016",
   "name": "康和證",
   "count": 6,
   "news": [
-    {
-      "title": "差點遭插旗！康和證爆經營權內鬨 大慶證老闆暗吃2成股權",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBZdG9uOU1oVmhBbU1iWkhFYU5JZXdhdlBfWVRmYmF2MkhTaHd2Y25UZG1aWmdacEpMZlpwR205Vnc5ZWM4NVJr0gFLQVVfeXFMTl9HUkhnWnhucFVRYi1SeTA3UmhhRV9Yc050ZlRORlUzMGdIYWxUXzE1T3V0MUtfc29RMndXU2NNRWtXMmNDWlBDR1ZZ?oc=5",
-      "source": "三立新聞",
-      "published_at": "2026-09-21T05:34:17+00:00"
-    },
     {
       "title": "股票特例報告＜6016＞日本引擎公司（持股比例由8.00%增至8.78%），J.P.摩根資產管理等",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOHBtV1FDaHJwNHNDbUstTEtkYlJTRWJhbzFGU2x1NDJoZUd4THhkaDFXeUJld3NOMXZ3ek9OR18yQ3lOd0tVQUZ4VU1qd1R1UjVSYVZlOW53WUl0cUtNeXVZRmUwbTVuSjRZYWQ1MlBOSWlGUUJoNHNwWDQxdHBBYmhWT2ZDdzAxMlNrY011WTc1NEFuZl9QVG1fbGc1U1pGV0Vj?oc=5",
@@ -20,8 +14,14 @@
     {
       "title": "【13:04 即時新聞】康和證(6016)股價走強，市場聚焦券商量能與殖利率",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU0dVOXpSaWFYdDNXSmw3aDcwNWprNi04Z2FDWEFqMHdFUy1ENjU3c0gzN3RRWjl6NFZybHozU1EtMUV6ejVqTjYyUDJwWERMaDlOc2lxZl9kTFNxYVg4bXhRUnZEakQ2ZTVNOEhCRzBENVJzVXZUMWZMLUNoMDRaX2tKUklHR2pVdC1BMXF3?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-17T05:04:15+00:00"
+    },
+    {
+      "title": "續抱台達電、廣積、康和證 加碼長興 新倉新代",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVkxwYlFSSlR4Q0RiSnhCa0k3OUkwR2g5b3gycHNuZjZ5R2FyM2lrRXFmNUtSdzRLaXJYVXZtdkVFX3BJeHliVEdUWU01SXhWLWY0ZkZiQjMzVGJfUThZZGZYdkxlM1NVMjEyTEFZdXNRMXhJNkM5WDhOM2lHTkhaMmpRcktFMUpxMXB1dGIzVVpRcXRXNkE?oc=5",
+      "source": "理財周刊",
+      "published_at": "2026-09-16T07:36:26+00:00"
     },
     {
       "title": "【11:27 即時新聞】康和證(6016)股價上漲3.62%、報價22.9，8月營收與獲利爆發帶動買盤偏多＋短中期均線結構偏多、官股持股穩定支撐",
@@ -32,13 +32,13 @@
     {
       "title": "【12:03 即時新聞】康和證(6016)股價上攻逾3%至21.75元，低本益比高殖利率吸引買盤＋前波主力賣壓鈍化後技術面嘗試止穩",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd3BYYWJNblU1SDlxVS1NTTd3b0xRZGV6U0dHWTZxS1FKMXNWWEpfcXhId2RNY21OYldjTlhKQ0xhSGp3eXQ2UDVnZjFiWGNGdms4eW82Sl9hQ0tDbGQycGdOdEROVlFvUVR6QndqUHhjYmpaQkJxVDdaWmtPTy00b1RLNU1BYnVqSTVrRG93?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
       "title": "【11:41 即時新聞】康和證(6016)股價勁揚至21.65元，上漲6.39%，券商族群資金迴流＋短中期技術面轉強與法人買盤同步推升",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTV9OaXg3Z1NlQ1hTQ2Q2M0Fabm9JS3ZncW1BbGFUQ3NHbm9KZl9pNnl2Tnp0TjJtWTVNdk1aTWlPUG5fZkl5eUhQT0tsUF9qb3ctVW9JaXVrSzh3ZW1XbVVGeFEwY1lPM3NDSVQ0ZnNBTlowRmhPSGVkbktxMnc4OXhNRXZQQjRsX3FVMmF3?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-08-28T07:00:00+00:00"
     }
   ]

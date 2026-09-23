@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-23T02:37:28.367044+08:00",
+  "updated_at": "2026-09-24T03:34:00.742950+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6024",
   "name": "群益期",
-  "count": 3,
+  "count": 4,
   "news": [
+    {
+      "title": "6024 群益期- 台指期短線蓄勢向上- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HaTNnNnhvMVF2ZlBJeDRRbnhDdFFmdjJpaXM4Wll0Si1zNkZaenVDb1FzcEN0UEQ0T3oxUG9nRmV3WE12SG1kcG5zZnl2UUNpZDE0dXp4eWU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-20T16:46:37+00:00"
+    },
     {
       "title": "6024 群益期- 存股簡易估值-期貨業- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rbkJLUTR1cE0yUF9rY2poUHVEeTNqYjRDLVlDVU9rVlpKcm4yMHloMXJEWjBNLVVLWlczMFptQmc1WHkxcmZzWHFNcVp1SFpPWFV3UG1ueDQ?oc=5",
@@ -20,7 +26,7 @@
     {
       "title": "群益期「2026人機交易對決」9月1日開戰！獎金衝上近200萬元史上新高",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5xejdQQi1Pa3BqNE85Z1NVWkVBcDJBUVFzdUlUSkotOU1nMUhMRVRZelc5VEpxRUdUODRYMDl5VVRPMThWei1EdzdlcDhBRVFn0gFWQVVfeXFMTVRfZTZqX2Z6RUxXQ0FqeDQ3bk10QlhMS25sQ3FBdkM0Vk1ubFFOS0MxVnlIVmpYajNlR1FEQ19QUndiOEp2VmRycmNCM09hUjNXRDN5QkE?oc=5",
-      "source": "udn",
+      "source": "UDN",
       "published_at": "2026-09-04T07:00:00+00:00"
     }
   ]

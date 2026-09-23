@@ -1,26 +1,38 @@
 {
-  "updated_at": "2026-09-23T02:37:25.370910+08:00",
+  "updated_at": "2026-09-24T03:33:57.956451+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6005",
   "name": "群益證",
   "count": 12,
   "news": [
     {
+      "title": "《金融股》群益證打造信任金融友善服務、普惠金融雙軸升級- 證券",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tZlNEaWNDdWtETUUzekRpcm9aRU1zc1hLUHZZOWJjbjZjano3OWFudElFUTc3QXRydFZ6OUlNUnFOc215R3F4Nk5zQWJaWkNXTVJhbEhqTnRsQnV1a1dn?oc=5",
+      "source": "工商時報",
+      "published_at": "2026-09-23T05:05:00+00:00"
+    },
+    {
+      "title": "台股「不敢賣」時代，追友達、群創不如看證券股？統一證、群益證獲利爆衝",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wb2ROX3hOYTZWTVBTTjJPb1R2eTIxaHFvc3ZzRWFvU2Mxc0wzR0RsMTdqQ1VLYmNWZjMxWTZJdWs5N19nZGVTdmlIMUhZT0d6eXZycHB3QQ?oc=5",
+      "source": "玩股網",
+      "published_at": "2026-09-23T03:14:09+00:00"
+    },
+    {
       "title": "Fed升息把美債送上5%！群益證Q4策略曝光 先收息、股票等「特價」再出手",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JWTc3eUpkZ1dSRFJWRERuSXloRXpNajFaTjh1cVNWSml4ajMzUTdJanJtTUJQSy1XRDBWRnExTjgxcENnZDlyVW9vbG1Hb2pfNmc?oc=5",
-      "source": "鏡報",
+      "source": "mirrordaily.news",
       "published_at": "2026-09-21T08:36:00+00:00"
     },
     {
       "title": "第4季行情「等好球、鎖高息」 群益證：高利率下收益機會浮現",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JSC1QMzk3aHZybmRxTVZvc0taREJIOGJTZTRuS3Rja0ktNzJGakpseFJHcG80YzN0ZV9TeUs1aERQemhGeFN6aUdmSk9yVU5sZDF1SG81RUVSUdIBX0FVX3lxTE1zVTVpLVJHRWZwTUVxbHM2WVBOUWZpaGp5aEpVckVFM3VUWGJ2NFlCUHE2TjFGaVhGRWsya0hGT3hSRnhrT3EyeXc0V1l3WExuVnNINEZwWjNxSm81Rm9n?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-09-21T05:35:28+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1VOGRrMldKNzZrTFN4eUlpbF9xUkZERVhrMF9UUlZhckVyS0ZVa29kb0NCWXNLdDZuVWpFQzdyakFqRGpITTdHOFJzRlA5YkVD0gFWQVVfeXFMTUk0aFR0dVFFOTlqam80T0NHMm4wTEhoTFh4MjAtR2NnT0RUNlRvTVpsSFRpaDJtekhsdS1Cb19ONjZOaGpPckw5QmhIaWV5SzJjUDZEbEE?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-21T05:35:26+00:00"
     },
     {
       "title": "《金融股》群益證：Q4高利率震盪 資產配置雙軌並重",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdjR6d2dWMXdBaXNFa085VUZqSnlDVTJWMG5JS2ozYWk4OXh4bmprQmlZbkU5ZXR3a2xGQ0VZWHRUNzZDMk85OV94M3pmNXpxcFpDMi1sVEktSTdreXdFUjZRWDdvaXdIM2lSZUlDUlpJUFRfQkxBbV94SzBoVUZYNzhIa05xaTNU?oc=5",
-      "source": "ww2.money-link.com.tw",
+      "source": "富聯網",
       "published_at": "2026-09-21T04:44:00+00:00"
     },
     {
@@ -43,20 +55,20 @@
     },
     {
       "title": "群益證搭年輕族群理財趨勢 攜手訊連導入AI最快3分鐘完成開戶",
-      "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxQYjZuTzRnc1BKbmoyVnVZTmEzbExGdGpXM1RLWlFVdUR3c0dncml5QWdDU0VJNzlMaW5KWEc3Ty1TSGt0dFdLN1hFMHg5R0tOdFhOUllDZklrZEhaUnU4ZEJsYWxZbHJxYlEtbm5oS05CVmZWd25zN0R1MUdsbm5hT1FQeTkxX0VGZVItN3U4SnIxcWhraGhDYXFBbVVaaUZoenoteFVFRFFLdkp5OVhVYXRyNUwxVllCeWhlMU1jX0p5REJSWDZYZThIb2hrOTl0V3hnOVVuNG82aGZwTk5zQlNZbU4yUzFZeDY1NDRIVTdCWDBoY0FvTlVfUHhydXZEbDJURXhLR3hXRmpkLWpERkwxRjBNeGxXNGFxZGRaVzBQY2NJOUxFRGR4MVFFazlvRU15dG00Q0VKTXoxYkpVM2lrc1V1TGNod1FkR3dSaGNaMzRBTWFtcnVlVUwxQkpBbzRYaEliVy1sQkJxZk93bjlHU1VvazNldlpLRjZQMjgyRlRhYzF3dm9DM3NBZ2tkSXU5Mnl4R0s?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-14T07:00:00+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LNWZ4QVZvaE1xOUNTZTZfa2lKeWFjNFA2anR3Zi1xREdLNzQ5UWpXX25IOTdCdXVyRkliMi1SSllkTThCeUJhWWhGRjh5c00?oc=5",
+      "source": "news.cnyes.com",
+      "published_at": "2026-09-15T03:32:18+00:00"
     },
     {
       "title": "【群益證 FY2026 H1 法說會】EPS 3.24元創三十餘年新高 自營衍商獲利佔比躍升至42%",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoWm9kVXN6NTNCSWNXd1kzRW1icU16V3NBX3FtcTVsNlZxVXZvNXV1SFNWWURNTjNiODJ2WXVMcXVKWWlSSGwySnM0X1NGNGFfbVlUM1Vvd3lvX3dGVkNnMnZlZGJYZw?oc=5",
-      "source": "finance.biggo.com.tw",
+      "source": "BigGo 財經",
       "published_at": "2026-09-11T11:07:22+00:00"
     },
     {
       "title": "群益證 2026-09-11 法說會",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNai1QTGRYbi1UUXozZE9MSDZYV2NJa042X1ZfZjZTWlJBS0EyNkI2MF9jZG9ablhuTllKMjUtSEFFM0g1THpDUHFza0lnTDl6VXlLWDY0ODAzSnVEY19fSkdBVFhQTzdzS0kzQWt0dHlDV1pja0dPTTVGX29zMC16Q0dMd2o?oc=5",
-      "source": "finance.biggo.com.tw",
+      "source": "BigGo 財經",
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
@@ -64,18 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xbW4zYTRQSTdEWFRFYnpyclBjNFBaR3FBcUZmX3VKZlliYy02QnZISXNxc3kyYzdxN0RYU1ZUcWotVG1ELVdneDFGMnEtWDZKb1JqcnhlWWcwQ3doZUhIYjdCOEJhVmhzM2lpSUtyZlEzMXV2RGc?oc=5",
       "source": "sinotrade.com.tw",
       "published_at": "2026-09-10T07:00:00+00:00"
-    },
-    {
-      "title": "群益證八月eps0.45，統一證8月份eps0.76",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HUEhvazd3WjVtZVkteERoQ3lzdHd4MUJHWURJNnlxX194ejJGakwzbUlCbHd6cVdDT2pNWm1PcHRsZUNaMHNLaE9aNDJkZWJXZU9uc3VsQ2Q?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-07T07:00:00+00:00"
-    },
-    {
-      "title": "存股助理第844期—上修群益證2026年獲利期望值—富旭哥投資組合更新",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUHNTUmNCM3F1ZlM2LU9PRThqWXVEZ0VEWFpLdmNJTmFMTWJ0VDJmNW9DbUh2NW5RMGhoVzhnY3F3UW9zZTBIY192SGhjUXNuZU45TEFJNW9RcTFsYi1CdDBpWGxvNFdsRFBCc0ZRY1c4dmNnQUY2QWxwekMzWnA1M202clhaU1pUb2JDQTVSME5Sdw?oc=5",
-      "source": "今周刊",
-      "published_at": "2026-09-04T07:00:00+00:00"
     }
   ]
 }
