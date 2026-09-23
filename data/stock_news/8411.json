@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-22T09:34:04.140585+08:00",
+  "updated_at": "2026-09-23T10:34:28.529534+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8411",
   "name": "福貞-KY",
-  "count": 4,
+  "count": 3,
   "news": [
     {
       "title": "福貞-KY 8月營收創次高，後市動能看正向",
@@ -14,7 +14,7 @@
     {
       "title": "【2026/08月營收公告】福貞-KY(8411) 八月營收11.92億元，表現亮眼、呈現雙成長，創近7個月以來新高，年增42.41%",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVTWJUSFhwNWRFVGpIb0FiQ3RSN1BraGJBU1NlRWdmQW5IWjJjb3lucEI2MTRUN1hkdTJvVDZBYXdsa25zbllWeTA1LWZNeEJKMWZPYmFSTVZjMXVpb01OOTlsWFdMQ0E?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
@@ -22,12 +22,6 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pY09aQmhQb1p5eVhKSE9SamVjNndpaG03eUExTmZqamNoY050RnczNU9HUGIzTC1nMmNsREZZYVppMFNObjlRZmNvc0x0RGJpRWhnRWFR?oc=5",
       "source": "東森電視",
       "published_at": "2026-08-31T07:00:00+00:00"
-    },
-    {
-      "title": "福貞-KY營運穩健成長；啤酒罐化率提升添動能",
-      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQRTlEdWI3aUNIV2xsekpMXzUyMU9WUEdIYzBrdDBTLXpjMnZHTlZ0UE9vWHFqZDBaV1VEN2ltMzdyQmNGdDJ5V2UwbTVlNUxGV3hKZ3M2dm83REl6aUw2THF4QjVxMGJBNEZsQVA5emRiRVRSYmN4dXdxZktrbVk0SmNoTUhrUHJfZmxvWDBzT25KWFpfcGtLbVhXWXl3anFFR00yVHhQdngwLWtxZ0pxaThVc3hMMzUwTEF2MGFaNWtyZFB6eF80MkNta2hWZ0pPRjlPNF9idGF6YTg4bnlKT1lrcUtuRVZFMS1qUWVYeTFONGl3ZHNxWUNWb2ZqQ0xmODA0YXBJOW11VUR6dXU3VFFVRldhWGFUWGgyUV9iM0kzdkM5YUNlVUZqc2IwSDJWRkJFZkJHaGY?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-08-23T07:00:00+00:00"
     }
   ]
 }

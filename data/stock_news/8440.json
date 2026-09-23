@@ -1,21 +1,45 @@
 {
-  "updated_at": "2026-09-22T09:34:12.201363+08:00",
+  "updated_at": "2026-09-23T10:34:36.557625+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8440",
   "name": "綠電",
   "count": 12,
   "news": [
     {
+      "title": "雲豹能源綠電人人搶著要 電力需求成台股先行指標",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaNV8zdWRxRk9CNWh2cnNpS2tHZXVmM3hBQzZ4MEczZUt0WFEyM1Utd0w4OVV1QmpLWV9ZV1hRY0lUM0VEWGFpUjlJSVdVSlFWbHfSAVBBVV95cUxPVFFaRlVwaHNVUkFOenR0R1hTaTNndHU5LWxsbTlzcjdPN2xhUXJmc0d4TTRwU1hoVEJaLTJEU3lGTUNscDFfUGx6YjdGTGR4SA?oc=5",
+      "source": "ETtoday財經雲",
+      "published_at": "2026-09-22T23:56:00+00:00"
+    },
+    {
+      "title": "雲豹綠電突圍術2／雲豹多張王牌在手進軍AI 3個月就能供電大解密",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlSmhWZUU5ei12ZG9FY0NsRXQyMTVQX3ZYMktabktZYXJNUzdhcTJMb1VRcGF4SDlyYkRGUUNZbW9TVjJTQkdJZEQwZnNzaUVBaFRaNXdhTdIBXEFVX3lxTFBwS2pCSWNJeHk4UWUyUHhnU3lhdFJsV2FNYmtNXzktUkhzRW95LVVZWHdyNWltVXpNOE5GcGt2RkdOaVNTWWw5MWkwZVFSLW9HMXA4czhnVkZfWHRO?oc=5",
+      "source": "mnews.tw",
+      "published_at": "2026-09-22T23:40:00+00:00"
+    },
+    {
+      "title": "雲豹綠電突圍術／不懼產業逆風再推小金雞衝上櫃 雲豹集團打造千億綠能艦隊 | 鏡週刊",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RMVYzQnVGYkxmd1NJMFY4SEROZ1FybzduUnB6WEh1QTBIdzI3WDZXUF9IVWlyNm4tX1ItU0xvbUNURkM5TUtQNDhURC1TdnFDa0I0aGd3?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-22T23:34:11+00:00"
+    },
+    {
+      "title": "深南電A(000037.SZ)：尚未佈局算電協同、綠電直連、智能電網業務",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GWnlJQVRjMTVDRzB3Zl9zOFNFeGFuM21DUjMxTVZEbkxiMzZ5YmNLS2JxQzRCcjNIRG1pV2JZVGdOVGZMdVVYbHVzdEx5NHQtWVRUZ3ZRS2s4QQ?oc=5",
+      "source": "moomoo.com",
+      "published_at": "2026-09-22T06:38:37+00:00"
+    },
+    {
+      "title": "台積電求綠電若渴 台電RE30低碳電力最大買家",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HT0NjMzU3LTEwTXAyaTNaeDJuako1UG0xMnlPOXplQ3JOQUhtS29YdldZNUh2RHJJS3BjLXZHUmhIV21iUlBON2RxejItMGxndlh6cmhvRDQ?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-21T23:20:06+00:00"
+    },
+    {
       "title": "綠電餘電卡關減碳認列 經濟部修法解套",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PNlpEUjN0aW0tWTFPV3RjcFkzX2pRdnd0QzA1MUFlMlhvbmNmUmJLcFh5RWU5Y0haZXBYeHRaT3RhZ3RtMnBfbEtUQ0IzUmtVdlpVVkRyUmE?oc=5",
       "source": "自由時報",
       "published_at": "2026-09-21T18:35:18+00:00"
-    },
-    {
-      "title": "Google完成9.2GWh綠電轉移試點 儲能協助資料中心補足夜間缺口",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHdjFVeXR1Y1BFanBHdElzVWM1X0VkbEVSQ1dDN2dmT1g5SkktcmVYd1hxR3pNbnhtN1BkeFlmZUNpSG1uRUdDWDhMd1oyNFA5ekdYb0ln?oc=5",
-      "source": "優分析UAnalyze",
-      "published_at": "2026-09-21T10:07:36+00:00"
     },
     {
       "title": "《DJ在線》AI推升美國綠電需求 台廠卡位太陽能",
@@ -30,21 +54,21 @@
       "published_at": "2026-09-18T10:15:40+00:00"
     },
     {
-      "title": "台積電求綠電若渴 台電RE30低碳電力最大買家",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HT0NjMzU3LTEwTXAyaTNaeDJuako1UG0xMnlPOXplQ3JOQUhtS29YdldZNUh2RHJJS3BjLXZHUmhIV21iUlBON2RxejItMGxndlh6cmhvRDQ?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-17T20:01:52+00:00"
-    },
-    {
       "title": "8440 綠電- 假投資石垣島和牛與綠電真吸金6億 「安盛」2負責人聲押禁見- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uZGl4c3JJWm9rdDJnQjN1SVNuNG9za0dGWFViWWZFWWF1VVh5djEwUXJHLWZRWmZOX0lqMWZ1TmZFX2FDckFSV1N0WFNWZHRqNHd3d0ZlUUY?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-16T22:46:50+00:00"
+    },
+    {
+      "title": "假借投資石垣島和牛與綠電吸金6億 「安盛」2負責人聲押禁見",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tbDlnTXYzMHBRM0F5NWZ0bjRjNG42RWl0WVhCV1o4QV8zRGlYVkVYb25CNDU4SHhIdFBkLVE0OFQ5c1hwN3lCME85R19Eangw0gFWQVVfeXFMTTd6YXlOa0gxTU8yT2NLOGd0MWprNV95LXBJQzUzckZYdGQ1bHhyRnYzaDdCLXJHNU5QNWRSbjdSc1VqbHBDVDNlY252ZUZ2VF9KU1VrQnc?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-16T22:43:19+00:00"
     },
     {
       "title": "8440 綠電- 台水活化供水設施拚綠能，太陽光電、小水力年發電突破1 億度- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhTTJJY2p5WlBXMlRLeDFtMXMtcmxULWtfTzdkTi00ejVBV0I1dTBKN0xxS2lVVkoxQnhDbVR0UjZ3eWhNNE94Q2pIRE9tNHFRcG1LR1BBclQ?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-16T09:47:07+00:00"
     },
     {
@@ -52,30 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9UQ0tQN3RHbHZicGlPanJMZk54bEtoa1BiVHh5OHd4aTlvVmxlV0haX25rV2M1cDU2RmI5dVRqVERtQzdPS1N3V1hGTQ?oc=5",
       "source": "FTNN 新聞",
       "published_at": "2026-09-16T09:40:00+00:00"
-    },
-    {
-      "title": "8440 綠電- 建構全台環島車充電路網交通部：截至目前公共充電樁已逾1.6萬槍- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyREM0RXlBT1RYWnU3UjN2cjNYZ3AtVi1rXzVLcmwzTm9rWnEyQXY5c2ZxdklzUUkyZVFyUzR4amFxMTBabDVQb3FFMUlYanZybXZCdElzMjU?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-15T12:01:05+00:00"
-    },
-    {
-      "title": "8440 綠電- 星耀投控攜手國泰證券啟動IPO，瞄準 2028 年進入市場- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90OW80UjhCMjNwMHloYnZSNnJsN2ZEd2ZpMFJxMGJlYmFadHREcWIyTk1PYjFuU3pUYVZVWHdjTFZfOWFEQkwwSWhEeWtJcGZmdlBwMC1UNmE?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-15T09:07:58+00:00"
-    },
-    {
-      "title": "8440 綠電- 崇越科技總部獲黃金級WELL健康建築認證- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GREtXM050M1N2aDdURVBVSC14YU80V2Z6QUpjS09uQmJVZ0JXRi1jSlZqNzJoQXNMZzdoVVkwSkZCeERKdG5Vd25tOGtKY2dwTVhlb1U5OTE?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-15T07:17:10+00:00"
-    },
-    {
-      "title": "＜財經週報-AI與電力＞離岸風電解約潮蔓延 綠電上線恐延後",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wdEVPYUxEMFhUVmNCcDNBMlo3R2N5UklINTF0dXVFZzhOTm43VXhDc2pIUThrSGtSN0JoeWFjajhVb1B1VU9MdElGOEE5c1pQRW5nMjJ1RlY?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-13T00:50:28+00:00"
     }
   ]
 }

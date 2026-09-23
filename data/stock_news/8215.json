@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-22T09:33:49.842873+08:00",
+  "updated_at": "2026-09-23T10:34:13.022026+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8215",
   "name": "明基材",
   "count": 12,
   "news": [
+    {
+      "title": "【09/22券商評等報告彙整】明基材(8215) 今日僅1家券商發布績效評等報告，評價為中立，目標價為34元。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSnFncWRUUVZPX3ZNVFA2dFJCUWZHajBjSVh1Y1huM245bE1zeUk4a3Nka096N2c3X2hBck1VaFRweDhJU0NfT0NxcGd4R0VFb0JSNFZBUGlwc3RoemRxN0JtUGpUNmxwOW9uRlpmZkJNRzluMzlRRUtBVHZ1ZjR4S2ZrWW13N0VaLUE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-22T10:50:08+00:00"
+    },
     {
       "title": "【11:26 即時新聞】明基材(8215)盤中走強，偏光板與高值化材料成焦點",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTy1aMERybU5hbGhsY2NuMFJCLTBweWlBNmRnd09KRVBrbmhHZW02T2k2bkRBbjdtOFN4aWw1Wk55c0ZBbGhCVldXLXl3SnUyOEdZRUdnRndfM19NU0p0cHJDQ0d2VlFzRVlTV1VZRzhTeXNKX3NUQl9fT3ZUM183RmpoVlRqVmw3YkwtV19n?oc=5",
@@ -70,12 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14WG0wMEhhbU9DajhQOWxmOW9RWjZNb3FTbjFHTnNHWEo5TTVLMTl2V3ZxZVhRRThSUDN0Y1NMVWt6R1BuUEJuMU9lVlFiTE1kUWk4T19nVG1ZMHNFV2k0MXVZaVFLTm5hOHRn?oc=5",
       "source": "中時新聞網",
       "published_at": "2026-08-29T07:00:00+00:00"
-    },
-    {
-      "title": "【12:15 即時新聞】明基材(8215)股價上漲逾6%，車用顯示與OLED高值化材料題材發酵＋短中期均線多頭排列與外資、主力買盤同步推升",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVGV1RkkyOVZHZ0JmQzMyUHMyRFRHbXJ3Q2dQS3BQZ2I0LTJRcWZlbXNNTWY0aExSeGR6VGk1aGVQcW9Qc0RSZkJrRVI5Z25qcFN5dXVqSXpYREExU2FpeFpvMXRzWWxvSXc4SVY0eXd2OTRKak4tSzFGNU1od1prRlQzLTJZbTFkQ21jQjR3?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-08-28T07:00:00+00:00"
     }
   ]
 }

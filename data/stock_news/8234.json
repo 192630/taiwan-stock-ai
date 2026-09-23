@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-09-22T09:33:51.340986+08:00",
+  "updated_at": "2026-09-23T10:34:14.556593+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8234",
   "name": "新漢",
   "count": 3,
   "news": [
     {
+      "title": "新漢(8234) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1USzl1T21NSFVnYjNXb0d1NGFJdW4zeW1ZYkphZ0s4ejhRX2t5YlJpVHRiXy1zSU9sUTBOMFRRWHlSUERkZXVjSHN0VWVnWFJOYUlF?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T17:07:52+00:00"
+    },
+    {
       "title": "新漢 8 月營收 6.12 億元：年增近五成，月度金額回落",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1xd0JEMHBETGZwXzdXSUR3Z3FfUGFtbWdiVjZwS0lpdTA4aFFPanRfZkJMLUgyQ1d1T2dPeGp2Rm5XbTFDbWthMA?oc=5",
       "source": "鉅亨號",
       "published_at": "2026-09-15T22:00:29+00:00"
-    },
-    {
-      "title": "新漢(8234) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1USzl1T21NSFVnYjNXb0d1NGFJdW4zeW1ZYkphZ0s4ejhRX2t5YlJpVHRiXy1zSU9sUTBOMFRRWHlSUERkZXVjSHN0VWVnWFJOYUlF?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-11T01:56:38+00:00"
     },
     {
       "title": "【2026/08月營收公告】新漢(8234) 八月營收月減年增，全年營運續看向上-CMoney 小編",

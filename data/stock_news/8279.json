@@ -1,26 +1,32 @@
 {
-  "updated_at": "2026-09-22T09:33:55.179960+08:00",
+  "updated_at": "2026-09-23T10:34:18.729398+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8279",
   "name": "生展",
-  "count": 3,
+  "count": 4,
   "news": [
+    {
+      "title": "Syngen Biotech Co., Ltd.的Price to sales forward – TPEX:8279",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS092Xy1uN0JfM245ZjZCOTNGNWpCVnZ2ZFc4Qkd1eDNyMmNrendNVkxMa0d4SGhZZ2FXY1VmSl9LSGJIRTdZT3FGRzhMOTJnTkdVM1FZQ085RHZqbklsYkNtVjJhVmw3NTROMmdTWUVCaFZVc1VXM01wRWpVdTZqUHFaUDVuZXlJc2FtVm5UOHgtRkI1aV9teXZn?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-21T22:41:59+00:00"
+    },
     {
       "title": "生展(8279) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Od3UxWHkxb092WHphWDNSTTlyM2VmSFJoUUQ5RkFFazM3Zll2c1M2aHlubWx6eEVJbzBVZWJ5ZENrX2hrb1V5U05JT1g2dGVuQWNV?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-18T19:36:36+00:00"
     },
     {
       "title": "【2026/08月營收公告】生展(8279) 八月營收1.79億元，表現亮眼、呈現雙成長，創近3個月以來新高，年增0.57%",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zazVsYzBYYk9Fc2llenhpYmN2OUpQbkNsUlRqMDQ3NGZfQ3duSXVYbWZFZ1k1UUU5NjZKNE9qWkN6Vng1ZEpFMHZ4S1lJeHFoa0xrRHZLOXZaTkg0U21oYjQxOEtOV00?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
       "title": "【生活特輯】世博生技攜手生展生技 推出「苦寶PLUS」引領代謝保健新思維",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMWllNWXJTS2tfOVMwelpXNDMwSHNKTW9kNzBlMmwzclZlcXAxdEM5ZzJrOXRYd1IwUnZrUnZ2QlA2NEhuZEM4QnUtMlY0LU9oWUJMak9B0gFbQVVfeXFMUF9Ra2x5WUotcldpd1d3SmpScHBXNnBTRVV2dWU4Y3hqVnJVclVUWHduWVZ4aGZMTDAydWpnWlI0MjB3ekg2eW9MWEV1Tks1cFhVR1lwNlI5eVhERQ?oc=5",
-      "source": "鏡新聞",
+      "source": "mnews.tw",
       "published_at": "2026-08-31T07:00:00+00:00"
     }
   ]

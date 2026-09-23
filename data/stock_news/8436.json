@@ -1,56 +1,50 @@
 {
-  "updated_at": "2026-09-22T09:34:10.570108+08:00",
+  "updated_at": "2026-09-23T10:34:35.015162+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8436",
   "name": "大江",
-  "count": 12,
+  "count": 11,
   "news": [
-    {
-      "title": "大江(8436) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tUzdwT0tZc0JTM0o5ZVZtMWdHWlhVWW9QbnFqdlUyeTl3MDdRUjY4Vmp2TnNDeURIZlZQNENVTkVKX3NfTmtlLUp3Zl9FVDNILUtB?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-21T11:08:46+00:00"
-    },
     {
       "title": "8436 大江 - TCL股務敢FB嗆投資人，不敢動自家人？ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tOE00YW5wYnhNV0lHUlA4cXo2eVNnUGhJblh5eVA5NlhFTHhQNkNPc0xoUGNRZWdwMDVHVXhQbDNRbTlDT3hYc2hLU1FPZnotNVkyNmxLRnQ?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-21T11:05:12+00:00"
     },
     {
       "title": "大江 (8436) 本公司受邀參加凱基證券舉辦之法人說明會",
       "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOcTZLZlhJN2hUT2ppUEV6Q1EtVGM3VE9qaDd4VXlMNE41dmdRMVQwek9OcldXSGFwVUljRDJwRk1ldkdQbVFoUkVWci1DZFByRFNGdnBnQnhDUnZsdnRQU1ROU2tHaVpGZ2gxdENpVnhOZDR6aVhYWnFtMzVDTTJybzRvU09VM0ZEcHdiSzBERFd4MWFQQ1VKdHZJVjNoRDU2RWpXb0tBU3I2ODZIZm5uMlJ3eHQ0ZURLY01UWlA3UXVhMHJoUGJoUGc2QjNqOHBSVVhTcXdTYUx5WlBBRkhZcExKa0ZueHVocURJNFZvVXVRdWpEZnhCbjlXVTI0NEVQVGpRaG5iVzhROGVXZnQ0SFc2Y21VbFNucVE4aGVlVjJBTkNoQnBCaVJ1NFVBVFNkXzNyc0p2b1c?oc=5",
-      "source": "GeneOnline",
+      "source": "geneonline.news",
       "published_at": "2026-09-21T10:44:31+00:00"
     },
     {
       "title": "8436 大江 - 大江公告本公司買回庫藏股執行完畢- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OUHhXUmtvaEFfUUdISmFQQ1RqVV8wZ2JKajVaN0pWZ2kxUkhrX0NabzRVek1aNUozUXI0NFVKeHNKOGdHclM1bWpzX1g1enJJeUxIYnJwMm8?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-21T10:37:25+00:00"
     },
     {
       "title": "8436 大江 - 朱镕基用29城上亿人换来总理大位李鹏日记泄密(图) - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14Slp6SVY4dk5BcWZzTGlsZjR5OWw0WWNVazFKLWJ2RHdhdUQ5QWhmRzB1Tjd5WURwdVpyNFNNZDBFVzBOc0d6RW5YLWxfLTRBQ0RBSTVrLXU?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-20T02:26:07+00:00"
     },
     {
       "title": "8436 大江 - 2026山崩川塞冰川断裂中国正在进入非常时刻(图) - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VYzVYMTdUVTlta3hYUXk5dFd1dklreWNtQXgyNTQ0cXk5TkRMbWhjUHd2bmo1OXJpVl8zRC05TWd4Q3BkYzBEZHF3Z0I4NmVhNFZQd0V3NlE?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-19T02:21:55+00:00"
     },
     {
       "title": "《櫃買市場券商賣超比前30名 3-1》大江(-25.03)",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNalRiTF9rTnh1QWVYWmNYVDhyMVhjQW93YV9YUHp2bnktZ21lcUtoaDlvSngyUHBsUW9SczhsY2NFaTdIWW1CMm9ROUc5VTBvUTRscHVzcnI1WXpPeGJKWUZyb0VMeXlLbXR1TXZ6cVpIQ3VaaFZzY0Q0TUVpanlGdVJ4UDFlcWZ2?oc=5",
-      "source": "富聯網",
+      "source": "ww2.money-link.com.tw",
       "published_at": "2026-09-17T23:33:00+00:00"
     },
     {
       "title": "大江(8436)",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPR0x4UVVhVnQzSHcxYkZjQkM0UlVCUGlFMWlYTTIyV1EtRFNJWjZsa3dla3RQSHFvNndiTFBkUDFuMjNIMFZ5ZzJMeXRja0d4OXp2ZFFjUVpsbkJjdWl3enBXTEVwSDUtNkZzMzdBQkNJanhOczNyOWxWZVNpYTdmNXhaY25OUQ?oc=5",
-      "source": "富聯網",
+      "source": "ww2.money-link.com.tw",
       "published_at": "2026-09-17T03:18:18+00:00"
     },
     {
@@ -62,20 +56,20 @@
     {
       "title": "【營收快訊】大江(8436)公告08月營收",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qMk9qbjlxaVBDSkVsdUowWWtpb0hldHdaTGUwNTZUcVdpTVhlNkVCY1dpWmxnQWZTRm4tV2FPU01URm5VYnNUYU5wYV9iclNOa3hFUVdiQlY?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-07T07:00:00+00:00"
-    },
-    {
-      "title": "8436 大江 - 又一路往下買 111/110.5/110/109.5/109... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Ka2ZWUmxyRXYxVHpLNUZQZDNrWkxkNFlMR0FaWm5qZ0xwUEVqUzYweWpkbDNNOTY0Z3JQZ0l6c1JUZms1T2tWSzc5RGZZS0hJQ3dnZnJrcjY?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-04T07:00:00+00:00"
     },
     {
       "title": "8436 大江 - 大江我又回來了- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iZU9rc3RScGdQLUpvRWotQjZLR3hJZmZ5anNJVFFNVENtR1RrZ1FUb2JlOUJGcEVkS2htcDBwZUlKQWpKajQ4UllJM2p3RmJreXBaa1MxdDE?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-03T07:00:00+00:00"
+    },
+    {
+      "title": "【08/27券商評等報告彙整】大江(8436) 今日僅1家券商發布績效評等報告，評價為看多，目標價為145元。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTEdVRTF1TnZCOUpjcjFEa0NoMTd4aTBSMzhVUUR5LWlveWloYXFMSFlFaUFSWDZQUGJCcWRMTTcxb3h3VXgyS0dhU29jOVYwdHlSTHFnSU1MT000dF9WLTdwRFFpREhEOTJ3SERuVEFnQTlDYl9pdHVBZUliVFo2UEl4Y0lZZGJsMHc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-08-27T07:00:00+00:00"
     }
   ]
 }

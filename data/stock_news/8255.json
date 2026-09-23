@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-22T09:33:52.792753+08:00",
+  "updated_at": "2026-09-23T10:34:15.965185+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8255",
   "name": "朋程",
-  "count": 8,
+  "count": 9,
   "news": [
+    {
+      "title": "朋程(8255) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RNEJnOVhIV3NIOXdOd0dkS2VJXzBrSm5oSHd2YWhvQ2M3VDRiTHk5WTFfYTVVXzljLVZ5Ul9vU1JRTlZmcmo0ZUxJZ3BQVXRRbk1F?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T15:19:35+00:00"
+    },
     {
       "title": "【09/21券商評等報告彙整】朋程(8255) 今日僅1家券商發布績效評等報告，評價為中立，目標價為143元。",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZVpIM21CQjk5bzAwWG9WaU91V0JFT1J5WGZXUkxjNzA4V3ItMjF3cy1iMmEwMGtLb3g4bU1PNUcyMkZuV0VMYWVFc2JLdkR0VWF3TEpnZ1Z3aGNlUUtnU0VZRkdxMjM4WlRZby10SVk4Zkh4eUFxb2RrWW83YnZrcVF5T0lGZUR2TXc?oc=5",
@@ -14,25 +20,25 @@
     {
       "title": "【09/10券商評等報告彙整】朋程(8255) 今日僅1家券商發布績效評等報告，評價為中立，目標價為146元。",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5peFJtLU9qU0t6OVpKaWFQamFBc21QWUFkdW96ZVA4LTlKb2FZNXJhSlVTS1ZqWkhEbktkYmV1czNXZUtqdmhEMlVBQ3p4cnNpeXo3WFdxMlJxMlF4aWRmcjJndmk2ZGs?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-10T10:50:03+00:00"
+      "source": "CMoney",
+      "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
       "title": "8255 朋程 - AI越來越強，最後拼的就是「電」 這幾年，大家都在追AI。... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NeTF0VWFkaTBlZ1dKdUc0SnJORXNLWGJzaEg1eWdmUjVXSndTRERld0NmMDdPQWZKcVBxTUNZUlQ2Tkozck5NSUpMUl84d1F6NWJCUXNDQ3Q?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-10T05:36:23+00:00"
     },
     {
       "title": "【2026/08月營收公告】朋程(8255) 八月營收6.43億元，年增4.61％",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NSUkzZVU4QzJ3SWxKQnhmV0g3MlRFMFpDMHFqMnpObmdqYWY2dWJuVVg2dlBQMVFlNEpqWmNHdDFYcUI4UWFSMk1lR002VFV1Unl5bzM1a3VpUTM1ZFhuUElKNDlRVkk?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
       "title": "8255 朋程 - 好公司，不一定天天都有故事。 真正的大行情，往往發生在市場... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BRlIzeG1wSE4zVlNmbGtLQUh3TWN6bHpzMEM1blMyODFxa0RubmxpZkp0UU05WFlPQUppblBHdUZHNnNMVWJkZmNTY1pHMkhROUxUYXJ0VXo?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
@@ -44,13 +50,13 @@
     {
       "title": "8255 朋程- 文章分享‼️‼️‼️ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CaHBrN2wwYWN1UHJ1eWNQbFA1LWJaX1VIdjJySXBpZWVhbFphR285T3hBM1N2d0haUF91a3Q4Qi1vN0JONHdTTHRzdlpkV3NYaFdXQ204N2g?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-02T07:00:00+00:00"
     },
     {
       "title": "8255 朋程 - 信件已寄出，期待下次的資訊！😁 主旨： 關於HVDC產... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DOGVhZkxoTU94bUFkZ1gyUE4yTktvOF9fMFZwSnFYazdfcDRiSzlxdEZnbTBVRVI0ZHN1cG9Ea0V6LVRTWE10dG5oQ3V5bWduZmROLXNiVzA?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-02T07:00:00+00:00"
     }
   ]

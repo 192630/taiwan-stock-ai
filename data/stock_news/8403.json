@@ -1,21 +1,15 @@
 {
-  "updated_at": "2026-09-22T09:34:02.322114+08:00",
+  "updated_at": "2026-09-23T10:34:26.633661+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8403",
   "name": "盛弘",
-  "count": 2,
+  "count": 1,
   "news": [
     {
       "title": "【2026/08月營收公告】盛弘(8403) 八月營收3.98億元，年增8.6％",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vcndQS1pSV1Nfb1RUSndFanFtOWtxaHN6LWlScVd4RE9ZbXJzSFp3RXo4cktta0o0dlFQdHdUdzBrRkQwYnliVXluSUVfQW1xcllBeTdXNUVJSHU2RVdKc2hVbjBIU0U?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-10T07:40:05+00:00"
-    },
-    {
-      "title": "敏盛醫藥一條龍2／臨床醫生變盛弘董事長 父親楊敏盛給兒子95高分理由曝光",
-      "url": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxOcWlEWnpMMWdfcDR6akNYNVNjVjVZSzJIeGdJcUpTQ3dXLXB0QW9QVXUyTmJURERiaVJndEF0X2k0NVpZOFZKdHhGcUZ4V2dLRDZXQVlZMlVuQkxjc1lGS1RMY0lsMDIyNG9UeFVLaF9YMU04TjI2XzljY29OTmc4YWVTeWw2ZEgzeGM3RngxVVJLcVFUR0dkQ1Bvc0trYTVxVV8yY0FadTNyQ1BZOGhJWHl1LTI0OU11WkZSSWMtelBqNmE0Ym1nX0w1a2ZCbEF2RDZoSm1DMEZsdlBqS3NiaVpSVk1pdm1NN0pGSzUtcjkyQnhrOUlTVDd6dVppc1BYbm1kNGU4T21YLXloemphWkFlaG40WlViUG9aWHhRMXZSSEVYY1VBb05RbmNmRE9ZZTI0X2dzUWZwbFJGQ1Z6WW85Y3BYQWt1aXMwM2Y4RFFsM2g3NS1vVlNIWjVaLW9iMllrcnF2cUU5U2s1UXp1SkEtTVEzU1h5WGR1NE5qUEszV2hOdGRGSm9QQkJkS2FGRkJBOW1IVXF4UEdDaHVTckFYcS1veS15VWtDcEdZSHpkdktaSk9JNjJDM3FNR3ZKYWs4?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-06T07:00:00+00:00"
     }
   ]
 }

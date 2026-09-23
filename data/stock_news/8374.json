@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-22T09:34:00.446066+08:00",
+  "updated_at": "2026-09-23T10:34:24.529771+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8374",
   "name": "羅昇",
-  "count": 4,
+  "count": 5,
   "news": [
     {
       "title": "Ace Pillar Co. Ltd.的Price to sales forward – TWSE:8374",
@@ -18,15 +18,21 @@
       "published_at": "2026-09-04T07:00:00+00:00"
     },
     {
+      "title": "佳世達8月營收年增12% 旗下羅昇衝刺半導體先進製程應用",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIWnpYSG9JR2x2QVc4Y3I1a2Iwa0VsYmpqbUVXazBJRFQyNzd4WWdwd1BZUEh6WHJXbVo5RVZOYW5HWkxBbXQtOURTcWhiUEU?oc=5",
+      "source": "news.cnyes.com",
+      "published_at": "2026-09-03T07:00:00+00:00"
+    },
+    {
       "title": "SEMICON／佳世達集團羅昇、資騰與光陽光電聯合參展",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1SUhET1Noem1tdjJKVEFXaDRDTUZjREZkdmszQmVhcElWaHJvUWd3NHB3RkdDR3pqRGExQVZJWFJuZEY1eWZGUm9ldnk5bXpfQjIzSXpyYWtrUdIBX0FVX3lxTFBZTmxxa21qU29PWGpLU05JeHRGV2twMjdIV1NIR1JnMFVjN0kwOW5DX1ZwbXRBQWl6dlRWRVgzM0gyakI2MGdvYmRjWF9iQVJrRVBXUDA4X096TllISzZJ?oc=5",
       "source": "經濟日報",
       "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
-      "title": "【2026/08月營收公告】羅昇(8374) 八月營收月減年增，全年營運續看向上-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMzlobzE3YnhxLTdGdFFhcndVU1NxM2RnOThBX191NlI2dkRYNjdrT1h6UzlrV1NFYlVnUzloZFNGNHVaWGJnREliNDMxXzBid2NIelc4d29DZDFrbi1XYlpHQldHaG1pSmJGVUVzUW5QM3RwSEcxQXN0cHFIVW9WYkR2b1hQS1FfQlE?oc=5",
-      "source": "CMoney投資網誌",
+      "title": "【2026/08月營收公告】羅昇(8374) 八月營收月減年增，全年營運續看向上",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OWm1jOG9BLW1MTDl2UkhUSmtaM0xZSXJ0dlJYcTU4aUV6X0tHQnR2MnNsMll4ejV4VzUzNnk4R2g1Nzhvd08yZHE5TnNDSWp6R1ZacExVY2VhWWtsNmVPXzRmZkhROWM?oc=5",
+      "source": "CMoney",
       "published_at": "2026-09-02T07:00:00+00:00"
     }
   ]

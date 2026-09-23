@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-22T09:34:13.611186+08:00",
+  "updated_at": "2026-09-23T10:34:38.080816+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8444",
   "name": "綠河-KY",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "《預收款券及人工管制撮合2-2》 綠河-KY、永冠-KY",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTkN6dWMwWTE0TEF6dkxyQjcwc0lDZUtua0JwNTlyUW1raVlkeVNCdE1ITUdBLW9EbGtIcFpvZVVIcUI4TWVfMzJDTEE3WElOczI3ajFfbEp0enlGbkkycnEzTDJIZGxDdGEySkNvUjRKMEZNUlZmRlJLS3hmZlRYMml6TUtCUjRM?oc=5",
+      "source": "ww2.money-link.com.tw",
+      "published_at": "2026-09-23T00:06:00+00:00"
+    }
+  ]
 }

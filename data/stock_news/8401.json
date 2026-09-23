@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-22T09:34:01.829694+08:00",
+  "updated_at": "2026-09-23T10:34:26.086503+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8401",
   "name": "白紗科",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【2026/08月營收公告】白紗科(8401) 八月營收1.31億元，創近2個月以來新高，月增0.82%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYUtqNXdkUU03bWp2eUtHUURtOXBYWWxTd05leUo3M0M5clE2UDU0Q3ExdF9sRGg3SWFqS05OSV9mTFZxZVFtNE1lZHN5RHhPR2J3R1RhQnJST19ZRUs4LVZpM1Myc0xJNURnMEZ5dEUxYy1haW1PdDhjV3JfdnJzQnFCVXVELXRXeXc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    }
+  ]
 }
