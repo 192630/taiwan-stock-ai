@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-22T15:34:50.607540+08:00",
+  "updated_at": "2026-09-23T16:35:49.539858+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2419",
   "name": "仲琦",
-  "count": 7,
+  "count": 8,
   "news": [
     {
       "title": "【11:29 即時新聞】仲琦(2419)股價走強，低軌衛星與月營收創高成焦點",
@@ -45,6 +45,12 @@
       "title": "倉和、九暘、雍智科技再飆漲停！網通股仲琦、互動、安瑞-KY齊亮燈 蔚華科、吉祥全攻頂鎖不住",
       "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPdndMNGdKSGhuRGdUOHJPWmU1enExbE1zRUhfUE5MY0lpMm5USjJnMlU5NXp6TWhpZ0VaYS1pQ3l0am9fUU1DdzJ5RERtdmlyd2o2T0szWXU4blhzX2NhMldxWm9ncHUxSlNvRDI2cEtDRTZmQ2N0cVpiODVNSkxSNFFaX014dkUteTMxd2VXdlhuU2p1TGp1N0VFd0VHRXVjV0JVSi05VUpvdFVjQ3hMRlFGcTZvd0R4OWhXT2w5SHdQOHhGMUQ5TURyWWRULVFkOGlQSDRIM1hFemQ5a2VkNXctbWtiNlRFQ3Q4UHhmaDN3VjhsYmhkLWxfLURtTnAwTjRMS3NjMm5QVkNJZHpNbnNOX1NZdVJfVmc2UEI5Y3ZVTEhyaWFyUV9DaFVUSkVNV2tqRGlXRWpQWm5VWTNXUFZpYW4?oc=5",
       "source": "Yahoo股市",
+      "published_at": "2026-09-01T07:00:00+00:00"
+    },
+    {
+      "title": "2419 仲琦 - 馬得發了！ 我竟然賣飛了！今天吃屎了啦 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9keVl1WnFDa1MxcEFSYWJ2a0lmcmd6Yzc4TjMxVHlFNVhlbFd4Uzh1TkxKb21meVlnZElQV3ZkNVZRUGpzUzJCY2t2ajNzQkpJcS0zcThfTlc?oc=5",
+      "source": "CMoney",
       "published_at": "2026-09-01T07:00:00+00:00"
     }
   ]

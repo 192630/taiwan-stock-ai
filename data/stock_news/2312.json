@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T15:34:21.212369+08:00",
+  "updated_at": "2026-09-23T16:35:19.082289+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2312",
   "name": "金寶",
@@ -24,16 +24,10 @@
       "published_at": "2026-09-16T05:19:34+00:00"
     },
     {
-      "title": "金寶新品 三箭齊發",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5zbmRaLUJYS2hZYWlIQ1R2aUtWRkV5cTBIZ19Wck9OMXhzU181d0ZJTTZ3ZmxRblQxS2V1cXZjVnFHM3ZSc3laSFNTOWJ0ckhx0gFWQVVfeXFMT01XVnN1b3Z4NnZVYUF0WW1OQmUwcHBHb09BZjRPZEEyV0hQbmhUZHllMjIyajBSQUUtRERjeHc5czlDNUhKdC1YTVd4eVltN0pyRTI2MEE?oc=5",
-      "source": "UDN",
-      "published_at": "2026-09-15T16:20:36+00:00"
-    },
-    {
-      "title": "金寶法說2｜攻量子運算邁大步！首代控制系統樣機完成 放眼IBM、Google潛在商機",
-      "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNMkxRTEtodk4zMkMwS0F5V0VmMXdJWjNuUUdpa2hqUk82NVdOV3psZVNqOTRLT2hWTlg4MjRFRDRoSEhoSXQ3bGMxTWc5NFJ3VmxhZ0pPeGFhU1EwRlpYQWRhd3MtZ0lNNVV1OW1IY1NpVHFIUWNpb1ltMDRzM05lNWEwWXVxdWlJcUxGU0NKc0NqWXgxeDg1ckFONEdqclkzTGlJOTlnemZWVVM2d0trelVjTU5YaXhMWm9iSzFVYTlBNUlocWlKeUNIZExkb1VveW5Ya3BLd0xiOXBBYjVteHhqY0ZmTExNajEtWDc0MFRTWXlEWFVLcTZzTXc5OG1GaFV4U0RobmFQQjk4ZDA1amk1U3BVN3RITmk2Rk5ySDduR1ZUbzRIZWo2TFEtTEpWNVNoVkdQZ3pSOXBFMVB2bTUwVzdkcGpiWEUzZWtESnNiRFAzTlBEUnEyekI1Z3dWSHpMTTM1eS13YmtLU3dHYWtzMjVMekpkYTJtSHhBNVZEZEVYVWJxZHJkZFZVQjZ4TFFVb1N5eFhmOEg3eVh2TWV5SW0tdUUzWDZyVHI2QTBval9GakVxaHdCUkFlZw?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-15T10:39:00+00:00"
+      "title": "金寶總座陳威昌：低軌衛星業務大復活 攜台亞、韓商攻基地台",
+      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQcjIxMmhfVXF3Q1kzYnJ6djB3TjRfQW9HVkVWQV83REsxLWhDaFdhaXNGUzR3dHNGbFd1QzRIdHU4d2hxMlBaSXQ5NWhLNm5FczY3UUc4dE5wcHRCQ0NrSE45OElwTkd2X3hUVm5iZ3V5RURmN0JmaWxmcFdiU2ZpLThGY2p1Y0dTdU96UXdIeDcxeDk4Wng0dXV0My1fTmZuQ2V2NFJOQjk3cnF1SnNteXdWeHpMOFpnOE9QbHBBMkRmejA1Q2VNTTVPYkJlNGNqVHpHa1BLUzV6N1dxb0dfZG5VVEdFWXREQmlPQUFUbDJ6UmpxTWl1YjVJY3A0NDhIVFFIZWJIYTd4WW1OS0tVekFQLVhmMTIzQzhoVFJMRmhOZXZteW1nY1VLRmYwekIxck9YVEtFbzdZT2J4U2RwclNObEd5amF4TERkYTVUZlpoRWRjX2Z6LUg5NUpjNUdSRXdmUTNsVTEtT21xejc2Q0E0bW5kaWlRT1drMG5yZ01FVFU?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-15T11:30:00+00:00"
     },
     {
       "title": "〈金寶法說〉金寶新產品多點開花 量子電腦Q4進行驗證同步重啟低軌衛星業務",
@@ -42,16 +36,28 @@
       "published_at": "2026-09-15T10:25:13+00:00"
     },
     {
-      "title": "金寶法說1｜陳威昌：提高備料策略奏效 泰國、巴西產能全線滿載",
-      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNUEZuX0ZxWGN4a3EwM0pQbHY4OUpja1l5N0tJVFY5OWlRc2Qwa0U4QUZhaC1KMm5LZDdqMEFhem53QWJlSTdDcEZMcWo3b245T252WnhQOUVyRjJKRDdwc3hIcFdaQkRKRnJLZF9ta2Q2S3h0Nmd6all4dWUwYUtJNjdReERQbVpVZDFxWk1jQmFENk1uQ19wSzVHWHRldnRZMzcxdEVUVm1VV01VbDMyNkhLRl9PSW5fOG9RRWNrcHI0TmJpcG9pYjVzcFpWZ1p0LTR5SDU5RmZZM243R1dfSGNwWElZMnByVnhHS2RpM1FLRmNhdHQ2Y2RINWtFNkVrY3hmc1BhWHNlOWNKMkdyYjJweEtJRVMwQUVPbzJQSDBEYnZZNFdvaFBLaHUwVjJrZ0RLeF9KMnVfaFQwaFE1N2FxWktZMkhsMHcyX05WUE9NbFdPZlN6LUZKdXhXV2NPSnR6dVAyZkVMY3VFa0R6aFNZT0hjYktOWWlBN3VLSU5lTDd6WjgyT3BCTkpiZw?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-15T08:21:00+00:00"
-    },
-    {
       "title": "〈金寶法說〉金寶全球工廠布局穩定擴張 策略持續鎖定高毛利產品",
       "url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxNSE1qYUV3WnFnMFB0eWtLWkNPV0pPU0Z2Uy1qNjFOVXlvZFZqY3pqY3FFVkpwZmppRk9waEtybk9iOUxHcnU0UUpwZkpHeDYxcVJpUHJZLTRNSG84RmxVVi1SZ2wxM2lCNFNRRW5GRXlvcGNzMUZSbzVnZVNCbXdPSjlsMTJnNU13Z1RjQjk4T3h6aGNqUVBhR2xNeVd0cUxsclZ2TnFzZ2puMkt4Vm0wSGs0dktHdDhuTmVZU3J2ejVPTHJiUFV4WG9TdEkxRXFPVExPZHM2eFMzUGlaUVg4Q1dpZmMwUjYxMGZvM1A4SG00dEpsNTdPMUxiWDZQazhmdzNEUm1PZlBKY0xwcTlycU10M2pNOFJ4LVZ4ZGxZMC03VzBOT2lCREZTeHBrQXlyOGJPLWZNODgtTkhBYVFFeW1lMEN4a0dJR3Q3Z1ZBa0tWREJUanlLUFZPTlpmRUU1d1NJVDFpNndta2FNWG9IQVUtRFk1NHhmdU5iUUdSUTNqdE12ZVR1RkNjdlp4Wlk0M3FfRTJUOXZlVkU5RGZab2Rn?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-15T08:06:03+00:00"
+    },
+    {
+      "title": "金寶法說1｜陳威昌：提高備料策略奏效 泰國、巴西產能全線滿載",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNUEZuX0ZxWGN4a3EwM0pQbHY4OUpja1l5N0tJVFY5OWlRc2Qwa0U4QUZhaC1KMm5LZDdqMEFhem53QWJlSTdDcEZMcWo3b245T252WnhQOUVyRjJKRDdwc3hIcFdaQkRKRnJLZF9ta2Q2S3h0Nmd6all4dWUwYUtJNjdReERQbVpVZDFxWk1jQmFENk1uQ19wSzVHWHRldnRZMzcxdEVUVm1VV01VbDMyNkhLRl9PSW5fOG9RRWNrcHI0TmJpcG9pYjVzcFpWZ1p0LTR5SDU5RmZZM243R1dfSGNwWElZMnByVnhHS2RpM1FLRmNhdHQ2Y2RINWtFNkVrY3hmc1BhWHNlOWNKMkdyYjJweEtJRVMwQUVPbzJQSDBEYnZZNFdvaFBLaHUwVjJrZ0RLeF9KMnVfaFQwaFE1N2FxWktZMkhsMHcyX05WUE9NbFdPZlN6LUZKdXhXV2NPSnR6dVAyZkVMY3VFa0R6aFNZT0hjYktOWWlBN3VLSU5lTDd6WjgyT3BCTkpiZw?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-15T07:00:00+00:00"
+    },
+    {
+      "title": "金寶法說2｜攻量子運算邁大步！首代控制系統樣機完成 放眼IBM、Google潛在商機",
+      "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNMkxRTEtodk4zMkMwS0F5V0VmMXdJWjNuUUdpa2hqUk82NVdOV3psZVNqOTRLT2hWTlg4MjRFRDRoSEhoSXQ3bGMxTWc5NFJ3VmxhZ0pPeGFhU1EwRlpYQWRhd3MtZ0lNNVV1OW1IY1NpVHFIUWNpb1ltMDRzM05lNWEwWXVxdWlJcUxGU0NKc0NqWXgxeDg1ckFONEdqclkzTGlJOTlnemZWVVM2d0trelVjTU5YaXhMWm9iSzFVYTlBNUlocWlKeUNIZExkb1VveW5Ya3BLd0xiOXBBYjVteHhqY0ZmTExNajEtWDc0MFRTWXlEWFVLcTZzTXc5OG1GaFV4U0RobmFQQjk4ZDA1amk1U3BVN3RITmk2Rk5ySDduR1ZUbzRIZWo2TFEtTEpWNVNoVkdQZ3pSOXBFMVB2bTUwVzdkcGpiWEUzZWtESnNiRFAzTlBEUnEyekI1Z3dWSHpMTTM1eS13YmtLU3dHYWtzMjVMekpkYTJtSHhBNVZEZEVYVWJxZHJkZFZVQjZ4TFFVb1N5eFhmOEg3eVh2TWV5SW0tdUUzWDZyVHI2QTBval9GakVxaHdCUkFlZw?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-15T07:00:00+00:00"
+    },
+    {
+      "title": "【13:24 即時新聞】金寶(2312)盤中小漲，伺服器與ODM轉型成焦點",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWjlnT0J1UWowemliUW1WOUM2dzhIRDFFYXd4QnRSaGFhSURGZFAxdTFLdFN3cnVHSUY2bkhDXzVNYkV3TWtZUy1yTXp4ckR0eHdZcnpXUUFzN19aRElVNk5IX3k1RUFMdElSVUhWbE44ZXhKS3NQaENiOWFjTVBXWFJhM3I0aTNjb3NwTEZ3?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-15T05:28:28+00:00"
     },
     {
       "title": "9105 泰金寶-DR - 股王大跌，Ccet反漲？ - 股市爆料同學會",
@@ -70,12 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nZExmemRPYUlaRUtuQVdlc01fTjE4QXBkV3J0djBiLW1aNlpzUGtrSWVmSzk5c0ZGVWRYR19EZWdSblhESGJqMlRCWU5nYS1ibGpVcml2SzM?oc=5",
       "source": "自由時報",
       "published_at": "2026-09-11T06:24:41+00:00"
-    },
-    {
-      "title": "泰金寶-DR(9105)主要產品與營收占比 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FVWNZSklic21fenpTZHRoVnAxd2N0Nmd3dlhkNDRQWDNOQmdDa21Fc0M3UTkzbkF5SS1CNXNEb3ZiOVFvUjBFQ2NyaExmVVZrVzNJR1l2Wk5GR1pBWG1aM1RNM0Y4QQ?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-10T07:00:00+00:00"
     }
   ]
 }

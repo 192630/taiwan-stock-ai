@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-22T15:34:26.224236+08:00",
+  "updated_at": "2026-09-23T16:35:24.642530+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2332",
   "name": "友訊",
-  "count": 10,
+  "count": 12,
   "news": [
+    {
+      "title": "《通網股》友訊9月23日受邀參加群益金鼎證券舉辦法人說明會",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOS1rd1F0TkluVnY0dEtiLU9jYkU1cklTczhpUVlLTHotdUpNbUZlSU0yeWtqbVdwY2xONXBQNmxRZnBMU3l6RmwtbFMwNkxyWHNVYnR5TElPTFRFY0V4N0ZBZlZySVVEM0dFOHYya3FNMF9JUXBDYXhVNEpGZ1lFaXkxRUtPUHdI?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-22T09:18:00+00:00"
+    },
     {
       "title": "2332 友訊 - 他想什麼呢！拉不動 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0teEhpQi0tZ19TekIwTjdCNlVmbXRaYVpCWndEMlA3d1lnM0ZfVlMwRy1FZk1JTHdrbC0wMkN5ZFVIc0dGbkE0c25SRTFmZGFiVnpsSndTSlg?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-22T02:02:04+00:00"
+    },
+    {
+      "title": "2332 友訊 - 釣大魚~要耐心十運氣！ 大家加油!我転獲利了~ 🥰🥰🥰... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZQkZnV2Y3cWJrUk5fYVZHZURSZkFhTThLTHAyTEMwZGhBMkxwOHdwYzhlY3FDZHNDN3ZiRllndnBWdEVKOGlPQlZwUjFHSjNrY3pZZ3lJZGI?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T12:25:22+00:00"
     },
     {
       "title": "【13:05 即時新聞】友訊(2332)盤中走強，市場聚焦AI機器人與衛星網通題材",
@@ -22,6 +34,12 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZYzdvOGxCWVRBcFJSSF9VemU1SjVYX0xka0R1Wmx3cmUycDMxS3FTM3dQbF85UnIwQXRaMjBPMHVYV01tdmo2MGNGZXQwYUtaYjFDMFdUV1k?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-18T11:30:42+00:00"
+    },
+    {
+      "title": "友訊：網站遭攻擊登入驗證對公司營運尚無重大影響| 產經",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56S21LOEUyZ1VqaGFiUEpaaDBib0lRWGJEMjl0WEJUOG9KZkNFVDVrbFlWb2RZUDNaQkk2NGY3Xy1tcXZsSm80cDktaHlLcjR1QXBxcTMyZ3U2VXpTTFE?oc=5",
+      "source": "中央社 CNA",
+      "published_at": "2026-09-18T10:21:00+00:00"
     },
     {
       "title": "2332 友訊- 友訊本公司發生網路資安事件- 股市爆料同學會",
@@ -42,16 +60,10 @@
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
-      "title": "友訊(2332)2025股利發放日、除權息日與歷年配息金額 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xZzJrcVNHMUFZT3JQSGtBdXVVUl9FajVtUDQzUmhCMldLcWw5Y3Yyanc0bnNCTExHUDFyaXZBNHR0NDh0MzF2X1NZN3ZxSE9LTFktbElSZXNnYWVVQXc?oc=5",
+      "title": "2332 友訊- 主要量還夠.對付外資- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SNVM5NE5tZmJScWlnY01uek5aS2VEYW1qZkJJUjZvUTltN1JNUjluanNFZDFzeDFMXzltRTVVOHN3SGFUMzBmbUQ3SnFFQ25IaGpRZmVUTzU?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-07T07:00:00+00:00"
-    },
-    {
-      "title": "友訊(2332)主要產品與營收占比 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zMjNERDJFSWJqUVlyNERPdk1RVmNlc2xNWUd3eTBrQVdoTTFTVWdlaFhudnJnVTFweDRNb1NzVnFlVGdxclFLNXJ3N0wtcFZmeVVwSkNHNzhfNUdzbFl1blo5eUg3UQ?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-07T07:00:00+00:00"
+      "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
       "title": "2332 友訊- 天天掛假買盤，明天加碼空，直到會漲停，在考慮回補- 股市爆料同學會",

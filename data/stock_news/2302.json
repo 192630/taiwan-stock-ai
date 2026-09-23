@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-22T15:34:20.220324+08:00",
+  "updated_at": "2026-09-23T16:35:18.112983+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2302",
   "name": "麗正",
-  "count": 5,
+  "count": 6,
   "news": [
+    {
+      "title": "【12:27 即時新聞】麗正(2302)盤中走強，功率半導體漲價題材受關注",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZZjJzS0VSdHRFNkpVR1NCTUtiekQxdWVFdUNGMk1wOUY0VW1pZHZfdDEtRFFvdjM3T3NGcnAwcjZDbWZZNTFOOU9kNHk1TzJnTHk5cEhZVEY?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T04:27:51+00:00"
+    },
     {
       "title": "2302 麗正- 【最新消息】IC 製造族群再度發動，「7檔概念股」強勢上攻！ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3cmNINHNobnNHWnpGTlJXeFR0RWluVVZEVWRQS1FrdTFEdXU4aHRrNHJTNEZLV3RsWHVEOUF0V0hKWlk3TzR3cVo0MjZiTXlHZjVoWjNOR1U?oc=5",
@@ -27,7 +33,7 @@
       "title": "【12:18 即時新聞】麗正(2302)股價上漲2.93%至42.2元，受功率半導體漲價與AI電力題材激勵＋短線技術面偏空下的反彈修正",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWjhSTnlsVE42Q0NtNmJxaXZDMXZwRmtPOC1NQ00wYWtrYnJ3dVlEYWNPMUE3U3FEcGNacUVjbTZvRlJCM3AtYW1KVGF3Rm1sZ2kxLW9ZVWFmeFoyNDZheXdwdHV1SUZnMlNXeXcwNWNvX3QzNkFoZURDRGxMWk9QMEZaZ1lHZ3lFaEdzUzFR?oc=5",
       "source": "CMoney投資網誌",
-      "published_at": "2026-09-14T04:19:31+00:00"
+      "published_at": "2026-09-14T07:00:00+00:00"
     },
     {
       "title": "【11:46 即時新聞】麗正(2302)股價勁揚約7%至44.7元，受功率半導體漲價預期與月營收連三月強勢帶動、短線偏空結構中出現強彈",

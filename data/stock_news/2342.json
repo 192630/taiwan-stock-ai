@@ -1,15 +1,39 @@
 {
-  "updated_at": "2026-09-22T15:34:28.173769+08:00",
+  "updated_at": "2026-09-23T16:35:26.698200+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2342",
   "name": "茂矽",
-  "count": 11,
+  "count": 12,
   "news": [
     {
-      "title": "【13:18 即時新聞】茂矽(2342)盤中小幅走強，電子族群買盤延續",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdzBzTjVITkI0Zy12ak1rT2txSEVoOXBGb0YyV2JNZmQ0d1lFWWdJY0FfYVFLVHBicUFrRkFIUzlUUHB3TW5BVE90OUFmdThhb2MybkwzUjlkUDl2VDBtTHowUDFJVlNCVl92TENYSTUxWmhWbktFMDRjZkgzRFdhbzd5TmpITm0xeHVISEZ3?oc=5",
+      "title": "茂矽Q3營運回溫，SiC明年拚放量",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObjFIUEFoSGs2R1hNcjB3eWNHT2RRYXJFUmx2VkF2ckpJRDJoVHotb3RxYk5JSDRObDBENl9RNDI5SV94NllBMFdLQ0dKLUU3alpEVERkc0VWNWJlenFpRkZuZDhFSi10Y1BHSzh5TEQtN2RSUTc3RkxNWmVYX184a1FtWGtOWXhGenZsNV9ZWjdOU0cyY0MtaUpyR0RLVGo5S2dxVzRhamZfblExOVJid3FhWVoyY003aUh5ZVpFaGEydm4wYUFvbXRWbXpHai13OXpxei1ZU3NQS1phbWhVbTM4X3pXdU0?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-23T06:30:54+00:00"
+    },
+    {
+      "title": "焦點股》茂矽：功率元件需求升溫 強攻漲停",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDVXVLb3FxZ2xyZUhDa1hvREVMNERKQVhzYXZOcTlvX1djd2RXVms3N2RmelB1SnEzSk0ya19abENoT2xxY3p6YmZuaXRxdG5xYV8wbHlPRTFqekx5cFNv0gFkQVVfeXFMT0FfVW4xSjhuMTFRSEI1SERGWWgzaEhjOGxqWEowRTFyelJYMmpDYWxydE9lWVVObjJ3cFlDQ3lPdmZidEwwWXVUbEQzS3N1Qlo1MGo3R1Z3bXFIYjRraUhaZnBtRA?oc=5",
+      "source": "自由財經",
+      "published_at": "2026-09-23T03:25:28+00:00"
+    },
+    {
+      "title": "太陽能紅綠交錯！「這檔」Q3出貨旺亮燈漲停茂矽橫跨記憶體同步亮燈、元晶、中美晶逆風挫逾3%",
+      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQSExReHdSY0FpenZ2VlJKMjZJaFJPMUNHMm1aZzNzQ3RDUEViUks3ZUZBd2N4YUpwMllfTHlGMENuNTVsaGp1cHZQb2lCT0NTMkF1TDJiQzFpY2RUZlZUd29aVkozdDI5MElfM19kay12UjZCZ2JyRW9FSkxtLUVEMTFUY2ItdEtXVnNEdnlYeVZWQnk4MDVqS1hxbXc3ZzRSMnVYOERjSkdmOWdGS2VjVXhnZnJlR25sekl1dmhMaHlVS21tYTVMYl9YZ3VPVlh5NzF3b0xFUVJYVnJZbTlrZkpPNlRhTUMxZWRaenFVRG1Fc05UaFpaRGdiUXlyOUpQeUFadjJSVm91cnJWMHBhOEQwTHNYRmtwNlBSQ3VWUlRma0h2WWctc1E3LTlnanZZX1FuN0dzUmhQRm5EX3ZjV3JOYVVucDhHbDcwMXpnemZxX052cFlNelFxWkcxU1lHcVdlSVFfblBFaVFCU3d5ZHBUeUl3VXZGYlBrZGZFMmlxM0h5Vk9rd0UzZVMwTHlwRjdtSmg0eEpGS0gxVkZNTkVfZGVDS3RIOGhVd1FwSjVmbGZzMk1WRFR0N0IzZ2c?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-23T02:14:02+00:00"
+    },
+    {
+      "title": "【09:14 即時新聞】茂矽(2342)亮燈漲停，記憶體族群強勢吸引資金追價",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd01RQjMtTEMtVHBtRm1BZmtna29jbDB2aHBmTTZZa0pzM1VROTVrcGR6Ty1sUFhfdVk0RnhwNmxIdUpnRGk1VnJzV3VHb3FtUU5vQ085MXliZzk4LWdKbHZrVmNUOWhLeGU4QXdoZENpLUN0RUEySWN0ei00WHV3Ym9CSC1UY3JBN0pCbkxR?oc=5",
       "source": "CMoney投資網誌",
-      "published_at": "2026-09-22T05:18:37+00:00"
+      "published_at": "2026-09-23T01:14:15+00:00"
+    },
+    {
+      "title": "【13:18 即時新聞】茂矽(2342)盤中小幅走強，電子族群買盤延續",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uS0MwU081V2tMc1FpVFY5UjQxTWp5VWMwU1J0UnVhN3ZaMkFDb3RtRklCalZwV1R4dUNpa3RKam9GdFVBZnhfSnB0Vk14NVllaU5nb2RNNWozWThhaTYtUmJtMzA4MWM?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T05:18:38+00:00"
     },
     {
       "title": "Comba Telecom (2342) Singapore Share Transfer Agent Renamed to Ascentium From 1 October 2026",
@@ -52,24 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVWZSbWJGTnJPQ01nak5oS19zUjlWSzlFbFpZZHhodm1HWUpOUjB6YWlVQ1NuVXVEM2RVYjZCWmR1ZWNodGQxRHBUdVN3MGozZW5CanFONkJZa1RWdGo2RHNBdVM2R3dEYVZlUzhKX3BuQVNIUno0T2RKdWtoc3hpc0JLM2RTZ2M2clhWdG5Ba2RueUdzb0dmVkhB?oc=5",
       "source": "TradingView",
       "published_at": "2026-09-16T00:13:17+00:00"
-    },
-    {
-      "title": "【11:04 即時新聞】茂矽(2342)股價漲逾5%，記憶體族群資金迴流帶動走強＋守穩季線附近吸引短線買盤",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Lb19NTXU1ZGI2RFVXeHhmUExKRzZpTUFjMmhYQWlFcGNnSjJ3Uy1wS1BhdmZ3aFNQRWowSXlQeWNFYXFIVU83WkdnaDd4a1RzbTdIbjVVVFZJb1V3M1UwVkVjRkNTdWc?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-14T03:05:33+00:00"
-    },
-    {
-      "title": "2342 茂矽 - 國產碳化矽功率元件由工研院技轉？ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1yRzRpZUtCb1UzVmRMSXlUdk5rY3V5eWlONU02ZmlmQ24zT1ZDa1dkU0R0Q0tRMDhTQmE3cWNHMFhVTHFjTkhDU0RZY1Q1RXU4T2F2SFF4ZnI?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-03T07:00:00+00:00"
-    },
-    {
-      "title": "國巨變「提款機」！投信連7賣狂倒2342張 股價8天蒸發近18%",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GcW5QaHd4bnAxM1JsbmlTWFZfbW9mMnljZy1JQWphZktVekFOWE9BR0Q2VFdvY29ZeElkc0pOcVVnZTNpR0pJQ0N3bkN0NDA1WGVDR3JXajM0cjJrS3pSdg?oc=5",
-      "source": "民視新聞網",
-      "published_at": "2026-08-25T07:00:00+00:00"
     }
   ]
 }

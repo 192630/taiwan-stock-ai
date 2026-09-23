@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-22T15:34:44.970330+08:00",
+  "updated_at": "2026-09-23T16:35:43.814626+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2399",
   "name": "映泰",
-  "count": 9,
+  "count": 10,
   "news": [
     {
       "title": "映泰集團 | 2399.TW 股價走勢與即時報價",
@@ -18,10 +18,22 @@
       "published_at": "2026-09-18T01:47:38+00:00"
     },
     {
-      "title": "映泰(2399)毛利率查詢｜歷年毛利率、營益率與淨利率分析 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE90dUQtNWxoamhfQUtsRHRxOGdiVy1SWHpRX3hSTHR5RktGbnFGeXBlQ09hZ0NIQXA0cHNnS21OQ01PdjA2ekVISVhRd1RSRmEwemwyUFM5bHoycDRpU1Y3aWxFcVpGUQ?oc=5",
+      "title": "《集中市場券商賣超前30名 3-2》光鼎(-1706)、映泰(-1506)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS2RCZTY5TWg1TFIybjYzMnRYRXliQ3IxUGIzY0FHYzFOTzBfd1luUFIzTDlqRVUyUUw2WF9jVmFFZWVYOENmRmg3bEVTZHA4TVhzM21BNEtpOUE2VllZYnNudkJ3a1kyTjJQem43V1lQRXRfWnE4LThoWXA0eGhvSHFIbnZLY3VC?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-17T23:32:00+00:00"
+    },
+    {
+      "title": "映泰(2399)營收查詢｜月營收統計與YOY年增率圖表 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Jb2d5STlpOGo0Ql82M3VxUWxLTE9Vdjd3SC1kMVY1aWF6Vk1YaElaakZTcS03dk0yaTZ4SkRaaUdSMWlxSUg1ZmtXYTBnSi0wUGNKcmgzUHYxYUti?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-17T07:00:00+00:00"
+    },
+    {
+      "title": "2399 映泰 - 美國如預期升息一碼 指數震盪沒啥大問題 重點在個股 選對股還... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJcDgzRmNibFFQelB6cm1PQS1aWXdKb29LMkVSbE9KNW01ajBTYzkzTTFjY3JHc3JHVFRySGNfSEpPX0gycWZnUVNna2huTVVTdm5ocy1XVTM?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-17T03:43:29+00:00"
     },
     {
       "title": "【11:26 即時新聞】映泰(2399)盤中走強，聚焦主機板與邊緣AI佈局",
@@ -52,12 +64,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNS1SMkR6ZnBaZm9INnlpQi1XX3ljOXF2YlJBbEU2bXp3UXdNcEtST0hsbjdBYlFaLXNCalFYdC0xaWJRd3EzeGJtSnNfSkIybDhMUUlhVEh2T1BoQ1pmeGREbGxqR245YUdMSHFSZWZMZEZDZGJsUVg2bnhEenRNYXFnUEVuUFo3WEF6cTJn?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-04T07:00:00+00:00"
-    },
-    {
-      "title": "【11:38 即時新聞】映泰(2399)股價走強至47.5元上漲近4%，受邊緣AI與光通訊題材加持，多頭結構延續吸引籌碼迴流",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZGdTUnVfVjFhU21sTU0zUWpuVFk5bktNcEt1MlN6TVp1YTlIOGNTb1IxeVE0dU5GSjJacWlianBCcnRHMHFfS3c2QmVLZjM2WUNWdXFZc1hwOVRRelY3LV9nSE1mVm5GRHhtZUszQ3BSVjZQdXNieVlBTHdWMW1xNzFjZXpwaWlTTkFsRkh3?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-08-24T07:00:00+00:00"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-21T15:35:52.873363+08:00",
+  "updated_at": "2026-09-23T16:35:50.015556+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2420",
   "name": "新巨",
-  "count": 11,
+  "count": 9,
   "news": [
     {
       "title": "新巨(2420) 個股概覽 | 個股 - 股市",
@@ -24,27 +24,21 @@
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
-      "title": "家鄉互動(03798)9月9日斥資2420港元回購2000股 作者 智通財經",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtdlhaQ0dSVFFOam92QkZkSzVJUV9YWDZxRkRVclFfNml4WHRnSVMydW5Wa0lYMzQ1YVF5OERManBTeUR0VmNXRXV1QkpHamROaU1OeF9Ib1RrVXRlOHRWMkJZazZCMGItSXlaOUNaVDI?oc=5",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
       "title": "2420 新巨- 新巨2026德國慕尼黑電子展- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FLXdib3RUd1lTZnZSN3NuVVpyX1hPOVVqRU1zUVVHM29NM3VXVjQ3YU5HU2ZNOFpmMkJTYklGVFBULUthbkRWTWk0UENrWWo2UTJ0ZDhjQnI?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-08T02:36:05+00:00"
     },
     {
-      "title": "2330 台積電 - 快訊／台股收盤漲356點台積電漲10元至2420 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GNkttZmtNVGczdGVrSG1zdEJ4alRIV2xtRkJ0V25iUzVVMWVPdG14dW9tMHNIaFlUQWlHQzBsWnViQUdFbi1JZHR6ZHNiakYyQ3F0Tjh0Zkk?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-28T07:50:59+00:00"
-    },
-    {
       "title": "權值股領軍！台股成交量再破兆元 台積電漲至2420元、聯發科勁揚120元",
       "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxQR1FONVpfbldhZm4xVEJPLWFmUEliaFY2OVoxN2NFTFFPZkRjemQ1SHNDaWRMeHVlN19tdzVGTzd0YUNmMjFvVFRuWFkwZDN3RUtXMUVxVTJQMkxXMWdodkRFTzhpVDdmNlkwNnlVeE0tdmVUTlFJRUtSal9XTVJjT253am5DSl8wMFctOGRSV2xlOTZ2eXY3OVhxd1dFbW5ZbmNDNkxiNGgtUzFCclZuZFdnRVRtU1F2ay1IdXdxbTcwbFo0cEhFZU45UW5vSi1RaTUxclgyMWluSGR1UDA5Q3pkMnk4TjRDT0JaVGtVMGJmS2ZqTGhPU3h1MTQ5cWVnSmtPTUN5NnlwOV9McTd5a3NRT3ZMcTZqTUJwSWFpVDV3Rnc3M3RXc3YzejZsWElES0tfcG9CV3g3Y2Rza2t0UV9GTWRMZmRZblppNVNBZjZDU0QxMnYyWjZiR2lqZHJCUEgzZ2lvYThGUTZDUzRyT0FHcmloMmxqVVJpLTdSalMxUThRZUxRX0x0cHN5ZXl0MHh0NF9QWHY4azR1NHlVTQ?oc=5",
       "source": "Yahoo股市",
+      "published_at": "2026-08-28T07:00:00+00:00"
+    },
+    {
+      "title": "台股收盤漲356點重登4萬6！成交量終於破兆 台積電收2420元、聯電亮燈漲停 | 太報",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhTW1mc3U0Q2IwQ1lMUmEtTWFLNXhqc2Z0aTRKYzBrWUY2RGZmaEg0UDNDR3I4STJNSVlTbnFRZ3JqYWZmTTdGVHB4VTZTZ1RKNGE2Vmhn?oc=5",
+      "source": "LINE TODAY",
       "published_at": "2026-08-28T07:00:00+00:00"
     },
     {
@@ -54,22 +48,16 @@
       "published_at": "2026-08-28T07:00:00+00:00"
     },
     {
-      "title": "台股收逾300點 台積電漲10元收2420元",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaTBIX3RuVGxlT0VwdHNnMkxZVkFHbFBybUQ4LWRUdEFONzk0OWJLTHNMQkNKTWFDSG1ZMGZjQUZVeGpTaW9INTR3SXZNX1d6TUhFOFRCNm5xcEdpUTljSXBvd1JBdDBYeUxObGFaWG9lV0hReXBxZDZoX0hrRm45bXVpeEdlNGg3QWUzNmV1TlJ5TEZseFdHUktBVFJVRVV1aUFIWXdvRnRvLUxqWkFPaFJwNTI2MGpDNmtpS3Y3MnpNX0NjaVlzbmEzOTFWQVdLR1g4VUpLNDFoemhWRmg0RS14Q1VyT09SdzZHajM1SlI?oc=5",
+      "title": "今日台股》台積電漲10元收2420元 台股終場漲356點、本週累計漲1107點",
+      "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQY19rQ05NdWstT0dWT05zWWEySFlQOUxoVWdUMmxzOUZoeDhtUkFsSFk1bFFaUkJjMTZPSzVWamJPRVAxbmVoQmx0a3k3OGdYLTJDa19LOWUyY0Q4VWFGLWNQS25RLW5JZTVCNTlxdXFyVjc3UGdPc0hXWW1pWXBaMnk1NGQ3cU8zUVJHSkl0aklXZkQ5bklPZHcxdUlITDZjQUlNSnhsVjVzS0ExUm9wdnBkZC1BbW1ET2tJOW9QSGRyOHdmT0VoekZGUXVUT0plZU1CMzBlYnFXejNHT1VzRlJ3M3lzeXdHSGZlRkVFcE9SeDBXUVI3S1FfREdtbDVCa0lwczFDS0tTUDUzMV9XMW4wMWQ4STZIbTlQem50RkxKVXBzQUdVOHFRWXZBVmoyYk1uZ2VVOXZEWFRBYkhRQmRDTDNqbnFoMDFrU29ibXpHVWFueC1XbDRPSHRyNmxjZzJxOEJDXy14TU52UXNYYUVYa2p3UndaYnd0aA?oc=5",
       "source": "Yahoo新聞",
       "published_at": "2026-08-28T07:00:00+00:00"
     },
     {
-      "title": "台股收盤漲356點重登4萬6！成交量終於破兆 台積電收2420元、聯電亮燈漲停 | 太報",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhTW1mc3U0Q2IwQ1lMUmEtTWFLNXhqc2Z0aTRKYzBrWUY2RGZmaEg0UDNDR3I4STJNSVlTbnFRZ3JqYWZmTTdGVHB4VTZTZ1RKNGE2Vmhn?oc=5",
-      "source": "LINE TODAY",
-      "published_at": "2026-08-27T07:00:00+00:00"
-    },
-    {
-      "title": "今日台股》台積電漲10元收2420元 台股終場漲356點、本週累計漲1107點",
-      "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQY19rQ05NdWstT0dWT05zWWEySFlQOUxoVWdUMmxzOUZoeDhtUkFsSFk1bFFaUkJjMTZPSzVWamJPRVAxbmVoQmx0a3k3OGdYLTJDa19LOWUyY0Q4VWFGLWNQS25RLW5JZTVCNTlxdXFyVjc3UGdPc0hXWW1pWXBaMnk1NGQ3cU8zUVJHSkl0aklXZkQ5bklPZHcxdUlITDZjQUlNSnhsVjVzS0ExUm9wdnBkZC1BbW1ET2tJOW9QSGRyOHdmT0VoekZGUXVUT0plZU1CMzBlYnFXejNHT1VzRlJ3M3lzeXdHSGZlRkVFcE9SeDBXUVI3S1FfREdtbDVCa0lwczFDS0tTUDUzMV9XMW4wMWQ4STZIbTlQem50RkxKVXBzQUdVOHFRWXZBVmoyYk1uZ2VVOXZEWFRBYkhRQmRDTDNqbnFoMDFrU29ibXpHVWFueC1XbDRPSHRyNmxjZzJxOEJDXy14TU52UXNYYUVYa2p3UndaYnd0aA?oc=5",
+      "title": "台股收逾300點 台積電漲10元收2420元",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaTBIX3RuVGxlT0VwdHNnMkxZVkFHbFBybUQ4LWRUdEFONzk0OWJLTHNMQkNKTWFDSG1ZMGZjQUZVeGpTaW9INTR3SXZNX1d6TUhFOFRCNm5xcEdpUTljSXBvd1JBdDBYeUxObGFaWG9lV0hReXBxZDZoX0hrRm45bXVpeEdlNGg3QWUzNmV1TlJ5TEZseFdHUktBVFJVRVV1aUFIWXdvRnRvLUxqWkFPaFJwNTI2MGpDNmtpS3Y3MnpNX0NjaVlzbmEzOTFWQVdLR1g4VUpLNDFoemhWRmg0RS14Q1VyT09SdzZHajM1SlI?oc=5",
       "source": "Yahoo新聞",
-      "published_at": "2026-08-27T07:00:00+00:00"
+      "published_at": "2026-08-28T07:00:00+00:00"
     }
   ]
 }

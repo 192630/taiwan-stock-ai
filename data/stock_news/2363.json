@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-22T15:34:35.678881+08:00",
+  "updated_at": "2026-09-23T16:35:34.377390+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2363",
   "name": "矽統",
-  "count": 12,
+  "count": 10,
   "news": [
+    {
+      "title": "1815 富喬- 🥰週三南亞科，富喬合晶南茂京元電宏齊矽統臻鼎元晶穩懋國巨， - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PNVBIdzR6ZjFqdWxWX1VncUJUWWRDVmwzSDRZNGktVERCdjhmS3o5aC1rSHZYT2t0OFhydzdxaURhdk1qNEZMdGdkWGJkRUg2MFR1cEQ5QV8?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T10:13:05+00:00"
+    },
+    {
+      "title": "2363 矽統- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pSU1zR1pQN1o4N19hZ2dJUFFoWTFldXJ2N3ltaUJCcWo4MFJpQWZIdlQxMlRkQW1ocnMtVHp0bE1Tc0ZtUnoyLV85VXUyejVqVWFYVjQ5VFU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T07:54:34+00:00"
+    },
     {
       "title": "【12:48 即時新聞】矽統(2363)股價溫和走強，市場聚焦主力與法人買盤",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONXFqd2xiSHhTRzh5Nmx6OVFqNHJ3Z200aDc2VnFESTJxdnU5LXFCR1pfdEk1eF9XSERZMXk2OVNWTWEya1FJNG1PZkZTLW9FS09jS0cwMFZJME1qN3hiMWZ0bXVOT3ZxZkNMZUVhRzBkS2g0cElMYm83cEpDWXlRb25HdU5nX3ZROEw0dlZR?oc=5",
@@ -24,34 +36,10 @@
       "published_at": "2026-09-21T02:50:10+00:00"
     },
     {
-      "title": "2363 矽統 - ㄨㄚˊB哥又搞封鎖躲起來了🤣🤣🤣 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wOF9tMkFudm5JSVpRQmRuaXV5a2lXa1pheThNb19BTzFvS0hfLXFvWUxENVRaQkowM0VadTBOc2R6aXozRDlmbUJYMHkwdDl0a1VUbFhPbDQ?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-18T02:17:55+00:00"
-    },
-    {
-      "title": "2363 矽統 - 成交3000多張，外資買1600多張 都他們自己玩 就好 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZY2dhQzJrSWNGNXJ2TDZ3SDRaZjNlM2tTcTN5c2JyaGsyNC0tU1dpVmptX2pmYXVJOUotejR1cktuWEhhREZHTG5wR3R3b1N5VTFCWTQ0WV8?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-16T11:15:56+00:00"
-    },
-    {
       "title": "2363 矽統 - 廢咖就是廢咖 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1IZFdmNnlncDREUDQxWEZ5SDZMbE52Z1V5RlZrT2UyQW1IQmJkTUMtWjZlN2t2bExyZlhtSDBJeXVBTzU0YzVneXdwTTJwaXRVUkRiell1Mk4?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-10T01:37:50+00:00"
-    },
-    {
-      "title": "2363 矽統 - 整天還是一堆垃圾愛沖，可廉啊 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPTFNncXRpR0pCcWFSdjZ4U3JyQnhUdGdXdE5rQk56S1p2cVlCZWFWSGRZUmhZLWk2R2xaNlpscDZMQ0h2UGtRXzRQNXdTbWNnclVDUjU2OWI?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-09T08:05:56+00:00"
-    },
-    {
-      "title": "2363 矽統- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DNkdyR2lfRE9vZFRuLTZydEMwUjNqX0E1ajlEWElMZ1g0SkZGcmpWalpCXzFUSkhtODNGMFhwMi1KaVJpeE1WYll4VUt0TzBRM2xiem1GTE0?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
       "title": "矽統單月業績創新高 盤中股價漲逾半根停板",
@@ -66,16 +54,16 @@
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
-      "title": "【2026/08月營收公告】矽統(2363) 八月營收5.12億元，表現亮眼、呈現雙成長，創歷史新高，年增81.06%",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNU1QcXUzZk5ncUY4YW8yN3FaMHo2aDRSWm9sTDUzd2NUeDBoNkxFNFU4ODBmT21fVFRKS09vWjZ5c0hJWnlhSGF2RTFGNE45ZW9LdEdWSXAtLUFQWk1WN3N5QkU1LVVPc0F0cFJJVngzVUNtZnhnZVRHdlV5ckxkeWtwUlZIR0E5eXc?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
       "title": "2363 矽統 - 又要収黑了 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mMm83WjZoNHhON3hCUEhzV1J5M1FNTE9HSEtGb0Q4d1ZEdXU0akpKd2VnQXNkcWdzNVRwUVZRZ0cya2htQW9mbnU3M3AxcDZZdFRvenpzMTI?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
+      "title": "【13:14 即時新聞】矽統(2363)股價上漲至52.9元、漲幅3.52%，受營收高成長與集團整合題材支撐，惟技術面仍在中長均線壓力區、主力籌碼偏空拉抬味濃",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTWdnWS1UZVZCXzU5NU54aWwxaTEyX1hzdXZ4NVVWakpXWVd2Ty1vZkNnbU1ucmJySFBuck90TG4wSWgtbG1kUGtMSkVBMUxCYnNzUGVEOXVYY2JUUU53RFdacXZVcmRqbGo0d1BiZENSMDdHWGVDUTZ4elZmcXBnWmM5UmliUlFFaFNZbVd3?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-07T07:00:00+00:00"
     }
   ]
 }

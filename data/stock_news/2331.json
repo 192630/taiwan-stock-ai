@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-22T15:34:25.773049+08:00",
+  "updated_at": "2026-09-23T16:35:24.166444+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2331",
   "name": "精英",
-  "count": 3,
+  "count": 2,
   "news": [
     {
       "title": "《五年規劃》李家超:體育政策繼續推動普及化和精英化等「五化」",
@@ -16,12 +16,6 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oOTJXaVpYcmktVmRLWTdsOVJla2lfbW1QTENTNlc3OENFaXk3ZlpMcG9QYlMxTzRXU3laemwxSFlJeVVzMGt2SUd2YkZRT0xSNlRoQmZKTERzemRqSF9KbVd4Zw?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "月給母親6萬家用！年薪200萬精英男看清「1真相」 留存摺果斷離家",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zSUw3M04tSTdNMHU5VF82MFVlbmlPUnQ3YTBUcEFjYTVDeGZMb2llZVhJeEtFSGloODRlVWJOTkoxMnpvUjRYWldLMnJsNlJDVFlCWVUyQzk?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-08-24T07:00:00+00:00"
     }
   ]
 }

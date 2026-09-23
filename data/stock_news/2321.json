@@ -1,0 +1,21 @@
+{
+  "updated_at": "2026-09-23T16:35:21.015288+08:00",
+  "source": "Google News RSS search by stock code and name",
+  "code": "2321",
+  "name": "東訊",
+  "count": 2,
+  "news": [
+    {
+      "title": "Softfront Holdings收入明細 – TSE:2321",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1idE1SNENmOW9Vc3Q1czRibEtFdWlEcjBZVWhBNG1CTHM5V05QbFdGbnJtekRzc3BYcEpiRFZtczk2RjFneE11RzQ2d2R5UmwyQUx4RnpHbmtpeGlGMEFFNm11V0VueGZ3eDB5cTlHUnFRZw?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-16T10:18:26+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】東訊(2321) 八月營收年增1.71%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcldzcERUZjhZYndMODFfamtITU1LZ1VoZzh4d2Jqa3NINERSaFVZUDc0aHRNM19iUGFxYXNCZTI0cEVJOE52MVpELWdhbUYxM2ZYN2R6SUdmaE91dWptNEZoRXpWX2hnTXNobnJJeXVTTzFkclBFQTI2MkFQUHZYb3llN1B2dHFFeWc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    }
+  ]
+}

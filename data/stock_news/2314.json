@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-22T15:34:22.223878+08:00",
+  "updated_at": "2026-09-23T16:35:20.094098+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2314",
   "name": "台揚",
-  "count": 5,
+  "count": 3,
   "news": [
     {
       "title": "討論牆 | 盤中速報 - 台揚(2314)股價拉至漲停，漲停價11.9元，成交205張",
@@ -22,18 +22,6 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90eHlCMjFuU1gwbVhoNDJScGl0MGg4WGd3WEx0SGpSWVpfbkxEME9SWU8tSnlBS1hWcGZzU1RpVEQ4RDBwWWZJU3BCZUF6eDAzUnln?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-18T04:48:58+00:00"
-    },
-    {
-      "title": "「山不會因為你找理由就消失」陳其邁談2314天：不要牽拖，用新方法把問題解決",
-      "url": "https://news.google.com/rss/articles/CBMixANBVV95cUxNX2hQVHRUc3YtRW9xaExsMExLMGd1TGlTa3N2MEdBR1EzZ1p6VlBfdDJwNjhBQmhaOVM4SjJrWUJWQlV5bERsM2VOYTNDLXJTN3JnOWxvV25jLTYtem5NdndyUlotVUx4ZHdCZVgzenEwLUI3SjVxdjJrckNfU3ZYbV9tY01hYXJmNkNrYVE0SzUtTVZRRDB4Rk5NbzcybjBFdVRKZWt6VzJ5WEdib1FvOXVDWEhheW1ENGk5YmJjNjlrRC1LaDV3dklUdUNhNFJPRk5DdE5HSGtFVHU1NFNGVXdVYnQ4YnNhR0VINlpjRXpGalZkYndoeUNTQTdYMzNiTzNTakNETzdVR25fbUNUS01zZ2RoQjMxODhKcWs1amdFRWQ3Rk5vVHRrYWRxRU5mekwyYWg0SGJ6NEtBTjZoVzJNMENxTjRKOTZONXJreGwyQ0pFa3dSTEY0ckdIekRtTUM4cTVVOUJLaF83a0dwb0x2Y1dRMmRwQ2FMdHRQTkJHekZ2N2t6eXpIbFlraUg2eWNWQXJqUXczX1pOdElMVEdJc1IwQVRhc1c2cFYtYjVvdDZkckJJZTNTUGw0TWFZNHhpVw?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-04T07:00:00+00:00"
-    },
-    {
-      "title": "星鏈V3月底升空！昇達科、台光電、華通、啟碁、台揚...低軌衛星跟飛高盛看好誰？這家喊買目標價也上調- 上市櫃",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BQ1hiUUF3MkFycUNRM0ctOWdkWmM3aF9qOVE5ZWJpbHBsM1JySlZtT25wNUJQQnBjVTUyTktWLS02d3J6Vmd2UXdhbkZVMVBjdGhzVjlOTldOT0M2aXdhSVdfNnB2ZEs2T2c?oc=5",
-      "source": "旺得富理財網",
-      "published_at": "2026-08-24T07:00:00+00:00"
     }
   ]
 }

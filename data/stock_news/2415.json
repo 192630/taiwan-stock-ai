@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-22T15:34:49.740795+08:00",
+  "updated_at": "2026-09-23T16:35:48.644534+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2415",
   "name": "錩新",
-  "count": 9,
+  "count": 8,
   "news": [
     {
       "title": "錩新科技股份有限公司",
@@ -18,12 +18,6 @@
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
-      "title": "快新聞／美股全面收高！台股早盤大漲7百點 台積電開2415元",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mbWJKd1JyVFB5WEFJbXRKZHpGdGJic2FXa1RKRTdsV09MdHEyZTR0YnNqU3pWQV9ON2M0SWoxRTJoX0swZ080a2hiTDRzZ0RPNW56aWIzVE8ybFZoVXVNM21xZFZVQQ?oc=5",
-      "source": "finance.ftvnews.com.tw",
-      "published_at": "2026-09-04T07:00:00+00:00"
-    },
-    {
       "title": "錩新非揚聲器比重將提高到逾10% AI機櫃、機架件已開始出貨",
       "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOVkhUaUJ4N0xuTk50M2diZGR1dk4xWXdxRVB3b200b0xqQ0dTbmRrc3pHckxmdmlSUXE3S2lPYkNqRFl5X3lfaFNwZXloSW8zZlFnQk5hSDV5M0Q5X05EY2NOQ1dlSXo0N3IxLUhhcU0tVHVjOHBJS0pZOHZPLWNzS2pub19EQzVDclM2NUdMQy16bVotMFhlSFY2aHNTQTVjVTVFWW0wdXVOOUVzTjZSTzdJS3dUUVBkS0w3NkVSMm9UT0VkcmlSUmRoWkIzV2laU1BheTlPNVp6Rk8xUWh6QnI1WmlGeHBraC1WRkY0QlF1RTVZUkNZUi1GNnVZQWJVdW8zSFlFSjJrbmVyMVBPR2hyRlFFSTVJTlN0Uk9iRE1QSUJPWmdqTUlibHRGOE1WRUFHQlJKa1RWeEpIQk9VUUxOa2ZDQVFrR1JIRENTU3JLandiVkthWEZpcFVFWkVtcVB2MUxqN2hyVTNZd3h5RUNBSElRbGs?oc=5",
       "source": "Yahoo股市",
@@ -36,6 +30,12 @@
       "published_at": "2026-08-26T07:00:00+00:00"
     },
     {
+      "title": "台股反攻了！開低走高漲663點「直逼4萬6」 台積電2415元",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yNjYxRVU2NVZvbm1QMGRxZWVrM190b29JNm5xcTY2bEtTQ0VnNTBIamhDTHE1cVlucmQzNFNtRGx3SThVNkc2R1VjQy1oWTEyZHI0bnRMRmo0TFNoaEUyUg?oc=5",
+      "source": "民視新聞網",
+      "published_at": "2026-08-26T07:00:00+00:00"
+    },
+    {
       "title": "台股收盤／終場翻紅漲663點收復45K 台積電漲15元收2415元",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44R25CNWl5MVJ3NXhSTGN6M19Sb0wwdjNaaHEzYTFxbVJLTnRuNHRrWFo0VG9Pc2pySnRNVWtPRW5pZkZsUXBlX0FJa1pBeGM?oc=5",
       "source": "TVBS新聞網",
@@ -45,12 +45,6 @@
       "title": "台股開低走高狂飆663點 台積電漲15元收2415元",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZRXRQTlJIZUVNS1I5R25Da2xsQmtRNDdJcmZzaW94NzE4aVNaSGd6Tm1QdUwxOXNkRktxSEV3SnNXdWYwa0o4WTRNM1JfZWpaQmp5YzdQSXE4Zw?oc=5",
       "source": "上報",
-      "published_at": "2026-08-26T07:00:00+00:00"
-    },
-    {
-      "title": "台股反攻了！開低走高漲663點「直逼4萬6」 台積電2415元",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yNjYxRVU2NVZvbm1QMGRxZWVrM190b29JNm5xcTY2bEtTQ0VnNTBIamhDTHE1cVlucmQzNFNtRGx3SThVNkc2R1VjQy1oWTEyZHI0bnRMRmo0TFNoaEUyUg?oc=5",
-      "source": "民視新聞網",
       "published_at": "2026-08-26T07:00:00+00:00"
     },
     {

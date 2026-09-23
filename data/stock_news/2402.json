@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-22T15:34:45.818027+08:00",
+  "updated_at": "2026-09-23T16:35:44.710434+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2402",
   "name": "毅嘉",
-  "count": 7,
+  "count": 8,
   "news": [
     {
       "title": "2402 毅嘉 - 弱勢股阿。 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xajZlRnhyMFVydDJmYU84NFJkRlZaVjlkcmQ0LUxwSmxyaUhoZ3VaR1lNWWpnOEhxZE5fTktGWlcxQUYwMHAwTk1rV2pHNWVFQm51YktYRFU?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-15T01:41:30+00:00"
+    },
+    {
+      "title": "2402 毅嘉 - 好也跌壞也跌 你娘卡好雷。 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55bXFIX01Mc2Z3NFFpSlVtQksyTTFRX2dtTnNQN1lVQ0FzOFlGQjRWYkRSa2hJclVSRGlDY1JDMGp3QUVyZVpUazJQbmxGY0c2UExnYzVyS08?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
       "title": "2402 毅嘉 - 剛剛賣掉了爛股 爛爛爛。 - 股市爆料同學會",

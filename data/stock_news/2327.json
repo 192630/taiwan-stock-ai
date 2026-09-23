@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-22T15:34:24.328477+08:00",
+  "updated_at": "2026-09-23T16:35:22.691731+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2327",
   "name": "國巨*",
   "count": 12,
   "news": [
+    {
+      "title": "2327 國巨* - 嘎上去了 夭壽啊 國巨加油 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85SWt4bUI1MGhnY0NEWFBCZGE0WDdtWllPQXRVNlFZa1ExNjhUYWFwT1lzTGMzU0N4Ql9YbXU4OFN0MHkyOWkwVkxqeHZNSURVeXM0S3doWnU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T10:28:01+00:00"
+    },
     {
       "title": "【12:24 即時新聞】國巨*(2327)股價走強，違約交割紀錄與被動元件熱度受關注",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTHg3OG9ESkdOenhtNnQxTGNXTTduM0xqQndFMjM4Z2hqUzdNbjBUZWE0dVZqYlRocG11bk5HckUzdmk2T2t6M0liNFlPZXV3YmdQQ25weldkQW5FSFNTMHR6YUhHYmIzSFVqM1VjZzE3VUd3N0Jiamkta2pqcXlfRE5Oa0dTTkRtenR4NUhn?oc=5",
@@ -70,12 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53QkNUbW9rREpOMUoyN2tPNFczeVpXT3Z1cEpJOTNZYzRnLTBJZ0dpSm9ObHdkM0VVdGF3SWFXOS1MNWlBTkVKVmF2X0RKRWZHZkU2S0ZudDM?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-02T07:00:00+00:00"
-    },
-    {
-      "title": "焦點股》國巨*：MLCC漲價利多失靈 一度跌停散戶哀號",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BSm5NcEhtVFhkSGl3SzNMYkRMVkozQnBGbnpNdkR4aXVFdTZydkdiMTNIdHBQYzJSQ05RaGw2dmZrOHhiMFM1MWVPdGNiZHo1U1NLdjd1WW54eXRkN3dJ?oc=5",
-      "source": "自由財經",
-      "published_at": "2026-08-31T07:00:00+00:00"
     }
   ]
 }

@@ -1,21 +1,33 @@
 {
-  "updated_at": "2026-09-21T15:35:56.835467+08:00",
+  "updated_at": "2026-09-23T16:35:53.677659+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2429",
   "name": "銘旺科",
-  "count": 3,
+  "count": 5,
   "news": [
     {
-      "title": "【2026/07月營收公告】銘旺科(2429) 七月營收創近2個月以來新高，月增63.55%-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYmNXTTB5dW16b0lReURGZ0xxZWNja1UwR2hqOXh1c1gxN2NUNFB3bVMzM2lkZTRsZVEweTA4dnczVFRDNksyQUtLdm5YWFljMGhlaDNYYlg3LV9ldVJ1MGVJVGxXQjNHeW1JSDBRVVdVLVI1clhEdVF5TmpnT0Fzb1hIeDNaVWtXM3c?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-09T07:00:00+00:00"
+      "title": "《集中市場券商賣超比前30名 3-3》銘旺科(-16.86)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaWs0bzZoOENLRG0ycXN5LVNHckw2dEJJdFkzVTZNTG1PVVRTYlBoV2ZtNnQ5QXE3eGJGWFJXZm1hTmZaa2lWRFNTemFnZ2VyVVRaQkFJOE1maS13Y09EakdkWXZidHVZS0pqZTQ4U3dwbUduYkc0X3A3YTk4bUptQllOb0dBc3VF?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-22T23:31:00+00:00"
+    },
+    {
+      "title": "銘旺科(2429)-同學風向與貼文摘要 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZUTYtcnpsa1pWeTNTTDhiSWhHZ3Ewd2l0OGhBSWNDQWhzNm1DMDV2TDV0cjd2T2RVeDh5NzE5dS1jSnVVamJqWElUMXNwcFJmemI2SVpHbW0wUXREd2NmdlR3?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-20T23:00:00+00:00"
     },
     {
       "title": "【2026/08月營收公告】銘旺科(2429) 八月營收營收雙減，年減9.21%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQM21DR2oxZUFxNTdwUWlJUTVjcEZ2SFlyX2JoZ011OEIzX3RFVDJUOEEtNWFxTV9vc0p1b25uRU5ycEtlZlBIREJVcjU5U3NQMG8tX2NkQ3hVZHZxMFUwWUNZNEdvQ1pJSElFcTZjY3NCaFVLeDBwUldPaUJfNzR2TFVYVGZWVGRwSXc?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
+      "title": "銘旺科 公告本公司115年第一次私募普通股收足股款暨增資基準日",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44cjFxT0gzMkQ4dVllRXZnQVBMZ3Z2cHE0cmdjcEQ1UElQREYzZTRWaUp0Yk5iOVNuMDdmQmJwWGJBY2M2XzF1WEFUcXVMYjhsOFd5VFQxdVY?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-04T07:00:00+00:00"
     },
     {
       "title": "響應國防自主與智慧城市銘旺科技與實踐大學共築無人機生態系",
