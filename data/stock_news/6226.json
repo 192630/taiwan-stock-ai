@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-23T04:33:58.701166+08:00",
+  "updated_at": "2026-09-24T04:34:16.834798+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6226",
   "name": "光鼎",
   "count": 12,
   "news": [
     {
+      "title": "討論牆 | 盤中速報 - 光鼎(6226)股價拉至漲停，漲停價32.6元，成交10,722張",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Rcm1kLTI4eXBkUzVMeXluOVhkR0xQYUMyU1JHbWZ1RXNfX2dHV192eXFPaTdGMnRaYnMtM0o4OVZkdnlaRVBMSWZfSS1rUEhqNkYzUUI4V2dSTGlXRGQ3dEEzakc?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-22T22:56:20+00:00"
+    },
+    {
       "title": "光鼎股價十個月內漲快七倍 近40年的 LED 老兵在紅什麼？ | 科技產業 | 產業",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vTHJpb3k3ZWN0d2Uzcmc1bHdTY1FlVEdtZDg1ejZrVmdGWlZUSUtPbmNpMjBpako4UlA0QS10VUYxeGNuUkpBcEEzcGxxcjNTekZPeUpOdlJqYW8?oc=5",
-      "source": "經濟日報",
+      "source": "money.udn.com",
       "published_at": "2026-09-22T15:26:18+00:00"
     },
     {
@@ -18,10 +24,28 @@
       "published_at": "2026-09-22T09:38:13+00:00"
     },
     {
+      "title": "6226 光鼎 - 哈哈 摔死 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WWDFfVWZtcG1PakVKdG9xdHlzVU5fZ3hRZzgwQ1lyM0tQSkc0dklsN00wdllzb0RpSEpXaV9GNkZKR3BHMXJUVXBrdmZrTVlBX1piNmlwcmQ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T10:05:20+00:00"
+    },
+    {
+      "title": "6226 光鼎 - 漲爆 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zNXFzVmZKTzFURlNMSDdSeldabThXMDFlZjRLRTVCZnVzMklNQVZEdE1jWFlCei1STVFhRVE2ZzNZeVRvaC1IMDl5TElfQ0ZyeXpnVVVORUo?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T04:43:23+00:00"
+    },
+    {
       "title": "LED雙雄交易太火熱！光鼎90日狂飆279%、週轉率破112% 「這檔」也同步入列14檔注意股出爐",
       "url": "https://news.google.com/rss/articles/CBMizgNBVV95cUxQb0Q4Q0RpRzNwVTcybHNraVFMYXcyQS1UTjNNY1UzX1p6TmhNRFp6bDM4eUFBaUxtYW9VOEZjbUQ1ZjdHc2FmRWdxOWNXaER1Mk05T0x2VmhNWEtkMGhrYXBSODhadWVPREJmc01WNDByenI3NllFVkpvLVdhMVpsa0xqTi1fT3ZRVm14TE52SG05V3F1TzJxRUxDTHdBOXV3cXBxQUhRNlVuVWFaQW1ITG1GUzA1UjkzdFFUT25tVnZYbDEyTU5NNm1SLVp0LTdoSFcwaVozZkhnVDNFNjVZWW1rY3p5b2JoYmdpOWxzZzRjdXFaeFVKcThMZnB1bEJnRUxUcU5QelRSRm54cnNrZ29OLWRpc3ZFaTFjOFRVZ3daaU9nWnF2aXlBT3l6V1RrT3o4TGhGbjBoRXJDRnBTcW16b3dLYWtkTlJHT1ktNWE3eFh2clQ1Ql9iU0NiSVpSMTJnbVIzVHFGYTRZLU9sYWZva2RuZXJPQTBLSjN1c3V6MEhZczZZY1kzR3FMTXZHNGcxbnUya0ttQko2TVVBR0hEQVBja3hWdXJHeVNDSG1rN1dJYy1sQVZVRE1CR2V2QlhrTktYUndNakZHa3c?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-21T00:04:46+00:00"
+    },
+    {
+      "title": "討論牆 | 盤中速報 - 光鼎(6226)股價拉至漲停，漲停價30.95元，成交1,954張",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FQ3hLMXIzMUxUOUV5VnFhd25DSGtsWmJlT01pRkstbVNxNHBRX1c5UkVpNEdMeVNwZ1pjLVpmTHFUQkdrYUEwTWhLcHkxS1kxVUxWbGdtQldQUzJhTlJZRGlYRlE?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-20T13:34:55+00:00"
     },
     {
       "title": "討論牆 | 盤中速報 - 光鼎(6226)股價拉至漲停，漲停價25.6元，成交66,397張",
@@ -30,52 +54,28 @@
       "published_at": "2026-09-19T01:48:52+00:00"
     },
     {
+      "title": "6226 光鼎- 上市股價漲幅一週以來排行- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SblNvMWd5QzhLWjNsRTNBWjVzYzVTVmlDLVJyUlZYcGNvVmd5Yy1oZk9aVnNHd3pZSlhrT1BtMkYzbThDTHgwN283ZXVWdWxYTjVZQUtVSzk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-18T08:40:40+00:00"
+    },
+    {
       "title": "討論牆| 光鼎股價一年飆400%！從LED跨足功率半導體，昔日血淚教訓成轉型關鍵：最快不一定最好",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxWVJiQVdEMkUtNVFjdjdHNUVvMkJSbkYwMlYzNFNqZ0dSWk50M2hWeDdyRjF1TFRYN1NyN3hCdU1NUm55MGNYSldSR3Z2cmdpcEY3eXRueDc0SE1BUXVQLTR3TkI?oc=5",
       "source": "LINE TODAY",
       "published_at": "2026-09-17T16:10:34+00:00"
     },
     {
-      "title": "【09:39 即時新聞】光鼎(6226)亮燈漲停，短線主力買盤持續成為焦點",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRERnWGZpcWplN3duejJ2cTZoby1WaEJ4ejF2MzE2MTZPNWdqOTB2VkpFT1JfOGR5d3ZSTy1HWmNfLWpaZUVEOGNoNDdFVk5iRzNvaEp2M2tLelpkM2NkUUNvbnEwT2QtYzd0NmdTS05zdWNGMUl4TXAxX0IySWpzVGFJSE1sN3NCcllwMDhB?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-17T01:39:59+00:00"
+      "title": "光鼎(6226)做什麼？股價連二根漲停創新高，LED廠跨足功率半導體在做什麼？",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfRWsxNHg5TUdIakg1YUUzWlcxVnVVMDVtQXZkVUJweHBqMEppcTBqejQ0cTJjdWtMTjVqajZYOUQ2Nlk4aDhLUUEwYlgzVmtXbno4QXhPYWZSdnJ3?oc=5",
+      "source": "pocket.tw",
+      "published_at": "2026-09-17T06:46:48+00:00"
     },
     {
-      "title": "光鼎強攻39.9元漲停！三大法人連日掃貨 轉型搶吃AI商機",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE83ajhCMHM2NEFBNC1qVXFJU0h5ZTFWVHYxWGdUZlJuLVJiMGI1bkNpLW9JTTBCR19NcjM3OWJ2VjR6VndvY0xOWGRyTUlvUlU?oc=5",
+      "title": "轉型搭AI順風車！光鼎關注度升溫 連拉3根漲停",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GakJhVWpBUXNXdm4xWVlHQXFNb1hHQlJ4TVdxeEhfNFozWlozY190Q1o2NUpmRkk4bUdWSGhKd1dQdXNTMGc0Yk94TkFCem8?oc=5",
       "source": "TVBS新聞網",
-      "published_at": "2026-09-16T02:48:00+00:00"
-    },
-    {
-      "title": "矽光子紅一片！聯鈞、IET-KY、光鼎亮燈漲停 光環連4跌18.25%後漲8%、立碁重返70元關卡",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYmVPOHM5cUF3WDA1UTVqVTRTQkRLaVlaa1BLMk4wbkRHZkdnZnB5NjBydFA0a1ZjQzY1d0FwYXRiVTdxamZVaHFuaGp5bVR2dWJxMW9wdmN1eW5PY2JQQ0VWQ2NIc1BKQ3VPYWFORmhyV0pPZXh4MmlDaVJzSTIwb19NTXpwN0dhQ1B6eXEtdEtYTW1ENTBDWlhCMW8zRTNVTGVyZHp6aU9sZUNydG5zVWZteDlZaG9CdVFv?oc=5",
-      "source": "tw.stock.yahoo.com",
-      "published_at": "2026-09-16T02:34:58+00:00"
-    },
-    {
-      "title": "2426 鼎元- 光鼎股價一年飆400%！轉型關鍵：最快不一定最好- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fbHhtNjZkRkdBdkdraVlVN2l4U2ZZZkUxcDZZWXI3V0N0X3B6Vm5HRlo4T0hPME5mYUxVV1lMMUI5c1JMNFRpQ2kweXplX1FPMGQwazZ6eHo?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-15T16:45:01+00:00"
-    },
-    {
-      "title": "9／15台股雷達｜光鼎、華經、頎邦題材點火股價強勢原因曝- 證券",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5STFFBRmtOOHBGT3ZEY1BYQmJ1eE9qTTcyb1dJd1Z0ZjBjMjhSRUc4czYwM3BYYkZ4RWpxQVZWVFhtc1VKb1F1M0NoQ1N2WFAyaXlkMHp4N1pzNldKVmhn?oc=5",
-      "source": "工商時報",
-      "published_at": "2026-09-15T11:33:00+00:00"
-    },
-    {
-      "title": "光鼎股價一年飆400%！從LED跨足功率半導體，昔日血淚教訓成轉型關鍵：最快不一定最好| 數位時代",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HRzhqU2tKMktjNHpxd0FrcC0zSkQ4a3lxUjVwV0RHMk8xT0NiVkF1OFhIdTZfWGwtWkZXOUltUXVjR214MUtINi1JT0twN0ZET1dHUG1kTHBySW9WLVBqMDFfVy01OWp4ZHNab1RncGc?oc=5",
-      "source": "LINE TODAY",
-      "published_at": "2026-09-15T09:53:34+00:00"
-    },
-    {
-      "title": "光鼎股價一年飆400%！從LED跨足功率半導體，昔日血淚教訓成轉型關鍵：最快不一定最好",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5yWUEydFU1ZnhMaGhiS1dROXV0a3AxcVhZQXpTYkdPZWlIQTUtQzJ1WlF5X1JDUHN6aEN3QzlualRVRE43RmJhQzBlMjVmOWJkU09uQVRWUFNPX3RORF9HLXRrYklITHM1V2U5Rnl0emlMd05Kc2xFb2JoSUQ?oc=5",
-      "source": "數位時代",
-      "published_at": "2026-09-15T09:04:00+00:00"
+      "published_at": "2026-09-17T04:27:00+00:00"
     }
   ]
 }

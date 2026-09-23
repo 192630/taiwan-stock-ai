@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-23T03:32:19.413161+08:00",
+  "updated_at": "2026-09-24T04:34:06.951256+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6206",
   "name": "飛捷",
-  "count": 7,
+  "count": 6,
   "news": [
     {
       "title": "Flytech Technology Co. Ltd.收入明細 – TWSE:6206",
@@ -40,12 +40,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfa3RaVUc5MjVLdnEyS1R5U3VOVUQ5azlpTHBfei1OM3FINDlxSGJVZTZPTkRrN2FFU0NkRUhtdTNfekE1X3F1NzZCLWNsbXkxVDB6d3kwX3E?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-05T07:00:00+00:00"
-    },
-    {
-      "title": "6206 飛捷- 飛捷正導入AI (一） - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54aFNXQTRma1FWcmZFcksySkx2RU9VZlhfNkRhWG5ERU1Fb0kyajdLeTJyR2NQYUNyMldFbWpzSkVWbkc1cGpnd3dCRUtxdDItdnEwV1J3Yms?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-04T07:00:00+00:00"
     }
   ]
 }

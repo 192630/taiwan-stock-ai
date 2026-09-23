@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-23T03:31:52.905119+08:00",
+  "updated_at": "2026-09-24T04:33:38.890168+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6141",
   "name": "柏承",
-  "count": 9,
+  "count": 8,
   "news": [
     {
       "title": "【11:40 即時新聞】柏承(6141)股價走強，重訊記者會成盤中焦點",
@@ -32,7 +32,7 @@
     {
       "title": "盤中速報 - 柏承(6141)股價拉至漲停，漲停價55.5元，成交2,503張",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZZ3J3NFN0NENWREthU1l1VG43SnFTQlBMekVmajdQWXhsTl9nOEc3Y3p1SXF1MS0tbUwzR2toZ3BzXzFLdFQyN3FUWDFZdExkMnVva1FWQVlad3R6SFVBbGdvRmloUQ?oc=5",
-      "source": "tradingview.com",
+      "source": "TradingView",
       "published_at": "2026-09-10T01:54:00+00:00"
     },
     {
@@ -52,12 +52,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeHZLQ2J0VnFXdERvZVduODA2SWpxcE1MbnFOaWU3Nm12aGVtVFpFd19VR2YxTmgtclF2Z1ZXbjVtWUlZMDR2bTBrckQ2TVRma2ZSakFKUElRYkRKOUNKRXhVVGVvTHRNQzBzb19BRGQtQWdldmlNZUt3OUt5TmRMMTM4VGtFSFhENGxxWmtR?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-08-26T07:00:00+00:00"
-    },
-    {
-      "title": "柏承南通新廠趕上光模塊mSAP製程需求 下半年也不看淡",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zMWhpeWpsRUtYVDBFMlludEJMeXVYSS13Qkt4WXhEVUxTbW40dUtzWmxxbjUzbll5MlhFYW4tUzJQemg2TTJRWXJxc1U1SW8?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-08-24T07:00:00+00:00"
     }
   ]
 }

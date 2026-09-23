@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-23T03:31:59.321876+08:00",
+  "updated_at": "2026-09-24T04:33:45.919284+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6158",
   "name": "禾昌",
-  "count": 1,
+  "count": 2,
   "news": [
     {
       "title": "禾昌(6158)-同學風向與貼文摘要 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE92Vzh3MWYwZHpHRzlfM1NLZHhDd3JGeGZ0S1BST1NRSkdVbl93dTdNMV9BdzRVVTI4bnJTVkxjeXdWUlY1Tk01Y21xVHU2VkRHRm85NXUxenU5MzF5YVNVUWtn?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-15T19:50:10+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】禾昌(6158) 八月營收1.73億元，表現亮眼、呈現雙成長，創近2個月以來新高，年增13.68%",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVS1YcmlScDZIMUZ3YVhKLVgxNnN4Ukt3QlZIT2lhV19OUnprbWNpdHM4ZDJVU0c3RHZ5QzV3eGlFc3ZNdk9NaGM3anFFYVRNNktSUDE3bkc1SnZzT2RUVEV6U1RHU2l1R0N6bDl5b0xjSFZ1OEVUUXJIY2I2ZUxNU3o5d09NRWlHNmc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-01T07:00:00+00:00"
     }
   ]
 }

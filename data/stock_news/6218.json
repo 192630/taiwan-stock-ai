@@ -1,10 +1,28 @@
 {
-  "updated_at": "2026-09-23T04:33:55.068853+08:00",
+  "updated_at": "2026-09-24T04:34:12.967683+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6218",
   "name": "豪勉",
   "count": 12,
   "news": [
+    {
+      "title": "【09/23處置股公告】豪勉(6218) 09/23到10/05列入處置股，採2分盤交易-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb09iRGQtaERjUlFya0NRU0FBTzg0ZVFRVzNJWkFXSmJkUE5PS2Y4N3lYeDg4WV9UaW9VWEJFOFVYendCSjAtX0RLdlJyM0VwM0NiRFkzVDZHeHRMVXVTSHZXeE9wcHhLVW8yQzdRU3FHMXJBZWhNVXUweFpYR2I2aExrUE1ZVU5td2c?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-23T06:40:06+00:00"
+    },
+    {
+      "title": "盈餘：豪勉(6218)股價遭警示，自結8月歸屬母公司淨利2800萬元，EPS 0.399元",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMVVnaHFpcjhkQW45UFgzbG5JU1pXSmp5VEZfX2hfMEhhb3gwNi0wc0t3TlpMTEpLQ2RBYlJvcDQ0TEgySVE5UkZncE9pRmFTWF85UXdUZllVRmtIbF85RlBNOUo0UTFlNlphS2t5NlR6N3pIaVV6d1A1anFiWmVOT3VoejBtQ0Zf?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-23T06:04:00+00:00"
+    },
+    {
+      "title": "台股5檔新列處置股！全新、尖點、豪勉入列 今起2分鐘撮合 | 財經 | CTWANT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YamhveXRxb2lucGltM2FNY2tYeFZUaU9rbFcwZEpCdnpHSlhRMnFzU0pUVzJDeXlUVExGVVRMbjk3WVVLOWxObzdDNlJCZTDSAVRBVV95cUxPc0hveE9PaDlmZk55aW41ZEJqX2RtVjY5QVd5eXZRWk4wTFB2eFFpN1JJMDdWZDkxbkI1TGpXdnhXSTJBVHpUTFpfX1VPVFE1ZmRSVE8?oc=5",
+      "source": "ctwant.com",
+      "published_at": "2026-09-22T23:40:42+00:00"
+    },
     {
       "title": "台股5檔「抓去關」新名單 全新、豪勉明起處置到10／5",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zekpzVXZMNkVtMUxaLVNMTnBQdTNFRnZWc0dvOHpZYXJmWmgwbmdSMkJiaFRsQWsxeGpCVHRNUmhJTGVmc0RjNFl6SU5PbE5jM0HSAVBBVV95cUxNNjRvcnEtUXlkV29fbzY2ZUtzYzBrSE5FT1JzR2lLM3dLZmY4aU1UcnZKY2g1dTY0aG5iODNOVEdQNFVkSl9qcm5QOExKTl95NA?oc=5",
@@ -14,7 +32,7 @@
     {
       "title": "0922台股盤前｜台積電、聯發科與台達電三雄領軍，加權大漲538.09 點收47,718.84 點！綠能網通全面噴發，策略鎖定豪勉、聯傑、華經",
       "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxOT3NDS0Z6TGZvUWpJZEx6VmJuQ0lqSlpyOWVZN3RKc3hpcEFrOUY3d0JWS2s4enVRd1k0bjZwNFd0RFhBcFJzTjAtVGtrWGlxMGNyXzQ5LTZIZ2VWNUFZRzVjcU04WUhQS29DbS1MV1d1YzJlUVZvd3hHajR0UHJLYXZLUlRaWTNaVzF0bW0zbjNHT1JlcExNVHFJeVlpaDZzQkxIX3FpczQwU3JjNU9WaEtwTnZickdEdTQ3VzJLemg1YzBfYnhOLXZwcF9GRmV1RG9rS3JDek1sdkV6RVBHRjZBSmF3ZmF0WnpCZkR5M3ExWGl3aFloX2Zpc25wMk9lT0pxanNacjMxQTNwRk5WZnRwZFR3NVc1a2tnY29PcHAxZ1Q3SWgzTW90RWZiSFliWVhINUZyNmlQNEtKTWNxSVoySUlINDFEbzE4dlFkSFd0YmJRMEpzZDEzNWkxbVp1eE1mX181SkUtWmVfTlVIazdn?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-22T01:44:11+00:00"
     },
     {
@@ -28,12 +46,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOTNlV2FuaXdJcWVpS3lld2RaUjlrWGVLM29HUW5idkxhRXdkLWxoMmhrZGRRd2ZsVFVOcG9mV2JlUzVyU0dpZVBXYUh2djF6YTN0SFBXRUp0bUdtMHJPdEhFUVlCLVJVTGNPN0lYWklqXzI1UmVBSEFZMFpVQ2FhbDdPR3hCcWNKeHB2dThR?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-21T02:36:56+00:00"
-    },
-    {
-      "title": "6218 豪勉- 豪勉...應該會上攻百元- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5udlNrZkFMTGJyWVlKVnY3emE3ZU5OZ09VZXdselpOemhDM21fNXB0RGNiZTZRaE5MQmdFeVd2cE03UE1nNHNNWmFXc3hEYjR4aEJEUlItekM?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-20T02:26:05+00:00"
     },
     {
       "title": "6218 豪勉- 上櫃股價漲幅一週以來排行- 股市爆料同學會",
@@ -54,28 +66,16 @@
       "published_at": "2026-09-17T03:03:28+00:00"
     },
     {
-      "title": "6218 豪勉- 豪勉星期四第三根漲停- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iaUVmTF9rQlNBOFViNHJPLWlOWUloWnhSTi1URGZuTkNPNFQxQk5qRU5McS1XZUJMWEVyNmdUVHNYMUIxQlkzTEpXWnY5YzhrV2dnZnU0ZEI?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-16T16:29:05+00:00"
-    },
-    {
       "title": "豪勉6月營收暴增170%，7月又腰斬，這種公司到底該怎麼看？",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oR2h5SnZCdVg5SHRZMnBQNGZ0Y1lVS0EzNnVKbTB4bldRck0wSC1OTW9UVms2dGdyakpPLVNKUUo1ekVRVVltaTFGRmpGcWpkOG1RdnRacWpzUXNxeGNaWDJ1R0VpNTBnSnN6c3czTQ?oc=5",
       "source": "理財周刊",
       "published_at": "2026-09-16T10:08:30+00:00"
     },
     {
-      "title": "盤中速報 - 豪勉(6218)股價拉至漲停，漲停價54.1元，成交11,009張",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IVlJZeGU3dXIxQUhFajdab2NTN3NCTlFoS2lickl6VE50ajdvZXZEbXlRa2FSZWoxVGpjVm1nQmNiYThKS05Mc1lKVHZSUzRMb0hnSWd5b0ppdHhqYzBjQ2UtQ2Q?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-15T18:26:00+00:00"
-    },
-    {
       "title": "【09:37 即時新聞】豪勉(6218)亮燈漲停，資安族群買盤續集中",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uU3ZwMzc3OFBHU2pfSTBYZWxuYmc2VHBCUDU2N2MtSVJQRl9xczlpczJ0aHZrcHc4UmFyZEV2WWVmUHdNWHVBNkpDU2YtcXhoTDNZUmVTWDM?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-15T10:37:40+00:00"
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVUJ3VEQ3OEsyUVVsSFpGcURUX0FaSkNwaVcyOVdzY2dVeFFIek5reUE5NjducS1XbTdyZlJVZmowSmpEWTBlOXd0V2tkelBLcnlteGlCVUNIZVBMVnJqd1BFS0JFQmo4b3pSVDBZNFhuSE5qODZCMWttX2piZUNjQU5pa3pSakh5Z0xwQy1B?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-16T01:37:38+00:00"
     }
   ]
 }

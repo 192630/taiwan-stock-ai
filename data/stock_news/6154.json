@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-09-23T03:31:58.068344+08:00",
+  "updated_at": "2026-09-24T04:33:44.496647+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6154",
   "name": "順發",
-  "count": 1,
-  "news": [
-    {
-      "title": "順發 115年8月營收3.94億、年增6.83%",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54emJZZjVzU19oQ0x2bzQ2Ul9FWVBaSkVlaHdUcmhyNUF2bTZFdHVnSDNGS1ZCSFlkZXF4MGVyME52dmxpLV9MVFV4dkdORW5ZWG5BVjR5TnY?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-10T07:09:46+00:00"
-    }
-  ]
+  "count": 0,
+  "news": []
 }

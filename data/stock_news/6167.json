@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-09-23T03:32:02.935626+08:00",
+  "updated_at": "2026-09-24T04:33:49.402442+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6167",
   "name": "久正",
-  "count": 1,
-  "news": [
-    {
-      "title": "久正10/7起暫停買賣，現金減資換發新股10/19起開始上櫃買賣- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqaTJVSzBTUm5ZM3JUdmMtcXFENVpvQmd6QnRlc1JYNi1NTVA2Vnd4MFRuR2l3RVppVm42UDBkcEdzRTRVWnQ4Q3pJeF9kME9VTm52eDc3OHQ?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-16T00:57:01+00:00"
-    }
-  ]
+  "count": 0,
+  "news": []
 }

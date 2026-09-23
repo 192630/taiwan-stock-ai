@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-23T04:33:58.129966+08:00",
+  "updated_at": "2026-09-24T04:34:16.148425+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6225",
   "name": "天瀚",
   "count": 12,
   "news": [
+    {
+      "title": "中籤不是穩賺不賠！ 天瀚「2天2跌停」 逾2千賣單逃不掉",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNRmtGWUltYTVvdUk2VzhRT2duYVNXdEZYN1J4OVdmNnI0VE44M2hJTVpVcGxhZ2lreU5MQU1HWFlTS3g0UnlIMkxnbHJ1Y3pubUJQek1ZSFhHY1VyeUQxbk1Nak80NXlXUkVKZ2poR1lhMllUOU5TY2tsLXBfZy11NnNMRmxXalhRREdoekRlWEs1RlZWY2lVVWF2TGRFUjVFb2VjdjFDWjFQN3FDbXNqdDVUTGVLOEJrakFKaGRyR2wzOUFwTVdPYjF5SzlFX2E3cjAtU2VKMnh6a1ZjT1lZT1BvMGFYYWhvS3pxZXp4aU5fMjVNVzhtUnhYSkk3TG54MFppM3djMzNiRWROblhwTG5yd20zWm9FN0YxemF2VU9jTlduX2YzdGpzOTJ5VmJOQXJ3bFV5TVc2cGRJcklXUkdHZHlTczBtUEF0RFBYVUlvMW8?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-23T06:12:00+00:00"
+    },
+    {
+      "title": "拼手速！天瀚新股上市連跌2天 巨虹抽到現賠摜跌停",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBacFJSV1phS2ZoZjR4cEdlbzNSMl9hVThJNHp3a1c3cU93eVB2aGw3LTU0RFJPUEd4eWlGTVA0U2JHRzJBeXVoRURTWFRGbDh4TWfSAVBBVV95cUxOQ09oeXBqR0dWdHR4RHEtVjJHeVNkY1JGbWNwM0tkU2xDaThfaTNvekdId1hLWXcwY3o5WV9IWC1Vd2l2R1RpYmVLcTZ0R1VIRQ?oc=5",
+      "source": "ETtoday財經雲",
+      "published_at": "2026-09-23T04:45:00+00:00"
+    },
     {
       "title": "天瀚新股掛牌秒跌停 1580張賣單排隊 網憂成世紀*翻版",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlVC1MUnZyMzlrck1Md2RjaE1id2tRN2tIYzBqOEllUVhjdlNBT2NZWkQ2V2dReHYxZzBwNl9GT0FsTEZNNXNaSW1ScHo1UEpodEliX3RZMXZ2TEQ0cXlv0gFkQVVfeXFMTm9DYlJBQXA1ZllSNmhjeWdUQk13UDhHbnZHUnNaVlp2Vk9MNS15aWYzUkNuOHY5ZHdVYTl4U0d3eWRFRHY5UV9WRmdGcnotUEN1a0dJR3BOYnV6d25USng2ckxTMg?oc=5",
@@ -22,12 +34,6 @@
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9FcVhnQ29zd19CaEFwNWVBdE5POTJUMEFfdnFUTzE3OWtpQ0Y3cWtFcTlpWDhFeVBfNllyQjNJOWgzREQ4?oc=5",
       "source": "鏈新聞 ABMedia",
       "published_at": "2026-09-22T01:32:01+00:00"
-    },
-    {
-      "title": "6225 天瀚 - 現在是該慶幸沒有中嗎？ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rb1dJczZNVDZDbkFLSHlFMEV3NGV0Rk0zTkJwdXBlM0JPM2g5YlBsX09LZkl5eTc0MTlEZ1hQZUZXSTlhaWtkRGloenNmVVBVbnhVaFNFTUw?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-14T07:04:47+00:00"
     },
     {
       "title": "抽中股票卻先吃跌停！天瀚現增抽籤結果揭曉 股民哀號：割菜了",
@@ -56,13 +62,7 @@
     {
       "title": "青雲、光鼎、天瀚、世紀*再飆漲停！電子股光罩、全友齊亮燈 巨有科技、浩宇生醫攻頂鎖不住",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTTRXWEY5S3l0Zk52VDJ0Ny1ZcktNMWpONlFtUExTVS1KNS1JOTVmLUNVY2M2SmNzNUlvT051dDRFc0RFQUFlc09SSUlLcU9FZ04xYlNKVmd5ZWNqMi1NVmR4dGp2NE45X2lTN1l3QVdCNTRUZWtmMEtjQzBzTWVtdThzbGVmUFMyZ0wweW1fUFdSVEludjF5TjNKa2lFZlM4Vms5NEdudWJvRm5KSzN5VURYVS1CdjRPSG1FTVVPQTcwMmhLWEtEbUEyci1VRlZwN0tjQUpaR18zMjZpN2V2cFcySU1qUjBBSEZjQUxHWWg?oc=5",
-      "source": "tw.stock.yahoo.com",
-      "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "光電股綠意盎然！晶彩科領5檔下跌3%、群創也挫1.8% 唯天瀚、光鼎逆風漲停",
-      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPRkltOWVmd09ydlprdFV3M2xkVGRMQkV0QWo0d1JqYUc1NU9LZUp1RWRKM1VvRjlJZ0Q1TjNIQW8zV0I2ZXh6ZFllTW9pX1RtR2tHQjNpaXZPUFBuRVJ6ZnAtRHQ1amRyTV9IS2FXRk4yZmthV3JnYjczN2xxZ2I5djgtNVVSZWxURUVXSjE2R1lUdm5yU3JPTXd0MVVmZ2R1SGozTHBOVGZ4ajNTXzBhMTE0OXZxa1ZiVG52R2NYclgyemFZNjkwQTRkTWE4RjdFU2V3OVFHRU1PRjh5a0ZQZXVwRFFiQldKSzM2a25vOGtPaTVnb2E0NUpTY3Nwd1VGWjVyZjB0ekN0S0VnLWN0cG5panhDeUN1M3VpR3l3TnBuX0ZaelVuR1plVHphUVEzWXpSZ0pVMEp3dWZFZmZ6V0NFSUtvX0hmbnFOM2V6WERLV2k3QmQ0ZE9Jd0NpbGE3SFE?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {

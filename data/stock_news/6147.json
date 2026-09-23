@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-23T03:31:55.217155+08:00",
+  "updated_at": "2026-09-24T04:33:41.397948+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6147",
   "name": "頎邦",
   "count": 12,
   "news": [
+    {
+      "title": "頎邦(6147) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kLW9JTzhlT1g0cDdJZ1VBOG13WkJTb1U3c0dhOThGbUZIS0k0SFZod1JZLWFBLUlCUDFSOXdISDc0REZoNW4zaG9qNjJzS2dFVUJN?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T10:03:21+00:00"
+    },
     {
       "title": "【00406A】09/21 操作日報｜經理人新建倉頎邦，全面加碼半導體！",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xOXBpZHM0akI2Y1RIRm5jbHJ1Nms1YUgyU1pjeW54WnQ4dVhCTElmY2s2dEdtUjNERVlmYTJFdllVUzNVYW8xR3RieFFjdnJQZW4xbEJzcUxrWUlGUGIxUEYxRlpXMW40YlR6dmhuaEtQUnJ1WlZRMWFkb3pBUQ?oc=5",
@@ -19,27 +25,21 @@
     },
     {
       "title": "矽格、頎邦 選逾100天",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VXzRoSEI2WVJWN1QydFdXWVBUdEN0SUlmbjFTaElRSFdfUmJWV3ZnVExpY2RjYV95aE5sOVpIUFRQSm85YUJHdUtJbURaZ25wWmxCdDNvWXAwQdIBX0FVX3lxTE51R0JRSVp6VjhzUDBPNEw0RTNDWUF2V0xKck0zd1RyOVo3OXRZaDh2dUd5MGJ6a09mMmxVTjFyMTdJYWQ3YzVPNjlDdXk0U3l1NF9USjZyYzZwUXZmeDNR?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-09-20T09:00:00+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCR25YVmFHZDBYZVctaW85Ung1aGhSc3VwaDM5QjZQelRkYTQ2Q2ZBbkFfZFZxTXRoeXFvZnBNOG1wS1VkaGdFVFNVMDA2VzBZ0gFWQVVfeXFMTjVhSzVadE1pSjh3QzJDRUUwV3VOV3ZrNkZESzJLQVFjdS1EenF6RVhBa0JHNEZUdTJiTnhOWUsteGRpSFdZS1NyMjEteHBnVnh0X004a0E?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-20T16:48:08+00:00"
     },
     {
       "title": "新光臺灣半導體30 ETF 00904換股 納頎邦及愛普、刪祥碩及精測",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZNE02YktiWndsWEFONHUyOGtTS0k0LUh1ZExaNjZSODZJSFluWk5MQ2pjQ2hvdUc0WFZsaHBReHdQSWJMaXF5YkcyTlFRZHFrZk02OTJJM19Kd9IBX0FVX3lxTE5QeHZhX1paeFBhNXE4TE9UTmJsRXdnYjJXMG5XeUtQZ1ZBdFhKa0RhRGhPOGtvTFJQdUdGQm1mcE5YWkIwSHpKUmpPWWtRcHBwS3pRRUUtUXFRYUdDWkdR?oc=5",
-      "source": "經濟日報",
+      "source": "money.udn.com",
       "published_at": "2026-09-20T09:00:00+00:00"
     },
     {
       "title": "Q4投資攻略來了！外資升價股聚光 頎邦、緯創等入加碼名單",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MT0NaOWtNUV91ZDZ5OFJFMklxUHYwamtVN0lLYUhzXzZkRG5mZGpIUzFEbFo5OFk3ZWJXTzJTdkd1aG13bVRLejVMcWRwMlZM0gFWQVVfeXFMT0FaaVVPNGJtb2x2N0VKVkc1MVZVN09yN2tnekdRc2thTlIxY1NrZkVjUXc0Q09EcERFaDBJakM5Q051b09qODU0M3d2ZEMwNVRlc0RxNHc?oc=5",
-      "source": "udn",
+      "source": "UDN",
       "published_at": "2026-09-19T18:18:50+00:00"
-    },
-    {
-      "title": "頎邦籌碼壓力為何先於基本面反應？",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13S2RQa2JibjZqWGl6aHJreTFFd2x6WUdacEs4cVNFTkxVX0wxUHdEdXliSUlCWTZqVHdJdjRseTBzQUpXa1N4bnFKaFlqRS13THpXMl9ENThGeHBtT0t2UkZtQlVGdmJWcFB1eW5qdDE3aXEzaGJEamtwMA?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-19T07:20:20+00:00"
     },
     {
       "title": "6147 頎邦- 頎邦為何這波上漲？ - 股市爆料同學會",
@@ -54,12 +54,6 @@
       "published_at": "2026-09-18T04:05:13+00:00"
     },
     {
-      "title": "6147 頎邦- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1ZUxfZEtPVjNCdDZkTkQxN3RWYWZLOXJJZm45VnJuRjFvNHBRSk14dmZISkU0YkpTcTBCRDhCZEhvbjBmVmZrUkNlX0F5NEcwT0hSRzBmS18?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-17T13:47:32+00:00"
-    },
-    {
       "title": "頎邦6147 強勢反攻半導體測試需求回溫下一波行情能否啟動￼",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84dmVJSWhTWllxQm1kVjM5czRXMUllV3k2VDJSX0hRMmx5cC10TG9nT09RQVNyRGxEdnlzNXJwbVFNODFzRW4wUFVJSU1CQTg4MFRPb0FDTjE?oc=5",
       "source": "CMoney",
@@ -72,10 +66,16 @@
       "published_at": "2026-09-17T10:07:50+00:00"
     },
     {
-      "title": "6147 頎邦 - 先站穩200，一步一步來。 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nVjJwbmFiaERJMXl3X0JTbGp2UHR4bG0zLXdhbE1QY2FqbFZjX1NTeE1WZFNhak8tVVpNY1NHVFhTNkJnVHFnUzlyVGhKdWhaeTl6Y3VLRHE?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-17T07:41:17+00:00"
+      "title": "熱門股》外資續買進 頎邦連拉漲停",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ibUZIb0xTR2xOWVR0MTZ4U3FrdmNTQktMUm5NeVJpQkNWZk1UNFhGZFVCTnNBdC10SXpyVlBiVWg0SlVVMmlXOFFHSVF6Rlk5ZVJfcHljcnM?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-17T06:25:42+00:00"
+    },
+    {
+      "title": "《外資》買超股：頎邦、陽明、中信金",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZWVJeWNYUHJwcE5na0lUckhfM19FMjVuUVRiMDFSVmRnWEI1bzc3dkVrU3ZaQ0pTT1RjWkdXendKbnJsUF9IZVlpeU5JRGN1bzNOYXBFR1BVZUdfWV9WeHo3dVVfTlZiVFdhTnVjWmlvcm1NR3AxcE5tdW0zNnk5TW1iazJ5UlRU?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-15T23:45:00+00:00"
     }
   ]
 }

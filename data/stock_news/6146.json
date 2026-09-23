@@ -1,21 +1,15 @@
 {
-  "updated_at": "2026-09-23T03:31:54.701089+08:00",
+  "updated_at": "2026-09-24T04:33:40.824079+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6146",
   "name": "耕興",
-  "count": 4,
+  "count": 3,
   "news": [
     {
-      "title": "Sporton International Inc.收入明細 – TPEX:6146",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDaU13cF9GRlVMam9JSkVrLW1ZSzNIX2RQTDVkY1diWkRnTjB4YlliVFFKS195YVdHdkhqdVhFdEF6aE02ZWM4dmZaODZaN3pZWEF1QVoteUZzUW1mQXhMMVBFdXFDZ0RSUjlRSDhrRkhOUWs?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-16T13:28:24+00:00"
-    },
-    {
-      "title": "耕興營收／8月4.15億元、年增10.46% 推進 R19驗證 上半年配5.5元",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGb1k4ZDBfMlVGWVlWdEtIQ2txeVNHbFN0bkJoWWY4RmdwUGdOZXpBdUs5M2xjUjZCLXFhMFJnZ3cxN09lMzRlbDJUcTVSVElnZHZwU0EtS1FTcTDSAWBBVV95cUxPRDRvNFJ2TTVfTlI4ckoyMFVlVjg2N09FVy13SW03WGJGbnpSY1JHOW9VQnVsQ19Sam1PVGg4V3Ezel93TFlUYllpYW9sTkxlX0Y3cXhTblo2VC1SRllEYzY?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-09-03T07:00:00+00:00"
+      "title": "耕興8月營收4.15億 年增10.46% 推進R19驗證 | 櫃買動態 | 證券",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsLWNxbmZldkxyNUZ6Vm9sdXRZRnkzcFA4aXdmLXc0S01pdFU5cXRBSjFVVFNDSkJvSENzTXBvWjJoWTdKNlV6UDFSQTJfSXh0RXgzd28wUGlqY1k?oc=5",
+      "source": "money.udn.com",
+      "published_at": "2026-09-04T07:00:00+00:00"
     },
     {
       "title": "6407 相互 - FCC 轉單案件量進補！耕興8 月營收年增10.46% 推進 R19 衛星驗證- 股市爆料同學會",

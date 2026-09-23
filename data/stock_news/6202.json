@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-23T03:32:17.588048+08:00",
+  "updated_at": "2026-09-24T04:34:05.018982+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6202",
   "name": "盛群",
-  "count": 5,
+  "count": 6,
   "news": [
     {
       "title": "熱門股》外資大買 盛群量價齊揚",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13SVFySjVvOXRwdGZQaTZVQnNnRmI0V1NHaDFCem5FUkE1Ym5lZ0tjNFBBV1VhbDhNU3pLdVBhamNmX0dnTUZrNVlzb0hTUmJvN3lzRGNJODc?oc=5",
       "source": "自由時報",
-      "published_at": "2026-09-22T16:41:46+00:00"
+      "published_at": "2026-09-23T07:03:57+00:00"
+    },
+    {
+      "title": "盛群需求不淡，晶圓製造及封測交期拉長卡出貨",
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNNG5ndlVqSkQ5cUNjVVB1akd1UzBUdXVMZlp2NWdZaUtZMEtkQ0NNWml3ZUlSWENsRTFGNkQwbFMxeG9uSzFBRWVmYVl4QmhldUloek1PbTZQWHhYNGNKYzBSaXZ4a1RsbzFxZUhoa1MtX0YyNGV5TDBGemo3WDU3ZFRKSG5hLXJ4U2NyZFVrZDdpaGQyUGxWZmxRSTBzQ3B3UGJXSHNCWDNjaE8tdklvemgxSkduMTJKanRGQURqd2V1Ny12T2xFbjVZNVRSSTJ2WkFOV1dXbEJfQ2doYkE1bmlKazJnWm1CV0NOWDVVS3BRb1BRazd6Nl9JWlJmZnlNcmlycS02SXotaS1LQk95SldzQVRqdW8tRWdfMFVHNVFZMlJYYWZtRDRKc1g4Q3hfNmV5Wl9weFBFSGIyTm16c2tYVGFhM2NWc2Vpcw?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-23T03:56:43+00:00"
     },
     {
       "title": "盛群擴大綠能布局，成立專責單位",
