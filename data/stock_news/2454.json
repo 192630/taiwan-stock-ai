@@ -1,26 +1,44 @@
 {
-  "updated_at": "2026-09-22T11:35:51.541129+08:00",
+  "updated_at": "2026-09-23T11:35:22.805311+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2454",
   "name": "聯發科",
   "count": 12,
   "news": [
     {
+      "title": "個股：皇翔(2545)9/22取得聯發科股票157張，每股均價5,322.24元",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWTZrdUdPQlExb0NXT0dHUU40cXFadHYyT1psV0RyVmJlSDZyR0lXSW9lS0pLT25CZXZfa3ZFTGVkUFZvamowRnNLWDQ2ejVRREZMcl9JaVA1c3Q2UloxVGdtUnhFaXNiS0gtdU12MkpaWURkY0dqaFpHckJURGtsNExITlUtUkJa?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-22T23:07:00+00:00"
+    },
+    {
+      "title": "Muse暴紅 聯發科股價閃現5480元",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jU3NXWEN4ZWgyd3Q3MXNkc3JwSElmTllnaGZNVGpidWhVWlhYeEE0T1pieThhVWtKTnVDRkV6cDdpTzBuRHU5aDFpNGxNaEZBLU9YYWNzdWJGVHkwR016SjZpc1pqbGtWQmRN?oc=5",
+      "source": "中時新聞網",
+      "published_at": "2026-09-22T20:10:00+00:00"
+    },
+    {
+      "title": "焦點股》聯發科：搶單傳言衝擊股價 外資力挺市場低估",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WTzEyNko2MUVoSFkzWk1sR2tZeUlYb01PYnVwbHphOE5kUk9SUzFRcllZRUVqbWR3U09LMEVZcElwMGtSVGtELW9laVJucGRtOWxPZV9HREM?oc=5",
+      "source": "stock.ltn.com.tw",
+      "published_at": "2026-09-22T18:47:16+00:00"
+    },
+    {
       "title": "魏哲家又開金口！笑喊「股價趕快追上聯發科」，台積電站回2500元、聯發科再創新高| 下班經濟學| 財經",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE43OXpSNy0tcG9ycmExMFlxZlh1bk4wczNWa3dRVGRmMDNHUnk4elJoZWt6bnM1NUpDQXh4bUROOFoweEF3bmxDMHVYME56UQ?oc=5",
-      "source": "風傳媒",
+      "source": "storm.mg",
       "published_at": "2026-09-22T02:51:41+00:00"
     },
     {
       "title": "個股：皇翔(2545)9/17～9/21取得聯發科股票111張，每股均價4,804.80元",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV0JjOUx2V3kxSXQ4a3VDM09SRzk4ZFY3X0lSM2V1OURPSE5rV3U1VW5PMVVReHlIVWVvWnQtcmVJb240X256MENKTjNWYTk5WXBsbWNKbWpBcUotM1BtUE5YYktleGZYcmRjRGlFeFB2ZFVaN3ZudUdPU3NiM2Z1NnhNOVd5VnhB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWVRKOVBpU2g4UDdtTEdGSmVPYVBRbHc1MS1TNkdKY2pEYW0ycnBHaHhzSjVEdWk2WmZVWWstNHJobFlWVUhSNDN3aHZ5ZE55dURiQ2JfSzJ4bmFCNGEzZXUtcG1yTlN2bGFrZUNNLTRYdGhPa2NrZXRrQjlZbTg2cU1FUWM1cjZH?oc=5",
       "source": "富聯網",
       "published_at": "2026-09-21T23:05:00+00:00"
     },
     {
       "title": "台積電要衝5010元？魏哲家同框蔡力行喊「股價趕上聯發科」",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LOWZ4X3hSUTUyUVcyQldubEdrSTJZVDVVbktlWEVVazRTWEl3UGNCYVZLeTdkc2FhVlM5U3M4NTl3Slo1V0twbW1mUWVsN0JNX0HSAVBBVV95cUxNV3Y0bGkxcFdmRVpyc2xvaE52dkpHVjNxY2NSQnBaRHJhMlUwT2otakJLVDh1ZE5kQl9rRGRnWXl4RTFOYmxiTTdudkpMZGVCWg?oc=5",
-      "source": "ETtoday財經雲",
+      "source": "finance.ettoday.net",
       "published_at": "2026-09-21T14:17:00+00:00"
     },
     {
@@ -42,9 +60,15 @@
       "published_at": "2026-09-21T02:40:24+00:00"
     },
     {
+      "title": "2330 台積電 - 聯發科股價創新高突破5,000元大關- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SU09NSHJ4azBnekZWUU9qWm43YXdKdjVTcWFtRVB3Z2hQWHFFV0RqN3ZMd3BacnJLN3QyQmxIUlJPWmtGc2FQUkVJRnZDZ3BoSDhjOVRVZmU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T01:27:43+00:00"
+    },
+    {
       "title": "聯發科股價創新高 突破5,000元大關",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wTmlfZ2FkSm1DREVpTTlmdjQ0VnM3eGF2d2o0R21pY1JUUHpFQ2w5VUxGTDlvN3E3OVFobGRFd0FlZ2c1VXpvZU4wSnhPVV9y0gFWQVVfeXFMTm1maVo5LUFPQ1VhRnpvMk44ZGVLb1RyRHV4dXMxLVQxa2psa0M5cnRvMGNOSTlsd3NlM0tSaGZhdEVuSkdtUjZOaTUxX2NQOGxCQ3NQQ1E?oc=5",
-      "source": "UDN",
+      "source": "聯合新聞網",
       "published_at": "2026-09-21T01:22:03+00:00"
     },
     {
@@ -52,30 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM2hSZHdadDUyOGdiSjV5R2g1dG8zM3BidGlkVXNZSVdncVBVc2tFVXh5VnZ2aFZPWFBZOFo4MGJ4X1FGV3c0UUlERmhLY0gzSWlTa1lfZkpJOEI0UmVic2k3T19lUk1tY1VOYUlkWEhmNS1yMkY3MmJnVHFjalk3MlZic01CMU9S?oc=5",
       "source": "富聯網",
       "published_at": "2026-09-20T23:04:00+00:00"
-    },
-    {
-      "title": "焦點股》聯發科：搶單傳言衝擊股價 外資力挺市場低估",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WTzEyNko2MUVoSFkzWk1sR2tZeUlYb01PYnVwbHphOE5kUk9SUzFRcllZRUVqbWR3U09LMEVZcElwMGtSVGtELW9laVJucGRtOWxPZV9HREM?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-19T14:03:20+00:00"
-    },
-    {
-      "title": "精元處分聯發科持股",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBrOUh4SXFDRnllNkJTS2hpc0hsMGFvS09zaG5ydFJOQThZRGd5cVpnUGZkN0dnb3l5QzktT1RIMEpBM3JhdW5YZ2tFS0x4LTRS0gFWQVVfeXFMUGlHMnJIZHo2NHVxNHZIeGNQOVhHRDByUWkzNk9DaU52aFZsc0ZYOVhVVDJEWDhENFYzdktjS1BfQ2s4ZHJMa3FVeTlhQ0hpdDE2cnZNUWc?oc=5",
-      "source": "UDN",
-      "published_at": "2026-09-18T14:50:09+00:00"
-    },
-    {
-      "title": "個股：精元8/3-9/18處分聯發科股票97張，均價3970.57元，獲利3275萬元",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUHluWjB4UVRCRU9hVTZESEJOTmNiSkl2V1ZCYmZHOWpudi1lbnRrcjZ3UnpSQ3JlQ0h4cXRsOHBhRXhYU3hjRXpUaGd2V0ZRcFBHSExvYnNwZGRRQUxUUGVxeDdKdzdMU3NQUHRJc0RRZzJCY0lITXRDTi0wNVlaMzM4dmVpd1Z6?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-18T07:10:00+00:00"
-    },
-    {
-      "title": "AI ASIC商機看俏 外資調升聯發科目標價到1萬",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE51Rm5kOWNKTHBJSFhDVm1mS2o5cml5WS1KaGhqVGlMdllsMm1jUnFLVFRXaE04aW1WbDdrZ2RFcGF0STFLdU94eFI1bTNNMUhwanNaRjdpREo?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-18T07:01:07+00:00"
     }
   ]
 }

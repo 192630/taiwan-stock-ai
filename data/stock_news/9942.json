@@ -1,21 +1,15 @@
 {
-  "updated_at": "2026-09-22T10:34:44.345656+08:00",
+  "updated_at": "2026-09-23T11:35:17.080062+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "9942",
   "name": "茂順",
-  "count": 2,
+  "count": 1,
   "news": [
     {
       "title": "茂順明年營收有望拚高，股利期望維持7元起跳",
       "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQVlBObnRHWFpzaXdnVWQwWG1fYVFwR0FzTGRFRG5USkM2aHlDWWVpeUVBUXBLVjRlMUFuYzh4MjJVbVN4Z0ZoTVFSS2wxUGtwZkVhN2w1UkxEaTV4am1oZjFkRFFacGF4MWs5blJUdHoxMGZLTU16ckFvLTFYWEhncjdReTM3V2V0YlZTVGFrVVZYbm9ZeTMyN3dmaFRkb2NyYTJWNzFwdmpFMXcyam9RSnU1bl93QzFleTZnM2RDZDJWbVUzdVdJT0l5YjItdFF4MjlxS0NiMlN2RV9LNzdDZ3Uxb1hnb1REZXZLNmlSem01dWw3U1l5MTFXS191VEc3dEdFdjdkR3NFUGNWWUZEY2x3cVBFT0hibkFOWUpxTTkwNUpOZ2I3SDNxVjJWNkdqcnVnRklObDA0amtXU1FSU0JB?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-17T07:14:00+00:00"
-    },
-    {
-      "title": "茂順(9942) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3VWJlNC1jc09HSVc1VnR5Q0hZTndyNk9nZGRvRjhhMVA3NDhSMjFLSEdXZjI4aGVYUHpfVklMNS1NeWlMeThQMjg0QUFGclNBaXpn?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-05T07:21:57+00:00"
     }
   ]
 }

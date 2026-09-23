@@ -1,15 +1,39 @@
 {
-  "updated_at": "2026-09-22T10:34:29.859718+08:00",
+  "updated_at": "2026-09-23T11:35:04.386303+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "9904",
   "name": "寶成",
   "count": 12,
   "news": [
     {
-      "title": "寶成(9904) 09/17 三大法人買賣超",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3LUN6cWs4XzdLTlJ6WjNzN0c2NkYwb1VSNTRQTTYwQUQyNGxRU2w1aDZpMHhCT0trZ2hKUkE4OHJBaGhiUDJCT3lLZWFkang5UFhLUzNFY2g?oc=5",
+      "title": "TWA00 加權指數- 9/23【寶成vs安踏、李寧】 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lVkV5eFk1WkFQemxmZ0J4Z01FWGZGcWNmVUV6bFVNSldfR1BqNGVpY0hZSVROaW5qWnB4cGpwbjl4SGJGZmJMYWRxTWZ3YnVERnpxMDI5ckc?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-17T08:28:21+00:00"
+      "published_at": "2026-09-23T02:53:04+00:00"
+    },
+    {
+      "title": "9904 寶成 - 不算什麼大利多 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5bWp6TmVTbGZjS0lqYnRwZFNNdzF3UDQ0bmVFVm92TTk1ZEN1YXAwcFhIbEhwRUhOTGw2aHpKelBwVTNXM1owTzJmcnZUYnZIX2pUM3A1QWE?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T13:19:05+00:00"
+    },
+    {
+      "title": "寶成(9904) 09/22 三大法人買賣超",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xYkRuc2w0SWhtR1RmcjZrNkFCbUtjLU0zdkFFSVp0Wlc0YnNiUmE4aUVsa1NhWmNuSDl4SGVmV3ZXdThWQ0RzUURGN3doTC1XNThCbTBETnQ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T09:00:20+00:00"
+    },
+    {
+      "title": "寶成(9904)-同學風向與貼文摘要 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XUkxLT25SSC1VU2xBazEwQzUxTVdHbnplajlEVmMwNlFZQzlpX2ViX0pFYTFVTlM1V0ZiQVhkaDRJekNxUThrbEVnbndzM19QVnRaZnFXRGtxdkhVUHhib3pn?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T04:05:15+00:00"
+    },
+    {
+      "title": "寶成(9904) 今日股價與討論 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1PclJPQ2RFZktYTzlvN1l6NEQyU19NN2x6bWlMYXFoUURveU9HRHRkODFISlNlaXNNc2t3bFFMS2Nlc1ZSRVpxQ2E5TnY0Vlk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-17T07:00:00+00:00"
     },
     {
       "title": "9904 寶成 - 慢慢爬吧！ - 股市爆料同學會",
@@ -18,22 +42,16 @@
       "published_at": "2026-09-17T04:06:00+00:00"
     },
     {
-      "title": "寶成(9904) 09/16 三大法人買賣超",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GMk00ektiV25WdUpJcXJ1X0R1TGZoZTVmcGVKdlhMMUdkYVoyYWh1NnhOYzB1MEp2elRKWk00Q05mYW93T0pDVThuYjdmT0pmOGdwWHozTXA?oc=5",
+      "title": "9904 寶成 - 8月年減32.07% - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mdlNITEVsNXIzdXBJbE83c1BkRU9VdjV6bTJMQVJ1VkhidzFFNDBZcmlPbHB5cUZ6MFljWk9wNjdaX18ydG1xdVpYMHpsRVFzeWl5dmtUelU?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-16T08:19:25+00:00"
+      "published_at": "2026-09-16T07:22:03+00:00"
     },
     {
       "title": "9904 寶成- 每次反彈上漲，沒有一次不是虎頭蛇尾- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3eC1pMXEyWnM0SXVjdWVxaGJTV3B1VENDMUw3bTl1MzJLXzVScXRyckNHUENRMGZuQ29hX3JldklsSjdvQXBRaDBYU0RodHY0NklncnphRjU?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-16T01:41:30+00:00"
-    },
-    {
-      "title": "TWA00 加權指數- 9/14【寶成。折舊費用何時會有轉折？】 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KM3I4Q1BSbEo0dkVncFRzX3NyVmJ1UzZjNE90WXBpYzFvSFdCbVFMSkxyeW54TERPSU9odXBHVGtxbzhMbVpkS1NBS1RBbFExbDBwbWtIQ3k?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-14T08:09:21+00:00"
     },
     {
       "title": "TWA00 加權指數- 9/12【寶成。是否有研發AI智慧鞋？】 - 股市爆料同學會",
@@ -54,28 +72,10 @@
       "published_at": "2026-09-11T04:12:02+00:00"
     },
     {
-      "title": "《集中市場券商賣超前30名 3-2》長榮航(-1460)、寶成(-1346)",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNjJpZFlsY19qUC1xa3R4ZG9aTldPRDlxV0hBUGRPR3lIZlVsRUpzU1FtdnNjZGR0MlZkb2x3S2Y4ZUdmbHpFaHZZbnVtV2ZtSWg3REhFX1VrTVl1ZHMyZmZsaE1pUnhwUlU4allEd21oa1poZDRqcXhvcHBBaHhsTlRJbm1FNVlG?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-10T23:29:00+00:00"
-    },
-    {
       "title": "9904 寶成- 回應寶成- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBya3FLcGVWV2dTLW9tNW5QZlhPbU91WFhEV0NUUTlQZlJTbUYwT21fRnFGTmppa3k2U05UZFdRMk9xWFhqa0pLX012STJwWDJyRWdybzNqckc?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-10T13:57:27+00:00"
-    },
-    {
-      "title": "寶成檢視",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02Si1xSTN5RzhaTzN5ZnNDOVlyOXpMYXd2cnU0TDZacjVsbGIxdTJWNjdaYnZHSU9tSUtqU3pUN0pVb2FaeHY0YThhNFJFbDVQWDdaUDNwcG4?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-10T09:35:11+00:00"
-    },
-    {
-      "title": "9/6【寶成。9/4。線上法說會】",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBsczBFdmFLNEJhQk5oanYzYk9iY3dZVHVUTTBVTmk4Wmw3VFNfSnpCWEljUzBfdzh4S1o5N3doWjdZUVpicEloa2lwMVI2blNCY1RDOFVSeTA?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-06T07:00:00+00:00"
     }
   ]
 }

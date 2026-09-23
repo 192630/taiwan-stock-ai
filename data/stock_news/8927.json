@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-22T10:34:19.931038+08:00",
+  "updated_at": "2026-09-23T11:34:55.405273+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8927",
   "name": "北基",
-  "count": 7,
+  "count": 8,
   "news": [
     {
       "title": "Meiho Enterprise Co., Ltd.收入明細 – TSE:8927",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iNFFjSnV5TkRzRERjQTNvdlNfcmFSNjJQMkFNTGp4YXBmdHJRZTItN084Yk9leG0zUjYwU1NCRFJWWldQVFNMcWlOa19NTkRrT0hvTG9DRDlUcC1IdlZqVF9iTmlhblh3MlhEbVpVNG1QUQ?oc=5",
-      "source": "TradingView",
+      "source": "tw.tradingview.com",
       "published_at": "2026-09-16T17:04:44+00:00"
     },
     {
@@ -16,6 +16,12 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYeU1Rc0tlMEIyMmd1TUhmSy1Ya1F6Y1BkLVltVld2WEg3aWhpMUd4U3haVkdRZXRnTlpYUkJ4VElfSEJ0WmoxMGMyQURqaHNiMGd6UVI2U2g?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-16T11:00:10+00:00"
+    },
+    {
+      "title": "北基(8927) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MUVpzZ1ROdHBnc2h5YkVtSU9fLXZHSzI4bU9ZcXlsVW5qQ2hIVngwejNGWDlQQWJrazlsZDk5SVpYQ2h5TUdaRlZQcHNCbnk0YTlB?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-10T09:47:30+00:00"
     },
     {
       "title": "8927 北基- 北基董事會決議以債權作價方式認購三地能源私募案，上限3億元- 股市爆料同學會",
@@ -44,7 +50,7 @@
     {
       "title": "北北基「這2天」颱風假停班課？沙德爾逼近，7縣市侵襲率破6成，1縣市82%最高 | 李伊晴 | 風生活",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tR2xDTlhmVnNTb280WHM2ZXlfWVpzaG83OFhfZS1yWmh1dllVeXcweFJmNGFxb24zMnFRdUVNdFVjaFRNY09FcnlkWV9pT0k3?oc=5",
-      "source": "風傳媒",
+      "source": "storm.mg",
       "published_at": "2026-08-24T07:00:00+00:00"
     }
   ]

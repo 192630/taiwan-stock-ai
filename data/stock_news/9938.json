@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-22T10:34:42.254388+08:00",
+  "updated_at": "2026-09-23T11:35:15.297581+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "9938",
   "name": "百和",
-  "count": 8,
+  "count": 9,
   "news": [
     {
       "title": "9938 百和- 慢慢填燃料嘎到奧運年- 股市爆料同學會",
@@ -13,9 +13,15 @@
     },
     {
       "title": "永豐銀行主辦百和興業1.5億美元聯貸正式簽約",
-      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOUFFqWW5QWndaWXppejBQbGZkZm14Y3RmUnp4cUZKbVJTTDJxZzZtZk5TVXo5eEZFbXFRa0ZhWmZpMXRZX0szVWNxbzBpVGF3MWtZTEtxeXpYYy1ZODBQRzdEbVc0bVNLb2E0aC14am9CY1VmV204UWtELVdGd3dQQjNGdnJGTVJDNWhEdFBSX3U1bGg1emVCWWN6ZHJBYmpYZnRLNmNXdzVoRW1zYXNiSmZxQkNRTC12dk9DdVh6R3dHOFhpV2h6d2p3UjFQbm8tdWFoWXhBWTdFN1huQUJFYTNLZEw5T3FMRjBrdVhXVnhqdFlDcDdOT1hLNjdmYWIyaHVwUlMxVGIwOVdZM3hHbmEzYVItWVMxbkhHN3hqMjQ3U2ZIRmxJbkJGc21kUndaVEliZ3NURUFhVWs?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-17T03:54:43+00:00"
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQQ1dHbUhaN2c5dnNseUU0ekZPeGVGMmtlUVd1ZUNHbkNfbC1Qb1ZIYUtQbEQ3M2dlRmp3X2d2Z1BGWTktd3NOc1Zkak80WXV3NUkyZk92X0Z6a1pnREs3NVpLTnJPU0k3aWQ1a19udXJpazVpYnR1OHNTNEo2a3lBdDlrYzQ0VGxfYlA0a3p4cndIemRRa0NLRF9FUGlISHhSdUJ6MjA0NHhueTYxdlUtNjZJMGZGVHBwZFk3Smlrdm83bXVHXzkzMkhVSVVxX2J1TlBhUTV6T3duUm1OVGZ0czl0UFFpOEtaYzNmbEtMSHRtN3IxUnVNQWJ2S05UWDBLVHEwaWxxcWZjNzd6anVxaWxZRDRtc1BVM3hJWjllLU9KZXRjc3gxa3RoNzYxQQ?oc=5",
+      "source": "Life 生活網",
+      "published_at": "2026-09-17T03:49:31+00:00"
+    },
+    {
+      "title": "永豐銀統籌百和興業1.5億美元聯貸案 今正式簽約",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1IdVY0dDNoMjcxZGo4RktRWkRjdjFPbExWVUFacGNMSW50WjkzcXB0Q3hCTlVRVlBmOWxmeE44aW9wekM3Y3E4WmpYYnNaVkxQX014RDVUUnc?oc=5",
+      "source": "stock.ltn.com.tw",
+      "published_at": "2026-09-16T09:35:30+00:00"
     },
     {
       "title": "百和興業-KY自結前8月合併獲利1253萬元、年減97%，每股稅後0.03元",
@@ -42,16 +48,16 @@
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
-      "title": "9938 百和 - 幹 一直跌 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1CMmZwcFI4cndWTE1FUHdnTXB6eWE4dmdWeUdGTlBFTkZOcW54aFBRUDVsYVJnVWhZc0JBLWJfcENKY2F2TTZFMjFSQmFFYkQ2NTBGMU1xM1A?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
       "title": "9938 百和 - 今天應該會止跌了吧 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE51MktycF9waWlXZGlBQU0tck9ocHJFQ2c1LWdEUWdpQ3VQZDlrT0ZNV1hoMTN0WVpScFRSSFFpdjBMb0I4SlVWMXkxMnMzMjU1MXJ3a2pzR0k?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-07T07:00:00+00:00"
+    },
+    {
+      "title": "8404 百和興業-KY - 莫德納「癌症疫苗」問世1天大漲176%⭐️新冠疫情進入流行... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HRHBwVmVSOExsY1dBWnZabXdtS2p2bDYzQlFNTzBGeFNYRGwtb3JxVk5qM09fOHllSVNQa2hKeTV6cWhfMUt5LUN3T2UxYURLeFpoakEwaEE?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-04T07:00:00+00:00"
     }
   ]
 }

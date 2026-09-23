@@ -1,10 +1,28 @@
 {
-  "updated_at": "2026-09-22T11:35:50.957815+08:00",
+  "updated_at": "2026-09-23T11:35:22.175968+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2330",
   "name": "台積電",
   "count": 12,
   "news": [
+    {
+      "title": "台積電股價趕快追上聯發科！魏哲家開金口「2330比肩2454」奔赴5000元？真的非空穴來風，這時間就有機會",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTVpWa0xFRWdSV2pQZ1BXU01OcXc1Uld2SWIybW55Qk9JS3ROM1MwMGtFVllxQXdhU2tCRlBlWVBvSnZnQjNNOU5rbE9rUURhbS15Y3lFUFVfZGpaZEFON3JIMDZPam9ST213ZnJDbFRDR3RfcjlMWjg2eFFvVXJpZQ?oc=5",
+      "source": "今周刊",
+      "published_at": "2026-09-22T07:00:00+00:00"
+    },
+    {
+      "title": "台積電股價準備奔向5000元？魏哲家當面對蔡力行喊「1句話」 投資人嗨翻：訊號來了",
+      "url": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxNU1dWU0Fhb29rQ0JKVXotU1dsbjJnZzlFRHloSk02NWpTM0U3N0NrV09pdk5ZSUpLRWh4MGw5RDRybjdkTVFlVEhjM2I3M3diTWNQd3JPVVVvN1JDTVgzQjFXbXF3OFdINnN3c3VsalVadDRfbG5IYlJLYzhpS2VzeFlmRzVZM25GSnlLRU45Ql9FYWVUblgwTEFxYUh3aDdDSlZtQ0dHSU8wdVdsVUpWc0N2bUpZTEx2aWl5Wmx1NUZzWWNUSjRubExudEYwVjVCQnhQdzdDRmpCUXAxMGpCMXlEY1M5ZmtXcVc0OURoZTljSThDM2JUYnFLampBbTFpaDNQYnpLb1Y1Q0lld3NpNnlld051Y0pyWnduUDlEdzNQdXcyNmoxaERnTi05dC1naWlXdllIMjFkSEQ5ZURHOTFyMTZMNl92clBaQWhXWEh0M205Y3Nkd01rMEtBQzRvNU1WYVdyTzdwd0ktTEJHWFpUWWE3SE50bThBNkdXMndVaHViQnladWJDMmNHV3RLXy1Xb3Z6QXlVUF92Nm44MUt5Mk81cDVldDBySFZlcUFiTEIyOWhxaXhuRTlLWGp6RWRNWGJNcnNIaXhVdm52UEVsYw?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-22T05:45:06+00:00"
+    },
+    {
+      "title": "魏哲家又給暗號？台積電股價「這句話」兩派解讀 網友樂翻：訊號來了",
+      "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNaDhhY195dlpTcU5lbWxoNjdNZGJpQVRzWE9wRVRwT0VCTUprSkJFckRpbHRVVlNfcDctakItUjRwbVkwa040T2FlTUdtOWd5aS04eU84TlVZNGFFOHpKVXdNWUczaG1nS2pVRl85SGNYbS1KcWpsb2FHUjBUdkxSeGt4REpTMjRaZ1k4SlV3dDZtMjlkdFlnT0dMeGdzV1U2MlJUSmpGYkh0LWhXWkdNQ1FWWm5zUjd3MkZvdjZSVkZoZVp2WnZwV05KVjJEb01fV0hHalVnREkxNmpGdnZ0ZWY3NWtmZExJQ1dDNVE1RHZqc0ZTZEp6TkJDODE3c0hrYjFNRV9LTmhuaTdTUTFySjI5MjAwbVJaMFhubFpfTmZVOTNFSGtINWsyM2x4R0FaNGppZFVMT2tTTUtTdktKY080QUZ4QU81X2d3UnR3YjJJRnFSOTJVdTRnMEtzRjhaSnZhVVFTc0hkQ19I?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-21T13:19:25+00:00"
+    },
     {
       "title": "2330 台積電 - 魏董希望台積電股價趕快趕上聯發科，大家怎麼看？ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41TFg1UDhiRl9CaDNSR19rU2J1dTNPVkxDcmxvT1hYbjY4T2k4QnA5akE3QzQ5SUZMVXpMaTUzNnlsazNuZWNYaFNWRkVlX2tTT1FCcjhMMWg?oc=5",
@@ -18,22 +36,16 @@
       "published_at": "2026-09-21T09:36:41+00:00"
     },
     {
+      "title": "台積電新目標價？魏哲家對蔡力行喊「這句話」 網一聽嗨翻了",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1cFM0bXdKWWRtRjB2ZjhyYURHZ2QxNXB2MVgyMUZvUGJsVTZRS09TQlEtenppMWtIUUU4a0RvTV9JVVIwS1J5YWtCdkFJMlNmZWtTdXlOMGZtUkhBWWdR0gFkQVVfeXFMTUxIZjBaazdtd2J5d1lRVlFmM3VTWjhHLWlXRHkyOTZvMlhhUE9ySG1QbVRqN0VHQmFsZzd5d1BnNkkwWHRZU3djTGRWd0ZpLTU1T21BOERpX2FlZkZ0VnJqSnBfZw?oc=5",
+      "source": "自由財經",
+      "published_at": "2026-09-21T06:56:30+00:00"
+    },
+    {
       "title": "億萬富豪重壓「台積電在內3檔」 現在還值得買進？外媒全說了",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oQkM2UVVMV2h0TUQ0b0F1ZmhDbHpTS3RzNUVCUEd6SnhrbzNIWXdHRnZMNEFOYzlTVzU3MUxmdlVTV1VfQTJnR29zUy1zajR1TmxKbXJxbTUwVXo5MklLOXVpbG7SAWRBVV95cUxOaEJDNlFVTFdodE1ENG9BdWZoQ2x6U0t0czVFQlBHekp4a28zSFl3R0Z2TDRBTmM5U1c1NzFMZnZVU1dVX0EyZ0dvc1Mtc2o0dU5sSm1ycW01MFV6OTJJSzl1aWxu?oc=5",
       "source": "自由財經",
       "published_at": "2026-09-21T06:50:14+00:00"
-    },
-    {
-      "title": "花3萬元買台積電多好賺？外媒：3年後翻倍賺| 民視新聞網",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBScjBBQm1FSVM2MkJlZGFvSVZXT1RITFBlTEFEcUxWMDRlaHhKNUU4czJBcE9PMnJaLWY1dzV6Yk9aSmF5RFpSRGFic0d3RWtfVXM4M3l4dUhtSXkwWFZTcXlUa2p1Wm5YN1p6dlhGS1ZwYjFaVXRPekd2VmE0Skk?oc=5",
-      "source": "today.line.me",
-      "published_at": "2026-09-20T19:32:46+00:00"
-    },
-    {
-      "title": "拿3萬買台積電！專家預測2029年底可望變「這金額」 | 財經 | CTWANT",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GZFFjY3E1TGg5SUcwRVlGclRmajhicENHbVlIWGhrOXl5ckZsYmN1bUdlOHVYazFVVU0tRWotRW1GY2k5NUJ5TXJBTFpiX3fSAVRBVV95cUxPTEo3MFVVWGdOMGVmNUtGLW1MMExhUUM0dFU5VTczRFQzUHhoV2Y0WW9FUXlBV0p6WGtjdjhuOHZnM2hmTXFNVUZoZFpmVTdfb2pTVzY?oc=5",
-      "source": "CTWANT",
-      "published_at": "2026-09-20T11:45:11+00:00"
     },
     {
       "title": "花3萬元買台積電多好賺？外媒：3年後翻倍賺",
@@ -44,13 +56,13 @@
     {
       "title": "台積電新目標價「4710元」？魏哲家當蔡力行面喊1句…網笑翻：發哥下來也是趕上",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Kd0hrTXlnaWtMQldac2dJZkNxSzZINkpZUndSR2kyODBtRTlGbmlNdFUzZl9LcGFIR2d3OC04SDlzMDJBRklsN2Nvbk5FcjBZMEHSAVdBVV95cUxNX3RSc181bkNqX1pUdDZNaktvaU5pcC1fM0tDRXRFVmhlc1pQSG9CZkVsYWdDRzNIdGZ6UXRjY28zUG9xQVdIOHdqMXdEQmU4Y0h1aF82Umc?oc=5",
-      "source": "UDN",
+      "source": "聯合新聞網",
       "published_at": "2026-09-20T04:48:23+00:00"
     },
     {
       "title": "All in、定期定額買台積電哪個賺？專家回測4年殘酷真相：獲利差了230個百分點 | 張庭維 | 新聞",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9aTUNsWXI5di1IZmxTOVNlRkpmdGpQeWhVX0RDRF84ZS1WOWVudFN5Sm5nZVdhUlFqZVNKalBZcmEwdFJkXzNNaTNPWnZHUQ?oc=5",
-      "source": "風傳媒",
+      "source": "storm.mg",
       "published_at": "2026-09-20T03:29:34+00:00"
     },
     {
@@ -64,18 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1rZGRwQ24tZE1EdDVnOUdDVTMtdUY4Mk01SFZaSmZuM0RuWDZ2T3VHWFRlQWVPTkU3c3hINXZHU0FaQkVnUU83WWphMA?oc=5",
       "source": "三立新聞",
       "published_at": "2026-09-19T22:27:47+00:00"
-    },
-    {
-      "title": "記憶體漲到讓市場怕了！外媒喊改押台積電 揭背後藏大行情",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlSmhWMWI4elJxNGZRMk11SnZZdXpVQVBQT3ZmU3d3Sm95Zkc2aDN3SjZicnNLQ3d6eWJ3bmE2bld0WHZHcWtOTE5iZE15aVFJNzhpVjhnVDVDZGVwMENR0gFkQVVfeXFMTnFGcXFXRklsRF9SZG1pOXpmcVEwWU0wMmVXSVNwSXM1MWE5eTBUVmZRQXZBU0xPbWJYVjB4Tm0wOVFIRE5zaFpGS29idkNEM0h0dkU2TWxpSDVhVnVnRzZWTWE0Yg?oc=5",
-      "source": "自由財經",
-      "published_at": "2026-09-19T08:53:35+00:00"
-    },
-    {
-      "title": "現在拿3萬買台積電會多賺？外媒預測2029年底價值將「如此驚人」",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uT2FIR3k5clVvdHJqc3R4b2tXdTNvd3Z6TFNUU0g1RmhpTVBnQ3IzR3Zuam9wZk5ZWURFNU1PT2VBaVZQZWdUXzNLeVEzZGRtdGE3b0M3UUJQd3hITi1B0gFkQVVfeXFMT3Yyd0ZIbmVnUFlUMHNuZ3RVclg3a0E1aXpOdnBUWUxnWmdqTFRDeDlkaEx2eGpmdWNrUjV0M0NKVTVvQ0FtU2Z0cmFfSWRkVWx0M09DdXVYRGEwU1dQc1A1ckhkZg?oc=5",
-      "source": "自由財經",
-      "published_at": "2026-09-19T05:27:17+00:00"
     }
   ]
 }

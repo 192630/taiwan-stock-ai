@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-22T10:34:23.635634+08:00",
+  "updated_at": "2026-09-23T11:34:58.748597+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8936",
   "name": "國統",
   "count": 12,
   "news": [
+    {
+      "title": "國統獲選屏東縣政府標案最優勝廠商",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAwSUhIa0xVam9TOXNuLXk2STFtRDItTXh4bkFySFhubU5QTFhYbnpGazFBWDgwcndiRWFpTmYyQnE3Z1I3el9JWnFvY24?oc=5",
+      "source": "聚財網",
+      "published_at": "2026-09-22T12:25:21+00:00"
+    },
+    {
+      "title": "國統奪屏東新園工業用地及新園產業園區委託開發案金額達38.77億元",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLMjJhUzNmbDB6QUd0VUczZGx5eFExSHhfNC1QNjMxREIxZ2xYSHUwZmljN0wwMHBQMDZEbjZwRGRWMEJfYXdhWHFsZw?oc=5",
+      "source": "鉅亨網",
+      "published_at": "2026-09-22T11:24:06+00:00"
+    },
     {
       "title": "《櫃買市場券商賣超前30名 3-3》國統(-133)、台半(-127)",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc01yZGVwVjh5Um9mNUpMTkc3Y01LY0xqTmZDZkhNeG8zOEt0Z0FqUjFIQUVkQjRtajdLTW9YRXRrS2p4WFN6T0pGZEF6WHVmemRXMmR0c3pUZ1g0dWczNzJzMVNIT2k3NTNNTXBnSWdlRDdrd25NdWpRYk1VLU1FNS1iQV9EZTVr?oc=5",
@@ -24,10 +36,22 @@
       "published_at": "2026-09-16T08:40:10+00:00"
     },
     {
+      "title": "【內地樓市】國統局:需加快推動發展模式轉型",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BUWJjZndUcWluN2tkbnEzdmF3cTJVQ1NUOWRFekc5RG5GUDI2NkFSTHVyNXRlTWVzcldJVk1fb2szaENzSnA2VEViTVFvS0pXQVk2TmIxS2daSFk?oc=5",
+      "source": "Now 財經",
+      "published_at": "2026-09-15T06:33:07+00:00"
+    },
+    {
       "title": "【中國經濟】國統局:要加強逆周期調節、擴內需",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BeWNnZHdtSU5DdVliQUpsYVFaVkJTSWJJaUltZWRzZVJlQm81X1BiYXJwWkdzeW5rbkxXTmJhWGN6bm5uSW9ManlGQmFWWFlpdTJCdW9haURkT1dLbXRjSkM1em4?oc=5",
-      "source": "Now 新聞",
-      "published_at": "2026-09-15T05:53:24+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VUnItN2toM0M2X0ZkRVJ3UHNpTE54VkVGTThzMlY3dWJmdG4zVjd1Z2luV3JObkR1NDZCYTY0bmRLRlFBUVBPUjIyb0MyOW1RM1RDMXZCbUwwME0?oc=5",
+      "source": "Now 財經",
+      "published_at": "2026-09-15T06:10:59+00:00"
+    },
+    {
+      "title": "國統局:經濟仍面臨不少風險挑戰 需持續用力",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQZENGb0JreVVyNTM0b1hILU5lUDdfWGhYYzRHZThhM2NCRXNzUVpmc3p1a0R0RGVhTGtsV19xMkZ1SE1jZ3lvZDJCX2VPTTNTZExqSHlXTmRLcHBTYVdvdXlMRk9PNWdEM01NbFlrNVFvWGYwRWEya0tkZmd3d2xiZU1lbXN0Q2xUS0dHZWJLcFVIWWNhSG84VlRPeVA0VWEySzNzbW9YTHZJc19yamRNV1JGcmhfVC01dzdYRVNPVGlJb2RnNS1xajBVT1B6X29EYUhKMzZTbGwxTkh3Vm1HWF84XzZrdFJ4VERrQjVaTWJfc0JOQVhlM3BKZU9JLXZ3Xy1PZWdCc29RMnFhUU50RVpkMGh4b2k2a29QUG1abnpFbnktSFRvb2o1NmNxaHc1ZXpkMjdrZFBlU0N4cHY5ckhiUU5nQ0xqbmszNzFEUQ?oc=5",
+      "source": "信報網站",
+      "published_at": "2026-09-15T04:47:38+00:00"
     },
     {
       "title": "國統局：內需仍是經濟增長主要動力 (11:51) - 20260915 - 即時財經新聞",
@@ -52,30 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xS2s2LXFJUFhkVTFQV0tILUw1cXNER1N6Y3dfb3dKTTZxbjdUeTFrRFJzMnlqOXpIV1QwMndnakJfQkVyWEt3b2lyMnZxa1lFT0tiYV9GanI?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-10T10:24:39+00:00"
-    },
-    {
-      "title": "國統 115年8月營收5.56億、年增12.34%",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONjYzcTRVR3VYYXUwQ1lxaUdpSG9xYk1VVUNvZi1Ia1pqa2hLanZWcm9fNTc3d0ItdHNLbGdsZV8weE9vSGlDenlPQlRxbHZoOTU2SEZCTC1wSm5LWTl4Q1lvcWlRdUJaSExvbjlFbEFRN3hRVkFnSkl2MU4zTzllME1EVnJJTVI0Q1RwWnRjdVdENGE5MjNCSHp0MWdnZnFKRjVOQVRBaXRCTDcwUEFGdmJxeldZUW41eTFMOFlRdGNLWlZmd1VMTk00NEdabXFIZW9NdGtBZTZqbXc?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "8936 國統 - 恭喜發財❤️ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YaFhNYklkZUp0ZUJVLWtrbzhJdjJUR1BDNXBPLUR2eE5kRzlOenRVVmlKZFlDV2dGMXU5YzhDbHhqYVZMc3ppbnVoSzEwUXFXdUVVVmE1d0c?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "8936 國統- 國統26Q2財報分享- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hcFp1RWtNVzR2MTRmaVJ2UG9fSFhoZkI1U1BJSzlnTkMtN3lrWXVxX1dJVGYyaFFCUldSNmtsMTQzdjZEQ2ViMFhPZUNyUFFXRVItYTVOTEc?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-02T07:00:00+00:00"
-    },
-    {
-      "title": "8936 國統- 今年5月買- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xbUctMjZ0Mm9hY21OYnBXSEdnZFlTbTRFR0tyeHhNNTFMWVJGWUtrc1VsQXhvOGtrVWZEMTl0dUhEbmZNdUw0amx3a0lLUzhsa3lTbE9Kc3k?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-01T07:00:00+00:00"
     }
   ]
 }
