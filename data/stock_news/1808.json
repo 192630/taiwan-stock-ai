@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-22T14:38:57.505622+08:00",
+  "updated_at": "2026-09-23T14:40:04.964545+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1808",
   "name": "潤隆",
-  "count": 7,
+  "count": 9,
   "news": [
+    {
+      "title": "《自營商買超38-23》潤隆(58)、複合收(21)、台光電(50)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbXpGTVExQm5ILUZSSGc5SVBtTkJteGF6V1VvWlF5SzVPS2xyNHNlekNxeEdnY0xvTXV5Y0FrZFlXVjNuRWdORmdJdlFmMVNwUV9mamVoSmVDemhHY09zR3QxakJGbzZzMDUwbzZrZnRiNHdsOEpOemhBMXpOVWdFZnRXVWpiWGtG?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-22T23:36:00+00:00"
+    },
     {
       "title": "《櫃買市場券商買超前30名 3-1》世紀*(9030)、穩懋(1808)",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYkhyU0xtLUE4YWlfcUt3aF9pak1pcXRPcEczUHNKcW5PMTlhZFN6aTFLMXNmNUs1VmlROHV4eEdkNnZGTDVCOWxwQ3BGV1lQZm1UU1o0QTZwR2p6QWpGMEppSzk0MllwekExd1cyeWdvYnozcUxWbU5uYjF3XzJRTW5jbDJIUWRJ?oc=5",
       "source": "富聯網",
       "published_at": "2026-09-20T23:29:00+00:00"
+    },
+    {
+      "title": "今日最夯股／潤隆反彈逾5% 外資大買2,077張 房市回溫題材點火 | 市場焦點 | 證券",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50MXpfSlcwYmFmUXhPNDRlR3ZWeTVERXU0Vk5USW9oa1ZZZzZQT3dYTTVlYmFsZlVTOUV1bmdUanlNSm9ia1lGWU5sTEd2eHZxSWZnN3hZS1hLZw?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-18T12:24:21+00:00"
     },
     {
       "title": "《上市公司除權除息 4-2》潤隆 09/23除息",

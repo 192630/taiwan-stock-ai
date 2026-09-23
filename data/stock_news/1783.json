@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-22T13:34:24.938607+08:00",
+  "updated_at": "2026-09-23T14:39:59.686966+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1783",
   "name": "和康生",
-  "count": 5,
+  "count": 4,
   "news": [
     {
       "title": "和康生 (1783) 本公司受邀參加凱基證券舉辦之法人說明會",
@@ -28,12 +28,6 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVzFYYlJBbWxnWDNLVlFBM19BV2hVSHFvM1Q3MHFSNkk1Ql9DS2JmbTQtLUoyZnE0UTlDWmZ2MDFEUDJGVmRROXlCUHlNSTlXYzItNDlWUFNUWlpQeXc1WWgzTFR6VUpfSWJXV0Q3ZVZzb1lSbEdQT2dRV0R1LWhsVjdoU0FRWUljZGc?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "台股回神收盤漲1783點！ 台經院估今年GDP破10%",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnR1FrT21RMVU3X3VBa0FLNXZmVTc1YXZRRlVLQjlRbHItV2hOZGdGcm4zVnZsTThOOVlsbUJHd1RjenM5Tnk5QmxnMUZwOFpmMHJCRmoxVTNsYnBmV25JVGExMzZpR1FfdU1RQkVweS1kdWExT19IS09oWnU?oc=5",
-      "source": "台視全球資訊網",
-      "published_at": "2026-09-05T09:37:22+00:00"
     }
   ]
 }

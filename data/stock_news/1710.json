@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-22T13:34:09.801573+08:00",
+  "updated_at": "2026-09-23T14:39:46.408676+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1710",
   "name": "東聯",
-  "count": 8,
+  "count": 10,
   "news": [
+    {
+      "title": "EG 市況轉佳 南亞、東聯營運添助力",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PSEZENll3NktVM0hXaWR1dnBreTA1TVVuU2RHMTlfSl9QRnVfTHlQVm5UdVJPXzlYTWE5NXVJd212bU5MeWhva3BVTU5kMmR5MlQyVkVPVDFwd9IBX0FVX3lxTE5zLUc5MkRWMExlN3BPbmVHZFFiZHVsbUhNaHE1Y3NWcndqb2dNd1gwNTFWMWlNRUdIR3dKZW92eHdrVUcxMUk0Z05FRFp4ZUdESlJ1SW9vbC1lVlFuUi1N?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-22T15:00:00+00:00"
+    },
+    {
+      "title": "東聯法說會／EG 供應吃緊支撐價格 調高兩岸開動率、樂觀看第3季獲利",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KOXRtc2FBd1J4X2t4M0FjZ3VkT0NwUUo4T2xYdVdvbFlPSlFGNlU5cGVTVFlaQ3pvaW01bktJTjh1WUVRNHZmSFVlbGplbG9iOVlxWnhnOUxKQdIBX0FVX3lxTFBxT3lsQWRUaENwVEIxbmpzUlBiMkxIck0zWWFTSlJWa1cxcTR1cWgxWlV4WC1vUTlidGx4Snh4dXpIUWdoRWl2MzI4YWRRVVZIM0YxWHVObUt0eHY0QVg4?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-22T10:44:05+00:00"
+    },
     {
       "title": "今日最夯股／東聯吸引買盤進場卡位 後市展望受關注 | 市場焦點 | 證券",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhMkE5ZEFPSXJJTzhaaGNRSzFEaWROeGppeFA0Q3d1M3A4aTJKbzVjVF9rSFJPZ3JJRUZlaWF2Yk1fNTBrejNvN19MTmtOcGVJRUEwS2dLWEZydw?oc=5",
@@ -14,20 +26,20 @@
     {
       "title": "【11:33 即時新聞】東聯(1710)盤中上漲逾5% 聚焦特化與AI材料轉型",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQjZ6YUhpY2tFMmhyLXhCZFVCb0ZlYjhfZGdqbS1CUXFuLV9idlhvXzR2dE8xNHVjVzUyNENaTHNEM1djUGNMVy1hSVFQTHhJeS1fS1llMWFEbWxqa0JZZlpjNTlZTGphRHJMZTBVVUgwTDA3SjgwZjU1a3RFYl9yMGh5UFhuWWxaM1FaZmtB?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-17T03:33:39+00:00"
-    },
-    {
-      "title": "東聯轉型後本益比如何評估？",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxN2F0a2pGY2V3bGl4LW9DY1FidFhjN1RHY3FXSDZTXy1hY3gtTUFoZ21fWS1uZjhZczVpa3NCLUpqVEJ2WW9tbE1TeGdvLUJ1Q0YtTVNqalVCdFhKb3Zqd2IwbjRDd0Y4ZHhYdDFIRnRDdFJRLXBwZWpKYw?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-16T23:56:13+00:00"
     },
     {
       "title": "東聯單月營收成長能持續嗎？",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1NQnMzOUdTa2lFczhpcWotQ0c4Yjg4MnI0YTdnWEtyVWxsUDFDWjROMVY4WUZteG5vYlkwSDlabTY5UDVTOUpGakJoSzY2bTdpUUppQ2ltMUNBeG14aTBGcnVQOXNBcW12cF9IMnFPdTVkZGdCLW0wdkw5MA?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-16T18:19:40+00:00"
+    },
+    {
+      "title": "15年分散風險有道 從大宗商品轉攻高值市場 東聯百項化學品 攻進半導體再拚AI材料",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR1d3WTJNRF82OFpqNEtxejZKdWNSaEc0SU1MQ1BqcGR0N0sxOG81OHIwRkJPc2dkNGhqOGNTTmtHcHVCVnAzNl9ReTB5X0tqb0JlYWUtT3RsTTlaczdVbDdTUlhwY01PdzRUWW5DdnUwY2V6Y09kRVNiQlFRbzdoTA?oc=5",
+      "source": "今周刊",
+      "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
       "title": "1710 東聯- 三角收斂日報9/08｜今天沒突破，但這5 檔很擠了🎬 - 股市爆料同學會",
@@ -50,7 +62,7 @@
     {
       "title": "【09:55 即時新聞】東聯(1710)股價走強至16.2元、上漲5.88%，受電子化學品與AI應用材料轉型題材激勵，近期月線翻多與法人買盤成為支撐焦點",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM0NaRTVvWmI1bi1ubm1mbmhxN0tkUUs1Z0dqbnVWN0wxajV4c3Zibmt1cUExX3BiNU5BRWVwdThHeV9xUm5TRzdvS1U1SFVDNnZTNGVoWjJLZ3RmNFFwQy0zOUZ2NFI5MENZQnFEUFUtVmRoV0lOR053LUFiQ0pEcnMtb2tNRC14Z2RzSW93?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-08-25T07:00:00+00:00"
     }
   ]

@@ -1,20 +1,44 @@
 {
-  "updated_at": "2026-09-22T13:33:58.639978+08:00",
+  "updated_at": "2026-09-23T14:39:36.611515+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1595",
   "name": "川寶",
-  "count": 3,
+  "count": 7,
   "news": [
+    {
+      "title": "【09:37 即時新聞】川寶(1595) 股價勁揚近一成，設備族群走強成盤中焦點",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb1R2QkpoVlpaaW1JRm5UVlp0M1U2cGhSRVNocGlOam5oSnNnd1IwbXp5SG1paEwxUW9JVEpoZktydGJNYmtiUHJicHFoeVNUS2lyMjdlYm1nRG5hT1JEaWNHUTVndF9RdXlmY3MtUWdna0lOcVBrMGRnLW9nLW1VX2pLdlZlNlZrSDRBNGxn?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-23T01:37:35+00:00"
+    },
+    {
+      "title": "川寶(1595) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rX3kwdC1GdXVpQWFjWTEzWnRHOHhzN2JZdWFkc0MwYWZYRGRaQ1B6SkNVOXhjZGtRQ2ZEdlRyTGxKcUwxbzdyR3NmOHVLdElyaFNJ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T08:56:48+00:00"
+    },
+    {
+      "title": "1595 川寶- 今天瘋了嗎！瘋鹿概念股- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84M1RldnpNTXhnYk1IeWo5TDNCVzdPNE0tdlNPRUs0R2c0N1Q1S05ERE1FRXlxNDV0VF9xNUhTaXd5Skk1X1Jxb0N6VUhjSDQzdmYwZm1XNXM?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T08:17:49+00:00"
+    },
+    {
+      "title": "9935 慶豐富- 🎯上一檔對帳命中！9/23主角換川寶除息- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5oelFzaU1pUkNkM3FxVVlBUXZJcnVRSEY4TzdiWmZheWhTcnZvamxFSmtOUTR0QVNYZlpKZS1pUmFCc2RFUy1XVTI1UDFFNHJhNkx2QlBfMnk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T06:40:41+00:00"
+    },
     {
       "title": "【13:21 即時新聞】川寶(1595)股價走強，設備族群與AI擴產需求受關注",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMnk2R3VxQVY2bVF1OWJRdkQ2a1BwbE8tNXBwSHdKLVlUYmJZaEJhNXU3OUhHN0JxM2ZCcmR0TkUzU3I5YzU4RENGRUdjUGlPdFV3SXg1T1pKNnBWSjgxOEVtTVhjejJNNnhQQW13X2RXTHNJOVZycjZMU3U4Z2NKTkllT2FlWWlfZ0p1RmlB?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-21T05:22:56+00:00"
     },
     {
       "title": "【2026/08月營收公告】川寶(1595) 八月營收年增35.61%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdktSRm9PTE9sSnU0SDZqTlBDTC1uRjVCbTdndF9fZTY5MEk0QUItOWNhSXUwbmZ1SEgzWTZibC1uTlNkQzh1SENqakNMUFVaRnpZQVV2RVlmOVpjV3V5OXZ2U09uRnEzS1FUdUM2QWZNNG5EZ0NwUWhsWXlzejBJempSWmgtQ25Qc0E?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {

@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-22T13:34:12.752988+08:00",
+  "updated_at": "2026-09-23T14:39:48.997312+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1718",
   "name": "中纖",
   "count": 12,
   "news": [
+    {
+      "title": "中纖目前持有台中銀股票的持股比率多少？",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOHVueTBQaEppRDk4M2V3d29pMGFwQTN2dmN4VkdaSGNaalRzLUp6SVd0NEFsbUdyUk45YkJnZzBiVV84cVdHejZDTVcwdmQtaG1XN29ZRkx1Ulpya1YwRkp3WFdQNXB0dUluWFc2ZjNxYUJGYnAzWkFIVU1VTXFkMzJjSXFBVGNHQ2xJdnFsbGNPVUNDZGI1OWVn?oc=5",
+      "source": "udn.com",
+      "published_at": "2026-09-22T19:37:50+00:00"
+    },
     {
       "title": "討論牆 | 中纖再賣台中銀股票17,965張 獲利7,328萬元",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ta2gxclBpWmgtOTZXbUozVWZFRDR3aDBZR1FMLWYtVE5FMk54RmtjVHE1aEpqbG5YWHBydUFyeXBHOHpoMmVMaUljWjBIZVo1M1FfZVJjMUhSakpKTU5kNkdFa3Y?oc=5",
@@ -32,25 +38,19 @@
     {
       "title": "【12:36 即時新聞】中纖(1718)盤中走強，資產調整與處分佈局受關注",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa09UWG92Vl9JdnJjcWdNektxQXI4YnFKOFlyUndobWhPZlpFQkZGUWs0VUFLb0NIS1lNLWpqTlU3ZkpUc3lLRjJ3WUMzY1lER3AtNWVjcmdPWkNqNzhhalFzQ2xJNjVkSTdRUU1UOFBIZlpLeTdiWkdrbEt0Zmw4Wl96TzlZOEYzNDN2WHNR?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-17T04:37:20+00:00"
-    },
-    {
-      "title": "中纖AI算力中心如何提升現有資產使用效率- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jdTZNUmdKc0NtRDcyYTZHaG9mZHpqZ2dlNkNCTTUzeDZzNVc2dTFxWm41M3dDeF91TlE0bXgyMU81b0lORy16UUxJYzVsUjNhYlZ6OVd1aGtVNURTTTRXZFZwMWlrS3dlT3lqNTQtclgxeGdGd051aE9lWQ?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-15T18:44:54+00:00"
     },
     {
       "title": "中纖活化資產 再處分台中銀股票獲利1.14億元",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGbVFoNE95Um1RUHoxNER3Ri1ZQmxKMjQwZGxNdVU0bkZJWXJmN1c4Zk1HYWNpenVSSmN0R3BnekJYTExQRWI2S19QREFJTW1z0gFWQVVfeXFMT0QxeGFjNmNDZVhLZHVtUnZJdmFWZG9xUS1MbUNTME5HNGRZdVd5eHY5ekQyLVkzaWRyVmlYS1pvUWhlTF9IZ3V3N0dBek5FYXFqd2dxbVE?oc=5",
-      "source": "udn",
+      "source": "udn.com",
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
       "title": "【12:47 即時新聞】中纖(1718)股價上攻4.33%至10.85元，資產活化題材延燒＋外資短線回補推升多空拉鋸",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeXY4UHRpOWdiLVFnR3Vwb25SaXdmWUZPUDF0c3djR1JITjZFd2RsQk00RFJhZ3RSVFcwM081aGtUZXdhUDVHWk9XWnBGNjliTWJKU3BqcWZHbC1nV3pnamx4cU1NLWpUWGNkdDAwdHNXY054bmdFTlNaN1d4RkFwXzdzV01iTWV2LVpzbU1R?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
@@ -68,13 +68,13 @@
     {
       "title": "中纖為何要申讓台中銀股票？",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVXRGY2VYVUQ2aW05Q1EyVDA0NjBlLWduNjdhZy1GaHBBemFnRjhOUEJITkk1czFnZ252eGNORDRJYjJMRVNKRk5MTEJKWEV3Q20zZHgxbjNqLW9FVFZxZmVnWkwxTkJZaHVmWFRaWlRqYlF5VlduQWpSWmpjRm1tOTVVSDVhSjFJZV8tclVlM25pQ3RwT2t0NXRR?oc=5",
-      "source": "udn",
+      "source": "udn.com",
       "published_at": "2026-09-03T16:46:04+00:00"
     },
     {
       "title": "中纖再申讓台中銀8,145萬股 持股比例仍為最大股東",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAxX2ZFN0hvS0NBelZTLUhjNEpWM1hraldVb1E3UzlGLVd3UVdydktuSWJIS002amxuWTVrSlgzdVk2UzNlX2tCNF9kWjhya2JS0gFWQVVfeXFMT2IyNmc5UVlHMGV3OXRBd1g3alJMQ1RmcS1tQm9GY3Z4RmhqZXo3QWR3clpZN0l0SVV6THNLeHBxMUs4c1p1UFhjdVp3bE5VVTBjYTF3QlE?oc=5",
-      "source": "udn",
+      "source": "udn.com",
       "published_at": "2026-09-02T07:00:00+00:00"
     }
   ]

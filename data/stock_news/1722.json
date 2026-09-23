@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-22T13:34:14.164874+08:00",
+  "updated_at": "2026-09-23T14:39:50.289105+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1722",
   "name": "台肥",
-  "count": 3,
+  "count": 4,
   "news": [
     {
       "title": "1722 台肥 - 底部反彈快衝 - 股市爆料同學會",
@@ -22,6 +22,12 @@
       "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQMmlMTXk0NEluX25ORHJHOUZueDhpc1QzVTI3aVVQYzh4bXZPTGhjalRVTkVXaVZFOVl2VDBERm1ZN3ZoaVNjNk1saWRFV2xlRjVoMG9Db245dFhkZktWVmVQVEplQi1jdy1rbC1tMTRxc2piUjR0emtVeUhjWk9BczNhVVBzY0p2OFhMMVNFZDBYUmtUS1VMeERTM0ZGS0JlNjZJTWpxTjJOWkVnbnJzWllUYmpnTWY1ZGJlTkMzby1ETHRUUFNzZzFNc1VOazZXeURJVlBuSDlFRWxVQklxRXlfRjQ1WHowaXNCajhmbFA3bU0xWjJpa2o3QWJSc3AxWmZXLW5FNDhiZC1qT1Q3V0RCWUFCRjY5aUNLVkJBWnM3U2tSYzR5dENmaG1ockYwYWk2SDBycElfYlFtNS1uMzRLNUcyUzdqWGRUdENwZS1talpySk5NQTdjWTdsOGluNW1lc3RWZjNQaFprUXlISWhqOXRxQ0R2X25mT1Y4QnJCVnVpdG96NmRtc0REUnpibDZuZzlHLVEydw?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-04T07:00:00+00:00"
+    },
+    {
+      "title": "台肥80周年慶展現多元化佈局 總統賴清德期勉續寫台灣產業新篇章",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpWXRXWWtnVkpTRXl2eldYZXE1T01Yc2llb0tYWnNnSENhdUlrNklvTFZLdGhPelV6NWhrVlJpWHhhTWJKNVVKVDNWVmxDdHp2SzVHZno0Nmg?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-03T03:24:56+00:00"
     }
   ]
 }

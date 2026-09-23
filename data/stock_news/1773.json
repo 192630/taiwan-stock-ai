@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-22T13:34:22.594239+08:00",
+  "updated_at": "2026-09-23T14:39:57.639495+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1773",
   "name": "勝一",
-  "count": 9,
+  "count": 10,
   "news": [
+    {
+      "title": "勝一半導體產品需求增+新廠貢獻，中長期成長續好",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOSkVBU3VKUHF1aXZRSEFTQk9DbHduWWRnVGp1bnlhbGJWUU1sZE1KN2tsV05fQWxhNGVrZllNN2IyUVhvQ2F3bzlabzFvalRjTDlLU0d3OE05TUU5ZEN1dE52ZHEyRU1WWVBnb0xKZGd0cGlfdjdfcEFfNGVlUVJQeUFKTkI0VHNMbTJocmFuTjJicWJlM0lZclNiYzdZbkVHVGpIMGFZWUc2emFlZUlMSTVnNGNaWVY4QnYxZ3dwbUdOelRBWUd2SFdZUE4zbk5HcDNkSFhIZzU4c01yMWhUZGpaZzREYmdRUE9HTFU5TlZOQ2tGX3NRNWR1Z19mZWRUS3VXaDZzN0h3SDhEdXhPVFA2ZklyRzRfRlZYS3c3M280RWxCNnZBUmJIN0JVdFN0aXJnY21rMktCemJZN0xXYWFkZ0JBak5ZVFdUR3VlTQ?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-23T03:54:36+00:00"
+    },
     {
       "title": "半導體擴廠催生化學品回收商機 三福化、勝一等業者搶進",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByS2dRNEpTdEFKTkZ6a19CZmV6N3Z2NEp1aDhEVy1kTHhtTG8zVGpsVzJiMGFScXZXZHpCRVdkSC1ISm0xRTBsZEdOdzJ3dGM30gFWQVVfeXFMT3hEUnFKNmhYSzZGQTFrSjFLTlByRURFQnhVanpqVThCSk9FZzI3ZWl1YVJIZGEyblpvMXpWN1NlUUFGeFJfUFhTTXduWUt3TU1RRElqeFE?oc=5",
-      "source": "udn",
+      "source": "udn.com",
       "published_at": "2026-09-21T03:01:30+00:00"
+    },
+    {
+      "title": "勝一8月營收年增44% 國精化增24%",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkeDZmMkVONmZvNWdwWC1TdmVzMHJTUzFGbDg5MTFrM0ZHeHdzbGZTczdwQXVPSHl5YlZDRlpPUXdTZXFIZ25paTFNYWpxeDR2N21Oa2ZEWkh6UdIBX0FVX3lxTE5qeFd0dVFEWDVGaEh2SzAxNGRRX05rNU9WaUpWZFVhbXVXZjh3SUgtaV9NWEItUlBHTlFJcjFFdVlEemJ1R1JNUkp2MEg2ci1XX1NNcU9fZXpkYzFoTlhJ?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
       "title": "【優分析即時新聞】勝一(1773)8月營收年增44.62%創高，電子級溶劑占比拉高至75.8%、台積電依賴度破四成",
@@ -20,13 +32,13 @@
     {
       "title": "【12:39 即時新聞】勝一(1773)股價小幅走強至164元，受歷史新高營收與半導體電子級溶劑題材推動＋短線空方籌碼壓力下的關鍵支撐測試",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcUNmcE1lVS1qWTZGdWN2LUEwNzVISy01WENaRFlpc1B6ZTdrZnluckdmb2NldUFnQVBkZV9udGRoSndxMEFvR0QzeFhkTXphVFRGTkQtSnhHUEJ2aGdTZlppNVl4bHFNQnFmUVFETGFteXZsY0NIc3l4cDFJd3dRaDRvUG51SlBaM21PWTFn?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
       "title": "【2026/08月營收公告】勝一(1773) 八月營收13.85億元，表現亮眼、呈現雙成長，創歷史新高，年增44.62%",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcUUzNVZ6YUZiZTdNZDlkb2dNamJteUNwSm5kYXR6SVpOV3BDcDFpYzU1UUg5amVYcTZ2X3o4b0NKOWc2UlVIWlR2N3llRUdxUHNKczFYUk81QkI2VHJuQlNpX2M5a1ZRcE9qUlZiWEhfbmVZTVIyNjY3a29nMkFrY0NMcFN5UDI4U0E?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
@@ -42,15 +54,9 @@
       "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
-      "title": "不倒翁／唐勝一",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMEs0NnVvejBNNkQ1Yk03SUhrb0FCLVdhUG1TaGJ3bEtPcEtzTXJvbm81Ul8zMHI1NmZpRDIzbUJJYXptNjBwOEpwNmlidWRpeEFpTGpnMTFIRktzOUpGS29YQzlGWE9JN24tVExLRE1VSkpUcWpaU0NCekJucmdYRjBidmxKYXBPYlN4amJfbkY?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-02T07:00:00+00:00"
-    },
-    {
       "title": "【13:24 即時新聞】勝一(1773)股價走強至171.5元，受惠電子級溶劑營運創高＋周月線多頭結構支撐買盤迴流",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPa3paNHExTUNqM2N5eG13WUVJdjRKcEtnS2dZa2VWLWwyMjZKdzZmdnctalVCdTdIbU1GbnphZXNCMWRFMmdnSHNwdXd2U2U3Vy05N0wxdjhEU25ZZDFZa2xiYjlMdFk4M3A5alV1TXMtUlVjSUNkUnlZemhMMGw5MTRpakNTVDkzbjA0S1ZR?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-01T07:00:00+00:00"
     },
     {

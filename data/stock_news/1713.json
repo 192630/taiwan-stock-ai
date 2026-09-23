@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-22T13:34:11.224578+08:00",
+  "updated_at": "2026-09-23T14:39:47.675021+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1713",
   "name": "國化",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【2026/08月營收公告】國化(1713) 八月營收創近3個月以來新高，月增16.54%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTGx2YktjVjFfekR4VXhnTzRkYnBycTVOUmFzTEZyRk14aDJtWVJSaE80Y1lJRUVtWEVMY0hkR0EwTFpqSTl6cVZCWFdTVlpnMDlYYVVscHJMZThqQ1N2VDNRX0ZBUU13a3U3SW0taWt5SXBBLTdoWlRUczJaV3Y0QXZSYWppMXpISFE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-03T07:00:00+00:00"
+    }
+  ]
 }

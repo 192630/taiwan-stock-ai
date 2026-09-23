@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-22T14:38:58.038466+08:00",
+  "updated_at": "2026-09-23T14:40:05.391376+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1809",
   "name": "中釉",
-  "count": 3,
+  "count": 4,
   "news": [
+    {
+      "title": "今日最夯股／中釉量能增加 股價連日上漲有何題材？ | 市場焦點 | 證券",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xQmN0S1h5c0ZrRmNWN3MtanFWTThqSGVidzB5R3d3LXp1c3c3UlZZeWVRZWJDdDhSUk5GbXRleU1pa24waHJleE5tQXlvdUpaQW1kYTN6VVBnQQ?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-22T13:07:18+00:00"
+    },
     {
       "title": "【12:51 即時新聞】中釉(1809)盤中走強，市場聚焦玻璃陶瓷與半導體素材",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUTZXc0swOXkxdHZVLTJ4NVNQeGpQM3ZrTzNTbnV5cjNDeGt1U0N4UHJ1Z1ljMk44emRpNDFLOU1keHFYNTlFVGZEMTRBX1NnWFRtbHZGTXVPbi1CQmZWUFp6dC1pcFdORnlpVU1Ba0JCQmhYWW9GUlhHY0kybVVmWlpVVTNwdTBlOHpNZ3JB?oc=5",

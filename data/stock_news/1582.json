@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-22T13:33:54.675930+08:00",
+  "updated_at": "2026-09-23T14:39:33.234917+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1582",
   "name": "信錦",
-  "count": 3,
+  "count": 4,
   "news": [
+    {
+      "title": "信錦(1582) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQN2VFLU1hZHZXWDUwSEFWaWRxbUVWV00xM3ROVlNlUXRUd2NqN0JXM05sb3MwREszQzNpM3B4TDR4cDFDNGk1OXJaT3dNOTJqdnNZ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T06:49:58+00:00"
+    },
     {
       "title": "信錦(1582)法說揭低軌衛星新進度！營收占比升至7%、2027年迎接發射端放量",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01WFNGeURXZXRneU8wdGpOa2dyWkZicHJJOGpBcV9uNm4xTmFhQXlUSkZfdGpGV2V2d1ExQ1dpS2dTWkk5TkxvV0ZwRURJbHplbE1B?oc=5",
@@ -20,7 +26,7 @@
     {
       "title": "【2026/08月營收公告】信錦(1582) 八月營收月減年增，全年營運續看向上-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS0lVZjdDWEk2b3RFTjRqM2xKaFA0NWx5bTNlbnI4YTh1Rmw5RjVQZXBkZGRZSm1vbkV1eUhudWxPNm9vWC16bjZDZUNhYVh3cGdyc3JNM1JEYU9sb2FxczVQLWdXMTVZcVhPRmlIR3JObURmQl84QkktanVFRS1rZmMybnA1VkdrSnc?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]

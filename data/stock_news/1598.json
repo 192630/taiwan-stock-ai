@@ -1,21 +1,15 @@
 {
-  "updated_at": "2026-09-22T13:33:59.691742+08:00",
+  "updated_at": "2026-09-23T14:39:37.475664+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1598",
   "name": "岱宇",
-  "count": 11,
+  "count": 10,
   "news": [
     {
       "title": "1598 岱宇- 【09/11 產業即時新聞】運動健身族群盤中走強，營運展望加溫推升多方氣勢- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tYzJXWDlCZC1kUVhnc3JpeTBCNWhzeFIxeVJQNDlVcThna2RkY0dORnhGRWtFYUItUXdROWs1MGg1aVpFYkNqOXY3cFltcjBoNGVFc2ZHNjY?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-11T07:00:00+00:00"
-    },
-    {
-      "title": "岱宇虧轉盈 無人載具明年出貨挑戰千台",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3alp6SDdCMHR4VG9FQ0NLRzkxRWR2Y0U1bDhoYjhFME5Ba1NnWUFnbGI3NzgxWjRSb2FUYjk1VDlfODExQlRTX2FSYkNrS3d0QmxrQTFvdkM?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-08T09:05:55+00:00"
     },
     {
       "title": "健身器材廠岱宇跨足無人機 董座林佑穎：明年出貨挑戰千台",
@@ -26,7 +20,7 @@
     {
       "title": "岱宇攻無人機 明年貢獻營收",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9obW9MYXIzYjlkdUh3ZnFMcHZDY3phZGFkdWNWSmE2VzZMWTBGaTlzYzNXT0V2ejVIQW5SNDl0bDBKSmFUenRraEJGcW1HR3JH0gFWQVVfeXFMTklNSTJBNHdaUXBxeHhsSGtCX2RGNFdnUXk1ek4xUVNHeUt0YzhYXzFzT2ZYcHBUdnVXZ1lvZG1WSUotU0NkQm84cXlaelZFNVdCYUxRSmc?oc=5",
-      "source": "udn",
+      "source": "udn.com",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
@@ -42,6 +36,12 @@
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
+      "title": "岱宇虧轉盈 無人載具明年出貨挑戰千台",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3alp6SDdCMHR4VG9FQ0NLRzkxRWR2Y0U1bDhoYjhFME5Ba1NnWUFnbGI3NzgxWjRSb2FUYjk1VDlfODExQlRTX2FSYkNrS3d0QmxrQTFvdkM?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
       "title": "岱宇商用健身器材打入指標連鎖飯店通路 無人載具最快年底交付樣品訂單",
       "url": "https://news.google.com/rss/articles/CBMi3ANBVV95cUxQenhmNnRzbllqYWdUQ0V3T1pJeE1weTZwankxT21WRG0tZFlJcERueGlNZk1BRUwwY0V5REk4OU84Zll3SHJia1ZWdVJUcTQ2emhSZl9nY1VfdGs3TExWT2luOGFjUjhELVdlWDN2WWdiR1pwb2Z3aVdMcW4yeW5DRFpFZGp1bVoxWFNBNExGM01xSnZCX3dfcmpzWWl5ZlFJYkIzb2t1S01jVUotNk9QenlYYzZQNzVLYmcyRGRvVGh3T1NNZzZONzFOd3BETERTVTVQRm5fYW95b0lUeC1pZC14akxhZWxJek9LMjU2ZWlLcy1RREpVa3FjSjB5TzlybTBldTZweTY2dmRBNWxOejREWWtONjgzQzN1VV82UVYxbEdlREZJazBKTFJDYW1DX3Z1VkRRam1OSnZlYjZHUFVJNEhSb3J0UkRrYkVhR3UwY3dPcE11TnNBZm1NUThBR1E2RzJkTDZ0TVRTMi1ISjBpZTd5YlowcWYzUUh0QjZEQndhb3NWMlBMeWJOeXJydGp5QmFYLVBCYlgwVS04S050cEU4MnM5TXlrbjcwNXMzVVg2bHdEa3ltQnpSbzZpT1FFYUkzSEJCSENKZFpmYTc0NHBJRGZFNFRGaQ?oc=5",
       "source": "Yahoo股市",
@@ -52,12 +52,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14bERKNl9nTFVORnF3TWgxSVdreTZpcDF3dTd0ZmJzLXV4Y2dMRS1KbnU2RW1sWUwta2l4V08waE10Ty1fYVVMc2d2YlMycFFCR3BWaF9HdW4?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "岱宇今年回歸成長！明年無人機放量、全年營收獲利看增20%",
-      "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOT3JZN0dNUmItR29VTWF3bkExU2JVWV93WmdETXBVUVd1UzFDYkJkUHdrazlrRi1kbnQ2SUZPNXhaWm1LMWd4TkZMU252enc1d0Q3eF9FRzA3RDZaSUpQekliUWxMbHc5cHQ5bUNnUTg4ZVEtMEUtRGo1YmxBZUU5cmxnY3VEa1BINEFKN3pLRUxUWXpvbWJWeXdVXy1nRC1uS2xrTlM1TlRNWW53TktZd0lkV1FOZ190QnZYeDdzc2FrV1U2TDE4MURTdkR0VEh2a25wOXEyc1NSM3B1YUFRRS1zSTJUdEMzemNFNC1BU0p5dGN5Q0ZnZmJkRkdSMGRnd0dybFhVcUFlMUd2WkJZTURZWW9HaEJJR2gzcHRBLTVVQWdEWWFwS3pKVWREWGhBZmN4RV9wdG1YUE5MUU9YbnBDczJHNnRMeGxIYkg4OVROZGRCN2NTaEo2cmJfa2R5dm5fM1VqLTQwUHpL?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
       "title": "岱宇(1598)-同學風向與貼文摘要 - 股市爆料同學會",

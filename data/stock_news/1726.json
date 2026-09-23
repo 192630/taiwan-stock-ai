@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-22T13:34:15.587020+08:00",
+  "updated_at": "2026-09-23T14:39:51.570483+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1726",
   "name": "永記",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【營收快訊】永記(1726)公告08月營收",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jMjNVcFZiUjRQWDlGYUh0Y2xPSFFSZ1hYdXg5aVNTNURUaDZ4YXRBSXdFdTlRSDM4RGFQWlFtalNYOVdGcDVfRmFvWE5BNWkxLTZhVzJiYWw?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-10T07:00:00+00:00"
+    }
+  ]
 }

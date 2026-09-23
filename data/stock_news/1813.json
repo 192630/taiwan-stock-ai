@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-09-22T14:38:59.112184+08:00",
+  "updated_at": "2026-09-23T14:40:06.345629+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1813",
   "name": "寶利徠",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "童子瑋爭取基隆1813新班次邀政院支持 林沛祥：車、司機、錢從哪來",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HUE8yQ1NueUMyZEg2QVUwaTdma2docUNsTUpYZEdZUUppXzJHaFJPMDY0N0gxV1J6dXQwMGpDdUJyS2VrUHdNMzFQeWs4WFVxcXNmbFVtUFprUDlRSTlrb1h4RUpRMk9fbGfSAW9BVV95cUxNY2J6MDFKYkJOcjIzNGRuV0otc1hzUTZ5UUswSDktbzV5NjFaZXRVQlZodWhlU3VSTERpdkZibmpEVWxMVEktc3lrNmhOSkt3TWZBRVdBR1RVWGxhT2FJdDVCbE9rV0U5aGtDdV9QX0E?oc=5",
+      "source": "news.ltn.com.tw",
+      "published_at": "2026-09-01T07:00:00+00:00"
+    },
+    {
+      "title": "童子瑋爭取1813增基隆直達班次 張惇涵：中央全力支持",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qbFpoeHptUllkTGc3M2Q3dEVEaFNnTWhyYUVSZHIxdmsxTFBlNWVDX01HenZtUDEydmVFVVdIbjZTd2o1N0piVWtQbFBsWHZsejFGalJRZWFPdzVDcFNNVEY1SkF1MF94NVHSAW9BVV95cUxNcl9fUm1GWEI0WXRKcTJJbkZrVllOME1tY1NveHM4MjRSblZSTnJaVnRKZmNnc09PYzdwUmR2Z3NtSms3M19OXzI3Q1g1UnlsdkVNcWVkYUs3dGR0VnpDUkpvRkNuUWl6ZG43akMwU0U?oc=5",
+      "source": "news.ltn.com.tw",
+      "published_at": "2026-09-01T07:00:00+00:00"
+    }
+  ]
 }

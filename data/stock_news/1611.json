@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-22T13:34:03.420129+08:00",
+  "updated_at": "2026-09-23T14:39:40.699895+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1611",
   "name": "中電",
-  "count": 8,
+  "count": 7,
   "news": [
     {
-      "title": "中電受惠北都發展|香港經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNenRGNk1hQ182a2RlN0RoMUx3eW41dGlxUmwwMjFLSnRUZkM1Z0ZMTVBhTEw5TmFoZDlxekFGVERjX1I4cjJSUE1GaUtJX1ZkSXplT2g5emhJRTBwUkNPQXB3V2dUTWVLT3VrYmNlcnNBSG1nOVJKZkw5SUlHaTZlTVhZZkxNOE9GM1ZxaGdpX3hKdnNCU2d6enVGaDQ2LXZfdWVUUzA1SVllTE5jdmgtUnlB?oc=5",
-      "source": "香港經濟日報HKET",
-      "published_at": "2026-09-20T16:14:00+00:00"
+      "title": "中電控股(00002.HK)10月12日董事會考慮宣佈派發2026年第3期中期股息",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzcjkzWmNkNUNOMVoyeGNBYkZLdVFyLXgwVGN1cG8zVDllYlYzMl81UzBpWVhBeXdGZ0dGNWRHcUhFODBGTEM1MXV4WWNhNl9ud1BCUUxwaXoxN3prcmNvNE1UQVhQUUVIZ0E?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-23T04:59:24+00:00"
     },
     {
       "title": "五年規劃 吼中銀中電中建築|香港經濟日報",
@@ -46,12 +46,6 @@
       "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNVlhpZWI5YkJEUXdNdGpjOVN4WkJfTEtXc0xfbWJYUXh5YVpCUGxLRGF6WFNPYmRlOHNzbnF1aE1YamNhRVZEWWJ2cHdSN1FudXB6aTVBYndEQVdoVUtPY2l4Z3R4RWhLaXBMZ0YtcUdTQU9LajFoU0dQd0hzTVBTV2JSNTZJVVNMWmJzNXZ5WVFTWWk1UWd1N1ZzRWJ3SzlsYzVEOG5Ua3FwNnpHVGNwWklTQkpydjFCNFEyb00xTGE4X0tWUDNxbXdIdWljWEJnYWJZQjJYaEpPUVlYSldqdkM5eW1sTjNNMHktWUdRSVdQVThYNzhNTkhuMTVBbUlnRTRPZ2FIS2ZmTFVGb0xEZ1Iwc3lReHFyeFlLNGJBODQzWTVIZWxqZVU2QmlvdXBKb3NRS01DTF9TNkhnOEhTRk1EQlh2QQ?oc=5",
       "source": "信報網站",
       "published_at": "2026-08-26T07:00:00+00:00"
-    },
-    {
-      "title": "一語千金｜中電羅嘉進：香港要以國際價格買燃料 不能與內地比較",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAwd2FRby1Pb2otZFExNkVqbGNHX3ZxdTJ0U0VWSEh3Sm9IUFdrX0VvaXhzSXVHd3JOQi1CbmVEVFRJa1VCSXE0YlpJUU5NU05xYkRnSnMtN2JNX1E1d3BSZERB?oc=5",
-      "source": "Now 新聞",
-      "published_at": "2026-08-23T07:00:00+00:00"
     }
   ]
 }
