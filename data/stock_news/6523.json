@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-23T05:33:12.659099+08:00",
+  "updated_at": "2026-09-24T06:32:48.500474+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6523",
   "name": "達爾膚",
-  "count": 2,
+  "count": 4,
   "news": [
     {
       "title": "《上櫃公司除權除息 3-2》達爾膚 10/01除息",
@@ -12,10 +12,22 @@
       "published_at": "2026-09-22T01:19:00+00:00"
     },
     {
+      "title": "9月15日 Genet新聞: 【達爾膚、久裕、曜亞、佳醫、仁新*法說】、《9/14日法人買超》外資買超前三名：高端疫苗(715張)、藥華藥(519張)、台康生技(260張)、【9/14日股價漲幅】台睿(+22.61%)、欣耀(+17.65%)、鼎晉生技(+12.35%) - 生技投資第一站",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxNkIzc09zZ1FoVG1aRllIUXlVMHBMNnI4M3YzYVlxdUgtVVlKTDVTWXVUbzRxM1VMQkNBUW9KN2VMaDlZUGVNZWJUSFJyNWV1OWpZVUZ1UnBWbkZob3pWMUxxWnhnbkRWbUxfRXN3?oc=5",
+      "source": "genetinfo.com",
+      "published_at": "2026-09-15T07:00:00+00:00"
+    },
+    {
       "title": "達爾膚 本公司網路資安事件說明",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oeTYxVkRCX1BnMHFpZTE1bEpwRDVaUE1McUEwVXZlR25PVW4zb0RQY3BSZWZPYTFEekpzOEJWU0l2V2l2WkxXRXVhOGVvbzZ2Umx0Y0lZMmQ?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-10T07:00:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】達爾膚(6523) 八月營收1.29億元，創近12個月以來新高，月增55.9%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ0J4blVhTW82SU5PWFhlSFFJMVAtLXlkbmpob2xhQUZ0RmRaUDBtelo0U2hnUFl2QkVUN1ZoeVZLVFZORlh1REtmTWFpMnhLTFVEaW0wczYwSlQzR0NMaURmNk5Eejg4WTJHdGoyS0xrVUNOUEhWSlZLaEdqbGM1bXhDUGIwdlZ4NWc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]
 }

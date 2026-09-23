@@ -1,21 +1,27 @@
 {
-  "updated_at": "2026-09-23T05:33:30.839853+08:00",
+  "updated_at": "2026-09-24T06:33:04.935828+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6591",
   "name": "動力-KY",
-  "count": 5,
+  "count": 6,
   "news": [
+    {
+      "title": "6591 動力-KY - 【09/23 產業即時新聞】散熱模組族群強勢走高，AI伺服器需求點火龍頭指標- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BRFo2aE9Wc2w3em5YT280RGtnc0xrT2QxX00tanRHcUhoanZ4UERrLThqSFdMRHpqOTFDM2ZOdXoxLXREYjRubkFQbzIyMjFuTWtYX3hzOXI?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T01:30:32+00:00"
+    },
+    {
+      "title": "6591 動力-KY - 【09/23 產業即時新聞】散熱族群勁揚4.64%！AI伺服器水冷需求強勁，健策領軍點火- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BX1hiQzhtczVQQ3VOM18zdU5SNkVTaktodXVHcEJ6N0ZiWUtsWkU2S1RpVDBDdjhKSTQyMGhndGdGZmoza18yNTUwYm43dVYzdmN6bDV6Q2Q?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T01:30:14+00:00"
+    },
     {
       "title": "Sun Max Tech Limited收入明細 – TWSE:6591",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5qVXhkcU5BbklRWmhuRWdXeHpfU1N3Y2RRWnR5VkdFbkQ2N1lqaG04YWo1TzhZeDBNdmdrSjBOZ0J5S1BDcUlCRTUxUXdiN2kxZENvS0czUHUwM2ZVN29taXNkR05ZUFlkVE1BLTl3a3d0NUE?oc=5",
       "source": "TradingView",
       "published_at": "2026-09-16T02:02:40+00:00"
-    },
-    {
-      "title": "動力-KY(6591) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93RzRydjNqWEZuWE42TjZnWUxuY0w5ZG1Qb2RIVjUtUW9jek9IcXNHY2R1QW15Qk5zRjQxd3k1d2lHNzZBS19jamNfTUdMcE9zc1Rj?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-11T09:16:15+00:00"
     },
     {
       "title": "動力-KY營收連三月回升；泰國廠Q3投產",

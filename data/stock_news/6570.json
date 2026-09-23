@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-23T05:33:24.104491+08:00",
+  "updated_at": "2026-09-24T06:32:58.780719+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6570",
   "name": "維田",
-  "count": 3,
+  "count": 2,
   "news": [
     {
       "title": "維田樂看市況能見度維持高檔 營運淡季不淡、旺季更旺",
@@ -16,12 +16,6 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZk45NDNwaG5NeUZ1LWYzenJmTkdvTnpLVzh0S2RPR0NnWWNwajBheG9JMGhOWExObWpyNWJMVnVKaE1OaEFnMVV6Ukhxc1BDT1AxZmEwTmdQalRjRnhaQVpJSDQ0bW43cGNZUXBpZDA5Q0pMd3F3OUY3OVJGalczdXdBYVk1OUpOUHc?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "6570 維田 - SWIR 相關概念股- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kNlowMWxuWXZWUlY0dC1jc1NYVnVwOVhsaHZnSEFWaV93Z0Qxa28wZjBoSUVOQllISnNfTTh3R0Ntbkh2elZ3MUZyLUlPblZDSFJmWF9Ua2w?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-31T07:00:00+00:00"
     }
   ]
 }

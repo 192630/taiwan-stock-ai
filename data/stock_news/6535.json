@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-23T05:33:17.189556+08:00",
+  "updated_at": "2026-09-24T06:32:52.561441+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6535",
   "name": "順藥",
-  "count": 7,
+  "count": 8,
   "news": [
     {
       "title": "內地A 股早市低開後回順藥股搶上",
       "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNb3JGX1RRWjVMdmRhaDBIZFNza29PclBjeUhsbm5LS3ExY2dxb1Z4WTFyXzZMWk5fZXV3YkxFXzhTaDNTMldzTmFXV2VvQWFzSWJsLXRTNi14b01CWUZUaWRKMlZOUXJSRUZnVTdTSUdKTXUxdktCRUVZRktQWHdnVTRtSjlESmpHNzV5bHhFZWFqODdUMk9UUkJzX18wTV9meExKbmVUM2tvcXJ5RFNTME5UTWxJVEc0NUZOZ2RDb3kzWUhYZmtYVzJGcmNSTmljS1dIT3BZUlc0WEJacXpRR0lKekltbW1ob1lxMEtlU2hZYklGbGFpRllYVDM5Sl9Tb0hqQ0FUUXBxaWJ3UFZ5UQ?oc=5",
       "source": "巴士的報",
-      "published_at": "2026-09-14T03:42:35+00:00"
+      "published_at": "2026-09-14T07:00:00+00:00"
     },
     {
       "title": "新藥股單日跌逾3%，華安與順藥的強勢能延續嗎？-詠晴K線解密",
@@ -22,6 +22,12 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUUxDUlEtRjkwY2ZFRUlzN1BmS0pHNWlvc0hNOHJVZ29TXy1KZTc4SFlaV0tMSjJyMVA2RWJXajVPWTFHLXFKdVFWTWZJZHRmeGJhYjVLcXhudzFvQ0l6WjBBVm5kU0NfQ1BQSHJFZlYtbEhDcXV1clpKbVh0dE1tYkd2Rk9pa3VTVmc?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
+      "title": "2026-09-03生技股：(漲)浩宇生醫9.74%、藥華藥3.45%、漢達2.73%；(跌)順藥8.15%、睿生光電6.3%、共信-KY5.81%",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14OHR4akd3RmxrY3p2dFNQcnhnTGYwRWVreDRyelZiWHllSGNsLWprQS10VU55T1ZWb3JMNzFqTm1YTU1uWVN1Z200SWpxMWJJNFFGX0NXYm9xbUJ5NmxfbVZqRF9xcHM?oc=5",
+      "source": "環球生技月刊",
+      "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
       "title": "【10:01 即時新聞】順藥(6535)股價急漲至81.7元、漲幅9.22%，MSCI小型指數遭剔除利空鈍化＋短線跌深反彈伴隨空方籌碼回補",
@@ -39,7 +45,7 @@
       "title": "新藥授權故事最容易被時間表帶走：從順藥LT3001看臨床、現金與估值",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05X0V2eElQVVlWcG9WRThaZ2N5WUNWT0ZvZ1JLcFR4YlNLdTBxZjJXQlF4UldLRWlDdU5uZW9FUTVYZWF6c3BMVmg5WW1WVmxoQmc?oc=5",
       "source": "蕃新聞",
-      "published_at": "2026-08-27T20:11:54+00:00"
+      "published_at": "2026-08-27T09:16:46+00:00"
     },
     {
       "title": "【12:55 即時新聞】順藥(6535)股價勁揚近7%，MSCI調整與悲觀情緒消化下出現技術性反彈＋中期下降趨勢中留意主力賣壓減緩",

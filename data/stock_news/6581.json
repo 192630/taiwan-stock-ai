@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-23T05:33:27.519324+08:00",
+  "updated_at": "2026-09-24T06:33:01.828011+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6581",
   "name": "鋼聯",
-  "count": 2,
+  "count": 3,
   "news": [
+    {
+      "title": "Taiwan Steel Union Co., Ltd.的每股有形帳面價值 – TWSE:6581",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSWotOVE4MGFLU1lVMWdDci1xZUVudEloMlJPeFphcUZsSjVuTk13MGl2SmR4VWVvaDF4YzJXU1lFeVE4bkxOY0tPVlhNUHdtblpiT3QtNmRWNks3emw5Q3QydlBNNUNxR0h1MHA2YWF3dW1xTVZ4NWwtRFB5X0JVYzdvZnIwOUh3UjRDUXRJNWdVVm1LdjNNTjdBWEJMT01IRGxIQw?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-23T02:14:31+00:00"
+    },
     {
       "title": "台灣鋼聯攜手阿爾發投顧讓AI理財走進企業福利- 商情",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93OEJ4SHBjbi1QRTU4TzZoellMRFJSU2JkNS1rUW1UTFNrX2ZWZi1uTVR3bC1tOGFaMHNsOUdBbTN6YXF0dlNEZ1ozSkcxNVk3d2F0WTNpM2J0LXBueEVn?oc=5",

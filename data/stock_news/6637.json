@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-23T06:32:55.981657+08:00",
+  "updated_at": "2026-09-24T06:33:13.727238+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6637",
   "name": "醫影",
-  "count": 2,
+  "count": 4,
   "news": [
+    {
+      "title": "6637 醫影- 39家上櫃公司開放融資融券交易- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnZHFKQWNiREFZOGZLQ2NuYUNKSFgzWXJGR3FadDUwdnAyVk5GblpEb3VNdXozR3R2Y2dPSXlrel9fNUJlel9oRExPU1QtaHJDVjBudmpRWGE?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T10:33:25+00:00"
+    },
+    {
+      "title": "Medical Imaging Corp.的股東人數 – TPEX:6637",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZE0wMlhud1kyMXFZbmc1MHUzdmwtcDAzdTg2Q2ZSbF9Cc2lJS3NxS3Jra3JQdV9VSHB5bm9SNzdtTVBKN3kwSGlCRnI3cExFWnlLaS1CWGVFeld0U2N0NG03ZjlteGFOempOcnFCNVlpU2d0d3AydXRKTjNjclkzaFVNVmtTRmE1U0JQbWwtekhQbkVCN29FNEpsOGVSY3g0MWk4?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-22T06:21:21+00:00"
+    },
     {
       "title": "Medical Imaging Corp.的Price to book forward – TPEX:6637",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNm9Yd201YmVFRlpMSXdXMXNBcmxuakROMk9zLVllcmdPSXE2SXllR2xDeGV4bngwbkcwTkRhNzY3b2FjNkpGNlo3dDkxTUJrTTdGYkNCY2hBQzdfaXNaN2hNWl9ZTWVlaUhnX3I2aDVpZ18wMVkwU0JvZHZua3BNXzNYOFRYN0FUUDEtOFkyV1JaTDZGQnhXMw?oc=5",
@@ -12,10 +24,10 @@
       "published_at": "2026-09-21T14:42:41+00:00"
     },
     {
-      "title": "【2026/08月營收公告】醫影(6637) 八月營收年增0.9％",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1URERMZTVzc2F4Nk9uWEZKSFRuNFVXSm52aVhILXlHbXJ1OF93SDF4YTNoM3M4SHlGNkYteWFXQ2w2RVgyQ0prOG5sZDVwM3JBaThCMkc2U0lhTFJKUkhzdDZ6TVUtOVk?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-07T09:40:12+00:00"
+      "title": "【2026/08月營收公告】醫影(6637) 八月營收年增0.9%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeTc4clJSZEEtbWcwSU51Wlo3akJIejdQT3lUNGEzREI0bUFSRHMyeURJeEI4VGw0ZTlxSXJhMF9LVnhLQ3UxVURNYmlqVkF0QTAwd2Z5dkh4UGt6RlZZSXpIRFlXdUwxb2l5Z1BiUFFtZG9MbFUtbGsydktSa0Y2akduT0xYUHBtZlE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]
 }
