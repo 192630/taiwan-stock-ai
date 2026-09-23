@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-22T07:33:23.935034+08:00",
+  "updated_at": "2026-09-23T08:38:09.977704+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6969",
   "name": "成信實業*-創",
-  "count": 1,
+  "count": 2,
   "news": [
     {
-      "title": "【2026/08月營收公告】成信實業*-創(6969) 八月營收營收雙減，年減17.07%-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOWJseE1hSnptUk1rX2RsaWszbm96WVRlYWdyeE05RWtXS1p2Q2tYMDVMTkxHdTRuM3FaYl9hRUlvZjVGX2hidjE1ZzZiQ3ZvaGFLcldvMG10OWoxVkJwREs5WFFPb2tqUWpYdmZub0J1WDdpS2hTSWR6ekdPa1dVbmRjRzJhNHY4bHc?oc=5",
-      "source": "CMoney投資網誌",
+      "title": "Transcene Co., Ltd.的稅後其他收入/支出 – TWSE:6969",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUkRMVzJ4SDNYa2xJZ0pBWWNxN28xd0UxUFNBd252dG9jMndldElvTEpjT2IxakViQVNkaTFhMm1CcDlSYUJnemdwT3E2amNiUUNzTWtRc29KQTYxYXh2MTZtOG16U3FlTFFlVHUtMEItWU1faDdkTGlsaXdNcXhXUC1YMGJod1M5c3UzZHBNNDV6NTFXR0VPa0lOS0I?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-21T22:29:37+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】成信實業*-創(6969) 八月營收營收雙減，年減17.07％",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51VHoxRlNsSGJzbXBkZFl5b0gtQ2tIMk5Mem9tUFdydFhYbDU2dGJYV2pXZEwydVlGLVdKcmVBUVByMVhKUE11TGlKREVvUlJncmJVUmtuN2k3c0pJVVZzTlptSTRUM1k?oc=5",
+      "source": "CMoney",
       "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]

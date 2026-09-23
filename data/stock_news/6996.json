@@ -1,21 +1,27 @@
 {
-  "updated_at": "2026-09-22T07:33:27.055251+08:00",
+  "updated_at": "2026-09-23T08:38:13.008362+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6996",
   "name": "力領科技",
-  "count": 3,
+  "count": 4,
   "news": [
+    {
+      "title": "【09/22 申報轉讓】力領科技(6996)經理人郭文源於22日申報轉讓力領科技股票340張-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMVB3cHBLQlZBVmFNaGp6YjV3a3ZlWVh5OGJ2MHpSNXQ0ZVRFaWRTQi1CQ2Rwai1sRDZyZ0hBWENlUHNSMUdmRG9aNmpFZjlIRnZ3MFM0aUdsNzBFYVRfT251aWFHUzBuT0lYNVdYN2ZaNVdmTkh3eWhIWWRoWHlwSXJOdWd2VmtPRkE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-22T13:10:07+00:00"
+    },
+    {
+      "title": "統一證券剛剛發布了一份力領科技(6996)的券商報告，目標價為215.00，多空評等為看多",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uc0x1cjNXZ1c2LXNWYWFDMzQ0TUNBWkhiNncyVW12WTdua3I0cGxRbktTbEpCQTlHVEVXSWZQWXpqN191elZiVzg5SmRmZXBuM0E1endIdFI?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T06:24:36+00:00"
+    },
     {
       "title": "力領科技（6996）營收連續增強在低價位，可入場嗎？",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15OW5FNzF2S2JlbkVVc2ZUX25yM0kwZndENTF4NFZUYUt6clRqUmNuakdsWmtlMTluU1FOaFQ2ZU1aZHBnMkR0Q1JrZWtjUjROVExtV1ZMem4?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "【2026/08月營收公告】力領科技(6996) 八月營收月減年增，全年營運續看向上",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TLVBTRjhoRVo2alh6UzdlLWtVWVZ5bDc0WHNkQndvc3BTSHlNVEx5ejNraEgxWWZEdXhpN0hCTlFLZXh3VGhpSE92aFZBX1ZGTmJtVGdLOGNORU9Fd25CR2lnamE3RnM?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
       "title": "力領科技獲2026鄧白氏中小企業菁英獎－半導體產業獎- 商情",

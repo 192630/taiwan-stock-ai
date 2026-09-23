@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-22T07:33:44.277530+08:00",
+  "updated_at": "2026-09-23T08:38:29.899357+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7749",
   "name": "意騰-KY",
   "count": 12,
   "news": [
+    {
+      "title": "Intelligo Technology Inc.的每股現金 – TWSE:7749",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQlQ5SXo0a3ZCdWlDWHJPczdaNFo3MVpWTXY1a3UtWHoySFROMXd0dXNpenR4Rm00Z2hPcWdrNGptSmJoYkRuZHRhYm9tZ003c1dPWWFNVmpFVzhUVThDcldqdDBBMDBtVUp6YWxiaXhrX3N1S2ttTG9IbE01VjlySG5fNncwWGFFcDEzV2RsYVdTaUNrQjV1Qw?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-22T06:15:06+00:00"
+    },
     {
       "title": "意騰-KY(7749) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tbG9FdUVyd2s5R0JVZlgxTGNwWUFGSHNnWHJScndMZkNwem8zUTVjOGhtSEpMQk85TTdiSlUtY21MTExrWkdCV2lzZ1pVNVhWVjY4?oc=5",
@@ -31,8 +37,8 @@
     },
     {
       "title": "意騰-KY AI版圖雙軌並進 達哥攻企業、終端市場再擴張 明年營收估增雙位數",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNWEswVl9tZi1Qay13NjlzVjZ1TnNLNzI3b2tjVFM3WlZDS1VubXRYcG1NazNxWU9lS09VWHFYdDNRZENiLVFWRk1zeEZ0bEUyUVRfVTZrOV8zTnRySDNRWE55eXd4NHBMRVIxdXJpZUFfWTNyQjF5VjVZdnBnSkt4eXpZNFd4b1VMb0tYbGVDTE9helNXV0JTOXA3Y3dZYldHSFd4WXlOak1oNWdBcnh1OHQ3WjZOWU5tdFBoMHU1YnZTcXFodnQ5TW1USlFCekRtUGtEdXZyU2dYdlE1YnVfSFNzcmVRUXZIdU5xUjFyOGlvWFdiZDMyN3NHU2JlRUc0YWxFZGxCQWt5X0Z1SGNlRERmOFZwUjloQ3ZUQ2lCMXVwR0NOQ1ZOUlRYNzFsYW9UaGdnOFE3elhWR3JaeDdMNm1jd0JzVmFPLUVEXzctbWRBazJ0RUE?oc=5",
-      "source": "Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQXzJBeVJNX05CeE56aF9hbmNpX3BBdU5DbEl1NEpRYWpFWVdZd2RTX1lYMzFzRXRnaEpZamdLRlJKX3FnUW9ZOURJNmRwQWtMaHMzVWltSjZ2dU1kclR2WDFwVnhoVGV5cS12S3dvQVVyNGlFMURsQXFzNUxiZ0hwU2swREIyU1dhWnJ4a3pCcnFiQnZ5QjNWY0pwUFN2U25wbEFpT0gxcWI2WnF6WmdzdzhwSG9oV0VaQkRNWE9xWUV3dVBONUxoY0JJTFNGZUtJdmVKc09iT1RjZXZGNkhlcTZiTUszQlJER3VXZVdwNV95LTE1clJaVVJiSFBtYTdBd0N6ZlBEeDg3QkVvVGNFck1JeUVXbzFCN0J5QlZ2Yi13ZFowWVhtM25IQVlKMTAwS1otZWFHbS1qOUhXTjBSZThoUkppakNzTjg1bWFDN0o3Rnh2WnZNUQ?oc=5",
+      "source": "Yahoo 財經",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
@@ -40,6 +46,12 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40VUtLM1A5TmZhc2pzeUtIZWlKWFJlVmNxeGppb1Vra2c2NkFjYVRqU2lwY1dVNG5NQU5wQ1RMSmNHb3UxeFdtRFhrdFVOdDZNVEhNYXJnZ2U?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-08T09:07:42+00:00"
+    },
+    {
+      "title": "意騰-KY 8月營收強勁，Q3看法正面估成長",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOZGRWdEl5SDhGemp1cTZDRGE1eWxJZlk3Ylg1dGF3QXBpMHVqeDNMS3NYYUVfX3JyWjJ2T1QtdUtzZGVQTlF1ay00WXVnczBJWWVzSi1Ka056ZFZYZzJMdHQzVzd6enBFLWtBdlY0UXdVQXZ3Q1dqSGdyZ1lreGhWU1p0ZXZmNnBMekVzc2pRakxhN1pzeGd1SDFQTHJfclBrRklTbnBuVmNDbnpjc3kzRFRzLVJYSktyTk5felpteE8wXzFCeWZ6TDZyeWwtc1djeHVoRmVCT1lPUmpQcFBYdlNmMlFWU3RtU1R0VTVWb0JReExyREJxZFZZYWdnSlBYWDJqRVNEZFRUemswRUE?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
       "title": "【2026/08月營收公告】意騰-KY(7749) 八月營收1.99億元，年增60.5%-CMoney 小編",
@@ -54,12 +66,6 @@
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
-      "title": "意騰-KY 8月營收強勁，Q3看法正面估成長",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOZGRWdEl5SDhGemp1cTZDRGE1eWxJZlk3Ylg1dGF3QXBpMHVqeDNMS3NYYUVfX3JyWjJ2T1QtdUtzZGVQTlF1ay00WXVnczBJWWVzSi1Ka056ZFZYZzJMdHQzVzd6enBFLWtBdlY0UXdVQXZ3Q1dqSGdyZ1lreGhWU1p0ZXZmNnBMekVzc2pRakxhN1pzeGd1SDFQTHJfclBrRklTbnBuVmNDbnpjc3kzRFRzLVJYSktyTk5felpteE8wXzFCeWZ6TDZyeWwtc1djeHVoRmVCT1lPUmpQcFBYdlNmMlFWU3RtU1R0VTVWb0JReExyREJxZFZZYWdnSlBYWDJqRVNEZFRUemswRUE?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
       "title": "意騰-KY三大業務動能續強，AI眼鏡/新演算法添成長",
       "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQdlNXeDhpYkptajdFbFNiNlpXOEF3M3FKV3ZCb2I0Ny1uVzBtZXY2Nm9XbFFDbUZYSDhCaTgyTElGR0g1Zlk3VUdEZUZuRlk2aERQcW9Jd0M0NzBqT3FRcnNMODJNa2pEYTdlWUpSRVpiR0lzWmRGSk1BV0ZHaDlIc3J2dVNsMldSeDhsZ2ZabmxDVzB1MEFkSWdrLV90ei0tNWFkQmtZdG5OSkNTcVhvTkd1VWw0b2ZEZlRlVXlaUWFqZkxoVUxFZjgxemltVEMtcHVpV3ZNckZIc2xxR2l4M0NYM3ZuRkQxUXdNZmcySEw1S3JWSW4yMHFjcEFReXE5Vkw1U1V1a2dCajlNNGRnTnVURkZCU1YzaVgwbGVGaUQ2NFlvQmhpcFR5RFM4UVloUHZCczJzQ0tweHpoVlVTbnBzZm5CSmxx?oc=5",
       "source": "Yahoo股市",
@@ -70,12 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQZ29KcG54RUZlZzRxWExNN0lSRi10aE5PeHl4VDIyc2pRQzE0WVk0QnVkVzVIQWFORFp1NmxNMDdyWlc5U1VnSjZWTTlId282aUZXZGRYamRyRWRobzdtc3FfQ0RiNkkxVHpDaE1HcTFpdHF1UFNjOExhS0dpWTUzVW1OX01UMHJPTXQ4RmtZMUtFU3d4R3JGMDlMak5nNUFOLWNXYVdaU2E2Slhsc0RsWkY4VWg5S1JUeG12ZnZSa2UxaTdPYWNzcDFuM195QjE3Y3lJQnlxQ2RubWt4V2FKMm82YzdBWmdRVl9fUnFTbWM2aklpYzJZM1dla3daUXdpN1RRb1VYUVFWMU0?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-08-30T07:00:00+00:00"
-    },
-    {
-      "title": "意騰-KY Q2獲利寫次高；今起買回庫藏股900張",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPYmQtc19TN0pXbjlkNjU3WmNxdTJLbDJsQ3Zad25JZy1LbGZvRDNwNk1JdlRPVDdDZEJUdFdRV1RNTXMyQ181RE5nZXJhRmloZ3E3UWVWbm9icXRUbzE5bFoyOHVXRXBLbi1pOGt3cUZaQ0pveWpqSklUMHVIY0V4VzhYRDVYRDRFOTAyU0RjaVlKeG13X2puUHlmeFlLRWRvWi1xbHQ1LS1mY3JWRFNsMEFFX1phZmNDMXppUXd4enhObEhEUG1sSFZzU01jbnU5M1NtcFNJVnJFUmt4a2c0OE00QzR5NmRUODktSkFEY3BwcGFUSFZfYlFlRjVYYW53V2tJTTlOTGM5OWZOaUpORzVhOGY5dENUQVNzbg?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-08-23T07:00:00+00:00"
     }
   ]
 }

@@ -1,21 +1,15 @@
 {
-  "updated_at": "2026-09-22T07:33:47.202764+08:00",
+  "updated_at": "2026-09-23T08:38:32.766939+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7765",
   "name": "中華資安",
-  "count": 12,
+  "count": 11,
   "news": [
     {
       "title": "7765 中華資安- 台灣於2026 年 1 月正式公布施行人工智慧基本法- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaelh5Vjk5d0FOWmtzYUV3NktBZEZOLTNubWxOUUZkRWNUZGd0b2NnTzloczZzOEFOQzg4RGtzTjhaTlUwMVVCZHhGeVVDUE04ZEJ3TUJZWDY?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-20T23:59:45+00:00"
-    },
-    {
-      "title": "《台北股市》注意股：16日26檔列警戒中華資安、金居上榜- 上市櫃",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50UmNRdUZ1aGlrMjRYdmxubEFBVWNNODdmSUtfNS0xZEhIMFNLNlNpQUlfUXpBYk50QlFtUFRyZGlUM3hRX0J6c19yaWJPUTVyeEkxNVItUlE5NnlUcGgwNW9xZnBycmNoZkE?oc=5",
-      "source": "旺得富理財網",
-      "published_at": "2026-09-15T23:50:55+00:00"
     },
     {
       "title": "Anthropic、OpenAI發表AI煞車論-中華資安（7765）領漲，算力現實並未轉向｜豐雲學堂2026 年 09 月",
@@ -33,7 +27,13 @@
       "title": "中華資安（7765）做什麼？核心技術有哪些業務與 EPS 解析",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBiLWFfTkQ3ZnBoUHByc1dlUGIyOVpuTVZiS3gyNTZ2YkVXTzdud09rVUtDbUhJLWdMRndIMnpwZ2NzcXAxUjR1akVfLTJLcnNEa2pma0lRdW5ENklF?oc=5",
       "source": "pocket.tw",
-      "published_at": "2026-09-14T07:27:53+00:00"
+      "published_at": "2026-09-14T07:00:00+00:00"
+    },
+    {
+      "title": "資安股點火！華經、中華資安等衝漲停 邁達特、伊雲谷等多檔齊揚",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kYnQ5Z2tMR3ZVZWZBaVlDTXNIbEhVaGxwemtLWktrTGRWX3hQOG5FZ1BhdTN0cHZCd0wyZzh1bjhfclgzQkxSVFM5LXhZbFU?oc=5",
+      "source": "TVBS新聞網",
+      "published_at": "2026-09-14T07:00:00+00:00"
     },
     {
       "title": "AI巨頭齊點名網路風險！中華資安領頭 5檔軟體股刷漲停",
@@ -42,28 +42,10 @@
       "published_at": "2026-09-14T03:17:27+00:00"
     },
     {
-      "title": "7765 中華資安- 以下為投資人梳理觸發今日資安概念股漲停的三大核心原因： - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBneEp1dUhIbldiblRSWk1JRHczaFE0c21pRTBNOXRVbk1wajFRZ2VrYTUwNXF5M1RMVWYydnQzY0VjanRVZXNkNlN1cW53dDZEUFZhNUw5ang?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-14T03:04:55+00:00"
-    },
-    {
       "title": "7765 中華資安- 為投資人梳理觸發今日資安概念股漲停的三大核心原因： - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXd0ZPYnNzZDFYM1BPMVNlVncyMjNnM0RVa3ZjOXVucy1JQUNGZmRETmNMdk5lSm1hdnNmSm9DX1R0QXRieEhSUURuNi1feGlwa21sYlJKWnM?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-14T03:03:44+00:00"
-    },
-    {
-      "title": "資安股點火！華經、中華資安等衝漲停 邁達特、伊雲谷等多檔齊揚",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kYnQ5Z2tMR3ZVZWZBaVlDTXNIbEhVaGxwemtLWktrTGRWX3hQOG5FZ1BhdTN0cHZCd0wyZzh1bjhfclgzQkxSVFM5LXhZbFU?oc=5",
-      "source": "TVBS新聞網",
-      "published_at": "2026-09-14T02:36:00+00:00"
-    },
-    {
-      "title": "AI資安點火數位雲端股！伊雲谷盤中攻漲停 中華資安亮燈鎖死 分析師：先別急追",
-      "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxNcEZrYlRJZ2ZqdTlHdm82ejZ4bDFfZ3NJdlQ0UXRIbm5pcEd5eHJJa2ZrWW9rREs3NGE1a0g3STd1NF9lV2RPa0JBbFNvWld4X2JPWXpQMXNQYUIzRmRldkJOdjA0RmwwdF8tSV9kenFtdDJaNDdHYnhib1lwbmhxZWdtbWhqcktmSUI1WlJtRnFrZDNGRXVKMWpsQ1Z5VTNYXzNFQThxaWtOY3lsOWZNTU9TUFo1dklhdzY3MHlpZTY4TGU1T3I0QjFNNHFsdkxyOG0tcGVjZ0VXcDFtdVFic3BZalc4bGZTVVJreG1iQzdld0tKWDd5QUhXWEVwM1hLazJqcUFMQnpTM1hDdW9lQ2dBd2pobVJUYU5lOW04SFFkTlFYQVc2TWZ4N3BGSjE4ZmM1YUhlRjhrbEppeXZUQUlhNE11WFI3eEdrMzZMdFVyX0d2d1NMN2syTkN2MFczNkZveDdoYVR6aHNOMDVfSHRiclhHQ0g1clFwcFYxaXpOLVNwVGJfMEdTWEhTSnNwbktjODNXMEZ0OWFwYkxmaXhVYVZFMzZzSTJOT0RVaFpkS1A3YldfblZNdHBNRkhsX2JLUmphYWR2czZIQ3dXX0xrQ1d0TFBiMFFnbHo0TUhwVGc4WFpBUVgyTHk5TUp0UC1JOGFCeUE?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-13T07:00:00+00:00"
     },
     {
       "title": "6590 普鴻- 穩定幣暨虛擬資產安全聯盟成軍！普鴻攜中華資安為數位資產上鎖- 股市爆料同學會",
@@ -76,6 +58,18 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdkFuTkNmRXFzN1ZlY0FSQkVZX29CakhURE1XSjRkbEhOMjVJdnYtQjZuRm9jU3hGMmdxTHc0UVQyZFlNR1MzdFpkcWg4SWhlTS1oQi1KdFZSVmdkc3hNRm91a0RuOTVUeHRmeU5SR0NLYmxQNU1EYm1adzJyRmFQV29Rc2ZOOVAzdGc?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】中華資安(7765) 八月營收1.47億元，年增3.35％",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UbGoyUTlWXzMyVU5SSXY3QUVQTEl3TVh3YXlwZ1pCcVZYVm14ZzV4cGZ5QjZzTWhySUJNVFQxRENiX3Z2YTdidjc0azlRdzJtbU1qMl9fMXNkeDdGbkR1NEJpMmhFSTg?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-07T07:10:03+00:00"
+    },
+    {
+      "title": "7765 中華資安 - 這是那一個套牢的在作夢？ - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95Z05zNndtcmJvU2RzMmFVUnNKS3hTTnRRRm1NNGVUamFwbGdVdm5KTmlHZWE3NkhWWHAyRHJyckpkMXdyNXJzLThid19VWXpJU3lPTUtjVWo?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-01T07:00:00+00:00"
     }
   ]
 }

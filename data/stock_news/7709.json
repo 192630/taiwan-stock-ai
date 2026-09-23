@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-22T07:33:33.879955+08:00",
+  "updated_at": "2026-09-23T08:38:19.581591+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7709",
   "name": "榮田",
-  "count": 10,
+  "count": 9,
   "news": [
     {
       "title": "Honor Seiki Co. Ltd.收入明細 – TPEX:7709",
@@ -18,21 +18,15 @@
       "published_at": "2026-09-16T03:51:22+00:00"
     },
     {
-      "title": "Kubotek Corporation的Enterprise value to EBITDA forward – TSE:7709",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWVNkVzNNVUkyUHUtc2p3bS1fdTVrRTFPOE9OVTZEd01NNUlmakQ2OVZnRHFvNEdCdUl2RkJNWEZ2R2pUOG1XME42QzNWQnJ0TElRNlZ2aHhoVTVQVzFjUi12Wng3TF9KM09oTml1dms5ZzRmbUFYV0t1MEFhOVRNdDM2V3QtODYyN0VCNnI0TGNfbTl6QW5STXFuRmUtenNXSnBFeUtoRkI?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-15T12:20:01+00:00"
-    },
-    {
       "title": "7709 榮田- 榮田參展IMTS攻航太商機；Q4拚全年營收高峰- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fNmNXY1FfS1pCaVZuZFVNYVBlc3FPWWg3djFvM1hyU1p6S0E2bnJsdm0xQ2tQZ1F3UmNFSTkwSTRLcTFqWWg1Z0JYVjFmcF96ZXJicDNiRmU?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-15T10:46:02+00:00"
+      "published_at": "2026-09-16T01:46:02+00:00"
     },
     {
       "title": "熱門股－榮田 三大題材助攻",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12cFlfd0tJdkNFVTlEQ1dSNGNFTmdIY2RKcjM3enpaenRaaHdreUMtazFrdUhFNnFIdkowQmpFa1JsbTBtX2RKamhSRVZEMzJHU0RvVmJxQnJEYVl1dFZMN09LNWpfYW1seWFB?oc=5",
-      "source": "中時新聞網",
+      "source": "chinatimes.com",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {

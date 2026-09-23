@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-22T07:33:22.148206+08:00",
+  "updated_at": "2026-09-23T08:38:08.082123+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6962",
   "name": "奕力-KY",
-  "count": 3,
+  "count": 2,
   "news": [
     {
       "title": "6962 奕力-KY - TPK-KY下半年拚較上半年成長，TGV試產線啟動- 股市爆料同學會",
@@ -16,12 +16,6 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ05lNU9MZ0dqVUtEUG9qVERvZXBkcndtRDktbGVfSk5ORFh4bEJKcWJHemNOdUFFU2RseWFqdldZZmY5T1djYmExVTNxZnpKaDh5bFpvSm9vVWwzTkFJYUpZZEdUWmNNOHpNcEJWbHE4UTNjSlEzblU1ZXV4d3FPaE1rdzJHTTJtOXc?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "6962 奕力-KY - 開高走低 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83LTlQNElIZ215RGNXX0Vqc1FiX19fSWJIZTBxY0ZhWEhLLU1OcmJwZ2hMVWlVZFFpcGl0dXBwVGNmMTFXRjE0RHYtMXNqSEpmR094emhaNFc?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-31T07:00:00+00:00"
     }
   ]
 }

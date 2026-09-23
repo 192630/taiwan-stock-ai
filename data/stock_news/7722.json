@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-22T07:33:38.589455+08:00",
+  "updated_at": "2026-09-23T08:38:24.183943+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7722",
   "name": "LINEPAY",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "LINEPAY(7722) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tbWZDOWxXZWRBaFpUTVdpUFlHWnZPRU90ZHJHX04xNWdIblhjdEk2NVhVeF80QV9jRFBCSE56eDBBTWJudFppNnJ2X2wtVlZBZVd3?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-20T11:51:16+00:00"
+    }
+  ]
 }

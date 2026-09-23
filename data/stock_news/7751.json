@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-22T07:33:45.380199+08:00",
+  "updated_at": "2026-09-23T08:38:30.916432+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7751",
   "name": "竑騰",
   "count": 12,
   "news": [
+    {
+      "title": "討論牆 | 盤中速報 - 竑騰(7751)股價殺至跌停，跌停價1790.0元，成交535張",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVSGVEZmgyZUpSTHZRdlAwN0oxRmI1MHhTcDRvb1BsZk1MYTNvLVNOZTJWLWlyc3poMjFUbC1SX0YtNmlXZGIzakp0UDdVRF9OSUNyc1BTaF9TR3JROTRCcDJSSzk?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-22T05:44:15+00:00"
+    },
     {
       "title": "討論牆 | 盤中速報 - 竑騰(7751)股價拉至漲停，漲停價1445.0元，成交200張",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PRVdwTDVvamRNRXVXX1V5T0luYmUyNFlzcUFiWGlscWxwLW5haGo0MWxQWDlpdEl6c3dmazlROU11VTM3V0ltY2xUMWtOMmVLXzZwaHNpeThRRUszMXZDTjFwTm8?oc=5",
@@ -28,12 +34,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPeTNseGtwR0NsU3Z2Z2ZwdGZreThPTDcySE5pTzlLSmplcmJhZGk5Q0NyaVJJUUNPbzBQWG1JX1V2b3V6aFR1SHBDUDBhQzNsOXFURXBNNmk?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-14T07:25:59+00:00"
-    },
-    {
-      "title": "【2026/08月營收公告】竑騰(7751) 八月營收2.42億元，年增41.32%-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMzJocWxwTDN2Qzg5dWFjMWwtcnZ6Q1ZobllEOFdVUjBkNmpTekNMbTJ6TFAwR01TNUhLZ2h0NWtJcHV1NTVVLWhBZDNkRzNrMFZydEVmbVV4UDRaQmtJcFh0YTdUaEh0YWNrbDBZM2hwdmVBSHVyS25hbkdrak5iRE1ibUlzblNWWnc?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
       "title": "【11:53 即時新聞】竑騰(7751)股價上漲6.14%，AI散熱裝置題材支撐，短線跌深反彈搭配法人與主力賣壓消化測試壓力區",
@@ -74,7 +74,7 @@
     {
       "title": "台股陷月線攻防戰！千金軍團縮至47員 新代強攻漲停、竑騰量增震盪",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ycWdldzJLYVNxUzlOQTBJLUxvM01hOGNpRDdkMjFXdmVURlJzRXJKaWszQVNGTTFOQ3Z4VGZtNkZxSXVrZTVjdklJVXJ5OV9OYXpXb2xSMXNkUdIBX0FVX3lxTE9hM09FaFlWd0Y2Rm1vQU9rVXo5QmJtRS1tcGpFOF9LMldFTHNyajNYLUpwMmI5TTBnQmF2bTF4di1OcU1vdDIwUnR0cWJnSDZSVDVmVEQ5Zm9icUx5RjFr?oc=5",
-      "source": "經濟日報",
+      "source": "money.udn.com",
       "published_at": "2026-08-25T07:00:00+00:00"
     }
   ]
