@@ -1,21 +1,15 @@
 {
-  "updated_at": "2026-09-23T04:34:01.525063+08:00",
+  "updated_at": "2026-09-24T05:33:54.444403+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6233",
   "name": "旺玖",
-  "count": 2,
+  "count": 1,
   "news": [
     {
       "title": "【2026/08月營收公告】旺玖(6233) 八月營收年增27.58％",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94VVJtNEJtTnNKVG50alJwdEV0c1M1bldBbUFIbFJGYnFTTkk2c0NOOFdYWXJSMnIzbXpkNmhyYzk3LUhpTFhpbEpfNGZBR2ZOLXUwaEJkNDliYW81ZEFneWNZNVFhUmM?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-07T07:10:03+00:00"
-    },
-    {
-      "title": "旺玖 115年8月營收3746萬、年增27.58%",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBibnBCMFF5MUctSWVHSW55M3N0Vld5b2pDdlRrZHlkWVB1NG5OOFJwOXh0M2NiZWlfVDgtdExmYTdMQ1pfa2xyb2trOERIZUJ4R2tzUkNtN1k?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-07T06:47:55+00:00"
     }
   ]
 }

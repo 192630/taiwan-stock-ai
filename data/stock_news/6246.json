@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-23T04:34:07.658868+08:00",
+  "updated_at": "2026-09-24T05:33:59.566935+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6246",
   "name": "臺龍",
-  "count": 1,
+  "count": 2,
   "news": [
     {
       "title": "臺龍 115年8月營收1.12億、年減10.00%",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9zZXI1YXNGalJuNDJNWi1NN2ZBWlhkbllQWm1BZnFHYTZLRGZ0NFd1V0Q0c1kxUllMc3FFTUdBdzZUanM0NUVaMURWNWw4cThhRnVCZm9CSEY?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-10T07:57:11+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】臺龍(6246) 八月營收1.12億元，營收雙減，年減10％",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4alhJNDAwQjYzSTA1VXV0SzVCWFVxTkF6dUlNZE84UGlxSnM5cjNobGFfNWxxVzVpQnFHaXRsTEFKZDZhUmlSd1VQb3k1clBjRDk1VFRUbUNjR3JnZkMwTmRXR3Jvd0E?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-10T07:00:00+00:00"
     }
   ]
 }

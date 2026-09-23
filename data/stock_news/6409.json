@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-23T04:34:22.161965+08:00",
+  "updated_at": "2026-09-24T05:34:12.251318+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6409",
   "name": "旭隼",
-  "count": 9,
+  "count": 10,
   "news": [
     {
       "title": "TWA00 加權指數- 旭隼- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB6eHBRSXZNY3lKY1M1ZmxhYWJMRWFYN1RJWDVUdHBCYURWRGdSNzBNblU5LU1JSTZzSFNES0JmZzAtMEpvWm92R2dFaUNYOC1mN1ZwamxGWWw?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-21T21:35:57+00:00"
+      "source": "cmoney.tw",
+      "published_at": "2026-09-22T12:35:57+00:00"
     },
     {
       "title": "AI基建耗電估等同日本！央行最新釋出5000億資金助攻供應鏈，旭隼受惠-財經焦點情報站",
@@ -25,9 +25,9 @@
     },
     {
       "title": "【09/15券商評等報告彙整】旭隼(6409) 今日有2家券商發布績效評等報告，目標價區間為980～1,128元。",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42aHhKdGV1amwtVC1GVi0taXVxdmtHT1lnU2VENzNVVHl5YWNvdjVGdHp5eW02Vkp6dC1CczF0TkNTUEFmMjRnMmlxNGVXMjA3WTJFUnVQU2hWM0ktQXBySnhIeEtDUnc?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-15T02:20:04+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVWJfcHdtYXBSS3MxUXc0bDA2VDMxZFdJR3ZkbUoyOUd2TjJqN3JpRmFkVGFlSnJlMDRwMHVIM2VsWllwZVJKLUV0bkwxYTBmb05haEpDeC0zV1BEalhDeWZzZHRpRU93QWIwRkhiSXdUd1dCZEg3eDdGZGNCXzVmQ2w5d1JUOHVIN3c?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
       "title": "旭隼股價從1,380元一路修正 AI時代UPS需求不再？旭隼是被台達電打趴了嗎？",
@@ -38,7 +38,7 @@
     {
       "title": "6409 旭隼- 【09/10 產業即時新聞】電子中游-變壓器與UPS盤中下挫，指標股賣壓重拖累族群修正- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vNzNTbkJpM3BFdU9zRjUydGo0WmtvcWFSRmMxVWhEaG1VLXdfSUU0TXdVem1KVjlFeHI5emhnY2JLVEFrY0lKWnF1LVp2cUdpLVYtZHZYSno?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
@@ -48,15 +48,21 @@
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
+      "title": "【2026/08月營收公告】旭隼(6409) 八月營收17.79億元，營收雙減，年減3.16%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcnN0a0RxRi1Fdlk5NkNpNXNIbHBnZTB0N2VWMERyRzAyc0kzcTNSRE5ycmxBZFVkZGFMdHVRSXNGZ2dFdDBQTDNwWWlZT1JERi1pOWgzWVdra3hGcXRzUWozSkkzQ2M4VXc1Y1BYa3d5TFdVSnNmYmZTd3hPdV84dlhUSVBjQUM5MVE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
       "title": "旭隼科技股份有限公司",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSU9sbmNoNG1aYy1qU3JxMWI0ZXI3aDJhRVo3NUxqUUJ5SHlQZlc0YXFrbjNFZnNINFlXRGpna1VNWEpneE53R1I5SXMtRktHa3NvVE1JbF9yaHY4ZVZQTGg0S2FxS3IyeGVmSElHTG81aTFZX1ZJb0JnUHQzYnhTQm1CT1VwZmZaU2VSRXRYOEI5cDNQdFQ0?oc=5",
-      "source": "MoneyDJ",
+      "source": "moneydj.com",
       "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
       "title": "旭隼UPS看Q3續回升，HVDC拚明年下半年貢獻",
       "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNeUd0ZmhjRHpGUmZMMnp1UmZidV9mbHRHUW4ycms1clZCdHNSUzZqT0EwUWV1R05JUFVKM2V3TDFEMk5CbDZKajJqS3gzMzZLbDhoZG82U1lYYUN5bGtUeENoVU9xc3NOS2lRaEcyQ29aMVBNQUs4UHE4ZmVRbjVpcEZBTGl6bjRaZ0xwa0piNzU2NEZnRndLX0RVU0gweTlWLWZqWEdSdEJUU192SVVTOFRtTDhETE5CVi1ENE04Mmx1WWJwLURZSXY2QjFSVmlJWTgyVzJPemFQMl9FLTVqUmJjMmJ0M0RibzBHOEVHZ1J3dGZHRDF4VnU1eHZ3ZzZWazBmRDdsWDM5cEhIMzM4Tg?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-06T07:00:00+00:00"
     }
   ]

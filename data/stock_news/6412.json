@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-23T04:34:23.128618+08:00",
+  "updated_at": "2026-09-24T05:34:13.180391+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6412",
   "name": "群電",
-  "count": 6,
+  "count": 7,
   "news": [
     {
       "title": "【2026/08月營收公告】群電(6412) 八月營收24.69億元，營收雙減，年減19.67%-CMoney 小編",
@@ -20,7 +20,19 @@
     {
       "title": "6412 群電- 群電8 月營收24.69 億元，衛星電源第四季訂單拚倍增- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96M1lxMnVxbDhEMkhjT3VxWl9CbVJzUTdXYkcwWVZNcGJYLU84MHl5N0xESVl2aTBCZXpwVWJhVl9uZ3FSSk9iSDJjM3B4dXV1S0ZrdU5jYzc?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-04T07:00:00+00:00"
+    },
+    {
+      "title": "群電8月營收年月雙減 AI伺服器電源送樣測試",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RT3hHUTN1Smp2bGNMZjB2S1dlWXBaUjNUdnd3VHZHaHJWVnpfRVprbS1YODAybWhoNHVKclFsdjBSUkRnb21PdmlRSDV4bldnZlJUZm44S1E4NWc0TGY40gFkQVVfeXFMUEx2eDNlOEQ2dG01STBScFRCQzE5SkplaGRXTzdMZ2U1aDhoSmw3clRUZlo1dVJZRUQ2cmljZDNJMXVFQlYxODBVTndNSjBDajBEcmdHRWJkXzZ1Q2VvWnZnd2RTcg?oc=5",
+      "source": "自由財經",
+      "published_at": "2026-09-04T07:00:00+00:00"
+    },
+    {
+      "title": "記憶體缺貨波及NB拉貨！群電8月營收雙降但衛星電源Q4翻倍增| 太報",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BSG1oMlJvdEV2QjRtd1JKRjBnejdMcFpxdEJqVi1VTkVyWUVLS0FaVmtBbWowOFlDSXR6S2JGQnQtbE82TUlNRmtnbWNQd3NfN2kxY1ZR?oc=5",
+      "source": "LINE TODAY",
       "published_at": "2026-09-04T07:00:00+00:00"
     },
     {
@@ -30,15 +42,9 @@
       "published_at": "2026-09-04T07:00:00+00:00"
     },
     {
-      "title": "群電8月營收年月雙減 AI伺服器電源送樣測試",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzMzNfVUhYV1N6bjJrZjI4TlJKSE9PWGF3eGFvM2pwdTItcFhlSzFpOTRiYmZIREIwcjFtc042alFFdE1RUjY5VWl1ZUJLRlJmSnJ0RFkzaEg?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-04T06:03:44+00:00"
-    },
-    {
       "title": "群電8月營收降溫，惟衛星/伺服器電源需求續強",
       "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNRHlXeHotUGdwUkh2bUxua25CcXdTWDZtWXpRUWxfYmdPMHBjZWI4dnFMM3lCdVQ1Q2FOZHFYaW1xcHMwamRRek5xaXRrSWY1MXdOdXJXdFRFakhrbi1uNzhoMVZwSXNzVHhTNlcycDhrWGRwQzRhNUpNUDNqRFYxVUFFb0swRTJiQ2tvUHktYzI4a2MwSFlJTFVVekl4RlZnQ2RhVmYzT3dqa0dNOElhQlBzUnJYU29Ueng1blpDU3o0UGY4UVl3VlM3UzhzVWpnVVRCMnR4Q05oSnk4S1c4eWh6SzVSSnJKZXpxVEMtaUtxamYtQnRScUJ3VmZ5ZnBUU2ZlWVJkR2lzV29jRmJSX1ZjbGRFNTRWN0owNVY4YS1RTGNEMk1sXzd6TlZ5dW5qNjhTNlpMR0VjMHJpdDgtMGM4cw?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-03T07:00:00+00:00"
     }
   ]

@@ -1,33 +1,27 @@
 {
-  "updated_at": "2026-09-23T04:34:34.095864+08:00",
+  "updated_at": "2026-09-24T05:34:22.762491+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6461",
   "name": "益得",
-  "count": 4,
+  "count": 3,
   "news": [
+    {
+      "title": "6461 益得- 自由日日shoot》會計師當白手套暗槓賄款130萬 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9CVUtrN2FHN1J5X29UTXFWLTNLN29aVDNrRnFoWEtCeG14VkFUWFdUSEJfTnJuQmlXamsxamJGcTVMckJCRllRMWllQXpZWkp3ekYtNUZCSjU?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-22T21:52:00+00:00"
+    },
     {
       "title": "6461 益得- 收黃金、暢遊美國！國稅局神鬼稽核涉貪協助逃漏稅手法全曝光- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ydmk0VndSejdib1JwdENMVVVkdDVHb3dVTVFnTzdXQ0ZJQ3dWa19reXZjempvbUpTazlMYXlMTkNtNG1Pd0RiSVRac1kwUVBpc044ZXFSWDk?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-22T08:40:35+00:00"
-    },
-    {
-      "title": "6461 益得 - 守住25: 下周上攻27 看好你 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40Z3dobExmcDVuZzZ2aU40cjA0OWNrRWRvbll2eE5EeEtNdVpSZGNoMEFPbWdVYzc2dzhsanpUWjg5WTg5TGJUa056WndjNFhXOXdBaHhKUEs?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-20T01:03:28+00:00"
     },
     {
       "title": "6461 益得 - 減資後： 幾乎零賣壓 只等買盤到～升 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5aSW9rR1IwUERqMGs4akEwZFNwV2xxbGluakpEMWtiLTdYRGF5RlBLS3pFSlZONXNTdTRNTVhObVp0MDdUQ2tyMFlLZWVOcmNhbVo2X3FnU3E?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-15T01:31:05+00:00"
-    },
-    {
-      "title": "6461 益得- 【09/09 產業即時新聞】新藥研發類股盤中震盪走低，個股分歧考驗選股功力- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0U0lic2FRQ3hvWVFyNUhpVnlDeFhlM2JzQzFXTGFwdUQ5ZWF5ZXhZVG5QUTlkaFo5ZjhPWlc1T3pvTXFDM2lpVVNPUzFvMklVWGhycVFiSjQ?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]
 }

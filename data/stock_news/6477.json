@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-23T05:33:02.143209+08:00",
+  "updated_at": "2026-09-24T05:34:26.105690+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6477",
   "name": "安集",
-  "count": 2,
+  "count": 3,
   "news": [
+    {
+      "title": "安集科技(688019.SH)：部分自產磨料應用在公司產品中的測試論證進展順利",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NWGlicnl5Vk9KemdteTd1ZmFncUxWNjRjMVBzc2dRa1YxWGtEWXlud3hUOURsM0hPWmFrUDZSb29QTHU4OWhaVElyOVdCaFlaM3hqZ2I4NmxrSEtjWEtnRXdFLWRHaGRCNEE?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-23T07:39:15+00:00"
+    },
     {
       "title": "【12:22 即時新聞】安集(6477)盤中走強，太陽能與軍工題材獲關注",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbHA5al9pNTVMMHpVdS1qVlR1QkpmNDhqSmhweHNoNGxHbXFQblh6Y3d1Y1AwQ2xyNVB1TWotM3F2bTd2N0paTDJNM2RES3BiVjk1RG9MSnJ2Nzd2TkpEOFA0cmdiRkVLVlhvUm02R2h2WGdPT1E3cnFPVW5RX3BkRDJWbGdPRjRFbC1lVGpR?oc=5",

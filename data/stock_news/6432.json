@@ -1,21 +1,15 @@
 {
-  "updated_at": "2026-09-23T04:34:28.634941+08:00",
+  "updated_at": "2026-09-24T05:34:18.146994+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6432",
   "name": "今展科",
-  "count": 2,
+  "count": 1,
   "news": [
     {
-      "title": "Takeuchi Mfg.Co., Ltd.收入明細 – TSE:6432",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKdmxlZFlMNDN1ekxxRzNUc2lXTG11dnctZG9Bb053OTAybUhvc2hPRi1kUktsZ0xDbFFWdzRHeHBRUGhKTjFjejlmV0VNUHhjVVNhZnhYNWdOLV9GOXhfM2wwMnNGQzVFN2dfSkFaSDdNUQ?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-14T16:46:19+00:00"
-    },
-    {
-      "title": "【2026/08月營收公告】今展科(6432) 八月營收營收雙減，年減11.79%-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOa1RBd2Z0aGlEZjRKMEp3U0czQUZrOWthVE5DNU83RnZVSmZXYjQtX3ZGRXdNODNXdnJSYWJYRlBjeTBLR1plUk9PV3NXMXlyNDhFS2VhMG9ldXUtdUpPajhSSEk5ZmVZM0I4ZmJQSE1KOGxPeTBfczZaWDVtbVhjVUEwQjdxSFhiNXc?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-08T07:00:00+00:00"
+      "title": "【2026/08月營收公告】今展科(6432) 八月營收營收雙減，年減11.79％",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FaTc1ZlFMUWFNaERaR0VMZ1R6bEFvSnNiSklxVzRxUnFCN2hDWVhpSU5WSER4b3pTSUUwN3l2OG4wWDU5OWludjg0RHFTbUFreURHWEYydFlBZHJCSEotS2NSUjlCRkU?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-07T08:10:04+00:00"
     }
   ]
 }

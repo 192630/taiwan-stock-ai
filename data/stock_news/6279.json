@@ -1,27 +1,15 @@
 {
-  "updated_at": "2026-09-23T04:34:16.726724+08:00",
+  "updated_at": "2026-09-24T05:34:07.411279+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6279",
   "name": "胡連",
-  "count": 7,
+  "count": 4,
   "news": [
-    {
-      "title": "凡甲、胡連旺季添利多",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GZEJmbHRoUXozS3lUMHYyanZFb1FyM185Sm5QMy1TaFRPc00tN2FxNFZpMUhZRXhoUmNxd0tldlViSEZTd0xyRk5HSkphZDI3Q19oM1YwZjZVd9IBX0FVX3lxTE8wZVBDX0hNMWZiMWpiVm82MkMtTy1LdUREWW9qNjd3aFQtRVlQY3UxMUtlcnFVQnQ2NllKbkFsbC14QVh6aEFfcm0wMjMxdm9EUFdfQmtEWXZGXzBJa1kw?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-09-18T14:55:22+00:00"
-    },
-    {
-      "title": "6279 胡連- 預備備！ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TM3dSeE5SR01kdVY5Z1F2Y3U5RjJSWXFScEJOYVFtR3hfQmF6eVBDTUJiczJoWTY5V1ZTeVp1QUc5QjNpbWlVMS1NaDQwTmtPTG1obUdIdGU?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-18T04:00:20+00:00"
-    },
     {
       "title": "6279 胡連 - 金撩連🤣🤣🤣 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80OGZ3QXBOTGZTWEZ0dUREWk9CNVJSekMwbUNza1pYLXdxNlc5MnQ4RnRqaEhYRXdEUW5qWGxNQWZZWmRBRTdTYkhBMkk0UzVfRTVYLVotbXU?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-16T10:14:29+00:00"
+      "source": "cmoney.tw",
+      "published_at": "2026-09-17T01:14:29+00:00"
     },
     {
       "title": "【09/14券商評等報告彙整】胡連(6279) 今日有2家券商發布績效評等報告皆評等為看多，目標價區間為130～134元。",
@@ -30,21 +18,15 @@
       "published_at": "2026-09-14T07:00:00+00:00"
     },
     {
-      "title": "【0914法人焦點】市場最新個股動態：胡連(6279 TT)、精華 (1565 TT)、Oracle (ORCL US)｜豐雲學堂2026 年 09 月",
-      "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPS1RWSHFPeXI1d3dfSGxIek5xU0t3TV9XaEFZQTJzOTV0bUhpTnV6NkQxVjlHMlUxR1hmUU1KSFM3MEpFZHZKOU1aODJqTnk4SHMwcEtSUld6VmRiN2pEdmtGUnFaRDhrMDFsTG9xWGo0QkZ5TmgtNWJMQkRfNldIeWVURVp0TVg2SjcyNjd6MGcyMmtRV0xvcm5BV050WXZ1Qmd6MldoZ1g2bWEzZ0RHOF9HSWpFM2VwRUhwOTNZR2wwMk5NRFByZVNYZDlkVHRHd0oyUWtxWkFLLXdfZFUxLS1pTTA3YlBFZFN4TWZZVmdkZXlkbjNZWFduZ1JiV3E3MG43Z1lWWi1NdTdJb2lCek5scnpmZ2Q1TF9QcFpoNWM1MGNCUnlEMU1ieG0tcmN2TTlHMnJrVDNHa1V3cnJGNW05V0FKNWJlR2FRRlBfWmp6WVRMR0YyczlqTjhSTTVuUlU0LWRqaHZZR2FJUHlyUHJoMjQ2ZmlwQ25taUNDU2o?oc=5",
-      "source": "sinotrade.com.tw",
-      "published_at": "2026-09-14T01:15:54+00:00"
+      "title": "6279 胡連- 8月營收表現不錯！創同期新高！朝預定目標前進！ - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1vMlc5OXRfUEZNdFZ3RGVlOWc1ZElvOGJuQ2E1amdyUzA4Mjh6dUI0Yy02WWR4UXJNbG0tQ0dWWm5UYzk1ZFZFeTZQYW1VTm1VZnM4clpBOHg?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
       "title": "【2026/08月營收公告】胡連(6279) 八月營收9.75億元，年增29.82%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWGx3UHJFMzhPMmFEWW91QVZ2UlpIbHFCRGlIX21lbXFRZUFSWjczNV8ydjFNT0xQZGZQNjVNQXNwY1RNMEZIX0tnckZXX2NWRVdnYjkzVk55QW9oUDBobVpEVEJSeEl0Y0xKbERsNVVKZ0tjbnNRUWVlaEJDbng4YlZzc3lUcG9CX0E?oc=5",
       "source": "CMoney投資網誌",
-      "published_at": "2026-09-03T07:00:00+00:00"
-    },
-    {
-      "title": "6279 胡連- 8月營收表現不錯！創同期新高！朝預定目標前進！ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1vMlc5OXRfUEZNdFZ3RGVlOWc1ZElvOGJuQ2E1amdyUzA4Mjh6dUI0Yy02WWR4UXJNbG0tQ0dWWm5UYzk1ZFZFeTZQYW1VTm1VZnM4clpBOHg?oc=5",
-      "source": "CMoney",
       "published_at": "2026-09-03T07:00:00+00:00"
     }
   ]

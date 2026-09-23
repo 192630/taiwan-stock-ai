@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-23T04:34:05.701123+08:00",
+  "updated_at": "2026-09-24T05:33:57.838922+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6242",
   "name": "立康",
-  "count": 10,
+  "count": 8,
   "news": [
     {
       "title": "個股：辣椒(4946)9/18處分捷立康股票35,000股，獲利約1619萬元",
@@ -14,7 +14,7 @@
     {
       "title": "【2026/08月營收公告】立康(6242) 八月營收營收雙減，年減0.5％",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VZFF1STExRGI5MWV3Tkg4Y0VaazJJQUJJMWJLU285aGpZeW1kUWpNRkhubU8yRDg5OExianBkb0Y4MHFTWFRIcFpadzJLa0pTbUcycS00ZGduNzNkTDNGQ2dvTjR1dw?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
@@ -44,26 +44,14 @@
     {
       "title": "捷立康Vollea蓄勢爆發！明年啟動人體臨床 瞄準「非手術隆乳」千億商機",
       "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxOX2NOTWJNUVF5dk9xYnE4Sk5USE5mcVFoQ2JKbk1GNklIQjZMRElHcmhfT2x6UTREQ2hKaFcwbktlYmFjX256M05xdHFXbmJjV1ctWUlyQlZWLVJpaEU2eE5rdUxIWTlKM19POEVXR1dPVWx1SmxtM0Q1aDJrWkVFdkU1Uk0yM2JJX054X2Rua3ZIdlh2eHRrUVJaVlBLNDg5YUxyLTVNcFpKMFB6d2ZtbGxqSUhjLXJDU1VjVDM4WG9WalRMbWREXzNhaW1jbkV1Z1AwTzk5T2pET1ZLWWprUDc0cHcyYmZVVV9vWFBRb3JHeEZOTnloSVVoT00zTmhuWUtOdTdTbEN0WkdHZ0tpM19PSllVeXhYQWNJekNuS2MxSzZYcHROd2RRVGMtX3pxb283eDVrX2NOYXVZZnZsdVVnWTJneXZCdVBmWFVROWZ5eE1pRy00clY5VHA0TzRRX05VemMtd1ktYndJQVRwTmRiWVFYdjlwTnhQdEh0OUZNRVFkUzZFRm15Q1BFZVh2TmV5bTRBLThma3ZCeTRCbg?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-08-27T07:00:00+00:00"
     },
     {
-      "title": "開發軟組織填充物與拉提線材搶市！捷立康 8/31 以 200 元登錄興櫃",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5aGp0R1hFV2stVXdXMlR1R0FiQzhsSy11dm1SSU5pNE5fTmZ1bE12alV2QWYxNkpyUFBpV2NhMEZnZ3ZSZ0F4NjhkMEtsSjVPZmw2cmRzZ3lqQ3JzNFY3NDFn?oc=5",
-      "source": "TechNews 科技新報",
-      "published_at": "2026-08-24T07:00:00+00:00"
-    },
-    {
-      "title": "捷立康8月31日登錄興櫃 鎖定軟組織填補與支撐商機",
-      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxONWNPeU1qZUJVQ1RWNWd0QVczaUhYR1JDSHRrMm9sQUkzUVlsdi02YTJkMFRyV1lINUJMZWtPcXpSaDAwV3NzakNDVS1yZC1XWHFpeklIS0RwdW1UVDM2M3JSN2ozaS1TRHFTWnZfcGw1NnpUY05CMF9RM0VuUWljeGQ5NXgzODNjejNsRGJjd1VGbmJJeE14WG4tVW5mTWxMSnRFbm5oemQ4RFhDR2xzU2k3MHdrRlZHNkhLT0lQUXY0M0tMbFN1Z0Roa1NWOFo2cmFMNE9KaTljRHVMZzRSV18xYjUtN1JRQ2s4bEdjSnhMTGsxUGowNVg4Smc3VWQ4dUotdzJjVmxhRlAxQWxTbXdsZWdmYzZLQllkNmhFd1ctT2dxUkJib3JhTmg0eWhXTUhUQW9SYXJzLVRhWldDdUdvQzRIcURYZjBBeEJDUHZTY3c2X1AtYWZESTA?oc=5",
-      "source": "tw.stock.yahoo.com",
-      "published_at": "2026-08-24T07:00:00+00:00"
-    },
-    {
-      "title": "瞄準組織填補商機，捷立康31日登興櫃",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNNmtGVXpZal9ua205aHhEM3YyeG1LS0lObUpJQzRseVp1NnlSQWd6ZTlteWNaSTYzc2NXam5rZnhfdzhXUjlTR0ZTcklKMVlGWHJxQ09rZUtPOVZRM3lsbXBhanVJeTVtSmd2aUx4OVZtcHFlZkpPNjRJMjNCY05LWTZvMFQ0QTNYX2dXcEdFeDFsTzYweFZQYVZ3Y1czN3VQdlFuWWw4bmVFbGZROHp5bVVJNVppSy1MazNUV2lKOVNBSV95Mm43bF9Xb01MdmJ5S2JIU3RfYjRvQ19FS2NJZTRxQzAydHpDbzN5dXNiVG9GWjg4Z1BONGdDeHJJMlFmakFxd3YtTkNGejI1Vm9tV0RTOA?oc=5",
-      "source": "tw.stock.yahoo.com",
-      "published_at": "2026-08-24T07:00:00+00:00"
+      "title": "捷立康（7686）瞄準全球千億級身體經濟商機 邁向興櫃 | 熱門亮點 | 商情",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwR2ZSanpmaVJkWDA5NnJ1a0p2Q0NLa1lpeUJhTmRhNjRLdWIxcDlWaU5XS2gzZmNlcnpfaEZHUF9VUUQyZVVsN3BaRHBZRWk2N3ZqMzZCQ2hkZw?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-08-26T07:00:00+00:00"
     }
   ]
 }

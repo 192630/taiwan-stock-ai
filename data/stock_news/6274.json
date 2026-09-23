@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-23T04:34:14.253774+08:00",
+  "updated_at": "2026-09-24T05:34:05.179569+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6274",
   "name": "台燿",
   "count": 12,
   "news": [
+    {
+      "title": "台燿(6274) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16WFE5RnZCZTR5czBXbTQxS1RJU0w1YkdGd1UtRWFydXlMYjFrOEVWRTR2elpUY2ZMN2xkSTF4RUtMMWhKeHF6cmgyLWFiQnRRZlFz?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-23T17:16:02+00:00"
+    },
     {
       "title": "CCL雙雄誰還有肉？台光電獲利稱王、台燿成長斜率更陡",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CUjA2TEdBVWY4X0VTRTFPMTFFbzhSYXRqa0JNbmc3RmhrcS0zdVR0ZFkwaDNHVE1SNFhDTF9EcGd3YUtDOUZqelJkNW9iQUVZTExka2hUcjJiTnJyNERVN25HYUp2VEtqX3VnOEVJRQ?oc=5",
@@ -24,16 +30,16 @@
       "published_at": "2026-09-22T01:47:05+00:00"
     },
     {
+      "title": "6274 台燿 - 【台燿(6274)盤後解析】價漲量增，土洋對作 今天台燿帶... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5taHpobTdGTHlGWHRodmd6ekpiRFBJczJWNWxqRXh4OWlGMnZMS0ZHUGRoVkFBWDUxZ3psOUlkeGlHdWdncDljS2l0V2FMYUw2aUdrNWFIR0k?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-21T13:30:00+00:00"
+    },
+    {
       "title": "【00981A】09/21 操作日報｜經理人集中火力加碼台燿-CMoney官方",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9TVWJYblpjVGtEcVpkZlI3VnFkSU9rMHhhRjRITmxGOUFZYjVTRzQ2a0RJM1BEbzZMajBzS0NjMnV4NjRQYVRMSUpUTVA5cTRhQktpclAxNk8tVl9DZF9Nbk5qTlIzYzBHOWRKbFJVbFBQMjBvNGVSbTBKb1Z4QQ?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-21T11:01:12+00:00"
-    },
-    {
-      "title": "9/21 00981A 賣南電12.9億補台燿",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYbGpRbTRrMU9PTTJFVHFEYldEWFhObWZLQktud2draHB3YjFMRmZDbXNWc0txV1J2MEZScHJYTUYxQjZUeWUtbG1WTWhCTE1jaUtpYW1YeEY?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-21T10:33:26+00:00"
     },
     {
       "title": "CCL「降規鬼故事」嚇崩股價？「台光電、聯茂、台燿」走勢分歧怎麼看，外資揭CPO短期難撼動「這需求」 | 下班經濟學 | 財經",
@@ -56,25 +62,19 @@
     {
       "title": "6274 台燿 - 1900的怎麼辦呀🫩 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LQ2doTjVNeDc2ZkVVWkZOZ3RCdDVwMU56amRKRUE3a1ByV0Q2Wkx4SEV5blNCWGphbGZLLUhIWDNZUGxpdmZGcHRkSUVMQWxYcnFkbXlzRTA?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-19T09:12:41+00:00"
     },
     {
       "title": "6274 台燿 - 繼續調高 鬼故事一天就破 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5sSldwUi14NnY2QmYybnJWeU1DcDJUT1l4amQyZ3JoOUduYi1aazBTS292YUdKV3JhQUhyM0tCLWZGZGdMLW5XV25nODAzZTBvT2NXOEVGUlY?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-18T10:43:06+00:00"
-    },
-    {
-      "title": "CCL降規傳言重擊台光電、台燿、聯茂？外資維持正向看法，傳言恐言之過早｜股市話題｜豐雲學堂2026 年 09 月",
-      "url": "https://news.google.com/rss/articles/CBMihwRBVV95cUxQNlp4am5IZXVZUXZHS211NmgyUFBFVzVuWm9VX29KYV9LWU1pZG95b1prNzRUN2dsdXRoUkI2bURnZ1o1Q2tyQXpIazZ5cENRVjZIdWhMcXFEaEdaNFJObUFTbFNCSDN4OU1uVVl1UkdUMmFCbHhtdmVLd1QzUk11R1hsU2dsZjRaalkwS29sRzFJN0hrOUFDRVNqX05iU0thQ083SHBtU3hqd2kyRnZkUFFqdHJtWFB5VWhfTC1aMDVXQjkzNFZIY3Q1VGZlZkVZOVBvbWdlb2VMLWlxajFTMUZGOXdBaVlzS3pMbkFZZ3N2eFctMUIyRDBhcEJhNXJEOU9rTmNWbDlhT2pxRXhuWkh1R25tV2xJZFdIaTFOWHhfblNraHJIS2RDQ3g2ZmpJMXR1MnRwUkx6TVJYVElBUS1JRUFsUmdYNDU0dk9zNEljR1lPcmNJRjNULXVYXzNzSm5kMWRJOWwwRE44OWxfZXhWY2dkSklaYnQ0UDdSSWxsVG0xSmRjNFJ1TVlfd1ZVak5hSmdJdzc4Umk0S1lFVl9aNGNydE9QclhKaUFYMEw0c2xaS1ViSi1ESFlJOGVOUVBwOUVZbGlkVWk2bmdmQmlwTUZDbTJucDR0SkdCSjlEN1ZoS0NlVEdTR2Y1dVhpbUFrdURhNWZXOEhyd1RWb1dFOC01Vkk?oc=5",
-      "source": "sinotrade.com.tw",
-      "published_at": "2026-09-18T04:33:50+00:00"
     },
     {
       "title": "《台北股市》注意股：18日27檔尖點、今國光、金居、台燿、世紀*等 - 上市櫃",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpdExpd2txTFhaMGVLNkl6M3I0NWtSelFvYk9FY19aWnN1Z0wzOHNuRUFrelNrUEZtWDI4YnBkOFg3VXZjU0s3VU40VUNKTTAtQVE3cHhEM2xTeVpxeklvbEVKVjhhYTVNd2c?oc=5",
-      "source": "旺得富理財網",
+      "source": "wantrich.chinatimes.com",
       "published_at": "2026-09-17T23:58:32+00:00"
     }
   ]

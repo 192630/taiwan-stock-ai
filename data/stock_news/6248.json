@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-23T04:34:08.215080+08:00",
+  "updated_at": "2026-09-24T05:33:59.998153+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6248",
   "name": "沛波",
-  "count": 2,
+  "count": 3,
   "news": [
+    {
+      "title": "TMP Steel Corporation收入明細 – TPEX:6248",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjUHJUM1JmS1FJMjdXZFNHMTktTy02cFBydmtMdzFwazF2TC1xTUJ3NXlaSy1fRGZ4ZG9QYVVCNjFfWG1tbVM0YS1FUDRIaEFfcXg0NlBSbl9iZ3ZpNEZ0X21WMjViMy1ScDJQY1p4NW1CdlU?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-23T03:47:24+00:00"
+    },
     {
       "title": "天候因素影響，沛波8月營收轉雙減| MoneyDJ理財網",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JMXEyay1mNER6RU5wUm5qNDQ0NVRVcXUtT3ptcnZRZWxtUG5ueGJEaGRfYmtBVDRhR3dwd09sc21HS1hwZWo1TEVJSFEtTldaOThyZXRR?oc=5",
@@ -14,7 +20,7 @@
     {
       "title": "沛波在手訂單維持6-8個月，尚屬穩定水準",
       "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOc201S0VrXzFBTGxqSnFfelJMMi1UbkttQUQyYS1OUUtHaUlESnhxdG9BUER6OURxbkR0elN5QV9TTk0tTHdKTEVDcUNRWTRDMzU3TU5jNFVTWk5KQVphajREd091eTMweXlwRW0zT0p6Z3JFN2RLalFhMU1PaG1hTFRWb0Y3QkUwX0loLWoyck1UV0xIc21aeGxTQ3ZtVmE2SEozMVF2Mms0U2x6SklleEJ1d090WlFvenI1MUFrSk84UzkxZ2lZbm1MWFNNbnAtVUpCejlNUjA3My1FRDVueDc4OWRsRHIxOXNBWTM2dFI5YXhaUlhUeVVpeGMteXRLMkNKcEZfcmVOZDhTQlJzV0ZBZ1Z0VjFQQ3h1dlZTSFk?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-01T07:00:00+00:00"
     }
   ]

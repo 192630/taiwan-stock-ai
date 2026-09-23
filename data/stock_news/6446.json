@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-23T04:34:32.111602+08:00",
+  "updated_at": "2026-09-24T05:34:21.054494+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6446",
   "name": "藥華藥",
   "count": 12,
   "news": [
+    {
+      "title": "投信強力助攻！台股今年大漲62％ 聯電、南亞、藥華藥等18檔季底作帳潛力股出列- 日報",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrX3NEMWhBeXdoMnJVQnBJOTdNbmVuQW5GR0lWZEYtNUtRb1RkZVF0NWxQWTh2bVE1NzIwZnloTjJlUS1MMGdRcEtrTDUtWTZ1MEQ0YWNHaHJUUmdvZjln?oc=5",
+      "source": "工商時報",
+      "published_at": "2026-09-19T19:00:00+00:00"
+    },
     {
       "title": "《台北股市》投信18日買超股：聯電、長榮航、藥華藥",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdTU0blJGclE4NWVBUTg4ZVBhR1RWOWY0SHVHQ1NvaE0xbm96SkNKdTdVOVRVYkpRZTRSMGVlRUNXdjUyXzI5Qm0zZjZiSmVndVJFalJLUjBLVmdpeWY4WG5QamVZTUhVTlF3OHpXbXY3R2F2T0hPcVRWVUlUMHIwM0pMSDBLUklK?oc=5",
@@ -42,21 +48,21 @@
       "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
-      "title": "重量級ETF換股 0050成分股新增藥華藥",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HOVpleld2T19jZzJLNmJDZVJMQ2JiLS1Ea3BvYXdubmlvRHFEUWZLSU1yUHI1M3dfRGpMamt1VUFfZkZPOEswWkRoMkpmdGhaaWFJ0gFYQVVfeXFMTTVFMnQ1MGlwNUVTUVRvWnU0eldNVkVBUnRHVnpOTGEwSjZ6dEpueFBEWEdHVDQtOTZtSlMtUWtxUVF1Y0xDbHV4bjR2SUh2TXhmOUVQbW5UYQ?oc=5",
-      "source": "UDN",
-      "published_at": "2026-09-05T07:00:00+00:00"
-    },
-    {
       "title": "4檔ETF迎換股潮！0050罕見再納生技股 藥華藥進、世芯-KY出",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tZjVrc3dYaWJMelYzcjFTWkEya3dGYzFnZDI1akRLUzkxaDdRWkp4N1ZKWDctQ3F1eXVqaG5Ua0ZXbTVBRDZGa05HUERCU1ZXS3FFOVdhOEMtVk1Gd1Nv?oc=5",
       "source": "工商時報",
       "published_at": "2026-09-05T07:00:00+00:00"
     },
     {
+      "title": "重量級ETF換股 0050成分股新增藥華藥",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HOVpleld2T19jZzJLNmJDZVJMQ2JiLS1Ea3BvYXdubmlvRHFEUWZLSU1yUHI1M3dfRGpMamt1VUFfZkZPOEswWkRoMkpmdGhaaWFJ0gFYQVVfeXFMTTVFMnQ1MGlwNUVTUVRvWnU0eldNVkVBUnRHVnpOTGEwSjZ6dEpueFBEWEdHVDQtOTZtSlMtUWtxUVF1Y0xDbHV4bjR2SUh2TXhmOUVQbW5UYQ?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-05T07:00:00+00:00"
+    },
+    {
       "title": "300多萬人注意！0050換股 增藥華藥、刪世芯-KY",
       "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNNDQzNmNPNEZlSTZmUW9hV1VjUjh1akxCQnVmWEpTYi1LR0tfQXZ3RjhVTUNYbUYtQ29Eay1ENnI3ck1Gd1kySXc0cUZ5ZDZjLWdZY1pQR1ZfdUhlTzl3MmpyQ0dHdFVVZ1hYQjk0bzI4QVpmVEUzN2o2a2VPUUprd2g1bmNjUzJVM29kaFpybUhtdl9ITlltVE9UNjNEMmV6cktHUzZwWC0tN3ZPUURfNzVDVlNYNGZWcHhYdjgyRUNzQ3dZbFEwblBlVzczcm1BS0NiMlZqSVpaQWpmdXZiOU1zQlVGUWc4M3l4c1ItbUJfbXdmS3hyRkhUOHd0bW5KRW5Td2pJenBqc1ZIUDlFRG44b2V2czFvaUkxVXUyTFByQ2VmVWtmWWlR?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-04T07:00:00+00:00"
     },
     {
@@ -69,12 +75,6 @@
       "title": "0050今揭曉換股！藥華藥入榜、世芯-KY剔除？股價遭壓真相不是「壓低給ETF買」",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mNXA5WndtSFM3WDRZblZGYUxDNjRISS1adDkyc0ZIWFNkVjZGWDZ0TEM3TC1yZ1BBZ3JJQWtoWEFBSDJncDM0cU5SQ09RMHV2dE5UcXZxcDAwamQ3WkJNallvWXZ0YnMwM1duM1N3bw?oc=5",
       "source": "理財周刊",
-      "published_at": "2026-09-04T07:00:00+00:00"
-    },
-    {
-      "title": "臺灣50成分股新增藥華藥，剔除世芯-KY",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeURBTThQNEhpZUhuS3RpaV9paktweDZPa1draXZKQ2hudEtoNUJlVjBMN2cxdUkwbXQyZ0RXY09qS3BhUEswR3MzZ2VYNlBFM29Xd05tUE5VUnRkQ3pFcDdJZHpjc3JCamNjYU9OZEh6WllXNVFkRy1qc3h6TUJoeUhqMW1xRzZIVkhxd2lyaTRDZw?oc=5",
-      "source": "MoneyDJ",
       "published_at": "2026-09-04T07:00:00+00:00"
     }
   ]

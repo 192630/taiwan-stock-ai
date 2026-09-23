@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-23T05:32:58.700781+08:00",
+  "updated_at": "2026-09-24T05:34:23.176924+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6462",
   "name": "神盾",
   "count": 4,
   "news": [
     {
+      "title": "神盾財務老將李宜平接掌安國 羅森洲卸任董座、續任董事",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NVEk0OHozZ0lGclpNdHhnemRHdzNSaUc0eFpTMDBsWGpWV1hJajF6UzAydzJ2WlVScnFSSDNKMVY5X0dpQl9ReUxyd2dyOXZFLVh1aEhZUGZBUdIBX0FVX3lxTE5LVk9nY3lFdmt3ajdTYUFrc2ZVNWV3bTVNWXBVUUVtUzdKM0ttaFd2cVNScDhPanhVSDdzY0ppdlJTMFkzT3Rwc251bkw0QTlud1JPeFpGRTYwdm1Od2Zr?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-11T07:00:00+00:00"
+    },
+    {
       "title": "6462 神盾- 大疆獨佔七成市場之下，神盾如何切入無人機商機？ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45Y0ZReU95NDItOVZpZTlrOHhjaFdkYkgtRGo2akxCSkVnVUtWS2F4RHRfM2I4SXZsWlZCYUE1dUxkc0sxeDJYWXZSY010VFJjMzA3cDhRVy0?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-10T14:02:23+00:00"
     },
     {
@@ -18,15 +24,9 @@
       "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
-      "title": "神盾集團進軍SEMICON Taiwan 2026 安格、迅杰秀AI之眼、智慧無人機",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxObDBKMDV0cmd3aVNMNTJ0ZkRCRktBN0VTYlJWRl9yZFVXM1RfWGRUMDFMcjVuTk5UV2pJLS1ZR2s3TDdpbWxqc1AzSUtNVXVQZUZMOEVJaGhmMmhOUW5jc0FQdHI3SXZpeEpqcHkzUjNXejBkc2lRNVV2dGw2UFpDZTJ5Mk1NbHFHYk5ZZTFLQkUwRFA0TjlQVmlLelF1QldPZ1hCVDdzdy1Yell4bmx0a0luTUZSUEdTRmNjS0x0ZjdVczdUTjlrb3l5cGhjMDAxMk9aOHpqdTVLaHozMFM3TmltdnAxVjY0dGt2b25YMlRhT3JTZ3N4WU1xQW1tMEVoa1d6Z0FDODBhaEpaTlE?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-01T07:00:00+00:00"
-    },
-    {
       "title": "洗盤劇本太狠了！先跌500點後逆轉翻紅400點「2大防禦神盾硬生扛下空頭」內行驚曝只是一場虛胖反彈- 上市櫃",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TZkZVc3BlZy1FcVRVZmNWcEw5YWJLci1aazM4dEVwdnRsVlVLNkNVajBWVXlTbnBBRlpIbDcyM1M2T1NySVcwaTVKY2JDaHA3UXZHME5JeW0talBabHBybUNibjBFYXN1Y1E?oc=5",
-      "source": "旺得富理財網",
+      "source": "wantrich.chinatimes.com",
       "published_at": "2026-08-25T07:00:00+00:00"
     }
   ]
