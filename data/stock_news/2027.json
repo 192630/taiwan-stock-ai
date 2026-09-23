@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-22T14:39:13.570696+08:00",
+  "updated_at": "2026-09-23T15:35:03.150957+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2027",
   "name": "大成鋼",
   "count": 12,
   "news": [
     {
-      "title": "TWA00 加權指數- 2027 Nissan Kicks SR AWD - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FS3lfU1M4RnpfSDlZMmNfT3B0VjhnRmx1ZTU1b3ZraXNUNXlNZVRxZWptemUzcmVEbzN5QUdVWmdoaS1rMFZFM0xPcTZyeFIzeG0tWXRRNG8?oc=5",
+      "title": "大成鋼(2027) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVZHdkNU9wQVRSMmZYZmpicjZoaTh6QlhKT1BQX056Y1dKbUxlNnBVLThYTF84UEF6Z0huQlhNZUdxTnFFd2phTG50Tk1BSXpwa1ZF?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-21T00:35:10+00:00"
+      "published_at": "2026-09-23T02:44:57+00:00"
+    },
+    {
+      "title": "預測：Robinhood將在2027年底前於美國推出代幣化股票交易 作者 HK MoneyClub",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Jd3UyLXdaV0M3NXVtYVpybVBIWVdaOThTenVmQk9ORTc1bjFLU2VGTFBMS3phaVdydTlDNjc1WXBhVXlGa0JUT2dncTZIY05CMDk4SUYyMnc1WUlVclVaRWJkaFk2aUhsZmZ3anh2Qjc?oc=5",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "published_at": "2026-09-23T02:11:07+00:00"
+    },
+    {
+      "title": "2330 台積電 - 台積電2027目標價1萬強力買進- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvSDZ6LWxndGFfeHlHcnlXVWVfRkVnc1N0OHJJd21iUVVLZ1pvMkR4aE11M3ZVN0c1bHp5eExxYWFFMTRHamxvT0FrS05PampHZHBkUWc1QXo?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T12:38:32+00:00"
     },
     {
       "title": "玻璃基板、TGV成2027新戰場",
@@ -38,7 +50,7 @@
     {
       "title": "訂單能見度闖到2027年底！「這光通大廠」手握2大全球前十光模組美國客戶 股價再吹上攻號角",
       "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxNMlVQZ1k1RzNFTGJ5V3cyWVFMQnZMS0YtYWZVSWtPUnJlY1BYbmNvR3FXYncwZy11R05uRGpkY0RNeG1ZcUxXcTNpajNRWWtOc2VPWUtsSUg2cUxpTmo4Z1ZqMXU4ck9zLV9XbmtSTERWUVZWU19TSE0yaHpGRy13MEhBRnZqYnA2QXU3QmZuQjhxM3JjTnNBUktrSkhqR2NnUVE4QnZVQXJTZkw1YXBldXRQZE9kczN1Z0QtOG9jY0xqTHM1Q205M3FseTYwaXlNYlZPR19pNmRTeVEzeGp1cE5QS3YzemJSUXlIZ0d0a3A0bC1lRjBfSF95Qkx2YzB6NzktZ0hUelRwcy1VbTF4bEhtdW1xX0pHaUZNSld0WEdBd2w4SGF6ekZrcjFLaFNrQXFpbXdFeWRZclJBX0h6MkU0aXRwdGQwR0V5dE5fbWlibzV5VHNZS0hzdm5hOEx5Zk1oSnZza0hKaGNJWE1aV1I1eXYyRlo2Z0xWQlVCQXlidGJJaU1SNjlHX2JhYW12V1pzV2J5bThBanE2LWI1Yi1wcXpoNFNhMUpHUFJWemtLWVFXdm11Uy1aTGl5VGRVMjhWZEo2d1V4ZE9hY1JFN21lUzZ6WWhfQUIzVHFCTlNLeUVnd1BWVlFqZDFEUE05QW9yVVBZT2VFcExQSzh6d1BQUnNpMzVIOGVILVRFNllvbzRZVnc?oc=5",
-      "source": "Yahoo股市",
+      "source": "tw.stock.yahoo.com",
       "published_at": "2026-09-17T01:54:34+00:00"
     },
     {
@@ -64,18 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY3g0ajAwTHBqcXROMDIxOWlXZlVfRW16RUZrdWtYS2dkYmRoRlNscTdjNWFYNlBtUWpQWld1Um5raGJOSXBrUnZ3NnEzY1hRWTVqNk4wUUVaRVlMUno1T0pOalVuVEdOTXo1a012dF81dzV2SVZKRVB2QjFwcHR5VXdHdndHdGM?oc=5",
       "source": "LiteFinance",
       "published_at": "2026-09-15T07:00:00+00:00"
-    },
-    {
-      "title": "大成鋼(2027)含大成鋼的etf與基金成分股比例與變動情況 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HcTZpSm9KcDYwUkFpZEQxNzFCU1dwM2tXQnpOTVVsNkxET1EyTnFrWWdzeTR4Y1RjNVp1Wk5FZWJ6dVliQ1Npb2hwZkpPaUZONkRLeG1uTldMYU9uQmRPcWdBbnE?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-13T07:00:00+00:00"
-    },
-    {
-      "title": "研究景氣循環的經濟學家解釋：為何預期2027年底前衰退股災",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tWHJ1SVBSZndyZ3J5WXJwQklsNHFPeWhZNUhjTzM2aFVMSnZIenhMcFhfWVBxZGhKMGFJbnJFd3g1ZHhZNEZ5TUlEbFIycE0tWXR4YkRn?oc=5",
-      "source": "Business Insider Taiwan",
-      "published_at": "2026-09-12T07:00:00+00:00"
     }
   ]
 }

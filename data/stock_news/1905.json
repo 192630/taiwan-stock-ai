@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-22T14:39:01.631851+08:00",
+  "updated_at": "2026-09-23T15:34:53.051320+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1905",
   "name": "華紙",
-  "count": 10,
+  "count": 12,
   "news": [
+    {
+      "title": "「華紙」光學玻璃襯紙 出貨日韓",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpT3htbXNpYlFJRU5RazNPRXpsdjRXaS1yLXJJdy1qTklpa0VIUW8xQlN4SXozZjcwT1FtWGotdkFvOURKMklYbXFEcnZ4VWVxZ3VRRC1MaFM?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-22T10:50:23+00:00"
+    },
     {
       "title": "華紙台東紙漿廠火災 初估損失1200萬元",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HLTlKMXhyZU9zOE8xellqNTE3M0luSkF5NVFfdTZxTXA0SkdDeXlnWVcwaFpHbS1HWlFYZmhTRXBwN3pWbU5BT1VhblZuaVU?oc=5",
@@ -46,6 +52,12 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWWNueVR5MkVoblo0UVpoMTFVOU9wcDU4bUJpVWJXbW4tSThweENSTkdiNU1kVjZDb1N3eklsQjZGVjhaWjItSjh6UU9JS0ttOEREdWdYTE5SVlBPNjZrX01leVVHaER4dmV6T1VwR1JraEJBak9QU3NUOVJlZkhaUVItQTEzV0RsbldESVJGNzRWUEdGRzhPSmJ4M1NlQnVZZ3A4?oc=5",
       "source": "TradingView",
       "published_at": "2026-09-14T05:07:04+00:00"
+    },
+    {
+      "title": "本周錶現｜帕瑪強尼台北101獻技 1905萬四音簧陀飛輪驚艷登場",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUXpDTUJWalpILWJwMkozek95N09kbkFUUllDR0ctNUZTX2FWRkdDeGYtWGl0cElVSW5GMnR5b08xSG1maG1zclVfTHBCNFJOS1Z2UmxHSnJCQlZmR0JDTGM0VzA5NVNONkhoMXg5NnhaZXY0cU9VZDAyOTZHU3AwN1VkanZKVElqZUE?oc=5",
+      "source": "news.nextapple.com",
+      "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
       "title": "1905 華紙- 有人在Q我？？華哥的營收開獎，說實話很ㄧ般般🤣 - 股市爆料同學會",

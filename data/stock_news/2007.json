@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-22T14:39:04.846405+08:00",
+  "updated_at": "2026-09-23T15:34:55.843020+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2007",
   "name": "燁興",
-  "count": 8,
+  "count": 9,
   "news": [
     {
       "title": "《美債》升息在即10年債殖利率創2007年來新高- 股市爆料同學會",
@@ -16,6 +16,12 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kRWJUb0RCTkpGSzY4b2tZZUZXZlpkRVZxQUdDeHEtd3Q1TGtzU1BWdWJPTDJXYVBxX05VVGxKVXQtM081N3NuM0NCX1ZoLW9UTG1vMm9keXo1aTIweG9zRDhUZUZjVjRONTlSOGQ1a1I?oc=5",
       "source": "Investing.com 香港 - 股市報價& 財經新聞",
       "published_at": "2026-09-15T22:51:24+00:00"
+    },
+    {
+      "title": "殖利率升至2007年高點 投資人稱債市「失序」波動是當前最大風險",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tcVo3RjZBa2pWb3YzdVNlTmRjX05FOGJzQzZXcGpiZnBTdDFyRFRBQVNwVENVNjQ5LWJfWkhDb1F3VWlMc1Z6MEN3Z0dMNmZVbmJ4SVlB?oc=5",
+      "source": "Business Insider Taiwan",
+      "published_at": "2026-09-15T14:26:37+00:00"
     },
     {
       "title": "美國10年期國債收益率突破5%，創2007年以來新高 作者 Investing.com",
@@ -38,7 +44,7 @@
     {
       "title": "陳嘉偉喊台股「必定走崩盤」！鈍刀割肉像2007年 升息灰犀牛逼近",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05ZzJiSXRoWjR1RFhwenZpR29iSkp1cVlMM04xRklYUTZWeFNtSDhzQWxNZmx2eWJkb1JUd0lZQmN4Sm10Tlp6YVZSbk1vRjNpaEHSAVdBVV95cUxOSFRTV2NxYllJM040SXYyekdzdk5PQzNKZXB1X0VyeDNGMjNpdHJ6X3UtbFJvcDlfbEY5WnZWZW00OEw3cTZWQ3hsNGlwUXFmcDI5cmJwRzg?oc=5",
-      "source": "udn",
+      "source": "UDN",
       "published_at": "2026-09-15T08:06:47+00:00"
     },
     {

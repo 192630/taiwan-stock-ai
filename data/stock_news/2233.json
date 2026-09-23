@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-22T15:34:14.424950+08:00",
+  "updated_at": "2026-09-23T15:35:23.929649+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2233",
   "name": "宇隆",
-  "count": 8,
+  "count": 10,
   "news": [
+    {
+      "title": "宇隆機器人 出貨在望",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mbFZ4X0VoUnFSR0NLckdrczhPWkFnVzhJX1Y4NEdLOEZJMlZ6aUtzU1pqWXB4TE1jOXFYbHF4V016OTF2YmRQMkRPcXI3NkFK0gFWQVVfeXFMUGNrSlRJOXlEVG9DZ1Y3N29kajd5Y2h3alRwMzlGbjl3OG1rcy1LTGFjazRPakZLN2ZlXzItdmp0LTdyd1ljdzFjdC1YdVlQNzNqQVQwd3c?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-22T16:31:30+00:00"
+    },
     {
       "title": "再爆大股東失和？董、總突辭董事 宇隆跌停",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uSHlJb1MwSUx0NjZfcXhqU1RCekZVZElla3U4WWxVM0pCZ0Y4dzN0Y3ZXQmpTWGNTY04zRENvRHlrQ0Q2R19POFRVcnB4eXBHZEY5Tmh3bk0?oc=5",
       "source": "自由時報",
-      "published_at": "2026-09-18T23:08:10+00:00"
+      "published_at": "2026-09-22T10:11:30+00:00"
+    },
+    {
+      "title": "TIE開幕 中光電無人機搶下美警消大單 宇隆機器人攻北美市場",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlSjkxNk9fbGNpNlZ1QU9JcUVIVElLaDgwSDBGNTM3LWhYeU01VV9UczctUGZ5c0VzbmFpaHcyU1FHdERTdkdUcDlydUFFSkJaOHhmYWhYS0M?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-17T13:25:05+00:00"
     },
     {
       "title": "TIE開幕報喜！中光電無人機搶下美警消大單 宇隆機器人攻北美市場",

@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-22T14:39:07.733328+08:00",
+  "updated_at": "2026-09-23T15:34:58.299039+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2013",
   "name": "中鋼構",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "澳元走勢：AUD/NZD衝上1.25創2013年新高！Bullock今日定調、RBA升息定價90%——決議前一週怎麼看？",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0Y2dsR0JlSEdSd3M2RFNzY2ZMbHRPd1BYb1prbzgzbHJxRk9xQk1lREo2bmhSV0JLdWRSbUxBaEk5dW9zMUVJdW5RU0xJajRiQ0VZaUMwdmx0c3J5NFZIU3IwWjVmTWpsUzNscnFfWFhCb1BRVjVoeENFSEU3eGc?oc=5",
+      "source": "Mitrade",
+      "published_at": "2026-09-22T03:27:42+00:00"
+    }
+  ]
 }

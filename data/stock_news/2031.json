@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-22T14:39:16.170823+08:00",
+  "updated_at": "2026-09-23T15:35:05.384830+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2031",
   "name": "新光鋼",
   "count": 12,
   "news": [
+    {
+      "title": "新光鋼公共工程訂單逾30億，排程看至2028年",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOUk9CT3YzUFNWZWVxeFItcnhJZmFVeHUyVmtxMEFfSTgxQUItc0FmYWUwajdQMGptNzFSc2trRmRqbVZReEJBSmNhZWNuUGN3SjJsVzNjTHdoNnVxTnNwWFA5TEUzY2lxZm1aUFVZaUdUMmYwcE9yN3lzRjFiOUZuQWR6bnBfczVVc1hGVjZuSEN2SVlXTXZMNjNIX1V6Ykg1M0ZtbHJWc21BX0NCc3oyMUR6S3NuLVV6dzJNd2VUazVySWt2dzZ4SkpwYmNuV2FZQ3hDNUlaSVNYU3ViemxSMUlseTdudkg3WUdXa3Z1UkJsWUVrdFM2OUpMOFhteVZ5cEQ3M1FNTzR1c3RFbXB6WXItSEpfTUhtVjZ3Zkhva2JhWHRl?oc=5",
+      "source": "tw.stock.yahoo.com",
+      "published_at": "2026-09-23T03:45:31+00:00"
+    },
+    {
+      "title": "Harmony Gold 為 2031 年到期之 5 億美元可轉換公司債定價 | Mining Weekly - 新聞與統計",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT1FxUXZuYTZjR29MMEwyNDZGRHRPMnZtNVdnUkxMMzVGbUhzWXB0NXE1YXZHMjNaVUJrVUtFLVNtVE1oc1pfWlJrbWR4cDAyQXl4bVlua2NkTHRWRjkwOXFqYW5YU1poTDZlTmEybmZ3RVQwN2RWZXdFamhocndSX1YxMG9HdEpzZFBMZ29TdjZDcEpQWThXckQwQ0FJeHBL?oc=5",
+      "source": "IndexBox",
+      "published_at": "2026-09-22T10:42:34+00:00"
+    },
     {
       "title": "設備交期排到2031年、高盛驚爆「2028缺口衝破51％」！ABF載板掀缺貨狂潮",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9UdHZqZGUxYjUzODZ3X3l6d2lGdjJheGpNS2JYZXhMZV92eDFfU3ZpUWpkQ002N3BQdkVSRzdjX245TzY2MHB5dVA5OVdUUHZzM01USVpxUGFFNHV0UzBmVTFkS2NVZXFWRW9JTEpWZw?oc=5",
@@ -18,33 +30,15 @@
       "published_at": "2026-09-21T09:55:26+00:00"
     },
     {
-      "title": "黃仁勳駁AI末日論！斷言「2030人類滅絕機率0%」…網反而怕了：那2031呢？",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTQkZVMFR4ZXktV2V0eGpxeFdyQ2xxdkRTWUx2UzBqRnVfSGNLd0lYNU5ua0VrT1N4VDZiSUM1ODByd0Z1Zk5XWG1iNk9QRC1pYXfSAVdBVV95cUxORnY5ZHgzYTRxYk02OFlIeXB6eXFFTjZHS015dF9HTXJjRlJ6a0Z0YmpVeXMyUFhFTTZLYzRpYzVsbGkzQ05vaHBCQnA2SVYtdmdielZ5dEU?oc=5",
-      "source": "udn",
-      "published_at": "2026-09-20T05:08:28+00:00"
-    },
-    {
-      "title": "Invesco BulletShares 2031 Corporate Bond ETF將於2026年9月21日除權除息，1股派股息0.06342USD",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQmdOSzM4aXl4YU9BLXkzMlM5NkJTU3pCRjI2TmU2YlA1UnRTOExYdjhJWmFnRW5XS2VXRFRHYkZDTFRiaDNMWFM4bkFlRmlKVTFxY3dQX1JabHk5RkF1c0NUNVRvM0g0SnJoRXdiUWJta3VteWdieFQyV2xVNVFrNXV4QVlpeVJsZkZwT3dYQml3NV9FWUc4LWNzNjFzQjVPd2pmV0FSQnJ2VElidnc?oc=5",
-      "source": "Moomoo",
-      "published_at": "2026-09-19T22:33:53+00:00"
-    },
-    {
-      "title": "文檔AI市場規模到2031年將達到$353.4億——MarketsandMarkets報告",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVXo1cHhZczdoQ21HaFFKTmI2RmZTdTY0MjZPT2sxMldFQkNoWDFGRWdrRVFyalFRSTV1bGtOa0RnM1RIY0h6MXdhUUVHdU9SWXNwODBkNGZIYmFSdE44SGFfRzU4TThtQTBtSTAySWJHNTd2SWVEXzFGa2ExSlpTcHNSd3NZZzJKYW9kZ1kxNWJuenhEZ3pVSG5xODFNdklQWUE?oc=5",
-      "source": "Moomoo",
-      "published_at": "2026-09-18T14:15:00+00:00"
-    },
-    {
       "title": "DRAM短缺將持續到2031年？花旗稱存儲器超級週期可能才剛剛開始",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDMm5jX0JSYmw3XzZzcVhKcGFxLWhPME9xWFFGQ1RsMDhxdjQwZXZ4dlRYLXZJRlQ4VndvLVRkQkQ0UURoTzktTVhlQy1fWlhDcTUyOGZkSjRQZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOXpQYmt6N1d4bHZ3bFVlZGJfMXFzRzNmTmVCRWVybTFlVkFmcnBPVV8xM3NkbFQ4ZnVMeVphR1owRW9nZmZ1aEw4bTE5Nmlpb0ozRjNVcUo1dExvbzZQNXlTeGMzaVpCQzJhRUptS093bjBvOEVDcEpFWTZiYVYwa005N19yYmQtSmNpQXhKVHd2bWFGSGNtV1FjVmJLOGVHRm05dkl2UGk1bUtQeWhCWHA0VGZyUV80bHU4amh3?oc=5",
       "source": "Moomoo",
       "published_at": "2026-09-18T06:22:39+00:00"
     },
     {
       "title": "新光鋼看AI投資規模持續擴大，明年樂觀看待",
       "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNLWp4Ulhkczh2Ymx4OHVUX0ZTZWhwY2k4Z2RQTEkzdW12b1h5VFpkbE43WTM0VzBTT0ZjSy1senh4bWQtMzBJR2FtV0pIdm4yZ1I4VHJKeWdTSEdOZDV5X0xNckJHQ19TTFF6cGFWZ28xSHgyMHpYc3ItbTlGVmRQOWZmaE0xVWpYbW0yUWZQZ3QyaC1KdHpoMGRMN3FPaWE1RXBuSzZIRERHS01lVENnS0VIQVROSkJCOGFvbTF0NG8zbUx5UFVGVTA0cGgwSU9rV3BHWk1OUlNtZWRZeDZ2R1g1c1BTSHI3MU12dUpVS2Z1YjZva29ya0p1c2d0RGk2N2ppSWNGcUItVUlsTXp1b3dsVG52UXVQc0RJcTZvSS1KbzJHVlhqWk5XYzU2OUJoUGRtQ0U4Yw?oc=5",
-      "source": "Yahoo股市",
+      "source": "tw.stock.yahoo.com",
       "published_at": "2026-09-18T03:39:40+00:00"
     },
     {
@@ -54,9 +48,15 @@
       "published_at": "2026-09-18T03:37:14+00:00"
     },
     {
+      "title": "到2031年，醫療保健分析測試服務市場規模將達到$124.7億——MarketsandMarkets獨家報告",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb0w5VFE3QzFYRFgtcmo0NjcwOUE3X19kX2dERUF4dWJncGp4VW9sajdaQzY2cVU3UzVoakg3dmctZ3dzNWh5dWFJaHBnNS1tbVBNY29wazhCZmxROHNfeGdNQXpsUXBfU0JoaHBEaWVJUjB3LTlCYnJkZDlaOGViMDE4WXR0WmtTNUswWmViY25PMkZKU3h3YWRjNDh0X1RIMmhzYmF5Z1ptbXRxa2k3bDk3ZXJVV3FOcUQwTw?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-17T14:30:00+00:00"
+    },
+    {
       "title": "「這龍頭」交期排到2031年！ 高盛洩天機：買進南電、景碩",
       "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNWG01bHZBRHdiYWYzb1h4eDcwTS1xUWx0el81WVBERUZHbDZ0Q01USzI2R3JMWExWd0xYa3BVUFJod3JudGNOaUkyWElpcElhdmpRNUU1Y1IxTU1KMFZJV1BSaGs4SWw4Z1lEVlBlemo4ZTZqSjgxWXp6dW9sbWpNOFNTMFMtYXBPS2x1TkYyUUMzR3RteDFHVUJJRnBTMG96eHhiRDIxUXpjMjIzNFpLYVF6TjlybHJYZkNWMlNCOFdESW0xdVkxNmFZTXd0dXMzVmxPV1NRam5sRWwxMGJCSThuUWlLZzd0RF9kSWNIM3loQjhvaFlKZE9fQTJaQzB6NE42Q0ZvdWNUbTZlY1J2SnRxS2xnWFdsc1hMdFE2Ni1DaHh0RE1Oc2pXRWhoLWs2b1ptRlVNTF9iRUZZREZyUHpYOVRhbmlfZXc?oc=5",
-      "source": "Yahoo股市",
+      "source": "tw.stock.yahoo.com",
       "published_at": "2026-09-17T03:10:07+00:00"
     },
     {
@@ -66,16 +66,16 @@
       "published_at": "2026-09-16T20:47:47+00:00"
     },
     {
-      "title": "亞馬遜同日送貨戰爭即將升級！目標2031年建設超過1000個專用配送中心",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM21RbXpZT0YxMVZnN09zcnlwOUhtaWRTMHNDT05aR3RlS1RFTHJscG53RmV5dWNYT1FFVVJMSVVtNmFCb2p0QlV4a1p4UVRPMjZBZjZGUFpFaTktRkRJVy1xOTJoTy1POTJnY3NlX3VpcU9ndU9VYUQ1RjU2bFdQQnBYNEZiVDJTZ2VfR2UxSW5BZmZS?oc=5",
-      "source": "forecastock.tw",
-      "published_at": "2026-09-16T19:37:11+00:00"
+      "title": "到2031年，多電飛機市場規模將達到$86.6億——MarketsandMarkets獨家報告",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb091ZzNOazJPdk5wSEFWOHExYmhWcG5OUUZsczgzUy1vakNSWWlPWGM5cWxUMGJBWVR1RXhsdUl3eFI0WWw5R2tldHhLTmVmNXBGS293cjFDMkRQX2htVE9vWEtxNWxyS0phRzdTSHpmSTJfc25La19pbmJHWEFQZEtwUng5U01RRk5jUW5vMU90cVBvbVYzR09OVzVDblEwN3lmYXRB?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-16T14:15:00+00:00"
     },
     {
-      "title": "英偉達(NVDA.US)Rubin平臺帶動MLCC價值量提升大摩預計2031年市場規模達444億美元作者智通財經",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PRFkwVndldVZpbDB1aVBlMU85bzVuLTZrUGQ4UEVtR0N2eHppNjlZTmlKczNWc2lqeVNOTmlLSVpyMkpURGEwMmp4dmstbDFNREgtOFBBc3JOQkJNb1EyU1dKOXBQQk9FcF81Tjdpa1U?oc=5",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "published_at": "2026-09-16T15:22:46+00:00"
+      "title": "TGT 目標百貨- 亞馬遜計畫2031年前建立千個當日送達中心，迅速擴張配送網路！ - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xT2tjUnNDLWhlcFJfWWpwZk1Cc2ZxVHFQd1dFZkZUT3VtUjFfaHhsVTZsM2M3Vm9maGNHQnQtMEM0U2U4MjBqc2toWl9mUjJkT1NlZ01NWTE?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-16T10:08:48+00:00"
     }
   ]
 }

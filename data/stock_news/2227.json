@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-22T14:39:34.786872+08:00",
+  "updated_at": "2026-09-23T15:35:22.262540+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2227",
   "name": "裕日車",
-  "count": 3,
+  "count": 4,
   "news": [
     {
       "title": "裕日車e-POWER X-TRAIL單一車型搶市 早鳥優惠146.9萬元",
@@ -18,9 +18,15 @@
       "published_at": "2026-09-16T19:17:27+00:00"
     },
     {
+      "title": "裕日車估明年自家銷量持平 揭新能源車趨勢回不去了！ | 鏡週刊",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVVpJbURVMVhTeGkwaGpRa2JRNHZRemxqZjR1RVdReGFaSExQbHhfUUFHd054UW5VMTBFajVXWTktRk9FaF8wcjhDR1N3T3llVF9RbWNhQWp0T1hjbWNTQkIwc1hXMWNnOHdMbjd2QXF3bHpZSlNETW1odEtxMGQ2cUhvUQ?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-16T14:17:56+00:00"
+    },
+    {
       "title": "裕日車:明年車市看增，新能源車佔比有望過半",
       "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxONFhwT2x3RzU4UEVSNDdGeE9MZGdOZE9Ma19LTFpzYThXVDlDZ2xmdFZPV0UtbnhCVTJ3QVB0aUV3ejRfVlUzeTJvS3ZicnQxVVBSdW5RQTJ6WklRMmd3ZjAxaVgxN2ZNMGVhRFB4aTFkTkhZR3Z6TDFzaU5DZGZla1hxRWR5TW8zWDl1cUY1dlZvQ1JRVk02ck9YOHZsSS1GQ2FaS3Y2VnhNRjZELTNjYTQtUVJaWktoaEM3c0JIMEdCMFRQUHJRUks5Z3VPVjRaNnlCeEVxdzRsWDM4cEFpeDlmTmJROHp2el82RF9HV0VMNENWbFRCODlhZ2VzVUdGcnBtUEFWYjNsM2U5cms0Sl9Rd1FBYW55YUh1eFFwTzZDdjRrTjdiZlROc2tMcl9XMFhvMFJiZkR0b2hXY1NTRUZn?oc=5",
-      "source": "Yahoo股市",
+      "source": "tw.stock.yahoo.com",
       "published_at": "2026-09-16T07:56:00+00:00"
     }
   ]

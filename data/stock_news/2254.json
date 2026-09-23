@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-22T15:34:18.797094+08:00",
+  "updated_at": "2026-09-23T15:35:28.010438+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2254",
   "name": "巨鎧精密-創",
-  "count": 3,
+  "count": 4,
   "news": [
+    {
+      "title": "【11:24 即時新聞】巨鎧精密-創(2254) 強彈逾5% 設計導向車燈題材獲關注",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObHo3OXRWc21ISzNfbG9Td1N4Skd0OE5rX2VKQ1U5a3l3YllWRE8xNG1rVUZaRFFhWGtjT1UtdGYwTmxIT1NCN1FWNm9GNzdSZVBXU3hXdVFfTURSa2pXU2pyVUg3c29pNDNfWDNScFFMNktMbWgtWG9BcVlPOUgtRnpJZDBfSzEwNEtUdVhB?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-23T03:31:04+00:00"
+    },
     {
       "title": "【12:14 即時新聞】巨鎧精密-創(2254)盤中續強，法人買盤延續成焦點",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQakpPaV9kQmRpZWczc21Bb0U2dmdhOGRjb2tPTnZxU2JMcmVMQncxODhzYzk3UkNNeE5DeldjOExyNVNRZ3JoNzV2c00zTUpCRDlIVE1NNFZVVFk2bGRLcThPWXdrNklkdkhjay1zM1dGa2ZRLWNrbEJRWWc0cktkTEdvTXlLZnRVcFk3RE5B?oc=5",
@@ -19,8 +25,8 @@
     },
     {
       "title": "【10:31 即時新聞】巨鎧精密-創(2254)股價上漲6.08%、站上69.8元，CAPA認證與創新板法說題材延續＋短線均線多頭結構下法人短賣壓測支撐",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HUmdsenIzMXgzaDdxdTFfaHRiZlR4MWpmS2lYRlBLMDc2SC1heFBxQ0FvOUg3RWNOQmNBUW1PMkg0NEgtTWg5SlRiRXZabldhSGtyT1k4OWJORTQ1ZXNXUm51cGxfMTA?oc=5",
-      "source": "CMoney",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVGpiZWhXMVBRd3Z0T1dEWDZUUjg3TVhJb1NxSGhEc0tvWi1wRjBWYjQzQkZlLXdZR1I2YXhwNnIzS0hKeWlTM3RqZldDMVJQZ21kQkxHMFdkMDYyQ3pYNTlRNGFZSTNwcGNPV19ka2xxeHlLVmp5cTJIX1NPZEJkazNEV2VqdTA1WDMzRnNR?oc=5",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-14T02:31:57+00:00"
     }
   ]

@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-09-22T15:34:17.428856+08:00",
+  "updated_at": "2026-09-23T15:35:26.738058+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2247",
   "name": "汎德永業",
-  "count": 1,
-  "news": [
-    {
-      "title": "【26Q2財報公告】汎德永業(2247) Q2 營收116.7057億元，刷下近2季新高，季增30.33%、年衰退20.81%-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVWc0Q09oUG9yUTgzVU5kY3BOOFZQUUtRemNpU0thY1ZQWFQ4dzdWazRBeDNWWGMyek9QY2JHMFMwWU5LbmswVjFuRkdMQ2Nxdzd4MVgxSXpxWFNHZC1fN1RvVmdJUklRcThIUmVEaVhkdGRpQkR5c0NxRDcyangzZTBkMURYOHNQMlE?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-08-28T07:00:00+00:00"
-    }
-  ]
+  "count": 0,
+  "news": []
 }

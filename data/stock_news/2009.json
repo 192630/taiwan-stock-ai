@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-09-22T14:39:06.069502+08:00",
+  "updated_at": "2026-09-23T15:34:56.840091+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2009",
   "name": "第一銅",
-  "count": 7,
+  "count": 5,
   "news": [
+    {
+      "title": "洪申翰稱用「中華台北」參加APEC非矮化 陳以信：賴清德2009年不是這樣說",
+      "url": "https://news.google.com/rss/articles/CBMi4gVBVV95cUxQRnVsQlVoNXFyUlB1NW9rQjE5RTFVTWlJbkIxTEZ2TDdFMi1MUlFHRGdfbExVYTZsN3Axcmh5RWhYbVZhR2dDOVFZMU5uWWJWTWNfQkFIN3Y1WlNUcTFtS2EyVXRlZ2JSNXdodTFWZjJlb01iYkRzZ3NpV0RjZmZCel94dlM3REpTQjYwcGpTSzhWU0xEelEtYkRiVVhaVlRITnFmY0NtQzVQNlYtRDBEN0tqczcwRUxYeWNxeWRYd2h5VGJZZFY2VVN6Q3MtM0FtRVdadl9WLUFKWHFYQ2pWb1ZkdS1wM1dMN0ZwRmRrN3RkRkk2RnNLcnd5ZGVOYy1kTTVpMmZYb2MyVzVnNVAzaS1oNDBIWDZEY2xrb1JRX0N5a01QaGloRTJpMXhtRDk2MDNMVURkelBjN1FWd1NxLWdHdGs0amFkMFpXX09fSzluZWc5OXNkZ0JPdlNKamF6YmkzUzVJSkk4YzJBQy0telN2NFRjaER2OVotNFVtc2gwRk1Ua2RnU3Q2aEptQVVzNjRSZVljUzhIdk85ck9zOEYwUGlKeU5QVGxmcFF4MWRhRWtjUEZ1ZGJSaHJVdk5BMFptbEs3X3lKQUp6X3owQnV2M0JnbFA0NWhnaVlfOGQ0Y19DVUlFSE9pd0Y0UEx3bmV5ZElOQW4zVVk0Y0tINk9vRE0tazNMdXZpX043Vi1fWlZtRXFMMFBtamR3cm14OUFLWmh6TDEtOTJCNnB2by0td0hPbFh6RnUxUU0tRVNQTmJVSnZfTGpUbXI3WDVXS1NqT2pUMVEtYlZwZkpiVDdwU29iYV91NDNoTko3dkhYVEdkck9UUlRUZ0cwUlhlR0RpLUM1bGYtNXJWRjE2NGh1Q3pNYnhVUWJjeGVXdnZ0UmJzODY5UGNYYjJITlRjM0VTemR5RDRuRGgyc056Ry1qUVdkNXdGLTJud2UzVEd3dWZCMnpqbWU1bTluc3kyS2c?oc=5",
+      "source": "理財周刊",
+      "published_at": "2026-09-23T07:17:20+00:00"
+    },
     {
       "title": "國際金價飆高 第一銅逆勢抗跌",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWVUtXTUxuZGFjMHR1azRyMU16Z1hlb1dpTXBTUUdyM1NYREJ5a3RxWWNJR01OSTZqQnMzYWhFY0xidlMtdDBsRHBzZVVEaTAycWlPM0hFdEwzQmtfbTdCd28xd2dyZGVvU1RPeENrZw?oc=5",
       "source": "理財周刊",
-      "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "9／8台股雷達｜華邦電、第一銅、藥華藥股價強勢原因曝- 證券",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Ibm9kM0VGZXFqV3JfenBYemlrVEdIZndEWU9tQV9FQ0ZpNGZJVDBUTEF1ZUx3Z3JOd25yX1hxdmJtTmJfeEpWWnNpNGRvZ2doM0wxLXVzUUNKMk10cWJJ?oc=5",
-      "source": "工商時報",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
@@ -24,28 +24,16 @@
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
+      "title": "9／8台股雷達｜華邦電、第一銅、藥華藥股價強勢原因曝- 證券",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Ibm9kM0VGZXFqV3JfenBYemlrVEdIZndEWU9tQV9FQ0ZpNGZJVDBUTEF1ZUx3Z3JOd25yX1hxdmJtTmJfeEpWWnNpNGRvZ2doM0wxLXVzUUNKMk10cWJJ?oc=5",
+      "source": "工商時報",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
       "title": "第一銅今年營運向上，全年看雙位數成長",
       "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPdnZxenZRVFItSVlmYjY5QzU1N09ySHVrbEJwN3BGVnFKWjh0WEhiZkRwcFlZY2V1R3I4WGxkakliclN5Z21KekhaZzhTdzRuT0lyc0tOMGQzbEtHRjJUX09JNDZRQWpPb0J5Q1htaFd0Q3JMNXNlMDBGdURaS0FveElxeEhXckxLNDNWRHNjOEZnaGh2aXowdTZSbkhXSHRJQkhYaXRQRE1lX29ucFEwMzkwYldVZVBaaXF2eUd6WmlPcV9VYmtGZ0dyOHkta0dnMVJaMDVkYkdOM2VCdEpfUmg4NVZUMml6X1RzT29WZEFJTXlHMU8wT0lyRUxHbHdnNmcwWDBldV9HeUNvMnJacDJKOVpxaUVseWk3azJR?oc=5",
-      "source": "Yahoo股市",
+      "source": "tw.stock.yahoo.com",
       "published_at": "2026-08-30T07:00:00+00:00"
-    },
-    {
-      "title": "【10:35 即時新聞】第一銅(2009)股價勁揚逾7%，受銅價走強與營收連三月成長加持、搭配外資連續買超推升多方結構",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcVd0akd3S0RrQ0RoRmYwek9kbERVWFg2cW82UUdTXzM2Nl9maV9LSmU0OFhoQXUwemphTEVaS28wNHR5WHJEd09pVGxqV1hpUVhfSVYtQllkRHAtRHpkWmJ0SnJybWpXLWNVLXhrbl9VSGdvLTJBUzY2MVNyajh6b01Qcmp2ZnI1X2JYb213?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-08-24T07:00:00+00:00"
-    },
-    {
-      "title": "【即時新聞】今日第一銅挾銅價高檔優勢帶量強勢上漲逾5%突破均線！",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZkxhY2U3TF95QXRYSEVlbk85SEVJSnRDSVp4V3MwQTJxdDlYb2NBbF9JMmlfUm03ZmpvUFA3Wkw0VTRQZG5XNGFfUGJuNHBSSTRXd2lTbzRqMWtjbFV2b0dGd2ZCWHd3UnVfNFZCVHJQbDRtVGZ5RmVLUlotdUFPWEtyNkpuR1V2Y01xYWxialM?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-08-24T07:00:00+00:00"
-    },
-    {
-      "title": "2009 第一銅 - 馬的～慘敗 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pT0Nxem5TV2FhVkdZYTRLMDRuSzMyWkc1aTU3YWdtMW40RVZKZm9aUkN1RFhtbHlEMTVBdTdudmFfRXZQN2NxV3FEanZab3hFc2VCZFppbGE?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-23T07:00:00+00:00"
     }
   ]
 }

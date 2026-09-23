@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T14:39:17.810052+08:00",
+  "updated_at": "2026-09-23T15:35:06.822125+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2034",
   "name": "允強",
@@ -38,7 +38,7 @@
     {
       "title": "日本生成AI市場規模飆破40億美元 估2034年翻逾3倍",
       "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOSDA1RXBIVzlWbVp6S3FIOUZvNF9tWHJMdUZRTzBMajlKS2thNWI5N05UWVRxX0xsVGdDdGg2WVhTekJWTWZxeVdzcDNGLWlVOTV5dzF3eWNfdzNjZ3hjdXZCUmhRNVpablN6U1JOd2diYXp4Vmt6dmwxel85TW0zTjZXUnhJSTlza1R4VkhONnpqVU1TcGkzLUF0Y0taV3ZveGxnc1F5UkhiZmtVT3pleEdaNXRwSXQwaDlJa3p4ZVdPaW94dk9wYkZQXzRqMjJjRVBIWDdVU1JQX1pfVDBhRndkMEZKU0dGaER4T1lkaXozQ2czbkJOMzRmSlpIUFViMHVrajFZTThtenF3UXFHUHhyQ1FubnYxX2hNQWsxdzl4UzRoSThpSURWVmtyR2dIN19oTTdUQ3dVVGdndmhJMw?oc=5",
-      "source": "Yahoo股市",
+      "source": "tw.stock.yahoo.com",
       "published_at": "2026-09-15T07:24:21+00:00"
     },
     {
@@ -46,6 +46,12 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwM2dSOFpKdHNpYjhWTEJfSTVnaDYzclI0R0VwX251WE1YODE2Y2xGNG9PcEZPVF81aklseEh1Q19DNU1iZHBCRlhVcXRvOVF5V25xZW9B?oc=5",
       "source": "東森電視",
       "published_at": "2026-09-15T03:06:00+00:00"
+    },
+    {
+      "title": "Invesco BulletShares 2034 High Yield Corporate Bon(BSJY) - 最新新聞資訊與消息- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vTVdUTU9rQmZ5UWhaLWpzTkpNdGVCOUN6SHZDMkZXeVdTUFBZT0JadXdzYjIxcXJ5WW44WERIM0xkZXQ0aEMycWxkaFpBNGE3ME0zVGQyZ1I4TGpCaml6WlJ3NA?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-14T11:47:30+00:00"
     },
     {
       "title": "Invesco BulletShares 2034 High Yield Corporate Bon(BSJY) - 股價行情、配息與走勢圖- 股市爆料同學會",
@@ -70,12 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jTFZvNDlySU1OTzRScEs0TTdWOUFIWlpDSExmNXJYYkZNWkc1NXMtUy1TZlB6dFJJZDVmd21IRF9GOTBwbWdTZkpuTi1rVEFCMTNhSVQtUTE?oc=5",
       "source": "自由時報",
       "published_at": "2026-09-13T17:27:00+00:00"
-    },
-    {
-      "title": "Invesco BulletShares 2034 High Yield Corporate Bon(BSJY) - 常見問題與關鍵問答- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZdDZPOXU2Wkh4bE1xaGFJTmdFSnBUNkxSZ1UxY2MtQjJGZm1uSC0tcXM2WUhKRm1aUWtlYnYwcG5LVi1xMFRRd1ZUeXpxTjRvanB6R1Y4WTRUYlBTcHVaeWVHX2h2eHdr?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-13T11:10:33+00:00"
     }
   ]
 }

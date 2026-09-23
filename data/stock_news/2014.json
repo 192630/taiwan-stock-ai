@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-22T14:39:08.324768+08:00",
+  "updated_at": "2026-09-23T15:34:58.816691+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2014",
   "name": "中鴻",
-  "count": 6,
+  "count": 5,
   "news": [
     {
       "title": "中鴻(2014) 個股概覽 | 個股 - 股市",
@@ -14,14 +14,14 @@
     {
       "title": "中鴻10月內銷開漲盤",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBneVJ1bXRNSTRqVm1NWTFxQW0yWU9IUGc3UHl0YmRsU0NyZHRmLVpGM2c5S29pNXdCV1Y2aE5kTnN2bEtwNlB3ZmxacTFxMGVu0gFWQVVfeXFMTkFkZTQ4OVFlYXV6SWJyVnVOQmJCZzBmbzVRNFVTaFNONl9fLWNzT1pxV0tMNjV6V1Z3ak4zV0V1ZDBNVkV5X3FMc0d5MF9sQWFvWVB0bnc?oc=5",
-      "source": "udn",
+      "source": "UDN",
       "published_at": "2026-09-15T16:10:26+00:00"
     },
     {
       "title": "中鴻10月內銷、11月外銷盤價同步調漲 季節性因素消退",
       "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxON1dYTENRVk14QVZweTlrOU5EdjZrLUhfOWFCVDV5VUViOUJBSFJNSUs0R2t1cjhWclJ1SXN2Z2YtVnJTWWYyci05UDRvbEl2dzA3eFJxOEswQzVpckZKeFg3S25vNVlBN0pyRmhVcVpIZ3AyUlpRQldCdWVSV1JkQ3JoWjVaR1p1MGc3TkRuMDZadGhObklBNjVkVHU0QWpoYkVaZVdOYkxzeVpaYmVBdHA5Z1NsbURxWHNYNHY3M0U1dll2QUhCdXZxS1lpVWQ2dHBtMVFyZG9kUjREaVlRMHFzbGRCZ2x5VkMwVUNfR2phLUhETmJxRnZiYVpPV3IxWnByRldSMWpvUjFiTzZDZzV0OThWc1dXV1FmdTdsZk9ybC1mWVlWLVBJNERBd2k0RzY4aEc5ZGpuYlBNYnVIVlZ3WUxOVjNoaU1VdVNzOGEwXzBMNGIzclNWZ3lDV0E?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-15T08:00:33+00:00"
+      "source": "tw.stock.yahoo.com",
+      "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
       "title": "個股：反映原料成本推升，中鴻熱軋/冷軋各調漲600元、鍍鋅調漲800元",
@@ -34,12 +34,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LeEQ2YWUyNmxwYmYwbkp3d19mUE5xQm5kWlNPUjVJdjhwTDJ5U1lEX2p3R1BqNVNDOVppbkc3RWd5WW9oNTRtV2NraHlNQmsyN2ltN0prT2g?oc=5",
       "source": "自由時報",
       "published_at": "2026-09-12T01:56:42+00:00"
-    },
-    {
-      "title": "MPM BioVentures 2014出售約61.58萬美元的Entrada Therapeutics股票 作者 Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVSU1CQ0Fxc0lKbFJLbHRHdGJyNWREOVBDTmhjY0pscUp2Qnljc09wa0o1RmE5QVpmTzlCUHBKRk5xMndnSF9uN0Yya2lTSDFabUNQWkJRV0c4ZkFuQWVJS3l4amNTZ2x2U1dNd01HWUlJY0kzaENRcG5Fdw?oc=5",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "published_at": "2026-09-01T07:00:00+00:00"
     }
   ]
 }

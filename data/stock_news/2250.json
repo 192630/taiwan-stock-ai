@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-22T15:34:18.379329+08:00",
+  "updated_at": "2026-09-23T15:35:27.616234+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2250",
   "name": "IKKA-KY",
-  "count": 6,
+  "count": 5,
   "news": [
     {
       "title": "漢測9/22掛牌，台股大紅包！承銷價2250元創台股新高，半年EPS 21.5元，AI測試、熱管理、矽光子三大成長引擎接棒",
@@ -14,31 +14,25 @@
     {
       "title": "抽中1張現賺257萬！興櫃股王9月下旬掛牌 承銷價2250元、下週開始申購",
       "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxPSGdCNVFlbW9SN0tjNVpZMlhOUmZSbTd5aHE2SWZPREp0b2xHaVpjUG91MFl4NzBOUHdoclpYZEYxVGwxR1dDZUpxOVhxSnFVQmN1eWtEWmdEUkViR1VNN1ZBbEFlMmtXOE9Nd2VEOEI5alFfZmgtNm5LWUZkUzNzOHVZT09nX2lmSnotSjg3UTg5SXd3TzRxbUI4TXdMS3VBWDE0YVRZa3p0cjRrYlZIQ2JNY2owZXBCbzFackVHY05Bbkl5b0lYMnRhNEM4c0JqZGt1ZTBIc2oxTGFaUUd5TGdCRk1SaDNkOFIxejZDSHlLZVpzLUtpcGt5UUxIM1NvSGktb3ljcFJzeEtTSEU3R3BZdFl1WkdDcDVtTV82TWttSU1MWll6UEpBRmlEWkJ1VVBvUDNwbG9ObmoxZGVkYUg0TV9PblZuOUprNlJlaW1OSWJkSFBIZDdDQ2dJajZUeFBGRmpNUjdfdFluZDNmSTR4a1RzSEZNUHpaSHgwTEotaUZCcmg3WWd0N1d0NVQ3SGxQOEtkQQ?oc=5",
-      "source": "Yahoo股市",
+      "source": "tw.stock.yahoo.com",
       "published_at": "2026-09-06T07:00:00+00:00"
-    },
-    {
-      "title": "抽中有望現賺逾250萬元！漢測2250元創IPO天價 潛在報酬逾1倍",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE40Rm5NZ1lNeXlvSWQtWXNyY2k5LW5KT25JbHpVTnR4TV9aQ3dVUHhVOGRMaE9OZ1QwZzFPUFNDQ1BxeHdMUlN1QzRsblNTSm9OYnJ4THRweU5BT05iUmJleW930gFnQVVfeXFMTzYtSjJFZFRVeUxUTWZSUHpkTDNiUE4wNHYxRnlCWVlmMFMxay1zNkNMWXFtY2dXS2NxTEkwN3Q4QWRKZDB0TGQ1Uld0WW9Fb1JrV25DZUJjZE9fYjByRTROMWdiT2piMA?oc=5",
-      "source": "鏡新聞",
-      "published_at": "2026-09-04T07:00:00+00:00"
     },
     {
       "title": "漢測承銷價每股2250元史上最貴 9/16抽籤抽中一張翻倍賺",
       "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQSzAzQmJDMk84dkJpTXc3cmlDNWxCVlMyRzI2dnBXSmNfdlNhaDF1Tlk1S1RkQ0xaNkFaNlZhWlNhR2JiRGlCSzNDYVRyR3JzRXdadDQ2SDI3dHlKbk1NYVlSZlJ0NUFvSmpkQlhFRkdfVWZ3OE4yWWh0QjhDSEVsWXV3bW1EWWZTeW9GdUZOSklESXhoQTVjb25uMjFjVHNBd3doTGJ1c0xJVWp3MXJLYkFqRk1PTVZNVzFuOGdNVmF0Qi1GcEtwMVNESTlIQjRXZ183elJGdTZKQXZrMi0zZWhqbkVsMFNNUVFZUXVnY0ZfMHhPLU00YmM0R3pIb0d5UXpvVDktcExzTlFMZ012V09LTUVod1hyUFlPMllwTkhJYlV5MHloRG96akd2QkVDR0Rxd2hGSUx2MTdlWkhyVVZ6a2NoajRuWjRSTkJWSExPWk10U2kyUw?oc=5",
-      "source": "Yahoo股市",
+      "source": "tw.stock.yahoo.com",
+      "published_at": "2026-09-03T07:00:00+00:00"
+    },
+    {
+      "title": "史上最貴IPO來了？興櫃股王漢測拚9/22上櫃！承銷價2250元創紀錄 抽中潛在價差逾255萬",
+      "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxNWThhLXMzNGhyYzZfeXpDQ05WU2JhMld3am9MUlA3SVhaQ3pZUGwzTjRfRXJFX2pPZFotaDRmbUFCM0c0R1BJM2tIVndaVjllLURRa3VzTUFyRXFjTktEUjA4WWJtaVZLTTAyWFEtMzdsMDFzVG43dFZrd2ZFRmlnd1R4YUxtT0FMTC1lalhGOGFaV2E1TmVQay1vMVo1Y0tkMmlFeGNFeTc1Q1BvelN1YXNLc0FiMVFPVWVJbVVWSmpKcmxSbENHZVJIc1dvWXlxNUpyWllqZng4LThDQWhqVlh4eUx5VklMVlpYbUN1ODg1X1czSlNIQW9Gc09GY0VrNXdULXlFTXVlbEVwTHl4dVhoenZFWEg2SDZkUkVLLUdRR2xtbEdzRGU4ZTNDai1nYmhWYUoydW5yNTNXUWtRRkhDNE9jek56UUw4TzIxc3lrcXJKYXcyUlRmYVppZ2JqeVhEeDd5aVBmSGdNSXdYaUZaN3h2blJ3dFUtbFdtLTMyb3ZEOGJWSTlXLVU4QW1XeTdLV0NUeFFzLWZldTBUUy03b0luV1p4ajRfb21HdG4tcWJ4TnJjMVdZUUJwLUMtcUJBU2FEcHM2azBEeW40dE5KWk5ObzAtRUE?oc=5",
+      "source": "tw.stock.yahoo.com",
       "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
       "title": "興櫃股王漢測寫史上最貴承銷價！每股2250元 抽中1張現賺1張",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iVW4zQVhpVjNXWTZsci1yelFjUktUOVAtNmRiRG14Z1hXQk5taDU5QWdlOFBkT2xqeWFxVlN1U01URTJzdWlNc2pSUTgyc3ByV080eXVwc0tQT0XSAWBBVV95cUxQZVVkM3RoVk5nR3lHeFVWQmZMRnZSMFliMHpsTjNybWNYOXhUSFZNc0t0T2lfNi1JUXhDTGVjMGdqaEYyQThabnU3Wlp6RERBMHdFSlNyVlRRSlJIS21sSzE?oc=5",
       "source": "經濟日報",
-      "published_at": "2026-09-03T07:00:00+00:00"
-    },
-    {
-      "title": "史上最貴IPO來了？興櫃股王漢測拚9/22上櫃！承銷價2250元創紀錄 抽中潛在價差逾255萬",
-      "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxNWThhLXMzNGhyYzZfeXpDQ05WU2JhMld3am9MUlA3SVhaQ3pZUGwzTjRfRXJFX2pPZFotaDRmbUFCM0c0R1BJM2tIVndaVjllLURRa3VzTUFyRXFjTktEUjA4WWJtaVZLTTAyWFEtMzdsMDFzVG43dFZrd2ZFRmlnd1R4YUxtT0FMTC1lalhGOGFaV2E1TmVQay1vMVo1Y0tkMmlFeGNFeTc1Q1BvelN1YXNLc0FiMVFPVWVJbVVWSmpKcmxSbENHZVJIc1dvWXlxNUpyWllqZng4LThDQWhqVlh4eUx5VklMVlpYbUN1ODg1X1czSlNIQW9Gc09GY0VrNXdULXlFTXVlbEVwTHl4dVhoenZFWEg2SDZkUkVLLUdRR2xtbEdzRGU4ZTNDai1nYmhWYUoydW5yNTNXUWtRRkhDNE9jek56UUw4TzIxc3lrcXJKYXcyUlRmYVppZ2JqeVhEeDd5aVBmSGdNSXdYaUZaN3h2blJ3dFUtbFdtLTMyb3ZEOGJWSTlXLVU4QW1XeTdLV0NUeFFzLWZldTBUUy03b0luV1p4ajRfb21HdG4tcWJ4TnJjMVdZUUJwLUMtcUJBU2FEcHM2azBEeW40dE5KWk5ObzAtRUE?oc=5",
-      "source": "Yahoo股市",
       "published_at": "2026-09-03T07:00:00+00:00"
     }
   ]

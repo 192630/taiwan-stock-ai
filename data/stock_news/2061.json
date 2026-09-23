@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-22T14:39:20.624397+08:00",
+  "updated_at": "2026-09-23T15:35:09.350832+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2061",
   "name": "風青",
-  "count": 7,
+  "count": 6,
   "news": [
     {
       "title": "【12:42 即時新聞】風青(2061)盤中走強，AI線材題材持續受市場關注",
@@ -40,12 +40,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91QkNmQ0Y3VHVyaTZjRG5ldE5acXJOZTJTQVdWM3Vqcno4UHppMEJEeEwwU3JDYmlNTnhpMm9DOUV5bTBtdHEyVnUtVTVrTGxYNGNpWjZ5SHM?oc=5",
       "source": "CMoney",
       "published_at": "2026-08-27T07:00:00+00:00"
-    },
-    {
-      "title": "【12:39 即時新聞】風青(2061)股價上漲至52元、勁揚3.79%，受AI線材與資料中心題材加持＋中長期技術結構仍偏空、短線反彈留意風險",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRjZMS1RnRUdWS1hUMVYzMFhzZVlDQXVjSmtRMFVkdlp2UDdLRzd2NFd0RTJTV0RSUzdocExrekVRX2MyMW5wOGJwM2daNkxvX2d6bFpWR3N2YURvRnJ5RXFrUWlCeURGMkJkRGtoNmRRZVQzNEtxUjNjZ1ZBaEpkbXRzNm9xV2FkY0Zsa05R?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-08-24T07:00:00+00:00"
     }
   ]
 }

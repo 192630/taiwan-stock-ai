@@ -1,10 +1,28 @@
 {
-  "updated_at": "2026-09-22T14:39:16.733452+08:00",
+  "updated_at": "2026-09-23T15:35:05.868319+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2032",
   "name": "新鋼",
   "count": 12,
   "news": [
+    {
+      "title": "阿里巴巴稱新款玄武V900晶片速度提升3倍，並計劃至2032年建成20GW數據中心",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94RXVtVm9RMFdXMjVDY2FtWXNDcUV5ckw0RHFHbXNlc2thYnhwUUVOM2lESTRGX0l1dlB4bktIUHhoOXhpTGJVOE81blhIdjFXQURTeUhONTh3T0xSQWRBek44dDhHV0hCemY3aHlpRGppcGRaSHJOc253?oc=5",
+      "source": "FinanceFeeds",
+      "published_at": "2026-09-22T18:50:23+00:00"
+    },
+    {
+      "title": "美國設定儲能部署目標 2032年前衝刺225GW電力容量",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GUkdCdWg2dEFVSlNoYzktejBqSFFwVjYxcnFtTW9CcGtNclR4Ump3ay1WYkJDX24wemN4RkNTTVlDXzBJZUdPUFhFM2p6d3FDTXVsX2VCTkxFTy1QNGd0N1VDbXloNEhFb3lVYVdBUQ?oc=5",
+      "source": "理財周刊",
+      "published_at": "2026-09-22T13:24:58+00:00"
+    },
+    {
+      "title": "【即時新聞】Invesco BulletShares 2032 Corporate Bond ETF(BSCW)最新宣布每月份配息金額出爐，殖利率達5.34%吸引投資人關注",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fcGZFTUNiemNfbkg5dmRqY2s4azlma2h6cm5kN0R0QkwtcGw5ZXBOMU9OOXFGMHVYR1c5SThMZS1BTDF2cUE0UHVuV2N0X2wtNWtEcnhfbjluVlRUWHpHRUFvSVZIUDA?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T10:00:49+00:00"
+    },
     {
       "title": "阿里巴巴重磅推出V900 AI晶片，2032年全球資料中心容量目標超過20GW！",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMHFyUkM5dVFlYzRCanp3VndESGFoU1lyOGt5X1lFRWNhSGdrckZjTGh4ZHpndTNaenpGR1ZmWFU0Zk5raW4tdGROSDdHaHBIa1hxQl82TnRyajctUHhyWm9fcDhENHRhMENTc1FvdlRscktFWUp0S05ROWFTRHI3Q3RHck5TUUxuN3gzdlM0LS15WmNX?oc=5",
@@ -18,16 +36,34 @@
       "published_at": "2026-09-22T04:40:02+00:00"
     },
     {
+      "title": "阿里巴巴CEO：目標到2032年阿里雲全球數據中心容量超過20吉瓦",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQTRaTnFYQWVEX2E5V0ZwY0RNS082Y183d1ZaSVNndk1vVkoyc0ltR2pTQ3FERlVoc2kxcUZsakJtSzZOZkVKZmVqcWp6RW0tQXpQVHBiSDdDWkRaX3p0ZlQyVzBfMnBWYXVlLXJjX2o3QVNIZklra3cxY0MzN3Y4RTZFX2xTb1FCWThQdTdSQ2t4NFlfaVl0NWhPQW5wVnFlWmJfQUNMUF9MODVBdURidF93?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-22T03:42:30+00:00"
+    },
+    {
       "title": "2032年阿里雲數據中心規模將超20GW",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5cVp6MHJOMmlXN1Vfamk1QlV4NGNLLURFTGZWN0Z5NXhOX0lQSEl2Z25sQ0N5YUU3VHZ2MklmaXdiT093cFJ5aHVpa2tSZGR1cEUzX2Y2M1ZoWUFNNGFkX2tYSTVrNkg0VUE?oc=5",
       "source": "TradingView",
       "published_at": "2026-09-22T02:29:40+00:00"
     },
     {
+      "title": "Alibaba: By 2032, Alibaba Cloud's data center capacity will exceed 20 GW.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeFdtd054WHo2RXAwblhoRk1YakRuRUVuYXlLelBETVJNRTltejExc3Z0eVpDay03TlZFNnBKTWNhaTlGZzFpN3NzeGpRRVItREpTOTRQNEhCNEVTNG9wTHE4bk5TbF9vNi1EYUNoRXdwRHZyWHU2bHJaZHBrb0ZvbW5rRDNPY2JkN0h2SEE3Z1NoS2pCUk5RZDltTUNZamkz?oc=5",
+      "source": "富途牛牛",
+      "published_at": "2026-09-22T02:26:29+00:00"
+    },
+    {
       "title": "INVESCO BULLETSHARES 2032 CORPORATE BOND ETF將於2026年9月21日除權除息，1股派股息0.07943USD",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaExhZWI3NW1EWkJkdUktVVByMHR6dlA2VnU1WHAwTlZxNm42eFdISWNXOG5fZDFGTFdHOVBUWnhmQnE3Wmw2ZFlNeTVnejdQYkxlZ0VHbU5UeWVxbFRPaGNsS0YwTjFUUndFQW1HbmhjTW55eUFncGVDRFRtYWpCWVNrN2N4V1c5dVQzajdaX3ktVlhoaTBweEg0RWRrSDQ4ajdnUzFnUGFoQTRXQlE?oc=5",
       "source": "Moomoo",
       "published_at": "2026-09-19T00:05:00+00:00"
+    },
+    {
+      "title": "到2032年，地暖市場規模將達到$92.6億——MarketsandMarkets獨家報告",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUndUWE1xT1psUE5ndVZub1RDY1otMjJHcmRKRWIwZHpRal9EYkw4R1YwYVdnYmY2YkNMYmFERktVMEszTmpYZGRLMTB1cnNRLVF5dUtsMXVvcGxrUnlPdGhBdHZuSjJZc00xUTBHOUhEMHZiQkEwWm5ObDZkOVc3WHVJcjNWU2RkRXpLUXdBX0s3ekdaTWEtWXZkVWtmNE9UYVRfLXNKQTdjUlVORVE?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-18T14:01:00+00:00"
     },
     {
       "title": "離岸浮動風場將啟動 最快2032年併網",
@@ -40,42 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tb3FneGFWenVUV3FxcFRNZWxEVnYwUF9uN05rZV9qdmVXTzlFbldlUlFSUlVlRUl3M3BjQ2VKT2tfNndLZnFlQkRtMlZIa1V6NW9Oa1ZnRE4?oc=5",
       "source": "自由時報",
       "published_at": "2026-09-16T18:27:15+00:00"
-    },
-    {
-      "title": "PBF Energy定價零息票據，擴充2032年融資- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9WdWhEc1g0bHc4c0F6SnNqYzNReV9uUHZhU0Z5VHhfbjA0aVdiNGw2TzI5VkJPZ254bVpxNjVDZkhLSFJwQW9jSHJNMnhRUlRNaDk3NXAzT0Q?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-15T02:58:40+00:00"
-    },
-    {
-      "title": "網絡自動化市場規模到2032年將達到$144.2億 | MarketsandMarkets報告",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdWRRbW13SERDOXlhMW9LQTdRZmVXTU5lSkVoUHQxaDgwbXBFRkZ5YXRTREEzME5Gb3ptbU82MkZoZG1hMGdjZjhXZmN3NmF4dTMxa0ZwbTdXS3k2UXRGV1c2VUdYMUJzRGNQSGQ4OF9PM2xqb05BaDI1UlhESko1SnU1WFhHakI1eXM5S3JkZFV3NzkzQ0V6eTBMNHItNEN5YW8yVVFXTEx3U0k?oc=5",
-      "source": "Moomoo",
-      "published_at": "2026-09-14T15:01:00+00:00"
-    },
-    {
-      "title": "PBF Energy宣佈擬發行$5億於2032年到期的可交換票據",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSXRwTlU1czNTOHlOSzliSE5DUk5SSUQyZ2x0RlpaT1kwTG1BQkMxVEZBUmpaMHA4Z01iTVR5UHlKYkFFcC03b3V3dklXOXZ0LXBCLUJrWTd6azhiSS1UV21UZC00VUdiNko2UHlhcG90a3Z6dnRGN2NzVDRhOUNOd1RCYjNKU1Nmcm9mcm10b0FyMmZsdEpSQlhxUWFGTVlrR0NXQXNlQnNDT290ZW8tUEczOUY?oc=5",
-      "source": "Moomoo",
-      "published_at": "2026-09-14T10:58:00+00:00"
-    },
-    {
-      "title": "ONON On - Connecticut retirees face the deepest Social Security cut in 2032 — $556 monthly — while 29 other states top $500 losses - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HUzUtQXI4cjJyNmwwblBYN3hSX19GLVYzRzYxSGlGUGhsbDhCbEFuTG13WW1xUnpiR192Yi16Z1E1akY0SloySi12MFM5aFk0bTRWc01reWY?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-12T13:11:52+00:00"
-    },
-    {
-      "title": "零售分析市場到2032年將達到$232.1億——MarketsandMarkets報告",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbU5QWWpGaDQ5T1ByQTNkSFZiZlpGUG9ETHozMVVoUHpXSTVxMFRfd19sMW1sajFIVU9BZm9fMFhtd2tBcUNreVQ4LUlnZmdIUXBqUjNSbncyb21nTUVPMDlqWGJLUy1Dd3h3ZjJnR3RjcGJxenVhWXJJelN2OHJ5QkdDUU1FNS1nbTBYZWxhay0ycmtNaW1HcUVJNUtCejQtMVd0X2hHZWM?oc=5",
-      "source": "Moomoo",
-      "published_at": "2026-09-11T07:00:00+00:00"
-    },
-    {
-      "title": "CRWV CoreWeave - 微軟計畫到2032年將資料中心容量提升超過三倍，達38GW！ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81TGhUX2M0bmJZS2dEcjlHeDNTbWlQZ2xhSzAtNnJTUENvY3dxNE1vTzdnWTFOS1hubUJDSERqNG9ESUQyc3BuV0luYTRtZkhKcmNRQzc1bXk?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-11T04:03:06+00:00"
     }
   ]
 }
