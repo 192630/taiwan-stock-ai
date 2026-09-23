@@ -1,39 +1,21 @@
 {
-  "updated_at": "2026-09-21T15:36:11.212054+08:00",
+  "updated_at": "2026-09-23T17:35:02.830271+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2471",
   "name": "資通",
-  "count": 7,
+  "count": 5,
   "news": [
     {
-      "title": "數發部接連開罰 酷澎、互動資通及Meta上榜",
-      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPODZVSkg5T24tWlNWU0tJdjl1eXFLTHM4OXVndzFaem5NZmx5Uzh1bFhmd29mM0VWdkpKUkJ3X1BQR3N0cEhOQTZlanNJN3FYY01wTGh1UDVjYzdHbUtQeHBZd3hXbVpvYWxVVEFBU2FQcm8wUDh0TUZrSDZKQm41d29iTkJtdzV0MnluRU54V2pUaWdyRDdhZ01WNmdrcnhReG9DY010Qm41TUZib1l4d0U3YVBWN0VPNDNSY0tCN1RXYTk1Q2Z2MHhTSlE1X21DMGVGU3g1YzZVcnN1M3Q0ZlR6SnBFb1J4eEtramlwcTZBTTRlb1Q3c0QtNWxTaGV6b0NlZjRvYTRuMUliRHY0RHVRdVFDRldpQWozOXhnNzAxZG5yRDBBRzhNbUo3UDJmY1M4UWdIeC1TOUtETHQ5X0d4dVphWG1acUo0dA?oc=5",
-      "source": "tw.news.yahoo.com",
-      "published_at": "2026-09-21T06:56:15+00:00"
-    },
-    {
-      "title": "國家資通安全研究院洩密案 研發組4成員放爬蟲程式被訴",
-      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxObWxOZmhGYkRQNk9lSG5sTWQyZzAtVjF1dlRHMnJ4eWt1ZU5Ra0lhTUVtcTloRzZIaXZaeTlkbG03VFVWYnk0bjdfX0hTRHRNZVl6U2V5akNJQkplQkhIX3lIX3hvRlVkbWZFV0NHbzM3ZVlVSl9BQ1dxMmhoNG5WLXU0eVExRGtMUTNMYXFOa0FqVV82Tk1QQUhPSTNneHB6ZlJNNk9YZWpadHNBaFVFS210WVdVY2sxdmo3RHNiUjNLVzNxOWRpYW5LSFF1VUpSV2hsVzNDU1B5TUI4clU4TC1LRDFGVUxOWldTbXJLdmlmR0RrelBWNWh1Rl83ZlBOU1E1VTNsNjBvRnVydm92ZkJWblVVSkZHdUNtUFRxRDNZMjF2aXpRazUtRW9JOXhRNlV0NVZqT1c5TjRmRUFfZ0FMUHU5a3lIZ1E4N1dnOVJ2Wm1EaS1sWGZndjJaRXJ6WU55bUNjRDNHLWZQd1JsSGdzd2lyZw?oc=5",
-      "source": "tw.news.yahoo.com",
-      "published_at": "2026-09-18T07:12:25+00:00"
-    },
-    {
-      "title": "資通(2471) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xVW5BdTZzZG5KM2FiYXRhQzFLVC0yTGt1QXhWTGl4SDJ0VkZSWm9GWVU1UExkQmtFRDdWUHV4TGx0R2xac3pxRC15Q2tSTjFkbGxr?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-16T02:53:08+00:00"
-    },
-    {
       "title": "【09:58 即時新聞】資通(2471)盤中走強，資安與AI題材獲市場關注",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4VHYwcVZwUVNRcGw0U1VtQTZFYVlUdW9SUno0MUFfandEaDlWMi1wV3VMWkJJU25aOU1pZ2h6TlhyZEpYc2tIM3Q0V1hXT1lwbXdjcGNHN1ZtdnI4MVluNHRteUtCZFU?oc=5",
-      "source": "CMoney",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaGQ3MFo4cHVhUnNTdFBKNDJpcEFKMHZLUjd3YnBoMjZUVGJ1UVFXclRCOHR4d0ZxS244cU5zOFJ1ZnJwSHJ1Ti1oUmtmeXFwbEZJMTZwNHRtUDVya2l6aGduYzJNQ3RXVkhRbGkwVDIzclphSENHSUtteVpWakdndXBWY1I2RDhXdkV2RkpB?oc=5",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-15T01:58:45+00:00"
     },
     {
       "title": "《上週上市成交金額排名6-3》緯創資通(72918783)",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPalJsLTRtSzRQdE9Lbl9STnNrN2xORnlpWEZnWGFVWUJaUEtyYlR2WHdyaEZTc1kzNmVCQjFrRlBDN2hRekR3QW1iQzMxejQzTnlyNGpiZTVaNlMyYXBYaC1rYVA0UEFmc2lFNE9jQWNCUnJLUzEza2w1UDh5WTcyRk9aWlhqTTg0?oc=5",
       "source": "富聯網",
-      "published_at": "2026-09-13T23:42:00+00:00"
+      "published_at": "2026-09-14T07:00:00+00:00"
     },
     {
       "title": "〈進出口統計〉電子資通助攻連34紅！8月出口824億美元創新高 年增 41%",
@@ -46,6 +28,12 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOWDRpdDNZeHg1Ul80ay1mUTVndWE0bGNrNURtSHRRWnY2aWNzRHhkR1F1bEtXd2gzNU9MRU1BRnN6T25PMWtJR0k0OXY1TEgwaXR5OXJiSU1qOGNKeDh2WlpTTVcxeWgzc3hpTm5jUQ?oc=5",
       "source": "理財周刊",
       "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
+      "title": "培育AI人才實力受肯定 朝陽科大資通系勇奪n8n台灣黑客松總冠軍",
+      "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxQMmg4aE9aaklkLTFWc1lJU1lNV2VnRXhVc29CNjlPNFUwZHZudWlmWS1laXVnYWZZaEFLeTZYOVNhc3AzN3BqUmg1WFZscG9RSzBmUlFGVHllWFRhYlMwWkQ2a0xPRDVyTEEwRThPeG1VVlZmSGNVVDdFNEtFVXdDYmthdU41VUxYMjZFMng2OFF3Skk4U1hhZlgxT09zUkxmZGVKSnlIVTFQNHpleFZlWHJhOVBTMk54QkY5SWdqekRKODFlT3k2YWJqNmpEVjRlR3hhZFRDSFMzdmR3YnJmZno0YkVCemQ1ODNlT3g2ZjV3WkdsVzZMN253UUduU2dlWEN5bUZNZExYdFI3emxrTjRPZkhCaGR5bl9JaXFFaG9vNlBWY3otTHhFVFBCNDJSQml5LTZEOEtLbzhRdk5Qb3dwQ3Y5SFZwRm9pZWZYTkNCNGd0RHBuaWhXSXZyM1Y2N05GbzVYZHF5MlgwRlJyRmNuQk5SLWR1T3pOYTl6THA3enNMOHBkSFhXOVAta2pOdUZsMlVaUlkxQmNRTmlKVE1OZTYzZWh2aE5ONWhtVHMxcVVvWHc?oc=5",
+      "source": "台灣好新聞",
+      "published_at": "2026-09-01T07:00:00+00:00"
     }
   ]
 }

@@ -1,21 +1,15 @@
 {
-  "updated_at": "2026-09-21T16:35:23.960497+08:00",
+  "updated_at": "2026-09-23T17:35:18.645668+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2534",
   "name": "宏盛",
-  "count": 2,
+  "count": 1,
   "news": [
     {
       "title": "宏盛(2534) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYTDZubHJZNGFNN3YyQkFTbVJvS0pzVkN0UlV5TWZwOGc5T3B5Z0ItNHJFeEdlSmJLbV92RGdtMmYzRTRDY3RtZmI0UmVKTjd0U2M0?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-20T09:24:09+00:00"
-    },
-    {
-      "title": "宏盛股份(603090.SH)：數據中心液冷領域產生的收入佔比不足4% 作者 智通財經",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jelBWQmZLbnRob3ZUZFNVM2ZJZXluQ3FhRjFoLUx2alZKRndwaGFaQW5Pam4wdFotY2FmalQ0Q05LWHNsNVBUTjFJQUh5dDFCVWlmZGdFdWJQdmdmZy0yR1ZTcTY3d2YzRGhta1N4dE8?oc=5",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "published_at": "2026-09-15T11:55:10+00:00"
     }
   ]
 }

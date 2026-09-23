@@ -1,21 +1,27 @@
 {
-  "updated_at": "2026-09-21T15:36:07.992574+08:00",
+  "updated_at": "2026-09-23T17:35:00.135863+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2462",
   "name": "良得電",
-  "count": 4,
+  "count": 5,
   "news": [
+    {
+      "title": "良得電今年營收先拚穩，續爭取利基產品擴大",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQYkZ6RlprbFVJREYxa0w0SUZ4Q1h0S1Z4QkNZZGNrVXdtYmI2aEdDY0NiR2ZoVzNFX29hUUdsYVh3YndzZ1VuLTdCT1ZXbVFxV3RtaENCRm41UXdtWkFyNERqSk9RMVRockNMSDBCZjZKOTQxRkVDTk1mWmFpQ2VURmk1WVM4LXJmYlljYURWb2ZKMldkTnFPUm1tUHYwWjlkcTd3Sll1Nlg4c0doclppdDEyd1Y4Z0FfcGFZWjVkaUxaY1ZPbXRqWEVOamplM1VuMWlYOXZoOHk5Q0tFRS1wd1EyQVZEVnBzUU5ySWpyODBUems5a28xeVplaEhobWhEWlpnalUtODA5OTZyTTlFaFozVmk4VGVYNnR5c09pMlQ1N0VkdnNvYzZMVUFlT1ZkT0YxaEo3bncyMDhGWDBYTQ?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-23T04:03:49+00:00"
+    },
+    {
+      "title": "TAIWAN LINE TEK ELECTRONIC CO., LTD.的每股息稅折舊及攤銷前盈餘 – TWSE:2462",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONjlFYTVCQ0lpTGlmVjJ2bFNLanBYQjh0TEFGNXAyLXR2VGMyZ05OMmNZMHl5c25waVR1Ui0wOXRoOVM5dThvTUFOTEtDTDRuc3F4SGRqZlYwWm1QakFfdGdoaV8zenNHNHR3YTJaSy1GWU9PdmI2XzN0blh6MEotZ01HWUtFSUxMR05sdVlNNmR3WFNiLUtTbWFOYw?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-22T01:28:28+00:00"
+    },
     {
       "title": "LIKE, Inc.的Price to sales forward – TSE:2462",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQTdPaDhsRjhUbEpudU52MElHMWFkaUt3NnhYSk9tVUhyZE5RakVxQUw0TERIVWpoMWVrTWNlQ2xoTjQxbndkN2h6eUh2LTl1blhyRGVUZ04xU05ia3dXUjJiejJtbi1EUDJoNzVXeTlvNlBnWFFWMWhsUnIzUHRxN2xiN25vdHA1U3JKVU5kUFZrVVhnZXBDUA?oc=5",
       "source": "TradingView",
       "published_at": "2026-09-16T16:44:47+00:00"
-    },
-    {
-      "title": "TAIWAN LINE TEK ELECTRONIC CO., LTD.的股東人數 – TWSE:2462",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORjVKOGc1S3paNk5IQ1FmbVZfME1jcmdzTl9zc3N2QS00UlhrdjI4M2J4b2cyQlBqMUNKUVkyd1g0NmtQT2wyZDlzdVMzNlpHdktGY2h6Sm91eGt0ZHFYaE4tTkN4aFM0SUoxVWU5cHdqME9oOVIzYW1DWDhzSk1WenFwZjJoa3hKU1ZRa0N5MElyay02MTRkREgzV3hDVHBCLUZF?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-16T16:42:42+00:00"
     },
     {
       "title": "良得電聚焦低軌衛星貢獻 Starlink下半年出貨有望超預期",

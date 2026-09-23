@@ -1,27 +1,33 @@
 {
-  "updated_at": "2026-09-21T16:35:21.554253+08:00",
+  "updated_at": "2026-09-23T17:35:16.551894+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2520",
   "name": "冠德",
-  "count": 6,
+  "count": 7,
   "news": [
+    {
+      "title": "總價不到2億「冠德信義F」豪宅鴨子划水 今年揭露戶數是「陶朱隱園」3倍",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsRXdQX2sxZ0N2MDEwNzYxMWYyUGZSRk9mT05aVlJSSzd3WU1MLTdPVEFJTUxFWUpldTZGaHVsemQzYXJqb0NiQ3N3aWVNd3g2ZXYzQVJoa0ZaQXlMVVpv0gFkQVVfeXFMUG5vLU9SOC1NeFpTZXlVREw0R3ZRcUhSMEtCZzVDU0VNTHhaeVJJdmNfcV9kS3ZSMHlyMFB0d1Vmd2xkM1FFeXRXcC1XQjRPVmVZLU8tdU5zUmNrWms1N21fcU1uUg?oc=5",
+      "source": "ec.ltn.com.tw",
+      "published_at": "2026-09-22T03:09:45+00:00"
+    },
     {
       "title": "冠德(2520) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5feUd5X2h0bXBUTFc4WVdzVXZ0blFWNFRrVTJVY0x4Y205Uk1wQ2FucV9zZHBXbXZGeXhqbUtsV1ZCVlhQVDlWTGZXUHJicU1ySGZB?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-18T15:16:54+00:00"
+      "published_at": "2026-09-21T10:21:31+00:00"
+    },
+    {
+      "title": "2520 冠德 - 9/21看營建股表演📈📈📈📈 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tZnNTSjlFcGFobUo4aXBPdVhXcXMyNWNwNkRlblV3c1ZKOU5wSDZXN3N1RUUtZFNJUUx0dzlHWm42VlpMQk5rcTNHRFVOeWlXaFMycTk4TUU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-20T15:42:25+00:00"
     },
     {
       "title": "2520 冠德 - 讚啦！📈📈📈📈📈 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ycVVad25iX1lRcDNVZTB1c0ZnZFg3djl0WklVd1ZUamJMZGxJU1JJazhfdGNsWjFMWjlPM1Nsb25iNXRDNFNlVmVyb0N0TDB2Yi1QR0ViMzc?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-18T01:18:24+00:00"
-    },
-    {
-      "title": "比華利山四房持貨30年獲利2520萬",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbUZfd3lUbDM2M0F2a2NzOGxVSmQ4aFpzTzJaRHY0bXd2Wlc3OEl0MW5abU1lSlZkd0l2S1BHcWNPWF9sUkNJaEtvVklhSVVvcjN4Z1NYc2t0QkJrMU9BXzZJM3owUnNIMDRPTkQ4b2dtZ0ZxVGN4dE9MRlhSX3pkTU1oTEszYUE5R3pBbXJ2d2VVM0hhSGN2LVZfS21aNXpieFN1elRIOWVxS1hnNzBueVFxc3YzRGlwbWx6a29xWjFLM2h6SWVxWV9MWDZZNENLZlRuRk1kWEVlalh2Zm9iRnF0MF9RbU1aYVFCdUFwUTZfLXVaOUE?oc=5",
-      "source": "信報網站",
-      "published_at": "2026-09-09T07:44:41+00:00"
     },
     {
       "title": "【12:35 即時新聞】冠德(2520)股價上攻逾3%，暑期商場業績題材帶動，多方籌碼與中長期技術結構偏多",

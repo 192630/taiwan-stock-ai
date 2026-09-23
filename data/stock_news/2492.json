@@ -1,27 +1,57 @@
 {
-  "updated_at": "2026-09-21T15:36:19.199432+08:00",
+  "updated_at": "2026-09-23T17:35:09.852516+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2492",
   "name": "華新科",
   "count": 12,
   "news": [
     {
+      "title": "國巨、華新科靠邊站？被動元件它最強：官股投顧3理由喊出千元目標價",
+      "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQWVhCMk9hbFRSNkJNSHdlRjlMc2hvZEN4TElYR1hISC1CazlodFB5NWpCZlhWNy1qMGRERy1DS2pzc18yclBWTE9JVkRCZmNuTXVGdWFFMGJSMk4zR3ZmVEtZaW5TTmhrbmxPOWQtemxQUTdwbjUzT2xMeTBKYWJpZVkzdENMMUdDcFRub3llYzNVbThQZWh5Wi1HZnNiclFxdkNCcmZ1SnFPZ0dUU3JzMWVJQW1TTW95TUQzTUJuVjZxOE1LdjY5WWtkS0NHYXVGLU1GOUF3UnJyVHFsVUNnLWtnQUpfc1BkNHdPNC1TWDY3UEY4R0EtdlBhbjUwdTBzVThnanpfd1V3ZUplUVpBMGpfNENxVm9RY1R4U3FnRnE5dGxLTzdsZXRXV3NkSEtCNGFXUWpkenJJdE5CVzNOU0NILV9CcnY3dm1lSl95OUNZSkc1NUMyTTNlSDdLeHVZanplSmNJSXE0U2Y0MnVKVFVraXkxekxLV2lnNUN0NGdGb0JMNnE0RndHZGdMLW94c0J5UG5nVzlNcHVZX2ptVTc5NnBqNXE3?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-23T08:25:00+00:00"
+    },
+    {
+      "title": "華新科(2492) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VVm1paC1nUXFTTFVnWXJpU3VfQ3hEdmdPeDdTUWFZZV9YR2Z2c1Nmakl3d2EwMW9kUS1PUkZsR0VxRHNxRGNKTHVMVGxVYldsRlQ4?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T06:18:46+00:00"
+    },
+    {
+      "title": "2492 華新科- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DdkNVUkFzX2cxODZOcVFZSFVVbTNkYnJRcnBHZ2RiOHZxYmg0eHRTVzI1SEsxQVVtdE9wYnJURzJmVUNjSGozMmNVTk5WbDhTMEhmVjAxZjM?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T12:34:42+00:00"
+    },
+    {
+      "title": "2492 華新科- 因為看好所以再進出一次- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hZnk1djRUNGxySlBvZVpnTkRVS0tCS1hONFd5LVpNUFhrVDcwVjlucUxYQjdRd0kyZ0drWmJZX2N1NWNtQzhORXZIbUlDMVA2OC1kbDdJNUg?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T02:44:21+00:00"
+    },
+    {
+      "title": "個股：辣椒(4946)9/2～9/21處分華新科股票60張，獲利約19萬元",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdWI4S0ZvdW5TVy1FODFGVkxlN2JaQWllTGJ3NXoxc2VUdkxnTmo3d3RMY2EtbExXV1dPVlBtUWpTM1BPZXhZLUtlWmpOSmVnYmNHcXBEN3FVbFY3U01xSEg1M1lqLWFQZzhMSW53RklqYWJ3OFhHbk8zSEZaS1poRVp4TGtsaVIt?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-21T23:06:00+00:00"
+    },
+    {
+      "title": "2492 華新科- 公司都不關切自家股票順勢而為（開高就空） - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sUnF6TWFrbDFZc0NnOFllVTVtLW9ucm9yRGc2QWhjUm4zOS1YSTRaWHV1bmJEbmlmYzBJT0ZEcVpkRGcxRjBPeG9qdl9vOU5fYkREX3hwQ1Q?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T13:56:29+00:00"
+    },
+    {
+      "title": "TWA00 加權指數- 被動元件高低階兩極化，國巨與華新科齊揚- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lcmhyV0FhT2VyaFZFTWo4LUNGNV9OTkMyaTFJVGlfWUkwOVlqeERPTlQxZVNfSEtMZEhxcDhMVndNZ2FkVjV0UXkxcDhZQlhrTDUwb2V1eUo?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T04:31:52+00:00"
+    },
+    {
       "title": "國巨、華新科衝了 被動元件族群紅一片！「三哥」卻沒上車獨自落淚",
       "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPams4ZGVSdlRoYWx3MnctaV9sbHVnRUpFcVl2dzNBRkwxeHVhbWlFSkZ5cEl6MEI1eUlWX0p3eF9qVEV2MFd0Qm5NbzAxVkNlUEhtRll5dDBHbERVREZzSGVIVVBrNGc3TWJhcm5TYU5UMmU5Z1pFUmtkY3Q3WDMwTlUwUGcxTzNzd3V5NWZxUnNkd2ZJNW1WQ3lGcHBwZ1pCTVRSRGNpNlNPWDJDYXhVX1JEQURoTTk4NGpNLUFwZU92LUJZc0VVXzE5RGlTRkZhVndJSWpDUk9Zanl6N1lnd2hBaHgwNHJMSDN4RFlMNU5HVElPcUlNWFRvSmpROEhhMzRUVTh2QUM4dmlKc2pzVFBRLTU2N2h2Q0Z0a1hlVmR3WTMy?oc=5",
-      "source": "tw.news.yahoo.com",
+      "source": "Yahoo新聞",
       "published_at": "2026-09-21T03:14:52+00:00"
-    },
-    {
-      "title": "2492 華新科- 走勢，指標及均線- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41QThMdTQ3MUtXQXBHQWlta2hNdnF3MGstUHpEMDlKWHFyaWtSQmZMTUNiZnhIUXkyLTEzbHNfaFB1cFNzaXJqSUtJT3ozX29OTUJtZGIwamc?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-19T02:29:43+00:00"
-    },
-    {
-      "title": "2492 華新科 - 只有崩盤這條路。 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hZlV4ZWtIRDVzdllwRktNT1pYRS1EdTN0SVVxVVdmeFRfZmZWQ1czaFZxOEFyZ19hR0pXb3M1eXhHY3lPaGpZU0RFeXBoSnRZN3g5anM5S0Y?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-18T02:18:44+00:00"
     },
     {
       "title": "熱門股》無畏處置 華新科挑戰前高",
@@ -30,27 +60,15 @@
       "published_at": "2026-09-17T20:40:34+00:00"
     },
     {
-      "title": "華新科年底目標價：600",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTYUpMenZsMGNHdFUtNXZTWHZpREFtdlhGRFM0MFphT19qNGN0bmdZN2xYczZaRGswM3hsZVdmX2NWVnFNSXI4bFVKM09uek9hOGJvdUFNTFo?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-17T07:36:46+00:00"
-    },
-    {
-      "title": "2492 華新科- 知道股性差，很溫吞的股票，不受人喜愛的一檔- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSTGNPQ3FnWHpkNjRnNFM0d0ptdWJCYm11aS01NzRFbzRWRk42TnM3ak8xVmduWWc2TFA3RUZGb1lxWWdIR0R2TVpxTzRNUnFUUUI1RkZ6ZGg?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-16T06:53:54+00:00"
-    },
-    {
-      "title": "Q2獲利暴增109%股價飆史高！「LED封裝大廠」65%玩當沖卻崩7.98%淪韭菜華新科、友達陪榜",
-      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNNmt1dWpvSEFYbE1hV0NBQmh0ak51N0hUUzNoTEJpcklBaXRTSFZaenR2NUZwbW05REpjX0pYOXI3Mlp1bFl0a2VkbG9qa25TOWFGTE1wd0ZFbHE3NHMxWjVMTHpiSUVYMlE0d19iOXRXOHIzRF9aOWxZdGw5LVZEbmhHYkpvYThvbFBkQ3ZPNWkzOTctbEI0MkNjVlZLOTdjNGtmeFBGTUx5MUIwUGVObmJJVms3UU9EMUY4NFJmTkxTME5RVzNYNW55TG51YUVfNmRieWg1Qk5XYXhLR21GU2hGeWVvRUJ1a0k3aHVVNnQ3NENHWHRrem1HaHlaZFZjQ2w4RDVVbFhvRGU5aWQ5U09qaHBEUEhYWHNwUl92a3JMYTYwN3lYc3RkQTVSYUxncGVtU0hET1Q0U29QVTBxSE56bUVRRmM?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-14T00:28:37+00:00"
-    },
-    {
       "title": "被動元件綠光罩頂！禾伸堂、華新科、金山電全殺破6% 惟「這檔」連拉2根漲停",
       "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPSXd5RGRTYkpZSVpWOE9PeHdENnZxRjktejAzM2ZuNks3VjVGXy1maGpRbkViQWs1M3oxcnNkTEQ4dGdXNTZQTDc4MnRQN25Fb2xWbHMza2JWNTNxazVKUWw0VkdpUjI5VGJzZDRENHlqOGdiYjAzOWMxVG9LMHdJUXdYLVQySERxeDV3eklkWjV1bVRKS0VOYzhjeTQ1bWIyVWtzSV9vaXFKY3lfWk1wcjktM1piczRtZW96S0p4X0FnSEMwbGZoMk95QU1lY0ZYRkRoT2I4Ry16Q1o5dUZXN1U5VU1sbFdicklncWRralhvdGRJZG56MUNuaXV6QUpCV2FKdE82NXBpRW80XzA4eFZDR3c2cmd4REhZWmxGNlhFOERWTEdmQXlvUzU2cEwxazgtQTdvRm53M1g4Zi1HZkNLYkVmMzROUEljcktwdXREN09uMFl4TG1UU29Tdw?oc=5",
       "source": "Yahoo股市",
+      "published_at": "2026-09-11T07:00:00+00:00"
+    },
+    {
+      "title": "國巨、華新科 認購亮眼",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PRXlNMXBXOUoxZDJEUHRaZG4zNEZSclBwWkNsc0YtNV9aVTlGZzFBb0t6cmNUS0N0OFBDTkhKY0tkZXNRT0NjcWMtR2xyUjdo0gFWQVVfeXFMUFJsT0x0OE8wVU1GcEdjbUZ5Z3lnZjBtQ256ZWo5VUQzYlNnV0RHbDdyU1VMaXNoTDJjZEg5NFh1YmszZVhPQUpyRzRFUE5TQjdqQzRyVHc?oc=5",
+      "source": "udn.com",
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
@@ -58,24 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9zMVpWeWFfQnN5WElHSTVxS2dQMWN4a0F6LVZVMXNJNDFHdkNuOFBwU0pGNzVCajRDRE5hVnNfT2QyTkNEUXVsUjlqVUZ5YW1zVjRHbFJCejY?oc=5",
       "source": "自由時報",
       "published_at": "2026-09-10T13:45:59+00:00"
-    },
-    {
-      "title": "村田停產部分MLCC！ 信昌電衝漲停 國巨、華新科急拉黑翻紅",
-      "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQa2gzcGFFVG8yTUl3c2lVSXc5bEtkZGNtc2lVYmlSN0R3RXlab1ZOZlE3QldZSW5ZakVnYkRMZThJa3FpMm0xaVI0VzVZZ2xUN25qTUY1ck1uNjBNSVZ1YVVTNkhuMXZqaGRNbUxXcUVuOGs0NklodzJVNWExZ25kNUxNUER1MHNFdjIxWTVGVTg0X0t1NDhSMUkxc2F6M1BsUy1ZRFdDeEg5amlBZ3hKanI4TEh0NktrMFM3WXNoVDRRMUxDcUNXSFF0cG8zRXRfamloQ0JFM0RqQVhOUUYxU2JHbG9BVmdCZGkwcGFLWFFPbU1zZWRtY0lyOF9HMnJPcDM4Z1R1ekhILW5JOUgyZjZ5R0dILXVZa05TNTFZSzJDQ0Y2RFk1R0xidEVrQkdXSkVVWTNoRVp3TjY0RlJEb1UzUjFKNS1ESDQ0U29kV3hlTGxkS3lQSFd6TmE0cG40ZVI3OHJwSzg5Q1Jk?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-10T07:00:00+00:00"
-    },
-    {
-      "title": "【12:57 即時新聞】華新科(2492)股價走強至326.5元，上漲2.19%，8月營收寫近八年新高＋站穩中短期均線、多頭結構延續",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaTZxZV9qS3NocEw1RXJBX0twVmpsVjJaMkRTbVFQYWFZc2Y0cjVvOW1CWU1BdmJLOWt3WExXVzQ0T2V2d2ltVHVSMkQ4ZXM4VWh2ajBoUWExVmRTN1gwSlZfTkZCSmR2VXFRd1ZBMk5Rc0pxSDBTVUVvMXFFQkRSdk9NbTFBUlpSUGJlV0xn?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-10T07:00:00+00:00"
-    },
-    {
-      "title": "台股雷達│光罩、華新科帶量上攻新日興重摔竟和蘋果摺疊新機有關？原因一次看- 證券",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9YakZqejlhbDdSbUR6d3dMUG5YN3VnRkE1RklPNDM1NGRmcG41S29TWk1Belc5YWRnNkJBbmdsRVF1Qk5VWjdDVFJ6TmhiV1loRGhzUXJIZm0xYkxIZS1V?oc=5",
-      "source": "工商時報",
-      "published_at": "2026-09-10T07:00:00+00:00"
     }
   ]
 }

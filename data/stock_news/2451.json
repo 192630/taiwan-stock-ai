@@ -1,21 +1,39 @@
 {
-  "updated_at": "2026-09-21T15:36:04.073083+08:00",
+  "updated_at": "2026-09-23T17:34:56.561116+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2451",
   "name": "創見",
   "count": 12,
   "news": [
     {
+      "title": "2451 創見 - 創見擴充嵌入式鏡頭模組陣容加速Edge AI視覺應用- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81NnZ1Nm1LTlliaTlJTFZaRTh2cElwYV9BU3VuQ21xR3oyTDZyUTBJeWVESE40UlJhem51UFpsTmsxRWF1V0VzYm5xYmE4YXk2bzBVRmFQclc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T07:11:42+00:00"
+    },
+    {
+      "title": "2395 研華 - 創見擴充嵌入式鏡頭模組陣容攜研華加速Edge AI 視覺應用- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wVHNDcXlQVHd3blgwcXQwbVdyYm9mT3lBVkk0SVNrQm1hdy1xODlRcTQ5WXp2WWJrWUV0MExVRWU0U1FtSXVHb1VuY1hxV3czNW8yM1Q2TnY?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T03:44:59+00:00"
+    },
+    {
+      "title": "創見推2款嵌入式鏡頭 攜手研華搶AI辨識商機",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5NRmpYbndKbTNwaDNaYzV4aFZuWHpsemVxZTRYQTVpY1BSTEdTMnRXTmtSTjJ2OHU5TW1FdmItOWRPS3ZGTmJnY3ExOA?oc=5",
+      "source": "鉅亨網",
+      "published_at": "2026-09-23T03:05:08+00:00"
+    },
+    {
+      "title": "創見推兩款嵌入式鏡頭模組 攜手研華搶攻AI視覺辨識商機",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93TUJzNGpiTzdaV29ZY0YtdmtPSWpFcVZudkhocFZVVUJ3UE51ZXpDeV9BTllSNGFRZllzZmpJV09MY3dsdzlnWVdxbWtrc2lqVjRsUHJscjI?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-22T16:46:00+00:00"
+    },
+    {
       "title": "2.4萬股民注意！00904換血2進2出 矽晶圓三雄「這檔」領萬潤強勢卡位、創見、頎邦慘被踢除",
       "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNMHhWSHJFSkxsY084eEROV3FRQVVRRnJkSThWMlZKWjlkNFJrUWRDUmZmemxLbzZxYnVlTHd4YjBhMUtXWTVycDNZNGdFMVRQbXFmblBPQi04dTJFNjhjMF9rYVRGbENhb0xGZkFfU3c2YTNKYjdEWnhuZU5DaGRoS3hNZTJNOF9Bdl9mMEI5eC1Pdk9mVHlVN0FuSFdtLTN6QUpKNWd5RmhrZDBkU1ZsZXlZbWlaaDlRVHNuZHJueXQ4VFFZbHNOcDNJT2UtLUlWSnQtLUdZVWtXMzV2SE9JdG1pMko3TzJuWVBpb2RJLXY5bTJYVUtqam4zSGtNZzB0djdZOUJSMy1yNzVoSlA5dkVXSXJJMVZOeWZScXNvQk9VRTdwQnRIX1pVaDg?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-16T10:45:00+00:00"
-    },
-    {
-      "title": "創見 (2451) 推64GB DDR5工規記憶體，7家預估藏什麼訊號？-哲翰科技戰情室",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcEIzclVSbEV1YzNBVHJiNGxLaUVWRmxlWGJKS1poRl9RcWkzNXNqUERVT3ZhYzhPTFNnaHc5RVZ4bkVUNXZvbmhuNlFYU1BPOEVFMVdhWjJqdHluQlFrRlRhN1cxODg2QWs1M2o5bVNXdU1oZmc4X092RjgxUFJqSEJ5Yw?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-14T11:26:45+00:00"
     },
     {
       "title": "創見攻高速運算 推64GB工業用DDR5",
@@ -27,7 +45,7 @@
       "title": "2451 創見 - 明天看起來無一幸免！ 恐懼指數也尚未到底部 VIX指數也還沒... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2ZzZjcjVfQ2xaU0FNLWczNnNpQzZjdngzcTNCcmk5eHNHRmhZNEVVODdVWHlvZzF3cTdvbHM5TWRFOVRBSkJUMkFDOFBmZi1BajV2Qm1KZmE?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-10T14:01:11+00:00"
+      "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
       "title": "8477 創業家- 創業家115年8月營收2451萬、年減3.78% - 股市爆料同學會",
@@ -36,9 +54,9 @@
       "published_at": "2026-09-09T02:58:01+00:00"
     },
     {
-      "title": "創見營收／8月48.4億元 較去年同期成長275%",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12WDlpejY1NkJtS2ZQX1pab2g0a1hlaDhKX0lGWk5vd0pNTlFrVG9ZSHIzMDg1Vi1wenpTVkcyXzByLWFhTTR6RGJ0TjFvQ00z0gFWQVVfeXFMTV9IVjZYdHpxdE9rYm15OGI5TDlacEJGaEhaQ3hGNlNiMkEtVXZiUEx6YzJIaHN3RjBIeVZzeHV2SVFiZGhQVjRQVld3SVdseVVuNkpOSnc?oc=5",
-      "source": "UDN",
+      "title": "創見(2451)8月營收年增275% 庫存與供貨能力放大記憶體漲價效應",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FdmFMaDVfdm5uZkl3bVotbUNLU290WGJKajQxU3RfX2ozXzJBRk01b3k0N0J2aVJtMEFVb3JuZnBzRGJtMnJhTHhQZFgwYWM?oc=5",
+      "source": "news.cnyes.com",
       "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
@@ -48,9 +66,9 @@
       "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
-      "title": "【2026/08月營收公告】創見(2451) 八月營收48.37億元，年增275.47%-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOanRLdENxUGc3SXhaazlMancxWW9sQlZiczk2RThibmdrYjZweDl6MEx0REQxaFhLOGpyal9scU02RE9rR1d5dGoyRklSZjliTFBxc1dXZ3VxZFNVZzNxNUt3dUo1LXp0MEs1b3NrOGM4NVVDZUp6M3I3RlhLc1dTQ2E5Nms1emxXTkE?oc=5",
-      "source": "CMoney投資網誌",
+      "title": "創見8月營收創同期高！累計前8月年增384% 同步寫新猷| 產經",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPanZaUjRGRHBzcXpqcTlvMHNvX21EUlVsR1A2RDU1d0JPaGFCU2VfZjZpV2lTdDhybi1UWU1CMDBqWFVaRU9HUE9qUk1KVGpMY3JWZVQ5U1Zfd0ZmYm9CdUVBNU5aRm93RTZhbTNzLVEwR3ZFRlB0NWdUZVJqRlhua3piMlV2U2t5d3M5RXJaaHJtdjRiV2dNcW9ENjZDZw?oc=5",
+      "source": "非凡新聞台",
       "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
@@ -58,24 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zOFl4bnRxNmxPMFlfZXpyai1QZmxnMUM4b3N4YTFmTmlVWEdTUl9qaFhQN1lzYmtWaVRrQUxXSnlKTjZ0LTBiVTdTd3Q0ZExnUTZYSDctYmo?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-01T07:00:00+00:00"
-    },
-    {
-      "title": "貿協率華碩、創見登史國參展 展現AI與綠色農業助攻非洲市場",
-      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxOTWFzWklZSXFWSGVyLXdTdHVMZHRURHZxWGJxQXlBbWV0TzhvLUU0TUR1TnRWWUVTZTYyZ0ZtMkY4OWR1a1J4dURGT3hBZzBNUXdHNk45cXROMmVaMGdUUjh6NjdRNXQxV1JJSXB5Ynp5OFU2RExiLXVIbDU5WENJQk5FZExObW1RWGlqa01TVEN4enpVUm5zajhLUWI0RklFSEVFWVRmTzFVbUZFMUZhUVd1X2hxQUpWUkRNXzMwczlQRGdXLWM4SUhJS3JqSW82VmpLYVNKa0NCekZldVVnUWNpS0dyRjN4dE9HWTYzcUJidElMMjVyRnFnQ1B0TlVkTWRPa2wtbDZSQ212OVBPWkNjSHdxWTVMa0JrT1prbnBsdmlqai1GRUN6V2F3QV9mN1JzUVlCTjdSQlNrLVJXT3NNRU8tUWpCMVZOREpyUGhydWJFdjh4X1A5TDU4aHZ5Y1p2emp4d18wX1ZSSkNUYnVpUDNMSnV1V3ZBbmM5VDliZVhxRFF1eEh5Q3U?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-08-31T07:00:00+00:00"
-    },
-    {
-      "title": "3260 威剛- 創見、威剛四檔有看頭- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40ZkMzanRLbkhLWW5ZLU5UeVU1czJwcjEwWGJRUnU1UHJhTENBc3ZIak9PREFONjFVUjNDZVFjQ292UTJ1QV9vWGdpZHVqRXI2WllzR2IxQ1Q?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-31T07:00:00+00:00"
-    },
-    {
-      "title": "台股止跌「記憶體」沒跟上！創見、威剛、晶豪科重摔超過4% 「DRAM雙雄」尾盤由黑翻紅",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNcmR2eHpWNUgzeHZxNXlTMmZIdkVKbER5S2VORHgzSHRZb01tYXVpLTktUUJmbWtmdXhnM0pyVGttRVBkbVF4a0VVdFJndzBZRDBocjczdHNrd2VXc190eXZQYVNDYmRTTUVWc0ZoMllBSjJST0JuTHZRUllMa3REX3dHSk5BSERCNEY1Um1ydnM3bngyZGhWQjBxWDdKbVR3VS1md21xZHJ4V3BUZ0thRHJMMEdsMEZjZnJXVk5BUFZadU9GN3NFLTRsWFp3a0t1NGVYaWxGZnFXZE5UUnNEdDg5dE9zRUhfbU5PNDFfVzc0SHlLYmR1RmJ6Uzg5b2RWOE1zQk5nVUI?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-08-25T07:00:00+00:00"
     }
   ]
 }

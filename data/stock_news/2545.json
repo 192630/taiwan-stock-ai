@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-22T17:33:38.258768+08:00",
+  "updated_at": "2026-09-23T17:35:22.508816+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2545",
   "name": "皇翔",
-  "count": 10,
+  "count": 8,
   "news": [
+    {
+      "title": "個股：皇翔(2545)9/22取得聯發科股票157張，每股均價5,322.24元",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWTZrdUdPQlExb0NXT0dHUU40cXFadHYyT1psV0RyVmJlSDZyR0lXSW9lS0pLT25CZXZfa3ZFTGVkUFZvamowRnNLWDQ2ejVRREZMcl9JaVA1c3Q2UloxVGdtUnhFaXNiS0gtdU12MkpaWURkY0dqaFpHckJURGtsNExITlUtUkJa?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-22T23:07:00+00:00"
+    },
     {
       "title": "個股：皇翔(2545)9/17～9/21取得聯發科股票111張，每股均價4,804.80元",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV0JjOUx2V3kxSXQ4a3VDM09SRzk4ZFY3X0lSM2V1OURPSE5rV3U1VW5PMVVReHlIVWVvWnQtcmVJb240X256MENKTjNWYTk5WXBsbWNKbWpBcUotM1BtUE5YYktleGZYcmRjRGlFeFB2ZFVaN3ZudUdPU3NiM2Z1NnhNOVd5VnhB?oc=5",
       "source": "富聯網",
       "published_at": "2026-09-21T23:05:00+00:00"
+    },
+    {
+      "title": "不蓋房子當股神？買台積電大賺7.7億 皇翔鬆口：將隨「1件事」調整",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1LVExENFRhV01pVWlyLUxRUkt3ZmlueHEycDc3R0VFZ0dqRTNrSW1CdkJzZ1J4RmhtYmUwWG8yWFNjRHhtWGtIZNIBTEFVX3lxTE44Tm1CMXBzYTlYNUxYLWU0OUc3QWw3a3hGWjd4NWxzWktnMElnM1JWUlBTRXVhLWhxSW02emM5dGFWSHFzZ3ZlNnB1MXI?oc=5",
+      "source": "三立新聞",
+      "published_at": "2026-09-21T12:31:59+00:00"
     },
     {
       "title": "個股：皇翔(2545)9/18處分聯發科股票115張，獲利約245萬元",
@@ -18,34 +30,10 @@
       "published_at": "2026-09-20T23:04:00+00:00"
     },
     {
-      "title": "不蓋房子當股神？買台積電大賺7.7億 皇翔鬆口：將隨「1件事」調整",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1LVExENFRhV01pVWlyLUxRUkt3ZmlueHEycDc3R0VFZ0dqRTNrSW1CdkJzZ1J4RmhtYmUwWG8yWFNjRHhtWGtIZNIBTEFVX3lxTE44Tm1CMXBzYTlYNUxYLWU0OUc3QWw3a3hGWjd4NWxzWktnMElnM1JWUlBTRXVhLWhxSW02emM5dGFWSHFzZ3ZlNnB1MXI?oc=5",
-      "source": "三立新聞",
-      "published_at": "2026-09-20T16:54:17+00:00"
-    },
-    {
       "title": "個股：皇翔(2545)9/4～9/17處分聯發科股票66張，獲利1223萬元",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMXpBRmFFZE1HdWNVQXRCRkJ3N2JFaVBESWM2SmdoUTdCM2t1VHZyeVlzQjlBaWtjdTFDM25XdGR5VHlLQXp0YWtjRm16OHVzRlRPVXQweFF5cllyX3NQNTF4aWpnZDIyRFFlUmR3eG5GMkJwSkJhaFQ5alRtcnBtb3BvY2c3alF5?oc=5",
       "source": "富聯網",
       "published_at": "2026-09-17T23:07:00+00:00"
-    },
-    {
-      "title": "個股：皇翔(2545)8/14～9/15取得台達電股票185張，每股均價1,759.73元",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQUpPcTRfaFo5bFJDU0JXV3pGcDFSSjBIZUZ6bFlaWkN5SDJERU8wYTNjUHZndEdYZVNudVlGaGtPdnJZNmhnc0lySnZ2Y0hUTHo1eFcxcXVsSkduclRJSkZpV1pROUR2QThTMWpkMTdlLWxadUI0MWhKSHlDZEJDc2pFYXgyRHJP?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-15T23:02:00+00:00"
-    },
-    {
-      "title": "個股：皇翔(2545)6/30～9/15處分台達電股票180張，損失6359萬元",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRV9XbUEwUkktSnFUMzV1TlQ3cjJVcDhrLWxnWV8zMmtMd25ZUFFMdnU0SXp2NU5scVpCaFpLOWViX1VqNkxUSjV1MzM5d3ZPc3YxT1RSQlF2dmNKTkxkeWVFanpNdFQyN3FmZVZpRE5veS1Ha21MS1NicDNHOFExOFQwWEVYSWIy?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-15T23:02:00+00:00"
-    },
-    {
-      "title": "皇翔下午5點舉行重訊",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DT1A4X01GdjVUajM2ckN2R1pRUDZEX0ZUMnFha1V1MXFmM0JXazlmbWNBMTVSM2NqTmJIR0V4M2o5UTVBdEVtRVJxN0lFVW02RHJJSW1mNGNTZ9IBX0FVX3lxTE4tMDJvSmJjeWFDQjkyRUh2WERxMF81Q0dhcnpxcUxESmhESWh6TkVqT0xqTkl5ZGFvaUQ1blREc0NXSWpLaTFkNFpvc1B2ZVh1NGt3UXhXaWZ3c21YRnk0?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
       "title": "聯發科漲停後再飆4565元！皇翔175張「砍在低點」 1475萬沒了",
@@ -54,14 +42,14 @@
       "published_at": "2026-09-02T07:00:00+00:00"
     },
     {
-      "title": "最大韭菜？聯發科漲停前 皇翔建設處分175張、損失1,475萬元",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vMld4V2hCdVNCdUxZcWJuSVduUHk2X0ZiUVBsYVhkenE4azhIMXBpLUNtRy1CMjgxYVpDQ3lDLXJOdjdRbWRXQmlDT3dSekhuUlh3S0hVZHVuUdIBX0FVX3lxTFBZbTBWMm04NWZ3S3MzNW1PVGRhajZweERfeU1ma1BTWDhHSE50QndnY2ZoenM2UmpjalFTTWJNTXA2OG84REYxNk9IZlhEdDVnMzg3RHdwc0Q2QXVFVnNJ?oc=5",
+      "title": "皇翔賣聯發科股票",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vcTNodWZrZEhfNkljUlBwdE9DdHg3RHNrX01DbnM5R1VSU0trWDFWWHlwTTFESE42R0tQcUQ5OEE1VnRJeXFLa3lBd3pnaVFXRWdlbEhXYXN2UdIBX0FVX3lxTFBrcUpLaklGMUJsRHFmOVRVd0EzX0FKaHNrTUFSOUppdjNrTzFBaWVpbldWWXNuQnFPVXYtX1NQM19sbXViZUNwMkhDTk53ZnFjWHhLZGR2ZHV0UHFtYWRv?oc=5",
       "source": "經濟日報",
       "published_at": "2026-09-01T07:00:00+00:00"
     },
     {
-      "title": "皇翔賣聯發科股票",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vcTNodWZrZEhfNkljUlBwdE9DdHg3RHNrX01DbnM5R1VSU0trWDFWWHlwTTFESE42R0tQcUQ5OEE1VnRJeXFLa3lBd3pnaVFXRWdlbEhXYXN2UdIBX0FVX3lxTFBrcUpLaklGMUJsRHFmOVRVd0EzX0FKaHNrTUFSOUppdjNrTzFBaWVpbldWWXNuQnFPVXYtX1NQM19sbXViZUNwMkhDTk53ZnFjWHhLZGR2ZHV0UHFtYWRv?oc=5",
+      "title": "最大韭菜？聯發科漲停前 皇翔建設處分175張、損失1,475萬元",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vMld4V2hCdVNCdUxZcWJuSVduUHk2X0ZiUVBsYVhkenE4azhIMXBpLUNtRy1CMjgxYVpDQ3lDLXJOdjdRbWRXQmlDT3dSekhuUlh3S0hVZHVuUdIBX0FVX3lxTFBZbTBWMm04NWZ3S3MzNW1PVGRhajZweERfeU1ma1BTWDhHSE50QndnY2ZoenM2UmpjalFTTWJNTXA2OG84REYxNk9IZlhEdDVnMzg3RHdwc0Q2QXVFVnNJ?oc=5",
       "source": "經濟日報",
       "published_at": "2026-09-01T07:00:00+00:00"
     }

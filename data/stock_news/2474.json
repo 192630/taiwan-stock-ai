@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-21T15:36:12.257068+08:00",
+  "updated_at": "2026-09-23T17:35:03.737080+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2474",
   "name": "可成",
   "count": 12,
   "news": [
+    {
+      "title": "《其他電》可成買回庫藏股88.5萬股 每股均價211.61元",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVlNZcno5RmVIbVFHTXFVd2NoclFBTm1tSVlrM05kQS1sRlJVaUVFM05tMkw1TnBrRjRZVVNQSFJ2MXFkNjdPUW02aGpYOVpTcHZUeV9DU2tybUs2SXZ5Q1B2SUNaUHpvTlhXbVl2cUpwQW51Vml5TmdXWTBEczBhaXNTd3Y1czlF?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-21T08:16:00+00:00"
+    },
     {
       "title": "可成明年營運估返成長，轉型效益逐步顯現",
       "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxONFJaNTQ0SmUzUFRfWHVFdzVkWk1ZRG93X1k3WDlRTHFLcnlsOEd0bFlpVzcxeDM1b21RQk92S3k5MFl6RDFHaGVpOElzYVc2Z0FIN0FrN0wzd081YmpCWkVNSFdkOG5LczFNTThJNFUzZ1dHOHA2RmlCTVloMDBQQlBJaXlvSW9QNEtBeVEzYzdrRTdtRFdoWjlBdDBQWW5qRjBNUnR2N0ZqdklmSFZmQldsS1JGb1l2OHhLOFBJYnZxMlpKQlZHY3BCVmdfVlUxRjlLbnJTbk1MYUR1dTg0V2FjTjZHTlM5d2tmZjQ1WmhTTGpZeWozMVFkajcyWEZBLV9BYktuaVZ3aFJuX19SX0VlWjctdXg5bk0yemx1OGxHTnJmM3VDUU1xWS0wLUNGUlpuaw?oc=5",
@@ -16,18 +22,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5ZjRRdkV6UjQ2LXlGZWM0cHA2OUZtSHVJaktlV1JnNmtmTklTWEdRSG13X0Vjbk1vMV94VGNmQTZiSVo3R3B1WGxTUGZoaXhkc2JtZ0VjSVc?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-21T03:45:59+00:00"
-    },
-    {
-      "title": "寶可夢卡也能「看盤」 創投專家：末日時可成全球貨幣",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92azlWZUhmRC1wZlk0Zl8zWDRWNVBnbS1ZeTBRVEswS1JfUkJtRHRxcjBfNmJtNWVrUExwV0lyRm9Md0VIQ0ZOc1A5eVNuVk8tVkxhcXRHV0Fuc2pqRXo2bXp2VFlaVWPSAWdBVV95cUxPdms5VmVIZkQtcGZZNGZfM1g0VjVQZ20tWXkwUVRLMEtSX1JCbUR0cXIwXzZibTVla1BMcFdJckZvTHdFSENGTnNQOXlTblZPLVZMYXF0R1dBbnNqakV6Nm16dlRZWlVj?oc=5",
-      "source": "世界新聞網",
-      "published_at": "2026-09-18T06:19:00+00:00"
-    },
-    {
-      "title": "【優分析即時新聞】可成(2474)7月營收月增31.3%，AI伺服器放量帶動占比衝雙位數，筆電本業谷底更深",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xTU96QUIzYVNhZWV3clV6NUJpWXhWTy1SajVBTnBZbXVBUjhyWWNMOWNLOUdRRUxWVTF5TVlveEVuZjQyMkJKdmFJYw?oc=5",
-      "source": "鉅亨網",
-      "published_at": "2026-09-18T03:30:05+00:00"
     },
     {
       "title": "涉內線獲利千萬！可成董座洪水樹家族獲不起訴 高檢署發回續查",
@@ -48,12 +42,6 @@
       "published_at": "2026-09-16T16:17:30+00:00"
     },
     {
-      "title": "【公告】可成買回股份金額達新台幣三億元以上",
-      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQZHNWWFp3bDd4WEtKWGpBdXhNRGNvenZveE9SZFNCYjhLYzVlNEFpd1lpYzM0NFg4WHRmSWpkZUhTWVlCWklIN3ZuMUhTVzhrSVREcktRNFhLZE8wYzBfdjlXSnFhRVBqM0dkR0haWmlsSndJd1R6d3NvMDdHY0hJX2o0MlF4WjhFQ01ucmNKNjVaRGYtUDRuV01SYTJsTDBlWk9rdnhVSXVXU0tmMDI1Z0t5NVFpd1k4R0xaN0dLLXdzeHc2QTNaZVNGWTdyMzNrQTc5UUUwQ1pneE42R2xBVHBsRkZWalZFSnFGMnU5Q2Q1TE5HS3FVTjUxaTFKbnVFdUZZTElxWEcwUE8tblJjNVpNV2xneHRtX3ZzalFISlcxV1lGWmdGeUdFS21XVTl1ZWppSGNsa004ZW9TdTBOZA?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-16T09:05:44+00:00"
-    },
-    {
       "title": "2474 可成 - 外資 賣賣賣超級賣 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3WFRTaUJxYS1FVHREYmlqZnFEZlJ1MGtPbmZBbzc1ZUNPNzFyLVFhUzZON254MHN4OVJBM3FKV1pWR1llTW5QV1JMUmNRNE85Ry1xTXcxcmY?oc=5",
       "source": "CMoney",
@@ -69,13 +57,25 @@
       "title": "營益率暴跌到、8月營收慘崩！可成本業大縮水，為何帳上竟躺著千億巨款、狂掃萬張庫藏股？",
       "url": "https://news.google.com/rss/articles/CBMivgRBVV95cUxQVkRhWS1PX0NmRDZoOWpjVkphUzREYnhNTXdoNFB3TGY0T2FvYXR2QnFCQWFWRE45MzNfR0VxOFFZdy10ZDhHRkNMOE1zc0J0N0U0TFB0U2R5NEh0M19JX0dOeW1JMzdpTGplX0NVbHpVYVA2LW8yNlFvdnZUQVROaHpTaV94LXZoNXlXaEx5N0pXLTI4c1NmOU53YktjYk1CZ0l0eWJRZzhkVUNEc1A2NENYcEE5QWMwQ1YzZ1FYdEs3QTVHVGwyME1QeUY5eFpWSUR5b2gtdEhBYXJJSlY4ODV3allJaHVwTnJKQ1ZpdmZKbWY5Z0p4LTJ5RHV6M3hWdklGWGRjOWRUN1dDdTdXY0Ntc3JVbmFVeVRPbm1TUTlzLUsxVGV1X05paWtndGhMdHJoeGVWMHhFbnJVMmtON2RJQzdCQWlubHdGNTNWSmJ3TG0tSzRMWkUyNXBCczlaLXktQkJqQTNEZ0xhbVNrQ2NGOGVWY0pYYnVQdkkxYy1XV2F4RHFXemM1U3djanQyb0ZvZ3BHbVh6V3NRbWZLOVNmMHR2RjBZR1ViQzlhYllHZ0lMN1NkS3hzMFdGMkNVNENrd1ZabmJ0Z1BkTDg0T3BPb056STdHaUpQdnJDbHdBcDVhOVZic0RXdzZzeEpzV1hhcS1SOU1aa3g2Zkw5LXRodzRWd2ZVTlJwNE5fZFd3Ykk0UUt6RjV2M256MDBxdzU1TGxDY3VtUmxsNWtqS25VVWxnWTFIcUNCcGFB?oc=5",
       "source": "台灣好新聞",
-      "published_at": "2026-09-14T10:46:15+00:00"
+      "published_at": "2026-09-14T07:00:00+00:00"
     },
     {
-      "title": "2474 可成 - 欸～這麼爛竟然沒掉多少 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vV0RIaVlDTzF0TWNkNTFYOVNsRHo1Zzh1SmRheHhsbzN1U0tnRWJrMEVabkpIUl9kcWJEcldLNkpETFFKUkZqdUU4cDFXcFN3dTR3RzdnY2g?oc=5",
+      "title": "1999美元？年輕人沒在怕！iPhone Duo靠「自拍神器」可成Z世代新寵",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPUUJURkVaSTNqVGdoZUNwNUtXR3FWazFIZTEwNFo2bEVVWGZaYmVqN0UteldGQU03QTRaMHJsWWQycjZUel9QMWh6SUNZeThpeE03Sk9QVXhiZ2FWVXBZWHlSR0EtZ3pCRDRGT012cHl5TE9yS1JsTXJZWTZ3aVNFM0NBRXotallkUTA3eGJhVFJSS1JYOWlyVlkwVVQxYjRkaUx5dzFiZ3J5QldFTTBXc0l1UUdiMC1SWThqYTlDNi1lN3d4OEpROGZ1TTJ3RVFCdFdKSFU1czFUVm5QaHVBRV9ybzd0eE5teEMxYk5URlk0MzNZTUFPWlVXOTVZbHZNdWpyWWFTdG44cjZNSDJOVw?oc=5",
+      "source": "Yahoo 財經",
+      "published_at": "2026-09-10T07:00:00+00:00"
+    },
+    {
+      "title": "2474 可成- 可成公布8月營收，9/8成交量觀察- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvdllDY3h0Q3dwU0FpUmluQUZnWnRqQU5zVlVJTml0YjVTWm5JdjVGLTZiUWNjOGp5b3UzSGtURjVpdFpPUnY4UWxQOVowSVQzdDRybmw2Wm0?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-12T01:54:12+00:00"
+      "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
+      "title": "〈焦點股〉可成8月營收10億元年減4成 臉綠失守月線關",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55R240V3pzYVBNX3FfVkI1WjBUck5mdU5ucWt5SjA2MmtDS1l2RXhodGliM1ZqamlOSXBicUZUc1owbU94UXpqbjJOVTQxemc?oc=5",
+      "source": "news.cnyes.com",
+      "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]
 }

@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-21T16:35:19.927013+08:00",
+  "updated_at": "2026-09-23T17:35:15.209397+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2514",
   "name": "龍邦",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "龍邦戰「驚見鼠跑壘」！遭球僮無情夾殺 網幫QQ：好不容易上一軍",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NdkNDVXZHUUVXcVQyUDVkRExkZzdBM1M3amJEYTF4cVFvdllkZHNNRm9LWW5GNGxfcGlKRnpwUU92Y0ZfenZoM2h1Y3dELVc4NE1pZWZ2X2xqUWxXeHfSAUtBVV95cUxQbktLTjAzT1FneW5faGFvc2ZveVNCNmd0M2ZYZ0RQY3RoNDVDNFJYdWdOV2V6WVJxR090M3QzM2k1dVV5R1FVTHc1Z2s?oc=5",
+      "source": "ETtoday新聞雲",
+      "published_at": "2026-09-10T07:00:00+00:00"
+    }
+  ]
 }

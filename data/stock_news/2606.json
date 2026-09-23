@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-22T17:33:42.963808+08:00",
+  "updated_at": "2026-09-23T17:35:26.522972+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2606",
   "name": "裕民",
   "count": 12,
   "news": [
-    {
-      "title": "裕民(2606) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8ySDBmXzhKVGxXTk8wWjB2NEtqYjhhWGxOay1NbmNfVDlPOGZ5cDJwSUs1NXgwVXdaRWFENEN2MGtidndBQ05QMGNGZFZKYjlpUWZN?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-22T09:04:18+00:00"
-    },
     {
       "title": "2605 新興 - 新興是台灣唯一VLCC現貨船營運而裕民與中航長約4-5萬美元- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ReDlyeDI4YTNUUjFRc1FoWW9xd0RoVUpRSEkyY0ZOaVlvc0QtOWtPMWlzQmZ0WlFtMkpoaXN5SHh5UXQ4Ykd6WU83bVBwNXJFSjRfdGt0c1o?oc=5",
@@ -48,34 +42,40 @@
       "published_at": "2026-09-16T08:40:41+00:00"
     },
     {
-      "title": "2606 裕民- 海岬型日租金強，裕民受惠營運看旺- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1selZLUENsODRCcXdhbnNuUTRhQ0hGVGpaYzYwZW41bmF3NDBRQ1pIcERnd2xORnFBQW1rS21NUjYteTMzYWtkZEd6aTFVdDd3cVF3bVFoMTE?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-14T05:21:07+00:00"
-    },
-    {
-      "title": "【優分析即時新聞】裕民(2606)第二季獲利年增逾2倍創16年新高，美伊戰事燃煤替代效應撐盤",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uNnBWRzJiV0thREl4ekQzRjJaU0YtSWY0WWc3ZUo5X0l3ay02S19zMklZUl92bFpacnMyeUppcDNtVVJRU0kzMXhTMEVGems?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-09-14T04:30:05+00:00"
-    },
-    {
       "title": "裕民8月營收17.32億元、年增18.16% 高運價反應在10月",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CWEJ5aFRyVGk3NVdBXzBwRVhMSDcxUHliQVA3OFhHbDVId2MzQTFkMGQzbkdrNHRHZEdqOEVMS0hza1pVbHJEVjkteVpjdDA0cVHSAVBBVV95cUxOTE95c012WGM0cEJUaERQNVN3NHQ4WXpRM2hjV2pVb1ZtbTlQTTVfcloyNkpHSWZzd2hQR2tidWlOb1lZTkdPSXpwR3I3aVJ2aQ?oc=5",
       "source": "ETtoday財經雲",
       "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
-      "title": "2606 裕民 - 唉唷！ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mbDFDSkdodUFIZlJvYkVHektMY0VnSmpneTRlR2FEbmlGbXdkMWJYM2NvMng1aHBMSFBUUFI2Z25QaERoOVIzTkVpX0hoOGpoUmxRdm5RbHo?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-07T07:00:00+00:00"
-    },
-    {
       "title": "2606 裕民- 該注意農糧相關的食品股了- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5waWMzRVF5c1RJQWdmNEExa2dsdWdkSWFCOVVEbkZ3QXR2Z19fcUF6aTR1ZUJHQTR6YnFoVEdnTzF6TnVVdjVUdnJTdFg3QkFWUVh3UlRMcXM?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-05T07:00:00+00:00"
+    },
+    {
+      "title": "〈熱門股〉散裝業下半年優於上半年 裕民股價創逾5年來新高",
+      "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxOMDU1OEcwaWZQOXFWaVBqMlM0Ty1Cd0xsUGFBdmV0eTJaNjBsSFZCNFBHTnBzQWw0WnVQU0VCdHUtdFAxWU50M2E1akFKNzU2bXFITkJ1V3UtNTZPNVRCX0wzSGRmS3dOZnpOVG9rT21YMjZqeHUzcHJrMWF0azIyU0ZCdUQ4ME9GcG9KMDNGNldHN2xLMmxsdXI4OFpaSENMU3p1TUFaeDdtVFZ1bUdLMFpsMF9vUThyckQxOFVRSjFHNUhqdGVGanhXTzc2QVJMS05KX193aUE4WUFwTzBFVVNQSjFQbWFiaEJXekxiMnRXNzlGMmlGenZzVHc4VlM5LWpNX3kwRy0xaENpTDFCWFJIUnNDMjZhT1JmY0F5U1A2b3V0dGU2RkpRVGcxeXIzczN0RmYwdVRjb3gzd1dnaVRUWGlvd1JYVEgtcGFzbjdyYW5sOTQ4VjY2aUIyc3dBbmRua1YxdE1XRE1mY2l5eG9PNm56RjkzeFdRSXQ1Zw?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-04T07:00:00+00:00"
+    },
+    {
+      "title": "加權指數跌307 點收45,857 點！三大法人賣超637 億元，季報優於預期股鎖碼盟立、裕民、萬海｜豐雲學堂2026 年 09 月",
+      "url": "https://news.google.com/rss/articles/CBMioARBVV95cUxNMFp0cE5sNzRORFI5bVpIU0VwSS1QRU5tZmpYYVJsQm5vYlJPWXF6VTZHeWhoS3lheExxOHNLYkZTNDlsSzhjdWdzU2FNT0I3SXhCN1Y4dXU2Sm41eUFUaVVEcFhnSDdXNHEtWk9PTnVqalBwMGw1TC1VcFZQb2p6ZWEza3c4eWZhUWoweXlnRnpqNG1GZzViUHliNTJjbjNPSjBhcF9FUjhKUzBtMWVWTmhjT0pTNldJWV9BMHRVR3BmSjY1MXhCYnNRelNOYm1FdFNwY1BIR2lzbW50R3JLelpuRTgxQlZVZlRlZUV6bmNYaTFlejI4Uzlacm5wSm1WdE1idlQyQzIzeHFXRklHaGl5RVBWQ1VGa3pkTkxBMGJwdFNmOVNnZjBweFY5NzVRWldpcU82ZGdVc1o5M2Y4RWQ3TUNYN3N6X0lfNGxqWlpMM2VaalNNWW5KNkIwd1hyd0JNNFhJNEdEVzhkblhYMzI0LU5YcGRpeGlSYVdqLVhrQlAxcklNSmJLdkZnYnhZQXdMSXlJZ09TdXNoUFBhc2c1aFppTmpSdTNyQTNwOVgzY19Gc3BlOHN0OEhBX3NySElTN0ZadkwwdHFlSHQwa291a2o0a2xmY3d3YkVTU3k4UTRmcXQ3UTlSemI3Z0FhNWVhYzYyU0RsQ3ZYMnBhSWNVdXpMWk5fLURRMHAyaExPWUxRTVBlSzVuYklBbk5a?oc=5",
+      "source": "sinotrade.com.tw",
+      "published_at": "2026-09-03T07:00:00+00:00"
+    },
+    {
+      "title": "【10:04 即時新聞】裕民(2606)股價上攻至78.5元漲逾4%，受散裝運價走揚與獲利上修帶動，技術面多頭排列搭配主力與外資延續加碼",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONE01NEMtWjMtTFRMUjNKV0Y0ZWQtS0ZEd1c4SHVITGtka21OMjRRdER4T1REZjAyZ0pDcEI1ck9xNmdVRHJyeS0zLVRTRTBSVXI1Vkc1eVIwQVc2ZXhPYmpSTHhyNENZNXd4bVduRXZmY2FzWUVDeHFUNllpckZMS2RUc3pKUXJDazl6aWdR?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-03T07:00:00+00:00"
+    },
+    {
+      "title": "裕民推產學合作拓AI人機協作 強化新船設計/技術決策",
+      "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNdnNFYk52YzYtTFV3Mks2a28xOGwxd1JDQUFkcG0yZzcyd09oOXJWeWp4YUQtc2d4RXNXRGhhNkJ3M3hWVWJvTGdEelVGcXBDQXhKNTJWOHdyQ0dQdjBJUjZkV1JxVGZrTVV3QV91azRpYUdJclpVbUNsWlg5eHhzWEpDbTdqQTZCeG5sMG5YeFl1Yk11ZXhSS05vbk5Zc0xLSnpLQ0ZzV1BjNWZqc2t1RmNNWTdFZjcyRDdzOXg0ZVR6YUllY2szazBkRFdoSXJRenhNTEdLNEU3LXpZRVNRRHlacDBNRjM1TVR1VUtRTVVDUjBLTnRjWjNZUkxsRlpyMk9uNWNMSS1DMlBhVWNtVVI5eWZENFp6THhqdWlwLUhITXlJTllGSjZjNno2dWFLdTZHWkJoU1RnT3NCaFpkTlVxOGZsMDhWaDg4c0hxd2R0Rk40LTNVRGx2V0ktX2JoSWpBcGZuOFg?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-01T07:00:00+00:00"
     }
   ]
 }

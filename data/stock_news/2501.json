@@ -1,15 +1,33 @@
 {
-  "updated_at": "2026-09-21T15:36:22.329336+08:00",
+  "updated_at": "2026-09-23T17:35:12.579897+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2501",
   "name": "國建",
-  "count": 2,
+  "count": 5,
   "news": [
     {
-      "title": "國建(2501) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VVUxtNkgzN015bnFOZGMtNmdZNjVGSUpzNkE1Rk1PQ2pWbXJoR1FoN2RqRnV0ZmtJUWF6cGlxYXJIVEllVTk2WExzcmdQZzlKZDNz?oc=5",
+      "title": "國建攜手日本三井不動產奪「南港玉成段公辦都更」 總銷初估86億元 | 房市話題 | 房市",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5VbWl3cmQzUmc1Qi1rWWtUSUhBb0d3VDNyeWVjRXlJeDlralVXRW5ySTlqTE5XeEo5RnVPeXBjVXNyWVRid2NGMVdBYVlTbzlHeExWdDJsQWNqXzN6Q1dyVlFpVzlsSDdNRXoxWG1xVXktMXNQVXkyOWV1OA?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-22T10:17:18+00:00"
+    },
+    {
+      "title": "國建攜手日本三井不動產奪「南港玉成段公辦都更」 總銷初估86億元",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNFJrZWNpVXpGbG5fYzhzcjg4M2FQUUZKTDJLQmpuMGpyX1JManpWY09ORmJxVFJSbUxNZVRjOEJVcmxpS3JtYng0VlNaSTdweGVDRWV5cmZ2bDdBbTd1TEtxQ2FDaVUzaEQxam96aVVXMDBfNlZ4aEc4NFFXV3B4SGg3czZMZ03SAYcBQVVfeXFMUDRSa2VjaVV6RmxuX2M4c3I4ODNhUFFGSkwyS0JqbjBqcl9STGp6VmNPTkZicVRSUm1MTWVUYzhCVXJsaUtybWJ4NFZTWkk3cHhlQ0VleXJmdmw3QW03dUxLcUNhQ2lVM2hEMWpvemlVVzAwXzZWeGhHODRRV1dweEhoN3M2TGdN?oc=5",
+      "source": "udn.com",
+      "published_at": "2026-09-22T10:17:16+00:00"
+    },
+    {
+      "title": "2501 國建- 〈房產〉國建與台灣三井不動產組團隊拿下南港玉成段公辦都市更新案並簽約- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GbmRhSlMwUndWLVVDOERJZ3dnemZoRGgwMDV5YlJkalJyTkhzYVd3R190a19CRVE4MHNYSnFBZTBVV2hGQzY0RDl5N3l4aEFxdzdlcFVtTXQ?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-17T09:55:20+00:00"
+      "published_at": "2026-09-21T08:23:53+00:00"
+    },
+    {
+      "title": "〈房產〉國建與台灣三井不動產組團隊拿下南港玉成段公辦都市更新案並簽約",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Gb2d1Slh4VU9aOGI3Q2NvR1QzY1ZoMmtFSVpMd1N1WTFWX1kxNWVhMzJBNjhERGpMRGJrUjEtRDhibE1kZnlKaUd6TW5KQVU?oc=5",
+      "source": "news.cnyes.com",
+      "published_at": "2026-09-21T08:03:20+00:00"
     },
     {
       "title": "國建 8 月營收 16.3 億元：交屋入帳增加帶來單月年增",

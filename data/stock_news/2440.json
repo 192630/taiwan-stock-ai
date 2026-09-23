@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-21T15:36:01.146941+08:00",
+  "updated_at": "2026-09-23T17:34:53.839149+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2440",
   "name": "太空梭",
-  "count": 9,
+  "count": 10,
   "news": [
     {
       "title": "台達電重摔5%、聯發科挫2%！台積電開低跌25元至2440元台股開低跌452點跌破46800點大關",
@@ -15,6 +15,12 @@
       "title": "營收速報 - 太空梭(2440)8月營收3.93億元年增率高達45.29％｜新聞快訊｜豐雲學堂",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKbWZJaDZkZnM3SXc5eTlUWHdKTnl2SmNvai03RzlrM2xPajV0YW03ekt5dEJhVXJza2Q2RWdUcWFUZl9qbkRPZmFPSW9JZWV3OUlFd0tlUE8ybjhTaVRWQ1RPYzk0YWxySDFrLURSMHJYa2VoZnc?oc=5",
       "source": "sinotrade.com.tw",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
+      "title": "高通和亚马逊达AI晶片协议 规模上看2440亿 - 财经 - 国际财经",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUcUxqQjVxQmRhMm9VUjRQVEtlVllTMUxCcVFfR3VhVVgyaUQ1ZFdGbWplbUU0VFFVUnZURFZIZTB4VlNBb3RMZTZKQmFDa0ptV3R5dU94MGJZSjF1aWdzaXVEOGdPd2hzZ1R6QmxpcWsxbXBXQlpJTWFIS3Y?oc=5",
+      "source": "sinchew.com.my",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
