@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T11:35:25.377638+08:00",
+  "updated_at": "2026-09-24T12:35:25.859359+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2882",
   "name": "國泰金",
@@ -20,7 +20,7 @@
     {
       "title": "熱門股》外資認同股利 國泰金大漲5%",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zRmNkMm8zb3hFT0RueXZpbVVlRUxpV2ZFSDJIUjFYY0RTWXhGT01na19wN0tHVWttbk96ZmN3X2RrREdxSW9uTlpPQXZVeWxQUVRCajJSMS0?oc=5",
-      "source": "stock.ltn.com.tw",
+      "source": "自由時報",
       "published_at": "2026-09-20T06:18:46+00:00"
     },
     {
@@ -30,9 +30,15 @@
       "published_at": "2026-09-16T06:15:00+00:00"
     },
     {
+      "title": "《台北股市》不斷更新！金控8月獲利12家成績單國泰金三冠王- 上市櫃",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FRGM5V08xWG9xTTRmb1lDNzNYWUFncklKbTlnY0xlTTY0OG5SazN5cF9RRGJLT1dTMllNY1VSdGhpWWUwaXpFUVZHelFrRXhSenZIcU1GMUdFMGZVZ21nMFZEdl9jaHFLUHc?oc=5",
+      "source": "旺得富理財網",
+      "published_at": "2026-09-15T07:00:00+00:00"
+    },
+    {
       "title": "國泰金今年有望配息3.5元 續尋併購成長機會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xNTVIT09DdlRHQ0w1WlJ1LWMxSGVFc1paLUUybExKVGplM3ltVk9OX1B3cnh6ek4xMlhXeWVQU25uNGtINF9YWFlWY3FYakZTb3FrZkx2UXY?oc=5",
-      "source": "stock.ltn.com.tw",
+      "source": "自由時報",
       "published_at": "2026-09-15T01:17:33+00:00"
     },
     {
@@ -42,33 +48,15 @@
       "published_at": "2026-09-15T00:14:00+00:00"
     },
     {
-      "title": "《台北股市》不斷更新！金控8月獲利12家成績單國泰金三冠王- 上市櫃",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FRGM5V08xWG9xTTRmb1lDNzNYWUFncklKbTlnY0xlTTY0OG5SazN5cF9RRGJLT1dTMllNY1VSdGhpWWUwaXpFUVZHelFrRXhSenZIcU1GMUdFMGZVZ21nMFZEdl9jaHFLUHc?oc=5",
-      "source": "旺得富理財網",
-      "published_at": "2026-09-14T23:50:45+00:00"
-    },
-    {
-      "title": "國泰金前8月獲利986億 EPS 6.47元 保留盈餘影響數創高 | 太報",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhRTZDeE8yZUNWaGJPWndMelUxRlA3YjJRbWk1NUJ1eTh2YUhuUTJGTkRRUURqQU9Ib29SX0JUM3lzTjZRcktmc3N6LXAtQzNnQ3BILXhB?oc=5",
-      "source": "LINE TODAY",
-      "published_at": "2026-09-14T13:01:45+00:00"
-    },
-    {
-      "title": "〈國泰金看經濟〉10年期美債殖利率逼近5% 徐之強：最擔憂「倒掛」重創股市",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5COTh6N19ETU9FUGQxbHdpaTNzTHB5VERYREJlR2l2cXNxeUItU1E3TVBwUGc3Mk5PSkk4bUVfQkZLYk1sSDloSzBvOGdkMmM?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-09-14T10:42:44+00:00"
-    },
-    {
       "title": "壽險獲利引擎大開！國泰金前8月賺近千億、年增逾5成國壽淨值衝9,864億元新高| 財經",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBManBBWGRaMUtrOWQzc3hmQmViOEd3cV9yZkFIZUxnbjdQbGthVzhpcnViN1QtUENMdkZfMmF1ZkFzbUhXM19obkM1RUdOcDVVOFJjaW96UXJ1U1E?oc=5",
-      "source": "newtalk.tw",
+      "source": "Newtalk新聞",
       "published_at": "2026-09-14T10:18:03+00:00"
     },
     {
       "title": "國泰金前8月賺近千億 保留盈餘影響破2千億 - 財經新聞 - PChome Online 新聞",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSFlWY0haa2ZRY3YtNW1Ob2NTazJ0MGlndkJRZk5ibDdnblVkeEk5amJDNmZ5d1N1QU5QaExhUUtGVmF1aUkxQVlFQ0lHQTdHY2tBdWtTRGdBME0tRFhEbnZVNHkzYldmVzM3dE1neXpkQkVZaWFOdHRxSS1Hd2VfcG5Kc1NuTGJ2VVQ0?oc=5",
-      "source": "PChome Online 新聞",
+      "source": "news.pchome.com.tw",
       "published_at": "2026-09-14T09:07:27+00:00"
     },
     {
@@ -76,6 +64,18 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLWdhdWVlQ3VLOVhUeFRpSl9ndVBZdFRSeGNZMDcyRnVGRkExZFpFZDNwX1p3SUY2MHBBQm9pWndGXzhUMjRhbGNrMmVpbHdUWFk0OGVZX2Rrb3lXSDQ5NEo3NmRYWXViVnRqRVh4VjJudm12bHVuZVFjbUljcnR3Zkk2M0tUZXNa?oc=5",
       "source": "富聯網",
       "published_at": "2026-09-14T09:05:00+00:00"
+    },
+    {
+      "title": "國泰金前8月EPS自結6.47元！保留盈餘影響數突破2千億 續創新高",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tazY5bVJvM3RlbXh0a3FmYm5xZ09jdHVBVVVPM3VGbWlGTzA1S244QUN5blBpRkR5UUJxaU5lbkFpMDRjSnlVVGJYWlVlUGVEZ0E?oc=5",
+      "source": "蕃新聞",
+      "published_at": "2026-09-14T09:02:00+00:00"
+    },
+    {
+      "title": "國泰金前8月稅後淨利近千億元、EPS 6.47元 保留盈餘影響數突破2千億",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQZ3FyelpuUWE1SU5oR0l5YmJMWUFjMWVGcjFsRzkyWVhQSHFBZHBmS0dITlhxbWxDTFlJSnR6SmRvMXZ5RjVmcTJsQl9rUzNrMVHSAVBBVV95cUxOOERPeE4wU2R1TEgwdkJoYVg3Nmp5dFRCeTRScUd3aTFzWUV4aTY1TmVuWUxxbjlrNEJ4WXZMUW1zbnJDSGFpRTlxb3JISjEtbA?oc=5",
+      "source": "ETtoday財經雲",
+      "published_at": "2026-09-14T09:01:00+00:00"
     }
   ]
 }

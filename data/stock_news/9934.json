@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-09-23T11:35:13.969183+08:00",
+  "updated_at": "2026-09-24T12:35:13.688937+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "9934",
   "name": "成霖",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "【2026/07月營收公告】成霖(9934) 七月營收月減年增，全年營運續看向上-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdEV4amRKTmZOQnI1XzBEWi1BQmtKZzRWaWczQmRReGhvd0xHX1V4eEZHZHNTZkxmNktKVEtGOWcyYk9Yc1JKT2VId0RxY2FOVHlCV3RqWkdTczNXNzZjLWVYRlhxR3l4ZG8wc1p3ZkZkdVNlZ2hmNlpaUXh1TjFmbjAxWjFxdFBHeHc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】成霖(9934) 八月營收11.91億元，營收雙減，年減15.05%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZXQ5UHljVDNRUWxmZS1LaVczLXA0YXUxcU85N29VQmJ0LTQ4bnhoZ3haU2V0RC1uUmFJMVg3M0hZMXA1aUJRczNyOEJlUmh0Y2xMUHl0aGpvS2FZNmcxYjZwdWpvQlF4WXFnOFo4YllqTlFoZTEzbWMzV0xxOHdzOEhHN3JYcXZLREE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    }
+  ]
 }

@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-23T11:35:21.575463+08:00",
+  "updated_at": "2026-09-24T12:35:21.920117+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "9962",
   "name": "有益",
-  "count": 3,
+  "count": 2,
   "news": [
     {
       "title": "【有益🎁】本週美股重大事件🍀｜重頭戲是中美領導人會談🔥 4款付費AI🤖展望🐣",
@@ -16,12 +16,6 @@
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE03eWlGdTUxQTR6WU1yY2V6Y21sSDJnbzR3YmFMMk45NkRIQ21XR000a3hybGIyNzc3MFNGZDh3TG5UbDBqMWIzNA?oc=5",
       "source": "鉅亨號",
       "published_at": "2026-09-18T09:30:00+00:00"
-    },
-    {
-      "title": "逆日步零錢・日證金東證股票（2・終）(8086～9962)（申購日08/24）（結算日08/26）",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZnRhT29FYVJMQ2d4SklhbTBQTElLRkJGSDRpeHFKWTd0RzE0Z0pkczZXcDJWRWJpRUNSWHBsNEdlWGJUbWw3ZGRObWN1bWNXTTVGdFM2Y1JzWUFJSkRzVF9HcXE1TENQRVBnVVVGZVJmNkJWYm1FdFRDcENwWEVmVHMzR1A0U1M0WmljYzIzVjgwdmRJOUVZOE1KcTQ1elJNYlNUN3dBaG5leXJCUGhxMXBXbGg2dUJUNldjTQ?oc=5",
-      "source": "Moomoo",
-      "published_at": "2026-08-24T07:00:00+00:00"
     }
   ]
 }

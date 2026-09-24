@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T11:35:25.960863+08:00",
+  "updated_at": "2026-09-24T12:35:26.435938+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2303",
   "name": "聯電",
@@ -12,22 +12,10 @@
       "published_at": "2026-09-23T02:34:00+00:00"
     },
     {
-      "title": "2303 聯電 - 00403A個人先徹了- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4yWlVwUXU3MDlieE5na3VRVHpjNnludklINWJkRFQ5OTVxQkdBc01xUnpDY1NTSGs0cFFtNUlvdzFRd0ZQdTUxYUVqZ1dTa3lJdUdZeXR5R1M?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-22T16:29:00+00:00"
-    },
-    {
       "title": "別踩00919大雷包！聯電遭投信爆砍逾15萬張最慘 這檔還有約15萬張排隊出清",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HTG9LejhrSFdHUjAwWVRBZUc2RV9EXzhoN2FRYi05NUdyS2R1V2VPb1NPQ19FRjl6RmVmRy05ck1tcGN3RHd4VThCVTlGX3BuN1BkSkQxcGg?oc=5",
-      "source": "stock.ltn.com.tw",
+      "source": "自由時報",
       "published_at": "2026-09-22T11:13:38+00:00"
-    },
-    {
-      "title": "2303 聯電 - 7/16高點$168達標 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zcU1oLXpJYkxLc3dTUHZzT25zWm0zLVBqUnMwM0dMWmhmeUZ1alludkpLdkt0aEZ6RGRlYWVZVEN0emdtQ0JSLW1uRTRXYl9XcmNLRFNZODU?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-22T08:46:09+00:00"
     },
     {
       "title": "2303 聯電 - 持續看多聯電- 股市爆料同學會",
@@ -54,6 +42,12 @@
       "published_at": "2026-09-21T09:00:00+00:00"
     },
     {
+      "title": "聯電(2303) 今日股價與討論 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96aW81YUJ2YzVINnlkSFlHQjdQN2NSbE5yRFZqelZoX2ZkcGEzdDB2ZW9oanlVbGhfM2c3Zms3UWFIT0w3M04zdzRENTVsdjQ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T07:00:00+00:00"
+    },
+    {
       "title": "聯電 (UMC)討論區- 股票評論- 股吧交流社區",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lVms5cXFxUHRhc25FZG1tRzhBTV9raENRS1A3RjBVSzVMTEJCeGRJRXpSa2FRSG03RGJvQV9lN0F0OVVKOUJKa2o2UHhVZXRBZkxGMEhxOUVxSXN2TWVR?oc=5",
       "source": "Moomoo",
@@ -66,16 +60,22 @@
       "published_at": "2026-09-18T03:22:00+00:00"
     },
     {
+      "title": "聯電股價飆160元漲9%誰拱的？不只外資2買，00981A、00403A、00991A...主動式ETF重押能跟買？",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOVZwX0lUSWZ2TXAzNXdVVC1kOFZuNG5GNE5SWTVyOVRTeE53MzBtdENDTmFvS1F1RlEwd2JXUGlhaXhpelVmejhOZFN5QXBhTTVSYWduS0h0Rzh1Q3RPdjhESlZIWjJMYk1WWDEzRXcwQ09Zdi1SSm1WRkFENl9DaA?oc=5",
+      "source": "今周刊",
+      "published_at": "2026-09-18T02:26:00+00:00"
+    },
+    {
       "title": "2303 聯電 - 個人聯電股價規劃- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tRkRrenhjRE42UFFzQVlhYXFTT3J6Y2RRbk0zZFlESXBrZjNRR29qaDNoMnd6eVY2dUl3SE15OHhrWENTY0FLLVpUOHdhRmZCeE5YUWdrSkk?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-17T08:37:53+00:00"
     },
     {
-      "title": "【12:03 即時新聞】聯電(2303)股價走強，法人買盤與AI成熟製程成盤中焦點",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMU03QmVkUTQtMndNSmpWRE1UUmowSW1pS2tSS01qZjBkd2wzcDNYTjJIazVJOXo1Y1VGTkxaZnRaTF85V05HZVAyTjdJNDBUT2JyQnBmbno2ZW4zRnl5N0F0Y2o1UHBMTXl2SC1id19SZUlhR3ZVNDZFazZ1SHgyQUc4dE1JWG9UcktUYmNR?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-17T04:03:46+00:00"
+      "title": "聯電只排第2！投信狂掃這檔2.33萬張、股價飆逾5％ 27萬股東笑了",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0teUJlVWtnWW5ncUJieUJpamdFZzVlVUZXeWNrNy11VjlXaE5qZ0tmM2ZXdkRWN2Y3X05rSnhhMmFRZ2FyWWpZRktubFZScGFNTk9vSjJjc3REcWxmejJ30gFkQVVfeXFMT0VHMUk4VlBQTkd0dkFtNTZSdzZrNUJ3a2FuaUctcWlOMERKVGUxVmsxNFFVRWVBa1Z5alhpU0JpcTN5dTZxb2ptSE1sWlUtdE84c2V6M1hhaTRmY0Y1bUdoSlN0ag?oc=5",
+      "source": "自由財經",
+      "published_at": "2026-09-17T08:04:34+00:00"
     }
   ]
 }

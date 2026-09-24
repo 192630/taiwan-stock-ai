@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-23T11:35:17.080062+08:00",
+  "updated_at": "2026-09-24T12:35:17.041483+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "9942",
   "name": "茂順",
-  "count": 1,
+  "count": 2,
   "news": [
     {
       "title": "茂順明年營收有望拚高，股利期望維持7元起跳",
       "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQVlBObnRHWFpzaXdnVWQwWG1fYVFwR0FzTGRFRG5USkM2aHlDWWVpeUVBUXBLVjRlMUFuYzh4MjJVbVN4Z0ZoTVFSS2wxUGtwZkVhN2w1UkxEaTV4am1oZjFkRFFacGF4MWs5blJUdHoxMGZLTU16ckFvLTFYWEhncjdReTM3V2V0YlZTVGFrVVZYbm9ZeTMyN3dmaFRkb2NyYTJWNzFwdmpFMXcyam9RSnU1bl93QzFleTZnM2RDZDJWbVUzdVdJT0l5YjItdFF4MjlxS0NiMlN2RV9LNzdDZ3Uxb1hnb1REZXZLNmlSem01dWw3U1l5MTFXS191VEc3dEdFdjdkR3NFUGNWWUZEY2x3cVBFT0hibkFOWUpxTTkwNUpOZ2I3SDNxVjJWNkdqcnVnRklObDA0amtXU1FSU0JB?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-17T07:14:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】茂順(9942) 八月營收月減年增，全年營運續看向上-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSXRKbkpYNHk5QzNOOVJXbDVuakM4WGQwNnQwbnc3MDRENHRiM0w5RzhzN3lnZURyWC14ZkdzUFdhYndPb3UzMnhoQVlvSUlFUnplem85MlFFSFVaX0lqMWxERU5zTnVZSlN2cTJRVkVoQzRJSzByeWVFUWgweC1MbGl0eUdxS3lRUUE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
     }
   ]
 }

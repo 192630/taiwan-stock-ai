@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-23T11:35:13.134060+08:00",
+  "updated_at": "2026-09-24T12:35:12.775356+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "9931",
   "name": "欣高",
-  "count": 1,
+  "count": 2,
   "news": [
+    {
+      "title": "Hsin Kao Gas Co., Ltd.收入明細 – TWSE:9931",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xRGJVdUNJWUdYX2F6eTdvUERwak1yejY4TmNuRENUNGxDbm5HMW9yMXZOb3prMWowUVliMEpPRFFTc2pzbFVTR1cyeW9GU1N3ZklCUVlOZGQxSWFYYkt5blNPazIyVTdSUW9aRlJJU0ZWUzg?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-23T12:06:36+00:00"
+    },
     {
       "title": "【2026/08月營收公告】欣高(9931) 八月營收1.39億元，年增17.87%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTk1HTHd0aWZ1REYzeEFKNnFLS1BwNnpQS1lXS09jc05MYnlvc0FCRFhnSTh4N1daVHpoeEN2cEl0MVhtc3lGWC13UDVFRXk0bV9jSE1TUjVXSnItNS1aenExVjlOUk5jVDMzbTloS3FnUE5uOGNIUy1QRm42QkRmVl9YYUZKbmFtamc?oc=5",

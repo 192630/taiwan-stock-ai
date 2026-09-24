@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-09-23T11:35:17.476226+08:00",
+  "updated_at": "2026-09-24T12:35:17.460683+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "9943",
   "name": "好樂迪",
-  "count": 1,
-  "news": [
-    {
-      "title": "【2026/08月營收公告】好樂迪(9943) 八月營收1.91億元，營收雙減，年減5.75%-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeGFiWnBuNHRPMk9TVWxmLWZyTk9aZnFSNmRsaWpSZFl1cXIzY05USDFDVHVkbk9PakRHSjNGS3NqODhGc1E5V3VGY2FNOWtQaHZBdm9lZWdycGdWRnJweFJYdXZxUVEtWW1YNkRtZVR1bGczNDlYc0VscmszWWxUd3NGeUxBYkctX3c?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-08T07:00:00+00:00"
-    }
-  ]
+  "count": 0,
+  "news": []
 }

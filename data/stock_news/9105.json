@@ -1,33 +1,15 @@
 {
-  "updated_at": "2026-09-23T11:35:02.239785+08:00",
+  "updated_at": "2026-09-24T12:35:01.470591+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "9105",
   "name": "泰金寶-DR",
-  "count": 9,
+  "count": 7,
   "news": [
-    {
-      "title": "9105泰金寶｜呈 「極致量縮橫盤、連四日狹幅沉澱」 的格局",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RSEc3eGp6ZTdHeU9ueklfRUZqVFV1Vl9FZ0FaT3QyZzhObi1JekUwaEFOdUlTcG9FQi1YNEFvdW5IbVpmbzV1VDZqZkphcGpnUzY1ZGtvcHE?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-21T06:23:41+00:00"
-    },
     {
       "title": "9105 泰金寶-DR - 大寶開直播了！二寶三寶準備.......盤 這三寶蠻搞笑的，... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VTWEwWWlwX2tiTnhPR1pTckgwR1JndTVSbFdmNk5xSTdIRnpQRm1fQ2dKaVViYU1PNkwtVFoxTmdsdzZFal9MN0xyWml6SFg1blVHSW53T3M?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-18T11:33:42+00:00"
-    },
-    {
-      "title": "9105泰金寶｜地量極致沉澱、高低點收狹",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LUVdBMG9GdnNoZmpiWnNCcUJjcjNTcGNySmw1UnI5bk5kRXA3cEhvRmZCeV9JY0dLa2w0Y2tuRnQ0N2hJY1FJTDdycHRkSGZEeTNMX0hLck0?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-17T05:59:46+00:00"
-    },
-    {
-      "title": "9105泰金寶｜持續極度縮量、止跌打底蓄勢",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82MlIwR1YzMXRKMll5WlFoT0t5VEFCX1diQ0x3MmhxN0gzclhpN3lHdDRHRnlkLUtDd3E1NEgwWE9HSkFYWGhwNi13b2JkRHBHTlJkUFZEWTk?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-16T06:19:19+00:00"
     },
     {
       "title": "9105 泰金寶-DR - 股王大跌，Ccet反漲？ - 股市爆料同學會",
@@ -38,7 +20,7 @@
     {
       "title": "熱門股》轉進AI 泰金寶-DR股價6年新高",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nZExmemRPYUlaRUtuQVdlc01fTjE4QXBkV3J0djBiLW1aNlpzUGtrSWVmSzk5c0ZGVWRYR19EZWdSblhESGJqMlRCWU5nYS1ibGpVcml2SzM?oc=5",
-      "source": "stock.ltn.com.tw",
+      "source": "自由時報",
       "published_at": "2026-09-11T06:24:41+00:00"
     },
     {
@@ -58,6 +40,12 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN3VDYVJ3ZDlFNWVqTkVhbXRTSTBfVlR0OTJMSDdQZ0xnQmtQNFpxSGtod2JTMXVrVEdlMk9jU0dDa05kNHlDMWtfNGpCcG9jckEyN2RWTGM0OXAtLU1jVHF5SU5aMkZ0aFJVb01TQ0I5MXo4UHpsOU9DUklSc1NOSkp5Z3R3TVZHb0ZPeGxn?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-08-31T07:00:00+00:00"
+    },
+    {
+      "title": "9105 泰金寶-DR - https://www.youtube.com/watch?... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Ydkk1N2ZEekNtRXNiV1FGYXVELUc3YU5zVkhqNS05NXp1aW1aSDdvQ24zVDJLcW4tSmFTck5tWnRzRzBtc216bkxoUzFFeFVZV0gwZ3k1Nms?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-08-30T07:00:00+00:00"
     }
   ]
 }

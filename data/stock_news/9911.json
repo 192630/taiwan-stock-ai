@@ -1,21 +1,15 @@
 {
-  "updated_at": "2026-09-23T11:35:07.127264+08:00",
+  "updated_at": "2026-09-24T12:35:06.502615+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "9911",
   "name": "櫻花",
-  "count": 12,
+  "count": 10,
   "news": [
     {
-      "title": "以下是爲何Newborn Town（港交所：9911）引起了投資者的關注",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRkNTUzBSWG0tczZldkpjVFUwY2l1dlhUbnRDOTdQcjU0a0FWMk85aXRUSU05c3M1bEJHeERtcXBYQmlsRExZZldyMnRXcl9QVEU3V0hlVlJaZXQyM1BhZHlCNVI1M1EtRnNwRURTT25MRGZXdE5EeTJKdlhBdzN5dzE2djdBSHgtSVM5UUMyOTNGTVZmZEd0c0RR?oc=5",
-      "source": "Moomoo",
-      "published_at": "2026-09-15T05:17:18+00:00"
-    },
-    {
-      "title": "[LIVE] 日甲大阪櫻花1:6廣島三箭場中- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RR1RHMG93ajlmOVk4emxnazZpNnRKSWNHSkNlTUowVkR1VVFoTmMtLXNoVzFqVmY1UEpZN2l2LVk4S2Z5alUyTW1RU2Z4bm1zeW5Fb1pLdTc?oc=5",
+      "title": "2327 國巨* - 剛掛2張 585，賺點櫻花季 旅遊金😂 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wdXV4Z3hCdUY1YjUwNFZCZHpiRVh2S1RKd2FlLUpvc3d6bTdRLU5jUFNZNFpyYkJzVG90cDNxN3IzOUFuOWhyTVo0WG9rbWFrR29JOXJaQnU?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-12T12:19:41+00:00"
+      "published_at": "2026-09-22T04:00:13+00:00"
     },
     {
       "title": "2070 精湛 - 小櫻花、金高恩已穿！GU精品級「6大秋冬新品、3大趨勢必收」，女偶像同款只要390元 - 股市爆料同學會",
@@ -56,14 +50,8 @@
     {
       "title": "台灣櫻花8月營收8.69億元 全年營運樂觀",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tSmZGVUlKZjZwZFBGWkJBeDdwVjB0SGgtQVRXTXlYSUcyZWV5ZlAtemR0SkNJYjM3VUVqZkM5RTJKUXZDYmJGbDhKZDdhZlVpdHJPYl9IYWI?oc=5",
-      "source": "stock.ltn.com.tw",
+      "source": "自由時報",
       "published_at": "2026-09-07T07:00:00+00:00"
-    },
-    {
-      "title": "司馬庫斯2027櫻花季訂房 10/1早上9點起跑",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOeHdTVHlJWWxOUkRwMld4RFpJcWZBc0kyd2pXYkJZUVJQX2VLRWpLMVUtOWJWWTJhNUJEb1pWNGVYaGE5TEhDeGlBU19jWlBGemFDZUxDaC10cW1yQWVyV3J0LVFtd1Y0ZVdmcUJObFMzZ3dCbWloWTdhWTJjQXltRnEyNnhoZTNhN3pyV20wUEtLTk5ZOUlnRGYxWDRkUHlRbmczT0VUeFdOR3E5RUplek1yQ1RhR1JCOG9UdFV0X28tU2pHTzlod2RFVUdEYkhVdHVPQW9POTUzcm9OT2lDZEt0cG4zQ2R0U3BlZXo5ZmZDWnN5dWVfT3dWVUdONnpTSkdtSzhVRGk?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-01T07:00:00+00:00"
     },
     {
       "title": "6407 相互 - 台灣粉絲自發響應《櫻花大戰》30 週年大型紀念賀圖9 月起於台北地下街公開展示- 股市爆料同學會",
@@ -72,10 +60,10 @@
       "published_at": "2026-08-29T05:15:49+00:00"
     },
     {
-      "title": "名牌包抵錢惹怒！竹聯大哥囚禁性侵櫻花妹案 檢方大逆轉不起訴",
-      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOZ0hTcUpGYzJvLTNqcVVERDY1OWhLUUlxRWZMdGpuc1J2bVlaNEd6NGFUdVJhWl9iN21MZDJVMTJReWFOaHZzZ0xOVC1ySXlxdlJsdDgyS2xOdkRTdjQtWVZLWUNKc3d4WDZ2VjVLU2lEVk5TbDdIeDhqR01ibFJibnFwV0J3RTNMZzZVcFhpa2JrM3hvSkdpdWdiOHhLZmx1NVR5am5PUURMM2VZaGVWZ1Q2cHZYaVFpcmppR2pyQlJVRDdQVy16cldyMG43MTE4cDdDQlhOdV9FYWxqNG8tYmIyLWRtdnN4TWNIcTJIbGxCeFlNMXFLWlZiWk85WE1GZWl6Z01iUVZ5elAtMWctX2xfV2NFaUNXRkNETEpKUHYzN0pHUmF6LUR6ZEp1QmRuWFo4RzZyZmFWTG1HSmpHQW1NTWZQVkd0MmVQcXpBUmF5bWhTeXV6cGFudnYzbk9HNGZMRElwSGFlM3l4bHZReXJKZWRrRFM1R1NPTjA3UDlBM1BZWjhJdW13bk9yWFpOV1JtZHQ1eHduQQ?oc=5",
+      "title": "竹聯幫大哥當馬伕載櫻花妹賣淫...「幫應召集團撈20萬」！自己才分7800元還被判刑",
+      "url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxQdC1GRVJZRVlTcWw2X054cnI3TWlzbG5ZTFV2Y1hWQmVTRFZDd3J3NnBkVG9wanZ1UFFNLTZRaTZuUHkwN2M0eG93d2xLbEt3aHQyNFJNYUhzVUNsSHppZmhzUk53N09ubmdNUHhBS1Rld1V6Xzc5WWQ4Vzh3dlRhcHhzanplQnJSWU9NWng4SXd2T29kLVlDOWpUMUFvcUdFX3E3OE9sVUc1Sy1uRDctOG1mYUNSQWxrMThLYy1BYzBCSUxsN25sSktEUnE1MFVwVkJJcXQ0LXM5bEtBeWU3NUZ0ZWpld2h3dlJPTElhSkR6NTZPLVluMzZoZGl5ZGpPaVhabGpTcTZucW1PZ0duUE9XdHRfRmlNYmk1Q09iQjBVTVFwNmJUZWhyeFhiZ1BOWnRaZDVJTnEtemRBcDlmdVo3bkJxMFVYQzh2d3Q1WW9GUnNoZFVHd2xKVzdZMTFUd2JON1RES2NBVWY3SmFMVHVLbVVXMURKeElNNXBveHVsLVctdmZyajBUQjl3Tl9wblBaSHB6cm1mOXhscVFBZ2JZOFdlTmUwbzdOcWZZSGxXRHVSRkk4WXdPMFNZeWptMHo5ZmZn?oc=5",
       "source": "Yahoo新聞",
-      "published_at": "2026-08-27T07:00:00+00:00"
+      "published_at": "2026-08-26T07:00:00+00:00"
     }
   ]
 }

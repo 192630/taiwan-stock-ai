@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-23T11:35:28.057994+08:00",
+  "updated_at": "2026-09-24T12:35:28.633890+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2886",
   "name": "兆豐金",
   "count": 12,
   "news": [
+    {
+      "title": "《台北股市》投信23日賣超股：群創、兆豐金、華邦電",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDZPM3g5OWNkLVU1MDU0R3ZBSUdmRW1CblpFb1cyVnN6UGo0NWhmMm4zVlJnV25wbGViZ1lmdk5GTW9uQl9SekVLUkdFR3BOS0gtNnBOUk11bDZXa3FubV94Wjd0Y2pYc2Q1dksxUDVvMXY4Y0NDb3BLQVVwYk9WSjNtZDNUbHll?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-23T23:36:00+00:00"
+    },
+    {
+      "title": "2886 兆豐金 - 【兆豐金(2886)盤後解析】外資買投信賣，籌碼現分歧 今... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wSzRpSTZxUWtLcVNSN3daR3lEeE1RcGphSmVzQlZtTUU4dlBJTkxaRnZWbGhCTUk1RVY5d2R6TGttZmhfMXFWVnlnSHl3Y0NtNVBoRjhGWUw?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T12:48:06+00:00"
+    },
     {
       "title": "2886 兆豐金 - 【兆豐金(2886)盤後解析】外資大買，股價為何反跌？ 兆... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JZ3RRRkZ1bmpZOE84dHZiUU5jdldMd1hPRlBZOE1sSGZSUU04cS1iMFZEcVFFUTl3aHdZTWUxMTBMRENzZC1oZG1tcjZrUlpNWVl4MjBwbXI?oc=5",
@@ -24,18 +36,6 @@
       "published_at": "2026-09-21T10:28:53+00:00"
     },
     {
-      "title": "台股連日下跌後反彈 金融股抗跌、兆豐金漲破新高原因曝光",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtN1BsRFZFSE5oUFI5WE5acG9aUXJXZThXaldqNy04ZWFvVUNKMVVYQk4tWkJMQVVVUkJTRTJ6ZEJsbk9BRzJqRjJyQlN1aW05Z1RQMm16V1Ztd9IBX0FVX3lxTE9ycGluaVdQWGtRVG5qR1BRLUNVbDlSazBQSGV3cDRPWEZoV1lsZDl4WnNaUklEUTBzeVZWU2RucHMySEtHcTRGVWk5dy1uallFTmtfR2lETXlyZ0owZ1BR?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-09-21T09:00:00+00:00"
-    },
-    {
-      "title": "熱門股》內資持續加碼 兆豐金創26年新高",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB6RTFjNHFMdzJ4VWhwR0EtWkVjeFNzT0F2aEI5M2dXNUJWTk8xOFVqQmt1X2lnSWZFM19XRnpnNGhvUlVtZWljQzNXc2paWUVsNWRrekFYQUU?oc=5",
-      "source": "stock.ltn.com.tw",
-      "published_at": "2026-09-20T15:15:48+00:00"
-    },
-    {
       "title": "2886 兆豐金- 高雄銀大股東持57%股票，最大股東是高雄市政府，股價低，獲利... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uV2cybG5sQnoxbjhybm5pU04ta3RTdlFFZi1DdXJoS0VsV1BreC04ZGpzcFlNbzlrMkZiZllVcWIxaUo0Z0lWOHhKN1RrWkdESi1EQUctV0c?oc=5",
       "source": "CMoney",
@@ -51,7 +51,7 @@
       "title": "【2026/08月營收公告】兆豐金(2886) 八月營收月減年增，全年營運續看向上-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeHh3R2dLdjkwejF2V09IUUdIeFMtOGd6UG1NYjAtLVNuSTdXTE5zd1NEamxWR0JEeVQ1WHJjYmpZdGRRWVFXeHdnVVE5ZXIydURTLTU4SVQ5eXNPaUFmVFFOYk96SFhDSl9OMnlwODg5LVRKX1RPSEVCc2FQTDY1QXB0cmJESDBJY2c?oc=5",
       "source": "CMoney投資網誌",
-      "published_at": "2026-09-15T07:40:08+00:00"
+      "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
       "title": "永續轉型資金缺口1.5兆美元 兆豐金推混合金融新模式",
@@ -66,15 +66,15 @@
       "published_at": "2026-09-14T13:01:21+00:00"
     },
     {
+      "title": "兆豐金前8月賺292億、年增14.7％ EPS1.97元",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jdXB6TU9RamdTYmVWSEhPQTNWM3hkVGN5SEp6YXFZeE9ZRVBteHBuT3NDNnQ1T2Fjcm1VZmFuMWFiM1VBTEVabnRxdUdQOWZPMzVXWkZqaUU5NngzNVU00gFkQVVfeXFMUGhUQlpfbG56eVhZUW9vaUxRQ3VTWGtpLXZtcUFJOVgyY3lLNW5BX3BQZVo0RTFndTZBOHNKcEFfOHRzWk91TUtJQzJON2tLZFFnMEVmZHUwdzQ1dTZYdUlCUUYwSg?oc=5",
+      "source": "自由財經",
+      "published_at": "2026-09-14T10:16:31+00:00"
+    },
+    {
       "title": "兆豐金 (2886) 前八月292.19億創高，EPS 1.97元藏什麼？-梁姐價值投資心法",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMDBWUDhuUC13a3dvTktXTVBDLU5SZi13TTVyUFFzQzhVYm15QTI0WEwtaUhEeEM2N1VrWmhnZXNQeUpSU0UxbmpvMXVEdEJpb2Q0dERxeWg2ZlBNeGtJWnRnYUVLay1aTEdqRXIzZDhGZVRvRktnVm9xRVZXaHZUaS1IRHN5UQ?oc=5",
       "source": "CMoney投資網誌",
-      "published_at": "2026-09-14T07:00:00+00:00"
-    },
-    {
-      "title": "台新新光金前8月EPS創新高2.31元 兆豐金、合庫金獲利同創新高",
-      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPeUlWQnAyUE45WENCeVQxT2dRRlM4V2Y0b1V4Vk9UeEUwYTVEd0FVaDMwellqdmR3OWJuUUxDX1BRQ1pPakhzQV9Udzg1elFSUy04UnltblkydDBjcFRhX01wZVprWHQ2aExqaW1kbXo0NWdPOE5tNEFfMlJvYWZDLWs0MXNtemwtMTBtSlozaHJmM09sdmNYUWwwUWgtdk5vY2ROUFJPaTQ0cXZRMktpMHVaRkRhb3BPVF9OX285MWhZQ0ROTllLSmxqWmR6TGtodzVoODUtZXdNVWJ3WTlpOEo3X1VRQXhVOFpjeldRc3o3S0ZNYWdhb2xxT1BQQk5qc0p4amRUa1F4RWtjUS0wWjlKVGxzYUIyN2dRQnNVSkROMTJTVE5EaDdvdmlfcVh0TlNSMU5qUHJSa1JVMnN4SDJTLW9PTVpqTFJsN3piQQ?oc=5",
-      "source": "Life 生活網",
       "published_at": "2026-09-14T07:00:00+00:00"
     }
   ]
