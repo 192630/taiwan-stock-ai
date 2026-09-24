@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T05:34:03.424688+08:00",
+  "updated_at": "2026-09-25T07:32:46.218192+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6269",
   "name": "台郡",
@@ -12,16 +12,16 @@
       "published_at": "2026-09-19T04:51:40+00:00"
     },
     {
-      "title": "6269 台郡 - 破病股 他媽的 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aZjcyQkdnT3ZEUTk5Qk1kUEVHTDRVdkRIY0g3NUM0RDdrdlVUUjBtZVM0bUpKS1lfOUJRRGxVNTdqdEhGNElpcWhXd1ZUdWNBRGwwd25fbk8?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-17T04:19:49+00:00"
-    },
-    {
       "title": "6269 台郡 - 髒東西 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Cb2hlSHBGREZvVmpuQW9oUmVaMUFKSHN0YkQ3SDNzSGpvbUpoaEtnQzVxTm9DeUNvM3ZSSjhEbEl6YmtnUVptS0pzQmRHenEtVmo2YmZFUUE?oc=5",
       "source": "cmoney.tw",
       "published_at": "2026-09-17T02:02:37+00:00"
+    },
+    {
+      "title": "6269 台郡- PCB大廠台郡布局人形機器人市場- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5TGJGUWI3NWUtQUQwSTczZzVvR2VxbW5sVS0yX3RCWmpTRWIxZWRxZi1rZm4ycFZBeWo5RTJ6X1hlZTFjZnh1RUo1OUxibFFtNmQ0MmtfZDY?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
       "title": "6269 台郡- 北上列車啟動........... - 股市爆料同學會",
@@ -60,15 +60,9 @@
       "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
-      "title": "6269 台郡- 蘋果折疊機要來了台郡準備上攻- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBsLUdvSTRVdlExbHJoS2U0UGt5d2ZEVmhwUVhXekFmQzRVY0IxdF9wc2VtX0VxdzJ6cmJwMTBVQWl3ZVZJeWRheWs2X1lxTEJheE1NaTFULVU?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-03T07:00:00+00:00"
-    },
-    {
       "title": "台虹PTFE還沒定案！亞電、台郡、臻鼎也被點名PCB女王曝「另一個夢」更早落地- 上市櫃",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RMmRDZUxpeS1fMWY1YnlTVlBFTFgxS2JwWGp5WlRWbU9BTzZ2VzZNNS16ZXpTTDdDRGFxWFN4MXNaNDZyS0pXTi01NkUyaFY4YVk3NXZvXzNIWEhNMnh6Q0lFNzFENU9HYUE?oc=5",
-      "source": "wantrich.chinatimes.com",
+      "source": "旺得富理財網",
       "published_at": "2026-09-02T07:00:00+00:00"
     },
     {
@@ -76,6 +70,12 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTzFnR3dkRVlIdkZfbnA3czdNVlBsSk5Nd21halViOXFmc1lwX1BzclRwQ2JCOGxBTlVnbkRkTVRqZVhPdjFjbkJRUTdzaUFPY1VxWl82b0pkTzZJOS1VRUw2TmRGWHloWFdVY2h6UXlWOTlYcUdGX0VhWWY0bTJFRmF5MUhEYWlZSFNnLXh3?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-08-27T07:00:00+00:00"
+    },
+    {
+      "title": "【12:59 即時新聞】臺郡(6269)股價勁揚逾7%，跌深反彈搭配AI伺服器軟板題材＋中期技術面由空翻多、主力籌碼轉趨中性",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaGVPN2x1QjJwRXppVFRicjVpdFJjOEFScUlXRmpGdk02OTJkNGx4bVFnaTVyYzZiZ01oNXFKa2xJSzdzUExlVXdVTGltV2VBMVJUYy0xNXByUXVWRHFidzVxNWplZmNiRTVYcHg3Y2tyWC0tRGZJRVh5a1A4bHZhNVRUQjVEcmFYTTlmc2dB?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-08-26T07:00:00+00:00"
     }
   ]
 }

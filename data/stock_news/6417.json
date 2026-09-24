@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-24T05:34:14.956359+08:00",
+  "updated_at": "2026-09-25T07:32:57.957428+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6417",
   "name": "韋僑",
-  "count": 3,
+  "count": 4,
   "news": [
     {
       "title": "《櫃買市場券商買超前30名 3-2》韋僑(301)、光頡(296)",
@@ -20,8 +20,14 @@
     {
       "title": "韋僑H1的EPS達3.62元 成長力道強挹注8月營收登史上次高",
       "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPdE1qVEJMNkFiTFZUcUg2MXZUT25SejIzcW9yeDhkRHhXVnl1NzJVTU5EWWxKN3lMbUlhYzJYU29ING92V2VFalV2NTFTaGVHUDB6Z1VJc08xcVhqY3JBQkdBdzlnc3FuVWdzcE9fdDk0NVVlak4yODZXRlFnS0YzS0kxalVYRElORlVSTU9TMzBfRE9xMktHSTdHeEVmTXZLbXh3ZjZoaU80dGhEbUNtUERIaVNiQkZXZDFydnBvRDVfc2dCaHRqQ2k3b25GT1NtbkVXNmc3TlZrRUhkZUIyU3JwNldkNENYUS1PRldhWkE1NGlXLVVkVllYNWRpQVhuWUt6SWJMcGc1QzkzWGJBTHlkMS1yYktWY0p1eWY0cjNsTC0tVVNuQTZRbXBvbW4xVHJDTXpNQ1QzRmNKWGEyMUFpSVN1VXV5VzhIX3k4bzIyaVdPMHJhZDQyMW4?oc=5",
-      "source": "Yahoo 財經",
+      "source": "hk.finance.yahoo.com",
       "published_at": "2026-09-09T11:27:55+00:00"
+    },
+    {
+      "title": "下半年旺季發威！消費電子與醫療RFID需求回升，韋僑等3檔8月營收亮眼-財經焦點情報站",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdE5hR3hkMmNnR3dzY3Rnal9Oam00aWNxd2ZhZ2VRMXhiTXlvUm9Ec09kQkNucGxKaHJEUVR6ZXFXdDhTQkpGUUVfQWw0Ul91Rjk5NDJmUkpzWV9xWmU5eXJXdnhjZ1ROM1Z0S3BsdUVTMTVfOGRIbjRRWlRDMGdlTDBR?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
     }
   ]
 }

@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-24T05:34:29.202893+08:00",
+  "updated_at": "2026-09-25T07:33:12.623246+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6494",
   "name": "九齊",
-  "count": 2,
+  "count": 3,
   "news": [
+    {
+      "title": "NFK Holdings Co.,Ltd收入明細 – TSE:6494",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XNkFRV1JZZVB6VmFvbjhOWlRYMFFvQnBWVFVNb1FYSkNtR25KQlJwYlRTWlhPNXhzc1RQS3FCcXRTV2VjM2w3LUhUbnBjNkFab2h4SFJ6OVlzNUFid1dGcjhRbUtiWVloUjl2azYzOGNRUQ?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-23T16:14:27+00:00"
+    },
     {
       "title": "Nyquest Technology Co Ltd的股東人數 – TPEX:6494",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUzluSXhmQkZSekdobU8wTjBrVmg3SzA4d2FZQWdvNzNLbHl2MlJSTkJ6cGNyTGFRbnZ3MGNuSy1RUzA5ZHBRRm5GSjVUV0phX0w1SEpsUGxYcW5FNUhIUUFwbFV1TDUwWlhDX0pUVGl6TFdhR25wQVZEcFczM3NteW5pTkhMN1k3VGx0aWxlT1MzLWh6MDBtOWYwdy1Tb3ZfbG4w?oc=5",
@@ -12,9 +18,9 @@
       "published_at": "2026-09-17T15:14:23+00:00"
     },
     {
-      "title": "【2026/08月營收公告】九齊(6494) 八月營收月減年增，全年營運續看向上",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wbDdDQ2hIUVRKWXRKaDhzNXNaV3NUc1MySXc4b1k2R0Y1YnYxbHAtMlZjUUZDY2IxSk43Q3lreFF0ektjcEhzbmdhUk01UkdENGQyLURsSk1qaG9VY1E1cVZuSFprVTA?oc=5",
-      "source": "cmoney.tw",
+      "title": "【2026/08月營收公告】九齊(6494) 八月營收月減年增，全年營運續看向上-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb3l1OExpM1haY0dSWm1DYVBnWTJENU40b19HRU5weTlVUThkLThVWU1HMVlHandsZnJPc2Z2UHRBeW5HblBBeFVzZ2RkZk1VU0dxYnFZdGZvYlJaR0x6Z0oxTWxfU1JSZXYtOUhTT0YxVXBkQmg4U2tValJ4OXB0RXJuOXNQdWE0YUE?oc=5",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]

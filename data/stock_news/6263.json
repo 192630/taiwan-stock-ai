@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-24T05:34:01.705411+08:00",
+  "updated_at": "2026-09-25T07:32:44.454864+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6263",
   "name": "普萊德",
-  "count": 4,
+  "count": 3,
   "news": [
     {
       "title": "搶攻全球軌道商機！普萊德前進德國",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qeUhTbXVIeHhxV2hILXhtUUhaQlVEM040WlA2eW12V1E5azE4VzJ3NEh5MUpRTzJITnJZY0xHQmlkMDhnaG1LVXYtOWVDcnhuczM0dEhOcXQ?oc=5",
-      "source": "自由時報",
+      "source": "stock.ltn.com.tw",
       "published_at": "2026-09-15T07:19:33+00:00"
     },
     {
@@ -22,12 +22,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHenlNczFGN1Ezano3dWtIX2U2QXNNU1BNNEtibEkzQ2RqSDlfQldkSk0xSDA2aVlsZ1A4VmxMSjRKRlVxbF8tNEJLNVg4ZEhwWHk3SFdJZG0?oc=5",
       "source": "cmoney.tw",
       "published_at": "2026-09-08T01:32:03+00:00"
-    },
-    {
-      "title": "普萊德營收／8月1.54億元、月減23% 前八月仍創同期新高",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NdEJ1MFFtZnJ4Q2s1M05vaDFLU1JWZDFReXY1MEN0VnRBSk9oU1pLWUhEaW1ybXJPajRuVmxJM2VKU0xJSUhqQkZFV0Nhc1psTE0yWVhMcUtGODDSAWBBVV95cUxOcUJ5WnpZeXE0WnhDdFVTV2JhMnVyUDQ0dXZ4UVBhVVVjckNQMjI0SGNncUZaQl94ZDN2Y2Z5cFZ1U0lCVzlJUV9RU25oeUp1eXZCb1oyc2M0RVJ6LVF4Yzc?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-09-07T07:00:00+00:00"
     }
   ]
 }

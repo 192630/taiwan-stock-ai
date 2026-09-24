@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-24T05:34:17.648616+08:00",
+  "updated_at": "2026-09-25T07:33:00.678821+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6431",
   "name": "光麗-KY",
-  "count": 4,
+  "count": 3,
   "news": [
     {
       "title": "投信：週二(22日)投信賣超上櫃股票22億6431萬元",
@@ -22,12 +22,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05VFlPakZuTG1XcWtmRmZrOHk2TDUyRWIzLUpvUDJpUndhZ0NNS19kS19IUjdhYXJOWHZ6Z1luaTBIMzFOQUwzZWNLcTJBUDE1Mk1WRG1WVzU?oc=5",
       "source": "cmoney.tw",
       "published_at": "2026-09-10T07:00:00+00:00"
-    },
-    {
-      "title": "【即時新聞】最新！光麗-KY宣布延遲申報第二季財報重訊，遭開罰5萬元",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdmZQZkFXaEJ6Z2stTlBuR1hCVVhVTXFnQTBLMDdkbTJkc1UyNVlFSEpLXy16VmFMN2xCTmxMbTZORkwtMGVnTnY2N285d1NRak91Qjg0cHdkSU5ZWjNleWxNRG9NQ2dlWmFDRFE5enZyWVRFRGJoWlFVaFE0Uk1pWUR2QTdXM19aY0dSQ0hpa2w?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-08-25T07:00:00+00:00"
     }
   ]
 }
