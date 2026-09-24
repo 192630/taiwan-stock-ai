@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-23T20:39:24.516162+08:00",
+  "updated_at": "2026-09-24T21:36:15.749881+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3232",
   "name": "昱捷",
-  "count": 1,
+  "count": 2,
   "news": [
+    {
+      "title": "3232 昱捷- 【09/17 產業即時新聞】IC通路族群大漲2.52%迎買盤！茂綸強勢領軍、文曄大聯大同步走揚- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15QVZWLUp6RkRIcFJzM2wtQmJFRFhJWFNRRDhIUFRUWktaUU9pdWdlUS1qSHNDYk1kc1gtY3ZmTXEyd1BGTjhsLU5pODhXaS1RTzAwQ1Y3MHo?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-17T02:30:41+00:00"
+    },
     {
       "title": "昱捷股份有限公司",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaXVtdmxRTGhwR0lUTUZqaFhHVllhdThNTkNhY0d6T0llSGZPSnB2cVFSMk9XWW9WcjBzZFpLeEM4dGt0RjVqX1doUmFiUkNNSHBXSmg0Q2VFNzRwanQzUm5yUWZWQnNGZWRSYklVV0ZJRnIzSmZyd1ZsLVN3NE52eFd1TXRMZmZTRGZFNGVMaHNYRE1KWFZZ?oc=5",

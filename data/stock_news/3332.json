@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-23T21:34:51.285307+08:00",
+  "updated_at": "2026-09-24T21:36:32.367281+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3332",
   "name": "幸康",
-  "count": 2,
+  "count": 3,
   "news": [
+    {
+      "title": "Nanjing Sinolife United Co., Ltd. Class H收入明細 – HKEX:3332",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9wd3ppNnVYb0dlbUswVWVOaU1CaVUwTDduQjhtYklsUldKQks5X2d1SGgzRm0xc2JKRDJHRzF4dktKZ2ltbWt0bFlELXFkYUFRMmtrZmYtVDB4TnNTOXRROUFtdVNCMkFqUDNWdjY2VlZmOWM?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-23T02:58:31+00:00"
+    },
     {
       "title": "幸康 115年8月營收1.99億、年增54.72%",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1OOExMR1BvSkJnMFY5X1ZXQWpKSzB0TWEwa29acGRfa1phMjN2MGMxWXJuRTRQdU5nUjROQ3E0REE3ZmNLQjRvbnFuUHlnOS1hNHlDbjdpRVQ?oc=5",
@@ -14,7 +20,7 @@
     {
       "title": "【2026/08月營收公告】幸康(3332) 八月營收1.99億元，表現亮眼、呈現雙成長，創歷史新高，年增54.72%",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcGtyWGFNY1FzeTdkVDVnNWRSMWxYcWlmc0RqaGZJMG45SnZueE56XzNVRXF0RVdTUE5DcjNuVmNsSGVhejJMa19wNlF3SFIzU0s2bl9lc2EtWkxRX1FmalhkdEtEYVJhbGd2S3Y5Yy1SMVBvSEt6NWFOb09Mc2xVOG4xR1BVaGw5c0E?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
     }
   ]

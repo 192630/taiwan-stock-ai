@@ -1,15 +1,33 @@
 {
-  "updated_at": "2026-09-23T20:39:28.178426+08:00",
+  "updated_at": "2026-09-24T21:36:19.045099+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3264",
   "name": "欣銓",
   "count": 12,
   "news": [
     {
-      "title": "主動式ETF昨天減碼的欣銓(3264)，今天慘摔8.86%",
+      "title": "《櫃買市場券商賣超前30名 3-1》欣銓(-3627)、中美晶(-2173)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUkF0ZGU4SWpMY3JVcGt2czF1SDdBTDljaE0xR0hLVUx3a183Z1pVRVFZdklRUUhPLXhnSWJuYTBseFpWb2ZaUjdKMzFtTnZlc3hSbjJzcFhuTTl1TGE0SkstczgwSE5pSEJQa3hDaDZsOVRkREVwRnpaUkVPNWItVXZBQ05YSVQt?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-23T23:30:00+00:00"
+    },
+    {
+      "title": "主動式ETF昨天減碼的欣銓(3264)，今天慘摔8.86%-CMoney官方",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRTzkzaHZoQ1dnbEpoWEwwdlk5QnZad01tQkxUYlY1bTg3TFMtUHpCT1VmVTBicXR6U1AzajM0dzdBOE5mR2U4b3dNYkM1Wm9ESHF3eW1rQ185NkxxdjRsMlBTcjNyOFdGVE5MQ3ZfZFNYdkt2TndKd1RoWTFyZw?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-23T08:33:55+00:00"
+    },
+    {
+      "title": "主動式ETF昨天減碼的欣銓(3264)，今天慘摔8.86%",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTGxqMTd1b0ttSEJNcmw5MGQzOTIxYUNJaS0xZlppeDF4LW9aNUpLZmd0UEV5YmU2V2pyZDlvenN5NG9ZY3JqbGFyRUhCVWNBZ0ZMdzZfQi01YUtkcGdXNDNBdTZUOG5TSmJLZ0hiNEpfdTBqY0lkeXV0ZUw1V1BxcXJTdGxORTZxODhSMl9DcTJnY28yckpacF9BeHlDYzdObXdNRU55Q21LSHdHS0lVQnFfeTd6WEhRRVRGSElwOA?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-23T08:33:55+00:00"
+    },
+    {
+      "title": "《上櫃個股成交金額前30名（6-3）》欣銓科技(7390167)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV2s4N2RZUGJtbXFCejdRSXdNSGozS0dRODl6U3Jzc3lVUXBOaURremVjb3o4dDJhekdxNUdvUFl2UDFueS1SZXBGRE9KaFZuM1pQLWdaSUtpcVQzMmQ5OXJSRDBSRGpORDg0T29sWk9NSHdZLVZ5M0FuVmpKUDNJdi0tQTNyOGtY?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-23T06:28:00+00:00"
     },
     {
       "title": "【00406A】09/22 操作日報｜大買欣銓，資金轉向半導體封測",
@@ -44,38 +62,20 @@
     {
       "title": "3264 欣銓 - 準備下去了 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WU182bHNIMUoxRE9NUVI2ZHlIYUc1N2E0S0FjRGROalZFUmppYUVCUF9MUjhXRlEwQjZzZm9FeDZTSU1lNDNZWDN4Wi1FNkV3VDNxZG1VaGY?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-22T03:57:48+00:00"
     },
     {
       "title": "法人按讚欣銓、矽格股價嗨- 日報",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40VzlQSlpweU1RZ0k1WkpiTnFOX19Xa3d5ZDlZVlhWVVpqVDVmX0NhUEZFNzhHaTN2cTVRNTRsSzBCUGsxbFpVeXY0aWxXWERFRE1UNTdkdm5MZnJOLXZ3?oc=5",
-      "source": "ctee.com.tw",
+      "source": "工商時報",
       "published_at": "2026-09-21T19:00:00+00:00"
     },
     {
-      "title": "【13:09 即時新聞】欣銓(3264)盤中續強，AI高階測試題材成焦點",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQlhYd3NDcW40WmdRUWpidFV5UVNIZHdGalY2NThSU3BndGZWX0tCdlRjTENzcG1Pd3JpcEQ5UEhzWGMwZGJ3S3lzSDVpWVh5SEJmWUJIbXdTN2hFMTV4Q0JDV2FuUkJwZmxVYV8xb3FKQTd4WGdDcndYVXl2ejl6UUtxYmVxSUlQbHo3aW1n?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-21T05:09:35+00:00"
-    },
-    {
-      "title": "欣銓(3264)第三季成長門檻曝光！AI ASIC需求強，9月營收只要超過14億元，第三季可望達成雙位數季增",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KSmQxMnFBM01QOXRVOHJVQmF0N3JvMklwU1hrS3FIaVB1V3ZpTTNNcWt3YU55a0h6ZXNIWVhmQzVwZW0yQllwUW5OeEJ5bmM?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-09-21T04:30:06+00:00"
-    },
-    {
-      "title": "3264 欣銓 - 不要啊～～～～ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUYTNkbzZSS0NMSkNXVnBRWHptTXpsOUhQNnZnbGhqM2VwUnhacUxtZThQQVM4SldTMHFxN1BoZjBsV2ozNmFyRUQ0V2FQNmhYVFJfMmFpMGc?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-21T03:10:31+00:00"
-    },
-    {
-      "title": "欣銓 押價內外15%",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41em9JNGVlWDlwTGs5M2ZERDFueUZrcWRTZFhBRzNNaXdudnpiemE3amd1Zzk5dDFvTlNNYVB3eGFyV2JBRHRuUVJxcGd4QnUyVG1YcnlvazhRZ9IBX0FVX3lxTFBLQVFRM0hCWEk5VEdiTTZXdUliNFZqbEdLeFZ0NEFlVnlZRW5fS2VkRmJaSFlncUxhOGlFTlYxOTJpWGE3MlI5cHJoYnhiaDJsLTNwU00yLXh0M0VocjQ0?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-09-20T16:46:36+00:00"
+      "title": "TWA00 加權指數- 00994A持續加碼欣銓！AI測試訊號延續- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wWmNFSV8wMk1qVExnS3V1bWJEWDI4eEZZejhndFBtdDVGUzRqZFhyNTBodlRCTGF3d2hMeTlRQVVNcmdENG13SkZhT2Rpd1JCQklGOE5CNno?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T11:27:00+00:00"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-23T20:39:22.332869+08:00",
+  "updated_at": "2026-09-24T21:36:14.066937+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3227",
   "name": "原相",
-  "count": 4,
+  "count": 3,
   "news": [
     {
       "title": "《外資》賣超股：鈊象、原相、力旺",
@@ -18,15 +18,9 @@
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
-      "title": "3227 原相- 原相聯詠無人機臺灣韌性供應鏈- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pdkFvWEdrbTF2Q2NaT3d0WVFqb1BJNER2anZNQmJHU19UTERBWWlaeHlxalBTakFVLWNOOURGS01NUGhaODBJLS1zTDVGUm42Wk1zWVBxME8?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
       "title": "6526 達發- 2026第四張牌原相慢慢找時間入場低調- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PRE9aS3J1Q25QOTdkN205bm1JeG9rZ0xoVWV2UXhjZ0kycThNZF9WNFpGcnNJUUNLWlV5dWx5WVRvMkFGNE5YM0pDRm1WZ3d4TFdBdjBHUXg?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-08-26T07:00:00+00:00"
     }
   ]

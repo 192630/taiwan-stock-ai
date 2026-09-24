@@ -1,14 +1,26 @@
 {
-  "updated_at": "2026-09-23T21:34:48.759357+08:00",
+  "updated_at": "2026-09-24T21:36:29.753110+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3317",
   "name": "尼克森",
-  "count": 4,
+  "count": 6,
   "news": [
+    {
+      "title": "【10:22 即時新聞】尼克森(3317)股價走強，功率半導體題材續受關注",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbnhBRjF5dUFRQk4xYno1ZFZURi1pRW5pdnVTd2Q5M0lsRWFFV1lycHlCRmJfTzR5NDZaaEdPQWI5N2tPUXI5NDJNRm5lWTBoMGNfWi1RRXUyTUROOVlhcDEzVmMtQzhudXVxQWJtOHhuYTZ1UHN2bXliNnZON05WV2RwZGpOREtsYUFnVkRR?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-24T02:22:57+00:00"
+    },
+    {
+      "title": "3317 尼克森- 等待拉回量縮再進場- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qNVkybWlwM3A3Z1p1MGpSeTd0cTZaMFBoWkFNRE5LQ3V5SVhtaURfNzR2WG5zUEkxSzRsWVI3SU5SQ2gwcFhPLUV5WXdENWNSbDF3Q1lLWG4?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T13:42:57+00:00"
+    },
     {
       "title": "【09:17 即時新聞】尼克森(3317)亮燈漲停，功率半導體買盤集中",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUFBGcDA2RFZnNnNNOGQ4VmVFZ0dTaDhIOU04TTZuM21uMWl4UEJjS3ZuMFJTTFc3TVVCQV9WeEdEYVJ3SExqZUlpZkVTZVB6NEJ1cUQ4cEFwMXA4V05YSnNmc1BwaDlQUWNGOUtHM2RoT0M1T01VUVdTTUxKSFlkSE51NzBlQm0zWkVmWFFR?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-23T01:17:37+00:00"
     },
     {
@@ -25,9 +37,9 @@
     },
     {
       "title": "草間彌生一生未婚與他互繪裸體「無性忘年戀」 曾邀尼克森總統上床換停戰",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5Y2psVFI3OEc2ZHR6Qnc4X1gxNW55bHc0djYzaGQwN0lYVmdvRkFvSVZxZl9NU3lzRWxReC1pUW5Ib0gwNHU1Qmd5elV4ZkE3UWpRaTJkZ2pLWkhvX0NQTg?oc=5",
-      "source": "民視新聞網",
-      "published_at": "2026-08-28T07:00:00+00:00"
+      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNREhSc2N3Rk9JTFp0UTN5cG52SFRkMjBXQ282cVNwcHhhVjJLTmVELWx4NUF0cVVJaW54Q2pERjVvOFdZd2RnR1IwRWxfU2Vsc2p6bksxa2d2NklqZF90UlRYaUZRTlFWRTVvdnU5ak5CT2k3TFF3RmZxVlZFcXFWakU1MC1qWkdfcnR2TDdhM3BSNXo4VV9aNWRwYUtGSllFc1NuQkU1bUN5M1Bsdlg3ci1yNGJJR2MtRWFxWTlRY3lwdVNSTTg0LTBmd0t6U0FCYUNJc0VmUUtpaVlrYkwySG9lOVpMY0szVVN6RTNrZXJETlhwWGl5cjNibHA5b0N2MTBNb0hwT09WS3gzZWI0NlZzZTgtTHQtT1gtUmRpeEZ1QnY4VUx5a1hUZThZSExBTFVjS2lUMERfMmlGU3lTRnMyWjNaLU9JRmhJZzZHWi13M2ZVcWNja0ZXekwwNVhJQkVVNlJfQkRVQ2tXMHR1U0J5MHRWYlFWNWY0c2ctbFozdmxNbElreXhhQm9RdDJaMU1LQk5CcG1MZ2hWY203VFpEMTlFQlc3ZExBTTFHaU1veld0Vk5xcUtfTUtqYWM?oc=5",
+      "source": "tw.news.yahoo.com",
+      "published_at": "2026-08-27T07:00:00+00:00"
     }
   ]
 }

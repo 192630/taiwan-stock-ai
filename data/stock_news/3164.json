@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-23T20:39:11.095194+08:00",
+  "updated_at": "2026-09-24T21:36:04.239741+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3164",
   "name": "景岳",
-  "count": 1,
+  "count": 2,
   "news": [
     {
       "title": "8月營收創高也沒用？「PCB龍頭」連3跌慘淪弱勢股 投信重砍3164張、外資也在賣",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB6dHlwbkI3Ylo4SU80dURnS2JkUy1DMU1WVVhxRU9lUUFsLW8tMFpGUG9VaEhPTVBHaUZBRjk4TjJQcEZCSmFObGt2NA?oc=5",
       "source": "FTNN 新聞",
       "published_at": "2026-09-22T00:40:00+00:00"
+    },
+    {
+      "title": "景岳生物科技股份有限公司",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM1BDVG5vSU9rTHZmQjFtNTNwQmt2aEdXZldkTTl5N1VIalhsV210Y0lOZW14cWF5WGRDajNQcWhsNmxvVGRjTG5XTEdyZTVlTS0zY1hRUXViM1o5YnlZZ2lCamVEbjRDRF9jcHZOVnBiM3hCcWlHemNvX3NHMEFWd18tUm9neWhUdXY1UVVDNEN5WVV5TkxN?oc=5",
+      "source": "moneydj.com",
+      "published_at": "2026-09-21T02:17:00+00:00"
     }
   ]
 }

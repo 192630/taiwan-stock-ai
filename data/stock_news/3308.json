@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-23T20:39:37.954126+08:00",
+  "updated_at": "2026-09-24T21:36:27.423337+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3308",
   "name": "聯德",
-  "count": 6,
+  "count": 8,
   "news": [
+    {
+      "title": "聯德股份(605060.SH)：員工持股平臺擬合計減持不超1%股份 作者 智通財經",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84Y1pmXzgyY18ycWM4d2JYZUpNVlMwd3NVSlpHWFp5TXJURkVkUHNvbGtQWFlhcmxDRENQTTlHaXNReHVCYWlFUE5ZeHR3UUJDSFJVRXd1OUNZa0JzalNmVlFucmc0UE93cnJxdm8taW8?oc=5",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "published_at": "2026-09-24T09:56:15+00:00"
+    },
     {
       "title": "【2026/08月營收公告】聯德控股-KY(4912) 八月營收月減年增，全年營運續看向上-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUmNIYTlacEdmdVVhNlRLbE40ci1vU1lMYzZCNGVlS004VG9SaXZNMzBXMmhkbTQzY0ltcHMwLWozSEFDV3E5TE5lV0g2TkRfRXM1TFpSczBGWEUtMllyZlltdnZ5REZkRi1nQzNsN2RnM20xUkdUMFozaWN1NTRTSWFoYy1vOXc4M0E?oc=5",
@@ -12,15 +18,21 @@
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
+      "title": "聯德控股-KY 公告本公司115年8月份自結合併營收情形",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KMXo1UUJrbVBkQVRhblgyMzNSU0xJdzQxSUN0VHV4NG8xd1Nid2x1cmU5SVlvNWlvQ3dlbWtoTXYwU054ckJGcVVQcjh4T0JRQVlIeTVVRmw?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
       "title": "聯德控股-KY 115年8月營收6.57億、年增32.22%",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2b2xYbE1VNkdVcjNLbmwxTnNkcFJWcERpMFBJOGpZclU3NWpGVnVuV2FSbVo3UVFadXZROFZoUjJjUElvd2tQUjdxbjRCUTROLUZxanZiLXI?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
       "title": "【11:57 即時新聞】聯德控股-KY(4912)股價上漲逾3%，AI水冷浮動機構件題材發酵＋均線多頭格局吸引趨勢買盤",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkVjJIdkxYMERkWDR1SE5ubHZNb3JFVzRfRTlxQ2o3WjFzcFZ0TWN1dVhfeFhZaTJYY2h2dklhYW9zMFdJOUJkZkxXTnRzZ1BpMDZHV09Fb05od1BrY3RCYllzNm5DUUE?oc=5",
-      "source": "cmoney.tw",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOEdiSm1Tc2dtYzktdXFqNXRib0lTdFZ0U1Jwb2FMaUtKbXBxdjVZQmp6ekdabDEySmNOYjEyWENKNC1KQ2drdXBqNHR6UzZRX0hNMkZMVElWbHNwMU9uTTNQN0VkRk1DRjJvVEUwMEFaS2R6eE82aW9DeHFyOG5Uc0NLT2lxeHUtX0hDaFlB?oc=5",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-02T07:00:00+00:00"
     },
     {
@@ -38,7 +50,7 @@
     {
       "title": "聯德控股-KY 公告本公司調整115年第2季現金股利配息率",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50cV9qZERucS1YTVdwS1FfMnZOQXZTc19oRGl3NlFqaUJHWGpWeDBvUFVRWmtDN0w5Tld6U3pSTl95NXFvUUktcXBqV0drd1F6OE9aZG5CYzA?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-08-26T06:04:32+00:00"
     }
   ]
