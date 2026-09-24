@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-23T09:33:29.183661+08:00",
+  "updated_at": "2026-09-24T10:34:33.503161+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8069",
   "name": "元太",
   "count": 12,
   "news": [
-    {
-      "title": "元太(8069) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KRjZnYXUwVEw1ZnZkUFVZdVVrbkc2emN1MjQwU2stWVp3VW5LazFLS0wxMWxiUmVfX2R3MXNSSGhPalNXRjNWYXJlYlJPY3hJYzdz?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-23T00:17:22+00:00"
-    },
     {
       "title": "2330 台積電 - 我很有自信，聚和、元太會讓我變成小富翁！ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzdTFpaGZpbXhwWGlYOWM1RXdTZWNKSnQyeWRXLTdFbGxkTEphTjhYSU5ad3puMDdQWU4tYjdHZHJHS0ozakRsX1NiR0RSN1dGbGk5YXY2Mlo?oc=5",
@@ -48,12 +42,6 @@
       "published_at": "2026-09-21T02:42:12+00:00"
     },
     {
-      "title": "8069 元太 - 如果DDR4跌價 對於元太是利多 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XcnlkTDdkVlFGS25uY3o1MUFnenlFc0YycU5uNFUyMVkzTW9LTmZzTDVWNTBwYmc5QWZKdEw5VTc2bks2alhLbHQxTmhja0thbGpGUGJiRlk?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-21T02:24:32+00:00"
-    },
-    {
       "title": "8069 元太 - 爆發總在一瞬間☺️ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGS2dkZWV5X3ZRbjlaWHp0UmVfR25Kb1A0Wi05Q0JlMnNOMzhfbnpDeHRaSEhiZFdNZ0p6ald4ZG5HZzh3S2xOMEhlME5BMHpua3FmSmEwT3k?oc=5",
       "source": "CMoney",
@@ -76,6 +64,18 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55YXJXRXRBOHJET21Jd18yVkg5QlI0WmZUVk4xV1RBa1V4UWthSktoWDBkZ1lya0NaSHdBM2RVTzFIc0tTX1RtYktVR3FjaVhzUjRTd0tJWXg?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-17T12:47:50+00:00"
+    },
+    {
+      "title": "8069 元太 - 真是爛泥 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yRnpwYk1hNDVDT3BlMnZfazU5aG5wcERJS2xEdjNFdzNheDNuWTNUaFRzLTBMT1p6NjBYSXlJM2ZoMl96UWZBd2MyLWNWRDlOVlY0WjRMeVA?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-17T05:38:58+00:00"
+    },
+    {
+      "title": "8069 元太 - 真的蠻鳥的 這檔好廢 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqd0xDdmRxX0tpZkpLdTE0ZDVuNFA5U3E3OWhhRTMyQ1cyOUJheXFWUFItamI1blVubmFGVm53REV5XzE3cXZsY29xWXhJX2hNdk1FTEZZYjQ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-17T03:01:13+00:00"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-23T10:34:10.945556+08:00",
+  "updated_at": "2026-09-24T10:34:53.254295+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8183",
   "name": "精星",
-  "count": 11,
+  "count": 8,
   "news": [
     {
       "title": "最後倒數！精星今迎最後交易日 10／1終止上櫃「持股不會歸零」",
@@ -14,7 +14,7 @@
     {
       "title": "個股：精星(8183)獲准股票自10月1日起停止公開發行",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMWYxMWM2S1BwdlJCQmdCdXNfMWZFLTVxSlZLUTRvdmJ1Y1piTlJJYjdmcFZWZUtkcDNzVWdvVXppVVRJMlp2MkdnWTZhcW9BeU9JbmZLbFM3ZHhtQ3RpbEc2UWRRemNnaTdETEpJZnBySmNiRmQ4MnJzRnROcmpPVklDQXdVeGJV?oc=5",
-      "source": "ww2.money-link.com.tw",
+      "source": "富聯網",
       "published_at": "2026-09-22T07:19:00+00:00"
     },
     {
@@ -30,12 +30,6 @@
       "published_at": "2026-09-22T00:15:48+00:00"
     },
     {
-      "title": "3.8萬股東注意！精星科技將終止上櫃 「這天起」停止買賣",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BRXF3Z2tOSnRNNGdVNnhHQU1XeXFCWjlJVnZMT0F3bUd6R3FqdnQ5RHhWQ2hjUXdDMVBBN0d1WVlfRmpTbU83cWdQckcxWnM?oc=5",
-      "source": "TVBS新聞網",
-      "published_at": "2026-09-19T03:00:00+00:00"
-    },
-    {
       "title": "3.8萬股東注意！精星下市倒數、手中股票不歸零 最後交易日曝光",
       "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQdVhVbE5WM2E1WHAyem4xeTlTQnNUTG5OcTFJZHB3Vklnb1BBOFJzQ3RMdkYyRGpOaWdjcFdxSHBiMlNYOG5kbGxJdk9kZDkwbUxuQzZ3YUZQNHVUSGNzRlprMkRHQlp5bjV3YmVEQTBBN29SN0pRTWc0M1hOS2U1c3ZTaDBnSnQwMDZYNW4xZ21mOTlSODFleEpMRWtvMFVtTnlHMm9wQ3JKZUlVcWVQcDNWYVljRzNWY1VWQ2NEVWlNQ0xScHY2cDVFNFVhQ0dzMnp4RUJ1bXU1cWtzYmd2dGxmVEtOSWw1Tm83anNuUUxNb1NsbHhZQ0VTbzdsTWdlT3lUYU53Z2x4WXcycWFWYlBPQjFEeVg5Zm05X3RmWU5JdDIyX0d3emluVHRIS25MZUMxc1JOZE5pTWh6TUVzeEdXX0tSa1hXZ21abEptMlkzTHVlWEpsV1BEdWFkVVRTOFVqM1MtZVFRZjVaUlVORDNQcmtHUnFRVkFNYURrQlM2MFltMXY0?oc=5",
       "source": "Yahoo新聞",
@@ -48,22 +42,10 @@
       "published_at": "2026-09-18T09:34:00+00:00"
     },
     {
-      "title": "3.8萬股東注意！精星10/1日確定下櫃 手中股票不歸零「這比例」換精成科",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qTkFYaXB1ZURIRHhZUHhSdXZ2cGZlMHk3OWIyeVJ4RFp5R1lzMjlfTXBxTHAxQ0VNaFoxRGs1eFF1R1ZhOEgyWDlwZFU?oc=5",
-      "source": "聚財網",
-      "published_at": "2026-09-18T01:54:10+00:00"
-    },
-    {
       "title": "3.8萬股東注意！精星10/1日確定下櫃 手中股票不歸零「這比例」換精成科 | 財經",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xQWw5c0hTVEV3VDRxREZHaTFVVkpHa3Vnb3Vhcjd6cmxyQ21ZaS1yeU9zUG9JMjNzVG5OeHdENk9XMzdxcm43RnlkejRNYXdab3RsNGxFeTZwdGs?oc=5",
       "source": "Newtalk新聞",
       "published_at": "2026-09-18T01:47:52+00:00"
-    },
-    {
-      "title": "精星10/1下櫃倒數 最後交易日9/22、9/23起停止交易",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iTzduTjFVUlg1MTJCQW1IWHZQdnY1bm1xbnczeW9DdU4xbm9iQ2pPbGJhTzhBTVRLTGxqQVZnTFZoQWVvUEhXS3RhY2R6R2NyNFZXTDYzWHNvUU14djRVanRwM1Rub1dRdU85NDRpLWNPSTFiZG00VEt3?oc=5",
-      "source": "BigGo 財經",
-      "published_at": "2026-09-03T11:35:03+00:00"
     },
     {
       "title": "精星科技10/1起終止櫃買交易 9/23起停止交易",

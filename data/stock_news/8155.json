@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-23T09:33:46.500404+08:00",
+  "updated_at": "2026-09-24T10:34:50.644503+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8155",
   "name": "博智",
-  "count": 5,
+  "count": 6,
   "news": [
+    {
+      "title": "博智(8155) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtVTNFZDJwb09aX3pVMGpzMV9WZnAwbmRsNnE5dXk1dTU1b3pfdV90cjBpNG9nS2dxWkFCMVRlRzQtYnR6N3QzckxHdUNFck41OWNN?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T00:02:50+00:00"
+    },
     {
       "title": "討論牆 | 盤中速報 - 博智(8155)股價拉至漲停，漲停價272.5元，成交224張",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SNGw2LXdTM2E0cnQtLXowTEd6WXIzWERpRjBiNFpkckZOYlFJQWJ1Y21HSWhrOWFnQ29BbDh4Q2QzLUVUTUIxYUNDdUNwaGhNT01UME5oaHBvUnpxbDlLUFk1Mkg?oc=5",
@@ -24,10 +30,10 @@
       "published_at": "2026-09-11T00:47:26+00:00"
     },
     {
-      "title": "8155 博智- 博智8月營收5.61 億元- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15dlgxV3dqcjd5bzg2bUxFa09JZHBuYk5FQmFSXzlXalFJSkpzby00ZkR3aERsZ05tNGVmWDc1T3VLdXdYUm9vZXViVXFUc1U2aUl2SlAySmw?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-09T10:43:23+00:00"
+      "title": "【公告】博智董事會決議轉投資博智70%持有之ACM不超過美金80,000仟元(補充6/9公告)",
+      "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPWlk5WF9faWIwblEyUWN3NFN5ODRkS1U0QTNlYTFRT092T3MxNVpaQm1vMDFMVU5YWVU0Q3lzQUxrS3NzenUxczVybHZDbnh1QnZMcm4tUTdIVTg4WmszWUs2Y3RUTUpoS1ZldzZGbmQxS3M2aHRqQkU3bmw1di1DUXBvam1aYXRwSHhjQjZxaXpsT09ialF4VlpTZU1qTTVSVHpvMlJha25BemhrTVdycnNMWnljRWRQWVJCT2hsOUdtdjVNX3N2bDItN2hNR2FKRllOdTJBRGRYa25ESW9YX2xIeTFMcWs3LXNyd1g4VUlaS3ZkeDF3OG1FUVdPNjhKZk1iR1FmNVBmSy1nQUh4RGVtN09uaW0zOTkyQXpiWDhrY25xel9aTThvRi16bFNtSEVHYlQ5LXRPYmF0MHlGLWY2dG43cXlwa1lDMlg5aHN5TTR2LXM0aExKbUxhRFUzMXNSOXNOSE13bi0xZXp0dUsyZS1RSFkxNFRvX0JYTUhxeXRiQTRTMUlnQjdHR2dVZjZsYWR5WWxWaWx5Z0pmZDZTc19PYjQ?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-02T07:00:00+00:00"
     },
     {
       "title": "【12:59 即時新聞】博智(8155)股價走強漲近5%，AI伺服器高階PCB題材加持，歷史新高營收與法人偏多支撐多頭結構",

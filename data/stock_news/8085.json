@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T09:33:34.301244+08:00",
+  "updated_at": "2026-09-24T10:34:38.735556+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8085",
   "name": "福華",
@@ -16,18 +16,6 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd2hXZjNnMHVjNWd5NEZEeFhXU3plMDBoYmFjWTBYSFJ3MV9FbHFLM3JPdFlXaXlnUUVteUR0OElweVp2b21CUklhWExEWmxMTVNRcmdrZkF6YUFtV19wU3NmcW1tcnhhSFNsbzFFVEQydkVNN3ppMlo2R0dYdFNKTGJURmloUUtCM3c?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "福華 115年8月營收4376萬、年減12.78%",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lY2podEpWQXByMzkxZkNTY2JHNU91TjhzZ0NDbFMwNm80S0ZPa3hKZFNBaGdRODZCQnk5ZC1CY0dOVFh0eEZaZzU0dXlKWkx3cTN6SF9UV1o?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-07T08:08:01+00:00"
-    },
-    {
-      "title": "福華前董事長廖國宏55歲辭世 多年公益善念留人間",
-      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNcnJnbnBJVTd0c2FmbjF4WjNTdmswVlVDeHNCam9jM0c3ZTBabmtycF8zVGRVbW45RmxDdnM3OFVEZXhsT09zQU1NLWtha2dCbmxTVXJMeGhENmRQS1REMGNka1N4cHAzeUVaWXl6NHA4d0pmbWg0RV96NDRxaUoyQkpkYU01XzBhNFJ6R2RCb3JlNjROZldFWU9yNGlSMlRqZjRSc0ZnQ19SbU9wN2hKQXVkOElhM3o0dmpYVU5mdzAxbDR6Yk5iRkU3TXBKUVA4RlhqVTBqbFY1VmNEVU04Y3VUTG1FS082RzEyZWJEZGpObGF6ZHliNnlWaXRXOE1DdkhndzhPUkNDRUc1Mi1iZF9YbW85ZFhpaEhQZ0s4YnItREw1T2xsdEYzTzZKS3VfdTJGUG96SDVLcTRqei1vb0Z5QUpLdWFUSlB0TU9YbGF1azA?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
       "title": "福華第三代廖國宏猝逝！下飛機「突抽搐昏迷」 醫揭致命警訊",
@@ -73,8 +61,20 @@
     },
     {
       "title": "福華廖欽福借5萬從蓋廁所起家 9兒子聯手打造飯店王國",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wUldfSDBYUGhHV0trOHJhaTVoUTdXc1RXX0o1Y3FFTjVSaGVIc3gxZ3NTN0xmdGxwUDFyUDNoZE43c2dnb29oSVpiYW9aNzFBV3JyWmRTOXE?oc=5",
-      "source": "自由時報",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96Q1hDWGM4d3FfY19odFhobXJlTy1WYU5zaDJHYzg0UFFlWjRnRERsclBwSmoxUUc4czdtem54T0YxSENQOGZBZ21aaVl6VDZVTjNNaU01cEdEdHF1d0p30gFkQVVfeXFMTWY2V2M0a25WcFotbXRPU3Z0RTUzcXhkQnNxbXM1U1RkZ1A0OWdINkptS08zWGREOXZSa3B3ZE53TnlncFpsaHB0X1JoUEdPcG5GU215bEJRLUIyaFlWVmhfZTBIQQ?oc=5",
+      "source": "自由財經",
+      "published_at": "2026-09-06T07:00:00+00:00"
+    },
+    {
+      "title": "快訊／福華集團三代廖國宏猝逝！享年55歲， 飯店業界哀悼揭原因",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLVVBldTdmVDBJX2ZtRTdQTi12UmFPeEx1d25kZVN5NnM1cDZNVVkxSWZQbTdyMTBsTHpiVG0zc3NpQlBSTk5TR0x5RklnaXFK?oc=5",
+      "source": "風傳媒",
+      "published_at": "2026-09-06T07:00:00+00:00"
+    },
+    {
+      "title": "福華大飯店第三代接班人廖國宏 55歲驚傳猝逝、業界不捨",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DWTFocHRxckVhUS1PbnE3eDBSVThTNlB1TExtZWlNZTdsT0YzMlg1M2VvTUk1MjJpbi1Fb2JGeGIxSDBCSzVvYVBrb0VtaWlwd3NYc0dpRzdCYW1Fby1R0gFkQVVfeXFMT2RIXzNWbmRuMWNnUEtGdnppSTJwLWhvUGtINGlfc3VPWGdhWXFwRU5ZN3N6YTRGTmtYZzd0UVJBYlpsTTl6SWxIaWJ3MEJxTGJNcXVGSjJYSU9LdlFxcGxNNG41ZA?oc=5",
+      "source": "自由財經",
       "published_at": "2026-09-06T07:00:00+00:00"
     }
   ]

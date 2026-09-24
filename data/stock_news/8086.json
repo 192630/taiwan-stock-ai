@@ -1,15 +1,39 @@
 {
-  "updated_at": "2026-09-23T09:33:34.770457+08:00",
+  "updated_at": "2026-09-24T10:34:39.243913+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8086",
   "name": "宏捷科",
-  "count": 9,
+  "count": 12,
   "news": [
+    {
+      "title": "宏捷科(8086) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IcVpmOWJUTTJtUVJBTW5CRFIyRGx4NnY3X3EtUFFuVG5WU1NDOHl5bWJwdWY5c1lvUmo5ZExSVzF3YzV1RTJlRmdsbTlFcmx0V09v?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T01:19:37+00:00"
+    },
+    {
+      "title": "《櫃買市場券商賣超前30名 3-3》前鼎(-158)、宏捷科(-153)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSThnckRzSEtwcjdzamZDWjFEWUxSV3NTdHJGMnVyRmx4NTFyVnM5dGZzYjBNRDhFWTFacHZKbDNUWVczVjUzQUFsSWo3clgtWEJJT293ZG1xS3NQSTVqUjcxem14U0ZDS0VscTlqeUdrOHNXTkdQRU0zNGp0c1h1NkdweEdQMHVN?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-23T23:30:00+00:00"
+    },
     {
       "title": "《櫃買市場券商賣超前30名 3-3》宏捷科(-138)、長科*(-136)",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcjlta3VTWkM2eGtxTnF1SlpMaDlhbFpZOUhOZ3lmZnJtT0E3OXoyM1JVZUlmbW1Ia1Jhem5GWjNfTXJCX2lTNHhSWTJXYzRWZ2pLRlhYTWJNWEJlNXJyWHlWV09WSTg0ZmNHSklUZ21VakRqQUJjUENWUXBYZVJZQWFaUi1pQmJm?oc=5",
       "source": "富聯網",
       "published_at": "2026-09-16T23:33:00+00:00"
+    },
+    {
+      "title": "【09/14券商評等報告彙整】宏捷科(8086) 今日僅1家券商發布績效評等報告，評價為看多，目標價為126元。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPckdzOXNLOXc3M2ZHR2N3cTJkNFhQbFhMZVUzWWZ3bVZpVzM1cDZEV2hYV1V1SXluazMzaXQ5dGtRNENjN3RVbTNIcWltZXBkVUlwRkwybzJ1QTZSYmJxUDNqZHBVUXhQYUVCbGVSTGJLUFJDMFBXTUZIWS01TEZrelpaTno1dlU2dkE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-14T07:00:00+00:00"
+    },
+    {
+      "title": "(8086)宏捷科法說會 2026/09、宏捷科財報、宏捷科展望、宏捷科財報投資亮點｜理柴知道:法說最速報! - 方格子",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OVVBST2RwdVR1aldiT0N6d3hKeFZFejJFR0U1bjl5Q01MLXVOTUFLeE9VandlaU05NVE1SzJKay1PaXk2SjFGcUl1WS1rZXlNMDhZUDhFNVNuUldMMFHSAWNBVV95cUxNNVJsT0RYUnhZd2dSTzA3c0RremVOdW9Cd18yLWNVeTc4NURvN1NZQW5WVlZORUdrOExxcjVYdU0yYzUtdV91UVdSUmZPX2FrMXpTNHF6TG8taFFDRmhocjNMWnc?oc=5",
+      "source": "vocus",
+      "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
       "title": "8086 宏捷科- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會",
@@ -52,12 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UcGVhYVdVM01obWppQTJVMXg2Z0pZc0lGS09ISmExb25Ja2NiYm84bTF1TllEMm1mQ2JEbDJqY0l6dThiakwxZTBESG5QR0g4NzBYMWRuYXY?oc=5",
       "source": "CMoney",
       "published_at": "2026-08-26T07:00:00+00:00"
-    },
-    {
-      "title": "逆日步零錢・日證金東證股票（2・終）(8086～9962)（申購日08/24）（結算日08/26）",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZnRhT29FYVJMQ2d4SklhbTBQTElLRkJGSDRpeHFKWTd0RzE0Z0pkczZXcDJWRWJpRUNSWHBsNEdlWGJUbWw3ZGRObWN1bWNXTTVGdFM2Y1JzWUFJSkRzVF9HcXE1TENQRVBnVVVGZVJmNkJWYm1FdFRDcENwWEVmVHMzR1A0U1M0WmljYzIzVjgwdmRJOUVZOE1KcTQ1elJNYlNUN3dBaG5leXJCUGhxMXBXbGg2dUJUNldjTQ?oc=5",
-      "source": "Moomoo",
-      "published_at": "2026-08-24T07:00:00+00:00"
     }
   ]
 }

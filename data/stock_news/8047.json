@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-23T09:33:24.712761+08:00",
+  "updated_at": "2026-09-24T10:34:28.833389+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8047",
   "name": "星雲",
-  "count": 5,
+  "count": 6,
   "news": [
+    {
+      "title": "佛光大學發布星雲大師數位人文平臺 數位典藏豐厚史料和弘法足跡",
+      "url": "https://news.google.com/rss/articles/CBMisANBVV95cUxOUFVyNmpYVWlnOGNXVlFDWklaVi10NnpKV1FRMXU1UG9HUHlGUmd3UENmVnFYTkNjSEczbkhvRkhvSXRRNlotc3V2czlpdHBJUGVqR3M5aklkcUEtR2FyemMtdlhrTGxNVWMxeWN0RDJGZXBEQ1RYbVFhYWszbkdTcE80U2F1ZWFfcjBXY3Rta1VOTHhXV0tWWHZOMmprOC02TkxqVU5PQnhGaWpzeG4xZnM2cTl3aDZfY3Z0eExRR3Z5MlhRdDE2SEIzMHpkS2h3SF9vNEt0Tm1lV19vSnExYUhIejJKTEJZSmRzQWNPTVoyeDFUMUg2Q2ZVVWlJMUM4S1JiQ2lXV0NQTjFzd1dwYU0tdlMwYVE0TUdXeWhXOUtpNHFiemlraG5qS3VRb0xJZ09yVjZmeHR6cHhQd05hdDhqMGRZdzVVSXotZDJ0VTV5TjhONlRHUkpCa1dlNC02Q3hDbkp4UHdEYWhHcWJ3RzQxNmpUejVqdVhzelhEa3V5dmRRMThONzdIUDlVcmpXbzdBM0xaT2FzdTdrVG1vLW5mdlgwc0cxdWNPelJJOHM?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-22T16:00:00+00:00"
+    },
     {
       "title": "外資：週三(16日)外資賣超上市股票179億8047萬元",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd2xDbTVGTWFfMGV4ZDFJc3Q4bHdwaElNeVJXMUV4b2I5OElhcnBzVlJUMV9zR0VFa3BRS3J5MEFTd1dOaHBNU1ZjeDNQNGd6b3FaakFPaDZyNEdIVDI2aG9ob1FQMERoUmtncW0xeUtTa25QR0NkT2prN0NKRV9kVUs3WThzTFIw?oc=5",

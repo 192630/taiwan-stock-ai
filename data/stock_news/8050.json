@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-23T09:33:25.972849+08:00",
+  "updated_at": "2026-09-24T10:34:30.205485+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8050",
   "name": "廣積",
-  "count": 8,
+  "count": 10,
   "news": [
+    {
+      "title": "8050 廣積- 這垃圾股是要在59玩多久- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1icGhuQ01GandVM1FKNThHTkFBUGlPRHlRNnJmWnJRMnJYZWJfSnB4UTZlSFBoQk1BTmJQOEt5TG9fNExUZFFwZi0tUGxVMVE2WmwwMHVzSnY?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T04:15:15+00:00"
+    },
     {
       "title": "《外資》買超股：中信金、廣積、微星",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR05KOVhzV210bVpsdTROVjlVRzRDR3JDWndGdzBDNTN4dnpwbFVNSjA5cmRDVDhIQjY4bkIyajdJLThxT2licC1SNHBNVjZWUlpKQ0ZBc2lCM2t0Wk1lbGhoTGZVRkZDdkQ0NFJGaVhfOFRHWmswTHo1Y3hHSjg5QkZrdzM4RXBz?oc=5",
@@ -26,7 +32,7 @@
     {
       "title": "續抱台達電、廣積、康和證 加碼長興 新倉新代",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVkxwYlFSSlR4Q0RiSnhCa0k3OUkwR2g5b3gycHNuZjZ5R2FyM2lrRXFmNUtSdzRLaXJYVXZtdkVFX3BJeHliVEdUWU01SXhWLWY0ZkZiQjMzVGJfUThZZGZYdkxlM1NVMjEyTEFZdXNRMXhJNkM5WDhOM2lHTkhaMmpRcktFMUpxMXB1dGIzVVpRcXRXNkE?oc=5",
-      "source": "moneyweekly.com.tw",
+      "source": "理財周刊",
       "published_at": "2026-09-16T07:36:26+00:00"
     },
     {
@@ -40,6 +46,12 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZjk1V0JFUUstTks0VGZJeWl5TkMtZTVoeE5abzRpWXZoaTRWbW5TV0w0QmwzX084dUhoYlhONG9JT090eFpBQXNoZmtwaWhXbzFvdW5TN21Uc1NXcW5neWxMWGozaC1HMHdEUUlyQllXNHZ2Q09GWkhhWW9pc1U3bG84d3hvQzBIeFFkbXRR?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-11T07:00:00+00:00"
+    },
+    {
+      "title": "8050 廣積- 公司會計都死光了- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KYm9qbHFmZjlNWmZuUDJ4WGhjRzRMQjVxVVVNVFd0a0ZvQXYyel8zSnFvTldULXZQYnphNFdub0N5anZ5YXA4bFdHWENRTG5CVWp0eFBzNHc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
       "title": "8050 廣積- 睡💩不會動了？ - 股市爆料同學會",

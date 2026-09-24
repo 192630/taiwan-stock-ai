@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-09-23T09:33:36.574414+08:00",
+  "updated_at": "2026-09-24T10:34:41.012162+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8091",
   "name": "翔名",
-  "count": 1,
-  "news": [
-    {
-      "title": "【2026/08月營收公告】翔名(8091) 八月營收3.04億元，年增71.52%-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQzV3Yno0M2Y0b3ZfOWNMT2RMWmNDZkdrVXhBX1JxZUdlSklMeVNIM0pCSWRwVEJaYXdPSEUtOXEzYXp6bFpsSExHdkFJci1CLXRLclh4WlEwZy01Q0Vvb1JaMmR0VDRuM0M3M0d6THRUV25kQXlPSjNQR25PSEJjSVZzMFJxTlB6UHc?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-09T07:00:00+00:00"
-    }
-  ]
+  "count": 0,
+  "news": []
 }

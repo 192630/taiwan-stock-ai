@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-23T09:33:33.287578+08:00",
+  "updated_at": "2026-09-24T10:34:37.710191+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8083",
   "name": "瑞穎",
-  "count": 2,
+  "count": 3,
   "news": [
     {
       "title": "【09/21 申報轉讓】瑞穎(8083)董事謝和智於21日申報轉讓瑞穎股票150張",
@@ -16,6 +16,12 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyNzhrak1JWW0zT25XQ3h2ZV81UGFnUGl4Rmk3b1NEWUNZOWtVRUtEeGN3SzZGSzg0Y0I1dlNZWWV6WVljODBBWjdLTUtvaHljdGZvSmxJUjltR1ljX203VmxFR1lSYWc?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-21T13:10:03+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】瑞穎(8083) 八月營收1.1億元，年增5.3%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdWZxV01veER4aEpTazZjalJ0VVdlR2xBUTZBbElGRXRUQUdxSHEyVzAtXzZGSWpwNDNVMWRqdFMtT1hEZVlDMEJNNGljQXJaT19SQ1ZjNE1feGpQRWRuZlZSbzlQZTJhQk9aMFNKZmRDNjVIaG9aT0cxXzB5N0lyR0xUZjJka0E3OFE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]
 }

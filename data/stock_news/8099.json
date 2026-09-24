@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-23T09:33:38.890813+08:00",
+  "updated_at": "2026-09-24T10:34:43.181493+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8099",
   "name": "大世科",
-  "count": 5,
+  "count": 4,
   "news": [
     {
       "title": "航運數位轉型再升級！大世科攜手陽明海運整合衛星 5G 與 AI 打造智慧船舶新典範",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zYktXYjN5NDM5anMtTHRXbFh1NmhsV3RqTDJZRnZkQjZRTzdkWFByMjd4MzdKN0VpeGdJZS1UQmJKNTFsNm5jUmh2SQ?oc=5",
-      "source": "iThome",
+      "source": "ithome.com.tw",
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
@@ -28,12 +28,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNODFBWEFDOENHc2hjWUhnUHdNUmlPVlg5cjNMVGZ4eDVRaHc1VnZEVjBmRDRPTmRDSnVmQUwtaFdBSURPMENSV19lTE91RTRXVFQ1Mi1tUGJmX2Utdk5mTy1SOWpvVXctOUZXYkk0MXA1OG1mek8wb2xpYnRjV0hGVjdDM3BRWExrd0ZHSk9R?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-03T07:00:00+00:00"
-    },
-    {
-      "title": "大世科瞄準算力/資安領域，陸續取得訂單",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNc3JtLTZhUU1VSkFEWnE5cFVQUHRKOHhfLW9ycGhoeUN4ZHcwdjBxbW5wNWxGOGY4ZXBEWENGX3F3VHllZlE2ek9uSE9VTGY0QTBxcTdjbjFLdHB1T1BzS1FvU0VVTFAxdktFWVNRUTFBR19yUFF2d0VIWFVoWURxbVIzYlRqUUVVdkhScWlxS0lrREMwb1pWMV95REhmMURpZkZ2enZLRzRjd0JPTFZrV0ppUzdpM0tWdHlRdjhSZTYxeXhobVpaOXFibVFWNm9reEpzdWd0TVE5TEdTOE1Ed2dzSWdNaWw5cUEyWE15SDNpZ1pDQ0VCU1VUUm5uMUQ3Z01pU0NmaXRvR0NSNTRuWUhnT2lTaGZmQ2NSVVV3QjE5X0NXMUV3OHBR?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-08-24T07:00:00+00:00"
     }
   ]
 }
