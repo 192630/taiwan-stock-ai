@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-24T01:33:36.588183+08:00",
+  "updated_at": "2026-09-25T03:32:52.187621+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4960",
   "name": "誠美材",
   "count": 12,
   "news": [
+    {
+      "title": "誠美材大整頓 虧損有望收斂",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5seTBVTkM0R29xY2RiQVBjc3FLejlHbUVZZmJiQTJqTDd3QXM3X1pPaUdMOGpwX2FPMEFNTks0cnFvS2ZNODJ6eEJjU2ZUVXE1cmNReUlB0gFWQVVfeXFMTmx5MFVOQzRHb3FjZGJBUGNzcUt6OUdtRVlmYmJBMmpMN3dBczdfWk9pR0w4anBfYU8wQU1OSzRycW9LZk04Mnp4QmNTZlRVcTVyY1F5SUE?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-24T17:21:09+00:00"
+    },
     {
       "title": "《自營商賣超30-17》微 星(65)、深100(63)、誠美材(61)",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTDdWNVNSUHdDckowcy13T0xScWxuS0NpaHVLdXNuM0NVMXNzNDI0V0c5RU5Jb1VUM2hvaTVfQXRKWmVNZzBoMjg4VF84NnJzM0FiU1h4ZVBPMkFhM2JhRnlMZmtpVXNvbmhkdU0zaEFYU2tBWnRUZXU0NVNqQmNCQTRPTmhkS0FS?oc=5",
@@ -70,12 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdGFEX1VvSDh1amVJaVBpZGRYZ2V6VF9mM2lMaEJkUWVVVnJONlJpY2pDN3F0cGZuNHVINFVWalJ6Sk1wNVZVd0lVRGdMTW5keVFSaXo2bHVYMmNDOEZtMjJRWlppajBEaHZISmJwN29LRHAyUEhwNzhPMDREZTY2aFlrZVFRM3FPbkE?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "營收：誠美材(4960)8月營收6億0530萬元，月增率-5.79%，年增率-13.90%",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdC14NzBMX0N0RDNjODAxYW1JOUEycmFmT0FKYUNfdUYtaWFaNU93QkFfV3d4ZWtIZTMwbHVjOXJ6U3otVFFNRVMtVjdua1pSTEk0VDJhUVZjZGVMLW5ZN0RmeUplT2pBS3dfdVZubTROUUl5LXlGazFOaE1tc3BDV0dkSWlKMGNm?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-09T06:52:00+00:00"
     }
   ]
 }

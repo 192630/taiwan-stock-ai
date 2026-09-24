@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T01:33:46.366040+08:00",
+  "updated_at": "2026-09-25T03:33:00.938670+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5007",
   "name": "三星",
@@ -9,18 +9,18 @@
       "title": "三星電子 | 005930.KS 股價走勢與即時報價",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OYm5ETi1oa21iNzhBSHhIYWxRUW5OZUJyWXRES3U3N2pLWU1TQzdrREdXQkwzWjkxVFJFQzFtTE9ybWluVjFxcjdRU2NyN2liQjN3emFEWQ?oc=5",
       "source": "BigGo 財經",
-      "published_at": "2026-09-23T15:50:31+00:00"
+      "published_at": "2026-09-23T07:00:00+00:00"
     },
     {
       "title": "韓國KOSPI收漲近1%，三星電子漲逾3%，日本股市繼續休市",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVW5VUDZDVUo5dHI0Qjk3TGpLeEJHVFJLNHdhMTVqX1NqME1Vck9RZGo2eWRrd0pFRHVTdUxSM05hTmZMZXJ1eEdzVUR1NFJldkdGYjR1X0FVM1dWcFR5X3NxVTNVbGFKbFloZDdZRzIwZ3p4TVlUTkI0MkZIeENCcWxmZ0hKOG9oTjU3dlJFMzZrd2x5R0NmRUJBbzdMQjg3ZFVnN01sN0xlM3JIbUY4MDByZDBwZnJzd0VZLUhXYTEwQQ?oc=5",
-      "source": "TradingKey",
+      "source": "tradingkey.com",
       "published_at": "2026-09-23T06:58:00+00:00"
     },
     {
       "title": "韓國KOSPI開高逾1%，SK海力士與三星電子走高，日本股市休市",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTzdmZ25SWjdzVXVUd3ZZcUNFbTJFbFVaSzVvakdTTXpxRGF3V0NDZXlrTE5UbDNkNEZRQ2ZaclB2M09KcUtXaEVqZzVmUmpxa2tSWENjX0Mxb2NVX19xdWVZSHhjNm9JaGt4c25JMEZTQUozV3R0bG1SYnRTaUczRVdIQXg4U256RzU0YzBrUHdtQW5vVjltaHlRa1N3WHJ4UjZqZWkzdXBMTGNoZjhvQ1Z6LVgzcGVJbE9MMndOR1hMUQ?oc=5",
-      "source": "TradingKey",
+      "source": "tradingkey.com",
       "published_at": "2026-09-23T00:44:07+00:00"
     },
     {
@@ -40,6 +40,12 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5LaW50Q0JsejlBdkR2eWhINmdtRjdiMVotTzN4czg1NmRkN2IxT0M5TGlPeUdSM19HRlFzTHpUMmJXeEJhcUFRY2JFbTlYMnVSMmhrYy1ma2dfV25pbmpWOTBQS1lOdDRiWFpEZXp4c2ZwV3dXTGZUanVn?oc=5",
       "source": "BigGo 財經",
       "published_at": "2026-09-22T04:05:00+00:00"
+    },
+    {
+      "title": "AI強勢回歸！三星電子漲約5％ 韓股飆逾2％",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84MGFUd0NYWm1DNzBCekFVUk9sV2FlbmdPYXpJRTRpQ2Z6WUh3NHh4ZkFPbDZuLU85aDM1TkNBSDJtaUlzR1ZNbFJZYlZxOUxicE9qZ1VlY3pGcEFoV0lB0gFkQVVfeXFMT0h1N3BGZWFqVEdkSzY0bjhSQ0hvdHVScV9WNTNreDhLYVBIOHBHZWJGd3M2cF92ZmZfLWg3Ri1Ma2k5N3I4cGlUenFNdXo5cnBPOV8zTldMRVFveUFNMTg2N0YzVQ?oc=5",
+      "source": "自由財經",
+      "published_at": "2026-09-22T00:28:31+00:00"
     },
     {
       "title": "三星獲利暴衝難救 亞股成失速列車",
@@ -70,12 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pNEhZamJ3QV92dHVrbzlXMHBVWkdSejNLU2EtS1lRS1pfaThoRHUxUWx6ZnM5dFl0U1NMWWtueG1FbUVFdVY4LUUxaVVPMVViTEFXR3FHdU0?oc=5",
       "source": "自由時報",
       "published_at": "2026-09-18T06:38:15+00:00"
-    },
-    {
-      "title": "亞太科技追蹤：三星電機進入MLCC漲價週期；台積電CoWoS產能上調；CPO影響被高估",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIbEFvMXptMXJ4WnJackxQZ2JJVmNwcmNYS0R2UTVLaGhVdmttR2h2TUtYblhMYThCcThlbzdjeS1yU05wX00tZm1rRk9NdXNFS0ROSk0yR3I5dw?oc=5",
-      "source": "Moomoo",
-      "published_at": "2026-09-18T04:54:01+00:00"
     }
   ]
 }

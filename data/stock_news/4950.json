@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-24T01:33:33.124627+08:00",
+  "updated_at": "2026-09-25T03:32:49.249098+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4950",
   "name": "金耘國際",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "Golden Win International CORP的每股息稅前盈餘 – TPEX:4950",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcWk3OEI5Ui05T21HLXJnaks0Sm9TaEVXUlRBbVZyMUtIbHUzbHhzdjBzMDJRUEJuQkZGZnRUZXJlZ2s2Y3Z3dU9tSmwydDdCN1gyS3NqWTcteXRCSy0zMUx3enY5VFA2RFlDeU9PT2NlUENWQjhsbTBtbjJkVkFKbnBOX1JxUFhwak9pU3ZfUjNWUHo3QnFsVA?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-23T07:09:56+00:00"
+    }
+  ]
 }

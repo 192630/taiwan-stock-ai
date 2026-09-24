@@ -1,10 +1,28 @@
 {
-  "updated_at": "2026-09-24T02:36:41.047237+08:00",
+  "updated_at": "2026-09-25T03:33:15.423901+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5263",
   "name": "智崴",
-  "count": 6,
+  "count": 9,
   "news": [
+    {
+      "title": "智崴下半年動能強勁",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9scFNxM1A4V0Q1cS1vTFpuRk95bXhyQWVIS0x4dEhGRm9sZHA2V0h2WGhfOTZQTFNfSDNTb0RVcE9YQmlPVUUxTExrV1d1VmNpY0dHSXZheHQzcnhXVExoMmNfMGdRQlI2QThoVVNJUmI5UdIBVkFVX3lxTFAwOENjZllxbUVfSU5PakQ3QThVbnR1eXItcWtTMndiRjBYYWtYb1FNYllDMFJmVndXY0JHaV9qTmdfWkVKMUNoMEt1RTZ5ck1JTjYycFlR?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-24T17:36:45+00:00"
+    },
+    {
+      "title": "智崴(5263) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14eWVSTmMyRE42TTVydnpaSjJrQS02bTN5Yy1iRDZZdjhEdFlXV3I1WWhYOVFCTEw0cGJlMkVST0hsaWp0YWdpQzFqT2Z6UDF1S0hV?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T19:40:48+00:00"
+    },
+    {
+      "title": "5263 智崴 - 這樣有好嗎? 2家店一天平均賺30萬元！！ 一家店15萬元 ... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nY2lFaGJkWlZ4WU12X1VoUlJCVjBUNDMyMUZNUkNXc2NaSmJlN1FrUzhzR09wdUNhMUFWM1AyVFc4QlNuYTNsa19jRDJzRllBY2U2NkJRTVc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-18T02:24:28+00:00"
+    },
     {
       "title": "智崴引進哥吉拉IP搶商機 上映首月票房破千萬",
       "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPdm5nZWh4a09YR202dXpudjFveGVVLXJTcXJLLTBfMWFJS1l3dDZsUE5qSTdRc0I5cTh5SERwU3BXRjZULWw4NU1uMFh4cl9EeTdURDhQY2RWckk4a2FVZVR6Vm5RcmVWV3o2LV81NlgtSnVHZXJheTVQRWxISzJaX3puVkVBWkFTQUFvV09DVElpek9ibmpGeXNYWndiLWR0QmlkODlzSE5pdGZhSndzUnI1Zy1wTmFlT2dPM0hOVHJnMXhmNE1jdl9hLTZjbnd0VmFDMzA0bUtGRnVGU2xfajNodTZmdzQyMm1Oa0VGUU9OaDhqYzkyNmo2TllqVlBJdGpFS3A1QmMtclFZMGRLelJDRHhVcnQ0eG5yUmQwclpQYnVTMjFfRmJTNmlQZ2dFZG1tVm8zbUlrd3hmZ0cyXzlEVQ?oc=5",
@@ -14,14 +32,14 @@
     {
       "title": "哥吉拉飛進台灣! 智崴i-Ride首月票房破千萬",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0dW9UN3RnMmZhLXUyQWZxNXVHYmxwYjFzcEJXNjdZQjBVMkszcnNENzdSTWRvNmNTeTltemhXMUJBNVhVVjlFWTV0UlQxRkFjLVgwaE5jaWMzMllWUzJn0gFkQVVfeXFMUDNXdHh2Z1VXWVFrSzZxb0o1YmNMVUl5c2hCbWpBVUgxYU9zdUZLMjhjdzEtbTAzeUJiUEFHVERNUUU5bW5JLS1JMGI0SFhqNklhT0ZLREczeWJFbE1wUUd2YV9BdQ?oc=5",
-      "source": "ec.ltn.com.tw",
+      "source": "自由財經",
       "published_at": "2026-09-17T09:30:19+00:00"
     },
     {
       "title": "盤中速報 - 智崴(5263)股價殺至跌停，跌停價91.4元，成交653張",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44U2xGQ2toVGZ6XzEwb3hrQnlOMkpHNEx1Z3BkdGVWTnl4VEJtUUlFVE0tUUpHa0hXZFpTa1pmb0gwbFF2eTdUSzVUb3dySm5vOWlJeHd6aFc4UnB5NzR2ajJZOGY?oc=5",
       "source": "TradingView",
-      "published_at": "2026-09-11T02:47:00+00:00"
+      "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
       "title": "智崴併購Flyover推動營收創高 經常性收入添長期動能",
@@ -30,15 +48,15 @@
       "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
-      "title": "【26Q2財報公告】智崴(5263) Q2 營收5.2719億元，刷下近26季新高，季增60.18%、年成長71.02%-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaFRyenhlNGJYOXY3Vk05TTF0aktEUmI4cHVQTkFZT2M5TC1CQ2lfWm1ON2oxTks4V09tYnQ4ZGRGVnkxdm12azdOUmVFSHpGYlNUeTV0VWtWQ1U1Q3F3cFRHc0JMcFVMeFMwc1U1ZW1GRVRlR1lGcDdRZjN3enJ1b3pDd2J1eUJfVkE?oc=5",
-      "source": "CMoney投資網誌",
+      "title": "Flyover併購效益發酵 智崴8月營收創新高、年增逾216％",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UT0ZoemtFeXFCU1ByOXFzaGpkQ1lRY3hQM3p1TG55a0YzWWZwWXIzbWhkUkdPa3YyUEZhdTMxWGtvSnlYNVdRRXFZRnZMa1FIcl9LUUE1dHhOSG96N08w0gFkQVVfeXFMTm5jWkJLUjdqc1UzdlRfalR5WDloSVNramdTSXlacWpxS0pqZW0tMzBwM0huNGZYcFd5SDJlVW1zMlpLWkI2bnhiTVJrWXhLaW1Ma1dfRG93djJnREU4ZEdjaGFfUw?oc=5",
+      "source": "自由財經",
       "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
-      "title": "Flyover併購效益發酵 智崴8月營收創新高、年增逾216％",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UT0ZoemtFeXFCU1ByOXFzaGpkQ1lRY3hQM3p1TG55a0YzWWZwWXIzbWhkUkdPa3YyUEZhdTMxWGtvSnlYNVdRRXFZRnZMa1FIcl9LUUE1dHhOSG96N08w0gFkQVVfeXFMTm5jWkJLUjdqc1UzdlRfalR5WDloSVNramdTSXlacWpxS0pqZW0tMzBwM0huNGZYcFd5SDJlVW1zMlpLWkI2bnhiTVJrWXhLaW1Ma1dfRG93djJnREU4ZEdjaGFfUw?oc=5",
-      "source": "ec.ltn.com.tw",
+      "title": "【26Q2財報公告】智崴(5263) Q2 營收5.2719億元，刷下近26季新高，季增60.18%、年成長71.02%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaFRyenhlNGJYOXY3Vk05TTF0aktEUmI4cHVQTkFZT2M5TC1CQ2lfWm1ON2oxTks4V09tYnQ4ZGRGVnkxdm12azdOUmVFSHpGYlNUeTV0VWtWQ1U1Q3F3cFRHc0JMcFVMeFMwc1U1ZW1GRVRlR1lGcDdRZjN3enJ1b3pDd2J1eUJfVkE?oc=5",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-10T07:00:00+00:00"
     }
   ]

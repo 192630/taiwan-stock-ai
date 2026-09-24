@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-24T01:33:45.673143+08:00",
+  "updated_at": "2026-09-25T03:33:00.397892+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4999",
   "name": "鑫禾",
-  "count": 1,
+  "count": 3,
   "news": [
+    {
+      "title": "宜蘭鴨鄉鴨香辦桌 感恩價4999元",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaUZXOGdTWkJEQW4ycy1GNFJxb2tGYTZVX1Q5R21wMDJlS2VtTUNOLUxnVGxXTWFvUTF4TUt5eDhHVzJFMk03QmtOVERCMHBPMmFUMlhjRUxMUzVvM3phVnBzT0NieEh4cEdyNXFYSEU4SF9Hd1dCNXJBdDRqTzRYSUtGeVR1dlVQQm53UF9abXpNalhxTHRIeGdVRjY4VXlOOUZJN3pJS0VRaDRWN0hTcmN2WXFybVpvR1ZwR3JkTVc2N1JJSUZqbDlZOEFHMHdBU2xXVXEtOER4VElEN0QxUVRmbUxXcC1tQlE?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-24T11:27:33+00:00"
+    },
     {
       "title": "台股今強彈收盤4萬4999點 學者指地緣政治不穩風險仍在",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wSHo4MnJrNlFya25pZ3VnSXFRTEFMMWdKUF9UVkNPY012ZlJvSTcxT2FVT2owQXRSZnVTRk9LY2lHVzRSREZENmx3X1JyNms?oc=5",
       "source": "公視新聞網PNN",
       "published_at": "2026-09-14T07:00:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】鑫禾(4999) 八月營收1.07億元，營收雙減，年減26.94%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUkRwNU5aNE1lT1NQbWZvOGpiOXRpRkNUamZFZ01vN0hSTnBKXy1oU3lJaEwxQ05XR204OFllNUVCYWwxUE1uaXlOZE9uUFdNa2tneUVGa09rNzNmcXZnSjVmTV9QcUprUVJKQjktQmtITHZWZnV2bnhBMmdjNEp4bnVGSm1mUTB3WGc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]
 }

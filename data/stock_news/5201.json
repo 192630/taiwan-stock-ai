@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-24T01:33:49.841182+08:00",
+  "updated_at": "2026-09-25T03:33:04.086152+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5201",
   "name": "凱衛",
-  "count": 3,
+  "count": 4,
   "news": [
     {
-      "title": "凱衛資訊攜手日本眾議員參訪團與日本產業經濟學會聚焦AI 交易、金融科技與後量子資安- 財經",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSNmtlQm10UFEwNlAwVlYzSGs1a1BwVzhaVXRub1JkY0F1d1d2NUc4RG1hdUZXSU40ZW5mbXZEMlE1czNoZklJX3c5cnYwcWxQcnk0Um12MnNDODFzM0FnZDB3QXduOHcxQU5iU1d3?oc=5",
-      "source": "中時新聞網",
-      "published_at": "2026-09-14T08:57:20+00:00"
+      "title": "凱衛(5201) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QWVhNMWpNczRxdjVrU1FXREdQZEdYbEljMlZ4NUloQkVVbDNfaWNwNHlTLUtDN3pmRXBxTGhmVURkX29pQXBnLVNITVVzSFY1LVFF?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T08:46:59+00:00"
     },
     {
       "title": "【2026/08月營收公告】凱衛(5201) 八月營收表現亮眼、呈現雙成長，創近30個月以來新高，年增79.42%",
@@ -22,6 +22,12 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPa1hGblNnN1RyenFxenMycmFNRlVpSDhiemx4NnA3X0xjZ0ZPS29KMmdNXzQ5aXZSQ0RKRHFReHNkbXMxZ3VpRy1HaUlSbU5DU1hpNnk0Wlg4TkswRUpWRXQ4RE5XV1NZNG5CeW1BYzFxOTZweFBSbmEyNkw0VmJQUW93UzdCRHl1TXc?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
+      "title": "凱衛資訊布局量子金融參與Quantum Taiwan Forum 2026量子台灣論壇QSW 台股實證推進量子金融新領域- 生活",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBITkRJZkNtbjhkV0JCS2dTY0JMbXRVZVZFTVBLcHFuTGhzRjR5eU5EWUZGWFpJVVBsOHJ1R0NMREF5dXcteEtocklVLXVFVXlUN3lyZW9aMVE0eWE5U3lsSS1KLVlmRzFSdGpzbDdn?oc=5",
+      "source": "中時新聞網",
+      "published_at": "2026-09-07T07:00:00+00:00"
     }
   ]
 }
