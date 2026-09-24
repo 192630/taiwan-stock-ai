@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-24T03:34:10.815214+08:00",
+  "updated_at": "2026-09-25T05:33:15.295715+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6125",
   "name": "廣運",
-  "count": 10,
+  "count": 11,
   "news": [
-    {
-      "title": "廣運(6125) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqeVZJYWd2dkhtd2JfV1ZlS1BvbDUwMHhkd0pqVFNKOXltMHJuakY4bFFJMGhRNmdmRzNyT0QtZkRoTkNqYkRsekhkNDZYaC1YNTdv?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-23T05:11:27+00:00"
-    },
     {
       "title": "稜研科技今掛牌上市，光聖、廣運等夥伴力挺",
       "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQVVl4N1BlNUpXM1l5UTlTUENvakY1a2Z2eVdrSGtMYlFwS2d4WXlMRUNUQ3lSTnNrWGZMS2xSSEhvakg1M2tLbUZtUWRHVExOdGxNOVhiTldBT0F2VFV6a241ZVNLdGdKWWZObVdQOVl4cVBoTG93UkxLZE43RjVmWHB3X0hoYXI5Z0NVNFYwYUpuelVFQnlwdktCdTAtNVBaOVRLLWxvVXhocDBhX3ZrUTAzcmxuMzl2XzhtbmVCLUVQcm53OHdNUThyUDM5emZrWlBVUTh6akVIOUJ6ejk1YjFUUnRwQmh5Q2h1Ri12ZTlNOW1IOEtYdDhpQlh0alpHOWIyQkdjb3BLOEZ1MDRONzBhdzhDczAzbTRBZTBkb3Z3Y1Y0T0hVZ2RTVElWSXFYREhyY0tR?oc=5",
@@ -24,10 +18,22 @@
       "published_at": "2026-09-21T12:45:45+00:00"
     },
     {
-      "title": "6125 廣運- 得獎了，跟大家分享老闆的喜悅- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EdkpST2o3aHpocVA1UEp6NEI4Y2l3SlNpTTFkWXlLYUZubmNIajJyWGgtbHFhdnRrUHZsUmdkMGtCczgxcTd3TVI4MVZjbnhFRjNNdGthZUE?oc=5",
+      "title": "【2026/08月營收公告】廣運(6125) 八月營收3.39億元，營收雙減，年減1.49％",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCLThUWW1YTDFOWGFjR2hMSGUxdGhuZ2l6aWdhWU40ZEFEcHB0bTZzR3BQMUIxRlhEaFdrZXN3SWg3VVNDazBCMmVVS3pYbVBLQnhBYkxDSURJUjh4ZmVTNDJJYWVIbTQ?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-21T09:17:15+00:00"
+      "published_at": "2026-09-10T07:00:00+00:00"
+    },
+    {
+      "title": "廣運集團半導體業務報佳音 盛新攻入歐洲設備供應鏈",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94Qll4b3Q0dmR6eXN6RlFSNUk3UGh6aXRoNkozelFUdVV6dkg2cW5UcDBEOGRmYWJRX1VZNjlWNUFVY3p4QWtpbTVuV3ZyeElLU0U4NVlxQmtZZ9IBX0FVX3lxTFBMVFNjQWJWaXJMOVUzbjNZWUdUTFJrdjA0Y01GenFjVE40YUI2RnNZUVFMVm9DVzF1NUk0LUZvdlFsbkpXVFhvQmV2SUlpTWJ5bXdja3JTZlRoMkctVjgw?oc=5",
+      "source": "money.udn.com",
+      "published_at": "2026-09-03T07:00:00+00:00"
+    },
+    {
+      "title": "廣運半導體物流訂單放量！明年接單挑戰20億 盛新首秀12吋SiC晶球",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZkd1ZlNVaFpkQkd6Mm9oRTF5aWNwZ0ozV3oweFdvQlYyaElxM21YYk1EXzNsQUlJX2xGTmQtdWFwVEllUVhNeVFoQ0tTbkxLSUxndnE2c2NiRU5tb1ZuRmRlOEt4NzlseXBEUUFqLWdfT0t3bEVoVmxvdWxRcVlUbnpn?oc=5",
+      "source": "壹蘋新聞網",
+      "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
       "title": "6125 廣運- 嘴砲口號了二年, EPS 立馬窘現原形- 股市爆料同學會",
@@ -62,7 +68,7 @@
     {
       "title": "【09:55 即時新聞】創意(3443)攻上漲停6125元，AI ASIC資本紀律題材發酵＋法人與主力中期多頭結構支撐",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcGpud1RKUkNyRzZnYWxKWkdfVnA3YzNVa2VORlRFVzdPRUdnS1JRWlpYMGlaZVlHd1ZvYktSZGFGUFgzNjY1MGlvSTJtam1DRUVIVThRSk5KRTc2M3VJM0NXNkk1WFBsWnc5VmxPdXBBZm11OHk5UzZzc1IxS0RiSjRQTFZSWTNjYU9mcTRR?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-08-26T07:00:00+00:00"
     }
   ]

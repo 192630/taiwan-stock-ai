@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-24T04:33:40.824079+08:00",
+  "updated_at": "2026-09-25T05:33:22.278896+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6146",
   "name": "耕興",
-  "count": 3,
+  "count": 4,
   "news": [
     {
-      "title": "耕興8月營收4.15億 年增10.46% 推進R19驗證 | 櫃買動態 | 證券",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsLWNxbmZldkxyNUZ6Vm9sdXRZRnkzcFA4aXdmLXc0S01pdFU5cXRBSjFVVFNDSkJvSENzTXBvWjJoWTdKNlV6UDFSQTJfSXh0RXgzd28wUGlqY1k?oc=5",
+      "title": "耕興8月營收4.15億 年增10.46% 推進R19驗證",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsLWNxbmZldkxyNUZ6Vm9sdXRZRnkzcFA4aXdmLXc0S01pdFU5cXRBSjFVVFNDSkJvSENzTXBvWjJoWTdKNlV6UDFSQTJfSXh0RXgzd28wUGlqY1nSAWBBVV95cUxQQ0VoTU16UDdQUFdOd1FycWw5akhMeGZsdnNvRkhjMVBPMi1KZlZFWVlFOE1VY1V1STV6WVpQVVJCT1ZzRGVKRmFWRHdlU2ZWcy1xTXZieW9sd1o5T0UtdjI?oc=5",
       "source": "money.udn.com",
       "published_at": "2026-09-04T07:00:00+00:00"
+    },
+    {
+      "title": "耕興8月營收年增逾1成 實體AI終端、Wi-Fi 7送測需求升溫",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMnVPRkJ5ek1Ha3pma19ZNmZDWE9qX1NERVc2X2tuZUZFWEtVZEJwX2E3WVN6QXlMYmN1MGJrVXFFZmcyLUN3ZnlYRjhFcGhhdHB0RlJnTHBBaHlxajFHeU42TXF1d0Z5TGVRWGtDWnZLNExWYmsxeF9WalFPVjI4enhn?oc=5",
+      "source": "壹蘋新聞網",
+      "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
       "title": "6407 相互 - FCC 轉單案件量進補！耕興8 月營收年增10.46% 推進 R19 衛星驗證- 股市爆料同學會",

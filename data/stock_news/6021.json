@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-24T03:33:59.826055+08:00",
+  "updated_at": "2026-09-25T05:33:03.420070+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6021",
   "name": "美好證",
-  "count": 4,
+  "count": 5,
   "news": [
     {
-      "title": "6021 美好證- 【09/21 產業即時新聞】金融-證券即時大漲3.52%，台股成交量能放大帶動經紀業務爆發- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PWmd3VllzS1B0WDZjWUpzR2IzUUlYU2g0RzdIYnJaMXB1SVBPRDRGM3Vqejl6akxDYkVxTWhodjNFYTNmUkVyR2hoV2N6RUhwS2IwWmpmbzk?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-21T03:40:43+00:00"
+      "title": "個股：美好證(6021)買回3,568張庫藏股執行完畢，平均每股43.66元",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUDhqWkI3NloxSWZPYXpVR0JmR3dxZVVJd1NXSERzSFFtaHZIcXdxVWlQZU01QmltUFRXdzZ6YWJnOHcydC11ZXJfTHlsaDRETXBkb3ROUEdKdUQxcmpWZ3Y5MlpmZjYxSGIzanV6UmZxVHNOYmdfcG9LbW9lNDl0dm9JaXY2Q1lR?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-24T01:56:00+00:00"
     },
     {
       "title": "美好證(6021) 個股概覽 | 個股 - 股市",
@@ -18,16 +18,22 @@
       "published_at": "2026-09-21T02:09:39+00:00"
     },
     {
+      "title": "6021 美好證- 美好證發行115年度第2次有擔保次順位普通公司債，計3億元(補充) - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFQk5ReXhrRnVOMEZyNE4xTnNRNDdSODE0VFdFRXJnU0ljQXNKNHEyR0tWWjgwRURhUHdNYTc2bDFsc1R2dGpLYm9RYWR0b3U3dWdHYVNkd2g?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-16T07:57:22+00:00"
+    },
+    {
       "title": "6021 美好證- 證期局9/11公開發行公司等動態訊息- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uQ09lNGpDVk5KUDFCM24yRlU0VWtUM29rOU5USXkzQzhfVVBrMVlSTUllSGh6azFwSFhlR1VZWFVNdTgtc0tzelZpeEIyTGxraTROQXE3YVI?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-14T01:07:31+00:00"
     },
     {
-      "title": "【25Q4財報公告】美好證(6021) Q4 營收7.3135億元，創下近2季新低，季減 37.53%、年成長 118.69%",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iUmtOeWxRSEhGdFppWDE0OW9SZTcxTFVSM053cnVXTFZzN2NQLUhGd3BoSFF2NzNWaGJxWS0tNlRSUUsxMXdIV1liQTU1TGZid2R0RFFHQzk?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-25T07:00:00+00:00"
+      "title": "【2026/08月營收公告】美好證(6021) 八月營收1.84億元，創近2個月以來新高，月增95.6%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWXRGWkczVGlTN0I3ZFZfdUxoTkhWQWpyS2dCclVpR2ZMUmtpUmNpcHkzaEJrUjNDRjVSZ2ZRSVpBNTV5TlBFNXZQdXJjY0hHUk4tRmxuQ29KMzg2bmZ0V0ZlQlp0T2ttaXdubnRfTlJ3cXJRUVhENnhaWlh0QllNWGdsbjhuUXVsekE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
     }
   ]
 }

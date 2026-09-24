@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-24T03:34:00.297896+08:00",
+  "updated_at": "2026-09-25T05:33:03.834272+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6023",
   "name": "元大期",
-  "count": 5,
+  "count": 7,
   "news": [
     {
       "title": "元大期客戶保證金規模創高，增資強化接單量能",
@@ -28,6 +28,18 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wcHRhZ3ZNa1ZjVm1vYXBQLUdsa3BZd0hUZl9FbHBId1ktaGRpN2Ztb29mSWZhZjdMV1FHN3I5WG9qcE9VZ2dfRm1KNnJ5aHZyY3hURHFfMFA?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-10T07:00:00+00:00"
+    },
+    {
+      "title": "【2026/07月營收公告】元大期(6023) 七月營收5.14億元，表現亮眼、呈現雙成長，創近4個月以來新高，年增95.8%",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUnVXM1o2d0F2QzdTcjRGNE02bGhrakQydmFpZ080T3BRdkhQZEhmbnVoNXhWcUUxMGd1RjFDNi1UVl9KWDFiX0NnMEE4MjJEWkFNUE9VMDBsTl81UWdiVWpkRFBjQVBZYnQ1Y2VPVkdTUjJNc0czQW8tMC13RzVWZGswU043OUpNblE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】元大期(6023) 八月營收3.44億元，年增22.66%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSzNDbGJlUnlfZ1pqYU1SVGxEbEJvdWIyX1lPSmxJT29tZXNPT2x6TVRKV1BPZXp6cXhiYTIwOFdFY3pkb2IwdlI3VXhZaGJCSkdMSHV1eGROckdlZTNLQ1d4TmFwVDNFTWpFaU1nd2YwdHE5REZOV09fdlJmRHhSNzNTeWZfclVOcXc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
       "title": "元大期(6023) Q2 獲利維持成長，海外商品與數位平台為成長焦點！ 元大期(6023) Q2 獲",

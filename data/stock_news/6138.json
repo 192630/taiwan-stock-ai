@@ -1,20 +1,14 @@
 {
-  "updated_at": "2026-09-24T03:34:15.215486+08:00",
+  "updated_at": "2026-09-25T05:33:19.220666+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6138",
   "name": "茂達",
-  "count": 2,
+  "count": 1,
   "news": [
-    {
-      "title": "茂達(6138) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MRTd1QXhiSG1PVWdFWlc4dE1MS0gwb29taURfVDZGSXlQUWwxZWtZQ05kOG92dnNqN09MNkNMN20zendHYjVtaEl0bndPcUhVUWhJ?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-19T00:10:44+00:00"
-    },
     {
       "title": "【2026/08月營收公告】茂達(6138) 八月營收月減年增，全年營運續看向上-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMm16d3hDaTdtUWJOSjlTUlctYTE2TXZ2ZXJNWUJkZ1h1VGt2eVBZSkdMYVJHUGs4Unl0MWQ0V3M0YjZGUHBmN0RaNXVJYUpsc1ptRDVFS0pCV2sxdXRLMzgybkgxQXBxN3lKM1RvRm83cUhVTWZZLVdLMXJKOWY1RjhPM28tbjkzR2c?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]

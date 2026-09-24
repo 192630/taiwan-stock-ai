@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-24T03:33:55.565329+08:00",
+  "updated_at": "2026-09-25T05:33:00.046462+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5904",
   "name": "寶雅*",
-  "count": 9,
+  "count": 10,
   "news": [
     {
-      "title": "5904 寶雅* - 這是一隻小小鳥 ，想飛也飛不高 。 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5meF96UVdheURPLUFnbElHeUtJM0dMRmZyT3RQWXZUN3g5eUFpLUg5MndrRFljdXM5azkyeWpObVhUNXF4Z19aeng4V0FHazZVMllsNUFzRnY?oc=5",
+      "title": "5904 寶雅* - 實體黑棒 ，收最低 ，還有更低 。 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0WkcwQ1p4ZEg2N2FCajFQRjB2bGk1Tnk0a2NvdzNsQ2pab2g2RVMxX1ZQNUl3NzNLZVBsbFdwWkFHUXUzQ0VQcnpUckFhcjhlcS1VQklhMVY?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-22T22:49:32+00:00"
+      "published_at": "2026-09-24T06:54:48+00:00"
+    },
+    {
+      "title": "(5904)寶雅*-公告本公司股票面額變更由「新台幣10元」",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56ZjJ4X1ppOVRkenFnUUZWM0NqTHVmTDFYanc4N00wZjdmRF9VNDd1bC11cjhFLUxyT18wN0MxYzZtRU5ZUjJFdXR5Uzc2YlBwb2tBeGRONTA?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T12:27:57+00:00"
     },
     {
       "title": "5904 寶雅* - 寶雅*預計取得智慧電子貨架標籤210萬片，認列資產總金額約4.17億元- 股市爆料同學會",
@@ -56,7 +62,7 @@
     {
       "title": "【09/03券商評等報告彙整】寶雅*(5904) 今日僅1家券商發布績效評等報告，評價為看多，目標價為78.5元。",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZzNleUFYendiN1NiVXR4bjhyWEVNOVlVdmJGRDhocXVHY29tNndhekNGaXdHaVZFaENnMlVxamowS2t6S01QdHQ1WWJwQTdUOERxS25ybWRVeEU5TlgtaGpTemFTNFAtS3lnRWI1M1Q0SUE3R2tRaHVjUnZaT0t0N3pudEJPblZjLXc?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-03T07:00:00+00:00"
     }
   ]

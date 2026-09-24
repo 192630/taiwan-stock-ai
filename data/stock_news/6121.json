@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-24T03:34:08.941327+08:00",
+  "updated_at": "2026-09-25T05:33:13.568578+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6121",
   "name": "新普",
-  "count": 1,
+  "count": 2,
   "news": [
     {
       "title": "《櫃買市場券商賣超比前30名 3-3》新普(-14.31)",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMjBESEJUSjhIaVV5WUtpdlJSVTAtY2pYVWNQNGx4WHRDRmF3Z25GMnVLaWdiclE0d25sSDY2RW5XS1RibHc2VHl5Ynl0aXVNQ1Y2TzAzaWFRcEFXRUF3aU4wdEJfOFJRcW5JcVV4b2daejdiNkRhbDZwNjI5R2FkZTFZNG1aWklI?oc=5",
       "source": "富聯網",
       "published_at": "2026-09-16T23:33:00+00:00"
+    },
+    {
+      "title": "新普科技股份有限公司",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTXEzRl8tRE93UnBpaE5xcVNma2tJSnVKOUtQaWZxMXd3czJEdTBKV1dxcXg5clBGQ0t0M0xubVJRaTB0eXk1MUdONUFXWFhjSEtLVzJyOTZ1U203Mlp5RTVLclI3Y3RDOWg0NmRNeU9JMTNrZlA3SEJwYUR5MmJ5TVdKaEJlekszcWpuTDcteWoxVzR4RE0w?oc=5",
+      "source": "MoneyDJ",
+      "published_at": "2026-09-15T07:44:00+00:00"
     }
   ]
 }

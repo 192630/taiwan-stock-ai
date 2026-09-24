@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-24T03:33:46.990850+08:00",
+  "updated_at": "2026-09-25T05:32:53.146323+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5604",
   "name": "中連",
-  "count": 3,
+  "count": 4,
   "news": [
+    {
+      "title": "棄台舔共被坑爆？這國磷礦輸中連2年歸零 中國海關數據大曝光",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jTHZOMHlHZzNjNldDRFR2ckxLX1JoRTJUUnppeWRFZlJkcnZfaTYyTmlkdDAtWV82OGtSVWtPUHluMGFDNXA0anJXaXVJdE12N2JTNFNFeGM?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-23T16:01:00+00:00"
+    },
+    {
+      "title": "5604 中連- Google Home MCP 登場，第三方AI Agent 與居家環境智慧接軌- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wNFVZMmFOOGRkUW9NR3Qwc0ZfZzBQNlVTU3NGaHozdExrRDdaQllRbV82aTduRzNJYWI5NTZIYnZGQVNRVDJhWjdsUC04TnJSaXhtZURLWnQ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-17T09:15:28+00:00"
+    },
     {
       "title": "5604 中連- NBC4電視台隔49年再爆奪命空難！ 洛杉磯直升機墜毀殉職記者、機師身分曝- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14d251YzVBTjRGQmhOWjVSc2xTTW8zdHpVTWtxcVFwQ2xicDV2c1JubElJazkwUXd0azRfSEt1Y0VEdUFUMFFBc3pKRjZSNTgzWF9RVWJlRXo?oc=5",
@@ -16,12 +28,6 @@
       "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQNk5FWGFvOWpYUUxUVENfLXRnNUszZXhkNlBodmNUamtNTVItUmdNdnE3dVA5ek5pTHRXRkN5QUY2bDIwdi1raDZFWWgxOURpWkxCaV9Ob2lhcGtjazc4QVBsdlFjTXNFcXE1S3ZzaUpHVGJzbzA3ZzBHRmhiMkJBT3ZCS1VpVUNEM3ctQk9MZTR5Y2E0dE5wOWlPellwcjRKN2xKb1psOVItRHN5SGVXakN4NDlEMHFvTVpHTVhJUWxuUUlZWjdkZEl0LWZhNEFfWGRXRDNlR3Z3WnhRN0prcTBpQnZDYVJIMkZpbVZOcHh4bjQxZDJWQ0NPWWItQ21mV3Q3bWJsUmc1UXFHZTEzcVZRSFFlaTVjRUtMdjFjYkZlMTZTSks0RkQ4LXJkYVphREIyRlN0blh3RTFFc2lCTS1tQlVPUQ?oc=5",
       "source": "Yahoo新聞",
       "published_at": "2026-09-16T03:04:58+00:00"
-    },
-    {
-      "title": "中連 2026-09-02 法說會",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTHdFaUNkYy1selQ5ZmhkVVVnY0NvZ3puQlJxdjAzTHNZcW1nZ1BoYk9vV1VvOF9zMjlkYjdjaFdaQjhtX3kxTS11ZEZYazA3SzhHc1dCQUxiekhUN2ctYmxlM2hwU0g5QlhNMzVCV2hmTFhheDhDdGNlTHR3V01XZERRVFc?oc=5",
-      "source": "BigGo 財經",
-      "published_at": "2026-09-02T07:00:00+00:00"
     }
   ]
 }

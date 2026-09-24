@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-24T03:34:07.506691+08:00",
+  "updated_at": "2026-09-25T05:33:12.268661+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6117",
   "name": "迎廣",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "迎廣(6117) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oenBfbURLN0wtdU1TdVBMU2w0VXdYVnJ3N243dlVPRFJtek5Nd011cW43N0YtZzlETy1WUHV1Z19LS05TVWlyZFViVDhrR0tYTlZN?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T09:03:48+00:00"
+    }
+  ]
 }

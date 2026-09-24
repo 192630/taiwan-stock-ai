@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-24T03:33:49.423652+08:00",
+  "updated_at": "2026-09-25T05:32:54.929391+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5701",
   "name": "劍湖山",
-  "count": 6,
+  "count": 9,
   "news": [
+    {
+      "title": "2026中秋教師連假優惠！六福村、劍湖山、義大、麗寶、小人國、九族文化村、花蓮海洋公園...7大樂園免費入園攻略",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnVoNFBoUlFGZkxmazQwd2xWOUk0Nm5EVWZscmNzSnMyNWV0M0ZCX1NZaTB4WmpvZVFpN0NQaWJXMFZMeFQ5cHB2anRQMzhKUWZwSTN3Ykc0UDl6MFlJanZ4bkw0amhiOFg0cXRCQ3BFeThGSUlsRHhqWGtVcU9USw?oc=5",
+      "source": "businesstoday.com.tw",
+      "published_at": "2026-09-24T02:09:14+00:00"
+    },
     {
       "title": "劍湖山打造《名偵探柯南》主題遊樂園！摩天輪高空解謎、打卡場景登場",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83Ri0yUFBOZ2NnMkRIQU9xWjdWOG1FbHlKVHFFS2VnVXdlaXgxVThibUM4ODYxTnljcTRWckxicEpsTnVHSHBPLXJ0VmhndUtsMWc?oc=5",
-      "source": "playing.ltn.com.tw",
+      "source": "玩咖Playing",
       "published_at": "2026-09-23T01:31:00+00:00"
     },
     {
@@ -30,16 +36,28 @@
       "published_at": "2026-09-20T03:57:09+00:00"
     },
     {
-      "title": "劍湖山世界投身淨灘服務 串聯在地永續綠色供應鏈 | 中華日報",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qR0ZDdmJncUZpSDZQZGg5Y2xnVjhXRTdoNG9BR2JCWml0c2xRaWFVdDdDWFpFUkpCbE9sejk4eHVfU1gwZmRRTmVhdUY5YTBEdUxvX3hB?oc=5",
-      "source": "LINE TODAY",
-      "published_at": "2026-09-16T05:22:43+00:00"
+      "title": "劍湖山秋冬精彩不間斷 早鳥玩水、名偵探柯南、耐斯歌廳秀接力登場 一路玩到年底",
+      "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxQR0FMN0QzOENkNG04SGtROURhMU1NWXNsNV91SmRpeTFFWWVJd0ZfWDQwd2RmSU1BcHc0VWpJU1N3YXJkYzVzNzM0aUVsb2ZvMWNTZ3pqU1VQWjluZDFIcVE4dGN3U2RoX0RHcHJzaV82d3hYXzh2MlVoVVJ6dzB2YXpMa3ZveUlCeGVxVmhwYzBCQkdJMUZWdk9FOF85Sk04bVZWcURsSm9oTi1tN01DZjhueW5NUlpBTHhDX0J3SFFXcDdQUXkxZWl3bkdfZkR3d2xiWTJsS25pSlR6cWpKQUNaX3hhTk9wUHhzRUo4VkVQMC02dElERGNMenVLdWhBYTZKcFUwbmtYR0JRelN2SWE2U1lNaDZFX3d5ZFkwOU9xdnd2YlV1cnk2SGlQeWFRV21IR01LYXpwajVBWkd0RmtCbS1yYngzcEdLX2RHbVczSFl5anJCdk9GcmdHaUNmWjlsTDJFZkdjNElEOTNFU0h4dG93c1NndUZkTWRDOU1POGcxcEt2QnZnZThmeWtMQnZ0UkZOOXFNbzh1VVdUQkNWckxaNF9INkNkVFY3ZVRzWWZGZTB3ZFpsOW9Ua1NLdUlVRHNRTllvWVlmbUdjQnV1WDJHT2tvNDZvLUlwTnFFTUJo?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-19T07:54:00+00:00"
+    },
+    {
+      "title": "不只玩樂更護海！劍湖山結盟元進莊推在地食材拚減碳",
+      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOSGc4ckVia1h1U1FhVVlCeFFDRXhWSHEtSlNkakVoZEdMOS1HU2FUQ2lLSzdPOWltMTNlbDFHTXl5bHVxTU9wQlpmbEg1MVlRWHF3QloxazFZTVVKTEZtNC1jNEpnNWdZVE1lVEp1Zld0TzRlSERZZ0dyNUNBUmxhTWlYMzU5clpaUUpBblc0dWZpV2dWa2dSSlU0MlRxWWR5QmpmTk5VSDd2dFg3X19KVnZ2Tjl6anlDcy1uMzB2VHdVVjFqWUVxSU0wcVZnMGtTZFIwTEROWUxHYkJqV0RPQTJ4T2VrTlJwRDZ1UHU4dHV1bmVjTGdOSW51SkVYLW9qd0RrR0lyMjdEMnRxNFo4Uy1CLVM4NGdUV0h6YmxqWndtMmxvYWxTTUNKV2pieDg2cjZtU3dZTDRIYzg4MFdKTW9CTnVUQnhTLWlJNS16Q0gycmFSV0MydkdRbmk?oc=5",
+      "source": "Life 生活網",
+      "published_at": "2026-09-16T05:39:50+00:00"
     },
     {
       "title": "昔日輝煌不再？劍湖山世界「假日放空城」 網嘆：員工比遊客多",
       "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQbE0wTTNNRVdLZkpQa3FFMjg3Z1A3VmcxcU9LbHdhS3hobzlVajYxcUgwZWVKQ1g2eG9oUUlieG9BZkt1emhPOVQ4bFZPTW5fSXJ3Ync0dzgzejN4aTMwOXNKYlFORVhPck5sb3ROZ3BveS1Lbm5GcDJLcUlLZU5Hbml5MjVQSGtzSnMtSHRaNEYzNHFtM1d3UFNzVFR3MlZLcU1GSFhueGNDbnVpbmxOUmJ3cVFEV0RkbXJnZld0eUs2RVpSNVhJdkpabGo4X1ZGd1Zwa3REQzE0OFRnZHdiVUNJMV9zdjFHcXNrajJ3aDc1UVNEUGtMaHRDRjFlQlpHWFlBRDVsbGU4ZVRncnBKek9pTEh1dXV4RjlTdjY0UWZENWpBTE1NUXcxZ2trbG9GWERGNGduRy1wVWdmdk13WWt3amduZVJvdldCdnB5bmYzM0Z5UkF4dFp4UlV0YWFUb3hYMm9JNlVYalVNRm5zZzM2b2FqT3k1?oc=5",
       "source": "Yahoo新聞",
       "published_at": "2026-09-14T07:00:00+00:00"
+    },
+    {
+      "title": "六福村墓碑鎮10週年強襲！麗寶送冰淇淋、劍湖山399元",
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOemk0WUQwN0hWV1pla2ZEQjJxMUJuTkRXQWNXZk9wNlc0NVZLN1k3aGtEbTNhTUNQVTFkN2F6YV9rNXlFdWo2d0tXZnQyN0xIVjNma1NrUXZYbWRYX2RyRHBEUzcwaDVVQ2hFNGJRZXBmZjVCaUxTWENrV2pVdFJNWXJ3WVJLb09yNHljSGpESEM1WUd0cG1qUUlOdklzdFlUZkM5Q1U5ZG04ZVlWb3J2NGVLSEF3NGJlbkFidkgxQms1eWNFQmJhbFp0ZlRYbnZTQXVnQ0dZOUdndnJhLXFLRS1iRGlvVlpLM3BjTVdyaXE5SmpqMDlSYVROcXRtTkw0ekgySDZUS0UyVEdmMnlVeTZhQWJVbl84cUdEWkdaWlNTbkN6M0lYeHZJY09sX3R3NUhjY2JaZHBoVUs1dTZKU2tuZHhvLW9QcFhHRg?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-13T07:00:00+00:00"
     }
   ]
 }
