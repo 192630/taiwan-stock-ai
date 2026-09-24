@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-23T17:35:03.265263+08:00",
+  "updated_at": "2026-09-24T18:34:56.683353+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2472",
   "name": "立隆電",
-  "count": 9,
+  "count": 8,
   "news": [
     {
       "title": "2472 立隆電 - 完了完了 永遠套住 被套元件 - 股市爆料同學會",
@@ -52,12 +52,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUlR6WkFJTTVnRzNqRDlCcmhmdUhrOVVQbHl0cWZGZFNCS1ZJY1RNZVF4Sm9IVjNpMTd3U1dMNFpFd3JPeWRTY3Z3ME5lWWxHOE45YWp1bXBWMWZudm9Rb0JWc3dJdENNUHRiWXRVQ2NlaTFSLUtOMFM3Qk1ZZ1JVcVpOMmtVUXZROGk4WmtB?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-08-27T07:00:00+00:00"
-    },
-    {
-      "title": "2472 立隆電- 【08/25 產業即時新聞】鋁質電容今日承壓，族群個股普遍走弱，留意資金動向。 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiVzYtWUxIaW91OUFuMVdaMnVDa2xMNlJ0Q19KWTZMTS1iS1RuaXJ4cGRaZ0xzQlVDQmI5XzdxLVB5Q2dBMllNalBnWHA2eWoxbU9BcmRONGE?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-25T07:00:00+00:00"
     }
   ]
 }

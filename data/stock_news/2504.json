@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-23T17:35:13.114695+08:00",
+  "updated_at": "2026-09-24T18:35:06.786697+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2504",
   "name": "國產",
   "count": 12,
   "news": [
+    {
+      "title": "東方證券：集採低價競爭趨緩 國產替代向膽胰延展 作者 智通財經",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vQmV6S3VXWXNiTlVWZUtHemxCcG5COTMycHAwaDk4aU12NHMxM0NDeUM5TGwxU0E0WTJsdllnUDVCTXdRdHFVLXNYeXh6RkxwNGV6SHl2TnVscDR3UVhsQW5oVWJ5aGRJdjlHcE02bWk?oc=5",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "published_at": "2026-09-24T04:26:39+00:00"
+    },
+    {
+      "title": "公司問答丨宏達電子：公司是國內高可靠鉭電容龍頭企業之一 率先突破高端鉭電容國產替代",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91VzFHZnNabDVGenZsWmItZ0hwUFJIMmNpNW9NRFo5Y1lBNTM2SGg1LUxhT3U4YnEwNTBkMks4SDhKVEpfX0lldk9ocWNGZVVmbEp0bEFiME5TV0ZhQ284UXJUeHp5N2J5Rnc?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-23T08:36:05+00:00"
+    },
     {
       "title": "國產新藥上市審查拚100天內！大利多引爆「這檔」5天狂飆70％ 台新藥、浩鼎應聲漲停",
       "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQeHBQQUhOWkNKUzk0NVdRYmZsUTc1WGd6R1Bjdkg1TUdPR0pfVkhKYUtpcC1ocmZ5UU5NcXRST1FtVFVlOHF2VHBMTEkxb05PbmdlYzZkX0x2aVk4NUZ0aGdaMHdIelpIM25JNkdwdTdCMlR0VWZab2JJaUh6UHVEdnE5T29OemdVQkRNQ2luRy0tZS1DSVFmWm9UT2dIWFZ1Q3ZTaVNQVkhZX01IalZrU3RSeWYyOXFGbDk5NkgxYm9OdzM3blZsTklxaGJPbElVTjdZc3pERzFBQXZvbmg1SXZTRTI2cnRoejZYRlJoTVZBVGpOQ1MwRnR2S1dqeS1mNDkyT1J0b1dMQjZ1VkFwLV80UlI4bTVzVXNhbmo1N2paem1xT2xvd3BSZHozOUk5Z1lPQ2hHUkpNdEF4SG5KTHh5RUtFeEx6WmlmU3VlMkdVTjBZLUhDLUNTYWdEcjFCS29qbWVwRVZCRktUbnAySDR5dVZEOENkUW5TeWVPaVpaejRzeTFvbA?oc=5",
@@ -14,14 +26,14 @@
     {
       "title": "中砂盤中逼近千元大關 CMP耗材行情升溫 頌勝、三芳搶研磨墊國產化商機",
       "url": "https://news.google.com/rss/articles/CBMi4gVBVV95cUxPVzVjNmZ4anRnaWdrQ1BON3IxNTFLQjFyUlZ3eWxmTVptSDJ6LXdiLVZseGNUUXd1VGI2VHpGMGdOZ1o4d1lNNjFSQkQ2REw3cEYzR2xSYjJjWUdkQ2V1cEpEWTIzRG1QcjYwYnJzb1VhZUcxMWhZWDI5Z2wwdHZUVnpwaTBmM3Q0WmNqNDFkY19YVlhBbVYzYk9Jc0ZhZjhnaXk3WnFFUzNZeUw5S25CVjdqaFBXOTNMU19LMW5nQzllQUFqQl8xZVJmcm1fVzM5dzN0Z3gtUE15TUJYUTVfdjZRMTNaR3dHSHBqYXZ5Mmt6T2dnMThCYzRxeGNzbzhnRjFzdHhxU0Z0VC1pQVRsOVhFU1BjSm1kWXNUdl96SFdUaldETjcyYnBURThuXzNxek5Kc2MzNjlrVF95ZF96Njc2TUpObFBEcGlVWnZseWQ2OXhyWVhnVEZEaTZVT2hDaGFpck5jc0hxcjJwLXVMWHVaUDlTVHRMSlZuVDk3Ym5QRlNkZTYzN2FRajZza21IUGVBV1NKcElQNlM2UzRCcmtfR0xnT0FqSU5tVGtBSjVQbnBzWnhPVFYwQ19LZF9PTGlLajFDUm9YV1VnclpTUXhlbVlsS1Vmd09xdnVOYlI3QTI1Snl0RkpXU3FGRVVwWHNIdThZX3k1UkxIX2dsNVVyb3ZWTXlBQUNXdkZ0d25ZZWZUR0daRmlQTzhZOHpqYU1GTlh2Qjc5YjRtM0Jsbkc5S1RicVMtUEQySXpWR0R1YVVpQ21RbHdZcnpSQy1Ja1RPQ3NRcktLa0Z3aFdFeWR6dktqMXo2MHJkY1ZTUUUwdGJ4VjVIRU11WlozYnNlanRWNkp0M0VSQjRKd1BQMVpJcTkwalJ1RG9mR1M2UzktUFNKNVZnUzhWdWhmV1E3SHU5eDlCX2RaQ092VGY2SHRGUmtxa1ZCQ3ZBVlUzcl95LWpnenVSNnRRX1JobTEzVHc?oc=5",
-      "source": "理財周刊",
+      "source": "moneyweekly.com.tw",
       "published_at": "2026-09-23T05:19:54+00:00"
     },
     {
-      "title": "中金：DS V4.1 Flash釋放硬件潛能 國產卡邁向10T模型時代 作者 智通財經",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBUW4wOEZfVERxeERVM3pSR29RbUN1Mk9mYVJ2VEFhaVpCcEVnSk9JdlZxajJIYkVqclZSbmxCRnZhVng2UVctSE5fOGUxZ05NYlpGUElWem1QcVZzNDQzUXVVT3VVT05mVmllUURCNU0?oc=5",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "published_at": "2026-09-23T02:21:52+00:00"
+      "title": "半導體鏈拚全自主 機械公會︰培育國產設備不外求",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lNjd6RlBCRkd6RHItbHVaYTl0cS1xWVBtSlJtQ2F0dmxneW5IX0Rtb1l3WVJCUlZtMFRJMmNfUkZxTm1uSVMxUXVyeVdoc0NySmRFTmJzdlg?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-22T21:51:26+00:00"
     },
     {
       "title": "中華車:Q4營運具信心，明年推兩款國產車",
@@ -40,12 +52,6 @@
       "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxOSmZucE1ZNlgwWE91eGkxQUxMeDdKdzM2V29oMHc3OFMydTJ3dzg2YUJuTEVqQ1RXWnE5QVlBamhTU2xZeDhtXzgzb29BVUZnZkRsaF9hOTB5RUtjdFZhY2pnc2dOVHk0WGZzcVJsWXB0NjJHZGVHWHUzVHdxaEl1dHRDSkZ4TjgwS3ZEOGhKX29QeG5TTHQydUxzOW1jNnZfY3F1S1Y3NU93X3R4X1YtWnJHd2V2d20wak13QS1KRUZObVctLUpiX09PMlZGd1JKSVF5MWg5N2d1Y2k0OWhOM1BrUWhiRDBheGtXem9oN0JaMjUzVDgweGRPQWJyM3FGR3hfQ3AzLVRZREQwV1F6TnR6Y3RmdHJyb0tTd0piMWtheWc4WVdrS1QxOUMybXd6YldIV3k4ZGtJOUhIQlNDeDVVejY4MksyUXJTRzM3SEJWRDk2bk9KRlBnRjFzNnFQdi1SaWI2V2plSzNWWXdiYTQ0bDR6dEFoRHBPZVZnMWxsaUFRQnNoUGN3eWZMa3NCQWZobWlUM0Y5WHZNRkg1N3BJR0duZWNJT0RnTktXenhsVDE3?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-22T05:24:46+00:00"
-    },
-    {
-      "title": "國產惡女擲骰解謎RPG《和平締造者：命數已定》公開擲骰進行「智力」、「敏捷」等檢定- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfNzMyQVFzdmpQazBPZVhteGNJVFlfNWR4emJnMnlfelMzMGJ6a185UlpVSFQxeW5YSlpEMFNnZUN5S0pCaDg4RmZXWWRaLWFiRXZ0M3RKVlk?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-22T05:01:10+00:00"
     },
     {
       "title": "國產卡牌新作《追尋者聯盟：英雄之旅》1.0 正式版登場以策略構築勇闖領主之島- 股市爆料同學會",
@@ -70,12 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PdGRlbV90SVkyR2ktVlpCdlRXX3QzdzZPbWZDRU9URXkwUHdLUXRSdTVYcjE5LXU2S3JTR2laWFFuYnpYVjI3bDhUQVZYenhtcWdPQ2dmaUNmN0g4QjY2NUVQczI1UnphdG1TM0JlZGc?oc=5",
       "source": "Investing.com 香港 - 股市報價& 財經新聞",
       "published_at": "2026-09-22T02:52:33+00:00"
-    },
-    {
-      "title": "格隆匯“國產CPU三劍客\"飆升！Meta新一代智能體Muse走紅，服務器CPU需求重估",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TTkY0T2JieG5VV0xzbWJBM0ViVVotN0YwamJFM2NuMV94dHQySjNHYloyTGxWNWZmLS15bGVLeHNJNGxhOXlNR0RTT3Nwb3hlczRFc1o4cmdDdw?oc=5",
-      "source": "Moomoo",
-      "published_at": "2026-09-22T02:01:19+00:00"
     }
   ]
 }

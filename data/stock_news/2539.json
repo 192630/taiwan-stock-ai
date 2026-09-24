@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-23T17:35:20.668103+08:00",
+  "updated_at": "2026-09-24T18:35:14.685306+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2539",
   "name": "櫻花建",
-  "count": 1,
+  "count": 2,
   "news": [
+    {
+      "title": "櫻花建(2539) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42TEdLeUkwemdfV1NDaklpYzlocVJfU1lBLURxcFR2Y1FyVURqZnV1MGtWdUFVazg1bG1GazhpQzZIZFNaWXJOMVpCMUxqWkE4dmE4?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-23T10:41:55+00:00"
+    },
     {
       "title": "【2026/08月營收公告】櫻花建(2539) 八月營收4.42億元，營收雙減，年減8.69％",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2ZEtUajNkVVhnbkJ4d3FGTFE4TklzWVVXY0Z0ejdRT0pjWF82ckdhVU8zblVmd2lSYzZsbzVnQ2x6c0I2M2Rrd0o1WHdaTEFwSk5Td3llS1czNG5rWU8wdVJyTUNFUQ?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-10T07:00:00+00:00"
     }
   ]

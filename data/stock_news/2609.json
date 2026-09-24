@@ -1,21 +1,27 @@
 {
-  "updated_at": "2026-09-23T18:34:42.176868+08:00",
+  "updated_at": "2026-09-24T18:35:21.385590+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2609",
   "name": "陽明",
   "count": 12,
   "news": [
     {
+      "title": "隱形牙套邊材變校園扶手 陽明交大讓醫療廢棄物成永續步道",
+      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQRlAwNmZVMzBZUS1FSEhFbURkS2d0YlJxV2N4dkJiMG5LZ25LREZwZnl6S2g0M0h1ck1SOXB4RFkyZTBFOENqc1NId2R3cTBhZ1laUFlsN2VnWmdBT2l3dHlIc2dZeTQwaU56cVJMMEs3Vl9uRzBheXpxc1ZYM29ScVllNzlLVmF6dXBQU2tzSlJMRjhfTFVsSkFFcndJT09hMWlTekYxNFNISUlaVXFiSVNrSUtqR1J1ZmlkaXpGY2Eyd3NPRnp1YnZIb2RKbmViUnZmOVpQVUNrSFRzT3hzeHZoN01GWTBsXy1QS0ZBRi10NE9QQnBwVU5lQk5DcVJGMzRZU25sZW9LVjBHb2hyd1pWY1lzMmh5LVoxR0hCYnFqMmcyZ3Q0WmxmN0l5bENOQk9CYkotbXJXUlYxNkZQeG85NUVKd1V5ZEpzbXBOcWlldTkzMGlzdV83cnh4Qm5iLXBqUUpLZUhhcktQY29KWnd4OVhKVUdGRHJYVHpBQTB6MnU3c0Nudkl4ck4?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-24T08:38:02+00:00"
+    },
+    {
       "title": "陽明船隊持續自有化，提升公司營運競爭力",
       "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNbmkzWmhwazR3VnFHcDAyYk5lUHdDb203LXN3bjVSUnlDNzVTT2g4U0RZR3hBM3E2aXpCUC1ucF96NUJnX0lKczJicFprN0hJVXVHQlpBanRFcXZ5ZUV2bHVKRzBZc0VPQUp0Qm5lTzdTMVU4VXcxYkdFZkQ1ZnpKQkR1TnVWbEZIbUNFYkRIdXVuRW1vTUpxMHZsdHNUQmd6cE5pT0o4ekJ6QWo0SU5IbFpvcnhhdURzNVZmYWV5YVBVR25oMXN5bHdtcGJHQnlPQVhTMm5hQ2RZb0l6aHZXa3BlTmtad3FNUHd2cjdjUWkwZjg1Qzc1ZDBvNXNSYUVRNlBXNmd0RjNUcWNCMWNKQ3RHdWg3aGF0WDVBN1JOVEpLczl5WjJqVVdpRnRuOGZ0Sy1meQ?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-09-23T04:49:25+00:00"
+      "published_at": "2026-09-23T09:24:10+00:00"
     },
     {
-      "title": "陽明海運法說會 Q4市場供需預期維持相對穩定",
-      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOVnRtaGxZMWhyaDZYLUY1cjRadlBHLVN1RktxUENsdTEtaE13XzFYNVVqemtTQmxsby1ucjFHdmxUOVN2SkxKMmpjdVk2X3FtMFloRXlRMG5mcm9VOVJyaVVVOUI3RE5TaUtnVjIxa2lyRlM1S3Q5WU9qS2RMNDBrY3RKZzh5VWM4aFN0dENhN05kMTZtRm1nVVEyVktLcTJ5aE5tbFMwc0NyLUZWd21jV2FPMlhDenNIRVhfZGpiNDB3RC03aHNUYkpsdEVFLTl6VmFSSGYyd2JHOUx4QU5nSGF5a3A3dXJrVkI1ZEV1YlhpRXhRb2ZubFBsTHlHUk1kYTJUckNZVmZPWUp0cTljRmdJWUdqTlJiY3piaU51Z0ZTOHNjOTViQnhVWXZHRFV6cXMyQVdwY1BZQk0?oc=5",
+      "title": "陽明海運法說會：塞港成新常態、Q4緩步修正",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOTXJDWlFZQnFTMGpzUWhvcUlnMXF2ZU9BS0pEZEJHNmRfWHgxNFVZR0xiTklvVXhjZjhuaGVGVUJIU2xKVDQxLWZnV19VaXp4eE9RbWhWUlVuV0NqcW56ampKUlFtZXJOOG9CbGxPTmlCak1aaF9DVjVSdldsWFQzN2FRZlYwRXlUM20yYzQ0cmo5Wk5oemlQX1dIZkZJYnkyeHdzSlBMY21zcXJPWk1KTDFoZFhaN0VkdWYxaGRoZy0tNlBKTUN4MlgyVDlBR1VmdVNMR25XaVgyZGNQdHJDY3AtNVN5dzBTOUJJcHlpS2lhcDYzbnk0cVFGTWt5dGowV0t0eFE0YmoxNERjc3pXQVUtMXBDZFhxbkwyTG0yclQ2WXYy?oc=5",
       "source": "Yahoo新聞",
-      "published_at": "2026-09-22T12:03:07+00:00"
+      "published_at": "2026-09-22T10:50:53+00:00"
     },
     {
       "title": "陽明法說》亞洲線第四季將迎旺季 樂看運價優於第三季",
@@ -36,14 +42,14 @@
       "published_at": "2026-09-22T07:25:00+00:00"
     },
     {
-      "title": "串聯清華、陽明交大等15校 東海大學扮演中區AI資源中心樞紐",
-      "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOQ0pDZmZ1TXlTS1otaFRRSHR2MEFGMTVISmlxVV9DREhYOEFrTmFKZEc0V3k0RUpZbFJtQzFieGVDUGh2NDVab29UamFKVTVQQTVaZ0RaZmpwUDlGdENVV3ZaNUdFbDk4NWs4NEkweVJaUDJaa3llS1FvaFJJV1RHQzVVVXhwVkt0T3BUMzU0U3hpUTVjYmNERkZVSnkwU3RwWnFWWUozc0lFQ2pDeWpKcW9CWGhQSkZiQlN4N1VFdW5mLVhqUFhuZmF3RXd0NWV1YzZvTVlORUJCeDFvM2g2WEVGQVRuaHVzMXY4SldVTnpSeWpCUXFGNjN3Tl9QQ0c2R1l1WXZyOFpXZGRONWJCaFp3b2ZWY0JjRlNBcWhIOHlleHNsM08ycnlLa3hfcTlvSHhaMUh0cUo2ZU81cUZwcV9oa3J0d2xVYmdrS1VQaXNra0NhWTZVTXBSNXJLNVRMWmVUM3E4TU45TVktWEtwaEU2VnRDQlItSU9r?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-22T06:49:16+00:00"
+      "title": "2603 長榮 - 大航運-陽明115-0922法說會- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UVGVVMUNkNFZleEUzdDVuTU1yLWVZbE51ZXNIZ1Btd0F0bGNVZjVQVkczVy1Mak1NR296d2VMYVVCTXlvNU5qQWc1TzA2d2VXbHhNM3YzRGQ?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-21T06:49:24+00:00"
     },
     {
-      "title": "陽明(2609) 今日股價與討論 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9zN05RYzN5ZnhQN1ZTZEE3bG1XSW85dVJJUDI2YWdCcDJOeVE0ZWdDMklHTGlxdjBIM1ZRcjBwN1FjMnF5VUJfS3FqQjhUNXM?oc=5",
+      "title": "陽明(2609)-同學風向與貼文摘要 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OdXc5dEE5cmVHX1JfR09lVUpta3ZLaFJRaC1pZDhGa3lUMVBXUlpjMlVFa0szcFppcHByb0VmV00tMkhSeFEydHdjRGl4OTl0c1ZFMWNhdlYxWDVlcFJoMEpR?oc=5",
       "source": "cmoney.tw",
       "published_at": "2026-09-20T07:00:00+00:00"
     },
@@ -66,16 +72,10 @@
       "published_at": "2026-09-17T14:45:00+00:00"
     },
     {
-      "title": "陽明海運15500TEU級LNG雙燃料全貨櫃輪滿明輪命名",
-      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPRVNDdnYzUGpRdGlnME1HWEMxMFFMUWZLa01Kang0N2Y3cXpfQXFNLU9jRUo4VU83OHl1ZG1UNTJxYlBTcF9vNnZ1SjVJYnZ4UGpTMWxnLVdjQXpMZ3lBUXAwTV9XVlhMOVdiTVBmcThZNXlqNXNWeENUam5LR3JSdFR3dHBDOFNaakxsd3BwZkRHWnJqay1rNVNuYkEtOTkxZTV0NElPSV9iVW1BQXRTZnYtOVc5bU5KNnJiQkpNWEJMcFdPQXBKaENfOHhNNzU0ZGw5N1BPSmQwWTVpTFp3NTFObGo2Mno3Yjg4Wkd3cmo3RUZsMEpCLWJycFZqZU5TLW9LaXFFX3NYQURyTkY2V1BNa21fY1QybGlOT1JWWnVKc0NXT3Z1d3JON0gtQQ?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-17T12:35:56+00:00"
-    },
-    {
-      "title": "桃園市教育局攜手陽明交大 打造科技教育新基石",
-      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPMk1KM1hDczE2TFh2cWcwN3RhQzVJMjNRbDJKUEQzSjdSWXBBMTZETmV6OFlGby1qaVRoUjRpLTFCeDJtclNxQ0xRS0NHR0czLTRkanNfb2tOVVgtNVlGZWVBWFNrM0tDbE91R0JXUUxQYzdSTTJPQzhBTjYzYjJab1JPV0xSZnhsdVdkbnBzOHkzcm1KTUZzNmRDaVJCZDBwTkx1bXU3amROSUxxSGxDdnlPVjZQazRZcHEwa1lCTEYwaHdtVGFUTHI4UENKWnlaUzE2bTQ1NXEyYXJPOU5La0RsR21pc1FRRFI0QUxLbTMyU0REc1ZoU1hyWUx4NDNHVmQ0ampnRFg1NHVGeWZVeFJDTmJkWjIyY3VYc2tONWlQbkpmVHl0Q3dWTDAwWlVNMUVzeGZ2NlNZYW1tczdwbHRic255LURpSUFVSmEydFY?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-17T08:03:56+00:00"
+      "title": "陽明「滿明輪」命名 冀強化亞洲-西地中海運輸服務",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPei0tdUhuWjcxVm9aZVNVaC1DQUVyejdRbl9BdUJncl9ocDI2U2Z1bVlqVzdBT0FsVnVwUS1PXzk5RWRZRXkxeHR6ZU03YzVzaXlIRXhpM0xIU19aSEtiRFpZM2htVklZNDMwV3dCYm1QWkk2V0lnR2FZT0RxVF92dkY3T3hjYk5Fa1ZrVXh2bFpIQVM2ckJzczFTRWxDcWw2cDIteUtNR3MzOWMyU1NXRTBmRXVMRFI4elhKTVFqRVNLX24wbzBYUXJkUVpYMmRiVi0zYThUazI2QkhpTnJHaHlvdTNEaHpETGdiR1VYUGl0OFRDVUx2ME9CdEVhcG1lR0ZucGhuMllWc2JNTzRZZFpHVnhyNnh5VE9oNjVYSktNdTZ5U1Vva1Y5TkFsWFhPOW9SQktwS3Jza3RXTUpiaXZ1ZTJiYzUxUktTc3lOQU0?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-17T05:45:00+00:00"
     }
   ]
 }

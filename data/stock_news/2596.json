@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-23T17:35:24.211601+08:00",
+  "updated_at": "2026-09-24T18:35:18.143574+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2596",
   "name": "綠意",
-  "count": 4,
+  "count": 5,
   "news": [
     {
       "title": "矽光子綠意盎然！「這檔」吞連7跌挾IET、光聖、華星光挫7% 惠特卻逆勢飆漲停",
@@ -14,8 +14,14 @@
     {
       "title": "【2026/08月營收公告】綠意(2596) 八月營收4.46億元，表現亮眼、呈現雙成長，創近20個月以來新高，年增1287.88%",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE84SV9qN3FiY25sR0tBQ3dRejRvWVZzMm1wOVhYREFuZUd5UEd6YmVmMVlfUUwzM0EzOGZMWnRKbWdoTkdMZ1JxRENTS2lBbjY4ZkRWMHNCRkFOcENuR3F4YWdoWFhfUQ?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-10T07:10:04+00:00"
+    },
+    {
+      "title": "2596 綠意 - 綠意 領航一號廠辦 已售的繼續入帳 剛才公佈8月份營收高達... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10SUI4cXBUZjQ4bzJ0RVBMVmhVUVlpMmJTbXhLb3pJd2J5UWlGeDhxRV8zVXhPQ3pZeURtS0dhbHZybFNPMUozOW44WXdadkpoZERtT3JzdGw?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
       "title": "光電股綠意盎然！晶彩科領5檔下跌3%、群創也挫1.8% 唯天瀚、光鼎逆風漲停",

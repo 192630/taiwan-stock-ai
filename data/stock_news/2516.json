@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-23T17:35:16.148942+08:00",
+  "updated_at": "2026-09-24T18:35:09.917437+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2516",
   "name": "新建",
   "count": 12,
   "news": [
+    {
+      "title": "Firefly Aerospace完成新建潔淨室以加速航天器生產",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcm43SGVma1dZVERtX1BZd0RtdVZXdmVob1lpNF81NE5WUzd0bWxHRExuQWJiZ1VKVTVjUWJFRTJ5eGtIUEVFOWp3TDU0ZDA5emR1dmctMHV0RzluYWhJQVNHcXhYcF9ERTBvMUFzMG91Rk9ISWFnalAzdV9qVzBjWE1tNWhGMFFXS1hJM29tSXI4ckJNcXc1WjlmY0tCUDIwMGg1ZzdxTVdvMnRDb2h2Tm1YX2R5UTlKWFFLYkFnamg4bXNl?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-22T16:50:00+00:00"
+    },
     {
       "title": "【00406A】09/21 操作日報｜經理人新建倉頎邦，全面加碼半導體！",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ENk9hc2dXek9oNFJqc05DejlsVjlRVkhQbjVXUGpnRkpOa1dlOFJjRXNMWnBiV3RnLUs0bDd5TGxTbjVIWWR6SnZPTVF1RGY4VXpIZVhqMDdWOGVzVGVneExubWFsUUk?oc=5",
@@ -12,10 +18,10 @@
       "published_at": "2026-09-21T09:40:47+00:00"
     },
     {
-      "title": "漲幅落差…新建案漲71% 營造成本僅漲29%",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPNlRad3JGYXdsRlU1eVJtYUhFS3RJTWJQbjZFVDVSZzc4TUpJcWdUS3dnZjFXWG9XT1JhQ1hTcTZ2blgzalBGb3UyS2U4eWVqRlo0bXU1dmFkTFFvVnBQLWYweUJtd3NFVmp0d3BNTmVQSWFWLUhUUlV5NXNlMm94dzFSelM4Smc3c3ZiVGFISmU5ZFlhNEh2MnVoS2tiUHF6aHNYTGM2elNDNk8zVHdyMEEwN3hQZER3LUdSNnlrODR4WEZvUHFVLWw3V1owSm9SRXFmNFhNaXRTR2dKRzBpM3o0VmVBZXd3NWRBVHVyWGV2ZVg5VXBVWkJJUS1ZMFhtS0c4?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-20T22:48:58+00:00"
+      "title": "【即時新聞】美日百億美元投資發酵，格羅方德(GFS)將營運新建晶片廠！",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DbHVLbEVDZk5Sdl9yTXhEbGtSM1RGYnUyOEoyQmMzYTkwdG9TVDByamtRdGljcmNmTVctSUR2V1lPVlZyQXZuT3c4S3YzU3ZIcFpMdURpUEg?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-17T07:48:23+00:00"
     },
     {
       "title": "【00403A】09/16 操作日報｜新建倉南亞科，資金瞄準AI零組件",
@@ -45,25 +51,7 @@
       "title": "【00406A】09/15 操作日報｜新建倉強茂，大買半導體與散熱",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16MW9vM05tbUxzb0hxblEzbDlIcURQUzE3OEU0WHEzNzBhNUlCSjVPRlNHajVMYU5EVWNZc3V6d0NBZ1ZZQmFnczVPTlphMFBVS3M3aEZXaHFzVV9ZLS1icTc3cEVnWHlTb040RHdxNTg3d2hhV3pyMDhaalB1dw?oc=5",
       "source": "CMoney投資網誌",
-      "published_at": "2026-09-15T09:41:04+00:00"
-    },
-    {
-      "title": "中央社宅Q3逾6千件申請 搶1,500戶新建社宅",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxObkg4MUFVb2JPSDZxUEVPYzdPam5GUHlKMVg1M1dLelRVdFpGcUZLSWVrLVd5aUhZTDA5Ujl2M0ZfTVFreHQ5WkV0ZDhySGN4N3U2YktXeWhsMzE4cE5ublNUR09VWXBLR1ZQdjVQZ1c1NE9xR2ExR25rb0o0Slc1czhFOHQyOGJBM1VaVDdyRUJzSlp1bVM1alBvU3NQRURUM2FoNEVfek01eTJEc0daYm9NY1Z3VUFUa2xkUWYydHdUSWZlVFFyZkRZU2l6ZktlT0pLejlqWWNLZDJqMllHZ0Q0VTU5djVXNjdZM1VsWEJnZkk4RjdxOWdObnd2dGNkelpWT2RHV3Q2YTFwZUFQdnFCQzdlMTB6OEln?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-15T07:21:07+00:00"
-    },
-    {
-      "title": "陸前8月新建商品房銷售額年減13%，降幅略收斂",
-      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQZjA2V2haRURvX1lza2hfTVFtd1dPUlRNY1ZvUmJub2RWaEF6T2pDUGVJeDZQUTRFVjNpbjU4Mmt6MU93QS1nLTMzdDZoTDhnR01laWlLcG85d25BeWZhTW1tNDh0d0ZvOVNCTmFXa19DeVRMUVRtclJxRVBWLXVoYXhMZUFDTzJ5QnZKVVFxb1p4VXNFUE14NzBJY2RIZDRJTEJ5bmxTdHVqZXB3TkliWnpxVEtuV19oY19uNGhKZ1EzZGUwM0UtdERYYTl6dS1qbXlfcHVZS2RhRjlGM29vSEtZdWlTY25lRThOMWpfQ1JqZ3hnVVpOSHpibUU3N1RUZW1YRVdZZ3dWV3prdTc4N1NHdzN3b1pyZU9Oa1lkZDhFcllFSlJqYVh1Ym5MdkdUdGUzMFJDM1k?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-14T07:00:00+00:00"
-    },
-    {
-      "title": "大盤殺聲四起！長榮為何獲主動式ETF高檔「新建倉」1169張？",
-      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNcnhOenhQQXhqRHpPRkp0SE4yT2xjWmhQZWpWZmFkMkFNLVlYQkhlUGpSTlVobDJHS1JJWFJoOWJUYXoyNVlKOFMwYkxjRlhYc2RFTWZGa3M3bFZCclpaM1dHVkZjai02WHlHSmNQclFSaTJ3V2lJcWJHTjNwRzZSaGxfZGlUa29FZ05MOUl0aUtFeTJKVDJVTkh3a2R5UEQ4U1ItQUNidi02QTloT1ppZUZXN09jdnFoZ1VIbDVYRFpRenJjb1BMOEZMM0cxTVgyWXlMVTc2YTVEeWhhNmliVDlZMkdJUTl4QU96Tmd2ZEhtVmhTSWdUSjRjUWNfY3RBeW9BLTRmTERmeUhUT3N2bGZneEotRnZFZHVuZEZBM2lxN2VjcGNUeW9pbWplVW9maVZzS1lLSTUwSUpTZGhJUS1CVEtuaDc4eTREckE4bWc?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-14T07:00:00+00:00"
+      "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
       "title": "【00400A】09/14 操作日報｜經理人資金換手新建倉長榮",
@@ -72,10 +60,22 @@
       "published_at": "2026-09-14T07:00:00+00:00"
     },
     {
-      "title": "【00406A】09/11 操作日報｜經理人新建倉中砂，大買半導體！",
+      "title": "【00400A】09/11 操作日報｜新建倉慧洋-KY，大舉加碼台塑化",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ScUpPUmhKcnhhV0p0NlFTNXRhTkItY2hITHRkdjRrLThfTnBPc2JhNEd2ZUNab0JraGtsSFlIMVBnY21TY1NOVjR3NjZPdzVqY0NLX0FWUlJDbHFBR2NHdGNFc2pxcVF3OUZycTlnTEZKc3BkVnJNdU5Gd2pnQQ?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-11T07:00:00+00:00"
+    },
+    {
+      "title": "【00406A】09/11 操作日報｜經理人新建倉中砂，大買半導體！-CMoney官方",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1icGxhQjFjT3BZUklidVNSdzlta3NjU0lXbjVYZGoyb015VDF2R1ZrTjF1SUxZc3lnV1lBVTEyT3FhN0xqZVMxZzQ2VWVCY2E2VFlVRFlQVkt2cUk4UkpwUE9ncTQyeXdMbGRwM2ZTeWhJbk1Vb3ZHS25XVWxodw?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-11T07:00:00+00:00"
+    },
+    {
+      "title": "叫停審批｜中國叫停儲能電池新建項目 以控制嚴重產能過剩與行業內捲風險",
+      "url": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxQc0VIS083S09aY3BvVVhIamduSmxxQi1PYXB6NmlyanViWDJGa1N2YVdRejBCbFNBOGVpT3Azcm5mN19NLTdXVllkUFVCQXVSNkNhdGlhelk1SGdfYWJIRmJpV0JTaGE0WnRPUzlWR0k5Vlo0TTd3MVdUZWxFYTlsRWtKbXZiOEZhajN6ejROLXJyQ0hIYW5XSkN3b3lDMGdMWmF4VjNNYk1UWkNjdnRGb2JwZURlQnVOUnpHcC03VVhVM1V6VHU1WGRwMExHRmpzSzFGdV9lRnJiRUhUcnNoaXVIakJVSkZLbkdQVmlnRWpENEE0dE1acXRPZkxwbGM3YnNYOXNfeG1LaGxRaE95c0JSQXMyMmlYZlpqcGdfaE5NdVR6OC1iYlBfY0E1MUk0dURDRWhUbU5MRVJMVnJjU3IyZnJzbXFHUkJER2VoNWwydjBFWjJKY19RZVdmLVRzdU1PTjNab2tDU05STmZ5enZ6eTY2NkwyQW1mUzJ1c2d3TlhjTE5YdFBUYmZKWEZrNWh6bWxUX3AwZS1rSHRjMUZNX3o5OW5qb3dMZlNFaEluTXprWFd2Y3hWY1V0S2FYUnRBMVRMUmN1ZVByejUwMmVlQzdCQThVX3g2S29OT2o?oc=5",
+      "source": "Yahoo 財經",
+      "published_at": "2026-09-10T07:00:00+00:00"
     }
   ]
 }

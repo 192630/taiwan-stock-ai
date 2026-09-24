@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-23T17:35:25.564059+08:00",
+  "updated_at": "2026-09-24T18:35:19.055598+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2603",
   "name": "長榮",
-  "count": 12,
+  "count": 11,
   "news": [
     {
       "title": "長榮(2603) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BZHFDdE8wd1VHVTJzVUtNWC1MczJ1RkhqbExldzdBS3dTX2FST2VkVVY4blRSeGVGNEQzaEwxLVN6U2pZamNmMl9MakxpdmJ3VDdZ?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-22T06:05:25+00:00"
+      "source": "cmoney.tw",
+      "published_at": "2026-09-24T03:35:52+00:00"
+    },
+    {
+      "title": "熱門股》油價大跌 外資大買長榮航",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TSFNhMVVqcjlxZVdXYlBzUmpQUDF1VV94TU1nWXIyaFZtaTJrM09DdVpUUHY4UDMwaU1mUks4d3RhTzZoQjR5V0xXcGRpNEJOaXZDZ1hEaTU?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-23T17:18:16+00:00"
+    },
+    {
+      "title": "長榮弟弟派告發涉內線 掀爭產案外案",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lZmdtb1dzblowUXBaTHNIcG1ieXNIRmU5Mi03alpTTm5FUExOYjhyWnpuSjRaWm1hS2dUdE5yYmxRbE8xTDl1YXVvZmJPbWR5QlJ4RWJ6b24?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-22T23:21:00+00:00"
     },
     {
       "title": "涉內線交易 獲利逾21億 長榮海運張國華等9人遭搜索約談",
@@ -18,27 +30,15 @@
       "published_at": "2026-09-13T09:09:30+00:00"
     },
     {
-      "title": "2603 長榮 - 我今年40歲。進股市15年。現在整體資產大約6000萬。但如... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxa0NxOFpQa3RTVlFiLVR6cXRTU3M4Q0huTWttc3ZiM1pSS2FfbndwR2g3ekc2Mk9nYmZwdlA1ZHgzdHQ4VVo5MnhvcFFPZlJtVWllY0FrNDI?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-11T07:00:00+00:00"
-    },
-    {
       "title": "紅海衝突升溫，長榮 (2603) 為何走強？32家預估藏什麼訊號-梁姐價值投資心法",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQTFoT2QtQV8wd0Q5emgxR1h0M1hKLVVkdFhNM3dwZFZSU2RmS2Z4aDVFMF9tTG9lWVJZY1FSdnlNdEpfUUViU0RYbEpWYkt0N19oOWhKX1RIUndLMkgwaG5EcmxaWmY4X3liOFpJeUJLeDkzeVpDRmx6Y0VLMnFLSlFYVUhoUQ?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-11T07:00:00+00:00"
-    },
-    {
-      "title": "熱門股》油價大跌 外資大買長榮航",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TSFNhMVVqcjlxZVdXYlBzUmpQUDF1VV94TU1nWXIyaFZtaTJrM09DdVpUUHY4UDMwaU1mUks4d3RhTzZoQjR5V0xXcGRpNEJOaXZDZ1hEaTU?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-06T13:26:23+00:00"
     },
     {
       "title": "2603 長榮 - 股價的波動性──不是你看得到就一定吃得到- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBsYjZZaHUxM3NQU09DazJFeG5EY25SMDZRT250cFlHWlAyLVc0dkc0M1VZbTNyUS1EcTBOWjdCMG1Ob3FnSFBtMGFoYVFPMEhCUm1DbU1tRDU?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-01T07:00:00+00:00"
     },
     {
@@ -46,6 +46,12 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUnppdXAtRTg0ZkNPOFpXNXhxUnN6NXlQTzM0WjNMYm5nNHVtb2VaWERuRnJLYmJjQlRFaFI4RjJKV1dGX0dGcF9SR2lBS1EwVFpKMUpZOC1QeWVKbkstakp2ay1QNGlVTTVsOGFycWNRS19uYVRoLXpmTnh6SG03ZQ?oc=5",
       "source": "今周刊",
       "published_at": "2026-08-31T07:00:00+00:00"
+    },
+    {
+      "title": "2603 長榮 - 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80TFhJYmlHekdlaUJka2RJT2tsZWJ3Sm1Ib2c4eTg0SE80ZEFyZTBZdkhqNGdWd1I5Qm1lZjIzalhQQ3ByeFpGaVhqX2hiM1V6WHRnMUsxSl8?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-08-27T07:00:00+00:00"
     },
     {
       "title": "長榮、陽明、萬海全數出清！陳嘉偉示警C波下殺 直言台股「量縮反彈」並非真多頭",
@@ -56,26 +62,14 @@
     {
       "title": "長榮、陽明 權證認購拉風",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12T2pPd21XazNqRHF2UDNoR1NmbVBjaW5qSm9HYUFJSzlMWGwxZTVYdE1aNnBPQklZV0VITEpjRjhNMW1XYXF3dWwxWnFWTWtk0gFWQVVfeXFMTXFjNWt4eS13cGxNMWVndEtEang2eFZpaDl6Rzc4ZXk1S2lISURrcU1PVkU4MGJLVkdtNTNMYzg1TGUyNXhWX283TVRIM3l0U19iNjBPQWc?oc=5",
-      "source": "udn.com",
+      "source": "UDN",
       "published_at": "2026-08-26T07:00:00+00:00"
     },
     {
       "title": "【即時新聞】最新！長榮第二季財報超標且法人買盤不輟，貨櫃航運需求成長引發市場關注",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQjFkemptTHNXNldVUUpsOVB1QmZMSTlpRm5UckM3NHBOOFNTU3N6dmN1cGlGYTNYd1RfdnF5WUFiaVQzcURLS0pzZ2NYbkwzclNvVklxbno5d2E4SGJwblpTRkFVYnhsazhTaVhSbGpWbWo1ZW5HNHlxY3RzS0R5VTF2N2lnVS1lV1FUc0NGRU8?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-08-26T07:00:00+00:00"
-    },
-    {
-      "title": "伊朗阿曼發聲明「開安全通道」！陽明摔9%長榮萬海急挫半根 分析師：適度減碼",
-      "url": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxOdkFZUjNtTVdSYUNsUG9nX1cxaWdNVEdZVEF4c1E2WXUwczFYRXJkdngwYUtnaUZnZ3F3U3E3Y09UMzhWSm1YU2RmbTloM29CTkpFcDFuMms0OV9TVTEtUmhzcEtlTmE3NjBFWWtQVEY2LVdqYTJ0TlBqMmw1YmVmTmhFcDdVRHZFXy1tNXJDTHlxTi01NnZQVWZCeEgxYy1vOVFvUDlpb05VMDAwYi1mUUx6OGxIX1pmRWZFWF9sTVdtYUdRMGM0azVWNWJOWjRjZERaMUpiNnVIanBpYnNWNHNmelVWb0pESUhDbVBfUVdEUzBpZEpMQ01MbHJNak9kNlFCUDEtN0lPdU4xcjY0d0xOS3RHcU4yMDJjZ3RPVExfbURfcDBQNjQ5V1B6YzhvRHBZakwxa19HX0hRQUlCbFZNNWRPeDlJc2FkT2JSdGdBZXdGOTFWVTJLTlN3WWI5M0VzSzhkanlkQkZSWGNxdUdIUnhsdm9aT2dnZGxmV2ZaeUpBZ2VSRktiSE4zTjNJT3Jkak9xWkdJaFVIdTlfQzQ3OTh0Mllhd1dyMW5zOGhYdVdYRXFQM2hXeHAtOEpqajRsSEVrd2hCX0wzWFZPZWtiN1d1YkhyNERfWUZkT2NMWDN3Z0gyWnZlMzQtYnA1U0pJVW13?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-08-25T07:00:00+00:00"
-    },
-    {
-      "title": "2603 長榮 - 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YdUdxQUI4dlQ5TnA5LTVWbEU5OHdyOXh5WlpXNllRQXhVODBfZWcwU0NxdDcwbHVna1J1VFVhZThLVUNobHFTX1ZkVEplbXBHb2Ixcnp5ZFU?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-25T07:00:00+00:00"
     }
   ]
 }

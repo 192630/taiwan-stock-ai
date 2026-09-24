@@ -1,21 +1,27 @@
 {
-  "updated_at": "2026-09-23T17:34:59.283418+08:00",
+  "updated_at": "2026-09-24T18:34:52.545117+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2460",
   "name": "建通",
   "count": 12,
   "news": [
     {
+      "title": "2330 台積電 - 台積電支撐2460元,壓力2510元 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5oQlVvZl9DWmwtWDlOVHRUWE1pbW5ZUDdOOFFQWVI4X0ZjTlUyeDlrVThoZHkyS2l4bW1KQXhKVjFOM0M2eFhVTFE4M3owbjJIVE8yWUc2Mzc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T06:26:48+00:00"
+    },
+    {
+      "title": "建通(2460) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVOWJGeEZhM2JLX0lmNWlRMDQ2ZExSUFpoYkRnSk91R243a3U1SnAxWnMtQ2lSYmRZU251UzNrT1l3X1RVQ08xeGJrZGdEUGlCeldr?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T21:29:27+00:00"
+    },
+    {
       "title": "【09/22 申報轉讓】建通(2460)大股東鼎曜投資有限公司將於09/25申報轉讓建通股票3,500張-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTVNJWkRiNmIyOWh0WE9PZ0tGSFNDRkpvOHczUXlhUUNxV3BQXzA1ZE52ZlYtQy1nR3M0aEdwZXdRbno3UXNjV0UtMWVXOVJnUFBpYVlzS3JJLTdTZXlpYTQwN01hOEs4UzJmeWFyVVRmdjl2aXZiWDlkaWJaSDRwOVlubmNSRUZTb2c?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-22T13:10:07+00:00"
-    },
-    {
-      "title": "【09/22 申報轉讓】建通(2460)大股東鼎曜投資有限公司將於09/25申報轉讓建通股票3,500張",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xQ0tGQ2VRSnh5Qk5uWjgyZWpIU0p6Mk1lX1hyQ3JLOEF6T2VpZG95aVlEekhBek10Zk5sTDJQTTR6bHhwYUI2Q0xrcUhaR09GR3E1cF9ZYUx6dk01NDJSRFNtNzBtR0U?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-22T13:10:03+00:00"
     },
     {
       "title": "台股衝歷史新高卻後繼無力！終場小漲81點 台積電收2460元",
@@ -30,28 +36,28 @@
       "published_at": "2026-09-22T05:34:00+00:00"
     },
     {
-      "title": "台股盤中漲逾7百點返47k 台積電最高至2460元",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqWGlBd20zQmdiZ3hVMUtVaHNRZ1VaUG51N0VHSktWTnBCSWpiNEwzczZXdllkbjNGNlZJcWVNZGM4Vl9ZbTA2UmhPLXJwSlN6OW9kZXNR?oc=5",
-      "source": "LINE TODAY",
-      "published_at": "2026-09-19T10:05:37+00:00"
-    },
-    {
       "title": "討論牆 | 台股價量齊揚「重返4萬7」！終場大漲892點 台積電收2460元",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mTEpCeGRXQTV5Vy05SDladFl5UlZPRG9WWE5oY0QzSEFrZnU1RVc4Yl8tcVBXZVZkM3BfbjdsVHB6bnRUZy1LNHROODloWGFYcV9QTFNJZkxFMWdkZllHaXp2aEs?oc=5",
       "source": "LINE TODAY",
       "published_at": "2026-09-18T12:07:49+00:00"
     },
     {
-      "title": "今日台股》台積電收在今日最高價2460元！電子股齊漲 台股終場漲892點、成交量放大至兆元",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93R1JoX2JEbFBWbnBOOGd5bi1PblB1R0JLSzI2a1dBb3BTMWpXdm1EbkJneklydmxjcnJialdmMmJBbHBUTHFkOEljaG5HRXJZOXc?oc=5",
-      "source": "蕃新聞",
-      "published_at": "2026-09-18T06:00:00+00:00"
+      "title": "台股盤中漲逾7百點返47k 台積電最高至2460元",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqWGlBd20zQmdiZ3hVMUtVaHNRZ1VaUG51N0VHSktWTnBCSWpiNEwzczZXdllkbjNGNlZJcWVNZGM4Vl9ZbTA2UmhPLXJwSlN6OW9kZXNR?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-18T08:04:26+00:00"
     },
     {
       "title": "台股價量齊揚「重返4萬7」！終場大漲892點 台積電收2460元",
       "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNeTA2c0V6VmJNRmtBMUJSaDRfVUQtMzZtanc3elNaeHo2cVlxN1ZzMnZTNjRlLUZHZG5GbmphOGIzNlFMM3htY0xuZzdQSndIS3Q1TTJsX1h3TWNjSlZpQXFtMTUycWFnTnlGdno3cXA2OXRKaE1FRGVLV3J2akFoQnA1bXV1UGJJYVB6OG1WMVN6bnczY1lVU2ZMS0cyOTlMYUtlRzJCTkRjSERqdFhhLVZfSW9FMkV3MEZVQlI2aEEyUGQwNkowZ3lKSVFPTnVqMUFUcTRmQmVpaHUzTGJwWWIxOWtIWDNXUklCcHVCZUtOc1hiY2FzSXcyVWwtRGNYcU16WGxsQWdhcEY5UzZ3ZXo3SEtBNTRsU2pmdFpnS2gyeUpVeURBNXhqTVlOa2R3RWVub3JvejJHb09BeXota3RDeXkzSkt6dWZlcmNfWQ?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-09-18T05:48:38+00:00"
+      "published_at": "2026-09-18T06:30:34+00:00"
+    },
+    {
+      "title": "今日台股》台積電收在今日最高價2460元！電子股齊漲 台股終場漲892點、成交量放大至兆元",
+      "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxQeGVGR3BDY3lpNVZCS0RKRVBfQ0h6SHNmd2JLZENoRGxrRzVrMUFHZmVYT0duQXNWb25lOW81RnozSTNwUkNtTVRDMXhjUDVHdjYxZXhJX19NbzE5VThKNWFiNmVHdy1oTnY3S1Nyak9pVTlXenpoR24zc19lMy1GZVo1cnpYZmhDeUlKUlM3Ry1hekZOeDl1Y0FuVkgzNjg4eER3aERnZDZTc0dBNE5mNDlZb3VLNnVyWGdKcWI2clpQYVZTODl2b09NbjJRRW53LXdiUjlYUEpyMXpCdmJxa1dvQkhrYTNWOElBRDZPVWhtbG1zMlBxSlFoVjFwZW5zSVpMZ3lwX05xZkpOcm5nbV9aMmpuWlMtUnlCeEp6ZzcwcEV1czByd0pCV3F2STh6Rzh5dml1c1REY05lVHJRaWlXTUZ0c295RXVXYUZXTEpTR3JpZ3lqUmRsNXl6VXA1Y1lScEdsbS1keUFiZnhqVW5BbUg5cTEyejhpZVBTb2JFVG9oX0xKMGhqNmxKQ1NTRDlRMzRaejBrLWJfckRlRW41TV94aUdnRE1vU0w0d01GWkZVY0lRdG5ZVUhVVlhIenFFcElWc25JV2hUVVlncjNsWUZqQmloVmp1NVhOTDBaYVNIVDZUZWVkWkE2YXBDYUdSVWJKempDZw?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-18T06:00:50+00:00"
     },
     {
       "title": "台股大漲892點收47180 台積電收2460元",
@@ -70,12 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQMTVlMjZIX3VXQXJ2OUlKRm5Pc19zVHRiWXRNbkoyNFZZWWZGNjBLVGtfczF2d3pYUkdvRThhN2Zhd3otaTF6cVA1M0hibHBPR1I2Y2xkZ2dpaVJNY2tQdEVKN1d3QUZwRnFuZG1pNnRoT2lyVEN4Q0kyVmRKdDI0cm9xc3Jka211MXIzVnJRZkd5bHNyeVNrZkg4dnljcE54N3V3cW93WERjMlg3NU5FLXNkSktwSUlFeEV3OWdqLXp6WEw4QjZ1Z1lwNzRvRGdrTzFBVmdZeUxxd3poN0VhZ3YwT2pndVNlZFJDNFVqdDBfbHBUSlJvZFVvdmNXak5vUTV6cTl3akJmN1BDSjNOdExvUWpyeGY4TzZudTh3ZWliakRJUFpDMktMYUlJX0dpX09MTExNTlZIMjd1c1BvQTd0bkRPbkIxZGgzeldpOWF3bGs4dEVxbUgxQ3FjaTJkbXU2T3p3cmNZcDJHZ0Z6NFhVTWVwdm5MMnJxLXhnSkV2MUdSeVNzZUtwQnVXV0k?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-18T01:20:15+00:00"
-    },
-    {
-      "title": "美股收高助攻！台股早盤大漲773點 台積電開2460元",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IbTZhSjhnTzk4UkZnOXo1a0RuQlh0cktzbjZ0eEVmVDBJQ1ZtSHZXTWE0dkstd2VhS0RtZDJmWjJMQktYdVFQVmdRSDFzZ2M2MGNtcEVSWi00Q3BZemFBTA?oc=5",
-      "source": "民視新聞網",
-      "published_at": "2026-09-18T01:10:46+00:00"
     }
   ]
 }

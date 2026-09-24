@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-23T18:34:46.271560+08:00",
+  "updated_at": "2026-09-24T18:35:24.897577+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2617",
   "name": "台航",
-  "count": 7,
+  "count": 6,
   "news": [
-    {
-      "title": "想見女神要先付錢！台中男18天上供2617萬元醒了 車手慘了",
-      "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOSzM5TDIxMERSQ1NyWnNOS2ZKbXNfUkN6LVdfWks2R1YxVUI5NHRCeXF2cUstVld6bTc3U2tWTmtxaWFJdDctQzVvSUQxVXRnUmZIRnpFMVNYNWdYTzF6dm1SbUVVbHY4NHhYU0NYeDNzNjVsaDhYWU1xcmtGTUVaaXoyYUFTbU1ka2NkTmZnYThlUzFNU1o2aDQ2SlVvTDVRWmwwUjA3bW1TQmZUMlJQUnRxeURab0puVkdEU3J2SGxzMnJiS0JiVTdKc1JiVHBXT3dNcl9LMzB2VmhLTmV2bjFXTVlmVVBoWmQxR0N4Z0liUTNvRFl5ZlZ2VDhPc3VKaDJCWVFhNW94bkRiSWdkYTF6UUhBZGhoSmJibFFvdFdWbFJZNDE4d05iWG9feWMwWkVaVko3MmtUaC1KcTkwenpQQmZPMjVwTm9EalhGcU5uTzYzamtWMmkwWEtkR0dIUHNHTXhR?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-19T06:05:00+00:00"
-    },
     {
       "title": "2617 台航- 大部份數據都3年多來最優的- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfYzA5T2N3VldlX2tLWTdFUE9NRmFPZHEyaTc3TnNGeEhDZElqMTd1SHZJNTZ0eE96S2tQUnk1UUR2UHc2X3gwdkdiR0FVdmZCaExkZDBJeng?oc=5",
@@ -18,15 +12,21 @@
       "published_at": "2026-09-19T01:50:43+00:00"
     },
     {
-      "title": "爽賺1.5萬報酬…詐團車手下場超慘 判關5年2月還慘賠2617萬",
-      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPM3RwQ1BueEQ3M0taQTJrOHBHYm5lM1licFktVEJuZWpEZUJ6NHF0TDlva25aRUEzaW91czVaWkFTNElwV3d1QmtQVG9QNHlYZkd5OXQtQVU0YzA2eUpnR3Q4SFNpeWdJOGNCU1N0cU1fSk1nWU1mdUpXWF80VkhNcll3ZXpqZDNaQnB0UTdqWHQ5T1dtdTI3UllQQ21fTHprMGpMQWtfQ0FRODdPa2pVLW1vUFpiWkE2c1Q2dzl6VjRrQjktX2gwT2NkZFBfam05dEFkMURXQWRYVjJGMGhDRTdtNFFza2VWWksxV05VNmpvVmd6MjdHSmFGVkJmSFFYR2NuVi12VTA0TTlUR1FpTGF0VVlIcnNMNXpEU0FDanNDY2RxUzduWmNSdkhaQkVUNEowbUZzRmJNX2FZcGt4VXBiQWZyMzhOQnZHSmp3RmdqWENlSjZHNVlUb3ZCUQ?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-18T07:35:57+00:00"
+      "title": "「先交錢才能見女神」他信了！7度面交2617萬 車手賺1萬5下場超慘",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TNVdWejUybWItYndTek1waDhGRUJMbG1UZUF6N0JocXMzenUzN0lPVFBkcGFYb0NaVW1veFdLU1Q4T3JHT3ktWnMwYldLWGY5VWkyYkVjZEVHMHNDbHJoM0k1N2VpeG9H0gFuQVVfeXFMUEs2b0xxSk05SGNYUjB2RmczMklTRnZub0NQWXFmRmFPT0ZTLUMyZEdySE52NnpKeS1BSHNaWkE2U3RvNS1KVDZ2RTBkc0Z0NVRpZzlrT045TXZFa29vUjBDaHBaSlpqbGw0ZmJCd1E?oc=5",
+      "source": "news.ltn.com.tw",
+      "published_at": "2026-09-18T13:13:50+00:00"
+    },
+    {
+      "title": "痴情男為見一面18天被騙2617萬 網路女神「真的神隱」才驚知上當",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iTWNyMVgyN0NDMUMtMUFhbG9Ya3lyakJKbGNjWFNxdXlLcG45YkcxOEc2THBaRzBPa1NXazJHOUJwazVWajNOeVlKY1hvaXI0bWFYVmF6SXd6elpnenfSAUtBVV95cUxNTmRNZG9aanMwbFlCZU80UkxCdmxYT2tWMERuLXl4QVI0eDVoQVN2SGVMWk8xU3FFS0dmRmxRQWRFM3BIdm1aOS1KS3M?oc=5",
+      "source": "ETtoday新聞雲",
+      "published_at": "2026-09-18T06:29:00+00:00"
     },
     {
       "title": "【11:37 即時新聞】臺航(2617)股價上漲至34.15元、漲幅2.09%，受惠散裝運價走揚與營收連月年增，主力與法人籌碼偏多支撐短線多頭格局",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ183eVpHby1rZDVBbTRhdFlVendqWjZSdVVBVXJKYTFnRUI5Q0RLclNyeVpDQkhwYTVqSTFHbHo5VXJRTnhVdmU4TERDX0hkYlM1SUFVUUpmbkE0SXpGWFdZV2o3djRDQXhtSDJpbUJhd0U3VDdtMFlZWGYxSjZ5MS1naW54YzJzLU81VnNB?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
@@ -38,14 +38,8 @@
     {
       "title": "【11:35 即時新聞】臺航(2617)股價上攻至32.55元勁揚逾4%，受惠乾散貨運價與營收成長題材，加上外資與主力中期偏多佈局推升",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSTNSdExQbVFZQmMxZXdZLUw4anRfVWFUU09DUW1EMzlYZVNBbVFVOHoyaXFTeDBZdy1oQ2Z4bDNqbF9PZmhIZHZpQUxMd0JmM0pkRnpYbGZqUDFZSC1XOWxmR0dqeFJueDY5dW9LNHdrSFdxQ3d0bjhNb3dfLUJ6YVA0aThGMmJBOU8xMHZ3?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-03T07:00:00+00:00"
-    },
-    {
-      "title": "台航(2617) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pczhuSm1nVFdvdi13WjVadnFQOUVfRWhnNk5oRmZYNWNpcUgzNnhUWXR3XzEtbkpwbG1UX1dpRWpPWXNOS3RfX0FCNHRqel9wQU1J?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-08-28T13:53:29+00:00"
     }
   ]
 }

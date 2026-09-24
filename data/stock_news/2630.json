@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-23T18:34:47.380914+08:00",
+  "updated_at": "2026-09-24T18:35:25.850373+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2630",
   "name": "亞航",
   "count": 12,
   "news": [
     {
-      "title": "亞航(2630) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ud2FJX3hxWk1fcWxlVThqT3VHTU9CazZEQkwzVElvUHJURzlEYVg1Y2x6TDJhWS0yV0xLQUhDX1BScXcyYkRCa1loMElTXzlBb0k4?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-23T06:08:55+00:00"
+      "title": "普惠加拿大與亞航婆羅洲簽署四年MRO維護協議 作者 Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uLWJTNEs4NFk2Y0xoV2cxaTIwV2pYblduTUpWSWcxNHZKcm9sSUVvMnRMd01Cdm5oZXA1UEdtb2xfcGlVdUNDVHNuT2RtRFl1d3BweExnazdTVTdMS2ZDZUd2N2RqVW54b2lfeVdrSTU?oc=5",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "published_at": "2026-09-24T05:59:16+00:00"
     },
     {
       "title": "2630 亞航 - 南韓仁川機場行李漏裝！9航班26件託運行李沒跟著飛人力不足釀禍- 股市爆料同學會",
@@ -32,7 +32,7 @@
     {
       "title": "否認政府出手救亞航 東尼費南德斯:從未要求紓困",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNczE0VDZjdkFHTEh3QmtSdndvcWtpaFlvMU5VT2lTNGJ3dXRPSFlvQWROZ3pMZHEtOUJlVXQ2ekFlZzI1YS1PWXhzV0pic3JKRFhteVRKaUVTRjVFX01Dd0xTWjhHaHphTEl4bHBzN2JFSDZWSVNLcTFLRjVCMlowenBsS0RUanFkWjBOSHRwc0h5YU82VjYxaE4zeDVpR0tuaG55eXVZc19PUmEtWWRVdGFZdlFfVHNGemxSNklCQVBjRWlWaWc?oc=5",
-      "source": "moomoo.com",
+      "source": "Moomoo",
       "published_at": "2026-09-18T07:16:21+00:00"
     },
     {
@@ -44,13 +44,19 @@
     {
       "title": "傳亞航面臨財務壓力 馬國政府密商對手承接國內航線 | 民視新聞網",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mc2IwUndveElZYUxDWFJvVURDU2ZHbTY1V2M1NlFkU0RiRWhTYmRpRkpXdVFKVi1iNXZ0MkFGMUFqUHlyektOZXctNE55MGgxQzJtUS1B?oc=5",
-      "source": "today.line.me",
+      "source": "LINE TODAY",
       "published_at": "2026-09-17T00:13:09+00:00"
+    },
+    {
+      "title": "傳亞航財務困境 馬來西亞與競爭業者磋商航線接手預案",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZeEw5VkNCaUFaVThyczhzN2h1cmNKb2NqM3ZrMFVHRmZuYjZaRE1YWFk0Y0M1TlMwMk1CNkV2Yy14eTBNMF93Tjk3XzF4T0N2cC1MOHpEV0t2QdIBX0FVX3lxTFBpMElMTW1hcmhRRGxtUF9vSGhONFVqYUZhVGJiM3REOUNxZXpyM1FxQ05HRWxWS3hmTVhaSW9TUGpiTThHRnFFYV80T3dQVlRSb3hJYklFLTYzWDJCNVA4?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-16T09:37:33+00:00"
     },
     {
       "title": "亞航面臨財務壓力 傳大馬政府接洽對手研擬應變計畫 | 民視新聞網",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GcVk4QkFjM3lMTzY3Q0NOSFB2a0tWTkRWbC1FektTQm1JcUpHT2tXX1RCMWozWFN0a2U3ZHRSSFlrTHZCMnlwOU4wdjUzRVhJejB6N2Z3?oc=5",
-      "source": "today.line.me",
+      "source": "LINE TODAY",
       "published_at": "2026-09-16T02:43:12+00:00"
     },
     {
@@ -70,12 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92R2NiWXVXaGF6WGt1VUtNYXNlemdrZ0czTUZqUHhqVzhzclhSTW1EcXlGTHQ3Q3QyRTFOSkFrcDZrV2gxblllaTNTMG5lR3RESDhzLVRCY3M?oc=5",
       "source": "cmoney.tw",
       "published_at": "2026-09-12T17:01:20+00:00"
-    },
-    {
-      "title": "【10:59 即時新聞】亞航(2630)股價走強上漲2.62%，軍用無人機量產想像支撐買盤＋短線跌深反彈但技術結構仍偏弱",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWnNQUnhDODgyYWZiYlZKcG9zdDZ5WWZQdlM5eEsyMEo1bWYtMG9TNWhKOExQdFJTUHJUVndjQnVfckJEcl9qZWRodkZWQ29vYkxjQnc3NEhiT3pBWW5HeFU1a3g0VTUtMnFlZ0Jyb1U4d0xaM1l2X3lrVUZ1V2JCUXFHU2tORVZWbFVHSHJn?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-11T07:00:00+00:00"
     }
   ]
 }

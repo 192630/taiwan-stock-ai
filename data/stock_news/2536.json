@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-23T17:35:19.458607+08:00",
+  "updated_at": "2026-09-24T18:35:13.388321+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2536",
   "name": "宏普",
-  "count": 1,
+  "count": 2,
   "news": [
+    {
+      "title": "【盤前】「 它」看準烏克蘭重建商機！國家隊買超2536張 股價噴逾4%",
+      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOcUZtM3UxTzAwVkhwcGZWTGNaU25Fc0FUU0VxUGpXR1J5UGtCNUE1WWFSRHVUOGNldng4cEVDNGxWa25HUDF2bDVUekxzV1RyZDAtUkhCY29kaFB6ZUVKWFppdXBNcDRTcmRwTmt3aXFxTDQyelRWOHpoQ3RHbzJ5OXdWZ1AxZU9GYW9zNk5CaGJ6TWwyVW9sM1hrT1pvMThUOE1OY2RqSEk5WHJnQ3kzSUxqQnJlejduaHNNTkN3eTdmajN4YUM2dElsaFJIZ0x4TzEwc2c2RzNKV2JZVU1pN0dlMlhMNFIyNV8teE5ZT1UyeG5RZ1JVVlphMmk0Z0lXZzVxaDdUWFZkb2duQ1VBcE0wQWZPejRGbS1HcGo1UlZjakxEZUJSYU9WbmJtWldIQ014SVZRNFJuREJnOE1pWThjYndmdlVYcEQtakx5ZTBXZmRTN3ZjT1ZpZjJzLUpVcTVDQzVEekM0Wm9PVElZ?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-23T21:15:00+00:00"
+    },
     {
       "title": "【2026/08月營收公告】宏普(2536) 八月營收月增132.36%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS2ptTl9vS1UwekZpQVZNd1U2TWRkZFVsdUdXOXhkNmNpaDZNRkpPcDRlNk40LWJleTJUMFc4d2d2ZVRkemhxZXR5Ri04TE5VbFlUT1RFMlRiYVFkeEdCWTM1eHJOUk1mMm1Odkk5NVdmR2JIeVJnVkVIaEp4TTZSd0h4WWxCaWc2Wmc?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]
