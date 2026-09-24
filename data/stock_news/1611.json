@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T14:39:40.699895+08:00",
+  "updated_at": "2026-09-24T15:34:37.460821+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1611",
   "name": "中電",
@@ -12,12 +12,6 @@
       "published_at": "2026-09-23T04:59:24+00:00"
     },
     {
-      "title": "五年規劃 吼中銀中電中建築|香港經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNc3JTeGVNWTg4SVFQaFZTQktEazJDU1RGRy1uZ25GU0pSQ3JVQ2Rpd2lWTHk0TnAydUxtQU1vcXE5S0IzX1NXZktYLUpNT2pjeW1tSEdqM1NxT0hDMFRSTzhNa0phN0xJMU9LZjlxTy1XaEItaF9ub19IOXl0T0FSSXdYNUxoVGpkdFR5SUduSmdNaE1TSWU1QkxzSjZwMTdhUUlrLU83bnVJTzR5S0pwTTdBODlUVUxfbEFRaVhPRXB1d1ZGQlUwQlM4alJ4QkJpZFlDSmN4eDFYOF9maDFzOFpBUkJ0Zw?oc=5",
-      "source": "香港經濟日報HKET",
-      "published_at": "2026-09-16T16:15:00+00:00"
-    },
-    {
       "title": "施政報告尋寶 「四大天王」看中銀 中電 國泰 港交所？|香港經濟日報",
       "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQXzZmbEw4Wk5qMmw3UWNDbWJrbS1uTjFWV0dRdHdfMzRFczRscVlHNzVsQkNHMjQtUy1DMGcya0JkQ3VQMXdHclY4dGdxSjczWnJrNU5ZX2V5QzNDN0dnT0Y3Zk9lUnFMN2hxam1LQkZCUTZ2SHFRdzRjTG0wODVUSk9wQTVyQXV5UFNJdW4wRVVPN01VR0RDUU9jYlpHc2dqYUR3NW5acHJnQjM5MzBQQ3p4bGxLMnFyX2JidVlWOExKLWtuNDBYOTlhZHZHOGYyUXJyWUliZlZSdGtnaHhleGtFZnc0VUVqYVBONWtCcnJsSWlLaUd3bUNGVjRGR1hzeDNhVWFWUVVDZVRRYzFkeEllRnBaWW5lRGhZWVA2Tmx2LWJybUdNSFZfMEN5aFVxb0pITFJjM1ZvX0hvTlJqUTd3M2hhcnh6ZGw3M0RLbVB1d1RpTmFwZUwzaWtMejZzUXNiZXBCbllOcnRxNjBmTlpLZ2x3cXREaWc?oc=5",
       "source": "香港經濟日報HKET",
@@ -27,12 +21,12 @@
       "title": "中電主辦2026年亞太電協CEO會議",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPczNNVUlRWlQ5RVhwWjdxZGtER0V0Tmw5RHVyUnN5alJSclJkNTgzM1h2X0V6T0wyY0VadjhvOHVLQTNHUWJNQ0NWRFFId1hFSFE5azY1OGhlcl9hUkQ4SjdMQmw3ekxzejlNVDA3UWFITGhsVVVqbDVGUEg5TjNjSjkwLS00RWp2VExFQmNLVkRkUURKS3hZbFdYUVNoT3BnZXRjTGg3LTJOR2F6SnhmYVJIdmZ4SGtVRDZXQVMxSE1vRVluOHNLc05POVJnX000Y0lVTFlYTGxHNVR6T3lNUGhjVnJJSVlCaHQ0?oc=5",
       "source": "Yahoo 財經",
-      "published_at": "2026-09-15T11:08:00+00:00"
+      "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
       "title": "1611 中電- 【09/15 產業即時新聞】氫燃料電池強彈近5% 綠能題材點火、長園科亮燈漲停- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4cktDUjhrZDc0RTF6WldNa2JaNk5zTU0zNC1ySkZUckpuTFdXRnBiODFwWTNHYmxKYzQtOXBxZFdoTk5wM2FkdnNkUWFqSVdqaWRYbXhlcUs?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-15T01:30:42+00:00"
     },
     {
@@ -40,6 +34,12 @@
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQa2N6Q1ZmdnNJNTV3UXJRTUx2RmkwcGxGZUlBWjN2LWFqdjhvV3BQZnVkRVNZUWVOSVNSUVFjdmp1WU1EdnYwemw0RWNILThkYkV3dmRFQkFMd1pJelMySzRsMHpnNXh4Rl9haElMMnFHMjBtT0xfUGR1WUxpazlqUE5wUmlWMmFoeXV1Uzl5N2Y1Q1JXZG14cUEtdkFxc0E1ajhvZWc2cG5sVmV4TUQxQWI0ajYzbVlQSWRDckxEYXdSMzJ0MmxUYlRNaXE2dzFESWt4ZDdfMXpDNmFCRU1IemdTVVllbVlZS1ZGTGFVYmluTUFGLWhrMk4xNjNwbFcwY3VTbGh0bnI3TG14aWt5eGprb0ZXcFYxUUJtTkljd25kYXdfX19Ud0hzYm55WndOZWhycVJadzNPbkZnYmhrWU44d2FLVE5vSHFDd096QWpiRDVPUXJZY3Vmdmp3LVFmaTNCaTdueVl0c0Y5TlRNSUlCeDJKWGdCWktSN1ZmU3dyaDczUmg2U2k0OUdDRlotUTJ0dTJEMlhsbGtaT2tPX0JlMWRvSms0MlI4R2daRVlnZw?oc=5",
       "source": "明報財經網",
       "published_at": "2026-09-11T07:00:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】中電(1611) 八月營收年增0.09%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVFp1UlJQUnFmNGhhNkJiYzN1ZjQyaVR2ZWdJM2I5a01qanZLQTNRMVR2WjN1R1ppMWtXVXhyeU5neHM0dlk1Z2RqTFpoT2hJekdfR2I4QVVFLTEybWlRRV9DbHVaX1p0NXYwMmh2QVh1Z1NGYkQ2MWRHa3lSbG9oNU5BMTJUVHZUN3c?oc=5",
+      "source": "cmnews.com.tw",
+      "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
       "title": "六旬男墮假冒中電職員投資騙案 損失逾280萬",

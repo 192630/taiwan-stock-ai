@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-23T14:39:55.465357+08:00",
+  "updated_at": "2026-09-24T15:34:53.677646+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1737",
   "name": "臺鹽",
-  "count": 5,
+  "count": 6,
   "news": [
+    {
+      "title": "臺鹽海洋鹼性離子水再獲選國慶用水 紀念瓶限量開賣",
+      "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOTFpKTEZHLTl4elIzRDEyM3RSTUJHeU4ySVowZEt1YkZaQWlKTzZ5TGhPTEhJMFh4Xzg1bXFuSktwdDFFTFZYdmhfUnR5RFNtVFFFZ25YeFlUMWhRbC1CTVRMYWlQT3NSMjRuWjFkaHBWTTAwVEZfOTNvMnRpQWpIZy1QaWlSTFVHeW16aFloLTA0Vk9PYjRaQndUTG1uR1ZZTEswWGFIeTFKOGFvX0FpWTlES1VwdzhSLVlXQ0ZCNTVYQThGMGNrWURodGpRcjFfRE14YU81TzJQLWZxekpXczRxVEtnZGEtdHI3YnM2SV9PcElUX1ZWanpfTXliVUZSdmZ1UndqX2t3MWdKRUF6QjdUZ05NSGZEcGo5SDUtU3p0QUdZekd5ajlLZXc4ZFUwZVdyZC1tQnkzcXRPV0xqamNWRzNvRXd3UWhQT1ZNZlVjLTRJaTNYVTBoUUpFcmlaSFhMMjFJZlBHSml6UFFHTA?oc=5",
+      "source": "tw.stock.yahoo.com",
+      "published_at": "2026-09-23T05:51:59+00:00"
+    },
     {
       "title": "1737 臺鹽- 台塩海洋鹼性離子水七度獲選國慶指定用水雙十紀念瓶限量開賣- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoQ3otSlh6QXRLV0lTNS1oM1ZKRThzNWRYZGs0Y0JVdUUtM0ZpUEdjSHIycmRzX3VvbUZvS1VSUk1GdHY4aGUwdklhV3ljYmFfR3NMVi16eUQ?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-23T03:44:40+00:00"
     },
     {
@@ -20,20 +26,20 @@
     {
       "title": "對下半年較樂觀，臺鹽今年拚追平去年",
       "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPMmxyVlh2c0U3QWNWYlB3TnZiMDlDUnp0UzRhSklUd0d5MFppUEozV2luYlRIejJpSmlSOXczYWs2dDRzWHgxVnVKdEFBU25KcXdYbjBOLWFzcFdMUWVqYVppUFgtbGV0ZDZaWnFUUUxncEhEcGVnSGJjWDFPVFlnSmJ6WTF1bEdkdEJVZ2hxZzdhbG1vU3RjZzhXR3V2Tll1b2hqQThKVFBjV3NDclhoVkZYMkx0Q25ZTS1McTZjOEZ3cV9oZlVxcW9ubVBTZzJtTzN2TFBZallCVC03TjhGdmhUZHhlQXpaLXk4ZFZ2TFRpZER5czMxOFlydW43ZFJGQUlUZUxWV3ZrTl9MRHJoTVF1R3hHcWc3Y2I4cw?oc=5",
-      "source": "Yahoo股市",
+      "source": "tw.stock.yahoo.com",
       "published_at": "2026-09-21T04:19:55+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】臺鹽(1737) 八月營收2.75億元，營收雙減，年減3.88%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ25fdWJuS2k4Yzg1TTk4N0kzYnNZY21iZm1FQ3docGtSU2lkMjJMU2tYcnRxcFpqd2Z2UUZIV0lydmFjQ2NhaHpDeENjd1k0NHAtSndGa19XbnhQMi10RVhFNTNoV3ZxMHdFcWM2dVJrdnpiZ2VQR0c2bU1jZjJPeFFvZm9Bek12b1E?oc=5",
+      "source": "cmnews.com.tw",
+      "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
       "title": "1737 臺鹽- 布袋鹽山「再續前鹽」 限時「追鹽」正當時 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yTE9Hc0d4MzdKSmwwRTgyR1JnRi1JLUlNZ2V3ZUtWZDl0SXVvYVNiMjFKS0pCM0R1N2VveHlMb3ctUlFqWHRobVVOY083WkdDUVdqUlo2eFk?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-03T07:00:00+00:00"
-    },
-    {
-      "title": "1737 臺鹽 - 莫德納 癌症疫苗問世1天大漲176%，聰明錢已佈局低基期生技... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1CaFNCdzN3amFkQkRoUDFVankzRFhvRGR4SU5YMWExemphbjhrdkxkXzFjY3pMT0hGTmE1dmh2Wm54X0V5ZEpiQjI4d0otY2FxMFdfUFVsQ04?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-01T07:00:00+00:00"
     }
   ]
 }

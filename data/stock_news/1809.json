@@ -1,32 +1,68 @@
 {
-  "updated_at": "2026-09-23T14:40:05.391376+08:00",
+  "updated_at": "2026-09-24T15:35:04.604877+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1809",
   "name": "中釉",
-  "count": 4,
+  "count": 10,
   "news": [
+    {
+      "title": "1809 中釉- 九月2600點獲利😇月月千點入袋💕避險作帳買超跌股🌟 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rZm5DYWt5cE96RjI5VnFZZmQ4MFEtNnRfcWZ2Mk5JaFJQM0lpYTJfMUdhLUpLdVZQcFhnV1pzMUV4a0J2dzJaaTE4aUp5dXdtNEdIcjU2Y2k?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-24T06:53:51+00:00"
+    },
+    {
+      "title": "建材股逆勢走強，中釉(1809)亮燈後買盤會擴散嗎？-基本面選股技法 - 邱柏",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRVNUREgzczZzOGI0SlBqWUotSDNTUWdXODVGQjlwSlJyenJmaExiSUwxYkJzdDBhaE5fMVJHeVNQc0VmbGNvblUxbDJ3Mm96TXlGZHdGZ0NZWFc1UUJZbEpNaFNRVDg1N3ZBXzh3Qm96cWJtczJfc1BuR1hWQnY3WVBB?oc=5",
+      "source": "cmnews.com.tw",
+      "published_at": "2026-09-24T06:11:32+00:00"
+    },
+    {
+      "title": "中釉螢光玻璃片訂單加溫，第四季營運看升",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOV2p3alEyNW45N0thQnFwRGlYM05VLUVJb3ZzZW4weDVjWGdpcWdWelJ4LWZ1LU1SQmNnTHkxQ1hZOHhfa2FnLWNuQjVhb09SWGtFUFZxZk5jaGFZSkxMSUo3VnJYeXNabzVjZE1jOElNWjRhZjNYNGJFcFdnczhYeFMxN3ZWa0lkNXFuVWpwMXpZMm5qNDVMMFpDN3dqQUlqYUFYNUxub2VyenBFMzc5SzNHZU9ydHJJWEpETHJENzhiZ2gxeF9CN1pPWEFqN1NER0lkY3RxazZHeFdnWWJ1czhWaTdVZFZIQVJWcTREVlVkeFZ6TENpRGRySURnWTRtYkFabnA2SEtreUR5ZWxCUGV5eGxIZkJUckxLSWZHOVNNbVlzM1QzVkctd3JrZnF1bGhQdg?oc=5",
+      "source": "tw.stock.yahoo.com",
+      "published_at": "2026-09-24T04:55:23+00:00"
+    },
+    {
+      "title": "中釉放量大漲衝上漲停 玻璃陶瓷基板重新受到關注",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9JUXNOblBzTm1MVXNjZ2xhUlZLaFM1Mmx5R1dCZWlNN1kwRFQzdUlCemp0RnVDSGVwQWFveG5nRDM4Z2VHeUs2RFdHR2pkbWZw0gFWQVVfeXFMTUVoeVJBdnJtNGxORktlUThWQjFiLUtrYXF1c05pSGdvS19DWXFhNGhjaGVRa3B5S0p5Uk4xMk8yMlFYSVB5SzM2SldyWGFkY0toU0w1TGc?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-24T02:55:04+00:00"
+    },
+    {
+      "title": "【09/24 產業即時新聞】建材族群逆勢揚升，中釉強勢亮燈帶旺綠能磁磚題材",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWUh6dmpwcUtITjQ0NFQ0Q1hjUjBzWEl0Mkxmd2xLajBhY0h4TVM0UlhHZTZQNy1lajh2SXFIcGxOSmJCM3FoYUdKeV9PeE5FQlVqNGUweHB2VDE0bmtPTWZGT3JZWUptUGdaeHMzNmlYN3F6VDBLLTE2ckpLa3JlZFoyTVR0OW1WUURwR1BR?oc=5",
+      "source": "cmnews.com.tw",
+      "published_at": "2026-09-24T01:40:50+00:00"
+    },
+    {
+      "title": "【09:09 即時新聞】中釉(1809)亮燈漲停，螢光玻璃片與半導體材料成盤中焦點",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOclhEb1VCbDlMQkdJb1hHUmRfb3QzRDhtb1JoOFVnQUZuckQtS1k5ZklUTTFBNjBsMDY4UmwtczdFa1NxZGpIcWxNMnNEV3NscGYycnlaZUFaRVlsbGVTTll3TU56WUgxRDg0THh3QV9jOEx0WUJvQ2p3U25FVFotd0VXRmxVeGZwdEdtZGN3?oc=5",
+      "source": "cmnews.com.tw",
+      "published_at": "2026-09-24T01:09:51+00:00"
+    },
     {
       "title": "今日最夯股／中釉量能增加 股價連日上漲有何題材？ | 市場焦點 | 證券",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xQmN0S1h5c0ZrRmNWN3MtanFWTThqSGVidzB5R3d3LXp1c3c3UlZZeWVRZWJDdDhSUk5GbXRleU1pa24waHJleE5tQXlvdUpaQW1kYTN6VVBnQQ?oc=5",
-      "source": "經濟日報",
+      "source": "money.udn.com",
       "published_at": "2026-09-22T13:07:18+00:00"
     },
     {
       "title": "【12:51 即時新聞】中釉(1809)盤中走強，市場聚焦玻璃陶瓷與半導體素材",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUTZXc0swOXkxdHZVLTJ4NVNQeGpQM3ZrTzNTbnV5cjNDeGt1U0N4UHJ1Z1ljMk44emRpNDFLOU1keHFYNTlFVGZEMTRBX1NnWFRtbHZGTXVPbi1CQmZWUFp6dC1pcFdORnlpVU1Ba0JCQmhYWW9GUlhHY0kybVVmWlpVVTNwdTBlOHpNZ3JB?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-22T04:51:56+00:00"
     },
     {
       "title": "討論牆 | 盤中速報 - 中釉(1809)股價殺至跌停，跌停價30.3元，成交2,333張",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81OG0zREd2WnpGcTBlU0xBY29MT1dtTTJFT3dXX1doVjR6dTY4THdBSzlSb3RHWkdEdUJscGM1MVZWSXRBQ3lEb0FPNk91UUIxQVhLSWxnMi1zSXducEdOZWFFd08?oc=5",
-      "source": "LINE TODAY",
+      "source": "today.line.me",
       "published_at": "2026-09-16T22:41:23+00:00"
     },
     {
       "title": "【11:01 即時新聞】中釉(1809)股價上漲至39.5元、漲幅4.22%，玻陶族群題材延續帶動買盤回補＋短線技術面仍偏空下的反彈修正",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeVQ2RWM2Uko2UzBKZXhpcDQ0SFg2dmtPUUhDcTVOWGNmSUNkd29ZbWVDMFVVVUxIdVcyQTRrYjlCX0kzN1ZlckJ0UWFyMG9wcjNJeG5JQTU2b3l6ZV92YUhodXA3bV9uZl9TUUpOaGxWVDZiMHhYVHRYcVpCUDBBZ2twMkJZVHRpY3RzSk9B?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]

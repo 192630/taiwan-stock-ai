@@ -1,21 +1,15 @@
 {
-  "updated_at": "2026-09-23T14:39:47.291690+08:00",
+  "updated_at": "2026-09-24T15:34:44.652809+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1712",
   "name": "興農",
-  "count": 2,
+  "count": 1,
   "news": [
     {
       "title": "1712 興農 - 該加碼的時候你不加碼… - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MY2RaUFVhYTZLTVdoRmo2enZoNDhBUjdKYkJ4Zm5aSmRhSmFuWGFEUDZENUNKUTJiVFVzRUIzTXNLTDVjRmxmTkRfT09uWnR2U1JkSmZpeU0?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-02T07:00:00+00:00"
-    },
-    {
-      "title": "高雄8月雨量創95年新高！猛下1712毫米「逼近整年雨量」 市府擴大3級開設 | CTWANT",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVZGtYc2I5YW5FSzhQTkRka0tYMkZDb2EtSkxMSk1tMHpZaWljdnpacXlzZzRIelFnNEhxckZNMjQ5enlXYkctQ1EwWF9pRk1YYXRjR2h3?oc=5",
-      "source": "LINE TODAY",
-      "published_at": "2026-09-01T07:00:00+00:00"
     }
   ]
 }

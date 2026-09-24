@@ -1,20 +1,26 @@
 {
-  "updated_at": "2026-09-23T14:39:43.288118+08:00",
+  "updated_at": "2026-09-24T15:34:40.224703+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1618",
   "name": "合機",
-  "count": 2,
+  "count": 3,
   "news": [
+    {
+      "title": "《集中市場券商賣超比前30名 3-2》合機(-19.12)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSlBrR0E5Ql9JQTVNcG5xV0dEM2NlcENrZUJFOS02Y0FQd2ItWWJFOEk0WjFvOVJlVTRKb2pPMm9YXzlKY19BYU11V3Vidlp4MThsNjRSZUl2YldaOXd1cEhxZmZOa2E4ZTgwc2tmU0R1QVEtZElqekZ2NlRMZ2pILWJpaTdfVHlr?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-23T23:29:00+00:00"
+    },
     {
       "title": "合機(1618) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92YmpvSXhZaHZwZVNaSUpkV3ZzdS1nTVdTZWpBeWY0cDhXVkMzSUFqYlpEbDU5NDNmbG5TYzlXdjVqMTF6aWp0RUJaM2hSYi0wcURN?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-22T09:41:55+00:00"
+      "source": "cmoney.tw",
+      "published_at": "2026-09-23T14:46:49+00:00"
     },
     {
       "title": "【2026/08月營收公告】合機(1618) 八月營收5.28億元，營收雙減，年減1.9%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPb2tvMnlpemJtVDN1YXRMdUNZaXJwTkhhMFNGSjdETVY4SjNXUzhGLUdWWjNhTlBvNEZLZnREYkhPZ3loaUZ4WXZ3RVgwcTBXdm9yZHVEOEwyS2RJbVRGenVPU0NMMEh0QzQxNFNLc0lRTUpkWWdxQ0VZSV91TGhSWGI1X05XZm1tUHc?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]

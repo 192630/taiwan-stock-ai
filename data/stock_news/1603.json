@@ -1,20 +1,32 @@
 {
-  "updated_at": "2026-09-23T14:39:38.365467+08:00",
+  "updated_at": "2026-09-24T15:34:35.028123+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1603",
   "name": "華電",
-  "count": 5,
+  "count": 7,
   "news": [
+    {
+      "title": "華電網(6163) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3VFpZRm9ob2l5NGpQU1R1VXNab1U4aGxpdGxhblBzU3piYkNzaHJxWDkxbE9iTkVNbWR6TlkwbHRQV21pdFJyb3dVVndXSzNtY3BR?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-23T10:18:24+00:00"
+    },
+    {
+      "title": "華電(1603) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWRFVXZ09kaHJ4ZnhuN09BbVVEbmc0aTJoS1BSMkFWaTN4LXFqZ1hEeW0wLUpac1NvYzJXSlhzQm02bDRnR0wzX1E2ZjVfNWwtUmVN?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-23T09:21:43+00:00"
+    },
     {
       "title": "【2026/08月營收公告】華電(1603) 八月營收4.39億元，年增20.5％",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kZmd4S3dQMHRfbkEzUFltNmxRclRJRTFoLVBaVGhrNmxqUUx2NEo3bGtoZk01VDg2RHU3VVowY0hzamtKUXJhM2FRTi04aEVNbGctQ2UxTEZreEYwVElVdTdDZzFpaUE?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-09T07:10:10+00:00"
     },
     {
       "title": "【2026/08月營收公告】華電(1603) 八月營收4.39億元，年增20.5%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM1hHZzZaY2R2Qkw3eE81TnFlWDBhbXcxdkxDamtWTjY3UFJ1Wk4yS21BZE00X0cxN0JiQzNnMTJiQ19tZ2puOXpnODR5dWlGQWYtTml6N3J2dVNCNExoN2gzMXNSMFUwek8zdWhINXUxY25YZEdKX2lwLWNhTEFqQzV0Y25ZR2g1Zmc?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
@@ -26,13 +38,13 @@
     {
       "title": "華電(1603)-同學風向與貼文摘要 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1PS09mR1VSaUVMUXlTTmVDR3ljSzlOeTNRR1BrSGJEdVFJeWVEdmFrMkR2S3F5NXhmelAxZ29uVWVkQko3LXp6R25WUjJjSHRvZFAwaE9jY21CazhfSDZ4TERB?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-06T10:53:38+00:00"
     },
     {
       "title": "高股息ETF被搶購！00918配息大增38%外資掃進1603張 「這檔」11日填息同獲青睞注資1.3億",
       "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQUlE5bFUyQXczZ25QSG02TGdINWdCSFBnZk9FbjFVcHZBVEdsQldqamlBOGhOMHRfX2Z4UTh0LVdYeDhiQXFxTkVCVDdPbzhzdEtjSzZVcEt1aEVDTXVvRnZGWG9zVVBCZ3ZSeGRPWmlqMGpWaFVBb3NfN3MwZVNsMUxlYm5yNE8ySjl2TEFSV29xbjBTdm16anRaMGk4RlRVOGZJQm5SbVVnTUlGRTN6d1pLeUczRHREMWQ1YllHVnJqdXRrb0FNX0xpbHBhSkt0SUl6b0puSERZeXZvVi1KUVdpWko1S3l1cFd3XzFmX2IzN2kyRzNGN2pPVnJPcE9JWUNkRlhWZlNiUEZvUUc5TG54VlRLb2JfMGRMcGsyb1BDbkUwODhGdElXTXoxSWZBVUlaeEFZX1dxSElwQV9YN2JKS2ZraU9iM1dvZ0lfbEI5VXFndnN6dFdkTlJyaUwyMjk4UzYxd1M4TG5IbWc2R2JOb0piVWp6YjQzYWZTeEhmcjhrZ095enlyNjZhU3NCa2xvZnNndjVhcGNlYTk0X2cwREIwNzZlTHJCbjY1RQ?oc=5",
-      "source": "Yahoo股市",
+      "source": "tw.stock.yahoo.com",
       "published_at": "2026-09-02T07:00:00+00:00"
     }
   ]

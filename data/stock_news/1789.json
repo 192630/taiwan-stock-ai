@@ -1,20 +1,32 @@
 {
-  "updated_at": "2026-09-23T14:40:01.765468+08:00",
+  "updated_at": "2026-09-24T15:35:00.624574+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1789",
   "name": "神隆",
-  "count": 2,
+  "count": 4,
   "news": [
     {
-      "title": "TWA00 加權指數- 9/18【神隆。9/17。強勢暴漲的原因？】 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tNnp1ci1zTVhoNE95RkxWcTJDS1p0OW1fODZSUUpPLTJlaWRtVm5BU0YxWXB4RTJxQlo3eVZLeEt5cEQ1cUlJY2lBODB4WlhVOFJLU3k4ak0?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-18T00:29:18+00:00"
+      "title": "特朗普次子旗下1789 Capital拟为第二支成长基金募资30亿美元",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1IXzIzYUI1bU82VDNyYWRwOC1Qek5sVDluNHp0V2RyaU52TEVJdy14MkFGcFhmT1dQMUdMYzZUTldERVhFZFpKbHNfcE1mVkxSSWZyMkp4S1dfZWYzV0hFcXdiLTVCQQ?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-24T02:30:17+00:00"
+    },
+    {
+      "title": "1789 Capital洽談為第二支成長基金募資300億元 作者 Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5qV3VxV29PRlNTZGgzUG5ucDZSRW9tcWxOOW16eGpmOTZmWmhYUExOdUdCd19ib1FFMzBuWmhycmZlSXBkVzFxSm5UVVdFb0RXNzRCOUU2QmgtZHQ5cE0wSXdmb2pwcEZScHZxNkRjcnBvblVNbGE4?oc=5",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "published_at": "2026-09-23T20:27:07+00:00"
+    },
+    {
+      "title": "市場消息：特朗普之子旗下風投公司1789 Capital正在洽談籌集30億美元資金。",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTklMZUZiN0RLdlJVT213SUt5Ykc3SWNTX2NCckFBR2ZvNDU3QzQ4bThrdmlLc0RubjNGSW9BN2pUYXN1N2lNN3dhZmd5bWl2bzRQZnpwdDlrZDVEZmZBMHQ4S0NqbHhiYXhPdk1wVmNLRlhTUjlfZkVNTmh3eHlQWlphY256ZVd4QTNVcnhCRURDVE90NW50REs3S2JCT2kyVzF2UjdBR1JNSkN0TXc?oc=5",
+      "source": "富途牛牛",
+      "published_at": "2026-09-23T20:15:32+00:00"
     },
     {
       "title": "【09/17 產業即時新聞】原料藥族群漲幅逾3%展現防禦韌性，神隆強彈6%領軍點火",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZHdiZTRpaWVrV2dFREF2ZGwxeGR6dTRFX0Fpa2l3YVBvR2V4QzVWalVJb3RENFNlZDNYX1FHZGw4MVNwYXY4SnFoVGtEVEQ2dk1KMXZMNWlfMkx2MjlkczVRWDk5aUF2STY4Z0F1WjVrc2lYTjFILURaVUdWZEdnalFTaFpsMGJrNm1jZ0dR?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-17T03:50:35+00:00"
     }
   ]

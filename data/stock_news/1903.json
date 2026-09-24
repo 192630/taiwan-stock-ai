@@ -1,21 +1,27 @@
 {
-  "updated_at": "2026-09-23T15:34:52.198446+08:00",
+  "updated_at": "2026-09-24T15:35:07.023448+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1903",
   "name": "士紙",
-  "count": 2,
+  "count": 3,
   "news": [
     {
+      "title": "教師節將至 高雄表揚1903位資深優良教師",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SYjRIOUFNLWFlekU4NDFQdk8xSGpQWlo0U2Q1RUVGQVhEWk5Hc1hVamttbGg1Z0xlVFhiQkNmc2dEZkhWRHd0cGRkRlVFckVxbWtLNGtwVXZfWDJIRE1NWll5eEbSAWpBVV95cUxQWW5yYjhOdVNCemZ0czIxVlpxMFlaTG1CUWNYRmk0S2p3dGlnRC1LN0d0VHhiRlVZMXctaDlRQlR2MUQ2QkNpUlFxLThzQll3RGE0WTY2cl9DZ3Y0VmtlREk2VDRVdzNkeGFn?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-16T09:46:00+00:00"
+    },
+    {
       "title": "教育界瑰寶！高雄1903位資深優良教師獲表揚",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE53c3l3bXdycDdaMVh5c0R1ckpiNzRjMExfWTlSaUx4X3VvMjJYNVp1aV9VWm9yRkdNX1ZHRkdzRnoyckNKS1M4TU9maS3SAVJBVV95cUxOYWZwMWExZUloZkV5ckhYOU9CQktaSVI1VkxwYjJfS3oxU1dYbWdlbVB0Y2pZRUdLdlNQLVZnaHVfZklHcXMxU1A5Rk02Q0x4cFR3?oc=5",
-      "source": "NOWnews今日新聞",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOS0VUaWJjYWY5WHRKeUQxd3hmVk5SQXFVTF9NSExEeVhtazVUamxzS1NVSEs5YnI4aVI4bUtUalpkRTlBZ1ZhR29EMm4wM3NjUDdoODNmZndWZnptSUowSDRKU1JoQWRERmxXa0JUeHNyM3licy1IRmw2eURGVW1hWXBHeTZsUkI3UlhqMnJsWHZxaWxUZTVxVHBiWkpHRkRMZ1ZxWWxqNjZPR0RQc0tXYWRWTDdCb05waDNKY1FJczE2YTVibnJFUVBvMWJyLTVEa1kyZ2c0MGRldjRDSjZSMFBGaFZ3cmM0c3BaUTl1ZkNSXzNzaFZ3U08zajNVOUlXOVQxSl9nS1k5MEVzdEc2TkVBQ2NrN29nVDdBSGRPWkNJVzZRa0E?oc=5",
+      "source": "tw.news.yahoo.com",
       "published_at": "2026-09-16T09:24:20+00:00"
     },
     {
       "title": "營收：士紙(1903)8月營收1378萬元，月增率23.02%，年增率3.90%",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQXzZYeG81SnBjcUIxenRHY2dQX09ZNFdtR1BXdkZHZjdudUR3dVR1SlZ2V2tjVFlnamgzX3JoZzNWRVlqRXBaLU9rSDBuMVJlLVdYdDNGR0JCZFJyRTlRTG1ZYXk4WURxUF82SDVKNnVpTjJtYldMRnI2alRVOEhQVThDbmFsUVFH?oc=5",
       "source": "富聯網",
-      "published_at": "2026-09-10T03:08:00+00:00"
+      "published_at": "2026-09-10T07:00:00+00:00"
     }
   ]
 }

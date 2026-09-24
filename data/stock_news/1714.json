@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-09-23T14:39:48.098651+08:00",
+  "updated_at": "2026-09-24T15:34:45.562272+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1714",
   "name": "和桐",
-  "count": 9,
+  "count": 10,
   "news": [
     {
       "title": "1714 和桐 - 我還在。 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tdHN2TXpsYWRQT1VtNU83MnRSR0dlcm5EUHRhQVFFUHFreVdIRDZfSGZSeHZucG03cGM0WGoyRG9tcUM1aEZkSk04X2pOeWRqM3hmajYwTU4?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-18T01:38:50+00:00"
     },
     {
       "title": "1714 和桐- 外資眼光只到16附近 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPMmVuVGUyZWc1NWNEaHlVeUFCV25jVW01c0RfRWFzNnZ6cDBDUE5VMkZ6ak9WVzNzX0RJUXpYTmRLUWlWdXMtdXZ4dk50QW1nRTlVb05Ockg?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-18T01:07:57+00:00"
     },
     {
@@ -30,33 +30,39 @@
       "published_at": "2026-09-11T03:14:11+00:00"
     },
     {
+      "title": "1714 和桐 - 還能有呼吸嗎🥹 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85SFVDcTZ2aVQ5MFRxQ3pVdEFOMmRkVDI2djNYN3hkU3d3S1B6dXoyQklBWmFnRnhlV0p2TGI2cDlnRkhTYjU1QjRLN0pQNTJKT1FEVHhQZkg?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-10T07:00:00+00:00"
+    },
+    {
       "title": "1714 和桐 - 外資又買進了 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nYmd4cjNtZTdPZ3E0VFRKY2hYN2dsUHk3VzVlbmhMajFNMmVld3hycXdGczh0ZG1mZ2FwVlVJejE3Qjc5bWExaU5SNmVMT3VZdUpNeUExanE?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
       "title": "1714 和桐- 今天追.明天套- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fbi1aWG9FakdEN0hyNEoxRjRLb19hN1lpc0tJTGMwbUZZcms2RlRKX1FnT3Z2eFhuX1RjVW1ZV2VfTjRyb0F2eHlfRGo3VzY1RWcxbVFTX04?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
       "title": "1714 和桐 - 【和桐(1714)盤後解析】爆量長黑，主力由買轉賣 和桐昨... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lZW56SlR1cXpIT29ZS0FVQlU1STkzUmZCWVJReEQtTlQ1eFpROVNwYXY4MW9zQVRjcVRmNjVhbkM0UkNWaTRMaG1peUwtbTducTNnd3p0YkY?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-02T07:00:00+00:00"
     },
     {
       "title": "【09:34 即時新聞】和桐(1714)股價勁揚至18.55元、漲幅9.76%，營收與獲利爆發延續題材＋短中期多頭格局支撐買盤",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeTA5Nkc0ZXRFS28zckJWbXZyV3dOQWY1VV9PWklEcktCZHZhOEI5Q09sS2FjdWpyeE1JR1NvMElacS1nam9jRlVKZzFUU1N6Mml6d01KUmdpWjZhdkNGclIzckdMUUVqcjBYWWFNQWlvTXF2eVE2aTdmOTVBWW1SY21GWVkwdXVBWTNhdmFR?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-01T07:00:00+00:00"
     },
     {
       "title": "1714 和桐 - 趴了 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5oZHczazFaSXdDRzdXUGQ5cjU2ZlZOU0h0TWFLYW9rOFk1WXpPMDJ2OHVTcVV4TkJreTVmOWlPLXBCS0Vid1Q2YlA0SUxwdXM4ZHEtenFVR1Q?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-01T07:00:00+00:00"
     }
   ]

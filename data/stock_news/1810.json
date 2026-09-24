@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-23T14:40:05.945111+08:00",
+  "updated_at": "2026-09-24T15:35:05.117707+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1810",
   "name": "和成",
-  "count": 7,
+  "count": 6,
   "news": [
+    {
+      "title": "$閃迪 (SNDK.US)$ 突破1810 突破1760 突破1740。 我會入場……中間不做交易。",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSW9tT05LcDIyN3l1U2tSVmFSeU9fbEtLajBMQ2pTU09PZFB5Q0xmajAyR1NFMF9EbEpuek9PVlRZaTZGUjN5VGdtUkIzaHRxV2NxUTBVSk1qel80MlN3Z1BLYjQ1bFpvUlVBdXFEd3U0MUdiYldMOEV2OThRODNHWmVfMHJmVW1vRVdrMUdidURWV21UUlcxU1I1N2NJQVF2c01kdkw2U0RoeDZEa1E?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-23T02:07:00+00:00"
+    },
     {
       "title": "小米集團(1810.HK)：MiMo-V2.6強化學習直播要點及維持買入評級",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XaThSQ21CQTBDYmJnTTdLdzYwemJSVkdVX2h4cFZ4aVpLaEpINzltMzBkek93ZUZwQjZaZGxWdWlvczEteE5mV1k2bzhkMEs1d3lneVhDZzhpZw?oc=5",
@@ -18,15 +24,9 @@
       "published_at": "2026-09-21T05:03:00+00:00"
     },
     {
-      "title": "小米集團 | 1810.HK 股價走勢與即時報價",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5pUE9EWGdkeXpnSWREYUpvVFNIcHBueFdCcDFpN0pOTFpvcWdGRGlYNEh3amIwYzFXU2dZSHJ0TXplY2Q1Qzd0MjQ4cjc3UlVmaWdQTA?oc=5",
-      "source": "BigGo 財經",
-      "published_at": "2026-09-21T02:28:30+00:00"
-    },
-    {
       "title": "1810 和成- 和成受惠軍工題材、無人機通過政院副署法人估2027軍工營收比重有望提升逾15％ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQQU50UEs0TTA3dlJRT2Qxek44Y21SRXdpaGF4a2JYNVB3TXlNemZVLVN6bU1fVXBUVXFQVnhXWm9SVGZQemFGaHAzZUJiSzBqZjlkWnY4QjI?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-13T17:28:29+00:00"
     },
     {
@@ -40,12 +40,6 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4ZnBZRG42b3VGX0J5T3V2QXVyMFNneHJsQV9PMVZYbVhwSUptZnNLOXhFYWRxdEhDLVFPbEU1SFZHbGNTemR1QV93eERuNkJrZnc?oc=5",
       "source": "instagram.com",
       "published_at": "2026-09-09T08:01:05+00:00"
-    },
-    {
-      "title": "中国财政部砸1810亿 注资8家金融央企 - 财经 - 即时财经",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBxZXNLYjNjaEJPRVp3SWQ0WGZsUzFBQ0NwTTZtRm5BbXRuaFJMc2FuTXlwTHBXZmx1cTBqZ0dsd0xlcHVkZ3h3TElVUU1TNTVSYXJLNm1aeU91NVBwSUh3R2E2VjJTT0JrYzJ0b0ItRDN1U3BhdUxPRjNEMng?oc=5",
-      "source": "Sin Chew Daily",
-      "published_at": "2026-09-07T07:00:00+00:00"
     }
   ]
 }

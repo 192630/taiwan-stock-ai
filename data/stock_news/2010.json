@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-09-23T15:34:57.261138+08:00",
+  "updated_at": "2026-09-24T15:35:12.959705+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2010",
   "name": "春源",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "春源、味王等8家公司預計10月於證交所舉辦法說會| 股市要聞| 股市",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNamdKWERqaHJtNDlEdVVSOGFqTXh6SzVkUzFIWU5NMXZaOTd5dEU1M0NKeldoRk5UOXV5QV8zbndBeWVScHZGSms2aHNXbEJRQkdyYVVTbkdRemV1a0VMeEhCb204d1ZqWnpHbzJISXNtaU41MUhJYnNyU1ZrbGhDcUhn?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-23T10:12:14+00:00"
+    },
+    {
+      "title": "LVMH 市值降至2010億歐元 跌出歐洲十大上市公司之列",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQMElrMUJtVlZvenhtZ2dqNWZMeURsWE01ZFdBM2MxMThJY0Uta2xwU1FWa1B6eFhZLVpJeElZdlg1REdWTlIyZXlBcFQwWG8xcjBnNjNnOTFVQmJlVzZ0MVZDOXYtUW11TkNTNUpBMGhLeHRJdHVZMF85dkthcEpnUnJMc0pEbk9CNlAzbGVnY0tWSWVJY0dDQXZ2dC1xNE5LbDVDWkt0M3RqUXM0elVnMmxMdGRQY25VOHJHdFlkZEZXUEVHcWpKdFczMlF4cDN4Vi1keXBJZTlnZHF0bFJWSkFncTJwSmhpd3JONUQybXliQlg1Tm9aX3A1VjdQZUhMVG13YklELTJVaXhLYXNiZHZvcDIzUUhjQkQyeG1DRUZ2RnZfOGdBYXdlRUJqTGE0YnFvbTRWTTBBbXoyQ1hTbW9NTWZBS3VBTDByTDB0RQ?oc=5",
+      "source": "Yahoo 財經",
+      "published_at": "2026-09-15T07:00:00+00:00"
+    }
+  ]
 }
