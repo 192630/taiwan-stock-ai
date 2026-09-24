@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-23T13:34:20.807340+08:00",
+  "updated_at": "2026-09-24T14:39:53.416325+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1476",
   "name": "儒鴻",
-  "count": 9,
+  "count": 8,
   "news": [
+    {
+      "title": "1476 儒鴻- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xemg2bks5eEFwVVkzX2xmRjZOUEdWQ3RRUUZxcm1TSm9xdzNKd2ExNVI5ZlFBYl9DU3BZUUVNSnpwUENibHBCeURZVEprZ2VPbjdDSUNXOEo?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T08:13:29+00:00"
+    },
     {
       "title": "1477 聚陽 - 再補點貨. 聚陽(1477)及儒鴻(1476)我都是買現股留... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DeHd4QVNLYTVFdlZzR0x2blhyN3pfVUtINDZ4d1d3cVpINV9ra3pjSzhXNDA0LXlyeU9wNVJwZzZ6SlZFTTd2dVIydTYtRXZWbURuZWJBa0g?oc=5",
@@ -45,19 +51,7 @@
       "title": "【台股8月風雲榜】紡織股王儒鴻每張賠逾3萬元...昔日飆股世紀鋼也入榜 上市20大衰股出爐",
       "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxNSkprbDQ3VmhxWGRJM2lYRWVnQUFUR2ptSHJ2VGhBRmpOSmlGVmtsajFMTEN5b1RRUkZNc1IxTjZKTGdwaHZYeTJtRGI0aFhwZFRCVW93cmpYN1gtOG1uMTA1ZkZlV0QyMm1RSExoSE1TNW9YZFdZTGJCYlloN0E1ZlllX3hwM2ZVTzg1RDNPbFQxYWluaC1FNDlzN3pUdHpMYVV0S0dUVVpTR1RfMmlCS3JtS2ItT2FjYm56WFE5aHNZNFVyQXk3UGM0eFJIa25BOEtsakk2cFJUc05XeWNHVGpDUWZCS0xrNFQwX2ZFYWtmdWFoaVJWMl9wWEhzWkE1SUNzd0tXNzhoMHpQeFhhdkhaYWtWTHhobkhYejRNR2toT04tdE9sb1htdkhmNFY3bFQ3S0Z5bmdRaEV1dmhSeUxEZVdYano2RjFDWHlCWFYwckVRd2M5R2R1aWwyTmd0S0NhcE5tb1RGSXZBcVAzWHotTnRHRjV3NjlyTkh3aXlQM3BhQjdtMURocVZ5WTlSd1N2ZTVRX0t4U1VZMzIwQ200cVdpbEt3alY4T2Zwd2h3cnBMMmVreERGZWZ0ODN1OW15Vjg4ZlJ3LXRXTG1BTGJwSERrN2JDRUFBYmo4VUFIVG1KQW8zTkNqemk3b2d2NXpOX0NVT0ZnNjZBNXFNSDFUY2lfcTQ5X250Q1gwbFVOaWxSakFDWWVjbWJ0UQ?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-08-31T07:00:00+00:00"
-    },
-    {
-      "title": "AI熱潮避險標的？外資儒鴻目標價升破500元",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JcV92dHRlSTdFaXZvU25wYk01aG5YdXJpNGlId3ppVzFmSnpQQ1p0WXl0RDgxY1d6XzhWa1MwR2laMU1qemY1dnNsWk9KejNSdTJZUGRnOXlGcmJuUi00?oc=5",
-      "source": "自由財經",
-      "published_at": "2026-08-24T07:00:00+00:00"
-    },
-    {
-      "title": "儒鴻印尼三期規劃全自動化新廠，拚明年Q4投產",
-      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOdWVBTEo2MmdHRlNDa21Dd2lCYlpHRUwtenVBVnN1QjZTNXA3T0lqMHFqZC1rZG9ZZzZJU2dNc29SYXpOLXNxWjJiM1J5ZXdCTVNQWXlqLWp2dXo0Q0E2NGEzSlE0MmxDYW1QS2dWQU16blg1cjRjSU9yby1SVDhMRjhXZEVuTC10eVlNaEFvU0lEWm1CT0VxMEpTejRxMUo2VWttUHdsd2pBY0I3bV9oT0pOSHgzQXVOc2NCVF9KLWl4eDdMaFViZW1EVE1hRTJEeGNPZzR5UW9mTkNJTVhyQi16VFc4NUktVnk5ZnR4VEhsd0tSaWZublpYdGx0dnpxWVNxLVUxWjZ4ZmxQMkdUR2U3REF3YlR5d3lrQ1dQSG4wNTZBVFVMQ3ZiMUhxaWc1X1hJSW5iUG5EUWRjYlNSOTg1MA?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-08-24T07:00:00+00:00"
+      "published_at": "2026-08-30T07:00:00+00:00"
     }
   ]
 }

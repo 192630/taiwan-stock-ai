@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-23T14:39:32.379746+08:00",
+  "updated_at": "2026-09-24T14:40:08.715054+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1570",
   "name": "力肯",
   "count": 4,
   "news": [
+    {
+      "title": "1570 力肯- 第十屆法藍瓷想像計畫成果展登場青年攜手孩童點亮偏鄉- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zTlY5V1F2Qk1Ld2NPNHg3dF82ZWVGWmtlLUhhZnhfTkw4dXp1cmZjWlZlNURMZU1lZXdOWndacGtCdDBQZm1sOUdRTkpXdFc5SWZwOS00cno?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T14:02:03+00:00"
+    },
     {
       "title": "1570 力肯- 深入三重綠營票倉李四川拋敬老卡撥現金、雙北30分鐘生活圈- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiS3dwUDVNNDFCSlI3RVJ0Q0Z4X2FsY1NIYnZwVWhIcDd5WnY0X1BOaklHUUcxeW1sVVlCOENXcnZyUk0zakdlV2xNYS1DOEZ4NjM1dTZITVo?oc=5",
@@ -22,12 +28,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vWXJ3b3RsZUlKOWJ5SXhPX3BIeWdpSnJqalRHUkU4b19JYlR1RlVjSjQ0dFdQRlpMNUk2TzB2MEhraTFmaGo5X01SZFZEWlpGME5pNHV0Ym4?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-14T15:12:23+00:00"
-    },
-    {
-      "title": "突破1570億！台塑集團8月營收亮眼！AI高階材料＋煉油價量齊揚添火",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9pbzdkZjVBcmduTlF3bHkwdWV3TFg2ODJ6Xy04a3ZZUmpRejJ5X3lLVk1wTEhQWjk2cWFDZVRGVFFDeVJYbmU2VtIBTEFVX3lxTE0yREdHMXRkN0JDWkRaMEh0LVZ4b2dTazJRLXlkTDlESGlZdmxPUllOMHhsNnJOLVRiRDdVb0Y2Tm5JWmJfbk5MUUJvUHk?oc=5",
-      "source": "三立新聞",
-      "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]
 }

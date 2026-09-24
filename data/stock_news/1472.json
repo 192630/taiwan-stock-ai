@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-23T13:34:19.057165+08:00",
+  "updated_at": "2026-09-24T14:39:51.673211+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1472",
   "name": "三洋實業",
-  "count": 5,
+  "count": 4,
   "news": [
     {
       "title": "【2026/08月營收公告】三洋實業(1472) 八月營收月減年增，全年營運續看向上-CMoney 小編",
@@ -28,12 +28,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82dzJMWkx3eWJqcUx1eW1uVm55b0tVTGg2bjNCakVaVnN5T25aOUdCOU5XSzJfRXA3d2V2N1lNSWUwTGxjZHRvUWRMM1d1b1NpQTNqOEttVWFFdw?oc=5",
       "source": "經濟日報",
       "published_at": "2026-09-07T07:00:00+00:00"
-    },
-    {
-      "title": "第一類接觸／三洋實業迎「大營造時代」拚三年增至600億元",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwWHp1WG5nQTVSTGVBYktqMnRvNW5xaEZUbzhFMXpmWHhROHRLMlRqYXpNRThHcGt0YmtqWHozNFc4aW01eGRXcnhGMDRIelBNcmlwYVZFUEI?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-06T17:48:20+00:00"
     }
   ]
 }

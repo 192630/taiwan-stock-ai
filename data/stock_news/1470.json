@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-23T13:34:18.155953+08:00",
+  "updated_at": "2026-09-24T14:39:50.881388+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1470",
   "name": "大統新創",
-  "count": 8,
+  "count": 10,
   "news": [
+    {
+      "title": "大統新創看Q4訂單回溫；拓展中國戶外品牌- 新聞",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYl9FY3F6bW5iZFJoT1RlS3VKbExsRVJyYnhLSjdIVXBkLTZWVTFfcjZ6NERzek9abTl5SXFIWHhjVERBYnhEc2xpU1dTbkU1T18yWU00b2VRaXAwa1pxZGVYdi1DTXAwek5LNU8wb0hmbHFZOS1LYjctZjNpMVlhQmhoMzNFQUoySWhCNS03WXRlUQ?oc=5",
+      "source": "moneydj.com",
+      "published_at": "2026-09-24T03:43:00+00:00"
+    },
+    {
+      "title": "【大統新創法說會重點內容備忘錄】20260923",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90cmYtbklWWWRUcHlwcFhlZ0tvUjRqbVFDRkpjdURubWNxN3NHWWZLbUZndmRTTzNXS2FLeHk1VkdVMDlTazB6QkNVRTlSbTgwWDZtTXBTTGk1dXJaeTk1UzZVT0pNUTQ?oc=5",
+      "source": "富果直送",
+      "published_at": "2026-09-23T00:00:00+00:00"
+    },
     {
       "title": "ZEC今日凌晨短暂突破1500美元，现报约1470美元",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xTEpocUVvWmJMVi11STR4V2NOdTNON3NLM0NwZ3V1b05tVV9yaDZGWHVjWDlLNE9TZVlzTTVRdlEzVHhNeXg5aXF0T3hoaG5YbDBJWjJHcWx2TnBUcEFlMzhIRmFRUQ?oc=5",
@@ -30,16 +42,16 @@
       "published_at": "2026-09-13T11:20:26+00:00"
     },
     {
-      "title": "多名市民疑被盜信用卡訂iPhone 警方接逾700人報案涉款約1470萬元(梁潔瀅報道)",
-      "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxOWEJzbGtnbmg0Q0U5OFpuWlFuRzROMm5DbDlBUk1wdFhUTjlLT0ZYNlFqbGtYMHMyVVA2bHI1b2VfeEZaNnhqOG9sVWxIZ1JiODJ4RlY5VnVGQVBVSjdEcDdheE1hYUYzUUF1NDdQLU15Yk1QZElpZVhPekRQejdIekJVYnZKa3BHaktTRTBDeVl2SkJfSVJtZ0VUcDlDRFhaMmJtN3RoVnJFa0xNVjctMEpVZUZrNHIwbXBEeEJuQmp2OHh2WFlmeUFBSlpPWm9qNFdTTW50SzQ0amtLLVA1NTc4QWh5SFF0MW1tYTM0dFNMVmxfalpTM05iQi1fOTFjMlFQbF9nNER4dko4NTVzWTNZeUZvTTBNMFZMWTZJN2RkWmZyVlVOVHFLUl9lY1A1WGNBNkVxdERqODQ5YzQtVWY4QXkta1lBZHN6RXV0ZjA4cnBRSWdudEhXVjRZOFYzUzU4dXoxWDRCOW9vSE11OWlidWIybzNjSEczaTdUOGtIeE5SaHZwNHR2LVhRQl9XWTFPQ3REWEVhbEY0UlJiVXFOLVBSLURzVDkwVWQ2VWpDYllSaTNF?oc=5",
-      "source": "Yahoo",
-      "published_at": "2026-09-13T11:09:31+00:00"
-    },
-    {
       "title": "警方:逾700人報案疑信用卡被盜用購智能電話 涉款1470萬元",
       "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxPMkJ4SnduUE53V0poLXpLTWlQc2toQzc5YjJJWHh2Ym84X3A3eU5uVUpqUFc4Um1XWnBnU2pzVXlLQlVhTWtBLVkwdmJHVklTUXZBc1A3THFHVzNTZnRkYl8xRW4yVjBSRjFGX3FsNkxBQ3ZGRXVnMGRQbjRzQWhSakpZTVJEWGJZMkFOeG9oR0FjVFU2YVJ5VmhXYlQ1SWd3dm50WGtQNU1maXBmR1lNd0xZRzR4VUVKRzFiUEl0WTlCR3V3XzdNVWNWdUFGS2ZHd0pBcmVZT2wtRjlaa2RjeHc2QTZoX21MS0dwU0czR2hfNkpWSkNhU01BVXFrXzlXWmkxaFIyZ3k2N2tUcnlEZ21XNk55N1BiV0VjbC1lNkVuMnFSY2VnUnBUUUt5T3d5Mi1oRC16aHA2dVBSQUtyS2xROFd1QUpURDk3WFFKQUc5eDBkVHN2V0lhLW5zcUF2Tkdoel9ham5SaEszVnpCZkVn?oc=5",
       "source": "Yahoo 財經",
       "published_at": "2026-09-13T07:00:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】大統新創(1470) 八月營收營收雙減，年減31.32%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd1doc3VyLU1Pa3kzNmRuc3VUTElDb28zSF9hLVNrMnZ5cUctWDl4Z191RGRJaXByQ2s0cjlTQnM1YnR5LW1wSWpZU2c5YVF1U2xsN3R1anlDd0puaWhQeU5aZHdLUjlCTWZzYklfSTdpMXBDRUdpSlc0Y2MzVnVrQy1LTFRYRlpNN3c?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
       "title": "台股8月底開戶數近1470萬人續創高 月增9.1萬人| 證券",
