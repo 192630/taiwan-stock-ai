@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T04:34:12.398578+08:00",
+  "updated_at": "2026-09-25T06:34:13.477464+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6217",
   "name": "中探針",
@@ -26,8 +26,14 @@
     {
       "title": "盤中速報 - 中探針(6217)股價拉至漲停，漲停價178.5元，成交2,851張",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyM2dmcmhLajdHZFlxYnFiVmRIaHp1aGpqYWhkRTdNdGc5MzZjd3lKam5YSWt5cG1tR0ZNN0hYUnBSUUh2WmZDVHo2MHVHMkpoQUxsbFBtaldGMUdqWDFsNXEzVnk?oc=5",
-      "source": "TradingView",
+      "source": "fr.tradingview.com",
       "published_at": "2026-09-17T18:42:00+00:00"
+    },
+    {
+      "title": "🐭 【10秒看懂 中探針】",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xZGctbS1fUjkzU0JkTWF6RlJ3X1Z6cmxQMEZ5VDFubW1NMUdKTDNVaUV5WXdHUWFyTmFQZEthQmViVnNab0VMSzcyemhSbHdKQzc0YWNXZFI?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-13T07:00:00+00:00"
     },
     {
       "title": "盈餘：中探針(6217)股價遭警示，自結7月歸屬母公司淨損1500萬元，EPS-0.13元",
@@ -36,21 +42,15 @@
       "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
-      "title": "討論牆 | 盤中速報 - 中探針(6217)股價拉至漲停，漲停價188.5元，成交4,561張",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCQWpCZjZRcmF6RExDNGx6Umo1YXRIc1JDTjNTSmNySTY1UXdKOEd2bVhTTlpzc0tjTHpodHVJOHU0ZUxEcC1INDc1TmRHTmp1TUU5bktRc0pxb0FTSVVBazdETUo?oc=5",
-      "source": "LINE TODAY",
-      "published_at": "2026-09-03T12:54:26+00:00"
+      "title": "《SEMICON》中探針秀MEMS探針、清針紙新品",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbmtTazJYcUhiTGY4Rk41UVF2OE5XYU95ZWZYVm94aDdzdmU1SmpkMk5rcFVpUVM2N1FETjhCME80SVUwWmwySGtDN1UzTFlHRU5iUzFVRV9IbVM5dlFoellLczdUSDRaLWlGWE1OUzAtaVMtVzNTcE1zdG9TR2EtNmVaeHBxT3hwSVZEdUhHdE9rNHM3OWpfZFNsc29aWXREbmlaN1FfTXdZcTlUR2hKellZcnlIS3hGZ0hRRGstZ2w2dXRXX3ktSUZkODJxYnM0WlNoRXFKdE9rdGJUbEtCd2g3TTNTVjdpcHh5ekxtV1E?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
       "title": "〈SEMICON〉中探針轉型加速 三大新品明年貢獻 半導體占比拚逾4成",
       "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQX3dfdDBFVHFrVHBPTUN4YlcyTVItazRvNjhvZDRIWEVRT3BZNFUxVnFpbWtzVURSS0ZvUnM0Qzd3MHJhSGYzMl9pMHZ4bFpweHFsWDR6ZGtmaFRGdlF3M1VqWWFObVJxUHYwQ2VNRXRhZEozd2VVN3RzRDh5LVZBRWYxWVdzMVZBRTVsdjBEZ2VLc2RidFR0UV9xazA2blk1Y1BwY0RfMmk0TU1rbWtjbzhSV3FJQTAxSkpCOWp1TnBWRW40T0ZQQ0trVkpaUVR1eFdqTC1mR0pWWGZiYUlTX2ozWGVJMjNocjQxZUU3RUl6cWp1N2Rsd3ZiSmh5RnpmYnM3T3hHS0VEMEZJMEN0RnRIWWxhNkZJM2hmV3VaZUFLWU40MXFGd0d0ZFBudEZNdGtjaUpCTGoybldnQ3BPbEJ6b1pQU1FMandaOEZiYnZ5aFhMWmt1ZklrX2RDV0NVYklKb2tsdG5RTUdxZjY5aUZKVTVlSTlvX0FkZEtR?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-09-03T07:00:00+00:00"
-    },
-    {
-      "title": "國際半導體展 中探針秀微機電探針等產品 (圖)",
-      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNVk1UZ2NYWlF0b3dJWFVMT3dvV1hRYkdaUW5ydFpKdzdwRjVHWURvVHkwaHVXMWt3RThvMlVzUkNRZDZPaVNWTDJ0OXRsdUF0RFZIelhONXVvODNmSXBzaWRQdmVuOUdtUzBiZTEwNTNlRlBPVjZISXJhbjhCekpoaUtZaVBoM3ROT1NndVYxeGlPUWZYVkp3Z0l3cnRBRElXMHcwNzZUTHd4N2FQT0VDeWx0SC1hTjJHUjR1d29EU0FMU2t4RlQwdjZlSXdpY3A3MWt1WHd3VEdmbjF0cmxycEhoMDdMdUtWM0RBdjNqOERsR1Q0b2FGSU0yNFRaQUxZZnI5T3RnRXNwQmRENlNubGhLNUQwYURZaEtDNUdKQXdLcS1iM25TbFRmamFSY2wxRnYtYlhNaTJsUQ?oc=5",
-      "source": "Yahoo新聞",
       "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
@@ -60,22 +60,22 @@
       "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
-      "title": "《SEMICON》中探針秀MEMS探針、清針紙新品",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbmtTazJYcUhiTGY4Rk41UVF2OE5XYU95ZWZYVm94aDdzdmU1SmpkMk5rcFVpUVM2N1FETjhCME80SVUwWmwySGtDN1UzTFlHRU5iUzFVRV9IbVM5dlFoellLczdUSDRaLWlGWE1OUzAtaVMtVzNTcE1zdG9TR2EtNmVaeHBxT3hwSVZEdUhHdE9rNHM3OWpfZFNsc29aWXREbmlaN1FfTXdZcTlUR2hKellZcnlIS3hGZ0hRRGstZ2w2dXRXX3ktSUZkODJxYnM0WlNoRXFKdE9rdGJUbEtCd2g3TTNTVjdpcHh5ekxtV1E?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-02T07:00:00+00:00"
-    },
-    {
-      "title": "中探針攜半導體大廠攻MEMS探針、清針紙 明年迎實質貢獻",
-      "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNYTgzU20xRnUxMEhsZ3U3MGU1dHRfN0NOSEtXNDdrT1hqRWRkdVlYZmVianFzN1F4RWQyRmVSZ0FiUEhIUFVkUXRNRG1BdFhDbEVXRDBKZU9NZnU5SkhzZ2NtanZlZTg4RGZqY0tXeXhuM2ZVbS02SElsRUh5M3NvbzdadjNtV1lnbWlvLWpGS3FKWTk5a1U4ZVZiQTEwc01WSHY0NnV2MkhHMXVhVTlWdDQtMnMzb280RU0zQVIwVkZKNnRVWVRPQjVNSWRBZ1Q0S2dJM3pNU241SnpkVEQ3aTRKWEJ0SE1VYW1RWWhsU2RYVmNGU2tkR0pJamdzLUNpaDF5WUVvUUp3OFRsOEVDTF9UeHJFdWVhZVlnNjB0TTlNMXBvbmsxQzhfUnBFUjgwbzdENTNiSzVCRndNV3I4VzlsQXZMZ1NpUEtwMVJKaW1pSUJPRnBmY0lFQzQwVU9na3lN?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-02T07:00:00+00:00"
-    },
-    {
       "title": "【09:31 即時新聞】中探針(6217)股價上漲逾7%，半導體測試＋法人與主力買盤延續支撐短線強攻",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUzlval9EYUNpVWItVF9pQ3JZUEtMc0hlYk9PUy0ySEtYVjQ2N0FDNnlOSzBBT0lNYjJZVDJ4WnJBN1hBWW1VQXRhVDFTeXhDUmNKcDZsYW9NNU11QnB3QzBpOUhJMnBqOWtDY081c3REaUhwMHJGVmI4TlBELTI1QlVtOHNyVWVXUHlDaTNR?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-02T07:00:00+00:00"
+    },
+    {
+      "title": "【10:56 即時新聞】中探針(6217)股價勁揚至187元、上漲8.41%，AI半導體測試題材延燒＋中期技術結構偏強但主力籌碼續偏空",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOXVUSlRHMGdrSEFfeVg5ajVsYjduNURXU2RPdXBpaG9tS3MzQkhHbU1lVW5PZEpDdXNrV2ZhZWRDUjVnb0E3Q3I0cEhvN0s1a25tdzFTazY0RlFYcm94dlBYb1NYQ0JRcUtZSE5ZN0pHSXAtOTJZT2I4YVVjR2l6c1M2dDNLbENESUZwU0NB?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-01T07:00:00+00:00"
+    },
+    {
+      "title": "【10:24 即時新聞】中探針(6217)亮燈漲停至177.5元，受惠半導體測試針成長題材＋短中期多方結構強勢延續",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTVlPNUxLNGhlNzhjakJSc3BzbHJ3dVF3aHViMFRjNWZKTUt1SzU5VkZwOVUwSHVfdk12MUprZldxSFlSRVIzZFVSVGd1MDNDbHNYSkFzNVFCTlVTUTk0ZVRWMGwyUlpJd1pOTXlBc29GS3BwVzU2amJYVWkxU0NLc29abnNtQUFoNTgyMC13?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-08-27T07:00:00+00:00"
     }
   ]
 }

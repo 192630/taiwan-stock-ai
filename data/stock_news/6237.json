@@ -1,44 +1,50 @@
 {
-  "updated_at": "2026-09-24T05:33:56.116595+08:00",
+  "updated_at": "2026-09-25T06:34:21.529898+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6237",
   "name": "驊訊",
-  "count": 6,
+  "count": 7,
   "news": [
+    {
+      "title": "熱門股／Meta大會加持AI眼鏡！英濟、驊訊衝漲停宏達電創近2個月新高| 產經",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81X2JzVXVTaVdmbnVyanNsX3RaTVhfaE9kVkk5cktNamhJSDhOd2ctRmZZWUR0MGFubjl3TFlQR1NMTmxYcVVvY0UzcjFGV2NmVnc1VWd6Y3VFNFpBOGMyVQ?oc=5",
+      "source": "news.ustv.com.tw",
+      "published_at": "2026-09-23T19:04:19+00:00"
+    },
+    {
+      "title": "6237 驊訊- AI下一棒Meta Muse再牽手智慧眼鏡驊訊、英濟、宏達電 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1iTkpXZWppdURreGIzazUyOFhLemZBRms1emF1OThaTklFQWhyWXpESHpvQ2Z3Rm4yU21yVnQwY0pIZXBQY1ZMT0oxcUtKdHV3a3VNSHRUUlE?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T12:10:40+00:00"
+    },
     {
       "title": "AI下一棒戴到臉上？Meta Muse再牽手智慧眼鏡驊訊、英濟、宏達電…4檔眼鏡概念股先嗨- 上市櫃",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12QWU4RkhwUkozNS1aVlEyXzhzU0VNODlvZlpyVVcyalhnXzdhU3B5Y2lVZS1IeTlSMnY0c0hjVEl3TmRlSHVobXhNOG0tQm9wZFVJQTctQThFVDlxT0huZENKMWdOS25ualE?oc=5",
-      "source": "wantrich.chinatimes.com",
+      "source": "旺得富理財網",
       "published_at": "2026-09-23T10:16:36+00:00"
     },
     {
       "title": "6237 驊訊- AI 眼鏡概念股大漲- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9EdVNFTEU1MUQwWHQ0eml4VmstRG8xczFxNkR2QWI3UzhfSGJVV09uQzE1N1NFTENuRG15aVFwSTFTNkZGcW9zU0hnOHdOM2gxVHJmS29FYw?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-23T02:21:26+00:00"
     },
     {
       "title": "驊訊(6237) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tdS1NUW9tbzFfYlZ1TFFaX0ttQnNESHB2UFBQZnV1TXVsa1J4LWFPYU5VQnVOMktZUExrOXc2a0NkSGpFTHE4Z1h6MWF5c25IT3ZF?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-18T05:13:45+00:00"
     },
     {
-      "title": "Iwaki Co. Ltd.收入明細 – TSE:6237",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhUFJwczE1d0RHRWNBNDlLb2o2a2I1dXNoQ2JwMllVLTVZb2VlVUlpU21pS0xacXhvdTBqb3Q4NkZ1WWhuc1hnZGRpS3Zob2dvOGxpSWVpU3ZTc1VlYU5sMEJzbUJLbzJ3Y3FFSnpoRk90QQ?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-15T21:04:40+00:00"
-    },
-    {
-      "title": "【2026/08月營收公告】驊訊(6237) 八月營收營收雙減，年減31.68％",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nVENPQzV3SkczQ3pfU2F2YTd1ck5nTUgxSmNTU2lVVlc3RlMxcFY5X2k0YVZROTRkRDIzaG9scU5qUkgzRHJjeGpiRHlCT1VBY1k0ZkdqeXJVSndSRXdqd1Q4NXZfNkE?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-07T08:40:04+00:00"
+      "title": "【2026/08月營收公告】驊訊(6237) 八月營收營收雙減，年減31.68%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ3R6TDVtSXFaUlBWM3hsWEpNNW5yZXFkSEwwR0Fwb2Y3c1V0UTRQeGxNc3laWjlsRE1jX1pWZGZoc25tb0xBTmYwMXhwQ3N5WWYzbWZDYVpGMkp4MHRtOWhyb2lIREFXNjh5cjNYZXJpdDFqNkZjOFA4aDBENE5rLW9fWXNjTlVuN1E?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
       "title": "【營收快訊】驊訊(6237)公告08月營收",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RS01wcE5lNlc5b2ZJZm94LWVwTFlWWm5EVzhFeWZmZ3gyTUJfbEVZcFJuYk5kOWVuRzVpbzFIU0JCMGRtb19Pd2I4ZlMyMmhQVzVHa2JmU1Y?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-07T07:59:23+00:00"
     }
   ]

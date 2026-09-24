@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-24T04:34:04.570731+08:00",
+  "updated_at": "2026-09-25T06:34:06.598901+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6201",
   "name": "亞弘電",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【2026/08月營收公告】亞弘電(6201) 八月營收3.46億元，表現亮眼、呈現雙成長，創近13個月以來新高，年增33.25%",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZmdSM3ZCQXJFQVRvQ01KYWlROHVSTHJreDBrd3hoNW85OVZBR09iNzEyQU1sZUpLODMwOHktcFRXUVBfVGF6T1JLYUxqalloR3FHM1U1YVBPcEJNN2diWUw5eF9vS202b1dXY3N5aDlja3JUVndXQmdJbzVrRWVUNDVWNUZiNzdwaHc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    }
+  ]
 }

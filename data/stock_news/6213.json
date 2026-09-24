@@ -1,14 +1,62 @@
 {
-  "updated_at": "2026-09-24T04:34:10.277909+08:00",
+  "updated_at": "2026-09-25T06:34:11.689903+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6213",
   "name": "聯茂",
   "count": 12,
   "news": [
     {
-      "title": "聯茂上月每股獲利2.54元 景碩1.59元",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EOFpmVmNqNHZUNWp4Vmk4ZGJrc25NZWJyeG1fZktkLXhiVlpXV0pKMHBpeGQ5X0hSckIwVENXd0JNdWd0Wm5WRUd1YVpETWo3UEpSdnFyMG1Nd2ZuUHJr0gFfQVVfeXFMT0Q4WmZWY2o0dlQ1anhWaThkYmtzbk1lYnJ4bV9mS2QteGJWWldXSkowcGl4ZDlfSFJyQjBUQ1d3Qk11Z3RablZFR3VhWkRNajdQSlJ2cXIwbU13Zm5Qcms?oc=5",
-      "source": "money.udn.com",
+      "title": "台積電熄火、大盤一度暴跌400點！聯茂強鎖漲停、景碩飆逼千元",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pRTIyN21xTGdMWTNBclVmMmxEXzBTWlBiMVlfR0JubnpoMExEOVMwMzdsM2ZUVjFZRGY3R0QyUG1WU2FyYkE0U1hMaGVqU2V5NXE5YnQ1cUFjenJlOWRJM041T0N0LXlsYVRMTFpGUQ?oc=5",
+      "source": "理財周刊",
+      "published_at": "2026-09-24T07:19:52+00:00"
+    },
+    {
+      "title": "〈焦點股〉聯茂獲利強增爆量鎖漲停 帶動PCB上游原物料股歡騰走高",
+      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxQOGJkSHBOamNUTjFjbElHX3hBaFk1bUpiWFA3MUtpejRXeXEwc3poQk5qVHhwbVZvOXAyNXlzSS1RYTd2U1VRY1VIalFNY0Y4RWhvcTZreG5KVWEyMVN1aFhrZ2cxU01nb0NkN1lqQk9ZM1JmcmdxSnN0cGlRd1RkRjU5dWxaTlFqT055VGhlQzZuZkRZNzBJTFYyU0hGNFozR1hUSkxPMHdzaG1mRW9Jck9ZZ1dOZ2hPajhReVNkRWNkU1pBN2JUZTVhY1RfMldYT1pjNndWZHFEM2RyR1pldmxYWjcyLXYwNGwzS1ZTWVZrbkFTcjhnQlpXbk9zak10eGhzX2J0VUFLRWFwSEZWaWdLb1o4SXFVc2hJQ2RXYTVPbGo4WjNwU2N2dnFZQThLS0xLeUJSU0hoVWhnQk9pMlRqcnBZX21MSG1iYVkyMDVtUmQzWDF6MEdqMkhIUWJRWjJMTG1YV0pZRUVBWE5JbVltTDVTbTU2QU91M0pKbmp6U3h6cEFlQjdBSTVGd213QWhhY3dMWk14VUhW?oc=5",
+      "source": "Yahoo 財經",
+      "published_at": "2026-09-24T05:12:35+00:00"
+    },
+    {
+      "title": "獲利年增840%！聯茂跳空漲停一字鎖 5500張買單排隊搶",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPNVNZamJqQ0dOVm1nRGkxSDVXdzBfWlRMYW5lS056ektQX2hMbjBQeW5pMk9QOGh0emNkYU5GOFNRd3BZVS05ZXJCSTVJYkJfYTNURHZzUThfV05NTWJocm1HUy1vNUZ6N1lrc0tzU0UtZVNlR0dFM3g5ajM4NEpMV09LQ1Q0bVhmbl9PYUk3Z0ZFXy1rZzlybGZwNERNVm5KUmRVNzdjQmw3RmxIV1NxUnJjblQ2SjRDSy1sOTN3dzA0V0xyZHVaT2NkRzdMdVFvWG1UTG81LVhtcnRsWFQ2VUVTUl90RHh3NWVGdGJmRDBCczg4RFdYeFRHRWg1SGJ5Ymt3TmhDcjZCd2x0T0RyeXFpa0ZxNEQ2ZTdkZzZGOGtOSVZ6V2tKWHJjZFEtR2lYUU95WjFjZ25JWmNuYjZ2RG9RWUJwVmd0Yk5lVDJ5X3VPQUlhVUE?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-24T04:12:26+00:00"
+    },
+    {
+      "title": "聯茂8月獲利暴衝8.5倍！單月EPS達2.54元 股價亮燈「一字鎖」、CCL全嗨 | Newtalk",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yeE0tT2ZaeTRBbTkwSlZLd3BzUktmSl9RcDc0bVNOWE9mVHpSQWR1elVoWEJLaUpLelN4MjhIUWFMd0pGMVZDNHpFcWhXMlh0SEN6aWln?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-24T03:51:39+00:00"
+    },
+    {
+      "title": "聯茂營收大增97%！AI與HPC需求撐腰，外資點名這產業還有戲 | 下班經濟學 | 財經",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5MZXRQMDVtazEzVlZnZ0ZUTjVvaUhMUGhaeFJvQkozY1llRE9XcmFhYjFyUnUxaG9mazFELVhBN2Y3dGl4MWpOaTU1SUxsZw?oc=5",
+      "source": "風傳媒",
+      "published_at": "2026-09-24T02:14:22+00:00"
+    },
+    {
+      "title": "CCL大廠聯茂8月獲利大增8.5倍，股價漲停鎖死",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5Kc1o2dllVYUozazgzLVV0THF2OUt0SHlubVg4dFhmTWNDRGUwTGpIbmpwUFRnZ2VvSUJRNlg5TkhmeXJCOExObk5IZTU?oc=5",
+      "source": "鏈新聞 ABMedia",
+      "published_at": "2026-09-24T01:25:38+00:00"
+    },
+    {
+      "title": "焦點股》聯茂：8月獲利超預期 開盤漲停一字鎖",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IOVpuNEFWMFhBUTJyckxGdkZUYjRmMnk1QUh6bTdHSXNMdzhTUVhfTnpIZHRPVml1LVZKeWZ3Vy1PU1N5dWg5QXJ4emZqZFZjRW1xTlNRTWUwSjVSWFFV0gFkQVVfeXFMTmFmZVRQYTZwVUJ6Yy1CbS1admhKQ3RFdWVjUmV4ZXA4NXlWRXRGVGVYQS01Nkx1a2EtaDR5S2hpS3JjU0JnZ2htT1BjNW45TWtTb3lVTnZZRl9aQkh2a3Mwdl9NQg?oc=5",
+      "source": "自由財經",
+      "published_at": "2026-09-24T01:14:54+00:00"
+    },
+    {
+      "title": "【09:02 即時新聞】聯茂(6213)亮燈漲停，注意股票與獲利爆發成盤中焦點",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbzNZc1NQR0U4OV9iY1RrYVY0WXBzMV9XeVg1X3BzdFhDVmtMb3psZHdxN2g1U0d2UEJZSlNKRG9Yb2FOdVBrY2Nzd294U25Ja09IeEZtS1pGaktYV1hlUmVVbTNSczNiNkdBX3g0UlBQQTNPTXAtdm1sU3FYUGRLWDZGOV9aNDdmQUtpVHZB?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-24T01:03:12+00:00"
+    },
+    {
+      "title": "聯茂8月每股獲利2.54元 景碩1.59元",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE01UThVNUxmN2lJVmJVajBXUnVJTXZ0Uk5aenFFQ0VaelZ6R1Q2N0QwbmpUR253emoyMlFxSVBJRzhTNGJNNG5zTDUtVjBqZ19K0gFWQVVfeXFMT0hWMFMzdkhSMmR0YngyR3l5VGZUSHdtaDdCQ3VQb1VPc3dQc0FSclNfY2YyREdyTFJYOHFLUUlhOXh1eVhNSFlXbHN5clFpMWlOY1F2YUE?oc=5",
+      "source": "UDN",
       "published_at": "2026-09-23T17:02:55+00:00"
     },
     {
@@ -28,54 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMFBLMnJ6ZkpONjZTekQ3WUgxS2hmZFRRcVg2cEVqZ3hVeXhQcE1YVmFoNnkySy1PS1dEbkNUaWZCQ3YyZVFGVHJua0RITnc3elkzVUhhWXRQR2xBMGlpU3pkM0JPNTVsNlpHTVhQZnZTWUtXc1FpUXJ2Z1Jyb1kwZDE1cnB3MVpmeXg4cmdEWnlLWi05?oc=5",
       "source": "動區動趨",
       "published_at": "2026-09-22T10:07:56+00:00"
-    },
-    {
-      "title": "聯茂3.19億元違約交割怎麼回事？近期股價與CCL題材一次看",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLVkpuRlVoVjZtNzdOazQ2eUdmVjhEY04yR1Iybm8yekpRNzB6OEg2RmFROEVwS0dMMXVKQVltTGx1OUh2SGdhVDl1TWpQNGdOR1lqcHRhaWZMRlc5VTBz?oc=5",
-      "source": "pocket.tw",
-      "published_at": "2026-09-22T06:14:33+00:00"
-    },
-    {
-      "title": "聯茂爆3.19億元違約交割！股票T+2沒錢扣款會怎樣？5 大後果一次看",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04RnlNeFpiSVZSYW5Ma0d0Yk5kdmVKdEZhSFhKSE1vRmNWX29DOWxBdEZjeE9sX1FRZjhBZV9obU0yeFJOblhaaTdmWk9zVzdo?oc=5",
-      "source": "風傳媒",
-      "published_at": "2026-09-22T06:12:08+00:00"
-    },
-    {
-      "title": "AI飆股出事！聯茂爆「3.19億違約交割」今年最大韭菜慘了 | 民視新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaU0l5TldwbmgyU0FjQmxwaU5RVmw4d2xpdnpTVjFEbVpEMjFrV1ltY0JyX0JxU2tJYzBHVWVKOHpKcWpOTFZNbmZzZEU1T0Vhd3FxbUpn?oc=5",
-      "source": "LINE TODAY",
-      "published_at": "2026-09-22T02:27:45+00:00"
-    },
-    {
-      "title": "CPO鬼故事衝擊CCL？台光電、台燿、聯茂誰最怕光進銅退",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Nak9NUDZqWkhBaU5sU3VOc1pyal82NUhyQ0RSUjR6aF9uTU1YZi12ZlQ2Qkx5NVI4WjQzTkZoWUdVTjEwdGppdzJzRUk1T250QU9NRXowZzFsSHRiSXF2ODNGMlhxcFVWRGtZTjROOA?oc=5",
-      "source": "理財周刊",
-      "published_at": "2026-09-22T01:47:05+00:00"
-    },
-    {
-      "title": "3.19億交不出來！聯茂爆今年最大違約交割 台股25起鉅額違約「這檔」中招3次最多",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XZDVrd2l3U2xZSWdxVWl0NW5KUFN0MTI0emxlZE90UlU3XzZHNzUtR2pWSHJiNWNlNTFjeXZqWkFxbzcwSThNWEZXZw?oc=5",
-      "source": "FTNN 新聞",
-      "published_at": "2026-09-22T01:10:00+00:00"
-    },
-    {
-      "title": "聯茂爆3.19億元違約交割 創今年上市櫃單筆最高金額 | CTWANT",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWSXNBZ09NM3k4VTQtYVVERVpvRG1NQUFzTVJlYmUzdWRhM3EtYmRqREQ2b05MV09QV3YtVVlxWGVReG9MYUZMYy1zbzVlazE4bThpWFhn?oc=5",
-      "source": "LINE TODAY",
-      "published_at": "2026-09-21T21:52:16+00:00"
-    },
-    {
-      "title": "聯茂爆違約交割3.19億元 台股今年來最大金額",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14VWtjVHhXTXBhUW5xcGVKUEFrRTNQblVTT1k2a3hYYnhaSHJfUS04Vk9Eb0JNOWN2ZHREVkhiaG8tSmtpS3dGTjNlNGJyV2RL0gFWQVVfeXFMTzZ2dkZUUHlOSThTU0EtOVNFdkIxeTI3cmhfMmZsRGp3cmY0QS1UdUlJTTRaM0NTRnRpZU4xSVFZNkN2RnFuakNaajZoMUVLWHpnV0hYeWc?oc=5",
-      "source": "UDN",
-      "published_at": "2026-09-21T17:54:24+00:00"
-    },
-    {
-      "title": "台股驚爆聯茂3.19億元違約交割 創今年上市櫃單次最高紀錄",
-      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPNVFfb0U0TkY5OHpxMHpJWkpGUTBPejlhSHd6NWNEaS1NRHhsOVVYYlJ5WWkzem9HTS01cFgyckVvMDVjbXUxLW0tNHVHcHhyOGVsR1lSWXRDbWo3b211b05abmR1TFhjTV9xQnpQWkFuU1JoT0FEYVJjWjNJdUU5WldfNVdYODBrVWNhc0kwNDJqSW1uRkZKampnamRwNWRXdFl1bEYxSHFYRVFDTFJwLVNTYVRMTWVFRjZ1ZUlfSV9oRTNUeTNUc2ZwcHU2cnpqVjRoRklwZWRKZFZtbGloSEhyTmo1ODBMUV8wOWUzUWJlQlo3QnVTRlpPNVRaZGJRMnZoODJpaDdzOXRqTGZpMWk2Tk01cFJraVlGY1FZU1pOZnRnZmh3VXlSVThhY3REUVpkLUUtcUNOZ0pIV0xfOURCYnpieGdzY3hBWE5CV0RiU2ZmZ3daSnVBeUZoOE5LMmVudGtpeXFCeEhPUXJJTWVVb2dxOWNua1lkbXNsR1JSby1l?oc=5",
-      "source": "Yahoo 財經",
-      "published_at": "2026-09-21T14:01:30+00:00"
     }
   ]
 }

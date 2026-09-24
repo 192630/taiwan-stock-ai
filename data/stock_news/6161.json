@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-24T04:33:46.917875+08:00",
+  "updated_at": "2026-09-25T06:33:51.291435+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6161",
   "name": "捷波",
-  "count": 4,
+  "count": 3,
   "news": [
     {
       "title": "Estic Corporation的每股資本支出 – TSE:6161",
@@ -22,12 +22,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjNDFqVzlwLWE2LUY0WTFZS2hFOU8wbE4wOXdmMjBnT2dWZHlLbVNtclNvSGxQaFl3SmEwSnBnOC1lTTAwbDFtYjAtMkJrOXBhalBpbFZNWWk5bWd3RlZIUVZFTTFma0k?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-09T10:10:04+00:00"
-    },
-    {
-      "title": "捷波 115年8月營收1.19億、年減18.37%",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EM05rN3BaZ3dkWS04QlQ3dHk5MFdvYUR4YmMyZzRQRTloNzJtRjlEay1xTGRJMHBLQlRrRThINWtJdGxtSW1ZRGlyeFh4V1k2VmZHM3kydUw?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-09T10:04:19+00:00"
     }
   ]
 }

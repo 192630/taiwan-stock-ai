@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-24T04:33:55.293450+08:00",
+  "updated_at": "2026-09-25T06:33:58.573943+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6180",
   "name": "橘子",
-  "count": 11,
+  "count": 9,
   "news": [
-    {
-      "title": "專訪》漢來海港一年130萬通訂位電話，讓「遊戲橘子」找到AI新財路！劉柏園：未來營收有機會超越遊戲",
-      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQRjJxa1pWMmc0YUhjNVlaYkRBUlhZUF8tTlJyc1Q4V1I5VmZVTlM1LU5Rb0Y1S0N0ZFdNVUdBcFpwSzl5MUtsdGNtUUhkLUd0eFVtQjB3RkhJNXBKYnRWQWtfRkZvUlF3UU9tci1jallTLXprSE5OMHFYR1IzeTFCLVRJb2NoR3k4RlNZTFZqT0p1dGstQXlNdGRtbWRYTGh3eUlYTkVVR3BobzlEeS1GbC03RE5ZS3c1WG94T0ZmenVKOEdwMFJJeEg5dXlvWS1sUUZiZTUzQkhaczNZVUtzaF9zV095aEViUEhpRGQ4dWhRVWNFdWo1TjY2UVB1a0xDT0pFa2FqUmo4TGhkcXVDZV8yZWZyTktHWXE1ZDZMS3hSVm1jN3l4X0ZNT0Q3R0FzOVJ3aG1WQlVwSXF4?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-22T21:00:01+00:00"
-    },
     {
       "title": "橘子(6180) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41RXJzNkt5ZHJlNEFuVXNSZjdXQzhPenlEeDBsVDNqYXZLVjJPaG52LW9rNkZPRVo2NEhDeER3d3lLY1pVQ2xhZmVvdFI5LVNjd2lV?oc=5",
@@ -27,7 +21,7 @@
       "title": "朱自清《背影》裡的爸爸，買橘子為什麼要穿過鐵道、爬上月台？ 百年前的火車站其實長這樣",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE81bHlXelpuV3REZ2U5bzAySUhWamRjWXVxb19wMkN6SmpPb3BDdllTaG1SSDZIcWZLSWFqUlJJNDVYX1UxN2JVM1ZhZ2U4T2dN?oc=5",
       "source": "風傳媒",
-      "published_at": "2026-09-15T08:59:00+00:00"
+      "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
       "title": "遊戲股暑假旺季不同調！宇峻推新作8月營收月增38%居冠 橘子及鈊象小幅成長",
@@ -50,7 +44,7 @@
     {
       "title": "轉型「AI橘子」!董座劉柏園看未來3年內AI營收占三成",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNWFNvVHA2NkNXUk1Wdlh4QjZJUjRZNzR3TWlWWG8tazFxWVc5cDVzbFdRWGpfb09DdzNMR0s2SzlhX1RoU29sNWRsY3IwU2p4enAtc1lMUU8?oc=5",
-      "source": "自由時報",
+      "source": "stock.ltn.com.tw",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
@@ -64,12 +58,6 @@
       "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNMkpKMHNkc1ZNcUFtdnpueFVkNm9HNGlsdjFpVmFtTjBsQ0dEenpMNVNTZExkMVZCeVE2cFhyeFBMdnFLajBKQlVCVEViZmRncVFHQU5FYnhURE5aUURwRUY3ZC1NNFdOaEFJcEFzemhYM01MbjFJYnZEclY2NVhfa0xsRjg5SEdUem93QjlWZ1Vuc29iZGlucXR5cXRfekYwbndTeHhDR1ZObERNTmlrN0lRM21MTHA3UkRhUG1fby1PS1J2ajNIaXYtQ1FVdHFVRVhLLUFnemMtb3h2X0NhYnM5S0c0ZmJzcmdPUldYd3EyckNYbTZuNmxnb3dYQ2FUR0FKYWEwUjc0TlR3UUtNT3hWS1YtdHVuRU95YVBMUTZtak51THMteFZVWHcxemR6dEJ6RzE2dmNydWZxWDlWcFJDTzVaZE14UXpFUk1MUVduOGJDc0E?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "蘋果與橘子！高盛揭示半導體與軟體交易的「攝影負片」關係",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11TWRkLVZaMUNrNnl1Qi1qYUZZcU9IYkYxeFNwYlFXUGUycGpIQzktcFRUaVpHSUVhR1V1a1NEMk9pV2p1WkFDbms4OUtuZUFncmZ0SWZhcnI?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-25T07:00:00+00:00"
     }
   ]
 }
