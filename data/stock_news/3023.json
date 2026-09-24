@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-09-23T19:34:42.170699+08:00",
+  "updated_at": "2026-09-24T20:40:06.619420+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3023",
   "name": "信邦",
   "count": 12,
   "news": [
     {
+      "title": "信邦(3023) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zdmNqVW95NlFpRFdzMUxvWFI4bzdzcmdXRUktVUFsaTVlcGdBdjFVYVNNSmkxWnRrLWdoTjl5UkdjRm5qeC02eUlpZGJTbXEzRzhr?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T02:41:01+00:00"
+    },
+    {
       "title": "布局氫能 信邦攜手威杰能源 鎖定AI應用",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uRC1rSlNmSUQyLWNGaFZSN2ItUGtfQWpVOTlkQjZncEF1Q0hLakNkRXRWVWVjSTdZZ3ducWVNV3ZhbHpicXhyLTVfU0tSWThMd2dOUXRoVDE?oc=5",
       "source": "自由時報",
       "published_at": "2026-09-21T07:12:58+00:00"
-    },
-    {
-      "title": "【09/16券商評等報告彙整】信邦(3023) 今日僅1家券商發布績效評等報告，評價為看多，目標價為340元。",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdzBLNDgzbi15N0o2ekRwUlBQOWFLY3BvcFo2LTJabmJZNGR4bnhiSER1YkhlZkF5VERFTUptY0VORlVDbE1rWkZldlJPOU1MWF9RV0kxTmlyRzA4QnItZElJc19pS1JrZExyQ0dlRVRzYkFjTlVWZ2xXWDI5WGQwRWNPT1BScDV2Vnc?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-16T10:50:08+00:00"
     },
     {
       "title": "信邦(3023)最新法說上修半導體營收至35億元！工業年增40%、訂單看到2028年",
@@ -42,6 +42,12 @@
       "published_at": "2026-09-14T07:00:00+00:00"
     },
     {
+      "title": "【09/11券商評等報告彙整】信邦(3023) 今日僅1家券商發布績效評等報告，評價為看多，目標價為390元。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYzR6OFltREJXR0QxT1B4QnJndFcwOXV6RUx4QUdxdzNlaldLX0RmbHJzT3ZST00ySFJweTFOb3JzTlFfYmxOQ2NkWnZrNEU2SER1YWxOSkstMjBCWFBuUGtCaEV3NG80eDZEVm5YVTByMmI4UTl1YXZUY0gyZEpvbE5FY1BkSnpDbHc?oc=5",
+      "source": "cmnews.com.tw",
+      "published_at": "2026-09-11T07:00:00+00:00"
+    },
+    {
       "title": "3023 信邦- 本土金控系上修信邦至390｜今日3份研報- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3Vkl6NFRudTkxU2ZfTVptT0tQdlNnSXhfVUR1alhSMHhYSGxUVzBkbHRlMERzVGtsSWJ6cXlXZkhuU3lVeHlnZ0J6ajAzOTZ5Tm1TU0d4M08?oc=5",
       "source": "CMoney",
@@ -54,12 +60,6 @@
       "published_at": "2026-09-06T07:00:00+00:00"
     },
     {
-      "title": "3023 信邦- 🚨 主力在調節？昨日主動式ETF 減碼這檔！ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sR2l3MkEyY2JJb21DTkROaklIdE45ejlvZ2dVTXEyS1BnU0k1SUduZnhhT2NwRXNreXUwYzFWbU1hTk8wenZLd2pJU3RFcENiemxCSGxVbGE?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-04T18:09:53+00:00"
-    },
-    {
       "title": "信邦智能(301112)8月31日股東戶數0.85萬戶，較上期減少1.39%",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KUG80NW42Wi00c3RkSHBkUFY0OUpoWWV5LTFyQ1J4NWhzY2N2a0poam1IblgyVXFzTTFXNjBoM2pCSmdHUnBUdjlzV2FCWmtaOWc?oc=5",
       "source": "富途牛牛",
@@ -68,13 +68,13 @@
     {
       "title": "【13:17 即時新聞】信邦(3023)股價上漲至328.5元，受自動化與人形機器人訂單能見度支撐＋均線多頭結構配合法人買盤延續",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd2NEdTFBOUJKTUJibFoyMU14YnZZcVFPbTNhWVVTVFJxVk8xa3FSbDBPajhUdFprM2F4MHdZbHFJb1RWTUZlaFhzdFQ1TmZhSktueVdWUjlDT3pwV0w1ZDYwemhKSndYcFRkWUp2dGhVNkVCTnRfVFE3WlVhOExjSVEzQVZDT0dMS2I0VnhB?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-02T07:00:00+00:00"
     },
     {
       "title": "信邦營收／8月32.8億元、創單月新高 衝刺半導體機器人與無人機",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlZGRub0dUdHY0UENGZFN4dWFHTzRVUk9QNHpvaUdCRVQxUnBDUGgzR0Z4Vy1mZTZJUnRabEhpaW9VZWtsb0FOV0ktbjRMZHJ1YzRVZEhLSUVEQdIBX0FVX3lxTE1RTWlfdDVRVlZUWTF2enZRQ0M4by1RZW0yOE5PV04ySXNuMkhqMUxpd3BrVU51NzlfRnNuckwyYkVsS2VaQTlIbFBzZ3BRc2pNWUY2WXItX1ZaTUJQQVlr?oc=5",
-      "source": "money.udn.com",
+      "source": "經濟日報",
       "published_at": "2026-09-02T07:00:00+00:00"
     }
   ]

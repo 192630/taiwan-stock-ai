@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-09-23T19:34:49.355964+08:00",
+  "updated_at": "2026-09-24T20:40:15.258534+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3040",
   "name": "遠見",
   "count": 12,
   "news": [
     {
+      "title": "遠見控股(00862)發佈年度業績，股東應占虧損4.37億港元 同比增加678.29% 作者 智通財經",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1uclcySVJvbXFzdEFCc3ZBUmp2elNYYmExaVRHZ0VBbTZFbW0xdjVnb1ZwLS1kRTgzMjBMbHdZcEJFNVB3bTlMLWE2VC03MDJIT2hZR3E0YjV2LXZoWUhFX1FRRk54U25XX1ppVkVwV0o?oc=5",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "published_at": "2026-09-23T14:02:57+00:00"
+    },
+    {
       "title": "6407 相互 - 馬斯克讚習近平「睿智有遠見」：強而有力的中國領導人- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wNzVHZGxTOWxLVEtydWJ0RG50SWE3SV94SzRjUkVqZWt4ZFZiWUF3XzltZnM2REhJQlNuTG9vY1ZIeFhaalRoVTRFMEtxeTRpMkhFSGtFemw?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-23T11:29:05+00:00"
-    },
-    {
-      "title": "3040 遠見 - 遠見補充公告本公司召開115年第2次股東臨時會相關資訊- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3R2FKTU9lUzFwdnVnQU0wVEpxYlItamZlSTNfal91LWkwMU1HSFhvd1NGSHBSMkc4WFJ6OTYtTHBqdWllOGNOVzk5dktqLVNBWVlmOW5DT3U?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-22T03:43:15+00:00"
     },
     {
       "title": "3040 遠見 - 遠見董事會決議股利分派- 股市爆料同學會",
@@ -26,7 +26,7 @@
     {
       "title": "董事會：遠見決議修正114年度盈餘分配，擬取消股票股利、每股配發現金3.5元",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSllsd1B5YmhWM0ZnTzVmT2NNMGFtVEdBWUJNMmRxcDc0di1yNVpndEYwbk92YkZOanB4U0lZdFlxODFZTEpsMEVfUF9PYVJQMDROVWRBYTRySnF2UzdkaGZJZU1sbm8zLXhNa3g0eDJ5QS1kdWJ3VEFJNW1QQi1oTTVqNnlzTnll?oc=5",
-      "source": "富聯網",
+      "source": "ww2.money-link.com.tw",
       "published_at": "2026-09-16T07:08:00+00:00"
     },
     {
@@ -42,12 +42,6 @@
       "published_at": "2026-09-11T13:31:03+00:00"
     },
     {
-      "title": "【2026/08月營收公告】遠見(3040) 八月營收營收月減年增，全年營運續看向上-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORlA2clY4bnMtcFN3Y1UyM1pfUDVqbVQ5dk1OTEZUUmxyRnZ5MmNpVFg4VVdpVHU1X0pNN08yS1V5cm5rUG9BSnBxY2R2aTlwZklieDdZSWxFcXFvN0hlUGpHNnNKMWdBUGJWbnhqZzRkdUpOVDllQmpBNkFRTENIN1gyd2hPMUhnTWc?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
       "title": "3040 遠見 - 老闆要被抓了沒啊買到你這破爛股股息早早公布遲遲不發？ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3RUR5YW8telpPTF9NcG41SWZCZXl3V1lPRlV6R3JMQmZ2VUpEaThPNDU5Z0ktQVBud0pKeUktUXlkNHFvQXYwUW5TT0NRekYzMjVINEtQYW0?oc=5",
       "source": "CMoney",
@@ -56,7 +50,7 @@
     {
       "title": "2026遠見高峰會／林修銘力推創新板 擘劃亞洲那斯達克",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNdWJDX041eGY1bmI0bFpuU2dSMGxrUjVZVDFoXzNSX1YwLV9YV1BDU185NlRVM056dXZTQkM0U2d5RTJHYk52bzhXVjhzd2JGZFJGVnJzbndLM2xSSFVzcXpn0gFnQVVfeXFMT3E0cXhSUGxjajhlUFNaM3FNbVJaUUJQTzlIYXlteTZCbm8tdDVTT0dLNFc5OHlqYlMwQ3Y5clZJOElzOXowTzEyUVc2MTk4SVAtNFE5TjhHQTQ4VlozbTJiTXU5Z0NmWQ?oc=5",
-      "source": "世界新聞網",
+      "source": "worldjournal.com",
       "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
@@ -74,8 +68,14 @@
     {
       "title": "駿利亨德森遠見基金-泛歐小型公司基金 A2 歐元 的總覽 | 鉅亨網 - 基金老司機",
       "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOc19QaXhNODBmZDJHZGJlamlEM204a1JfYU5RSTMxalVqSnNCQjctZ2owUGFWaHc5SXd1dVgyUDRHb2x1Rkl0MmxWS2MtSi11aUZtN3p0M2Jla2FfWXAyUGU1Z1FwYjZzX3JNQk93RTJBWGVsSEcxSkhnT01kZ0tsNVA0SkRxN29qMTlTOExZc2xBbHBGbk1KQXJSRWpieklCZGt5ZFEwTTRuNnFRMDBuUnRiWkM2a0JLckFDb2F4U3N3eW9sZ2xtYy1BRU9RbEtrNzREZy13Um1IV0M3aDFQb09WM0U4SzZPaXBqdE4xdUNLODd2akJ4Zkd3ZEx4T3owYXIyREdnZ29EUklqWld6b3Jja084V1ozQm5kN0hzSDAzTVBzdVBneGhXaFROWEw3YktqcHk4dGZEUGVwYl9WUWVvWE1nRXIyS1YtOWRkVjVxbjg?oc=5",
-      "source": "鉅亨網",
+      "source": "invest.cnyes.com",
       "published_at": "2026-09-02T04:13:02+00:00"
+    },
+    {
+      "title": "遠見 (3040) 改選後AI記憶體新局，30天內盯哪3個數字？-哲翰科技戰情室",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeWRYUGRPbF9aOGRiSFVqT3U1R3V6d19DQ0p4SDlLb3ljTGVmYlVnb1Z1M3Y0RVlDaTBfbWg4RlNZT3l2d214MER3Wmw2amN4UHVkRmh4WEs5TnRMa2tUS3A4TV9qNDVfbXFsMmMyTWJ2S1NaYXRFYlFzQzUyd0luelJXbw?oc=5",
+      "source": "cmnews.com.tw",
+      "published_at": "2026-08-26T07:00:00+00:00"
     }
   ]
 }

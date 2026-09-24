@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-23T19:34:39.310665+08:00",
+  "updated_at": "2026-09-24T20:40:03.562494+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3015",
   "name": "全漢",
-  "count": 5,
+  "count": 7,
   "news": [
+    {
+      "title": "FSP Technology Inc.的EBITDA利潤率% – TWSE:3015",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMzlpSnhhVXd3WmxxTWVldHBrRFByWmlsQnY4Q1pqdEhCQTN6d0R4RnpnZzVDQXg3VjhwYlJSYVdpMDRNZVBWTG1waEM0TVBZS2hPbHdFc1JpR3c5WF92VjJLaC00SFpMcWthMGw5TE9BRE5QSldiQnJLVks2RUNCX0xBeUNqMnRDR254b0JwYjQwcmg0WUtR?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-23T05:40:36+00:00"
+    },
     {
       "title": "全漢前三季獲利將超越去年",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DRldqRUFZTnZVaTlJUmx2YnFWY0xBUk53cVU3aXpvN0w1YUNvUkFxNDhOeFVTZTFsU2hYYk5BdENDZjRvWnB1ZmdPZlhDdTN30gFWQVVfeXFMUDdfVFh5REs3OFR1VVMzWTZKWkxHRVdxY3JXUVhrUlhkbndCU3lFcFdGUTF0QW5VZVU3ell4QkdhRWZtWU1tVFhkZzdRM1pKbUhOX0lQMlE?oc=5",
       "source": "UDN",
       "published_at": "2026-09-18T14:50:23+00:00"
+    },
+    {
+      "title": "《電零組》全漢攻AI資料中心白牌市場拚2027年貢獻營收- 證券",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wdnJJb20wRUMtMFFxMTZMZ1hCYWNmcmpLbko4Mklucld1cEhNaHhDVWRwNE9MSmR3eEdDcGpiandlZHlIWENmQ29JVUJtOGkwRUUyazl1Vnd2N3BvbTIw?oc=5",
+      "source": "工商時報",
+      "published_at": "2026-09-18T09:39:00+00:00"
     },
     {
       "title": "全漢AI電源布局升溫；高瓦數產品支撐後續成長",
@@ -26,7 +38,7 @@
     {
       "title": "【2026/08月營收公告】全漢(3015) 八月營收10.85億元，年增1.3%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS20waEdVTmJWbk1SdzlSSEhySWZDdzdQcnJrT2lGVDh4WXhTS2V6M2RfbXJId25JWFVoN3dwZllpUGxvWXR3Qnh5aUpRbkJBSkxCcTd5QnNSRF9FckRpX21xYkk3bDJjRVRGbnpmMm1BREpkbEtudzN5bHZkel9lZmRrRjhEd3BaYlE?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-06T07:00:00+00:00"
     },
     {

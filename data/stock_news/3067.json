@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-23T19:34:59.709524+08:00",
+  "updated_at": "2026-09-24T20:40:27.187555+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3067",
   "name": "全域",
-  "count": 3,
+  "count": 4,
   "news": [
     {
       "title": "首都專線｜北京11月中起全域禁存無人機 本台實測回收僅原價五成半",
@@ -21,7 +21,13 @@
       "title": "北京极端新规管控无人机 全域禁飞禁存禁放惹议(组图)",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zM0xxS0h2SHJZS2lxUjBJTkx6UFI2T3lDVThyTWtxM19qUU5GMGkxeUhjQ1E1WE9BVlNPWVFBZUVvYlNhNWlKTVpqSWxnMFJGS3FDQi1yc0U?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-15T10:07:25+00:00"
+      "published_at": "2026-09-15T07:00:00+00:00"
+    },
+    {
+      "title": "北京市再收緊無人機管制11/15起全域禁飛禁存禁運| 中國",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wcmYyVXMyLXlVY3RuRS1hMXpvOUliVjNONXJKS2wxbVpLQlllamlUUmJfdWVjU0dETkt6djNGbjlySUxZT09EOFZoZnNoeWJqeVFtVVQzUFo3WlU?oc=5",
+      "source": "Newtalk新聞",
+      "published_at": "2026-09-13T07:00:00+00:00"
     }
   ]
 }

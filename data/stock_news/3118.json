@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-23T20:39:03.519058+08:00",
+  "updated_at": "2026-09-24T20:40:41.401395+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3118",
   "name": "進階",
-  "count": 3,
+  "count": 6,
   "news": [
     {
       "title": "解鎖更多AI 用量和進階創作工具，Meta One 訂閱方案在台上線- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiMDNRZmZ3ZS0yQXd5TXA3SVhGTWZHR3VIZjhwNVJhaVJWY1NYODEzRE1tZDZDODl4M2xqaHoyQlJRWk4xS3NQMDUwZzhYQU8walE0dUVoSlg?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-15T22:36:00+00:00"
+    },
+    {
+      "title": "客語學習再進階！《共下來講客》繪本、音檔、教具帶孩子玩中學",
+      "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPbDFkRmlzZEppSmY3QmF1NGQyZERwdVJ5SU1yV0QwUm80eWltVnpjRTE5REUyVnR4c1RxUDZOajFOWHRvWGplRklQX0ZiLWpFTmdkVktzY3NvaVpnak1MS2JQZWxVa3hUam1zWTNxeThEMUVRV0NLZjZjT2VNY3BOMmZmWXViUS1KZGZ0TXlvOGRBU29LSm9mbGR4NG4ySEs4cnZsajNZN1VpNDlFUHZDVHVONUFGamVPUTFEUWRCSnhONEtRM0hfd1piTHlUUnVnZF94MDk1QXpCdzN5dnF2aGQ3ejg2aXlBa3RxZnpTT2xScVM1cS0ya2RveTVLNTBRdzM3X1hweEpLQXJxWE1tTTlzb2FKcS1YM0FQdVAwWllxQzl4c1VfTGFPSXJMTHplMFlIamZZV2k3UVlZTHVBazQxM0phRldrS3pXLU1PTERYbU8yODBkTFhuNHljbjV4b29HS1pQN0dQbmpqc0RwZy04TGNDYjFFdU9vUWFqcUg?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-15T07:00:00+00:00"
+    },
+    {
+      "title": "Meta One台灣上線、最低月付49元！IG、臉書解鎖更多進階功能",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XN0QxOERuWDdTT1QzSXA2VV9QM1hId3BtamFIQmIwSmtLUURCcGpULWd3QnJ0LWt1VGJjVjJxVVg4ZF9mZzBfUWkxdU5tYndOZlFnRkg4ckI?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
       "title": "陸國產晶片再進階！麒麟9050 Pro時隔6年回歸 為華為Mate最新三折疊注入新動力",
@@ -18,9 +30,15 @@
       "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
+      "title": "所羅門布局再進階 聚焦全晶圓翹曲、TGV瑕疵檢測",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YY3Z6b29wN29YM0FEWW9HVXhRMXd3Nk13Rzk0MHY1TjlqcVZnNGZfVko4VEtpMjktYmVSaEtoMW1QZkFNcDRYcG55ZWV6a1dhenJlZEJSOW8?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-02T07:00:00+00:00"
+    },
+    {
       "title": "Box (BOX) 股價上漲5.6%，因AI驅動的企業進階服務前景看好！",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUG03MEE1eDN1UzMtV0hzcWx1RXNCcHB3czhVckVQRkEzU1RSNG1oYnVsLXFMWjFoOFRDVUtueGEtVDNBRHBrQkxFLWNBQkdHa0FNOVp0UnBEQlM3d0N2czNpY2VUQUV6RHJCeHIzTXdDZ09ORjdxanRvS0tFaXAzMUw4QmdIMUJQNEMwa0F3?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-08-28T07:00:00+00:00"
     }
   ]

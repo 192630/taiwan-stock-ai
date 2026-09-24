@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-23T19:34:57.076044+08:00",
+  "updated_at": "2026-09-24T20:40:24.003752+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3058",
   "name": "立德",
-  "count": 3,
+  "count": 4,
   "news": [
+    {
+      "title": "立德(3058) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50TnlLaUxfcFAtODk0OGc4VEZrZTNJdW5MazBueU1VR1FHVWhmQUlKZVIzTlgxUThURkNscU1aZGwzd3FpdW9RV2ZQNXNZc1ZqQjN3?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T05:17:50+00:00"
+    },
     {
       "title": "港股異動 | 立德教育(01449)尾盤漲超3% 近日獲Scienjoy戰略入股 作者 智通財經",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlcy1MRk5mdzdCTXNhUk9KVGp4NjRray1BSWRlc3ZkaUM4RkdCRXFnUGF5NkFUS1JlMmpScGlXNEx4RTBEaEwyOW5lcXFMU2FyemNrSDRTcVFLckU3VTdmekFocjZfNEdIdE1UMUdoV18?oc=5",

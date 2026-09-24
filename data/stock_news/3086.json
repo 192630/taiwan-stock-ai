@@ -1,26 +1,38 @@
 {
-  "updated_at": "2026-09-23T19:35:02.827694+08:00",
+  "updated_at": "2026-09-24T20:40:35.363777+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3086",
   "name": "華義*",
-  "count": 3,
+  "count": 5,
   "news": [
+    {
+      "title": "3086 華義* - 【09/24 產業即時新聞】線上遊戲族群大漲3.73%！天剛亮燈漲停、鈊象大咖敲門點火人氣- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05Q3hQaHR4TE5DVUZJNDE4TFBNUmZTcEhkQjZ6S0JSNjBZSkMzOHpoOGhoUXB2U0NrSmtZTUltcUdRMTBuem1qSUZTbGJIRlV1SEpkN01PVGs?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T01:30:23+00:00"
+    },
+    {
+      "title": "Wayi International Digital Entertainment Co., Ltd.的Price to book forward – TPEX:3086",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd0MzaXRvS051cEFuQS1yem8tUy1sa2VaUW5kUk1TTGFpMnJwdG9DYldfTmxTODRWZERLaXpHc3dXczhaRVNseC05SDlBQWpmLTQ4eWc5T0paU1hUa25Pd3lPWVU4Z3QzYi1GTXE1NUR6ZVdWSVVfYkFvbWxKVjdVY2g5MVpqdnhpdGhNc0FpcG9kOXVLWDRNZQ?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-23T06:55:49+00:00"
+    },
     {
       "title": "【26Q2財報公告】華義*(3086) Q2 營收3.695千萬元，刷下近2季新高，季增13.51%、年成長3.62%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOGJ4RzFVVW9ZY1h2bm9PU2JGWGE5aWZBSXlNT290MlU2UzNfbHRnX3hDNGpiWS1CaW96RUlGTEVmTk5Da21VX0FISDlrRnloampVelJ0RVl0ZlZNVGQzZUd6cXVISXcxSDJZODM2Yzg5N3NYRnE5d3UzbFRuYTFQT1pIVE02aGpSdXc?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
       "title": "盤中速報 - 華義(3086)大跌7.03%，報30.4元",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Tc2tzOXBtTEpPSU04OTh5TE5ZSUl0WjBxWjgtNXdCdjF0ZHBsN0NIZnp3SVpmamczYko0eGdhWUJ4Zy1rZXJMS0VWZE1XTzNGMmpVbVc1cVFTMG40SGtjUjdBQ3hWQQ?oc=5",
-      "source": "TradingView",
+      "source": "tradingview.com",
       "published_at": "2026-09-01T07:00:00+00:00"
     },
     {
       "title": "盤中速報 - 華義(3086)股價拉至漲停，漲停價30.25元，成交208張",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yNG0wNG1hY2t1cDFhazZ6VGYzNV9UU1dDM21uZGtqbk9ha3RIN1FQQy1SMlE5VDdtV3pIN1U1WmV4VTRjQzFxUl9vbk8wUTdEeWhYQl9IaHZzM19OQnBKM0swTlhIQQ?oc=5",
-      "source": "TradingView",
+      "source": "tradingview.com",
       "published_at": "2026-08-30T07:00:00+00:00"
     }
   ]

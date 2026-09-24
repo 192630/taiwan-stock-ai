@@ -1,21 +1,57 @@
 {
-  "updated_at": "2026-09-23T19:34:41.708617+08:00",
+  "updated_at": "2026-09-24T20:40:06.086260+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3022",
   "name": "威強電",
   "count": 12,
   "news": [
     {
-      "title": "《電週邊》威強電營運樂觀、訂單看到2028 楊梅新廠估後年完工量產",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbXBubGg4LXJ5UlJCYU9Bai1XeVBsRGVuZ0d1blBsYXhHcGNOXzNGUk55UXdOXzl3QUxzRlFWYmdqRG10Q2tjTEtGVERVbG5HcEVGdmJhUU1nWEU4R0JxeVlFci1iX2c2dmNhWjd1XzctUlduMVVNNDVxQ1U1RlhPSzVmbmdHdXc3?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-23T09:12:00+00:00"
+      "title": "最新邊緣運算與客製化晶片發威！台股爆出兆元量能，威強電訂單看至2028-財經焦點情報站",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNkNkdmx6LTVOQlJlZ2swN3BVYURTVDNMMHFRbC15V0Y3dElLb0YtQmNiTHJkbHhXWTdwa3R1MWNSTm9NMDBEUktlOFFKcE9pbFZaUmxUd0czSVZKOURKN2JRTTRWaEszOE5hMVJ3X1R5azczU3Rua1hMTjdIaVBRQlZn?oc=5",
+      "source": "cmnews.com.tw",
+      "published_at": "2026-09-24T05:15:41+00:00"
+    },
+    {
+      "title": "威強電(3022) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5iQ2ZheTMzVlB5Mm5JQmVlSGhRdS1hSTUyVW9xekNQWjRNakFpSjhLcVdKQUlCYS1GTnUxS0hGSjFKd1RoMkVQcVhsd3RIMzl0NXRB?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T05:09:38+00:00"
+    },
+    {
+      "title": "客戶數億預付款搶料，威強電網通/資安訂單達明年",
+      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPclZ6RlF1ZHFEQ3lIcmdmN2luVnhxU3lBRUNKdVZBeFJNbGRDSTBqRUJXNTJoM0dXSEtzcFhHc3E2ZUJQUEg3Q0dvbFdCRjhDUkdBZmtGZGNJUzJ3eFprU2EwYWZ4NW9xWVcyQVBuVUxHeDBFY3EyV1JWZlF6bzhjMWs2b3hSWEdPMDllaWs2VTMxbExUZGtWMmhQMk1RWDJtc24xMEpDZ2xfMU5Nb2N0WjRlSWMydG5PX2FXdk0tRlhzMUhLU0hvb210Q0E3YWY3R3NvQVpZY1NQUEZwamh5V0FTV0lqRGxLeDM5ZHl2aDBENFZ2SmlQbExuUUw2R2RDN1JEZ1ZWNUZmSXhUWVQxWmUyVkwtRlJiazE5cmk3UlFuS0J3bnhpbDAxa3B1TEoxY0pSSTZ1bFZfTDVsT04tTHBJM0k1SUxJMzJ5QjFBUjVFcW9TeHZvMjV3?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-24T03:07:32+00:00"
+    },
+    {
+      "title": "威強電明年訂單能見度持穩 四大產品線各擁動能",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hdTB5cFg5YVZGVzAtdklsWFF4U1F0cDNRUkh5YjBLWW5pVTNsdXo2RXNENzYwSGZ4ZTVzdms3ZXlZOGE2QlNaczIxWm1XVWc?oc=5",
+      "source": "news.cnyes.com",
+      "published_at": "2026-09-24T02:07:25+00:00"
     },
     {
       "title": "威強電營運點火 大客戶訂單看到2027年",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56WW5YdDI4UzVkQVhxX2QxTG5wYnFMUGNsenBfR3AwblhfWVJYNWJ1a3g3THByUlY2ajF2M1lweWk1TmlKYnNaSFc5RmNpY0J3NHhGWmJYYnk?oc=5",
       "source": "自由時報",
-      "published_at": "2026-09-22T19:05:00+00:00"
+      "published_at": "2026-09-23T19:09:04+00:00"
+    },
+    {
+      "title": "威強電今年拚績增雙位數| 經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvQ2VyYmJQbmZCcWQtaFoyLVBhazk2eXRFQWo4eVdvZkxuVlNpSWJ4M0pQNGJDTjRzOVRVN05sZnFJRUZFN3NnUDNSeUZrY3phNVVZanZB?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-23T17:25:01+00:00"
+    },
+    {
+      "title": "3022 威強電- 法說平淡- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LbEEwOVA5VjJFeUpSQWxOSGU2RDVKOVdveWxYZjNJVng3c1I1RVdRQWF2cXJhX2dBWHYxVTJJejkwM1dNM1pqNlRFOHZpMXp6RkV5WGFJR2c?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T16:29:28+00:00"
+    },
+    {
+      "title": "《電週邊》威強電營運樂觀、訂單看到2028 楊梅新廠估後年完工量產",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbXBubGg4LXJ5UlJCYU9Bai1XeVBsRGVuZ0d1blBsYXhHcGNOXzNGUk55UXdOXzl3QUxzRlFWYmdqRG10Q2tjTEtGVERVbG5HcEVGdmJhUU1nWEU4R0JxeVlFci1iX2c2dmNhWjd1XzctUlduMVVNNDVxQ1U1RlhPSzVmbmdHdXc3?oc=5",
+      "source": "ww2.money-link.com.tw",
+      "published_at": "2026-09-23T09:12:00+00:00"
     },
     {
       "title": "焦點股》威強電：出貨接力升溫 帶量漲停",
@@ -30,52 +66,16 @@
       "published_at": "2026-09-19T00:56:58+00:00"
     },
     {
+      "title": "威強電(3022)外資、投信、法人籌碼變化與自營買賣超總表 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9mMTJacHJFMUQyVGF0YmVucFFfOUZVVTFwN2Nxb21XcFBqMFhLRTlVWW1sRzJHZ2J1M1JFNFNsMmpRR2hXMWhGRVVmMUVueGxxb1NSLTFyUVg5SUlBX20tMGF4dzI?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-18T07:00:00+00:00"
+    },
+    {
       "title": "威強電(3022)營收創高只是開始？AI邊緣運算成第一大應用，機器人控制器接棒",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1oSl9hWk5Na0ZCOV8tSDZDWnZLSV9QWkZsMW8zN2Ywc0xEUmhMbENEYnQxMnRkbF9kLTNkYnVwWUxmUWd2RWFNN1E4dkVvOXc?oc=5",
       "source": "news.cnyes.com",
       "published_at": "2026-09-18T03:30:04+00:00"
-    },
-    {
-      "title": "威強電攻機器人業務",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03LTRIbW80V041eGhuOHZZMUU0d3ZPc2J6ODZHM2VBLWRnZF9qS0lRa3N3amQyaVY0andGU3VuTTdiZHdYeXRuNk1YOWRlWFM1aVNnZlE5Tlg?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-17T22:50:58+00:00"
-    },
-    {
-      "title": "H2看優H1，威強電今年營收首衝90億",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPc0pPakR3Qkx3THIxbzBhVk1GRzJsWEJxdlFUSnlsRWpUeE9tOEI0RDE0eHBuQmVwVW9MenNRZlAyR19aZkFRQzZYVXJZYlpGVExza1NWeWItTnM0STZWTXh4aGt1b21QNTRfREVpM3g2NXVxOXN3RHBhcmMtVkZaNUVLckdBeGFLREdaVnhNVWFVb2JwVGxXb1JPUDR1NTdQX1JFMDNaekZGU0NWVTdNc3pyTFRCSDdTUGJOUVh3YU5SZy1Dd3N2UEh6RW1tVXBGWHhOVFFIMEM2eThUZlBWdnFGNV9tdWY5NjRRYjhqc2dmZURW?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-15T02:31:13+00:00"
-    },
-    {
-      "title": "【12:05 即時新聞】威強電(3022)股價上漲至86.1元、漲幅3.49%，邊緣AI與高階視訊會議專案題材帶動買盤迴流＋短線跌深後技術支撐吸引低接",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSG1DZDRzNFVVWlR3eDFFUWlodW1WOG93aHRpbTVaWWdReFNVYWxLWkF6SXp2ZUc0c2wzcTA0THpwOWhWNlBYSThsTHJQQmJTd3A0TGJCVnJ2eEdEQ0ZZemc0cGVkSk5uUDJCcUF5UE9CczF0eHp2LWt0OC1BUFZ0YWNGblVDOHV6cHlTZk5R?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-14T07:00:00+00:00"
-    },
-    {
-      "title": "個股：威強電、威聯通業績穩增，今年成長看旺，威聯通除權息後暫蹲",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVWxWUzgxaExoR1diMkVxWkhYbnBnUDJCWjRTY3JWUzJZQW81NXpKclZxLWhPekRSWm54c193Mkp0VExaVF94NHA5a2F6TkExU01kX3lINlA5VXdCT29WNVJBWkZWSnk3NmxrOGp3cVBacGllcHBnX2R1b2JCYzJTb0FReDZZVmQ2?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "威強電三引擎續攻 前8月營收年增32％",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15eVZMT2U5Vl9vdTlXQ2xBVWVudncyMmFpdzdDUXp6V0ZsOGp4Z2lLUHBtaDdZMkxpeWNMbjlsaldkQkRlZDNmUkVBZERMaU5zNURNRVV5NUc?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-06T18:46:00+00:00"
-    },
-    {
-      "title": "【10:46 即時新聞】威強電(3022)股價上漲7%，邊緣AI與大型專案動能吸引買盤，前高百元關卡成短線技術壓力",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdmZEMHdwZ3V6M0pnOVYtWHIyV1AycFk1NE95UWpiVDlwSnVSUHNFSVoxWmgxQjZDMmtSdmxnSDRSYnA3VHFfdGV6NVZCS1BKaHNHVEk3elBJWU1XdGVzNTVZWG9jclMyUW9uOFBGNXJlTV9XUXdGQUpKZUdPVW0zMjlWa0txZWdyMHhJT2x3?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-04T07:00:00+00:00"
-    },
-    {
-      "title": "7月營收連3月年月雙增 法人看好威強電明年EPS年增率可達20%以上",
-      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPN1FNRGlyTVpnVE1aS1o1aFJyZWZ1blZVazh0VlJMcU9sNm9YVTR0NngzcjR0MUoweFdSWHhWcndjZEtaZzNkVzYzT3VEMzAzenpVUmItSUVXeEItcUw0dnNwRElPT190ejlLYVZ5MnREMTRoZUVBTFFyalllYW4ycG1sdGpjR0Z6WWFzTVlfdlIwSU9KT1VnWEh0QWkzM3dKVUU5b09qN2xjWTZUODBNTTd2UTNPQWJnRGRkc2tud3dEUDV2V3E0UmRzaW94c1VlNEZKamp4SjB3Wk1EN1lLZV9fZDhzMEZSSkxrY2JHYkhLZGdnWGx4ZDlQWmUwV2RYWnlQbUoxS1ZxWEpKSmhsQ190YkJ2cnJoSWlrZFgxOG5rcERaVmk4SWFRWTV5Rk1vZVpHQmJmZVBDTHpWR05wdmNBeW5PZzRPMVBqSGEybkQzVkROMTI0SVRUX0UwV0xaOU1KTENkS01UdHl3aHByQ3I3TGhSaVpOb3pHd01TcTZRZmdKSEtJdjM1Nkk?oc=5",
-      "source": "台灣好新聞",
-      "published_at": "2026-09-04T07:00:00+00:00"
     }
   ]
 }

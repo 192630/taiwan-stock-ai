@@ -1,15 +1,51 @@
 {
-  "updated_at": "2026-09-23T19:34:48.836506+08:00",
+  "updated_at": "2026-09-24T20:40:14.669543+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3038",
   "name": "全台",
   "count": 12,
   "news": [
     {
+      "title": "2002 中鋼- 全台股中的垃圾王-爛中鋼- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RT21DMWliMTZ2bkg5UktzV19vQUI4aUZaNWZ0bjBkUjVaZHd6TmFfOExES1d6c3ZGc0traWo2eWZFZGVtbnFBQXZVQjRLVjBxRTR3dHpBTHc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T05:33:03+00:00"
+    },
+    {
+      "title": "〈房產〉全台「百萬戶之都」再加一 桃園市人口高速增長到百萬戶",
+      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNVXE3M2lwSTFuVktFTHVvTWFzSnlsOEtETS0xcjNXV0FtamRTcGNXWVdRNjd2TDVCeUJqdTVaTGpidVU4YUlMY3Z6UDc1b09PVTNqci1yV3p1dDhOZHd5bU52UHJZbEY2cmJWVHlnTEZ6Vl9nakhYOUpodEpubThITk5oUDREa3pkY1Z1bVBtRC0yZkx3dExDaHljZXpoM3JLZzdua3ljaV9lX2VOQWZMSURnODUxTUJLeWZhZjZXVTJUeWduNmJETkZOVlpIMkY1cElzUkpOWXNPVzBlLUJiaEszUzlNVGNtQUJPd28tS04wa255blRIQk9DT05PdXhpV0hpVUFIYTNVaVd0aWpQQzh5LU01dy1TWjhLNEM5dXoyUHg1d1MzWE1xMERRb29IbE5Yc1VlZUdzdUg0UjRUS0k5ZWgzdWpDQm9jUmFfZEZHdzJyRTFuUkNoMmNwMFRsWFlCa2pQZHhYV3l5eHlNZ1NPWW9nVmd1TzVaRGVZYmFOVFU?oc=5",
+      "source": "Yahoo 財經",
+      "published_at": "2026-09-24T04:08:40+00:00"
+    },
+    {
+      "title": "全台最低價預售屋曝光！台南每坪15.9萬 北市最低逼近90萬「價差超過5倍」",
+      "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxPLXNNX3piWEpMX3BITTdJeDF2ZXRpMFlVekhReWJmbERVOUJHNVdIdXh3ZDVoTU1tVUpvYTFBUFhOOUIyVlktWlU2N1AwRmI2c1hpYlhDdEEzMHIyOVBOSGZWYWtjWnBia29oYVJLUEo5aWZiczFfMm0yZ0RUZS03WXN3NmtqRDJMb3Iza3VZeFNpY1VNZUpHeU9BTm9oTlBPQTloaXA4YWwtbDUtYkcyWlp1R01DbkRlMUJYUHFRbm03R2lKalBuSFRNQnp0dDdjWTRGcTA4OUh6Q191U1B1dUMxdlZtR09kX2NjajRQMDJvbno0eEZSQ0RCMlo1U2NnV1NFQjllNlBaYTFoUUpVYmdOZ05nWm1HeXhheW9vS0poZkxlc1RQd3RteDFEQzM4RXU4ZFFhd2VacFVVZG1xMlM3STVSUHc2MFJXRFU4eDd5U05aUVM1RDExdXIyc1JlUjZIR3ZpVlVpQVRscEt3VHpjRWVIZWRGLW9rZlBEMnhVM1BUdDctVmtVQ1ZiNkkxcjF3WVFLZHdBalpiaHdMcmR5RVgzUW9yQThxdjFyMERadWNnQUFaYlVoclowOXNKbkJ5eTBXVFItTGth?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-23T23:25:00+00:00"
+    },
+    {
+      "title": "2454 聯發科 - 萬級續航力！OPPO A7 Pro 系列首度引進高規Pro Max 版，10 月 1 日全台上市- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBobWRsR0ZJVmFDakhfcUhGZldkOEhOMU5TeFBTdlloV24wTEdVRFIyT2l5SUU4Zng3c2oyRVR5TXJzQjVRYVJqejBvX2dSVVVnUXpTZTIwa0E?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T16:11:35+00:00"
+    },
+    {
+      "title": "永慶房產調查：看跌全台下季房價走勢比例已收歛至28%",
+      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQNzZ4RnhPRk1oNzl6WGRfVzdFc3lKZXdTOE5HUnoxLVNONkxsb0hTU1ZWc0FURGpLVnNDbkZmSzktcTJ0QnIxWDdMVmpncW5XZHhvZFl4QTBDREVUdW1rV09ILVdDM1duMTBlMm1YZjQzLS1JZjA3NmVnQXFueVU3eUZnT0FaWmgxYjJPbFpucldVcDdRT0wwMWx0RXR6eGVvb1NzVFJRQkMwcnBxS3RxRllHVzFJOVE3UGtLa1hoa1lvaG1zRVpFSVFiSC1HRndGMFN5czhyR0R5R19EeFhYcVFwbE1KeWRSc2ZYLUxvbTlsTkIwMGJjaG9UUUFxc044SGZGVEN6THhJNGZXcFYwV3UyaUgzei0xbUhxQmRMRDFPd19sa2h2VkM0aV9ud05FeVE1SG9ENGRxc3Nia1ROeHZWcUc4c3JHbGlKb0FtQnNfWTV3ZTJ5MnFvMnNuZlJ5S1NfdmJPV05jQQ?oc=5",
+      "source": "Yahoo 財經",
+      "published_at": "2026-09-23T09:46:40+00:00"
+    },
+    {
       "title": "OPPO發表A7 Pro系列搶占中階實用機市場 10月1日全台開賣",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0OU1QRmNHYTIyNDZ6Tkp5MzVGNzRQRUtQSnEydGJxVUlQLTFLOVBucVFSSlZIdmN6N01rcUl4WHhUd1pZeWhlbW94dw?oc=5",
       "source": "鉅亨網",
       "published_at": "2026-09-23T09:40:34+00:00"
+    },
+    {
+      "title": "2353 宏碁 - 全台首間PlayStation 概念店進駐CITYLINK 南港店打造一站式體驗空間- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iN2dkNGIxLURqOEprMVVxczg3UE54cTFmd1BENU9lT3V6WnZ5bzdjVWxIb3ROUEZsZDlHY0pBQjBlbktEVi0wNGt5WXBxbDNpOXc4bEExTkM?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T09:22:16+00:00"
     },
     {
       "title": "2330 台積電 - 🔥股票賺到全台離職潮🔥 - 股市爆料同學會",
@@ -24,6 +60,12 @@
       "published_at": "2026-09-23T08:25:47+00:00"
     },
     {
+      "title": "6月新制懶人包／交通規定更嚴、郵局股市新規、電費增 全台受影響",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBtNGNsMW9DSEFMMGZFNDdESFh0clVCbWVwMTQ0T3djVDRLWG9DYUdiYVlyUWFrUWxRSUpWeno2MDFXT0h2Rkh6VtIBTEFVX3lxTFBWajZVVUhkV244WlY3RnpuZ3hpYV9oSlVpRDhFczNzT3lRT3h0MHl0WVgtMmFrNkw3YzdoQ0hGeWktRF9hSnlTV2xOZlQ?oc=5",
+      "source": "三立新聞",
+      "published_at": "2026-09-23T00:54:51+00:00"
+    },
+    {
       "title": "雲品直指婚宴市場年年萎縮 全台婚宴需求新竹衰退幅度最大",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HUWNQSk8yeW4tU0NubnRWYjVlZUE1eHV0MkM4ZDMtN0RjdlVnTFpwQ2xTTVZPMURPbzdxMUMyRy1seE5hX2Z5T3dkN3l1WVE?oc=5",
       "source": "news.cnyes.com",
@@ -32,50 +74,8 @@
     {
       "title": "魏哲家一句玩笑全台歪樓！台積電目標價5,010誰喊的？「股板因這件事集體吵翻了」專家拿出數據講破真相",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFc2cwNTdVNDUwaXlDYXpoSjNjNkRKRmFGOVl2aEZpYVd3ei1IemluV2RiMzU3RnRFaFJoOGF0b1JFSVkxUHQweG9rbXhZYW81Tm9fSW5udkxEU3I3MXVnZnM2TUZaR1RraGc?oc=5",
-      "source": "旺得富理財網",
+      "source": "wantrich.chinatimes.com",
       "published_at": "2026-09-22T06:13:51+00:00"
-    },
-    {
-      "title": "全台都不想生！19縣市人口自然成長全轉負，老年指數也全破百- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LenNBc3ZlUHc0bVE5ZTBjM2NlaFJVR1M5Z2VPTkNnVVNhUkYyRXhmMlpZcnZkM0xkRWFFUnRXWlhzUU5CMnprOFRvbWlKT2NnUzNIUlNraUs?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-22T04:29:31+00:00"
-    },
-    {
-      "title": "全台生活「最難過」城市曝！月存僅4千…專家揭主因",
-      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNVkY5STBmVFJSTGdETVh6OWRmdml0STFNandVR3RYa3NTUzdxS3dSU29yRUVJZ1Q2ZzZ4bUpBSVEzT0JJSE9uRllTc3I0cFBRQThaelBpSGptQTJuTmRWVUNkLXRqSTFuYl9NZnhHRmczaFhmNHBiaWQ1Zi14c3NRSmpYRDBjemVlWU1LdVFhUnBfVEdYTkNLZzBTNndNVTR4RjFuNEVqVVozc2oxdGJXeGZPUUpHbTBnX1pEck1MREZCVXFqYjBiTEdIUVdtOGlYU2YzQ0tIeXI3VlJOOTdoNG8zb3F6Tno2d0VKVkk4RnNKSkpRRDhvdUpyamFJa2tmZ2p2R3RZN0xYbXI5YmdldWhVX1lyU3ItNjBVS3hGeDFULWk2WmZNemJCdm5NLVFXclBCRlpiUlNORzZRcTVPUXZZckpyUQ?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-22T04:07:48+00:00"
-    },
-    {
-      "title": "〈房產〉全台七都預售屋買氣凍到僵 上半年十大重災區桃園大園衰退居首",
-      "url": "https://news.google.com/rss/articles/CBMiyANBVV95cUxOWkRVb1lOTElFUEVjbWZ3UXhQX0ZPY2xqM3lVS25QSmo4cktPeHdCLXJGeThiYVNySmN6MzFYUmFKSENldnNrenB0eEVUUWlNNUc4UFNtRnQ4Y2NEN1E0bF9za0R5UGd3ZUp3TmFadG9La1BvY1RDMVVzT0ZrUlZlcmhKRWE0WGFFajhVU216UlI2UHZQbTVaYkJEeEZreVEyUDBXdExMdzFNLVRkVWVWdE5GQ2RteWZCQWdGWUE0endJQnR2SjVGNFhna01SRV9XeHIwRnZnY1UzY1hHbEJwQl9TWmVXN1Z0aWZDRk0xa1JFQkx0MVV0blV1bUFWNHpCUkdST2dyQWRYUWVmYkp4YmdJbnpFUElGaVBfUFowYWJ5RXVqc0V1enZSM1B0V3hmc2hqSE1UWVphbTBfVnhQUTZGcmdMQmFOdmdBWlNFUlVJZGE3U1M1N19UbU1IVEhWaXVxMEIxUmtnZEFGTndZY1ItU29DYTNxVTgzRlRjZTV6d2d6MmY3UlFOU3RXV0hXcDZvUVZtNE81RUU1UEpvaFlEQm9ESy1ScGhQVEh5N2VfZVlTLTdXVDlkeFpBNEVwRWxzeGRYQjg?oc=5",
-      "source": "Yahoo 財經",
-      "published_at": "2026-09-22T03:29:33+00:00"
-    },
-    {
-      "title": "〈房產〉全台七都預售屋買氣凍到僵上半年十大重災區桃園大園衰退居首- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0b3NjNXpIRS1XX0hMT19YZVZOSGk1LS0yQzFuU0otTmFaVUFlXzJHamZTNnVpNjdfek1RdmZhY1ktbFprUXI4Q1lnRVVUay0tNzJBLWJ3WTE?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-22T02:05:31+00:00"
-    },
-    {
-      "title": "全台營造業總家數連12年增長",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDY2x2SzFLb2wzX3VCcXVaaEFycm9yY3lqSm9fUHIyYWtfeFViV3JYTVQ3UnR4SHdnSURxd1pLLTRtVmN6a3FPb3lQa3phd093ajhtWVYzNmY?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-21T08:22:14+00:00"
-    },
-    {
-      "title": "郵局連假停業4天！全台僅「這間」開門 服務項目有限制",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5zZkxmMzRqR0NJZ0V5aVZoM2h5VUVWcVhkVXRFRVp6a0hEWThIU2RiMWNTbkNtWkJ2cXZ1bk9sMkE0MHZCUUtQUHRPcnbSAUxBVV95cUxOc2ZMZjM0akdDSWdFeWlWaDNoeVVFVnFYZFV0RUVaemtIRFk4SFNkYjFjU25DbVpCdnF2dW5PbDJBNDB2QlFLUFB0T3J2?oc=5",
-      "source": "三立新聞",
-      "published_at": "2026-09-21T07:35:00+00:00"
-    },
-    {
-      "title": "嘉縣推蒙特梭利教育打造全台首個幼兒園到國中完整體系- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTYkFYM3NvMjdBa1BFb0M3RUJ0elhRQ09sTTFNVmY5VlVrOHFqMEZsMzBnbF9kTDRYODVIbUJUSlEwT0FkeXZkMEViaXIyY2l3Q09wZ1l2Ql8?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-20T09:08:31+00:00"
     }
   ]
 }

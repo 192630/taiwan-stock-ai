@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-23T19:34:37.990595+08:00",
+  "updated_at": "2026-09-24T20:40:02.141512+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3011",
   "name": "今皓",
-  "count": 2,
+  "count": 4,
   "news": [
+    {
+      "title": "3011 今皓- 今皓公告本公司處分新北市新店區土地- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQVHRWLVl1eU9YWThqWUFsUzJzOVdETThMcXpQaWUzU0U4dk16YzV5ZldXd00xNWJ1cHZ4ZEQtdnluVWEyc0NRTXpKNnRHSHk5YmpoNUQ1RFA?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T09:01:31+00:00"
+    },
     {
       "title": "今晧實業（3011）旗下湧現智庫Agatha首創Triple Loop架構 Company 360串聯AI Agent、人員核准與企業內控資安",
       "url": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxNRGZsd2RZUk03MjNNYnpGcm8yZS1LdllET3d4YXhHUjJTVDBJSGQtZy1uUVlmeFBoTmNnNVFjcDRBYjJ5Tm5KYjVONDNHTmx0Y3YwYUZXOEktb2dYMWJ2Q1RFVm1pUjFMVHNnX3J3dVRBVWlId2VXRDdfLU5MRndpaTlTX0cxV29MMWRJU0RFNnBUQUExMzV6eFM3Q3U4NXFEYTFnc3ZPc1dBM0RWNndZRUNrSWtYb0VmMU11MUJiU1dSeER5dFZtVS1mTFJJdlBNQWVEQzVLNHZuVTdEbUViSWkxajVhSmtNU1dITXE3cDg4UkhSY3BHeWMzUnV1MER0SVllOExqUEVhdnh4SHh4al9BVVphaTJIQV9IXzBJUF96M19BLXQ2dEs5a2VRR2l2RUN5WTlRRE93b2VacGk3X2pyeGNFZ1UxYUV1ZTZGLWRNOWVZZ2dKbDNMMzNOd1ZCdWVkaFp2Y1hFemdyR2dSWFhPZ3FDR2w0WXF3ZTczUzc0dkZvM1RZNElTeW0wQUZPYUtsb1BGcFZOMUdKZXppYU5OSnFPY1NfZlFUU0ZEdTJVS0NfQXQ2SE5ucTJkTW1tTktTSFJKZlpnNDdWblppOU4zekh5QWI5LW9DejdvZEpHNlRtS3QzT2VSTWZuTWpsYUE?oc=5",
@@ -15,7 +21,13 @@
       "title": "今皓 115年8月營收4096萬、年減20.81%",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NWDdvS0tHSGh3cFRkVGhzaDVobkRZZW1PQ05PWHZVUmNvdGtKbHJOTUUtMFdaeHRFdkVYM3ViWWZ6WC1sZm90YWRtcU85M1A1UUFHOWxGdDg?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-10T07:57:29+00:00"
+      "published_at": "2026-09-10T07:00:00+00:00"
+    },
+    {
+      "title": "今晧（3011）旗下湧現智庫揭企業360 助攻AI智慧決策",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPM3JLUzRyVmlKaHZnTk4yb3VRaEltR3lwZi00VllNR0ItVE5UbjRQOEppUmdfcFVwU1ptUTR6Q2xNdEhFRnhvRXBfZTJoYkpDb19DeWVEODg1ZDZwZEdqQUxfaUZ0Tk9ZekNPbDQxZFIyekFrb0tUNWk3SjhyS2F4TENZWjdkdEhOV251WFlPTzhONGNWQVFvOTBpTHl0U2FLMDFQREliMXRJc2tpRFZQa2FaOW5VOGdxYzRZY0NwNHRaUDdxc19HZUx1YzkxX2lrRHl3enQtbklTWmEtY1hwTnBpY29jZUxucDhQMU14clQwYVFIX2N2dnlkVGxfXzFzUDBuaVFpdVlmbXlIekNJMGhmTmVsNVVmVV9LbGpOVi1JLURGXy1DdlVfR3pQSUZ3c2I4d0cxcG1KMk5RRkt2VHd3UDA?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-08-28T07:00:00+00:00"
     }
   ]
 }

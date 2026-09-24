@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-23T19:34:55.212669+08:00",
+  "updated_at": "2026-09-24T20:40:21.887324+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3054",
   "name": "立萬利",
-  "count": 5,
+  "count": 3,
   "news": [
     {
-      "title": "HYPER Inc.收入明細 – TSE:3054",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpZlNJMGVuRHRtNldWWndyakFKQkw1amk5bmVKbnBVdlhZdW1SM0NRY1hHdm8zaG1kS01XMXJINFlZVEk4bmVnNW5KNFdXLXk4Q095bDc2Tk1VRllWRXB0dVcxbl84dzZxV3NZbFJQbmluQQ?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-15T21:08:48+00:00"
+      "title": "立萬利(3054) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQQVFxMGZoVmcxeHNQUmpaX3NSa2t4dWZJZTJ6V01KeHJuNnZORndnOE9GYXlUWEpGZlAwS0E0N21sSm42REttWlYtcndzaGRXTl93?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T09:03:09+00:00"
     },
     {
       "title": "立萬利 | 3054.TW 股價走勢與即時報價",
@@ -18,22 +18,10 @@
       "published_at": "2026-09-15T17:55:20+00:00"
     },
     {
-      "title": "立萬利 2026-09-15 法說會",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX3hWVHVqSmJvNWFfMHVxM0phX015WWc1RVdzVlo3c1FyTnV0Q2ZjOTlyeEpxSTJ5cVo5M0IweXRkbjQyTUpuSnRoS0ZocXFtUE55d0h2eHY3c2p0eHFibzVyTHdVQ0tjbjZSYm1JZXVCRkVNNWVDTnBEZGlLVWpnYnFzVUw?oc=5",
-      "source": "BigGo 財經",
-      "published_at": "2026-09-15T07:00:00+00:00"
-    },
-    {
       "title": "【2026/08月營收公告】立萬利(3054) 八月營收表現亮眼、呈現雙成長，創近2個月以來新高，年增75.61%",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN1Nqb1FwRDhQN3V4WUhPUFE1MUFzbHpsM1BSUFpvS3MzdXQ2cEhPUl9odnUyWF93b2VDT1R3bWFSOVZiamtYMzlaSlFISHc3bTJaYi02NmZONGlxZWF4dUZnMGVWeEdmeHVJdnA3bDYwTnc2TGdEWTdnSG5xbWJVYVA3V1pxMjlyM3c?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "立萬利(3054) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQQVFxMGZoVmcxeHNQUmpaX3NSa2t4dWZJZTJ6V01KeHJuNnZORndnOE9GYXlUWEpGZlAwS0E0N21sSm42REttWlYtcndzaGRXTl93?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-07T12:51:24+00:00"
     }
   ]
 }

@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-23T20:39:01.612849+08:00",
+  "updated_at": "2026-09-24T20:40:38.580469+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3095",
   "name": "及成",
-  "count": 1,
+  "count": 3,
   "news": [
+    {
+      "title": "【09/24 產業即時新聞】電子中游-NB與手機零組件族群漲幅居前，奇鋐與及成攜手點火散熱與機殼題材",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zOU5fVzlqZGVIcnRCcS1uakV3X2poOG45VW40OTlyN0xyVFlfSkxkWHU4MVNkbW5OblotbTBpUEhORlBNV1V2dUdSWkhZNWRpamd2Y2xWUTQ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T02:50:54+00:00"
+    },
     {
       "title": "【2026/08月營收公告】及成(3095) 八月營收年增7.63%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdk5FR3pmSDR0UEtocjJQMzF3Q21DZW5HbU15Nm93OXNGblNFdGYyRG9aQjczQWhKeW0teWZZcFl4UGxQa3VYelRSVERYWmFRQm8zWW0yblJCR1cwTWxlT2RpSDhkZFUtREpXNllvRjNJUVgyQzA5TDNOdnVjdjJWMkQyOWtwTWJxV1E?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
+      "title": "客戶需求穩及成今年營運拚轉盈- 日報",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UV2wzRlJ3cW5VeC1MWG9UUzlxOUZiQ0ZnYmVlelRqUGRvX2pnMkgxMllsYnRKVkdDOXA2Y0dVZmVzZ3ZIcUVMSFBqME1kUTJaSmFxQnNzWEFhc2tpaDZJ?oc=5",
+      "source": "工商時報",
+      "published_at": "2026-08-27T07:00:00+00:00"
     }
   ]
 }

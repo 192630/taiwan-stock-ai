@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-23T19:34:38.403003+08:00",
+  "updated_at": "2026-09-24T20:40:02.647463+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3013",
   "name": "晟銘電",
-  "count": 3,
+  "count": 5,
   "news": [
+    {
+      "title": "晟銘電(3013) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56NWZyOWlLeWwxTm9Yd09iUWVfZzVZYWpSdENfMHlHdExobkdHXy1PMllWOUZmcE9kam9mSjBJQzFVWVp0RG5iMzhac1lQeDVCaUJv?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T06:23:15+00:00"
+    },
     {
       "title": "晟銘電(3013) 轉折浮現，Sidecar增溫與ASIC放量預期能否撐起 2027？獲利關鍵看這個！",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DZ0NxdG82a3hVZGRCeUhIQTJDaVBya1hUdDhCZE51NjlVSWRNbTdscUVRNDlrU2ZmWGFPbThuY2ZtTVlNa2hDbnZ3TzV2NnM?oc=5",
@@ -12,9 +18,15 @@
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
+      "title": "【2026/08月營收公告】晟銘電(3013) 八月營收9.4億元，表現亮眼、呈現雙成長，創近3個月以來新高，年增16.38%",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdFBCelVJR0VXY09HZXZvZmEybXJzVVRHdjBzT3BPTENKc1NxTkU2WHZtZ285UVZxMmlTck9UYUwyMmJzaFgzOGQwbUNhY2o0OU5saENqaG9CbGFUdnU0ZWVfS2phUWFkM2RlNUdXeVd0Q2UtQVlMZFQ2a1l3MzRYUEg5ckZfME9LWWc?oc=5",
+      "source": "cmnews.com.tw",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
       "title": "【12:24 即時新聞】晟銘電(3013)股價勁揚至93.9元、漲幅7.19%，AI伺服器機櫃與水冷題材獲買盤承接＋月營收維持高檔帶動技術面轉強",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRk1oUFFSNzM2VUE2VlFUWjlpM2dseHRBWDU2eFhUcEg3SDVzV3M3TXNUUWw0WTVFM0dKaFM0QzJGMHFqaHlsQ2dEekt3bXhxamZRSzFJZnE1dlJnamY2X0ZVenp1Rl84UmtXNEthYmNlRnJobmMtMmlzemtuMEwzNEJZVHBkOGFSUG53dXpR?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-01T07:00:00+00:00"
     },
     {
