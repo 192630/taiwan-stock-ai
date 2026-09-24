@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-23T18:35:05.825807+08:00",
+  "updated_at": "2026-09-24T19:34:54.295979+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2753",
   "name": "八方雲集",
-  "count": 9,
+  "count": 6,
   "news": [
     {
       "title": "外帶專門店上路！八方雲集8月營收再寫新高 9月美德州開業助攻",
@@ -24,6 +24,12 @@
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
+      "title": "【2026/08月營收公告】八方雲集(2753) 八月營收8.2億元，表現亮眼、呈現雙成長，年增9.29%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQkFrUGQ5bllpREVMTFYwQUtUM2pfUTVEMTJUX2w4bGt2T0hnR0NfdGhlMmpUaU1rckUybkZrelNBQWdmQW05bWpLbFV2OU1pcG03Q3puRFh1ZmgzelVlRVlpNkp3XzJEdXZFUDNFbGpuVkQ0Z0xSTTdOM2pOWmJKUnFmbVZzTThYRXc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
       "title": "八方雲集：8月營收8.20億元創歷史新高 獲選外資精選「中堅潛力企業」",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBjYzJ2VDZJaXdwaXlVUmlySXNCQXVNb1l0ZXhJSUFUbS1FM3BXMUNCZzlXUjRReVJ3Q1RfNmJXa0ZjSTBCWTJlZGlRRQ?oc=5",
       "source": "三立新聞",
@@ -34,30 +40,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BODdmSENjeHlxZ2MzR3dTVjlfRjhkMl9qenlkcVBtMUhrUVN3bkM5dVBtczhmVFp4N0V1Y3I3QWNCb2ozbU5yYVlMYWd4VFRqRFA2djBHNmg?oc=5",
       "source": "cmoney.tw",
       "published_at": "2026-08-28T07:00:00+00:00"
-    },
-    {
-      "title": "八方雲集、梁社漢開純外帶店！TOGO店型專攻「這些地方」拚展店",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9OdDFHWjhfbjI4SGw2ZFhuOXRKT2I5dzFMeTkzSV9NYk9TT3hFa3RLNjBBMzgwUUhLVGlSQkE4a1FSWjU0X1FjWWJkajhBeEkz0gFWQVVfeXFMTlN3a1NsQ19wOWhUZFNOQmZGNUUyNDVOc3NTeDN6YnQxUGMzUG9tUU9NLUhmTFNURmVOY2pyZG5Md1FGbjVUN2s0dXBOWm5WcU1BbG5SaGc?oc=5",
-      "source": "聯合新聞網",
-      "published_at": "2026-08-25T07:00:00+00:00"
-    },
-    {
-      "title": "八方雲集靠外帶專門店戰術 獲利大爆發",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02Nk1mSnNnNDAzZE1odVQ4Umx0bDdMdmxXQUFFaWFwUTRoRFpvb1R3clBmY0xmSVlwMW5kdUkwRWVBNE1uaXlad3JuVzBwTWtYdGs3OWw3TGdOb01G0gFiQVVfeXFMTmhhS1RJdHRlRktLc2VyblhrOWIyak1hTE96WE9JVUllOGVlVzJvVkw2WENzeUNyVG1wTksxMXhDRU5CYUFqNzdSQzZMYkZNOE5najRpMXA1T2pCOHQ4S1djSnc?oc=5",
-      "source": "鏡週刊Mirror Media",
-      "published_at": "2026-08-25T07:00:00+00:00"
-    },
-    {
-      "title": "《觀光股》八方雲集多元展店雙品牌啟動TOGO外帶店布局- 上市櫃",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11X0kwVUlYS2JjYW1CUjVjMzdEX0kxZzRwZHowZGo2X014RmtMT3ZzcTZCVFJ0YUQ1U1BlTWJpTjlCcmJNeFNENjFpWndCRDlaNFZDWFhDcWNfNjl0MVh6eTBlWHk4SHBJb1E?oc=5",
-      "source": "旺得富理財網",
-      "published_at": "2026-08-25T07:00:00+00:00"
-    },
-    {
-      "title": "八方雲集看純外帶店成餐飲業新戰場 將以TOGO店插旗人流熱點",
-      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPaGhtMFozOG1pUkxKT3BDTldmbXFqT3NJOTRBUV9PY1dlSThJVHctM3VCZlNTVE1FY04zQ1kwZkxuS1NHWThiVDkwVlJDdUl0TUIwRU1qMmVEcWUyVzl1cnlteS16OVZFTkZ3OHY4cVFQSGpVNm5uZzFyU1hKd3BFZUNsZF9qZzJpbUxlSE9FaGNjdG5uLTIzdmdnWE5qa2NzWkhSRUhSM1VhdU5OZ28tMDNTcTE3VVNRZ0x4RGFQREp5UnRtbkprUWRaaU9SdFVqRktCZkpTYmx0U0ZiVjQ4TEx4ZzgyNl9JQ3g5QmUzQzZVLWRtMVdxWHdFYm1VeE9ZdFdlNVZrRmdtQTBtemZZWnFsM0NGNlZlS1lXSkUzQXBGXzR0dkpTamoxc29zdk01RVFYZmZlREJHTnc1ZXVKWmZHX0QxZlE0OVU5bUxxeERUdk1ERDlKeHBCUmdldnZ0X3NhdnV6UFRXamU2cTN4QnN1QjNMeHhTdlloNDNmbkJENE1zVG9TUVRxeXNnUQ?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-08-25T07:00:00+00:00"
     }
   ]
 }

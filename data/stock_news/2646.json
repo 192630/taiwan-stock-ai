@@ -1,10 +1,28 @@
 {
-  "updated_at": "2026-09-23T18:34:52.470619+08:00",
+  "updated_at": "2026-09-24T19:34:41.095629+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2646",
   "name": "星宇航空",
   "count": 12,
   "news": [
+    {
+      "title": "星宇航空與美國航空深化合作 正式啟動聯營航班擴大北美航網",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11NkNhd3AzdHFfOTBKdHJLMU5ORmMtMTlDZU5SVmlOWklOWHlrallITjRJTDh5VHRqY3d5TVkwWlJBMTU4UzU2NjV0QUg3T0QxdHhReWZIdks?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-23T15:11:20+00:00"
+    },
+    {
+      "title": "2646 星宇航空- 華航2航線攜手「文文WENWEN」推機上餐星宇長程線祭秋季限定- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5sekR5QTRhUHJKOUdNQ0Y4YVdzbmo3MV85dms2TlByUUtpT2ZWLXFtZ3R6TEUwRTRVbm9rbF9oSXVad2wzaXpPWXA2LW1mRlV2Z1pVdF81Um4?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-23T10:18:46+00:00"
+    },
+    {
+      "title": "星宇航空與美國航空啟動聯營航班 版圖直插北美逾20城",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xcExrRkhPaXpEbnVaSDRhVkRreDZ0c0hoeVI5cVlZUnNrX0Q4QlBWLXNPVlN6S2VNblQwYzVzQ01hNjdEVmkzN2pnU3BWRlcwM0ptcFdjUWk?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-23T09:18:42+00:00"
+    },
     {
       "title": "星宇航空擴大北美航網 宣布與美國航空啟動聯營航班 延伸北美內陸航點",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tM3g3Rlk5OHZkOGtSOENHLTc5NmVrWXNMZTl6Ump6U21CSFJoUnN5dlpCd2ZBSmdCY1pscHpPWF9BZEEwbWJzM2FkcFVaNWxhTmhJMV9xMlA?oc=5",
@@ -12,22 +30,16 @@
       "published_at": "2026-09-23T08:55:27+00:00"
     },
     {
-      "title": "星宇航空攜手美國航空聯營 延伸北美內陸航點",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82MWh0TFFubThleGhDcjhISU1TU09zaHJtY0F3QXNqV3RYUW1IdmdLN2V5d0V3RDJFbzljVmFsMnFFNDJYdzEtSV9MOTVmSm4zZ2MxaTJyLUs4VWxxU3pabFBUNlBjZmdPa193c1l1OGpPWUJCd0xj0gFfQVVfeXFMTmJyNy1QNUpMYzdOZkhwWGNyS1A0UlpYWnRjNG9DQnM1TlRKRWd0Wk5BY01KQzdDVzFvVEpFWFA4Z2otWXlfcXFhQkhvTmxkUXhYendGc0ZQSWlUS1llb3M?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-09-23T08:05:30+00:00"
-    },
-    {
-      "title": "星宇航空與美國航空啟動聯營航班 版圖直插北美逾20城",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wQllDcEU5RzBQZi1rYk8zWnZETXpueFI2bFZRUjc3bXE4ZkZQejJlZUVCVDM3MXhfWjY4OFBoT0lFM0h0Qng5Ny03YXdVa0QzRThHTmFCVndIcjF6N2dCUENTWG_SAWRBVV95cUxPcEJZQ3BFOUcwUGYta2JPM1p2RE16bnhSNmxWUVI3N21xOGZGUHoyZWVFQlQzNzF4X1o2ODhQaE9JRTNIdEJ4OTctN2F3VWtEM0U4R05hQlZ3SHIxejdnQlBDU1hv?oc=5",
-      "source": "自由財經",
-      "published_at": "2026-09-23T08:03:57+00:00"
-    },
-    {
       "title": "星宇航空擴大北美航網 與美國航空聯營 轉機內陸20個城市",
       "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxNU3J3a05TOGRBNERsd005Y29tUllhZ2ZfM25PNU1vVnNjMnJLXzlCYkFKVDBYamRYTVhreWhwVzJCRTlFdGRLOUh0aldQeEVLa0VCc2tiemxYX01EZ0RVbFlGSG5LTkEwYVNPNmxNWWpzVkFJVjJGODItTDBuZ3lXejlqanRXdnZCaUtJX29tM3dwV3hYbmw0aWU0WUJYWFRMWEl0cmtjeHQ1SGhndlhIZTNPMXJTWnZXVHJEN1hubXljeTNFbGF1dFZlNTNiU2J0SFJNU0hNSGxPd3dxZVk2UDFDU0lMaHZFcjNzYzR0N042SW5WcmpzTllPR0k5MXNOZWFJbjlJRElSbHhpcENRbjcwQTFINVprQzJYRl9YMndncDNxRDlIQWRmRURiOTVpQWg3bXN2ZEEtaE5PNjd5MG1yQkowaUpaU19EQmVSQ0hxMTNLa0Q3bDVqQU9zZUdPNWRtREVJWUVHQVJPSW1ELTM1azh6MUY3QWdYd0hTaV8?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-23T08:01:58+00:00"
+    },
+    {
+      "title": "星宇航空擴大北美航網便利性 宣佈與美國航空啟動聯營航班 延伸北美內陸航點",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDT1lQcWVTWE5zTE81ZWl6dXNyU3hBWUtGWE9nbFBLYmtNZE9ZdlR0eUMxLXU0ZDA4WUl5WlVQNGFLMTRWaE5peDRBWmFCRnlYVnhzWmxubGlhQQ?oc=5",
+      "source": "中央社 CNA",
+      "published_at": "2026-09-23T07:57:27+00:00"
     },
     {
       "title": "2646 星宇航空- 星宇攜手美國航空啟動聯營航班延伸北美內陸航點- 股市爆料同學會",
@@ -38,13 +50,19 @@
     {
       "title": "星宇航空第4季機上全新餐點 米其林一星《元紀．台灣菜》、仙台牛舌套餐、PRESS BUTTER SAND聯名新品接力登場",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JUVJNa1REVnZ5MWt4NTI2YTk5QlJONHFyQm5mOEJILTBLVHR2RVFMN0NWLXBrdlI1cGRVSDlneXhVbGphS1hib19DRFNLOVJwd3V1bDBzcV9wUQ?oc=5",
-      "source": "cna.com.tw",
+      "source": "中央社 CNA",
       "published_at": "2026-09-23T07:08:23+00:00"
+    },
+    {
+      "title": "星宇航空恐倒閉？流動性被過度擴張＋高油價抽乾，逼近銀行紅線",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1femRVTHlQa3RXYS1qYjN3SS10QVlWSWdQSWtDcUZmOUVrT0lBQ01VbUh1OWhaUGRnSVJxbXJxd2dTS1l5Q0ZtcFBrUWtZOHZuTDRXYVQxOWw?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-23T05:52:37+00:00"
     },
     {
       "title": "星宇航空攜米其林一星餐廳推秋冬機上餐| 生活",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBObFdoQ0Q2MGU2WTZjbmNzbER4VUwtV1NaSUhXekJtcVdjc0RpMW56T0hOZ0xJSk45LW5MWHJIWUJyMnM2MWQ4QmRVOHpSY2I1aUM4QkdPSDJpNUpENjNr?oc=5",
-      "source": "cna.com.tw",
+      "source": "中央社 CNA",
       "published_at": "2026-09-22T06:12:00+00:00"
     },
     {
@@ -54,28 +72,10 @@
       "published_at": "2026-09-22T05:51:25+00:00"
     },
     {
-      "title": "星宇航空第四季新餐 米其林、聯名口味上機",
-      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOZzJ5Y2lsMEhqU3EwbnN1dXBEYW1pLWZXLUV3b0t1bWxRSTNneFFQUGhDVEVoTC1YWi1EQW5CSHVTRjlzR1BfbkdabnRtYWtFMl9TekQ3YTFtWXhNdXFrOWdZWGNOZmFYLU5aOEhnS3pIenpzcHpOdFAwQWhHd1loNzQ5Q3VkT2tSNVI4Z0pUV1RYY2NmdTlwU0tIX0dHTHhLLVdVc0hCYzBoeHg2TDBMTV91ZlRxTW5BUzhUb3Zlcm5JMHJ1dVNCTE8xYWY1c0lzM0NNTTlGZ0ZNTDFuLXd4cTdZWUVFbGRtWWQxWk9Ub0pzM2lZNkMyZUlOb2I1Y0QyMkdoWmJWaERYZktpSkR6bXFGdVNkUWJCenZlWDZlaWtST2NuV1VSNFVkZHlFZw?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-22T03:31:27+00:00"
-    },
-    {
       "title": "星宇航空再獲國際最高肯定 蟬聯五星航空勇奪全球最整潔航空第一名",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGM0hMVmhBQVFSSGRfenRkWV9zelowaVhoaV9hVmJyZDgtOHVEbWlWS3dmak9Rd1RZUTNnZ3YyTWNEd0F1TUFHSXExSjZuWjZoSTNnUk9Pa0g?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-21T10:23:00+00:00"
-    },
-    {
-      "title": "2646 星宇航空- 到底是誰- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hVVBQRzFxTVp6QXRFS1BDd3k1U29tQVhiOFBhaF8yZGo0M2d5SXEtd3FIX0l2SnN0T3dMRHNUSjFlT2pNeEtQa2xmeGlaemxTN1E2TjlzeHg?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-21T00:05:07+00:00"
-    },
-    {
-      "title": "星宇航空連兩年摘SKYTRAX五星殊榮 再獲全球最清潔航空",
-      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNME1tSlJsVmphd3h3djE4REctOVFXMjdEVzd4LWVncWxzV0N0SVEzM0Y2NlA1bGxoUXBPZUxsX0RyZ1hCMG5xTWEyVjhmeEFET1lVWkVRQWUxQ2xiR0xxY3ZHaWljQzlrd0lMLXJMZHJTQU9LMmZjQnRmclZ1b1VYVERTWWhvMzVvc2xhd1B6WUJZWnBpUC1nVFB6Y3JtdXZ2VzRFRmJMZDY5Zno4aS1Ya2RDQXJHMFJxTXdWTi1aY0VlYTVqVHFwamVncERjQXpUVmpnRUlqWjRIX0lYT3QtQUJHMTNVbDUyVk5rUVp4Uy1NY0t4S2kzZV9KOXZlOC1MckVwS3M0aVdXMzdjSm53Q0JkbnNKdC14MzlDdzZhbkZNaF9hNV9nX1NBYmdBaXc3RG5aWEVZV1FRMlNIMU90Q09yTXU0Tkotcm1mOEZyM2JXZkpFMUNZem4tUUhTTTNy?oc=5",
-      "source": "商傳媒",
-      "published_at": "2026-09-19T03:48:05+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VenBoQ09Td282M3ZRRWZhN1FxUHBXVk9TZFVUVHNJcU9IcDJmeHd2ZW9tYnEzb1loN1NrMFd2ZnEtV01LUFRNcmVhWXI1Q2FvWDJjLWF1TEFqaThRV1h30gFkQVVfeXFMTkozblllNWJRd05Hc21WU0d4UURuN1F4SUtSRGVLVG16MGs1cGhBTHZBX0FpOExLZ1J6MTNpY0FGWVZhb1h5V2tJSERmNUdJQWE2YTZOSGMwRzlVOHY3cGtyTE84ZA?oc=5",
+      "source": "自由財經",
+      "published_at": "2026-09-22T01:23:15+00:00"
     }
   ]
 }

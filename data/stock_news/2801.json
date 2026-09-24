@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-23T18:35:08.368835+08:00",
+  "updated_at": "2026-09-24T19:34:56.895147+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2801",
   "name": "彰銀",
   "count": 12,
   "news": [
+    {
+      "title": "2801 彰銀- 彰銀國票金回檔完成- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Xd2YyaUMtdDJuYk5lLUJMd2tDZjQ1RHBpRU5IVS1OV1Q4S0sxWk1qRXlYaXRMa2FTZjNDd0ttenYzbWRva0QtQU52S0tLYTR5V0F2NEF4X1c?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-23T01:33:55+00:00"
+    },
     {
       "title": "2801 彰銀- 合併課稅問題- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QcGk4QUdSN0RralhqbXp3UkgwUTM5LWtzT2k0XzlWYUcxN3U0UF9YMkF0amF5bnVNRTB0YXVTNFBaVnBNcTZVbS1CbUtTaEF6RDBDWnVKMEI?oc=5",
@@ -28,6 +34,12 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oTkpyRGZqUGZIcXRWUnNoVm5sdGppS0hqSmVPN05FNE9wcG8teEx6ei1lRXN6bkpWQWtqYWpUNURRM2xtenBsNzdNM1Q0Y0RJWWYtaTlfdXI?oc=5",
       "source": "cmoney.tw",
       "published_at": "2026-09-20T09:00:41+00:00"
+    },
+    {
+      "title": "2801 彰銀- 重訊，小白兔鄭重聲明，你們繼續期待我這個反指標發威，綠光照頂- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUcko3dHFSR3h3WUdrSDNackxGTFA5ZWtfZ3ZVZGhhYTFkMS1VWnVaUEFpZTUzZUo5MmlkeFpxcFhYVTlmMzhZRDFOTUs4UkdfZnNyOURkbVM?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-19T06:02:21+00:00"
     },
     {
       "title": "2801 彰銀- 彰銀個人年底目標價35，評估股價31.5以下逢低拉回可買進！ - 股市爆料同學會",
@@ -64,18 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9CeklvaE45MW5LOEtYRUlaZE1XOVZ2QVdhRk1iR01DYTVQOW1aMmt1bjAzTGVOWHhlR3NIQ082WjhOcGd6dnEzd0taVnBwWTVDZU1lVGYyVXY?oc=5",
       "source": "cmoney.tw",
       "published_at": "2026-09-16T15:25:01+00:00"
-    },
-    {
-      "title": "2801 彰銀 - 彰銀一路往上，讚 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YQV9XaHpYLTR4aTlrakV0WUtDcGkwb09SZjRhZC1sazhQb0dEbFlXbTBOanJlWG41VTdiVURELW5rbElaN3lwOTJjeUpQczRJTmdTLWlNbEU?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-16T13:14:19+00:00"
-    },
-    {
-      "title": "2801 彰銀- 今天10月股票期才成交6口我有5口不知道要怎麼出哈- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PcGp3RmVUeGJTbVpTY3JWZVM1Wk0zeS1wU2Q5REhrZnBuZ0o4NmdrS1BMdDl1SmhVZm90d0hRb1VPNVZ4YjlheVllS3gwczhDYkYwbHlXWDE?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-16T04:40:37+00:00"
     }
   ]
 }

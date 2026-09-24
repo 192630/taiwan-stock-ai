@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-23T18:35:13.401612+08:00",
+  "updated_at": "2026-09-24T19:35:02.068288+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2850",
   "name": "新產",
-  "count": 9,
+  "count": 8,
   "news": [
     {
       "title": "新產(2850) 個股概覽 | 個股 - 股市",
@@ -52,12 +52,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9acVVOUVlScXJrdXhGREs1SnpmV21TSzlIMnRLQ1VvYXFBeUtxNDZ5NDF6Mk9OcHBHNkt2WnhxZUJjNkNXdENlTVJJWi1TLTJnUjdBYjZURTc?oc=5",
       "source": "cmoney.tw",
       "published_at": "2026-09-07T17:06:43+00:00"
-    },
-    {
-      "title": "6715 嘉基- 嘉基中壢新產線鎖定NPO，CPO明年拚放量- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xZFdoTW84NVJzc3hNNXJqVi1rWXNGMHRSRjhBYkhJdDV1SElyenlZc3YxSV8zOXR2WERUWHNkdEJkWFNjOUJjQ1FhUEd4dmZGSWtKcWJWTnk?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-07T04:49:00+00:00"
     }
   ]
 }

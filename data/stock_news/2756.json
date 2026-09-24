@@ -1,20 +1,14 @@
 {
-  "updated_at": "2026-09-23T18:35:07.279305+08:00",
+  "updated_at": "2026-09-24T19:34:55.780835+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2756",
   "name": "聯發國際",
-  "count": 2,
+  "count": 1,
   "news": [
-    {
-      "title": "聯發國際 公告本公司國內第二次無擔保轉換公司債收足債款",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BaEVFZF9PWEd0WGcyTXR1R3dUUEdkY2J6bUZRdUZLS3ZHbF83dHN6SUIzbW5oYW5Ta1dBMGxZalR1QnRYTUR3OE9qM1FrNjhlTm1WOTF3X2k?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-21T07:05:27+00:00"
-    },
     {
       "title": "投信：上週五(4日)投信賣超上櫃股票7億2756萬元",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOGVqYmFBSXJNUTM3WEFEUWRLOUMzQkJ0S1pQMl9QZUY0b05CN0ttdHJkb25tdFJZbGttcGY4aldGaG53eEZrR0YzTzRiOVpjTG03ZU9DakdVRi0yWGYwb1g4TklOakhoZG5KQ1JfcGw5TU5VMWR0NjR3VFA2LVp3NFBrRUd6WXNJ?oc=5",
-      "source": "富聯網",
+      "source": "ww2.money-link.com.tw",
       "published_at": "2026-09-07T07:00:00+00:00"
     }
   ]

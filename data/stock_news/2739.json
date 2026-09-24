@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-23T18:35:02.375061+08:00",
+  "updated_at": "2026-09-24T19:34:50.880234+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2739",
   "name": "寒舍",
-  "count": 5,
+  "count": 6,
   "news": [
+    {
+      "title": "寒舍艾美探索廚房攜手台北喜來登十二廚推潮港雙饗 海鮮控必須衝",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ld1FmSmFLWGlYeXBNZDBxZnY2dnhRVW13bU5FV0h3Qi1lQ2U0SHg4M2ZFaUpicmRMb1ZJOFdWVG1oR3RwX2VDdNIBTEFVX3lxTFAxSERpSnQxMGpRVzYyLXowVm5jWk1GcExRa0Z3cHBRaExET1RsN1A4VW9kS1NIZWkzUjJwcWN1empzOW83dEx2R0xqdG8?oc=5",
+      "source": "三立新聞",
+      "published_at": "2026-09-22T10:26:14+00:00"
+    },
     {
       "title": "【2026/08月營收公告】寒舍(2739) 八月營收4.14億元，表現亮眼、呈現雙成長，創近2個月以來新高，年增9.32%",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeXAtYklPTnYwLVd6d0lPbHI0ZUFZRmd4ZjBCcjd1dVZVUGVnbG9PNnNFOWU5MjFiQU5ucDJuSEVsYVNobVJYN3NLb0ZLLVZ5bW55UldqX1RnaE9pNUFvVkFnUnVLLXdySzJXVzFIdjN2dnpDd1JRQjR5ZjBYbHMxR21KZmlRb29fZmc?oc=5",
@@ -31,8 +37,8 @@
     },
     {
       "title": "寒舍法說會／寒舍艾美酒店平均房價上半年首度突破萬元 下半年看旺",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16aWRlaWowRTByRThZWWhJVFV2Y3I1QWlnVVlBSFRFZGdHMTVvS0RmaVpTdWpxWkZpaXloUFpPb1NPQzhhSXlOWXdJbjdpS0l0Ml9WUklCNkJ5d9IBX0FVX3lxTE9zbjdWWkFaMjlZWFU2MmZfVmpwTHh1emZfNXc5MmM4c3E5SHZzS1VaQ2VTUzBEWW93TUxLWkt0QXRrR3FLME05SWx0eFZ6Mm0tenJ6QWV2ejNua1JSX0Vv?oc=5",
-      "source": "經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE56aUYtUE45d1ExdXhMR3BMZFVXVGVtZnk0U0dDLW5oRDg1b29zdmhqekdzZ2xQUTM2ckZfdmI4bmVvUjJFQ1pBU0treTJOYU920gFWQVVfeXFMTXlKQW9tUjlyUUw5X2xFSGVSeDdYbGd0NnI5UF9OVkxoYmVUSXd4MzlMVklKcjJVQVhNTWRFcnhZNG5TSk5DVU1HWnZid3h1eThXTHJPdkE?oc=5",
+      "source": "UDN",
       "published_at": "2026-08-31T07:00:00+00:00"
     }
   ]

@@ -1,21 +1,15 @@
 {
-  "updated_at": "2026-09-23T18:34:54.417002+08:00",
+  "updated_at": "2026-09-24T19:34:43.015873+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2705",
   "name": "六福",
-  "count": 8,
+  "count": 7,
   "news": [
     {
       "title": "花17元買1股就能領！六福股東會紀品送千元樂園門票",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44ZjdTeWJRT09HS1g3dTQ2U2hFTVlhQTNzV2NsbHhOMmJ6X1duYUw4aVlob2E3cDdoS3Q5NDZETHViNFNWdG45R3lyaEhKeEktaXB5azYwT2c?oc=5",
       "source": "自由時報",
       "published_at": "2026-09-20T13:18:30+00:00"
-    },
-    {
-      "title": "汽油跨期2705/2902 (RB2705-RB2902) 期貨",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE85Mm9BMzAwbGJOZUlkLXR2UHdFaDh1c09lVHg0T3lwWmJ3OWpPc2pyblNqMDA1RjlMQnd0ejlyOUhjbllXUFVoZVZGU0lETXJsbUZBX1hOaGhQR2tVVmd2cVpmWTVvTmZEOXhQSWlNanVyQzFVWTFr?oc=5",
-      "source": "moomoo.com",
-      "published_at": "2026-09-19T18:15:39+00:00"
     },
     {
       "title": "六福總裁賴振融續任TAZA理事長 續推進動物福利標準",
@@ -50,7 +44,7 @@
     {
       "title": "六福於英國倫敦開新店 (18:39) - 20260914 - 即時財經新聞",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWVh3dmFWZGdWM25BUDRzV3BBRm5TcXBEQW85S0RuQllUQm1IT0VyT1RaSklxZ3Faa1AwWXNsTkVXak4yeVJOMVIwbk1LdHBrd2xaa0h2WmlpQlotaEtJUi1KWS1UdFNub0dGNlBsREpUNy01Q0pVNTEyRXE2UEcxckRKUEF4NkVPaUtiZnFYOXNGWjdwVFc1dEJDbjZ5QmtKVC16T2pUOWVIMlhpOFFjWnhQRHVhcHpxdWZqYXJTRVBNYlhxei1fLS1LOU05RkJrMFVac0twcnB0YnRjbHpGdy0xRElTak02MWc?oc=5",
-      "source": "明報財經網",
+      "source": "finance.mingpao.com",
       "published_at": "2026-09-14T07:00:00+00:00"
     }
   ]

@@ -1,21 +1,15 @@
 {
-  "updated_at": "2026-09-23T18:35:03.307952+08:00",
+  "updated_at": "2026-09-24T19:34:51.811377+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2743",
   "name": "山富",
-  "count": 2,
+  "count": 1,
   "news": [
     {
       "title": "山富9/30參加福邦證舉辦之法說會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB6Q2dSMFNkQW1mdlhzcjZQb1hvaTRTWUhXM2x0QnhDS0NCdnFtQmgyTFNUcW5rdlN4YWhXMWs2ODM2V3BRYm4wNXJFTjlFUkhiVDFOODFaMU4?oc=5",
       "source": "cmoney.tw",
       "published_at": "2026-09-22T11:12:30+00:00"
-    },
-    {
-      "title": "鳳凰、山富輸了！台灣最賺錢旅行社吸194億，遊客讚：行程豐富便宜、 領隊很專業",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xNkhSSHhFWHAzOXhmVEVuemFMUTBPWlNDckh0a29JeHExWC00ajZYNXEzNHZtYU1YajF6ajFDeUZBdHJlNVhKa0djWVNMM1VH?oc=5",
-      "source": "storm.mg",
-      "published_at": "2026-08-25T07:00:00+00:00"
     }
   ]
 }

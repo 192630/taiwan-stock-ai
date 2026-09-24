@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-23T18:35:11.874204+08:00",
+  "updated_at": "2026-09-24T19:35:00.479293+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2838",
   "name": "聯邦銀",
-  "count": 6,
+  "count": 5,
   "news": [
+    {
+      "title": "2838 聯邦銀 - . - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4a1kyTW5NOFhITUo5MWVDR0dOZGFGYkxDTHBHTDEzT0Y5UmFDc1lGdHBxTVFHWTY3TG5lMTFzMERsNmRSNE9uYjBZMmlMY242RzItX3BjcVc?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-24T05:07:56+00:00"
+    },
     {
       "title": "2838 聯邦銀 - 連買三天，等24 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zbm90YzhESmxyWjVDS19IVFRWZUphQ3JtbUg0VjZCYUJiNzNMQ0Y3OVYtVFV6SjB1YkkzamE4OEIxQVFidXpCVGJvdFdIZU9tVFhaNGlqR3c?oc=5",
@@ -12,22 +18,10 @@
       "published_at": "2026-09-22T02:12:21+00:00"
     },
     {
-      "title": "2838 聯邦銀 - 美國生技指數8月已創歷史新高，莫德納 「癌症疫苗」問世1天大... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52ZVd4X2ZJZTdCWno4bTNNN09VcU95ektnanhBOU5uOV9GNDVBRHJUYi0tOFJTcDdBQlc0a0FjX29zNy05V1QzMUhVVXZwYUJCV0RmUlUyUVg?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-16T12:33:19+00:00"
-    },
-    {
       "title": "【13:09 即時新聞】聯邦銀(2838)股價上漲至21.65元、漲幅2.85%，金融防禦買盤迴流＋外資與主力買盤同步偏多延續",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMDF4Q0hxLVJfTUpwR05FeThJMGZ2RnI5bjdJSW5qSmVZUTNieDFCaTNaYU03MFFqcU81Z0MwSVhpcWRYdW0tWExKUW9hcDJDdlNUZkJpeXJXdWNPRTdZSWhOcnFSaU1ETmVVRDJXeG1oVEpxRFJ4ZFdrZlZqcmRjZkxVTHhsRzJyTURfWjhB?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-14T07:00:00+00:00"
-    },
-    {
-      "title": "聯邦銀 115年8月營收20.27億、年增3.88%",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05WXlMTmhrblZha0Znbno0ZzlvYUFxUFh5QnNiRHZxTWdXR1NpRXpyQnhFWVA4a0twbThSM2hkUUJqSndMVk9WZEp5RVRoRGZWTUJxWTAtTWw?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-09T07:39:32+00:00"
     },
     {
       "title": "【13:09 即時新聞】聯邦銀(2838)股價上漲至21.35元，金融族群防禦買盤延續＋站穩短中期均線多頭結構",

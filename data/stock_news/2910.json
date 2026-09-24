@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-23T18:35:22.453135+08:00",
+  "updated_at": "2026-09-24T19:35:11.014360+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2910",
   "name": "統領",
-  "count": 3,
+  "count": 2,
   "news": [
     {
       "title": "銅跨期2808/2910 (HG2808-HG2910) 期貨",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1EY3RJTFVpVVlPYi0zaElwSktlRDc4bnlKLWF1Nm5zaldIME90NkpmMmg4UHU5OGkxczlRNThYNVBwNFRGb2w2TEY0ZGdfVTE4UE5wV3EyNnM3c2RyckZRNGh3?oc=5",
-      "source": "moomoo.com",
+      "source": "Moomoo",
       "published_at": "2026-09-21T18:50:11+00:00"
     },
     {
@@ -16,12 +16,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fWmJjcE5MYm9leW55Skt3UEp2a200aElpNl84NndHV0FnZWZjdjJLWGdDR1lDWjVHOERnaWE0eEdKR3lDMUFfdWJ2M3dEMUQxVlB5NzdSWHU?oc=5",
       "source": "cmoney.tw",
       "published_at": "2026-09-12T07:00:00+00:00"
-    },
-    {
-      "title": "【12:57 即時新聞】聯亞(3081)股價走強5.24%至2910，磷化銦缺貨與擴產題材推升評價＋技術面維持中期多頭結構",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbUFLelBOd0JXbU0zcEN6Umc0Zi03Z3hkUm1BLWlvcld0T1ZzQzNGWDN0QUhoRzNpQll1Z2lBWHo3ZHhSQzQwUDVBcGI4N0VjOXdZTlR2N2U3V3ZwbEhOZXVDeUl2eEdKdTNrTDVMaFZreVRIQ1Z2bXllV1AyRE5QemhFQnhXQVVIdXJ1MHlB?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-08-25T07:00:00+00:00"
     }
   ]
 }

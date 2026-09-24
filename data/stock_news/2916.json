@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-09-23T19:34:28.679739+08:00",
+  "updated_at": "2026-09-24T19:35:14.517630+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2916",
   "name": "滿心",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "資生堂千金懷第6胎滿心期待！產檢「找不到寶寶心跳」 崩潰自責：世界都靜止了",
+      "url": "https://news.google.com/rss/articles/CBMizgNBVV95cUxNdE9iYm41cGwtMXJyT1M2N05sOUVNcnNGSjV6aTE4dGVZdGEwMW1UNHFpaFZRRFkxZnV5eW5rY3VDY2htYVpNVmVhbkhkenFmMklHVnR5anMxUTlRSnVBR2lEX0dheXdKUW1lZUltcGFQRkVrX1ZGcmtDVEhha0tmZGRfV0M3MnlTV3AzeXBDaW5xWkxua01xTnJ2bzBhVEllYWs2N1FReFBzdEJpNzJiSUtmVW1STDdMNnZCVUsxZHM4VWtxNVhYcTFxVG50a3M5bEZ0dFVENVMtMzRick1VOE10T1lZSnhUUUJFTXd2QktsRWhiVE9GYkpTV2t6eUJtT09aay15UTVMN3hNQTFOMTNUd01DeFZTRVZvU0Iwcmp5ZXR3eUJjajRheFBESUlDS0U2ODJwZ3RMSGgzUFM5SkdQa041YjBCLS1NV1o4SEJhalZLM2wzdy0tWmptTjF0cUx0alIxYm9VRTdCRkdpbVVWaG1Pa1JHazBDbm1BeEt3SGhJTlFEelRWbExUbTJZWFZKTXJxZXE4dzNQM1RaMDNlUGlIMWNuT1Mxc0phb0ViNmhxdnZESUFhakg3N25CZHdZeUZrWEZyNEdRM2c?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-15T07:00:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】滿心(2916) 八月營收1.28億元，表現亮眼、呈現雙成長，創近2個月以來新高，年增2.35%",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMFZoUzFRMHJHbnVCaWpYQ2FWMUFSRnZCbVRXNVlwTi05ck1wYV9mb084UHFXN3ZNQVlnb0pEV0pfdTlNcTFNVTczUzVyU2hZNW9zMUJvbksxRHRKVHh5aXZoRDlRcDdoeEMyNHdFbXlqRG45YlRYU201SDByb2NwR2pNVjY5a3B3Y0E?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    }
+  ]
 }
