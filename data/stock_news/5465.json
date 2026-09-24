@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-24T02:37:10.920488+08:00",
+  "updated_at": "2026-09-25T04:35:55.258357+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5465",
   "name": "富驊",
-  "count": 8,
+  "count": 9,
   "news": [
+    {
+      "title": "【12:25 即時新聞】富驊(5465)盤中走強，高階伺服器與AI題材受關注",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRUVJWi1OQXFIVWtJOTFEOU1MTG1HOHVlTzN5Yi1tZUY5ZEdTQW5rOGVRSnJtTFdlSVAyV1E5TVhPUkNCQW16RGtLV2JCbS00V3ZldVhkaVZCeUxENnF5aDdidjdtcVB1WVhBMk8yUHpmNTJLb2QyaHV5ZkZLbklHYzd6MkVNNDNFWURscWZn?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-24T04:25:50+00:00"
+    },
+    {
+      "title": "《電週邊》注意股：富驊 近5日漲32.71%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd0FoNks0MGE0ZHl1b3o2NENFOVl5UFVXRWhPeVdVbHZ1Q0RkaUZ5QUh4Yk1RdU1ZZ09yVWo0dFpPcjZUUk1Mc1BMMUNTck91QzNiY1J2eENFcGVkbEVFQXpzckNUNzZubHJoUmQwb0VGZzNReGNKUHVraGJTRGhmWXoxRTNiMHlu?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-24T00:14:00+00:00"
+    },
     {
       "title": "【10:41 即時新聞】富驊(5465)股價走強，盤中聚焦主力買盤延續",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTENLUFZBOW5OdFpfM2VRdy1WQndLaVZHTExWc2RRelBaWE1JbjJMQ3VFZjQzb2lvZVAxZlRhWUFEMnZ4Y1VzQkVERHpYdlZhTGZidWFUMzlYdTJFQUZCRmdxYU1wSUoxNmlGd2RBLVFXODNIemdRWnZXb0VsUXlwci1ScmUtVDktN1FyakJ3?oc=5",
@@ -32,26 +44,20 @@
     {
       "title": "焦點股》富驊：AI伺服器展望正向 股價跳空漲停",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnOWFrU0lJYXprTDVaNUl1UHNYbkYtdHAzQXVIbVdkR0MzUnFmOTduWHBkYWJtb0t6cU9PbDhaalYyWUYwV2oxM3RmYnlBS0dmbGVhdkdYZWJ4c0lOUTFz0gFkQVVfeXFMUE4zdDQxNElRRS0tWWRENlBBemlDaTYwelkxN3ZodlltUUpBc1pZN19ndk1IaklJSjZ4ZS1LeUhFTnNoaDNrcndEc1RINjZPUTBmWGVkcXFtOTlvQnV4NkZpaGk0SA?oc=5",
-      "source": "ec.ltn.com.tw",
+      "source": "自由財經",
       "published_at": "2026-09-18T03:00:58+00:00"
-    },
-    {
-      "title": "電競機殼廠也搭上AI順風車 富驊搶進資料中心 明年營收拚增5成",
-      "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNaW5ZTEUzZzFwbkszRzJjWDhJQ0ZMSUhvZFFaa2UtelUyMUdkaXd0aE4wekVYRHV5NVNlUEJXS1ZsM0lxOHEtUG5mQ3BJLVg4VDhTTDFjRWUyT0pjUTJmdlFjNFVpdWV3Z2oyc2hUTEU5NjdBRENETHoyVGVNenhXZmx1OUIycXRNb0JQTnRGVW5YUzc3VGlMRU1xUERMcFIyalUwUEliUWtUSnpHb3JKZnVBSGk5YlhpN194Qm0teTl6amloakxaYkdBOE85VnhRbzFZcDQ1Qm1Ia0VoTFE3ZmI4d0ZaUW9aUmVLTXVfa2thZmNoZWJlLWNBNnJkY2NJN0VORUwweGw0V0tWb19iOVVqNDFaY1lpU3lRNTBlUXVDcmJCM1hGMC1lTHktelo5ZlFoWmZEa3NvZDRtTEo3VjZaMHdIRHRPVXFZUFZwbVNRb2RFb2l3dUFlLURLdmc2ZEhtcW5lOEoyTUhZN0tjblFXRDdwdDJ4ZFJZQm5tSDlWdENIaWZPbk8tc21Cb1FHQnc?oc=5",
-      "source": "tw.news.yahoo.com",
-      "published_at": "2026-09-17T12:16:00+00:00"
-    },
-    {
-      "title": "富驊HPC、1.6T交換器明年量產 AI儲存訂單看到2029年",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oSFBrb0I3cmE1OVN0WkpkNGtMUEMzUlRrZ1hMdnVRaDNYMEZBc0lTazI2NjYxd0VPNXZNcTNnSDZQYVByamFnVTJvaG40dkNRaVhCSEFSWE0?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-17T09:23:39+00:00"
     },
     {
       "title": "富驊AI及網通布局發酵、泰國廠明年加入投產 挹注營收獲利躍進",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQUldpa204ZXc3bW90MnJZTVIyVEhqYmcza0YzS196SHdyS2JxTzRYRnV3bjhzdjM5b3dURDdfQTU1am84RG83MDN3TDJfejg?oc=5",
       "source": "news.cnyes.com",
       "published_at": "2026-09-17T09:02:50+00:00"
+    },
+    {
+      "title": "富驊HPC、1.6T交換器明年量產 AI儲存訂單看到2029年",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDbm5RTV9ZNGVaaGhXR3JpdUFtb3VfQjZtck0wcTFjNTJjNV9wdmgwcUh5OXdHd0p6OUtqcmFHWHlWNy1JdTFxSnQ4T1ZISC03V2VTck9TWXJBQjlpTWtZ0gFkQVVfeXFMT2xsMXhtandudERubDFzcGNYNTRvY2NRRFJkSUxMZEdaYVM3WTlJbDI3RXV4d18wdDBRUGtqcU9WbkM5b1lTYWpORHR0RXVhN2NvOWozeUhKaU5Cdl9jaXZpcWFldQ?oc=5",
+      "source": "自由財經",
+      "published_at": "2026-09-17T07:15:45+00:00"
     }
   ]
 }

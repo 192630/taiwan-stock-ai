@@ -1,15 +1,33 @@
 {
-  "updated_at": "2026-09-24T02:37:14.598560+08:00",
+  "updated_at": "2026-09-25T04:35:58.719492+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5481",
   "name": "新華",
   "count": 12,
   "news": [
     {
+      "title": "新華傳媒：擬發行股份購買上海界面財聯社科技股份有限公司100%股權相關工作尚未完成",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95WXhGLXN2aGZrbDJHZDN3LXRMczcweV9YUG0xS1VUdFdaMnh6VHMtT3JEc2duOFBqOFNqd0FLMGI2YThIcTItSnFpLVFpejAtYlFwNEl5dHl0LV9lZ1FtRUpkNnNJZTAxNHFv?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-24T12:47:11+00:00"
+    },
+    {
+      "title": "上交所向5連板新華文軒下發監管工作函",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4OE5xeUcwejlvTFVQeDE2U2hqdVByM3JpV1lISExHRkh3VVRsZE5sR1VlbXg5LXRrcWpuenhRTGRqc2ZWRXNlU0MxS2dwRTVJZDY3ZlRfay1NMEw3WlNQRS1kMlFFSXFaWWo4?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-24T11:55:03+00:00"
+    },
+    {
       "title": "新華保險(01336.HK)獲摩根大通增持152.72萬股",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyUmVRTU9qeDJUMnplUVIwdk9PVlQzRm9xT2pWNjVQS2pPeTVKQ3lVY0lUM1R1V0JBYnh1cnItbTgzQmVRQTh2dEZRUTktcVRJNDl3cVc5V1NJcS03MDluYl9Wd0tnMFVabVE?oc=5",
       "source": "TradingView",
       "published_at": "2026-09-23T13:37:56+00:00"
+    },
+    {
+      "title": "新華(5481) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqZ01UbXBWaVVZMEpBdjFJTGVVbXBLRmRpdWNMdXFwTmNRc1NfNnlISk9TazVLMmpIczBMbVFxeTliQ2FiT0JsdnlJa3VVUG1ra3ln?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T03:55:18+00:00"
     },
     {
       "title": "新華文軒(00811)連續三個交易日收盤價漲幅偏離值累計超過20% 不存在應披露而未披露的重大信息作者智通財經",
@@ -32,7 +50,7 @@
     {
       "title": "山東新華製藥股份(00719) 海外監管公告-其他",
       "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPMGg4VXFHYzhEUG4wX1Q1SzNscThmRldrbGVWZHNRVVJuTWRKVzZrYkpsU2hxNHZaa1o4M18wR3M1OTN3ay1LSzJOQlAxTUpPbGJfalBWdlRoaVZ2TUd5dHRiS0VXYnBiSGN1cWtNMkE3TW5tb2FJaHE2NFZpenVzc05PaG52NWNpWGQxdTFnaDJmUzR2eTA2eS1jSUU1aThzVUl0bHZ6N1ZNallCV09jcF8tWjYxNUhUMXMza1QwWGRzMjdZVGJOZnB5WEVrMEtmc3NxUENpbjY3OTZWNUhCOHg0Q3VaVmJ0dGxXV3NCYWJhYW5sUmx4VV9NVEVkMzk1MkRFU0lqekxmOTB0RDBwV3FzSnpBZ0FDMlo4bV9RbEE4cUVvem5GOTdlRF9xb1Z3?oc=5",
-      "source": "信報網站",
+      "source": "hkej.com",
       "published_at": "2026-09-22T09:43:49+00:00"
     },
     {
@@ -58,24 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IbHhmdjlWNVRTSHZUZ3Iyc2gzdzUwb1JGamZIa3NEX1FCaFF3YXdiZGhYSHNzanJxU2VGczNjdERKdHpqaXJUQUhmT1huNWJ1aV95clZSeTVsMjdmUzE3bWVQNlN0Vm16R05YZ1NWMUw?oc=5",
       "source": "Investing.com 香港 - 股市報價& 財經新聞",
       "published_at": "2026-09-21T03:41:44+00:00"
-    },
-    {
-      "title": "新華製藥(000756.SZ)獲得左卡尼汀口服溶液藥品註冊證書 作者 智通財經",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8weURFU0oxdk5ucF9FdTdicklmQ2F1dnhENTZsN3ktdThhVUd5N1Q4b0RQYU1ZR3hkZ1hnTm81Qi1TanhHYW9aM2E3UWZXNGFkbThzT3VFRTVZZDQ3cVpRLW5OVFBaVE95SFRiUGFDN00?oc=5",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "published_at": "2026-09-20T09:19:40+00:00"
-    },
-    {
-      "title": "新華製藥(000756.SZ)獲得硫酸鎂鈉鉀口服用濃溶液藥品註冊證書 作者 智通財經",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RTzhKV2FwMjhfalFRRjhmaXAyQnZvQVlvaDFoUE1fdThtOFhVZGhvbEczcllnZVBPeDMxaUNMYm1mcjRGZ3lrb05zTXBxS3p3ZnMxMXR3TGc3dW5SaE94MkhtbWN2RDdYZnFFM3lpb2g?oc=5",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "published_at": "2026-09-20T09:19:29+00:00"
-    },
-    {
-      "title": "新華製藥(000756.SZ)子公司獲得鹽酸多奈哌齊口崩片藥品註冊證書 作者 智通財經",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FWHpINWFxSE9QdWc0UERBYmRMeW93YkJJblFzdGdUZ3N6bWIxcWNJSF9SRzRKVGs2M3R0dXk2dlBCZkNpNXhRbnV2dGdKNUpEWFNsYW1QbksyY3F0T29NWmdmX1VFX29YMUtfaFBCTzg?oc=5",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "published_at": "2026-09-20T09:19:26+00:00"
     }
   ]
 }

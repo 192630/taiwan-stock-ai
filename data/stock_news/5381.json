@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-24T02:37:00.012205+08:00",
+  "updated_at": "2026-09-25T04:35:44.952102+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5381",
   "name": "光譜",
-  "count": 2,
+  "count": 3,
   "news": [
     {
       "title": "報告：預計中國多光譜AI市場規模2030年將達到794億元",
@@ -16,6 +16,12 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qcWVZMDBKLW90VVJ1WjFvVi05S3V0Z0kweFhySWwtTy1QNDdPQUY3Tk02RzFpVExlTGhsNS11Z2g5NjhvbUJvb0hjRXIzRUthRWhEeUNvMXU?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-22T10:07:33+00:00"
+    },
+    {
+      "title": "港股異動| 海清智元(01392)漲超17% 多光譜AI邁入規模化放量期沙利文點名全鏈路交付能力作者智通財經",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PQzZqZEVMdHlGNEJNek1ncXdCSTZhaFdfeGttSzU4SWFvLTRyWWpOS0c2WGs3VkFTaGl1XzU0WnR6S3ctWS1uQ1pYMDFQWGFka2lvX21BVVVDUWR3S3hIdThvOUtFVm5mRWVOalAxa2k?oc=5",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "published_at": "2026-09-16T03:41:05+00:00"
     }
   ]
 }

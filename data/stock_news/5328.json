@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-09-24T02:36:54.095114+08:00",
+  "updated_at": "2026-09-25T04:35:39.219547+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5328",
   "name": "華容",
-  "count": 5,
+  "count": 4,
   "news": [
     {
-      "title": "【09/15 申報轉讓】華容(5328)法人董事代表人吳春發將於09/18申報轉讓華容股票1,200張-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS280Qmw0cFdNcTdfYWp2OWFLRkEzSDVCdldkNDBhOFRCUk84cUg2SXFiN1dQaEUxQkRBZ2ltd045bmplS1hNMk1JVmVaSDNMeGFIVzRYNy1UcEFuaEp2LU9GRFh5eEJ6dHNFeTQ5X1ViSnJaTXBIenV1ZDdGTHNRRWpmallERnI0NVE?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-15T13:10:07+00:00"
+      "title": "【09/15 申報轉讓】華容(5328)法人董事代表人吳春發將於09/18申報轉讓華容股票1,200張",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZbkY0bXpIeDY3SDlHS192WC1IOTh6Qi1jaVNYR2p4RGRFeWZyUUpwSEp2YXY0Q1ZIb0Mzd05pYUdFUnhiRzd0THFlbXhGNlhUZWRnQV9LM3FMT3FzaG96WEd2VFluSDA?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-15T13:10:03+00:00"
     },
     {
       "title": "台股下跌774點！ 信昌電逆勢漲5%、華容也衝高",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qM0tCN1FwdzFkLXlNWlBrd01oM2ItYnFfOWM1ejRsZWxZY053WE82dkgtSWFsUVg2RlVnd1VtUHhWTDB1UG9GRk1ZeXFUOWx6eWtjSHpKcw?oc=5",
-      "source": "news.ebc.net.tw",
+      "source": "東森新聞",
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
@@ -28,12 +28,6 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaElDeHNpVnR2OXRHTlZCelFRbXEyNHNuWXNTQWVtOFRZRlVlUUwwYndqY1pka3ZZT2h2MTN5UjlzRGl1ZmdyWDhFTGlmdUdRalJyazFNQ1hkbTJWc3AtZ1o1RkZxQmR6am9MVHZCMHgwVjlrOS1JQlNFbkY0NUNZWU1TeGpzdmFKMUE?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "華容:更正本公司115年5月及6月關係人交易自結申報資訊",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIa1JSa0lRdjBoQmRlalkxVFU1bkFfWEp0dkZqS2k5RUI3RFNxREtYdGlhUWtFeEtoRi1JUWppd2c4TjJaRzA4YUdRaXIzTEU?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-08-31T07:00:00+00:00"
     }
   ]
 }

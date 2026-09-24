@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-24T03:33:35.650110+08:00",
+  "updated_at": "2026-09-25T04:36:06.271053+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5519",
   "name": "隆大",
-  "count": 2,
+  "count": 3,
   "news": [
+    {
+      "title": "隆大 2026-09-24 法說會",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ0REZldqSkIzUDA3YXRVN1lJdnJYLWRWQ2JLdWtDYWdXc0ROb09NUTd5U2dmTnBMYklGekFBLWhWaTdGUXhiSU9SbnN6S3g4QS1fVldaSzBZN3JWc3gwLU5vS2ZSTjBJUDRnNmhSVXBxVHBZZ2RnNkttdmk5V1gxUE5aUFg?oc=5",
+      "source": "BigGo 財經",
+      "published_at": "2026-09-24T12:51:13+00:00"
+    },
     {
       "title": "隆大(5519) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PSmhWMHZVbGhZRWtTUF9uVzZ4Sy1XYzlsX21CaU1PN2kybk0zX2xIS2F4RFZodkxia3lDVnRLU1dWa3NnT2RNSmNXV2dYb2wzSDh3?oc=5",

@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-24T02:36:55.094172+08:00",
+  "updated_at": "2026-09-25T04:35:40.257838+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5344",
   "name": "立衛",
-  "count": 3,
+  "count": 4,
   "news": [
+    {
+      "title": "Vate Technology Co., Ltd.收入明細 – TPEX:5344",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LQS1ndG5zVDVQbUxaWVBxcEd5X1NSTWk2MWl4TTFvUVA4ckNqVHdGM0FvT01mNVlGU1I4LURNLVF2LU1PMEs1eVREZGNEZnM3TXlrWnkzSEQ4cXdTMUx3NWxYb0F5aTk5RkZsWmpubzN1Yk0?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-22T00:10:44+00:00"
+    },
     {
       "title": "投信：上週五(18日)投信買超上市股票81億5344萬元",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZGFIcWxWS1lGZXJHTUR2cXVrY3NhN0RVVktZaTl4ZlM3RFVjNTlYNmFBM1QyN25yUk5LOXRXdmtxLVo5d3BDQVRSNXM0dDNYcTZHNlZjaGdPdWJ4djlHaWktcWczTExld0JtYllYVjA0ZTdRamRGWkd0aE1Sekc0YnBLUEpLYkJ5?oc=5",

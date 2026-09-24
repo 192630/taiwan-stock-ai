@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-24T02:37:10.296949+08:00",
+  "updated_at": "2026-09-25T04:35:54.736996+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5464",
   "name": "霖宏",
-  "count": 4,
+  "count": 5,
   "news": [
     {
       "title": "【10:58 即時新聞】霖宏(5464)盤中走強逼近九成關卡，法人連三日賣超下續戰",
@@ -28,6 +28,12 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5IZlQzemEtaVFMRmtKQWJWb2V1VEVycDc3LURUMWdMa0dEMll5bXhQQUdreG5oWVBmeC04OFdPSmxHTjdVeVhfQml0Y1oyNmhWd0p3SmpZOTA?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】霖宏(5464) 八月營收營收月減年增，全年營運續看向上-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZGxrYWxvSkNqWTN1THEyelhJSXJpbjJ0M2RXOWZHV2tnQ01IckdVaF8wVl9QbC1oWk1Yb1hfQUJzNkJyMUZBcFgxY3otZlVYcGZlbVVqb2VoZDBBU1FOV0VsZXlXUVN0QWhKZXBlenU5Ul9NWG1oNjVIcjVOT0xnbDFOM1dFOW5udGc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]
 }

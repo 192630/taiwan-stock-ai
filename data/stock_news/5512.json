@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-24T03:33:33.185493+08:00",
+  "updated_at": "2026-09-25T04:36:04.320424+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5512",
   "name": "力麒",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "力麒(5512) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sZ0tudE9fYmFTcVM2M0JtaFBPT25faTZIVmthQlhzdDNneHkxemJialV5QkVKQ1hBQ1BnT3ZLR19LVG5GLS1BUnRGaGVoclV2eG5R?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T14:17:20+00:00"
+    }
+  ]
 }

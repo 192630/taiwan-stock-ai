@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-24T03:33:37.491603+08:00",
+  "updated_at": "2026-09-25T04:36:07.799293+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5522",
   "name": "遠雄",
   "count": 12,
   "news": [
+    {
+      "title": "臺中設計週選材交流會移師「遠雄樂元」11家材料品牌串聯設計、建設與產業需求 | 勁報",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hY1BqVkJUcFhWa2F4S0wwX1VFUHIwal9selkwT2VMWWRBMXZvN3JUNUFrS0pwdmhDMW4xQ19xQ2FYT3Vmd1lYbm1pcXpNalpyendROWV3?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-24T08:26:10+00:00"
+    },
     {
       "title": "古典風裝修 24坪 1房2廳 90萬 台南市 遠雄建設│新源邸（13/20） 裝修案例效果圖",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmdU54bkdqdzBPUkZRc3FXa2MwUVlRZjNOZ1BoREJBQmw1TUQ1V2hNeWhOVVpsbG5iM0E4ZWZmTU84bGlnTjVaenNGbDRtMXM0T1JGWEFR?oc=5",
@@ -12,10 +18,10 @@
       "published_at": "2026-09-22T22:23:38+00:00"
     },
     {
-      "title": "市政北七路行情燙遠雄琉蘊熱銷- 日報",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mcGREU2VDSEtES3J2aUtQc0ZUOGVUOUZhcVZQR0k0VUJia3pISnpFSlRmbnhvMTNaX3EtdFljN1pTYmdRSjV4YXRPUEFfYk1Xc0dsWmN5c3RYOFg5cWt3?oc=5",
-      "source": "工商時報",
-      "published_at": "2026-09-22T19:00:00+00:00"
+      "title": "市政北七路行情燙遠雄琉蘊熱銷- 產業特刊- 工商時報",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UeGNfRmpCLVdVRXhtVnpBS250Nk9uSXBabkdqa0xQZXlmYXFPd1ptVjA0LVZUUTVBalp3bUR5QUNjN3p0QjBVaFBzTHRtdFdERDFSUVh0aEg2WkdnOWhOdnZYMHZUWFBwVnhB?oc=5",
+      "source": "中時新聞網",
+      "published_at": "2026-09-22T20:10:00+00:00"
     },
     {
       "title": "混搭風裝修 32坪 2房2廳2衛 51萬 台南市 遠雄建設｜遠雄安南町（7/14） 裝修案例效果圖",
@@ -60,22 +66,16 @@
       "published_at": "2026-09-20T00:04:03+00:00"
     },
     {
-      "title": "遠雄(5522) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JTmJZdmtEUGFmMXVYTTdDZGtscUROSkRUWGdqc2k4LXllVTFnMlFsME11NzJRQzV5Wl91UlVjTjdoNUU2NnBKUzJkNkJrdU9KWkFJ?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-19T05:32:05+00:00"
-    },
-    {
-      "title": "遠雄明玥揭露135筆，亮眼銷售口碑攜手雙藝術家策展「好好生活」",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qY0NoajdUU05kcWhQYkxfRUs0NVMyU1ZDd25EZkFwV0Q1RHdUbHVCQlNxTm0zdE5pbElJcmY0QjU0cFNEZFVlZXRjUzFqY1V2dlE?oc=5",
-      "source": "蕃新聞",
-      "published_at": "2026-09-17T00:30:00+00:00"
-    },
-    {
       "title": "遠雄建設首度公開品牌影片！「美好共生」化為數位新敘事 全新官網同步上線｜熱門話題",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PeWF3dEpVUEo2ZEFRSUl6VVh6d1d5OVl3WWxOUmpTSUhWaFBrUUtzS3Y4VEZKSkpkVnNuZFA3Q2o3Tm04eU15UDhDSGVRdG1lY29F?oc=5",
       "source": "網路溫度計 DailyView",
-      "published_at": "2026-09-16T00:00:00+00:00"
+      "published_at": "2026-09-16T07:00:00+00:00"
+    },
+    {
+      "title": "遠雄明玥2000坪只蓋一棟，優越產品力衝出6成5銷售口碑",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1EX3RkNGNUSTh4VmZSQ0EtUHV5bUdjOXB3V1daUlppTi1kRWhiTjdDYWI3V1hjTks1bUlvMGJUc1BZNjRqWVI3dmRjRkFtNnFVcXJFZTlyRU13S21wVVNXNVhWLWNkRjhNalM4XzA0NA?oc=5",
+      "source": "理財周刊",
+      "published_at": "2026-09-16T02:49:50+00:00"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-24T03:33:36.216929+08:00",
+  "updated_at": "2026-09-25T04:36:06.748858+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5520",
   "name": "力泰",
-  "count": 3,
+  "count": 4,
   "news": [
     {
       "title": "力泰 2026-09-17 法說會",
@@ -16,6 +16,12 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3UTlFVjBmY3hZT0E3aXFhdWFLZlBKQUpSUTRuZTA3LXhsdkVVaEgwQVpDdlg4SmpkeDQ3ckpOMENvcW5pM3MzUGRFemh2bndMYzJ5a1BIOXJzUzZMMVREVld1M2tPQQ?oc=5",
       "source": "BigGo 財經",
       "published_at": "2026-09-18T02:24:00+00:00"
+    },
+    {
+      "title": "【力泰法說會重點內容備忘錄】未來展望趨勢 20260917",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Wc295MF9vQWJrc2NFb2ZqdkJPakNZb1BKZXlmd0w1YnV2NTdDYlljNlU0ZEdvc3kxN1Rocjd6cVFCaTN0cDZSRVg1R3ZleVJDRXFFZzdkQ2x2QTZ5UnF6bTRBT3dUOGM?oc=5",
+      "source": "富果直送",
+      "published_at": "2026-09-17T00:00:00+00:00"
     },
     {
       "title": "【2026/08月營收公告】力泰(5520) 八月營收3.78億元，表現亮眼、呈現雙成長，創近13個月以來新高，年增3.12%",

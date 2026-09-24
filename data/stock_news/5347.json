@@ -1,14 +1,44 @@
 {
-  "updated_at": "2026-09-24T02:36:56.373265+08:00",
+  "updated_at": "2026-09-25T04:35:41.457318+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5347",
   "name": "世界",
   "count": 12,
   "news": [
     {
+      "title": "【即時新聞】高盛ActiveBeta世界股票ETF(GSWO)宣布最新配息！每股將發放0.2039美元季度股息",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWkJ5VHdEQkFJdDZlTE9Fb3k1LVpQWEJjUl9wdTZUZW1QOFk3eG5mNGNVc2djSzI1LWcwWU1DRG1GSEpjeS1Cc090Nk40WEgyNDhpNzFRZnNENk9zeHQ4X3p3MngzQjhTOG9PeGZXYUZQZjNZYkpwUEtmOTk0Q2NVU1RHWDVQSWVuN2w0MWNvd1c?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-24T18:35:56+00:00"
+    },
+    {
+      "title": "名古屋亞運》日本17歲怪物新人奪金！大橋信刷新200公尺蛙式世界紀錄",
+      "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxNdkl5d2hQM3g1YTY4QmNfVF9jYVJjaTVOSURtd1dXZnoyVWs3bXE1UTJWMnoyQUZBV1Q0Sno5TEtfcHhxbC0zc3NITFFZU2JIbW10V1lXRHBnS2hZSENkaWI4WFctR0F1a3Atc0dRYmswNXg5M0pHUUNVdl94Y3Rra0J5Sjg2M0EzcWtjcjNmTjVJaUk3ZWpjbGhqLUo5azEyc01JbDNEQ3FHczZEX211X1NiOVZ6aXdmWGNGbkRzT1FGSDJaM2g3WlVjNmRnMjhZeHdmM3RYV1czUk9xUFZXQnpudUpfWWlxV3hsUDFzMnV4S2dySDdQd2xkTXo2MkY5Tml2bzMwYjJOUllnYS1OUmNIT3QzbjhJM1lDemYtLVhEaDF2OG5zZ0F1WS1ILVMtTW5PNE94NFpUTWxtQTFmRDRYZWpzZTJhNjVmTGxrZUdNZDBsbHBxRmw4T182SDF0ZHJwN1ZFMjlUZnFmdm1xcW1mT21PWEh3UUdNZEEwUDNTUGtDdE9HNTJwLTloZEdJanQ3NnVUQVRjelctN0FGRg?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-24T12:50:00+00:00"
+    },
+    {
+      "title": "《魔獸世界：永恆》團隊談論新地圖設計理念，誓言呈獻一種熟悉又陌生的「曼德拉效應」",
+      "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPOXR5cXh6VUItY0phaTZnQ2xxNFhYc2VLWm1JR2JrYzhFaFVXd3d4Y0xFYXY1SFViQUNOU010dU5xa3NscWoyLUJodFQxYnUwV1lUQ0hQNnBCclVGNm83V28xTzRTbEpnbi1BVlI3S0dLVC1uQ0NzNHk2RHlsYjRPYjFyZ2dHa2p1S1U2ci1RQl9sYk5nZFZVVG9sZ2RiemZSa29XZGlMcFJPaThmZGJUMDBPQl9mSVMzbk5HM2gweEFlRU56VDhxcXpYVkpBRjI5TW5wZ2g0SnZtem01M21md0FWdmlsWXAyOVphYTFzUXB4a0o4dko0RWlHelFDaFZidl9TdjFkejhyRUFNRDl5NTlDRWRMSjM2Wnl1WkFoYXNoTmhkLVZEbDN3VnZ6b1drSktKaVd3amxlUTNCTENNOGJyUnNIRk01bkFTZllIS3pqd3VzclNmSVlfc2JPWURoQjVHb3hvb2Npai1oS1huQV9xMHJDRzlPdGZIMl9JdkQ5TjFVbHk1MUFyS3BJTzNMbTZFY1NWQ2FfamwzZEJCMGVNakI4SGVt?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-24T12:00:00+00:00"
+    },
+    {
+      "title": "感謝友邦為台發聲 賴清德：台灣將持續走向世界",
+      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQemtLSV9PeXNOdkZid25tZTU0TDBUbkkxWnRjTER5SFpTSnptQWt6Q0NZbkxPeE5uc3VNUlpBMzN6RHh5Z3JISEJ4ajFhb1FKZzRHTy1XWmNvclZaakV4NWZ5b3VKZzdyRnYySlQzWXFQb2FHN3dETzZNaFBqMVpxRkZEMGdac1dFaWJnSnN3T2dHSVo0MWhWRy11cV9mYzYzbm1xRzRwcHRSdmdpTUJQUjEwUG8wcTdhVlVpeHBoX2tFcnpYR0FDbHVqMWJZdzZlQXJBaUlmMTNXVk5KMFdhS2wxcEQwNDlZYkd0dC1US3UyenlfMmpmLWpQejBXRDJDcTdPNl9rSm5WWWdvRHo2RUE5Q3kzd1plZUZYdnVyUVM3V0pfVE1VdVlIMDA0eFFkY3JCUHhiTXgyNXgwOC1XZlJVempnQQ?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-24T07:37:21+00:00"
+    },
+    {
+      "title": "現實世界變成「地球Online」？有人把全球新聞做成遊戲更新公告 還分Buff、Nerf",
+      "url": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxNRlRBT0F2clNqN0htemNWWWVhMl95VkdxaWhySnlVZy1sTVZRWmpGNkZGbWdXN0czeXd1dk1kSFdPX2hpZ3VRT2Rnc1BRTGxoUll1N2YtLVk0ak4zSnM5SE10d3pTMVVqbXhRSFRZaTFJczBoajlvZk9BRmtqYW9teUh1Tm1vVmdQdlFDX0hEM3MybmF2Szl2Nlo0YkFaN1hBdDMyb3ZXNTNZek41TWI0dEU0U1VKejdqaVhOaHpNenhBMzFiaXVYNU5acWUzMmZVTF9BcVBvbkNZeU5DTTRWa0VtSGZsRDR2bERwT0NkUzRnbjVFWnc5aWQ4a3pPOGxVazA4XzZyRlhmd0JIYXNXZVg0Y3VGQ2daM09KbUdnLU1ZZkdCMnk2Y1JUM3NnWGV4QzcwWElzR0tPbFUyVXhXNzROV3EtU2hwWnByU01GdEdrNFpzQnhjTnI0aU5PN1NlS3hGbGpCcmIxVUhGRlB4Y0VZU3hJemtuV3IzR0RYalRjN2lsZ0pZT0huSl9HT1UxU1dTQzV6OXdLQldOWVVpR2RSTTBmbm1CeFJvWm8xNGtISDR5TGJWTUVOWHVDSzQwZ2o4?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-24T05:21:51+00:00"
+    },
+    {
       "title": "貝萊德世界股票ETF持股增減多少？",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdUZUMk1PSVNmTW5TUXRGeGJNZTlpN2I1cnVDSTZVM0t6OE91dk5PYUxXeFlYMDdqU2xqQXBKSm9YVEFpZGJiQkZNcHZuamVlcG5QbWF4ZzhiZWlKVnRSU3llY2lHVnhUZ1dTazQzS3NxcEgzY0Y1TkhuZ3ZYRHJpTHUzc1U2YjNjRW0tWUFCMUo4VURmaFdVcHpn?oc=5",
-      "source": "UDN",
+      "source": "udn.com",
       "published_at": "2026-09-23T15:04:32+00:00"
     },
     {
@@ -20,7 +50,7 @@
     {
       "title": "台灣太猛了！台股市值衝世界第4 全球股市排名一次看",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UQ3UwWUNtRXhJQWNRclBhZ3FONVRxak94aS1RSjRnbjh0TmlhVGktTUZDUWFKeVpPcS0xY1FOcHQ2WlZlenBPNGNuZFNCc2IwWV9tZC05OERudF9HNl9J0gFkQVVfeXFMT1BPOUM1RjZwRUtNTUtaU0FjWkhjeVYyc0w5WEdkSE5PYWlEdzJwSS1JbFFPWWI0QkJvekVfcUJWSExLOXdaMW1HakJWMU5ReHZPRTA5cmF3NGZ3M29tT1JpZ2pvbg?oc=5",
-      "source": "ec.ltn.com.tw",
+      "source": "自由財經",
       "published_at": "2026-09-23T03:27:25+00:00"
     },
     {
@@ -46,36 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQdjBGTE1tRGlRVUVzVW91djBoT3BaOF82R05ob0txcU1ZNnREYWtkYXVQN0xmUkp6bDVBZ0VxeDA5VlRiYlZqY2lZbGowQlNFRmpDVm4wTDVmdURnckFHUk9XdnFXUDBpc25MV2RQdWJoajAxRk9GQldYanhLdEI5dGw4NzAwUkhPank0a1NQM2FLOW1wOWdMN0d2VG11OUtIQjJUdDBQMTFkYzN2X1poWGdqU1BwOUw1dE5GclFXSENDaGdMdW9ybmpINlFScEpTeTRMTFlwSG9QazVkMzVqQjk1M3ltQVhRQUJjQlVCOHFpWFlJV0JRZDNWYVhGYmRqbjl5ZjQtbjZPTHlZeU5JVms1WUFqajhUbDlQeHRYeVVSbWdyeEFMcG1LSnE3S29QMTI3ZmZ0b0RSdEVhellEUExSWTJCNVlTR0FVVVFfS1dsajBFaTJVdDUxaXA1eU9lUmEtQklVNA?oc=5",
       "source": "Yahoo 財經",
       "published_at": "2026-09-21T02:12:19+00:00"
-    },
-    {
-      "title": "黃仁勳掛保證「AI不會毀滅世界」！台積電噴15元 分析師：月線可撿寶",
-      "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxOamV1cE03NHhNa0d2bnhHRElsTS12c0dOak5IcExLaGJYXzlLUWhRTmxHRVo3a0o3US1RVkJTTHV4U05Xak1mQUJwT09zbWpXb19ZUFM5Q1AtWnVfWUhETGNvY2xuaWotdXZPU2dmYmxBaVpaWTJZcENjWWR1cXBWRTVRQXZ1VWJOQ3ZKUGlwcnhJbDZoS1NqTmJ0SG9xcnd3MnBZbnN3YkRTMTFwVmhpdnFZcEhCc3ZBU2ptRUxDbWxXSHBjdUxHalU4NWlobDlNOGlFRENXWEM2aG1UMWJGREptdHpRcGhvS3U4aWlGWUxXdmtISXFmSG0tLXJuVHI2MHd4ajRjWVlockRhMDdKRk4wZ2tCQzVBZmhoNjV1NXo1X091ZUppaTdaWHdYTl9iZFdUcTFnX1l2TFE0X0k3c0otbkFuYmd5dEJxNVVvZVI3dlpzM3NsUlJET3JvdEgxbnhHZUdKVTlzbVh2ZWJtNkpJcjlGWkM1eXZLOGQwQnhnNTlaRGE5bFI1c2pSQVBfUWJ0ZW9nb3VWN0VtMjJtWGJRSnBEdUhDNDcwVkc1WVBjaFBZQ0xZVGY5M2Ewdw?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-21T01:24:47+00:00"
-    },
-    {
-      "title": "新世界發展(00017)建議分拆及證券投資基金於上交所上市",
-      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxNbVF6ZF9DQnZSNEtSOE1vbjNiR2YwT2o5T0tYRkZiTDV2dDVxZTZ1ekpHc2pxZkNfZ0xqOVNjQXl6YW5vOHZ1djEtQ092OUw1VWhUZm5ZbEg0QnpxSTYtQS1uNU40SFAwM0JzYnlwcHNyV0ZpMUhpczYyX0ZuMXlzNnNqaUVPcDdTdl9UNE92Vi1NcmdYUzlpaTNiLXNsUDF4bjMyTW1DLVF0eWVZeXNLdVg3RU9MLUdTNFk1bzVLR3BRM1g4LTFwWGFtN1U5YVN2Y0ItQnRxc1ZSSmpWREk2WUkwYUFQVk85MTltamdjNE15S0NLNG1OSm5PSUM2dGo0R1JFNnNLMTNHSDZUQk5EbUVhNHRTM2JmX29VdjQ1WUZPWlZmcVNreEFWSURER0U4dEo0YWRaSUp0NkcxX0RNSXFnR3hXYzd2YU1aMWpwRC0teXk1SGIxZFIyWVRCMGIwNFptSEJKOVJrNDI3cXdj?oc=5",
-      "source": "Yahoo 財經",
-      "published_at": "2026-09-17T13:36:09+00:00"
-    },
-    {
-      "title": "世界(5347) 今日股價與討論 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBraldJeTZLbEswcFViWHdkS2haRXVLRE5RUDNmN1d3c1AtSW5teDRVQnNOTU1QV2dzWDdJdFMxcG42QUZ0ZjRSUEEzaVRvTVE?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-17T07:00:00+00:00"
-    },
-    {
-      "title": "華為發佈《智能世界2035》最新報告，首次提出通往智能世界的十大關鍵命題",
-      "url": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxNNm5JUzBfQVM5Y1c1eHNET1ZkWEdxV2ZRbVNkbzJxTlpnQTlybGM2MTZNTkhBNTJUUmpwYkNWSVF4c2pJcjV3NmxBaHFvSjV3UXNDbk5PZ0tZLU1VOERTMm5jeGp5emw2QWNpeGpiWlhMU0U1UzgzbUhpMTNoQnFEcjdWSUtEWFR6ZjBBeGZRc2stYWRKRVF4bmowb1ZFSFd2dkpQTUlMcWsyRE8zWGlQcmt0ekhjOVlmOFRJY3FhSHhxLUxhbS1SdFBrcHo1OVdmRXg0eEtvU21MZXRBUTdSQU11WVhoeTNYM1JTZUVTVmNsYXNkQlJvTlptODlsNjVfcHZrREptcVV2Ykk5ZG1nTGt3RDExNFkwX1dVSFV4Qlk4RTJoZEtwMW1sVDRub1dYbG9SME1qNnd1clNBdDlaa0h3d0RWMVdLUUpDNEducExSLTZXYnBPNU1aRGRwT2NyWldHNkRTRTFVQWE4WnZfQmNRN3JNOUxFWlBTRHUwU1JfT1dRb3BmZjlrcmFDNlZ6WVlDVVRvbXp4U3dod2lkeFJmaWFJNGQteU84RmpLTWMwb0x6NWszbDl5QmVZY2loLU9V?oc=5",
-      "source": "Yahoo 財經",
-      "published_at": "2026-09-16T14:46:00+00:00"
-    },
-    {
-      "title": "財經｜新世界支持北都政策 擬推售近7000個住宅單位",
-      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPekF3ZVNEWFlCWG9CemV5WEJBQ2dFN05EajcweDRRNHFxVVVPaVJ3alRLSGFOUUUwNEVTdXI3eUZlTF81dXFiSzdveGoxZ0xJa05JTzFaUnRHSHNBYzBtWEZOSE9ZSlFIMmZ2Mm10Y1JmRVZjM3ZER3FUTjRSNE9DNFA4eDdhT1dpZHc1Vy11SThUM194T2R0YUVISzVlOVJwRVZZb2ZFWC1MZHJRUnMxd1BfdXZlcDl2SWFSQmtBdzFna3lnNm5aM1pvTmJ5aE5xOVR3eVdSUGhYQzBydG5GZVlxQWJ1QjVCUmNlWVczRFlHYWM4RUVDRDBQYTh0eWJUSjFLUVVSdDc0MlBwYmVuWmc0Wlc1VnJEWVQ3SzMyNWZpTDQ4U2JOaEhwY3RPUHVxd240MmdIa1hhdkRyWERIQnhFQ1daWTNCNGlaWVNHdHU1cGY3RTZ6M3BwR3k?oc=5",
-      "source": "Yahoo 財經",
-      "published_at": "2026-09-16T09:52:25+00:00"
     }
   ]
 }
