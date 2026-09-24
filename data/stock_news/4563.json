@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-24T00:36:16.013063+08:00",
+  "updated_at": "2026-09-25T02:37:20.443723+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4563",
   "name": "百德",
   "count": 4,
   "news": [
+    {
+      "title": "百德國際(02668) 須予披露的交易",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVktVbXktNmNfWXFRc0tLVmpTVEhCbWlsb2lWWXNpcXlwMXFFZkpodUhaYlU5YkowT0IyRXk4enB2b0ZHRE9iQ2dZUWFDS1R6dFJlV1VPQS15eVJlanF6bHRvWG5CSXc4M1VaR29TNHAyaVVWblMtdDMtcGF3RHhJS0kwM2JVQTZYcXdJQ3lMNEtnRFE4Y2FvVDRPeWNMYWdLcXg2b3ZYOE5yQnJNdE5JZklxTVIxeW1xcVF0alhUZV9Pc0ZUbnMxbGEyb3VoVWNTcFAwWDJYeWJiWVNCcXpvR0o4VlJqTzJSbUpmUVAtVHdfLTQ?oc=5",
+      "source": "信報網站",
+      "published_at": "2026-09-24T15:39:45+00:00"
+    },
+    {
+      "title": "百德國際(02668)完成出售領創有限公司 作者 智通財經",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyV2N6Z0FUMXh3dVFqVmxqbmVQS2V0a05nN05CUzhjUDdRNWFHcVJGNmZhOXhDS0c5b1gxV2twcElXeUc4a0J0QU1vZE9kajZwUXNWZHd3bElWbzV5cm4xYXd2RWVCeVNjdDVYQlZMVVE?oc=5",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "published_at": "2026-09-24T14:03:45+00:00"
+    },
     {
       "title": "百德Q4營收拚全年高峰；9/24股臨會討論私募案",
       "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPd05zZjhueUZJQWZ3NHVmLVdYQjFKYjhaTkxVMk55QlYtdTI5LUdFSlpwcnduNDQ5bWdHQmc3TzV6d3dIbm14ZUE4QVZLMk9NeWRTZV9mR2stTHU5YUVBRVVNUF96cDRXWVJlLTVNcXctRDQyY29YdUFVUzZ4YW04cU5hVEVMcUpsVy1Pd1RYRncxR1lGX0dJcllCa2lndmdXU0hsMGhYSE80bFRVN202SWZWalQzWFBNeld2dG4tNWpqeW9aaTl5NFNabmhhNUdqd1Q3cEF6VjFULVh1d3N3TVJzR3JMUERTb0prV3dQVTItSzUzY0N0STd2SFZ1Z3d2Zjg0MVdMZGFHQ1Y2MElCaXAxbmJqWTU0NWZLN0hZY19wb0tjeU9CSUktdEVFaGpS?oc=5",
@@ -12,22 +24,10 @@
       "published_at": "2026-09-22T04:38:43+00:00"
     },
     {
-      "title": "投信：週三(16日)投信買超上市股票106億4563萬元",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOczZuS3ZvTkFYeFpQU2cxU2FmLV9sRE4tdTVaUHA1YzN2YU9WVGVVeG80bzBRV3pRTFM4ZWR2NkJZa21wNXhGdW5reU4tYXZuZk5uMDlUekdUdkRXZTZDQkJzNU1uQjM4RUJjdkRCdlctM0l0ZUlkbEZEb0FQNDFiOGwwMEpiZ3Aw?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-16T23:15:00+00:00"
-    },
-    {
       "title": "4563 百德- 能源競賽！ SpaceX進軍燃氣渦輪拚自生產零組件- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5JM1k0VTd6c3ZuRV8tLVJWdXhlc1R3WlJlajVZRV8xRks0elcxOUtaSHBadlNZdVAwQzZKTmtUNmtYQlprWFZjMDFFVUpSSDRPWnRFX1l5VFU?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-01T07:00:00+00:00"
-    },
-    {
-      "title": "航太、印度大單與SOFC加持，百德下半年回溫",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQNkw4bWMwM3B0SUM0ZzltT0k2WEJaaGdqcFMzTlRWamlhSHF2R2tjakZyTlYyZVF0OXpuQy1oN1JhUVBlMm9IWTVsbE5nOWtpTTg3dW1MVkJ5dlA2X2ZaOHItakhHYmNFS1hTWGJGQklZQmtFZXoxUUU2Wi1TZktfcnVSOUhjMEN6ZUVLMlBpcGFLMXJaSmZPS09fX21iNzgwaVBEdEhVZWVaUUx1NV9vMXFHSDNxZEpOMk5nNXc3ZU9HbEpEaGZsS0MwUzhnOTN0Z05GTVF4VXZwbWQ0cmZrSWZ3cDFXOFV4WGtmZzVreXZrZXNJNXFZTXFFcU5Cbk90T3N6M2NVRkRCWFFwTGtqVTVtZ2xXUHlMVTE4UWU2ZkNkRnM?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-08-25T07:00:00+00:00"
     }
   ]
 }
