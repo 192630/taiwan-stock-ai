@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-23T10:34:29.985360+08:00",
+  "updated_at": "2026-09-24T11:35:28.118940+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8421",
   "name": "旭源",
-  "count": 4,
+  "count": 3,
   "news": [
+    {
+      "title": "旭源智慧型高速套標整合系統榮耀 獲國家品牌玉山獎「最佳產品獎」",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Yem9zRUpuWjljNUhvOHlhRWg0ZGd6M2xZT2RXd0llTWN2YlJWOVZuMmlIODVSbEphVzFwQ2llSlRqRWhfOFlYMk5RYnhYNTg?oc=5",
+      "source": "news.cnyes.com",
+      "published_at": "2026-09-23T02:31:28+00:00"
+    },
     {
       "title": "Shinkin Central Bank Pfd Subs Cert的股東人數 – TSE:8421",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX3BaVHk3Rno1STJpckpVMXF4RGZnd0RyZ05oT19jRG40a1NTdk1FYjRIN1R4bFRmUlFzVXZTOTVqN3BfODJTdlQyUnBGNmFJeXpqenNBZmdISm9zaF8wazdrMDZJa1V3cnJMR1VFVnpMTlBaVGZsVEdBa0xFNm9QYi1fa2RDV0tBbGJycGJNNjhQRGZ0WlZBN3ZicTl5Y1N2MWc?oc=5",
@@ -16,18 +22,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdXpxOXZ1WGZOX2lUcmhleGI2RFpQSzkzVS1pUnhObnc0bERCYWl3cUpiUmhBakxWcGhUcldrT3dNeFJ1NWEtRHd5ckQwZkxwdUdoam9haFFtQVpqeU9iNjZ4emx3cWdCUHlyNW5GQ0t5MmtBZElXWl9UcFctNjBhNElwT0tnbjhxQkVsSE5R?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-15T03:15:24+00:00"
-    },
-    {
-      "title": "【2026/08月營收公告】旭源(8421) 八月營收1.21億元，表現亮眼、呈現雙成長，創近2個月以來新高，年增25.5%",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DbUI5c0pJZmVDWjBIVG1kLUpwd0t0Qy0tZXJKWE42NC1UX0t5R0UtNVZpeEhTcEV6dF84Q0xVQjFTUnB2cW84X1l5NWg0NWZYUkZkVjh6TmhtYmUybHM3UWdMdFZnWms?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-08T08:10:04+00:00"
-    },
-    {
-      "title": "8421 旭源- 旭源現增股款繳納憑證洽請櫃買中心同意9/7起上櫃買賣- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xXzlIUmVJNUNLTWJPVWpYV2FBYi1jcDRmTnJ6RTNrdlJCeHhHWDM1S3RsM180eWEwdFVrbndhNVlXb2laNTFlNkVFaEhDTWRaS05rYkdCZE4?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-02T07:00:00+00:00"
     }
   ]
 }

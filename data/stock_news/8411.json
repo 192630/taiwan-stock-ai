@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-23T10:34:28.529534+08:00",
+  "updated_at": "2026-09-24T11:35:26.869083+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8411",
   "name": "福貞-KY",
-  "count": 3,
+  "count": 4,
   "news": [
     {
       "title": "福貞-KY 8月營收創次高，後市動能看正向",
@@ -14,8 +14,14 @@
     {
       "title": "【2026/08月營收公告】福貞-KY(8411) 八月營收11.92億元，表現亮眼、呈現雙成長，創近7個月以來新高，年增42.41%",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVTWJUSFhwNWRFVGpIb0FiQ3RSN1BraGJBU1NlRWdmQW5IWjJjb3lucEI2MTRUN1hkdTJvVDZBYXdsa25zbllWeTA1LWZNeEJKMWZPYmFSTVZjMXVpb01OOTlsWFdMQ0E?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
+      "title": "【08/31券商評等報告彙整】福貞-KY(8411) 今日僅1家券商發布績效評等報告，評價為看多，目標價為14.8元。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVFY0eFBWMmE3ck1DQmVjTGtKVlZMalQzdVhScWRKMTVSYldGeVp3RXlua2pBZGFlQVM5dFpMaGF3NmxHSGIwdEI2eFlZMXFETFR4aHk0OWlyeTFOY3R6MV9DUy1WYUNVYXI1LWxhem1zRjl5bFpNQmEwLVBkT1gzZ0VtR3RSV2htdEE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-08-31T07:00:00+00:00"
     },
     {
       "title": "個股：福貞-KY(8411)H1每股盈餘0.21元，積極提升產能利用率，看好H2營收更優",

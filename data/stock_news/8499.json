@@ -1,21 +1,27 @@
 {
-  "updated_at": "2026-09-23T10:34:48.015497+08:00",
+  "updated_at": "2026-09-24T11:35:42.783564+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8499",
   "name": "鼎炫-KY",
-  "count": 5,
+  "count": 6,
   "news": [
+    {
+      "title": "鼎炫-KY：隆揚電子臨時股東會通過德佑新材二期資產置出相關事宜議案",
+      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxNX245RlBhMnVNNFZqQnM0cGlwTlFOOUhoN3hyUU9GVEhNWXB0elFwWXlXc3JxX1EwX09vSzYtWVkxTkNtYTN0T1VjMVc0V1VoanhHV2otMDduNHBKVzZBOFhxMTNBRlNmQXhNYW54NGI3elhpWFlsQjVtRVF3UUxjS2RfOW5RSVZRTURzQ2dydkR1MnU5WEVONGw3QTJXYi1KZUM3M2MtdTd3SEk3TWRPaHFNcTdCMkVYT0pwYzByTmFFT1BBLWhLZEhnRzdkbEZjYmkyR1phTWNjU2l2NFJ1N1pDSUFaM09NLTh4UWZxMGpxR2xwSjlHZmZrT0k2R2l1WlVTZWVOLThQVlQtYXY3a3N6c08xd0tMVDFlejZXRkFOd1hMLS1jQTY4ZUJvQlhnQnZjX2hIT0RVMzljX0hwNDdONFY3M05XdjBfTzNYcV9nVDZsUE9UbFFJcDc5V1lRakJJR2Z3ejI3MEtraE9kaF9PenlZWFlycHdoaFBXeVlQbmVMVVVzWUxmckJqMkxfVHQ3UFdRRnMwbGhHU3ExZnQ1ai1DemJfd2huRzZoRm80TG56ZGJycmprLXI?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-23T02:22:39+00:00"
+    },
     {
       "title": "鼎炫-KY 代子公司隆揚電子(昆山)股份有限公司公告處分收益憑證",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wTWtYelRTZ3hVZDVCT2wyc1p4S3I0V3JRc0d0Q1dEQnZmdFZnQTVZdTJzT1dHdDZ0dnZFTGZLcGI2LW5IWkJLZTdvNW92WmlTTUFuY3gtUmg?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-10T12:27:35+00:00"
     },
     {
-      "title": "【2026/08月營收公告】鼎炫-KY(8499) 八月營收3.72億元，年增91.24%-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVXYycVJKSjE2SGRISGY0eXpnekxrbHdlUjVjT1NKMWtoY05CaU03bUQ3NGRxRDliUXBSSTZ2aS1zbXpTaEhlZXktQzJhaU14WFhHYU1JQnludW01Z1plU09Zelk3bGhZOTVfQVRLazNBdEZYMEd1eW9PTEwwU2ROdlEwVWVheHRQMEE?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-09T07:00:00+00:00"
+      "title": "鼎炫-KY(8499)-同學風向與貼文摘要 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hcEg1UXVKMHpvejVFcDhxNjFYSWtqRVNnVGhxWnpZaS1ha2lEY1FQWl9BNGxHdC1SbXprdlNuZmlBVFFKWFRQQU01S1c3a0w5ZUUySTZxXzZaUUp5clY4ODV3?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-07T05:10:39+00:00"
     },
     {
       "title": "鼎炫-KY：資產出售案無重大影響；H2估優H1",
@@ -32,7 +38,7 @@
     {
       "title": "【即時新聞】今日最新！鼎炫-KY召開重大訊息記者會，說明重要子公司重大決議！",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HR0tpODRVMV9XeDYtRV9lWldvc0VFZU9kQ2Q5NWlWelJZbUJmQU14eTFnd3BrZVhkTGFieHlUZ0lVZk5QZC1JRlNBSThDanA4dERsZTRDV3JQZ19vZEI5bjVzZktXWUk?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-08-27T07:00:00+00:00"
     }
   ]

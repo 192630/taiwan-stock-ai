@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-23T10:34:45.231366+08:00",
+  "updated_at": "2026-09-24T11:35:40.440388+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8478",
   "name": "東哥遊艇",
-  "count": 2,
+  "count": 3,
   "news": [
     {
       "title": "東哥遊艇(8478) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PRWVETXFkZ2dxM0o1MGxSem91TVZZcURRd1lJajExdW95U3hCYkE1U202VG44RzQzME1ac2h5RW9GdXkyaVU2NEt5b0djZUlQVnhB?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-19T20:07:36+00:00"
+      "source": "cmoney.tw",
+      "published_at": "2026-09-23T03:02:27+00:00"
+    },
+    {
+      "title": "Alexander Marine Co., Ltd.的股東人數 – TWSE:8478",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdHBEeThzeU5xN1ItQ2I3NlBsVWFsS0tlLUt1WGRUV0tRVGNvVUN2am5XQmk1NDFXT0NJTzZxdUpwc2xtd2l2ZjlGYXpHbWxKQVlXRGhKX3RrUjBTZXY3WXR3WkVQcWR5NE9pTmpvWG10c2EwblFka1NBQXJGZ1RfV0RCaUt1RFZDVmFvMFc0eUFnLVFhZ2daWEl1VmY5WEdGbTln?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-23T00:24:34+00:00"
     },
     {
       "title": "東哥遊艇營收／8月營收5.35億元 月增40%、年減16.8%",

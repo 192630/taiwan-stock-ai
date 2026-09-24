@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-23T10:34:32.521767+08:00",
+  "updated_at": "2026-09-24T11:35:30.266914+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8429",
   "name": "金麗-KY",
-  "count": 1,
+  "count": 2,
   "news": [
+    {
+      "title": "Jinli Group Holdings Ltd.的Price to book forward – TWSE:8429",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT0hQbjk1ZmhyaTl3UVBIZWx3Qnp5ZWx1b3I4Ym5FNG1zbENZRG53MnpkWXJSRXdJN0UzVGVCOTBxNklGNWszVGE0SlFrTV8zSnltczgweHg3M0d5aFoxQU1weDZWaGpxb0ZiR21YQ1E0bGJBTWNwSHg5bGNmeC13WHZWV2pMa19FZE83XzYzcmVUQVZsM0hWSQ?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-23T01:18:45+00:00"
+    },
     {
       "title": "2929 淘帝-KY - 8429金麗-KY(6.01元) 2929淘帝-KY(5.7... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11OFAtdjRyV3hXYzltNWIyODh4QmZxTWhIMUZLTWx1TV9iRjJqYjlZLS1OczdhNk9DYWhIWk9TTW11anVfOFU5WTNBWHNIS3JrV2xSQnFOSWg?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-08-30T07:00:00+00:00"
     }
   ]

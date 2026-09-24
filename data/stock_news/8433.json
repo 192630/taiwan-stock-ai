@@ -1,20 +1,14 @@
 {
-  "updated_at": "2026-09-23T10:34:34.047020+08:00",
+  "updated_at": "2026-09-24T11:35:31.506163+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8433",
   "name": "弘帆",
-  "count": 2,
+  "count": 1,
   "news": [
-    {
-      "title": "營收：弘帆(8433)8月營收2億9136萬元，月增率-11.93%，年增率-3.60%",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTkZPOWZJU1gxZGIzcnl2X3VXeWMzVkxPSW1CQlE3NFM4cVRFcjd4RWpUWUdkVk56dXBWQy15RVlZYk95UjQ0ZGZzUHB0SXYtQTBLcG0xSnZLX2N0OHB4b0xIVUljSGltWXV4Z3YtbXlHSXhpc1loQ2diUFpXR3lJZ0ZvTENHV1h0?oc=5",
-      "source": "ww2.money-link.com.tw",
-      "published_at": "2026-09-10T07:26:00+00:00"
-    },
     {
       "title": "【2026/08月營收公告】弘帆(8433) 八月營收2.91億元，營收雙減，年減3.6％",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lVC02T0cyVHFKQVYzTWZDVHNzRnVHd09jRGJPcHFyLV83SV9GY2d2blB6amdyMGRmbnpEc0tRUHBDcXlUSVFJdWVSY2hJRnRGY180RmVzLVdOSV9MN0JpWEc3b3ByOGc?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-10T07:00:00+00:00"
     }
   ]

@@ -1,26 +1,32 @@
 {
-  "updated_at": "2026-09-23T10:34:39.798718+08:00",
+  "updated_at": "2026-09-24T11:35:36.000608+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8454",
   "name": "富邦媒",
-  "count": 11,
+  "count": 10,
   "news": [
+    {
+      "title": "富邦媒(8454) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42MDNpcUlFOHFvRVc3Wk10UzlIM2VWQWd0YngtY0NFSVZUakRZYzY3RWVYQUNfRlMtN203S2xTOHlRcUllMl8wSnpaOThzOEVGMVBF?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-22T20:59:58+00:00"
+    },
     {
       "title": "8454 富邦媒- 中國8萬件山寨美妝滲透韓國酷澎、Naver！ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OZDk0cmRZSUtwS3BtTWdvaUV3WHNTYVdfbGRvazBDSk9ZeThyczhjc3FGRVp4YjFldDdPUGc5dlZOWENCREVPRTVCM2I0Ujh3SS0yY2FPMjA?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-20T06:39:44+00:00"
     },
     {
       "title": "產業：i18 Pro換機潮開跑，富邦媒、網家預購火熱，10/16再迎iPhone Duo",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOejFJbjVFVUV2UXA4amMwWlpkcC16d3FlWHJMRFFNdUpIS192amJLaFFibGx1S2pPU09TajV5QlNpRHI0cktKQzMzT0YtUl8xQW1GUUJiaW1kTGYydE1IVm5Ba08zTG5nV21WUzN5T1haQUU1RGNkSllnb2dMd194c1BXNTlFQ1hB?oc=5",
-      "source": "ww2.money-link.com.tw",
+      "source": "富聯網",
       "published_at": "2026-09-17T08:33:00+00:00"
     },
     {
       "title": "富邦媒引領電商業拓資安版圖 推動FIDO無密碼驗證機制",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zaXlrenBfVlMxZVNXbXhwbW96VWpHYmlVM1Y5TWlFcVdJZGNnOHlTdkREcUxwNE9oMTRiZFgyaHVyczVoSVRsc04wWU4wQmdPMXBnVEdtZ3Q?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-14T04:03:57+00:00"
     },
     {
@@ -54,22 +60,10 @@
       "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
-      "title": "富邦媒營收／8月91.5億元、月增7%延續漲勢 前八月創同期新高",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Pci1sOTdaUjJWX1VVbG1TbkRXd2R5ZkN0UjY0VGpRalFnSU5sRnJPQjlMNEgzTnY0dWFJWGNFS3NSZW5WU29IckZ0OHdGbVZ10gFWQVVfeXFMUGZFY0lFdjhjeTh3aDFPcTlVRnRWczNfdnc4am5mSmw5MHc4aWJIRE5mdElWcmdtZUtaQWNhMG1LUTZOZG1uZGVwRVM1a0xqeHdETmtqdXc?oc=5",
-      "source": "UDN",
-      "published_at": "2026-09-10T07:00:00+00:00"
-    },
-    {
       "title": "富邦媒H2旺季接棒，強化物流服務",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOYldsZzhoSXJUeldrUEtHeU5nZVNVaEdZdEtnZHV5X1hUbndzRU5yT1ZNU0RDcmg1ZGxsVm1IRmxFUDJSTl9PZC1OOEtpWVFVTDd1S25RMldMb2FycmRCUE1UeUk5N0FDenZ1MmNsM1NiZDBSWC1KRHYtQU1NSUJ5WF84aGZZYVNaOS1WX1VHTzRhZFRNbzVsamV1ajgyX1VvaDRfQm1ZSFBVb0o3RXJkS0tsLUltNjlsMnRWZ0JLMGJLalE2V1hHbGEwSEdSN1V4R3pTLWl1cWM3MU0zUFd2TjJBcWVwd2VuaHdMWXUxbEMxMDA2RHZtRlhnZw?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-10T07:00:00+00:00"
-    },
-    {
-      "title": "富邦媒體科技股份有限公司 | 8454.TW 股價走勢與即時報價",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9zTXpIc0pIblhCZUN5SVM1cTl1LVJnSVBiTEZ0M0lncElwbDZKbXVNdDVoRmVocnEzY2pSVlRqakZadFZFMEdhMlFjV1lWWWs2NjNpWA?oc=5",
-      "source": "BigGo 財經",
-      "published_at": "2026-09-10T02:41:25+00:00"
     }
   ]
 }

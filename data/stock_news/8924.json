@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-09-23T11:34:54.512027+08:00",
+  "updated_at": "2026-09-24T11:35:46.148094+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8924",
   "name": "大田",
-  "count": 1,
-  "news": [
-    {
-      "title": "大田越南A廠10月試產",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1wa2h2S3pQWG1KcFF5Skc0N0ZEQVJCbjE3bUktQVFLcmpseTBZYzMtMHdOdVNTR2g3YmFlT2ZMYl9ZQXU2N3ZZNWE2bE5DZEpK0gFWQVVfeXFMTjlST2tlTHc0ZFVVNWx6VF9BdWp3NVhqRjFHYUdaOVJYNlNJamh6TzVraFdJcUwxakI2TTNMNWctbmhOTjk1WWwtb1FJZFQ2VW1OUE9uX0E?oc=5",
-      "source": "聯合新聞網",
-      "published_at": "2026-09-14T16:15:04+00:00"
-    }
-  ]
+  "count": 0,
+  "news": []
 }

@@ -1,14 +1,32 @@
 {
-  "updated_at": "2026-09-23T11:34:58.303974+08:00",
+  "updated_at": "2026-09-24T11:35:49.828984+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8935",
   "name": "邦泰",
-  "count": 1,
+  "count": 4,
   "news": [
+    {
+      "title": "8935 邦泰 - 複合材料大廠邦泰（8935）新開發的高性能複合塑料 PEEK... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1POXBpdG02TWR0T1dBbEVYOHpxRlpyZ3E4bVgtaWlWLVdxNnpTTkZmYkMwSERzd0NNaHpHZWNjSHBKSnNEemNuLUo4d1YwaEFVZll3V3NmbDU?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-23T15:13:21+00:00"
+    },
+    {
+      "title": "邦泰(8935) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55dmxOZ2JJVkZJLURITjZxR2hvTFU5UXdUX0pPWExFcEpDNy1uSWdkUmZMUm5KVVRQbUJCNjh5bGtIb2pkOTN1d1B1S0lnclY5M0tr?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-22T18:43:27+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】邦泰(8935) 八月營收創近3個月以來新高，月增13.48%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaENMUm9ubjh0NXhnMGdVWkI0ckRsZ01LNnpWVFVGMkg3VVpPUDF5cm8wa1ZyWDN1bzRTWV9zbFZWSm9nRkNQNVlwOVltOWl0R2s5ZDZERk9ySzNBclBZRWRmTGN0X0xiZTdRRm00STVFVDBXTDBvUk0zVDlhM0p1MzkyeDNrSVg0bXc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    },
     {
       "title": "8935 邦泰 - 恭喜發財❤️ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOQ25oOE1odkNFaVpzTlUyLWxvcjJBY1E2TEdWVDkycFlZV0dzVTR3YURsbVdvQXpTaUd6cWNoOC0ydkp4LVdYOUt1Vlk2blZYd0RubDJxZks?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]

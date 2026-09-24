@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-09-23T10:34:17.684395+08:00",
+  "updated_at": "2026-09-24T11:35:18.161314+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8272",
   "name": "全景軟體",
   "count": 2,
   "news": [
     {
-      "title": "【2026/08月營收公告】全景軟體(8272) 八月營收創近2個月以來新高，月增24.05％",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzLTJrM29jTm5IRExhM1pzb3JtekFZZlR2a3lXS2JjdFUyUTI4QVlMNWQ2ZDFaaVhIWkE1RDhMclJ5TzBpR2RwanF4N0lPMkVWR2ZmSHk2eHNCQlhlRGhwYkdwQVFmdnc?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-09T09:40:04+00:00"
-    },
-    {
       "title": "全景軟體 115年8月營收3394萬、年減8.63%",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MU1VoUnA5NHVLWUxtaV9TaDlmejhqMzJBbzNLcDRIV0hEeVJ1NlhUTVQ0d1B3R3ZULWlNTHFmckNrSVJtZzRNSHJjVTdodFp4bWcyblZtM0w?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】全景軟體(8272) 八月營收創近2個月以來新高，月增24.05％",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzLTJrM29jTm5IRExhM1pzb3JtekFZZlR2a3lXS2JjdFUyUTI4QVlMNWQ2ZDFaaVhIWkE1RDhMclJ5TzBpR2RwanF4N0lPMkVWR2ZmSHk2eHNCQlhlRGhwYkdwQVFmdnc?oc=5",
+      "source": "cmoney.tw",
       "published_at": "2026-09-09T07:00:00+00:00"
     }
   ]

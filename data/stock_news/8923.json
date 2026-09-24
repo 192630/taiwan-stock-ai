@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-23T11:34:54.093021+08:00",
+  "updated_at": "2026-09-24T11:35:45.754930+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8923",
   "name": "時報",
-  "count": 7,
+  "count": 6,
   "news": [
     {
       "title": "TWA00 加權指數- 工商時報晨訊- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHUHQ2ZTBzQlVpTGI4d0xiN0ZnQUV3S0l5UjZ2TjE2NGpwc1NncFdnOVEwZlNkdXhDc0dDTmNzZ3VfaXA0WWhyZm5mcVM4VDQzbm9Na3VvVkw?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-22T09:08:15+00:00"
+      "source": "cmoney.tw",
+      "published_at": "2026-09-23T00:08:15+00:00"
     },
     {
       "title": "終於跑贏了海峽時報指數（STI）和標普500指數",
@@ -18,34 +18,28 @@
       "published_at": "2026-09-21T10:27:26+00:00"
     },
     {
-      "title": "NYT/紐約時報 - 今日股價行情與走勢圖 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZUkxDZm1iNklTWU1lWXFpRjRJM2ZQdEJKM1o2RHd2ZFlGRi04ZkR2N0xRVWZHeXRSS0toNE9NMTRGeUNTODkyZmMtdVFFNFJfb29SRQ?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-19T09:00:00+00:00"
+      "title": "科技巨頭倡議放慢AI 發展，環球時報指是冷戰劇本- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WVlkzQ1BDVWtxcENjVXcwVkFCQ21GYXo1ZlJIQjhXRzBndHh4R0h3a05TTUY5OUpWYUtCRlFmNkR1NVhvSVFOZnJQWXFxS1U2SkZrRnA3M2I?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-15T01:23:10+00:00"
     },
     {
-      "title": "早盤綜述 | 大華繼顯下調海峽時報指數目標9.3%；聯儲局鷹派立場拖累美股",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUVNXNF9mcFpoYjREMXBLeXJIX2VUenFjZVNyVnJZT3NjZlhtR0k2dkFmekpDeVUzbWFMX1J3N2FFc243WGdRc3BOejZTNTJHTnRlQ0xqODRqS1BVSllaQkYxWUJKTzdOUkFUeDBuTW0tUEJvRHF1NzlDWDZWTmxtdHdxbzJUc1dSaWJzYUp0ZC1xTUlGLU5Hck5EU015V2VSTXUwMDM3VQ?oc=5",
-      "source": "Moomoo",
-      "published_at": "2026-09-17T01:11:47+00:00"
+      "title": "新興股票基金吸金全球之冠- 投資理財- 工商時報",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14cEZGV1puTi1MNXRWOGdJdUhqaHVFdW81dENfZmFiNzVCMmU1bHExSEVsUHJqVmZqN2Z4ejFYTlRpVnRtVFhrYWQyTHI3dG94aVpkQngzVldTcUZyTmNranZrdmU2Q2pFNjk0?oc=5",
+      "source": "中時新聞網",
+      "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
       "title": "8923 時報 - 恭喜發財❤️ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCbU1DREhLTF9IYkZvSl9sbElRN3Q4QU1ILW1jVURwTllnaHRzVGJ0TFZtVUhXNlBDazNsSGdPeVI4Y0hnNm9OOFFsSHc1Q2pweTFIaEdPZVk?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
       "title": "2515 中工 - 資料來源：工商時報 https://share.googl... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jelRKQjVCMFdXMXhUdVMwbnBDN3BPOFZRQUVKVnhYUnBId1RMTXEzM2Q1Q1JrcTg0N1lZX3lNZjItNURRclk4SlhTZ2J0WnNJellZX3RqWTg?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-08-31T07:00:00+00:00"
-    },
-    {
-      "title": "ABF三雄外資調升目標價- 證券．權證 - 工商時報",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBSYlRrRFBqZHFVcUl0SG9FRE52Snh2YlZsR1FGOV9pc1dISzdwUHN3YVpnSGdwaUVuWjRIUWVJaEU2b0Q2UVdza19QdkxJWFBSdHBMalloYkptXzFhei1yQkVtWHR3Z0wzUHpZ?oc=5",
-      "source": "中時新聞網",
-      "published_at": "2026-08-24T07:00:00+00:00"
     }
   ]
 }

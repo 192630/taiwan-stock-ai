@@ -1,20 +1,14 @@
 {
-  "updated_at": "2026-09-23T10:34:28.056950+08:00",
+  "updated_at": "2026-09-24T11:35:26.468677+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8410",
   "name": "森田",
-  "count": 2,
+  "count": 1,
   "news": [
-    {
-      "title": "【2026/08月營收公告】森田(8410) 八月營收營收雙減，年減40.93%-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd0FfLU9CeFBfNE9CRlhhU2VwMzV3blVLUzgwU2lIT3lQelk1VHpqZnE5dzdEcnBZTHE2cUVKei1zVVVhWU5hc3hxcGM0OTBaRlkyMHhpQjlxSTd5aFVpdTBZTzVaZjFYUVptOUlZWnI5TXk3VlhXY3ltOUdPRW5MNmlSOHFGZE9FY2c?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-08T07:00:00+00:00"
-    },
     {
       "title": "【2026/08月營收公告】森田(8410) 八月營收營收雙減，年減40.93％",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yQWpuMVJLaWVfSnQteUVLSVlsZDA0MWNBTF9xSVRHNjJKZjRLSHBOQ0dWeWZyTnBreENLQ1IzNGxoWVhaSXRNYXdMVXpEWmFsNzBfSzRRODRfcXhnb1R4UmItNlpzRUU?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-07T07:10:03+00:00"
     }
   ]
