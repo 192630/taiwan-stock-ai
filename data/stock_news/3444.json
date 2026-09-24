@@ -1,25 +1,19 @@
 {
-  "updated_at": "2026-09-23T21:35:04.540064+08:00",
+  "updated_at": "2026-09-24T23:35:10.823177+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3444",
   "name": "利機",
-  "count": 10,
+  "count": 9,
   "news": [
     {
-      "title": "信了「千萬酬謝」！台版地面師誘借遺產稅：他面交25次遭詐3444萬",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XT2VoNzNWTERqVWZ3bzFmdXBSWEIxbHpjZUxta3ZQVWk1dmx2YjZDaGd0RGtsbE83UExqeUFWR0tESW9paUVPRjR5RmVWZFAtUXpr0gFYQVVfeXFMTnFmMHdPYUVrSm5XZDNwMWIwV1EwMVZmd1prNVVuZjVubHIzVlNJMzY1aDloNDV4TGZ6STlEX0FkWG9TVElGc1EwU2dFaUxZamhkSmFvcE9MTA?oc=5",
-      "source": "udn",
-      "published_at": "2026-09-22T05:35:06+00:00"
-    },
-    {
-      "title": "利機明年擁三大成長引擎，能見度提高",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQM3p6ZzFicVN3UFp0ZUdYX05XOFh2WUVBQXVMTF85WkY5WEJBNTNkaFp3MnplM0RkWXFjbmdvNXFrZXRXODZxTk9fOGVFWmNWbUxHR1g0X1Y1Nzlmb1BGZklGYnJld01fZElyN01URHhWQzFuMU9hSTJMWVYwQzN0ejhIbU9OMkxvS3NYbTFwR3dRYUFPXzhiLW9adzdibjJSZ1Zwa3NHYmZPb29vWjNjRWoxRzZVRkI3S0VBY0p4WlJ4TXFBckpDaGMwUDR2WWt5TGFNRFNIbURrWXZjMTZwRkJhU0hUYnpkanJNS1U1TllDZmhadThoUFIwdWlZajk1YlMtX0taeXY4S210UG9PbWQ1NnJtOEd6REJ5Xw?oc=5",
+      "title": "利機未來三年挑戰營收倍增、EPS拚新高",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQTDlBMlNYa1h3T1N2YW5xRGJHQkhkMENmMzhGLXU4bWdWbHRBNGE3V1RzTGZYTXltNmRBaTJncnFVX0x3ZzVKWlE2WVFRYk5iQTJWdFNHR3RPcHh5MzFFZWJvdEZ2NEdWNkFYZldwMEZBbC1VUVVVOElDS3RWaVhzaDJrMndvT29yZm05NHpPaGljYWFFakVwR3dXamNQenVkb0h2NW9hckFqdEhtSXY1d0phRDVCLWJHVEhpcmlIbUw1c3R5ZHAxQS1hbUNuakkzTTF1TlNybE0wdHJiUFVaeTVjU3lGRmt1OTFBdHFZM3dINW9RMWFRc2hyTFViSDJCUkZxejFEZTRlekQ2dm9IRnhQM0s?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-18T02:27:37+00:00"
     },
     {
-      "title": "利機未來三年挑戰營收倍增、EPS拚新高",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQTDlBMlNYa1h3T1N2YW5xRGJHQkhkMENmMzhGLXU4bWdWbHRBNGE3V1RzTGZYTXltNmRBaTJncnFVX0x3ZzVKWlE2WVFRYk5iQTJWdFNHR3RPcHh5MzFFZWJvdEZ2NEdWNkFYZldwMEZBbC1VUVVVOElDS3RWaVhzaDJrMndvT29yZm05NHpPaGljYWFFakVwR3dXamNQenVkb0h2NW9hckFqdEhtSXY1d0phRDVCLWJHVEhpcmlIbUw1c3R5ZHAxQS1hbUNuakkzTTF1TlNybE0wdHJiUFVaeTVjU3lGRmt1OTFBdHFZM3dINW9RMWFRc2hyTFViSDJCUkZxejFEZTRlekQ2dm9IRnhQM0s?oc=5",
+      "title": "利機明年擁三大成長引擎，能見度提高",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQM3p6ZzFicVN3UFp0ZUdYX05XOFh2WUVBQXVMTF85WkY5WEJBNTNkaFp3MnplM0RkWXFjbmdvNXFrZXRXODZxTk9fOGVFWmNWbUxHR1g0X1Y1Nzlmb1BGZklGYnJld01fZElyN01URHhWQzFuMU9hSTJMWVYwQzN0ejhIbU9OMkxvS3NYbTFwR3dRYUFPXzhiLW9adzdibjJSZ1Zwa3NHYmZPb29vWjNjRWoxRzZVRkI3S0VBY0p4WlJ4TXFBckpDaGMwUDR2WWt5TGFNRFNIbURrWXZjMTZwRkJhU0hUYnpkanJNS1U1TllDZmhadThoUFIwdWlZajk1YlMtX0taeXY4S210UG9PbWQ1NnJtOEd6REJ5Xw?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-18T02:27:37+00:00"
     },

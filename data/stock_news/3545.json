@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-23T22:35:28.762657+08:00",
+  "updated_at": "2026-09-24T23:35:33.255804+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3545",
   "name": "敦泰",
-  "count": 4,
+  "count": 5,
   "news": [
     {
       "title": "《集中市場券商買超比前30名 3-3》宜新(17.65)、敦泰(17.33)",
@@ -12,22 +12,28 @@
       "published_at": "2026-09-22T23:31:00+00:00"
     },
     {
-      "title": "【2026/08月營收公告】敦泰(3545) 八月營收9.13億元，創近4個月以來新高，月增0.23％",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jZ25Yd29YWVVSZ0RyS0ZhVFN4X3VNX28wZ05oazlCemVzVUtMQTdlck12dFRmVFh4U01jRDFBamxkVXlOSFZLNi11NzR3cVJ0UnROVXo2MkJqdUNPRFNYLXdRSmZrZw?oc=5",
-      "source": "cmoney.tw",
+      "title": "敦泰(3545) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpbnA1MzA5RjFTSFRrZmtMeDdaQ09rRklaUzFncUlWUzQ0Q1BVMGVDUVNpSnFXMld2eVBCOU85TmhyLXplNkNoWHF0T3JsRzN4R2g0?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T19:04:05+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】敦泰(3545) 八月營收9.13億元，創近4個月以來新高，月增0.23%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVE5xMjc2R0MyT1hhMjdEZ21fTDdIcTFPS3doMmJGUVBOQlZhZUE3bVRtTzJEQWJSVHp5RHpTMDNsdnFpOHhsMWpUNWlFWkZvSGxPVUZYem1vR2F4UmxlbVZtWTZJOVpnOTFBUXpHNU9KUlpTanRyeDkyYWc0SFA1X3dlX1JCN0trMGc?oc=5",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
       "title": "3545 敦泰- 羅密歐貝克漢入鏡Burberry 2026冬季形象廣告演繹倫敦的喧囂與活力- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YWnZDT3BSTnYzaFFEelA2Q3UtU0c4c3A4bFpfeVE2MGF2elpZWmQyRkwwZkVBMTlhUnFQbDZfdEhmSGNKdkhPb0RrVDBLY1pLVGtiQVgybWY?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
       "title": "【10:58 即時新聞】敦泰(3545)股價上漲逾5%、報52.5元，受IC設計族群走強與主力買盤加溫帶動，技術面短均線翻多、法人資金續偏多",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84NEt0OURPVml5Y2dEMGphcWV4RFpmQWZHSm5CZGtxNUljQ3p6ejJSc3dLa2JLZDM5MzhDVTU0VHpCRHFXekdVbDJyejNvUU1BNXJKQ2k2cDUxUDhUS0Itd3V5Qm5wUmM?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-02T02:59:35+00:00"
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVlNSeENpMjIxUkNIMV82SWh1Y1FWOXVIYXd1RUJMa0Z1ZFI3WVZlemRsMjItNW9zX0VuUGhiYkdNRF8zdXFENEloZXQ3Y1VCVW5qYm14RUt6TTF3c2xpZ2xmdVBRNW9wLWxvZ3ZtSHlmN2JLUnlNcTNFUmxiem9NdGRzV3FmX0U4QlRYeGZB?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-02T07:00:00+00:00"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T21:34:58.392166+08:00",
+  "updated_at": "2026-09-24T23:35:03.494337+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3380",
   "name": "明泰",
@@ -26,8 +26,14 @@
     {
       "title": "【10:26 即時新聞】明泰(3380)亮燈漲停，市場聚焦網通與營收爆發",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeXF6Ul9qcmtwanBvTERmYkQyZm5CVnU5TDdRamloam92MURVUzhTaTVNUWdYaGl5cXQ4SEFHRF9reHd6QktmR3V5Q29ENFFacjk0UFRpUjJMQmttOGdmeUQ4UnU4aGExNjY3VXdmdm9RcW5JVGtTcnZpV3lDY25NX3RYaG9FYlhfaVpGSTJB?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-21T02:26:59+00:00"
+    },
+    {
+      "title": "3380 明泰- ~媽媽咪呀~ - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kZkRLUlAxVDRlZnZBMV9VYWJqcjEtNlJMa250NHg1Q1Y3VHlSWXVuRUR4aTBsSFZwTEpyRFhTd0pEOTNSSVRiUU0yU0ZqdXRpOXVJbVZqc3U?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-20T06:55:10+00:00"
     },
     {
       "title": "3380 明泰- ~鬼月貳拾捌~聽聽鬼滅細說深夜鬼故事~ - 股市爆料同學會",
@@ -36,15 +42,15 @@
       "published_at": "2026-09-08T17:06:49+00:00"
     },
     {
-      "title": "焦點股》明泰：卡位6G 站上短期均線",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9nUE04S0xFaWJ5bFJvLWxSdEg0SGFqQ0J1RFNMNEU5Wi05VXZ1cVNRV19ZanlScm9ma0pTZUdPOUp0YzV4UDhyeDBZY25BdHRYWW83YTdCUFlyUlAxMk9N0gFkQVVfeXFMTXlCWkcxNXU1UFVjSkRXQ0tYSWRqcUlYaEtWV3lHcGJ3R1dySlUzaW9qSUplRnVmT0t2YnlwMGpWRHJkaHFyTThGUjltS2M2aWdaYkZKY3gwa0d5NVB5SWZOeF9jTA?oc=5",
-      "source": "自由財經",
+      "title": "【11:26 即時新聞】明泰(3380)股價上漲6%，網通＋AI題材帶動買盤迴流，短線脫離整理區主力偏空有待換手",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYnp3SE5wWTN0SDBocHVCVHlIVVRqQmo3eFM0LXNleVp1UE1DYk5TVF9SQi16aFllZWgySHhFWUhnOWxIMVBoWGExUDI4aXRzU0xMWXAxOWNqaVprQlpSeUVPQ0JHNHM1Q0lLV3o0cXNTbjdzaWRKUW9TcXRlVE1lU0Rta3ZWSUtGZ28za2Rn?oc=5",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-02T07:00:00+00:00"
     },
     {
-      "title": "【11:26 即時新聞】明泰(3380)股價上漲6%，網通＋AI題材帶動買盤迴流，短線脫離整理區主力偏空有待換手",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYnp3SE5wWTN0SDBocHVCVHlIVVRqQmo3eFM0LXNleVp1UE1DYk5TVF9SQi16aFllZWgySHhFWUhnOWxIMVBoWGExUDI4aXRzU0xMWXAxOWNqaVprQlpSeUVPQ0JHNHM1Q0lLV3o0cXNTbjdzaWRKUW9TcXRlVE1lU0Rta3ZWSUtGZ28za2Rn?oc=5",
-      "source": "cmnews.com.tw",
+      "title": "焦點股》明泰：卡位6G 站上短期均線",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9nUE04S0xFaWJ5bFJvLWxSdEg0SGFqQ0J1RFNMNEU5Wi05VXZ1cVNRV19ZanlScm9ma0pTZUdPOUp0YzV4UDhyeDBZY25BdHRYWW83YTdCUFlyUlAxMk9N0gFkQVVfeXFMTXlCWkcxNXU1UFVjSkRXQ0tYSWRqcUlYaEtWV3lHcGJ3R1dySlUzaW9qSUplRnVmT0t2YnlwMGpWRHJkaHFyTThGUjltS2M2aWdaYkZKY3gwa0d5NVB5SWZOeF9jTA?oc=5",
+      "source": "自由財經",
       "published_at": "2026-09-02T07:00:00+00:00"
     },
     {
@@ -52,12 +58,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VZFJGNnUtOW82XzBGbnJfYzR2YW12R0puZzh2ZjBTMWJhZnJmNmIxZUpYRVVUUWo2UmQyTmFTNm5ESWttbWhscU1fTEJyYWs?oc=5",
       "source": "news.cnyes.com",
       "published_at": "2026-09-02T07:00:00+00:00"
-    },
-    {
-      "title": "3380 明泰 - 18次 你的目標不是40 怎麼差那麼多 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ld251eC1jOE5idVYwRHFxOW5pSERXUktWT242aWt1MjcwWktWN1BUOXVHUGRUZlN3cTVkRVl1WE0tY3ZXaGJvMkplNnpiQlJJYllBbHJGLXo?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-02T06:44:35+00:00"
     },
     {
       "title": "明泰攜手工研院/辰隆科技，開發巨量天線無線電單元",
