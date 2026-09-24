@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-23T12:35:18.864797+08:00",
+  "updated_at": "2026-09-24T13:34:16.822737+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1215",
   "name": "卜蜂",
   "count": 12,
   "news": [
+    {
+      "title": "1215 卜蜂- 泰國7-11密度全球第三靠「2大服務」超車日本- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1RDE0cmVBY294NkVDTktUTUtyY09fNGpMLVlQOU5SaE9JVWtoQ21hTzYxSG5ZeXdYQXAxMjBrMVU5RmFaaDVaVFR5bWdDeE5GNlctOGZPb3k?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-24T03:06:02+00:00"
+    },
     {
       "title": "【09/22券商評等報告彙整】卜蜂(1215) 今日僅1家券商發布績效評等報告，評價為看多，目標價為138元。",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbk9tLWFTbjVJekZqMi1mUmRnOXEzT3N1NlBET3dWaUxiMnFiOFdaX0JOWG1oSC1mZ05IdUlwVElnOHlsQXhzZE12YlZiZldEU0dVTGo3SGdZbmJGejhma1Q3bzlWNGZ3UlZGSzdVcktuUGROa1p1eWhvSUp2MERnUy1hYWg0alRBZ1E?oc=5",
@@ -12,33 +18,21 @@
       "published_at": "2026-09-22T10:50:07+00:00"
     },
     {
-      "title": "卜蜂看原物料呈價揚趨勢，豬價年底前維持百元 | MoneyDJ理財網",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tcTdPbFNKQjRzaW9KemVCSUlPMDU4NEVReHNXNzlNbGhmcjRIejhzYUVHUk8xOGtVSVFZV1RvY281UWE1VFlyQWVOMUh0WnR3MkdsZDNR?oc=5",
-      "source": "LINE TODAY",
-      "published_at": "2026-09-22T01:23:10+00:00"
-    },
-    {
       "title": "卜蜂法說1》不再擴蛋品、養豬卻要翻倍 鄭武樾喊年底衝70萬頭",
       "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQQXE5bF9QYmFkNGp3aGg1RzNVM3ctZWgyYThuQjZ2SmxSTHhNVDl1UmJBVXpVY2hUYkl0c2pReGdsMG5ta2F3RERWa250cG91ekYwcC0wdjk5MmtEYzhQZTNwakFPRl9IUl84R0haTXdmazkxUlNiQnBYQnpKbE1oQm1TS2w0bC1sY1JBc2tHVzlvVVZEdzF4U05PR19WV3JhU1lTOUVmbDhBeEtHZUF1N0lURmFmRWMxMlkxckowXzVXT04zMWlsTk9nMU82VGhFTThCeGFCZ19wTl9RbTROUUFGcWVZV1doaHJrNldDQnVvc29ISldtaW14VUZYT3cyZ182SGhGV29HZmhhSF84dUY1bkhuejBfWmUyLXA2Wmc1RUx6dko0dUlWUmNZYzhvRjhOcENjUFY3d3l4VjduNnJKMVVNZ0o1bFhxLVJ6TXNVaVpTTDVXZXMxMzdYMjVEU1F0Q0VXcW5JMnM5NFJ0Wmx5aHR4TzY0X3RaeFRDdkRHcEE?oc=5",
-      "source": "Yahoo股市",
+      "source": "tw.stock.yahoo.com",
       "published_at": "2026-09-22T00:14:09+00:00"
-    },
-    {
-      "title": "卜蜂(1215) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KNkVTcUQzTGVQd1oyb1g4ZVBzb0ZydWZHb0s0RExpWWswS0ZXZDZYRzRKb3l1WGl2SDc3U1pMdW5tMTdNMm9SVWs1d2RMSDJDMnFN?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-21T22:11:30+00:00"
     },
     {
       "title": "台灣卜蜂企業 | 1215.TW 股價走勢與即時報價",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zc1Z6dzIyUmdYaXpqaDJWYkFOb1FlcXFwTlB4NDV2aWhiMGZxX1dRbGlxYk4xempyUTdqellrSU5SREhoOVBRVHNxTnFUem9VN1V3MA?oc=5",
       "source": "BigGo 財經",
-      "published_at": "2026-09-21T16:37:12+00:00"
+      "published_at": "2026-09-21T23:24:08+00:00"
     },
     {
       "title": "卜蜂2026年營運Q3再可望回升 全年表現難以趕得上去年",
-      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPOC1ZeWM5RnFNYXZhd19ZajhaUjJpUXRleDdGRGZrUlBlZ1NoYTlpVEtyOXY0eGxWSVRtV3FPdmt2dXBZeE1GLW5ocFVlcnVvRTU3QjZKTDdpZ2lSeHlQMlBPSTlLb0hPSVNMZktaRnJPaS1ZLXFFRVRhQ0dkN1ZPbGxJdUExeWk0a0dMazdfUVBFY25uOXZHWXZjdkg3bl9VQTU2YWs1bjdnNzRlaFF1ZGpQUnp0Tlk4Wll3Wk5QTUZya0FzTl9Xcm9RTjdNR0tnZnE3NnhLU05QWDlfd3VXcjV1dHNYS1RHclpya0UzdG1TTHVNSVZrbTFRV09hSzRtdFpDdEtYY1N0bTFrcTAxQTJRNkpoeUIweFRIZ3JTTkRZd3BlS1ByWFVsMWIzenJObTRLdy1Sdm5WU1dKYUpkQ0tlOUp4cElPejV2MThoLTRqbHNUeXp5WVBHUXA5Ukdf?oc=5",
-      "source": "Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xTDA5ZHdJU3J5V1J6Mlg0RUltZmUyOVlMcDlCSUlrMlo4Xy10a1doSDVGZXAyTW5pbThodEl2MFMxYWlmSy1DRE55SXV5T2M?oc=5",
+      "source": "news.cnyes.com",
       "published_at": "2026-09-21T10:36:55+00:00"
     },
     {
@@ -50,8 +44,14 @@
     {
       "title": "卜蜂今年營運估略差去年，但看到年底都算不錯",
       "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOVG5pMUwzN0NCNVVvazRUY1J0UzY2cmszMFd4aXlhRFFxTWxvMG9qUEpIZlhyak83bmxiVjJuSFN6NGNnYVFUNGFyUFRUM2JNcW10SVZDb3Bib3B3YjVWR1EybEw5eG02NG9KTDY4TWJHQnpvOUc4ZDB4NGliZ2ZDZG9VMUJaTWxrTTFEUDhpN0Q5aGFwSHNQSUdtc2NyZW1IV1ZONnlIUEV5bC1sOXA3ak40dUVDVnhaU1Y3MEZnY2RYdXRQOGRWRkE0ZVluRlV1UTJNRUV1UDh4c245MEM2Tkh0VGVGb2ZNd2U1blJIRjF1cG5qTkxaUkZhWUVHZFZYb0l0bFAwNjluandYWlpURnVuOEJ3NENBRUQxeGxWNlJzaTN6cGZ3UXA5SXR4d3JDUzJsaDFOUDZUN2dHRVFCQzY3STNxMGNBaFpmXw?oc=5",
-      "source": "Yahoo股市",
+      "source": "tw.stock.yahoo.com",
       "published_at": "2026-09-21T07:21:00+00:00"
+    },
+    {
+      "title": "卜蜂看原物料呈價揚趨勢，豬價年底前維持百元",
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPbFhQZUprcFlUNkFNcXR2TFZCRFdOQm5UdDZPbzRtb3dmWWdsR1AwS2Q2aG1ObG83and2dG9tMmFiM0Q4VTc0M0JhbEREYmt4MjRRZEZiM0hqZ1dFNHNXQUJoN21hdFIxTlFXazJQTzZsSm9DYm9yQ2FMMFRHMWJhWk1qc2U5RkRUTXN4eXZ1LTdQNEJ3NlMwaTgzY0d1c2h5Q2dKZHBCOTN0MkFEVWRNZWVKMW5mTjk4WEtTMS1WUjl6bm5zem5fZUJ5bGNWVlMzNDdVc2s5bWdnTzlmOHptcldZLVNBSldnSXdxTTNKdFBnNUNubllZWHZscEZKQ0cxbWhKTjdXajhjcHhjN3IzQWtBZXAxeDNqQ3NVdk1aX1pQaHY4WFo1aGFfUzJDQmFwN24wZ3p5MUowSnRERE1PaFJXWDhvOWJIaHBqRA?oc=5",
+      "source": "tw.stock.yahoo.com",
+      "published_at": "2026-09-21T07:00:00+00:00"
     },
     {
       "title": "【卜蜂法說會重點內容備忘錄】未來展望趨勢 20260921",
@@ -62,19 +62,19 @@
     {
       "title": "1215 卜蜂- 卜蜂訂9/21召開法說會- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84M01fZDRUM2xEOVJnSlZ4VmtxcnlCTWRmUGRrNkxWaW1LeFpOMlpiYm92WHVGdjktamp2VmNCdGp4WDdEdmc0cXNfbnlaLUlqSXUzbWpoNVg?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-17T07:02:28+00:00"
     },
     {
       "title": "1215 卜蜂- 🚨 主力加碼卡位？昨日主動式ETF 加碼這檔！ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Ld0M1dkljVUptVDZNczNMNXgwU05BLU9FSnM0U0ROb2ZKbk1XSXJhMkpTT1cwdGZiMDRzV0VQTndES0hBVjF5VXZEV3RLaFNKbndKVFJZM0Y?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-14T13:20:50+00:00"
     },
     {
       "title": "1215 卜蜂- 🚨 經理人搶進？昨日主動式ETF 新增買進這檔！ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IQ20tbFdXaEZXUUZjaTBOZ0ZvSFZxZWhnQ3g0R2JwQmM4Ty1MMXZXMjF0ZWEzWEN0OGRhaWNZT1lqVEUzS0lENXhKSkR6Vmw5RjluRzJSYlo?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-11T07:00:00+00:00"
     }
   ]

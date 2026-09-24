@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-23T13:34:07.250141+08:00",
+  "updated_at": "2026-09-24T13:34:44.692100+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1437",
   "name": "勤益控",
-  "count": 4,
+  "count": 5,
   "news": [
     {
       "title": "勤益控 公告本公司董事會決議第十六次買回庫藏股事宜",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GT2N1UmNBZFd3Z3FWdk9URjNlMlJsWkFPZnRxOWtjVXlDT3BwcEZxanFoUURQYVU4TGh4TC1HUlZ6LXVFSFZBY203T2FtYzNSNlBsWFI0Q0Y?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-16T01:31:20+00:00"
     },
     {
@@ -24,9 +24,15 @@
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
+      "title": "【2026/08月營收公告】勤益控(1437) 八月營收年增15.72%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRTAzM2xfTFhkY2FKc2Nic3ZXRk5NS0YyVHZEWXFZN1kxdHpvZUpLcnVYZnNOTDc3N195RHV4dGhzY0xmZlJBX2otRWQyOVpobGdmc29SdTA0azlaUGZjcnB4YmZSUjZVLVk0eFNHTkNTTTBTY05vaDhjaG5kdnJoWWVEckFJMXdSekE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-03T07:00:00+00:00"
+    },
+    {
       "title": "2605 新興 - 【即時新聞】近日新興受惠運價雙漲轉強，外資狂掃1437張小心拉回！ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuTkJlZVNyUnhlbmJIQ3FBRHVGRnFWRHlVamthMFNFUlZISkc0amQ4NjVsa0twTnVDbHh5UFVMSjhzMHRXOEh0YU5iT1FJcnF4SUZYak1CT3U?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-08-30T07:00:00+00:00"
     }
   ]

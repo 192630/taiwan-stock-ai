@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-09-23T12:35:32.225432+08:00",
+  "updated_at": "2026-09-24T13:34:30.120645+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1310",
   "name": "台苯",
-  "count": 8,
+  "count": 10,
   "news": [
     {
-      "title": "打破淡旺季規律，塑膠指數今年狂飆180%！台塑集團轉型後，中石化、台苯也跟上",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXUmdyQnY5NmMyTk01bnlfSFNnd1dpYXF2YzhibThRdkg5VHFUM2x3UTUxSmFjQURuYTJqSlZUYWphalZmWEFMYW9LX1FVemlOMExnazhRUWNtZTF1ZVlpYWdDU05jLVZqRFprM0Fpaw?oc=5",
-      "source": "理財周刊",
-      "published_at": "2026-09-19T16:00:09+00:00"
+      "title": "台苯10月停產SM，庫存支撐營收到明年上半年 | MoneyDJ理財網",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yUFNBSnZJUEdvTkhIRnR5SWpteTk2Q0ZwRUZHVVBFTnVHbnBPZ19mZWlQMXhOZmJLNndyWkpLdXlMNWpGemZ3anhhMk1pSzVKMlRtWGxn?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-23T04:53:38+00:00"
     },
     {
       "title": "1309 台達化- 油價撐腰塑化股全面噴出中石化漲停台塑化台苯大漲- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EMGVVZ0MtU0dXeVZHV2EwRzBRVnl0eEV6bFM2R3BqWjdwRmlibXNXWEdFTm5venBMNmNYM3I2TnNGam8wYlZJaHVCdkpkX2pWbUxHWl9KZFQ?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-17T22:17:19+00:00"
     },
     {
@@ -24,22 +24,34 @@
       "published_at": "2026-09-17T16:04:43+00:00"
     },
     {
+      "title": "打破淡旺季規律，塑膠指數今年狂飆180%！台塑集團轉型後，中石化、台苯也跟上",
+      "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxOWVFlQktiZ1FGb01GS0ZNREdZemFmSHVhZnNvZ05EcDNsQVJrcjMwbzdNSzcySWswRUx4OEswcWVPbDZ6TnFuS3VMaXBCVFVmb2F6aDJxVHJaWkI5dG5jdnY0OTJhVGhCWklJa0JtbVdMOE1FdFB4T0dPZjFlRHQxYWZReTZDbm5qOXgwQzJkRVo0UXNVWmxYNEpxM1VSRm03c0hhTFRfSEJPVEgyS3lOb2l0d25yb0ZOTWstakJLcmlRb3dPb3B5bUxKR2tEVHlacnVfbmF0VmtRVXFpWDN0TVFBMjhsTVdnZ2hJYVZwREd4U3MwWDJuckxNS3g0MkxpX1hHN2xHQThRM28wLVJGSm9ueXBMTHdqQ2QtWEM0ZmFRWW9DbUJQTkdjRU9UelhmTG5XNm9hNFdiTTJjbGE1WUx2Q3Q5LWFUX051d1dDM1ZpTGhRRWkxZmFOcFJjQmwyemtaMC1CWXNvX3RrZzFsTnhvNFJrUG41WXN1OEdFOW9pV1UyUU5wNEhmRk5uQURNYXg3YTNjTC1jbzFmc2JoeExsZ3hXRFA2R0Q1N1J5OWVqTWxBNmdkNW1ZQzJmM3o1cHd4RGhRa1VET3B0?oc=5",
+      "source": "tw.stock.yahoo.com",
+      "published_at": "2026-09-17T08:51:49+00:00"
+    },
+    {
       "title": "1310 台苯- 【10:33 即時新聞】臺苯(1310)股價走強，市場聚焦SM景氣與營收回溫- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HRUhsRFR1REZjdVBZUzhVMjhWMXdEdUtialVtbHhIazUwTjFqWThTU0paTEJZUlJNenlpQkVEb0V6aXh2R2RiZU9udUpJQWwyYzZZUXVEbWk?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-17T02:33:30+00:00"
     },
     {
-      "title": "【10:33 即時新聞】臺苯(1310)股價走強，市場聚焦SM景氣與營收回溫",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSmpGcFp1WU5tejY4WkpqR3RJYzBlM29BX3N3b3pQU2N4aHdYU1JUQXJvQWNmRWIwdUJ1VmR0eFd1NWlSOVRnUHFzcTAxSWV4YTRHVENiMGVlR2FPMlBJcEhkYkc5eTEydllqeTlibGxicDFBTEgzbXI3YkcwcEtVY1phZ0NSdWxHeUVHYkhn?oc=5",
+      "title": "【2026/08月營收公告】台苯(1310) 八月營收8.27億元，表現亮眼、呈現雙成長，年增15.38%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdU9UWTVESnZaLUttaERCYVlVVWhTZzROeFZteEc2ZVhNMjBweXdISDRSMVpvc2VLeWtrbUtBN0NENk5Ua3RmSEI2d1lBMTRQSDF1bG0zeGFtQk1sUWFrbXE5blAzVVh6RTVCMkdwV0VsMEp3cm82ejlrT05oT216MEhMUVgxdmctdFE?oc=5",
       "source": "CMoney投資網誌",
-      "published_at": "2026-09-17T02:33:27+00:00"
+      "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
       "title": "【12:05 即時新聞】臺苯(1310)股價上漲逾3%，受塑化族群氣氛帶動，短線反彈延續但籌碼仍偏空",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN2d1RWF6V2FCNTBwRldoSHF2bV9ld2pibjRKOUxoclNBRmtxMUY1RmdjTXJhNEFUNm5rYnNvMmdtTzhVS29CVUtVYlUtRnBWOUlqYmdYeWlrZDFPbkZnZGl1S2FrSS1teUJhbUpTS1RtQVd5bnkzVUlNTW5FOTIxWmJXYlE1ZzFoWkFsYVNB?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-08-31T07:00:00+00:00"
+    },
+    {
+      "title": "【即時新聞】高力受惠輝達財報亮眼，今日液冷散熱指標股價強攻漲停收1310元！",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSmNRM1ktNktWYnJKTEtWazRzMkRiaWk1UE9fWTFJbUhYSEl3LVZTR2ppWThvUEVIWmNvT3hVc0JodlBjRjRuSU4tRUd6RG5odDc2b1BNb3FHUnAyOEV3aUZPWFVoaEc2a1RNcXdOZUxDVEpmN0NYRnRJcG1TMGFSZUYxSXVXMUlqbjBzVGFiRk0?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-08-28T07:00:00+00:00"
     },
     {
       "title": "【12:38 即時新聞】臺苯(1310)股價走強報8.64元，停產本業後轉型題材持續發酵＋外資短線回補、低檔技術面有守",

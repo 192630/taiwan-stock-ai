@@ -1,21 +1,15 @@
 {
-  "updated_at": "2026-09-23T12:35:25.123016+08:00",
+  "updated_at": "2026-09-24T13:34:23.089752+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1236",
   "name": "宏亞",
-  "count": 2,
+  "count": 1,
   "news": [
     {
       "title": "宏亞 115年8月營收1.66億、年增1.59%",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05dEROVkZKYWh6WVZQd2VuRGg4eWZyYjBGcXhkSzQySk9TNnBQYmU1OEozakhiNG9MMEo1b1l5dTloTFkwSHBYMXdLSmxleElzS1h3STRqNTI?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "【1236業績】樂動機器人上市後首份成績表：中期虧損擴大至4210萬元人民幣 不派息",
-      "url": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxQYmUzbEQ2WUtZMUNNdFFOMDA1ajFDVVBHeGYtc1c5STNxRGtGYjdINUp5MzByRzVoYUhZMUV0Sm9CZ2lBR2JHZVJ1NzhsS0s2cG52dlhRNzZIN0Y2b2lfYjRQTkx6djlKY2p1SVQ4Vm9lZzlycGh3bDJMdWNqZEpVOG5lY05WcVllSkxnRU1aWnFuWTNnTkpoWFdyVnlXNkc2RGJLUVE1bGtXdXhPWVZuRzdyckh0YVRQMTZwVXJLbjRsbVBWTVBwQ185Mnk2cjFQcXp2NzgycnpFcUpTVGVmSkxWYTRuMUVOX2puUWFDS2h3eEJRNWo3aE9EdGsyZ1V5djl5UlFUNFNmajg5MzJ2dzNHbXlHa0ljT2FOUHlpOVZ6UHpNbUdmdmNQWUdyUy1DcmFJNmhEOWliZjQyWUs0Q2NlWGNZX0V6U1FaUkQ4VnR0dzdxSElPaUowdVQ4M1ZWcE9EMU5uZzJiVXNtdnR4VFZHaldFX2ZEZVpDV2pkR0lXczV1OUJScTFIczV5RnlNdVoyUHdsS091WkVyQzJJRUJHTFpaN0pEMjZjQnlMb04wOHpzVE1yanVieDFRcXYzaFdjY0R1VkVKa0FzczJiNzluQ3BOR3U3VjljR2dYMTZQWjl0ZklENmZMdFBYenZVdzNV?oc=5",
-      "source": "香港經濟日報HKET",
-      "published_at": "2026-08-24T07:00:00+00:00"
     }
   ]
 }

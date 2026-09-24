@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-23T12:35:36.034010+08:00",
+  "updated_at": "2026-09-24T13:34:33.831919+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1323",
   "name": "永裕",
-  "count": 2,
+  "count": 3,
   "news": [
+    {
+      "title": "United Carton Industries Company收入明細 – TADAWUL:1323",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16ZWxnaWZPaFVYVWdQMVdTWVRrUE9laDVINFU3Q05uSHd5NkpYTDF5VUhGTnYxN21sMS00ZHVUSHcyRUZCa3QtMWtZRUpkXzIyTTFVRElTbndjbTV0U3h0LTFrb1ZrTW9kT1FoNHktOWc5OHdYLUQw?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-22T04:31:29+00:00"
+    },
     {
       "title": "永裕前8月營收年增近10%，看好獲利成長優於營收",
       "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQT1VPWGZ5Vk15Y1Fwb0JJQThDQ1ZMYzdwUkFKbXR4cnVsQWxqN2piajhVSGR6RzFqbl9kaXdyYzRJdWhUeEJrVlVXWE9ZVGs1Z2R1aDliRUJUMFJiN0ZvMmlvMGtUclJiRW9KbmljS3RxZGZlSGNZQ1VyamRMR1p6QmxwdHZkM1B6Q0Q0QzU4VjEzTWhIU0JYWklxd1E2c1R4WWgwUVFMMHRVdXhpWm15YWdpUFh5MnQyNllvbjRleUdabkZ4dnhUQWRDOTcwZlVwenlNd3VVbGdVS1FkSWlFa3o1Q25mMHh5Z3BCTUJyLW5vUTN3WlNEdVhnUTZEdDlqLUlJY2lZZTNMMkJFLTFZSGhKVGtyQXE0UVR6TlJDSzE3UHFHb0hOdXdGdi1DVlNhd25fSGJtaTdieTlKa0k5c2wtRGk?oc=5",
-      "source": "Yahoo股市",
+      "source": "tw.stock.yahoo.com",
       "published_at": "2026-09-10T07:00:00+00:00"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T12:35:22.103693+08:00",
+  "updated_at": "2026-09-24T13:34:20.141751+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1227",
   "name": "佳格",
@@ -8,7 +8,7 @@
     {
       "title": "1227 佳格 - 趕羚羊樂色 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05S2lMUDNDMDJzelpvd2VVSngtbXNzWTRJSmtzTnNDY2ljM3pjVG5OQUhrZ0dOa1RmTWdDUS1kanNqUVFwY09ObkFweEtSbU9xY0FHNC1CaHA?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-22T10:31:38+00:00"
     },
     {
@@ -20,19 +20,13 @@
     {
       "title": "1227 佳格- 台中會展中心二期展館統包工程簽約宣告啟動- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPdnpMeU1qdmRxOWJ4MERteEpLenViRjNIME90ZmtGVU5GSGxfUjR1OFZ1VmI0Qlo2UmFYZy16eWhacGxZN3VpUl9yREI2c29sa0d6R0xaM2U?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-14T08:16:39+00:00"
-    },
-    {
-      "title": "佳格攜門諾舉辦研習班 翻轉花蓮照顧者健康",
-      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOZnlsZDAxZ2Z4d09ZSGthdkEyeW8xU2gzTVlER1F6N2FEa0dVdTU1cm9hTHBSaGNBLUhtWUdxYlBnYldIekpibGVqVHF5RFNEZGx4NVU1RW5LSW1EVlVsdk5RTHpvYlBSbnZXUmdmbE4zbmdzSVN2TmFiQ2d5Sm5oaXRwWmhuRFZlNXBxT1dzby14VVZTSHZBVUJLSVBOX1ZsamlrWUM4Y2xyMlBxNzNGUm9iR1YwSU9ELU12d1RsOFJOa3dfVjRNenJnUnQ3RXk0bGtHeS1PQ3BXVGVaWkZKTE9xZzBYMW9NaFZWazdGSVNNYVZPdmxIQzRGZUxXcUNsX3J1Um1NNjl5dXdXUXZmX01wemY2cmZpVjNiYVhJb011UDNXUDhpUDhKNkJXU3gtOE13NzJ5TEQ?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-13T09:08:57+00:00"
     },
     {
       "title": "1227 佳格 - MoM+26.3% YOY+10.7% - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Ua2ViUG9HQXdEMkxuNnBxWTJVSW5uS1ZCYnhpbXpEUllIQ19NanJBbENMeVhKLVl6TzYtdHVSdjJvdWgzbWRHWVU2NHpkeHFfMTVZVl90dG0?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-10T06:01:22+00:00"
     },
     {
@@ -46,6 +40,12 @@
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IZWZLUGRpVW9mZ3dkdlZZdzVvNjdWQ0ZjUEE1OHVXdkJDeU9GWVJNZ2kzb1FRdWpoLTZrWktfVDBGeEt6SDNfdERZYjZxNDE20gFWQVVfeXFMUE1Gb3lSTWtpS2UtRlpVdnRudVUtX2lrMXItUHV5V2JVZU1RWFktX0puRVlaMUlZbUpwZXQtQ3dNZ0dsVEtOeFhtWE5ZZzhtazNEbzNET2c?oc=5",
       "source": "UDN",
       "published_at": "2026-08-26T07:00:00+00:00"
+    },
+    {
+      "title": "佳格續深化營養科學布局 搶攻兒童營養市場商機",
+      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQV0dQTUFNdG1kNkN0WkJaeW5MamVjaDVmWVlxdzRwUmJ1LXljbHpJTGlScWJWaWU5S0ZXS2Q5M29tWmVpaXVFVU10ak9IclJXTXVVLWJ6bk9CTEtYTTRnbEE1cUV6Ymw2cTZiZmNXSHd4SUJoZXRwbGdVYkpQWUtUSTljUjB6T25TZDBVOHhJeGpPVV9fY0xsYkFUTTF1X1IyUlNleEptM3JibkNtRFZ6enhwNjJyWkZVMTRmRlJwSnd0cHVSOFAtRlZNWFpROFdmQ1A2MzJ1dEtFSUJVZnc1TE5mRmRLN20tMEZMVDdKTWdWb1BKeXVXdzRHVnZJbjRTcU5FWDJtUWJwdWJaSzMxaHhpRU1MckRhNGlfYU5INFdFQ1NUQmtTR2toTE1laTJxS2g0NTVSMkpQZ3lOT1FqaUtiTTgwOTJVclRGWUJJaEs3YWJ1RTFSeg?oc=5",
+      "source": "tw.stock.yahoo.com",
+      "published_at": "2026-08-25T07:00:00+00:00"
     }
   ]
 }

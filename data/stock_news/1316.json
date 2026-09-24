@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T12:35:34.604976+08:00",
+  "updated_at": "2026-09-24T13:34:32.527629+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1316",
   "name": "上曜",
@@ -8,7 +8,7 @@
     {
       "title": "上曜邁向千億產業控股平台",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVFZQMnVlYk00Y1RrdkphY3BLbGw1dWxkNFFobTFBcHNORk1lTnMtZnZnWUoyNHg3Q081bWIzVWczZUlyQmhnUWRneEtHMDhoZE1XcWhqYm12bm5WTkJ1TVF3Q1BUS0pVd1FUelFsT0JGcEVBMEJROVJicHRPbm1NWDJlOHJlUkhwUnF2c2pjT3NkX050S3JRZncyWGY4UldWam5sOTNTQjU3eWV4cEU3SEJ3dVBrVmNEOTZKNXlkSllvbnpoZ3I5cTNfbDNvOFI2RGdYYmdUaVVWZ0paZE1sZ1J0MTZmemljWVZr?oc=5",
-      "source": "Yahoo股市",
+      "source": "tw.stock.yahoo.com",
       "published_at": "2026-09-21T11:13:44+00:00"
     },
     {
@@ -20,7 +20,7 @@
     {
       "title": "1316 上曜- 上曜集團啟動千億市值戰略目標串聯10家上市櫃企業- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XRUZqY1hBUmxqaGd2cHFLVTRoREU1N0xPLUItOTlONFVCV01CNUZJdjFON3ZjbUk4SmFKQ3BzT3RCWE1RMFZnMUVnMlEybENKcVl0TlVJR0k?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-21T06:08:06+00:00"
     },
     {
@@ -32,13 +32,13 @@
     {
       "title": "上曜啟動「千億市值大計劃」不推薦買賣",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EdGo0X3daNTlLazUtTU1LajFFWWRFeUZDQ0sySkF6a0Z0ZDFpZXlLaGhyd2JIS3pOdmV2ajZGQ3I3S3FnMjFOSmFZbUllTzlXY3JYSHRiQUo?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-21T04:48:30+00:00"
     },
     {
       "title": "1316 上曜- 上曜啟動「千億市值大計劃」 10家上市櫃企業跨域整合- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55TzM5VHBQWEJ5RzdEbmY4cWlFRGliNjI4VmtPcjRVcktod0NUMS1NOERKR1FraEs5NmotWnlTMDdtSTEtNHlKc0x0TFBUY01ZaklOQklfLUk?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-21T04:05:45+00:00"
     },
     {
@@ -50,7 +50,7 @@
     {
       "title": "上曜啟動「千億市值工程」長期發展戰略 資金投入具備高成長潛力領域創造效益最大化",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfejdLdjJSd0xaOTlGQlJSbUNHUEJ3MV85QUJySWR5d3R1eHJma0JUT1QzSHVlaGZtSkRoUEJIWnhWLXNEelNjdFRPUndFTnpnal81YVlMeFYweUY4NHI1QXJkb2RYeGtoaThNVXB4QQ?oc=5",
-      "source": "知新聞",
+      "source": "knews.com.tw",
       "published_at": "2026-09-21T03:06:00+00:00"
     },
     {
@@ -74,7 +74,7 @@
     {
       "title": "1316 上曜- 填權息行情、好公司大家要- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1OS1E0RTNrRVpvN0NTVHIzRXY2QkdfaE9fQVpDTFA4S09RQUNRN3U2dUh0MldlU1ZNR01Va1NVZWxCbERiZUFvRGViUnoxT2ZKSENCbTdoLTY?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-08-26T07:00:00+00:00"
     }
   ]

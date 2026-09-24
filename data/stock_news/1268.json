@@ -1,38 +1,32 @@
 {
-  "updated_at": "2026-09-23T12:35:27.471066+08:00",
+  "updated_at": "2026-09-24T13:34:25.352924+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1268",
   "name": "漢來美食",
-  "count": 6,
+  "count": 5,
   "news": [
     {
       "title": "島語母公司漢來美食8月營收創同期新高 9月搶進50億元冷凍水餃商機",
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxPTnVZVlk0R0ZLMzd4d09XajBkZHF3dko2d25yb1l6Q255Wmp6bkp5aXVNQkxFX0FlMWs4TS1DbmRsYlRVVnQ1VllvV2FJempJTFlNMlc1SGF3NnBxcVJiQ0Z6SU1VZjBaV2lUdzV3T3RqQlAyZS13bHRKWXRTWmd4U2JlaEgzWXNzQ3liX2hMOGFiQW5YZWo0UDd3NjJ4LXg0RVZVWldBclhiNk1kcmVsY0VQQ1IwUkx5WkctWlQ1N0QtRmJDeVlxRkR3cExCU3BUUWJMY3VIcEtJRV9uZkhZTlI3VXhxUzdPdFUtVUE1UjFRX2ZRWW80RVBRNTBEOVg3LUtaZzh0NF8xbEQxTzR1dDIwalNuUEZoWnVOMnpkeXRGbzRrZ0xsRWJ0TG9zNUhSRFBUQWxEVExDUW54ZGxpajlGWU1naldUUXFzYXZQQmFUZXIwSEJ5WHc0aXh3a29JZDkwMGJoOW1SYVZyUUVWR1dOaFF0OWMtX3g2TlV3aEI5WU9aTUttNld2N0h6MEluNFZ3TS1rX2NjSENqLXUyZ1RacGdGdGZkUkljYmRlajk3Zw?oc=5",
-      "source": "Yahoo股市",
+      "source": "tw.stock.yahoo.com",
       "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
       "title": "展店+品牌升級 漢來美食明年營收成長動能拼優今年",
       "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPb1Vhc1ZUV282QTE4UUdnYUNrUHNMeTlKZDF4SUJlSVBCbFdMODYtQnBxT0ZVbjg4WFVoOWxWdlNod0l0MS1oMkVKdnFnUlBCMmU4M3NoMS1XLW1PUTBBUW1jMi1ja1FWZHhlbm55VTE3aExIci1IOVJvdW85bXpXeWhubEpEM3piU1BaNVVpSVFKYjh1SVNpVnBSaEJkOEdTc0RIcWYwRFFQOEtsbHpUSXpfY1JiU1VyN2ZxNTBZQU5pOG1pWE1tWjgwUncwM2JFTFl3ZXFLdzlwa25FbFBhdG5IOFZqSEFJRTBHTVJmOC1Ia0VwZzQ4NnM1Z1BEeFFxQ1QwX3kxMXlVZVduUF9WdmNRUG9HM2xBanItWFlLc1B0b2JidDZtMzZvWnZKcEVtV2Z5aWJIY19ZWnpITmM5X0hJdzhpVlEydVNmUERxb2g1WmpsVlJyR1JaSmE3OGw5ZkpQX2dR?oc=5",
-      "source": "Yahoo股市",
+      "source": "tw.stock.yahoo.com",
       "published_at": "2026-09-10T07:00:00+00:00"
-    },
-    {
-      "title": "漢來美食北部展店 加速",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE03X29Kem5BUW9JOVpkcnA3SWdrNU1NajBXZlllWVk5Zk9sa1ktLVVNODVGTDd1SHBVM0pKM256UWhyRGxmMy1fd2NYZ0ppVDZP0gFWQVVfeXFMTmQ0a0V4d1BnYmVlNzkzTFFPSHdXNGdndnd6bWFKX1drV3dkUmFSaDRSb1RCQXZEc0t5YWZGQndyOFpRSmdhbnZSLWszT2NvX08zdmlDN2c?oc=5",
-      "source": "UDN",
-      "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
       "title": "漢來美食2大中餐品牌插旗台北大巨蛋 明年首季再展6店",
       "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNbXRCcHFpb25RQk1Nb3NKTm1RMDRNYkNSMEtTOTdYT3I4XzgwOU40dlpoTmZHODREaW00Sy1SekpwWkJmbTdHZnIxeVpwTUF1ejByUVNwUEZDWW5YWnpLaTZZWkJRNFJ5LXdhUlh4QXo4dUlLb1o2WF9zQkJPZklVUXljN2xXUHM4M0NEY1E1dTl1ZkdBUmVTNXpCTG5xY196VzNVNXBUN1VpS1NaLWFORG5kLXVUZ3UxWlVaNXluQWVwMXpTdWxBbThiVS1IYncyeVVodUJuSEl3OUZzWi1JamwzclVoNWNqSVpHWGNXb2l4bE05bFVmc1BBRFBMR1B5b3VDUUhLYXFIWmtQcm0wNzV2NTFxUFc4QW1ia0hFZTgyZm9hYldzeHoyVFJIb205VDZfYVdJR1hWM0ttTUJkeDVKNnVremlsNmhxWXNsTTF5bGJmUkpDNWw5azV0d1gzX051YXV4cFdhX0NndXl2aG5Kbw?oc=5",
-      "source": "Yahoo股市",
+      "source": "tw.stock.yahoo.com",
       "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
       "title": "漢來美食創餐飲市場少見台菜連鎖 北上插旗大巨蛋",
       "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQVl93VjlXUGxJLW5PV1lFTjhuMi1uR2swTU1kbmNoMUNCRm5Eb01PQW9hSXRPRnVCUXI3b0NXQjBGVmxYQ0JPanhNaWNYV3dtRmhza1B0TjVFcFByMlN6M2luS3FDc25uUl9TNjRuZks3ekRnRnkyTFVBQXlqa0lCbTdWVmg0Q0NoSHpNdEhZYnNmaUdJTjZDODRPb2I0bVNUaHIzcW0yZzFENThLdGNxNXNaQXZpYVE5ekdqelRTRndFb2syYUVvblZNdnJ1Tjk3SWJkUFNTZHZjSTBDZ28xSlIwbmtHZ3Z5dUs2X1BoTFoyNkw5RXRNZkJYR3NVVzNiYk9zZTdZdUhoeGRYcS0xUHk3M0JSSUU4RmJjQU16NlIxODdVTmxrUnRUZ1I4N2hHRHlRSXlnbjYxZWFZY0JUbzVPSG05bkNhMm80dnNTTlozZjRUT3A2Tl9ZRG9nUklFY2tiaQ?oc=5",
-      "source": "Yahoo股市",
+      "source": "tw.stock.yahoo.com",
       "published_at": "2026-09-03T07:00:00+00:00"
     },
     {

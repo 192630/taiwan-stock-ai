@@ -1,38 +1,26 @@
 {
-  "updated_at": "2026-09-23T13:34:05.571642+08:00",
+  "updated_at": "2026-09-24T13:34:43.018248+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1432",
   "name": "大魯閣",
-  "count": 5,
+  "count": 3,
   "news": [
-    {
-      "title": "大魯閣 本公司為子公司-株式會社TAROKO背書保證公告",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvbnVKZ01EWFlkYW12cUx2OEZRaHhUdXRYRE5XVnJUbDBhc2I4dlZjRGN6NGxwcE85dUhXSUw3cHh5U0dSVVEzU0FaR3JoT3dOX1lsdG5zWUY?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-17T06:28:39+00:00"
-    },
     {
       "title": "【2026/08月營收公告】大魯閣(1432) 八月營收創近8個月以來新高，月增17.19％",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5uRHVmVExyQWR2d1FucWVCcVFuQk9CMDdPZ1JENFdXN0FtdXVQOEtPTUdOWWZFTnRHOGFfbGpVVEF4MzBqZnZrUGFMXzNfSGI3SlpNclkzS01HNkc1NnZlSmR6RUVPazg?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-10T07:00:00+00:00"
-    },
-    {
-      "title": "大魯閣美國推運動酒吧新店型、日本首店9月底開出",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51T2ZzQ1poNkpmVkdVV2owcFJfTVFtWWU1U2hHN1Ftd1Y3ZGNYMHVCRkZwSEpkZ2dPVkk0RmNuSkFnN1Vhc1hYX2V4TVRlSTQ?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "大魯閣美國第五店開幕 規模增四成搶Sportainment 商機",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfRlIwMDdGY3UxaG9XaEpyYXpXamFxVTNJdU84Y3F5dmpyOEhtWnBpb2ZYLVVNZGQ2NXdhUngtNUhkVENuamxoRUozU2dEdEQ50gFWQVVfeXFMT3JEUmpDMGNMU2VlOEg1b2k1UG5uNUg0MFNGcHV2QjdLMVdFUkw2WkdNd09nRy1kczdCOEFzZ0tqb2NFVVBnS1ZqWjBKakxsZnJpMU9pZnc?oc=5",
-      "source": "UDN",
-      "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
       "title": "大魯閣加速海外佈局 美國第5店擴大餐飲強攻Sportainment商機",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiOTN2V1p6bXRHRkZxSG95MThpU0V2T0ZCWVVHZ2Q1Z21WX3JJQV8zWUdMUUU4X3M0OE52aGtfQ3hlMlZTcVo5ZGVRRU1RdDE2aGhja1RvSG8?oc=5",
       "source": "自由時報",
+      "published_at": "2026-09-08T09:19:36+00:00"
+    },
+    {
+      "title": "大魯閣美國推運動酒吧新店型、日本首店9月底開出",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51T2ZzQ1poNkpmVkdVV2owcFJfTVFtWWU1U2hHN1Ftd1Y3ZGNYMHVCRkZwSEpkZ2dPVkk0RmNuSkFnN1Vhc1hYX2V4TVRlSTQ?oc=5",
+      "source": "news.cnyes.com",
       "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]

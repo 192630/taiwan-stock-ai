@@ -1,21 +1,15 @@
 {
-  "updated_at": "2026-09-23T12:35:14.476860+08:00",
+  "updated_at": "2026-09-24T13:34:12.669784+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1103",
   "name": "嘉泥",
-  "count": 2,
+  "count": 1,
   "news": [
     {
       "title": "1103 嘉泥 - 美國生技指數8月已創歷史新高，莫德納 「癌症疫苗」問世1天大... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96M1N5TGNjNTd3YkpTRzF2d0NEUTF0ZHZ1WjBLOGFEOU9yUldTSXhpSlRxU1ZkVzJWa3MtaURIaWdrVUJraW55VEJGTE1Hb3ZwVWtLMHpCWDY?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-16T12:34:32+00:00"
-    },
-    {
-      "title": "環亞百貨都更案 總銷1103億創紀錄",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nWDQ1NjRiTXVzczk5Z2diTUdvNm1QOGhhMV84aVkyMUl6SEZWMU9KbEFoaEN2eFdhT19aTlluSE5GOGRDalpfZkI4YXZHWFR6d1BqYm45dDQ?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-01T20:04:35+00:00"
     }
   ]
 }

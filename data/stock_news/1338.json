@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-23T12:35:38.777466+08:00",
+  "updated_at": "2026-09-24T13:34:36.588229+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1338",
   "name": "廣華-KY",
-  "count": 1,
+  "count": 2,
   "news": [
     {
       "title": "006208、00692存了快7年！429萬變1338萬懶錢包：將停扣轉投0050 | 存股族愛ETF | 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tWlc4VXpOSUV0cjB2YlA3cklhMENuSlhWMk1sSEtnQ1phcUx4dEVuNW9KMUlvR0lfWVpLNjRSc1M3Ukw5cmx2cWlMN3YwYXJnV0tj?oc=5",
       "source": "UDN",
       "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
+      "title": "【即時新聞】廣華-KY今日發布第2季每股虧損收斂至0.93元，高毛利產品發揮效益！",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeW1kdlkzdUJxX1Q2dXg5b3g5aTdtV1c3QTVETWpra0wwRzJfSVFEaExpR0xpMDVFelllMDRkc0o2RE03SzJaZngzN29uVjBnckZrMTdTVDVuRzBxa0lINHA4OE11VUJ4UmU5YjRlaXRDYld2alpuaFA4SkxlTlNoZTNyX0p2Y2VDZ2tydXpnWXg?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-08-27T07:00:00+00:00"
     }
   ]
 }

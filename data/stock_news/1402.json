@@ -1,19 +1,25 @@
 {
-  "updated_at": "2026-09-23T12:35:40.993316+08:00",
+  "updated_at": "2026-09-24T13:34:38.778023+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1402",
   "name": "遠東新",
   "count": 12,
   "news": [
     {
+      "title": "遠東新(1402) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QM29yWFZRbUhIcW1CbGVmaVBBZ2Q0U3JVOUd5TnFqSXdJQU1kOVhyV2tSSkJXZTJnXzROeXVVaFl5bDlpQU4yZ1dMVXNjT2tZSHYw?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-24T03:56:33+00:00"
+    },
+    {
       "title": "【09/21 申報轉讓】遠東新(1402)法人董事代表人徐荷芳於21日申報轉讓遠東新股票875張",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NaDNDVGQyTXhwdGJ0SE1SbVZBQlVYVmhyaFZMbVVHd1FQdTlTUDRjbm1FME50V3Y5d1MzQVNDVFBGa0lOdlNxU0hUVnNNRmFOb3BINFZTdGpuSVpmM3ZZYWo1MDZWUUE?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-21T13:10:03+00:00"
     },
     {
       "title": "徐旭東胞妹送夫875張遠東新！市值2437萬元",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WNVI5NnRhWFk5b2xYSTRLV2k4d3NWRFFlcWJXMjhzMXAwNG5lXzhicC1oRFFQRUZLNmk2NWt4dFVpVElDV2drU2tmUWNxVzBvLUHSAVJBVV95cUxNVjVSOTZ0YVhZOW9sWEk0S1dpOHdzVkRRZXFiVzI4czFwMDRuZV84YnAtaERRUEVGSzZpNjVreHRVaVRJQ1dna1NrZlFjcVcwby1B?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MRUZiM25aNGNOSWdGSll2OVhsMm9QVnpUMkh5SnNIUm5yWUxiU3htU29jME5JbTdHZTF0WnlkM3haM1dQaFppT3FrcUbSAVJBVV95cUxNVjVSOTZ0YVhZOW9sWEk0S1dpOHdzVkRRZXFiVzI4czFwMDRuZV84YnAtaERRUEVGSzZpNjVreHRVaVRJQ1dna1NrZlFjcVcwby1B?oc=5",
       "source": "NOWnews今日新聞",
       "published_at": "2026-09-21T11:29:17+00:00"
     },
@@ -26,56 +32,50 @@
     {
       "title": "1402 遠東新 - 【遠東新(1402)盤後解析】投信連日調節，量縮價跌 今天... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzOHJpeE92bUZONUJPcU40cExpUVE2WTRBLUJKcXRVc21jdk5JQWd0TnBMZEgyaU5GbE1TMGpXbEpIbkQyMmU2TXZvaERiZ3FCcWRWaTlaeEk?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-20T21:53:15+00:00"
     },
     {
       "title": "1402 遠東新 - 【遠東新(1402)盤後解析】價平量增，土洋對作 今天股價... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5SW9ZeE1kUEx3azBVeW9MVk01WmU2N0k2VGVsUWlVbFVrNWFlV1JlQ3FHM0tjczlwZ2cyZy15TE1udHpwZm5GU1V4TTExMlNnVXFodTRkYUQ?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-18T12:10:04+00:00"
+    },
+    {
+      "title": "遠東新 本公司之子公司「遠揚建設」出售新北市板橋區「遠揚之森A+」建案房屋及車位予關係人",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IemVqMnp1Nk1tcUw5X1psNy1aQ1MwTTVtc1lrY09QZFZPc1JMZVcyMnZ0cTctajIza2UzWmFtRF9oZm5wTEpsVUxmeW1ZYXNXT0V2MVRRalg?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-18T09:44:52+00:00"
     },
     {
       "title": "1402 遠東新 - 【遠東新(1402)盤後解析】法人主力同步賣超，股價破底 ... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UX3hxT1JtX3Q4OUxTSjE5MW5seEhkMVVCM1kwVGd2R1dfbjdSclRCOXcya2JiQVVjYWpWYWM4d1padkI1Rjhla2dLdTdjS19PQ0FTbTRka08?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-16T12:09:52+00:00"
     },
     {
       "title": "1402 遠東新 - 【遠東新(1402)盤後解析】法人持續調節，股價弱勢探底 ... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJVmlGWG9tcUhHdnExb2NIendicjRQdGtKdlZFMVlad2FNUFB4WGo4U0pyNGtpLXU2cks1cFVJSW5hTnI2T3dmdHFXTUh4UXJHeGQyYnI4OXA?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-15T12:10:26+00:00"
+      "source": "cmoney.tw",
+      "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
       "title": "1402 遠東新- 一直跌一直買- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hcGdiY1ZHYmZKczR6elJHOGFCQkRYV1Jmb1I5RXBaMkR2aWh5eUhYRWdHTGs1dE5iRTduZTlkTjdpQk5JWTZLTFFJNlJGNG1xOXhaQjV3Z0E?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-15T05:39:09+00:00"
     },
     {
       "title": "1402 遠東新 - 【遠東新(1402)盤後解析】外資投信對作，股價平盤震盪 ... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jUEx5SUZxUDNJYS1ZblBlMVFFNUpxUzFTTndBMWRuX3lSQUZGNC1lZnkwOHkwYTZtWkNWYmUyT3BNZU9IU3dZNjQwUzU5X09lNjZLR1hmUVE?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
-      "title": "1402 遠東新 - 【遠東新(1402)盤後解析】外資買投信倒，量縮橫盤整理 ... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nbGVSRlF2OHJDT1FxbHRTWDljaXRfSGxDSzI1eHd6WjhfRzMzOUJYZ0c2OUdNSWx5RmtUN1pBaWVPbUQ0WjRZQW5idzExUEdaN1M5eG5uWWs?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "1402 遠東新 - 【遠東新(1402)盤後解析】法人主力同站賣方，價跌量增 ... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOVm5COXR1RXBqMzVpNFVRZ2w2cHdzbDRoQUw4azdXT29wNURZV1BKdzFmOGUxV0FCQmkxUF9Vb1ZiZllrZGM5U2pBT3VPbjZQdlFHUExtNzI?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-07T07:00:00+00:00"
-    },
-    {
-      "title": "主動式ETF加碼榜出爐！緯穎近萬張居冠 遠東新、長榮航搶進前三",
-      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNckRjeVN4MktrUmZUSGRuS0J1X0d4cnVlT3QyODBYVGV3S3hFbnhSVzhhQWF4LWdROXdmT0ZLR25FM3F3eDRIY3p6N1ZIRlp0d1hIaEYzNEcwZi1DRjd0bnFFSWVmdGE1cmwtaHRJS1k5U29WVXR0V2U1SElNY0hvakdKcGU3dzNNWFFEb0szMzNqTHNoU0NwSVJvMi1MZkp2U2ptazhUazVzelpLUE00OUZCMU1FNk1WN25QTU9WVUR4WmNLSkl4WWRUWmtfWDdIZzJiZnBFOTNlMzNjdmRaR3pTSll2MnhwSFFUeUkwbmtzZE0wRWwyeEJLVGxDaFJ1c2lkTHk4ZWNZVlRmOHVqR0Frb0dRempURDN6Vy0wSTRzOE5HVzNCNV91WUl2Nmx3QTJ6QXlaQUY5Yk16bEo0NklBTXZsUnZRWElkZjZNZ0J5UVhlQ1JncEtLUElTTlhiXzBOZzVzZl8wUTAzRVFBaXZpenZEVFBaMVZwbkJpa3c0S051NGlETm5Dc1VrVkU?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-06T07:00:00+00:00"
+      "title": "1402 遠東新 - 【遠東新(1402)盤後解析】土洋對作，高檔橫盤整理 今天... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45alotZnVGVlV4ejdTckxES3BvelkwT0VZMkxoaF80Rkcxb2FPcWhzYkRMWkNEVHp6Nml5dS1MNE5NSEUwNnF6SERIN09oeDBNSGFIRzU5UGI?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-09T07:00:00+00:00"
     }
   ]
 }

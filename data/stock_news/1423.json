@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T13:34:05.176451+08:00",
+  "updated_at": "2026-09-24T13:34:42.584171+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1423",
   "name": "利華",
@@ -18,12 +18,6 @@
       "published_at": "2026-09-16T10:08:22+00:00"
     },
     {
-      "title": "【營收快訊】利華(1423)公告08月營收",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12RFlMcURXajBpaG55Y2RrRlVzcUJTeWZSYjhmNUhwcDdKOHBIeHlxTi00bHl3allCdmVCb1dZb0dyTzdPOUg5S3h3ZHJ2Um1hVE54THpKdVk?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-09T07:33:56+00:00"
-    },
-    {
       "title": "【2026/08月營收公告】利華(1423) 八月營收表現亮眼、呈現雙成長，創近6個月以來新高，年增140.24%",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYjUteUJDbjk0M3FmV2JMMV9RVGZSbl8wRGJUaEtjeUxXVTg2a21QUWRzYmxsZlpKcmpORUlVc0xuYXdkT1J3RTZsbm5xLUlQdHFfVE5Bbmx4OHpiUmZIVXh0RjJzeEJEd3JJSmhZcTBvbjZlREo2ZHZRMlh5VWt6UlpvM2ZjZkt6amc?oc=5",
       "source": "CMoney投資網誌",
@@ -38,7 +32,7 @@
     {
       "title": "【即時新聞】中東局勢拖累歐洲股市走低，聯合利華(UL)與英美菸草(BTI)均下跌逾1.5％",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53ZEl3d1FXSExqVlMtQXZVM0EyUzZzZGswZ1ZSRFVfVm5wTFlTTktqZzdfMGlSX3lRTDZDNHQ3WmF3cmEtdkxKY1ZBdEc4U1JVcWdtdU5GS1JpcWhHZ2lDVFFHdTZaNUU?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
@@ -49,9 +43,15 @@
     },
     {
       "title": "台股失守4萬6！大立光、南電領1423家齊跌 指數收跌307點",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQbVdTTnl5Yng3X3pqcXBFZXRfQnlsa2NZZlBxNjdidlFTOTFHeFhQbGF4WERUMGtQQ1drYWZmcFR3SnFaLTk5VHM3UWQxeXJCU0Qyc2hVYzc?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-02T07:00:00+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0UUxHYXUzZzVOZ3QyR29MQ3lsb0doa3pxX2pIeXEydnhuLXZYS3FPMFQxamlCd3hmRm1JMmgwdGFMclJzQ0phbmRxLXBwUG1QY3V1VXhwUUlKUGI0Vjg40gFkQVVfeXFMTVROMDZmTWJxWE1fQ2lFWTNpTjZFUkpCSEJmV2cwUWt4Mm9wQU9wcU5IX3lzb3V2SlFKLWp0VUVMYWZpQVBVRXBYcEt4a2hCNEs2Y1djajY0bEJJZHlUR2w1WHpqcA?oc=5",
+      "source": "自由財經",
+      "published_at": "2026-09-03T07:00:00+00:00"
+    },
+    {
+      "title": "贛鋒鋰業(01772)：減持計劃期限已屆滿 傅利華未實施減持 作者 智通財經",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92aWRoZzlmWW10bzRQVWpkQ3o1UlpZN0VvQl9GRlZ3U2drREZkU1h1ZEFVSy1SekZHS2dvTVJUMWxCejlhbEIyMDkwMkRydmdEWlRHVDUwMjliQ3d2QWRqajVGX2t1OXVkNnprWjNaSkg?oc=5",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
       "title": "聯合利華想靠「瘦身」力拚估值翻身！能否複製寶僑成功經驗，市場還有兩大疑慮 | 林彥呈 | 財經",

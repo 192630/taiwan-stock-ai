@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T13:34:06.022064+08:00",
+  "updated_at": "2026-09-24T13:34:43.481870+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1434",
   "name": "福懋",
@@ -12,16 +12,16 @@
       "published_at": "2026-09-21T10:50:10+00:00"
     },
     {
-      "title": "Formosa Taffeta Co., Ltd.收入明細 – TWSE:1434",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqYTQwR0g4SXVrN1U0djc5YXZ2cEsxLXZMSkNjVHEyRW55UC1OTFQxdzVvUDRuQjRycWNvMnNveHZTYWluQmJyM1R1NjZDWEVyYXFPbWpaT3ZjOUNQVXBvRlJUY2ZTbDFRbld3UXhJM3FQU00?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-15T07:45:15+00:00"
-    },
-    {
       "title": "持續買進聯上發，寶成，福懋，台塑，台化，復華富時不動產",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PdVE0N2ItZEVWaGVDbjNQU3RVMm9sNm5NbzMtT3Z6dVhUbHh2amRYMDJoUkVwYlM0b1NibXFqbGVhMUFjbGVuZ3Nud1RxNXF4V2VhUUFfZGY?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-14T04:57:51+00:00"
+    },
+    {
+      "title": "2330 台積電 - 南亞科與鈺創、福懋科、台積電等大廠合組高寬頻記憶體大聯盟- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zaFcxdTBSWEtoTHlhMndLQmI3WVBoTUF0YlJsVEoybkhfZXBsamNJSFBrMTRlWDFfMjY0aVBIbk5iOXNjWEhTMGo4cF80OUozbkFsS0xSTlA?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-12T07:00:00+00:00"
     },
     {
       "title": "【2026/08月營收公告】福懋油(1225) 八月營收7.16億元，營收雙減，年減23.83%-CMoney 小編",
@@ -50,31 +50,31 @@
     {
       "title": "持續買進聯上發，福懋",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0cXN3LXFLaDZIcGlxUF9faW1qd2lISGg3elF3MWxnN2xYOFJrMHZOSENndDZoMVo1Ym9kV2RJLTc2ODJ6djB3d0V1dHhVRnd4ZElsQk1IR2s?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-08T05:16:16+00:00"
     },
     {
       "title": "1219 福壽- 泰山提告中聯、福壽、福懋等四公司求償10億元- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WUHhOdi1peXNnMndMemZZdFptVlowTHo2cXRvdWdSQ0dacHFzZXo4UFMxcVY2bldJeUV5YUNLdWRhOFl6SEFmaEhZN0dxcmlkdmlqcmlHMW8?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-08T03:54:06+00:00"
     },
     {
-      "title": "自己人告自己人？泰山告中聯、福壽、福懋、南僑求償10億元",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EaWMwdGNlVUczN29fdkJWR0c2YXB0eDZRYV9vSjZpcVJMdWw4SjNhU2F6dU5vbzlpa3Fxa0UtS2o1UWJGQzNMT2VoY05tem9oeVJuWEZ3NlI?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-08T03:49:09+00:00"
-    },
-    {
-      "title": "董座昔日一起為毒油事件鞠躬道歉 泰山今向福懋油等4公司提告求償10億",
-      "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNXzliTHZSSF9DN0U2RlQ0YWlKcjdQc01vZ2pOUnAxZUYyRi1ab1RsOUpZUGhFZERCYlFjY18xSHEzc0d4X2pvV1pnYlVIZUtLN2p5ZkVKTWVuRHpGWFVOZ3QtWjU4MG03X1dZVXhfQWt4b0NUYmZOY2VsSWZtOFFPN1N3MlJUMDRSeWdhUTFFQUQxcnlZWHRBU1J6N1dTVVpEU25XNTRtUUluOW1PWktkN1MtY0pwQjhldmZVZHphWVJZNC1oYV9KOHpxTkVuTlBhUGpHOGpTam5XOXhweG5aQmdMamlIbUo1UmIyMml3SG9IV1hCU0x6U29BTlBMZHB3MlV6TmRxVHl5T2lXZDZpemNRS2FTRWRRUXJVWExqNWh0ZWhfTGFybkdFdHZpZHdYSXRjX2syclpzN2NTUi1vSDdKZXlyM3BSN2IwQ0pmcmhGRGYtekFPb2R0M1FIMXFpdlpTRzhWRW51Um05QzF3VWFMT21qTm5qT0w2SEQyUk5LSWs3TkxOY3JESGlsWFBrS1QzTEVfTVNJOHFKLVFjaFNCY0lCcmVNMklTZkwyWkxXc1BkcGJVdzMzQk5sZw?oc=5",
-      "source": "Yahoo股市",
+      "title": "中聯油品事件再掀波 泰山今提告中聯、福壽、福懋及南僑求償10億元",
+      "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQcHhoWHRCeUlmaE9ZVUtpMFJaNnh1MllRUjAtTkxMNWxLdU01UWdoNFN5WjIxOC1PLTVleElVM2FpRlBzblY5bG90eGhmMU9ZY2tlaEx4SC1aLWJVeGZxSzJCVmpsNDhxdHhlQTdQeGMwSkFBS3N2MU81U1IwcFcwQWh3YWNlMGppR1RFVmhFNEs2c1VCU19Kb0dnWF9yMW01Qk5BZjFsWExOZGxjNjhqdEtFRE1nSmhOTUt2UkZWQmhXRlF1SmNRQlRJUnRBeUdybnVRLS1LS3ZaWDAxbldSclRTVTRpVjJfdFhPYjFlOG5NdGVPZFNHM2c2a0JkMEtBTU5Ca1dZbU5BQS1OMUhkRV9ROHZwX1lhVm5ZTEIxNjhiMFdqZm50QmMtVDVtOXZFZXFYUVZCcUFyd0hBT0QtM2ZFd0tXYUp0bmZqeXNxbzA5RFp4SHVIZUI1aTdxRllLYU9PeUQ3TWhDLXRoaFpMb3pwWi1HNWY1dEttWi10c0tFaC1IeEtvamRzR01NNGVTNGxud0I2dTVhZ21JdlVKVGtUZFJXZw?oc=5",
+      "source": "tw.stock.yahoo.com",
       "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
       "title": "持續買進聯上發，福懋，寶成，長虹，潤泰全",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrQUs1ZzhiZHdqcW9OM09ub3VHYUtSdHFOVzdVM0dEWlBIVmFtS3RXdFVTTHpKblZVRndwQnNlMENQVzZEb0ZuMWtCUFhSQ0ZIRUktOFM1c2U?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-07T07:00:00+00:00"
+    },
+    {
+      "title": "董座昔日一起為毒油事件鞠躬道歉 泰山今向福懋油等4公司提告求償10億",
+      "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNXzliTHZSSF9DN0U2RlQ0YWlKcjdQc01vZ2pOUnAxZUYyRi1ab1RsOUpZUGhFZERCYlFjY18xSHEzc0d4X2pvV1pnYlVIZUtLN2p5ZkVKTWVuRHpGWFVOZ3QtWjU4MG03X1dZVXhfQWt4b0NUYmZOY2VsSWZtOFFPN1N3MlJUMDRSeWdhUTFFQUQxcnlZWHRBU1J6N1dTVVpEU25XNTRtUUluOW1PWktkN1MtY0pwQjhldmZVZHphWVJZNC1oYV9KOHpxTkVuTlBhUGpHOGpTam5XOXhweG5aQmdMamlIbUo1UmIyMml3SG9IV1hCU0x6U29BTlBMZHB3MlV6TmRxVHl5T2lXZDZpemNRS2FTRWRRUXJVWExqNWh0ZWhfTGFybkdFdHZpZHdYSXRjX2syclpzN2NTUi1vSDdKZXlyM3BSN2IwQ0pmcmhGRGYtekFPb2R0M1FIMXFpdlpTRzhWRW51Um05QzF3VWFMT21qTm5qT0w2SEQyUk5LSWs3TkxOY3JESGlsWFBrS1QzTEVfTVNJOHFKLVFjaFNCY0lCcmVNMklTZkwyWkxXc1BkcGJVdzMzQk5sZw?oc=5",
+      "source": "tw.stock.yahoo.com",
       "published_at": "2026-09-07T07:00:00+00:00"
     }
   ]

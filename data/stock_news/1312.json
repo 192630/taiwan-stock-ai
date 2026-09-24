@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-23T12:35:32.749682+08:00",
+  "updated_at": "2026-09-24T13:34:30.642302+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1312",
   "name": "國喬",
   "count": 12,
   "news": [
+    {
+      "title": "國喬看後市 利差將復甦",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9SNHZnXzhEeVpTQlBmUHhUa25qRmg0X1Bxbi1yZzNpaUx0ZWV2ZkZaYl8zMHVYSFFYWFA3U0ZScHlWcjZkQU14SkZvNGJYeTJ30gFWQVVfeXFMTjUtQndJdm5xNHBtc2lXcXZfZ0Z2aHVrQ3ZwSWJQX19SX0xEVng5c2ZrTUN1ZDlPVmZQa3JBREFFbFJaQS1WeFp4eTBYR3oyMldoTzQwVHc?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-23T17:14:50+00:00"
+    },
     {
       "title": "討論牆 | 〈焦點股〉國喬股價連2天拉漲停 攜手日商跨足半導體特氣力拚轉型",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aWE11ZmpIZjNpWXM0OTY4enNhU2t2dTQtX3ZBM01YTHAxeW1TTG03V3dMRHRibndLZFVKY0VqUTl1cGNlVHB1U21JMW91bE9hVTF5YUFWTlBLc3hmNjliMl8yZnY?oc=5",
@@ -44,20 +50,8 @@
     {
       "title": "1312 國喬 - 殺 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpNjBoeGtpWDhrand1Q1gwQml6SE9TTTRQQVl3QkdQa3NQSE9zYjczSHJHVkRMT083bjRWNUFTZnc2b2hVTUZNODllcWJpTGloeVV6QmJUUVA?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-03T07:00:00+00:00"
-    },
-    {
-      "title": "國喬 | 1312.TW 股價走勢與即時報價",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WNERBZ2VGR2Y5VWRWSTYtUV9qSVNxdHhqejhJYTJ1cmJacE1taEpqM0N1V0NNRVpSUDVkSmhfejhxaW5rUUxNakJjM1hkWVlMSUd6Nw?oc=5",
-      "source": "BigGo 財經",
-      "published_at": "2026-09-02T06:36:58+00:00"
-    },
-    {
-      "title": "國喬狂飆近4成後熄火！今衝16.5元急回 13萬張爆量賣壓湧現",
-      "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxQRWNVVE5pMHk5SUQzenZGSlVIR1FGeUlrQWpod2pTZlhaclFpX19vR0RhOFlkeHc3cVhCLV90cVB1WnlfX0RYTUhjQ0c1WWtqbUVXVlJfMW1JU0RDeUZBVXczVHRYWmxaM09FMzc1VXpVMDBQbGNNNHN3WmxTWnNDLUFVZktlZTNNMmtNSXJRSHo3U21Pb2lzRGVlb1pVTmdBblAzRHFRQW5xNFM1ZG1mNFFMMDJZdVlkb25wc003WHluWFFCWVctY0JQYnpRRGdTRUtBYXhNTXRZTHVjdmV4WTdVcU1EVzJkemlBcnhWYS1ndDA4aUdXMUl5MktlNTQyLVpoejNibDlSMnp3RkNLQ0lsaXE1THpleDdtV2lLRGVtTFNhamRISlBUR19nTzVxbC1hWGY2QmN5VWIyZnRnbTJoVktZdWJVcVcwWWJQUDByQ0N5cER1R09EbmozdXhMeEFSTFRyVTZxWnB1ZXRNdjRHeUhiaDZnY2p3?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-01T07:00:00+00:00"
     },
     {
       "title": "焦點股》國喬：股價大漲近4成 賣壓出籠",
@@ -66,15 +60,21 @@
       "published_at": "2026-09-01T07:00:00+00:00"
     },
     {
+      "title": "國喬狂飆近4成後熄火！今衝16.5元急回 13萬張爆量賣壓湧現",
+      "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxQRWNVVE5pMHk5SUQzenZGSlVIR1FGeUlrQWpod2pTZlhaclFpX19vR0RhOFlkeHc3cVhCLV90cVB1WnlfX0RYTUhjQ0c1WWtqbUVXVlJfMW1JU0RDeUZBVXczVHRYWmxaM09FMzc1VXpVMDBQbGNNNHN3WmxTWnNDLUFVZktlZTNNMmtNSXJRSHo3U21Pb2lzRGVlb1pVTmdBblAzRHFRQW5xNFM1ZG1mNFFMMDJZdVlkb25wc003WHluWFFCWVctY0JQYnpRRGdTRUtBYXhNTXRZTHVjdmV4WTdVcU1EVzJkemlBcnhWYS1ndDA4aUdXMUl5MktlNTQyLVpoejNibDlSMnp3RkNLQ0lsaXE1THpleDdtV2lLRGVtTFNhamRISlBUR19nTzVxbC1hWGY2QmN5VWIyZnRnbTJoVktZdWJVcVcwWWJQUDByQ0N5cER1R09EbmozdXhMeEFSTFRyVTZxWnB1ZXRNdjRHeUhiaDZnY2p3?oc=5",
+      "source": "tw.stock.yahoo.com",
+      "published_at": "2026-09-01T07:00:00+00:00"
+    },
+    {
       "title": "【即時新聞】最新宣布跨足半導體，國喬股價飆四成爆9萬張天量要反轉了？",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85RU5sOHJ0b1lsaEZZelQ0UElncm1oT2Q2by1Nb2hrRHFmd1FCcm5rMXh6UnlNMXg0TlZXTkM2dmp1Vy1IdXRGSV8wRVBnTlRLa24zR0QxMGZrcEpiZVBJRGhuN1BzWGM?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-01T07:00:00+00:00"
     },
     {
       "title": "國喬7月虧損/轉投資影響，特化材料放量時程未定",
       "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPVUxPZzhMd0tMMjFVeV93c2I2V05BU2tSdDJvOGxQeDlEOEZNWVB0a1VvWlRNakxpNm10VHJiMTFieGJRZGE2S3lqb0g1emRmX3N3NFRRNnRObzZBcV9xc2x6aU5haHpzOVUtcU9uT2dCZ25oaW1hdGdYUU1VVVgxdVFUUjRDNFFBVHpNQUY1em9PMGhuUkNCdFE4Yk5HZU5SdDRtRDJIenVjWjhCOV9JRFpCVFJnT19tVXpveTVDX2JXZlJJY2FRT3g5SWI2eG9DYTFsSlhzcVdZeEJEQWplZ3FkWGtmMFlhSGk2Vzg0dW9vY2ZtdVFSX2ZVSW1lQUlHR19wS1RBMHhxZXZXaUg0b0Ywai1DN01ocXZTclBJb2w2Zk56X3Qyd0pnY3p3Y2JoUl9MNXN3dE92X01VbmhYVGFsTVppSlZhcWcweE1lWQ?oc=5",
-      "source": "Yahoo股市",
+      "source": "tw.stock.yahoo.com",
       "published_at": "2026-09-01T07:00:00+00:00"
     }
   ]

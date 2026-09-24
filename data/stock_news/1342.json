@@ -1,26 +1,32 @@
 {
-  "updated_at": "2026-09-23T12:35:40.501351+08:00",
+  "updated_at": "2026-09-24T13:34:38.259834+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1342",
   "name": "八貫",
-  "count": 3,
+  "count": 4,
   "news": [
     {
       "title": "八貫(1342) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vdjN4NzZaTjlHcDg3VVhwQXE0VUs2ZVBySEd4dDIxcEVfaXZlTWFEcWNkOUlDNU4xMWhzWEppYVB5NHdLd21RcW5IeTd6WEVZRlM0?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-18T02:45:24+00:00"
     },
     {
       "title": "八貫(1342)8月營收年增62.8%創同期新高！戶外、軍工出貨翻倍，航太成長引擎全開，重回成長期！？",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvVm9pSGtFbGZyM29mNFAyOVFLVHdzU0MxUWhvMjMtNENmcUk4dVJCUkRiRy1NM3ZaNXYyMFVlNFBHdzZnT3lNOEdUeGdfSGs?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-09-07T07:00:00+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4WVZzVjZvWG9lVDRFUW9uRW1NSlhHeUhPbVF2Vkg2NzBNV3RXRVVxeTRWazVsUGFiTkNSS3N3MzFhNmU5RFpkWGM1cVA4Q056RVVfbEhQcGg?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-06T07:00:00+00:00"
+    },
+    {
+      "title": "尼泊爾泥石流累計1342人死亡4898人失蹤 1270具遺體身份未明",
+      "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxQWHJ0RUpnVURqMlhDZ1RDODI2dThwXzhVbV9vcEhmLXJrRzdmRWp4T2JJRzVuNkJQUWlYMlVLeUxteUgyak9YRkVkeXVDVVdZRGY0dEdIbC1OdzJoUVZwanQtTjRmbjBmenRiWEhTMGl3eFE2N2VabTRsSjloX2RYRE5hXzhiSklXTzJvYWVNYjZUXy0zVFpRZUh6dE5WdGcxdzJFYXNoV1Rjck8waWlnN1I1UlkzM3RBWWFKQ0d1VzNDWk1nZGdhR1pzNm9VLVY5ZFFXQlFGRE5pVGpiUzZGd3dtcnlET3JvcU9FekE4YnlnYVI0OWVuNWRvdFFiTWF5dklFYVpYMk5IN3p1aWdSbTZxcjFDeEJyYWlVclhNYUhkWExmUWh3UEwwWnoyR3RielhLN1VuUGpLR3RzZmVhUkVtVGp4MUxqRmtzcDNMd0RjOWpzaDVLakVQMlpMYi1qbjhfZW13ZEZibEJlVVBraXZR?oc=5",
+      "source": "橙新聞",
+      "published_at": "2026-09-05T07:00:00+00:00"
     },
     {
       "title": "受惠戶外、軍工單月出貨較去年翻倍成長 八貫8月營收年增62.83%",
-      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNZENrUUNTSkU5VHZxc0lFSzRpWlI2WE1Db3A3dWp3QVU2THl6ZG95VjViajk3QndEWlV5UXh1OGpiQXFRTzAxOFh2UkkwRmlyeXVES2lFT3plaGdCU0xhZzNaYXZiT1BGcWdBeU42TEFNS0FSalI2TjREOXBqcVFRWWMwTU5oUmtmTXJhQm90cTRLWHplMjBrWXo3UU9aOFMybHZ6ZkJKS0xKNVRqclFXM3U5RzlIYm9nNU53dmdkSmQ5NXBZVm14RWxZUl9ZS3NIUDNaNW9rRFBHTzFiOEVveEVOOGxDa0xjcGtCS0NlVW82cHNUMk1lQzRVVy1lTDFxeXpmREFpSTRVU0Nic2RVTTBqTjNBRXBMa2ZqenRzekota3QzTHJndEJKVFptd2g5TjdMUXdBaElwaVBkaXJPUkQtTS1DVVFDYV83U1gtbEZNWXR1bU9YZ0FDS0tMdm1JTWRXUWdxTVEwOV80UkZYTkZ5ZmNDVVhyUkFpdHZrQTlkaHl4Ymc?oc=5",
-      "source": "Yahoo股市",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwbEt5cHo4WFpMRVlPSVExUW41bS1ZaHBKRkloQ2ZLMW5VblU1MHJTNmE3amQwWWs1bVA2Q0lTbWh0SENtXy1qMVpXak1oeUU?oc=5",
+      "source": "news.cnyes.com",
       "published_at": "2026-09-04T07:00:00+00:00"
     }
   ]

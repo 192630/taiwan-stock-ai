@@ -1,20 +1,26 @@
 {
-  "updated_at": "2026-09-23T12:35:27.028543+08:00",
+  "updated_at": "2026-09-24T13:34:24.912482+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1264",
   "name": "德麥",
-  "count": 6,
+  "count": 5,
   "news": [
+    {
+      "title": "1264 德麥- 中國 2030 年資料中心耗電將翻四倍，加碼押注SMR 與核融合- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54Tmw2LUtjcjRLdm92M3drY3Jzb2pZclFUYzJXWk9XYTFmaXpMN3c5SThJMjNqbVBJRjlybUNkci1GcUl2ZkRVUTJ6bEN2Yk1UY3pOazczNDU?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-24T00:47:07+00:00"
+    },
     {
       "title": "1264 德麥- 馬斯克聯手輝達押注軌道AI！100萬顆衛星上限已申請太空機房要比星鏈大百倍- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzWFRlLXRpellYalBqWGc3T2hkMzBBMjh4c1d0bnRhVl9YZklDdkU4eXh3N1pFR25rcFdadUFBVVhWZFEzODBmOHlvbFFYaDJhSW80SkltXzM?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-22T07:51:01+00:00"
     },
     {
       "title": "1264 德麥- 小美冰淇淋為何砸10億做麵條？食品業新戰場：攻缺工餐廳- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pXzZibE12LW15d3dVbnUxR0dsVlN3OXVJbFptTl82OFhuR0w1Y3E1Ym96eWlVR19BcUFZNFpoa3V3ZFRBaERiVGVFazBmWVlLd2U1NVRTb2o?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-18T15:16:05+00:00"
     },
     {
@@ -28,18 +34,6 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9RWF95TEZ6cFBjX3pteTFwVlI1cGZYY0I2UTUyT21pR3ZmelRSUUVjQkkzSjY4RlBoM1hCbldDX18xTnJVVTBGc0pfMWh1dw?oc=5",
       "source": "風傳媒",
       "published_at": "2026-08-26T07:00:00+00:00"
-    },
-    {
-      "title": "明年統籌稅款高達9725億 北市1264億遙遙領先",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hcE9wcTc2VHlORHJyQ1FXcHVsd1RhRVBwNURCYUVJWHZYNkFrdklrSWFIZU5EWlI1Rlp5bWc1V3U4bVU2Z1BFRGM1QlhEQVJZc0lSdUFoelU?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-08-24T08:04:55+00:00"
-    },
-    {
-      "title": "明年普通統籌稅款出爐！雙北皆破千億元 台北市1264億元再創新高",
-      "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxNQ3RxTVRZdGdwUEIyNVBxT3hISHVna21ITWxhOWJmRTZ1VmUtUlRubnNxVjJ1cFJwcnFBU3hQOS1tOTN0d2U5dVFsVzUxVDcwalBBUktIUFo3MTFaQnRheUwxWEZHS2JUR3Q3SUphajVVcTBIV3VZS2F2Nm9kMGZscHRyajNLRFcwa2U4Z1B2QjBBSy1UbF9EQWlrTk4zelVmNmZ1S1RjYnJoT3JUbXF4OS1xcnhjLWFBWjVKcUZsMVdYYXFZZGJWQk1UOWtfYnVjMFZMM1VlNjctY2E2SWJSOGFQTV9TdlRQLVlLdnhUdHBvYW5pbmlRclFoaUlwWWl0WmMzcTQzbHpONkpkZno0cDl1NEJVeVY2MnpoQ04wR3hvRFdtWC1jaXF0d0M5RDd1d2ZsT2lZV0RxY0xCdGZReHJCZ1hLRWxFQndRM1d4a3dEczdlM014UkpUd2Rrb09nejBCY1NYcHlDd0JpQWVpaF9tajlKWHZWOHZMZGROZm1hc3NsVlJIYTFoNUZsaGNsellJ?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-08-24T07:00:00+00:00"
     }
   ]
 }
