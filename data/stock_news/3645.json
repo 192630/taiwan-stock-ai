@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-23T22:35:46.382915+08:00",
+  "updated_at": "2026-09-25T00:35:42.422266+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3645",
   "name": "達邁",
-  "count": 8,
+  "count": 9,
   "news": [
     {
+      "title": "3645 達邁 - 9/24（23:57）阿賀～～～Meta竟然真的在做暖身操⋯... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CZUtxcEdMeXdVb0VkMmVJaDFCNlpmQzczSkFjeXAxaUVla0k1UWYwbkRteHVBZ2xZQzR0RzdFVmt5VTEzNDMwLURHcm1hUWVNTkdHTFN3MGo?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T16:06:23+00:00"
+    },
+    {
       "title": "Meta智慧眼鏡好戲將上場宏達電.達邁股價衝| 科技",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE91X2RBdm1Cc2tjbnJheGlmZkpfLVlOZkEwVGhYSnVCLVRISjhzckVXbkRtYXpwbFM2LU1kYlZkeE16UUdiUkotdk8yNm9HczdmQU9qZGYxMjVtQktO?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UaUQ3RjUwTU83T2gxbzJ5RWtqOFR2eTVqdWFzMk9xYXdmdkRvOHB0R2hXODdjbmpmb3AyelNmRWpjRWhlbjF5TzdhdGd0TjFNb09Sd0Vzc25tUjQ?oc=5",
       "source": "非凡新聞台",
-      "published_at": "2026-09-23T10:15:57+00:00"
+      "published_at": "2026-09-24T12:29:31+00:00"
+    },
+    {
+      "title": "TWA00 加權指數- Meta 點火 AI 眼鏡：達邁、宏達電誰先誰題材變營運？ - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RREM2b3ppaTNCV0hieW1KSllnTk8xdENxZnZtbjJsNnZ4Sm5DNnJFN0RmMlFMV2NrRFJ3SFJEa1BhN1prMlMxNmdZZTQ3YkY3QWpZeFV2ZGo?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T07:51:13+00:00"
     },
     {
       "title": "【10:44 即時新聞】達邁(3645)股價走強，市場聚焦軟板與PI材料供應鏈",
@@ -26,19 +38,13 @@
     {
       "title": "3645 達邁 - 垃圾 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RVlZoVkdrc2VuY2oyb25JTEJmWEFnMFY3dkNOQk84MHhXMWU0dl92b1dHWDhHbnZHWl9zeHU0RFN2bFg3SVl5RWcwTUZmNVNfVnB6Z192M0I?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-22T10:04:40+00:00"
-    },
-    {
-      "title": "3645 達邁 - 新的一週繼續愛達邁 ^^ 相信達邁 ^^ 愛達邁 ^^ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SMTlnbVpmN0dOb3E4ZkVtUk13MmFYN3UzMTcycy0ydlZtaTlQYWJ5cWpvQW14cmc0eGdZclE1NmRnUnB2aXd3cUdySkNKcGpBSmtVaWhqQzQ?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-21T00:08:28+00:00"
     },
     {
       "title": "3645 達邁 - 被這垃圾股收割了……操…… - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRSU84MUlFQXZpSm5UeWNINVAzcS1yemhsdktKTk4xSDhraURZekl2REpBaXUyOVN2aEtmVzR6THV2c2phU3dJdWZZUjR5bUMzV25JU2dPRXU?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-18T02:49:31+00:00"
     },
     {

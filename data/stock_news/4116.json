@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-09-23T23:35:17.842403+08:00",
+  "updated_at": "2026-09-25T00:36:07.586394+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4116",
   "name": "明基醫",
-  "count": 1,
-  "news": [
-    {
-      "title": "Dainichiseika Color & Chemicals Mfg.Co., Ltd.收入明細 – TSE:4116",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWd3A0RURYdFVEa2JWYjVERHB0aFJTYkFWWS13RjIzd1RCVEVMYmZXdzNyVUZpQWY4dnViY1BPdkdsZjYyU3pscTZ1TW1XQ2wyQTZUOE8tVExtaHV5N0FOVk91eUhpalR2M1h6UzZsTm91QQ?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-15T06:05:41+00:00"
-    }
-  ]
+  "count": 0,
+  "news": []
 }

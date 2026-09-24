@@ -1,26 +1,20 @@
 {
-  "updated_at": "2026-09-23T22:36:00.636100+08:00",
+  "updated_at": "2026-09-25T00:35:58.787408+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3710",
   "name": "連展投控",
-  "count": 3,
+  "count": 2,
   "news": [
     {
-      "title": "連展投控 公告本公司持有被控股公司家數變動",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RMVcxTzlEekVwcHpMdzdLcnA2a2lXb0lod2s0czhEQ2YtaTZ6SHRmNE1xWGx0Yk1Rdm56SWJPNlRRLTdXZHJmWWhLVmdRUHRlRl95aXBDczk?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-21T10:37:33+00:00"
-    },
-    {
-      "title": "【2026/08月營收公告】連展投控(3710) 八月營收月減年增，全年營運續看向上-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdWlONE82dHg2UW5CTi1UMmZFcmhGWVJoNDFhc2NfQ2lmUUJWenh5ZjNpYW1xOExUX0VXYTVTR3EzTTktbl9QSkxSUGFINlRwTXRNampEcTVoaDhNMXBvR29Gc0dUNmVDbVRtcnJ4c0FoNm5kSUJyR25WaHFreFhlRlQ2WER0Nmg1bGc?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-21T07:40:05+00:00"
+      "title": "【2026/08月營收公告】連展投控(3710) 八月營收月減年增，全年營運續看向上",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iTld3YkRRWEk0azNoQlQxcjBmMUUxREF4Nl9yVXVLelYtVzM3eDhmaDgyaTJLSnE0MnNNNE1UVnIxZkw0WDZYUVNIbDJSSkZkMGFGekZGN3hQS2IxS0JRbkxFLXpMRE0?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-10T07:40:05+00:00"
     },
     {
       "title": "6820 連訊- 連訊:核心人物總經理王志民(董事長:連展投控) - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uMEYzX3ZfN2RrZUo2bzNCcFY4OWlScE1XeGZ1cFZ3UDFuZktfWENiNEZmRkRhY1lQQXgxRUxjbUFaeGRHdzF3MEFldjdfbG1QZUxDYjFoNDg?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-04T07:00:00+00:00"
     }
   ]

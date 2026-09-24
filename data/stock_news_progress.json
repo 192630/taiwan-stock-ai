@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-24T23:35:40.299696+08:00",
+  "updated_at": "2026-09-25T00:36:08.822436+08:00",
   "total_stocks": 1983,
   "batch_size": 80,
-  "start_index": 748,
-  "next_index": 828,
+  "start_index": 828,
+  "next_index": 908,
   "success_count": 80
 }

@@ -1,20 +1,14 @@
 {
-  "updated_at": "2026-09-23T22:35:54.908241+08:00",
+  "updated_at": "2026-09-25T00:35:52.095864+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3689",
   "name": "湧德",
-  "count": 3,
+  "count": 2,
   "news": [
-    {
-      "title": "台股ETF又吸金！8月規模暴增3689億 基金總額達16.44兆創新高",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZGhjN0FBa1M1b01VX25oNjlyNXBYWkNTVDJjRVFuMHV4RVZYVmJYazBRNWxtVjNQZTQ2ZzZtd0VtMDl6MTNjWm55aEtsa0k3MnBReEVlOTVkVFMtVTVqdk9nVXFhdjkyZWkzclJlb1RTWDU1ejNvNF9JaDU4eUdCNV9R?oc=5",
-      "source": "壹蘋新聞網",
-      "published_at": "2026-09-16T05:41:00+00:00"
-    },
     {
       "title": "3689 湧德- 師祖🌞巴菲特🌞爺爺生日快樂🎉🎊🎂 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jU0dMaU5aOVJWZEhOQkU1YXVFQ2U4ZTlIa2pKeDVVX1dGTmRrUDNNS2dLV3NISGtWcTdGcmF5a0hNdlMwWlBrOU8tNThQdlpfSFFKc1JndXM?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-01T07:00:00+00:00"
     },
     {

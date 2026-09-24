@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-23T22:35:57.128913+08:00",
+  "updated_at": "2026-09-25T00:35:54.662196+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3702",
   "name": "大聯大",
   "count": 12,
   "news": [
+    {
+      "title": "【12:45 即時新聞】大聯大(3702)股價走強，AI供應鏈題材續成盤中焦點",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPV3Z0TmRFUXV0TmotMkJzeUp2RzFELTlIeTcyVWhhaGFSLS1qbk1Bb213anpwUzl5cUR0TFNBRWtxcFhRbmpSdk9qNnMzMUViVlJ4TzZvcXFmYkVnZkFaR0dnUzJRdGtBUGxIMnR4OEFHVW9uT3hGVjdSdHFUZ2owTzhQbjNZQW81eDM1OU1n?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-24T04:45:47+00:00"
+    },
     {
       "title": "兆豐率公股銀齊挺半導體供應鏈 大聯大旗下詮鼎168億元聯貸案今簽約",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yUXcybFBXdTVjUy1NUFcxekkyQ20xVWVCT0tTNHNyYjdtNkJQbnFod0lCTDNUdjNNNnUtWDE1d0oyZGlRTU1ER2JZSlZXOFE?oc=5",
@@ -12,16 +18,16 @@
       "published_at": "2026-09-22T11:23:33+00:00"
     },
     {
-      "title": "3702 大聯大 - 快接近前高了！ 下週繼續加油 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5peW5ySm1wUFZLM040WmJGNmQxZ05DXzdIbkdkTE10aE9CT3lZdU9qbzMyZVBZd2hPNExnSkktTjA2OUpHZml5SWdVZVV3REVLZXhTamVNZzU?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-18T06:49:00+00:00"
+      "title": "2303 聯電 - 買此檔股票，還不如投資買3702-大聯大，半年已公布8.4元... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UUkkzRHA3OUlmNTd4Y3ZMbXk2a1JUYzl3N2VTVGsyR1BNN192MHE4aEhFRVNlV1NWOElrVHdlRk1XVG1Ha0xuYzlheWRpYVR4V3hxUW9EbmE?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T02:28:28+00:00"
     },
     {
-      "title": "8.6萬股民歡呼！00999A重倉台積電、大聯大、聯發科「拚3個交易日填息」 配息這天入帳",
-      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOUHg4RUJfZW9tbERQTy1Sd3B6ZDhPaE1sUlNKdXRpRXliSTFXS3pwd0pzTmZmcGc2STRPOW1KLVkxcm14NTVyU0ZmMi1rZERpTG1FSVl0RkxGUE5zY1lKcUZqQnZKWXJxMHdPZ0h5ZGtoSkNrVjN3UWs0T3BTSGluS3dCVjFGY3p2eUwzUEs5VXIwS1Foel9IaGdVekl3aENpejZHczMyOVllMWtFazlCWGFzVGhHUUpFcFhpaGhuMXB6RVlMMGhiRWIxYjNaSFExSG9CVVJtN1Y4WlBXc1VOSUUzTnRBSVNPSkVtbklpbGwzOFpaSGtRVFplQ3ZNMlo4TVh1TUFhbUdvaDJmd2hhc1hNQl90NTdvYlRaQmlHTHFUZVBRWmhEZ2s3dw?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-18T05:15:00+00:00"
+      "title": "3702 大聯大 - 快接近前高了！ 下週繼續加油 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5peW5ySm1wUFZLM040WmJGNmQxZ05DXzdIbkdkTE10aE9CT3lZdU9qbzMyZVBZd2hPNExnSkktTjA2OUpHZml5SWdVZVV3REVLZXhTamVNZzU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-18T06:49:00+00:00"
     },
     {
       "title": "大聯大控股 | 3702.TW 股價走勢與即時報價",
@@ -38,43 +44,37 @@
     {
       "title": "3702 大聯大 - 想說拉回找埋點，吃完飯突然又出現賣壓，原來是某etf要下車 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50a1NDZ2k3UEcxNFdMcWFGQ0hCOHFfWG90WV9PYmtuaEVjTExuVkZxQWZjZGtMalNtSVNRcDVvVUJra2lTV2FMWTg5Q19sSzJxc2J6Q3dmMEk?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-16T11:21:56+00:00"
-    },
-    {
-      "title": "3702 大聯大- 9/15法說後，我對於未來財報微看好- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXWXdqY0dMN2NSamROMFZ1d3AxbDhOYWhqbzZNMzRBTGM3Wk51ZjdVMVFSWHNKMGJGOU1ITmVuelRaVzVGYnBDTWlLQ3hFdGQ1Sk9ONTFDbmY?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-16T04:41:32+00:00"
     },
     {
       "title": "華經(2468) 做什麼？大聯大控股過半持股後，業務與獲利全解析",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5rajZtdC10N3RVOXNGSWl6V1ZhTGZ1al91dFFUUkhPYnlrSGlzbUV4akViR2p1NVZQMXd4SDdlYjhVTkVoYWhJRlYtN2taNUdIbm10bVN4a2lZYTd3?oc=5",
       "source": "pocket.tw",
-      "published_at": "2026-09-15T06:46:44+00:00"
+      "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
       "title": "3702 大聯大- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jdW90QXJFTmozXy00WWNSTExXaFVMY1JKTk9sYmJrMEphTENQX3hzSlBVUmlDU245TXI1Z0RTWS1FU3hfcFlfU0RzVWsyeWNTVEg4VmJzMGI?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-13T10:13:12+00:00"
     },
     {
       "title": "3702 大聯大 - 加油啊...便當有了 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GRC1Fang5QmxtWEYtZWQ2di1VVXhHT0V1MlBrWnMwUmp0M3ZqdVFZSVVGbmtobkk3Qzh3U3pMQXRlZkdpc0R6b1kzSVl2RUV1LVo2SzZZX2c?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-11T01:50:50+00:00"
     },
     {
       "title": "3702 大聯大- 公告內文很有趣- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VMWdoX1JKSHdieEVmVnhja2ZsTHA2bktLQVgzUzR0UWVuUTNBMndqT28tejdneGdKeUFFS3p4YldSZzNMYUdrZEM2Z3l2MmYtQVNnWm1LVmM?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-10T07:13:42+00:00"
     },
     {
-      "title": "大聯大控股股份有限公司",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYy02YTR5SXNsQkdWWEs1NnI3V2drNDRpendfYlJtQ2RnSkxDX0FDZTI5OF9CbC1mZXNUemwwaTZCNVJyQ0dpd0NoS0ZrMVRxbWlOY1lRTHMwY3oyTl9CcTJZWmJkZG1KX2JLaEhCd1J4cFE3SHFzUnZoMU83ODlhU1FLa19ZWGFpZFFFU181N01CVWZZLTlB?oc=5",
-      "source": "MoneyDJ",
+      "title": "【10:48 即時新聞】大聯大(3702)股價走強至108.5元，上漲3.33%，受AI與記憶體需求題材加持＋短中期技術面轉多、法人與主力買盤迴流",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTUVwUzNyWjJnQ0RlcVhKaUw2dWtlUmhRdEtwaU5zamxsMWJnemtlSGV1cktPV2F6dk14eThGa3RLN3RlaW0tbWJhWXAwV2dPS09WY3o1Ty1fdEpIcFNvOEdrNDJfNUFvZFZiV1ZZeTlEY2paekpBUDNnbEZ4cjM1NmJPVVpEeWwxSFJ0YzhB?oc=5",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-10T07:00:00+00:00"
     }
   ]

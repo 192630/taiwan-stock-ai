@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-23T22:35:36.803074+08:00",
+  "updated_at": "2026-09-25T00:35:30.857627+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3587",
   "name": "閎康",
-  "count": 8,
+  "count": 9,
   "news": [
+    {
+      "title": "閎康(3587) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vZzBlY1VfbENITmlYRktjZmNHdnpqemJBX2loa1hfTWl3RGRiQmI0MmJ4b1M5YUNKOHBIM08tMmE0UlBONkhUNU5INWdnV2lpMnNF?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T06:20:48+00:00"
+    },
     {
       "title": "閎康營收連6個月創高 北美CSP自研晶片訂單狂湧！",
       "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPYnZPUno2cFZoaG45X3RUMEk0U01mS0ttbjFZd1ptejJqT2x5NkprT3RhOUc4RWFrRDNHZFVZeVA1ODlYRVVUSXZQVm1zUFAwU09rdV9LZGlZSDRPVnA2RlJ4bG44eTE1dm1mVDJJaFFqVlg0cHRneVVrV2RZUzk0QU1LZTNQTVpWWEhNMmt3TFlhRHp1TUZrb0hCRHlFd18zRlkwQXg1bnBRdHdFeUNaYkYyNGUteWVTWFowV212VXZXUWxEOGw5czlRME9HSl9hOHc4Z1h5Z1lLeU9UUl9Db0dwdFJQM0RKUEdiYi10MlhBWTVHMW5zNEJQdkJzNUo2N2kxNjJTN05Vb0d0S0pnbENIalhYWm5lOE5DM2R2dTdGYVZsbVlTUlFWUWFNcnRrWmt1QmdVRmM4YzFoX1E?oc=5",
       "source": "Yahoo新聞",
-      "published_at": "2026-09-15T18:20:00+00:00"
+      "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
       "title": "閎康營收連六月創高/前8月增18%；日美實驗室擴張| MoneyDJ理財網",
@@ -20,14 +26,8 @@
     {
       "title": "3587 閎康- 閎康115年8月營收5.65億、年增17.78% - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwNUNWUEw3UGpVRWVSZ0NGQndRUkpHZFVYWTBKNUFqRWR4MUR0aE4tM250RUdGbGdZZWpkajRHYW04MG5sR2JROUZEU1YydVBJWmI4VFluZms?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-08T07:14:39+00:00"
-    },
-    {
-      "title": "3587 閎康- 營收創新高- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zUmRaVFpTNkN1eTJDa0xwSXJUUy1VRndjMU5EWXFjTEVya3NWcm41LVM4bF9WMl82Y2YxbWpEYk5ldk5LZVhSUmlGWVV0ZDRFUWxaOUhCM1g?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
       "title": "閎康連6月營收創單月新高 明年起提供美國在地服務",
@@ -42,9 +42,15 @@
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
+      "title": "3587 閎康- 營收創新高- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zUmRaVFpTNkN1eTJDa0xwSXJUUy1VRndjMU5EWXFjTEVya3NWcm41LVM4bF9WMl82Y2YxbWpEYk5ldk5LZVhSUmlGWVV0ZDRFUWxaOUhCM1g?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
       "title": "北美CSP自研AI晶片加速 閎康8月營收連續6個月創新高",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1iZVFBXzVvVjJyazAyMTVYVXdYaUMzbGdyUUltbWUyeTgwNlBWTy1QNVBhN0ViV3JhZk1WM0VxSmFlejE0bmI5UUcwMy0wVlZ6TGNTUjh4UDE?oc=5",
-      "source": "自由時報",
+      "source": "stock.ltn.com.tw",
       "published_at": "2026-09-07T17:14:00+00:00"
     },
     {
