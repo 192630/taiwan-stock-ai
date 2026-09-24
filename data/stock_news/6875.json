@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-23T07:32:34.276353+08:00",
+  "updated_at": "2026-09-24T08:40:22.395371+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6875",
   "name": "國邑*",
-  "count": 12,
+  "count": 11,
   "news": [
+    {
+      "title": "【9/22日股價跌幅】天良(-9.67%)、國邑*(-8.64%)、漢達(-8.00%)",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByMVhVbTlXclhIR2VtR2Z0eTBIZlVGT0FaS3NJQks0c093U0xJbkJ3TDFOdTFwQ2s0el9mNUg5OFNvcVZPTGdWdW4tRDZPMG5sYmRjOHhXU3lwUWVIWHFyb0lXMGxtZGlGM0R0Q1JR?oc=5",
+      "source": "genetinfo.com",
+      "published_at": "2026-09-22T14:13:34+00:00"
+    },
     {
       "title": "國邑*(6875) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LTkc4WHpZTmFnZng4QzJ4aW9QOU1JRTN3VTA4OG14WTVpTjl0M2NVS2hjMlVnbzFzZWRnczYyZVU3MjNQQzY5UDlhcUtVMWs0aEpz?oc=5",
@@ -30,22 +36,10 @@
       "published_at": "2026-09-21T02:11:37+00:00"
     },
     {
-      "title": "個股：國邑*L608獲FDA核准2期臨床，鎖定硬皮症，年底啟動拚2028年初完成收案",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdjhoTjRMV1ViSFBKZ29qU0ExTjlQTGVGMVlXM18yeGdLNnFtbTRkaEtqbmJkdmR6VDRwYzNQM0dGWmNVMzN1MzVPTnVIaGJQNGJFVWEwZ2RsRHl0V0dJMHRobEVmdUtrQWlCV2M5NHJ1V0ltOVNpMEpnVHJiWnlOYUlnSkd5OEpK?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-21T00:35:00+00:00"
-    },
-    {
-      "title": "國邑* (6875) 本公司吸入新藥L608(微脂體-伊洛前列素)，通過美國食品藥物管理局(FDA)人體二期臨床試驗審查(IND)",
-      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQT3loZkI4cDMtNGtZUldqMzF3M1B3LXlvMFJxbWZtZnE1cjJGMk14Z3E4WFlmb2t3czBLNjAwRXFBZXRWZFp3NmQwTlIxa21wLXIyOGROeE9ZMmNiR3JLVnNUZmJ0TUlWSlpNNmMxZzFfSWtyMVpMZEZlQW5rdnBqeGk3YUJoMEZiRlZKdHp6SWc1aVBJdWVNbFBtV2NFOHdEejlDRTNQYWJ1T3NnZzJWUmNQcENLRmlYclVxSE4xRGlwOWE4NE9XYnJkSXk3Wl9hNkk2ajdHQXM5RkJ2a1EzcmlrMFpEdjZUeWRyU1EwcHNUcVlrc3pfckJ4ejZ5VTd4dnl3bE8tbkZ0QVVVSDJ5RzBsV3RhbzNhUzZYMDBLdzlBN3lBOUZYLU5rZGt4MGc4?oc=5",
-      "source": "GeneOnline",
-      "published_at": "2026-09-19T17:31:23+00:00"
-    },
-    {
       "title": "國邑*硬皮症指端潰瘍新劑型新藥 獲美國FDA核准進行二期臨床試驗",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rN3Fzdm16Z19VdWE3VjR1ckJPcmZ0ZWhNNUgtb2xpRW5RVVRZSzk2WmtnbkF3eUJMdXp2aHNfY0ZfNVRIOExDOVZvV2dWblNGTkhOR2ljZW8?oc=5",
-      "source": "stock.ltn.com.tw",
-      "published_at": "2026-09-17T19:24:00+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iRTF0aW1xSVpncGxnYVY5Q3E4Q1NqVlY4V0RHdklkMjZLUkhRRk5lNjdRY2dUOFd6cUxQeUdSY20weWVod2xXTEN1YlVqZDkxR3d5QWxpeWp0OGhXeUZZ0gFkQVVfeXFMUEE4OU5nUFBvQUVmbjlXRzJxTHNWTGtjS19TYkphaGMtb0dVN1J1TzhzQnM1eE5NdVdpUGN2OUFVdnBfQzAtWDZYcElKVkV1Z215dXBncmJ0OHZuZGMxR0ZONXpLQw?oc=5",
+      "source": "自由財經",
+      "published_at": "2026-09-18T10:24:48+00:00"
     },
     {
       "title": "國邑*L606獲中國NMPA核准 加入治療間質性肺病全球臨床三期樞紐試驗",
@@ -69,7 +63,7 @@
       "title": "【26Q2財報公告】國邑*(6875) Q2 營收0元，連2季衰退-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPckY4VWo2WFZqOHZ4VHZ1ZWl5ZC0tS05vT1pfeDg4Q0RTbHY5QkxVaEQwT1hBak9Ic0h2Nl9TWWszV1lMTjVydF94akE5SEtpUE45UHJvM2MwaGtZVWJ5NWdjU0tuUXBBWWNheS1iU2IxNDBKRlNRMmlKZ2tnd25RQTdOMWxlMy04WUE?oc=5",
       "source": "CMoney投資網誌",
-      "published_at": "2026-09-15T08:20:08+00:00"
+      "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
       "title": "盤中速報 - 國邑*(6875)急跌-3.72%報31.0元，成交165張",

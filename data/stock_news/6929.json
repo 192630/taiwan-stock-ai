@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-23T07:32:54.472592+08:00",
+  "updated_at": "2026-09-24T08:40:35.306949+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6929",
   "name": "佑全",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "6929 佑全 - 美國生技指數8月已創歷史新高，莫德納 「癌症疫苗」問世1天大... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DaHpGZENsaXJEdlpBM2RYUElMaWx5TERBZmN1bnBlS2hfX0JmY0w5ZE1DWnQ2alhmdjBOejhCM3J2SUFMT2VoN2RuckRaNFgxUmhkaFpmdzY?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-11T07:00:00+00:00"
+    }
+  ]
 }

@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-23T07:32:58.463459+08:00",
+  "updated_at": "2026-09-24T08:40:37.847280+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6944",
   "name": "兆聯實業",
-  "count": 7,
+  "count": 8,
   "news": [
+    {
+      "title": "兆聯實業(6944) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFByM29rRVpqNnRNZzB5N256Zk9rNS1hZzdKeXJVZFdPOTNwTF9MMTN2QnU0M2JkT2NkUUR5akJnMkt1Sm9tQ0QyNDZn?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T14:59:22+00:00"
+    },
     {
       "title": "【2026/08月營收公告】兆聯實業(6944) 八月營收19.86億元，表現亮眼、呈現雙成長，創近8個月以來新高，年增37.21%",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DU2RtYkZmVm56OGtYcGQ2UkQ2ZXE4RzhzRm1OMDRWN3czOW91akMydUoyY3YwVms2QjJrSU1aY2tUaWdma2dVdmxvT2dIWF9rM083QVVoS0JJSzRDNG1MZUxyM1AwaG8?oc=5",
@@ -36,15 +42,15 @@
       "published_at": "2026-09-02T07:00:00+00:00"
     },
     {
-      "title": "【09/01券商評等報告彙整】兆聯實業(6944) 今日僅1家券商發布績效評等報告，評價為看多，目標價為1,000元。",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOa3gwemhrOUd2c0xpOTZmLVFqaGppX2dFZjI0OEdSRUVTTl8xQ0EyNjk1c1BnSnRUWlVJR25MdzU1WG1Hak1rUndsOHVyTk5BRUJyWDAxQU41bGZnbW1xeFdRNWprb0F3eEEyelo0TkJqVVlNWGIxWVNTZEVadFotYjBCVWJrU0lQNXc?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-01T07:00:00+00:00"
-    },
-    {
       "title": "在手訂單續創新高，兆聯實業Q3營運料寫新紀錄",
       "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQMU9lUG41Q1RNSnI0ZkpKSnZpemtUX1REWXBQc25NdXk5MDZsU0hKclFZaC1id1pFMzBoT2k4eE9rR3lqYUI0aTJodW5CUjVOd3lsSUM0Mm84bGVNamJpNk96dWx5NmNBUkxwamRPbGoxNGpXaUl4ZXNsTkMwOE5VNFpaUlVoOVV3WmdvLUpXMHhNdVlxazNHemZwdXVDdGpzT1c4YzFNYWdBZ1ZpN2sxTVhQb292czN4X1dtUDF3SzZoVDNBM1ZOOGVfSy11TEszdXdseHR4ekRhbGR5S2lhQXVTbFpoUTFkbzZOaUhzSVkxcVJRenRaT3pESURUOVBlTFN3aXllWU9TSkZ0a0EzU1BsTzIyaWlLczhjOTBIUEZwV2R0NkxOTVE5djFMZ1Q4bUU5U3ZQLWVidU9XczhWR3YwVQ?oc=5",
       "source": "Yahoo股市",
+      "published_at": "2026-08-31T07:00:00+00:00"
+    },
+    {
+      "title": "【08/31券商評等報告彙整】兆聯實業(6944) 今日僅1家券商發布績效評等報告，評價為看多，目標價為976元。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMHpTM05WUzV4MjhzaHpITk1GVmNzYXI5dEx0ZmpKTDdmTmswdGNyOEViSElFSVVJeUdhX3dXYUZHQmltUk53azUtY2trTGE4YW0zMXBkWC1QZmVNVW9xcU9TODZiQV8xX04yWEhpaHFpc1hFNy10OGstNEd4dG53NkZrdWZfUVVFN0E?oc=5",
+      "source": "CMoney投資網誌",
       "published_at": "2026-08-31T07:00:00+00:00"
     }
   ]

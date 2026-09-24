@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-23T07:32:25.632700+08:00",
+  "updated_at": "2026-09-24T08:40:17.245786+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6855",
   "name": "數泓科",
-  "count": 3,
+  "count": 4,
   "news": [
     {
       "title": "Eclatorq Technology Co., Ltd.的Price to earnings forward – TPEX:6855",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUFJzRjY1amdaNW9SbXczYXZIZ3c2b3lvbXVKLTl4VXJxajctWExlbVZDTGlSNFBpQ3I5VVhwYlFIbk0xM1YtaEFtOHBVOC1Wd2pEUzZRRlhVSkJLYzYwazhaZ3UteHlXdWQtbkhIWnF2Uzk2YmhVeTRRVDVkaHlaMXBtSDR1eEgyTDVHVFNzUWo3SHplRGN6RmY3MG56UQ?oc=5",
-      "source": "TradingView",
+      "source": "tw.tradingview.com",
       "published_at": "2026-09-21T15:56:45+00:00"
     },
     {
@@ -22,6 +22,12 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTzNyeUxjTl9TY3FCSlBzS2ZPbzNkSGtDNHlpUE04SGZPcWNrUEQ5U1VlWmZGVi03b1lQQ2ZaTHhaeUNFYzhhc2hKZ3AwQ3oyVTBORlh4c0JEMVZsdmRPZENrZTZaeDdaZ21ENVlVdjMtSW5rWEdJa0hSVjFnY2NtMWNTOXlYRDBjTmxySmNXeFQ1R3pVY1lRUG91UnlqZDBENnNETVQ5ZFdvSXBoUFdRcmdrdnFlZXZtVGlkSndn?oc=5",
       "source": "Minichart",
       "published_at": "2026-09-18T00:28:00+00:00"
+    },
+    {
+      "title": "【26Q2財報公告】數泓科(6855) Q2 營收1.7811億元，刷下近4季新高，季增33.81%、年衰退1.98%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObWg5Um15UmZQMTd6SDFkMzV6elUyekpsWG1hVlpidzAwNXBseXltM3BwSkZYQWhHLVNOOF9vNVVCMzZpTTFOdjVoVTdKSkNkaS1WbHpsRHEzMHVZM2kyRzg2TlEyWThUMnNPOU1Xd0FHY1ppTy0tNllMSFVidlA3dERrZUJ0akhwUGc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-15T08:20:06+00:00"
     }
   ]
 }
