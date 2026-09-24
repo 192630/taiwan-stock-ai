@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-23T17:34:56.084247+08:00",
+  "updated_at": "2026-09-24T17:35:33.764424+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2450",
   "name": "神腦",
-  "count": 9,
+  "count": 10,
   "news": [
     {
       "title": "快訊／台積電漲25元至2450 台股大漲逾770點、重回47K",
@@ -12,21 +12,27 @@
       "published_at": "2026-09-18T01:12:49+00:00"
     },
     {
-      "title": "失守4萬7！台股收跌242點 台積電跌15元報2450",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOMVBDOW11YW9nYkVtcWdLN09icm5XZUx1X2d2U05xRk5HZVB3WnUtekQxZTR0LTZINjhJNjNHdzlWeXc0R29NWXpiRW0wRFB4NWhXQnRCTGp4c0tFSUtCWjZObWd5Mk95ZkNlT0RNWTR2UDQ3RC1rOWhEYXA1bHV5am05RkpicjAwRm1FaDZUblhQanVoQ1JlWkRUc01GSDJySWxzUHVHTlc1cWppWmhhbU9UMDFRUkZyRFVPODBGak9ERW15RDl0aTZYMV9jNVBBNWJWNG1SUFhGRmJuZXNqVENQWnFxcVJoR0VkN1BBLVZ1MkFMc2ZVOXhmOTh0dm42ek1qSXZWUFpFcVk4?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-10T07:00:00+00:00"
-    },
-    {
       "title": "今日台股》台積電熄火收2450元！台股終場跌242點 蘋果新機沒帶來資金！蘋概股賣壓沉重",
       "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxQUDZILWFFZHJTN1MzcFJqRlpLRnpodGJTY1ozMXJtbk1uNW9yY2RBam8zdHJkZl9lUzQ3dWZoMFNjNFJkaWdpNDJRQXR5LWxaSzVfYjZtZ2IzUl9XamhwUDluUW1IbG94aHNaRERmeEFQdEgyNGpZUjV1SXNDZ0Q3NmZYak5EMFpad1hlZnZiMVFKTjZkNzNTamxPZTNsNm14MXI0UndfZ2NlMXhWU3ZER2NZanFpRDM4azZ5Y2ZOVDZGTllsVHZmTEg2QTlXLU0zRHNnTlBPT2NESkxHNFl4SllhYVBocDlQVGt4d19ra1l4QnNaOGN3ZDVlN2duSDNsdzdrbi04R0l0UllELUFOWlFkazRTR25JVGZ5bGpZaWdTNzZhWFNoUmlJNXRxM2ltTGNDS1MyMFVHQWozOWJaMnJEYmZyQVNDbkNkeXVzYnh6MGM2WGp0YTJ2dDh5T0V3Z1NiaW93dDRzNF9LdVVrNlZzSjRDbnJGVTlNVWxuMEVNYTVNY0lYN1ZhMHlEbm5pdVFVakRaWC1KVzZDVDN4NG1MNnowTGpFWVRDM1Qwdl82SVFWXzRZS3VkajNXaExxa2dnVC04QTJ3dHVscEphZTVRcndtbTNFaTdqQzZMRkJSYjVneTNwUWlwcGp5Zw?oc=5",
       "source": "Yahoo新聞",
       "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
+      "title": "失守4萬7！台股收跌242點 台積電跌15元報2450",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNT3Zpckg3N0t1X0dqc0dESExmT2ZZSG9hUFV2X1JvX1hrdXN6VUtpTkNFczhNQUZxMzV3SkQ3Y3lWbmVkY1RIZlZ1d256WXJMb3F2b1g0d25CU0NHQ0FfMDR4YURlc2c2cGJrdWFLQ2NfdUxVcFF3NTZ3cXVuS3UyLUtB?oc=5",
+      "source": "壹蘋新聞網",
+      "published_at": "2026-09-10T07:00:00+00:00"
+    },
+    {
+      "title": "台積電8月營收5148億又新高！魏哲家喊AI需求「強強強」，股價2450元能追？5大外資最高目標價曝光",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUE1yY0hEUXdhR3RWbmxnSTlvbEtPdHdnUUtXRlRVMS1vRTd0TUp3cnNVSU8zMVBWX2c0aUJxVTFjWVZhblpUbUx4Mm1qckRSM2VFRjhzbEpqRFo5QWVMR0E1Mm1tb1Q4aUEza0tLVFpFZHpsU2I5NWl6SGVjbE5QXw?oc=5",
+      "source": "今周刊",
+      "published_at": "2026-09-10T07:00:00+00:00"
+    },
+    {
       "title": "47K沒守住！台股終場跌242點 台積電收2450元",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9adDNfZ2QxMDUxc0VBelRtZnhWVW8xNWVkVENhSW5kRW1hYkVSdFpaVlZZaG0xQ25jMUxLWkJmeU0tcUd0WFp1YWxnZ284aXA0d19EU1VpZw?oc=5",
-      "source": "台視新聞網",
+      "source": "news.ttv.com.tw",
       "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
@@ -50,7 +56,7 @@
     {
       "title": "【2026/08月營收公告】神腦(2450) 八月營收31.63億元，表現亮眼、呈現雙成長，創近5個月以來新高，年增27.64%",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNE1zR3NrUTY5dGZGWkR1UElJQ3ZQY01YRDVSRHp5Qmh2MGwxU25PTHlSY3dqTUNXY2tGRENYbVd5OUtUS0FjVDJqRnpnaDhmUG1oTTNlU3JaNmNTbi1acU4ySGpFVUJPWWI5YVg3UjJIeFJGSml6a09NeThNb3VCakYtYk9namlkMGc?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {

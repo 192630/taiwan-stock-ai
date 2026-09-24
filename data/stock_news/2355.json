@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-23T16:35:31.155267+08:00",
+  "updated_at": "2026-09-24T17:35:07.724602+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2355",
   "name": "敬鵬",
-  "count": 4,
+  "count": 2,
   "news": [
     {
       "title": "2355 敬鵬 - 超你嗎 - 股市爆料同學會",
@@ -12,22 +12,10 @@
       "published_at": "2026-09-17T03:27:35+00:00"
     },
     {
-      "title": "2355 敬鵬 - 比看看定穎投控，條件都不如他，股價已破百 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tdTN4bmdXZEY1X2Q0SmE1UFVfMkdqUlR6QVpfWEhReXV0NUsxNmExb1diVjFTbDloelpTRWVqTVZQeERWRm9laDVxd0NkNWM0bzR1Z3dDMDM?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
       "title": "2355 敬鵬 - 敬陪末座的爛鳥 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93ZWxfd1Q4dVRfelNKSGoxUzlQTHF5bmhya2Z6R1Ribi1sRFZOWnlSUUlrTERTbDJubng4VU9ZYWRNRXM2aEFKcElReWM3NVFTckVCUnhMOEk?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-08T01:47:01+00:00"
-    },
-    {
-      "title": "2355 敬鵬- 還在洗鵬鵬中- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBERml6Mng5MFQxMjlNbFNKdWJveHhfMEZHUndwWGtlcno2NmZEN0M1Q0lOc0Z2dzRTTVBGM3o0ZFV4eENhNTFVVmo0TzdMOFRMUEFfYUZMdVc?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-31T07:00:00+00:00"
     }
   ]
 }

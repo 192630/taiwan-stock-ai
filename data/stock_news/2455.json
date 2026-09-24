@@ -1,20 +1,56 @@
 {
-  "updated_at": "2026-09-23T17:34:57.524246+08:00",
+  "updated_at": "2026-09-24T17:35:35.175992+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2455",
   "name": "全新",
   "count": 12,
   "news": [
     {
+      "title": "華夏基金香港推出三隻全新股票ETF，由永明擔任投資顧問",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Bczh6anFFbXZPMzJicFNoN1VkYnk1ck93TE50dEhLdVVGWkVRcWdMN3RROXFOa29Oa2E2Qm5DZUgzV1ozWXdINjFzcnVmTUlNRElRTTZCTUFtZW43UktJdUNQclVVY3FsSThfVnFNNFhyUWw4bERIaA?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-24T05:48:00+00:00"
+    },
+    {
+      "title": "Palo Alto Networks 股價為何上漲？PANW 全新 AI 資安服務採用 Anthropic 與 OpenAI 模型",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNm5LUjNxRUpYWEVsR3Fja1N1OFg1d1lSLUtuNVNDTUZuc0otdjJnbUpNUkY4SGxVNDJfN0JIRVN3ZU0xSWE5VkROVjFia1kzZy1KYzVpOENRSXl2cV85Q014QlphVVhXQXNRdjdVMG50X25NdDVnbXpUSXpTMnlaOEh3WG9VellJRDNVVEpHZHozYVJlQkZDaTFnN0Y0V0dWNVRWRkd1YjJTWEJnZzNrWXdGOTZ2bjJrTWNVUzdmbV9ZSkpwZ3pxY1pSSnpBS1oyZUFKcHJUSC0wWXA3blZaR3lTZHlFSzFKalRHQzhqMk9uZw?oc=5",
+      "source": "MEXC",
+      "published_at": "2026-09-24T05:40:09+00:00"
+    },
+    {
+      "title": "全新期保證金調高",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBERnk2aVlIeXRYbkFGcXdGU1g0Mm9RUTJIR09POHpmSGY0VFNjRXRjMl83aXA5RWM0Um1YZjhoalFkWDFjVm5FT25Wc3FkU2FWVDRWTHVB0gFWQVVfeXFMUERGeTZpWUh5dFhuQUZxd0ZTWDQyb1FRMkhHT084emZIZjRUU2NFdGMyXzdpcDlFYzRSbVhmOGhqUWRYMWNWbkVPblZzcWRTYVZUNFZMdUE?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-23T18:18:48+00:00"
+    },
+    {
+      "title": "全新期保證金調高| 股市要聞| 股市",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zNnpicFdtZ3lMNV9ENTlQS19OVjZsMXVwQkMtR1VOYlhDYXZlN2pmemo3UkpOekZXU2dHcEVtMU1keWhFQTUyU0hPRlhoMnFhS0NYdWY5Y3N5V09hTF9pcGZaUUNsVUd5aHJ0a0JSRV9NQQ?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-23T18:18:48+00:00"
+    },
+    {
+      "title": "4只全新的愛爾蘭註冊ETF即將登陸新交所——新加坡投資者爲何應關注？🇸🇬",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTnFlOEpiQjZDQWdrNlpUamJZNjZvNE1nUlljcElsTktZcll2NThwb3Y4aXNVa2Q5dTFCNHB2emZrbGtNTS1WM3JVNjNDdjd1SzVXM3F6SkJrTXNlUnczdmhzX0dzR3ZMRnljbXQxMTktRW5DZzZmTUZKMGFseVRhbUlMcm8tQVZQR01EeGZEYXVGN2FGYTdXdUxBODFaM3F0RFZIRDRyLVFtMkNXa3c?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-23T11:19:19+00:00"
+    },
+    {
       "title": "期交所調高全新期貨契約保證金",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBDVHdXaXZ3dXNJWXRfT2Y5QzEzOUtIdklFeXQzZDdiMTQ3a0ktbzBRaU1TMUxVNVBhMkl4RmhuRHdGTWNUdlVzNnF1Ukh4TzNV0gFWQVVfeXFMTllqM1lOUEtjQU83ZWgtSndpbDBaeGFMeFpRQk9scjU1aUlFbVBZNDhHeXhnZWVVMXVHTW1LRFBaXzdRa0UwZDNTX0RibFIwTmd0Y0xzQ1E?oc=5",
-      "source": "udn.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZajNZTlBLY0FPN2VoLUp3aWwwWnhhTHhaUUJPbHI1NWlJRW1QWTQ4R3l4Z2VlVTF1R01tS0RQWl83UWtFMGQzU19EYmxSME5ndGNMc0NR0gFWQVVfeXFMTllqM1lOUEtjQU83ZWgtSndpbDBaeGFMeFpRQk9scjU1aUlFbVBZNDhHeXhnZWVVMXVHTW1LRFBaXzdRa0UwZDNTX0RibFIwTmd0Y0xzQ1E?oc=5",
+      "source": "UDN",
       "published_at": "2026-09-23T08:57:15+00:00"
+    },
+    {
+      "title": "2455 全新 - 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB6NU5mZko5b3FDcVF5b3VmRUwzZE5xTjdfOEI2M3VlMjcxdHRVS2Z6a0ZjNTNNdHF1ZFBPem1DUXJJZEh3ejREN2FFb0V2dWNwVVhIdGMzeGQ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T12:30:04+00:00"
     },
     {
       "title": "全新等9檔股票9/23打入處置 友達、信驊等49檔列注意股",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sc1d2TW9RajlaNVVsb25JWFhsbnpMUk92UEQ2SS01N3piaXVQUnFtcVlFXy1pSW16MUtIN0dCZVIzNFdjQzRtWGFfbGkyRnV1OWtGeFRzNGZuTTRRVmtB0gFkQVVfeXFMTUNPZFhNOU02YW5FY1NON25BQlZLUmMxQUU0Wk9HLXI4TWRDU2VEQUlybjFHdEYyamF0YW9LVzFyUHdRamwtbW9PRkdVa3dOcmVUZVhxNWhQSHpjUDRBV1BpMTlPMA?oc=5",
-      "source": "ec.ltn.com.tw",
+      "source": "自由財經",
       "published_at": "2026-09-22T10:40:30+00:00"
     },
     {
@@ -30,52 +66,16 @@
       "published_at": "2026-09-22T05:03:13+00:00"
     },
     {
-      "title": "2455 全新 - 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB6NU5mZko5b3FDcVF5b3VmRUwzZE5xTjdfOEI2M3VlMjcxdHRVS2Z6a0ZjNTNNdHF1ZFBPem1DUXJJZEh3ejREN2FFb0V2dWNwVVhIdGMzeGQ?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-21T21:30:04+00:00"
-    },
-    {
       "title": "從南韓晶片製造商到槓桿半導體ETF：STARTRADER推出49款全新24/7股票及ETF差價合約",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JclpUdWtmSXNLV1ZjajlWejdWYVNtb2xWaHU4bkc4d1NOMzhxang1UW5QTEZsdWM2azR2WkVfaVhOdkpSMkV1MnlaYlBOMExOdkl5UzJLb0Zka2N2UmNMQzNBaXlheFhvWi1ZUGRKY29PZkU?oc=5",
       "source": "FinanceFeeds",
       "published_at": "2026-09-21T10:36:19+00:00"
     },
     {
-      "title": "2455 全新 - 賣點奈米股換中秋烤肉錢 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Fb2txYi1BVnV0dHQxeHEtUjRKQXlzN09vUlJRZjkybWJZY2lydGVNV1Yxand1R3BvamJWRjZFTGJPVGwzaUlDNS1aMnV4NzdWZkNVUzNWc0Q?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-20T09:42:34+00:00"
-    },
-    {
       "title": "全新AI榜單解讀掌握台股焦點 Yahoo股市App三大AI 功能一次看",
       "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNUE5JY2dKYW9ySHpYR0ctaHdGcWtXeE1xU0pEY2N6cG5xLWlPZkJuRWF1czV1VDBiQi1vblZSTmFkVVhMYUlGZUc5QUlONG9YYno0THhObTZVMVpJS0FuR0Y2ZVZma2lBOG5aemlsbTh4SksyR3d3eXFZaUpiSTdyWndPMUM2YW54QWJ4SFMtRUdycXdwZWZVRmhvSlNBUGRtVm5MNFFTVzl6aUtzbkZGaTlhVnlkdWVBc1RMMFlVZEFVSkNKNkV4NWNMcE9mMWlLV09DRnBTMXlkV1N2NlZYVmJ4R1U3bW9wcEp1Vjl4WE5GcnZjSkhxVzcwbHBVQmt6VXduNllhOUppTHJEX2d0UWh1SFJLZDUzWFRYM0NqQ3g0T0NEZThKbEdub1lNc2RyRDdsNEVqZm81UQ?oc=5",
       "source": "匯流新聞網",
       "published_at": "2026-09-18T00:30:09+00:00"
-    },
-    {
-      "title": "熱門股》磊晶晶圓喊漲 全新奔漲停",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41Mzd3ZFpsRTh0OEhOeW1iSzVHdEprdGZyVlh6MjU3OHNwcjlIOVhIQzRwWnF6dWNtdW91REZWc0FDZWVWdFZ4aEJtZGNPZHRiY2VPc3pHV3Y?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-17T20:40:59+00:00"
-    },
-    {
-      "title": "【00992A】09/17 操作日報｜經理人出清世芯，同步調節全新",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9pNmtkUm1XWmJlMDg1TzNUanh2T2tqV2h5dFA0OFNsdHdJQnJzVDVQZ1g4QkxhNWRzWVc4cklLV1U5SVBJNHRHLTYtbTBiOFlDTlFxbTkzY3FTU2dSSG9qNG0wX2pNSGpNbEhGYmIweGdRcWNHQ0xIQ2hoeUNwQQ?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-17T09:42:20+00:00"
-    },
-    {
-      "title": "全新(2455)主要產品與營收占比 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfR3pMYXUwUFhuWmF3VzlRcE42N1dWWjd6R0VnVlpNd3dGak5hNGtOLWdwWFpyeXBKR3ZZcG5wZ1ZteFlTX2otaDJ5cUJaV09icDhyc0lMd0lVWndFNzFPQktsUWNZQQ?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-17T07:00:00+00:00"
-    },
-    {
-      "title": "Yahoo股市首頁全新改版 資訊更全面、重大新聞不漏接 熱門股票一把抓！",
-      "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxNYTNlVEVackIwalU1VEowODZiUDlFRFdFWXV1bmt2RDFHUDVRYzRmVmEwczUyd1BEWW51WmVoU05FTkJvbFk4V2RXMFQtZ0gyVVpHZDI0LUNiVmtXR0p3ektSQ3J2dndfeFY2MWo5bnRoU19TenpsLTRQcExXQ2ZTZUw1UEdITTZ1Uy1MQWFhTUJQdjROUUJWYTFNSlgteHFDeUJ1YTJqUVNKVXpDdTZ4aHBhaHd3eUVMcVhKTk1SMkJfLV93S0NzTzNMTFZmVHdWN0xGc0R5RzRUeENKYkNBOERod1RtZUZWaWRCdkNXYkNBSzJrMHpkRUl5SjZDbXRlcDhoQXdMY2wxNXVwVU85TkFjdkRQSmhTaVlEdU5PV3J4eFNFR3JraEpxSHJCYU9uU2JiRnV4NldLNHZsTDdpVHhrUkV5YVpNOWdrMWdPZ0pJaG55VjZqSU0wQnl4S0MzUWFaWmsxSzJyMVBfXzBBclBWaXpVTzZ1QTRPcEhPN0poWHhlQlpFR2czcUJzamx0MkpGTC1BSldkT2RpVXl1ejgyc2lIY3RIZVZ6LVRzRTV5dmxVakZoLW96R1RndEhk?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-17T06:22:19+00:00"
     }
   ]
 }

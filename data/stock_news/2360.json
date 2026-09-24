@@ -1,21 +1,33 @@
 {
-  "updated_at": "2026-09-23T16:35:33.303457+08:00",
+  "updated_at": "2026-09-24T17:35:09.624470+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2360",
   "name": "致茂",
   "count": 12,
   "news": [
     {
+      "title": "旺矽、致茂 CPO商機升溫",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXWkVpSXlGNFAxbDVCRVEzaU1vMUVmMXlWdWo4Q0lLRVFVSkFCS1dkdVhmX244VmNObVJUaExSYS1lQmQ3c3J5OE55SHFNeW8wZHlKT0dzVGFJbWlsdDFsTFZGOXM4TTgwYTk4?oc=5",
+      "source": "中時新聞網",
+      "published_at": "2026-09-23T20:10:00+00:00"
+    },
+    {
       "title": "【11:35 即時新聞】致茂(2360)股價走強，量測設備與高成長成盤中焦點",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQckJXOTM1bktCc3NDVk5GbG1PZkZzV19ObU45OEpUb3JPenBJM3JjVGotZnFHLWFJRDVETUtBS3E3N1VpMDk0Nm14Z0lEWi1qWV81cFlYdXNHTXp2aXlvdzh2RzZ3bTY1TGJ5Q0dWTG5Yd1pvMmRCWDBoVElpdWQ1NFVHRjd5M3hUVXNzT2lB?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-22T03:35:16+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1OdHlRdjFweHFiUm9TeEZYV2g2SXVTUGh1WVdJbTRwaEpVRWptSnA5amh6ZC0xaEJ2SVlSWmJzbzlGbFFlWkoxWHd1Z2kwd0YxcmJveHE4VmQ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T03:35:17+00:00"
     },
     {
       "title": "創意、致茂市值飛越兆元- 日報",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyQ2k0eDFWbkIwOW45QmFhNjlIMkx3ZmxiQnVsQURwOUltNkhaUldrQ3NOQkpfUDd4NFdnS1lMMU5WUlNnNk9HVEZKcWhDbEF6N2M5LUlNWURMa0x1S19N?oc=5",
       "source": "工商時報",
       "published_at": "2026-09-21T19:00:00+00:00"
+    },
+    {
+      "title": "2360 致茂- 致茂押價內外15% - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPc0gtXzhaTmpqMHpIWVg0SVhXWVRzMXp5OUt3amE1bXQwT1AyMm9EN3JMWmdWQ3oyaTBBb09YZ2RGSjM3VGszcUM1TUlEMHBENjZYc3RfZFk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-18T16:44:24+00:00"
     },
     {
       "title": "全民權證／致茂 押價內外15%",
@@ -30,22 +42,10 @@
       "published_at": "2026-09-18T05:36:40+00:00"
     },
     {
-      "title": "2360 致茂- 致茂HVDC測試需求起步，AI電源架構升級添動能- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rS2g4a1JOc09OWHVwZ2pSUDYtMDlLV3M2RUhJalR2WUduaDY1VDFRbmt5dVFNU2hfMk5YcW1qN1l4ZVo3MXF1dDdKcElqRGd6clJGdFRpOGE?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-18T04:23:34+00:00"
-    },
-    {
       "title": "【11:41 即時新聞】致茂(2360) 盤中走強，市場聚焦AI測試訂單動能",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbHlpUU1pT05PT3BtT0tOX1BNbFhCUEk3NHlWZVlocjRZT1RkNHgtcU43Y01pYWhRaW9Wb0RGeHlZdkNMZVRSclpwY0JoQk05dlJ1VmVvc2V6SmtYTGVqSkE3RDdYSDFlSWFfNTdOcmI3VEM1akdkdDRmbjl4bHdVdnFWU1FDSUhXX3JNSjNn?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-18T03:41:17+00:00"
-    },
-    {
-      "title": "致茂看AI推論起飛，明年測試需求擴大",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOTDZFeGQ0bnNsRmUtRGFuWk0tRTFzWHRkRmFPTDRMaHNmTWpIZDc0X3FBNVpuUzNTWi1RNGhCeEpMdDN3WWZEd21pdl9nQldVUVZsVnFkdjNXX0xDb0t3NzFuLTEyWFBBRzFSZ3RoQ09kRTJPanRrWjBqbWdVTXlITFFwSEdBSjVvMWtubl9mYlEyZVhuNmpwOHNZeDNjQkNIT3ZLRmFOd043R0tiU3hzUGlxejk1dEtTZ1hlOTJNYmNlVm51MlpMa2Y1N0lZdTIzb0psd0YzYjhEWEZvLW9qQXRsNUF3S2xEc1RtTHYyYVI0eUJPX09jT3otN0hIN3hJd1ViMkxnYV9jdWx6eHlfczN6MA?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-16T02:21:12+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pOUxWVkU3OEgtcmY5dUlXU25Jd1E4SEpCMjNCYlI5dGlVOVNWel95ekNjM3ZaYjBOWDVwVTM2WUR1b2k0OVpnSlJnQTZidDhwNUdFOWpEVVE?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-18T03:41:20+00:00"
     },
     {
       "title": "(2360)致茂法說會 2026/09、致茂財報、致茂展望、致茂財報投資亮點｜理柴知道:法說最速報! - 方格子",
@@ -54,27 +54,27 @@
       "published_at": "2026-09-15T12:51:31+00:00"
     },
     {
-      "title": "討論牆 | 盤中速報 - 致茂(2360)股價拉至漲停，漲停價2490.0元，成交2,790張",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzRkxlR0gtMEQ3VDlOWXZSQVdtQ1V0Q2hFMFlLS2tRX0I1VTBQaHFhbG9ZaGFaZXRIYm9rWkVCT0dHcENSdUJ4VzFfOHBuRzVzVWJOV1daaHVlZDB4UFY1VDV1SXQ?oc=5",
-      "source": "LINE TODAY",
-      "published_at": "2026-09-12T10:14:44+00:00"
+      "title": "致茂看AI推論起飛，明年測試需求擴大",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOTDZFeGQ0bnNsRmUtRGFuWk0tRTFzWHRkRmFPTDRMaHNmTWpIZDc0X3FBNVpuUzNTWi1RNGhCeEpMdDN3WWZEd21pdl9nQldVUVZsVnFkdjNXX0xDb0t3NzFuLTEyWFBBRzFSZ3RoQ09kRTJPanRrWjBqbWdVTXlITFFwSEdBSjVvMWtubl9mYlEyZVhuNmpwOHNZeDNjQkNIT3ZLRmFOd043R0tiU3hzUGlxejk1dEtTZ1hlOTJNYmNlVm51MlpMa2Y1N0lZdTIzb0psd0YzYjhEWEZvLW9qQXRsNUF3S2xEc1RtTHYyYVI0eUJPX09jT3otN0hIN3hJd1ViMkxnYV9jdWx6eHlfczN6MA?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
-      "title": "Chroma Ate Inc.的股東人數 – TWSE:2360",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTnEzeXF4Vm43a0VCOXpmS1h1SkVfajJkNmtOUlF4RVA3am56SllPZHlXNjU5R1J0YjR6eWc4YUFKOFlOLVNGazVYZzlLOEx4YXRINkg2WmNkdDRwOGJyZGsyQ3dOR1ZZZG9oWm93anh5NXoyeWRWanpldl9yMHNyb2wtQmh1VndBUkZTZmc2RHU3TXZfcWpOZnl4WTZzUnZkSUln?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-10T15:14:03+00:00"
+      "title": "討論牆 | 盤中速報 - 致茂(2360)股價拉至漲停，漲停價2490.0元，成交2,790張",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzRkxlR0gtMEQ3VDlOWXZSQVdtQ1V0Q2hFMFlLS2tRX0I1VTBQaHFhbG9ZaGFaZXRIYm9rWkVCT0dHcENSdUJ4VzFfOHBuRzVzVWJOV1daaHVlZDB4UFY1VDV1SXQ?oc=5",
+      "source": "today.line.me",
+      "published_at": "2026-09-12T10:14:44+00:00"
     },
     {
       "title": "討論牆 | 盤中速報 - 致茂(2360)股價拉至漲停，漲停價2230.0元，成交1,279張",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1nU2lqbS1YQTkwbFJyYVBoR0JHZGxRUTR0WXEyRjRsbnFNY3hIQlhkX2YtXzNaWkN4bE5mcHlHb2dCTldlbTA4RC1BeGhOT0hZYnAwTnlEa1J4Q2RPSlVTVmRLVV8?oc=5",
-      "source": "LINE TODAY",
+      "source": "today.line.me",
       "published_at": "2026-09-10T13:39:06+00:00"
     },
     {
       "title": "致茂8月營收年增156% 股價卻急殺？拆解「漲多拉回」的四項檢查表",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfQ1Z5bjFpVUdDdHY5alc4YkpmMkdIMEp4VEJmOElsdnZ1V0lVRkVVd285cERlUXZUeEcwbHc5M0tfLUtySm5HLW9QaEx3NS1VVGI2RVJMbW5QdWxqa0s3NHNnZzUzVVhJTHNKeGdZR1BoSURrRzRKRjgzbXgxQQ?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-10T07:00:00+00:00"
     }
   ]

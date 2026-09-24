@@ -1,14 +1,26 @@
 {
-  "updated_at": "2026-09-23T16:35:47.757742+08:00",
+  "updated_at": "2026-09-24T17:35:22.579287+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2413",
   "name": "環科",
   "count": 12,
   "news": [
     {
+      "title": "《電零組》注意股：環科 近5日漲6.72%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTBnZEtrcEF1LVpaMmNhQnJscDNDR01kWmhUT3Q1Q0xqcWEwc2g0Ny0tSUF3dWROSzBrYXBjdTJ1ajZUbXVYQkxlX1RaaDkwUGhxcFlhWWMwVDEtY01xRkVtc0I3OTRIN3VPRVRYQUZzWWs2MGZlNEVMUzFJM3pnUlJjOUJmRHFG?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-21T23:56:00+00:00"
+    },
+    {
+      "title": "2413 環科- 楊爸盤中只盯這三個細節，看懂了再出手- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pUHpiZ3BvWnhNQVJ6WjNEcDlfeUZ4bFJnekRkZFVWLWczc05aTHJtSC1MeDZOMlUtMVJFekM1VWlzOTV5c3VoeTB4U1hTc2JqWDlNRXN2RFI?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T15:30:44+00:00"
+    },
+    {
       "title": "【10:30 即時新聞】環科(2413)亮燈漲停，短線技術面急強吸引資金關注",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdkl4aWJGYU1wUUpqUUVSSF9BR1pwYnpHMENvMmdjVFgtRUIwOVAyTUFvd1FyVTZ6RzdGdkMwek9Xa3E1NGc1WWtIX1hxRXhucXFsM3ZBRzdyTnp1aXE3TF9UWEJ5RXQ2M19KQU1jRmFFcl9mQmhkSDJ2V2RaRmx6by12QUtHOVBKcGdtdFZ3?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-21T02:30:17+00:00"
     },
     {
@@ -18,10 +30,10 @@
       "published_at": "2026-09-20T22:43:13+00:00"
     },
     {
-      "title": "攻高功率電源 環科H2熱轉",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZcENlVTNtNW5qbmFwXzJaZDIxZGFCY0x1NXBlTW53WmVLNGVTVEZFSlpMYk1jT1RwYUhOYVhxaXpmMDBJZFcyTzZfU195V3ozR2dIX0x6aEpiQTB2c0xJb2pNeWcxcDZZYk00?oc=5",
-      "source": "中時新聞網",
-      "published_at": "2026-09-16T20:10:00+00:00"
+      "title": "攻高功率電源環科H2熱轉- 日報",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91UVBfaDNwYW5QSGh4QkJhQkwzX0l3MkZDWjh3bHZvWlJjdUxNZEtna1IxUmlITzBSUF82N245cnlkWVE1eXFXWmlwZ1VTemhoY2I5YUlWTFF0c2hOYWRz?oc=5",
+      "source": "工商時報",
+      "published_at": "2026-09-16T19:00:00+00:00"
     },
     {
       "title": "環科雙引擎 獲利向上",
@@ -30,16 +42,16 @@
       "published_at": "2026-09-16T16:32:09+00:00"
     },
     {
+      "title": "【09:23 即時新聞】環科(2413)亮燈漲停，短線買盤追價點火",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZldzOTVnZjE3aU9Yd1h2QmVWaFU3N3RtbG9YUnI0ZFhDY3ZYWkxtaThiTmF6T211LXJKNmY1Qzk1QVNxQjJSREpEQVczOVNuam5VVy1aQmtiaUQyRmY3bG9Ldk0xVGdzYjdnSjNrWHF5Yjc1cEY0WUtWUTVOSmhOWUlZVXlrbTd5S0hqUGhn?oc=5",
+      "source": "cmnews.com.tw",
+      "published_at": "2026-09-16T01:24:13+00:00"
+    },
+    {
       "title": "環科訂單滿至年底；下半年將優於上半年",
       "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOalBramVqd0tXLWI3SnllbHVQWkNMdVFldXRVbzhLTm5YcDVWZFpQc3hVMU81eGVvbTkzWkZXRTFSN1BJZ3JVdXdKR1ZGVzlfYzcwUWwtUGp5RUY1UlhqczNRcGlSbGR1TjNoeGxRN3prcVFlMzZLQzRWY0NMSC13OTY4WGdBZnJCdjAycnFHNWZCSUYxTzMtRlUzcmkybUFnNDdrbmFqOXhIX0RtMXFYWElwQWNHRFFMTnVIdS15Tk53VmFnTWJlZ21RZzFUWGY2eWVvdWFVSnFBYXM2TXcwa0NzN3ltRHRaMzZsd2sxMTRRczkycnJkVWRSOF9weVpTY0hFcHQzQkF5YXpnUGtOZFNPTkVMQlA1NEx0YktSSDRCYWZUaWFCVw?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-09-16T05:06:00+00:00"
-    },
-    {
-      "title": "【09:23 即時新聞】環科(2413)亮燈漲停，短線買盤追價點火",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZldzOTVnZjE3aU9Yd1h2QmVWaFU3N3RtbG9YUnI0ZFhDY3ZYWkxtaThiTmF6T211LXJKNmY1Qzk1QVNxQjJSREpEQVczOVNuam5VVy1aQmtiaUQyRmY3bG9Ldk0xVGdzYjdnSjNrWHF5Yjc1cEY0WUtWUTVOSmhOWUlZVXlrbTd5S0hqUGhn?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-16T01:24:13+00:00"
+      "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
       "title": "8月營收連6月年增 法人看好環科明年EPS年增率有望達13%以上",
@@ -48,34 +60,22 @@
       "published_at": "2026-09-14T09:12:04+00:00"
     },
     {
-      "title": "【10:55 即時新聞】環科(2413)股價上攻站上5字頭，AI網通電源題材帶動買盤迴流＋突破半年線後多頭結構延續",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNGJpdWVueERycF9BQWFqQTBFQ1VkdFpKUGs4M1BBc3RMMlhXbUU1cGRwNEF3M09tREdGaU5OWWxLcU9sMUw5MTQzTHZkSE45N3pnbE5NS3h0MXMyMmlXNmdocVpoT0dmcWxaS0R5dzVGUFFsRDZrdWpIUWtITHd5NlJ5UmtINTJEaDJCM3pB?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-10T07:00:00+00:00"
+      "title": "環科AI電源出貨強勁 EPS上看4元 股價留意50元關卡",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9VYmg4V3BXRGJuSm05aFYwMlFDMzlrSy1fQVhvbGN6Qjl5ZlZCOUJvbGhiY1dKNTNKOU00TmR6WWNCMzQ5ajNyTzM3cWtSbDFTdHc?oc=5",
+      "source": "蕃新聞",
+      "published_at": "2026-09-10T20:47:40+00:00"
     },
     {
-      "title": "環科AI電源出貨強勁 EPS上看4元 股價留意50元關卡",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBET2Roa2FlUkVKa3JsaGgweThaa08yU3FpbkRndHd5Qm9EeXhqS0RZLXBsS1BoMmpzMGlmXzdFaFJpcWxRaU9SZVptM2FlUlU5aFIwSHpiZU9wZVJTalRuVUxINkdmbUN1Q2ZQVFlfZw?oc=5",
-      "source": "理財周刊",
-      "published_at": "2026-09-10T03:58:21+00:00"
+      "title": "【10:55 即時新聞】環科(2413)股價上攻站上5字頭，AI網通電源題材帶動買盤迴流＋突破半年線後多頭結構延續",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNGJpdWVueERycF9BQWFqQTBFQ1VkdFpKUGs4M1BBc3RMMlhXbUU1cGRwNEF3M09tREdGaU5OWWxLcU9sMUw5MTQzTHZkSE45N3pnbE5NS3h0MXMyMmlXNmdocVpoT0dmcWxaS0R5dzVGUFFsRDZrdWpIUWtITHd5NlJ5UmtINTJEaDJCM3pB?oc=5",
+      "source": "cmnews.com.tw",
+      "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
       "title": "今日最夯股／ 追價買盤進場 環科量增強拉漲停 業績面有什麼好消息？ | 市場焦點 | 證券",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jNTFDU3NGWVJNOE5kT016TTI4bTZNS1E2djFxeTJ0R21jQ3hOWDdJX1ZyRXpLeERLU1ZhUWFUTERhRHY1OG9DTUVQam1pWHRFVVg4MENFeWlkZw?oc=5",
       "source": "經濟日報",
       "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "【10:24 即時新聞】環科(2413)股價勁揚至49.15元，海事代工與月營收連三月走強帶動買盤，短線技術面止跌轉強惟主力籌碼仍偏空",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa0FQa3BuMlNpcVlGeGNpWGJqR3A5LVI1Y1FhSHk1c2xpbjh0SFA0Uy1OOHFTRVpiYThWWEJEUlRyUGgzQ2dkS2tjeDBTU2tzNWptRWo0RFhLWDJTb0hONGRPSmUtY1RLbXlfdkt2Qlc4UXRITzlsZ0k1ZUljQVFjUEZsNlVOdmFGc3M5U0x3?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "【12:06 即時新聞】環科(2413)股價走強逾4%，海事代工與網通AI電源營收續揚＋法人回補與技術面多頭結構支撐",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeURMaGFTSnlfbnVWamFTS2VONV9YbkVzajhTMWxDVTNaUkV4Q2JVQjRVM3YwazVyRUFKQnhJWEQ5M1VJdXBsbWFXb0RfdFdlQW9GY0M5cW94blBteUpXSjUyTmxxMHhiNWRyTm0tbkFqMVg3cGI2RzJvNEt0OXl2MnNwYWZONlRVSnRtTXNB?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-07T07:00:00+00:00"
     }
   ]
 }

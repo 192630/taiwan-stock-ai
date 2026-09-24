@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-23T17:34:52.946683+08:00",
+  "updated_at": "2026-09-24T17:35:30.785367+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2438",
   "name": "翔耀",
-  "count": 5,
+  "count": 3,
   "news": [
     {
       "title": "2438 翔耀- 翔耀：勁耘科技董事會決議台南廠區資產活化處分案，交易總額9.2億元- 股市爆料同學會",
@@ -18,21 +18,9 @@
       "published_at": "2026-09-15T21:42:34+00:00"
     },
     {
-      "title": "Mobvoi, Inc.的Price to earnings forward – HKEX:2438",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS2hSM2pvSVpEVXpFUHpsNlBkX1dPdm9DYTRsS2JHd2twNGhlUXRYQ3JRNDZZSEY0aEJ2djBuSElaVHJIQ2N2TUZiS19fMUl6RHVjTEhES3Q1RnF6dm1hYTVSQ01pN3R3MGNzVHFQemJxclg4dE5sUXdxTFBZVnhRX0szQTNhb2E2bXpscEUxaFhZX0xleHJ3YnN5NlVRdw?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-15T06:20:55+00:00"
-    },
-    {
-      "title": "討論牆 | 緯穎1張變近3張竟藏「小數點陷阱」！沒湊股恐損失2438元",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE13RDgyTmJ5MnNGLURIVktuS3hJU1A1UnpDdXRCVWU5QTVULXg2V1lMVXctMVBhbmVOV19VaDhYclR6dmdZdHQwWVRrc0EyTTFQVjh0OHBlUDRfV05hdG45bzUzODE?oc=5",
-      "source": "LINE TODAY",
-      "published_at": "2026-09-08T09:45:26+00:00"
-    },
-    {
       "title": "緯穎1張變近3張竟藏「小數點陷阱」！沒湊股恐損失2438元 | 鏡週刊",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tZUJuTm1FNC1aSUJaYmtRSkZ1SmJsXzNjZjJlSmxFdU1sV01zWGJfRlphSmxGQlFTNDRuemVVay1JSEVpaGRrX3hWLWdROEFXTHJLbXNR?oc=5",
-      "source": "LINE TODAY",
+      "source": "today.line.me",
       "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]

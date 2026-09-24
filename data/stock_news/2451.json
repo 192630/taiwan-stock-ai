@@ -1,15 +1,33 @@
 {
-  "updated_at": "2026-09-23T17:34:56.561116+08:00",
+  "updated_at": "2026-09-24T17:35:34.226710+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2451",
   "name": "創見",
   "count": 12,
   "news": [
     {
+      "title": "【優分析即時新聞】創見(2451)前8月營收年增384%創新高，工控占比逼近七成、毛利率飆升至77%",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBWTHZnLUdhbmUwUzlWZ1ZqTnZ6NjFPZnBYNFk0Y0t3TDRpdy10QkhCYWhwUjMtNUlJdVNLbTI5WURBbnQ0bkg1RVd6WXA0UkE?oc=5",
+      "source": "news.cnyes.com",
+      "published_at": "2026-09-24T02:01:01+00:00"
+    },
+    {
+      "title": "創見揪伴 搶邊緣AI商機",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kQXJBVGUwbFZxUHhqbHg1X0dCYUJlMVNUWWNTc05BVHFUSHBjbjJ4aEt0VFZ3UjBiaDZiMFltVnp0Rk5pYU1mT3NKNWxWeWljVXF6VDRKalhEdzIzR1I0ckVfUGRDMlZpUlB1TUlWeEpvZw?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-23T17:18:36+00:00"
+    },
+    {
       "title": "2451 創見 - 創見擴充嵌入式鏡頭模組陣容加速Edge AI視覺應用- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81NnZ1Nm1LTlliaTlJTFZaRTh2cElwYV9BU3VuQ21xR3oyTDZyUTBJeWVESE40UlJhem51UFpsTmsxRWF1V0VzYm5xYmE4YXk2bzBVRmFQclc?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-23T07:11:42+00:00"
+    },
+    {
+      "title": "2395 研華 - 創見推2款嵌入式鏡頭攜手研華搶AI辨識商機- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VYmM3MVhIbkI3dncwQTRnY0pQWHJ4Q2JIakwwQjkxT09MQTIxMUFpR2szTjFLc1Q5dUIxeFhiRlpWWHZ5Rkd6OUJTVVpQOXF4bDdHOVBHa1k?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T03:45:07+00:00"
     },
     {
       "title": "2395 研華 - 創見擴充嵌入式鏡頭模組陣容攜研華加速Edge AI 視覺應用- 股市爆料同學會",
@@ -39,7 +57,7 @@
       "title": "創見攻高速運算 推64GB工業用DDR5",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pQ1F4RV9GLW9tZ1l1Vk1oYnVYSEtIQmxHM1QtZE1ORzVweXJNQ2VBVjl5VEd2U29pQ285UmxtMS1BcTIxWGpZdWRuNFZNd1k?oc=5",
       "source": "news.cnyes.com",
-      "published_at": "2026-09-14T09:22:01+00:00"
+      "published_at": "2026-09-14T07:00:00+00:00"
     },
     {
       "title": "2451 創見 - 明天看起來無一幸免！ 恐懼指數也尚未到底部 VIX指數也還沒... - 股市爆料同學會",
@@ -54,28 +72,10 @@
       "published_at": "2026-09-09T02:58:01+00:00"
     },
     {
-      "title": "創見(2451)8月營收年增275% 庫存與供貨能力放大記憶體漲價效應",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FdmFMaDVfdm5uZkl3bVotbUNLU290WGJKajQxU3RfX2ozXzJBRk01b3k0N0J2aVJtMEFVb3JuZnBzRGJtMnJhTHhQZFgwYWM?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-09-03T07:00:00+00:00"
-    },
-    {
-      "title": "2451 創見 - 創見8月營收寫同期高；拓高階記憶體應用商機- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCRG9QTE9jbEV4Szlzb1NHNlNXN0NIYzJkV2puRWo0WDJrMmVJcVJyRzRnejktbjIxRXRnblF6cWwxRDlrSmQ5UnFjZHFfRXVidWNVbjN4Y2E?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-03T07:00:00+00:00"
-    },
-    {
-      "title": "創見8月營收創同期高！累計前8月年增384% 同步寫新猷| 產經",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPanZaUjRGRHBzcXpqcTlvMHNvX21EUlVsR1A2RDU1d0JPaGFCU2VfZjZpV2lTdDhybi1UWU1CMDBqWFVaRU9HUE9qUk1KVGpMY3JWZVQ5U1Zfd0ZmYm9CdUVBNU5aRm93RTZhbTNzLVEwR3ZFRlB0NWdUZVJqRlhua3piMlV2U2t5d3M5RXJaaHJtdjRiV2dNcW9ENjZDZw?oc=5",
-      "source": "非凡新聞台",
-      "published_at": "2026-09-03T07:00:00+00:00"
-    },
-    {
-      "title": "2451 創見 - 🌸 下 下雨滑滑 滑滑新聞 韓國女星默默捐很多錢幫助弱勢... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zOFl4bnRxNmxPMFlfZXpyai1QZmxnMUM4b3N4YTFmTmlVWEdTUl9qaFhQN1lzYmtWaVRrQUxXSnlKTjZ0LTBiVTdTd3Q0ZExnUTZYSDctYmo?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-01T07:00:00+00:00"
+      "title": "創見資訊股份有限公司",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYklXZnJrZUpQNTJoUS1fMXltTDdXNnJ0azdSN0xUZE9wSE5kNmNydDlsdV9GNFh0MHZJX3AwbzJxNmlDSUVPX3lzb2hZTG5rN0tJTl95enZyZXpEVkktV0FzOHBQbFZybUJBRE5ob3h6Z2xZS1NKT0JKYWFKWVRBWlRZRHpSdXZCRG1GcGFsN0Q0YTNjRHc0?oc=5",
+      "source": "MoneyDJ",
+      "published_at": "2026-09-07T07:00:00+00:00"
     }
   ]
 }
