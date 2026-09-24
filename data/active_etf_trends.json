@@ -1,78 +1,45 @@
 {
   "_meta": {
     "status": "success",
-    "updated_at": "2026-09-24T00:25:10.704789+08:00",
-    "snapshot_count": 4,
-    "comparison_days": 3,
-    "latest_date": "2026-09-23",
+    "updated_at": "2026-09-25T00:25:17.438700+08:00",
+    "snapshot_count": 5,
+    "comparison_days": 4,
+    "latest_date": "2026-09-24",
     "description": "依每日官方投資組合快照計算跨 ETF 持股股數方向與連續交易日"
   },
   "positive": [
-    {
-      "code": "2308",
-      "name": "台達電",
-      "increased_count": 4,
-      "decreased_count": 1,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": 3,
-      "streak_days": 3,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "2449",
-      "name": "京元電子",
-      "increased_count": 3,
-      "decreased_count": 0,
-      "new_count": 0,
-      "removed_count": 1,
-      "net_etf_count": 2,
-      "streak_days": 3,
-      "latest_date": "2026-09-23"
-    },
     {
       "code": "4904",
       "name": "遠傳",
       "increased_count": 1,
       "decreased_count": 0,
-      "new_count": 1,
-      "removed_count": 0,
-      "net_etf_count": 2,
-      "streak_days": 3,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "2542",
-      "name": "興富發",
-      "increased_count": 1,
-      "decreased_count": 0,
       "new_count": 0,
       "removed_count": 0,
       "net_etf_count": 1,
-      "streak_days": 3,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "2618",
-      "name": "長榮航",
-      "increased_count": 1,
-      "decreased_count": 0,
-      "new_count": 1,
-      "removed_count": 0,
-      "net_etf_count": 2,
-      "streak_days": 2,
-      "latest_date": "2026-09-23"
+      "streak_days": 4,
+      "latest_date": "2026-09-24"
     },
     {
       "code": "3037",
       "name": "欣興",
-      "increased_count": 2,
-      "decreased_count": 1,
+      "increased_count": 4,
+      "decreased_count": 0,
       "new_count": 0,
       "removed_count": 0,
-      "net_etf_count": 1,
-      "streak_days": 2,
-      "latest_date": "2026-09-23"
+      "net_etf_count": 4,
+      "streak_days": 3,
+      "latest_date": "2026-09-24"
+    },
+    {
+      "code": "2618",
+      "name": "長榮航",
+      "increased_count": 2,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 2,
+      "streak_days": 3,
+      "latest_date": "2026-09-24"
     },
     {
       "code": "5904",
@@ -82,217 +49,140 @@
       "new_count": 0,
       "removed_count": 0,
       "net_etf_count": 1,
-      "streak_days": 2,
-      "latest_date": "2026-09-23"
+      "streak_days": 3,
+      "latest_date": "2026-09-24"
     },
     {
-      "code": "5439",
-      "name": "高技企業",
-      "increased_count": 1,
-      "decreased_count": 0,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": 1,
-      "streak_days": 2,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "3090",
-      "name": "日電貿",
-      "increased_count": 1,
-      "decreased_count": 0,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": 1,
-      "streak_days": 2,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "6121",
-      "name": "新普科技",
-      "increased_count": 1,
-      "decreased_count": 0,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": 1,
-      "streak_days": 2,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "3227",
-      "name": "原相科技",
-      "increased_count": 1,
-      "decreased_count": 0,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": 1,
-      "streak_days": 2,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "2303",
-      "name": "聯電",
+      "code": "3491",
+      "name": "昇達科",
       "increased_count": 3,
-      "decreased_count": 1,
+      "decreased_count": 0,
       "new_count": 0,
       "removed_count": 0,
-      "net_etf_count": 2,
-      "streak_days": 1,
-      "latest_date": "2026-09-23"
+      "net_etf_count": 3,
+      "streak_days": 2,
+      "latest_date": "2026-09-24"
     },
     {
-      "code": "8996",
-      "name": "高力",
-      "increased_count": 3,
-      "decreased_count": 1,
-      "new_count": 0,
-      "removed_count": 1,
-      "net_etf_count": 1,
-      "streak_days": 1,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "3008",
-      "name": "大立光",
+      "code": "3324",
+      "name": "雙鴻科技",
       "increased_count": 1,
-      "decreased_count": 2,
-      "new_count": 2,
-      "removed_count": 0,
-      "net_etf_count": 1,
-      "streak_days": 1,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "6223",
-      "name": "旺矽",
-      "increased_count": 3,
-      "decreased_count": 2,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": 1,
-      "streak_days": 1,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "3711",
-      "name": "日月光投控",
-      "increased_count": 2,
-      "decreased_count": 2,
+      "decreased_count": 0,
       "new_count": 1,
       "removed_count": 0,
-      "net_etf_count": 1,
-      "streak_days": 1,
-      "latest_date": "2026-09-23"
+      "net_etf_count": 2,
+      "streak_days": 2,
+      "latest_date": "2026-09-24"
     },
     {
       "code": "3529",
       "name": "力旺",
       "increased_count": 1,
-      "decreased_count": 1,
+      "decreased_count": 0,
       "new_count": 1,
       "removed_count": 0,
-      "net_etf_count": 1,
-      "streak_days": 1,
-      "latest_date": "2026-09-23"
+      "net_etf_count": 2,
+      "streak_days": 2,
+      "latest_date": "2026-09-24"
     },
     {
-      "code": "3017",
-      "name": "奇鋐",
+      "code": "2303",
+      "name": "聯華電子",
       "increased_count": 2,
       "decreased_count": 1,
       "new_count": 0,
       "removed_count": 0,
       "net_etf_count": 1,
-      "streak_days": 1,
-      "latest_date": "2026-09-23"
+      "streak_days": 2,
+      "latest_date": "2026-09-24"
     },
     {
-      "code": "3491",
-      "name": "昇達科",
-      "increased_count": 1,
+      "code": "3189",
+      "name": "景碩科技",
+      "increased_count": 2,
       "decreased_count": 1,
-      "new_count": 1,
+      "new_count": 0,
       "removed_count": 0,
       "net_etf_count": 1,
-      "streak_days": 1,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "7856",
-      "name": "HERMES TESTING SOLUTIONS INC ORD TWD 10",
-      "increased_count": 0,
-      "decreased_count": 0,
-      "new_count": 1,
-      "removed_count": 0,
-      "net_etf_count": 1,
-      "streak_days": 1,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "3605",
-      "name": "宏致",
-      "increased_count": 0,
-      "decreased_count": 0,
-      "new_count": 1,
-      "removed_count": 0,
-      "net_etf_count": 1,
-      "streak_days": 1,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "3532",
-      "name": "台勝科",
-      "increased_count": 0,
-      "decreased_count": 0,
-      "new_count": 1,
-      "removed_count": 0,
-      "net_etf_count": 1,
-      "streak_days": 1,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "6213",
-      "name": "聯茂",
-      "increased_count": 0,
-      "decreased_count": 0,
-      "new_count": 1,
-      "removed_count": 0,
-      "net_etf_count": 1,
-      "streak_days": 1,
-      "latest_date": "2026-09-23"
+      "streak_days": 2,
+      "latest_date": "2026-09-24"
     },
     {
       "code": "3406",
       "name": "玉晶光",
-      "increased_count": 0,
+      "increased_count": 1,
       "decreased_count": 0,
-      "new_count": 1,
+      "new_count": 0,
       "removed_count": 0,
       "net_etf_count": 1,
-      "streak_days": 1,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "3324",
-      "name": "雙鴻科技",
-      "increased_count": 0,
-      "decreased_count": 0,
-      "new_count": 1,
-      "removed_count": 0,
-      "net_etf_count": 1,
-      "streak_days": 1,
-      "latest_date": "2026-09-23"
+      "streak_days": 2,
+      "latest_date": "2026-09-24"
     },
     {
       "code": "2027",
       "name": "大成鋼",
-      "increased_count": 0,
+      "increased_count": 1,
       "decreased_count": 0,
-      "new_count": 1,
+      "new_count": 0,
       "removed_count": 0,
       "net_etf_count": 1,
-      "streak_days": 1,
-      "latest_date": "2026-09-23"
+      "streak_days": 2,
+      "latest_date": "2026-09-24"
+    },
+    {
+      "code": "3532",
+      "name": "台勝科",
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 2,
+      "latest_date": "2026-09-24"
+    },
+    {
+      "code": "6505",
+      "name": "台塑石化",
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 2,
+      "latest_date": "2026-09-24"
+    },
+    {
+      "code": "3017",
+      "name": "奇鋐",
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 2,
+      "latest_date": "2026-09-24"
+    },
+    {
+      "code": "2006",
+      "name": "東和鋼鐵",
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 2,
+      "latest_date": "2026-09-24"
+    },
+    {
+      "code": "2606",
+      "name": "裕民",
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 2,
+      "latest_date": "2026-09-24"
     },
     {
       "code": "2347",
@@ -302,63 +192,19 @@
       "new_count": 0,
       "removed_count": 0,
       "net_etf_count": 1,
-      "streak_days": 1,
-      "latest_date": "2026-09-23"
+      "streak_days": 2,
+      "latest_date": "2026-09-24"
     },
     {
       "code": "2603",
       "name": "長榮海運",
-      "increased_count": 0,
-      "decreased_count": 0,
-      "new_count": 1,
-      "removed_count": 0,
-      "net_etf_count": 1,
-      "streak_days": 1,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "6505",
-      "name": "台塑石化",
-      "increased_count": 0,
-      "decreased_count": 0,
-      "new_count": 1,
-      "removed_count": 0,
-      "net_etf_count": 1,
-      "streak_days": 1,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "2006",
-      "name": "東和鋼鐵",
-      "increased_count": 0,
-      "decreased_count": 0,
-      "new_count": 1,
-      "removed_count": 0,
-      "net_etf_count": 1,
-      "streak_days": 1,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "3189",
-      "name": "景碩科技",
       "increased_count": 1,
       "decreased_count": 0,
       "new_count": 0,
       "removed_count": 0,
       "net_etf_count": 1,
-      "streak_days": 1,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "2606",
-      "name": "裕民",
-      "increased_count": 0,
-      "decreased_count": 0,
-      "new_count": 1,
-      "removed_count": 0,
-      "net_etf_count": 1,
-      "streak_days": 1,
-      "latest_date": "2026-09-23"
+      "streak_days": 2,
+      "latest_date": "2026-09-24"
     },
     {
       "code": "9958",
@@ -368,54 +214,142 @@
       "new_count": 0,
       "removed_count": 0,
       "net_etf_count": 1,
+      "streak_days": 2,
+      "latest_date": "2026-09-24"
+    },
+    {
+      "code": "3653",
+      "name": "健策精密工業",
+      "increased_count": 2,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 2,
       "streak_days": 1,
-      "latest_date": "2026-09-23"
+      "latest_date": "2026-09-24"
+    },
+    {
+      "code": "2408",
+      "name": "南亞科",
+      "increased_count": 2,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-09-24"
+    },
+    {
+      "code": "2330",
+      "name": "台積電",
+      "increased_count": 2,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-09-24"
+    },
+    {
+      "code": "2368",
+      "name": "金像電",
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-09-24"
+    },
+    {
+      "code": "6531",
+      "name": "愛普科技",
+      "increased_count": 0,
+      "decreased_count": 0,
+      "new_count": 1,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-09-24"
+    },
+    {
+      "code": "6526",
+      "name": "達發科技",
+      "increased_count": 0,
+      "decreased_count": 0,
+      "new_count": 1,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-09-24"
+    },
+    {
+      "code": "2327",
+      "name": "國巨*",
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-09-24"
+    },
+    {
+      "code": "2344",
+      "name": "華邦電子",
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-09-24"
+    },
+    {
+      "code": "1560",
+      "name": "中砂",
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-09-24"
+    },
+    {
+      "code": "2412",
+      "name": "中華電",
+      "increased_count": 1,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": 1,
+      "streak_days": 1,
+      "latest_date": "2026-09-24"
     }
   ],
   "negative": [
     {
-      "code": "6239",
-      "name": "力成",
-      "increased_count": 0,
-      "decreased_count": 1,
-      "new_count": 0,
-      "removed_count": 1,
-      "net_etf_count": -2,
-      "streak_days": 3,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "6669",
-      "name": "緯穎",
-      "increased_count": 2,
-      "decreased_count": 3,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": -1,
-      "streak_days": 3,
-      "latest_date": "2026-09-23"
-    },
-    {
       "code": "7769",
-      "name": "鴻 勁",
+      "name": "鴻勁",
       "increased_count": 1,
       "decreased_count": 2,
       "new_count": 0,
       "removed_count": 0,
       "net_etf_count": -1,
-      "streak_days": 3,
-      "latest_date": "2026-09-23"
+      "streak_days": 4,
+      "latest_date": "2026-09-24"
     },
     {
-      "code": "3533",
-      "name": "嘉澤",
-      "increased_count": 0,
-      "decreased_count": 0,
+      "code": "6669",
+      "name": "緯穎",
+      "increased_count": 1,
+      "decreased_count": 2,
       "new_count": 0,
-      "removed_count": 1,
+      "removed_count": 0,
       "net_etf_count": -1,
-      "streak_days": 3,
-      "latest_date": "2026-09-23"
+      "streak_days": 4,
+      "latest_date": "2026-09-24"
     },
     {
       "code": "9802",
@@ -425,19 +359,8 @@
       "new_count": 0,
       "removed_count": 0,
       "net_etf_count": -1,
-      "streak_days": 3,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "8210",
-      "name": "勤誠興業",
-      "increased_count": 0,
-      "decreased_count": 0,
-      "new_count": 0,
-      "removed_count": 1,
-      "net_etf_count": -1,
-      "streak_days": 3,
-      "latest_date": "2026-09-23"
+      "streak_days": 4,
+      "latest_date": "2026-09-24"
     },
     {
       "code": "9941",
@@ -447,283 +370,85 @@
       "new_count": 0,
       "removed_count": 0,
       "net_etf_count": -1,
-      "streak_days": 3,
-      "latest_date": "2026-09-23"
+      "streak_days": 4,
+      "latest_date": "2026-09-24"
     },
     {
       "code": "2345",
-      "name": "ACCTON TECHNOLOGY CORP ORD TWD 10",
-      "increased_count": 0,
-      "decreased_count": 5,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": -5,
-      "streak_days": 2,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "6510",
-      "name": "精測",
-      "increased_count": 0,
-      "decreased_count": 2,
-      "new_count": 0,
-      "removed_count": 1,
-      "net_etf_count": -3,
-      "streak_days": 2,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "2408",
-      "name": "南亞科",
+      "name": "智邦",
       "increased_count": 0,
       "decreased_count": 3,
       "new_count": 0,
       "removed_count": 0,
       "net_etf_count": -3,
-      "streak_days": 2,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "2330",
-      "name": "台積電",
-      "increased_count": 2,
-      "decreased_count": 4,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": -2,
-      "streak_days": 2,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "6515",
-      "name": "穎崴",
-      "increased_count": 1,
-      "decreased_count": 0,
-      "new_count": 0,
-      "removed_count": 3,
-      "net_etf_count": -2,
-      "streak_days": 2,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "2344",
-      "name": "華邦電",
-      "increased_count": 0,
-      "decreased_count": 2,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": -2,
-      "streak_days": 2,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "5289",
-      "name": "宜鼎",
-      "increased_count": 0,
-      "decreased_count": 2,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": -2,
-      "streak_days": 2,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "8299",
-      "name": "群聯",
-      "increased_count": 0,
-      "decreased_count": 2,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": -2,
-      "streak_days": 2,
-      "latest_date": "2026-09-23"
+      "streak_days": 3,
+      "latest_date": "2026-09-24"
     },
     {
       "code": "3231",
       "name": "緯創",
       "increased_count": 0,
-      "decreased_count": 1,
-      "new_count": 0,
-      "removed_count": 1,
-      "net_etf_count": -2,
-      "streak_days": 2,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "3702",
-      "name": "大聯大",
-      "increased_count": 0,
-      "decreased_count": 1,
-      "new_count": 0,
-      "removed_count": 1,
-      "net_etf_count": -2,
-      "streak_days": 2,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "3443",
-      "name": "創意",
-      "increased_count": 2,
-      "decreased_count": 3,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": -1,
-      "streak_days": 2,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "3131",
-      "name": "弘塑",
-      "increased_count": 0,
-      "decreased_count": 1,
-      "new_count": 1,
-      "removed_count": 1,
-      "net_etf_count": -1,
-      "streak_days": 2,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "2395",
-      "name": "研華",
-      "increased_count": 0,
       "decreased_count": 2,
-      "new_count": 1,
-      "removed_count": 0,
-      "net_etf_count": -1,
-      "streak_days": 2,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "7734",
-      "name": "印能科技",
-      "increased_count": 0,
-      "decreased_count": 1,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": -1,
-      "streak_days": 2,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "4991",
-      "name": "環宇-KY",
-      "increased_count": 0,
-      "decreased_count": 0,
       "new_count": 0,
       "removed_count": 1,
-      "net_etf_count": -1,
-      "streak_days": 2,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "3260",
-      "name": "威剛",
-      "increased_count": 0,
-      "decreased_count": 1,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": -1,
-      "streak_days": 2,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "3653",
-      "name": "健策",
-      "increased_count": 0,
-      "decreased_count": 1,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": -1,
-      "streak_days": 2,
-      "latest_date": "2026-09-23"
+      "net_etf_count": -3,
+      "streak_days": 3,
+      "latest_date": "2026-09-24"
     },
     {
       "code": "6187",
       "name": "萬潤",
       "increased_count": 0,
-      "decreased_count": 1,
+      "decreased_count": 2,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -2,
+      "streak_days": 3,
+      "latest_date": "2026-09-24"
+    },
+    {
+      "code": "3443",
+      "name": "創意",
+      "increased_count": 1,
+      "decreased_count": 2,
       "new_count": 0,
       "removed_count": 0,
       "net_etf_count": -1,
-      "streak_days": 2,
-      "latest_date": "2026-09-23"
+      "streak_days": 3,
+      "latest_date": "2026-09-24"
     },
     {
-      "code": "3034",
-      "name": "聯詠",
+      "code": "2395",
+      "name": "研華",
+      "increased_count": 1,
+      "decreased_count": 2,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 3,
+      "latest_date": "2026-09-24"
+    },
+    {
+      "code": "6510",
+      "name": "精測",
       "increased_count": 0,
       "decreased_count": 1,
       "new_count": 0,
       "removed_count": 0,
       "net_etf_count": -1,
-      "streak_days": 2,
-      "latest_date": "2026-09-23"
+      "streak_days": 3,
+      "latest_date": "2026-09-24"
     },
     {
-      "code": "2615",
-      "name": "萬海",
-      "increased_count": 0,
-      "decreased_count": 1,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": -1,
-      "streak_days": 2,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "2379",
-      "name": "瑞昱",
-      "increased_count": 0,
-      "decreased_count": 1,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": -1,
-      "streak_days": 2,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "5434",
-      "name": "崇越",
-      "increased_count": 0,
-      "decreased_count": 1,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": -1,
-      "streak_days": 2,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "6446",
-      "name": "藥華藥",
-      "increased_count": 0,
-      "decreased_count": 1,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": -1,
-      "streak_days": 2,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "6531",
-      "name": "愛普*",
-      "increased_count": 0,
-      "decreased_count": 1,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": -1,
-      "streak_days": 2,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "2880",
-      "name": "華南金",
+      "code": "8299",
+      "name": "群聯電子",
       "increased_count": 0,
       "decreased_count": 0,
       "new_count": 0,
       "removed_count": 1,
       "net_etf_count": -1,
-      "streak_days": 2,
-      "latest_date": "2026-09-23"
+      "streak_days": 3,
+      "latest_date": "2026-09-24"
     },
     {
       "code": "5534",
@@ -733,19 +458,8 @@
       "new_count": 0,
       "removed_count": 0,
       "net_etf_count": -1,
-      "streak_days": 2,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "4746",
-      "name": "台耀化學",
-      "increased_count": 0,
-      "decreased_count": 1,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": -1,
-      "streak_days": 2,
-      "latest_date": "2026-09-23"
+      "streak_days": 3,
+      "latest_date": "2026-09-24"
     },
     {
       "code": "2393",
@@ -755,19 +469,8 @@
       "new_count": 0,
       "removed_count": 0,
       "net_etf_count": -1,
-      "streak_days": 2,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "2727",
-      "name": "王品餐飲",
-      "increased_count": 0,
-      "decreased_count": 1,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": -1,
-      "streak_days": 2,
-      "latest_date": "2026-09-23"
+      "streak_days": 3,
+      "latest_date": "2026-09-24"
     },
     {
       "code": "2441",
@@ -777,8 +480,19 @@
       "new_count": 0,
       "removed_count": 0,
       "net_etf_count": -1,
-      "streak_days": 2,
-      "latest_date": "2026-09-23"
+      "streak_days": 3,
+      "latest_date": "2026-09-24"
+    },
+    {
+      "code": "4746",
+      "name": "台耀化學",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 3,
+      "latest_date": "2026-09-24"
     },
     {
       "code": "3706",
@@ -788,151 +502,85 @@
       "new_count": 0,
       "removed_count": 0,
       "net_etf_count": -1,
-      "streak_days": 2,
-      "latest_date": "2026-09-23"
+      "streak_days": 3,
+      "latest_date": "2026-09-24"
     },
     {
-      "code": "3665",
-      "name": "貿聯-KY",
+      "code": "2727",
+      "name": "王品餐飲",
       "increased_count": 0,
-      "decreased_count": 3,
+      "decreased_count": 1,
       "new_count": 0,
       "removed_count": 0,
-      "net_etf_count": -3,
-      "streak_days": 1,
-      "latest_date": "2026-09-23"
+      "net_etf_count": -1,
+      "streak_days": 3,
+      "latest_date": "2026-09-24"
     },
     {
-      "code": "2059",
-      "name": "川湖",
-      "increased_count": 1,
-      "decreased_count": 3,
+      "code": "3702",
+      "name": "大聯大控股",
+      "increased_count": 0,
+      "decreased_count": 1,
       "new_count": 0,
       "removed_count": 0,
-      "net_etf_count": -2,
-      "streak_days": 1,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "6805",
-      "name": "富世達",
-      "increased_count": 1,
-      "decreased_count": 3,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": -2,
-      "streak_days": 1,
-      "latest_date": "2026-09-23"
+      "net_etf_count": -1,
+      "streak_days": 3,
+      "latest_date": "2026-09-24"
     },
     {
       "code": "1303",
       "name": "南亞",
       "increased_count": 0,
+      "decreased_count": 3,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -3,
+      "streak_days": 2,
+      "latest_date": "2026-09-24"
+    },
+    {
+      "code": "2059",
+      "name": "川湖",
+      "increased_count": 0,
       "decreased_count": 2,
       "new_count": 0,
       "removed_count": 0,
       "net_etf_count": -2,
-      "streak_days": 1,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "3264",
-      "name": "欣銓",
-      "increased_count": 0,
-      "decreased_count": 1,
-      "new_count": 0,
-      "removed_count": 1,
-      "net_etf_count": -2,
-      "streak_days": 1,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "6274",
-      "name": "台燿",
-      "increased_count": 2,
-      "decreased_count": 2,
-      "new_count": 0,
-      "removed_count": 1,
-      "net_etf_count": -1,
-      "streak_days": 1,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "2360",
-      "name": "致茂",
-      "increased_count": 0,
-      "decreased_count": 2,
-      "new_count": 1,
-      "removed_count": 0,
-      "net_etf_count": -1,
-      "streak_days": 1,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "3081",
-      "name": "聯亞",
-      "increased_count": 1,
-      "decreased_count": 2,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": -1,
-      "streak_days": 1,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "4958",
-      "name": "臻鼎-KY",
-      "increased_count": 1,
-      "decreased_count": 2,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": -1,
-      "streak_days": 1,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "2368",
-      "name": "金像電",
-      "increased_count": 1,
-      "decreased_count": 1,
-      "new_count": 0,
-      "removed_count": 1,
-      "net_etf_count": -1,
-      "streak_days": 1,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "2451",
-      "name": "創見",
-      "increased_count": 0,
-      "decreased_count": 1,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": -1,
-      "streak_days": 1,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "3045",
-      "name": "台灣大",
-      "increased_count": 0,
-      "decreased_count": 1,
-      "new_count": 0,
-      "removed_count": 0,
-      "net_etf_count": -1,
-      "streak_days": 1,
-      "latest_date": "2026-09-23"
+      "streak_days": 2,
+      "latest_date": "2026-09-24"
     },
     {
       "code": "2886",
       "name": "兆豐金",
       "increased_count": 0,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 1,
+      "net_etf_count": -1,
+      "streak_days": 2,
+      "latest_date": "2026-09-24"
+    },
+    {
+      "code": "6139",
+      "name": "亞翔",
+      "increased_count": 0,
       "decreased_count": 1,
       "new_count": 0,
       "removed_count": 0,
       "net_etf_count": -1,
-      "streak_days": 1,
-      "latest_date": "2026-09-23"
+      "streak_days": 2,
+      "latest_date": "2026-09-24"
+    },
+    {
+      "code": "3036",
+      "name": "文曄科技",
+      "increased_count": 0,
+      "decreased_count": 0,
+      "new_count": 0,
+      "removed_count": 1,
+      "net_etf_count": -1,
+      "streak_days": 2,
+      "latest_date": "2026-09-24"
     },
     {
       "code": "6683",
@@ -942,107 +590,338 @@
       "new_count": 0,
       "removed_count": 0,
       "net_etf_count": -1,
-      "streak_days": 1,
-      "latest_date": "2026-09-23"
+      "streak_days": 2,
+      "latest_date": "2026-09-24"
     },
     {
-      "code": "6584",
-      "name": "南俊國際",
+      "code": "3711",
+      "name": "日月光投控",
+      "increased_count": 1,
+      "decreased_count": 4,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -3,
+      "streak_days": 1,
+      "latest_date": "2026-09-24"
+    },
+    {
+      "code": "2376",
+      "name": "技嘉",
+      "increased_count": 0,
+      "decreased_count": 2,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -2,
+      "streak_days": 1,
+      "latest_date": "2026-09-24"
+    },
+    {
+      "code": "2383",
+      "name": "台光電",
+      "increased_count": 1,
+      "decreased_count": 2,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-09-24"
+    },
+    {
+      "code": "6223",
+      "name": "旺矽",
+      "increased_count": 1,
+      "decreased_count": 2,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-09-24"
+    },
+    {
+      "code": "2885",
+      "name": "元大金",
       "increased_count": 0,
       "decreased_count": 1,
       "new_count": 0,
       "removed_count": 0,
       "net_etf_count": -1,
       "streak_days": 1,
-      "latest_date": "2026-09-23"
+      "latest_date": "2026-09-24"
     },
     {
-      "code": "3044",
-      "name": "健鼎科技",
+      "code": "6442",
+      "name": "光 聖",
       "increased_count": 0,
       "decreased_count": 1,
       "new_count": 0,
       "removed_count": 0,
       "net_etf_count": -1,
       "streak_days": 1,
-      "latest_date": "2026-09-23"
+      "latest_date": "2026-09-24"
     },
     {
-      "code": "2337",
-      "name": "旺宏",
-      "increased_count": 0,
-      "decreased_count": 0,
-      "new_count": 0,
-      "removed_count": 1,
-      "net_etf_count": -1,
-      "streak_days": 1,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "3036",
-      "name": "文曄",
-      "increased_count": 0,
-      "decreased_count": 0,
-      "new_count": 0,
-      "removed_count": 1,
-      "net_etf_count": -1,
-      "streak_days": 1,
-      "latest_date": "2026-09-23"
-    },
-    {
-      "code": "2313",
-      "name": "華通",
+      "code": "1717",
+      "name": "長興",
       "increased_count": 0,
       "decreased_count": 1,
       "new_count": 0,
       "removed_count": 0,
       "net_etf_count": -1,
       "streak_days": 1,
-      "latest_date": "2026-09-23"
+      "latest_date": "2026-09-24"
     },
     {
-      "code": "6147",
-      "name": "頎邦",
+      "code": "2404",
+      "name": "漢唐",
       "increased_count": 0,
       "decreased_count": 1,
       "new_count": 0,
       "removed_count": 0,
       "net_etf_count": -1,
       "streak_days": 1,
-      "latest_date": "2026-09-23"
+      "latest_date": "2026-09-24"
     },
     {
-      "code": "3042",
-      "name": "晶技",
+      "code": "5274",
+      "name": "信驊",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-09-24"
+    },
+    {
+      "code": "2454",
+      "name": "聯發科",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-09-24"
+    },
+    {
+      "code": "8436",
+      "name": "大江",
       "increased_count": 0,
       "decreased_count": 0,
       "new_count": 0,
       "removed_count": 1,
       "net_etf_count": -1,
       "streak_days": 1,
-      "latest_date": "2026-09-23"
+      "latest_date": "2026-09-24"
     },
     {
-      "code": "6139",
-      "name": "亞翔工程",
+      "code": "2357",
+      "name": "華碩",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-09-24"
+    },
+    {
+      "code": "2382",
+      "name": "廣達",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-09-24"
+    },
+    {
+      "code": "3450",
+      "name": "聯鈞",
       "increased_count": 0,
       "decreased_count": 0,
       "new_count": 0,
       "removed_count": 1,
       "net_etf_count": -1,
       "streak_days": 1,
-      "latest_date": "2026-09-23"
+      "latest_date": "2026-09-24"
     },
     {
-      "code": "6415",
-      "name": "矽力*-KY",
+      "code": "5425",
+      "name": "台半",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-09-24"
+    },
+    {
+      "code": "3265",
+      "name": "台星科",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-09-24"
+    },
+    {
+      "code": "3008",
+      "name": "大立光",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-09-24"
+    },
+    {
+      "code": "2428",
+      "name": "興勤",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-09-24"
+    },
+    {
+      "code": "2377",
+      "name": "微星",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-09-24"
+    },
+    {
+      "code": "3090",
+      "name": "日電貿",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-09-24"
+    },
+    {
+      "code": "5483",
+      "name": "中美晶",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-09-24"
+    },
+    {
+      "code": "2478",
+      "name": "大毅",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-09-24"
+    },
+    {
+      "code": "6672",
+      "name": "騰輝電子-KY",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-09-24"
+    },
+    {
+      "code": "6214",
+      "name": "精誠",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-09-24"
+    },
+    {
+      "code": "6488",
+      "name": "環球晶",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-09-24"
+    },
+    {
+      "code": "2455",
+      "name": "全新",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-09-24"
+    },
+    {
+      "code": "2317",
+      "name": "鴻海精密工業",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-09-24"
+    },
+    {
+      "code": "8996",
+      "name": "高力熱處理工業",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-09-24"
+    },
+    {
+      "code": "2891",
+      "name": "中國信託金融控股",
       "increased_count": 0,
       "decreased_count": 0,
       "new_count": 0,
       "removed_count": 1,
       "net_etf_count": -1,
       "streak_days": 1,
-      "latest_date": "2026-09-23"
+      "latest_date": "2026-09-24"
+    },
+    {
+      "code": "1504",
+      "name": "東元電機",
+      "increased_count": 0,
+      "decreased_count": 1,
+      "new_count": 0,
+      "removed_count": 0,
+      "net_etf_count": -1,
+      "streak_days": 1,
+      "latest_date": "2026-09-24"
     }
   ]
 }
