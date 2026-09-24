@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-23T15:35:15.453772+08:00",
+  "updated_at": "2026-09-24T16:36:04.170892+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2104",
   "name": "國際中橡",
-  "count": 6,
+  "count": 8,
   "news": [
+    {
+      "title": "2104 國際中橡- 真正該出手的時機來了- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSX1FRNHpPOVRDdmpVeW5ISlUxYnFXMVhGTFZQN29sb1JjWFB4LThBSF9uOVlNREtOTGpyeDd1Z0pndWdWRGpTTWVNcDhpbDJjeG1zam9FeVY?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T10:47:16+00:00"
+    },
     {
       "title": "【11:17 即時新聞】國際中橡(2104)股價走強，外資與主力買盤成盤中焦點",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNclk3QlhDbGtEVXgtTTloS3ZoeURmS2tKV2lwN2hFYlZrSTNiSGRLNTZTZlpMamUtTHN3cUQ1S2NtLWk1UGRCN1Z0bzhodTY0SkEyWDFGMDNjbWJwd0g5WFR6UHJYaG8tNEVwdzF1UkxRX0JCVlcyX092NnZHc2owZTN2Tm16RTNSVTlmOWJR?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-23T03:17:32+00:00"
     },
     {
@@ -24,9 +30,15 @@
       "published_at": "2026-09-21T08:59:27+00:00"
     },
     {
+      "title": "今日最夯股／外資加碼助攻量能升溫 國際中橡新一波成長動能浮現 | 市場焦點 | 證券",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82elZ3RmZfN3pZMGY4WlhSWHV1eGpzMjlwMXU4QnZWMU5MX2pPZ0psQ1prVzc2d3pzTVRTQW9INGVmcW1jQkJlc3daazRUQ3RRd1AzZGt3MDNWUQ?oc=5",
+      "source": "money.udn.com",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
       "title": "【11:23 即時新聞】國際中橡(2104)股價走強至10.75元漲6.44%，受碳黑行情與營收回升激勵＋低檔區間反彈吸引短線買盤",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOFoxd3Y1aVVIMHJrQUx4NDYxdE5nLTdqVTdkR0dxSURLRWxmTF83WFBDcjdVLVlZYUNYWmVoQ1h5X0Y3U3lNVGV1YkJvZ0piRTRUMmhFaHdLYXhfQjNDTFdtOUQwSVhzdEV2VWtnU19iOWkySUhGUWt5M0syRXBneVloUGlsMlIzSVdwV29B?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {

@@ -1,26 +1,50 @@
 {
-  "updated_at": "2026-09-23T15:35:25.964782+08:00",
+  "updated_at": "2026-09-24T16:36:14.178434+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2241",
   "name": "艾姆勒",
-  "count": 5,
+  "count": 9,
   "news": [
+    {
+      "title": "《汽車股》注意股：艾姆勒 近5日漲29.72%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc1J6eTF0aHpQbjNRWk91MHBPRF9BTG4zUnduQjdfSno0anJGbW5NWV9JRVBTVVhVdjNJMVUtNlAtc2lUamFDZEg1YmZRNmJ4Ynd3QURmQW50NE0zaWxvZTNsUXpaSUg5MlNxSUdkZl9zaVRMX1NKZUdBQUM3Tmd0LW1xX1B6Z0Rf?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-23T23:54:00+00:00"
+    },
+    {
+      "title": "2241 艾姆勒- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9EREZvWlhoWl94Qk5ITklIVE1xSFJiN1lpLVM4cGtTZkFSald5STU0NUxUb0JEU3JwSmk3bG9MNzEyR3ZGd1dtcXZ1V1FmUWxZZlNyanlIWUw?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T13:40:43+00:00"
+    },
+    {
+      "title": "功率半導體暴衝！「這指標股」牽嘉晶、茂矽、健策等5檔同亮紅燈艾姆勒連收6紅、「這檔」卻跌逾半根",
+      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPbGs2RnFMdWhzcklQYzdUc3VLR2lLYS1rdHVkSzZnYXF3WjJVdUlzYVRPUmdoYzdWeU1XMmVsUWtRUFBOQ0dZemlhX1dPanBhZllLYUZvbHFIUy0xMmJCZVVmUUNjSW5WM25aYjFvc3l2c3Q3RFJCSlluQVVuOVRzM0p2aGhaTmF3dWFSeUg1Z2JHOVRSTUpBYnpsamstdnhMalZQUGlqd1BJVmlycWtTVmtZVUFYRFlTSVZ0VGhYNi1ERnNoRW5rRVVtVHl2MGtnZEZraDNtZTFZbm1qanZJM01ERjN0b2c2NmFaSm5yQzlKS0lwQzEzUW5WUFlGemtVTXo0T29EaEJIdGw1MEJWZllCdTNzcHo1NktibFhob2k3T2tGVlJNRERra2hkT1lpT3F0SVBIVjlIUHEwU3VHOGxmWFdKeVV6RFkxVjYzVnpoRUlLZVQwZkdobzZJckJTa2M0bDd0VTZZcTVCMndjV0l4QzhhRXh3SlktcFZfQ0c2Zw?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-23T09:45:00+00:00"
+    },
     {
       "title": "【11:37 即時新聞】艾姆勒(2241)盤中走強，電動車散熱營收續增受關注",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOUVhUk5tUk94NTY5WDZCa0lPLUU2MzJ3UlFJcVF4cVRadGpzUTc1T0haM0I4SHE0MDN6ZXhKdVY0OHg1QU81blB6ZGcza1JTb0ZNeklVYzRCVmI0ZTBDRDZKVll6VVBNZjRHVERDN0I0enRsNVVWZ1FFejVoVkhySGNZREdjNk5lNnVpeDdn?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-23T03:37:45+00:00"
     },
     {
+      "title": "熱門股－艾姆勒 需求旺營運好轉",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Jb2wyczdEWDdmY3RYT0Nma1pCTDFaU2dwM1Q4dVQtWDNMWlNMRzNDWGs0b0pnejg2ek15TTlRTjhVeHVnU2tyd19MWDhUNDFPNFFwRmoyakF4Ukc4Wi1mMXZIVE8wbGRTaTFF?oc=5",
+      "source": "中時新聞網",
+      "published_at": "2026-09-22T20:10:00+00:00"
+    },
+    {
       "title": "今日最夯股／艾姆勒爆量漲停 土洋對作是為什麼？ | 市場焦點 | 證券",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZTzM5Y2NiRHRCZ01hQ1RwcmxQSkE4OHUwZl9HMlZFcXpiZGJLcjlxXy1DbnQ2MmxNaVNaYy1nN3N5SDhvVm5Rc09kOFhyV1BhY3RTX1pxX3NVMGlRbi1BdkFrNlZ6blFPM0RSTEZtRk41M3lRUVd3?oc=5",
-      "source": "經濟日報",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1MUZSWGk3eGl0bkg5djgzMGhrcF8zRC1LT0hQVEYyU29nQlMxQmdfaU41aHo4MHE5T0VCd2dVNmZxS3h5N1BOc2xHRFY4Rld3S3E5V1RUWlZhQQ?oc=5",
+      "source": "money.udn.com",
       "published_at": "2026-09-22T13:08:45+00:00"
     },
     {
       "title": "【11:11 即時新聞】艾姆勒(2241)股價走強，電動車散熱題材成盤中焦點",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWHRTNFVaZFhISlhYUDNGZ3V5U2dpNjJNc0kxMDRqV1kwQ1dzZFJVSTViR0FhWlpiZTJ1cWNydEU1cWxFNGxXSmdyV0lMdk5xVTdnbUtiN1JHZ2Fzd0JYcTR4M3ZNazBsZ3hWZ2hmWmozc2xlcXFwODZIamNvbmkyaXZVVG5SdTczdnp2VFZn?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-22T03:12:00+00:00"
     },
     {
@@ -32,7 +56,7 @@
     {
       "title": "【2026/08月營收公告】艾姆勒(2241) 八月營收表現亮眼、呈現雙成長，創近2個月以來新高，年增47.33%",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaHRHU2FnMDZFWFNTRF9jNmdUUW1PcmRQLU5Hel9jZHl2NkFsSm5wai1wa3hCdUJwUk5IVWk4Y0djbFhrb0wxMHJVa09oVXVMaDdGNnlPQ1VXcG5zc0Nrb2p6OHA1RjdZUXF1VjZuOHhKbUhEaktSMll1LTJVZTlwQU9UUC0yMlg1cGc?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-03T07:00:00+00:00"
     }
   ]

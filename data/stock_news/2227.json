@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-23T15:35:22.262540+08:00",
+  "updated_at": "2026-09-24T16:36:10.551742+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2227",
   "name": "裕日車",
-  "count": 4,
+  "count": 5,
   "news": [
     {
-      "title": "裕日車e-POWER X-TRAIL單一車型搶市 早鳥優惠146.9萬元",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hOHoyLXBJazh2ZnlaU0ZHcTVqeVFkckt0SE9oaG9FUVBRZnRtNHpEUjZKWjBmbGNqYU5YNHIxSFN4VzYzN1kzb2pGX3N5QWliX2VKMlhXTmE?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-16T21:04:47+00:00"
+      "title": "裕日車(2227)-同學風向與貼文摘要 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE44Wk9TVG14TlZ5T19QdDlWMm9aa2pQMmVOM3N4d19leHlUUnhVelhpTWtvX0RiX0UzRWVrV0NCSlEtdGs0aHU0a0ZheG9HXzBNRmx0bkllNVNpaW1Dc21SamRR?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T09:18:02+00:00"
     },
     {
       "title": "2227 裕日車- 裕日：今年車市恐跌破42萬輛買氣不樂觀…車廠提前推改款新車- 股市爆料同學會",
@@ -18,15 +18,21 @@
       "published_at": "2026-09-16T19:17:27+00:00"
     },
     {
+      "title": "裕日車e-POWER X-TRAIL單一車型搶市 早鳥優惠146.9萬元",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWN3NvWVpjR3ItRFhMWllRU3B6VEF2NUpIem9BSzhCZFVoQjEyUWhqYXNyMVhfRzVDeDg4UVVXNGpNT3RLdXM0eWJ1NkNqa2t5Yk96OUNXSGhXMmlDMFBJ0gFkQVVfeXFMT3E2a2VaQjd6MFB6MmRFaGVBVERTYVZhbEZFT2xxV2I2eURiQWNlUW1JaHFwZGhDcl9BWmhrc3pQVEREbzYzTXd1aTNNeUtmRkhNaGx6QUIwc0cxaFBYSDkwTHB0WQ?oc=5",
+      "source": "自由財經",
+      "published_at": "2026-09-16T11:11:14+00:00"
+    },
+    {
       "title": "裕日車估明年自家銷量持平 揭新能源車趨勢回不去了！ | 鏡週刊",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVVpJbURVMVhTeGkwaGpRa2JRNHZRemxqZjR1RVdReGFaSExQbHhfUUFHd054UW5VMTBFajVXWTktRk9FaF8wcjhDR1N3T3llVF9RbWNhQWp0T1hjbWNTQkIwc1hXMWNnOHdMbjd2QXF3bHpZSlNETW1odEtxMGQ2cUhvUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BVUZDWUdVRXN3QmpqR1JocXE3eFFrcHlPYU9aMzBxU1pOTzRjMEhUeTRscC1YMVp6Q3k3NmtpaDlaU054YjA5NHpUcVdKdlNCcjRmRDdB?oc=5",
       "source": "LINE TODAY",
-      "published_at": "2026-09-16T14:17:56+00:00"
+      "published_at": "2026-09-16T11:08:13+00:00"
     },
     {
       "title": "裕日車:明年車市看增，新能源車佔比有望過半",
       "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxONFhwT2x3RzU4UEVSNDdGeE9MZGdOZE9Ma19LTFpzYThXVDlDZ2xmdFZPV0UtbnhCVTJ3QVB0aUV3ejRfVlUzeTJvS3ZicnQxVVBSdW5RQTJ6WklRMmd3ZjAxaVgxN2ZNMGVhRFB4aTFkTkhZR3Z6TDFzaU5DZGZla1hxRWR5TW8zWDl1cUY1dlZvQ1JRVk02ck9YOHZsSS1GQ2FaS3Y2VnhNRjZELTNjYTQtUVJaWktoaEM3c0JIMEdCMFRQUHJRUks5Z3VPVjRaNnlCeEVxdzRsWDM4cEFpeDlmTmJROHp2el82RF9HV0VMNENWbFRCODlhZ2VzVUdGcnBtUEFWYjNsM2U5cms0Sl9Rd1FBYW55YUh1eFFwTzZDdjRrTjdiZlROc2tMcl9XMFhvMFJiZkR0b2hXY1NTRUZn?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-16T07:56:00+00:00"
     }
   ]

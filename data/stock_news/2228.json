@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-23T15:35:22.676059+08:00",
+  "updated_at": "2026-09-24T16:36:10.962600+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2228",
   "name": "劍麟",
-  "count": 2,
+  "count": 3,
   "news": [
     {
       "title": "存股助理第851期｜揚博、劍麟解除追蹤；數字科技、全家餐飲納入存股池｜股池更新",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRVMxTGN0TmhCNEM0bUZiaUZ4ZjgxRFFtMS1zcEttZmZsWEZmb3Z5bDVZY2NLTnFkMi1LM3BqTFRWeHhJeml1dVhlWmQ2SFI5R1VOdjB0WXhpMlZNX3YzeXg1b3FMejZZQWV0UE1NVTVxNFZGZzlKNzlTWUxZUm5RYk9lRElhMG40b1VGRzg3TnFIdw?oc=5",
-      "source": "今周刊",
+      "source": "businesstoday.com.tw",
       "published_at": "2026-09-21T12:00:00+00:00"
     },
     {
@@ -16,6 +16,12 @@
       "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPRTVjWXN5VGtOX3hDblNEaXRLRXZzd2U4NEl5RjdBSHladndlUDJCdkJkWTZCMVZJMV9tWS1kYkVoMnVldnVhMzVWYnRCVXBTTW9MNVhiRElYM21LRGQtUmUyRkFodFF6NFNfRHBhcUhaWXF5RWxRVVBJaDJGTEhFekJYZEp2cmw3ZjdlbVE3V3FOY1hOdUVmREtUUjNpZ1lSdWlvV0g3MFdobGo1WG9YWHFkWTNkMzZkSmdRSzI2Q21VaHFaWDVweTQ3MFBRQXBsbThma3lxZHI1SDJjeWI0YkpLcjVTNmNaVEZHeG9DS1NKUEZrck9WRlFibmlvZWV2TE0xTHhkbGs3WEpDUURWZ29jVmVENENKa1c0RWtUVEJmMF93dlFUTmNCODBvYzR3b3hZV1FzbGVOaGF2QXY2V21ieXIwN2xMb09rYW5VbXRyU2tG?oc=5",
       "source": "Minichart",
       "published_at": "2026-09-18T00:33:00+00:00"
+    },
+    {
+      "title": "捷流半導體滿單 劍麟跨足AI液冷散熱",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOYVpJanpJOHVBUllzb2QtVUp0ZEtLc043MXJoZzMwckhkWU9FV3lkZkdPRnBoRkRaNDBBUmxTQ1NYRHg3LTN1emdwcUNVN1Fya0tUd21KODFpZUxPUG5IaWtUUlUwUEdqdkxLY3F2R01ZMFVTVldWNjJrQ3RIcWdkU2NsZWtMUWxFX2t1MlZSMGdSWlBEUzA0bkR1YS14aGJQbmN2V3p4Um41MjNYeVVmWjdkSkpVc2MwaERLNDNScElnMDRYTk5UWEpWUERBR1JmZXNNTENjYm0yLUdaNXFYaDRHUGU5bTRsX0dEOGlpeER4VW9xMUpDV0x1VjJvVUxaWTdYX1ZNUnFIYUk?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-11T07:00:00+00:00"
     }
   ]
 }

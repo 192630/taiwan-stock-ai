@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-23T15:35:12.459997+08:00",
+  "updated_at": "2026-09-24T16:36:01.210655+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2069",
   "name": "運錩",
-  "count": 5,
+  "count": 7,
   "news": [
+    {
+      "title": "【11:59 即時新聞】運錩(2069)盤中續揚，市場聚焦獲利躍進與毛利改善",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rM3dodEhuZ2tzOTRDeldWNWlqNU1uRmFjNEtjMGtrTlpSVHRlcnJ0X1VEUU90RTFKUkR2aWN2OEpzR0pqOVEwZjJTb0xSWUZBSWROcHJPREk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T03:59:16+00:00"
+    },
     {
       "title": "【11:18 即時新聞】運錩(2069)股價走強，市場聚焦獲利躍進與毛利率提升",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZlByUzR3bjNQcXpWVUxBQU9TcGhoWW9acGVvakhDdlpTMEVqdFhoWFU5eW4xZ0FzclpPcFZQenZxUHpFb0JPS3N3cnNJYTZtbnVGdHZWWFVieTlXUi10V0kzaFExNVJUM3BDNEhxMGlpMWRjWHNMLXRqbXFCd09DQ3YyUnRpNWg4Vlp6dXp3?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-22T03:18:39+00:00"
     },
     {
@@ -18,9 +24,15 @@
       "published_at": "2026-09-20T15:56:02+00:00"
     },
     {
+      "title": "《鋼鐵股》運錩穩居4年高價 月漲18%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdkROMTNOSHFjOU16NlY5THZuUHB2aDZaNVVSU0UwMUFfazg5cGVFbnNiMUFJZTFsNEFfdlJlZHNWbE51S1c0WTJWam1RTzloNDE3WnBvRGtrQ0R2ZC1yRjBfMEdGcXBSN2R0QUU4VndRdm5UbzNFY2xYdlJUVkNfcGFheWc4cGdn?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-14T08:59:00+00:00"
+    },
+    {
       "title": "【09:22 即時新聞】運錩(2069)股價走強近5%至24.1元，受獲利體質轉佳加持＋技術面多頭排列吸引買盤續進",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQendMeGRCRHZ0UnR4c3g2eWt3cXpGWDJYSDdLUzZuQlE2dllJRGkyYkxnUGFJYUpXNXVPV1hPZHdhVVhjSldLNVZPa19qY0YxMFhXZS1Da3VieFhKX2tqVUtVQ2o3czVZQnViblBmVy1qR2hRTlIxYzRYVncxdkVZSmNaNEdZdGVvWTFXTHZR?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
@@ -32,7 +44,7 @@
     {
       "title": "【09:13 即時新聞】運錩(2069)亮燈漲停22.4元，獲利與毛利率跳升題材推動買盤，主力近月偏多結構成技術與籌碼亮點",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVjdmdThKUlZ2c3ZTYk9jV2cxeVNKV3FXQmlfXzBoRFdVcFllMWZoQnNPUlkzX3BfMkdXd0FxMTA2SDA3QjQ5d0g0aVRrTHFNYzZHa0R4VTBKZmZPeUpRc0ZHNWVmekV0Snd6LS1Vc09wTkt2bjZxdkdsUFdUek1sUGZWTlplSFFhLXBMUVRn?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]

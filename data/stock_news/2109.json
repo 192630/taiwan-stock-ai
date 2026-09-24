@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-23T15:35:17.614448+08:00",
+  "updated_at": "2026-09-24T16:36:06.139526+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2109",
   "name": "華豐",
-  "count": 1,
+  "count": 2,
   "news": [
+    {
+      "title": "《上市公司除權除息1-1》華豐9月29日除息，開盤參考價為14.50元",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc2I0ckNjYUU2b01PblByaFpNd18yTW5yckFvQnFmRWNhbzJpQ2dRRGd4bnV4NkV6dkZPUE16V3RVSWVxNURqM3MwZHNIWVMxdUxXT1kxc21sOGhkNmE5MGllbDZlR05NMW1PZXN4S1ExU2xhU1lmMkhuVld4SzR6QVZhdWptdXh2?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-24T06:26:00+00:00"
+    },
     {
       "title": "華豐科技(688629.SH)：6.4T NPO光模塊目前處於技術驗證階段",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xSm9Va0tHdk9hMUFKOXpmLUZxa20yWVBlNV8xWDA5c3BtR01fTzBfMG5PWmg3SUFJcjZsYnZySGJ2YlA2VkJkdlpaOXNTX3RoV0E3enRSNDJSUQ?oc=5",

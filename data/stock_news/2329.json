@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-23T16:35:23.659866+08:00",
+  "updated_at": "2026-09-24T16:36:22.563623+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2329",
   "name": "華泰",
   "count": 12,
   "news": [
+    {
+      "title": "3231 緯創- 企業只靠代工右腳已走不通！緯創、華泰、Appier掌舵者揭「破局」策略 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MR05yOGJVUTg4LUMtT0V4NVVXcjJZMWRwMEN1aUZXYkNoRXJucWkwZ2tmRkV6NEgyUTUtYlB4TjhGcjAxQmdFbVIxMFZueFlLNHAwY19ZTHA?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T20:14:13+00:00"
+    },
     {
       "title": "華泰：維持中國宏橋(01378)買入評級 目標價32.28港元 作者 智通財經",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Xb2pxM3NZN2lDUjZrYWVQSE8tT2VrUEZDbjdzQnZfOTlYOEdyRzVtRnpBLXhjUEdPRWFfU05HcV9JSzZSTkRsSlhfS0s4eTZnbjU2aWkzSHJmSnA5Y2sydkRwUWxBVU5QWFNjRG9fRGM?oc=5",
@@ -26,13 +32,13 @@
     {
       "title": "德意志銀行新聘兩位亞太區股票業務高管 分別來自中金與華泰",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TUDFLczhEOHFWdjhTcjZwNDBES25TWjQybkJjdkRQWGUxT0ZKQTZPUlNoXzBlR3FwMEtHaF9SYmhLU0VtRGZCZXRYZnNEZUp3enFfVGpleVRKZ1NNRmFVVWU2N3FkSzJlUW1B?oc=5",
-      "source": "tradingview.com",
+      "source": "TradingView",
       "published_at": "2026-09-20T04:54:00+00:00"
     },
     {
       "title": "南方東英華泰柏瑞滬深300ETF-ETF基本資料",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwU2RhNGRMRFBKaG5vbGFvQURIMTRvSWd2LXNTc0VfTHNtN2JIOC1Sa2tQZk9LZnFrVFlTaF9QeUVOV1I5bVB0Sm9XUlpDcEVwU2lMdHdHWHpwbG5TYUF2NV9JQWlyTGZVcnM2OWdpdWlOWWI4RWhJUXdGbw?oc=5",
-      "source": "MoneyDJ",
+      "source": "moneydj.com",
       "published_at": "2026-09-18T07:00:00+00:00"
     },
     {
@@ -70,12 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3cWFQRnpmNWtsNTRQeFptd0dFeDRFWkJEdG4yZkdGMnRyRk8yZnZqcDVVX3hzMkRHb0NxaWpKQ09MRFpJSm94UDlwY1RBWWlERjBucG14T3BsVWZDcHQ5czJNaGdtMXdxeFlQaVFwZXo?oc=5",
       "source": "Investing.com 香港 - 股市報價& 財經新聞",
       "published_at": "2026-09-15T14:19:24+00:00"
-    },
-    {
-      "title": "第十一屆「一帶一路高峰論壇」在港舉行 華泰證券與政商界代表共商高質量發展新機遇",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53ejFNcVVGOUNDdk1PUlNOd1lrT3FrZXpMMnM3cDd2Q2t2Sjl0Z3MzWWk5dkU3RDBIUThfLXZZeGpHV2MtX3JqM3hGTDRkN2dReGZMQXFEZVhHdjF4eFJFVllQaTRkeUJyZE85enlsRThjanZl?oc=5",
-      "source": "香港商报",
-      "published_at": "2026-09-11T14:14:00+00:00"
     }
   ]
 }

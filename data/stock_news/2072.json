@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T15:35:13.339907+08:00",
+  "updated_at": "2026-09-24T16:36:02.099891+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2072",
   "name": "世紀風電",
@@ -8,8 +8,14 @@
     {
       "title": "【新股抽籤穩賺不賠嗎1】今年14檔跌破發行價 世紀風電一張賠近6萬元最凶",
       "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxNTHpvaWVkXzk2UlNLajBJRmtadlFIbmdINkhIQ3BLTVlYM3lGZzZEQlhEZlo5ay1ra05LcjdtNUlSQjUzb3ZoVmdWQmpvcHFFdmcxMFo0UmlOdl9ZaXBtZFVkbEJJU2Y5aE5wcTRaVzRBQVJVZEJISXM0b2JXN0dCZGJrMTBid1VoMVZxWWpSS2E2MjRtaGlsTlF3aGhZb0ljRUsxYmxsaVJoTHZkak9jV01ZdkxETlRIbWJmS3E4SldqX25RVEFTa2pkdzZZSkFZUGF4QmlfU0JYOWxiM3pEeVVZNmw5Y1JEanhLcWpxd3QyMk5waW1oQUx3NHBhU3RaRW5uN3g5S01peWthRENQeFBPMFVaSmJlSkpBX2lvUENDR0o2TXdaZGlhR1BfWFBqazZHRmdYMXlOUmd5c2EzNXF6blJDc0hXX3Q3XzJYNzhYS1FZU3dpSVhCZEg3S0NJdi1iRDlCbVRzS2xSQmtzTjV3UzNQZHRoN3Qzc3d4ME5IXzFMOTdlVGdUUDJkU3puajFGWnFxa3kzUE5vcEZYUHBqVy12eXI1bE9LQWtmOGdnUGdsTEpBNlZUenoyaE9rNU10RGVIZjZiTDVhVmhkMmZ1d0NqUQ?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-22T01:21:30+00:00"
+    },
+    {
+      "title": "Solana生態代幣PAID市值續創新高，現報2072萬美元",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ld2c0dWU3UG9MV2VhS0xVTndNSGgwOWUtUzRuWjRucjk5N1JsOXB5NFlPSkpGNFU2LUVtMVVZUDZsSmZNUkRhVW5uY3VLWHc?oc=5",
+      "source": "news.cnyes.com",
+      "published_at": "2026-09-17T03:30:07+00:00"
     },
     {
       "title": "個股：世紀風電(2072)更名世紀能源，舊股最後過戶日10/18，新股10/27上市",
@@ -18,16 +24,16 @@
       "published_at": "2026-09-13T23:19:00+00:00"
     },
     {
-      "title": "世紀風電 本公司與百及物流股份有限公司簽訂租賃合約案",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Sbzd4RUlwckVfeXhsZ1ZsMG5kNmdQR244dHljaXhBZjlVcENSQzFrdE8zcjJYZWVUcDhxRFVqdjRpYnl3ZHhUMm1oVWxlN0tJbkkyLWV3UGs?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-11T14:26:46+00:00"
-    },
-    {
       "title": "世紀風電以自地委建方式於桃園市觀音區工業區段新建倉儲廠房，計約52.6億元",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VV0I0OGR1U0Fwdm9ybUFxZG9sVTl4WTRscnQ5cDQxTHBTSGY0M0h1WWVXUUtUS2VSV3ItN3NfLWxPMUlGXzFOQTFUNWxGRVliOUs4WmtLbnA?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-11T07:00:00+00:00"
+    },
+    {
+      "title": "財經時事／專訪！本土風電龍頭拚轉型 賴文祥：世紀風電搶攻核能供應鏈",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ZLU1lV2JQV1h3Y281SEJtdldBWjlHV3VaNHZzMmJWMmZ1V1JmTTZrQXd3LWlSOTRKQnNEMVN3VGxoQ2tMWV9ZMDhYRQ?oc=5",
+      "source": "ftnn.com.tw",
+      "published_at": "2026-09-05T07:00:00+00:00"
     },
     {
       "title": "世紀風電前8月營收117億元年增7成 今年營收戰新高",
@@ -38,19 +44,13 @@
     {
       "title": "綠能題材走到執行階段，聯合再生與世紀風電誰先交出營運數字-基本面選股技法 - 邱柏",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOXFlSTBXU2N4cTM5VzZWMGVwWmt0amxpUjF2V1FUZXNZTENHOVBLaE55S0hMal9vMGJ3NFNFV2ZRaExvRnY4NjFPSWU1QTBsaS1EdnFpN3VqV19FUlRfWlA3U3JhNC02TVlqQTdlanZlUlZTNXdzaGNOQzNRTk93OW9n?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-04T07:00:00+00:00"
-    },
-    {
-      "title": "財經時事／專訪！本土風電龍頭拚轉型 賴文祥：世紀風電搶攻核能供應鏈",
-      "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxNY21lR1dncnZsVDJWRnRucWJFYTJLbjdPZmlRZWlUTnNMSDgwUEFaNlU1OWtxREN2dnBFdzdteWhFNkFJSnZ5LWhTN3U1UC15VHNCb3FQM1c2a0k1QkZxNmtrVWU3M3FGRDZGNmM1Z251d21SWVFkYXpGVGFsR1ZmUjR4N3haTWc2ZDFnQ2w1d29HOFFlVktJRFlnS2NDZHJ1Wmt1OWdPajMtbWJwdXVGMHIzODZuNl9ZYlY5bHVlT2FWQmlqekpnUWc5Zm5TTG5XNGVmRE53VlcybmxLX3oycU9aQ1hoeGxCQTFHMnJaWksyNlFsSDBXT0xIWmJBOG1nZjFkdkNnWFY4dHZrS2JNaXA2LXRhN09uV0RUNjhVem9tdFllMGdMVDhwNFFIUHN4dUtzdjBFVU10Uy1SWmliZ01uWWRLanl2LUsyQkRPd1hCZ21pMDNRRGRkUHRqZDRzZmxkWmpLcmZPUWdsUEpwTWxET1Z4dTdoRXdGNi1NNm9HVzF1MnZiSm5GU3ZsNF9HMmZNSzVFbEszUEJSbG1VeThGd3Z1aTNwUHNuSjRfNGVXTjln?oc=5",
-      "source": "Yahoo新聞",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-04T07:00:00+00:00"
     },
     {
       "title": "台灣能源轉型政策加速，風電供應鏈營收大增7成，世紀風電全年有望創高-財經焦點情報站",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSEJVTkpQZFZaY3VWWGUyd29rNW9PRi05ZFNaeEtUdUR2eTQ1bWwtSDY0SndsTFp6Nkl1RlV1b25GS1lqTUNYNWloMXZ4MHZ3MGlCY3JvdHdGWmFvNGc2VFcxQ05PTkwxdGVpZkdseUhvTGNHWVMxOEdPN2tzQ3FfX0RB?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-04T07:00:00+00:00"
     },
     {

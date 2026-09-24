@@ -1,38 +1,50 @@
 {
-  "updated_at": "2026-09-23T15:35:27.616234+08:00",
+  "updated_at": "2026-09-24T16:36:15.811381+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2250",
   "name": "IKKA-KY",
-  "count": 5,
+  "count": 7,
   "news": [
     {
+      "title": "IKKA-KY斥資1.35億入股毅金精密 部署日本人形機器人商機",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12YWNnZS1FLTlFX3Z5TG1mQ2Q2SDJWdnVrYVE2UkNmNHFycWlPWE1SbHFzaUxzUlcwbXJyZHdwN1NMbzFDUDJ0SlhraUlORVg2eEw3SFFPUHo?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-23T05:17:42+00:00"
+    },
+    {
       "title": "漢測9/22掛牌，台股大紅包！承銷價2250元創台股新高，半年EPS 21.5元，AI測試、熱管理、矽光子三大成長引擎接棒",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yVE9kT29rM3B0NVRZMldoa2NTaGdsd1BkeWRWUHI1dUpqZXcyTDJGbnA2QWdtSnlxTmE2R1czdXZEQU9fYXFtenlfQkpiYkE?oc=5",
-      "source": "news.cnyes.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xZEJZYUxyUlBZeHFhRUxhUEljLUJ6Z29YamdnTEE5QnhJb3I3bEhOMmJEMVM4V3JBa3cwc0IyeXdnbGVJcG5RcVlfbU5jT1IzQkxrNURR?oc=5",
+      "source": "優分析UAnalyze",
       "published_at": "2026-09-07T07:00:00+00:00"
+    },
+    {
+      "title": "漢測10日開始申購！上櫃承銷價2250元創史上新高 抽中1張最高賺257萬",
+      "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQNDRwdkN3dlV0cGtCdG9XYUh5Ry12eFlqTXFibGRydlBDTTBGSW11cXpnd3BjdTM3NXJtb1VLZzI3aGlFZFUwSXhWT1lVLTRLWm4tSElZaDFuMVB0bURaVzhDcjNKazBWazdOYmRjVzJhem4yUjU0T2NTbk5tMVl2Nkh3YWJrOUJHb2xqbVhwYjZaZFRVOTU4QWN4TlFZbGZkbjZYb3JZRjZyWnlLWU9wWllhTFNHMUdVNlcyWEZfclJ0NnAtcTR3M3pyYUhNdjY1eDg4bFJYdFM1cVJvRDBNYVkwMjJfdnhjMk9tR2VKN3hrNnpfekV4WWxrTVFYNzdGVGhZak9kSEVsSF85Yng0MGthSkJrcXQwMzZSbG12bWNOOHBqNC1mbC13QTZ2cXR3T3M2TDJzWnJLaFhFb2dTcE9hNnhrOHY1ZGI1cWJ4RG1QTGpMc0UzR2thR3g2MXNBTzl0YlNubWNzcTk0Vm5uTk54WDVoc180RUJKZTAzY0pTVWpPUzdnQUl5M09Ta1BkbF9sRXRhVQ?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-06T07:00:00+00:00"
     },
     {
       "title": "抽中1張現賺257萬！興櫃股王9月下旬掛牌 承銷價2250元、下週開始申購",
       "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxPSGdCNVFlbW9SN0tjNVpZMlhOUmZSbTd5aHE2SWZPREp0b2xHaVpjUG91MFl4NzBOUHdoclpYZEYxVGwxR1dDZUpxOVhxSnFVQmN1eWtEWmdEUkViR1VNN1ZBbEFlMmtXOE9Nd2VEOEI5alFfZmgtNm5LWUZkUzNzOHVZT09nX2lmSnotSjg3UTg5SXd3TzRxbUI4TXdMS3VBWDE0YVRZa3p0cjRrYlZIQ2JNY2owZXBCbzFackVHY05Bbkl5b0lYMnRhNEM4c0JqZGt1ZTBIc2oxTGFaUUd5TGdCRk1SaDNkOFIxejZDSHlLZVpzLUtpcGt5UUxIM1NvSGktb3ljcFJzeEtTSEU3R3BZdFl1WkdDcDVtTV82TWttSU1MWll6UEpBRmlEWkJ1VVBvUDNwbG9ObmoxZGVkYUg0TV9PblZuOUprNlJlaW1OSWJkSFBIZDdDQ2dJajZUeFBGRmpNUjdfdFluZDNmSTR4a1RzSEZNUHpaSHgwTEotaUZCcmg3WWd0N1d0NVQ3SGxQOEtkQQ?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-06T07:00:00+00:00"
     },
     {
       "title": "漢測承銷價每股2250元史上最貴 9/16抽籤抽中一張翻倍賺",
-      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQSzAzQmJDMk84dkJpTXc3cmlDNWxCVlMyRzI2dnBXSmNfdlNhaDF1Tlk1S1RkQ0xaNkFaNlZhWlNhR2JiRGlCSzNDYVRyR3JzRXdadDQ2SDI3dHlKbk1NYVlSZlJ0NUFvSmpkQlhFRkdfVWZ3OE4yWWh0QjhDSEVsWXV3bW1EWWZTeW9GdUZOSklESXhoQTVjb25uMjFjVHNBd3doTGJ1c0xJVWp3MXJLYkFqRk1PTVZNVzFuOGdNVmF0Qi1GcEtwMVNESTlIQjRXZ183elJGdTZKQXZrMi0zZWhqbkVsMFNNUVFZUXVnY0ZfMHhPLU00YmM0R3pIb0d5UXpvVDktcExzTlFMZ012V09LTUVod1hyUFlPMllwTkhJYlV5MHloRG96akd2QkVDR0Rxd2hGSUx2MTdlWkhyVVZ6a2NoajRuWjRSTkJWSExPWk10U2kyUw?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LQzM3RU5KYm9QbnZNZVJJOHJGOUo2WGg3MzdMdThHQzhqRmtLby11dVppMjNhS18xYTZNYXF0cWl1dkZPMVZTeDQtREFkRW8?oc=5",
+      "source": "news.cnyes.com",
       "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
       "title": "史上最貴IPO來了？興櫃股王漢測拚9/22上櫃！承銷價2250元創紀錄 抽中潛在價差逾255萬",
       "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxNWThhLXMzNGhyYzZfeXpDQ05WU2JhMld3am9MUlA3SVhaQ3pZUGwzTjRfRXJFX2pPZFotaDRmbUFCM0c0R1BJM2tIVndaVjllLURRa3VzTUFyRXFjTktEUjA4WWJtaVZLTTAyWFEtMzdsMDFzVG43dFZrd2ZFRmlnd1R4YUxtT0FMTC1lalhGOGFaV2E1TmVQay1vMVo1Y0tkMmlFeGNFeTc1Q1BvelN1YXNLc0FiMVFPVWVJbVVWSmpKcmxSbENHZVJIc1dvWXlxNUpyWllqZng4LThDQWhqVlh4eUx5VklMVlpYbUN1ODg1X1czSlNIQW9Gc09GY0VrNXdULXlFTXVlbEVwTHl4dVhoenZFWEg2SDZkUkVLLUdRR2xtbEdzRGU4ZTNDai1nYmhWYUoydW5yNTNXUWtRRkhDNE9jek56UUw4TzIxc3lrcXJKYXcyUlRmYVppZ2JqeVhEeDd5aVBmSGdNSXdYaUZaN3h2blJ3dFUtbFdtLTMyb3ZEOGJWSTlXLVU4QW1XeTdLV0NUeFFzLWZldTBUUy03b0luV1p4ajRfb21HdG4tcWJ4TnJjMVdZUUJwLUMtcUJBU2FEcHM2azBEeW40dE5KWk5ObzAtRUE?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
       "title": "興櫃股王漢測寫史上最貴承銷價！每股2250元 抽中1張現賺1張",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iVW4zQVhpVjNXWTZsci1yelFjUktUOVAtNmRiRG14Z1hXQk5taDU5QWdlOFBkT2xqeWFxVlN1U01URTJzdWlNc2pSUTgyc3ByV080eXVwc0tQT0XSAWBBVV95cUxQZVVkM3RoVk5nR3lHeFVWQmZMRnZSMFliMHpsTjNybWNYOXhUSFZNc0t0T2lfNi1JUXhDTGVjMGdqaEYyQThabnU3Wlp6RERBMHdFSlNyVlRRSlJIS21sSzE?oc=5",
-      "source": "經濟日報",
+      "source": "money.udn.com",
       "published_at": "2026-09-03T07:00:00+00:00"
     }
   ]

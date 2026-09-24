@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-23T15:35:08.342614+08:00",
+  "updated_at": "2026-09-24T16:35:57.585800+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2049",
   "name": "上銀",
   "count": 12,
   "news": [
+    {
+      "title": "HIWIN Technologies Corp.的股東人數 – TWSE:2049",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSElQVk03M2tHLVd5S2lhZDdhZThrcXJtSkwwM1loeV90TmQ1aGh6TU1QNTlBMVdwSGh6aEsyMklVLW13MlQ0T0dqNUp4N1lfc2VCaWlaODdSNTJlX3ZQMnFqUUZtTkMtUmd1bHNnMmhXOS1IbExlaDBjSzRFT2d5UjA2MHRxN2M5dmZmYVRuR0didEd4Mk9vdE5zTmJrX2lIUHRV?oc=5",
+      "source": "tw.tradingview.com",
+      "published_at": "2026-09-22T06:19:59+00:00"
+    },
+    {
+      "title": "港產牙醫｜告別假牙模型！港大91名「準牙醫」戴上銀名牌宣誓，走入臨床第一線！",
+      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxNanZYSmowSmZLMzlMVzYyOGlXWjFCMEdaNkVscFJ4T3U4RzhYSXpfWG52R3VEZjBnelpBcldOOEY1RWpYajlEVnZyTW1wb2JFaFpUUWN1dE5maS1oUm1SLUlacWMzcTg1VEk1TmNRX2sySW9XTzJMR1dqcFlKWm1GdmE0YU1mbHF6RV9sckNlcmJZZG84NDFYXy1GeWlXVnRqN0pUN1NwUWkyei1LZGpodmw5ZGZNVFRjRTRCTDdlX0JWOUdHby1wQlZSVUsteEVtdmtIQVU3NW5md0xDZlNfcFJYOU9PQ25EMnFWcXdtTURTMGR0QjZsVlVIOXR0UFRPYzJtRlJXVExtZ3dTRjVVcDVVeThwajgzTXhhay14TEQ1WHFRWEhmSS1ZcXdaNFgwalFJN2RNRzhkMWRMMFAtQzg3ZWh2LWI0UE9qbldTTlV4ZUVWaHRtT3U3U01yQjl6RmZuUjN2UndQQUFzTmdj?oc=5",
+      "source": "Yahoo",
+      "published_at": "2026-09-21T02:45:01+00:00"
+    },
     {
       "title": "中國上銀基金迎新總座 上海銀行系老將姚秦接棒",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10VFNkdkljLW82TDU4UXRuWUhsRUVkeEhSTmdldGNnUDhJbVEtMUpwNEVXSWMxSTRSSE0zSnVDaUFWQThCMEdhdkhDM0I3anR1Si1KWXJRR1Y1eThEbmRXWHo2Sm1fRHlUTUY3by0yU3A4UndfYWM5dXd3?oc=5",
@@ -20,19 +32,13 @@
     {
       "title": "【11:38 即時新聞】上銀(2049)盤中續揚，市場聚焦工具機與AI訂單能見度",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMVJ3dmdoN0lpUE1MU1JMN0JBel9kRkZKV0pFdXZTaGVuUE1tMVl1WHc1QTZjT0tpRFBnRVBmaHVJa1hRR2FfODE1MUZBVlYzVkpWS2R3N0Y2NWFHMGdfZkhFTDA4TkFwYUVrRDhQM2lfV1B5cVhDUDZVbnE3UnhRS0Q1TFJxQjJqZGdjUUtn?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-15T03:38:39+00:00"
-    },
-    {
-      "title": "上銀(2049)主要產品與營收占比 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5EOGF0UTRNYUFXMWlSc3hTYy1lWmIxYmd1U0VpMU15U08yMVhlOXJVeWRUM1lMcTk0Q2lxNXlNUld0SXVMb2FwTXZqVXpZRlFaS3drdkxVSjdIb3JSVi02QTVtX2JTdw?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-14T07:00:00+00:00"
+      "source": "cmnews.com.tw",
+      "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
       "title": "上銀、全球傳動參展IMTS，搶攻美國製造商機",
       "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNYl9ybkZsVkpKVGNRTGRTaEkxak5LY1VUT1VRQTZuTVNlWVNJekFRal9rek5jS2lUcnFQUF9SODdzN0lMbEpyNFNHVDhiblB0akxWRUdBa1JQUTZoN0dtRlgyel93UGJ0c2s5SEhlN1JEYVpXeW5yaURWWG12bWd0VmpKSXpvOFY4OGU3N1dXWXY5UEZfc1JuQXhJUHhPWGpmY2V6WVpkaXJra05BLUwyeTFuU1VXaGJKelRGMEhsZTY5emloM0FXMkxHSWEzQmhpT294RkpjZG1xVUlDTG52UjZqQ21kQy1fbnpBb2RPRHZqTjY0N2phdVVsSDh0RTZJRjBxMnliMTVVUml0bE5uZDVFUlN6UWt0SUNHOTRiX1hCRG8?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-14T07:00:00+00:00"
     },
     {
@@ -44,7 +50,13 @@
     {
       "title": "【12:02 即時新聞】上銀(2049)股價上漲2.34%至371.5元，受AI與半導體裝置需求帶動＋量價結構轉強吸引趨勢買盤",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZUlBa0tULVd3VzFwTnllSkNNeHFrZWVBZzhPdFd1d0dmVzdaanZJSEZUWlhhaktiMFJIVXhaUEoybDVaX3JGUHM4UnU5ZDdIZE8xYVRiUUhDajJzY1ROOWdBejFuald6VVc0WHB0R1owVGY5MURjdDV6ejJqYkxMcThXektIYlNxUFhMR3hR?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
+      "published_at": "2026-09-11T07:00:00+00:00"
+    },
+    {
+      "title": "AI催機械業復甦，上銀 (2049) 84份預估藏什麼？-梁姐價值投資心法",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb09HbWFPMGd0cGQ1emRsdkUzOHo0Y0xORDRnd0dkLUkyeml4VEkxam43SnFJcTVWb2RPaldQUDVBamFxUmlnQTJUSDdRRFF5cnRkYmM3QzU4VEZSTFFJQThsNVBoaG00dVNrdG52Q3cwZFBFbHB6SmtwNk4wZkFpNm5hczRHQQ?oc=5",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
@@ -62,20 +74,8 @@
     {
       "title": "【10:12 即時新聞】上銀(2049)股價勁揚近8%，AI與半導體景氣迴圈加持＋高檔強勢結構吸引短多迴流",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb0I2cm5lTHdwb2xyMkliOXJnc09TMG1wSDRDc29PcWRhOVMzY3ExbVY5b0JleEJLWU56a050ekxzemJVU1M3djEyR1VVX09oaS1jRnlxY2pMbUhIV2NKUkE3MUtRczZ6SmxhdlRPcFQ0eEt3c2x0aXlRU1o0Ry1Md3o4RkhqWGcwQzZDdkpB?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "上銀營收連六月月增，已規劃明年春節加班",
-      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQNmw0YTYwWll5RDVseXVDZl94Y1BsaHZIZXExRTRTZnFSUjdHdXVObU1WTE5weHloUG9tcWJpVFVlMWtiaEZNeUZ5RU9iVEVQc2FIblh5YWw4S3dFeXpmX05xQXg0RTlSMG9kWUlRNll6Q2JFZEJLaE05dXMwQVpXckRIbmptMi0zbXJQaEdZMjlvUW1vUVJZcF9RTnVwOUxQeGRXQ1E3M1pfalVabnltRi1tTzlNVHVlSllBVUk1cjlCZEczRnlqMnZ0NkRUcC1OVS1wTEVveXZkR196MGtTSW5zLWN0bEtjVk1GY1VVTURVRzZKNWhxR3A2eDZRUXd4dGVTaFloLU9uNDBwRmFpQmtfZXVSWkhaQVRndzNDY25nMTdpeGpYZVM5Vmg2UGl6MEgtYw?oc=5",
-      "source": "tw.stock.yahoo.com",
-      "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "2049 上銀- 如履薄冰 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVS2JlZG1WZkJTUXVqU29CTkhYdjR4TEM4MGpDdmxmNzVOLV9PaUhhbl85a1kxRUltdHJiQld1MFQ5NXJrdlNqTVpUR21hOVdRMlpqQkhxRlg?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-06T07:00:00+00:00"
     }
   ]
 }

@@ -1,14 +1,26 @@
 {
-  "updated_at": "2026-09-23T15:35:07.837703+08:00",
+  "updated_at": "2026-09-24T16:35:57.126081+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2038",
   "name": "海光",
-  "count": 8,
+  "count": 9,
   "news": [
     {
+      "title": "港股異動| 海光芯正(01191)一度漲超10% 下半年1.6T光模塊開始出貨南向持股佔比升至4.2% 作者智通財經",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJWnNCYVZydnBwcEwzaFlfWkZpYnVycmdVUTBVejdwWFFVdElBVTluem5SZ2F5ZWZNcWMzaEQ0YUp0bF8yUTNSV3JLNm9faDdlWFhianNvejUxUnJqbmFrV1NEdXhLV1VKTmRPckpnaVc?oc=5",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "published_at": "2026-09-24T08:03:45+00:00"
+    },
+    {
+      "title": "海光製藥任命Rebecca Hall擔任首席財務官 作者 Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JckxHeC1tTUJjLW4wdkdmM1pBM29jVlBRTWJ4c3B0V19BRjNsMUVfUGJqODlCcjZwY1lIcU9nX0syQ2l5MlFQekE4a1REc1dCWjdFWjdHamZaSENYMHNFZjkwUm1LSzF2aTZmOUVUZkM?oc=5",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "published_at": "2026-09-24T06:52:01+00:00"
+    },
+    {
       "title": "中國加速 AI 晶片自主化：阿里巴巴推最強晶片、海光資訊搶攻實體應用",
-      "url": "https://news.google.com/rss/articles/CBMizgNBVV95cUxPYW5semd4QjEtZVM1TkVvU1JFSGtyUWN1V3RueTJRcFBrNTNRdnlobUdxdUF0RkVNeUM0YVRFWnhoTTVOaEhocUg5aHBNanZMOTZNQURsTzh2M1hNMDByQkNvUVloRUhfUDB4cUdMZEdPMXA4bTJLblJQN0phYkQ1Q3Z1ZEVoSjZKbl8yYmpOZFlmZi1FMExlZEI2REtub0FJWUlTQ0VMWWNmQU9RQUNYa3NlRWJldXVfaUJxVUNCMndaYmp0LWt3R2NMUVdMS3hZQ2M2QVFwcExIWXRtRjlKeDVKR2JoeVZqV1VSNXVXZkVZRjVvMnFfUGNmTUNPZkd5cWE1U0RqN1AtTWZKcG1NazFRVEhsRW9nTzJHeEhOdFJnRHRfajh1VXBSbm5EdWkzRlAzMnBqbFFjLW1McFNhak5MYXh4SnhWVlVPYk54d3UwVHZsMmQwM3djNU9TWjg1UDFfS1ZZMTYtMWFXMnVvNEdBZG1ZQi1Ta0xSWXJ0cEl5Z3lnbVFiWWRNcDYwdkJhellWT0JNUjROTXdnX2ZsRXJuMDNaMTdmWG5RbzBYbGRhdlo0azNFM1MxN0JZMjI5Z1RNSnA4bWxVWVVGMkE?oc=5",
-      "source": "商傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQNDV3cTJlQ0Q1UlJpZVBBaTMzbTZxMnRFTE1tNm1Xd2FodkJteFFhajlpNDhoMFBKcjVVUUtRTHZzZi1FRjQ5ME9jM2d3bGxwdWZyMEZaa3lrak9SX0FHd1YzbUxVdTZnbXl1Qm56U2d3bjBlNXFQWmdsckJkWlFLckpHdUctbzRaOGdIem1FeU85VkpJSVhuVl83OUViVHNaQWlobklVdG0yT3JSeWtnUm0tcnlFTnFFMDc5LTRaWG9fQjMtV2JqQVBmNDZrZkZMclhzbG1DM05JTm9VdFliTDVkbmZCeENDTmN0OTdXZkZvTWtoeFRZb1lLNEF1ejZvUC1fZ1J5UnJUMG00WU1EdkNNNDkzX1Y1RS0zY2l2MnJkWlNJZlJKNkZqUGlxMGZURjN6U3JzYzNPb3JYU1hwcUFfSHp2MVhZTWNibmhISm1hLTBvQXdoc0gtTzd5R3M4RS1QVHNqMGJiSUxhcW9Za2FwZTFYU1dEVE1XdTRiMDI4UGYyeDQxSzZsYmdnT19mSW1mdlZJOHBQTXI4T1p5SDI5TThKRHZ5QTFOSEVGUnpYNGM?oc=5",
+      "source": "Yahoo股市",
       "published_at": "2026-09-22T23:35:28+00:00"
     },
     {
@@ -30,12 +42,6 @@
       "published_at": "2026-09-21T16:30:25+00:00"
     },
     {
-      "title": "2038 富智康集團技術分析｜移動平均線與技術指標解讀",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1fb3RralVoQTMySFNjaFZrUHh5dnJyRmtaTTBMLU0zU3ZVMnpBbDlmOHp1d21yQjMyOTVyOWJCcjlWcGRpSVZyRTRWVQ?oc=5",
-      "source": "SL886 財經網",
-      "published_at": "2026-09-18T19:26:43+00:00"
-    },
-    {
       "title": "港股異動| 海光芯正(01191)漲超10% 近期在光博會展出全棧自研硅光1.6T光模塊和6.4T NPO 作者智通財經",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rNGwtQjlWOVZ0M1NVMURZZHlWNnMzbHhYYkhCMUNmM29iREdIRjZDeGpuYnh3dDhSYVhRT1ZkcU5TZ284Q2ZMWlYtclFKcVVjY0xwQ3BSUGEtYUc1Y0FSNUV2XzFYUVpUSG41NkQ0djY?oc=5",
       "source": "Investing.com 香港 - 股市報價& 財經新聞",
@@ -44,7 +50,7 @@
     {
       "title": "【2026/08月營收公告】海光(2038) 八月營收4.81億元，營收雙減，年減16.53%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWWRxYVZmNnZNR0dkNXVBLUplbnZ2LXRRU0J6WTZRZEJ0WDVLVVplQzg3bVYwaFUzT0gzeEs4QmFkT3dCTmNsR3BpMFFXX1NPeF9MMHBXaWtwYnBZdVlBbk5rRkFTMmxTc1dFblhESHRoVmdueDEyaXFtVnBGZTA0OVRQUDdsLWFEZGc?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {

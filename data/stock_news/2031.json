@@ -1,20 +1,32 @@
 {
-  "updated_at": "2026-09-23T15:35:05.384830+08:00",
+  "updated_at": "2026-09-24T16:35:54.862591+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2031",
   "name": "新光鋼",
   "count": 12,
   "news": [
     {
+      "title": "CPU需求提升DRAM在2031年前持續緊張的可能性",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jczRFSXB6d2ticDhUcTJIRXFnUDBmWk96TGgtU29tcmVZYTNpbTI5T0E0dXYzUU5pd2hpQWFqbW5HbDlpdFBwQ2FqLVZ0RjBFY1p1MUlBTE1QYU5N?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-23T06:52:15+00:00"
+    },
+    {
       "title": "新光鋼公共工程訂單逾30億，排程看至2028年",
       "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOUk9CT3YzUFNWZWVxeFItcnhJZmFVeHUyVmtxMEFfSTgxQUItc0FmYWUwajdQMGptNzFSc2trRmRqbVZReEJBSmNhZWNuUGN3SjJsVzNjTHdoNnVxTnNwWFA5TEUzY2lxZm1aUFVZaUdUMmYwcE9yN3lzRjFiOUZuQWR6bnBfczVVc1hGVjZuSEN2SVlXTXZMNjNIX1V6Ykg1M0ZtbHJWc21BX0NCc3oyMUR6S3NuLVV6dzJNd2VUazVySWt2dzZ4SkpwYmNuV2FZQ3hDNUlaSVNYU3ViemxSMUlseTdudkg3WUdXa3Z1UkJsWUVrdFM2OUpMOFhteVZ5cEQ3M1FNTzR1c3RFbXB6WXItSEpfTUhtVjZ3Zkhva2JhWHRl?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-23T03:45:31+00:00"
+    },
+    {
+      "title": "Blue Owl Credit Income Corp - 將預定到期日延長至2031年9",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObDlwY1lLWjhVVXR0SUtWNlFqSGNEdHpLbGczc2FUbHNINzM1MldGV2E3eDNLdzFndmthVWxZcXRyU1A4SlNYNjgxWUY1X0JFMWZETnM3VGNXRU5UZmdjTnJDQnowcENiUzB2TzhTeHhSamp0eWhrNFNVSWFrTHZqZGVoS193UzJWY2x1T1FoSDZjVkt6em1hSHZsb0ZuclhqYzhJTFZTaG55cVpqXzR0ODVR?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-22T21:14:12+00:00"
     },
     {
       "title": "Harmony Gold 為 2031 年到期之 5 億美元可轉換公司債定價 | Mining Weekly - 新聞與統計",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT1FxUXZuYTZjR29MMEwyNDZGRHRPMnZtNVdnUkxMMzVGbUhzWXB0NXE1YXZHMjNaVUJrVUtFLVNtVE1oc1pfWlJrbWR4cDAyQXl4bVlua2NkTHRWRjkwOXFqYW5YU1poTDZlTmEybmZ3RVQwN2RWZXdFamhocndSX1YxMG9HdEpzZFBMZ29TdjZDcEpQWThXckQwQ0FJeHBL?oc=5",
-      "source": "IndexBox",
+      "source": "indexbox.io",
       "published_at": "2026-09-22T10:42:34+00:00"
     },
     {
@@ -30,6 +42,12 @@
       "published_at": "2026-09-21T09:55:26+00:00"
     },
     {
+      "title": "黃仁勳駁AI末日論！斷言「2030人類滅絕機率0%」…網反而怕了：那2031呢？",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTQkZVMFR4ZXktV2V0eGpxeFdyQ2xxdkRTWUx2UzBqRnVfSGNLd0lYNU5ua0VrT1N4VDZiSUM1ODByd0Z1Zk5XWG1iNk9QRC1pYXfSAVdBVV95cUxORnY5ZHgzYTRxYk02OFlIeXB6eXFFTjZHS015dF9HTXJjRlJ6a0Z0YmpVeXMyUFhFTTZLYzRpYzVsbGkzQ05vaHBCQnA2SVYtdmdielZ5dEU?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-20T05:08:28+00:00"
+    },
+    {
       "title": "DRAM短缺將持續到2031年？花旗稱存儲器超級週期可能才剛剛開始",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOXpQYmt6N1d4bHZ3bFVlZGJfMXFzRzNmTmVCRWVybTFlVkFmcnBPVV8xM3NkbFQ4ZnVMeVphR1owRW9nZmZ1aEw4bTE5Nmlpb0ozRjNVcUo1dExvbzZQNXlTeGMzaVpCQzJhRUptS093bjBvOEVDcEpFWTZiYVYwa005N19yYmQtSmNpQXhKVHd2bWFGSGNtV1FjVmJLOGVHRm05dkl2UGk1bUtQeWhCWHA0VGZyUV80bHU4amh3?oc=5",
       "source": "Moomoo",
@@ -38,7 +56,7 @@
     {
       "title": "新光鋼看AI投資規模持續擴大，明年樂觀看待",
       "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNLWp4Ulhkczh2Ymx4OHVUX0ZTZWhwY2k4Z2RQTEkzdW12b1h5VFpkbE43WTM0VzBTT0ZjSy1senh4bWQtMzBJR2FtV0pIdm4yZ1I4VHJKeWdTSEdOZDV5X0xNckJHQ19TTFF6cGFWZ28xSHgyMHpYc3ItbTlGVmRQOWZmaE0xVWpYbW0yUWZQZ3QyaC1KdHpoMGRMN3FPaWE1RXBuSzZIRERHS01lVENnS0VIQVROSkJCOGFvbTF0NG8zbUx5UFVGVTA0cGgwSU9rV3BHWk1OUlNtZWRZeDZ2R1g1c1BTSHI3MU12dUpVS2Z1YjZva29ya0p1c2d0RGk2N2ppSWNGcUItVUlsTXp1b3dsVG52UXVQc0RJcTZvSS1KbzJHVlhqWk5XYzU2OUJoUGRtQ0U4Yw?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-18T03:39:40+00:00"
     },
     {
@@ -56,26 +74,8 @@
     {
       "title": "「這龍頭」交期排到2031年！ 高盛洩天機：買進南電、景碩",
       "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNWG01bHZBRHdiYWYzb1h4eDcwTS1xUWx0el81WVBERUZHbDZ0Q01USzI2R3JMWExWd0xYa3BVUFJod3JudGNOaUkyWElpcElhdmpRNUU1Y1IxTU1KMFZJV1BSaGs4SWw4Z1lEVlBlemo4ZTZqSjgxWXp6dW9sbWpNOFNTMFMtYXBPS2x1TkYyUUMzR3RteDFHVUJJRnBTMG96eHhiRDIxUXpjMjIzNFpLYVF6TjlybHJYZkNWMlNCOFdESW0xdVkxNmFZTXd0dXMzVmxPV1NRam5sRWwxMGJCSThuUWlLZzd0RF9kSWNIM3loQjhvaFlKZE9fQTJaQzB6NE42Q0ZvdWNUbTZlY1J2SnRxS2xnWFdsc1hMdFE2Ni1DaHh0RE1Oc2pXRWhoLWs2b1ptRlVNTF9iRUZZREZyUHpYOVRhbmlfZXc?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-17T03:10:07+00:00"
-    },
-    {
-      "title": "AI“持續學習”或開啓存儲新週期！花旗：HBM、服務器DRAM及eSSD需求齊升短缺或持續至2031年作者智通財經",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ENFRKN0pKXy1qbVNOdUQySDhqZ2htZnFoUVhXeTJfcjZzTFZKVHJPRmw3Q3hXSHVYdjNqWk5fWDd0RjVmYjJfVS1PNU9Gd2MydTRiY0RiRG0ydnRrVTNybEdoNkhsV0IySlhzM01INXg?oc=5",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "published_at": "2026-09-16T20:47:47+00:00"
-    },
-    {
-      "title": "到2031年，多電飛機市場規模將達到$86.6億——MarketsandMarkets獨家報告",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb091ZzNOazJPdk5wSEFWOHExYmhWcG5OUUZsczgzUy1vakNSWWlPWGM5cWxUMGJBWVR1RXhsdUl3eFI0WWw5R2tldHhLTmVmNXBGS293cjFDMkRQX2htVE9vWEtxNWxyS0phRzdTSHpmSTJfc25La19pbmJHWEFQZEtwUng5U01RRk5jUW5vMU90cVBvbVYzR09OVzVDblEwN3lmYXRB?oc=5",
-      "source": "Moomoo",
-      "published_at": "2026-09-16T14:15:00+00:00"
-    },
-    {
-      "title": "TGT 目標百貨- 亞馬遜計畫2031年前建立千個當日送達中心，迅速擴張配送網路！ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xT2tjUnNDLWhlcFJfWWpwZk1Cc2ZxVHFQd1dFZkZUT3VtUjFfaHhsVTZsM2M3Vm9maGNHQnQtMEM0U2U4MjBqc2toWl9mUjJkT1NlZ01NWTE?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-16T10:08:48+00:00"
     }
   ]
 }

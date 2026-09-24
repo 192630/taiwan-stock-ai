@@ -1,27 +1,15 @@
 {
-  "updated_at": "2026-09-23T16:35:19.082289+08:00",
+  "updated_at": "2026-09-24T16:36:18.397053+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2312",
   "name": "金寶",
   "count": 12,
   "news": [
     {
-      "title": "金寶湯股價今日為何持續下滑？ 作者 Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oUVNCVjRGdmg5ZWoybWhHTUpKSzBQS1pOeHRzTnd6eTBfRXh6SXhwYzFiN2pKT3VTb0V1TTUyRjdfemZvMlFyVEVLT3N1cDBaNzlaR3ZfMjdMRnpBb1lPbW55SVo2V1lCVHdsS1p5V3d6UjJCWHlj?oc=5",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "published_at": "2026-09-21T16:20:17+00:00"
-    },
-    {
       "title": "熱門股》量子題材發酵 金寶亮燈漲停",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1WjdwbVh4UVB1ZkJxXzJKM1V0U2hjakE3Wmp1QnRRcmRGZlBCUVk1MmpMWVlFUkFHVzNPd3ozSmNuNFF1RTAwQ1lpbmhScHpHaVVlZTdzUXk?oc=5",
       "source": "自由時報",
       "published_at": "2026-09-20T01:16:55+00:00"
-    },
-    {
-      "title": "金寶卡位量子電腦，明年樣品規模拚擴至數十台",
-      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNQU5scUhaUU1JbGNQSXJfMVVqbjFVWFpJemQxdFFUSG9uMllJZzA5aEtIYm16UmF3VUx3VWtVdnVlclNWNjJpVlNYLXBpLUhuVDlrUnNBOUd5andvamNpcXlLY003cmdkMUxTYXo1NG4wa0k3dnBxZEp6OEt5d1FIc3hHdElqU1EzRk80SndDN3Y0SzJmUjMyUU9YcEtSclJWNWwzUkdZVHM5dTFIZlFROUxCYjhiZjJPWmVFVUZxU2tDRDJOZS1mMUJkYVFDVEU4MnBqZUZaNThtTGVyN0J2aU04S1Q4UjFSbVY4b1BnZTNxX1A5WnFzVXllUzVSOC1TVVh0RjlfNDZOYkYtZEZSYlpkQjZzazQzYTlFSVV5bFdJWUlKcTJ3ampKMkxnN0REeFdJaTdaQmthYnJobXlNenRxU1BEMGZjYnhmSQ?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-16T05:19:34+00:00"
     },
     {
       "title": "金寶總座陳威昌：低軌衛星業務大復活 攜台亞、韓商攻基地台",
@@ -30,16 +18,22 @@
       "published_at": "2026-09-15T11:30:00+00:00"
     },
     {
-      "title": "〈金寶法說〉金寶新產品多點開花 量子電腦Q4進行驗證同步重啟低軌衛星業務",
-      "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxON0g4cXZCaXBJVWVISVFnQ3doSWdtRkZkYURjWk1pWUp0LUtERjRsV2Qwanc3eFdySlBkOE5iMEN1T1BPNXgtbzcxcllfRXY2QlczbndqMlFuUmN1b0szWkF6cVQ3YjdDb2VWckZ4TUstNlpNeFl4XzhpS1ZDWmY0QWVsb2tRMENWZ0tjSy1SUkNzTTBKSV9CblJEbE1xS0NmZHA2VVJwLV9HbHBaVzdYUmplNktieF9GMG5XVW5aRl9tNC1DdVpOMmRWTVBkbDB4RThyRkxlRUhWZmlUZENqYkxGTnNFV0IwY1pvR2dqYUNTWTVxb0tnUmFKTkRQeGpmZUZ2bzk0eXB1S1JfN0d4Q1cxTXpxN3dtTmFtRjFUT1ZGZXJzekpvWnA4UXBTMFY1MUt6cjVxdW9MM0hzZmFXYzhuVV95aUc3MXRnNnlLR0gzYVNmYVRkQk5nUGtQUFdNUHNmZnVzalVqckRGTmd0Z3ZwNVQ5bmhqZ1NfeHJycnNDZ0NoYzJmM1FpSmxzeXJ3Z2dRRjZSMHdHQ2tXUXlTejE0UjFwQWRIYldYaDQydVpWM29pb2xWWGZLbHIyN0lncG1kd3d4VVJLZE5maUZncE1raE8?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-15T10:25:13+00:00"
-    },
-    {
       "title": "〈金寶法說〉金寶全球工廠布局穩定擴張 策略持續鎖定高毛利產品",
       "url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxNSE1qYUV3WnFnMFB0eWtLWkNPV0pPU0Z2Uy1qNjFOVXlvZFZqY3pqY3FFVkpwZmppRk9waEtybk9iOUxHcnU0UUpwZkpHeDYxcVJpUHJZLTRNSG84RmxVVi1SZ2wxM2lCNFNRRW5GRXlvcGNzMUZSbzVnZVNCbXdPSjlsMTJnNU13Z1RjQjk4T3h6aGNqUVBhR2xNeVd0cUxsclZ2TnFzZ2puMkt4Vm0wSGs0dktHdDhuTmVZU3J2ejVPTHJiUFV4WG9TdEkxRXFPVExPZHM2eFMzUGlaUVg4Q1dpZmMwUjYxMGZvM1A4SG00dEpsNTdPMUxiWDZQazhmdzNEUm1PZlBKY0xwcTlycU10M2pNOFJ4LVZ4ZGxZMC03VzBOT2lCREZTeHBrQXlyOGJPLWZNODgtTkhBYVFFeW1lMEN4a0dJR3Q3Z1ZBa0tWREJUanlLUFZPTlpmRUU1d1NJVDFpNndta2FNWG9IQVUtRFk1NHhmdU5iUUdSUTNqdE12ZVR1RkNjdlp4Wlk0M3FfRTJUOXZlVkU5RGZab2Rn?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-09-15T08:06:03+00:00"
+      "published_at": "2026-09-15T07:00:00+00:00"
+    },
+    {
+      "title": "金寶卡位量子電腦，明年樣品規模拚擴至數十台",
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNQU5scUhaUU1JbGNQSXJfMVVqbjFVWFpJemQxdFFUSG9uMllJZzA5aEtIYm16UmF3VUx3VWtVdnVlclNWNjJpVlNYLXBpLUhuVDlrUnNBOUd5andvamNpcXlLY003cmdkMUxTYXo1NG4wa0k3dnBxZEp6OEt5d1FIc3hHdElqU1EzRk80SndDN3Y0SzJmUjMyUU9YcEtSclJWNWwzUkdZVHM5dTFIZlFROUxCYjhiZjJPWmVFVUZxU2tDRDJOZS1mMUJkYVFDVEU4MnBqZUZaNThtTGVyN0J2aU04S1Q4UjFSbVY4b1BnZTNxX1A5WnFzVXllUzVSOC1TVVh0RjlfNDZOYkYtZEZSYlpkQjZzazQzYTlFSVV5bFdJWUlKcTJ3ampKMkxnN0REeFdJaTdaQmthYnJobXlNenRxU1BEMGZjYnhmSQ?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-15T07:00:00+00:00"
+    },
+    {
+      "title": "〈金寶法說〉金寶新產品多點開花 量子電腦Q4進行驗證同步重啟低軌衛星業務",
+      "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxON0g4cXZCaXBJVWVISVFnQ3doSWdtRkZkYURjWk1pWUp0LUtERjRsV2Qwanc3eFdySlBkOE5iMEN1T1BPNXgtbzcxcllfRXY2QlczbndqMlFuUmN1b0szWkF6cVQ3YjdDb2VWckZ4TUstNlpNeFl4XzhpS1ZDWmY0QWVsb2tRMENWZ0tjSy1SUkNzTTBKSV9CblJEbE1xS0NmZHA2VVJwLV9HbHBaVzdYUmplNktieF9GMG5XVW5aRl9tNC1DdVpOMmRWTVBkbDB4RThyRkxlRUhWZmlUZENqYkxGTnNFV0IwY1pvR2dqYUNTWTVxb0tnUmFKTkRQeGpmZUZ2bzk0eXB1S1JfN0d4Q1cxTXpxN3dtTmFtRjFUT1ZGZXJzekpvWnA4UXBTMFY1MUt6cjVxdW9MM0hzZmFXYzhuVV95aUc3MXRnNnlLR0gzYVNmYVRkQk5nUGtQUFdNUHNmZnVzalVqckRGTmd0Z3ZwNVQ5bmhqZ1NfeHJycnNDZ0NoYzJmM1FpSmxzeXJ3Z2dRRjZSMHdHQ2tXUXlTejE0UjFwQWRIYldYaDQydVpWM29pb2xWWGZLbHIyN0lncG1kd3d4VVJLZE5maUZncE1raE8?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
       "title": "金寶法說1｜陳威昌：提高備料策略奏效 泰國、巴西產能全線滿載",
@@ -56,8 +50,8 @@
     {
       "title": "【13:24 即時新聞】金寶(2312)盤中小漲，伺服器與ODM轉型成焦點",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWjlnT0J1UWowemliUW1WOUM2dzhIRDFFYXd4QnRSaGFhSURGZFAxdTFLdFN3cnVHSUY2bkhDXzVNYkV3TWtZUy1yTXp4ckR0eHdZcnpXUUFzN19aRElVNk5IX3k1RUFMdElSVUhWbE44ZXhKS3NQaENiOWFjTVBXWFJhM3I0aTNjb3NwTEZ3?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-15T05:28:28+00:00"
+      "source": "cmnews.com.tw",
+      "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
       "title": "9105 泰金寶-DR - 股王大跌，Ccet反漲？ - 股市爆料同學會",
@@ -76,6 +70,12 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nZExmemRPYUlaRUtuQVdlc01fTjE4QXBkV3J0djBiLW1aNlpzUGtrSWVmSzk5c0ZGVWRYR19EZWdSblhESGJqMlRCWU5nYS1ibGpVcml2SzM?oc=5",
       "source": "自由時報",
       "published_at": "2026-09-11T06:24:41+00:00"
+    },
+    {
+      "title": "2312 金寶 - 我要寫一個慘字～ - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LTzRXTmNJU0V2YWlnNElNZEF1NFlDS3dJb0pfLU5McmE2ZFV4RVRPb0FwckwyZ2JUTGNSSnVUTmdjeTh6czRSbkxyLUx1bC1VLUsyWEpMNHI?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-10T04:34:51+00:00"
     }
   ]
 }

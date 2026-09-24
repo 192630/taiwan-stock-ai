@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T16:35:18.591942+08:00",
+  "updated_at": "2026-09-24T16:36:17.973730+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2305",
   "name": "全友",
@@ -7,9 +7,9 @@
   "news": [
     {
       "title": "【10:26 即時新聞】全友(2305)股價走強，光通訊轉型與營收成長受關注",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeDJldDZqY3Q3SnJDTXVqOEs0cVRNLWNMb0Y3R3VDQ1RtY29nTTZFMmRDdy10SmU1OElPdm9WdWVISDUwZERkNjRITGtYbFhwRFdSX0RRMUJnWmxudWtKN2ZiUnN3Z01XTVRkRkxJZ1BQbXZPSzBGMHNWMVVScE5ucEJqWm5VUWd1cDFfd0dB?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-23T02:27:28+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3UVNTWS04RW1IbGxwRTJ4OENidEJsSjV3UWlKeWI1ZmhQYmJVQXAxb0x6cUhRVVAydEs1TktxRHpRRC0tMS1veTR2Y2lQZG5XYkUydUw3bGk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T02:27:30+00:00"
     },
     {
       "title": "2305 全友- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會",
@@ -22,12 +22,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT0c4MkxGX0lBYkVsSFBTSUFrLWx2RjYxQlYxUVY4MWFkZVVheThwZjJPVjQzbWVlWXdlUmI0djFUTzRpb2cyczEyOU5KekhRei1BNDFqRzhJUG9YMkFoNnN6WnFDTkxkV1lpR3dBU2NYSHVOVUY1T3pSdTU3OEdaUWU4NmFxc253?oc=5",
       "source": "富聯網",
       "published_at": "2026-09-20T23:15:00+00:00"
-    },
-    {
-      "title": "【11:50 即時新聞】全友(2305)勁揚逾8%，法人買盤推升股價續強",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcnRRMEN5QXdPMVlNYUxMSUgtNUp3VWl0R2p5czNVMTJJMHVBa2E2MjM4bi1ZenNaYVphWlczN0JJQk5uR1ptTlNFVFRzZzFIUXprU1pydFdsRDlwa2ZEbjJnaDhIeFRQTWZPRGJ2MV9ZR01EcEttdzFzZF9vZS03UC1YV0E2SlpiN3pBeWt3?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-18T03:51:31+00:00"
     },
     {
       "title": "5檔飆股今被關禁閉！全友、聯一光關到9月底 「這檔」90天狂漲395%",
@@ -74,8 +68,14 @@
     {
       "title": "全友做什麼的？爆量9萬張後拉漲停、今年大漲350％！昔日掃描器廠為何狂飆？股價49元能買？進出場訊號曝光",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTGZKa0NBR2hQYmhQbnZ4X1BFeVAxM2J0eWVyUnBnaUZOd3FFV2E1bmtKdG0tVjJ4MDZhWTcyblJPZl91M3UwYVI0WC1aakFtQmlVSldYRzJUVmdzYmp1MVJ2SVRVbU44VmQxY0lIQWdQYTBnbFJZNXowRG9iNjdGdA?oc=5",
-      "source": "今周刊",
+      "source": "businesstoday.com.tw",
       "published_at": "2026-09-16T03:40:00+00:00"
+    },
+    {
+      "title": "8個月營收幹掉去年整年、Q2營益率飆破23%！全友甩開掃描器包袱變身光電黑馬",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1tVDFIRlpHQ0JETjdkaVlmX1VTLXhaMXUteWZsbGRTOEFVYmFZbXhWZ3YzeVZ2bEFJSnRMWkZPOVQyR0dFN0hNazFPMDF5MUlTcWZlUXRsWEE1N3FKRGxiMTNRUGJXcHNJczhvTFp5WQ?oc=5",
+      "source": "理財周刊",
+      "published_at": "2026-09-15T07:00:00+00:00"
     }
   ]
 }

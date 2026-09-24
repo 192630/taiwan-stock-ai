@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-23T15:35:09.805981+08:00",
+  "updated_at": "2026-09-24T16:35:58.833270+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2062",
   "name": "橋椿",
-  "count": 1,
+  "count": 2,
   "news": [
+    {
+      "title": "Sunspring Metal Corporation的Enterprise value to EBIT forward – TWSE:2062",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRDQtNnZKMERhd1VsWGtZWGlsT2hHdkUwQ3dCN20tWG1UMnFQMll1d0ItU0xJNUloMTR6X2Qza0M3bHRCQWQ5V3k5MlZ5VGVtSlpmQTZYejgwWEo4N3FlNW1tdDVSTEJqUGRXeDhTUzdwZEFRbldzMlpZTEpTOUhXQmc3TEh0ZndkTUtzMWR5enJYM2hUSmlrdHhSTklPTERsOWVfQUxvdw?oc=5",
+      "source": "tw.tradingview.com",
+      "published_at": "2026-09-23T09:27:25+00:00"
+    },
     {
       "title": "【2026/08月營收公告】橋椿(2062) 八月營收6.16億元，表現亮眼、呈現雙成長，創近2個月以來新高，年增22.2%",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUDBHMGN1WFhnVDVRSmh5MlhGdjIxeEZKSGNWR2FLb3NFVjZORTBPSTJoNmFLOFNPbWFzRkxxNFJPcnJLdjQ3UHptVi1rVEVrZVVSRG9rTDlGTFZfMEZna3lKLUdObEx3ZFhqcnRicC1LXzFGZTZJU1BQR3UwZ0RqZDVRVUJUbWRBOGc?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]

@@ -1,26 +1,44 @@
 {
-  "updated_at": "2026-09-23T15:35:21.846019+08:00",
+  "updated_at": "2026-09-24T16:36:10.157194+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2221",
   "name": "大甲",
   "count": 12,
   "news": [
     {
+      "title": "【13:24 即時新聞】大甲(2221)股價續強，季漲黑馬與半導體廠務題材獲關注",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOW02T3BPNFY3aFo4Sk5FWGtQOHBlRGhLTWZyRURXUXlrVm5Oc3VxU2dZcGlWWXllenVFZXlfS09LS2VkZFEzMk1ET0JHWS1jR1dTU0RaRlFrMzVGYVkzckRzMTFXazRFaVk3RnlsWXN1d0F6a2RyUWpSR3hpQ0R4elowSVVsMm9aZWU1Ymx3?oc=5",
+      "source": "cmnews.com.tw",
+      "published_at": "2026-09-24T05:25:51+00:00"
+    },
+    {
+      "title": "【09/24處置股公告】大甲(2221) 09/24到10/06列入處置股，約每2分鐘撮合一次-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSGE1RWNfNUgwTy1relhVTUxMNk42TmlBaWYyNS0zbUZjbDJob2I5dWxXTnItX2pBVTZzdVI5RHpYX09HelRjUGl3b2RzN2VWdVNjdWd6VTFKYlRyLUF5XzZTTV9BUUdkYWludVVrRUVCSVFGaU9RcFpvS3BLYklVR1Q0QWdWMWlzanc?oc=5",
+      "source": "cmnews.com.tw",
+      "published_at": "2026-09-24T03:10:07+00:00"
+    },
+    {
+      "title": "2221 大甲- 上櫃股價漲幅近5個交易日以來排行- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02aE5BMWV2SXUwVGEyTXptNGpxTWtYelAyeUZqRUNKb0NtQWY1YWljWU1JSVUxSDkxSjRHbFVoYVktRFhXU0FxX1F2aG9FZF9mN2hlT3FrYTQ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T08:20:50+00:00"
+    },
+    {
       "title": "【10:20 即時新聞】大甲(2221)股價走強，季漲黑馬與半導體廠務題材受關注",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTjk3cDJTeE9ieW80QS1iWEo2dTZRVmVQbldWY2NrUVg3R1RhYzJrMk9QLV81cDFyQWJRS0luUmNRNEZxWUlyM0NseXI2R1I2MnBVSjZ0MDJ4bG9yam4weFl1S1BUUGszWER6U2ZGMFd0RFJWTWtkNzRuRFVqdUdPY2JNdkxNWG5vQ3NBSEpn?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-23T02:20:50+00:00"
     },
     {
       "title": "2030 彰源- 彰源+大甲這兩檔都切入半導體-大甲50就入手-過往都有文章- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mdmt2Wmxpb21Jdzl2eElPNjcxTjQ1VG1sY1VyT2c3SXlUOURaSXgzRFdqZU42Qmg1MU9TV3RLeHZjbndCVEpwUnpKYWxYV2k2OGxVQ0g4TzY?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-22T02:33:43+00:00"
+      "published_at": "2026-09-23T02:09:47+00:00"
     },
     {
       "title": "【09:01 即時新聞】大甲(2221)亮燈漲停，延續中小型題材股強勢輪動",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc0xYWVBOYjhSYjdZQ09rOUplZEh5QjFNX0dMdWtaeDdhNTJFbmZCdlUtOUlRX0lnMWR1NUFkQWIwYWxaMkFCMHQ1QWxEQUF4WkliTkFVMWFxUmRsQy1vWlBHY05qa2ZOd1RzT1Nud0xtOTRnLTZkeDJxMXAwTGdFdkhtd3E1amRvMmRJTjBB?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-22T01:01:38+00:00"
     },
     {
@@ -31,8 +49,8 @@
     },
     {
       "title": "【10:41 即時新聞】大甲(2221)亮燈漲停，中小型題材股輪動延燒",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbmtYV1dBU3U2ZS1zRG13aEdZbU81aF9ya3RlTEpBS0tqQVBSc29ONzNGMDdUWUFId3l2VFVtWEFMNUNQZC11NGJBQlZTbE11bmNhVkZWWEczVEpMMFVSTXZCd0hKY2VEZWFWOFMyNWxzcUdtT1RwUlpnUEJCUmtUVEEtaDlrWWVqOTFDZmxR?oc=5",
-      "source": "CMoney投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByV3lhN3ZXdktVXzlqcHY5Yk5VTGUyWi1mTXBvdldIR2hqb2d5eUpVY1hPUWhYYXhjRi1WNjZIa3Y5SmgzRW5zYjY3RlJucFZ3WGZJN3Y5Wjhabm5sclpmVzV2emx2T0E?oc=5",
+      "source": "CMoney",
       "published_at": "2026-09-21T03:00:07+00:00"
     },
     {
@@ -55,27 +73,9 @@
     },
     {
       "title": "媽祖真的保佑？大甲狂飆三根漲停 專家揭飆漲原因",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE11WktxR3VPZVV3OTA1aEJJY3oxWE9JNUQwdUJzck9rUlpUMEdrNjJiSHBhOHVMRDFIWDd1SUtnYzMwaTdRQjllSDRJVQ?oc=5",
-      "source": "三立新聞",
-      "published_at": "2026-09-18T14:44:05+00:00"
-    },
-    {
-      "title": "2221 大甲- 大甲自結8月合恲獲利3500萬元，每股稅後0.83元 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52LURiYUUyWDZYdWJnRnpnZzItNjhfaTJGZDFDYmVZblY5U0htMFR4cG5uQjBTbXJBY3VPc0FsOWl1SHhMNjJuV054QTFuSGZQdkJXWnB6dWE?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-18T13:21:44+00:00"
-    },
-    {
-      "title": "【12:56 即時新聞】大甲(2221)攻上漲停，量價急攻成盤中焦點",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX1l1MzRjR3B5MElDWU9IN19XalVFQ1VOMDctUW93QWxJYl93OFBVOW5SQVZUS1FVWnNZbmVvZHNWQlhhZ3NKUjY2aEtHYXFDNW14X2xFbDZaTV9SUzZ1TDdncFM1R3RORG1fenplX25SN0wyYlp3NGlkXzh0Xy1mbzJwZFp4SEctUFo3b2RB?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-18T04:57:12+00:00"
-    },
-    {
-      "title": "警示股：週四(17日)店頭市場遭警示股票有大甲(2221)等14檔",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcWhHMjNTbHlXUnFDNmNtNmtWRXFYNmVuWlRnSW9pZDl1MFhrMXJhbldMS3lkWVNrOGJZdXBPb0ZSU2w3emJvNURkaWJDWV90cEU0Qm9pTUZrbTNLeThXUkNHcHVZSlM5OGRnNVkyS3RVUFcyQVlDeVBTaWxjMV9nTGtJNEtKR1dv?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-17T23:15:00+00:00"
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNMnB0bkx4M2JjT2d0YmxoUGh2ZUxQZ0NMdUU2ODZJbXlHUEc3NHlxVmxnckdha2xLeFUzelhrWWNLSWJNazgtWDJMX3Y2aHltMEVGZG5xTG95TVBQeGxvTHQ2RG9oelVnXy01cDRDejMtTjNDSTZkNXVZWGEzTW1Yck1VV00wS2U4SGpwZVBjdURDWHNBNzREMzZSNzUwODZiWnRvQ0VWRXBTeHJ1VmM0SU9xbVltREZtRzQzYlNaUkM3TTlOMEh1NWtacWRPZEQ5eGFrdDR5eUo2YVR6Q1J5TG1nZGk5aWc5TFdCbVdaeVU1ZDhsTnB6QUZrSzlsZGNwcnl2bXo4R3ViREh4M1JpUjlVZjNLWGo3MUVVZk1OMDhrTWdYX3NnN0hhc0hmWFcyMGoxUng5VWdQNHNsTlJNVlc4emYxYWRmMjFUeV9ET0hLUQ?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-18T14:48:00+00:00"
     }
   ]
 }
