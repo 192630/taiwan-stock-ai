@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-23T09:33:16.881239+08:00",
+  "updated_at": "2026-09-24T09:34:08.115476+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8016",
   "name": "矽創",
   "count": 12,
   "news": [
+    {
+      "title": "Onward Holdings Co., Ltd.收入明細 – TSE:8016",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QSVVWUmdSMHFESDFyb29ST2puVW9YVXB0Z09aWldtazRpWkY5SEl6RFoxa0xiM092Q09ON0VXLTZ4TjZYUjNfNXhUaXNjRC1WTEVmcjNQQUd4U0k5WUZRTWNPb0NWTlJ3TzJxcDJxemFudw?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-22T12:09:51+00:00"
+    },
     {
       "title": "矽創(8016) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtbjVIbXA1ckNSTjVzODFlSko0d3loZGtOVk9IM01iR0ZiSWlvN3hVTEJyMmdUdmEwTUs3b0t3cExlQnFBbnhqOVNwc0NKZHl2b1Jj?oc=5",
@@ -20,7 +26,7 @@
     {
       "title": "重大建設利多齊發 亞矽創扮演桃園青埔都市發展關鍵拼圖",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTTFowMnlfb2xkcGlENXFacjRfVG9YeTE4MjFadU9iRDFDdUFYNUhUaHpoTmZYMlU2cVhHOTZZYWVwT3FBZlJoVGlQOUxqOF9SbzJicWRrUFJyVjVJUDFaOXNmbmpyeFdvbEd2ajYtVQ?oc=5",
-      "source": "moneyweekly.com.tw",
+      "source": "理財周刊",
       "published_at": "2026-09-18T08:22:53+00:00"
     },
     {
@@ -42,16 +48,16 @@
       "published_at": "2026-09-17T09:51:11+00:00"
     },
     {
+      "title": "亞矽創招商說明會 吸引百人參加",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE90LXM5OVMtRm5Jb0I1Y1RWbWpMRjFGT2RCdDNJTnpDQjJES2g4bE90cUdHanFfVVduV2NscF9zLWpCbm8tTVpzTGR0RVMtSVFFaUxTWERFSTgzTFgzZFdz0gFkQVVfeXFMTmlJNm5ROVNWb2E4b2s3MmtKbTItbnRLaHEzSFkwLVlzS3VBa3l3b1hteGJmRHdkUGMwbWtuZjhtNFZ6R1RlYjNhYmZyb0JlTXg5NGhhVWszWVp1WWZsN0JYbmlaNQ?oc=5",
+      "source": "ec.ltn.com.tw",
+      "published_at": "2026-09-17T09:27:54+00:00"
+    },
+    {
       "title": "〈房產〉桃園亞矽創招商計畫正式展開 擬在明年首季完成評選及簽約",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmS2lhMEprbWNYZmRpQkRpX0pQU0F1SDhZMVVuMzdkdlI2MElnLVdZaWZjTmJjaXhYdk9xb0VoN21XYnE2SlNON3dBUjdnYXM?oc=5",
       "source": "news.cnyes.com",
       "published_at": "2026-09-17T09:26:08+00:00"
-    },
-    {
-      "title": "青埔都市發展關鍵拼圖 亞矽創研中心啟動實質招商",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uUC1RRXJIQ0JLWmlodE52REtiYlR3SkdSR0plYTBjRHFVQUtuamFSQ0l2RkNhem0tbVoxd21kbnQ1TmNEdWk0OWtyc0Y0WGF4N0syNV9CVmwxUdIBX0FVX3lxTE0zZU8xSkl4MlVCcHJDMFF0eXd3a2JsdFF1X0M3VTVUMVFHR190NEhfdjRtSWMyNDcwY2JGWGZhNkphVk53WFBXQkF1MlZsVWtZajNHU3gtOWhFVlpObGNV?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-09-17T09:12:19+00:00"
     },
     {
       "title": "青埔最後一塊拼圖「亞矽創」招商 科技生技、壽險、上市開發商到場",
@@ -66,15 +72,9 @@
       "published_at": "2026-09-17T07:46:00+00:00"
     },
     {
-      "title": "亞矽創招商說明會 吸引百人參加",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92TE5rQ2NBX3pHZGlNVFhxNXh3OG9TMVhqNG5yN2s5ci1YLWNpQU9fRzRlMUZkRmVnMUY0LTBtN2xnVjc0LXFMNVJtcGxtOHp1OW53Z0Rsek4?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-16T18:27:00+00:00"
-    },
-    {
       "title": "Sitronix Technology Corp.的Enterprise value to revenue forward – TWSE:8016",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZF8yb3A0QnE2YTJ4UEhpdHU3R1dmdEpIbElOS0FZNUNid0E0b1lDWUJpeUtQVHk5SFMyVGR0NnBWWEJ2LU5YNXZzcUpZT2ZRamdoU29hVFpzeWZ0TGpBZ3ZyVXFJcFRYU2NkSnhkOWhIZUtDSmYzX2NmY3ZHZVVHeHZ1UlV0SHU2Uk5DWVZSblh5MHV4NE1TT3NfRVNhcExvNjRSVVl5eEo?oc=5",
-      "source": "tw.tradingview.com",
+      "source": "TradingView",
       "published_at": "2026-09-15T21:16:06+00:00"
     }
   ]

@@ -1,38 +1,26 @@
 {
-  "updated_at": "2026-09-23T08:38:34.761579+08:00",
+  "updated_at": "2026-09-24T09:33:50.486982+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7770",
   "name": "君曜",
-  "count": 8,
+  "count": 6,
   "news": [
     {
       "title": "9/23老千開盤買進7770君曜 - ◆Sage Mao | 投資網誌",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DVW9oN0k1UWlXOGJRVUNYMFRDUzNES3V5R28tWmZrQ0pUaUhCYkdDR0dWUnFXZlMzeXVVRzFKSjRtcGpUNUxFU2ZvUUw3aHJodHRxWVdlZ2w?oc=5",
-      "source": "玩股網",
+      "source": "wantgoo.com",
       "published_at": "2026-09-22T10:35:55+00:00"
-    },
-    {
-      "title": "《櫃買市場券商買超比前30名 3-1》君曜(40.69)、智晶(30.29)",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSnlNR0R5cTQyc0RfT0pGVWlsTWFXSGU0TVhlWkFEWjFaMGYwb1hOMHVPa3RIZjFBbVNndjZiVlJmLTJDdy03NFlNSmdxWGdibE9zcjlSenp2SUdyMWpxVVVmVm1YdEVMdlBSbDM2SHhuVXNvbmNZa0I3OGhnS2t1MGo3aE11OUJj?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-20T23:29:00+00:00"
-    },
-    {
-      "title": "短線神棍：7770君曜9天漲幅17.7%",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9mcnhBSVlMQTE1RjVmbi16Sy0temt1cDQzQWUtSDFRaHhhRTg0MEhPRzF2M19FdldFSlVhaExxMjVReUNlYUtjYmh2Z1M?oc=5",
-      "source": "聚財網",
-      "published_at": "2026-09-18T08:55:37+00:00"
     },
     {
       "title": "9/16老千開盤買進7770君曜 - ◆Sage Mao | 投資網誌",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tdXN6REUzVmxPcDkwOWVrUzhMUGw0RGFKeFJQQ2NodmVUazd2RDVScnB5YzVmZVVTbnNHRm55bEtWWDdDeFRfVE81LTR0Z21tRGRtYXRCalo?oc=5",
-      "source": "玩股網",
+      "source": "wantgoo.com",
       "published_at": "2026-09-15T08:51:29+00:00"
     },
     {
       "title": "9/15老千開盤買進7770君曜 - ◆Sage Mao | 投資網誌",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwZHpPWHAwdXdTdmVqZFh2WklmMl8xdExVQ2Q5VDRiZUhjdWdsQTgyWm45eWUzNndKaDl0TnhncjZoZlp0bXhpRXVUanh5emxwdFJHMUFjank?oc=5",
-      "source": "玩股網",
+      "source": "wantgoo.com",
       "published_at": "2026-09-14T09:04:57+00:00"
     },
     {
@@ -48,10 +36,10 @@
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
-      "title": "7770 君曜- 【09/01 產業即時新聞】IC設計族群急拉強攻，聯發科領軍挑戰新高，市場聚焦多題材爆發力- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45eXNNU244MmMzRE90U3FYcjhWSUl3cUxPbGF5U2tmdUgzNzEyM3NNeUt0aXVRb1V6Y2pCZ1BiZERWZjBxUTA1WUxmdDZoRlljcmtWaENjcmk?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-31T07:00:00+00:00"
+      "title": "9/2老千開盤買進7770君曜 - ◆Sage Mao | 投資網誌",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JaXJHN1R2MklwbTdENXVydXNiQ2tKQU0wRUNIWmZ2QnZ6T1BWa2pGTnY2MklqSFppZW5jaGlLSWJ0M0I0cVlkT09wZ2FBcndVX2xmcWNYRWg?oc=5",
+      "source": "wantgoo.com",
+      "published_at": "2026-09-01T07:00:00+00:00"
     }
   ]
 }

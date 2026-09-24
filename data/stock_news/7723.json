@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-23T08:38:24.642584+08:00",
+  "updated_at": "2026-09-24T09:33:40.845562+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7723",
   "name": "築間",
-  "count": 7,
+  "count": 12,
   "news": [
     {
       "title": "燒肉SMILE火災釀歇業！築間才過大虧3億低谷 官方看好中長期",
@@ -18,10 +18,34 @@
       "published_at": "2026-09-21T10:06:25+00:00"
     },
     {
+      "title": "築間旗下燒肉SMILE三重店火災！8顧客、1員工送醫 公司：均無重大傷勢",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02cjJMa211TGhUNkpWMENaay1DWUJib1N3YS1NcGlfTUhGQjVzdWNvTmlUZjh4WV9wcnJLS0N5UWtUZUVEVTU4V0NEOExYSURxdWfSAVdBVV95cUxNSGxiWXBlTGtLb1NkTVpISll1NE5UazlPUmxwVkdCTDl1WmJCYnN0TDYzamJUMVhTaDZMV1NMUFpiTW5xYmliN0ZtMnNQdGg0ZFpGaW42UDg?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-21T00:48:26+00:00"
+    },
+    {
+      "title": "燒肉SMILE三重店火警9人送醫築間深夜發重訊：持續關心傷者後續- 生活",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HU1I5NU1RNThxYno4Wi1pRTV0aHNqWjRjWW03MW5uZ2tRYWdBdjFWbFo4R3VmQXZIZS00bGJ1Y0hjeFduc2FDNE9UOTJXU3ZvdjN6RGpodi14dW4weUZ5eVViSFdoa2NIa01GT0tR?oc=5",
+      "source": "中時新聞網",
+      "published_at": "2026-09-20T23:55:56+00:00"
+    },
+    {
+      "title": "關瓦斯繼續燒！築間燒肉大火9傷 疑員工曾認隱患警員進一步釐清",
+      "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxPRzdCYmZuRlBjajNKam1Jc1lqTDBHeGtrbXcyVUpUbElYdEZMeVRJdF9BdUo3Y1ZDbjktSHo1bnVXTkNnMnZMeGhhaVNQYUhpSmxaTFl5Yi1Hck1jLUJXUnRGbGRGZ0txQ1cyOUNFVjlJQWdaX29LZGhheFktbEp0MHZyeVpJYXlpa0N5elRyMjV6dW5Bb3VESVRGNnEyR2hzX1liRndXRmFFVG1HcVRJOHlFYnFRb0lqaEVhYnVWaU9IaXR3U2o0eFUzNHJlR29ONmo5NXprUFhTT3kxTnEzRkh6OUZPcVBPUVp2UVpjMFY4NWdvX2M0Q0U4LUZrRk9tbTlPQ25XNDZNWFByWlQ0dHhJRldOYkdscjZTdEZTcmVKQkJaNk5mRTkwSGJ5SG5URk1YTWxDOUtGeGVNc0t5OFdwNF8zcWtNT0FId3dMS0stTTA5dlllQ3FzREc4Rmk4SE9EYVhTbHROOVVVZHphWG9kV0pTbUJZWHhMb2tYNkdQYUlob2ZkSmhwdmlaVzZv?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-20T23:10:00+00:00"
+    },
+    {
       "title": "7723 築間- 築間：公司燒肉SMILE新北三重店發生火災事件，對整體營運尚無重大影響- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13TS1ocWtZY0k1RUx4VWJRZXVuN1hHak85eHhWVGZfa0xQdS1SUkFQLW8wNnM4TUducUg0TnhJQllqZ2hFNmpGVU5aTWtwRTZfUXpKajV3Y3I?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-20T21:23:39+00:00"
+    },
+    {
+      "title": "7723 築間- 築間說明本公司燒肉SMILE新北三重店發生火災事件- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10RHFFRUxINk1qTHRIbjZlb3o2Ym9xMktkZDRERFVWbjdoVkpTNmkxZ2RZc1RDeHlnT2JaMnFwM3JrWlhKQ3dteVVjcVR5QXNwOHZUN3hrVGI?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-20T16:05:17+00:00"
     },
     {
       "title": "7723 築間- 下去吧！ - 股市爆料同學會",
@@ -42,10 +66,16 @@
       "published_at": "2026-09-13T07:00:00+00:00"
     },
     {
-      "title": "7723 築間- 築間老闆沒錢了嗎？？ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xS0V6NE1OdGhHMXBKajlYaFJ4OTZsSlBpaXdfMFpCd0RocnNFdlA4MkJmY2JKaENCUklBQXZMZ09Lak0xWnJvOEZwMEc2RkxkTGpDaDY3djk?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-08T07:00:00+00:00"
+      "title": "築間8月營收3.56億回升 | NOWNEWS今日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yZDlsckFEOUN3Z1lWMmY4cXBVSElhbkFCbjd4RmtEME9FTTd4b0NocDQ2ODJYcG9sQ0s0blh4MlFDSVAtbnhXZEYwR3pzMURybEkzZmlR?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-11T07:00:00+00:00"
+    },
+    {
+      "title": "築間代理「中央韓鍋酒舍」不到1年全收了 網嘆：逐間倒店",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQZkhSS1MtTzNZem5IcjVyeXFKS2trWjhCam5VeXJmZDgtRHZPSS1hdEx2WUduYnVpQURuXzZDLWp2M1lrQUhfdEZZSWNIdGUzb3JKbTlHQ3ZQY1pITUk0SXJKWDJ6N1RabkFLZ1Y4b2UteWtnY21QWVpudnN1cDJxR0RqMHZrS1BINlA1b0FWS1NUbFViLXFEOVVFak9yZDQ5MlBuMGg2dUZaV0o5ZFpUWkI1N3I5OG9TaTMtMU0zXzV0U2tLU25WT1VmYzFsTlhYZlBaVVNTWlR3ZjJtN3hieWZrYUdCX2Z4em5iTElONFFaMUdMSlRIT1pVMFdrWEExNHprNWd5aEMwcVJIczBaODlTUzUyMDRkbGQyVXo3eDNYdF9fSGVGQS01dW9tZjE4TEpFbkNtVkY?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-09T07:00:00+00:00"
     }
   ]
 }

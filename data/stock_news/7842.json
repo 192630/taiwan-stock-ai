@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-23T09:33:14.826757+08:00",
+  "updated_at": "2026-09-24T09:34:06.139704+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7842",
   "name": "天能綠電",
-  "count": 2,
+  "count": 3,
   "news": [
     {
       "title": "7842 天能綠電- 台股多頭反攻😋把握業績成長轉機股- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KaUw0Q2pGbWN3NDQ3UWRjSy1pTmlBcm9jQUptb1hhSjI0UGxkVXMzaTVHbWJKU2JZdE5QOTJmdnZOb3gzZVQ3TVVFalF1NlVVNk80X0NUZTk?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-22T01:33:45+00:00"
+    },
+    {
+      "title": "7842 天能綠電- 零碳未來- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKNDNwSW8zaEl0S0h0UWpkNXRsOW1TMnNmQWNxQmc0YnZtMElQODV2U0IyUU5Jc18zSUdhTDNJaHNSV1lIcEg4WV9mcFM3NU56N3NvOGpQVUc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-20T11:19:46+00:00"
     },
     {
       "title": "【2026/08月營收公告】天能綠電(7842) 八月營收3.2億元，表現亮眼、呈現雙成長，創近2個月以來新高，年增71.54%",

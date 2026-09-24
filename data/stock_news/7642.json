@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-23T08:38:16.848227+08:00",
+  "updated_at": "2026-09-24T09:33:33.005406+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7642",
   "name": "昶瑞機電",
-  "count": 3,
+  "count": 2,
   "news": [
     {
       "title": "【2026/08月營收公告】昶瑞機電(7642) 八月營收營收雙減，年減6.72％",
@@ -16,12 +16,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5sVnVlYWJOdkZIMzh5X0NHN1pyaUU3c0EtUmk4aVpJU0YwdTNCelJGT2FnRXI2QS1pSzZpdlZxeGNaM2xGRk1WQmlFczdib3JUMXV1OTZOc0g?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-10T10:24:59+00:00"
-    },
-    {
-      "title": "訂單回溫，昶瑞機電Q3營運有望年成長",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPUWMya3BNWF9iay1pUVRLTnFZVGFYdHV5VFU4WU1KUUZ3RkF2SWNJSEVmWVpYS09NZnVqckh4cDUyRkNrd1pObFRVSXktUFZ0MTBOa0VyMzg2aFNzcG1mQTZCMm1NcTg2R0JPZ0x0eXAyOWpEemhMcXFjNFByT0VIYkYzWXNMejRQbVhLdWVIRE16YjZUODduZTlFV2s4Y2ZvallYcXV4NXpFY254YXFnMzN6Ukh1alA3V20xb0drYkxQOE1DM1V0em1jQVJvZzFQV3BfS0xKanQ4U3VhTjI5elI1cU5raG5SODdVeXBmMnJ1RThHenl0ay1peGhrZDhzZmVtYk9XMDdJTEZmWV9iVzItSQ?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-08-24T07:00:00+00:00"
     }
   ]
 }

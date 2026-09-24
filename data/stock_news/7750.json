@@ -1,10 +1,34 @@
 {
-  "updated_at": "2026-09-23T08:38:30.417201+08:00",
+  "updated_at": "2026-09-24T09:33:46.379331+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7750",
   "name": "新代",
   "count": 12,
   "news": [
+    {
+      "title": "新倉宏齊、欣銓 續抱新代、康和證、台達電 台達電賺11.5萬 廣積賺9.6萬",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVXdIX1dVTlgtMENxRlNlNk4xd3FtanNXMGdfQ1NtMGRuakw0UVdJZEllaFNqbW5YN3FuaE5selpVeGR6ZU9hVDh2LWktV3o2TmtTd0UwOV9jd0pRb1FiRlBYZ3ZXWngza241QlFhdnY2ZF84VlFXS2VUdFQ3cGlseGVMZlZXV0RRd2hVQXNSM1lULUJuMUE?oc=5",
+      "source": "理財周刊",
+      "published_at": "2026-09-23T10:32:10+00:00"
+    },
+    {
+      "title": "新代(7750) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tU09sN0FFNmRsS1ZIR2ljUFU0eV9TQmFPUG1BVHpFQTdVRWlOZUtFZUt5LVVlbllJV0RJcGtSNVdTc1dCNTFJMkVBTzhUX1FwdzBN?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T08:37:02+00:00"
+    },
+    {
+      "title": "新代攻印度市場傳捷報，拿下兩張百台大單",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQTzlweHRLZHVHU1dEa2dTRzBVSm5JQU96bkhIV0RjZzhkY19lRWFPQ3JnRlBxNTlSZnpVZF9Pa05NbkFRSUpiT3NndEs1VDhFSkdYS2lXejNMTWo1aDZtRnZNdUVsOWN3WGktUjdoLTdoUW1nT1JzS3hxcHZ4MldJajRINFJWMDVSYUp6RUFuNExMTElSOEJUYzB6NWdiWkRtNmVzWmh4UVNnOV9KNWRpaFVZWW9qT19VQnk2NXc2dW1zdU5NVk5HaWdaSnBLZUVqZEtORG9SSVhFUkdnRGVSOUpCazB1QU8td21JU3c5S2dsdDdOcmNRZkNnNUZOeHBWeVoyc2RvMlFLVGlzR21vZzZ2QmtGckZESXY5al8xc1JTSlloYkJqclg0bldUckhnaVc2WA?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-23T04:44:38+00:00"
+    },
+    {
+      "title": "新代Q4營收看季增；記憶體已鎖料至明年中",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOOHlNWVJuM2hpMjZxZElRaGoyX3pFVXdIY2EyaVJURXBudjNCNUhqYS10UHAzMmI2Y2J1a1cycXg1UTVqaEliNFVsckZMRXBFWE5NYUNka0xGTlpoV1N6Zk90UHNsWFZ3MHNhdE04SGNwTWlNRExDQ0hleVlaSlZRRzk5NVdSZGRjaC1QYm01Y2RVUDU5Z3RhWEFvQ3lKcTN3QUt6LTNfaFZkZXNkVzJPbmQzZ3REWkxncjdEcW9JY3ZvcGNWUmJQTkJTY09UNmcxRjJKT1gyb0MwLTlINEctNE5pd1BVRV85OUtFeUhWZjM0dlJFU0RwSHpya21laGZCZUF2N1pwUE55cVdfNEktdmhlTWZmakVKRzBxeVN6dEFtT0RYQ1Fyc0RDMA?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-23T03:56:43+00:00"
+    },
     {
       "title": "7750 新代- IVE張員瑛同款雪靴！UGG「7張最新代言美照」公開，人間洋娃娃御用靴款台灣買得到- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vNWRwUmJOdUxvWTNwTnR0Qk9MTmplSEM5WE1aZUhmQ29UdXdIUk5GRGhwTTUyaDZkb3VSX2lfWkRIMTA3eHlHeHhiclZoa3lfMi1ZV0duT2Q?oc=5",
@@ -36,21 +60,15 @@
       "published_at": "2026-09-15T17:23:23+00:00"
     },
     {
-      "title": "美製造技術展 機械業進擊！上銀、新代等56家台廠參展",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5aZWVhSm9ZLUJOVTl2em5tY2FacGlJUDZsbHRoTjRYRHdjcXpEdG5vanRIaV9KZDNtSmxOUUFvOWd1a3NGVWYydGZURTJQb0FB0gFWQVVfeXFMUHRQdmRCNEg2UDVMQU4tcHhyX18xSkhIbXMtVTlvRWpDbW4tTERCUjJVQzBkRUJ4WDNNVnZKUTdraEJwOXFDSG43VlFiNlMtOGl2ak5sQXc?oc=5",
-      "source": "UDN",
-      "published_at": "2026-09-15T17:23:09+00:00"
-    },
-    {
-      "title": "誰成升息風暴重災戶？台股本周跌最慘10檔 新代、華星光意外入列",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE40MWQwWkRnN3NOb0UxTUp0YzFJMUZsaDRMVnJmTTNyLVJuSlJna3lNZlNrZnhiQ0Nmdlk0djNFTTZVRHQxRkdibld0NUlxckRk0gFWQVVfeXFMTXdOcjV0RXhoUW50SlR5WkNaeHFOYlpRSU9WZE8yUElBZVJ1dWJZVF8yRnQ4MTdWRFBiRHF2MDVQVkMwT1JQWjdIbGJNSHZLTXlXcVpyclE?oc=5",
-      "source": "UDN",
-      "published_at": "2026-09-12T07:00:00+00:00"
-    },
-    {
       "title": "升息陰霾壓台股！新代一周慘跌17%、華星光摔15% 高價題材股慘被狙殺",
       "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxOYU1yWV9SVnVBV2M4aUUxWkRlQ3RBd1VhYUZDQndEMktYVkVmeW9uT2dmdXhXUkV0c2Qwa2pIVHhhZXJWRDJic3ZrQXh2WFExb3FSa21PZUFEd0FGRC1MbUZiYlNXenVOSWFqdW81dUlTSnNjUUNxR3NPS0VCZUdCX1l5MlZDd1lWRHMwdVVtSWs5Z000Y3Yza2U5eW1Cd2o4SUVyWndydlZlTXl2Umt4bzB1Ynd0VzdTSDlLS2RnRTEyYVJhYkhfUTViSU8yOWJGeHRDcjJTOGJKU0txbndxT0xkU25LNERVOWZRcERaWDNUMWFPOFNyd0xfZWdDRGUydjlxVlliVTVqY2I2dUs2YWw2TmU2MUVlWDZES2x5dU9sWERfVWF2MHBKTlB3WjU5OEJwcVRBVkItT2ZXVmwtQWNjUVpMaDZIcHZOVzB6ak4talJoa2JrSzZoMDgwZDRSa0V3NW1nUXpxNUstTUVrQVp6d3dHeXZ0NjJlbVNIbUdzdE9CVG9MLUxKNmhhcFdIVnc?oc=5",
       "source": "Yahoo股市",
+      "published_at": "2026-09-12T07:00:00+00:00"
+    },
+    {
+      "title": "誰成升息風暴重災戶？台股本周跌最慘10檔 新代、華星光意外入列",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fUk53eDRFa1RQRXVCWjBIWE5SUFNZc2JpRG5pN2RVcXF5QUpEMThZVXY0SWxJWklWdndteFk3TzBCVVQ1NmtCTnBNRHQtMER2empKdm9LcjVsZ9IBX0FVX3lxTE9udzB2X1N1RVpLaUs3Sy05VTRNTi1OVHIxcjQtUVlSdExoSFhGaEV1X245UVlCNDZRMnZ1YkViUzZrRGtBOXR6N2lhUmExYXB1a3dpWXdWMTdaMy1iV3pv?oc=5",
+      "source": "經濟日報",
       "published_at": "2026-09-12T07:00:00+00:00"
     },
     {
@@ -58,24 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zelhvVTBzXzBTZ0UzdTJKNjdqWW1wa3BicHlEVmNEVUhBSnUxanVYS3dIOHN4VTNxVkMwaHpPNTNBVHdlMUxJOVo1VG5iYTJFMl9QUXdtMUc?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-11T07:00:00+00:00"
-    },
-    {
-      "title": "7750 新代 - 市場籌碼的無限量供應者 也是漲不上去的原兇 這2人是O成本的... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2NXJZQ1BCekNraVRubW81WGZ2UVJBZUNkLTAtY0xuWUphX0MxN2tEYUtIV3A0aGZrajBubkVxNDdieVZYbUdadlIyajVMQVp5a2VZT0lkeUY?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-10T10:38:23+00:00"
-    },
-    {
-      "title": "新代攻智慧加工商機",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaeVZZOVpUNnFsVTEtUVJheUJrMmJ6QUdVMG4wOXUwMHpMdGdtUzlKQjhiSXAyMEphd3NfbkZ3RmVZN05CQjFnYmpqVzUwVW9Qcm03c3hZa0g5Z9IBX0FVX3lxTFA3d2VKSlpwRUthYlhOeWxaRzVyMVNfX3Y3akZrd2lVTmpJZnFrR09LOE9RVVp5elhHblcwSjQzWW0wbnctQUc4MGs0UVA0NTloaV9ES1BRVkljMFZCNWl3?oc=5",
-      "source": "money.udn.com",
-      "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "7750 新代- 8月營收猜想- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJR0FpaUNSMGRQUWpTc3RHUG92Z2Z6WmNjaTlnMnN3dW91UDhSaEMteGNYU0h0ck9JQlRaX19aVDVlZ01TWk9hdVpMTUpzQXNFLWJkS0RjOFA?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-07T07:00:00+00:00"
     }
   ]
 }

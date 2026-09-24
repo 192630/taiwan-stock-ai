@@ -1,10 +1,28 @@
 {
-  "updated_at": "2026-09-23T08:38:40.428921+08:00",
+  "updated_at": "2026-09-24T09:33:58.519959+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7803",
   "name": "雲象科技-創",
-  "count": 3,
+  "count": 6,
   "news": [
+    {
+      "title": "aetherAI Co., Ltd.的銷貨成本 – TWSE:7803",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRlR1Qy1SeFBHdVg3Q0NxTk5waHd6Zk1xbFIxOGI0emJTbDFfazhTY3ZiaXV2QWxHcnppOU5sN2V0Q2syZVZkS1BqNVA1d0FRYlIxeXotTHVDWTNzVGQ2NDVzWXY2MUpNeFh4aVJGeTQyUGVhSXhuSFdDaklzQ1R2YVlRSmJjeFg0cFVaa2ZLQko?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-23T06:55:38+00:00"
+    },
+    {
+      "title": "aetherAI Co., Ltd.的每股資本支出 – TWSE:7803",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaGVNMnZ6SEM3TVRWOWhGbjA3WWcxNmswNng1TTBMYnAyTVlqMUN5VTZLdnNVZUpBN2puZ0lpRUlTUDMxbGJKeXhUUGJPbndaQUdfZGdhSF9oR0ZwWVQzUXJkLTcyOGFxdTBFbHBBalRxQXRaZERIOVRlQzVKQkFiUURxV29ybVVhbXlpQmFRNmJMWndndjhMc1RB?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-22T10:18:19+00:00"
+    },
+    {
+      "title": "aetherAI Co., Ltd.的利息、稅項、折舊及攤銷前的利潤(EBITDA) – TWSE:7803",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV2VSM0tDbWUwejlwWXJnR2xKNzUtbThEeXRTUS10Vmg5QjlVQ3ZYbU5HQXplel95RFNjeFRWamVSRVhLdEs1UUhhZXFueW11NXNDbjZYT0dxcEJ5MDNoQmY0UmVTdkdoOTRpSGNLWkhDaVBMa2VLTGNuZXhuVHEzLWpiMm9Qcm8?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-22T07:00:13+00:00"
+    },
     {
       "title": "自營商：週四(17日)自營商買超上市股票15億7803萬元",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMHcyNV9TelAtY29pRk82Q1ZVU09CRVo1ZFZMeVpNOUFGNzIzNmIzUHZpWmlXekdES3RuWFBaNWVEc3FfRlJHc0xpWFppUVV2X004SkhOUHJ4SWFfTG0zOFFLdXktWFlmUVNUTE0weG94U1ZHMHhteVpvNUF5T0hUcXBJMFc2ZjRR?oc=5",

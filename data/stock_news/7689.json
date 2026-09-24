@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-23T08:38:17.255303+08:00",
+  "updated_at": "2026-09-24T09:33:33.457841+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7689",
   "name": "大鵬科CLMX",
-  "count": 3,
+  "count": 5,
   "news": [
+    {
+      "title": "大鵬科CLMX(7689)董事與內部人持股｜監察人及關係人持股變化 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VRUhMOXdEbGJ4ME5BRG1MenR3UjF6ZllNUm9BRTdVM3h4aC0za0xQVkNHdFd5THEyaVFEM2lRM2F5bnBrNm43c0lfbEg0a0xjcXhndW5paUN3WWdlMWd2UGFuUlUyNDA?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T06:43:30+00:00"
+    },
+    {
+      "title": "Climax Technology Co., Ltd.的每股帳面價值 – TWSE:7689",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUGIxLTdCUmJJT1lCV18xdVQxbUJ6Z3VVQ2owVW85bVlldlQ0bEtORFkwV2RnNmFiQ0h4blRxd0RBRjltVEx6Nzc1QzAyQ1FaM0swYnUyMEZqcmlkNS1yUmtSY3RZV3lHcTI2ZzFkMEFqZXp0Nl9NY0d0alUxVWxQNktDeVk2S1N0SmloZUhEcGdJdW1FUC1RSWlDY2RfTGVC?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-22T20:05:26+00:00"
+    },
     {
       "title": "7689 大鵬科CLMX - 昨天的165 元主要反應市場對「8月營收月減17%的失望」 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HWmI5bEs1TXNPRTJMR2VtU3lXQkhnVjhsdmVQclNsVW44MWxzWm9fLVlETmNzeC16N3JSWWxaNXo4UkFSc0VESWFjOGJkcEZ4VTl0U2tKYzA?oc=5",
@@ -18,10 +30,10 @@
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
-      "title": "【2026/08月營收公告】大鵬科CLMX(7689) 八月營收4.32億元，年增4.3％",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QMHhhTUtBTkhzQVBUS3pWaEwzR256QkltNGt3dmVOLWREMlZuQzIxME9Ld2hnaWJVODRldFNrQlptY2lDSFRYNVlTRHFsc01sUVRxNXVFRlU3bGtJdEE3dVFkWFRiQ28?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-07T07:00:00+00:00"
+      "title": "【2026/08月營收公告】大鵬科CLMX(7689) 八月營收4.32億元，年增4.3%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV3VFdW8ycWFPd1p5ZkpFOU02MlgxWmZqcGZTRzNYLWticXZZSWVOWVN0THJBaDk4TzdWekZnZHpiclIyMmRqbkVPdjJCMGEtR0xlWUEzaEdxU3FYeGpHZ0YzVl9lTVdxa2tIclNtYnlBOWl3Q3RHZ1dMNENlSm5jT3dkQWk3YldMTEE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]
 }

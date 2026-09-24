@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-23T08:38:23.735136+08:00",
+  "updated_at": "2026-09-24T09:33:39.845244+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7721",
   "name": "微程式",
   "count": 5,
   "news": [
+    {
+      "title": "微程式資訊股份有限公司",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNXAyZ2dXRGpjWXdxdE83OU9aZ0hOWC02b3VDSnJLaFMyY19Oc3BXTkMteWpRVm9maEFYc240cWZLNHRERHNsZHFqUWFDRGdEYU1oQkNpdWtqaC0tYXR0WU1LSXdkTzRGczNHWHNEdVdXMXBYcEl3SXNybEd3V1cyMkViamZpbWhwQ3NaYWhKanJYWkRETm5R?oc=5",
+      "source": "MoneyDJ",
+      "published_at": "2026-09-18T06:58:00+00:00"
+    },
     {
       "title": "Tokyo Keiki Inc.的Enterprise value to EBITDA forward – TSE:7721",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLU4xY0VEckJPRDRfbEV0Q0VPSm5nRVB6ODF2Mi12T3R1S2hBbEVzNWNrMEc2RGc0QVFiMW90bWF4a1F4WGZwYWN6SU1kdUxoM3dFV242YTZZTmh6MHhia20taWNKeDVMOVFYUkpjazJ2SFlEWldnSXA5R0FMUEttTEQ4YTZVYmlWRy1WZGVINURqbEh3OHVBSkFEZ1YySkZaU1YteGRqQ0s?oc=5",
@@ -28,12 +34,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb2dNWWF5UlhqcjJQSURfejFieUVaRFVSWC1JM3I3VHJqbU56cEFIUS04bEFsMlVmaDFOa183NUotekdUT0tvVnQ3ZFRUMkhHY2F3WV8yR1dwTExMY2l6VjYtaUFRVDNSaEZlcTUxQmVnLXQyTEQwTExRZnl1RHIwWG1PRjMwU0xt?oc=5",
       "source": "富聯網",
       "published_at": "2026-09-10T07:00:00+00:00"
-    },
-    {
-      "title": "7721 微程式- 莫德納癌症疫苗問世1天大漲176%，聰明錢已佈局低基期生技... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzb05LTjl6am9NYW1Ha2dBeW85RHV6Q0lGYVA2Tk00WE0wbmFuMS1KNXlCQ1ZWX1hzM1dTT0xnR0xIN0JickZrMktRSFZkTUl5Z1gzZWkxcnE?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-01T07:00:00+00:00"
     }
   ]
 }

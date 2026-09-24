@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-23T08:38:17.711236+08:00",
+  "updated_at": "2026-09-24T09:33:33.926279+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7703",
   "name": "銳澤",
-  "count": 12,
+  "count": 11,
   "news": [
+    {
+      "title": "銳澤在手訂單逾40億元",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uZWlNdTY5LWg4SUprQjFjb1FZQkI0RlZVYjRoVTYwMHVHLWJZVFM5VWxsaXdGWDN4NXpjdXRuaU1udUo1Nm9lclhPZElfYXlNOVdZR3NGTHA1dUHSAWBBVV95cUxQMU1FcVNKX2J0alNWaEl0SGt3SmlTajFtYVozWklYSDZLYlZfRzh4ZEFIZlVhS0N0WUNJdFk5TVFsYllta1FjUVBVVTZVbmR1LWxsRmhuZzhpWnlEeEtLbko?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-23T17:19:18+00:00"
+    },
     {
       "title": "銳澤實業（7703）— 年報全方位解密與鑑識體檢報告｜理柴知道:法說最速報! - 方格子",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sa2dWdVpRUHdfSWFuQk9Ra2djempyNEI2QS1jRFhxYVlyd290NW4xaml5YnA2d21zY3I4Qk8zTTJqUEtSRFBVaFk5amV1eDVrR1BTZHlKVXhKeG1xdUHSAWNBVV95cUxOX2dnN2xnQk1YTXpTd3F4dC1hbFdNblp4enZQR1BiZXdGT1dGd1RXMmx5TC1jUG8zbXdzb1JKOWNRd1Y4a2VLNmR5T3NmQ3dGRmZTTkVXMlZIa3IteXh5WmtWbmM?oc=5",
-      "source": "Vocus",
+      "source": "vocus",
       "published_at": "2026-09-14T23:47:21+00:00"
     },
     {
@@ -30,6 +36,12 @@
       "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
+      "title": "半導體擴產潮助攻！銳澤在手訂單近30億創高 美日專案下半年啟動",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQm0zdDQ0Y2ZXSTc2ZnVPU21fdHpaaFU5M1MxNWdjLWVqS2QzRF90VW55WkhXUzg1cFZNckZuclliMUJZc3lGRkQ5Ump0UWNnSjB3ckxSbWZKbjBIdUo3cHhraHBYY0FRMWhjN2NKMlp1eXdaR2lBRnpTQlB2U0o0cHln?oc=5",
+      "source": "壹蘋新聞網",
+      "published_at": "2026-09-03T07:00:00+00:00"
+    },
+    {
       "title": "銳澤在手訂單30億元創新高 下半年海外專案開花結果",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80WHh0b1lHT0pkMk4xU3pCejNsQnFtYWVQUVU4ZUhXWW9XVzdiQV9tbVpYQ2NzcXpvOF8xNWpiYVZ3M1BSWXh3NW1vQVR2ZEdERS0ydHROWV8?oc=5",
       "source": "stock.ltn.com.tw",
@@ -42,40 +54,22 @@
       "published_at": "2026-09-02T07:00:00+00:00"
     },
     {
-      "title": "銳澤在手訂單締新猷 美日布局下半年起營運動能陸續發酵",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nWV95RUUxTGZHdHU5bzhqOFFycFcwWHNQUlJSVFdKWGNJTGRyNXRrLVZqU21wOHdkMzYwSmwxa1lGNmZya0tZZ3Iwb0VLaUlQ0gFWQVVfeXFMTmJ6Z09EelFIWWFQWkdxMFhhWXpJRVJtZVI4YXNEc2ZoM0JOclRCOTBFZGt1c2phazJWd2ZHbm5BNTdib0JBTk4yZTJEYUNfZ1pkQWk1bmc?oc=5",
-      "source": "UDN",
-      "published_at": "2026-09-02T07:00:00+00:00"
-    },
-    {
-      "title": "7703 銳澤- 銳澤AI 擴廠在手訂單飆破30 億元！下半年美日布局營運動能陸續發酵- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00dkVYVzJ3VUFMNHhZQnhXUUlaNk94aURmRDFrZk1WSG9kS3ZSdGphM3N3X3gtVlZlSDFQQUd4b1ZvbEx1ZHJldEZmdkJWa3RDMVMwSDdyR1M?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-02T07:00:00+00:00"
-    },
-    {
       "title": "銳澤在手訂單締新猷；H2海外專案效益漸顯現",
       "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQR3RzMDV3bTNhWU1XNnAwcUxHeldleFZGQ1ktSFN5aXNiZDRXUW5ackF4SWFjQVRrS3dldVJ1RHVPRTdjVngyNDJvUkJabFM2NGNlaVdGRWo0dVhoQkdEdnhxTlNNNDdlaFVoNHpGMl9jSXJQS3d1SktseXlKWkg5YUFrTDlDRlFXUmcydzFXY3ZqNFZ6eE5VN2F1NUlYOVBISzNwb0pqbFA1TEhlbHBudFFQdU5zeGdudXc4TDRXYzkyaUs3LUlKRE8wbGJuaHhPX3BkSVg4MFl3ZndPYUt0Ulo5THBQVWFrOUJFZkotTUNCTzdUejhiUWV0cHJ0SmdaR1RtNUg0VXRrbDZMLUh1Mk5JdUpDRHhPYjZVUEkxZE5GM09yRFZ4MUt4UEQ0aHZDNlBoSXJEYw?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-02T07:00:00+00:00"
     },
     {
-      "title": "銳澤下半年營運優於上半年；在手訂單約30億元",
-      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPODdKTEo3aDJpNk8temk3Q1JPc19UNnFYVXhZTk5fSXJ0cmxEZWl3QXktRXRSN1dGOHZhSHZkbEpGNmo2MGxWZjNTeFJYZmlrWE82SDBHUXgtUUF1MjRFc1pkekJxelpCdzBPckI5V05PZXBXNXg2cVRLWVctbnJUYnJrV1FBYU5HeEJmblBnMmE5UG5mZ0pTVFBGOGRiZmZtcWVYbjVKcG1zZFU1SEJMUHdiODd3aFBsYmdoajdGWHROYXRiUEtYUjhwUFg2ODJ6UEhUSGNQUDR2LURiMWo4RjNnY1BGdlRwT2R3R2lVN0hMOF9ZSmJkdDR4OVJxdGtmR0EtWjUtdVlucDZXaDA0TC1vT21PUjRMM3dLdlZQUXVKNERLYm5SV25maGtKcnd6V0NfMDVRR2VWZXpobnVnRDJHVQ?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-08-24T07:00:00+00:00"
+      "title": "銳澤在手訂單締新猷 美日布局下半年起營運動能陸續發酵",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nWV95RUUxTGZHdHU5bzhqOFFycFcwWHNQUlJSVFdKWGNJTGRyNXRrLVZqU21wOHdkMzYwSmwxa1lGNmZya0tZZ3Iwb0VLaUlQ0gFWQVVfeXFMTmJ6Z09EelFIWWFQWkdxMFhhWXpJRVJtZVI4YXNEc2ZoM0JOclRCOTBFZGt1c2phazJWd2ZHbm5BNTdib0JBTk4yZTJEYUNfZ1pkQWk1bmc?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-02T07:00:00+00:00"
     },
     {
-      "title": "銳澤切入美國P2廠、首期訂單到手/10月施工",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOeVhsQ1hxdFdfajhtOE55YloxaXdHUEpXSk9fQjBZaVdZMy10Sm4wQUNHV1lQMXhVSkpnZGFoWTNRVmlRa3pvUWhGRmFOX3F2NV90Mm5tZnU3Q09pdXJKVkx5Z3lkMWRTc3dqTktxZVM2U2YyZ0hIRnJ5cDdvbE5BWDRQRF9DUW8yLWdJQ2MtU05QbHlOb3FqWHpNMzl4QWNSNk5CTlJjbXM1UjZNelUtZVhUUXZZV25nUUxVa185N2Y5NjFMMXVkX2s0TFB6Vk9NeFVjb1pMSGxNcmIycTJjZW5ib0Y0cXVnQ2dhS001RGdfZVlpd1h1b25BWTNKcjNyUExnUFo4ZEFDX2hKSGFGM3g5ZUNEOGtmQmVzYTdxSGQ4V0k?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-08-24T07:00:00+00:00"
-    },
-    {
-      "title": "銳澤台美日三地擴張 看好明年營運加速成長",
-      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPazhoMDFDeFVmNVc1cjJWQXdBUWVKdmQyZ29MSTlyUVVhVWhldVpaSVhCSFpDdF9OVUpCU3Q0MEZqaGR2S2JkQVZHRXVzYjZBalU5TUFhX2twOHJuRFJoQVhxVE1TVmwxOWlQbTgxeVVwcmh2ajlfSmFDaW5ZZHFZV2RSOGdRN0QtRTBuamJFdDh4aWZQY093Rm9sMlZhb2Z2TnRkM2xRWkJiRnYtSVd5RGRsdUJ5SWJuWU5xcEtNTFowLXlubEM0SXYydzN4VDNYbGZPZF81VVVwRmJkNUdkWldrUDE1WWhMYldNaU5TOWRUNTExZGtodWVpZnprb3lGRVlTVTBhWkZyX29wMXhoam1iTDZoUWxTVU5BdURPTDFGb0JETDhnelVmS1k2WjF0MEg0Y195MTBGNmdualZFMg?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-08-24T07:00:00+00:00"
+      "title": "大啖擴廠紅利 銳澤在手訂單締新猷",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQSy16Qmt1NVdPdk9qdFZYWTVoSEY0aHh4MThVaEo2ay1uTHdiS3RXMjZpZFVrR1VQeklkTHB2SnFteWlaLWRpU2EtaWY1Z2lFU0xRUEFyQUt0MFhfbExMN0FfcFRpamlzbDZYaUhzSWFqUzZPNmtvendkZTVZOWh2RmYwOWFzU1NFd3BFRGNOc0NXODlMbUFON0lJUkpJc1g5QjRuYjc5U1pGQmZsWnNjZnhCeVJ0YjBCX2p6MlFtalEydzlWV1pUb25CMXI1Skdkel9sV0xEcUJfNHZJNnpkV0pRMi1FaUVEWXM2bDJhRGdwS19RdDl2MF8xMmVfNjA2RVRRS1NfMHk?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-02T07:00:00+00:00"
     }
   ]
 }
