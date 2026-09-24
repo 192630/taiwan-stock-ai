@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-23T23:35:36.428421+08:00",
+  "updated_at": "2026-09-25T01:33:17.834518+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4188",
   "name": "安克",
-  "count": 12,
+  "count": 11,
   "news": [
+    {
+      "title": "安克創新(00668) 海外監管公告-證券發行及相關事宜 / 海外監管公告-其他",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XYmtPbGVGTEtUamJxanZYZjlld3I0MXNka0k1cjF3d09vN2pEdVFRN25ZaWd2MXFNcTNDaUVQb2hZcURXbXlTbzlTMklkVGFFLTZPRmx1QWhHeVd5TDZNTF9YSkRRUQ?oc=5",
+      "source": "信報網站",
+      "published_at": "2026-09-23T16:40:23+00:00"
+    },
     {
       "title": "安克創新(00668)因限制性股份獲歸屬而發行合共137.77萬股 作者 智通財經",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DZ0Z5MTc5aTBpa251cWNFWDBRb0g2a09EbTJKMmNqd3FRMGk2TGs1WjF4UjRHMWZ2MEk0eVdPWUxSUFFQYkdiQzlVbXFTaC1idnZfSHFEUW1GUlB6WEtKMmViQjVUYzV4aUVDWUgzSk4?oc=5",
@@ -64,18 +70,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSDNOb2NLem83cEF3cFlkelZIU1U5S21faktoWUswWnhobTRrTGtMRFJMdFpieENENTdkTWI4c1RWQ1VjQy13LXVYQWZwalFfbTBBUmFkM1BOVUdRM3JwemdYWmpPWm5qWlhhZjlVbV9TYkdqVF9wRG5wOTN3NXhZb2lmSDhHTEVlYWJrMWR3?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-08-26T07:00:00+00:00"
-    },
-    {
-      "title": "免過夜睡眠檢測登上國際、營收亮眼雙加持 安克今直衝漲停",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpeXRGN1B5bTBjTnRVZmN2cFgxX2lKS1RFT3BRMXpJZmlUOW5DQXdvdFdiLWJQQmZLVEZLQzRIQ1BUNXZib0duQnRFVG5IRGM?oc=5",
-      "source": "TVBS新聞網",
-      "published_at": "2026-08-25T07:00:00+00:00"
-    },
-    {
-      "title": "【09:08 即時新聞】安克(4188)股價勁揚7.85%至13.05元，AI醫療影像平臺化整合題材帶動買盤，量價脫離整理區技術面轉強",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVWFhMGxVRlJxWHJUM05VdXc0YTV0bFpKV2hXVmFoSXFYZkcxNXRXVnVhVlZHZnJDSmJoRXBVZm9vRExZbFRrMThBZVRFdnNrYzNuYzlRTEhhVHhLcjVvT25meC1zb095MXZTSlJfeGUzQllPMWg0N3RLZDJCODRGOWlKci1IY1JEVkVPYktB?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-08-25T07:00:00+00:00"
     }
   ]
 }

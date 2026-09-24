@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-23T23:35:49.932858+08:00",
+  "updated_at": "2026-09-25T01:33:30.127971+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4441",
   "name": "振大環球",
-  "count": 5,
+  "count": 4,
   "news": [
     {
       "title": "振大環球 公告本公司取得凱基人壽一一五年度第三期無擔保累積次順位公司債(補充說明115/8/4公告)",
@@ -28,12 +28,6 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KVE0wTGJNcFM4UnVoeWhmWWM3NzVwRFYzOGotYVNMZmExMWtaR2FRRXNuN21icXdCOHdNRWxkM2kxSEFRT1Z0eUdfdUQtVVZmRlg3ZFE2UUdraF9ObWY4?oc=5",
       "source": "工商時報",
       "published_at": "2026-09-04T07:00:00+00:00"
-    },
-    {
-      "title": "【0825法人焦點】市場最新個股動態：富邦金 (2881 TT)、振大環球 (4441 TT)、帆宣 (6196 TT)、瀚荃 (8103 TT)",
-      "url": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxNZnJiRmpDLU5sb1ZKM0ZJMHg5MnZLOGZFRFItWUJJWTFZMlZycTQzUGVKdVBOVFVYT0psSjVPNEtabkhzYWhWYlFoNjhkMHF2Vm42UWlWbHQ3bXF5MkFLcGdsQ2hQSGFCUF9Zdk8yekViR3g0SFVjck42N3IwNmc1eVVwdTdlOTk5MEF5eGZKTEhUMDZHbk9VRTdLYklVRnJpa3FqczY3aHJDZWN5ZEp3OUhqVUlVYmhvUi1NRW1EOVJFZXhCRTcyTE0yTmZoLXNQZHJKcFI1MnFoQWVhS3dyek9sYzBHSC0wRk92bG41OW5SdWNXTEk1NUNwMTVVVHU3Wl9EUGNiY0Uwai01cDF0OXk0b0M3bFM0bWpwS0paVzY1aVZ2YllIWlZfMzJTajFDUXYyYllWLTVIbHFiMGZWcEVKQlhwY3hKZE45RWJPcTV6cnQ3ajk3OUk0LU1BdnFjSTlrVk1aVnktbFFQaTNoQlhQeUpoeWJPa2dPQ1ZiVGtGTjRTbkRpcWUxb3BMWHZLNTlHVkJoTjBESldzWHVqQ2Y0eVBtTmZTRHJiMEJHWG9fcmRCUmhRQ3ZOYWdvNTI2cjctVzJrNGpTOXYtSlhVcl9mc3ZCOHRkWnlJ?oc=5",
-      "source": "sinotrade.com.tw",
-      "published_at": "2026-08-25T07:00:00+00:00"
     }
   ]
 }

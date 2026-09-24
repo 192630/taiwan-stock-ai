@@ -1,21 +1,15 @@
 {
-  "updated_at": "2026-09-23T23:35:49.459207+08:00",
+  "updated_at": "2026-09-25T01:33:29.714742+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4440",
   "name": "宜新實業",
-  "count": 2,
+  "count": 1,
   "news": [
     {
       "title": "個股：宜新實業(4440)5/20～9/11取得廣達股票420張，平均每股324.84元",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbHJiREZDb3NnSTcyeWdObmlXVU5pNFE0RE9Wd053Vm1Sc3Y5cjVTTk5xTlUtNWZFUlJ5eEVQbUZnWnlZc2tsaW91ZmxYMnc1N1RoMXZpWTV1WXZsSkZiMXUtT1NXblhGWWVVV0M5emVNTHB0NUk3MS1kMHBFXzFoaEhjZGhtQ1Js?oc=5",
       "source": "富聯網",
-      "published_at": "2026-09-11T08:51:00+00:00"
-    },
-    {
-      "title": "【2026/08月營收公告】宜新實業(4440) 八月營收營收雙減，年減39.33％",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DOEt0b0w0M1NSc2pGbEJjR3NoNGhUVkpCT1VidTZPWG82M3dzMHBLR2tSOWY4RHZ3cnM0UjRVdUhvZmo3aU5KSFU0MXk0OUdlMmZqWjlIbWxxMmFVUERJWmFKamdkWjQ?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-09T09:40:04+00:00"
+      "published_at": "2026-09-11T07:00:00+00:00"
     }
   ]
 }

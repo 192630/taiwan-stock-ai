@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-23T23:35:50.414663+08:00",
+  "updated_at": "2026-09-25T01:33:30.637600+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4442",
   "name": "竣邦-KY",
-  "count": 5,
+  "count": 6,
   "news": [
+    {
+      "title": "竣邦-KY新客戶動能升溫；訂單成長可望延續至2027",
+      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNS1FucjgzVlI4cGZmV3RXRkprbjNUOW9CVFNYdVdpQ3FNZlJDa0VFdXljOGpMc1ladnB5TERXaHd1aVpxQTlOUS15bVlwNUV4UjhVdjNLSDZwYWRqUmhrS0dKRmVqUEF2SWptczBJYzBJR2tLN1IxZDNianlKSmJqNGExTjdGaFZ6UXd6NEIyOGhNLXY4RXhLVm9nd2dwR1ZhNzYtdXM4QVJRTXRWLWU0R3N1b1NRcVFhaE83NmNuUU5Hd0xnUmhFZXRKSTlqZVk3cklibUtGZ2hYb2pzNk9qOVVnOXNHalRWN3FKd3hxeXVkLXBoRjBxU0gwYXFVYldKeFZPX0N2a3ktaVR0dWFVYmJJUHRWRVdzZkVDLVdKaXhINE4zTDY0b2UwOTlIRnFEaEtOM1d0R3FWSFNTcWc?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-24T05:10:32+00:00"
+    },
     {
       "title": "J&B International Inc.收入明細 – TPEX:4442",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KVmdnaHMtY3VMTGZCMUg1NDctZVc5cmlwSFJLcVY5dHJoR3ZYY0NUU0YzVWNtaE9nMmZhenNyWDYzenFJRnE0X2ZGclN6ZzNTZkVHRjc2WVB3amcxa0FQaVc0akxhdmZkam9BQ1FhNGdoQnM?oc=5",
@@ -19,8 +25,8 @@
     },
     {
       "title": "機能布大廠崛起！「櫃買之星」竣邦-KY上半年EPS達2.8元 9/16發表業績",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02SmRNVUJ3OTNvWDdReEhNOXdwQWdJSFFZS3h0Sjh1eHhfREZsR2RNLW92d3hyZUZQYVNBZTdOLXNoSGdoSjdFV2p5SWg3OWc?oc=5",
-      "source": "news.cnyes.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPbWU0eU9jZnE5dmtvV3lkZy1UaGZfVktJYWZ1ZWlpVzhwM05WR1AxZmpLdllWMERPQ2ltYlotZG9kaXZDeWxGQzNsQ283WXJQa1dfNzltNzlsZ082V1RoSjlweG05UGZ2MEQxTDBsZHZRME9uLWNnbEFOd2NROHN4ZTJ2dHozSWw0M2RwWmJidFR3RnhYQnZ1cEdCd1NReHVfNVN1RlJQQzUzaENDT3p3V1ZjZF8taVVkd3hYYUUzT01WczNlRFV3UVdhSDF6bV9VdGdSbWN6THV3cW5lU2J6S2QxZjhtX000SDg0VjNCZk5ndmRydU9FZ1lWTzU0Z2M4a2xpWkpTV0RCTDJWUXNONWVLU3lWdGhLUmxXUEE0c2IwODJhdzJKSU9ZcHh0MktmMnFCRDdfLXJmdGlFdFVVR2Fn?oc=5",
+      "source": "Yahoo股市",
       "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
@@ -33,7 +39,7 @@
       "title": "竣邦-KY第三季拚淡季不淡 明年核心產品開始出貨",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VTTNtMFM4OVdCaTJyZWNDYVY3NGoxNUpEMXVVczkxRXNEQW1vZnl2NGtwU3U5WWx6VnpoUjRyN0NWczFrUlo5eFFCTGlTXzBzZlpTTzA3cG4?oc=5",
       "source": "自由時報",
-      "published_at": "2026-08-29T11:48:45+00:00"
+      "published_at": "2026-08-29T07:00:00+00:00"
     }
   ]
 }

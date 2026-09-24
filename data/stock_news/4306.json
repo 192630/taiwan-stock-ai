@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-23T23:35:41.450625+08:00",
+  "updated_at": "2026-09-25T01:33:22.524845+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4306",
   "name": "炎洲",
-  "count": 4,
+  "count": 5,
   "news": [
+    {
+      "title": "炎洲加碼特化布局，彰濱新廠2028年Q4營運",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPblVoYTBYcFpEcUVkMmlrRG5SVk5SZDd5TU1IaFJqODE3QUtDRTBGNXlnWmFuZ25RRkNqVXhKM0o3X1hQYU8wV3FBdDk2V1FrX2FELVlUWWFETUhkRm5NdWRVYUVhSnd1dlVwQnhHZGVSdlIxUHowemdhdDRNV2dEOWJpcDF5MDNxRTVwRG9oNFFweWh2b3BBOTZPakRWeTA5ZFpjSl9WcG9leHVnWGNRUC1vX1VmZy1GcDYzRm5acWtTcThDZGdHVU9jNW1zTUE2clU1d01abTY3aVh0Rzg2dWN0Y2M5WjFlYUlJaFNjTVk0M2Q2Z2g3S1NyNlk4UGY4VVFFZEhIOGlzc3U1M05falRjb01nMVNy?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-24T05:09:01+00:00"
+    },
+    {
+      "title": "炎洲布局特化品、房地產",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRWEFtVnRCdmJGUS1URWtOMGhvVTdmRE9Dai1hbXFOUXd1MHZXOFBPcVNzbTBjdGlMUWZsZlVYbW93S2xIMHpqWjV6UTFlVG5y0gFWQVVfeXFMUGduandnWGtyM0t3VjBxcW5OTHc3MTM2eEtFQk5mVVBma3MtZDR4eHRWN0pJSkFLS0tyZ0pKSC1kWk4xU1JHWERNZ2FXWnVaaUFKejlNWEE?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-23T17:14:10+00:00"
+    },
     {
       "title": "4306 炎洲- 炎洲法說會重點- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pM1E5VzFqRi1zelJUeWV4QUs2dlhkd1N4Zllha2R5anY2RDMxdzBmTVNTamRYM0l0YWJiRGRzMEJBLVIyYTRhLWZBUFp3WVpyUUd1anBuel8?oc=5",
@@ -22,12 +34,6 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQemdHaVRxdGJkdHY0elZpNEtaV21sS1k5ZmNuZ2Vzak5HbEFkSXhibG83Wmw2UUZkd2J3SFJQVTN6TkdTcWlPLVpEZjNDR1g5dm1mckd5QmJFSnF2Y0k1cUpUSGxTd0dfMUZOOWtEMk9tNGwzWV92RXpDM3EtN1BlZlVMNHQ2dXNYUHc?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "4306 炎洲 - 前七月稅前1.21。 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOSDhHVFZ0UVAteEhxaFNNd3YyVnBoamRzWjBJNnFoWnBkZkxCVlRsZGpYM3cyUlh0SzV6NWljZlZNRVBxWEpoNjNwRzZWcWtHQUFhaDdYM2g?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]
 }

@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-23T23:35:31.677567+08:00",
+  "updated_at": "2026-09-25T01:33:13.613176+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4167",
   "name": "松瑞藥",
-  "count": 4,
+  "count": 5,
   "news": [
+    {
+      "title": "國票北高雄幾乎天天在決定松瑞藥開盤價？",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sZW5Yc09NMEpCQTBXNGd2d3lGRGhxWUJuaFVQWU83OW1UQmRHcFotaWRNbVM4Y3Z0akllRURjcXFkVFlreHh6WlI5MlQ3dWlFNWVPX3U3TzY?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T14:49:43+00:00"
+    },
     {
       "title": "《一週外資賣超35-9》韓國50(4167)、科技龍(4071)",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMUFoY18wc1RubXYxYnFBMkdPZXJTNUhRU01pR3JfWXFpSzhiMEpIZktvbVp4S0FreEJoc0tOb0pvNGpsUEdQWEkwanFPT1Awd19BUzI3RmtXNXViQkluX3NfcGYxVkpINUNVblExcnhMY0RTQ0NVdzlwZFFnODRCSm8tX2ItNnNX?oc=5",

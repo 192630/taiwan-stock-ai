@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-23T23:35:25.282043+08:00",
+  "updated_at": "2026-09-25T01:33:07.792620+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4142",
   "name": "國光生",
-  "count": 3,
+  "count": 4,
   "news": [
+    {
+      "title": "國光生技：CDMO訂單年增5成今年拚轉虧為盈| 產業綜合| 產經",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1VSW5SRENzUk9ieHR4cTZZN3RZVG9JX2dTZ2dkQmtLU1BNbFhrSjhDZWZBOFN6YkotSExFQ21NSkl5MUlybUEybXZndFVGSUJS?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-16T12:45:39+00:00"
+    },
     {
       "title": "國光生技CDMO訂單增50%！9月流感迎出貨旺季 | NOWNEWS今日新聞",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pdWVJelprNUV5VERhMWUxaFUtMi01NzdjS1E4V2VLN3E5UGl4dnllSlcyQkUwSjV2ZTNiZEN6T3pzMHhpTmlFd2JWVFlCcmNYRjVjOUVn?oc=5",
@@ -12,16 +18,16 @@
       "published_at": "2026-09-16T09:58:13+00:00"
     },
     {
-      "title": "國光生CDMO業務展望正面訂單年增50% 全年可望轉盈",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vZkdQZlAyeG1rd2tYVHNqaUJySDFoOTYtZ0VIZGJwcVY2eUREUE1TaXdTWVBtLVhOcnVOdi13cy1ST01aRmRZYWpaMUhFTTg?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-09-16T09:40:28+00:00"
-    },
-    {
       "title": "產線陸續開出，國光生CDMO業務佔比持續拉高",
       "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQb3Ytb0N2X2dhWmk0bEFkZGl3LUhHRUFZWDVkQllYamhrVmp1RUpmZmxtT1J5OWZia0w0ZnlMNzFLcVVFYmxKV3BBLUJFSWFHQ2Y1cFNzT2gwcHBnbWJSR2VRTzQzUGZmR3RieFZUWll6NzVnbjZRS0owdWtNRDU2bGNTT3hXWnUxTnNIYkJjQTdjd1JmYXlQckF4UXRwc3VZckRreW1zbVRYODEweS13Y18zeEhNcXlRSmRPbnBaSU05V21FWmE0clUteWFDdUUyRGFyUFRKdWgtdjhKdWtHdmVqcnFHVVZ6cVFkNS1XNHpZR01NX0pqanItY0MwRVpTVzd0UzNQSU9JazUzMHYwTjZINkZJOTZGLTl2TjFfTzVCY0J4QTBGVVBrNExYZw?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-09-16T08:57:00+00:00"
+      "published_at": "2026-09-16T07:00:00+00:00"
+    },
+    {
+      "title": "國光生CDMO業務展望正面訂單年增50% 全年可望轉盈",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vZkdQZlAyeG1rd2tYVHNqaUJySDFoOTYtZ0VIZGJwcVY2eUREUE1TaXdTWVBtLVhOcnVOdi13cy1ST01aRmRZYWpaMUhFTTg?oc=5",
+      "source": "news.cnyes.com",
+      "published_at": "2026-09-16T07:00:00+00:00"
     }
   ]
 }
