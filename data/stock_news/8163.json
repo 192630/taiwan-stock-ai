@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-24T10:34:51.471423+08:00",
+  "updated_at": "2026-09-25T12:36:28.245429+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8163",
   "name": "達方",
   "count": 4,
   "news": [
+    {
+      "title": "8163 達方- 【09/24 產業即時新聞】電容族群多頭點火！禾伸堂強勢領漲，被動元件買氣回溫- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Lb2tEcEQ4LVRQM2hXZzJzMkJoblZDT3FlUWJqVFdoQmhydzFjSmZ0Qzg2Nm5HeUwyR2ZWRnZwU3BxOFFIZjhTU0ZSYlExUURzaWpGN2k5TlE?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T01:30:27+00:00"
+    },
     {
       "title": "達方(8163) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uMGtSeUloODlmcWN0dTRtWFFBUlhKUkNZb21TaVpIZmVLMG5MM2gxMkd4Sm9sVWFTMm9lelZIZ3R2T0FQcGdncExXUi1XcjZRV2hN?oc=5",
@@ -16,12 +22,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MRnhscDdKa09uajBiQ19FNFJLR1ZNV1ZkM05ZNjJKMFoxRHpMREVnUnd3Umo5TGhfblpick5oZGU5YlljUnFQeUxsMDlpc3MwQnNLbWMtRF8?oc=5",
       "source": "自由時報",
       "published_at": "2026-09-21T02:51:42+00:00"
-    },
-    {
-      "title": "8163 達方- 【09/15 產業即時新聞】電感族群大漲逾5%迎多頭點火，龍頭台達電強勢領軍展現AI實力 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5IajlHc0ptNDJ0Qm9mejVVOWkyRU42elViUW1lNGd5YmNlSU9aLTdOT2V1SmpBZ0U5SXlSTjRid1hqc01uRFlqNnJ5RHJkLTJ2SG1DTDhXQ28?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-15T01:30:38+00:00"
     },
     {
       "title": "【2026/08月營收公告】達方(8163) 八月營收23.19億元，年增11.18％",

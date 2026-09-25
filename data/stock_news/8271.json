@@ -1,27 +1,39 @@
 {
-  "updated_at": "2026-09-24T10:34:58.899538+08:00",
+  "updated_at": "2026-09-25T12:36:34.876924+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8271",
   "name": "宇瞻",
-  "count": 10,
+  "count": 12,
   "news": [
+    {
+      "title": "法說會速報》宇瞻：下半年DRAM缺很大 延續至2027年中以前",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hTnQyTEI5MDVNdWlKWk5Ya0sxX3JJdVZLNHMtVDh4c2RGVG9ndDdLVG91akI0YXFRYzBubmJ6QXQ4ZmNuQzBjTXFwMGlLZm9Xbk1GNC1FdlM?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-24T23:20:11+00:00"
+    },
     {
       "title": "【09/22 申報轉讓】宇瞻(8271)董事陳益世於22日申報轉讓宇瞻股票327張-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNXzhFVlJ3MUxmc2dIdVduWXFvVDZ1aTJvYXVPMHYyV3I5eW12S3dfTmtXVjdoUlZ5ZEItOTdtNFdHVmFEQnlkUUdOek1NdkNOdnc2cEQ4dWFtYnBCak5ZZTk4OHBBN1NZRVZQclQyZTNybDhOWklyMHhKdUdVLWFZZEVReE1tYXJxQ2c?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-22T13:10:08+00:00"
     },
     {
       "title": "【09/22 申報轉讓】宇瞻(8271)董事陳益世之配偶於22日申報轉讓宇瞻股票230張-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSUpuX1JBdkNFdncwSXpoMElwM21MZjk1cDdYZm0xMXkxaWFVR0VUdTdTT0lSaUtRWUR2SE9WVGlQMGpjSURVWVVwTFZPNnFlblo0cGpOcXFXVHVkdWtZdUlST05uTDYyRU9zOGRrZHkwU1hHS2duVUJHOXh0TE8wQU5iN1NzeVdjb0E?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-22T13:10:07+00:00"
     },
     {
       "title": "【12:43 即時新聞】宇瞻(8271)盤中走強站上212元，記憶體族群人氣回溫",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOM3Q1WmdWenNPTGZjZDByb0xPS0tyX09xSXNLV0VNbXNoRUtWQUVEUWNMRGUwYzNXWG1mdTYyU0V2SURMTUFpZGk1LUhRMzdLaTdLNWxlU0lYOHNVaFY0a1JXSXp2TDJGN1hyNUI0cm9HVm5OX1JfWk42WTlhNTg2UW9UN21pVGJjdEN4STN3?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-16T04:44:02+00:00"
+      "source": "cmnews.com.tw",
+      "published_at": "2026-09-16T07:00:00+00:00"
+    },
+    {
+      "title": "8271 宇瞻 - 我發現這公司真的是一堆死人 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ZcEV0X1BrODg3Z291a1ktRDV1aTZVOS10WU9kZUQ0OHZsejZ6N3NWbGFXajJtV1VvcU5VNi1zTVdfdVVDYjZZV3UwZDNpRUF5TjBNdDVVdG8?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-16T07:00:00+00:00"
     },
     {
       "title": "8271 宇瞻 - 有人還在嗎 陪陪我😢 - 股市爆料同學會",
@@ -36,12 +48,6 @@
       "published_at": "2026-08-31T14:20:07+00:00"
     },
     {
-      "title": "宇瞻強化智慧應用布局，半導體光學量測拓成長",
-      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOaGlLbWo1b0ptOTFXWkxFUWVVY3lrVzZhcHBIaG5HT0VQWmpzUVlYTmgxOFZaSUc3MXRvWk5mZGlObmVZX3NmNTNzc1Noa3dwNV96UldhVWNWbEZhNmJIaGJ6TFFhVWZHSHhUWXJuZUZMWDRsZVRzZHpSWU9QaDA5a0lsdjc1MXlibHFjOUpibko4Z1Y1eFpLS01BT3VrYU01elRBZlJveG93MEFubXBUZmxpbUstXzFjWjRmcFU3eXhFd2M2V19RWjY1LURYQWxkcmx2eVNVdllZT3JzdmxPQ1BRMG9KVHkxNGdQZVdpVmUzV1dGSmg5ZFhSUEE3Z3Vvc3V1b3p3algtd3NGM2h0b3ZQdjJQa3RKbFU3YnkzbXVaYWJFNEY2MmtsYzVlMV9fUVdPU3lyT3Z5MWtsb3RFZVZWbDBpZnc1NmRYUQ?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-08-28T07:00:00+00:00"
-    },
-    {
       "title": "宇瞻Q3營收估略低Q2，毛利率維持高檔",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPYU9ZU05BbWF6RDFBZ3MzdEdJai1kVFRfdkJNQXh2YTczeGpWY0RsdzVjQzktSk9kNGNuVURVbVdYWExGbk94VzkwZENKSDJuZ0F6MWg0V2JGVzBvZnpXZklSZW9qQlczeGxaNlA4ZUZqd2VhMUVQakxBOW9MZTBPdTl5anZlS3RNOVdYRGxrYVBoQVEySnBYN0ZPTnZRdkVtVFdzc0tsVkM1djM3Vk4wNjVGUGhWVlVfOU5GbVdxaDdOTkM0X2d6Z3FVUjBpUTFkUnl4U3JPamV5cmtXN0J6Z2t5ckowaGJHWFM3ZEgwcFYwOVVybVNHVGxUcVNDYzlIbDVSTGZ5eUF3UQ?oc=5",
       "source": "Yahoo股市",
@@ -50,7 +56,13 @@
     {
       "title": "【宇瞻法說會重點內容備忘錄】未來展望趨勢 20260827",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vaWZfS3dUVUFTSk0xekd4RzMzbkZmVE1Pa0ZQbVRYM19jYWh5UEpVU1l6aXpTMUxYbEFRM0l2UlNhUDMzYmUtb2dDelJIRkhJTU5wd0NDRVhkbDdzUWVPdHM2OFdVTkU?oc=5",
-      "source": "富果直送",
+      "source": "blog.fugle.tw",
+      "published_at": "2026-08-27T07:00:00+00:00"
+    },
+    {
+      "title": "宇瞻強化智慧應用布局，半導體光學量測拓成長",
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOaGlLbWo1b0ptOTFXWkxFUWVVY3lrVzZhcHBIaG5HT0VQWmpzUVlYTmgxOFZaSUc3MXRvWk5mZGlObmVZX3NmNTNzc1Noa3dwNV96UldhVWNWbEZhNmJIaGJ6TFFhVWZHSHhUWXJuZUZMWDRsZVRzZHpSWU9QaDA5a0lsdjc1MXlibHFjOUpibko4Z1Y1eFpLS01BT3VrYU01elRBZlJveG93MEFubXBUZmxpbUstXzFjWjRmcFU3eXhFd2M2V19RWjY1LURYQWxkcmx2eVNVdllZT3JzdmxPQ1BRMG9KVHkxNGdQZVdpVmUzV1dGSmg5ZFhSUEE3Z3Vvc3V1b3p3algtd3NGM2h0b3ZQdjJQa3RKbFU3YnkzbXVaYWJFNEY2MmtsYzVlMV9fUVdPU3lyT3Z5MWtsb3RFZVZWbDBpZnc1NmRYUQ?oc=5",
+      "source": "Yahoo股市",
       "published_at": "2026-08-27T07:00:00+00:00"
     },
     {

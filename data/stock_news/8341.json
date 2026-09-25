@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-24T11:35:21.145796+08:00",
+  "updated_at": "2026-09-25T12:36:38.327348+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8341",
   "name": "日友",
-  "count": 7,
+  "count": 8,
   "news": [
     {
       "title": "日友全年拚績增雙位數",
@@ -14,37 +14,43 @@
     {
       "title": "8341 日友- 日本台灣商會聯合總會攜手深化台日產業合作從單點媒合走向產業鏈結- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pcF9XbWRtYXJIT0Z3Y3dXMmM5SVljYzFlYUhOU1BWcFBxLXJ4YlFKMjlkbUVrMEtQaHdSQ0doSF9raGxndVdDMmJPQnRRS09naXdHM3ZfQUY?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-16T11:16:38+00:00"
+    },
+    {
+      "title": "美日友台議員會晤 (圖)",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ0dwb1E4SFp4TDhwcHZaZDduSG9pTlVaOFVMa2paWW5Gd1kxaXo2VGVrTUJiSzR3d3A0WDN6SV9IeEVkaGUzUk85Mk5sSEFaaTN2ZFFnSGZLeDMtX3VoTzNod2tmczVPQ2FZWk8tVGJpc3g0N2NsaU5oVXFjWmFaMEtha2RfMFZFaGlQNkpFZ2c5bVNGQmg1NjdTWjZBQjdUNi1lT3JFcmVndVdlSks4b3dFOGFjVExvaE1fNWRoclE?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
       "title": "8341 日友- 矢板明夫觀點》台日關係的下一步從友好走向安全合作- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04TjFqSmxDX3NEVEtqOEY1bkE5bms4Nm9JSEZPV05mQ3VDSXg3TmMyRTZaeTdJWTJ4LVZTMGNON0RpLUF6eEZKSi05ZWpZczI0ZktxSkZudVQ?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
       "title": "8341 日友- 日议员盼推日版“台湾关系法” 赖清德吁民主国家团结合作(图) - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ZY0M2dUhYOHV5aUlEbnN0Q3U2dkluOG9jSmpfcllOWl9EeXRheFotMnNxWGFubHZja2x1R01lV25nalFuNXFVNHljSHpyX0t1dlNnbXBUSFg?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
       "title": "【2026/08月營收公告】日友(8341) 八月營收3.86億元，表現亮眼、呈現雙成長，年增3.97%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSlNmTlVfRzUxTW1IcUgwUGFSV2ZtUEs5M0k3M1VhMjhramZlam0tR0Mtbjg3VW85a2xHYVczbHM3b2hGdnJoQ2ZpNnEtVXZWTlJZU2xvVmdtc2ExcGFOUFZXX1IwZ0loQm5WWHc4REJtWTF2Nm5WZTBHRnFfUFF6NXA4TUpncGJnNmc?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
       "title": "日友(8341)-同學風向與貼文摘要 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xNHcwSklmT082a292QUl6cTZDS0pSZmI2TTVlUUFickViVDJfeDFiQ1cyOGQ0M0JvTjZ5MmVlNVcyZGNWRks5R3FUZTJSZUVUX09YVmNXMTVQS3N6dnVKOXh3?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-06T10:59:26+00:00"
     },
     {
       "title": "8341 日友- 總爺和風文化祭展出79件高知工藝- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mWUxXcHlXdDhRTmFqSWxvZmZXbGhIMThadWp2SnFFQ21KVzVjRWl2dmxfZnJ0WVFQZnNWWV9lQzluWGFzcnNSamxPdjZEY1dIdVVuVE9ESlg?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-08-29T07:00:00+00:00"
     }
   ]

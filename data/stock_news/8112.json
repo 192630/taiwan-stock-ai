@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-24T10:34:47.783806+08:00",
+  "updated_at": "2026-09-25T12:36:24.691447+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8112",
   "name": "至上",
   "count": 12,
   "news": [
     {
-      "title": "至上(8112) 今日股價與討論 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EeEZuMGZtdHVkcVZpMEdTeHpEd25QZmFhaHFEMU9xcGUxekRxVktzR2ZWUy15ek1KdUlVeklBUzRmRnVMeE45UjBtYTI5enM?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-21T07:00:00+00:00"
+      "title": "AI錢往外跑！別只盯台積電！ 群益Q4藏寶圖曝光「個股至上」鎖3圈肥肉",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KZkthdUZYTVlXMWZlZU5wenhtSExUbDE1NHJ0aHRNaXpiWTAtbFNNc29YRmZBeUxWekNzQWJGcmt6SjhLM3ltX08tcmxONzFldEE?oc=5",
+      "source": "鏡報",
+      "published_at": "2026-09-25T03:01:00+00:00"
+    },
+    {
+      "title": "熱門股》外資大買 至上股價連3漲",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBScDF1UTRsaHhLb1VMQ2pvSkI5QTZ5czVUdm9yd2RPZmFmYVBsZVZSQ2Q1TzdlODAwRXhPYjhVOExBMU82YWFQcnd5ejFLODhPWVhDZHI4NWU?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-24T06:33:33+00:00"
+    },
+    {
+      "title": "第六屆500盤評審／「股癌」謝孟恭：從「CP值」到「美味至上」 好吃才是最高標準",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0V3hRTENmYWk5WE8yQzBfcXdFc1ZhX2N4eV9JMmZEdFhGb0MtbWJjRWRpN1lpVEo3bU9rSm5VYmwwZXdyTzV0b19Reml3T2lweVdWNVhMTG4yb1R2aTRSWUhR0gFnQVVfeXFMUHpkN1VZd3JVZWJtVTNfaEtVNWE3MUEwMXQ2VGVGckVhYmh5RkNDZXJDNlRwRHozaEFCYmtWc0RuN3l0dnpISGZUZk1ES1NGWG5pQ3pTblhMMWhMcExWSU9na0JPa0Fubw?oc=5",
+      "source": "500輯",
+      "published_at": "2026-09-21T09:07:50+00:00"
     },
     {
       "title": "至上(8112)董事與內部人持股｜監察人及關係人持股變化 - 股市爆料同學會",
@@ -36,22 +48,10 @@
       "published_at": "2026-09-17T21:57:01+00:00"
     },
     {
-      "title": "熱門股》外資大買 至上股價連3漲",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBScDF1UTRsaHhLb1VMQ2pvSkI5QTZ5czVUdm9yd2RPZmFmYVBsZVZSQ2Q1TzdlODAwRXhPYjhVOExBMU82YWFQcnd5ejFLODhPWVhDZHI4NWU?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-15T19:46:56+00:00"
-    },
-    {
       "title": "至上(8112)EPS查詢｜歷年每股盈餘與最新季報預估 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51N0RjdGhnY0tWbGlNeG1odUNaX0I3dTRxNEdmelVvTS1Sa0Z2UmIxUTA0YVdpS29IRTdwclQ2Z3Y5czQ0YlhkRVZfT0NiWmQ1RnRqTEhzQQ?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-15T07:00:00+00:00"
-    },
-    {
-      "title": "8112 至上 - 崩喔 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxS2hNaEp0ODhwZDYxY1ROYlRLaEhaeXBxWjIxemxyTlFzUnFxME9lWU5tUXUwbWlDc1RHR2ZQTHFpcUdWNEwxdWM1a0FSTEtyc290OEMwR0w?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-15T05:06:04+00:00"
     },
     {
       "title": "台股今年至上週末漲15.32％ 居全球第5強",
@@ -74,7 +74,7 @@
     {
       "title": "【即時新聞】至上最新營收飆增154%，外資高檔倒貨還能追嗎？",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOODhXbmFnV251S3RBcy1raHdhcE9Md1A1bHNaeEZ6bk4zc2UzR25uc01KalJ1ekNkODU5RkZmU1dKaUQwT1RwWXZBeFMwdmJsdDczZXUwRFhKR284alphTUlzYm0xazZnTjJwT0FMM2l2N2p5bS1pcHVOdmx1VElTNmY3Smxja1VmS21zVDlRbXM?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-09T07:00:00+00:00"
     }
   ]

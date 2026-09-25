@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-24T10:34:56.635326+08:00",
+  "updated_at": "2026-09-25T12:36:32.760782+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8234",
   "name": "新漢",
-  "count": 4,
+  "count": 3,
   "news": [
-    {
-      "title": "新漢：2026年為AI機器人試產年 下半年控制器量產可期",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE94Tk1Nc3R3bGU5V3VKanJrQzB3WkxQa2ZOamxLa1VzTUVDMjF2UWNzNXFyOTJyZWVhbW1TZ1p1MTlMRXp1NDc0VGNKQjZFNnp5TEc0Z0tLVmk?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-23T12:58:39+00:00"
-    },
     {
       "title": "新漢(8234) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1USzl1T21NSFVnYjNXb0d1NGFJdW4zeW1ZYkphZ0s4ejhRX2t5YlJpVHRiXy1zSU9sUTBOMFRRWHlSUERkZXVjSHN0VWVnWFJOYUlF?oc=5",
@@ -26,7 +20,7 @@
     {
       "title": "【2026/08月營收公告】新漢(8234) 八月營收月減年增，全年營運續看向上-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQclEwTUZyX3JyMmVpazNFbDZSR29SbUZiRjhPQTJmdG5FTkZtT2hhMEh6ZkVxUW0teVplSXkweUhjUWxTMzZaWHVPeUJvVFNNUHZFSXBSaTU0aEVncG5pNnkyam1kUGdhTGpYNXBISi02c3lxMDF5dm9DX3lBLVcwQzJCdE5TS2I5bFE?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]

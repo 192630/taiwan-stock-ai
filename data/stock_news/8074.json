@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-24T10:34:35.469736+08:00",
+  "updated_at": "2026-09-25T12:36:13.140933+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8074",
   "name": "鉅橡",
-  "count": 2,
+  "count": 3,
   "news": [
+    {
+      "title": "8074 鉅橡 - 浪費機會成本，投資這公司真倒霉… - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB6STNlUE91OUVkaXFNM2ZHcGd4ak13RmJ4YXhtVEdRWmczMGl2eGozVDdueHk1Q0Z2NHlWTGhBWHQ1UGFtYkpBUjRYXzlaY2hHQzhESXdCb04?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T03:35:28+00:00"
+    },
     {
       "title": "【2026/08月營收公告】鉅橡(8074) 八月營收月減年增，全年營運續看向上-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONDB0V3dONDU3U2FISUpNLWdfLWUyYmNic2VrSmNjZ2t0MUNaQ1haZ3lsT0xyQnNsNTh0eUpfVHVQd1RsUndrMGloRnhab3F6NXVZZkZUck1BWHJRUUpDZThqcWxoRUl3ZGlpbjJTM0ZVWHZEY2JoTWM0cWNBbjdPQ0Nkb2haN2RZaEE?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
