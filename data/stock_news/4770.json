@@ -1,81 +1,8 @@
 {
-  "updated_at": "2026-09-25T02:37:44.968558+08:00",
+  "updated_at": "2026-09-26T03:32:50.277491+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4770",
   "name": "上品",
-  "count": 12,
-  "news": [
-    {
-      "title": "《自營商賣超33-33》上品(10)、統新(10)",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaTRxWmlld1ZRbjVOYm1kZFhDQkZTeFpubnpPbXc5MC1JVnVjQk9aU1d3YlJCNkRleER0cFJ4amp1Slg2bnQ5QVkxSDhzcnkzeEJlVkRNLVhUZEtmZnJIYm9NRjhwbnNobTZXMVQtdV9FUjRmN0gzODRFU1I3aS1pSXVBUUg2anpy?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-24T08:42:00+00:00"
-    },
-    {
-      "title": "上品(4770)在手訂單翻倍破75億，為何法人只敢估兩成成長？",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tRVlvTnlhV25iZWd3N19icmxIdFpuWmxqVUpHa2xtcklzeGp1VmdKRVFvcmtMWExFdkFQbC1TSGc4QzJON1Axay1hb3pKd2s?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-09-24T07:30:16+00:00"
-    },
-    {
-      "title": "上品兩岸需求均好，訂單能見度至2028年",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNY1p2T3B4QnFRQXdnal9nSGhPaXktbWFRYURFTEVKQi0xUzdVTGlZN2NkVXlGc3I2MVVGTVRTNnBsXzdSenVZUTBwRkxfb1Y5RUxOaGxJdENYUUlfQ0FabmtMYUNhOTJhWVMyM3Y3dDlYNnp2aE0tc21XcWhuMEl2U21hZWlDUl9iUTBrcl9zUk1sckQwY1N2c01ZT0NMVUxkQi1FSU1YM0xPVVp0aHJfVk1PRjlueDBGQlRvc2RBQTFrVXltN2VWVE0tX2ZEbmlBLTQxLTdzakJVSEw5SDlCM0VPbENBanhfQWx3VkVyYTdyMnBlOE1wUXNrN2tPamZHaTdJWHdzNEpxNDZMVmJ2QlhKR0RfUQ?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-24T04:57:12+00:00"
-    },
-    {
-      "title": "晶圓廠擴建，化工股也通電？上品、中華化亮燈 和益、大甲漲到被盯上",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9IT0VFalNJUjRaS2FPSzFjcjBnaTEzbXh6Szluc0NnUTIxeG92MjhNelNmYlpQRGllai1jUmNVWWxqZkxlUUdsNmdGR2c?oc=5",
-      "source": "聚財網",
-      "published_at": "2026-09-23T10:11:40+00:00"
-    },
-    {
-      "title": "4770 上品 - 三大法人 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BajNJWWlUdTI5TmltTENyZXU1SUpfQmgtOHVvTjdHdnlBYzdqdThmWWFkWng5QTdTYTJDdUk2bjJUaTRPaGFkc1NvSjFFZmdjVXdyV2daTUs?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-23T08:27:59+00:00"
-    },
-    {
-      "title": "焦點股》上品：在手訂單翻倍 法人目標價喊350元",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmR2Jxd3FWWWlGYzl4cVhoQ0RfTDFVSUN6ZmpuQV9HT0J3SFdDbFYwMGZERE5Ydjd5ZUdUc0FxWlk5VnQ0QXYzbkVjY0k1ZGRDRHRVVXJvQ2lieGNmdTNz0gFkQVVfeXFMUEU2dVlfNm1BeFJqVUZEdXpyUFp2R2dOejk3bnRDZ3R1WDhSNGhVWktLXzhNRENoWktKY0NIbmV4T2hyYVIySTFnMXExcm92MExHZ2t2RFM5c1NEZ1ltYlkwWXVweg?oc=5",
-      "source": "自由財經",
-      "published_at": "2026-09-23T02:17:51+00:00"
-    },
-    {
-      "title": "【09:54 即時新聞】上品(4770)攻上漲停，主力與外資買盤成盤中焦點",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMUlta2JsQXYteUNhek5DeE82TWVhLTlJZlFpc1VMb0J4XzZqQzhRX0xFN1gwdHBkUDhCX2dTN0xmWVBaU3F2MXJUZU1VVmxWczk5UEF5SnE5VVN4VS0tVktOcnoyQ0p5ZFJmb0JNeFQ0dmotVFNvNFZCWHVjaVpWSzNmeEZFajBzMldVbXp3?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-23T01:54:13+00:00"
-    },
-    {
-      "title": "Allied Supreme Corp的Enterprise value to EBITDA forward – TWSE:4770",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVGlCZUNXN0VHci1iLXNCdVRrdU5JajhGbGxvd1M4Yl9nZDZYVDJKWkx0N2YwenR0bXdRU1c5azNyejZwQXJ0VzNENXRaSDZJN0dkQkIyQkRYdWNMRHY4RFFJVjVfXzdkLW8zZ0FwYzQ2RmxTUzlJamY3U0FFTXhaSVZMYlpONklPbGlpYnVHTTUtc1hSM0tLOWFTczFnVlJhVThKUjQ0MVBrQQ?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-21T15:31:53+00:00"
-    },
-    {
-      "title": "PCB材料設備股跌逾2%，資金轉進上品與揚博在賭誰續強？-葉博金融研究院",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYVIxQkpLaUU4M1dUeHI5QnlXUzAyNzMzMGdSMldpX0YzQlp3SlFsZUR2QjF3UUxvYk0xTUFvUmV5RUtLOUVYRTRDQjBIZlhvejltd0dybWl4SDFXRWFvRVlmQjNIS0xLdk5nazhQWU9PeUwwenc3c0lFRV8xNnMtSQ?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-20T00:19:14+00:00"
-    },
-    {
-      "title": "4770 上品 - 上品台灣擴產30%，新設備下半年投產- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5seVNXUndmSHNjUlpvdTQyRVNPWi1COUh0X0ZXS3o4bklFTmFGX1pMREJWZU1fbktFVDJuLS1ESWZEbHVfNXpMNlhaNjNObG1kcHJHVXdreEU?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-18T02:59:54+00:00"
-    },
-    {
-      "title": "上品在手訂單較年初翻倍 半導體、電子化學品擴產帶旺氟素設備需求",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PQ1JzNk5aLWVPSk94MUNZOVFENms4RWJDTGFPTi0yVVRveHdwN2J4LTZKNUR5OFg1ckJLa0NzQXhPQnV1ZTlLTTZwbXFIeHVLLWRlbXdJdWlPZ9IBX0FVX3lxTE5lSGhxamVqMVFyeUNrbzdSb04waHZLSVNqOHIwV0hmVnBmTjVka1cyOUdqTmlhWW5xeE1yZ0RtLVpxN1FQZXpmTktRZHdjeHhFdTZEMi1rVW04RWNRRFJZ?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-09-16T07:00:00+00:00"
-    },
-    {
-      "title": "4770 上品 — 年報全方位解密與鑑識體檢報告｜理柴知道:法說最速報! - 方格子",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxS1Z4NHp4U0hKOXN5NFZ6QnVWS1ZYQUlubm1BMmdScEVsYTV0MVhWdVljbHNqMkV2TUtqR2JuNTdhYWMtOUNneEpwRzl1SHdkdlRHUWhHOHhkM2JxQlHSAWNBVV95cUxPUGxCUGdIcVVtUnZ0Y0ZwWTI2dmRFd3Rzc2ltSEJkX1QzdGlwWVRhd3VyQ2VMdWkwTnZoT01HaGxqOS1wNjY5UFphTzJLb2NqWmttNzlEekU2MnhNQldQR2ZGaVU?oc=5",
-      "source": "vocus",
-      "published_at": "2026-09-14T07:00:00+00:00"
-    }
-  ]
+  "count": 0,
+  "news": []
 }

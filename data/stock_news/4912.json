@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-25T02:37:50.526684+08:00",
+  "updated_at": "2026-09-26T03:32:56.601768+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4912",
   "name": "聯德控股-KY",
-  "count": 6,
+  "count": 5,
   "news": [
-    {
-      "title": "【2026/08月營收公告】聯德控股-KY(4912) 八月營收月減年增，全年營運續看向上-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUmNIYTlacEdmdVVhNlRLbE40ci1vU1lMYzZCNGVlS004VG9SaXZNMzBXMmhkbTQzY0ltcHMwLWozSEFDV3E5TE5lV0g2TkRfRXM1TFpSczBGWEUtMllyZlltdnZ5REZkRi1nQzNsN2RnM20xUkdUMFozaWN1NTRTSWFoYy1vOXc4M0E?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-08T07:00:00+00:00"
-    },
     {
       "title": "聯德控股-KY 公告本公司115年8月份自結合併營收情形",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KMXo1UUJrbVBkQVRhblgyMzNSU0xJdzQxSUN0VHV4NG8xd1Nid2x1cmU5SVlvNWlvQ3dlbWtoTXYwU054ckJGcVVQcjh4T0JRQVlIeTVVRmw?oc=5",
@@ -24,9 +18,15 @@
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
+      "title": "【2026/08月營收公告】聯德控股-KY(4912) 八月營收月減年增，全年營運續看向上-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUmNIYTlacEdmdVVhNlRLbE40ci1vU1lMYzZCNGVlS004VG9SaXZNMzBXMmhkbTQzY0ltcHMwLWozSEFDV3E5TE5lV0g2TkRfRXM1TFpSczBGWEUtMllyZlltdnZ5REZkRi1nQzNsN2RnM20xUkdUMFozaWN1NTRTSWFoYy1vOXc4M0E?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
       "title": "【11:57 即時新聞】聯德控股-KY(4912)股價上漲逾3%，AI水冷浮動機構件題材發酵＋均線多頭格局吸引趨勢買盤",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkVjJIdkxYMERkWDR1SE5ubHZNb3JFVzRfRTlxQ2o3WjFzcFZ0TWN1dVhfeFhZaTJYY2h2dklhYW9zMFdJOUJkZkxXTnRzZ1BpMDZHV09Fb05od1BrY3RCYllzNm5DUUE?oc=5",
-      "source": "CMoney",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOEdiSm1Tc2dtYzktdXFqNXRib0lTdFZ0U1Jwb2FMaUtKbXBxdjVZQmp6ekdabDEySmNOYjEyWENKNC1KQ2drdXBqNHR6UzZRX0hNMkZMVElWbHNwMU9uTTNQN0VkRk1DRjJvVEUwMEFaS2R6eE82aW9DeHFyOG5Uc0NLT2lxeHUtX0hDaFlB?oc=5",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-02T07:00:00+00:00"
     },
     {
@@ -34,12 +34,6 @@
       "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQZ2p0VnRuRlZ5cUg1Mk5BYzNTYjhPaG0yRmlLMjB5bXJnRnB4NTN5dmhBWm1hSGlzMXE1b1pIY2NzWng0cGZ6Q21PaFhRck5kbEhmVkdWbTJOZE93V0VxelZJaGhOOXFvb3VTUlpVdVZXZFF5bXRQYVRkMU80R1F0RjM1cGRud3JjbEtGQ1VtOGFGb003M2stLWI2TUFoMWhMN3JvdHNCZ0p6NFJqbmFZSF9ZSS02OGZ2MU9weE1jQ3B1ajA5UHYtaVVGSGRhZndnMHZRLXM5em5pVFUtT3hhcmRxLXJJUGo5LWNuV2xaRnIxMjU2bGx0MmQ0bXR4RmwwekZocXhSclNQd09PVDVlenF0SlNaNTdXaGhxRzByaUtUNVp4Yy1yTUVZRGdua3VtdmhoZm5jOENISFU1cXlnY1RPMFJWZw?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-08-27T07:00:00+00:00"
-    },
-    {
-      "title": "聯德控股-KY 公告本公司調整115年第2季現金股利配息率",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50cV9qZERucS1YTVdwS1FfMnZOQXZTc19oRGl3NlFqaUJHWGpWeDBvUFVRWmtDN0w5Tld6U3pSTl95NXFvUUktcXBqV0drd1F6OE9aZG5CYzA?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-26T06:04:32+00:00"
     }
   ]
 }

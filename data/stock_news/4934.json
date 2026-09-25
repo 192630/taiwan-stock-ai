@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-25T03:32:43.930748+08:00",
+  "updated_at": "2026-09-26T03:33:01.720596+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4934",
   "name": "太極",
-  "count": 7,
+  "count": 12,
   "news": [
     {
       "title": "理想汽車廣告請謝苗站兩車倒後鏡上耍太極 被嘲抄襲富豪貨車廣告(有片)",
@@ -12,10 +12,22 @@
       "published_at": "2026-09-23T10:32:32+00:00"
     },
     {
-      "title": "【亞運太極】3度出征！孫家閎太極全能19.453分摘銀 台灣第5牌到手",
-      "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxNVEZvSzJFYnoyUTZpbGU4d0Z5ei1jZTRxdTVKSkhmcjZFRmY1OEVYX2VkRy12UU5zM0dmb0JDbXdBVHZRSmoyN1duTTE4YzZYTS1lSzIzb2NPR3drU0QyaUZGUnQyVzRYaUVyNWVQeTFxT1RqdWZHX3k4SEtUSDJfS0ZfZGdLNWQ3WWZBa1lfeUFwTFBobHdsVVBmcnlmcWlHck02ODlVVWdYOExRNDFhRjI5dzJyeF93QnNZV1hyNVM5dTJRT19GLTlqemVjWVdncmFzMnNOR1JIVkxydjJzRm5sam5aNld0cEk4WnJ0SEtuMzNNSGNIYl9tMWhQZGlRbEM0aEF2Z2oxbS1sdmxjWkdyeHRuYWdRWTR5R3ZhOC1xSzhod3NtMWgwYzNuSjBqMVFvQjZ1U3dkY3dGcC1iZHVGb1lXSHQ5WGtScDR4ZnV3RDE3NFF4eE5wVXNaWUM5YU4ya2dFSTdNVHRZSElrSzVtRHJqb3NvcnBfd1oyMA?oc=5",
-      "source": "tw.sports.yahoo.com",
-      "published_at": "2026-09-21T08:36:00+00:00"
+      "title": "進擊的家閎 亞運太極拳劍鍍銀",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNOW1mOEowS0J2Y1pZMDVKc0g2TjFPc2VxYWQyVnhrTklrQUJCVUFVWGpUX3BfRFVXdDBLZ3hRWUFtOEt5aVAwN1NaWXlEZUp1YnBacUVMSEVwQUpsUWlXRXl1cG9qWGFuZDdyTHBtVVMzcFFXdDhLaHJRZ2JHSmd6bXFwZFZxTGhOVHZmalJ4YnVKeGNrV3pjVkdQb0JBcUJLQ0NhZlFvVzVMaURDZlEtbWg5NUdHZW5vUFVpM0pFVU5CQUNaeUJQM2s2Zmd2aVRRTVk4Z1pwRW84T3I2WlhyellFVmJlVzVjLXRiWl85bXg?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-21T13:16:52+00:00"
+    },
+    {
+      "title": "孫家閎亞運武術太極全能摘銀 3度參賽如願抱回獎牌",
+      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNZGN6bjBnMm95d2lheU56ZVAyWTFiTFlXREM4QU9YeUVIYUNMTGt2MUdHMVRHUmFhVTJTY0gyX3U2NXpNSmFpSG5rSXZ4ak4xX0lhSDJGVmpwZ3hOdzNlVEx4OGhGa0JNS3dKVGZTUl8xSERHNDhUT05zX0dVS3V0RFNsT3dDR1R1d0dPMkJ5SkZQM2czOHZrT1J0aWNOZS1ZQzhocXJqWmRrVWt4Um5xQVVualVHaXN6OVpGZ0lGazBTOGdGOF9sOUI1OFNEcm90T2g1Z1dxRVhNdE5FRUFTVU1aUTZ1RXdMT1lqVnd1WTNxZFhzVTYzZm44OUxnNHp6emRicWE1M2pKV0ZsakNEZ3RtSEZRRlMyakpHMXNDa2ZCYnJYNDZZbENCSFVRWGxjWjZ0MWRfcFRMa0F2bUJDbzVJdkVrZUdVU2E0dUttTXhXbGJjb19jeXh6X2xLQQ?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-21T11:39:43+00:00"
+    },
+    {
+      "title": "亞運台灣隊再傳捷報！ 太極項目奪銀、空手道摘銅｜#鏡新聞",
+      "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPVk1rc3oxY01vZ0VIOWl4aDlqT3FqQ29tbHpGS1N4eTFBeHMtT3UtNFpZUmQ2eV9xTVk5LTA4MzByTVFKckh4NlE2UktXODNOWUI0ZTdvaDIybjJ1bm5NQjd4dmtoVXcwdkR5QVdnbkMxNmJzanpQQnRQRXJHQUxWZmQwTm5zaGpYRXd2Q0lKSWRiTC1XdjJ1ZnVuOUxuVUR3RHoxczVqci1UbzFoVTNKVFEzWDMwcDFlbS1PUU5NeWdtaFdOOHFVSmt6TWU0N3pXUF9xcXdUcTU1aXFvemJaMGZmbkkwREYtbG5zRVhfVGIxOWk4X01sU3JocmVNUmlqMDVCYkoxRjNBek5lMmhDRXRBalNicnZsUk84ODFGMVJueUt4SU5rUUFMTEQ2THAyLWhjS2xoT1B6UEJFTmNwUERSTExzY3VSZ0lIMGh0RmtWdlNCcWR6RkJDT0JjV1YtSm1iOFhzMlAtTjA?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-21T11:21:25+00:00"
     },
     {
       "title": "孫家閎太極拳劍摘銀 3度征戰亞運終奪牌",
@@ -30,22 +42,40 @@
       "published_at": "2026-09-21T07:23:44+00:00"
     },
     {
+      "title": "孫家閎亞運「銀」了！太極全能奪牌 台灣進帳第5面獎牌",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNdzFxeVBqNXpPWW0xNWc4ZjI1UVN3bl9RRDNCNndjRUhtcGpuMjkyTlN3UTBRSHk3bm1lbHlVanIzSURfcWVPYWpPdGE3NExBeGEtTlZiNXd2a3d0VkVjOG5EaU9aWUMzQVliWkJtWUNsYkRRd0tSc3Q0eFl5NTlORzlqZ2k0X1dzbHA2QmI1TnYwdEpMeEVndnhldWlHc3lkaVRkRWRueEExTHJmRWZaX2trUlBDdEdLWVNpZGFqV1U4WldESkhYWTFmZUNkaDZGU1huR2ZOU1ZGTnB5M2F4cE85Qm9uNmFvUGFrcWtqT2RkT1B3NFltR0lKVHRvWHdJSk5JMEJfTW53cjBScGR4ZFV6SDVjS0RuM0RFcm9NdklpaEFfblE3c0FrU0dSZW5PVk9qcTNsS252Zm9hZWEzaHZmQ2NHR3VmLUpQY3FRX0YwQ216bHc?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-21T07:10:00+00:00"
+    },
+    {
+      "title": "亞運／三度叩關終摘亞運獎牌 孫家閎太極拳太極劍全能奪銀",
+      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQNWJWcUs4OUs4RkZacGpQRzE4UTlES1B1dTZQcExxcWVQdHFyR2lIeGhPT0ZLajdWbXdvekhXZHp1R0ViMXdFVnhyNVZfc1IwNFNTZlI3clJKYmc4eEdXVWdhdFFBYWptM0lsSWl6NmVWRGw2UURaRXUtSEl4MVVTTmw1S1E2alZsRXhkZFFwQUVIcUV5TF9HMTRxS1ZSODF5RXlzQ2Z5SFJUMC1SeWlURWx0OG16bUc5VnVsbHNXQmRTTzJFMnhweVVlS0lpU3ZjeWE2OWk0ZG94SnZvRERhSEt0bjhqcUhXM3c0cmZocFFkeXNSdWRheXdZaTJjcVkwa0FZdXB4Z2JTcnpnZ0xNcHZtYVJodmZVbmdJN21EZFBoaXZmS24xbGdnenR4Mk9hOUdHWHlWM1V5U1BqWVpSOU00YTFzb3h3RW9jWjJSSjZ6dm1zXzkxM0FFdzZlcjRaYmV1TUc4bi0tWm84N1VtOFFkUUZUeUNuYjMzb3BCdUFkQQ?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-21T07:08:55+00:00"
+    },
+    {
+      "title": "亞運／男子武術傳捷報！孫家閎太極劍飆9.720分奪銀 中華隊第5牌進帳",
+      "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQY0pQcWNsSGFOa1N1T2E4ZkRzeV81TF9YZUJNbUg2bkVKVDRYd21heE1LOGdZTHFjNEhVVlRuNk9iWEliQngwbVNXT0NuX0FmWExyUFE0ekw1bENRM3VJT2lEWlVoZzE2b2lNR2lHTDdZMHBJWjB0Ulp0WWJPc20tMXBBV3B0eFBLLV9DS0dGQ0RFdFllSENBaWh6ZXlhWUpSX1RUeUNEUzZVYlFQMWh1MmVmNU5UX3FxY1k2UXhuNFA3NVRIbmx5TDNFdU00ck1lWXpSNjVjbDdhTFhOMUZGUWhKOGdJLUJKV2JiNG01Mk5vYkJwTndjQmhOeG5kX2ZfYjlTZlVJUnpYTDJWWUpOY1RJMVRLS09Hd1lpeHFKQXZ0bFpPM2VjUG9JcHVFdHF1cTJYblBpMHBIZzZXazFGRmQ2aDdod3Z3YUQtaU5OMFUtNktZbEhrTC1TUVpLZ0RKZlVUWEgtTVJJbHFPUWdFRUlGMHlzb0pPYldycHFJNkswYk15ZHNULVVHWFhZY2VjV2tNQWJDcw?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-21T07:01:44+00:00"
+    },
+    {
       "title": "亞運武術／三度叩關亞運終獲獎牌孫家閎太極拳太極劍摘銀- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53Q0JoY19UZXYzTkhhT1ZTVzI4dThselgxOHpBRUl5VER0MXEzU1IwSGJHc0pCV25NNUJBRWNtZHBpYUpsdDloY29LRERoTjVxWmI4bDBONG4?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-21T06:51:23+00:00"
     },
     {
-      "title": "亞運開幕典禮登場 廢校變身中繼站3／名古屋亞運鬧烏龍！南韓國歌放成北韓 阻太極旗入境",
-      "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxQekpaZlZiTjBYSFE5bzJDTlNGTGpWRG5vRTF4U3ZrM0x2aEJILXBFWi0wTHluWnRRVlZoSHc3ck0yUWd3MTRQWGhZSzl3d0JzUkNLQ0puQ2hYeHVOVE9idU9mTENzbWhJSTY4eGM0VW50OHVCMzVBTGFYSF9PMXRSWVQyZVFrLTRqM21jdnVkVzBLbFJSS2Q4UzVYMWJZVHZqaXZOSnBIZU5neUo0Qkxsb1h1ZGFteGlWZk1TaTd1dTJzVURCeTQwNGJuQVdWZ1ZheWxudmRkbVI4Sk5EQXRKUFBxUjZHMnBIdkg5MUk1dk4xVG1WTkhhN0JNb1g0aG1vTEJsdk9OSHZrVVJVbV9QbDhINmc4UTlZVXloT3VkUTlVUHd5b29EeWx6Yk43RlQ0YVJSc1ZTZFBFekRFaE1nZkE0Z0VBZ1dXeGdXQ2lIa3AwdWx4SDFzekU2OW5lV2QzbEdzMkhJbGtFSmVhbXRfbF9HLWlrd2NBdmpES1RfdFp6QW9kc1JJeFUybWhYUmlyNlU5dHJwdEFmci1Fd0FIWlJEdU5IcFBJY0kxcTRtQWt5U1JXN3lXZF9fdklCdDVQcXhpZnZ5Y2RQaWlUTXZfTzhJNkYxemFMYVRROG5mQ2Z0c0ozX0luUnhNc29ySldTTWVxNDNRVlVmYWxFdXBWZ3VGN2lsajBFQlhsTUJlTEY2RVRZR3c?oc=5",
+      "title": "亞運／選用《進擊的巨人》神曲！孫家閎太極劍霸氣摘銀",
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQZkY4UWkxQWVlZzA2WWNCZlBPOGRWenhmNGd5bUk5T2FOSmFUaGJzakV3bHZaQVVPOUR2dUNVTXdNNEhyektBY3JDdkx5SldjRlZ2NjdCOU00ZGVZR1RYTXI5V0VpNDNmeGVoelNtU0VIVDR3ZnUwcUlfbmhqMW5Dam5KVldpNGp3S1RYUk5IYzRuNXZhX1hBWHRCaGlrMVk3dG1KWUlXY3VQWnB6LUJVQ04tTXFjZjZzOUVkaGhiV2kwMXdBZ2g1SDM1eG9uR1Z0TDduRlgxejNkUkgzRUU0Q1BBc1l1WDFXbnc3U1pNQlBiOEZpZzFQcmhqYmNnT0U1UWJ4c0h0c2tNclRTazVXUm1pY1FXT1hxcUtxTUtId1ZIS1JxLW1WYVZaYS11RmdQdjQtdnU3eFI0Z0RjNE4wTE9uZEhRdWp5cGJSdjhYcWZfYTI5?oc=5",
       "source": "Yahoo新聞",
-      "published_at": "2026-09-19T10:10:00+00:00"
+      "published_at": "2026-09-21T06:46:00+00:00"
     },
     {
-      "title": "秋分將至！鄭明典曝衛星影像圖「日、夜對半分明」 全網驚呼：好像太極喔",
-      "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOOW9tQUp4WUZGc1VoUEI3Q1NuQU1JbWxuV3FCRWhkdHZCNk5tQks1M29fUG9QdzBUMWNBOGNqT250aGNJd0E4V0FZQVFMT2p3QVhHNTFGbXJxenZQODdJSXlrOHdiTk13NFVVQmcwY2szeThnVWpwTU1HZVItXzBRMWx0VnNrOVIzMWNpWmZNVGJ5OE1rc1dpTlh2YWVseGFpd29vT183SEc2Wm5HYndoTHdCNnFQQjNBWkE4STJpMVR6M1NOcGFWZm9hcFZfNlBLa2ZPR0kwTlJlZkt6UUVCc2hFV1pFUlFNU0JMUkhUNkthYklWdFRsbzAxTG0tYU54UEhOdURBRElMSzlaMEhXalUwajNSb2JnSElWUVJGa2VtWDU2ZkotcFd3M0JhT1VaUlNYeEZzTG83aTBEME0xS0p0STRBTElFT1BJaHBrYlo2N3UxQV82SjJPUnpJZVk0OTRwZ0tIb3BWamsx?oc=5",
+      "title": "亞運／心悸不適仍強忍完賽！ 劉佩勳太極全能賽「排名第8」",
+      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNUXU4MVpzUTJHQVlJY2VSZDZYR19taUtqM0NiOXEySWxYLXU1dUF6NnBOYlVmOEpVVmxRZnlhQVV2QzJKQ0tpUW5NNGJ4bUlNVWE2UVV4V2NTd1FyLVk0ZTRndFJNSy05MjcyWEY4RmpoM01aNHNJRmFpQVFrcmpBTWRtV0hQZ3FNdnRPaHVpRzVoeThScDhPT0twQWVkQlJWWmhUSGNxYXJlem5FTUNOYW5RMEdSX3d6NnRvVnFHaWRUb0FzTTM0UE5yTFV1SXZPT0o3QTc0TFdfNFFPdGFFSmI2Mkgxa0Z6M2lNZkcwajdWU0NET2hrcGdSdzBNSDdpWUxuTzhxWm9rZEMxVEVLZ2MzUDRsNHZtR1hZeVpnM0FYeE12SlF4bmQ2V1RJS3ZfN2ZrQnQ1XzZXT0docmEzdUtpdW02M2Y5ZXpRMnI2UkkzTlNHd3NDV0tWS0lsVmcz?oc=5",
       "source": "Yahoo新聞",
-      "published_at": "2026-09-17T08:27:00+00:00"
+      "published_at": "2026-09-20T11:38:00+00:00"
     }
   ]
 }

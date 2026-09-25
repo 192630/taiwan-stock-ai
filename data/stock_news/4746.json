@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-25T02:37:38.484244+08:00",
+  "updated_at": "2026-09-26T03:32:40.809088+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4746",
   "name": "台耀",
-  "count": 8,
+  "count": 9,
   "news": [
+    {
+      "title": "《一週投信賣超6-5》萬海(369)、台耀(366)、鈺齊KY(340)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONWtKdTFtdnpoNmU1eWpMVi1JLVNzbVQ1a3dFVTNKWV80RS10d2hMVDR0V1BwNkVhOWZwNFZqcTZzcTJSRWw5azBhdEVFNnR2Sm9pQjlfN3ZUYndCRXNOUzBULUhfWlpRbmdvYjZVTHBYVEFUZHh1cTRoQ0g3TTVqSmZMSURpYUNZ?oc=5",
+      "source": "ww2.money-link.com.tw",
+      "published_at": "2026-09-25T01:13:00+00:00"
+    },
     {
       "title": "《投信賣超4-4》台耀(166)、華邦電(162)、鴻勁(159)",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYjFrWGtaSTFRMzNBYlgzNGVyZ3Q5d2hSb0RCYmRyY2FiUVZKQkJLSGdSVkl5aG5YQlkxbXlYR1FZTjRtOTBaNmgzQWV5elBkNnR3RTQzR3dSNk0zWFBjMWNRdFZEVTIwRUxxOFZSYWE4RHpnYVJqemgydHNnb1B2a0NSdS10VTcx?oc=5",
-      "source": "富聯網",
+      "source": "ww2.money-link.com.tw",
       "published_at": "2026-09-24T07:55:00+00:00"
     },
     {

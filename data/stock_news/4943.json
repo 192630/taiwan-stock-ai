@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-25T03:32:47.821258+08:00",
+  "updated_at": "2026-09-26T03:33:04.450634+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4943",
   "name": "康控-KY",
-  "count": 3,
+  "count": 4,
   "news": [
     {
       "title": "4943 康控-KY - 康控-KY8月營收月減11.1% - 股市爆料同學會",
@@ -21,6 +21,12 @@
       "title": "又有KY股恐淪壁紙？康控-KY被列「經營不確定」繼續全額交割",
       "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQYWQ1cnoxNWRBZ0hxWVdZakRCamRzdmM4aHpFUjM5eEZVYlZnODRXUi1yMGdMRTZMaERKLXZEdVFQVEFtNFExSFBURjFzUDZiajRnLWplbzZyY0IxWV9yeTR0cUl5ZHpDSzg4WTZPN2tSSU5wOC0tQXlWM1NHSEY1VVFBeHZMZ3JVdlNNNHhqdldRTk5IeWs2Wjc0b0lTVnJDYVp4VG9mSFQwOE1sQTRLbnVZWmRXR3lHbmwxZ3pzOHJIcU51bmFhMlRObFE1blRpQ2RrS3JCNUo1RS0zLTh2TEkzX2lRcGM1NGllZndUZm9SY3VwNHZoRnRuT2NyTkxrUHNIcjhWT1pOcm5tN09XZzRTODcxajdIZXplaElNdGQyZEFkS3FnNDBzTDhuSWw3UVNMU2pkZmVNbnQxLTNKUlJkZ1BxbnhCeHR3ZGJBaGQ0aHJjcGk1ZmNTT3hid3ZXZFU4Y1dpcF9CZnRxTXVYNmFGX0FrVE13TEpiQ2IzMmpMX2xaZERxRnNPNFV2QQ?oc=5",
       "source": "Yahoo股市",
+      "published_at": "2026-09-01T07:00:00+00:00"
+    },
+    {
+      "title": "證交所：永冠-KY財報難產併案停止買賣 康控-KY加採分盤交易",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jbFgtM0RPY01GdTJrMmJVd0ktYko3XzhGUmhWNHM4b2VfV2dHTkxVNmc0R2gwTXhWbm9wQmRCYUJQODdIMHJ3VDJxNEtfa3c?oc=5",
+      "source": "news.cnyes.com",
       "published_at": "2026-09-01T07:00:00+00:00"
     }
   ]

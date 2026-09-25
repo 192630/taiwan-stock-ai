@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T02:37:32.091858+08:00",
+  "updated_at": "2026-09-26T03:32:34.257868+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4721",
   "name": "美琪瑪",
-  "count": 2,
+  "count": 3,
   "news": [
+    {
+      "title": "台灣人口連32個月負成長 總人口2322萬4721人 台北高齡人口占比最高",
+      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPUnNha19HZUpYOTBzTURUNmZROHpqdUFOSkxMckdmMkVsNWZtdDR0ck1nYlVQQlVYVFpyM0h5ZjdTSmZ5aEsza0dzNnRtcl9nU3l3RmkydVh4R3dEOXBfcVh1SW5rXzRjallQT042SU12dGN0Nk0tOEdVTkVMUnNhTUU1dE9KZFl6Tl9FVmRWUkJOemFHUWRyUF83RHJjSEJlMldqaWdxeHlPTTVnM3V0SndYUTl0QVhYNWQ5V1BfVWRSTzN6MVVGRzJoazdtbVBucXROYlpEZUFIY2NnME85dC1TWTRVT0ROOFJxYURLbnZwR2xVdy13QU9ZNm4wcjc5S0pkUHFTOTJycWFhOEVER1NiZ3dFaVhvLVkxQzJhbEZERzMwOE1Qd2VpNGFOSTBRWmtUVjR5SUJBZTNuQ0d6elBzSnRFTi10N3lscWtZcHNMUWppWHBodURLUHZFd1RCLTVFb0NpZV9vNTNPYzZrdVVZUkl4MF9UQTNYQS14cXZtYmRaV2Mzam9jYVdzUXM?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    },
     {
       "title": "【2026/08月營收公告】美琪瑪(4721) 八月營收2.65億元，表現亮眼、呈現雙成長，創近3個月以來新高，年增72.35%",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ldUx6YWpqM3dhYzF1Qkw5ejJvbEFGb2VjeEJrWXZzN3ltamc1TTlCb3dVR1ZIME9iZWh1LVFiVUthNllDUUJaQjdpN01XaG1GY09rV2hzb09UTkVaWWh0Y2pyQ0xCdw?oc=5",

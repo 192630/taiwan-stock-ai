@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T03:32:41.117317+08:00",
+  "updated_at": "2026-09-26T03:32:58.739748+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4923",
   "name": "力士",
   "count": 12,
   "news": [
+    {
+      "title": "記憶體巨頭SK海力士赴美上市在即，你需要了解的一些關鍵資訊",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdGcwZEUwbFIwbFVWTXZ3ampvMUZuX205NzN2RnNIUzg0QmhMZGlfb3AzenRPa3dUSmdmTUIzZHBHM2NCWUFOeXNtX19wSXRXbE9HMDBfTkcxSDNjb29qakJlT1BIN1Zhem9kbDVwcm1lRWg3NXNhUWFQbkdDc1luWlYxdURvc1pUWi1qZW5Ib1lqYTl4c2pBWlJiX3RZYUE1NldJT1l5NC1GQS1oM2VHWjhtUEFUWXUzLVNOcA?oc=5",
+      "source": "TradingKey",
+      "published_at": "2026-09-25T10:58:24+00:00"
+    },
     {
       "title": "【11:10 即時新聞】力士(4923)股價走強，短線技術面續強成盤中焦點",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUVZkY01ySWpEU2hBV0JSWVZXaW1JS0sxazFCQjVVc0NZTG9HTEozeWx3TVdmTERadmhEWF9Da2ZXcnhDWnZfREV2SjhPbFVLUENQRHk0TThFM0dVVnlrZ1ZQTGF3RkNGM01rNExSaE1JemlXZG9WN0NxLUtXLTJaY2dvYVpxeHlzRm84ck53?oc=5",
@@ -30,15 +36,15 @@
       "published_at": "2026-09-17T07:48:47+00:00"
     },
     {
-      "title": "SK海力士(SKHY.US)與工會達成協議 利潤分享獎金改爲50%現金+50%股票 作者 智通財經",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90UFlKOC0yNk12a2dpUUgxRWhYOS1jaEhFczBnaGFzd29OcnJpUGpCSnpxXzMxTVN6NTVabUFQczNOOTJ5VTQ2a0dpOE1uektrdTJ4WkNmYWZlTnFyT2VGRHM2N0djNFU3alV6U2xyRm4?oc=5",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "published_at": "2026-09-16T13:20:58+00:00"
+      "title": "SK海力士績效獎金新制過關 祭出現金、股票比例各半彈性",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWFlhQW5hRHB5ekx1N3lZVnd2aUxDRVA1VlRWWHVkbFFKTFBvYjZHb1AzY1hZRGtIMFpBaW53MnR4R2ptMDhnNTlCNlN2SHd1MkwwaG1ES3RtVk9xRTZOMTRJNmdfUWNRTy0yUHpHRjJJSUVRV05PR3JlN2hveUVkd3VXUVVQSDBINXlYQ2pn?oc=5",
+      "source": "DIGITIMES",
+      "published_at": "2026-09-16T22:43:23+00:00"
     },
     {
       "title": "三星、SK海力士利潤狂飆，為何市盈率還不到台積電一半？",
       "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxObGl1OGJ5RXRRQzBYRURZQXYwblpMRm1wQnotVFpBRUtiN0pINXV5czVBYjl0MmJyQjVib084RDJQY19IZmo1UkdMZ0hudkY2MUFXbXpqNmdoenpWcVEwRG9fZEN2TW1wNG9MQ2Z6V1hPdks0bk16WWUzNDVLbm1YQ2VMd3I2NnNzaWFmOHY1NDNKUWFCNzJ3X3pzSV9MU2tZekRlYld1TDlXX01LVnA5b0NoMU1yTzh1MjJpdk5UVXhkUVlza2hmZE1VQU9xei1OdXBORFM1RjhQS1h5bXgxRTlOa0E5cnpjWWFrY3NhNnhsODRGdFFrRkVKcFhacUJxTEh1THNmaWR0NzNvY2lHVTdjelVhWjVieUlqT0RoQ1JVRkhKajI2TWphbmh3amNPUXg2UmY2Y2RqdjU2b2JCYVVnV0lvYVRxa2pDaVFrd3FoVm1y?oc=5",
-      "source": "NAI500",
+      "source": "nai500.com",
       "published_at": "2026-09-16T12:57:29+00:00"
     },
     {
@@ -48,21 +54,15 @@
       "published_at": "2026-09-16T12:36:28+00:00"
     },
     {
-      "title": "SK海力士股價造好 與工會拉鋸畫句號 又傳洽在美生產存儲晶片",
-      "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxPdElFOG40V3lMZkF5Nk5zSzBjQ1dXbFU1cHNxcEJxeG5nc2pzY0dTR1JpaUlIRXlFMFltRFdPNzJzWFdRZWpBcWo0UE5DQ1MtMWpTRDU5VDVNcFBNbVp6WTNZb3Z5N2dCb2kwOHdJcTdwS2prVWc1bEpxT2JEejJ5QzR5V3p6STVBNEhiWkVZellyT0hmU1dtQ0FxcmFnZTVYcTdwVzhzcVNFdTFfVUlBT2ttM0V2cjAzak40YndOMURIamFsRFhXZFZQTEFtR1FyTnZsazEwQUkyTUhUTU5Sc202cEdUY3dieU03ZVp6ZjAxSjA5SXJOQXpHc1pLVzQ1OU5XNTVLc2lMWFpWMWZodUU1UmZHaVMyMG5zdWdfSWlFRVNKbUFjZUtZOGZDRElQQjk3QUpyVmhTVE5MUWtFOS11WWZQaExmcVJFOVVjdGVZN2Nic0pJN0R1UTZIR29tWTkzU2N6QWZxcVNaNVpsZkFkQXVuaUNTMkNEbndKdHAwTzRNN3VWekRLWGUydFRCQzZJVTdGUnVsSG5zc0tyTTE0ZmhpV0xsRExDSHdWWEhPTlk?oc=5",
-      "source": "hk01.com",
-      "published_at": "2026-09-16T10:14:02+00:00"
+      "title": "SK 海力士勞資達共識，績效獎金敲定「五成現金＋五成股票」",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9NbVAwMU9EcHFBZm92TjMtY0NMNkNVMUZQbV9qWUdQOG1ZWnBXclRtUU90b3NtX2hEZFdDYWlYVUNvTTFKLVk0eUE4Z1Q1dEpMOHc2TE1YcXFDY0VCYVJiUFFsaGc0WEJfakVEV1RIQTFDM0dtZ2tKY0ln?oc=5",
+      "source": "TechNews 科技新報",
+      "published_at": "2026-09-16T07:00:00+00:00"
     },
     {
       "title": "SK海力士勞資協商落幕！績效獎金「現金、股票各半」 員工可自選股票比例| 國際",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3TGM0TlZXYU1hRWljbmdBQlQwanlxUjBNelpMb0JxR3RTYmZFektOYW5DZ0s1eklZeGJCMWtMWlhDQ1JHcmdiUzZrdFhtd25ObFlhcEFwano5eTczOWY4?oc=5",
       "source": "非凡新聞台",
-      "published_at": "2026-09-16T09:23:00+00:00"
-    },
-    {
-      "title": "SK 海力士勞資達共識，績效獎金敲定「五成現金＋五成股票」",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9NbVAwMU9EcHFBZm92TjMtY0NMNkNVMUZQbV9qWUdQOG1ZWnBXclRtUU90b3NtX2hEZFdDYWlYVUNvTTFKLVk0eUE4Z1Q1dEpMOHc2TE1YcXFDY0VCYVJiUFFsaGc0WEJfakVEV1RIQTFDM0dtZ2tKY0ln?oc=5",
-      "source": "technews.tw",
       "published_at": "2026-09-16T07:00:00+00:00"
     },
     {
@@ -74,7 +74,7 @@
     {
       "title": "SK海力士薪資案落幕！工會同意50%現金+50%股票領取獎金",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONVQyd1NHT0hrR1FBcDZOeEFHS28tMlhlZ0dqaV8zeWZiY3ZpSmpNSFVjWHpwcXZESGJ4V0t4M1UzNldwX2hXRlRTWVpMVjdYMDZodXIzOU9lLXhCNFJ3c1JIb1N4MGQxZ3JLZzRkZmtpX2hoS20zNnVUeXR4VkdWVWJGbXBESE80RGdCMms3Wko0NkIxcEUtaEVDRFR0Q2E5ZFdUdGJra1BDNmJp?oc=5",
-      "source": "tradingkey.com",
+      "source": "TradingKey",
       "published_at": "2026-09-16T07:00:00+00:00"
     }
   ]

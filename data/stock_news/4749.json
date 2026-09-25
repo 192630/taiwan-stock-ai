@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T02:37:39.559213+08:00",
+  "updated_at": "2026-09-26T03:32:41.972374+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4749",
   "name": "新應材",
   "count": 12,
   "news": [
+    {
+      "title": "新應材(4749) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wTGl2dHExZGUtcmFZLWxCY2VVb25OaWI5U0l0Q2tURHhVZ3M4a0lMMUdZZ1lNTV9qRmt2Tkd4SUprekl1Zkx6MHlLQ29FN0k2MEdN?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-25T02:04:25+00:00"
+    },
     {
       "title": "4749 新應材 - 支持材哥2張 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rYUliVDNvRHVITUpwQ3hKSVBmdnZDSEdmMU5NWk5oaURDaTR2d3F0anpVWGFPdXdoSjM0LVBScUp6MUlkMUlGNHA0S2dEc0NXNTFPNjFTbFQ?oc=5",
@@ -70,12 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90Y3IwRC1COGhpLXdMUlBGYUNMMjk5ZDFxa0U2dTdUb01IQnF0bk5Wb25yX3pHSk9uM1NVSF9WVTRpOW4yaDFPVmg4ckVFLVZCVkxxZ0xWNU52cXo5UGotdEN3dVZiV0Nramc?oc=5",
       "source": "旺得富理財網",
       "published_at": "2026-09-03T07:00:00+00:00"
-    },
-    {
-      "title": "【2026/08月營收公告】新應材(4749) 八月營收4.85億元，表現亮眼、呈現雙成長，創歷史新高，年增41.95%",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWDBOeUxDUWZJakkwVFlCOHhXZUxtcWhPbXJsV3F3UGk5amI2VGdsbndLSU1XWFptYUFFangyU19ZMjBfNnZweHJEVS1PUVZoYkVhbzgxUDVTRTZZN3lQWUNMWjktcUJKb0ExUVlwSmFwR3J4ZkMyNjl1ZnM1NWpZLXJNeDVPemdsZnc?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-02T07:00:00+00:00"
     }
   ]
 }
