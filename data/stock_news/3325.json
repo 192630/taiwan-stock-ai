@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-24T21:36:31.953566+08:00",
+  "updated_at": "2026-09-25T23:34:47.699478+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3325",
   "name": "旭品",
-  "count": 3,
+  "count": 2,
   "news": [
     {
       "title": "【2026/08月營收公告】旭品(3325) 八月營收營收雙減，年減63.71％",
@@ -16,12 +16,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaVhqZUlJclFMck1sSUZyaGZmMG16ME9ucTNLRDNnQ1hxTUtPZ1hDcHFOU3ZWZm5ycUUwSGJva2x5RWFTblF3UFA4Y3NJVVpHNW95cnVnMlFqRnZPeGhXeEtQSU5pZVdVd1UxWlROY0VIRjNpN0I5QVFxVllEVm52ZlBQRFBSM09oemFBakNn?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-08-27T07:00:00+00:00"
-    },
-    {
-      "title": "《外資機構主要進出個股4-4》花旗環球證凱基金(3325)",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdWJKS3JCd0ZfNm9USG53SEJ2VmtnUEZjWG5sRHZKR2FPdWhkT1dxMENadlU1QUtBNUJ2VUY1dEN4TmMxendMM3pOYTZuUGtSMlRsOG5FaEI3RWF3WGhDOXRLQ2VId21BdUd6TnQ2cDR6UER3NFNPN0JSTmdCTmVoaG54Y2N5aEFI?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-08-26T07:00:00+00:00"
     }
   ]
 }

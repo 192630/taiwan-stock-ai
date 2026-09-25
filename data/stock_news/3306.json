@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-24T21:36:26.991950+08:00",
+  "updated_at": "2026-09-25T23:34:42.999595+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3306",
   "name": "鼎天",
-  "count": 2,
+  "count": 3,
   "news": [
+    {
+      "title": "股份變動報告＜3306＞日本製麻（20.99%→19.60%）ULTIMATE CLASSIC",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS21HTS15aWZyaVpoeUt6Qi0xSWljVnpHV3lGa0dIMk04eEVTdzlRNWlKcWRBNTc4UGE1ZUljMW1SaTBpYnhBREJ0cWJxY2lXdFR5SDhZUlJhSzhWOUIyd2RMX21MbkNKOE94ajNHa1JCRlRXN18zNG9PQU5Hb2hKVE9ZUndqMHoyLXU1VlhzZXgyaEdpWHFOWkNTRTl1QkFuUk1ERnZkZWc?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-24T06:48:00+00:00"
+    },
     {
       "title": "3306 鼎天- 三角收斂日報9/23｜鼎天帶量表態！名單上還有誰在門口👀 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWWHhWWEVSYnlpcFNaNy1qMkhtTmlNQ2VtUFNBY1ZNcDUyb29yb0hoQjVkTTBhN1QwTUhBeUNVeUxwMDRZRmFaVUVIaEd0X0duYkxESnJmWmY?oc=5",

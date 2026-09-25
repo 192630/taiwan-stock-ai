@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-24T21:36:24.875135+08:00",
+  "updated_at": "2026-09-25T23:34:40.650544+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3294",
   "name": "英濟",
-  "count": 10,
+  "count": 11,
   "news": [
+    {
+      "title": "Meta一口氣炸出4款AI新品！智慧眼鏡最低價曝光 帶動玉晶光、宏達電、英濟台鏈吃補",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE91d0sxYzBaWWdwNk5OdTNXM0Jjb1hia0FRUExUSk95UGhUakhaQWc2VG5kLXVUcXJvWVAyY1R6djZ0SDRSbjhabE5aQQ?oc=5",
+      "source": "FTNN 新聞",
+      "published_at": "2026-09-25T08:25:00+00:00"
+    },
     {
       "title": "《櫃買市場券商買超比前30名 3-2》合一(15.33)、英濟(14.77)",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPampCaFdsTGFodVYybTR2a19mMzVzZmdEWV91TGRhUnRjd2FuUUNDR0s4eDVQVzlVTEVtMUoza0ZOQU9nTzY1WmhYaGMtZTFzNmhMMjdiMFFpeWthdFR4VE5XV2Z0STJDa2F5YnU3RkRMZlg1eHdYSVQ4TTdFeW82b2RISUZ2YXdz?oc=5",
@@ -50,7 +56,7 @@
     {
       "title": "宏達電、揚明光、英濟出頭天！Muse 熱潮「好戲在後頭」Meta AI 眼鏡新品接棒站 C 位",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yM3RWLTVGTE1YUHBya0NnLUwwNm5uWWx4dmdKdzlhbkozVkN4T2FNRVdMMEUxNHd2dVRBSUh2c2ROQ1RLTHVQOEk2Q24yZjAzaWNSV2pn?oc=5",
-      "source": "today.line.me",
+      "source": "LINE TODAY",
       "published_at": "2026-09-23T03:23:43+00:00"
     },
     {

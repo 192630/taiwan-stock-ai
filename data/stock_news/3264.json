@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-24T21:36:19.045099+08:00",
+  "updated_at": "2026-09-25T23:34:35.124092+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3264",
   "name": "欣銓",
   "count": 12,
   "news": [
     {
+      "title": "欣銓(3264) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jbVB5ZElWNlNVcExRT3VkU2pkT1lXdW94aWl1LV9odDV5WTJndEkyekVDYk1YaW93dVpiWDFwM1RmOWg0WTJjSVl2MHpDNE1LWWRB?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-25T03:09:01+00:00"
+    },
+    {
       "title": "《櫃買市場券商賣超前30名 3-1》欣銓(-3627)、中美晶(-2173)",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUkF0ZGU4SWpMY3JVcGt2czF1SDdBTDljaE0xR0hLVUx3a183Z1pVRVFZdklRUUhPLXhnSWJuYTBseFpWb2ZaUjdKMzFtTnZlc3hSbjJzcFhuTTl1TGE0SkstczgwSE5pSEJQa3hDaDZsOVRkREVwRnpaUkVPNWItVXZBQ05YSVQt?oc=5",
       "source": "富聯網",
       "published_at": "2026-09-23T23:30:00+00:00"
+    },
+    {
+      "title": "3264 欣銓- 又是曇花一現- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UNnVrR0YwMHZZLUlTNDloSjBmQ29EcFJodmxkdjdORERzU3BhaTZQNEhTSHBfcFA1ZklzUk5YYlNFaE13amJRVkRzVGN0dkxGQnFxYlY5VEI?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T23:24:25+00:00"
     },
     {
       "title": "主動式ETF昨天減碼的欣銓(3264)，今天慘摔8.86%-CMoney官方",
@@ -36,20 +48,8 @@
       "published_at": "2026-09-22T09:40:56+00:00"
     },
     {
-      "title": "《上櫃盤後成交量前30名（6-3）》欣銓科技(22192)",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY3E2RXp1NFU0YWNFZmQ5TnRPejJYekZXVm8tMV85cVlZSV9CQk00ZC0yeXh0blZYSjg4cXRVZkN0cGk3dXc1NWtVcDRZd3BOOFNHYTFmNi03THhQMWZEYldrN3NMaUFuOXdmLWZxZW83RkI1enZCLXo1WUJGV2JtQmNkdktFYzBQ?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-22T08:38:00+00:00"
-    },
-    {
-      "title": "《上櫃盤後成交金額前30名（6-4）》欣銓科技(6225184)",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbkhnc1BHQmYwckdvalh1NnRMTEk1NWE0UDE1U0JKX25tNjhud0xVR2hPcmNQTnB1cFgwNlFqSVEzbGttb2hsaUVZT25UcE93Ukc4MFhMUVpCR3ZRODA3dEc2bnJkSGp6YzBKVTJCeElKb24yXzFxZFM4cTdoUnpfOGdCTjlRRkt2?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-22T08:38:00+00:00"
-    },
-    {
       "title": "《上櫃個股成交量前30名（6-3）》欣銓科技(21876)",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb1J6TXVBaTg2bTdaWk0zYkNYa0QxXzZBZldKY29pX1dONjhua3F1QzVkb0kyakZkQUVxbU02czNIUGlDM2Z5NmNPWjdsTGtEVThOeXhhU09SN2ZQbmx4TzlkQzF0WERXWjZjWXBOV2xySXA3Vlhxd0NFaXc2UG9yRjJSSWx2aUVU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRTNNaWtwbjI2dmlVQ1JsS2hfZGZ2UjVZc2RxVWI3V1lrQTR3dDRyandiVC02X1JxekJiQjFzTVJ1d0Q5dE9TM29XR2ZQX0RiOEJjUVRBQ2FBWG5kVUZoQUx3SUtVV2dYODh3UkpGS2VtYUZBMmZxOVN5NFA3cG5OODRZSjVlRFBE?oc=5",
       "source": "富聯網",
       "published_at": "2026-09-22T06:29:00+00:00"
     },
@@ -58,12 +58,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOckp6QlFpYlNtTEhxSHRVby1RNzJreDlzdUUzTVFfLUVEak9iSXV5YUtZT0stbnJnc1czSV9OWGpjZVdXRlNNd1ItQkNJWEpNVzVFc3VSWTZ4NHExdTdJdjFNRjR6X3ZDRVd2UlNEX3NSeXpXenZrNVJKTkEteERlbldrRUIyU2VQ?oc=5",
       "source": "富聯網",
       "published_at": "2026-09-22T06:29:00+00:00"
-    },
-    {
-      "title": "3264 欣銓 - 準備下去了 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WU182bHNIMUoxRE9NUVI2ZHlIYUc1N2E0S0FjRGROalZFUmppYUVCUF9MUjhXRlEwQjZzZm9FeDZTSU1lNDNZWDN4Wi1FNkV3VDNxZG1VaGY?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-22T03:57:48+00:00"
     },
     {
       "title": "法人按讚欣銓、矽格股價嗨- 日報",
@@ -76,6 +70,12 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wWmNFSV8wMk1qVExnS3V1bWJEWDI4eEZZejhndFBtdDVGUzRqZFhyNTBodlRCTGF3d2hMeTlRQVVNcmdENG13SkZhT2Rpd1JCQklGOE5CNno?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-21T11:27:00+00:00"
+    },
+    {
+      "title": "【13:09 即時新聞】欣銓(3264)盤中續強，AI高階測試題材成焦點",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQlhYd3NDcW40WmdRUWpidFV5UVNIZHdGalY2NThSU3BndGZWX0tCdlRjTENzcG1Pd3JpcEQ5UEhzWGMwZGJ3S3lzSDVpWVh5SEJmWUJIbXdTN2hFMTV4Q0JDV2FuUkJwZmxVYV8xb3FKQTd4WGdDcndYVXl2ejl6UUtxYmVxSUlQbHo3aW1n?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-21T05:09:35+00:00"
     }
   ]
 }

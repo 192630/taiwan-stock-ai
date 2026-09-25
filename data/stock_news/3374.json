@@ -1,15 +1,33 @@
 {
-  "updated_at": "2026-09-24T23:35:01.933757+08:00",
+  "updated_at": "2026-09-25T23:34:53.812851+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3374",
   "name": "精材",
   "count": 12,
   "news": [
     {
+      "title": "下周二新增4檔「關禁閉」！台積電親兒子「股價三哥」入列 精材、華星光也在名單上",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAyaDQ5Uk4xUkxwLUNtMHpGaGVVaTNkQlFUX1lueENMV3JFRkdoT0hlaVZSNEY4X1B6d0tjaGlrUXpIWWFvZ0VzWVVDWQ?oc=5",
+      "source": "FTNN 新聞",
+      "published_at": "2026-09-25T09:20:00+00:00"
+    },
+    {
+      "title": "精材自結8月獲利年增43％ EPS為0.71元",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1IcmFrU2ViWDZ1Yl9KeWUyQ1d4d3V0UEJtT2k1akhFeXZpemUwcnZoN25HQkxZQjZDb0hZOVlZNUhDbDdrM05xVVNnSlQ1bzVQQkhyWjBWbmw?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-24T18:39:35+00:00"
+    },
+    {
       "title": "精材(3374) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pODBIc3l1emVLellOVVliZ05rd1Y0d0plVnhWTDF1cmM4dmNZeFozNF82QW9TX1J2d2ZkV0Z4MlFtQkx1cGlWSGRoeW1YN2syaks4?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-24T12:17:50+00:00"
+      "published_at": "2026-09-24T14:37:24+00:00"
+    },
+    {
+      "title": "台灣精材(3467) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaX3dKUnRSTU5SSU5IUEdqbWVibVRFMFQyMlpQU3lMZ2Fqb29aaGVvT3RCZUltbEhLX2ljaGtvYWk4MXFoRzBKLVBxQTdZOWtReWNR?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T13:05:24+00:00"
     },
     {
       "title": "《半導體》注意股：精材 近5日漲11.32%",
@@ -58,24 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTU9aOEVUUlF0YlEzVWRJZWxrZldKeUozeHk4eG5TUTVTQ1JlQmt2a3hlT0JMMkJwaEVfUVh1eXpGdWdYUmg1WFk5Z0lxQmdpMVZXRmJ5SjI3TmhDd05kZTI1ajZyRi05TENsSFE1cFlpUXZZYXV1WENVVmx1dmVRazNYenlrX2Mt?oc=5",
       "source": "富聯網",
       "published_at": "2026-09-21T23:35:00+00:00"
-    },
-    {
-      "title": "精材8月每股純益0.71元 成長動能強",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VazZ5aHVqRGtSWVdRTG1jdHlONk5pblNIdmZtbTFkWENMY0FBV1FpUlVnZEczYTZncWp3bnptOUxsSElabkRKQlVVQ1JnTkdLWFpYdUJR0gFWQVVfeXFMTVVrNnlodWpEa1JZV1FMbWN0eU42TmluU0h2Zm1tMWRYQ0xjQUFXUWlSVWdkRzNhNmdxanduem05TGxISVpuREpCVVVDUmdOR0tYWlh1QlE?oc=5",
-      "source": "UDN",
-      "published_at": "2026-09-21T17:47:32+00:00"
-    },
-    {
-      "title": "3374 精材- 這個如何- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wbi1ZSGZ0TUJmaG12b3cyaE5Ib2Iyc2dzeTlWbXlnaEFUNTY4R2F3TzRZNmlNSVhFdXk1ZEdLZUtYUVhrYlpwOU9IR0VwdjRFRHVvWU5YRXU?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-21T12:57:06+00:00"
-    },
-    {
-      "title": "精材8月淨利年增43％ 每股賺0.71元",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEU3U1Tzl4MS1nejhNNi1QTWhqMUdlMFB5WDktV1dEQ1JkY2pYWjVzX291alZSUF9OLW5STUk4d2ZSYUNaako2cUdyck9hU3RmSjBiZ2V4c0N0d3FkOGE4?oc=5",
-      "source": "工商時報",
-      "published_at": "2026-09-21T09:52:00+00:00"
     }
   ]
 }

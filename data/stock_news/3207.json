@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-24T21:36:09.692025+08:00",
+  "updated_at": "2026-09-25T23:34:26.044248+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3207",
   "name": "耀勝",
-  "count": 2,
+  "count": 3,
   "news": [
     {
       "title": "耀勝(3207) 個股概覽 | 個股 - 股市",
@@ -16,6 +16,12 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QLU5lLU1KVnVxNlhFc3VFbFJrOXFUdDlOZ0lqcWJuRE0tNnIyOG5uZ3hORk5oR1FRdjhwc3VzYXR4dlhKdXBUWGowUHgxaEwzYk9qUGhvaFl4YW1KdDVXeVJSMnYtckE?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-10T08:40:04+00:00"
+    },
+    {
+      "title": "供應鏈轉型顯效 信紘科業績雙增、耀勝布局AI",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNTnE5UXBTWEpPZHlVLVlZM21tNjgzNy1HVEN5NXhYc1pwRTUwaWVpQmxDS2o4VEhSVU1JTC1mckR0TGcyVFJranFlNm9zOFA2YkpFS01SOUZMVG81Mk9kd3lIZnY2djU1cmEwTmZ1NkdhSUtQWFNYLXhrUThEOTRZRmEyeW0xVnVuZk51WVhzdGktNGlpTFM4RW9OSUVyMkFzZmNiR09LSjBpNUZqZkNRbjJZMmlIcGRzM0tvc185eUU0cnVFX3V6NEVDeG92amlJdEkzYkpHUTl5bzRCZUM5dFhLZUpFczVaZmt0OS1ITDNPVUpMbHZlYm1rVG1MbFo1eGFUUldDMl8xS1I5UzFWRWJMVmQxX0c4eXN6Z0x2OThJSWFheDM2VW9oYXBzMUM0?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-10T07:00:00+00:00"
     }
   ]
 }

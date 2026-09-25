@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-09-24T23:35:06.099169+08:00",
+  "updated_at": "2026-09-25T23:34:57.442740+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3413",
   "name": "京鼎",
   "count": 12,
   "news": [
     {
-      "title": "3413 京鼎- 瑞銀看好台積電CoWoS供應鏈- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE94Yk9KUkFyNWZiY0VCMmRtMGdsemxWSlQyc2FBVkM1TW9zSmhqY0IwSWdVcUtXWkl1V3o1VW9BMkhDcjI0OGxnaXB2U3c5cUlQS2ZwTl9ZOEE?oc=5",
+      "title": "《半導體》京鼎攜手TAE Life Sciences 助攻BNCT醫療設備製造",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM1g3WHA4YXJEbk43N2Rib0hEU3lXcWllb0tsZVRpU0J3SVhjNXVjcjJma2duVk9ucmVhUTk5UEthQ2RhdkRtTWxBVWQwT0t5ZnRSeGJXNXlJYThyWnByUzZHZGwwVExsVzRQYUp6UXBhTVNTQW1ZaUtTbXRGUklySEVOWWpRQU1N?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-25T02:01:00+00:00"
+    },
+    {
+      "title": "京鼎(3413) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yaGg0UV9FczBLNm84cWhVbC1yV1loSkdGbnZvcUtoSlpjeEhJWFhFdHY2R01TdlhrR2hEMkdmazJLZE43NHk4RlEwYTRKQVdmeVhZ?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-23T23:04:01+00:00"
+      "published_at": "2026-09-24T23:25:29+00:00"
     },
     {
       "title": "邁科、京鼎營運旺 投顧力挺",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xcWw5QVlSUGN6T2tJb1NFcUpVM0JzbEJJRlZQVmoxZ1J3eHp3YW8yME55ZVFlNlBvS29DMDVhcmVQWlJvU0RuQ0RmQTRYWmJBQWdhOUxRSjRZWW5LNVo1NVUzX3ViekNEV3lZ?oc=5",
       "source": "中時新聞網",
       "published_at": "2026-09-23T20:10:00+00:00"
-    },
-    {
-      "title": "京鼎(3413) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1WNmxNYTJRQ3NSM1A4UUlfMUg2cVRPN0pVbXFRRW5nMTR2MnhicXZ6TjR5VzhQZzFGZU84YmFrZXFmOXlYWE9zNkdB?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-23T03:04:00+00:00"
     },
     {
       "title": "3413 京鼎- 應用材料上漲4.42%，連2天大漲- 股市爆料同學會",
@@ -45,13 +45,7 @@
       "title": "3413 京鼎- 搶救京鼎股價- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWbG1peDJtUER0dHdyWUNyUkpicXJmcnhPSkRXdGQ4R2ZBbU1JeEtWQXlJeFdjNmppaGdTREFIMzdXS2xqYXRoejJZTV9TSUxCeGtuOEZ2c2g?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-16T06:47:28+00:00"
-    },
-    {
-      "title": "3413 京鼎- 台指期拉高結算- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wOWR6WW1XRXVjSEVoYzY3bGpCNjR6a3pHSXIwTTI4bnE1Y0x0LXFKYkNuU2RuOWxIR1VOMTg3WHBWYm1kaVNpUFk0LTIwbWFoeTkza2M3X3Q?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-16T03:24:38+00:00"
+      "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
       "title": "3413 京鼎- 正義或許會遲到，但不會缺席- 股市爆料同學會",
@@ -63,12 +57,6 @@
       "title": "年報全方位解密與鑑識體檢：3413 京鼎｜理柴知道:法說最速報! - 方格子",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhTU9yeThQNm95Mi0wNG5qVHlyTDNBUWRBYUc5QlpJeVA4VDIyMl9IM29NWENQeURLVENkNmZFMm00bWE5WmdEUEVzUXlZbGF4UzYxZkNzMXdNNlJWVmfSAWNBVV95cUxObjNmR2FEYXNnS25tN0tRMTM4V2hyakhmOFBWVWdteVVMVDRBSDI5dURsS1hYemlZOFFqNzR0d3I2enJpeVdWX1IzaFlQeFkzLS1WX1VvbG5PNjJMX1ZWUEYxVmc?oc=5",
       "source": "vocus",
-      "published_at": "2026-09-14T11:48:05+00:00"
-    },
-    {
-      "title": "京鼎 兩檔活跳跳",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54Rm9jTTJnelNldlRWTEExV2VrNFVqbTlXLU9Tb0F3UHhvYmNNcEhwUmIwcklTbXp0VkVPWUcwZGJ2OFZLNlMtMVFBdHZnNHREZWI4aDRxekF0QdIBX0FVX3lxTE5sdTR5d1BIMTd4dkYyTi1VSGRTOXZWUzVmT19rT2dRc1RTZjNEcm1MbkFVemt5Y0NKRDVWZk00UWZtQmVhcXZ0TVMwVzN1cnBRc3p0NXQ3cDFrVTRtdlBj?oc=5",
-      "source": "經濟日報",
       "published_at": "2026-09-14T07:00:00+00:00"
     },
     {
@@ -76,6 +64,18 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhRlVMTTl1ZWt4X2dzRDN6TmFZd0lGZUc2NGY2MVo3dGJKUnZYb1g1S2Jzd2xHZEN6STdkRkhKX3Z4VUpwWUdySXJDZUI0c2tuME90QkRUSDA?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-14T07:00:00+00:00"
+    },
+    {
+      "title": "3413 京鼎- 京鼎的股價已嚴重超跌- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DN09pdFBDckVDc1VjUHlZWU5OcENYdVY5aWIweWI0MF9TVEVxVVh2Z0tIcEZQMG1VVF8zOFpKRkVwWlRCY3ZPN184NVpHYU5ZV0pZaW1BdTc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-13T23:54:38+00:00"
+    },
+    {
+      "title": "3413 京鼎- 京鼎兩檔活跳跳- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSRnhKZ2N2T1lWakQyZVUzMnVpNzZpeFBjV3N6TlUwellTdDVNMEljZXF4MTJGbVBSQ1ZYSkRsVDhITXJKdXQ4SzhlSXg3Qkh4V0I1VHlwOXc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-13T16:56:47+00:00"
     }
   ]
 }

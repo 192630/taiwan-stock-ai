@@ -1,21 +1,33 @@
 {
-  "updated_at": "2026-09-24T21:36:08.435042+08:00",
+  "updated_at": "2026-09-25T23:34:24.799518+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3191",
   "name": "雲嘉南",
-  "count": 4,
+  "count": 12,
   "news": [
+    {
+      "title": "從雲嘉南走向世界 勞動部南分署培訓國手出征上海 挑戰國際技能競賽",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRV1VfMzVsdUdYMzlqbUxlajRjUlZLY2VJNWNuQ2RYT0VCTmRJSFZHQ3JyZ29EYW5KSGhUNHB4WFFBc3d3NERNUW5NQUVnNmh2eDkwV25DenppbEJnbWtCS0NsVF9md3VsRTlINVNTZw?oc=5",
+      "source": "moneyweekly.com.tw",
+      "published_at": "2026-09-24T04:29:56+00:00"
+    },
     {
       "title": "東北風擴散差！中部、雲嘉南空品亮橘燈 外出記得戴口罩",
       "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNaU1EWGVuNkIzRFhvTzlUR2pmVmV1RlJFMTNWeTh1SFdlV1VPckFJMHRUSFZwTGx6akRWdWFySGFvVkNteTkwTG1LMFNJVXVYUlkyQ2F2VWFWQ0F5WXhIT1RHckR5Y0VWQzBfaVBGY1ZTVjZlWktsek1MTHcwbjN1U2t1ZVdkZ3hvMU8xWF9UM1Jjd2J6N195QzRPdTh4SVhxVkRDbUtxSG5zTnhjWUJDLWRmdjNFeG1OUjBLSW44b2I1b2I0S1BLOVZzc3ZiREFDNnNZYml5bXQ2TzZjdFlrUlI3RG5aRWlvcTA0N1Q2NTVBaks3ejVSUGljSklTc0RrVFpzeDlZRU5UVVVUWmNWaHBINEhVZUlnOUc2M3RFY3RYQnV5by0zSVpWVVNkcXI1amRpX3FkZ2Via0RvMlhneHhUZGw4MDl6Z1MwcDcxZ05wSG9haHhFVFpBN1hsYzdYSkJvNlZULTVuSDA?oc=5",
-      "source": "tw.news.yahoo.com",
+      "source": "Yahoo新聞",
       "published_at": "2026-09-22T06:13:27+00:00"
     },
     {
-      "title": "2026鯤鯓王平安鹽祭 雲嘉南管理處徵護鹽騎士報名至9/30",
-      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOakozN1VJblNobFNQR1NLSGZTM05WekZ2Q205SUxHdEQwME9YMnhxVVc4SXRNazZCOUtidUpSQVl5dUpBRUZ1ZmVRZVpZeldoNDRXVUU5bjhxeGJBLWo2ZEFHeEtvT19zY2RjNGY5SjJpX0JvYU53M29yV3I4eHJqSk1tM0pRNmZLbnBJV211MkF4NzhUNGtiRF9RNldMQVp2R0sxZ2dpeGY4V2pwMWJzNVZVQ0lmTi1FYXFVQXV6RXl2RnN4OTNETllpYnowdVRKVDFTX2dqVF91VTdCemdEWTRGbS05Z0hRRDB2N0xTbFFhQXdUQ0lmekV5eGo0UURhbmFCLVd4LWpJbGpaNkttLUdmc1lNUTZsc094UFRZQjJ5cHMwNkY4YjMzYmFFVU9FeUM4Q3YwUTFFSmtTUWUyUzNHMmw3c1JzdExhZHdCNWZYLXB0TWd0Qg?oc=5",
-      "source": "台灣好新聞",
-      "published_at": "2026-09-15T07:56:59+00:00"
+      "title": "從偏鄉交通到兒童福利 劉建國赴台南取經推雲嘉南合作",
+      "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxORzFvRU9NYW5SSzdpVEZsOHZBS0xrOVVRdHRhbEpLYXMyQlM2bjU2M3ktaUFFbGpkMVZOdWU5bUJ1dnRCVEZBci1ZamlaWFpmamJxRFRGRnRCaG5XRGFOR09NWkFsV1ZoXy1vN0RmNzhKV2szajFUTDQxQkJ0a0xMUG9PV1BuWEo4OG5wUXd5bmUtLU5yQWpYR21RZ1V5YjJTNnRFd3BDQWdtQk10NC1xVjY0RGN3eDk0WHZYQmRjMDhsUE5SY2VmQVBoRERhbGstTnJIT1BHbnJSdGRxSDBhVXFCTVh4ZUhYWl9weGI0RU5mZjF6NmRQSnN2QzJlUEpsT2xmbzk5ekJMc3ZselBJdGE2V1FMMEthUXdFNklFdHhiakhGMzQ1LTZRRWY2TGI0Umo1b3ZydFF3TTZMbThXeGc1WnNFeDBFYS02bzc1ejBMeHNKTURGWDUwd2Q4Wk42MXMzU1dFT2RkNEJfeDBQYmhlc0M?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-18T05:01:29+00:00"
+    },
+    {
+      "title": "雲嘉南分署大型徵才 開幕",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVXRmdG5ya0VHR1c1dTlKT1VmNEEwQmt3S2hJV3JWYkJqSFVRVnBucjRTcDBoWnNsZTFLQ0E2YU5LNk1hWHlxOVVhYXpjWVpjLXhaMDI2bzJKUDRtN2tIS0ZFZjBzaHBsV0tTZkI3ckF2M21jN0pobjJCVUZxbnNuclJ5aFMzVkZzWWt4aXFCcS10Z1lJWExXVUJ6bmxfcmtqXy1mSHoxMEpING5hc1JKVUhNdkZsaXJfM1pFWUd3Z254TldYNUtDNmw2QWdjUFFKUjgwT2o0STI?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-12T07:00:00+00:00"
     },
     {
       "title": "【2026/08月營收公告】雲嘉南(3191) 八月營收表現亮眼、呈現雙成長，創近40個月以來新高，年增17.85%",
@@ -24,10 +36,46 @@
       "published_at": "2026-09-10T07:10:04+00:00"
     },
     {
-      "title": "小心詐騙！ 雲嘉南分署澄清：婦女再就業自主訓練申請免收費",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JaWppQS1tWmtFNDN0ZjREb1FEN0ZnSk1BRTZSbFpMdTMxSWhqb2NCdkJ3bXhFRlVNcGJibzFzY2xDNHI2ZTBhNjdKWG02Z1JaaUVWSWF1a0lpNkh2TWtPS2x0blDSAWpBVV95cUxQRlNkTnc2RDctZnBNMkZqeXdrdU9FbXJzMWY3bFdCbjNIQzlkUXQ1dFdpellvZjI5LVQyV0x3TUFrcEtJLVlGa0dMVHRjcHFxQ3NQaEVCT3B4YTQ1aURzTkt6R01iNWF5Sjd3?oc=5",
-      "source": "自由時報",
+      "title": "雲嘉南首家 新樓電子處方箋上線",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMFRvR1pQVjFVSVpiUW5ZdnNncFdCUU45X0xic01uUUJkYnZaR2dVMFVBbnd3OEtYNjZzSFJWZHVwVnhtaHlkbUttdEZjcDl3OUd1QThWOUxrRWpzZkxJZ3djY2gxVEkyMnFwNjdIRmJmNDNXQmhPVkxsbWRwcTdZOUpWOXlCbTFjYjZQdXhYWUlSaTNXQWVtMXFFMHl2ZV9BRVhtVVJqbEtiS3JQQ2RXTXQxN3YydEhWVXY5SmNJYjV6TVNUc1U4N005RTFwSUNJelBiZnBrc1pmZVFpOXpFZFF3OVJjdzlmMHdaV2hmUE1qTmM5VExHSmpHcWI?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-10T07:00:00+00:00"
+    },
+    {
+      "title": "出門戴口罩！中部、雲嘉南、高屏空品「亮橘燈」",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNRGE5aXJtaUdvOWloNHFVazFmQ1E4TFZpckdQZHI0bmNlYW1rQzJ3d2lGNW9WTzBKaVdGS1BBNXA5NnNyZnRtQjNiR0ZqOFZhSDdtZXNJN3lsRU0zWVFuWGhaMW94ZE1aazNscGJ6azZ3d1RUdUFlcjFXYlZ4MUZnSWc0bVg2XzFPN3dJNWotWjBSMW1DNk4xYnZhUjc0djVldU5lem9XYlY5aUJyXzhFNUNtWmlUZUwxLU1kTnROdkl2cXNQaEJuY0oteWhwUDFyN1hEV1MxTm9LSm96YVJ5Qlk3T0YwZkdObVFOTm9KeTNvNjI3dTRidzNMT3ByU2dkNmZyNkJRQy15ei03OFB3ZjIzNld6MFFuc1FkM3dVNFhXdUh5?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
+      "title": "雲嘉南分署辦大嘉義徵才",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPb2J2ZkRTa1BmQ1dkclYxQVdKWml6TFBQcGZpMkxMTk83YWUyWVg0WnRGdnN2RzJvRzVvaUhTeUdVU3dsaVJVUEp0cFJHOWxUWTNRRlVUQ2xESXh5NlB1T1FsVWNCMlYyNWFodVpreWRBTk4xVGgyMEtpeUFpdE5kVlVjRkVwdWhvdFJDeGhwTWVMZDhCUTlKdUQxNHAzbkRMa1NFRFBTbFRxY3VmaGUzN0ZEV3JhcEpPd3h0T2M0MFZsNkJ3T25HUUdWcllHM2VhSjY5ZEN2SQ?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-05T07:00:00+00:00"
+    },
+    {
+      "title": "婦女再就業獎勵遭冒用 雲嘉南分署澄清防詐騙",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPU2NHdVpsSlg2c3RZdzQwN2d4ZHpOVmxKUm93dy1ucjg2cm5wbWhIdlJncGY1TzM5bGVoU2pLOGQ1eGMyeE5COTEtMVBqV2M3OGQwSDMyWVd2TjlucHJobVlZMXpLRmJwbk4yYU9yYmZJNXpOQlFyOXRvaml5Mk9hTXoyWFZGM29kbm5ZRURSS2NKNndCZF9mVVNldldyZ2l0aFVub3kxdXFOM3c2MDRBLUFQYi1lc1hYTDVfYjB1ZkhVQ002d0t4cUJlWnRRdlhWNlNxSVV1aHNCbzJhZ25BSmpITm84NERTUHV4VERDNTBQN3Jqa0xjZldDNUtINWhZeU9QQXpSaEJ5SXhZWlQya0p3WWdvaHUwdUFKVFc5QXhlRUk1YnNvbWRDb1FONEdXWDBnTnZvWGRldWp3UlpROTJNS0c?oc=5",
+      "source": "Yahoo新聞",
       "published_at": "2026-09-03T07:00:00+00:00"
+    },
+    {
+      "title": "雲嘉南銀髮中心「職涯支持團體課程」 陪伴中高齡破除焦慮順利就業",
+      "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQYS1NdEhSbFJVeFlWNjdqR3VRTmpKZUZ3X24zcktscWFzem9xa2hPSXMxZllxSUR3NVczVTdUazREQ0JXbm1XaktxbUh3WmtuSl9WVHctbWVTbWk2TUxUUzhvQkk2cmlCZjFDdnVQQU95bmctd1hCVGtyZ0MySGw5UllRWXl1akVLdXZVUGJRRGluUkN6VW10SVJkblZoYmZjMnRrRm9BUHQySm9MRldrTmpyQWJYOGNuOVVvdm5HNFRXNEE0N2RhMDRvVXVJTG1URFRub0djMGoweDd6LVEwYUd1c21BdEQwT2ZBSzRZUUdFNkwxT25HVXlPbEhrejk4ZXhST1VpRU03MWNXV0FkZnFaYnJOSE42R3ZhSkV3aVZvODhId0xMbXVLRktISTJYMU15TEZHZF93akwzZlN4STFEM0FTcjV4UEFHNmItdld6aTNMckxaNU5KdTNBQmVZQWJWWGduanFVd0ZOaWtOUnFqbm42c0FxVjlEcm1HcERTZFFvSjZrQk5ObWxKZWM1MmJRWkFLMXdNYzFYeU5hbEI3MHFIQQ?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-01T07:00:00+00:00"
+    },
+    {
+      "title": "南市農友於雲嘉南區酪梨評鑑表現亮眼 勇奪冠、季軍及優等獎",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQUEZqanNQckduSVhsNk8yeUl3WURia1l4cTNLdkpHekk1eElfalBvVXRkWmxZaEczZVhLNGdrbFVhMkhyRS1QR0dZV1Z4TXBEc09WdERfMVBac3hQZVFndzd4NldkTWpoYl9WNWlHZDlPWWtiNk42ZFdnaDJzRGVuaHM4bllLUm1aMUNFNUloTnVReFBrZHB5V1ktaHMtWVN0Z1F2TFpIME9zT0hMVUdIaG9GdVMzbVV0ajcwempxN3dGSlJIMkVjU1JsX24tVWxISHJ2dGZpbW9QWVlpSktZWGZVMTVtT2RWam5vbWZFUnVRYUFpdVJZQzRjMGdlVDdIN1lqLTdvZU5xOF90N1dQZzBOU09CVGhIWk92bDJpOVlYTUpLSFZwcXl2N2ZndlU5SHJvaDE4bjFhSmxiYlg2djBnRVMyMTNZZjZCNkNneml6bVFOM0RQSzZBS3J5SFFRb0M5eVYwMWJJLUVhTzN4cGs1ZHBIUFlocWlJYmJMZHJNWGNMckwwblB3NG8wZw?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-08-30T07:00:00+00:00"
+    },
+    {
+      "title": "雲嘉南地區安全優質酪梨評鑑結果出爐 台南農友表現傑出",
+      "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPbVFCYWpGMGtPemMxeDRRWDFpXzlwQ053U3hTN19jS1cxOURvXzVwcC1CcF85Y2tRVXB1Tjh3RVRwZDJGdEVuOWVwNy0yRU1QcmFYVm01Umc5UEU1N3JaRHdqd093TjZfR1VHemYzSzJleUd0VGc1VDBmM2tVenpRdk8wY2ZUb29QTjc1dHhUNE4xR1QwSE5uSHRRRE5KaWVCUlZsWEpfZnV5eVk1QnJ2aC1iQU1UNU1UeWNSVkRvZVZkeXctYW5Pc1d5X3pRcWQzbHRjdlZuVUtsZUplTklMMmxhTmZmUVZISk5zUVpmU01jYk85YnY0a0JabWhJdmZvQmViV3NSNmNxcWdHQjBSR1RBTjZ1S3VDR0Juc0d1YVBzNExKbzVyNkJqdW1PSktpV09ScS1MYVFiSHFEaWlwc2hhRUx2S0RTZ0VFUkIteVRzT1l3clhXTjdEOEFDT0sxakJYNDNteDdjNml4em5xTGZxaVkycUR6Yi1FbGJNYnM?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-08-27T07:00:00+00:00"
     }
   ]
 }

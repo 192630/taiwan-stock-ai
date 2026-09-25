@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-09-24T23:35:08.005226+08:00",
+  "updated_at": "2026-09-25T23:34:59.078686+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3432",
   "name": "台端",
-  "count": 1,
-  "news": [
-    {
-      "title": "台端 依臺灣證券交易所股份有限公司臺證上一字第1121801204號函辦理",
-      "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxNdFBTbXpQaGc2ZkxhY2NTVWM4UWRrUkhkX1JIbUZwLWlicEJBRXlyMURsWndhVUZSRUFFVHJ3U0NTVXBETndTdW83aGMtOXBOdFRrRnBDRllXaHR4cHVuVG9BVU1vcTU1WlllTFpoWW0wN0xldWFNMy1IR3NoeGpSUUlUZ21fY0VZc2hna2RfOXJaOVZsMlhvZ0xNcjNRTlp5M1JLb1dPYjBqZVNvT041TkVKN1dGM3VYNXV4dXZfMml0cHZfQTFaampBUXc4WFJVLUdkcE9NVmNYSUlzS0RZN0txMzR6R0M0MHNqdHJHVDVnRGRSbmJfeVNSZTFqdHFuYlI3c0o5WW9vVkFGeVZwbGJiN3lhVFg2YU5JeE1ZYXJhZFVxQzlwd3VOWFhEc0tHX3M2WHdKRHYyRDBERmZ3WkdkYzJYamptT2RjLUNqVmFiZTJkZ2V0b1NxenY5ZlB6OG5oUTlqTlRfRS10YkVfNEJiSkRDWFZwOWNCMzMyazFzUUtZaXNqaHFfbFlraEUwVUI5VmZRVQ?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-19T03:39:52+00:00"
-    }
-  ]
+  "count": 0,
+  "news": []
 }
