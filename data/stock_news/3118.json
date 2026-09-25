@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-24T20:40:41.401395+08:00",
+  "updated_at": "2026-09-25T22:36:21.551036+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3118",
   "name": "進階",
-  "count": 6,
+  "count": 7,
   "news": [
     {
       "title": "解鎖更多AI 用量和進階創作工具，Meta One 訂閱方案在台上線- 股市爆料同學會",
@@ -12,22 +12,28 @@
       "published_at": "2026-09-15T22:36:00+00:00"
     },
     {
+      "title": "Meta One台灣上線、最低月付49元！IG、臉書解鎖更多進階功能",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XN0QxOERuWDdTT1QzSXA2VV9QM1hId3BtamFIQmIwSmtLUURCcGpULWd3QnJ0LWt1VGJjVjJxVVg4ZF9mZzBfUWkxdU5tYndOZlFnRkg4ckI?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-15T15:00:22+00:00"
+    },
+    {
       "title": "客語學習再進階！《共下來講客》繪本、音檔、教具帶孩子玩中學",
       "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPbDFkRmlzZEppSmY3QmF1NGQyZERwdVJ5SU1yV0QwUm80eWltVnpjRTE5REUyVnR4c1RxUDZOajFOWHRvWGplRklQX0ZiLWpFTmdkVktzY3NvaVpnak1MS2JQZWxVa3hUam1zWTNxeThEMUVRV0NLZjZjT2VNY3BOMmZmWXViUS1KZGZ0TXlvOGRBU29LSm9mbGR4NG4ySEs4cnZsajNZN1VpNDlFUHZDVHVONUFGamVPUTFEUWRCSnhONEtRM0hfd1piTHlUUnVnZF94MDk1QXpCdzN5dnF2aGQ3ejg2aXlBa3RxZnpTT2xScVM1cS0ya2RveTVLNTBRdzM3X1hweEpLQXJxWE1tTTlzb2FKcS1YM0FQdVAwWllxQzl4c1VfTGFPSXJMTHplMFlIamZZV2k3UVlZTHVBazQxM0phRldrS3pXLU1PTERYbU8yODBkTFhuNHljbjV4b29HS1pQN0dQbmpqc0RwZy04TGNDYjFFdU9vUWFqcUg?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
-      "title": "Meta One台灣上線、最低月付49元！IG、臉書解鎖更多進階功能",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XN0QxOERuWDdTT1QzSXA2VV9QM1hId3BtamFIQmIwSmtLUURCcGpULWd3QnJ0LWt1VGJjVjJxVVg4ZF9mZzBfUWkxdU5tYndOZlFnRkg4ckI?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-15T07:00:00+00:00"
+      "title": "【2026/08月營收公告】進階(3118) 八月營收營收雙減，年減16.23%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdGV4UlBpOUdOc2E4QzhSeElGWk1WRDRHMS1KTTYtLW5OUTVLbzZENEtUNGkzNDhaLTNud0t5cUlkQ252cEdSLW5VcEFKWk56NjFfUXNhUzlRUUFiN0JHa24zT0pSYjZmazR5QkVVUDFNd1FCT24zSjZLbVQ4TzFPd01pZTNzSDRJQkE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
       "title": "陸國產晶片再進階！麒麟9050 Pro時隔6年回歸 為華為Mate最新三折疊注入新動力",
-      "url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxNWXVpLVhpODFGM0NHTzRGbVlxbVRSY3lwbFpLbU1Hd0NSazhvc3R2bDA2Zm5DT3FNbXQ0cF9wTExZRjFSdnI4NkdfakVvUUFFMlFrWDluZ245am9kWm9hU20tMUJTYl9VVHFHUTI4cEJmR1pIRXBaUzhTcmlOZGFVaTBkY2Z1WW5JUHdvTTV1ODAtZTFtbHFQZWRpenUyLUstVFplcWwwdU0xdDBqWk95YlV1SDVTaDBQR3JEWWhwcjdfYkpRQk14OVJxbHVaYnRuTk00QjFDWEY2U0VUMDlvTzh0ZTRrRExxUTl6TnNnUUlrbVZKVWNsQjZ3Nmt3MXlHTmthNFdEc2YtbksxTDhlalRET0NRME5xRU5GcjdlQzlZQnhRZjUxa2V1bUZ6QTRyVGNsYXhjRGdQSW9lZVZ6LXVMMGtkS0dlUmk1NXhfbzdSZGI1YW9yMjdzNnJ2c2poV0RfVjFkbmo2UnNwaThpc0lhdllRUzhXM19lQjV1eE1zUHh0TkhtZ1I3MUN4WnhnSTJNNl9wQ2NFbkVGZU9wcVB3Z25ZMTl2OE13aW5nS0tZOHJqd3laYWlKNERFMnNqOGc?oc=5",
-      "source": "Yahoo 財經",
-      "published_at": "2026-09-07T07:00:00+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IWVdhVUZNRFVCZjd4VElkd1VMZlZIanBsT0R0b3Q0bC04Z0JQQ25GWi1ieU43Y1JqSTZUX2pOY3pYb0lKUXdQM29yc0dCck0?oc=5",
+      "source": "news.cnyes.com",
+      "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
       "title": "所羅門布局再進階 聚焦全晶圓翹曲、TGV瑕疵檢測",
@@ -38,7 +44,7 @@
     {
       "title": "Box (BOX) 股價上漲5.6%，因AI驅動的企業進階服務前景看好！",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUG03MEE1eDN1UzMtV0hzcWx1RXNCcHB3czhVckVQRkEzU1RSNG1oYnVsLXFMWjFoOFRDVUtueGEtVDNBRHBrQkxFLWNBQkdHa0FNOVp0UnBEQlM3d0N2czNpY2VUQUV6RHJCeHIzTXdDZ09ORjdxanRvS0tFaXAzMUw4QmdIMUJQNEMwa0F3?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-08-28T07:00:00+00:00"
     }
   ]

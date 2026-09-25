@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-24T20:40:40.366535+08:00",
+  "updated_at": "2026-09-25T22:36:21.092714+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3115",
   "name": "富榮綱",
   "count": 3,
   "news": [
+    {
+      "title": "安碩恆生指數 (3115.HK) 股價、新聞、報價和記錄",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8teDFsVWdELUhOTk5vdlNuclBGQmVFTVVrLVoxeXFOdzhKRXR4MkRUQnRoNzNGa1BUMUFBdG0yS1pOQkc1U3lPUEEwS0xMRElucUhjMWZB?oc=5",
+      "source": "Yahoo 財經",
+      "published_at": "2026-09-24T02:09:51+00:00"
+    },
     {
       "title": "富榮綱 澄清115年9月16日聯合新聞網等媒體報導",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KVDBjUDRMbXFsSURCdmh0SG9mMU5iSzc2Rmhzc1c3MXFzbGtJc0lmckxEREl6VXJHLVRSbkdlcVpacG5mR0k2ZFpvWW5JUWU3Q191eENUSUg?oc=5",
@@ -12,15 +18,9 @@
       "published_at": "2026-09-16T11:27:20+00:00"
     },
     {
-      "title": "富榮綱處分VTeam Siegfried Supply Chain Finance Fund，獲利約85萬元",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQV0luWWI5NllmTEVYc0Vuam1JSjhPMEFUckd4SmNsQWFSRnR0NVlpMV9jRHBuMkZVVzFILWN6bTBKeEpBMDNwdk1pOExtVldBbDd2SUVxZ0ZJa0RyNWtCdlFMdDB1MnBWMnYtaXhxaV9XNjVEUlRPTFVYbTVWR2dDU3l3ankyVW1FY2hvOFBiekROQkRldkVNYmc2NllZUkhNZVppZ1lVLVo5cmZqd2JWXzVFUDRDTi1IVGxOb0stRC1sT0NxdVRJ?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-10T07:00:00+00:00"
-    },
-    {
       "title": "【2026/08月營收公告】富榮綱(3115) 八月營收月增50.44%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY0FIZTV4cHdvdzVSUkNEcjhSRWViM2sxWFFxc3l1bzZuTzhOQmROWEFrMHZncExuMDhvUUlCXzg4VFlPV0c3ak90eEp4WG9ZLWZTRWRxdDJYUDAxUWlMc3F4ZlVFdnVrS2MzTjRoeTNxMHFxaU1aRFVYd05VX00wenVIdGkwZzZZWUE?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
     }
   ]

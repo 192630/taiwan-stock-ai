@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-24T20:40:12.062393+08:00",
+  "updated_at": "2026-09-25T22:36:01.603801+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3033",
   "name": "威健",
-  "count": 6,
+  "count": 5,
   "news": [
+    {
+      "title": "威健(3033) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hd3dlTVBfRDRnTDVObkVUWHVSNmlJZlV6bEZmTHI2azJKUjRyQnBIdUsySl8xZkt1UUhJT1pHa3VHZlZoZ3ZXYTNLZC02YVpDTEJB?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T03:59:14+00:00"
+    },
     {
       "title": "3033 威健- 我的看法- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mVkNxNXNrLU5fUlg0WTBOVEd1emlqQ2ZlSE9mNHpwNXJZUDluVktyZmduZURiTklYTW5YOUs2dTVOM0RUcW03dERpWlRzR0IyeTFWSXU5dV8?oc=5",
@@ -18,21 +24,9 @@
       "published_at": "2026-09-18T01:39:35+00:00"
     },
     {
-      "title": "3033 威健- 夢開始的地方- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pVkpTTndjaC1RMm9ER0RlN1BJWnh4RDYxNHlOTEVCLTBaeWhaazhJaW92UVZYRkV4QnBOZ2pwWWVmV1JMUE01bTVKWlpXczhGR05Sbmowa3o?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-10T03:04:58+00:00"
-    },
-    {
-      "title": "營收速報 - 威健(3033)8月營收123.73億元年增率高達56.84％｜新聞快訊｜豐雲學堂",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5QnEyeDJkYTdJelZ2bHhWbEs3bElyY1otUS10Q2xoZURjLUpkMnlBUXVza0tIdzdOTF9pRzFKcTFrcWRTRW5hNXVVUGJ1bl9KdnBmOGtid0RLblpGNDl0MEl3NEZ3dHFKb1NnY0Vydk9mb2hRLWc?oc=5",
-      "source": "sinotrade.com.tw",
-      "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
       "title": "【2026/08月營收公告】威健(3033) 八月營收123.73億元，年增56.84%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZE5BYUxHcVlIeDAtTTNveVNWY2cwXzM0WWpDZWQwYk1Qb2NYek5KRnltTXB5MmJQdTBiMDl3YmpJdTlzdVhQNUhpUG9QQThlNGhjTnFhWVhkdjV0ajNreTVIempoM0ZTWGRlQi01N29fdnRweENHOXhIeWJQMWl3eVRSZHFVWTl6dEE?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {

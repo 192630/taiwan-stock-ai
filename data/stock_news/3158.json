@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-24T21:36:02.725187+08:00",
+  "updated_at": "2026-09-25T22:36:26.945886+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3158",
   "name": "嘉實",
-  "count": 5,
+  "count": 4,
   "news": [
     {
       "title": "嘉實中美科技５０(03169) 交易所買賣基金的交易資料",
       "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPN1R1ZjZwTFhId1BYaEV2VHlCNnBmQ1R6aU9memlQRF9jOW0yaFBUTjFPMTd2RDBYWXZVR1hFUEpVbEFaZFV4d1YwdUFBcGZRR0tsZXEycUw1UlFOVlppR1pmaE9XSlI1LXJIOTFreDdJckJzT2tUcHc2dkVOdktZM0ZrYkJvSGl2dklKUkYzNVJMcjlDMHNCUFVoTTRuSGJjT1NwYms1YklFckNFLWlPVXFwQm8tVzNEYnRxQV9GanFNbGhDNHdiVlV3bHl1UkZZYTk2MjctOVd3Sk1kTU5oX25pTEhZWmc4WExvZ0dkMXF0aGJ1Ty1PY2t5Vk13djNsVk9RLWdRQ1RPdXc4OEU3X1lMTGJrbVN2V2d2QTNuTHpKZ216aUVwQXFjMHRqZ2tGRl9nS21HS1g2ZG5KZ2hxUkptR1JPUXJpNkRXLVF0dGV1bTFfTnZocEJycngyRjNieF91aw?oc=5",
-      "source": "hkej.com",
+      "source": "信報網站",
       "published_at": "2026-09-17T11:55:34+00:00"
     },
     {
@@ -28,12 +28,6 @@
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBUSm5waGpGSUs2NGx3b3d3ZUhfbm1kbzkwc19STmZfbWVpdm1mLUwwWXZaaEpoTWtMbjZqTW9DQl9WTGZsQ2dHcHFCQjluUQ?oc=5",
       "source": "TVBS新聞網",
       "published_at": "2026-08-27T07:00:00+00:00"
-    },
-    {
-      "title": "快訊／爆賺行情吃不到？嘉實資訊無預警當機 券商看盤軟體慘遭癱瘓",
-      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxPaWNURHFtUDhhR0VQNG1MOWFkRHZYWFVWNFl1S2ptUlIxeTZGcEFRYTNYZFI3TlVOT2FydE9CTTA4azBoMlE4TDFBRnJ6ZVlrLVVjY1h4OGRMdk1rS1pjck82ZWI4dXlmVTVoQmNtaXRhRlR1LTMzRUdpMEExaEVGM3VKSWUwMXZTNkNqa2tiUE1tbTYwVFFLSE9obmpzcGVkRU1vVUNsVGN1a004cVFDQ0ROejNxZFp2SmNGTlhDbDFrRlpkUjBLTGZsNi11TXYwRDNlV1pKMjVRZHNhOUdIS25EcDM4bHVNWjZrSHpIVm9hZHhYN2JVZmNsOUFnQXVHWHU4cm1sdWN3ekhWOHFrS1JvUkxCczhpRHY5bjdDRWU1dHMwUFJDbWpfZm05V2o2cVp3NUtXYlc0OU5PZ0FoNHZnaXVnbVlYejAxQVBhR0ZuU0sxOE5jZzB0T2ZJWUZ2MXNWNWI4SXVOWWY4X2RIajVMV3Nmb1NsUmdyX0M0QWRVc3FsWHNlMjE4QndqaEVOUVpFSUEwZUFvd09NYWRyVGNHN04xM0ZXN294aGhNOU9UOXh0cDMxZTVveWU?oc=5",
-      "source": "tw.news.yahoo.com",
-      "published_at": "2026-08-26T07:00:00+00:00"
     }
   ]
 }

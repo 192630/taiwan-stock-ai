@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-24T20:40:14.669543+08:00",
+  "updated_at": "2026-09-25T22:36:03.590588+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3038",
   "name": "全台",
   "count": 12,
   "news": [
+    {
+      "title": "中秋全台賞月指數「桃園到嘉義」滿分其它地區雲多微扣分- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GVXhldndXMzNHWTYyM3pxSC1PZXVJcGhkTUU3NVowd1VJbXV3eGVhNFhHbTRsRG9BbDd3VVJfNVh5OXpvUHlBeUtKSWV2ZGlPenhjSDJZeEY?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-25T04:16:46+00:00"
+    },
+    {
+      "title": "6923 中台- 全台「好野縣市」有誰？台南首度擠入家庭所得百萬俱樂部- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Rcm0zb19vUWRISUxXdXNrTEhvS0xkTGFPUDhiX2hXLThkcUxRM29NU1hodXdQSHhpTlhmRFBNRDUxNTI5c2Z2V3piUXo5eTM5dW9iODlpbUs?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T19:56:50+00:00"
+    },
     {
       "title": "2002 中鋼- 全台股中的垃圾王-爛中鋼- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RT21DMWliMTZ2bkg5UktzV19vQUI4aUZaNWZ0bjBkUjVaZHd6TmFfOExES1d6c3ZGc0traWo2eWZFZGVtbnFBQXZVQjRLVjBxRTR3dHpBTHc?oc=5",
@@ -24,22 +36,10 @@
       "published_at": "2026-09-23T23:25:00+00:00"
     },
     {
-      "title": "2454 聯發科 - 萬級續航力！OPPO A7 Pro 系列首度引進高規Pro Max 版，10 月 1 日全台上市- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBobWRsR0ZJVmFDakhfcUhGZldkOEhOMU5TeFBTdlloV24wTEdVRFIyT2l5SUU4Zng3c2oyRVR5TXJzQjVRYVJqejBvX2dSVVVnUXpTZTIwa0E?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-23T16:11:35+00:00"
-    },
-    {
       "title": "永慶房產調查：看跌全台下季房價走勢比例已收歛至28%",
       "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQNzZ4RnhPRk1oNzl6WGRfVzdFc3lKZXdTOE5HUnoxLVNONkxsb0hTU1ZWc0FURGpLVnNDbkZmSzktcTJ0QnIxWDdMVmpncW5XZHhvZFl4QTBDREVUdW1rV09ILVdDM1duMTBlMm1YZjQzLS1JZjA3NmVnQXFueVU3eUZnT0FaWmgxYjJPbFpucldVcDdRT0wwMWx0RXR6eGVvb1NzVFJRQkMwcnBxS3RxRllHVzFJOVE3UGtLa1hoa1lvaG1zRVpFSVFiSC1HRndGMFN5czhyR0R5R19EeFhYcVFwbE1KeWRSc2ZYLUxvbTlsTkIwMGJjaG9UUUFxc044SGZGVEN6THhJNGZXcFYwV3UyaUgzei0xbUhxQmRMRDFPd19sa2h2VkM0aV9ud05FeVE1SG9ENGRxc3Nia1ROeHZWcUc4c3JHbGlKb0FtQnNfWTV3ZTJ5MnFvMnNuZlJ5S1NfdmJPV05jQQ?oc=5",
       "source": "Yahoo 財經",
       "published_at": "2026-09-23T09:46:40+00:00"
-    },
-    {
-      "title": "OPPO發表A7 Pro系列搶占中階實用機市場 10月1日全台開賣",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0OU1QRmNHYTIyNDZ6Tkp5MzVGNzRQRUtQSnEydGJxVUlQLTFLOVBucVFSSlZIdmN6N01rcUl4WHhUd1pZeWhlbW94dw?oc=5",
-      "source": "鉅亨網",
-      "published_at": "2026-09-23T09:40:34+00:00"
     },
     {
       "title": "2353 宏碁 - 全台首間PlayStation 概念店進駐CITYLINK 南港店打造一站式體驗空間- 股市爆料同學會",
@@ -60,22 +60,22 @@
       "published_at": "2026-09-23T08:25:47+00:00"
     },
     {
-      "title": "6月新制懶人包／交通規定更嚴、郵局股市新規、電費增 全台受影響",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBtNGNsMW9DSEFMMGZFNDdESFh0clVCbWVwMTQ0T3djVDRLWG9DYUdiYVlyUWFrUWxRSUpWeno2MDFXT0h2Rkh6VtIBTEFVX3lxTFBWajZVVUhkV244WlY3RnpuZ3hpYV9oSlVpRDhFczNzT3lRT3h0MHl0WVgtMmFrNkw3YzdoQ0hGeWktRF9hSnlTV2xOZlQ?oc=5",
-      "source": "三立新聞",
-      "published_at": "2026-09-23T00:54:51+00:00"
-    },
-    {
-      "title": "雲品直指婚宴市場年年萎縮 全台婚宴需求新竹衰退幅度最大",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HUWNQSk8yeW4tU0NubnRWYjVlZUE1eHV0MkM4ZDMtN0RjdlVnTFpwQ2xTTVZPMURPbzdxMUMyRy1seE5hX2Z5T3dkN3l1WVE?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-09-22T09:34:45+00:00"
-    },
-    {
       "title": "魏哲家一句玩笑全台歪樓！台積電目標價5,010誰喊的？「股板因這件事集體吵翻了」專家拿出數據講破真相",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFc2cwNTdVNDUwaXlDYXpoSjNjNkRKRmFGOVl2aEZpYVd3ei1IemluV2RiMzU3RnRFaFJoOGF0b1JFSVkxUHQweG9rbXhZYW81Tm9fSW5udkxEU3I3MXVnZnM2TUZaR1RraGc?oc=5",
-      "source": "wantrich.chinatimes.com",
+      "source": "旺得富理財網",
       "published_at": "2026-09-22T06:13:51+00:00"
+    },
+    {
+      "title": "全台都不想生！19縣市人口自然成長全轉負，老年指數也全破百- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LenNBc3ZlUHc0bVE5ZTBjM2NlaFJVR1M5Z2VPTkNnVVNhUkYyRXhmMlpZcnZkM0xkRWFFUnRXWlhzUU5CMnprOFRvbWlKT2NnUzNIUlNraUs?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T04:29:31+00:00"
+    },
+    {
+      "title": "全台生活「最難過」城市曝！月存僅4千…專家揭主因",
+      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNVkY5STBmVFJSTGdETVh6OWRmdml0STFNandVR3RYa3NTUzdxS3dSU29yRUVJZ1Q2ZzZ4bUpBSVEzT0JJSE9uRllTc3I0cFBRQThaelBpSGptQTJuTmRWVUNkLXRqSTFuYl9NZnhHRmczaFhmNHBiaWQ1Zi14c3NRSmpYRDBjemVlWU1LdVFhUnBfVEdYTkNLZzBTNndNVTR4RjFuNEVqVVozc2oxdGJXeGZPUUpHbTBnX1pEck1MREZCVXFqYjBiTEdIUVdtOGlYU2YzQ0tIeXI3VlJOOTdoNG8zb3F6Tno2d0VKVkk4RnNKSkpRRDhvdUpyamFJa2tmZ2p2R3RZN0xYbXI5YmdldWhVX1lyU3ItNjBVS3hGeDFULWk2WmZNemJCdm5NLVFXclBCRlpiUlNORzZRcTVPUXZZckpyUQ?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-22T03:24:07+00:00"
     }
   ]
 }

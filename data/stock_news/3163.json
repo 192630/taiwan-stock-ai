@@ -1,27 +1,21 @@
 {
-  "updated_at": "2026-09-24T21:36:03.808955+08:00",
+  "updated_at": "2026-09-25T22:36:27.948759+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3163",
   "name": "波若威",
   "count": 12,
   "news": [
     {
-      "title": "3163 波若威- 輝達黃仁勳8月曾宣布，最新的CPO交換器，已經小量出貨，Q4... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16eWxQVy1QM1ozVTNra3hPbTJpOVdUNVVVWU5GMXdGbjZnZHhNOXZrRExpVFlBVmlWQ1o3aFI2LVN1aVlDVFg5TVBtWnJWMktYaThkZ1dLaDI?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-21T06:01:22+00:00"
-    },
-    {
       "title": "討論牆 | 盤中速報 - 波若威(3163)股價殺至跌停，跌停價525.0元，成交6,145張",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YZmswWjVYZWRmTUp3aEFsZ3phNi1WRlAtU0dTTVhqbW03UmdkOEpXaEtwWmxyQUZkOXIzdHRIcUpzUFZFSktKR09PRFVlZlJWOGZIOVlobnc3dnd1STVoZC1IYko?oc=5",
-      "source": "today.line.me",
+      "source": "LINE TODAY",
       "published_at": "2026-09-19T15:28:53+00:00"
     },
     {
-      "title": "3163 波若威 - 猛完全不會動 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uTHFXS3hDOGJhYkdIak82dkRvZGotbm1wTFdBZ2xXVGRPcG9Cb2VKYzNKS0VvQjJRUTItaUdueGdFVWd3Uy01eGxka3JsOTJHNEh1N0RNek4?oc=5",
+      "title": "3163 波若威- 這是一篇檢討文，紀錄提醒自己用- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wTElwRm1nSjRpMGdONzRfempxeHg2NWhicXNMZzNyUElPR1JlTW45OGM2a1g4eUlwWDZjclNXNm5uaTRPbVlBbmxSRVB5aWp6aDNKaF83T1Y?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-17T01:33:35+00:00"
+      "published_at": "2026-09-17T08:02:42+00:00"
     },
     {
       "title": "【2026/08月營收公告】波若威(3163) 八月營收2.05億元，年增9.69%-CMoney 小編",
@@ -50,7 +44,7 @@
     {
       "title": "4檔熱門股今被抓去關！波若威又被關禁閉 全處置到9／4 | CTWANT",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41QlBBRndKLVdscmNGXzZXV3dKNEgyQWd5bWNkV00wMm0xVl9Wdnc1WWx3Q28xNTRNZlMybEVyNWNoRnlkaGNqT0dVQ1ZvUnVfY3MtWlhR?oc=5",
-      "source": "today.line.me",
+      "source": "LINE TODAY",
       "published_at": "2026-08-30T07:00:00+00:00"
     },
     {
@@ -68,12 +62,18 @@
     {
       "title": "波若威股價776元「單月EPS 0.06元」！專家直呼太扯了",
       "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNdFctNHBOOVMzQk01bThtcUQxWTVVV1otcUZVZWE4X1V6Vnlvak8yMTA3MTFaaW5CQks5WEhaeXB5UU1lakVHekZpV29NXzZRQlR4Q29pYWk4VmFDbDIwNHZBcHI5WElUZVY0S05jRC1kS2dkNGk3ejFoSkRyLVhRLWpLaEVzZTVVcXhCWjRVTC1YdWE4ay1ERjZQSE56WHRiRTM4YXFMbkFGSEQxc1RTMkkxXzJUMHk0My1ybWFtTXI3THppWGhwSWJ3bU5zZllPelE5QUZfU0RiTUhLMG84MlZUV0N2U3VmMURVb0QyQnM5N25KWFpDOVRZeXp1ZUhhZHliY1A5NFJra21XdnB0NGZOOVN6YmFYWUVJVG42OXVoSmds?oc=5",
-      "source": "tw.news.yahoo.com",
+      "source": "Yahoo新聞",
       "published_at": "2026-08-27T07:00:00+00:00"
     },
     {
       "title": "波若威7月 EPS 0.06元 尖點0.92元",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IeWxzNVFuUkU3ckluR05mOW5WVWRNMmE2UDhSTnlXYUZxUHJqNVVpRjNwS3BTMng0T0dRd3dmZ0xwbXIxZnItbmQyd3FsQmRoUHdtakVRMkQyd9IBX0FVX3lxTE1pZWtXS2VfVTQwOXBaeHhwV0RjVnNkWUVTV2NLcmdvZ3lnUUJYWGV1VjI4SGFoeTRBOXNkTmpTSWpLTHVkT0dTM2lmYzVvRThFb0F6N3daYnhmWFRJZUY0?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-08-27T07:00:00+00:00"
+    },
+    {
+      "title": "波若威獲利／7月自結 EPS 達0.06元 單月獲利減少81％",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0ZGFWMVA4TmJfcU5TYXBWZ01EaUFGd0xtYWxFNmNXVFo1dFliRWFMTzViS0g5cWU0NGpCZHdXS2ppVktsbi1oUDBDam9oczMyZVNycWJzU3VGOUHSAWBBVV95cUxOUXpfQW4tX2I5R09SdlBiamFFWGxkd0psa1J5d25BTTJuMnFtSE9wVTdjeUdPZHNKc3FfVlphWHowbTZYM3pmV1JVQTlodXozNjVfOFB6QUV4VzBhZV9vXzg?oc=5",
       "source": "經濟日報",
       "published_at": "2026-08-27T07:00:00+00:00"
     }

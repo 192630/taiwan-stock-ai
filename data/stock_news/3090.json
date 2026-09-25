@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-24T20:40:36.493140+08:00",
+  "updated_at": "2026-09-25T22:36:18.030030+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3090",
   "name": "日電貿",
   "count": 12,
   "news": [
     {
+      "title": "熱門股》被動元件大缺貨 日電貿3週翻倍漲",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhVWZRd3pobUowN3lTMTdzVVloWkZ5ZEhtZGdVVWJXejhUaDcxUS1mc29pVC14SmFYdkl1cV9YTldqbExvX2s4dUZxV0x4UEVxbXJYR1JWYVQ?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-24T12:50:40+00:00"
+    },
+    {
       "title": "3090 日電貿- 衝不上去就會下來！ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hSW16bm5wczQtdF9oWDVoTnlTeE5aV2Y1WmVfLWh3WDFtc2xCVmdlNTBjTmxXTnAyTTRwcmlxeTdMLUI0dTM4d042dXRiTGFZNnBWVzJncXA?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-23T02:51:53+00:00"
+    },
+    {
+      "title": "3090 日電貿- 唯一一檔很被動的被動元件類股XD - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LdFFTZWVRNVFVTHF0cElfMlVZcUpHUkRYYjB0NUlmVGxtb1NRUzJjSUQzT1A3TExEUFZSRWQ3bzJTVEQweFlpczRneHFzMUpNeEg2RWlPTUs?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T02:37:21+00:00"
     },
     {
       "title": "3090 日電貿 - 買這隻不如去買聯發科，這隻一直被壓價。漲不上去 - 股市爆料同學會",
@@ -18,22 +30,10 @@
       "published_at": "2026-09-22T01:15:21+00:00"
     },
     {
-      "title": "3090 日電貿- 幹嘛一直壓價............... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYNzl5d1YteUZoRnlGNVZOYjQ0LWU1YWxmY3U5eDJfdlNjcU9TVk1pUjA1eE04N3JhM2MxYVhMYTdjVy1oTW5DeXgxMTZtOElzUkV6QkZlYno?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-21T04:49:22+00:00"
-    },
-    {
       "title": "3090 日電貿 - 只有崩盤這條路。 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zSW5UTW43eFhQSVZUam9VbUtwc0ZRd21pSlVZdWpvUlc0Nm5xWGlBbjJUSmdXeFJ1Zm5ETEpUMXQ2dk9iQWRzYU5ObUhPSGM4UmVicXM3VmM?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-18T02:23:59+00:00"
-    },
-    {
-      "title": "熱門股》被動元件大缺貨 日電貿3週翻倍漲",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhVWZRd3pobUowN3lTMTdzVVloWkZ5ZEhtZGdVVWJXejhUaDcxUS1mc29pVC14SmFYdkl1cV9YTldqbExvX2s4dUZxV0x4UEVxbXJYR1JWYVQ?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-17T22:48:29+00:00"
     },
     {
       "title": "3090 日電貿 - 被套元件又是你跌最多！ - 股市爆料同學會",

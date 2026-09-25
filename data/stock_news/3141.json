@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-24T21:36:00.162751+08:00",
+  "updated_at": "2026-09-25T22:36:24.751210+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3141",
   "name": "晶宏",
   "count": 12,
   "news": [
+    {
+      "title": "3141 晶宏 - 外資 16 投信 0 自營商 -54 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAybzREdFNVXzlNRzFvWVFvUWJ0cDZoSk1oTG5EVFlTWTBsZXVqbGI1Q3B1cWZtRDljMDVJekx3ckQ1SU1xWjRFNXJYSDQ5ZVdiTnl2YUZKM2g?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T07:09:37+00:00"
+    },
     {
       "title": "晶宏(3141) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EdF9MMHRjUWctc1BHZXMwN21VQTBEelVNSHFVdGlUczM4TlZBc0FaVV9yVnR4TmZoMjhSakZNQ3RWdzJxQmNxWGhCUC1BNkY2c09v?oc=5",
@@ -39,12 +45,12 @@
       "title": "【11:18 即時新聞】晶宏(3141)盤中續揚，AI與電子標籤題材獲關注",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTmtERE5pOWRERE1GWTFudEZSQ25UMV80ZnZTdGRJSUNSRmhCVzQyRndiVERmZGJ6N2J6OUR1Wkk3MUpVSWtJMVBNQThONk00dkpGRlBIV3Jua2FBcGk0eU0zWFZHSUpaUmMwa2loRG5YbVN3ai1ZOC02d2hmSWF6d2ZZTl81OGJrNVZCV2V3?oc=5",
       "source": "CMoney投資網誌",
-      "published_at": "2026-09-15T03:18:42+00:00"
+      "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
       "title": "【10:52 即時新聞】晶宏(3141)股價上漲站回9字頭，受營收連月成長與先前修正後逢低買盤支撐＋短線技術面嘗試止穩但籌碼仍偏弱",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sdEZtNGxaeV9LcmltMkNCT2xFdUFHdnAtYklkSlplSnR3WXBQb3d3OVpzZDdtdDB2bTRZeG9pNmZvWGp6U2hLcUtWOEJHZFE0NjEtcWNMZzFVbVU0RXRMS2k0M0U5dzg?oc=5",
-      "source": "CMoney",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM2psNHBTZURqd2l2QmhFSkNqVVB3eXdsQ1dhaG0xSTJZRlhwUU1jcFJSenlPaWJhWjNaWUZ1c3lZelBOVk1HT2lGUmN3QzhsaGJVZUhPeHhTbU5ENmZwUGxud284TEw2eU50M1ltMEl0bTI2QVVjSE9fUHRpQVJIUFVLMUxIdENrZ095YnRR?oc=5",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
@@ -68,14 +74,8 @@
     {
       "title": "討論牆 | 盤中速報 - 晶宏(3141)股價拉至漲停，漲停價90.5元，成交4,539張",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PcEZfd0tJOVNqNkdVUUdTWWQ5VllnckpyMzRJNGR5am5FWkRvOFNTSFVMUVZ1aEtxdUJHWG9LVVV2YThsYlNMWkhLc1B1NjNfeS14Z3lsR2U5Q0w0MU10NWVXNkM?oc=5",
-      "source": "today.line.me",
+      "source": "LINE TODAY",
       "published_at": "2026-09-04T05:13:58+00:00"
-    },
-    {
-      "title": "盤中速報 - 晶宏(3141)股價拉至漲停，漲停價110.0元，成交3,218張",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4yc0R3WG1hTFNPZXNJLVpjdENGOGVyTUxvYTVqV2YwaFBHX096dWtnQzcxRlZ1djIyMFNOODBnSGpEWThTM1VlV3o3eEhHY3NRNkFYUklMYlpWSWlBTWlsN1JoVGxXdw?oc=5",
-      "source": "tradingview.com",
-      "published_at": "2026-09-03T07:00:00+00:00"
     }
   ]
 }
