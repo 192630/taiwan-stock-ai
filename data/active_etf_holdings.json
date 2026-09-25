@@ -6750,11 +6750,12 @@
     }
   },
   "_meta": {
-    "updated_at": "2026-09-25T23:09:07.620793+08:00",
-    "database_version": 6,
+    "updated_at": "2026-09-25T23:35:59.674195+08:00",
+    "database_version": 7,
     "description": "Taiwan active ETF daily holdings database",
     "history_enabled": true,
     "successful_fetches": 7,
-    "batch2_successful_fetches": 7
+    "batch2_successful_fetches": 7,
+    "batch3_successful_fetches": 6
   }
 }
