@@ -1,15 +1,39 @@
 {
-  "updated_at": "2026-09-24T14:39:52.183806+08:00",
+  "updated_at": "2026-09-25T16:36:17.001338+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1473",
   "name": "台南",
   "count": 12,
   "news": [
     {
+      "title": "中秋連假台南熱門景點恐塞車 交通局籲大眾運輸轉YouBike",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TZUg2Qm4wN3FtX3dmTlZfaUlZM2Z0UWRkc1hhWTI4OVdQZDlmbndhY2p1UWNNdV83YnhsZnRzM1hrVWh4cmJma21HUDIybFF4REtuLVlsWWY?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-25T01:27:06+00:00"
+    },
+    {
+      "title": "6923 中台- 全台「好野縣市」有誰？台南首度擠入家庭所得百萬俱樂部- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Rcm0zb19vUWRISUxXdXNrTEhvS0xkTGFPUDhiX2hXLThkcUxRM29NU1hodXdQSHhpTlhmRFBNRDUxNTI5c2Z2V3piUXo5eTM5dW9iODlpbUs?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T19:56:50+00:00"
+    },
+    {
+      "title": "台南柳營太康休旅車撞腳踏車 93歲老翁OHCA搶救",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WeXhqLV9UVlowTG5YUmthNGpPNFR4ZGhkck5jb0d5cXR1dkdmTTdlRzMwZThteGxaT2VaYktTMHBJMndhd195MDdTVzNlWjhtNXQ1SmNKRDU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T05:34:49+00:00"
+    },
+    {
       "title": "台南鍘美藝術節落幕｜新聞事件整理與重點摘要",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCMTlrUEFYbFR5SGExbWtjRnA1SVdGRnp3UUJUcDdkMWZiWFl3SFAzRnhVdTFOa0xNem5kMGItYk1sS21HZHhtT3hsVXNiZGNVYXpjVFZPczBYSUV0VTVzQmg4VUtSVzVNaW4wdHJENHNYWkZhbzJZTzRPLVJraXM?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-23T23:41:42+00:00"
+    },
+    {
+      "title": "台南台灣府福德祭116年1月登場結合歷史、尾牙及祈福| 政治",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PZHZwa2tKRHVHZTJoSVJfa2lSUlRyT2pRYjgwa25xbVV5b2w0WW05RGVKWEFRdHdWMEZIY1ZBT0RJWUFNZHk0Y2JtOHFvUVNvLUhPaGZ1YVVlVTQ?oc=5",
+      "source": "Newtalk新聞",
+      "published_at": "2026-09-23T09:59:55+00:00"
     },
     {
       "title": "2033 佳大- 佳大設半導體清洗部門，台南廠房啟動改建計畫- 股市爆料同學會",
@@ -30,52 +54,28 @@
       "published_at": "2026-09-22T07:10:18+00:00"
     },
     {
-      "title": "新站、首屆藝術雙年展迎秋旅商機台南遠東香格里拉推雙住房專案- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DYjYwbTNzZVI0TE9QY3lacFdQV2RCd2cyYVowUGd3Y2h6b2ZfU3JLZE9tRzhtVkk4MnJoaVJVUVh1WnMyMWx5WFRLVzRPV0sxT3YyclJYNW8?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-22T01:43:19+00:00"
-    },
-    {
-      "title": "疑毒駕拒檢衝撞警車 台南警連開14槍逮人起獲K毒",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QVUtZTTBhVVRfQWRLSWhqdmNpTktkcFFicWsyT1FlZnN3a01zU1pFU0ZCS2JyVm1ZY2FxWElyRk9EM1pLUzRqdG9TLVdNckNtREtkZXBMRm0?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-21T04:40:58+00:00"
-    },
-    {
-      "title": "混搭風裝修 52坪 2房1廳2衛 台南市 飲食客In Stock Fun Kitchen（11/21） 裝修案例效果圖",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8yR2RWWS1aSW9YTlNsZ3cxX2pyY0x0azZwRHZpV1ZMMGgweTZoNUdxU2lYU0R3Q0xfTmdQSEN5VDZpVjZxTTZsR0FZTG9DbTRkQl9xMw?oc=5",
-      "source": "100室內設計",
-      "published_at": "2026-09-21T04:37:26+00:00"
-    },
-    {
-      "title": "混搭風裝修 52坪 2房1廳2衛 台南市 飲食客In Stock Fun Kitchen（17/21） 裝修案例效果圖",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FMnRlWlFiZjg0Y0xnQUdwNldWRVBMVGxKOHJuNXJyRHFfcGpnVURhNW5FaFBWbDlsV1dreFJuZU1ITnZQNUhiMHhULW1kaVQzSkR5SQ?oc=5",
-      "source": "100室內設計",
-      "published_at": "2026-09-21T04:36:46+00:00"
-    },
-    {
       "title": "內鬼難防！台南連鎖手機行女員工偷拿逾500支iPhone轉賣獲利數百萬元- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kTV85ZlprTFF1YzJZSThJRmxYSFE0T2JzZGEzYkd3b0hkUkliazRHcnBndkRlTUVobU9CNDNrMHRQYklyakN6YWtmcHQ0QkR3dVBVOU5zbHQ?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-21T04:19:21+00:00"
+      "published_at": "2026-09-22T04:06:25+00:00"
     },
     {
-      "title": "「韓國海王神曲」原唱首度來台！3組音樂人登浪人祭11月唱進台南- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVX1U1d0ZqcWRkdjBNdnNCeWdVdHl0SzJyaTkzblA0T0k4aUNXb09MUXlDRTUwb2VodTFCc1ZQNWhkVFIyX2NWM19rX3ZOZzRPbzdLei1Jbmc?oc=5",
+      "title": "影／台南水電工斜槓自詡「槍械職人」 車庫當兵工廠創暗語接改槍生意- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFM0U4RDdrSFJpeEt2RmFRNWpMNUxoakVPZmQzZjNpS3NXQU5hdGlKdV9EdjBEZVpYd3BCZDdqUl9VMzFKdVFnLW1OZTRGSDJyVXloaUtoajM?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-20T14:16:04+00:00"
+      "published_at": "2026-09-22T01:36:56+00:00"
     },
     {
-      "title": "不畏英特爾搶單特斯拉 台積電台南2奈米廠將動土了",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PdHM2alBNeVl4Y2NvNGNnVjBPSzRjZ0xGR3p3Nk5vUVVKM2xETW5TNU1Qa0NNSTlFZXdOQ3NwTmVNeldiczliRlIwVXhiX1diOUNBWFBZUkQ?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-20T09:08:12+00:00"
-    },
-    {
-      "title": "大型機關偶現身奇美博物館！ 台南「藝術進區」10場演出接力開跑- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wbEdJWDVYeGEzSkp1U2psbWswR1puYmFFZlYtOGgyRDBFeDIxUkhDU2Y1NVYxZWl4c2RxYU40cWstaUdZQnAtY3YyNkx6d2xZdVlURHRyUVE?oc=5",
+      "title": "台南水電工藏身車庫改槍警破解中古車修車黑話逮人- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95M2cwRld1cFFOYU82WmR1WllRX28zY2t6QWs4cDNGMEwyRTBDMXVtMExiSERHaDZ2aGlJZkFXUUdjcndtRlhWV2pCRVR3MEJIakdGVGJ1dlk?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-19T11:34:29+00:00"
+      "published_at": "2026-09-22T01:22:12+00:00"
+    },
+    {
+      "title": "混搭風裝修 52坪 2房1廳2衛 台南市 飲食客In Stock Fun Kitchen（3/21） 裝修案例效果圖",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VQURDd0FueTdoNjdsenp3NzZqTlFzRDltSml4WXgtd0JnZFJYTWdOLTZLUjFiT2xSWmpIQXhMVDQwekJBZlg2RkU2ejlBa3lVLXR3bg?oc=5",
+      "source": "100室內設計",
+      "published_at": "2026-09-21T10:34:50+00:00"
     }
   ]
 }

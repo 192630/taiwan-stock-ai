@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-24T14:40:12.099710+08:00",
+  "updated_at": "2026-09-25T16:36:39.595611+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1591",
   "name": "駿吉-KY",
-  "count": 8,
+  "count": 5,
   "news": [
     {
       "title": "1591 駿吉-KY - 我來啦！！！！！ - 股市爆料同學會",
@@ -18,12 +18,6 @@
       "published_at": "2026-09-21T16:47:20+00:00"
     },
     {
-      "title": "1591 駿吉-KY - 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnV215ZGJCT2JRMy1nYU94TmxZMWt3ZWNXMjF2YWJqbVhxN3NOZlNNQWkwa0N6NXM3Z2ZQNV80bzN5ZFZka1J1Vk55dGR3VnEyU2R6S2NNVzA?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-20T06:24:52+00:00"
-    },
-    {
       "title": "討論牆 | 盤中速報 - 駿吉-KY(1591)股價拉至漲停，漲停價39.1元，成交819張",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfVmk0NTI0OTRMUDNBY3NqM3lQYTZIRUZId2JvUUpWb1NuYzgtaHowb3h0aHVUM1U5WW90QkpOS0E1WlFQOXpScVBVUGxxRVYzSXRJdl96eUZuamxCSmlLQ0JxTnM?oc=5",
       "source": "LINE TODAY",
@@ -36,22 +30,10 @@
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
-      "title": "營收速報 - 駿吉-KY(1591)8月營收5,384萬元年增率高達927.89％",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hX3Z1TVdwUXE1TXlRYmxSLTR1d19kQTdvd0NfNlNVSHZvc1QxRXJTR2lVaHFvWTVjaDJfcl9naGF4alRITFBFYWs4Q0VYMWc?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-09-07T07:00:00+00:00"
-    },
-    {
       "title": "8358 金居 - 駿吉-KY（1591 TT） 評等：加碼（買進）｜目標價：8... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zYi1pTDFaM240bGZHQmxIYmx4cnhPMU8tNmpFTmt4WEtRaVZsNVAtb1A3UDlCWlQ0UFVScGxiSmhjbk42X2lDVmlzTlRqSVo5NFBUS1I0bmI?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-07T07:00:00+00:00"
-    },
-    {
-      "title": "駿吉-KY 115年第2季綜合損益表，每股盈餘0.19元",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kWHRQQ0VjdTZpM2pONWZ6aHJlUkFBNlMzZjMyczdrMHhqMHZlQU9mdWRVY1dkU0tpeUNUZldBMmhudEw1OW5fbkYta2o2b2VuRXVHanZWLXA?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-26T07:00:00+00:00"
     }
   ]
 }

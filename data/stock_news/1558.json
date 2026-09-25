@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-24T14:40:06.106838+08:00",
+  "updated_at": "2026-09-25T16:36:32.626981+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1558",
   "name": "伸興",
-  "count": 6,
+  "count": 8,
   "news": [
     {
       "title": "【優分析即時新聞】伸興(1558)8月營收年增18.63%，縫紉機本業回溫、宇隆機器人供應鏈進入收成期",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KWTBkb3o4QTF3Vi15bmYxbUUxUWhCWm1zWEtaTk5taTB5YnI0YVB6LUhNTEM5Q3ZqNzlRNngyLWhVUHZoeTJra0xFWGZCTDQ0bF83d0JB?oc=5",
-      "source": "優分析UAnalyze",
-      "published_at": "2026-09-22T16:00:00+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95UG12Z1hzYnVBdEFINW9kaFJCVjB4R1FVR0prY3BtS3g5M09fT0tKSDJLeUlkVHI4TVp3RmNFUTJtODN3dDZyY0FkazFaOFk?oc=5",
+      "source": "news.cnyes.com",
+      "published_at": "2026-09-23T02:30:06+00:00"
+    },
+    {
+      "title": "1558 伸興 卡住了",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JVVcwbWc1Z3VIbmxtS2x1NkRONENyaVVjZUFqWXpaTThTblBiRU54MHA4ckFTd084bi1MSGpLZUUyaUdFM3lUOEtMWlljTTUtcldINTNxa0M?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T12:14:32+00:00"
     },
     {
       "title": "1558 伸興 111",
@@ -30,16 +36,22 @@
       "published_at": "2026-09-16T16:16:48+00:00"
     },
     {
+      "title": "伸興液冷元件 出貨升溫",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kUHhlMmNFVmhGc1YyZTBwNGtDSV9zOFZqX1lEVlIzOGFaN29NYi1rUXBnazBqODRYSE9wajlKTk52VWVqYTdJbGdsUGhsUkRL0gFWQVVfeXFMUHBaYlFNOXBCcmFBVTVsbXBKY05kbjUwb1ZTQzNzNXVhYl9qRkZid3Jna0JnaG5FWGV3bVpKaFdGS1QtbXNjaDQxYS1yelRsdEE3TVVqc3c?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-14T07:00:00+00:00"
+    },
+    {
       "title": "伸興、廣華8月營收齊揚 攻AI與高值化迎旺季",
       "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE9DcVNfU3Rad1ctbEtrRHBjbjBTck94Zmx1S0JLYUs5Y183SXVNOHZMVWhpcDZSUHpSM3c?oc=5",
-      "source": "ENN台灣電報",
+      "source": "enn.tw",
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
-      "title": "程泰集團取得伸興5.1%股權 楊德華：純屬財務投資",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fUGI4aHN1LS1qcWNyN01EVEFzeHpwSi1wODNldVZjbzVwTF9yTnVqbFBsaFhiV1VjQjRFU041MEE1QWc0YXRYY2lpeFU2ajMydWVFd1BXdndHd9IBX0FVX3lxTE03aTJ1NGtWSUZmeVg2LUVPZnRHX1lxeXhaanFlX0NCZWdROVdJLVZSRHVwUWtHRWFyQWlTQzkyMEhYWTV3a2FXYVhkWFdkSGNzYVgyeTJnT3FodGl6QjdR?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-08-26T07:00:00+00:00"
+      "title": "麥科田 上市招股 每手約1558元：醫療器械股抽唔抽？認購前四必知",
+      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNSEZSUktzR2R6dS1tUUozM3hXdUV2VENVbEZkamtHdHYtMHhjWEUyanp5NEdFaXB3akNBb1NxZ19lX1ZGbHhZQ29uNjdoWVdNWmJJc0RnUG5Sci0tOHZqUUpuZ0RFUlkxN2NTNkVEcHNpQ0JQa1JjWWtGdjhId1gyb05KcVRQMXZ3dWZ4TFQyZDVIV2hBR0lXbE1USEFidWtTdUw5Y3Vtd21DQmhyZVhLYlY0d0RBX25XSVlfek1TV0xPVDk0dkRTQkF1NnlPaGFrdlFJY2dTb2VPb1NUb1NjY09MdkRVbHJzZjUxY09nbkpONUZsUlRUNTRjQ1QwVmVHUi1PcFdFMkdxZFY4dWtJWWpTaFZ3TUF0Wk9jeExnLUxRNW5YM2Q2bktUZWxTa0REazF1ck1lVE1xZHZLM1U5ZWV0ZDNDTXhsakh4Sl9ndjV5azJQa21EVWVKYlcydHdo?oc=5",
+      "source": "香港財經時報HKBT",
+      "published_at": "2026-09-01T07:00:00+00:00"
     }
   ]
 }

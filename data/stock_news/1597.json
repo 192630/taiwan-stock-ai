@@ -1,21 +1,27 @@
 {
-  "updated_at": "2026-09-24T14:40:13.264384+08:00",
+  "updated_at": "2026-09-25T16:36:41.020963+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1597",
   "name": "直得",
   "count": 12,
   "news": [
     {
+      "title": "1597 直得 - 大爛股爛透了 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OWHNzbnJtVTRmN0xkQzdvVXNUTFhYbWVYa2x5MDB3R01tNUpPSzhPQ25WWEstakoxbEd1S3NQVW9mQTB3Q1o1OU5iekdvRTNSVnpTSXpOdnM?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T10:25:01+00:00"
+    },
+    {
+      "title": "1597 直得- 好low - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SQ0JaMmlfRW1GeXJsUi1qVlI3QXl6TUt5R2VBcXFPRGhiNExjMURMeS1QeDFwUUpwaUVMRHJlZDlzay1JMkVmSjRRMW9ma0NqNUsxZ3BvQjE?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T02:29:47+00:00"
+    },
+    {
       "title": "1597 直得 - 如圖🤣 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ZcFR1a3R0aG9Ba2ZXNVdRMGY3TTZRek5DMFlLX1N1R0VlcFVYUzBESWlIT0wzVkZMWVhtaHRwZ0lKTW5KMGpQRTlXdVZZdFVuSDJ4bkxEbnc?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-14T04:57:56+00:00"
-    },
-    {
-      "title": "1597 直得- 直得8月營收估受訂單遞延影響，9月有望轉強- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pX0JrM1d6ei1QdWZDY3RNcHN6bjhSX3BtWDNrM3ByTHR2SW9pRjZINmVwNExUSmVlY0tTTzJGd0EtMXlORlhrc0JIOGpVQjg1Z201RjdDRFc?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
       "title": "【11:02 即時新聞】直得(1597)股價走強漲5.59%至151元，CPO裝置訂單爆量挹注成長＋高檔多空換手下技術面續戰關鍵價位",
@@ -42,9 +48,21 @@
       "published_at": "2026-09-04T07:00:00+00:00"
     },
     {
+      "title": "不只做機器人 直得.所羅門開闢半導體新賽道",
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOQU05ci1lT0hPWERPZFV1U0xENVJLUmo4dlZCSkdjeG5Bc24taHNXdUY1ZnBjenhaYjRuYTc1RV8zRXA3VDl1WlBuQlEwUGFCUzhlaVlzNDZERF9VZVhuZEF2VWw3SW9nODVDc1BRTVFCQ201Q3Z2eHI2NVJSMnQ0aVROYXRiRnJ4UlBYRU9kNHUtRnlFcUNpSWdhV2szbUNadDBEeE93T3MzWldaZ0RCREtLWm45d2xRRXlLckdna2J1S05acFdJaVFwdk5RTGZyckI3RDZIcUk1Yl9iakUwOFdaNUR3Tk14Q216YWM5TGI3VVNvNmJFMU9lTlJYRWJlVUYxazVSOXFoNlo0Q1JWV1dXc3FITG5DU0Y1TVZnMmc4Q2VaWnoyQndTeGNVNC1oOFplcXVXazFBeVR1algwQ1Zn?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-03T07:00:00+00:00"
+    },
+    {
       "title": "假摔!不要被指數迷惑!!大立光、光寶科、上詮、直得",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tcnlyV2ktb1RwX1lNaTBzbVkxcGtHWWtUMF96aVlOcU1OUVFwNkRYMG9ENE1OUUplU3VQTmVOeGZ5dDJpZ3ZsTUcwT0MwbDQ?oc=5",
       "source": "news.cnyes.com",
+      "published_at": "2026-09-02T07:00:00+00:00"
+    },
+    {
+      "title": "CPO強勁需求挹注，直得下半年營收拚逐季增",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQYTZGSWJCMlFzVE9hUFhfSm11dWdSb2tjWkxiMV8tRzhCSHNPX0Z3NnhaY2p3dm40SW02TkxFZG1UeGxZMWhVTU4zOWpYRlg2YjNCeU5KTW5sM2VvWTZTU2pHYkJueWdjUEJYSFVEV3VwX1UzUHVubHR4SWFicUV2Q3RlUndTZUtYNzI3OHdqeklHWjNJRk8zQVZZRExLWU9MNkwza0NqejJqaDExTzl0M0ZZbkNZUHVoeWdZMEdLR1Nma0x5Q2xvTExReFlaU0t5UjZZMnVOV1E4NldKTW9qQjItdUF1MFlRRVFCeGpuaUJKejV2R005LWR6cDE5TFNRWS01eU5ZdlB1MjRSTGI1M0o3MVhidGFEd0sxVzN4dk95ZmVhN3VDcTItZWE?oc=5",
+      "source": "Yahoo股市",
       "published_at": "2026-09-02T07:00:00+00:00"
     },
     {
@@ -58,24 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdEVjMndyV2gzbENPX092VzZzRUhIaENXYUJtaEx2LW1VSEdQQnl1aVdWS2tMM3NKUUJYRjhwOVMwTFU4Yndmem1VdUh0Q244UWgxdklnLW9PWkM4bXBTRWd5MWRoR256TTNpb1d0a2tfTDdCWjc5bkc2dVlyaWttYkxIWG5abHZhSXpwYUxR?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-01T07:00:00+00:00"
-    },
-    {
-      "title": "直得(1597)盤中大漲逼近前高，量能能否把反彈變趨勢？-思齊波段操盤手",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oZ2FnNjE5akdjV2Zadkh2dnA3Q2hYWUR5TDJjdGRGRUFGY2NlZ0xlTmdvRGlNbi1VcVoyaEtINEVTNHp1cDdFU3NPOHVZdU5DSmlnU1JtVmh3Q1cwTjlMWW1EalhUdzd0WG9ndUxlT3oxNTk4T09sSTBWbmt3UWs?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-08-29T07:00:00+00:00"
-    },
-    {
-      "title": "【11:06 即時新聞】直得(1597)股價漲逾9%至147.5元，AI矽光子與HBM裝置題材推升買盤、短線技術壓力區上緣遭挑戰",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNHBvVlItRTdGMFdZTUIxRHRZQnlaRXB4b1Jzb1I4Nnh0c3BRSHhfVEVIMUY5Q0l6MnI4WXZqUzFyV3ZpUDNIb0p5eXRWT2JLbmlIYTBadGRJelNzQnRVX21PYU5KNjB0Y1ZRMEZOYW94MUFQMk5vLWU3UEpjbmtkRDNWMWlSQ2RsSU5qSmR3?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-08-27T07:00:00+00:00"
-    },
-    {
-      "title": "【即時新聞】直得今日宣布切入CPO設備供應鏈，激勵股價急拉漲停至147.5元！",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsZ1pCa3lKWGU2NGFZYmFZLS1ta0xoOS1rbFFvY09KSFJhOFRfZkpmRkExSnJRdS1VNmcxNGh2U1lybEtNSlVDWk1felFITzNnU3EwcVdVWnd4SFFjd3dHeXJKLVZQU3c?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-27T07:00:00+00:00"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-24T14:39:59.676231+08:00",
+  "updated_at": "2026-09-25T16:36:25.503610+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1525",
   "name": "江申",
-  "count": 4,
+  "count": 5,
   "news": [
     {
       "title": "江申(1525) 個股概覽 | 個股 - 股市",
@@ -12,10 +12,10 @@
       "published_at": "2026-09-21T05:53:42+00:00"
     },
     {
-      "title": "江申Lean 3產線就緒，預計Q4開始銷日",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNVmlZcy1DTkE2SGZfam1ZUkVnSllQTWZmVUM0MFlSWm9HUnNFUEpjSzFJRFZnZ3RkemU5ZzlHN21rdnI5dkpNaDVCX0owZHBKVkZQLXhhMWt0STRtSGNOdUtSN1hzRm16X2hKMVI3SWtRbUFwRG80dEdiWFJaQl9NWDBUV3FtOExVN2JxVi1JTGV5cGZIMXNXcEVTejFPS1BEZVdYOWpfUnNfbUM3WjBOV1BvbGg2OVUxNkFabC1Mc19CVzRFc2tmeTg2b0VTN3BRUTZBb0ZBa3VlNV8tWmRtN0RscVVXMjhLOXFvZUx6NFI3eWM0c3Jz?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-08T07:00:00+00:00"
+      "title": "氣炸鍋油煙飆1525倍！譚敦慈曝「沒做2動作」：產生更多有毒物質",
+      "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNQzRMSU13RDhOM29FUS1KNXF3a2xzN0t5TFFGOGNtV2l6UkVRc1Y4TlRYNGh2QTY0SmVScmt5WHJiTmlEN3RsUEx5bXhuUnVPV09SdUtiak9zaUNZN2pOTm96MHc0U0MwdGlGM2otUTFuYldoVjRiSHcyMHcySUtfeVZmZE84VTc0dGIySUtuNmRXdGZreWVoelpBUGNzbERzSEFXbGlHLU9IQUF0cjBrQTdWMks2eFAzZ3JfcVBpTzBWWVJyWFJjcTNvT0xEQlVsc2xlYUR4bVRnMHgxM3VWTHJzTHJJdnJpdmthR0duZEJXMGpFWllFX0MxUW1yRUhaMlN5VWJDM3Z6eHlDY2JSU3Y5ZWxhN0FGRG44QlVLVFdIcG84YjVIMl9Edmx0MWtTd0lNWHplVWM0RklOUm9VeUtOaUFpX3J2S04zREd4V0ZQOFcxal83WkdPYnVBXy1FWUszMVdzOUdSVmVwc3c3OWtn?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-13T07:00:00+00:00"
     },
     {
       "title": "江申營運漸入佳境，三動能挹注下一波成長",
@@ -26,6 +26,12 @@
     {
       "title": "江申拓骨架、板架新藍海，斥資近億元添購設備",
       "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQeEJfYmZtUnJwamNTeW5rcXpIcXhrRFBIU2hMQmNDRWNRSEcxTVZRMjNGbWlLcmtOcVlqV1lvQ2h4MnRrRnhyM0F4amt0bE9MbkFLSTl2WWRheTlMVl9DZjIySVpBT18wMWRNUjM4SHBydzR2ajhSb1RfSUtsenV0NEcwRm1iOHZPd0liY2wyelU2YlVKbFZZbGNaZnpqVGlSRE1aTDYyd3FjU2YtR0lycjNHQ1VHYllWUWZVbFNhUHk5M2JYanRuZUNXamxtVFpvdnV3cVNiTEpKdy1oMUxPMWgyOUIwd2xWQXBvbUYzWUtpdTFpSVRQTkJNdXlUakktejNyS2huTlpSTEIyNUNYeXVMd1hKVlVmb0RxQlNJTUI1RVlfTEp5R1VKT0NocDE3UUc2bWgtYTJwTDVlbjRKUzhR?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-07T07:00:00+00:00"
+    },
+    {
+      "title": "江申Lean 3產線就緒，預計Q4開始銷日",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNVmlZcy1DTkE2SGZfam1ZUkVnSllQTWZmVUM0MFlSWm9HUnNFUEpjSzFJRFZnZ3RkemU5ZzlHN21rdnI5dkpNaDVCX0owZHBKVkZQLXhhMWt0STRtSGNOdUtSN1hzRm16X2hKMVI3SWtRbUFwRG80dEdiWFJaQl9NWDBUV3FtOExVN2JxVi1JTGV5cGZIMXNXcEVTejFPS1BEZVdYOWpfUnNfbUM3WjBOV1BvbGg2OVUxNkFabC1Mc19CVzRFc2tmeTg2b0VTN3BRUTZBb0ZBa3VlNV8tWmRtN0RscVVXMjhLOXFvZUx6NFI3eWM0c3Jz?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-07T07:00:00+00:00"
     }

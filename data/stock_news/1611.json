@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-24T15:34:37.460821+08:00",
+  "updated_at": "2026-09-25T16:36:45.160514+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1611",
   "name": "中電",
-  "count": 7,
+  "count": 8,
   "news": [
     {
       "title": "中電控股(00002.HK)10月12日董事會考慮宣佈派發2026年第3期中期股息",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzcjkzWmNkNUNOMVoyeGNBYkZLdVFyLXgwVGN1cG8zVDllYlYzMl81UzBpWVhBeXdGZ0dGNWRHcUhFODBGTEM1MXV4WWNhNl9ud1BCUUxwaXoxN3prcmNvNE1UQVhQUUVIZ0E?oc=5",
       "source": "TradingView",
       "published_at": "2026-09-23T04:59:24+00:00"
+    },
+    {
+      "title": "0002 中電控股技術分析｜移動平均線與技術指標解讀",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNMjV3Y1RJeDRjSzhXZUJjejdtc0dWdm5SbHdmSGNxOHZURmZqM1Z3c1NBUjNsdHVFSXZjUUZoZmZEV2FYdWFJREFPMA?oc=5",
+      "source": "SL886 財經網",
+      "published_at": "2026-09-21T07:00:00+00:00"
+    },
+    {
+      "title": "《大行》滙研：港府維持支持公用事業政策方向 重申中電(00002.HK)「買入」評級",
+      "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNcExWWFB1bEJKRVdFV09xejhfbDJ6QVpTYmg4azB5NUtPdXJVUTA4bWVaLUNySnJiRV91Z1VTR3BDX0dTUG9EQzRERTl3S05xd1BDOGFMMDk4S1lzemJUaHI5a0syRkFVTl96T1lZa2VSTW9HMjFHU3VOWG03aUdidEdhZ19STXFwQ1RWd2hERGdwUDdUd2huTTlqeFZ4VXlfcFFnSkpMQ0NLS1BwTlE1UUVfT3BhMmh2dVFJRHdaOFh1bklEeVhEaFpqSFpmaVR2S1hMT0RFSHFUX2Y5Z0E2LUZpNjBNb0MyRVNyU2tGN3NucFI2ZV9lemp5RTBhbXhsMnUtTUV1OS1wN1B0eE4tdkZVRGRVSE1QbVpzODFxc2cxUFgyMVFNUnNGUFcwMWhhVFZTb2RnT3Jza29Td3NjVm5XXzAzNHlMS1NkZ2x3TGE3WThadUVzLVFOUGcycGd2Q1l5ZEdndGpmTi14bXcwWE1n?oc=5",
+      "source": "Yahoo 財經",
+      "published_at": "2026-09-17T07:46:40+00:00"
     },
     {
       "title": "施政報告尋寶 「四大天王」看中銀 中電 國泰 港交所？|香港經濟日報",
@@ -24,10 +36,10 @@
       "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
-      "title": "1611 中電- 【09/15 產業即時新聞】氫燃料電池強彈近5% 綠能題材點火、長園科亮燈漲停- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4cktDUjhrZDc0RTF6WldNa2JaNk5zTU0zNC1ySkZUckpuTFdXRnBiODFwWTNHYmxKYzQtOXBxZFdoTk5wM2FkdnNkUWFqSVdqaWRYbXhlcUs?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-15T01:30:42+00:00"
+      "title": "提交政府的地震數據疑造假！日本中電恐撤回濱岡核電廠恢復運轉申請",
+      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxObklGdUNiZGVZb1NlV1JnT2RnOVhKOHBiQWlVMTFHNzdoNDFHZHFPeVlfUFIyUFBmOHlYa0lSMWdVMkNnckZxcHEzeTV1Qml2aXlzUXV4UjlSYWlIcTVEcldXUEQ0dEpsNjVpMEI0d3BQTWVRdEg2ZmZzVDlaXzZ2XzhZa0cxRWV3Y3ZZQ1dBQW01ZXU2bnlCVGp6V3REMGh2WmVmam1DSWlRT1R1WGR4b2o0akp3clJNODNxVnVRZnZkSDI3c1RqblBRZlJ0enk5ZkNHcUxsdmhnS3dLNUo0VUZyZm43dDhRYnhFQ3VJZG1uanhscXAxUGRSTnY1UG1faUNSN21nZDZJVjhsMFI1aEZBSTc3WWZGNEZEVnZyWWVjY0Z6a24tM0ZEWEI3RURJd211VU9hbUxVZDZIUUpjdTB6dEZOYllIdzNoQ3BQTWRfRW1YTThPdlRhSmtJZzBYS1N2Z1VTQTBJWTVzaURWMTF3YlI0cHhoTzlocG03dkVzcWVtQWx2TTZVR2pxbjE1LW05MkN2N19ucFlsdEpYNGRXQjNrNzhWVkF2R1lhdDhWY0puRmZrUmtrVGk?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
       "title": "蔣東強：APEC助促跨境投資中電續透過審慎投資支持區內能源轉型(17:19) - 20260911 - 即時財經新聞",
@@ -38,14 +50,8 @@
     {
       "title": "【2026/08月營收公告】中電(1611) 八月營收年增0.09%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVFp1UlJQUnFmNGhhNkJiYzN1ZjQyaVR2ZWdJM2I5a01qanZLQTNRMVR2WjN1R1ppMWtXVXhyeU5neHM0dlk1Z2RqTFpoT2hJekdfR2I4QVVFLTEybWlRRV9DbHVaX1p0NXYwMmh2QVh1Z1NGYkQ2MWRHa3lSbG9oNU5BMTJUVHZUN3c?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "六旬男墮假冒中電職員投資騙案 損失逾280萬",
-      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNVlhpZWI5YkJEUXdNdGpjOVN4WkJfTEtXc0xfbWJYUXh5YVpCUGxLRGF6WFNPYmRlOHNzbnF1aE1YamNhRVZEWWJ2cHdSN1FudXB6aTVBYndEQVdoVUtPY2l4Z3R4RWhLaXBMZ0YtcUdTQU9LajFoU0dQd0hzTVBTV2JSNTZJVVNMWmJzNXZ5WVFTWWk1UWd1N1ZzRWJ3SzlsYzVEOG5Ua3FwNnpHVGNwWklTQkpydjFCNFEyb00xTGE4X0tWUDNxbXdIdWljWEJnYWJZQjJYaEpPUVlYSldqdkM5eW1sTjNNMHktWUdRSVdQVThYNzhNTkhuMTVBbUlnRTRPZ2FIS2ZmTFVGb0xEZ1Iwc3lReHFyeFlLNGJBODQzWTVIZWxqZVU2QmlvdXBKb3NRS01DTF9TNkhnOEhTRk1EQlh2QQ?oc=5",
-      "source": "信報網站",
-      "published_at": "2026-08-26T07:00:00+00:00"
     }
   ]
 }

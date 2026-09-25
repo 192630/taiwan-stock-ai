@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-24T14:39:53.841231+08:00",
+  "updated_at": "2026-09-25T16:36:18.729811+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1477",
   "name": "聚陽",
-  "count": 12,
+  "count": 10,
   "news": [
+    {
+      "title": "〈財經週報-台股熱點〉AI跌倒紡織崛起 聚陽、儒鴻強勢表態",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yRnBsWTVYRUxzMzZUNXBOU3RtbTV1emEwYUF2ZEprZkNWdlVZNXdDTkhKbkhqbTRiSnRYWndXbjZkanZrUFdYbHhtWk1nVlNBUUhacm83V1Q?oc=5",
+      "source": "stock.ltn.com.tw",
+      "published_at": "2026-09-23T07:46:43+00:00"
+    },
     {
       "title": "討論牆 | 國泰人壽買進聚陽股票 持股比例逾5%",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KQXBDUmJjRk9KR0JOX1hQUjZIZUdRWnFPc2xHOF9XRnFtMHljUE5VMlNsNk0yXzRvSGI0dWF5U1VqekNnckpPS3NjclM1Z3hrYVNUbkd2S1E4ZFZFTml4WUJ3S1E?oc=5",
@@ -19,9 +25,9 @@
     },
     {
       "title": "生醫與無人機大升級！台康生、聚陽、采鈺及愛國者綠能通過經部A+計畫",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XRDBTRnhiTVhwZUIteDlKT2ZMajNrRHBodHFYa0IzTU9tRmxlbVlET2ZpbVE2dVNqalBtRnJmQmNyNEdDSW1JQjl1dFl5UEE?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-09-18T06:59:36+00:00"
+      "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxPOEMyU0s2TE1jM3JJWEZBekJGWlRLQUs1OURNNzlPUFdtNmRrR1Y1ay1NTjF0dDJjY3NUSGU2dDJSYkg5blJQTHUxYVg3al9IV2JnTFlYVFgyaUFoMTEtQnRuWEx3emdTSHhmbHJLMkZIOTlLcHhfMjBrLTRlczZ1Z1ZVamM1cUxyeTJxb3JTd1ZvaVV3T2hBaGllVlJReGFkZUZyMmdGcUpqQWhxVnk4NWpjVWo1THV6WnU2OUs1NndNRktQVjZWNGVneWFQeHJ3UXV0bTZiUmFYVGtOampFTW1mYmx4ejBOdTl5MUllNTFrd2dlVmUzd0VsUTBUNGtxOGN3eXdlRFpvRXNGZWQwNko1aG5CLTlYM3Z1eDBfLXhIamItQnpmMHVDUTJPbnpndFA2b3N0Z2ZHZ2tLMVdjTGN1YjdmY082TldnZ2JLYjlCU3g2SWk4emZCTFBHWmJyeklXcU15QTdKZEl4M2NOWi0tVjdPeHA2NkZsTllveGh1Q2hUTUdSX0ZuNWdqTmg4QVZ1SUlNM1YzVDY1UXFMaXRKckZyRjJiLTFiQ2tFY2Q4QQ?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-18T07:53:17+00:00"
     },
     {
       "title": "【09/16 申報轉讓】聚陽(1477)董事黃渝晴於16日申報轉讓聚陽股票100張",
@@ -34,12 +40,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOT2pRSXhXMlZTeHpDRGIyM00tVTN0UmlnY3E1c0xHWEJVMkVxZFlUdnBrUzZHMzlkUS1fVkZUOWRNLVFicXctb0RaX2RyM0RnNmFGUkZMbmJBZ9IBX0FVX3lxTE41X3NicFR6MHJNbnZ6LVgwODBNSHJjZVNTYWpad05HeEV6dFotRFZLdFJUWEtMU19XN0hrQ2FkNTkwc2IwNzhPRnZ0b3A0cURyOWg5OXNLS2gyS1EyLVVF?oc=5",
       "source": "經濟日報",
       "published_at": "2026-09-14T07:00:00+00:00"
-    },
-    {
-      "title": "〈財經週報-台股熱點〉AI跌倒紡織崛起 聚陽、儒鴻強勢表態",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yRnBsWTVYRUxzMzZUNXBOU3RtbTV1emEwYUF2ZEprZkNWdlVZNXdDTkhKbkhqbTRiSnRYWndXbjZkanZrUFdYbHhtWk1nVlNBUUhacm83V1Q?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-11T06:44:36+00:00"
     },
     {
       "title": "國泰人壽買進聚陽股票 持股比例逾5%",
@@ -60,22 +60,10 @@
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
-      "title": "品牌客戶下單策略轉變聚陽、振大環球、冠星搶單有優勢- 日報",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KVE0wTGJNcFM4UnVoeWhmWWM3NzVwRFYzOGotYVNMZmExMWtaR2FRRXNuN21icXdCOHdNRWxkM2kxSEFRT1Z0eUdfdUQtVVZmRlg3ZFE2UUdraF9ObWY4?oc=5",
-      "source": "工商時報",
-      "published_at": "2026-09-04T07:00:00+00:00"
-    },
-    {
-      "title": "美股法說 LULU｜Lululemon 財報盈餘大贏預期，盤後卻崩跌 18%，儒鴻、聚陽等台灣供應鏈影響(LULU US)",
-      "url": "https://news.google.com/rss/articles/CBMigwRBVV95cUxPdUpldFJfbjd3Rk9Va2psNGVCdjM3LVV0bDB2OE1nX2pzVVlTaEJFZTFCQW04c3VQbGZJWnZ1eUFsd0tVTkJ1Q3RrMlQzYl9kdk8ycGxBQ0VBaUVJMVBHaGU2RXVCcnFJR2J1MXh1SnhfaTVwMlcwM09JZlFxOVJRbUhuQ3NrM0Q4Qm5GQTFDTWRPV3JpOTZtX1RLLUM4MmV5MjBXTjVvTEZuTi13Q3VkSTBXSmFxZnNkcm9TQXFfZmV5VUVDSHVwZmZsUm1YSlRDbG9yZ1hMaFZmTDFwWjVNcjBGUnEzZ0JESVR2Q3VEbUo3MEs4MElnbWphNFZZY1dSNlhyR09qaXVaZXN3VFNQdHNxTlRaTXJMTTBfSVZRdmFheklCbXVqcTdQTldaWTV3VG1CNGt3VkJScVlFMzlfQjRTbklLUS1mNWRqX19UUzhPSjJsREl1bk9Pc3NyRjdhV045X0EzRzZLV3ZjbVZKczgzaXZfeWNnSnJiazZ4UEFxV1R6Y19mdDZXQlBLeVRObXNHaHR5cmhnMUNXeDJPUjJ2cU5YQjdscDFDV2gyNkpmYzFkZkw4M29zSHd1RHdnWVM5eFJVdng3V1B1QWtoYWFIdzVqeXl3V0E4N2tkcG5xR3N2cl9HeW5QcDM0TXhPYnJjWWY5WHdOVzlES005WlBfcw?oc=5",
-      "source": "sinotrade.com.tw",
-      "published_at": "2026-09-04T03:08:13+00:00"
-    },
-    {
-      "title": "聚陽訂單旺能見度看到明年- 日報",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fcWk5ZmZlc0V2RS1KNktBMTd6VTN2ZllGRUNySkpFbk9pdl9zaEx2NjNkSFh5N2g2SFpUUlVLNkxoQlM2MmE2dktTYUd5QVBpWnZneU5sNms3ZU00RkpJ?oc=5",
-      "source": "工商時報",
-      "published_at": "2026-09-03T07:00:00+00:00"
+      "title": "聚陽8月營收寫近一年高，Q3拚雙位數年增",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxORzlRejZCS1VsZVUzV21ZcEpqUUswMUxXc3l4WnVZSklFZ05CX0pqMFBPOE1VVDJGeV90WEVYeGpIUlkyek04emVueVhnSVd3T1hJbElOUjJBVFAyZDg2RlBoQlBEUkR4aTZEbjZRUjE1ZHo1N3Z4V09rVVI1czN0THZuNDNsd092cno0bFI2QzE2cE9mbnlGdGotWHU2aC1zNE4wa3VENUg4LUxlQjkyT1doRUtZUWE3czhMNzNTVFJwbGJiZi0tcDBvRWRmaUhpVGNmVE9TVGdVR3dKaDBLNXRVRHdQTjFpNWM1Rm1TNTkxTUctTEprQVIzTGFxdkl1cGlJODNDbHJGSkdlZ3YzNXlRNVpZQQ?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-02T07:00:00+00:00"
     }
   ]
 }

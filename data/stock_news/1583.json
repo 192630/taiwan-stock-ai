@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-24T14:40:09.998550+08:00",
+  "updated_at": "2026-09-25T16:36:37.024899+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1583",
   "name": "程泰",
-  "count": 4,
+  "count": 3,
   "news": [
     {
       "title": "《集中市場券商賣超比前30名 3-3》程泰(-19.24)",
@@ -22,12 +22,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xazNfODFzVnBuOXZCYmVkNGE3UmZNQV9BNXp0d2MtRkZVWHd2akhEODl6QnZHLTZXSmtKOXZTNDJMeHdITlJRRWJJVzZMQVZNeVRybjhFX0Y?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-10T07:00:00+00:00"
-    },
-    {
-      "title": "程泰集團取得伸興5.1%股權 楊德華：純屬財務投資",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fUGI4aHN1LS1qcWNyN01EVEFzeHpwSi1wODNldVZjbzVwTF9yTnVqbFBsaFhiV1VjQjRFU041MEE1QWc0YXRYY2lpeFU2ajMydWVFd1BXdndHd9IBX0FVX3lxTE03aTJ1NGtWSUZmeVg2LUVPZnRHX1lxeXhaanFlX0NCZWdROVdJLVZSRHVwUWtHRWFyQWlTQzkyMEhYWTV3a2FXYVhkWFdkSGNzYVgyeTJnT3FodGl6QjdR?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-08-26T07:00:00+00:00"
     }
   ]
 }

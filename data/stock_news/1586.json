@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-24T14:40:10.806140+08:00",
+  "updated_at": "2026-09-25T16:36:38.013896+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1586",
   "name": "和勤",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "再拋利多！藥華藥Ropeg續得美國NCCN推薦 目標價獲喊1586元",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPaG9UVXp3dUVacTRQTV8tOUJlbjJtQnJuelRPOUJ3dlJzOWlYcE5uODNjLS1TOG9zOXAxSmxXQk1pem5wT0ROb3I4d204M2xReHBlLTBoZWNwREFxX0Y0UDItdXNWQzZRTm0wSTBrSXZaU19BOWZfN0JMWFEyT2NmYXlvSV9jNVI0MnBSVUpYZGYwUUs5WWhyaDN3clRjc3RGbExKZzExcUtOUWV2MW1mbUY5Z010RGNDRWdnaVh5WmZRcUF1QTZONHlUOXdzb29GNDFfZkpaaEhjZzlBMElGYnEzRTNBbnV1M3lHV0ZvVGdIclBfN0p3eHhCZ2lndGZmc2VRUmo5OXlyYTZXa185Q0h4QmZJdE4yMUJFR3pta09pVWFKS2xMNENZdmQ2QzdEQ3kzelhnQ3pDUjhSRFNTZ1N2OWdVMEVYWnd1X0wzLW9URVE?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-24T09:55:00+00:00"
+    }
+  ]
 }
