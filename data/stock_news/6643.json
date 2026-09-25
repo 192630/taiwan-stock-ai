@@ -1,15 +1,63 @@
 {
-  "updated_at": "2026-09-24T06:33:15.589476+08:00",
+  "updated_at": "2026-09-25T08:40:56.555932+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6643",
   "name": "M31",
   "count": 12,
   "news": [
     {
-      "title": "6643 M31 - 發財祕笈- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uM09IUFF4M1pVQTQzSFV6cVR3bVZmZHE5bml2LXNxRzhCeFJSTFAybVJ0YkNRUVFhUnBMZDM0MFFCaUsxclZnNTdzbzNqaVdITTE5RnJQUXc?oc=5",
+      "title": "6643 M31 - 誰當沖這麼多張 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3emV3RElWQWprYU5IQnVEcGxNSmdRZEc4WjJkNW9rVEVzY2kwU1VaRmNxUHpEcDJxWlZ0YkkyLWgyQzIxaDNTem1nUEExejl4U3k0amlzVVM?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-22T04:16:32+00:00"
+      "published_at": "2026-09-24T10:04:54+00:00"
+    },
+    {
+      "title": "M31先進製程推進，2奈米Q4貢獻權利金",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbFRqZGlyT2EyM0RKRkV1cjcyTHJ5R2hqQV9UT0xqbUUteTRQZXl2dXhGdkVsRUl3azhfVGNZeVJ0UG9ISlBOOWJqd1VkVGtQSHBPNjAzRkpKSGw2V3g2Q2k4LXNESW9BN0JRVmJLRVhzdGZOOHhjdjA3aDAyaGhwMFE2MUw1MURZdEJtN2hQYm1QWmlaMWE3cU9YU3BaZW1MU1hGM1Z5QWtldEUxbWdCeUc4TmxhOGdyX192MWpBVUZYSF90ZnUtQXp1ckE5WGJNS2xRM0dzZ0VrWnZuOVVNd0dVbGt3V0ZJb2ZtTHp1WmxBY2QyTVR5bTBITzVjdjFB?oc=5",
+      "source": "tw.stock.yahoo.com",
+      "published_at": "2026-09-24T06:00:44+00:00"
+    },
+    {
+      "title": "M31攜Ambiq推超低功耗基礎IP；採台積電N12e製程",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOSmJIQmk0MTRoQVZBMmFwNUlFX2tBalZYZGxBcTB3WW02YnJ2M1FSMnlNSmNrcy1OS093a292Y1k3SzhaSmkzbzdscWtxcldaUFhDTml1dXRuQzdZd2hZQmhtQW5qSzZia192dUYyZkJYeHpNRVVmb3dVcGxPTWR5SDZ3R1FjTjRQMjBGRjdCX2psaFJNeXBOcDFOckxYYzBZdENzekR4YVBMWkZhd3QweUU4Tk9ma193RlA1U2J0UXRabE9aMl9YampVZk1wUHM0S0xWLWNDQ2VCMkZUckdTeXVTdEtDZHF4YjNacXdxUi02ZnFOYVktTXpDTzRYVHE2c0x5dFAxN2ZJTEs2YW1IMndESVZ6aUk?oc=5",
+      "source": "tw.stock.yahoo.com",
+      "published_at": "2026-09-24T05:35:22+00:00"
+    },
+    {
+      "title": "討論牆 | 焦點股：M31股價帶量突破半年線，聚焦台積電2奈米平台與高速傳輸布局",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaM0RNeV9FeTUxMVpPdndyYkpfcGRKWFV0amNRUWE5WkU5VmZVaFI3UlEyVWFGdWtDdGxlU0xIdkdRSnVRVHFpY2VYbkZ1N3RwN0tmVklwS3FZQnA3ODhlWTlMTDQ?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-24T05:27:04+00:00"
+    },
+    {
+      "title": "焦點股：M31(6643)股價帶量突破半年線，聚焦台積電2奈米平台與高速傳輸布局",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUzY0WXBKUDhyd1VRV1hRRHlQMHhaUU5mYXQ4ZFJySUtPZy12aXg3YlFERlV1SG1NM1FvazRremtkT1l6UXdjZlFHUzRjYnJUVWM2WmgwY091RjBCX1NJR3g2dFUzd0FQYnU1b1NMYXhJX3plTXU4Wk9DVGxYOVZoZFlIaUVQS0lp?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-24T03:09:00+00:00"
+    },
+    {
+      "title": "M31攜手Ambiq推台積電N12e超低功耗IP 搶AI邊緣商機",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwUjJaN0ZJbXNueWJrYVFmQ0t2Uzk4QjJwNFg4NFBPVVZnV1NKbDJYdXZKaEk5Z0E0YjZzU1lYdk11c0VuYzY4M3FqcjkxYm8?oc=5",
+      "source": "news.cnyes.com",
+      "published_at": "2026-09-24T02:49:52+00:00"
+    },
+    {
+      "title": "M31攜手Ambiq攻Edge AI 基於台積電N12e製程拚漏電降50%",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12ckVLQ1I5RW9IcTJwbjNlQldNX0l6dUZBRjVVQ1l2QS1iQ1k3ZEw1OE5fWkZRVXpYRmpNZm1CS2tPMU5Ib1hjRXBDbDg5ckx1ejFWejhnUEVuNl8xWGFRWHQwM0ZMb3k50gFoQVVfeXFMTXZyRUtDUjlFb0hxMnBuM2VCV01fSXp1RkFGNVVDWXZBLWJDWTdkTDU4Tl9aRlFVelhGak1mbUJLa08xTkhvWGNFcENsODlyTHV6MVZ6OGdQRW42XzFYYVFYdDAzRkxveTk?oc=5",
+      "source": "鏡週刊Mirror Media",
+      "published_at": "2026-09-24T02:47:00+00:00"
+    },
+    {
+      "title": "6643 M31 - 2次都被敲開誰倒那麼多貨...也許是最上面那4個人幹的機率大 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zNlRvRGVKZm5IMzNROU1mRzJ3VDhoR0lhLURzdmVHVzVvWEh2clV2R2xjdWg4WFo3UWdBU1NyTmJrR0RhU2owa0pQR2J0TDZDaUlxck9yTXA?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T02:34:28+00:00"
+    },
+    {
+      "title": "【09:32 即時新聞】M31(6643) 股價走強，高速傳輸IP與AI題材成盤中焦點",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSGQ5T05rRUVtVklCczZrZDdvM1U4MEs2cHRYR3pWMWptZGFVUTl0UlJmSHI3Z2k3NFY4Yzh1dk5peEttNzBvcVJlUlFiSGtKMFNBMGkyTUd6SjFOeXRkTFpyREhXcEp3U1FlVUhOTy1XY0hsM0ltTmk4RmhiYjJ0bWNreUZfUW1Sck1qcGFR?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-24T01:33:06+00:00"
     },
     {
       "title": "【10:57 即時新聞】M31(6643)股價走強，高速傳輸IP題材受關注",
@@ -24,58 +72,10 @@
       "published_at": "2026-09-22T02:41:17+00:00"
     },
     {
-      "title": "6643 M31 - 新產品新商機- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1OZFZwSVNXOFA5WUx4N2JqSnNYUENsamV4YldZeThyVVRlS2tjQ0h0WmJsZV96REMxamlLeTRsYVk4QVlENmZhNzRiNThLLXMwVkZCdzVZWV8?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-22T00:21:04+00:00"
-    },
-    {
       "title": "【12:52 即時新聞】M31(6643)盤中走強攻高，AI高速傳輸IP題材受關注",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYmlIZzRIeUtVTEdhMGk5OWt2cE4yelBycEZjRHkxdENKT3NSZktpNXkwdmNqRFFMel9sVld1clU0Qmo4RnhucWlENnU5T0JMY2t3VjVZcFpUZGhUWGNLODBxeWNJMy1od0Q1Yi1fbXduT1Qta2xLWEhOTVBvSnJkX000QjFLWDBZN0djM1p3?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-21T04:53:00+00:00"
-    },
-    {
-      "title": "6643 M31 - 錢卓望遠鏡發現神祕X 射線天體，或能解答天體物理學兩大難題- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jYVhfNXZNa1c2R3JidERQeEczZ3hKa0pKSzIyS1NBaUNuS0FKbVNPUHgxNG50QklyVlBmMkJhZUdnb21vWWNwengySXFXRDhkbnAtQXpCLUk?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-19T14:15:30+00:00"
-    },
-    {
-      "title": "如何選股賺逾倍?個股價差如何做? #聯電 #世界 #智原#創意 #晶心科#M31 #聯鈞#華星光#順達#光寶科#力成#頎邦／理周TV-20260917-林鍾翔飆股急先鋒",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZWmcyQUJ2WEh6SUR3OFJNekF6VGMwTnpsNHEtMDNfbGpuUGJIaVdVZ1Qtb0pvS3pYQWp2RC1xYU9iR3hnNW1BaGFiWVdrVjlsd2ZXNGd1ejdOYngt?oc=5",
-      "source": "YouTube",
-      "published_at": "2026-09-17T06:16:54+00:00"
-    },
-    {
-      "title": "M31攜Rambus強化MIPI方案 單案合約金額可望提升",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNaVI4TURaTjBfTy1NT3liTTdQeWRqNjA0OGZxWlAxbkNxVTB4TGZqQzh6amJIb3JlYnBqUjZRWWswTzZlWktCSmQ5ekI4WWdhR1M5eUJmdUZhWG52d3BZM2NpTEk0RDBfMC0xUmt3c1lfeFpWMU9KOHFncGd2R3ZlN3lsTDhKSXJNdVFCZmZqY2JaVVI1dnJ6T1VUNlFjRWhDVEpmaFJUMlJYUWxxcG1jREJ5Z3F6TDluWVVjQXVBb29weEZkQTRmeGxVek9oVVhKak45cjA0ZHRtRV8yRGVGbUdxR1FIS2RUdktQSmlST3ZscHlMeXBGbkJpUkJHT3hGX2NwRGNGa0ZtN2hjWUxhSFF3Nm0xSlptaUxIY015cF9vdw?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-17T05:17:35+00:00"
-    },
-    {
-      "title": "M31擴大與Rambus技術合作 強化MIPI一站式解決方案",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XTnVRd1JaSlYwR0Q4SGxYMldYTmZfZFFXc0s4bzBoMTFwSVNwUTNOU0U1bExXOXhwck1veUotSEhPdnl5QVFCeGFzZm16eUE?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-09-17T04:59:09+00:00"
-    },
-    {
-      "title": "6643 M31 - M31攜Rambus強化MIPI方案單案合約金額可望提升- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE94YjNxcEtRT1FpUmc0U2tTMUY3aWZFaUtuZW41LVVFaHZhdm1PM1ZpdWV0MWZiMjM4cEpmbU0wNlRVWlkzQ2IyZmljWGZRU3NQOHAxbWx0ZFA?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-17T04:44:19+00:00"
-    },
-    {
-      "title": "M31擴大與Rambus合作 提升MIPI介面競爭力",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IZ3lmUzkzbFExRmJuSEhXVHFCZVN3VE82N1VQMndQbXpNckV0OF9NVFRNZVpfVF92S0pnRW9yZTY5YkM2S2o2QWhKTWhFUERJdEE?oc=5",
-      "source": "鏡報",
-      "published_at": "2026-09-17T03:32:00+00:00"
-    },
-    {
-      "title": "6643 M31 - M31擴大合作提升MIPI 介面領域戰力- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kMDlYR1otY19fdVlSd0NJdktwNWpuODBmdWRtY2pFVGtBQUxEWGVqZ283Wi1WdHE4dDE1MWw0aEdVajY4U0F6NXBvaEtjb1FRT2FOT3ZrN0k?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-17T02:40:57+00:00"
     }
   ]
 }

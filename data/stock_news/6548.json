@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-24T06:32:55.259035+08:00",
+  "updated_at": "2026-09-25T08:40:35.167606+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6548",
   "name": "長科*",
   "count": 12,
   "news": [
-    {
-      "title": "6548 長科* - 莫聽穿林打葉聲- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1STGprUDBrekMzS2UxdFUzWE9rOFNvTUV4QjByc2tZRXZCd3pXYnFDLTR4ZDY5cWNDcldmdnpGNmdLSGpmWVlEZjNWdFB5Tm1sOElwMlp0UkQ?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-22T00:36:11+00:00"
-    },
     {
       "title": "討論牆 | 盤中速報 - 長科*(6548)股價拉至漲停，漲停價65.0元，成交2,847張",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwN0tsWndZWkg4RWppb1loaXAwejl3ZjNRbTBhb0hZUkhTQ2ZLZFdCRVc5NkJYdmwxODZQb3RNREFFYjUtMzNyamIyZzl0VzZkcENwcE9meDc4R0loY1I3Um5idDY?oc=5",
@@ -60,12 +54,6 @@
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
-      "title": "6548 長科* - 這種表現 太差勁了👎 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwSU8zZWJpR1o2cHdoZU83MDlETjZrUy1jT3NQdVBtbUJvUThxVXJGNlN1bmtGbFdZbU80MTJZWkEyblZ4OFA2ekxOZFcxQjBxQ0UwOGItSHg?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-10T01:53:01+00:00"
-    },
-    {
       "title": "6548 長科* - 聽我口令，明天開盤全力用融資買好買滿- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XMTRYcjNOcFlDVWFaQTRfYWJ4NkxaY1NHbkR2eWdGcDd2QTEzWlNRT2Q3cko3eFhORl9xaHdqdzFmckZxM2t5TFcwdzRreHBLUG00Q1ZBNWQ?oc=5",
       "source": "CMoney",
@@ -76,6 +64,18 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FeVZBUFNUSHlBeWNYLWtkb0d6SV83OEd2RGhiQmI5Wkl3T3owRnlVSFBrS0dvc2VrdjBibnRYeFNRclIyNkIyN2xTSlMxTlVQRTJNZzQtSXY?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
+      "title": "《上櫃公司除權除息 9-9》長科* 12/17除息",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRjBnN2hpU1lpc2lQM2RpdkpYSzE0OFdVX1N6T0NHM0xzbFVjcTEyUDBEM2xqVmw5Z0Ewb1VzMG9LSWZ6Q3plQlMyVHlseWpxUEpzbHBXd3BVdTBHRHpYdEhGaDJlNDhoS2laSUViWEhjYXg4ZTB6cGR0RXJCb1JfLWJ6THhiajIw?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-06T03:41:00+00:00"
+    },
+    {
+      "title": "6548 長科* - 下週一開始跟公司派買進長科- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IUTVkZlFMNzRiM3kydHRWQWZQbC1tUURpTjB6Vl96OElVZkRHeWxWeXA3Ykdsanc3NjJEWEFnbmVGa1lyOXFHMURrOUhkRzZObTFGYXE5Vnc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-04T07:00:00+00:00"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-24T06:32:50.376901+08:00",
+  "updated_at": "2026-09-25T08:40:29.899404+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6530",
   "name": "創威",
-  "count": 9,
+  "count": 8,
   "news": [
     {
       "title": "【13:14 即時新聞】創威(6530)盤中續強，光通訊題材成市場焦點",
@@ -37,9 +37,9 @@
     },
     {
       "title": "【10:15 即時新聞】創威(6530)股價勁揚至104元，上漲7.88%，受矽光子與高速光通訊題材加持＋多頭均線結構推升買盤延續",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rQ2ZSNkFQV0pSUUQwOXpvRlJyenNZRHB6b0g3SFJKbWZBdWJZQjRZcUltbnIzMnJqSHlyYlFNZHd0QWc0N2xnZjdsSnZLR08zaGdxYzJiS3Y?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-01T07:00:00+00:00"
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcy1JSEhrM3BNdEdGRDd1V3BkQVJ4VmZJNTJBYmZBbEtZMkhqNkwwa0RsVVNPUXhRWnFpckdzLS1idmFYd19MQ2xob1poeHd0RTVoLUFHN2plVnd3Y3c5ZUdaamE0dDNYblBNS1BwdHFmRklUNXhXN2F6c0hVQTFhemI3UFE4anpGTlhTRDR3?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-02T07:00:00+00:00"
     },
     {
       "title": "【11:50 即時新聞】創威(6530)股價勁揚逾6%，矽光子與高速光通訊題材升溫＋均線多頭排列配合法人與主力偏多結構",
@@ -52,12 +52,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51T1ltNXJQOHJqOXYzbzJhU2tGTzBUejRPMVhoYWNOQWIxMmprdTI1Y1V4UFFOeWJKSHl0YzVYSEhsUVdsN01Xc0dHRERfSW5sYk9pckRLNHVFUlZXZzBUM3VZTTVFUQ?oc=5",
       "source": "TradingView",
       "published_at": "2026-08-31T07:00:00+00:00"
-    },
-    {
-      "title": "【12:43 即時新聞】創威(6530)股價走強至84.3元，上漲4.85%，矽光子與CPO題材帶動買盤迴流＋短線均線扣低後技術面有機會修正乖離",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT3A1dTVVOEpzekRfVVhvYi1FMEVtdFNET3h3SjgyZE1qWEtub3NkanlJeHFQOUpwRjJUVGRld082XzhqV25ORDkxcDRzeE9qWklCUm5lVVRUUGloUmg3dXRvb0E0RVpkaTdVLUZ1d0xwV041WEhUZ2dFMGxFbXpZSTgxeDNGdF8zN3BrZktB?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-08-25T07:00:00+00:00"
     }
   ]
 }

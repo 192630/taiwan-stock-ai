@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-24T07:30:27.698651+08:00",
+  "updated_at": "2026-09-25T08:40:59.440047+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6657",
   "name": "華安",
   "count": 12,
   "news": [
-    {
-      "title": "AI新藥研發獲國發基金2.7億元注資，華安旗下源華智醫擬登錄興櫃-財經焦點情報站",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaHhhZ1ZCcHZqTkFpc1VUYUhYbWh1bjFReVZfeFFUS0x1cWtSU2cxdVR4Y1dUVlQzOVJSaEdvazBYamt6Sk1hd1pBWGdPU1VJa3FpSTBITnFqcjlGeWdlNmRXaUc2SktLYzNsSlEzYW9ySUpleHRWYThyaFN5TnV6OFBR?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-22T10:24:12+00:00"
-    },
     {
       "title": "華安小金雞源華智醫完成2.7億現金增資 獲國發基金支持攻 AI 藥物市場",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KN05VejVxRHNyb3dnSWtPMzZneDdxLVMtQUxESVhvLWdzR1lwVnBFQTBfU2xCRXdlbDJSaXl3UnZScGxrOGgxVHNyTHc3Q0tYRHZHcU13LUZNQdIBX0FVX3lxTFA3SkU0YklWNGtyTHlqdjVFQ3BoMXBkZVRqbnpZT0xhTHlxZkFfRWZmc2xOVFQ0a3VOZkpqbkhzc0gwdnJobm44VGlfa1hncnZ3aHRWVGQ3RWN6ODRVUGlR?oc=5",
@@ -20,7 +14,7 @@
     {
       "title": "討論牆 | 盤中速報 - 華安(6657)股價拉至漲停，漲停價36.75元，成交562張",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnUGsyM1F0Q0tNaEJKb2Z3SU9tR3NrZjdHeGRkaTY5Yl9kWW42bVNLN0gwV0w1aDZ2ODF5QUhIdFpiZ3pYSExoX0dYTmgxVDNDNmZNRVBpLS15c2swSVZtSGlEeGY?oc=5",
-      "source": "LINE TODAY",
+      "source": "today.line.me",
       "published_at": "2026-09-22T00:24:45+00:00"
     },
     {
@@ -28,6 +22,12 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rdHl4SHdCM2Q1TC1UbmlzTExrUU93Zkctbml4QldNWEJMZ0J5S1ZvaVhndW54SE9jbWtxS0dWTWNfOFptZngtSm5rNFRodXdDN2tWRzktLUg?oc=5",
       "source": "stock.ltn.com.tw",
       "published_at": "2026-09-21T20:22:00+00:00"
+    },
+    {
+      "title": "華安證券：光伏仍處築底階段 風電出海趨勢持續 作者 智通財經",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qWXhEWVpRRFRvbnFxc3ZkS0V6ZFJrdEt4dkthUW1tUm1wd0tUTmsxTzFaUVB6cTYzbVExVVdGTUhKRENEa0hkNVJocEt0TFNldEhZeHg2TUtiVjJpSk8zWkJKWUpvd293M19jRDE3OWg?oc=5",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "published_at": "2026-09-21T02:48:29+00:00"
     },
     {
       "title": "6657 華安 - 清水國中變運動樂園！台中體育嘉年華9/20登場 14項體驗一次玩- 股市爆料同學會",
@@ -42,14 +42,14 @@
       "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
-      "title": "新藥股單日跌逾3%，華安與順藥的強勢能延續嗎？-詠晴K線解密",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPejU5dXVNdHV1ZlprRW9SMGxQMVFMc2lhN0NJQ2lkTDVkMFh5cG1CdnlZZ21Ea1BmSG9hRjlfVnAxSDZYTXlDcnJSOUprczhhSlV2ZTZVVDBzWWJrMktzSzlmTXJiamtxX1k5QWp0c0Q1Nm1MdFZqcE9UNGVnTDFCaEhiTVdMNDg?oc=5",
+      "title": "新藥研發族群跌逾3%，資金還會留在華安與順藥嗎？-許明哲的產業筆記本",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNX2p2VlltUFpNOWEwb29kUHJscEtUYTZvNS1uM21Ba1FpQ1ZpdGJEcjhDWVVyZFd0OGtSZFUwUEhsZzZkSHNaaGZaX3piR1M5YjJURmRFX3RBejdNQ0Y3WFB3MFhpN3VYRzRQWUFrampzaXdBOG04UlduM0JvOFBMVVRn?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
-      "title": "新藥研發族群跌逾3%，資金還會留在華安與順藥嗎？-許明哲的產業筆記本",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNX2p2VlltUFpNOWEwb29kUHJscEtUYTZvNS1uM21Ba1FpQ1ZpdGJEcjhDWVVyZFd0OGtSZFUwUEhsZzZkSHNaaGZaX3piR1M5YjJURmRFX3RBejdNQ0Y3WFB3MFhpN3VYRzRQWUFrampzaXdBOG04UlduM0JvOFBMVVRn?oc=5",
+      "title": "新藥股單日跌逾3%，華安與順藥的強勢能延續嗎？-詠晴K線解密",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPejU5dXVNdHV1ZlprRW9SMGxQMVFMc2lhN0NJQ2lkTDVkMFh5cG1CdnlZZ21Ea1BmSG9hRjlfVnAxSDZYTXlDcnJSOUprczhhSlV2ZTZVVDBzWWJrMktzSzlmTXJiamtxX1k5QWp0c0Q1Nm1MdFZqcE9UNGVnTDFCaEhiTVdMNDg?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
     },

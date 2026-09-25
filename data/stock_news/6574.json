@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-09-24T06:32:59.619803+08:00",
+  "updated_at": "2026-09-25T08:40:39.758079+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6574",
   "name": "霈方",
   "count": 2,
   "news": [
     {
+      "title": "個股：霈方(6574)9/23處分台積電股票25張，每股均價2,500元",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVFR6c1JfbXlaUXBUS0FHSUNORUxIN2U2WmkzYkV4VFZLY08tV1cwNnBQaUR5dHJvOGtfdXMyZFQzcDlIdVNCbHBseGhDaFhVS21NMWdQZElSTVJoMF9JaVdVZXBFay0tMzEtRVUxdENMSzB3YTFRV3pMSDZlUklrWFZkZ0ZRdDNi?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-23T23:04:00+00:00"
+    },
+    {
       "title": "6574 霈方- 霈方公告本公司最近一年累積處分有價證券達公告標準- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTUVN4cXZURmxPUndfbUdfY1VqcnJ0WUxIcmR6VDFrZjhsREE5Q0NpbVgxREV4ai1WLU1VWDM1X1Q1TExEQks0djJ0QjlScW5zTnhibmRPa2E?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-23T12:56:28+00:00"
-    },
-    {
-      "title": "【2026/08月營收公告】霈方(6574) 八月營收表現亮眼、呈現雙成長，創近2個月以來新高，年增82.8%",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wQy1qbnVIWU5FSVhRUGZqUU00UDU5MFEzNFFGNWVJWEoxamRWUEM2TlIzR0Q0VFktR3FsN0VLd19TSk1Vc005eXdIZko3ZlFEd2J6ajIwbXNwSVRJa0dGWHpBVkx0MFU?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-09T08:40:04+00:00"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-24T06:33:12.884145+08:00",
+  "updated_at": "2026-09-25T08:40:53.760367+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6625",
   "name": "必應",
-  "count": 4,
+  "count": 3,
   "news": [
     {
       "title": "JALCO Holdings Inc.的Price to sales forward – TSE:6625",
@@ -22,12 +22,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ia2NjVEZvb3pnaFlXbWdPNHl4SW1nY21WR0ViYURNTlZjblQ0a3V5czBNbnpXWktMYVlGT2I3LURzdWoyR0VqZ2h0LXc1UWFieU1sdHJRWGs?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-20T00:46:16+00:00"
-    },
-    {
-      "title": "有球必應！華航再度攜手莊智淵舉辦公益桌球營 啟發學童潛力",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xMFc5ZlgwMHZkZFE3ZjFPMk1BY21EN21WS0gwV3RxakdPckJ5TjFPOU9NckNvbHNmOGdoTUR2MHYxM1RxU05PR2Jnc3lFOXJw0gFWQVVfeXFMTlQyeUowNHBUTlhCWUdCZ0lxeDFzZFZNdTRtNEhmbEcxUjdZSlgtNlZobWVvSmhnbmp4SV9INXRhbmZya1ZILU9hTDZiUzZGRlNjZHdZUHc?oc=5",
-      "source": "UDN",
-      "published_at": "2026-08-26T07:00:00+00:00"
     }
   ]
 }

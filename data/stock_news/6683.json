@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T07:30:35.264540+08:00",
+  "updated_at": "2026-09-25T08:41:06.436144+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6683",
   "name": "雍智科技",
@@ -7,9 +7,9 @@
   "news": [
     {
       "title": "雍智科技(6683) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1aYkRjN1RvR3dfSmJqbFdtN2dEdGc4UmxnWDN3eHZRdWU1aDdsbHJkc0h6c2xUUUpkTkJxcHExcjJUVGw2TUtaYm1wUVp3Q2VZRWQ4?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBmZHZmQk5iQXV5akhQTEdva2k1bVlQR0NKdjZhZ0o4dFRta2s3N2hqUS1XRDJaYk54Sk1uazk4eWlmVmZkOXFaVjZB?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-23T11:06:19+00:00"
+      "published_at": "2026-09-24T11:49:59+00:00"
     },
     {
       "title": "雍智科技明年EPS年增率逾18%",
@@ -20,7 +20,7 @@
     {
       "title": "雍智科技Q3營收拚新高 Q4續揚可期",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQcWdnLW5Ub01jYmdGY040UkdKcHdWX21CQlU2bFhReTdzLUpBVHRSS0lrQkg1TUFoS1pnNkFpNmRzMWZWNXE1Z3pGMzAxQXRLR0x5UTFhVVc1ZHE3c3M1UDBfdHhHejY2TmtmSk1JOVQzb2tCUEs1WGtJODdrWlVtQV9mbDhPYktZUXMwZnRkekdoNE1waXRNODNsSUszUlNnUVpyeUVTOF9IMkgtSWZZZzJ6WFphOG5mMzNzcjF5TXQwMndTR1NCTjV1YnhtVHloRWZUTzlLWU5qRHJ5VmtBMXB4Ty1MUXBnaHdIMjZMQ1V6Nll5OVFjVmtBUEIzUQ?oc=5",
-      "source": "Yahoo股市",
+      "source": "tw.stock.yahoo.com",
       "published_at": "2026-09-23T03:24:06+00:00"
     },
     {
@@ -38,7 +38,7 @@
     {
       "title": "雍智科技波段漲幅近3成 自結8月每股賺1.3元",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rVUNpeXpST2dDd2c0Y0hMUklrOGlpbGdralRKNHdCMDB6ZkdlekVjUGtiU01RMWxsODJ3aTZzU1A4MVFEd3cydTBhUUJIT1VmSGswd2FRaXY?oc=5",
-      "source": "stock.ltn.com.tw",
+      "source": "自由時報",
       "published_at": "2026-09-21T10:53:20+00:00"
     },
     {
@@ -60,22 +60,22 @@
       "published_at": "2026-09-17T01:01:02+00:00"
     },
     {
-      "title": "今日最夯股／雍智科技漲停收復全數均線 AI測試題材點火 2,000元關卡能過？ | 市場焦點 | 證券",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByY2tLVERqaWNtYXFiUVdFNW5xRmtZanY0ckFaa2c3NDBSdDJaYVlQMVJfTl9fU1BFWjU1WF9McFF4ZEJTaTJZTVZDQXhIOTIxT21VaVd6allEdw?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-09-16T12:30:11+00:00"
-    },
-    {
       "title": "上半年狂賺逾一個股本！雍智科技亮燈漲停，為何外資大買、大戶卻在偷偷減碼？",
       "url": "https://news.google.com/rss/articles/CBMigARBVV95cUxPM0dkWjl3bUY3Zk0xWjZnZVBjSWNlSDhDX0ZENUZ1YVhpVG9QNGdtQVdCU2VfRElGQUJBU1dBZnZHeTJwZ1NlRmkwRUprTUdUeHNPdXpRdldZMFpKRVNMQmpwV3BUNEVtZVRrUml2MHdKLWluR0daVGppZTQweE1oclhIMDRiWnpSQjhLTHVjMUxQTjRhWVA5ZG5GOE5fT01xNGpKR0Q0ZXYwNHRXbnZvSjMwOE9VTGlFWW10M0pzWjhVLTFCLVFwV2ZXYW9DN1I0RGMtLUtOVDk5X2E3RHBPcTRqV0FJWUVMckJNTU8zTjlaRkxTbTlZWXZhNjJqSmdfV0hOd0tqa3E0czZZSjRQV2ZlVGo0aXZ3ZlR2OVdSNW80dGp5eUpUTkNNVDFVYXdPR2JoR3ZXUVMwQmdEaEtDUTc2aUhUMGRULUs2N3RSSlliMkczUXN5blhUTFAyOFk1bng1UGFFUGJ4UE9JbjlfdF9OOFBnZWVOc3RRX3hZYWJwOUFRZl9xR2VHYTlyT2tKZC1uR085bGd1SkgxS2ptaGcyOFZkMjNSVG5ZblkxWDJmbElOajE4NHhGSy0tR0ZtWWhTaHNNd01IbzhIY1g0aGlhNWk3VEwzSVBldlpJUTlIQW5KajhFc1ZCeFNTWTIycEJqcTFyQlJBdThRaHZPZQ?oc=5",
-      "source": "taiwanhot.net",
+      "source": "台灣好新聞",
       "published_at": "2026-09-16T08:30:52+00:00"
     },
     {
       "title": "8月營收年月雙增 法人看好雍智科技明年EPS年增率達18%以上",
-      "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQU1hGRzhFekhGVmZZTVBSUTdjUDJXTGxwWWJUNkdrU3M0UnVMd1NEX3QyMUIzMmJCZzBYckpSOEFpd1o3TnJ2Z3V2Y3I0eUtReF9SZ1p4SWdVTGwyTUhzeVg5M2NuaWdhU1BBamctSGxtZ0drZzhJNk5INzZ2dVVTOWRpaFpUdUNxLUM0SUM3S3pLRThrbGU1aEQ2b3Ntd1RLY2VWbk5OcDBJUE9QS3lxQnJiaFRpUGdqWnhHXzFwZnl3eEIzb0ZYM0swYmt2XzVobTdtcnctWXhONzg3TW50U1dSeEh1Rjc5WUZUbHZHd3FGd2FsdkhFV0wxYmhOdnNZZmxKR3U5NlFKNVlnZzJwcUZ1TWR0R1NlZkhNNW9fV1VaTGkyeGFDRUdoM0VRbUJ0MlRkcXVYTU1mMjRrM2E4Y3NRVnpWWk9CRXFxMmh3aUFhMlcxTUc5Sm9xQnExRDRmeWowMlo2Snc1ZUZ6S0RwSDluRQ?oc=5",
-      "source": "taiwanhot.net",
-      "published_at": "2026-09-16T08:30:30+00:00"
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9rRkxYUzNNbzRhT2RGT253QURJT2JRd1pWQjVFRDRmdFhlUWxCSHB1cjZGY0Z6R1J3WFo2bWFQeUVlQWUwSFludmQwZ3hiLWlnU0VwUTcxS2t1QWNtNVJlY1lzd1l2THdXZ1ZhSTRlcw?oc=5",
+      "source": "理財周刊",
+      "published_at": "2026-09-16T08:23:15+00:00"
+    },
+    {
+      "title": "今日最夯股／雍智科技漲停收復全數均線 AI測試題材點火 2,000元關卡能過？ | 市場焦點 | 證券",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByY2tLVERqaWNtYXFiUVdFNW5xRmtZanY0ckFaa2c3NDBSdDJaYVlQMVJfTl9fU1BFWjU1WF9McFF4ZEJTaTJZTVZDQXhIOTIxT21VaVd6allEdw?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-16T07:00:00+00:00"
     }
   ]
 }

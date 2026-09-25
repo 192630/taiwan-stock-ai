@@ -1,8 +1,39 @@
 {
-  "updated_at": "2026-09-24T07:30:32.310985+08:00",
+  "updated_at": "2026-09-25T08:41:03.421225+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6670",
   "name": "復盛應用",
-  "count": 0,
-  "news": []
+  "count": 5,
+  "news": [
+    {
+      "title": "復盛應用(6670) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NenpVUjM1NjJmdl8xeEdqd1RuUmttdWVFS3ZPamZpRFNteWR4NEVNQXZ0clhxSlBBSW9qUWlxNjRHazdrclNIRzRaWTZURGprc0Nz?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-18T23:45:25+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】復盛應用(6670) 八月營收26.76億元，表現亮眼、呈現雙成長，創近3個月以來新高，年增45.02%",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYnZkTXlnMFUwdG45cEFvVGJGTXpVM0xHYkxEeWhUNmZxendXYWhCY1l3cWFEMW1OSE1LVkpnNmFQNW1KNUpwZE9nQ0k5WGpQZVZHWmpNVF9ybUdwWEppQXBOcW5VODZfSTJaTFU5VVJjMHphU1N2VjJjLTNWNUlOQjdwRDFfZ1Zuenc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】復盛應用(6670) 八月營收26.76億元，表現亮眼、呈現雙成長，年增45.02%",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WTmYwYm5ONEllYm03dmtyWDdtRmNYUHkwbEdnRjBNNC0wRWR2Y251SFpNWGI1Z2F3Z1pwMnRIV3RYMV8xd0tlejNHR2NzNzlGbXlScEI0bmN0a3NRTVZ3MGdGQmFXZFk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-07T10:10:05+00:00"
+    },
+    {
+      "title": "6670 復盛應用- 🚨 主力加碼卡位？昨日主動式ETF 加碼這檔！ - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HMjk0bmNDVzQxVmlXa2FPd1hfa0lzMVNxM1dxZ1lVcDNpeUQ1NVVTRjlFaDQyck1rOWx3RDI2X0FRZ3RsRHd6ZFItaEhRajl4R2FsNnNvTnU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-02T07:00:00+00:00"
+    },
+    {
+      "title": "【08/31 產業即時新聞】傳產-高爾夫球個股表現分歧，復盛應用技術性突破帶動族群人氣",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZTNDMVQxeDM0Zkc3ZWRrZkZmaFNmMjBzNVBuaWtRSFZsdkJMX080NFlFYThfVENRMjlCYVVtM1gyRVUxbEhfRGNTV0lJN0JSVDEwVW0wUEQwUFRCY1NDQTE4V2lQZGZiMGY2Q2hyNTlSUTN3TWM2N3dfUWZuUlctWnBQUnE1Y2RDZFFtS2ZB?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-08-31T07:00:00+00:00"
+    }
+  ]
 }

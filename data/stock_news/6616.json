@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-24T06:33:11.123418+08:00",
+  "updated_at": "2026-09-25T08:40:51.828635+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6616",
   "name": "特昇-KY",
-  "count": 1,
+  "count": 2,
   "news": [
+    {
+      "title": "【2026/08月營收公告】特昇-KY(6616) 八月營收創近8個月以來新高，月增16.75％",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fWU54OFJ6N19LYjhGWDJPMWphQUVkbWRCdW05aHZzak1yT0ptMjVPdUo2bmlIcjdoQ0FSTmhSUF90RXI5c0JCUEpILXN4NHhUbEtOYW9tS096dWgxZVd4b2lyR2lMSEk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-10T07:00:00+00:00"
+    },
     {
       "title": "特昇-KY 115年8月營收7861萬、年減2.14%",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hcFFCUVhzMmlLYXQ5TEdJUnlOSmlGMHhzb0cxc3V3RUcyekNObDh5VmJoSkRibzAyYVZ1b1BVODUwd0xUa09CSjZFOXY4LWJLM2phYllGMlU?oc=5",

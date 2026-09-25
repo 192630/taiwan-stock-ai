@@ -1,26 +1,20 @@
 {
-  "updated_at": "2026-09-24T06:33:08.824609+08:00",
+  "updated_at": "2026-09-25T08:40:49.510594+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6609",
   "name": "瀧澤科",
-  "count": 3,
+  "count": 2,
   "news": [
     {
       "title": "資服股再掀漲停潮！安碁資訊(6609)新約年增31%，藏著什麼訊號？",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxRk1NdENLZjV4VVQ3YlhCNlR2cTlYWjV3OFBPVnduMVhzUXJDM1VweHFOeFpPblhfTmp3eHgyUVB5SG5hSVhYMDJCRll0eEszR05oamFPNTA?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-15T04:42:08+00:00"
-    },
-    {
-      "title": "瀧澤科(6609) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UNHN6WFNFYURiRTlxTHFuOUxMZS1jY2EtSmN0NmlnNUo4bHFtSm9qSXdyX29EVDQ0MjlMMnRQcDNxX3dNcThGbzR6Rld2Z1FaNWxJ?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-10T07:40:09+00:00"
+      "published_at": "2026-09-14T07:00:00+00:00"
     },
     {
       "title": "瀧澤科Q3營收看增，部分訂單已接到明年Q1",
       "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPa25WSWRwQzlZS21sbDVBcjBwWlUtRjA5QjhoZHlOU1FERUlXVHZBRTR0OXluNVhFUWcwZ1NlUTRmQjNWUkt5RUppVW5BTGVXVFZEczJiRS1weVVuM1RTZzRRQW1xU1FJV0Q4bDFPYTB0N2t1bnlZTE41Y082QV95YXhPMS1SbWdFZWlKZWZvZVVnbUJiNDJvNDJyZjZ3QVVEeEU2Mlk0VktRYTVsaFFrTVNxcmozczVBNmFueEFNREJfbG9TUGN6b2RtVFhKRGpDX09oVm1UaGxla0YtM2Vtak92a21FdWdoZzhwWVp3VlF6aEwwZFJPdWptUjR4Tm5OVmFPNmVWQ002elc2aFZkUW5GaUtLcHZycDNRYTJCbmpOZw?oc=5",
-      "source": "Yahoo股市",
+      "source": "tw.stock.yahoo.com",
       "published_at": "2026-09-10T07:00:00+00:00"
     }
   ]

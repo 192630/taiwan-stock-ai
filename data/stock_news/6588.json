@@ -1,21 +1,15 @@
 {
-  "updated_at": "2026-09-24T06:33:03.543842+08:00",
+  "updated_at": "2026-09-25T08:40:43.826303+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6588",
   "name": "東典光電",
-  "count": 11,
+  "count": 8,
   "news": [
     {
       "title": "Toshiba Tec Corp.的Price to sales forward – TSE:6588",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWjVjVC1RcUxwZnNXMW5qVmthZHFTcDktczdXZzM0TURwZ19NX1ZFTXBVWEpDdmZIal9TcDBLbGIwdFdTSGZlLURRVFo1dzdnT3FjelBiTkZHMEtPX1VLZERwLUhrNkFaOUswcUFwbXgwTWdwcTNOa0hDQm5BdzdmWlVIOXVkQ0tqYjhpZEV3NEJsSG5NVGpBeQ?oc=5",
       "source": "TradingView",
       "published_at": "2026-09-19T05:37:02+00:00"
-    },
-    {
-      "title": "6588 東典光電 - 大哥這麼噴 今天能120嗎... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNSDM1Nl9OZnNFeU9oNE8zdGRFWWNQWmVDdzB5UTZTT2xyTmlYdUNkTm9BT1Y5Qno2Ri16STNBVzA5MHVPUVgzUWtvM1lzTFFYM0VjaDRnMVk?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-18T04:55:24+00:00"
     },
     {
       "title": "【10:23 即時新聞】東典光電(6588)盤中走強 光通訊濾光片題材受關注",
@@ -42,12 +36,6 @@
       "published_at": "2026-09-10T18:54:07+00:00"
     },
     {
-      "title": "營收速報 - 東典(6588)8月營收3,132萬元年增率高達189.02％｜新聞快訊｜豐雲學堂",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3Z2pzcmM3SXZxZGF3SHVkY2M0bzRncUdqTjNZTEhKTHRHYmdCaVJYTFFnQnIzdUFTWW1EdG12NDhWVjZfMm9qanRXU283S095WERlZXh0aXR4SmVrd1NTTEM5UE52eHdLZkhLSjA2OVd6NWVXUUE?oc=5",
-      "source": "sinotrade.com.tw",
-      "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
       "title": "【2026/08月營收公告】東典光電(6588) 八月營收表現亮眼、呈現雙成長，創近2個月以來新高，年增189.02%",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQekE1VDJWcWR5WHg1SkFGblJ5bTBzRWVJVWFnZnZtVVdRS252WmM5NkE4TlNZZjR0SThHNGpyYmxURktoU0RvQ0RFcFVQVHM5cGJ1TTI3dUV6QkU3N0FVX1BxSnk4Xzgxd2sxSGxDY1BnZnhmZTVZdW9oUndEQ0FZQVVONDNESjdQNkE?oc=5",
       "source": "CMoney投資網誌",
@@ -55,21 +43,15 @@
     },
     {
       "title": "【10:24 即時新聞】東典光電(6588)股價上漲近7%，AI光通訊接單與營收爆發帶動買盤迴流＋短線多頭排列與主力回補點火",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xamJ0WkR5VFVQLVpVMUtUdDlZN002eW5abTdZM1pYamI2bmxXckZHcDNXRWFKRElPS1RPTWRYcW9DMmxfX0ZUZ091MmNEenFYZUU1WWFETGE?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-06T07:00:00+00:00"
-    },
-    {
-      "title": "東典光電躋身CSP鏈",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlcFRIV0NwRzJEQ3d1Z2RBTVRCRFpjRmJaNEE3ekxYX3BlZF9wd3lKOWxfN3JYaDlFaUxKd0g2cDdNeXRmZmY1ZmtqZllrX3FI0gFWQVVfeXFMTXRXSzBqYXg0ZnZEakpkR0VjOVdTVlB4MW1pdEM3STZ6VU81a0tDMHNsOUdmeF85OVpwWGs4cU91QWJzTElMV1luaS1DV0QzZURsa3hTdUE?oc=5",
-      "source": "UDN",
-      "published_at": "2026-08-31T07:00:00+00:00"
-    },
-    {
-      "title": "【10:39 即時新聞】東典光電(6588)股價走強，光通訊與CPO題材延燒＋高估值下短線買盤續搶",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMXcyTmtrbTRKczQ4eXhIQUVNbzVkMjJoM3Eybko5ZVduazVBMzdJQl9IcmtiSThORVBwOHBNcFNrbUZmSlVvZ205VnlHa0N0M1ZEUm85X2x6cVlzeF8wSlM0bkF5VlNHUm9aZDRFNFVmUjhOS0RhajBQNUw4SzVpbmJkYXh1bF9UVHB3aFNn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZkRySXF2cUpvdXp6M1dPdDE2R1ltT0JmQ2pMNUJOSU5oLXQxRDZyUVNFUEZjbk56VDlhU0xKNzlVZ0dfNDBwVG0wLU81Tk9Sd3A2ZXEwdjNxQi05dk5lWkljSWM4MGMtOHZJTDljUDgzRjZqRUhDSWduQ25NN0JmSGRsSTc3WUtDUXNJRkJ3?oc=5",
       "source": "CMoney投資網誌",
-      "published_at": "2026-08-25T07:00:00+00:00"
+      "published_at": "2026-09-07T07:00:00+00:00"
+    },
+    {
+      "title": "濾光片族群亮紅光 統新、東典光電後市看旺",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrQTl5SnlQV3pNMDFBTllibzJndldneHNzQlhVSS1uX3JMN2xJcTJRN0tGS0lFRXk4Xy1zYmY5Rm16UlU1NmhQZVlyNVRHXzRTU3o5TzFCaTBBQdIBX0FVX3lxTE5vb2MxS0s5VER2M3dsWExncnRmaGVIRDdpOXBaSE9DRmhQdHNQQjhBUGlVd29ERTE2bHdPd2JPQ1V1UUVjWXZBRW5UMnpueUU3QnhRS00ybmFTcUR5cHFv?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-07T07:00:00+00:00"
     }
   ]
 }
