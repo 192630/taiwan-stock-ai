@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T07:22:08.946987+08:00",
+  "updated_at": "2026-09-25T12:24:31.193756+08:00",
   "source": "Google News RSS search by ETF code and official name",
   "etf_count": 22,
   "etfs": {
@@ -135,12 +135,12 @@
       "code": "00401A",
       "name": "主動摩根台灣鑫收",
       "issuer": "摩根投信",
-      "count": 19,
+      "count": 20,
       "news": [
         {
           "title": "8月30檔 ETF 除息！00923、00982A 等14檔年化配息率逾10%",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16QjJrVGdJTlJSaUttcXJ4a3FKeElfY3RtTXU5aWJBcHFHejdNOW1Wcm5IbEJoVkh1TUJUNnpSd2JNQ3V3SFk1aVdiVktfUmJ1MTd2aUl4QkpOZ9IBX0FVX3lxTE1XU25RX1BydS1SaVZ5YzZ4cTNRLXpDODBYZ2FCUkc1TVYxSlBfSmxMdWozem0yaG9kWTdNZGxBdzc2RW0zNDJBR0VZRzJXdkZFMVpQWHc4amVmc0NsS2xn?oc=5",
-          "source": "money.udn.com",
+          "source": "經濟日報",
           "published_at": "2026-09-23T09:00:00+00:00"
         },
         {
@@ -170,13 +170,13 @@
         {
           "title": "本週金融股搶鏡 與半導體股成兩大吸金焦點",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0ybnhhRmswazN0eVFzMURoWHAyZ0hILVN0M1hieHlJOGJYYTVrX1JUSlFZdkpJa2RwNC1vOTlJbnYwdmZhbXFlZlI1Q0tHQkpSLThxdXJpd3Y?oc=5",
-          "source": "stock.ltn.com.tw",
+          "source": "自由時報",
           "published_at": "2026-09-12T20:48:11+00:00"
         },
         {
           "title": "摩根00401A最後買進！0.125元配息組成「98%」竟來自這裡",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83ei0zTERBbzV4S1RDTGhOLTV3QV9lR2RxTXlZcjJIWHlTU1NpVVo3amlrektYN1BqSThUTHhXelZqanBEWU4tVFZaRzF2NXQ5Sm1IUFZYNVg0d9IBX0FVX3lxTE1Mb2RYdU1PenFCaUZMTnV2TF9LeVE0eF90VFJrMUE3X29GX0lyRmpFTkxpMVVSbWtuZXhfX3RzWmJfWV9rd3IwbldpTlZKSUdpdllUUHpGYmdQczVLYTBJ?oc=5",
-          "source": "money.udn.com",
+          "source": "經濟日報",
           "published_at": "2026-09-11T07:00:00+00:00"
         },
         {
@@ -194,7 +194,7 @@
         {
           "title": "台股主動式 ETF 強棒 淨值攻高",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQTjlHVUhfTmhpLUFtaFFWNGFZcHgtZFRQOHM1WkQ3NFdDdkp1NThpSDJxV2FsRW9VbXJuMXZ3NlNOYXZ3RlZEdlNjT3pVMVZXbVFRMFpwdDVlQdIBX0FVX3lxTE90ckJFWEg5UDJpUE5zQ0JhQnhnNDNhOEg4RjJmRGtaWUJ2WnB1eDNPSmtUeTQtU0Mwc2Q3R0E5YnhzaWg2ZUx2bkFFd2xwODNVcGlVbDJTWEhGa20zZ0Rj?oc=5",
-          "source": "money.udn.com",
+          "source": "經濟日報",
           "published_at": "2026-09-04T07:00:00+00:00"
         },
         {
@@ -204,15 +204,15 @@
           "published_at": "2026-09-04T07:00:00+00:00"
         },
         {
-          "title": "《基金》AI回神！ 主動ETF大軍 淨值挑戰前高",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNFFuaDBuQWN6UGZISndpSWFPeVR2WG1JT2NqSGgzQURteFMtamxXVEN5a05OWExEZ3FHcnF0ZUtSVzZmR29DZ0JoTzFHU0FwdmhULTBvek1xMXpXWEttaVp3YVhVR0o1WVpNRF9zWm9RZWpDZktueDNFYW9oRVhCV2lyaVhzQ1FF?oc=5",
-          "source": "富聯網",
+          "title": "00401A 單月再現雙位數報酬 聚焦先進封裝、光通訊、低軌衛星三大主流",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kMFc0QjUzdVZQLVRRcVF3dmd0LWNrLXlGdkRmcXo0b3p1bHB6Zm42VFpPZjZFRTRsQVpQRl85RUdLak9wcDlhWFdvLWFyMDl5Y0pFZ0gtSUt1UdIBX0FVX3lxTE4zbHgzX2FlcnY0SWtTM2JXb0NhaVdvZjFlcGdqdUtmSENSQzJtdzVrS0Ita3BDaV95OXhRNGFGTkktM3dWbFRGQ1gwajVBMGJzMUlCeWlCbGhTM1VQemJN?oc=5",
+          "source": "經濟日報",
           "published_at": "2026-09-04T07:00:00+00:00"
         },
         {
-          "title": "00401A 單月再現雙位數報酬 聚焦先進封裝、光通訊、低軌衛星三大主流",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kMFc0QjUzdVZQLVRRcVF3dmd0LWNrLXlGdkRmcXo0b3p1bHB6Zm42VFpPZjZFRTRsQVpQRl85RUdLak9wcDlhWFdvLWFyMDl5Y0pFZ0gtSUt1UdIBX0FVX3lxTE4zbHgzX2FlcnY0SWtTM2JXb0NhaVdvZjFlcGdqdUtmSENSQzJtdzVrS0Ita3BDaV95OXhRNGFGTkktM3dWbFRGQ1gwajVBMGJzMUlCeWlCbGhTM1VQemJN?oc=5",
-          "source": "money.udn.com",
+          "title": "《基金》AI回神！ 主動ETF大軍 淨值挑戰前高",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNFFuaDBuQWN6UGZISndpSWFPeVR2WG1JT2NqSGgzQURteFMtamxXVEN5a05OWExEZ3FHcnF0ZUtSVzZmR29DZ0JoTzFHU0FwdmhULTBvek1xMXpXWEttaVp3YVhVR0o1WVpNRF9zWm9RZWpDZktueDNFYW9oRVhCV2lyaVhzQ1FF?oc=5",
+          "source": "富聯網",
           "published_at": "2026-09-04T07:00:00+00:00"
         },
         {
@@ -240,6 +240,12 @@
           "published_at": "2026-09-02T13:22:46+00:00"
         },
         {
+          "title": "整理包／瑤池金母發錢了！00918、00919創新高 00981A、00929等 ETF 9月配息、最後買進日一次看",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qNmhXc251NnZ2TzdEblhkN2F2R2tiaGo0dC1uSkVNRVotRkdCV3ctZGxIeWFtalBTeXVVMjA2NlNxajdKMDFKOWVnR2p5a21Vc1VIaGtSUXhuYkxa?oc=5",
+          "source": "經濟日報",
+          "published_at": "2026-09-01T07:00:00+00:00"
+        },
+        {
           "title": "00406A 主動中信台灣收益ETF 配息、策略、完整介紹，奇鋐飆漲停受惠",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KbllmdmJYWjJ2azlIOUNOSEd2T1dNNEg3WDRQbThhUTRudnZDd29MampvYzJ0aHJxaFZZb3dGbFVCd2ZfeFZGdU1lTmstWE9mSUJTU0hyTlQ?oc=5",
           "source": "pocket.tw",
@@ -263,7 +269,7 @@
           "title": "外資賣超338億元、最愛仍是主動式 ETF 尤其是00403A 與00981A",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FN0ZpeXRqNWJzdi0tUmk2QlRydTc1OE1aendmR3l4bWlBeHpuZXplZ0pSTjVrU1J2ZXYtOFh1N2RfaUZYLU1zUlY5ci0xV2xJUGloU2VNTU1Xd9IBX0FVX3lxTE96M2pvbHBkeEp4ZzRRYk1LdmRqY19kUDltQkZsbkNrcGpqa3JPdUNwX1pTRWR2Ty12LWx5M3BiekIxQkNmRjYxNXFIU2xlcHlIbS11VzlUQU1UU0tER3o4?oc=5",
           "source": "經濟日報",
-          "published_at": "2026-09-24T07:00:00+00:00"
+          "published_at": "2026-09-24T09:00:00+00:00"
         },
         {
           "title": "【Follow法人】外資狂掃5檔主動式ETF！00403A買超逾9萬張 反手大砍友達15萬張居冠",
@@ -312,6 +318,12 @@
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE10Z2FQN1pNLURqelB0ZFRkQ1ZtOVVhRmFkZUVOeUVxZHQ2ZTNaUFpxVExEN1lXYTMxUmNDZzQybVdFWjh0TkxOU0dxeEJRUGUtak92c2RXVTduc19xdlBJ?oc=5",
           "source": "工商時報",
           "published_at": "2026-09-21T08:40:00+00:00"
+        },
+        {
+          "title": "00403A 主動統一升級50 - ETF 即時淨值與折溢價查詢 - 股市爆料同學會",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IdjQ1Nk5RYmZMOGJsOG5ZMjlvUm9CMm9aeGxFSzFhRHF4QkI2TlJsM1NXUzJpbW1nREIwM3ZwYVc1MzNaMzlIenUtZE5RZjBnWUxuYWY4VFNLM0FvUnhpdzJYbVBYSm44aVRn?oc=5",
+          "source": "CMoney",
+          "published_at": "2026-09-21T07:00:00+00:00"
         },
         {
           "title": "鎖定主動式進貨！「這7檔ETF」橫掃外資買超榜 00403A被掃貨9.5萬張、注資近10億元",
@@ -372,12 +384,6 @@
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TNmp1R0pJUVF2TjlDR3Jvb2RvaU5VbmZFZVo5N2pXV1p4N1JGTkNCSUpkRlVjQUV5TGFOUzVWMDAta25wV2NVQzcwYmpGOU9Yd3pB0gFYQVVfeXFMTU9wNk4wdHZYVmhlSmRieE0weHZYakM5bUtCWVBlUzdhcTloRFZhdFJtNVM4b041NE9ONjFraEhhVXFtc21URkdDRnJ2eDRZQnA2ZHF3cnhlbw?oc=5",
           "source": "UDN",
           "published_at": "2026-09-14T07:00:00+00:00"
-        },
-        {
-          "title": "高檔震盪選股難！外資近一月瘋買主動式ETF 囤貨00403A、00988A雙冠",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jeERJUnFZcWZyV2Nsb3lwMDhWZndSYVp0cVVjc0xDQldDeElMMjEwVzFCQkkyNUdpVXlvcEhBWU9lWVhTSkNQdXppdS03WUU?oc=5",
-          "source": "news.cnyes.com",
-          "published_at": "2026-09-14T07:00:00+00:00"
         }
       ]
     },
@@ -394,12 +400,6 @@
           "published_at": "2026-09-20T13:15:00+00:00"
         },
         {
-          "title": "主動聯博動能50(00404A)ETF型基金的基本資料",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlcUxRSU1Fa1RVMnFqR3FaM1g5QWExRF9UNGZPa0FGN053alk2Z2czZnpCRGt4SjJVMnpkUW5lampOZ2ZJOUJiMnBNdWtXM2RqUzRaVg?oc=5",
-          "source": "pocket.tw",
-          "published_at": "2026-09-18T07:00:00+00:00"
-        },
-        {
           "title": "年化配息率飆14%！00404A「擁聯發科、台光電、聯電」拚3天填息 2.7萬股民這天領錢",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBDU08tZ2c4MTVkd19jVmtkYTBFNllGZXhQbnQtN3VhWGN4Q1VzYlk5bUxvU1I5YjBwelFvd295c0p6RWVzQnhVQm9kUQ?oc=5",
           "source": "FTNN 新聞",
@@ -414,7 +414,7 @@
         {
           "title": "00404A首次配息今最後上車！ 每單位將配0.36元、單次息率約3.67%",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NRGFTYy1yZURNWWVFVlFhM0JmTUx5VHE1enFaZjNHM0JUVUFGMWs5Z1ZQUHR6eWVZajloaXZlRkNWbGt6VFlwOFRMdENUTk1UT2xOaTRDTGxMb3c?oc=5",
-          "source": "newtalk.tw",
+          "source": "Newtalk新聞",
           "published_at": "2026-09-15T07:00:00+00:00"
         },
         {
@@ -426,13 +426,13 @@
         {
           "title": "11 檔ETF今最後上車、明除息列車出發00919「高含金量」近期抗震| 財經",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92SURnT1BxOFUxNHgxdDNuZlQzVVFjbDFrZWJ1SXNlSUtOVWt5RDNYbk4zUlRfVVFzRGR2R2xuRDJDNS1veWtiQ09fNTRUWWg5Q2hPcDBPVTZyN1k?oc=5",
-          "source": "newtalk.tw",
+          "source": "Newtalk新聞",
           "published_at": "2026-09-15T07:00:00+00:00"
         },
         {
           "title": "AI供應鏈分化！00404A首次配息0.36 最後上車日是這天| 財經",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1FYlpkUkU2eXdacXgwM05TRE9zdUpfdzhQNWw1MTRhTmc5RWNtU3N3Q0pheVZfYjM3WEt2YmRZVkdodl80a3NSdg?oc=5",
-          "source": "三立新聞網SETN.com",
+          "source": "三立新聞",
           "published_at": "2026-09-15T07:00:00+00:00"
         },
         {
@@ -448,21 +448,15 @@
           "published_at": "2026-09-14T07:00:00+00:00"
         },
         {
-          "title": "高盤震盪主動選股搶勝！00404A預估配息0.36元 明天買進搶「卡位」末班車",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41eTZuZDdldldtX3BXRllwZFJvcXBwc2ZqMi1sRHQ5NUptV29pRmVoQlJwcVlLaWp6V2dTWWVYVG4zUXlwNmQ4a1dHUUt4QUE?oc=5",
-          "source": "news.cnyes.com",
-          "published_at": "2026-09-14T07:00:00+00:00"
-        },
-        {
-          "title": "00400A值得投資嗎？主動式ETF搶攻AI＋高股息，月配息背後還有什麼亮點？",
-          "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxNTWNhTzdBRmtpdk5rNkhiYlFSTG9LUDFzUXNOSGlWN0R1c1psVEkxOUJfdC16Z3hRMWdzM250cGRQaXJuRzdnalA5ME1BUjZGeHhjbC1PXzZWaFFqcEFoLTJMT1hDeWtjbXB6eUYwZ19ocnJuUVVUb0xtTG8yME1pbS1pZUd4NVV4S0oxQS1OdHBKVnM1cFJydmpCclpwdXZtb240Ujc1Q2ZoNzVQOTdPbzVXdmlVbnBna19nX1d5VHFpVHViUkM4Z25OczdGUklNWjZvMkpyM2FhdHJiV1gxQzU4UWpkbVQyOHJ1ZkYyMl9jaDBYX3BYU0VFUE9fdGhrSGpKbGwyN0s5c3dxYUtPS3VDTExDeVgzYktxaS1qMkxuV2pUa0NoRVc3WV9sckpqa203SHRZYXJZTi1yazRhVTR6ZHQ3QXdNUy1YR3pXWHhZY1RBcDJ3eVpBb1NjbnRYeXdwNGdyTUxEM190R2dTVzB0dEVhaHdSTW1WbG1OeXNFRE1Ha1NhTmtFMHE3R3h4?oc=5",
-          "source": "Yahoo 財經",
-          "published_at": "2026-09-14T07:00:00+00:00"
-        },
-        {
           "title": "台股ETF定期定額超夯 0050與0056吸金逾4成再創新高",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RdHRsVnA2NGRnSlhOeVJDelVySUlNT0ZxWFBOYXpEbzdjVVE2S2h0Xy1Ucjc2SlhzRjJOT2hEcjdnTFRSZ1Vvd3c4UEZWSG00XzdiUUtkeW00ZWdIZGRJ0gFkQVVfeXFMUFpKU0VFUG0xRGNYNVRnZ0dhc19vUE1mdVduVkRMZ3RUWFlqZldCOVFFQWJsSmJoMEN2WVhiMVNxWXpjb0tUblA1SkVFM05lWjFkcXQwRFFaQzYzX2ZXeWpJaVFabQ?oc=5",
           "source": "自由財經",
+          "published_at": "2026-09-14T07:00:00+00:00"
+        },
+        {
+          "title": "高盤震盪主動選股搶勝！00404A預估配息0.36元 明天買進搶「卡位」末班車",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41eTZuZDdldldtX3BXRllwZFJvcXBwc2ZqMi1sRHQ5NUptV29pRmVoQlJwcVlLaWp6V2dTWWVYVG4zUXlwNmQ4a1dHUUt4QUE?oc=5",
+          "source": "news.cnyes.com",
           "published_at": "2026-09-14T07:00:00+00:00"
         },
         {
@@ -506,6 +500,18 @@
           "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxON05GZzRHWHp5QVg3ZkxXZ0tIVDk5X1k2dmJZRFhTcVd1ZTZqbUE3TzB0ZFZJaW9VUXNYSWM2UnZ0eEVENVVxTm1sU3Bwb1hRRzBKNEtONEVqeEpWNWlWdW5EQnZUUDRmX0RzWWhKTDRDd3hVVERZS0ppcktubGNMOGhyaU12TG4xNXAzQXF3N09JYVc1ZlBQNkZSV1YtdlNVaUFYdExLNHlOTGY3YXZjOTlwRG51YVotU01ic0VyYndNQm5NaDdIUFpDczNNRHp3TmhkV01Fd2RCZ0pETUp0QjJJOTlRX0ZEUWxhZEdYY0lPWXgydHdGcW1zWVRfOVVnb3ZwMUhDX2NmQTBrVmc0d0RYSkROVmNEMkpJSFkwRGVHVjQzQ2pUUldQeEFyRTlHWnlNNXVzVXE1S2pmV1JnTVRId1QtelduUEdvaDdtSlo1cHU3OVR3V0hmclJBUFNyS1FhTmRFU1E2SGs5dnBZN1NFT0ZtQmVENjdJa0hCZW9DQQ?oc=5",
           "source": "Yahoo股市",
           "published_at": "2026-09-08T07:00:00+00:00"
+        },
+        {
+          "title": "9月主動式ETF強勢吸金！00404A首配0.36元 報酬4%勝大盤奪「績效王」",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA2SWd2VXptZk00YUZKSkZsN1pXMGU1RU5PTF9BNlNCYUNmTkNZcGJEcThwaGwzT3lIRGJkcFBudFZqY1hxMHNDRWxsR0RqdXM?oc=5",
+          "source": "news.cnyes.com",
+          "published_at": "2026-09-08T07:00:00+00:00"
+        },
+        {
+          "title": "首配殖利率衝15%！00404A配息0.36元躋身前段班、理財達人讚「好能配」…配息淡季還能息利雙收？操盤手親解秘密武器",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeTF5a2ctOTUtY1NVU2h6djQyUTNDVWdqdV9YdUw4azdhdVN5TE1rcm1WOFoxRm9ETU11eUJ5RzlPR2JMeE10MjF3REFCMmpkWDBrcnVzN1BsZWZpdl9LZnpFcVp3Z3lvMTNPX2Jxam8wTXlsSjlSNS13WFhFRnlWZg?oc=5",
+          "source": "今周刊",
+          "published_at": "2026-09-08T07:00:00+00:00"
         }
       ]
     },
@@ -526,12 +532,6 @@
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SaDBfU2dPSVZXeGVBa0h2SnNsYUg3VTBjZHk1VnU0aXBrRlduSndpY2pTRm85c04xYTRUWEZUSGxCMzhjeWgzVVJoTjZ4ZEprWHRveWxzbkZweFVVOXJJZG80YWhUM3VMcWxXQnp2Ulo1ODJ5aUdFVkpROHl0dw?oc=5",
           "source": "CMoney投資網誌",
           "published_at": "2026-09-24T09:41:25+00:00"
-        },
-        {
-          "title": "台積漲40元台股再站上48K！ ETF群飛股價飛揚成交爆量 | CTWANT",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PRWxPMi1JVEZQbXRlSGdVN3duaUdkX3JsZm9iMF9fYVNNVEtvemlGbDBsNXNsSVN1RTJzNjBUcllHazFiNzhTTVQ2bkdzYkFIQWxwUlJB?oc=5",
-          "source": "LINE TODAY",
-          "published_at": "2026-09-23T14:13:25+00:00"
         },
         {
           "title": "9/23 00405A(主動富邦台灣龍耀) 持股異動｜新增 1 檔、刪除 1 檔-ETF股長",
@@ -560,14 +560,8 @@
         {
           "title": "主動式 ETF 不香了？蜜月期變「主動吃土」這檔爆量72萬張多空血戰",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkUTRLeUxCSUpDcHo3aG03cDZ4U0JWYnByeXZJdjROYjMyWEdpUUdLMjlZSGxEckd5LURnWC1HMUg0MHhfXzFkZmt1WlRhazRxMFdJYzlsNFdWd9IBX0FVX3lxTE1lbmtnbWlaRmp5TVIycHViMWF0emMxdV9wS3k1TnRoQk8zZkY5bHdFU056RVk3MTRjTEEyMXp2cENweThoWnJyamF1Q1VwNkVOUGd5YmdlazhsSk9tSFI4?oc=5",
-          "source": "money.udn.com",
+          "source": "經濟日報",
           "published_at": "2026-09-23T09:00:00+00:00"
-        },
-        {
-          "title": "外資搶買台股創高！這10檔ETF累積漲幅超車大盤",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SRUZ6T2VNbXRqMjVRdHcySnBUOG5VeHhFR0k3M19NeS1walpPS2E2WmxicWZFcHpZTEdCSW00ZVU2aTNKWDFEdlZWQjVROFk?oc=5",
-          "source": "TVBS新聞網",
-          "published_at": "2026-09-23T08:55:00+00:00"
         },
         {
           "title": "9/22 00405A(主動富邦台灣龍耀) 持股異動｜刪除 1 檔-ETF股長",
@@ -612,12 +606,6 @@
           "published_at": "2026-09-18T13:58:55+00:00"
         },
         {
-          "title": "9/18 00405A 九檔最強卻一筆沒動",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42eVJwWGhVUERDQzFuWlAxZHN2eFA3NldldV9TMXREeERuZ0VMUTV0OUlmc1FTZHg2UzIxMlJiWE5pR0RzdGlmRDAyLTc5NXc0SFRUY285eWw?oc=5",
-          "source": "CMoney",
-          "published_at": "2026-09-18T09:35:30+00:00"
-        },
-        {
           "title": "00403A、00405A…只買破發的ETF！空調技師存股買3間房、年領76萬股息：越跌越要買，一年後翻倍漲「幫金孫存這5檔」",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYVllQUFqWEdjbkZYZnpQbGJMdnJYUnNtS2Nxa0NIdHJfSmJxMGJpSURTRGl2S0x6YkR1WUVSamlMbFlYR0p5YlBkWTJPVmtKbTNZbWZ5WXhaMkFhRkY3NlkyT01pVFAwNk5wd3p4YVYya2ZzOFB3dVdpZ1owYXNvMA?oc=5",
           "source": "今周刊",
@@ -634,6 +622,24 @@
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBGcmduTWdab1pLalZxQmphRXdYSklteWlkNTFoV2JNM1RLSTFFUC1IallQYk9QQjFQcGlfUTNiS291eUlOV3gxRHVzUEtIb1FRb2R6cDVhOFdGbC1vdTZRV0JCY2ZBckdPV0paYUtYTzVEWXNreGk3VXJCRmZsUQ?oc=5",
           "source": "CMoney投資網誌",
           "published_at": "2026-09-14T07:00:00+00:00"
+        },
+        {
+          "title": "9/14 00405A(主動富邦台灣龍耀) 持股異動｜刪除 1 檔-ETF股長",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdHBDLWZFNS1qTDBpbk13S2I1ZDJLY1hWTExPcFZ1NHlxN0Fnb2lseWp1Ml9HY0xZTVlQeTFsNnNNRW9pN212bmxqNXVrM216Z2xlY2l2VFg2bHRKdHNqcWtldGVvd1BqdVBGWDNnQnRBTUN4c3U1dWdLNkx1cW9oNA?oc=5",
+          "source": "CMoney投資網誌",
+          "published_at": "2026-09-14T07:00:00+00:00"
+        },
+        {
+          "title": "【00405A】09/11 操作日報｜大砍一半弘塑換手轉進愛普",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9pNFNJeGRGeFhRSmxGMjB4UWFCbGVxMXlqOUdkX0hNbE9rVGF3bUR2WE9HZ29wQVlvdk02SmQ0Q2Q0V0RJdUdaMkoyMDgyVnZCRzBWX1RvbmxtS085VG92MGRQTDZmUzR4SUtXdkhJTk1uTkV4US00cWtZYWtyZw?oc=5",
+          "source": "CMoney投資網誌",
+          "published_at": "2026-09-11T07:00:00+00:00"
+        },
+        {
+          "title": "9/10 00405A(主動富邦台灣龍耀) 持股異動｜刪除 1 檔-ETF股長",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOWhSZThfVlZEWWJLQUJaYXZRWWZSRlMtemlxbFl2WUR1V0JuYV9BS0JTS0NDT0R1cWJmQzNrbkhmT1F6VEo2dllnU2dRU3BFSVpIQ01kd3lQTWJKR3hxclpGUDgzR0lMT1RDV2dvNmhPeDFTS25TMUI5QlBQRXJhNQ?oc=5",
+          "source": "CMoney投資網誌",
+          "published_at": "2026-09-10T07:00:00+00:00"
         }
       ]
     },
@@ -668,6 +674,12 @@
           "published_at": "2026-09-22T05:23:15+00:00"
         },
         {
+          "title": "00406A破發還能月配息？詹璇依破解「3大迷思」：高現金流背後有2風險 | 存股族愛ETF | 股市",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zMEo0WE1FSGZDTmZXWE5QRVZLUW42REpxU0UzTG4yNmN1dV81amZSSUZNdS1QZlJFc01vaXBfbllnakI2UlZDOXN1czlzMlA4X0hN?oc=5",
+          "source": "UDN",
+          "published_at": "2026-09-22T01:43:26+00:00"
+        },
+        {
           "title": "正2狂飆、收益ETF搶吸金！00406A搭AI 年化配息率約17.9% | Newtalk",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95bWppUzBndXp5UHJJVG9tcE13T0hXOEVObXFzTzdIZ2UxRkRodXNLOXQ3SE1IRFJTTVhhNVJ4YTZXYUZreFBSVDRnQUFWMkNyd2VDNTBqSEsycDVDMDFfenFUSzFkWEh1Y0VFVmFmQ3BNMDQ0akg1MEwtNHdyUQ?oc=5",
           "source": "LINE TODAY",
@@ -676,7 +688,7 @@
         {
           "title": "正2狂飆、收益ETF搶吸金！00406A搭AI 年化配息率約17.9%",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oOUxlQWt6YnlKVkRrYW93RzZweVhSVDRMcXYyX01wRkY2X2x5VmE5c0pfUUpMcklXRFpBT25VaDMzZ1NvZjVxWVAyZUVzS25vMnVabXZGVnNCc0U?oc=5",
-          "source": "newtalk.tw",
+          "source": "Newtalk新聞",
           "published_at": "2026-09-21T05:04:36+00:00"
         },
         {
@@ -700,7 +712,7 @@
         {
           "title": "台股大漲 個股成交前五大三檔 ETF 00406A衝到第一 零股成交第一聯電",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MN1o4cDJqYzNDX2lJRlBHcE54blpzZ2VBa0hZajhmTVBvdXgwSkZSZWtuNjM0TDV1Ym0xaVNUdWpINEZRalZzSnJPWmdBOFhhMmM3LW5yaXZFd9IBX0FVX3lxTE9Uak54OWlLY1dzZjg0NnpQaEZmS0hlT1UtV2YtTlBhaHF3aVR0cndqeHZpWEpCRzNHaTJ6alJVQlVfQWg4Q3pBdWNMVVN2RnlDX0NnZkxvWDFqdHZYVDFn?oc=5",
-          "source": "money.udn.com",
+          "source": "經濟日報",
           "published_at": "2026-09-17T05:27:39+00:00"
         },
         {
@@ -718,7 +730,7 @@
         {
           "title": "主動式ETF一日翻多18億！00406A重金狂買欣興、聯茂| 財經",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kM1BCdS0tMWpMS0pwZUxzc0tBbDE4MnUtOFFvV3pLcnVYTXIyQUhoblBJMUp6UEhnMHdRNk5ndklCdXVTVnE2dnI0WVgzNFFxLXFPSzZqYjV2djA?oc=5",
-          "source": "newtalk.tw",
+          "source": "Newtalk新聞",
           "published_at": "2026-09-17T02:29:11+00:00"
         },
         {
@@ -742,7 +754,7 @@
         {
           "title": "00406A 連兩次配息0.138元 年化上看17%吸睛 成交量19.8萬張居ETF冠軍",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NekNOSGtiU3dhRXVkUjVOQXdpRFpsRWRlbEU2dzVIc0FSd3oyeTBMYWdFVVVMTjJEamdmYXo5X2VmRmdvTmJtV3ZKTFRNdlpPYmRkbDhSbEdud9IBX0FVX3lxTE5tdGpmVkxqdkhSUXJyd2RUTUdWcEhxdXpVaF9BMnY0WDhYdlludjFpVlJmd3V5UGdFR2lfWTF0Uk16b3R3QXFkOFdBQVNVZGJvQndlRmV1UE0tVmFzeUhn?oc=5",
-          "source": "money.udn.com",
+          "source": "經濟日報",
           "published_at": "2026-09-16T06:15:54+00:00"
         },
         {
@@ -756,12 +768,6 @@
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SRHFJWVY1TkxIVThVamFDd1dhSm9MSzhpQlNOMzFmanR6WXRCWE02R3dQUE1tQnN0dUdYWlRjY0xubE9jTjVCSldfNUVhc1JlN0HSAVBBVV95cUxNeklodXZnZFB3U1loV1VjUEZDeS0yMTBvTUxvOElLRVg5SDRZYXdKV1Z2NE94cG9fRFNzaFA4RFJieHg1b3psaEJTeGsydlVlUA?oc=5",
           "source": "ETtoday財經雲",
           "published_at": "2026-09-15T07:00:00+00:00"
-        },
-        {
-          "title": "台股量縮重挫！00406A逆勢蟬聯量能王 ETF成交量TOP10曝",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE53RXZzQWM2SU1nTG1IcE1CWmFVYlhkTjdLSHpBRXNNQmg2c0h5RnFwN3hzYW5FdU5QOWp0NUJMdzBDNjNEX3Q0Y2RiZw?oc=5",
-          "source": "三立新聞",
-          "published_at": "2026-09-15T07:00:00+00:00"
         }
       ]
     },
@@ -774,7 +780,7 @@
         {
           "title": "九檔股票ETF 創新高價",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YcGlvVGRqcS1fRDNTNVVDdzgzT1lFT0VRTTh0U1FSX3BFdGhIQlFPem9fOTJ3VlNHMEQ2cnk3dm1qLXh1VE1ZQTdnOVBOYUppQTdRTkEwSUVqeHhpZXdj0gFfQVVfeXFMTlhwaW9UZGpxLV9EM1M1VUN3ODNPWUVPRVFNOHRTUVJfcEV0aEhCUU96b185MndWU0cwRDZyeTd2bWoteHVUTVlBN2c5UE5hSmlBN1FOQTBJRWp4eGlld2M?oc=5",
-          "source": "money.udn.com",
+          "source": "經濟日報",
           "published_at": "2026-09-24T16:57:07+00:00"
         },
         {
@@ -823,7 +829,7 @@
           "title": "9/16 00407A(主動凱基台灣) 持股異動｜新增 1 檔、刪除 1 檔-ETF股長",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPX18yOW11ODNYdk1BZ0JTYzJ4ZC1zMWg3MEdybjE0clVnbUVsWTY4dVMxdmMyUl9PSlhyZzNaU2VZM0s5NV9lc3VRME9TWGhSUzdPZ1UxVWJHLVlaNm1wbVVmVVdNUHlZblpxZmFpVmhkaGJ1MW9zcjNJdmVtLUVKRg?oc=5",
           "source": "CMoney投資網誌",
-          "published_at": "2026-09-16T10:51:46+00:00"
+          "published_at": "2026-09-16T07:00:00+00:00"
         },
         {
           "title": "00407A重返10元僅差臨門一腳 近月強彈11.9%衝第一 超車00981A、00403A",
@@ -900,12 +906,6 @@
       "count": 14,
       "news": [
         {
-          "title": "台股主動式 ETF 搶鏡 前四強今年來漲幅逾80% 00994A、00981A本月除息",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyNk55X3E4azFjRTRlYW9aQnRZUUU1ZV9leU1iRG9ZSzRGX2pnSUU0dkFqTHlCUkV6UTZ0bTJHdUFjczlYc25nejM2anhJd3NxR09DdFZwQXRRZ9IBX0FVX3lxTE5oSURXd0h4cmVNd01GV1RYczlJMnltWHNvdGhmYUV2X09ORHBHakFHMXo3dnlsaU1yVlZ4Yk9vRDVTQXdpeFo4ckRwM0p1aFhuVWMxTlVNN1JfOVRteGRn?oc=5",
-          "source": "經濟日報",
-          "published_at": "2026-09-23T09:00:00+00:00"
-        },
-        {
           "title": "主動式 ETF 不香了？蜜月期變「主動吃土」這檔爆量72萬張多空血戰",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkUTRLeUxCSUpDcHo3aG03cDZ4U0JWYnByeXZJdjROYjMyWEdpUUdLMjlZSGxEckd5LURnWC1HMUg0MHhfXzFkZmt1WlRhazRxMFdJYzlsNFdWd9IBX0FVX3lxTE1lbmtnbWlaRmp5TVIycHViMWF0emMxdV9wS3k1TnRoQk8zZkY5bHdFU056RVk3MTRjTEEyMXp2cENweThoWnJyamF1Q1VwNkVOUGd5YmdlazhsSk9tSFI4?oc=5",
           "source": "經濟日報",
@@ -924,14 +924,14 @@
           "published_at": "2026-09-21T09:00:00+00:00"
         },
         {
-          "title": "11檔 ETF 新兵大閱兵 美股 ETF 009823、009824表現最亮眼",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yeUxMdHVRcUEzSVIzZFFPYVpVV3NoQ1VCUzFhSXhJYmk1SXppaTBVazlReHZ5SmNObno2T2FaRVUwYjUtVGxPVE84YzdEcHJWUDhqdngwVXdBd9IBX0FVX3lxTE1xUVFabkZyeTg4NC1WV2RqeFlfWHhMQlpXUDQzZWxlTFlLSzVya1dNOHdzN25YVUFqb0NwVkp4bHZxNUdGMGxOQmQ2S2IwSmJIdTl5eHdJMngyY0p0NHhJ?oc=5",
+          "title": "台股主動式 ETF 搶鏡 前四強今年來漲幅逾80% 00994A、00981A本月除息",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyNk55X3E4azFjRTRlYW9aQnRZUUU1ZV9leU1iRG9ZSzRGX2pnSUU0dkFqTHlCUkV6UTZ0bTJHdUFjczlYc25nejM2anhJd3NxR09DdFZwQXRRZ9IBX0FVX3lxTE5oSURXd0h4cmVNd01GV1RYczlJMnltWHNvdGhmYUV2X09ORHBHakFHMXo3dnlsaU1yVlZ4Yk9vRDVTQXdpeFo4ckRwM0p1aFhuVWMxTlVNN1JfOVRteGRn?oc=5",
           "source": "經濟日報",
           "published_at": "2026-09-20T09:00:00+00:00"
         },
         {
-          "title": "台積電法說會登場 國泰小龍基金這樣布局",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTTFJaRmJnOUtEZU5mWWlXUzF0cFA3TVg1dVAtSVJrcGNqNkx0anBfVTJUR1psZmwxUGJURl9WZWN3VzZ1UVZFLXdHSE9ScjRXRVhRdTFneHhLUdIBX0FVX3lxTFBINURSYmM4YmhjUk5rVWtjVkhkUDRRUFNpQzF1Rk5NUXdGNUgyZVFPdUY5OThUR2FHLUFtNGVqWF81QTRpQzVpTFhDWnJuR005WFpnNlRqMkNEYV8tdGpj?oc=5",
+          "title": "11檔 ETF 新兵大閱兵 美股 ETF 009823、009824表現最亮眼",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yeUxMdHVRcUEzSVIzZFFPYVpVV3NoQ1VCUzFhSXhJYmk1SXppaTBVazlReHZ5SmNObno2T2FaRVUwYjUtVGxPVE84YzdEcHJWUDhqdngwVXdBd9IBX0FVX3lxTE1xUVFabkZyeTg4NC1WV2RqeFlfWHhMQlpXUDQzZWxlTFlLSzVya1dNOHdzN25YVUFqb0NwVkp4bHZxNUdGMGxOQmQ2S2IwSmJIdTl5eHdJMngyY0p0NHhJ?oc=5",
           "source": "經濟日報",
           "published_at": "2026-09-20T09:00:00+00:00"
         },
@@ -940,6 +940,12 @@
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNT0RBcFZyQS1mOTNZOWgxWXl2NTZzYUhxU2lkcnRDVlJZalpjbzBzS2laOE0yRGZGVEwzaGRYN19lMjEyYU12dXpoS1NYcXZQbXI2NlMyMmpjZ9IBX0FVX3lxTE5lNHZLMG1rWGZ0d2dJbUhsWDVyLVp1TFBSdVpfVG1SaEtrZXZHNVozdXRWcjJqRU9wUnBLWDFlX0VlZDM3dzg5NjMxTGRZUjZKVTBPS2U3clFtMFZlVE00?oc=5",
           "source": "經濟日報",
           "published_at": "2026-09-18T09:00:00+00:00"
+        },
+        {
+          "title": "09/18主動式ETF籌碼日報",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hSE1HRmpwQkoxc1JEOFkzM0lCSHNuS0ZBR2o0QXMxaHdKdDdmTnh6UlVHTzVzVjZsMnBCdF9sNmY3ZjVkVUF4MlNsZkR1M3J0QWFzdkFTSzY?oc=5",
+          "source": "CMoney",
+          "published_at": "2026-09-17T21:04:57+00:00"
         },
         {
           "title": "ETF定期定額308億創新高！ 0050、0056就吸走近半",
@@ -989,7 +995,7 @@
       "code": "00410A",
       "name": "主動永豐科技趨勢",
       "issuer": "永豐投信",
-      "count": 14,
+      "count": 15,
       "news": [
         {
           "title": "主動式ETF新人周漲幅榜出爐 00411A勁揚逾4%奪冠",
@@ -1012,13 +1018,19 @@
         {
           "title": "AI選股大戰！這檔ETF「8月報酬衝出19.8%」 專家揭關鍵原因",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9SN2NiOGZwYmt3MlBqQXpZWDJGTlZfQTBra25mVzEtek5hYTFPMkV2ZW1Gc2Q0T1BOc1ZfVHA5TExFMjFXeFJratIBTEFVX3lxTE1sMFVKTmZKcW1kamh2RktWMUNhZ0cyRm5VbEFoVzJuODdNeUNQc3o5RjN6dTVFRjZZMGpjcW9hVVNSU3NaaTVTdjRVNUE?oc=5",
-          "source": "三立新聞網SETN.com",
+          "source": "三立新聞",
           "published_at": "2026-09-15T02:43:00+00:00"
         },
         {
           "title": "台股ETF定期定額超夯 0050與0056吸金逾4成再創新高",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RdHRsVnA2NGRnSlhOeVJDelVySUlNT0ZxWFBOYXpEbzdjVVE2S2h0Xy1Ucjc2SlhzRjJOT2hEcjdnTFRSZ1Vvd3c4UEZWSG00XzdiUUtkeW00ZWdIZGRJ0gFkQVVfeXFMUFpKU0VFUG0xRGNYNVRnZ0dhc19vUE1mdVduVkRMZ3RUWFlqZldCOVFFQWJsSmJoMEN2WVhiMVNxWXpjb0tUblA1SkVFM05lWjFkcXQwRFFaQzYzX2ZXeWpJaVFabQ?oc=5",
           "source": "自由財經",
+          "published_at": "2026-09-14T07:00:00+00:00"
+        },
+        {
+          "title": "誰說散戶是韭菜？第四法人 8 月定期定額 154 億買爆 0050、0056",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04Mk5ELW9neVRsS2d2TzN6RFZHTElXbllNM0loSFl6bEJVcTZ1bURQTGIwSUJPekNKS1NzbVVkUFZKamY1RkJnLVE3R0N0dDZjdHQ1N1VZdm9CSUhuclNTLVpmQUg?oc=5",
+          "source": "TechNews 科技新報",
           "published_at": "2026-09-14T07:00:00+00:00"
         },
         {
@@ -1084,6 +1096,12 @@
       "count": 20,
       "news": [
         {
+          "title": "1表看》981A、992A、980A...主動式3本柱月領5萬元要花多少錢？達人精算620萬就夠：搭這檔成本再壓低- 基金",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pcjV5Y2pEWjFOYTliSDVRMTNtZldKLVA5T1NsdjJ2dFZPUklLbHYxdGpaTmo3TTlueUd5dmIyNzJjV1o1eEtlX3RZWjhaYUxYVF83MHMtSEVCaV83dHFHdDZoRkVTV0xkVVE?oc=5",
+          "source": "旺得富理財網",
+          "published_at": "2026-09-24T21:21:24+00:00"
+        },
+        {
           "title": "ETF大爆發！168檔站上10年新高30檔創新高| 財經",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CWmZRRjRvSk9jemNSYzdOXzJxem15YnMtRmdLUTRfN05tbjlXT0p3MHExLWstZjF6NUZuNk9za2NJRnJOaGVhUjVNWFZHa2JQMGxYeTBKS3JuekU?oc=5",
           "source": "Newtalk新聞",
@@ -1129,12 +1147,6 @@
           "title": "7月台股低點以來 一文看績效前段班5檔主動式ETF",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2ZDRVai00LWJRSGhrcUZUWUI0Z1pLNHRxZFM3bHFwNWl6VzF2OGxKV0ZpMG0ydmQyMHA5R3FvenVCVTU3VTVDb2NpaFlwazM2alHSAVBBVV95cUxPNkRfNmhRWTBYcUVHTkdGVUZzSlRQN3JNWEpmTG1rZ2FXUEItUUtsZXNHYTVkRXk1Y0JlZk1pWXZDS1J3Wm5pRk9RX0xObTFPbA?oc=5",
           "source": "ETtoday財經雲",
-          "published_at": "2026-09-08T07:00:00+00:00"
-        },
-        {
-          "title": "22檔主動式ETF高達18檔跑贏大盤！外資搶買台股新贏家",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wNmw5Y2JSTkxUSHdma0xVRGF5bXBjWE8xZUJQMkxYNzh1cFpabE1JYUZVVU91YjZPbjRfR2JMNDZrdGgtazBSakFpUXlrQmJKSVlGQnFZWW5QLXFZUHkyMmN4OVhoSEVRem54ZnBB?oc=5",
-          "source": "chinatimes.com",
           "published_at": "2026-09-08T07:00:00+00:00"
         },
         {
@@ -1221,7 +1233,7 @@
           "title": "外資賣超338億元、最愛仍是主動式 ETF 尤其是00403A 與00981A",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FN0ZpeXRqNWJzdi0tUmk2QlRydTc1OE1aendmR3l4bWlBeHpuZXplZ0pSTjVrU1J2ZXYtOFh1N2RfaUZYLU1zUlY5ci0xV2xJUGloU2VNTU1Xd9IBX0FVX3lxTE96M2pvbHBkeEp4ZzRRYk1LdmRqY19kUDltQkZsbkNrcGpqa3JPdUNwX1pTRWR2Ty12LWx5M3BiekIxQkNmRjYxNXFIU2xlcHlIbS11VzlUQU1UU0tER3o4?oc=5",
           "source": "經濟日報",
-          "published_at": "2026-09-24T07:00:00+00:00"
+          "published_at": "2026-09-24T09:00:00+00:00"
         },
         {
           "title": "「瑤池金母」00981A波動像正2？老手剖析優缺點 網驚 ：心臟不好別碰！",
@@ -1260,12 +1272,6 @@
           "published_at": "2026-09-23T02:56:20+00:00"
         },
         {
-          "title": "00981A 兩檔衝刺",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zdjZHQ2g5Nm9tR1VmVWFFSnBySjl5bXM4LXBKSUJrQjlqNllqTFFCQ2J6bXM2Z1BUeDZ3RExtSmhhcC1LZlBqNWlyZ0xJU1lfYno1aGs4bGJoQdIBX0FVX3lxTE8yQUI1ajA5RFhjZDdjcDFLMzNmbkhTLXpzVGIya0xqbS11Mk1oWE5qM2czX3ptNURVNkVwNzFBSHdBQ3RvSkFiZEVsU3JZSEpidHR1TFFYemp6a0lFdG1v?oc=5",
-          "source": "經濟日報",
-          "published_at": "2026-09-22T15:55:06+00:00"
-        },
-        {
           "title": "【00981A】09/21 操作日報｜經理人集中火力加碼台燿-CMoney官方",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9TVWJYblpjVGtEcVpkZlI3VnFkSU9rMHhhRjRITmxGOUFZYjVTRzQ2a0RJM1BEbzZMajBzS0NjMnV4NjRQYVRMSUpUTVA5cTRhQktpclAxNk8tVl9DZF9Nbk5qTlIzYzBHOWRKbFJVbFBQMjBvNGVSbTBKb1Z4QQ?oc=5",
           "source": "CMoney投資網誌",
@@ -1282,6 +1288,12 @@
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00ZkJ0NmROX0ZQOHIwbXo0Q1ZlSUxLd0NOalN1UU41bWdyeWdGMWpYcUhJRENsNngwLW9ZLW5UcXY3YzZMck5kem9LeHpsOVJ6VWw3ajgyM1pUNWlkTUdxMjUwM3k?oc=5",
           "source": "LINE TODAY",
           "published_at": "2026-09-19T12:36:01+00:00"
+        },
+        {
+          "title": "五大投信規模洗牌！統一投信半年規模翻倍主動ETF扮推手| Newtalk",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jUkczaTU1blF3eHVWb01GNjBRSG02dG56NHRIYXExZDVNZFhudHlIWG1mbTlfZDluMndmMHpGWDlSR0lQVkg3Q0V6QV9NSlZoNGtHMGhuQ3o1ZDFwaGNsbWxERjIteTFBMlBMenprQjE4X2prZF80VVczSDdqUQ?oc=5",
+          "source": "LINE TODAY",
+          "published_at": "2026-09-19T08:07:17+00:00"
         },
         {
           "title": "九倍女戰神大戰瑤池金母！00418A對上2,693億的00981A 同一個選股池開打",
@@ -1354,12 +1366,6 @@
         {
           "title": "8月30檔 ETF 除息！00923、00982A 等14檔年化配息率逾10%",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16QjJrVGdJTlJSaUttcXJ4a3FKeElfY3RtTXU5aWJBcHFHejdNOW1Wcm5IbEJoVkh1TUJUNnpSd2JNQ3V3SFk1aVdiVktfUmJ1MTd2aUl4QkpOZ9IBX0FVX3lxTE1XU25RX1BydS1SaVZ5YzZ4cTNRLXpDODBYZ2FCUkc1TVYxSlBfSmxMdWozem0yaG9kWTdNZGxBdzc2RW0zNDJBR0VZRzJXdkZFMVpQWHc4amVmc0NsS2xn?oc=5",
-          "source": "經濟日報",
-          "published_at": "2026-09-23T09:00:00+00:00"
-        },
-        {
-          "title": "今年台股 ETF 配息王出爐 群益00927配發1.88元創新高 年化配息率18%",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LQ1RjTlZXSUljM1c1aXJNOXBRSFFaOVU5WWo2WE8xaWZQaHowUGdTRVBtRV95bEVyMlQ0TVhzbV9JZVp0LWY3V2J2VmlWUnhReld3VHk2Znd3UdIBX0FVX3lxTE9EMnJYcGRKaVF6NnNSNVlFeVNIeGtfQ25zU0x1YmpzcU1naGdZODZHd085VzdRUVdWdGU2UzF1dk5USVpFLW1LNUhVRmRpQ3NnZVNaaTlzSVNwelkwYzRj?oc=5",
           "source": "經濟日報",
           "published_at": "2026-09-23T09:00:00+00:00"
         },
@@ -1442,15 +1448,15 @@
           "published_at": "2026-09-03T07:00:00+00:00"
         },
         {
-          "title": "9檔台股主動ETF今年來跑贏大盤！最新換股揭密 這檔一口氣減碼31檔",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBremUzSHJIOXRENHBrZHJxVXhYanhYNDRqb1Jfb0psdlNiaS1hSkhjaGFEN2g5VmFJLTlxdUxVaXhPSHRuRHpxVkdia2hFNEZNSUxQU0ttZnI3eGM?oc=5",
-          "source": "Newtalk新聞",
-          "published_at": "2026-09-03T07:00:00+00:00"
-        },
-        {
           "title": "半數主動式台股ETF勝大盤 最佳2檔漲逾8成",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RbXRzdlhqVUl4LXpaaXpSZFVrRXl5NklCZkdiMFNOX19PS3YwQm5LN3FHWm5QaHpsU1JzTjdQMDMzeVJMVVdLdHZwWkczcWJ2R1Rr0gFYQVVfeXFMUEp6aldfbkFRNldIMndBLUZ0QUlZY1J1RjZPN2p4VE1ZVzJReWx4TmhUeklxTlRyakxyRjh2V0RlMUpOZFVieGRuNnRpNllEMElvVlcwYUthZQ?oc=5",
           "source": "UDN",
+          "published_at": "2026-09-03T07:00:00+00:00"
+        },
+        {
+          "title": "9檔台股主動ETF今年來跑贏大盤！最新換股揭密 這檔一口氣減碼31檔",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBremUzSHJIOXRENHBrZHJxVXhYanhYNDRqb1Jfb0psdlNiaS1hSkhjaGFEN2g5VmFJLTlxdUxVaXhPSHRuRHpxVkdia2hFNEZNSUxQU0ttZnI3eGM?oc=5",
+          "source": "Newtalk新聞",
           "published_at": "2026-09-03T07:00:00+00:00"
         },
         {
@@ -1458,6 +1464,12 @@
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMGc1aTZIMWdzX3RQWEhMS29VY0F2c21SVWVUMmNtdlkxNWxGVzZJeTgtNXZuQklhRTRibk9MNmt2RDBVV1hvZlAzMk1ybG84OXNWbmZYZS1QdlhCT0p6MGZrQUlJbENyaHVZTVU1LWlGd1ptWTd2ZEE2cFRRUnBBRmtsMjJTQzZleHc?oc=5",
           "source": "PChome Online 新聞",
           "published_at": "2026-09-03T07:00:00+00:00"
+        },
+        {
+          "title": "擁緯穎、聯發科、穩懋齊亮燈！00982A拚11個交易日填息「盤中暴漲4.82%」 18萬股民這天領錢",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBBZHZRZXdHbWhnX2RaVEtidmNKbV9wcEt1R21VUzZnd08xeDN4QmNNSG84clcyYXdEc3J0NEZaRmtMNGdtMVkwbzBWaw?oc=5",
+          "source": "FTNN 新聞",
+          "published_at": "2026-09-01T07:00:00+00:00"
         }
       ]
     },
@@ -1598,7 +1610,7 @@
         {
           "title": "9檔台股主動ETF今年來跑贏大盤！最新換股揭密 這檔一口氣減碼31檔",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBremUzSHJIOXRENHBrZHJxVXhYanhYNDRqb1Jfb0psdlNiaS1hSkhjaGFEN2g5VmFJLTlxdUxVaXhPSHRuRHpxVkdia2hFNEZNSUxQU0ttZnI3eGM?oc=5",
-          "source": "newtalk.tw",
+          "source": "Newtalk新聞",
           "published_at": "2026-09-03T07:00:00+00:00"
         },
         {
@@ -1640,7 +1652,7 @@
         {
           "title": "今日最夯 ETF／台股46K站不穩 00985A領先創新高價",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96eFU2cm1YLXlIN2NOWkVIejNnV20zckJaM01Kc3RtQy1TenV5UXR3NlZtVDlhM1ljQU8tMzViYzREWUpYdWhpeGtSSUlReklnS09GcV9YNHdPQdIBX0FVX3lxTE5tN1FnRTRCYnY2VEdrN2NoZjRmaXZ3bzJ1X09UMngwOUFjSmhGOTJ5TmR2bVZkTk8wUUhpdmtIVFFLUE9XWGxYNVpZWnVNcldpblE0eWtFTFoxSkdWSWhR?oc=5",
-          "source": "money.udn.com",
+          "source": "經濟日報",
           "published_at": "2026-08-27T07:00:00+00:00"
         },
         {
@@ -1696,7 +1708,7 @@
         {
           "title": "利空出盡！台股強彈 主動式ETF「漲幅王00411A」與「成交王00406A」雙雄領跑",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBNk04dUhkODdXQUc5TUNkaFI4WndBcHd5LVR2cGpkTkFCUWFjbjVPQW4xX2ZGbFhLZF82OUVjUnlZWjRIYVMwemxETkVWNi1MbVpFV0RR?oc=5",
-          "source": "uanalyze.com.tw",
+          "source": "優分析UAnalyze",
           "published_at": "2026-09-17T09:06:27+00:00"
         },
         {
@@ -1708,7 +1720,7 @@
         {
           "title": "主動式台股 ETF 靚 近期波段低點以來平均績效達26%",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HWFBJaWtVbElCUzB0QnRzUjFTNVRsWEkwNTB0T3c5OVhINUhZYjkwN3hQbVBOLWF4eFR4cF9MdTBiRVVaQk5XZDRzbDlWVjZZZlY4R0dEQUFHUdIBX0FVX3lxTE9NQUljb1hBNlg0YWx5a2N4NklBZWprTDFCcE5XWnhQZVVYNHF0SFBGLWFRdVhEOXEtRWlBekpfWjdvQk14UW1TVUd2emZoNS14OWp2N2lQWjNOeU1heTlr?oc=5",
-          "source": "money.udn.com",
+          "source": "經濟日報",
           "published_at": "2026-09-08T07:00:00+00:00"
         },
         {
@@ -1756,7 +1768,7 @@
         {
           "title": "9檔台股主動ETF今年來跑贏大盤！最新換股揭密 這檔一口氣減碼31檔",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBremUzSHJIOXRENHBrZHJxVXhYanhYNDRqb1Jfb0psdlNiaS1hSkhjaGFEN2g5VmFJLTlxdUxVaXhPSHRuRHpxVkdia2hFNEZNSUxQU0ttZnI3eGM?oc=5",
-          "source": "newtalk.tw",
+          "source": "Newtalk新聞",
           "published_at": "2026-09-03T07:00:00+00:00"
         },
         {
@@ -1774,7 +1786,7 @@
         {
           "title": "台股主動式 ETF 剽悍 8月績效十強包辦七檔 00992A、00987A等漲逾二成",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KZ3l0UXRYck5xY3hKcTVaQU9adlIwcGlrTXl4dVdPTTFraVBtNXZISEJBRzZOalhhSW51d1Y4U0xYOFVoZERhekwxb2xLUkY0cFVHTlluUTRGd9IBX0FVX3lxTE5lSkZ0V3pwdjhsaTRBWkVRNTlOekFCWHR4d2Jlb2dPb0h4NDhFcVVuck9UMGVNRTA0NkQ3WjczYTNtNFExcHlBME5BenRfOUpMcS1ZR2Z3QjF2aTNNcXFj?oc=5",
-          "source": "money.udn.com",
+          "source": "經濟日報",
           "published_at": "2026-09-01T07:00:00+00:00"
         },
         {
@@ -1812,7 +1824,7 @@
         {
           "title": "主動式ETF大換血台達電獲搶進、鴻勁遭重砍| 財經",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iOU5fbjhHRWx0RWtZOUlPdUtKcUlkbUNvQ19pVmhFeVN0VTdIMXBLeVhLNDZOY1dfRWhEb000MGZrMG1tYXdrWEpmb2p4QlBDT0NOUmF1MUxkZFk?oc=5",
-          "source": "newtalk.tw",
+          "source": "Newtalk新聞",
           "published_at": "2026-09-22T02:34:21+00:00"
         },
         {
@@ -1842,7 +1854,7 @@
         {
           "title": "主動ETF洗牌！世芯-KY遭全清倉 資金轉向聯電、南亞",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FRENxSFdUankzcFoyWVp3LVQxeXdUd19oN0FKWHZaWWRYMTFCTUxIY2RjU3dPczhIRWVZQWg0QjVIWU82TzN0MlliQ2RGeVozX2twYjEyQS1RT0k?oc=5",
-          "source": "newtalk.tw",
+          "source": "Newtalk新聞",
           "published_at": "2026-09-18T03:20:42+00:00"
         },
         {
@@ -1870,10 +1882,10 @@
           "published_at": "2026-09-14T00:10:00+00:00"
         },
         {
-          "title": "男友偷貸款買0050、00991A 她怒吼：重點根本不是賺賠 - 生活新聞 - PChome Online 新聞",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT1hFUHpqYnpEQXI5RzRQbmw5UnZpVFUwM3o4Zy00WG9LSW5QMU10WUlIdjFuN3NJRFE4ZTZnZERPV2M2XzhocXgtbTJTbW5jM19EcFRUV2w3Q05ENmRSZHJDSEFTU19HSGJ6OS1HX0w5N1p3eDUxTmVZZlIyb1JQWEhoREZiMUY0RGc?oc=5",
-          "source": "PChome Online 新聞",
-          "published_at": "2026-09-10T07:00:00+00:00"
+          "title": "男友偷貸款買0050、00991A 她怒吼：重點根本不是賺賠",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45MkNvZUVkSUJZMnZJLTFsckdmcFlBUzU0V04wVGZ6NjMzRm5jRjk0dHB2VjFjdUZrZ0pnTGFnWW13T19lS3ZEa0lkNndGVEhVM3c?oc=5",
+          "source": "蕃新聞",
+          "published_at": "2026-09-10T12:26:45+00:00"
         },
         {
           "title": "00991A 主動復華未來50 - 09/09 主動式ETF共識｜伺服器遭砍，4家逆勢大買穎崴15% - 股市爆料同學會",
@@ -1940,7 +1952,7 @@
         {
           "title": "8月反彈強壓大盤 這檔主動式台股 ETF 漲幅居冠",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85WXZPczVKTkR0a3BwX2I4ZHVVMTZHcmJzMVVXMG54LVZpTkdiLTZXTlBkOWVWR09WV01NZWhuS0F5TkZDSDI2MzZzVlc2UEtLY0tnUWJTaVRxd9IBX0FVX3lxTE02U2lGZERXVkNMTEppcVFVdDNEamh6RHo3aHJEdjhiazFDVGp4R19Cal9hZDdtUFZwN3pDVlpYNkVxTHVEbnVfV1hrNHRsZjNSeTRHN094aEhQZzJJRWNF?oc=5",
-          "source": "money.udn.com",
+          "source": "經濟日報",
           "published_at": "2026-09-18T09:00:00+00:00"
         },
         {
@@ -2004,12 +2016,6 @@
           "published_at": "2026-09-06T07:00:00+00:00"
         },
         {
-          "title": "主動式ETF績效排行榜出爐！前三名狂漲8成，達人卻提醒「一件事」",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1b242U0N1UTVXYldEbi1mZksxUTRRejdoNWpZdjQyb2ZhX2V0Uk4yVHl5RTI3anN1cFpfSWNaREN1VWQ3bDBBZmstTQ?oc=5",
-          "source": "三立新聞",
-          "published_at": "2026-09-05T07:00:00+00:00"
-        },
-        {
           "title": "9檔主動台股ETF勝大盤 00992A漲84%績效王",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMlk1ZnlNZFBIdTkyalVOS3RXaVZ3eDlFVmxHcmVLMDYydE02d1F3UHVIQWdFcGppY0Rja0otZnlfNXdQTWdrRGxDR3NMajdKZ3lEM0NSSnMwcm1QZDJ2ZlgwWFFzb0c3aVJLeFJsclBRYks3T1ViN3A0ZGpGNUxDUw?oc=5",
           "source": "PChome Online 股市",
@@ -2038,6 +2044,12 @@
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Cak9ZbmNDQ3Qtbjdrd3NkYzFjclRTZnRzWXBNRnppOWs1N3Z1WXVLdjh5X0NidlpiN1MtOVpVOG91VEhhT3VQaUE2bw?oc=5",
           "source": "三立新聞",
           "published_at": "2026-09-03T07:00:00+00:00"
+        },
+        {
+          "title": "【00992A】09/03 操作日報｜盤面波動，經理人調節伺服器滑軌大廠",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1WSmZUb3VNOUZsdm1yS242cDRiQ1ZvV2dlaGNad1NNdF82UDRZTXRFeDVXNl8xNzFnMmVkb3lXYV91cnFObGI3cGJHMWY5UXg0b2tVVXFfYUYxOXIxbmFTdnhsc21qcmlMbmIxRngxaG44eTR0Tzk2UUd4d29IZw?oc=5",
+          "source": "CMoney投資網誌",
+          "published_at": "2026-09-03T07:00:00+00:00"
         }
       ]
     },
@@ -2056,13 +2068,13 @@
         {
           "title": "連假前觀望 台股收跌132點守住48K 台積電跌25元、收2,475元",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WdVp3bTRnUEtxVWFRb1ZtUnd5MnVUb3UxQWdhVDdDUmdEUWZRQ3ItSTc3STVJQ29WVDd2a1FmdVJTZVE5aVV5YlF0a3FUV2JkSzlMNEdJQXNBUdIBX0FVX3lxTFBPTmM4bG9FQThwV1NFODhJNzJoZjNlR24xQlo2dEhUSjFiVE0xekp6QVdvSUpDVmZ3aUZheXRpOV9oTVB0bjNuaVFIZ29TekpRcERCVVp4Ymh3QnRCYzg0?oc=5",
-          "source": "money.udn.com",
+          "source": "經濟日報",
           "published_at": "2026-09-23T09:00:00+00:00"
         },
         {
           "title": "主動式ETF新人周漲幅榜出爐 00411A勁揚逾4%奪冠",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oVm1tZDAzRzFfTjlUMmtDNXZDZ19PaWNKc2R5aFh0ZUtreHdORXlKT1pIaFVNam1wekVXRzUxd0JmaTFMb2lVYzljTQ?oc=5",
-          "source": "鉅亨網",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sMGVranptNHlfZS1ib2NVTzluR2RpQnFRZ2xhWU13cnZESXZ3T1FHWnhCODBRcS1NLVZaYVVwZXhjVUZsNUFOUU5vZGhrdHM?oc=5",
+          "source": "news.cnyes.com",
           "published_at": "2026-09-21T03:53:20+00:00"
         },
         {
@@ -2142,7 +2154,7 @@
         {
           "title": "本周 ETF 成交前十大主動式霸榜！這檔日均量26.5萬張最高",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43UFhFQW9sSEJIUzlyYTVyeXRodFNwdjc2a25JREdPV0I2OWtGRXNzYW9MbTFQX0kyT0phc3lkTk81ekdfRFNiQVVRYjZXQjRkbHVUa1NkSnNRUdIBX0FVX3lxTE1nQ0N1YU04ZWt1OWwyaGVydkRuMGJXcU0zcW1nZllfZGZxYUI2LXBuTmprdWdNZUh3UFhjbS1jS1YtaDJSZEdveVdHcGNTekdpODhnVldSZXNmVjFSWVlV?oc=5",
-          "source": "money.udn.com",
+          "source": "經濟日報",
           "published_at": "2026-09-23T09:00:00+00:00"
         },
         {
@@ -2154,7 +2166,7 @@
         {
           "title": "台股主動式 ETF 搶鏡 前四強今年來漲幅逾80% 00994A、00981A本月除息",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyNk55X3E4azFjRTRlYW9aQnRZUUU1ZV9leU1iRG9ZSzRGX2pnSUU0dkFqTHlCUkV6UTZ0bTJHdUFjczlYc25nejM2anhJd3NxR09DdFZwQXRRZ9IBX0FVX3lxTE5oSURXd0h4cmVNd01GV1RYczlJMnltWHNvdGhmYUV2X09ORHBHakFHMXo3dnlsaU1yVlZ4Yk9vRDVTQXdpeFo4ckRwM0p1aFhuVWMxTlVNN1JfOVRteGRn?oc=5",
-          "source": "money.udn.com",
+          "source": "經濟日報",
           "published_at": "2026-09-20T09:00:00+00:00"
         },
         {
@@ -2185,12 +2197,6 @@
           "title": "欣興、南電「難兄難弟」輪流跌停！多檔ETF被拖累 009828及00991A成大苦主",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1sU1plTHRYM1RGcXRJZ3RXREt2Tnh3M0R0eDdOZTNLTzJiSGg5QXd2cnFNTGVOcG1CektCUWlWN2pmOTViRjdBcnVXTmFSRl9TZUlvbGM0dWtiQ0VqWEQ0SUFoRVFBQTNEVXF0VmdKdw?oc=5",
           "source": "知新聞",
-          "published_at": "2026-09-03T07:00:00+00:00"
-        },
-        {
-          "title": "9檔台股主動ETF今年來跑贏大盤！最新換股揭密 這檔一口氣減碼31檔",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBremUzSHJIOXRENHBrZHJxVXhYanhYNDRqb1Jfb0psdlNiaS1hSkhjaGFEN2g5VmFJLTlxdUxVaXhPSHRuRHpxVkdia2hFNEZNSUxQU0ttZnI3eGM?oc=5",
-          "source": "newtalk.tw",
           "published_at": "2026-09-03T07:00:00+00:00"
         },
         {
@@ -2226,7 +2232,7 @@
         {
           "title": "00994A、00728除息前 最後買進日9/17",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90Uzc2a2g0MUlJWE9jRmlORGdxcHRTVFZOOVd4NTRwRjI2M2dGc3NuN19WbVk1ZVJ5Y3p5Y1R1bzZOVk9lNGpobm9DaDlOQWlRWm1US00xVUZSUdIBX0FVX3lxTFBnaHZ6TXpnQ21LS3daUjVlRnByWmFmN3IzTWNINjB0Rml2VWhKQ28xakxRNXBWWUFGZUhxX2dtcHpnbTEtbzBzenRMSlhEamdzV00wV3U1cTE1N3R2cUk0?oc=5",
-          "source": "money.udn.com",
+          "source": "經濟日報",
           "published_at": "2026-09-02T07:00:00+00:00"
         },
         {
@@ -2252,6 +2258,12 @@
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ1VOemhWZFFlc2lTbWgyajNmTmw1dXBDMV85VFNUTjFFRkI2SzlEMzBqN2ZjU3ZfU2JTd0t3X2ZKZDZqMGZlN1duWHBUaW9IaFdvZFhnTVhPcHltaFdBUHVaa0FzWnMyYVZRMThMYlcySlVLRHZoeS1kNk9JRnBpRw?oc=5",
           "source": "今周刊",
           "published_at": "2026-08-29T07:00:00+00:00"
+        },
+        {
+          "title": "欣興遭搜索 股價創高後跳水這些ETF挫咧等 | NOWNEWS今日新聞",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aQzNlX3g0TlhLUEZoZnc1T3hhb0ViVWM3YnZmRXlJUkFXb1VHTlZZSjJ4dGNsRUdSQ1BoN2NZZFVlWXZwWHl3anRSVVE3Yzh2ZGtvdk5B?oc=5",
+          "source": "LINE TODAY",
+          "published_at": "2026-08-29T07:00:00+00:00"
         }
       ]
     },
@@ -2264,7 +2276,7 @@
         {
           "title": "台股摔逾2,000點 三大類 ETF 逆勢紅",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WbWQ5c2NWbHphZ3ZIZGsxQVBTUnotaGk5Vm90OHF3WlNTYmU3b3lQeFVMLVRLMDNTQnhhLWM4RkFHVDEzZnp5OFNnV2NBN3gzNEUwWGZESHJzd9IBX0FVX3lxTE83Z21kRFdBZktwVVRLMXg5ZmM1WDFmcHMwVEdld3dqQkVrd0t2TWlGeXNndDgwMElMaWxMeC1tVVRfM21UUFBMMkoxUlFudVI0OTQyR0JQd3hIdXB4ZGFv?oc=5",
-          "source": "money.udn.com",
+          "source": "經濟日報",
           "published_at": "2026-09-18T09:00:00+00:00"
         },
         {
@@ -2338,19 +2350,19 @@
         {
           "title": "獨家／金融圈高層震撼彈 公股四合一前夕這家公股投信董座拋退休請辭",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wLWw3Q2d3MTREZTMtQUxFdTI4STRCUWtuQkhMTWVOb1d5RHpoSFQ1bjB2NG5BWFlPVDl1S0tFd010TW1sR2p0Snc1dTVfNlZ3SE8zTnNSSnZPQdIBX0FVX3lxTE1NNmJzM2RrQzM1SDgxbDZDaDVjRFB6MHRWN1gxUkZIZDdSRXJCWkE4cE9MR0xVb3NqbFcwRWdqdGpWRFNmTGVRc3BueGZ1SjFRRUR5U205R0VCeGpmNEZj?oc=5",
-          "source": "money.udn.com",
+          "source": "經濟日報",
           "published_at": "2026-09-21T09:00:00+00:00"
         },
         {
           "title": "主動式ETF新人周漲幅榜出爐 00411A勁揚逾4%奪冠",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9oVm1tZDAzRzFfTjlUMmtDNXZDZ19PaWNKc2R5aFh0ZUtreHdORXlKT1pIaFVNam1wekVXRzUxd0JmaTFMb2lVYzljTQ?oc=5",
-          "source": "鉅亨網",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sMGVranptNHlfZS1ib2NVTzluR2RpQnFRZ2xhWU13cnZESXZ3T1FHWnhCODBRcS1NLVZaYVVwZXhjVUZsNUFOUU5vZGhrdHM?oc=5",
+          "source": "news.cnyes.com",
           "published_at": "2026-09-21T03:53:20+00:00"
         },
         {
           "title": "00631L 增持台積電個股至四成 貼近臺灣50指數單日正向2倍報酬目標",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96cnhBVE9SVmFlZzExVXdldzliNFB6bFozYWpNblRYSFlvN2hSYUdTQ3lPSDNGLThBdWFoMkRKUWtuZ01CNjJhc2pIcl9QREk1TnprVE5tdTNrQdIBX0FVX3lxTE81eXVrQTN6ZTVqTHBRRlNZYnRfSDNxbHlNeDJUbWM1bFJWQ3c0WWIzMXFpNFBCN3M4RE5ZZHBuYnZtM2pjRXlEZU1Gczd6N3ZfcnhzUWxzWXk0U2NDREZF?oc=5",
-          "source": "money.udn.com",
+          "source": "經濟日報",
           "published_at": "2026-09-20T09:00:00+00:00"
         },
         {
@@ -2388,7 +2400,7 @@
         {
           "title": "主動式 ETF 上周加碼聯電1.7萬張 六檔金融股也進榜",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1INmtzV29PUTZybElmbDFHUjZzQTNNamc2WlhhYUhVZldhUld0dHdwMTE5VjFlX1JUWmFFcmUyWG5peUR1eEk1bEs1eWJrcGhjTTZkLU4zWXhnZ9IBX0FVX3lxTE0xSzlCNkJjZDU3WFc0MWNRWXlYZG1nOHdWanV1MEhlS0V0WXBWT2VUWUQ2eXZfSHA2dWJHRktTNjF4RlRWWC1kMzFQdl9FMFRQc1ppd0VkYWRrYjRwOUo4?oc=5",
-          "source": "money.udn.com",
+          "source": "經濟日報",
           "published_at": "2026-09-23T09:00:00+00:00"
         },
         {
@@ -2422,15 +2434,15 @@
           "published_at": "2026-09-17T23:30:00+00:00"
         },
         {
-          "title": "AI三巨頭齊喊模型降速不妙？野村投信解析後市 00935、00999A有新公告",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WLU9zUWJVTXdFeW1YNE85dHVtQnJBRlFDTktRRHdaUWxINjFrV0FFd241U29YaExxZUtaY3pzRDBPRGV6cUJSY3FPN1p1SGs?oc=5",
-          "source": "news.cnyes.com",
-          "published_at": "2026-09-15T07:00:00+00:00"
-        },
-        {
           "title": "年化配息率飆10%！00999A首配0.29元「8.6萬人已上車」 AI三巨頭齊喊模型降速投信這麼看",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBZODducGlLVGlCUG9LU2M3cUZMRmtyZmtZX09CdExGcnFSY0tsRmdTczVrSjBfcllXQW0xb05UWmFjY25qaXp6TUlzSQ?oc=5",
           "source": "FTNN 新聞",
+          "published_at": "2026-09-15T07:00:00+00:00"
+        },
+        {
+          "title": "AI三巨頭齊喊模型降速不妙？野村投信解析後市 00935、00999A有新公告",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1WLU9zUWJVTXdFeW1YNE85dHVtQnJBRlFDTktRRHdaUWxINjFrV0FFd241U29YaExxZUtaY3pzRDBPRGV6cUJSY3FPN1p1SGs?oc=5",
+          "source": "news.cnyes.com",
           "published_at": "2026-09-15T07:00:00+00:00"
         },
         {
@@ -2448,7 +2460,7 @@
         {
           "title": "AI三巨頭罕見齊喊「降速」、Fed升息又添震盪法人：AI投資還沒踩煞車| 財經",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94X2tOMHh1aWpaZC1pQ1ZDS1VZUXJhZGpUUTMyd19oV3lUMFVUZ01aRDlwQXQ4ZHV0N2R4T182RmtyZEFfakNjcDBlR2xNSDZ3YWdCbWdOakYwVDA?oc=5",
-          "source": "newtalk.tw",
+          "source": "Newtalk新聞",
           "published_at": "2026-09-14T07:00:00+00:00"
         },
         {
