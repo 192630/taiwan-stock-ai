@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-09-24T12:35:02.337386+08:00",
+  "updated_at": "2026-09-25T13:34:57.727583+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "9136",
   "name": "巨騰-DR",
-  "count": 1,
-  "news": [
-    {
-      "title": "NOAH 諾亞財富管理中心- 諾亞控股第二季財報出爐！每股非GAAP盈餘0.51美元，營收達9136萬美元- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzejBtMFNCdFAwWTNHQXZ0SEJjc0djdjNaZTNURC1GVVlnVXY2ZHFPYWt0U3dpY3RkR2ZWT0YzQnlJT2xTVE15LVhoVzUyOUNOTHVnOHY3Z3k?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-25T07:00:00+00:00"
-    }
-  ]
+  "count": 0,
+  "news": []
 }

@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-24T12:35:04.196085+08:00",
+  "updated_at": "2026-09-25T13:34:59.525333+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "9905",
   "name": "大華",
   "count": 12,
   "news": [
+    {
+      "title": "$大華銀行 (U11.SG)$ 又是猜對了。 [偷笑]",
+      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOZ3BPYlBDVEwwYkxaOF9UdEFvN3ctUUVJdVBmWEw1b2QxUnZzVEhQTEtDX2tKRnBNcXdFLUlKZEo0dDBYWHAxZUJFdTVkaDBRalVKaXBKeTl5Wm5NZ3RVUDJPZ25FYm1qaGVxYS1HemFwaFI1T0oxNzZqVy1nNnJqb0diWElDTlh5ZDNZbzZkY2ppcFFMWmd0SkJlMlJSZGFSNm9IdXhwanFobDVFVkZsMXVFSDR5VW5MSnQ3b1oyaGYtMmduYXJWX2VrYkU4eDlURnNmTTRBTUVEMUg2VGQ2UFNlWUQ5Q0xoenQyUHphYUxGcFc4VUM4V0tUR01kVkFTZElXU1QxdjRXUFk3U25LRTJ2TjBNelgzYWFiekQyVWdhOG90WDVRVXZ3T1ZSNzdNS1FMVlBEcWpsQU5BanNuOTNmZlp0MEtIR1A1S1ZMcjdUWWQyUkVNV21Pc1dqaDZYUGpIV0N2eU1Edw?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-24T01:12:13+00:00"
+    },
+    {
+      "title": "$星展集團控股(D05.SG)$$華僑銀行(O39.SG)$$大華銀行(U11.SG)$ 聯儲局理事邁克爾·巴爾...",
+      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxObE1RcUI2a2VzRDI4R3o2TXFYSk14RmFLNk5URXYwcHlycmFRbnpxZ1hORWFHLUZQN3BVT29ObWFxS0FBS05hTXB3MjFZUzlWNWJKUmtlTklCdnlGVHkwVEJ6WjdCeTE4SmFFVUdaYWxZRlRsSlQ2cThHTzJQZHRDQzhjZlRUMDNtd2tLYU9oYWQ5b3NON0Z6V3lEMGtnaXVrVmNoUUtsZWRFWmxNb1V3OUZKbjNtQ3k2QWpqZWdFQm5ndzduS3hRdWxEdzF2RFVNaE5lUVR4UFhGb1E2czc4NDRTUXZteFpxeDJURjRlbUlleFE2WVgySlpHZ2M2TWNPcWJmeXRicjg3bGVMSkdLd3JoUGNHalRNMW9CYXVNQk55NGN3dWE5SXlCSFpwR3dLMlduQTlZc2RGSU5qYW9TUGVmYUtncXdiWng4VDhWR24xOS1PSG0yVng4LTZfeDJySXFrajh2ZUFmcldiV0dlY2dDcGdXbms?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-23T13:11:00+00:00"
+    },
     {
       "title": "大華銀行(香港)歡迎香港政府《第一個五年經濟社會發展規劃》",
       "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPdTJTWHI3cXJNNWxkODdHOVFWOXQ1MnNRMDZmaGhfQkdNUTRKeG43NnVRTUdqWlk5Z2JsU1pBVDNRb092RktYd3cxbXBiZEU4VVRzZGJpczBxbW9OQmU1SkpzLWtfbERzSU9DMXZ2VWhNclZlRXV3Y1VicGItcy1hU085ajN0aHJiZ3NaOTFHYVZHLXM5em5ySi1yQUVxSzZBcWEyUXJqNlIwOEdETEFIUEI0d1k3VEZGMWRuXy1URzRNZmhPdDY0cW1PbzY4dkhMLVhuZXZlbWU4YTFyQmpGSGowMU5MSU01bDJ5RFJNb3RwQjVNV2JrS2FNWDNURWRRQXY0VmFOMktYSUxoVm41MnRGTjhsLUxCMXFYYTZFOEw3QW1BdzhGQVkzZ3lwcVdyYzBjalotLURPRHN3RGJCQ0lQMUcxZzhPclJsZnQ3aVFXNjA3Z1h2VUMwQjdoYTVRNmgySXRjWG9iamlMX3hMTElXMkNfOFplaDNGajFyQnFjN2c?oc=5",
@@ -22,6 +34,12 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMXpGV1VGQ3FaVFVmNmh2d1puLWtKR1FYWTl1QWY5dzZGTGR5Q1hDR1c4Z3AxS0xGcEtmMXBidUcxQm16aDFFcXdDVTk2X0xyNkRZZGl2OWJWU0dGZm1FbElZT09nT1BBWWZoaDBpeU14enlhZ3JEbF82dDVaclhQRG1ySjFOdkhUV1NuT2duRGp6VHp4QV9sT1FjdzRCTjVZbzdxT3NzQUViSG1hTm5PZ2ZrLW4xc0o3TFE?oc=5",
       "source": "富途牛牛",
       "published_at": "2026-09-23T03:34:09+00:00"
+    },
+    {
+      "title": "$大華銀行(U11.SG)$ 相信UOB會下跌。 日線布林帶上軌被突破，從歷史來看，每次突破上軌後都會下跌，隨後再緩...",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQXy1qM1RjUklHeEVzeFM3TkluZnpGb1pNbExsdVBqMFIxYXdMU0h6OEpHRW5UVk5hVUl2TDRDdEFvNjdaRzhIeWRQUmtwUkdpbzBTZUNSTnVNNThrQTZMMDg0V19yNy10VnBPN3ZmVEtuTkU1bndSRXN0RGVoWFVFakRhbWg2U01rNkFIOGtsQUhEanloMnVfTGtiUUN6cUxnYmxnSFNXR0JEdw?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-23T01:10:04+00:00"
     },
     {
       "title": "大華銀投信這檔ETF 9/22淨值創高",
@@ -58,24 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPaVNwbkJxTnVZRUhvdW14NUFSV2FoLVJEX3dNU1NIcHlwbTd0UndVa0tES2pzOXY0cXRzbGpITVlWY1JkNTZCRXYteXdMcm8yNV9SLXFSUk5VQ1FndjVNWlB6bG5DaW82dlJqTFVJX2c4b1d2N3E2RjVXdHB0REdwX1QzdUNhLTl6NGlHUFpITzFnaDR3ZEVCMjQ3cHhteFNBNVhpanI5TmF0RVZCODk1Ukx3M3BNa2Izb1dIWm5BMWtwMFNULXkyZ3UteE56Uk1rNHBRTUZ2dWhXTV9lWlgyeEo1NGJHaDAzaDZUdVRyc3BkQ3k2bWRvTUJfZWRfTUdUMjA4bm1kbXlYWkx5VzEyZDNsc2pNM1NWTlNweVYyWEEzcTRmS01vdVlWZWFyV090S2FLakhiYm9zUkp5YlVEUEpXdE9CSG9ROC14YkFiX2w0OVpUQkREOHFyMHJCc2g5ZDBEakZwT1FsdGowMkY2MGZEcFZKVHk0?oc=5",
       "source": "Moomoo",
       "published_at": "2026-09-22T03:51:50+00:00"
-    },
-    {
-      "title": "$大華銀行 (U11.SG)$ 求歷史新高啊 [偷笑]",
-      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPUGV6TkxqMU1RaGljR3A1aVRGTC10U09ocklwME8xSGdWczU5dXJDMVJUc3lUaHdVd0owai1GT3lMbXdjcEZLb3RWM2RhRVVnZzdreEJLVWliZnNrRHZwajBnWDlWUUF2WjdnMjF5ZEJ2aEdnbTJERGFkcTVHdW5TOWg3OGJMNHFxUHdEWExZLTh0dmRmdG10V1dDZjMtVVd3U185UDlFb19ETkZUNzhBWnd1cGNrSW9kdThodnpvUUVFOHAwM1FaanVXeFNORUY4enBjdGRuSGc5cEpfY2FCczBFd0pqdjByZlcxX2hhQ3ZpZUtjX0s4bnBUWm5nQXloUjBwYi0zMGNPTTRTbVY3NFBhZWMzSWhlZnBXS2pmOExMcVhsTTFSV05NbDNYTXpXdV9DYWRNdlllb0VtRHpfRmVacVlEbktoZ0lfMUxSb2tOVEs4dHdaRzlxdlg4dw?oc=5",
-      "source": "Moomoo",
-      "published_at": "2026-09-22T03:47:31+00:00"
-    },
-    {
-      "title": "$星展集團控股 (D05.SG)$ $大華銀行 (U11.SG)$ $華僑銀行 (O39.SG)$",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5REQ3cjdjVnJpelBRSzU5bjhFSk1oUFpleDlUYnoxdHVFeE90azBwcGJRUUJOMk8yY2F0blpDcHpTc2tISk4xb0ZudHNwdWxENzMzOU9SSjZwczFnZnFVMjZjUEtadFV5QUNaN3QtUUc0S1dlazlNWg?oc=5",
-      "source": "Moomoo",
-      "published_at": "2026-09-22T03:13:51+00:00"
-    },
-    {
-      "title": "009815 大華美國MAG7+ - Magnificent Seven 創歷史新高- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBWDZTQjRKMS1aMnhVSUxpYWtpZzc5QjNyLUNTTGZibFhqdF9FTnJ3aUM4UWtIX1dKQjYzLXRieHQ1cm1LNVI1WFhPOXBRRGtTRXFQdV8xTHA?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-22T02:42:38+00:00"
     }
   ]
 }

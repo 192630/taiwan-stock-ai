@@ -1,20 +1,26 @@
 {
-  "updated_at": "2026-09-24T11:35:40.065124+08:00",
+  "updated_at": "2026-09-25T13:34:42.340513+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8477",
   "name": "創業家",
-  "count": 5,
+  "count": 6,
   "news": [
+    {
+      "title": "卡達商會在杜哈舉辦女性創業家對話座談- 新聞與統計",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOTN3VzQ3dk5OaFhGZ0hpaTRJYTR0T2NtT0NqZ3dxRUZFUWJHdC1iSWN0TGtGSkpfRW5UZEFtWGlyYlR4YTl6YUNOdTVvY3pkT2V1U1VqcmNUYnpsZlpSZ3pIajF3YlJsdWJQZ2kxTnlRMFZzNDlnNTVNcFFMbXZRancxaFpGQ3FXcTRPU2tCSE4xWU5nSjNBM21LUHZaNjVDZ21fdWlrVEd0dw?oc=5",
+      "source": "IndexBox",
+      "published_at": "2026-09-23T14:21:05+00:00"
+    },
     {
       "title": "景順全球創業家基金C股美元 - 配息率與配息紀錄 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYdktKNkc4SVFMeGVxRHMxOW9pN3lCdy05QTMtcXh6T2E3c0Nuc0N3ZkNzbGlLMlFMOS00elJCZEh5Mk41UE1TeDJ1T2xmaGVxUmF6Y3U4amd5ZEVJVUtibFhn?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-16T07:00:00+00:00"
     },
     {
       "title": "8477 創業家- 【百年世家】153年不上市、獲利九成回投，科勒憑什麼富過四代？ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vVHBwS0NjSFJtbldJUmJDNWdoT0RsRzJlVFFIRXRiUmI5Z0lERDUzTm54QjJpSjhKd3pwSkhFZXJ3YnhDQm02WGdFcHRqLWhQT0hEdm9pcmc?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-14T17:20:35+00:00"
     },
     {
@@ -32,7 +38,7 @@
     {
       "title": "8477 創業家- 創業家115年8月營收2451萬、年減3.78% - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0VjZlMWQxVHBaWFRLQWtpQjB2Tkpqa0FDRWZZV0c1cnk4RE94T2M0WVJCNzFGVkloYmdFNmtva29XV29JbkZJNzVtWXFZUTBVOWxVY0ZQWVk?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-09T02:58:01+00:00"
     }
   ]

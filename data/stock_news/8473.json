@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-24T11:35:39.247804+08:00",
+  "updated_at": "2026-09-25T13:34:41.468162+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8473",
   "name": "山林水",
-  "count": 6,
+  "count": 7,
   "news": [
     {
       "title": "中秋連假暢遊新北 感受山林水岸秋日風光",
-      "url": "https://news.google.com/rss/articles/CBMi4gVBVV95cUxOUFktZDB2eU00QlNpMTV1TlB4VWM4aFg2b3FUdG9SQllEbDV6MzRfaFFYdGFMMDliZEpiTWFSWG9ZREgza2ZyelpocjFIVGpnN0hmTlNKaC1CVE9jWlpoeHNQN1ppczlVU3ZndEJ4Q0pmd3lvYko3RldKNkVpdUg3TFVXdDhMMkZPX2g5bWdVZEd1VnFZNDg5a0FheW05SHdnWGU1NFktS05fMHM2eHItZU5uc0w4RzIzWWk0UFE0eTFYYkhCVThBZ0JKMEhhQURoTzJXNGNad2k3akZSLS1ranRYUnByMWdhbzZkMG5nMmQ0Ry1aeWd2OFVOMUE3eXh5U1NFNVdUNmxxaDFPeUZKbDZJN04zRTNPUFFITDZFaXNoWGVZbmNmVWZKekgxOFBUcTIyN00taVI2WlBicWQtSHF0VUYxRVZoNEYya2xHOW8zUzVmeXlzdHR1RFVBUEFDY2F2SEJqdndNVVN6bmxPVHZoeng3Q0IyZ21wQ1NzWnR5cC1Mcm5rRHVkUnZ0VFV0dWo4U2czWnVZNTNGOVRSRktmT1dMSmJBR0lXNm5TMmx2QTc3MFFaakp6eHpiNzhMRGxlRDNrTnk5WXoyc3M4Zm53VVlFVDd2WFBlNlFXSTlQaFFtMmxKWGVVMkVkMEFTd0FNTUtsSGZrMGVnMVhJcGtZdGd4cGJjVzk0MGV6a21EWlNoX2RXczZHWXppYkY4SmsxWVdERmozSm03VkVzS0E1TUdwclo3c2FqVFl2VkdiMjh6bUh6Q045b1hkamEwTjVQMFR5eWJqLUx6RGY1V1o2VTRoS2s0a0dVR2VmdFVFcFVra0RZZDVOaXE5bU5Jc1JoVGhGbk1URkUtVmcwYW83UTVKWFFzY200anRHREhvN2diNmQ0S3BlN0F1ZGNIenFQODNYTGgyTThSbnJGa1hNMTNqSmdCZXM4STZnd2R2RlpWNXBJc3E4UG5GZm9yQkE?oc=5",
-      "source": "理財周刊",
-      "published_at": "2026-09-23T09:47:34+00:00"
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQWHJKWjg4T2Z4TzBrMUZqWkFqMEpsZEdaS19lbGxPV0lwdDBoWG90VDBubVhUYU1rX2szblZDei0zYnA4dXNvbnRuQ0lNTGszMFVjeEtaWS1oTkVEM2FuXzNvc1BUWDhUaWhLRWNLZGdaeHhhVTZZTEZNcUh3UFBqd1p4eVAtd2ZFcldTajRmc0NFZ2tYam1mZkVtWC1aOEZwSTdKd3ZPYjlqZGMxQVFBYkxhOG9teTR2V08yZVlDVTJRNFduZGdqNVFWemF5ajhVUkplX3BNZm5jQUpPX0pSR2hBaVVBR3M5VzZTVFpLZkRiVkJIX1kyb05uc1BMdTc1d2JEZ2l3X3NiQ3U0RjNLYmw3d2FnVTBVNFFXVFdCU3BBZTZhZ1dUZl9SVi0?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-23T12:51:07+00:00"
+    },
+    {
+      "title": "山林水環境工程股份有限公司",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZFJCSkZIWDFhdmN6Z29uVGpwTGhwaGE1SFBuQS1PNDNuUmwzRTg5OGY1bHZiSmVUMWQyUkpIeDdkeUg1cVVvREFjT2xrOXlnelNNc1Z1c21tV3BKTHBPeS1xODVVU3NSWW1Zd0lvRTJIMGllUnV3NHpNeHB1Ymp6RXYzTUFnaWpLV19VcUFFc3NzV0NxZk9F?oc=5",
+      "source": "MoneyDJ",
+      "published_at": "2026-09-22T02:30:00+00:00"
     },
     {
       "title": "外資：上週五(18日)外資買超上櫃股票214億8473萬元",
@@ -20,25 +26,25 @@
     {
       "title": "天意能創 更正代子公司山林旭科技環保工程(股)公司公告「台中園區污水處理廠調節池及污泥處理等設施功能提升工程」案，子公司山林旭與山林水環境工程(股)共...",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80R3lPZjhvQ2FubEhnSTh2ZG5tOHVrUGVhYUhzN1VBcVM1S0ppb3FmdXRWckdiRmJhYmFKSUhuZkpoelVQYXl4SEVxQVNOOTZqblVnaHQxTzI?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-17T10:02:48+00:00"
     },
     {
       "title": "天意能創：山林旭與山林水標得台中園區污水處理廠調節池及污泥處理等設施功能提升工程",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmNU43enR3MVZnY1FfUkhOWjlYaGsyU0pmcWYtTl80dFdZb2JzX1hzcnlITjdjOGJWMndIZzFpaDBKNjZQSmRieTcwMTVjTGpTTnRTeEdfbk8?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-17T01:49:03+00:00"
     },
     {
       "title": "【2026/08月營收公告】山林水(8473) 八月營收3.58億元，年增4.98％",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55dGE2czdCc2g0X0dQTFBIWG9xYTdpNjFTUmoxbjBvUmdsUHJ4aERreVpBNnZWd1NXckJ3OWtYUVJ4QUkyMlI0NmhjamktR045MFYxM19wak5Cbkd3MUpSUUJrZms1ejQ?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-10T07:40:05+00:00"
     },
     {
       "title": "8473 山林水- 南投把日月潭變競技場！沒有一座運動館，排名卻能大躍進？ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxRWNPQUdmR28wc1R5WTdVQWVBdmJWMzJ0WXlHQnAwazI2SERReXF6RFowOVlsSXVmdnBBZHVGWkFCZTU3TUdrUW10X0lsV3BRY0FGakdneWg?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-08-28T07:00:00+00:00"
     }
   ]

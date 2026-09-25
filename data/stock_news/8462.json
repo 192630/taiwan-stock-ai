@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-24T11:35:36.790555+08:00",
+  "updated_at": "2026-09-25T13:34:38.833739+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8462",
   "name": "柏文",
-  "count": 5,
+  "count": 6,
   "news": [
+    {
+      "title": "(8462)柏文法說會 2026/09、柏文財報、柏文展望、柏文財報投資亮點｜理柴知道:法說最速報! - 方格子",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmNUVMeWw0dUQ2Vm9kcTNlb1NrUXN1cUZvWFcweUN5MjJzaGpUOFBfeTB4SG9PcUp3RHljQ2FvRzNQQ1RsSGJZckV1UUg1a3VVazRKUm1uTFk5TTBnTFHSAWNBVV95cUxNLUpqMnc4VzNheWlJb0dyTGIyRGVZaVBSZi0zcTdJWjBrRmY3bnJNcnNWMEliMUtEMmpMUnFTdWJRbFRSLWlUdGJxUFh0YzZWWWV2VnByTzZYNXlFN19xUlBtSXM?oc=5",
+      "source": "vocus",
+      "published_at": "2026-09-15T07:00:00+00:00"
+    },
     {
       "title": "柏文8月營收創次高 樂看毛利率、營益率將逐季大幅增長",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwOGMySlJmajVhNWMxZ2ZwdEdrTEFxSDJXNnFTLVY3WkZZNVRabl9ya00zd1FMOHU1S2xMT0paTzc1QnFFUFJvUVR6VWdDaUU?oc=5",
@@ -32,7 +38,7 @@
     {
       "title": "8462 柏文 - 是柏文嗎？世界健身機率不高，大直旗艦店太近了 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuTVpRWW1Ma25ZX3p3bTBZSGdWUXVFWjRmUkZubUQzcDlmSFJaZzJDWEJOZS1pNEpYUElhNDkyNTA1bkJvR2VpRi1ycXdUOVF6QVNsV1lrUVU?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-08-31T07:00:00+00:00"
     }
   ]

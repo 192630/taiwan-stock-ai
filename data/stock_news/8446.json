@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T11:35:35.151571+08:00",
+  "updated_at": "2026-09-25T13:34:37.013526+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8446",
   "name": "華研",
@@ -8,8 +8,14 @@
     {
       "title": "裕同科技(002831.SZ)擬收購子公司華研科技34%股份 作者 智通財經",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tcUJGaEY1YmpUc1V3MnRNb0F5aC1FU0FYZm9DWHM0X0RGdTZfbV81TGQydWpkdXhDa2t1TnIzY3kwLVdBSWczc29IUGhhRy1FWVZNVE9sUFJUczVKSXhWN2Z1a25oelZic0w5eWk1Tl8?oc=5",
-      "source": "hk.investing.com",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
       "published_at": "2026-09-23T10:56:26+00:00"
+    },
+    {
+      "title": "裕同科技(002831.SZ)：擬收購華研科技34%股份",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BWGo4MnpLUldwNkNadU5nMFRGZFc2aG52MDV5dC15eElKd3FsS3dkeHlfYnFtZ3owRW5IMXVUbkIxVTNxMlZzY01ob2F6UTlWa1pOVHJIUHJpRE44?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-23T09:03:29+00:00"
     },
     {
       "title": "HIM International Music, Inc.的每股流動資產淨值 – TPEX:8446",
@@ -18,20 +24,14 @@
       "published_at": "2026-09-22T01:41:47+00:00"
     },
     {
-      "title": "華研精機(301138.SZ)半年度權益分配：每10股派7元 股權登記日爲9月28日",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOFU1U1RiR2RVU3ZpNjI0LW5WdjUwbEdqWmJOLXkwNDZxeWhtYVdZSnBoQnFCYjBzN2pmZ0E3eHJJcVhHRTNZVjUtd2tGelZjVmtJOWxCMXp3aUZZMEZ5eHM4d3c3dVVwb3FwOU5XSmo0cUl0WC0tNDBiZms0cVFrcjVaQmZ4Q25UczFPYk5xVm1TTnRDN0MyWE9jVlctSmdUZTVPcDdza29EZkZLUHdJa3NkTy02RzVwSi1JR3ln?oc=5",
-      "source": "Moomoo",
-      "published_at": "2026-09-19T11:44:21+00:00"
-    },
-    {
       "title": "8446 華研- 吳卓源新加坡演出掀大合唱！ 被1美食收服：只有滿足- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmX3R2c0lIX3QwUmZyblc1T1B2dXB1X1Rqa0ZISFFHRU1OUWJFUWRLOGItd0FBekZJR0c1SDNwUHZ0QUNvbG5nam5HMjM3TnlGbk44bElMTWY?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-14T09:14:31+00:00"
     },
     {
-      "title": "S.H.E迎成軍25年！華研深夜突祭3大驚喜破冰 回應合體開唱可能性",
-      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNaEtJbUxEcU5RUUtNVVZiX0lMc0hZakNSeDZmS21DdzUxTDk4aUd4VlpKanM0cko0TmJTYkJnYnk0WG1sb3ZhOHYzeDhFNXp6MS1Ub1MyZmpuLXJzbVg4cnk4eDFZcjVPYTBQSlBqTm9VTWFraDhOS192cmg3WDgzOG1xaWNSbFBGMG9kdU16dVBrOU16Z09VZTlNVTRZQ1lUdENGWnpHZTJBdzJuZW5lTS1yMWpFTGIzQVMzeGphUXAzdVlpR2hFbS16V1hEam82TTljNlFpVmJVZmxvZE5UUEdSX2ZCaU15Y0RsVWdMN0ltZkhJWmlxVy1RNmlYTUU0c21PYWc1QV9CeHZsaEhTTlp5Q1F3TzZQZzc0LVRpdjBISVNQVDI1cTNBV05TSTc1MEY5SnR1dFNOa19jdkZ2cVV5TFFBZS02S0h3aDFGZlhfN2d2Nk02REVnaEttSzQxV3RXeGNMLXhHZGNnaURjVVJ0Y1czeDhUVjNvOUVB?oc=5",
+      "title": "S.H.E慶25週年破冰前東家！有望「世紀合體」 華研回應了",
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQSFdFczJBMENMLXBsN2o5cFNYV3Z6LUsxWmlEYU54YzBHUEl3OVAtUXY2TWkwRDhWVWk4ZTZmVUgyRGpNUW51VHVqWTg3ckJVTkduUjZ4d0ZLWnZZQ3JEMFdVc0drSXJNWHNvQmdRTlh3ZGc4RXNqM3dsb3lUUUl4R2pSVTV4WWMtMkxfbGx6STh5MGg5czlxSm9Vb2VjaTFZYXNrS3lmbVJmbnNTeHVFQ2Y1ZGhEbU9XX0N0dHZXZktUNDVjWXhKUFZGVm54bTQ0cEJHdmY5bFRoWmYzUURVMWhSdmd1RGw3RlZoQjA2MWVtXy1hZGpCelZDM3JIUFhQOG1QMG12M2Y2YzZDRFNMVGhOWWRZV2NGVDVwWlJ3OURQWVNUTXZVNlNaT1hzbFVjMDZSSFJUQlgzak45UVRmeEpR?oc=5",
       "source": "Yahoo新聞",
       "published_at": "2026-09-11T07:00:00+00:00"
     },
@@ -48,34 +48,34 @@
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
-      "title": "S.H.E深夜無預警合體！華研慶成團25 週年紀念經典歌曲全面上架平台",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02YkpBd2VFTm1jX0J2bERvTXVzWXc2ajlLZGxyZ1d0ZlZKeTFMSUpocnFLbnZwYjZUeXVsbTVaekxOUEhENEN3VkRLQ2pFMF92?oc=5",
-      "source": "風傳媒",
-      "published_at": "2026-09-11T07:00:00+00:00"
-    },
-    {
       "title": "S.H.E歡慶25週年「世紀合體」露曙光 華研唱片回應了 | 自由電子報",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yQjk5a0VESV9KMzVUNDhOWUFSUDNCT09CWkFEY0QtbHJDMmppM3JvMFE3N25RYjRxSnEyekIzbkRpZHFxYzdsenJTWmpDRlRqeFNtOXNR?oc=5",
       "source": "LINE TODAY",
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
-      "title": "8446 華研- S.H.E 25歲了！前東家華研深夜突宣布限定驚喜…粉絲全哭了- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rWElYdTVYQXl2QzByUUVrcDQxQTJyQzJ1ZXJlaVlSM3luMFpxZ0lWQ0VpLVJXOWgyRGZGYUpDWGRQT3c0cW5RUlF6c0lmcElFREQwTmlHV1g?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-11T02:31:57+00:00"
+      "title": "S.H.E破冰前東家傳大巨蛋開唱！華研國際官方回應了 大讚是寶貴資產",
+      "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxQODRGYzhxbEp5dVVNZVRJbk90dmFhYlgxTzFGbXpITThqRDFtQ1I5bk1PTkNpRThzUUxoY0JfcTBoNktzVG9HNHE5LUhnb2lMMTVyR1BCWmppOVNCYkdSSGRDbnhUM0ZIWnJTTHFTTlk2UnZtYkNtcW05Y2hlWTVxUEcwVDhVeEl6NXpEYUR1U3VjVC1rZVc2T3ZiNEVYbjRKRGJxX0Vvcjc0YXNmaWlZbTlJczhJbXlaSHRoWUFlN3paZTAzX1RLa0xXU01xLW9nR1VQZmprTVYxQmM5aEJvNDkwNkFXMHRIc0lZTklQU0F4T3Z0ZWVfZ01Pc1IzOHJNUHZ0TDJzRFhfSzBkenFLb0doUlNaajFPbGltdF9PYnA2b0JBUjZaMzlIMVJqUkt4SHFNWUFSZHBPaU1fN05wMmdlNndPSngwUVZXeFJaLVBwU3NZYTFXRk16WDE3UGl1MFF6dUh5SUxoSVhVWUtTZGU1LS1ESE1OQTd1NndwZTF1Y1JsUmFMRFlRU1BvUXdUOGl4SmhESUJTenNMcmc?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
       "title": "8446 華研- 華研出手破冰S.H.E 田馥甄、Ella回應了！她親手信曝光- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jNmk5SC1sMXdRLTlzc3lYbmUtZ1BJMko0Tnk2VnhPRTRVbEx5aUhkd2xpUUstT1F2MVo3SXFqYnc5MDRGaEQyX3hsaE5zVURKMC1EdlVELUU?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-10T07:00:00+00:00"
+      "source": "CMoney",
+      "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
-      "title": "【2026/08月營收公告】華研(8446) 八月營收1.47億元，表現亮眼、呈現雙成長，創近3個月以來新高，年增69.24%",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSHd3THB4WktGUVFxVEtkMWNHYjcyWU5BejBGeFU4a0ZpNzhmVS16eUdIOHJKejhZM0RrUC05aXV5cjBmV29VNXRjV1VPTFR2a2s5blJ4NnV1UGxnOS11UEFrZ2NoSlQ2RlVRa1lHa0c2THlNR0hWYVpoZXJGbEtGYnBDcWhvOUFtYXc?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-09T07:00:00+00:00"
+      "title": "8446 華研- S.H.E 25歲了！前東家華研深夜突宣布限定驚喜…粉絲全哭了- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rWElYdTVYQXl2QzByUUVrcDQxQTJyQzJ1ZXJlaVlSM3luMFpxZ0lWQ0VpLVJXOWgyRGZGYUpDWGRQT3c0cW5RUlF6c0lmcElFREQwTmlHV1g?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-11T02:31:57+00:00"
+    },
+    {
+      "title": "S.H.E成軍25週年與華研破冰！Ella率先發聲 社群留言感謝一直都在",
+      "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOU3R3WmpQZV9VbTdxYVRyVmtiZm5KU01MeG1fZ0ZuQXhMSU14MUhZdWFuU2FSeVZuRnlVc2FPLWdxLUw3QnZzSmZLVXc0MS04a2Z2cnVyQVlwRjdWdUlvLTI4cVZTQzFFY0NHUUxWa1VFSkFWa2FoUDhLQUNNRmRJR0pUWTJreVRYMm10UnRPcHBkY2FiNzB6ajVkQTRORVFzRHJCazYyZko5bThDLUJFQmVrYmw5NzJ4LUl3akh4cGxrU3pwT3g3NHpCdmg2VEpuTnJTNmttWm1HT05EQ0RtZC02RmF6RDRZWXU1OW82blNnSkZEWWN0enFRSGwxbm4wOWJZX0xRNHJRUG04c3VJT2JrRzNRSk44ZW1HdWp5MGo0b1BwS0FNZ1dhT1hpTnVBblBxXzdjbEdfMGVFVlFqaGVWV0ZaZG9XYW5FYTktanFrVkE3dUNiV0F5SExBU3BvbWJKTjJEMzJLNW8?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-10T07:00:00+00:00"
     }
   ]
 }

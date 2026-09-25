@@ -1,38 +1,50 @@
 {
-  "updated_at": "2026-09-24T11:35:33.553470+08:00",
+  "updated_at": "2026-09-25T13:34:35.273286+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8440",
   "name": "綠電",
   "count": 12,
   "news": [
     {
+      "title": "AI先進製程需求噴發！半導體擴產牽動綠電佈局，台積電爆2749元天價-財經焦點情報站",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTkM0dUJvcDdHU2xmWXRJWWIwMWNYYjNIeXhEdmFPSnhUMW00RkZOazVpdjAwNzd6TmlfMU54Vk1Ob2VKb2RZREtOMncyNXBPU2otUVZTYm5NOHQ2endIWGJkMy01RjFTdk0ycXZlMklBNVZyS2FaV1BVS0dXWmlUVWNR?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-24T13:45:06+00:00"
+    },
+    {
+      "title": "綠電占比拚達標 經長︰可滿足企業RE100需求",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84ajY4WXBmck1vbnRXN2pJam15RFNGaFdnQjdlSjItNTVtb3dROGhHbTJxQm1TdkVQTmtFVGNKWGxLMFpySTA1WGxpTGZsOUpWZzhpYVFONi0?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-24T05:34:08+00:00"
+    },
+    {
+      "title": "台廠雙捷報 三地能源穩固綠電 采威強攻AI轉型",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPNzR1Y01QMzVCRlBzTGNZMlRfa3hIMTROdnBfcXdFdFVwd1hOTHUtbzBoUDdIdVY0SFdhUkNVSl9ycF80ZkZTWENfdEd3STJGelR4WG5OVk9mZHdPY2pxcmdYQi1rejBxMzdNUEZDTjJsTUNVSE1pM29yWGFIZEhzbHM1TmpQaEU3ZFcwN0U1c0lzYmFZVFFickJkNUcwX2VvRGtNSW1iQlVUMUtUUG9LTHBCVTdacTFxaXcxa0hfbjhpcHl3Vi1wZjltVXBjeVdmX1o3cEg0UHhiUEpueW9sdXFyRVB5OTNncXBDcGEwcEg3OTRiRFhVZzMzMmU5TTVvRi16ZE1WSXd4TDBYQ01YeHpyMXVZR2lwMHE0ei1UUEgyQ3BMUjFnaDQ5aUszb3FR?oc=5",
+      "source": "Life 生活網",
+      "published_at": "2026-09-24T01:37:04+00:00"
+    },
+    {
       "title": "《上櫃公司除權除息 3-1》綠電 09/30除息",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNmNuUmlPb0VVcEtFWFpFMmpWVkdEZ3I2ZFFOZV9MVVZKRWkzc0k1NTJnb0VqUWdCOXBaOUM0YW9uLXViN1hoZUx2RGt5OGZmQi1NM25mZ29EeHRPU18ycVozNVdEa2VoV0czSnFNMnk1QllGZ2ZXZE5XMVJiTnpIdFdVdm43Zk80?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPclVvUFZSa2ZXbFNNRy10NUNWZkxOelhEaEhqeEc0WXJTdGQxZ2oxZUIxMno1RGhVNGkwSER1OVJSU0I0UFBER1dsTTZ1cmhQQUwzOXhxUHpSaXgtTllSYWJPdVlKV1g3WXVXenZsaHBjWDV4OUFfZ1pxN040WmZJamo4MW5Delg2?oc=5",
       "source": "富聯網",
       "published_at": "2026-09-24T01:12:00+00:00"
     },
     {
-      "title": "8440 綠電- 亞太成長最快的「Token之都」，蘋果、華為、DeepSeek都來了- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SSU9ZdURnUVV6YU9MQzJiTTFtLTA2NmJiZGw5d21EXzZldGkwSTNsNXVlSmlWbjdtMHN3UjZxQjR6MzNkSTBlUjBnZE5Yd0JnR0EzZFNLTU4?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-23T12:22:55+00:00"
-    },
-    {
-      "title": "雲豹綠電突圍術／不懼產業逆風再推小金雞衝上櫃 集團打造千億綠能艦隊",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCRlg3ZVlwWUhVRzVPbnBodTkzUkxacUlIeTRsZExpMWdiZ2RQT0d6STkxcHY3WWtrN3FBYkt4SHRhUk1pLVZBT2lxOA?oc=5",
-      "source": "三立新聞",
-      "published_at": "2026-09-23T07:17:05+00:00"
-    },
-    {
       "title": "8440 綠電- 三地能源「真養殖」獲早稻田、岡山大學跨國取經- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBva1BNc2JHdXlqaHRfT3hBcDhMU2E2bmhVOG5WMHR5QjVhMkE2UHFBN3hJX1ZjWHRFTVROM0U4LXl5R19RcmpjeUU1TndCMXl4eTBUYWRtUU0?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-23T07:11:40+00:00"
+    },
+    {
+      "title": "雲豹綠電突圍術／不懼產業逆風再推小金雞衝上櫃集團打造千億綠能艦隊| 財經",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE13T2c4dF9LdW9rbTdHclR2V3YtdHNrVDFaajZ5OG8zdWdBVDZpWlRpWmVpejZVNFBvWTJVRkNYcVZ3QjVpWlp2QQ?oc=5",
+      "source": "三立新聞",
+      "published_at": "2026-09-23T06:57:00+00:00"
     },
     {
       "title": "6873 泓德能源- 綠電市場將由擴大採購轉向結合儲能與能源管理提升使用效率- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9EaS1ITzRSTzZvZlUzaWlnZGU0YktoQ3luckJwYzE3UEl6MFB1ZUNWUms0TjJVV1FvUTFjdUZiRm94VVpuRldEc1l6RUNHeVJid0p4MDhlNXg?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-23T04:08:14+00:00"
     },
     {
@@ -42,10 +54,10 @@
       "published_at": "2026-09-23T00:15:26+00:00"
     },
     {
-      "title": "雲豹綠電突圍術2／雲豹多張王牌在手進軍AI 3個月就能供電大解密",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlSmhWZUU5ei12ZG9FY0NsRXQyMTVQX3ZYMktabktZYXJNUzdhcTJMb1VRcGF4SDlyYkRGUUNZbW9TVjJTQkdJZEQwZnNzaUVBaFRaNXdhTdIBXEFVX3lxTFBwS2pCSWNJeHk4UWUyUHhnU3lhdFJsV2FNYmtNXzktUkhzRW95LVVZWHdyNWltVXpNOE5GcGt2RkdOaVNTWWw5MWkwZVFSLW9HMXA4czhnVkZfWHRO?oc=5",
-      "source": "mnews.tw",
-      "published_at": "2026-09-22T23:40:00+00:00"
+      "title": "雲豹綠電突圍術1／逾百售電業者賺錢的不到十家 雲豹坐穩民營售電龍頭密技曝光 | 鏡週刊",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTU1YM1gzNlc2enM5d3BXdWhEaE9LNGp0SHVjOERCZVNEaVNJSTFsb1RKTkpoTl85OXFNQnhJTUZ1bWNtUVBoNEUwWTZ5ZHZPajJmLUlkenhCclJDck5ZSzhTQUVtVVpoRk4tdjc0NTFVV0J6MHRWRmZ2eGgyM2hkTHpVRQ?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-22T23:53:10+00:00"
     },
     {
       "title": "閩東電力(000993.SZ)：目前未開展算電協同、綠電直連、智能電網業務",
@@ -54,28 +66,16 @@
       "published_at": "2026-09-22T11:01:45+00:00"
     },
     {
-      "title": "Meta再簽德州綠電長約 144MW太陽能案2027年商轉",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XY2cwbDNqYkxKNGlVYVBfTVpIdG54bXBSeUdpcHY2M25UaC1WQ2NLcG4wTUFad2ZRNE1jbUstcjRoQU9tcERiZTVpdU45R2ZLUzNjMWV3?oc=5",
-      "source": "優分析UAnalyze",
-      "published_at": "2026-09-22T08:33:06+00:00"
+      "title": "Meta再簽德州綠電長約144MW太陽能案2027年商轉",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50X1l0LXJXbGVUVVdrQnhzR3phaW9LUUpFRndLYXNXdmstWHRocE1UaGlaTmJNdkIzM095R014ODJjV1JuRDNZcHJUaTdYSFk?oc=5",
+      "source": "news.cnyes.com",
+      "published_at": "2026-09-22T09:00:09+00:00"
     },
     {
       "title": "深南電A(000037.SZ)：尚未佈局算電協同、綠電直連、智能電網業務",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GWnlJQVRjMTVDRzB3Zl9zOFNFeGFuM21DUjMxTVZEbkxiMzZ5YmNLS2JxQzRCcjNIRG1pV2JZVGdOVGZMdVVYbHVzdEx5NHQtWVRUZ3ZRS2s4QQ?oc=5",
       "source": "Moomoo",
       "published_at": "2026-09-22T06:38:37+00:00"
-    },
-    {
-      "title": "台積電求綠電若渴 台電RE30低碳電力最大買家",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HT0NjMzU3LTEwTXAyaTNaeDJuako1UG0xMnlPOXplQ3JOQUhtS29YdldZNUh2RHJJS3BjLXZHUmhIV21iUlBON2RxejItMGxndlh6cmhvRDQ?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-21T23:20:06+00:00"
-    },
-    {
-      "title": "綠電餘電卡關減碳認列 經濟部修法解套",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PNlpEUjN0aW0tWTFPV3RjcFkzX2pRdnd0QzA1MUFlMlhvbmNmUmJLcFh5RWU5Y0haZXBYeHRaT3RhZ3RtMnBfbEtUQ0IzUmtVdlpVVkRyUmE?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-21T18:35:18+00:00"
     }
   ]
 }

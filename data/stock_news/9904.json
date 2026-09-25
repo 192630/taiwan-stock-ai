@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-24T12:35:03.628929+08:00",
+  "updated_at": "2026-09-25T13:34:59.008975+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "9904",
   "name": "寶成",
-  "count": 10,
+  "count": 12,
   "news": [
+    {
+      "title": "9904 寶成 - 潤成三寶 除了寶成 都有表現 賣了潤泰新買寶成 是近幾年的投... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UakRpQjJMZk5DMllqbEFzWVd2LXIyS21GZFlha0FMMGNDMTBfVEE3Qlp3UktURUdCNEhfakRNa2JDcVVpZU9FdVFNcW9UNjBWaGo2amxzRlI?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T18:48:42+00:00"
+    },
     {
       "title": "TWA00 加權指數- 9/23【寶成vs安踏、李寧】 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lVkV5eFk1WkFQemxmZ0J4Z01FWGZGcWNmVUV6bFVNSldfR1BqNGVpY0hZSVROaW5qWnB4cGpwbjl4SGJGZmJMYWRxTWZ3YnVERnpxMDI5ckc?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-23T02:53:04+00:00"
+    },
+    {
+      "title": "寶成(9904) 09/22 三大法人買賣超",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xYkRuc2w0SWhtR1RmcjZrNkFCbUtjLU0zdkFFSVp0Wlc0YnNiUmE4aUVsa1NhWmNuSDl4SGVmV3ZXdThWQ0RzUURGN3doTC1XNThCbTBETnQ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T09:00:20+00:00"
     },
     {
       "title": "寶成(9904)-同學風向與貼文摘要 - 股市爆料同學會",
@@ -48,10 +60,10 @@
       "published_at": "2026-09-11T04:12:02+00:00"
     },
     {
-      "title": "9904 寶成- 回應寶成- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBya3FLcGVWV2dTLW9tNW5QZlhPbU91WFhEV0NUUTlQZlJTbUYwT21fRnFGTmppa3k2U05UZFdRMk9xWFhqa0pLX012STJwWDJyRWdybzNqckc?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-10T13:57:27+00:00"
+      "title": "寶成2026年上半年業績轉盈向上 8月營收206億元呈現月增年增",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNREVyQ01KS0dEYVVfRWNNekt0WW9FUGtXUWJmamZPQmNKOGp0d1pqYnRFV1FicUNkclVPWGZYbkNZb0RzYTlRRjNDMjRVMGM?oc=5",
+      "source": "news.cnyes.com",
+      "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
       "title": "Nike遭踢出標普100！台股製鞋族群兩樣情 寶成來億-KY走跌 豐泰逆勢強漲5%",

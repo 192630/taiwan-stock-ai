@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-24T11:35:48.586925+08:00",
+  "updated_at": "2026-09-25T13:34:51.420450+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8931",
   "name": "大汽電",
-  "count": 1,
+  "count": 2,
   "news": [
     {
       "title": "大汽電(8931) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yUG5ndm52eHFVaFV2QWJwWmgyV01qZ0RsU29UTTNzajY1NklXSXFadHhWVFBseXlTaVVFWGk1NmVWOW12aE5oYjEwdTl1SGxGRXhR?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-20T16:36:49+00:00"
+    },
+    {
+      "title": "大汽電 115年8月營收3.14億、年增38.16%",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YVFowTDVyUTJUbmEyOTRkaTRXSnBWaDV5RDRlLTFhaFBJc2M2amxySWxWaU9MSkY0VnIzUHBQSENQQmxnQmhjR2hHSnZCczBxQ1RCclFDNUw?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-09T07:00:00+00:00"
     }
   ]
 }

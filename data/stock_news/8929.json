@@ -1,21 +1,15 @@
 {
-  "updated_at": "2026-09-24T11:35:47.793039+08:00",
+  "updated_at": "2026-09-25T13:34:50.594133+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8929",
   "name": "富堡",
-  "count": 2,
+  "count": 1,
   "news": [
     {
       "title": "投信：週五(18日)投信買超上櫃股票21億8929萬元",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRmE5RElkN3ZKZlpRVkVPV1RNQ2hCMXJfOHpvNS0ySlh6dDFuTnhlQmY5SlY4MnZtVWlmVFVYZl9VbmtQN0EtZWs2SklRS29paWg2ZExNZWJrS25neEJOSFdIOWNOZnFXT0VuU0lwQmVoTTkyVURKdXp3WVJ6cnFLWms2cDZOU2dv?oc=5",
       "source": "富聯網",
       "published_at": "2026-09-18T07:10:00+00:00"
-    },
-    {
-      "title": "8929 富堡 - 美國生技指數8月已創歷史新高，莫德納 「癌症疫苗」問世1天大... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRQ3oxRWN0NC1qMWVEdlYyc0dsa3pEOTVBQnVab0ZQRm11RTB1VTkxc2c0aGhpTmFXeUVwaURyc3A3MWpjdjZwMHNsMHktVFdGNVhaY3NjTmQ?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-07T07:00:00+00:00"
     }
   ]
 }

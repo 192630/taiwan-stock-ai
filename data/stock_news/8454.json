@@ -1,45 +1,39 @@
 {
-  "updated_at": "2026-09-24T11:35:36.000608+08:00",
+  "updated_at": "2026-09-25T13:34:37.983267+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8454",
   "name": "富邦媒",
-  "count": 10,
+  "count": 11,
   "news": [
     {
-      "title": "富邦媒(8454) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42MDNpcUlFOHFvRVc3Wk10UzlIM2VWQWd0YngtY0NFSVZUakRZYzY3RWVYQUNfRlMtN203S2xTOHlRcUllMl8wSnpaOThzOEVGMVBF?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-22T20:59:58+00:00"
+      "title": "個股：富邦媒近一月桌機、遊戲主機銷售年增逾4成，AI、高階顯卡成換機新關鍵",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcU5ZcVRqeW1QZTNkRmZqd3VneWFFeU12Ym9Kbm9rZW83VjZSYXpadW9ocXNDTFNMaTVJel9iTHpYbnRXN0xaZk1vSnpmREJJNUhRU3c0SVpzeVdQN0Rxdy1TS0FWdklTME9NWWdtMS1QSWtCYXViM0RBbUJyM3VVcld5SFk0ZUhY?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-24T07:52:00+00:00"
     },
     {
       "title": "8454 富邦媒- 中國8萬件山寨美妝滲透韓國酷澎、Naver！ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OZDk0cmRZSUtwS3BtTWdvaUV3WHNTYVdfbGRvazBDSk9ZeThyczhjc3FGRVp4YjFldDdPUGc5dlZOWENCREVPRTVCM2I0Ujh3SS0yY2FPMjA?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-20T06:39:44+00:00"
     },
     {
-      "title": "產業：i18 Pro換機潮開跑，富邦媒、網家預購火熱，10/16再迎iPhone Duo",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOejFJbjVFVUV2UXA4amMwWlpkcC16d3FlWHJMRFFNdUpIS192amJLaFFibGx1S2pPU09TajV5QlNpRHI0cktKQzMzT0YtUl8xQW1GUUJiaW1kTGYydE1IVm5Ba08zTG5nV21WUzN5T1haQUU1RGNkSllnb2dMd194c1BXNTlFQ1hB?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-17T08:33:00+00:00"
+      "title": "富邦媒啟動供應鏈資安聯防",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBDT3lPTW5FTVZ4VkFPMEJkZnpRVFV2Rk9INFVlcEtiSmVVWmVpOWhPS1J3d0pCMGcybnpuVlZINnBvNjdtal91eFRra0tMbFhj0gFWQVVfeXFMT0d2UGVIbkUtZFBTNG11Q3JaSG9aeUFLNk1WbDNJTlh6SGZhNTRXQUZJWjdxSVp4QTlXeVVhbnp0S042OVJBTV96WV9CbmthdDBzeldDVWc?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
       "title": "富邦媒引領電商業拓資安版圖 推動FIDO無密碼驗證機制",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zaXlrenBfVlMxZVNXbXhwbW96VWpHYmlVM1Y5TWlFcVdJZGNnOHlTdkREcUxwNE9oMTRiZFgyaHVyczVoSVRsc04wWU4wQmdPMXBnVEdtZ3Q?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-14T04:03:57+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50NE4ySVFOVFpSbnlwMG12N3BsNk5YSmpRQXJpbXBTaUdDeFhFNGRmWEx5TTVRaktVcmF4dlFlVmV2ME9XcFd3X3pZSlQtcDg?oc=5",
+      "source": "news.cnyes.com",
+      "published_at": "2026-09-14T07:00:00+00:00"
     },
     {
       "title": "富邦媒設日系雜貨通路",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ydXkxbUR6dHk1MnlQenFPeExRQm0yRHh2d3ZWWG53X3VrMkJfQTVtend2S0ZtQWZuN005MGxKZzNPTlpjYmpXeTd3V2NCU2ln0gFWQVVfeXFMTk43dFRmM1kwanBzaDNfNm02Z0JjMVZyamIxaVhCbXpTbmQ4YVRocW92eEFmdHpscmo2TXNHSlZPU1pzVTJIOXBTRUZiT3NobmJIU2JGd0E?oc=5",
       "source": "UDN",
       "published_at": "2026-09-12T07:00:00+00:00"
-    },
-    {
-      "title": "富邦媒8月營收創今年最大增幅 談電商競爭轉向二大趨勢",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56bHlaaXVXMXdVVkVsdWdOMXk3Mjh5ZUduS25uZ29aR29xSjRGcDUzTUxqbDhWMTc3R3JZQ2hsdVJiQzlCOE5VZlpuYnRXZ1E?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
       "title": "富邦媒 (8454) 設日系雜貨通路，13家預估藏什麼訊號？-梁姐價值投資心法",
@@ -63,6 +57,18 @@
       "title": "富邦媒H2旺季接棒，強化物流服務",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOYldsZzhoSXJUeldrUEtHeU5nZVNVaEdZdEtnZHV5X1hUbndzRU5yT1ZNU0RDcmg1ZGxsVm1IRmxFUDJSTl9PZC1OOEtpWVFVTDd1S25RMldMb2FycmRCUE1UeUk5N0FDenZ1MmNsM1NiZDBSWC1KRHYtQU1NSUJ5WF84aGZZYVNaOS1WX1VHTzRhZFRNbzVsamV1ajgyX1VvaDRfQm1ZSFBVb0o3RXJkS0tsLUltNjlsMnRWZ0JLMGJLalE2V1hHbGEwSEdSN1V4R3pTLWl1cWM3MU0zUFd2TjJBcWVwd2VuaHdMWXUxbEMxMDA2RHZtRlhnZw?oc=5",
       "source": "Yahoo股市",
+      "published_at": "2026-09-10T07:00:00+00:00"
+    },
+    {
+      "title": "富邦媒8月營收創今年最大增幅 談電商競爭轉向二大趨勢",
+      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxOenNVMHVFYlgxZF9FUVdPQ0wwVWtSVjhzV25scDVOWnJtb3FubEQ3RUVsNGI0OFpRS1JfSkxkTzhDMTUtZDR0VGQzZVRrWnVaVEhkRUFfRjFLcEhRSVF1VlNld3Y1c1gyZURmUmNTbHVWQ1FOTHdZamNzWm9CWDA3d1JCYzNnNEpKUkEtN3VnYVduUUI1alRTYWlEcWpCS181V0tXQ0RRSzJkWXAwYWZzUlgwMEptTkdxQml1Z21OdTQwQk5ZNUl6Um03UkVObUk3TEI3TFp2UFE0Mmo2S2JfQlhmNXJycXRWNXFlUjBwUHk2ekx2VU9pYVZTVjViNXRGQUpfMFZoZEdIMkdzVXdjM25XNWJnX0E0alBMU1NBU21UUHBwRjJSMXV4QjJ2UXM1RGk5eGQzazVvUmZ5MS1NbmRNdmJBbGJuOW5QaE9EcmVyR3FvVHdLdWowdWhGNGdDN01hZ3JNN05tWmNyX20ySTk2bWo2amhzMERGTHp3?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-10T07:00:00+00:00"
+    },
+    {
+      "title": "蘋果換機商機引爆通路大戰！新機漲破11萬仍秒殺，富邦媒等概念股受惠-財經焦點情報站",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdE5xd3dFMFNZV1ZSaUMtb0dlMlVqVnZSSmFIYjM1V0plYm5fdVJEMFpNdmVWZFYwWFNqNFJKaUVuSWUweFhPckVlUGpwbWFnR3FBRkhoUm13YklaMGpMRlFpdThWT3JRTEtKd0NuVVN3amVtY21ENUx6RHJiS1lqcnBB?oc=5",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-10T07:00:00+00:00"
     }
   ]

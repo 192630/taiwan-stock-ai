@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-24T11:35:30.675712+08:00",
+  "updated_at": "2026-09-25T13:34:32.175947+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8431",
   "name": "匯鑽科",
-  "count": 12,
+  "count": 11,
   "news": [
     {
       "title": "《櫃買市場券商買超前30名 3-2》匯鑽科(247)、東捷(227)",
@@ -12,10 +12,10 @@
       "published_at": "2026-09-21T23:31:00+00:00"
     },
     {
-      "title": "【12:03 即時新聞】匯鑽科(8431)強彈近8% 聚焦前波飆漲後修正買盤-CMoney 研究員",
+      "title": "【12:03 即時新聞】匯鑽科(8431)強彈近8% 聚焦前波飆漲後修正買盤",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZktQek5GWklkN1A5NEcxWUFMUEJhX1o0aDFjTmxBdk05YVFvenBnMkwyazdUOXk4bmEyVWJTSmlJWnM5Z2JkZ1kxQWszZENDZVdnOEt1UmZwdXQwNUswcWNCV3dFN1J2cllxang0eUlNTzh3Umlaakd4eVF0QmpuaWQ0NnEzR0lSeDRhWUhB?oc=5",
       "source": "CMoney投資網誌",
-      "published_at": "2026-09-16T04:03:28+00:00"
+      "published_at": "2026-09-16T07:00:00+00:00"
     },
     {
       "title": "匯鑽科(8431) - 個股概覽",
@@ -30,12 +30,6 @@
       "published_at": "2026-09-14T07:00:00+00:00"
     },
     {
-      "title": "匯鑽科自結7月合併虧損2100萬元，每股稅後 -0.44元",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54R1J1N0o3VUZfNENYdUdLQ0IxYkRXMW5NdTQxb0owd042MkhUQlVlWi1hQTlnR2JKUEJFMFlUb2x5T0pyTmRrei0xei1WR3pKZXFwd0tVWng?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-07T08:08:04+00:00"
-    },
-    {
       "title": "【2026/07月營收公告】匯鑽科(8431) 七月營收創近4個月以來新高，月增25.4%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONkFYOElfdVF5QU9NSEZhbjh2bVBXQTJZdU9hdldvWWNfTzU4RXZEaGZISW15bVNKNkpXYTFhUHlfSUY1M1c2YjdscC1DQlAtSTJmN281b1dNUzNVMXBRNWotNzFXczQ5aGt3ajhINzBOQnlnenRqRVE1U0xlNnJKSjlKT19Xc0FoaWc?oc=5",
       "source": "CMoney投資網誌",
@@ -48,15 +42,15 @@
       "published_at": "2026-09-05T07:00:00+00:00"
     },
     {
-      "title": "【09:45 即時新聞】匯鑽科(8431)股價勁揚至68.5元，上漲7.54%，光通訊與AI電鍍題材推升買盤，主力與三大法人近期同步偏多佈局",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DcWlrVGJwemxZOFluNmdteXJ4SUJLMG90M0x4cHFrUG4wMWVIeWpIYmNac2lTWnJYRjRwYlZuMnh3bHFHQ0kxWlJTNXhHTmQ2SXdSNmhNamhkLTNsN1pON3VnYmdDb3M?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-04T07:00:00+00:00"
-    },
-    {
       "title": "焦點股》匯鑽科：營運仍處低檔 題材買盤推升股價",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jOU5BejNBVUEzTEpXOWN5bVpKbmh4N0c0Tm1aVUtLS2NpeXB3MU9ERkJhRGduT2VQUEV1bnJpd0ZGdnFCLTFxRG9aMVVJdWg0UmZRcVZJOWxXdlF3aFpz0gFkQVVfeXFMUHl4ck1ubV96NzJqajF5blFIVzVWX0o2aUZqald4QlJxM0R4endSbDRrVWpxTEc1NUZCbW1seVpUMHB6eHZITFFaajFOLVdXWERKV21RYmpISTN5RVZpZVgxeTN5ag?oc=5",
       "source": "自由財經",
+      "published_at": "2026-09-04T07:00:00+00:00"
+    },
+    {
+      "title": "【09:45 即時新聞】匯鑽科(8431)股價勁揚至68.5元，上漲7.54%，光通訊與AI電鍍題材推升買盤，主力與三大法人近期同步偏多佈局",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdFJsT0U1c3Jod3hqc1NpZy1iczg4RjJYaEpjNVR5VC0zMzl1S3N3aEJZZWcyVGVld0h0VFd0NmpTdDA4aXNTSkJ4b3RSYVBPbEFuZkNzMDRpb1p3RDB5R0Ywa056VlJFVTluSFRPbHkyQlRXQ0I3aVJQcnE2ODY1c0JiLWpXSjQ5YUlrRGNn?oc=5",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-04T07:00:00+00:00"
     },
     {
