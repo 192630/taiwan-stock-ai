@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-25T06:33:57.177115+08:00",
+  "updated_at": "2026-09-26T06:34:34.812442+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6176",
   "name": "瑞儀",
-  "count": 6,
+  "count": 8,
   "news": [
     {
       "title": "瑞儀奈米光學布局加速，新事業年底陸續出貨",
       "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPVGVkdl9hbkJFWE93V1VUUG9VeWZQU25fNzdVVmg5RVRkOUlXM2M2SGhqRXYyRWtaNzdYOWVHbUZ0OUJnblc3NGlZM09mVlRvM3dWZnBwQTZ0SHJpYTQ5UE9xd3JiWEpHQ1Y1dGRPU01YQjhjb2xZNEVOaHB6UWxKN05BS0lVcnJxOHR4aTBzVjdrbzFNRlR5NXF1UjFvNWloV1ZxdnFmbzNuekc2Y0VNaklUM1RtVWJPVFp3UWFWUjlsR3FIM2RKaElESDl1WTVhSHlrT0w3OHhJR3g3QVJISDFqQWpqS29rQjJ4YTluZHpEVmtPNVpWQmVCNE5BV3NFYkM3RFVTV1N3YUdfck95OWRHUld1QXJ2NXRqMGhqenhNZTZMWFg5NjZ1OVFVdGVCbmhNbHBKME5zUzNQQkRVcg?oc=5",
-      "source": "Yahoo股市",
+      "source": "tw.stock.yahoo.com",
       "published_at": "2026-09-18T04:04:32+00:00"
+    },
+    {
+      "title": "6176 瑞儀- 捨棄追高殺低，在跳樓大拍賣裡，尋找蒙塵的珍珠與黃金- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GRThVQkNDcHBCbmp4aW1hdmRVelAxOXJIYWlFYkkxNmxRanE5bWRBVkZIdi1HODhDQzl0anZuNk1CRDZXUU90aHRXV1A2aldSYjNaZWpzbGo?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-15T00:29:47+00:00"
     },
     {
       "title": "【10:41 即時新聞】瑞儀(6176)股價上漲5.29%至93.6元，背光本業穩健加新事業佈局題材帶動買盤回補＋技術面仍偏弱籌碼短線反彈",
@@ -24,10 +30,16 @@
       "published_at": "2026-09-10T01:32:10+00:00"
     },
     {
-      "title": "6176 瑞儀- 窮鬼總是擔心富人的口袋- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JbHk3bUE4bGpaOWJ0MHlnUHJISlhVRU81S05oR3VCYk9mSWUzWnpVXzRzaEc5aURGUVBsRk9hcTZPM1hHYTlKeHV3YTRsTTZCTzQ4X3BKV2s?oc=5",
+      "title": "【2026/08月營收公告】瑞儀(6176) 八月營收38.16億元，創近5個月以來新高，月增1.48%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWXdkdEVXekdHaWxjQnJRQzJCZXhzQ0ZfY2pIZmRnNG4tTjgwNzdCUkRsbG9MdHZuekppVjc3S0JMb2ZZc2ZmaDZXNXcyZ0c1cTczOU5zU1RpczJOeXlIRVVHaHVQQUZ5UzJHRmhyR3BRSnVfVGwwZUpQa3pqenB1c2J4Z2JPLVRMeUE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
+      "title": "6176 瑞儀- 瑞儀轉型的戰略想定與發展方向沒有錯- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tOUdCcENCWFNlekJaTEtfNHJzY2Y3bDJ1bXI2YWtfcWpJYi1fNjc3bV9FQ0NMS3hYdnJZZExMOEFEd0Y5dm1TV18tN0RpWDFGb1ZXb1NDRkg?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-08T07:00:00+00:00"
+      "published_at": "2026-09-04T07:00:00+00:00"
     },
     {
       "title": "6176 瑞儀- 堅持價值投資，存股領息，逢低分批買進。 - 股市爆料同學會",
@@ -38,7 +50,7 @@
     {
       "title": "子公司推新品營運有望吃補！「代工大廠」股價卻連5收黑 瑞儀連摔10天更慘",
       "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQTzJ5dzBVZUVzZ3owdUF2cDlwTW9aT0FNMndScjFLMUs3MGRPY0ZCc1RNM05pU25IN2RrdjdqUTZDS09ROWROQnhveXNQRXZ3MWFtSHZlZkwyVkR5eTNSSEs0ZHQ3TW1pYk9BZUhqMEN5UnBqZWFKeVdhb2pJYlloVmpZZU5kQ2Nvczh0UTJrZlRlTERobEJUcXhHQWViRXBZSmhtV3pEekhqR0Fjc3JuRDVOdnFZNHhqRnNJUUJiWS00UW1IRFdyVHZHeGl0b1FIS0RCT1M1OTNuMURuRkVfM3FJaUItVmQtYk9NbXE0dmZkNEVVd3FmS0FYU3loTTU0WEpsYXFhSFg2cFh2dVJCMVZDYW5NcDZ3aXFFTWE5NjZMQk5raDF2THlVNGVMUWJOaExGTmd2Q0N4ZldGTEhpTDZ0UEdsVkZJVzd4SmU0UnhUSVpJUk93QWthUnNndkdaTFo1dFNEY25IeUZwN1VFamNfLU0yNEZsc1pBQ3dSRW1yYXZScmI3QXRBQUJKcEFuNVdvOVFVTVF3dFNlTDFWYm1fSUhxWUZhaFBWRXZzd2hHODRHR0FiV2daakpQdDQ?oc=5",
-      "source": "Yahoo股市",
+      "source": "tw.stock.yahoo.com",
       "published_at": "2026-08-27T07:00:00+00:00"
     }
   ]

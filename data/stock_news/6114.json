@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-09-25T05:33:10.879618+08:00",
+  "updated_at": "2026-09-26T06:34:10.492592+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6114",
   "name": "久威",
-  "count": 1,
-  "news": [
-    {
-      "title": "華擎旗下東擎獲證交所通過上市 擬現增6114張暫定不低於130元掛牌",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UNXQzNlBnTzJvTVNDSXE2QlJzR1Juel9Td3p1NWxoc2IyMFNmT3J4VGhPZVBlNGl3a2xiZWxSVGI2ZUdUd3hOV2RoTmNMTmM?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-08-26T07:00:00+00:00"
-    }
-  ]
+  "count": 0,
+  "news": []
 }

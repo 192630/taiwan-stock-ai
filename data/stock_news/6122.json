@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T05:33:13.989292+08:00",
+  "updated_at": "2026-09-26T06:34:13.734463+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6122",
   "name": "擎邦",
-  "count": 3,
+  "count": 5,
   "news": [
+    {
+      "title": "6122 擎邦 - 磨了那麼久 希望這次ㄧ舉上80 過前高😎 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12UG9ESlpHNVRKZ2xTdU5jTGVKTHFIT3ZIYi03dkxqNlBsYTFKMGpFLTdxWFVjLU5jSnlMbDRzTENLRFF0ZVEtdmF5eWNUeHdzRkhLVWl3TmM?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-25T01:07:11+00:00"
+    },
     {
       "title": "【12:31 即時新聞】擎邦(6122)股價走強，主力買盤延續成盤中焦點",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYkpVaEFpdlFPcDBpa3dzOXp3ZlNRWHBBcDVRREdSUzhkblh2M1VjLUVoMlJ5QVVJNmg4Vm1IQ010R3c0T3h3TThUOUFOWXJYaGZfeGpPOTdleFZNYXAydmJkeUhFV0tiRWtuWHU0UXB6VUsxU1BkcmN3UW1IbXhYMHF2Mk44amx0VDdkMll3?oc=5",
@@ -22,6 +28,12 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVUZ3UFg1QzR5MUU4WXZvUGx4eGFfNW1FRWtLSU50eUZqZXdaLW1uVzJzN0pfV3ZBSWI4TTRoN1ZTenBxclgzOWt6cjJ2cmlyQTY5WFRPeWtCZEQwNklMVDZHcnNROWhiR2xhMV9YRUtrY3YzYmdwekd5SmRDUkUzd2JCY3lCN01OR3NINDFn?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-23T05:07:52+00:00"
+    },
+    {
+      "title": "6122 擎邦 - 都說你要低調~~ - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93QUhXcHVLcC1ta0xwNndtcTY2cnVEZ0FjSUF0RkpQcVNDZmhRSEUyN3FNX1FJNTA5RGtXYmtaMVRHdDFuOGZKU1VlUWJxSmJRckFHV29uTkQ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T05:35:51+00:00"
     }
   ]
 }

@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-25T05:33:14.381690+08:00",
+  "updated_at": "2026-09-26T06:34:14.187924+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6123",
   "name": "上奇",
-  "count": 3,
+  "count": 4,
   "news": [
+    {
+      "title": "共慶阿麗拉之境| 從滬上奇境，抵無盡奇境，阿麗拉上海兩週年慶典",
+      "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxPU3pnblgtcWJudmtma2dLRnF2RWhRM04yNHdtT0pXWmZtZl9IaFQ1SmYxYnAxbm9aNGNIUGV6RmtHZ1ZrMnBhRFQtd2NlOTlyaFpkRmxIUzNiN2Y0SmFKRWZXU204MmF2R2l5VXFYNGdqbUJ6dVZPd3Vqb2RqaTJTLVl5cnRPckRfNTUyT2g5ZzljaFVNZmNhTXNoNUJhcnpmMldRbFBLcjUzbWkwbUhyQlRpUENTZ2ZYQ19XWXpQbVVhTEtwZzB3Nm5zeXdQZEI4UTdXSFZSWWg2ajBZVDdzOFFRcFFlVUVGZ2ZqVFFzZ0YwOVNJYkhZQmhvTGVDWU1nVko0bV9SQ2VOOExTazRIel9rdHRsZnFhbkJTTVVhTkY3ckpMc0NXdnF3UkxvUVV0UmxRdzBXdklfaVFBN2YyakdkRFNFbEtlLUlDRUpBZWQ5OXV0LURoeW15bDh6WWJhaGU5ODgzZmxPYXliWFVFUktaaV85LTBHYkVqVG1jVUs0TzFmWTc4LXQwd2x1OWRleGVFTW9tb0toc21qdUlQLUhRVQ?oc=5",
+      "source": "tw.stock.yahoo.com",
+      "published_at": "2026-09-25T05:16:25+00:00"
+    },
     {
       "title": "上奇迎雲端商機 營運向上",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83MnNyVWhmcjFtZkFpXzlQVlhmME94Z2ItOGVaa1owR2RVcGhyejhLTjlETkRXczBTRmtBZ28yVENvS0V6ODdYc2o0aUpKS1BIS2otZzNCeThGS1HSAWBBVV95cUxQcF96S01XdnBHR0wxdWl4QzNrZjg0N2JIS1pxc0Y4NU9EZUoyX21HblV3bXZ4bEE0MUdxMHVIeWdUZHpScFUya0JVRFROZXFrYzBUbEVQS25HTy1DcTNWdlI?oc=5",
-      "source": "money.udn.com",
+      "source": "經濟日報",
       "published_at": "2026-09-14T07:00:00+00:00"
     },
     {

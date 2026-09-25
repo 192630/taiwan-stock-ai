@@ -1,21 +1,15 @@
 {
-  "updated_at": "2026-09-25T05:33:20.145383+08:00",
+  "updated_at": "2026-09-26T06:34:20.269663+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6140",
   "name": "訊達",
-  "count": 7,
+  "count": 6,
   "news": [
     {
-      "title": "前鼎上月 EPS 0.24元 訊達-0.1元",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNS2tEeDNMcEJmcGwyMUxhSTVLNk5INVMzMkd2eVM1cFJZRzZfWFdEaWFiSjRKZm5yam5pUkFqQ0pNWmppZWp1bmJ1aWxKemtGUHRleDAwd0Q4NTdoTU83Q0FEaDgxWXIwTmFKZ0tlcWtkZHFoNnRfcEpvYUk5TTRPYnRXbzhzRk95dzA1TTJ2eTHSAV9BVV95cUxNUnFHakUydzdtM0tMVzhOc3pJR3QtbHV6MVhSd3B2SndHVXNSM3Btd0JZbEpaOXJfeEZOTld2Q0pmVk9jcmh2WDNnbnB1UXVhLUdLLVpwUExrODdSX3Z3bw?oc=5",
-      "source": "money.udn.com",
-      "published_at": "2026-09-22T16:33:22+00:00"
-    },
-    {
-      "title": "訊達獲利／8月自結虧損525萬元 EPS -0.1元",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE15LWU0OFl3dkRWaW1SVkd4bFVjNXAwSzNHQW1SQmJCcEpLemJpNWhMa0l1Y1VEYTFVYV9IWkxKNEswS21vc2NiN2NNYXVRRnBx0gFWQVVfeXFMTUNEWXp4Q3BTYnFGMnNQZkkwZ1otazdIMDJpTWtjRFNQcklDX1hLcjVDYmdSel9EYTE5T0FiNEpWRzU4WWRkR3haSk9COEJYc3JBLUhtY0E?oc=5",
+      "title": "前鼎上月EPS 0.24元 訊達-0.1元",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CQk9fQVhtek9xOFBHWFFJX1BKZGgtQkNSNk5aNGhDbTVSOUliQl9DNm5wdlZPQVYxQTVzT2pDR3RZT1U3eDRWM2VBVGc2NVNf0gFWQVVfeXFMT011WVp4Y3g4elhRR0RFTWE1RGJ1WXRHd01YV3pjMnp2Qm1EOXZIR0hkSUVJeWJITDZWVVVieFM0cEtBN0RwZU1WMEhfQVlWdk5GUHZvQ1E?oc=5",
       "source": "UDN",
-      "published_at": "2026-09-22T09:10:14+00:00"
+      "published_at": "2026-09-22T16:33:22+00:00"
     },
     {
       "title": "投資人保護中心延長受理訊達、國產內線交易案求償登記| 財經焦點",
@@ -44,7 +38,7 @@
     {
       "title": "資服發威驊宏資、華經、訊達再飆漲停！電子股台灣精材、天鉞電、光鼎齊亮燈 台達電噴5%撐盤",
       "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxOYUJtZ0pscDdaODBJN1RoVjhyRmg5ZGdOeVU1Tmc3dnQtQ3d1dFd2V21Ba0N5cFpYbGZCeGxWbUE3SnduQ2UwNUd1XzFUcXdydEduT2JQaGp2dUtIY05JQk5lZFAtNDVGRTNnUEwtbmpKcWhocFRKNzhIZm90dVVEbVdjSnNsQjRBLU03V212b2FTODhxWE5vSmRfY0huTC1OcmtSRUpPZUpLTFVuQ294d1R2MlBvYUxsZVZEQ20xaEZNMmxwenY1RUppUE1LRUhKRTJpRnluMVk5SWhJQlhMUUVjNEk5d2ZQb05iMExVMW44TGVvMm9LVDdpVnBmaGNiVlJaMk1mQVNTbmtZaXFFa0JtbHBVZmdQMjRRU2F5eXVIdXlDRkVueWIzSTBDczdKcTBhdU5fRy0xVVBSaXNWSEFXdW4wZ2dUQzNzUnZKdWpISTR4RGZyUUQyZU80b28wSXBWMnkyREN5TVpUd0IzS0VxNXQ5U2xlamRPRTNYbWRyQldpMU10Y1V4eWc?oc=5",
-      "source": "Yahoo股市",
+      "source": "tw.stock.yahoo.com",
       "published_at": "2026-09-14T07:00:00+00:00"
     }
   ]

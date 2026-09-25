@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-25T05:33:25.893196+08:00",
+  "updated_at": "2026-09-26T06:34:26.650584+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6155",
   "name": "鈞寶",
-  "count": 5,
+  "count": 4,
   "news": [
-    {
-      "title": "2330 台積電 - 阿寶每日一股：6155 阿寶心中的愛： 台積電 鈞寶 聯一... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJSzhlMHhjU3lCWU9SejI3QUhUblJWQ1NrZFlSUkVpaFhVeEd2QzBVZU42Nm1yN2ZpWUVISUdNX3lrbzNoQkhHa05ucTV5QXlxSTJTUWdUOTQ?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-24T12:09:57+00:00"
-    },
     {
       "title": "【11:05 即時新聞】鈞寶(6155)盤中走強，被動元件族群買盤延續",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONXJqTTVSaGtxVDdLem85WWRYVEhDa1kwR3c2V3djNGdYRldITWdPZHdjLWlOMnNrQnpIS2NQTHBkWkpQcmF2bzVFSGZLcGg5eHB6V2ZjNEt3SGNTU2d0czVWZDc2MEY5cjM1Tjc3aGVWcDZsNlJBOU55SlN2VWxPVjRHZGp0M1p1TFhoWWdB?oc=5",
@@ -30,9 +24,9 @@
       "published_at": "2026-09-04T08:40:04+00:00"
     },
     {
-      "title": "鈞寶客戶需求增，訂單能見度看到明年 | MoneyDJ理財網",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82NzNVT1ZHb3h5ajViRkpUTzJsUkRvZzNiZ1k3eVJBMHdxMFk3NVdhWEV3a1pHV09lSHBzT3B4bGRGWmJwdVVjdkxZQVBoWEdEZG56MFln?oc=5",
-      "source": "LINE TODAY",
+      "title": "鈞寶客戶需求增，訂單能見度看到明年",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNMlgzS2J6ZVdXR1VsRXNnYzJvSndXT2h3Y1dWVG0zOE9CNFlnZG9IUVJKTlRDUTBCTkloYWY2ZlRJQnViX0ZRbE8wZ21famJiRzMtcG9XVFRMT25fWHo3WTJVby1PTnpPclhfVnpVbkxmdXJmV0lSTnlRTTViaTJQZ3dXMWZOUVZxMmRaX2hpUFJISkI1aFFlaldhZjh6ZUlVT24yeE1uZVdTMGNhc1cxNUs0bHFKU29JZlhQTFhQZ3Atc1pxUTFORy1pcVZaMUVtYi1qSlU0czJUTmlkb3U4elF4V2JGZTRHM1dTTlotV29mNW1pRV84MTFkbVdYREJmbTRWUnZpX2dlN1hSSVVEQ3cxWGxNZzlER1lsVw?oc=5",
+      "source": "tw.stock.yahoo.com",
       "published_at": "2026-09-03T07:00:00+00:00"
     }
   ]

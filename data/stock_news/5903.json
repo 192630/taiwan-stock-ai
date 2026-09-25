@@ -1,63 +1,45 @@
 {
-  "updated_at": "2026-09-25T05:32:59.525369+08:00",
+  "updated_at": "2026-09-26T06:34:00.241494+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5903",
   "name": "全家",
   "count": 12,
   "news": [
     {
+      "title": "免費雞排來了！慶祝王冠閎亞運摘金 全家祭品文兌現",
+      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPcXN1bEhndXdCdVlpUHlzQTRLaU44Y0NETk9DajlaUWo1M1NJSzc5QmNRYV85QW1fQTBqUzJ3TGw2TUVPLVFOdnVpNkhyeXZYdjMwcGswU2Vfb20waFpENUtSYktKbjlPQkpueGdSNzZkQmNlclBYVmJDdUJIa3B5djlXdlc4OE1rTHFXOWQ0eEIwQVN2SVAxQVNEamRyS0dKNFZ5MEhINXY0QkVZUFRqTFc1akJ2XzhJdEkxYnhzS2dCZDZQeXh1SXdCc3J5bHdzNTFrMnVfX3lpenNZQUxuN21xVTE5V2ZyNXQyQVdOR0pqLTJ0TXp3VUNwUTUxUU9KMkI3QUpLZDBabEh5cDhjTGNoQkp1MkNMTThGeDBtMDEtVWRWZjVZdlhoNzEzeGVHeGVrbG4yQjdKZDF6UEZkQVd4LS0yUXMyWDNDdWVNZ09Nd3NUX1FWaVpzMExVdw?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-25T14:40:00+00:00"
+    },
+    {
+      "title": "王冠閎亞運奪金！全家明發500份免費雞排 超商祭狂歡優惠一次看",
+      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQd1RhM0lOMElzMUlTaVNHZ0F4NEZfWVhGaEVmWElVSnU1blo5R0J6Qld3T21ZY0xybnY1eW15aHNBV0ppaXVWMUNjUDFVekJiLTdIak5qVXRUdHJyTlQyYTRPQVBBZE82ZWZiQTIxZGdFWWZSa25nWTVrTERKYVpldmo4QXA1UldrajBZRXhkWHBTREM5QjQteGE3MjgzekJ1dkJxVlljTXVsNkF5b0JqNUJ4ZkM1ZDY5VEpraTBuQ0dwejc3X3BVUHdyVVNMWk1OaExtWktGLWgwdl9mMlNpQWFBVFVRc2kyUS1DTTc0d0Y3bVNlb3NpM0F6WWMzUno5c3BaOHhGZmNsZXhMVkUxc3kyX2RrVDN0RHRoQnR1SjVNZmhpRGotNDcwNnN2SnZodk8yUTc2cDkydjJRNW44SDdpWFctclc4emMwQ3REb2MxZzhBOFcxTXVuMzBtaXp2MWZ2MVpKdVhveXFkSktXYmhCVVBUd3o4WVJzSHYwTUZUNG56NDRr?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-25T14:06:00+00:00"
+    },
+    {
+      "title": "窮到一夜擁11億！14年後全家破產 兒悲嘆：寧願沒中獎",
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxORF9YQ29DZjJWcVdPQllJR1NvZXg4Sm00V1JCVllsVzh0UFJtNmxBZnJUd2ZFeHN5czVqOVNMazAxemNORWx0RDJ2QXRES3ZQTnlUeHNGMDAtWThQWW9uUWYtTkYzWkZrbFRPd202UUxFNlEyUDJXRTNFT3Q3MWJIblJ1a0dSaldmcy1hbnlJZ0s0c0g2Zzl6THppWEpJaTF5X1Q1MWwwT0hRcG1fMW9mUEdUNVh5Z1pfU0hoajBZRjhLckhUTnN0VFlQUFRRSDkzQjgtbDQwX0lWYlZ1YXRXeTdRQ0J1ZFJmdVpKNzFKUXhjdkowX2hHOFVWd1RtZndBUmhoVjh2U0pKUkdDUzdHYlR4RzJrUTFvMDhVUXpkZzk1UkhHZ0wwVTZPOFVzTHBkdU1sZ0ZKZVZ1NXM3Y2RZdExR?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-25T09:07:15+00:00"
+    },
+    {
       "title": "全家打造外籍人才培育路徑 首屆多國籍人才之星表揚登場",
       "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNYzEwQ2h6b3lEdHhSWEhxLTR6UE5Na29RMGRjUm9JOTdwSHpLNUVOYi1kal9fbWtSMmM3Uzd2ejFVdjJXQ2VoZWk2cGU5QzVRREUtV0R0c3pxQzdIMzZPeEJNOWsxNUNxSFVwS3VrRnJKZGZpRDNqWFNPTlg5anJlZTFjVG5SM2t5aVVSRGNPQWprN2gzbTVxR1A0MDdFcjI3dkxxeFZ2aExWZ1UweG9iZFRHNE5sazVyUXBkVFRHNWxKNldRN0R5cnpyemVkRUxtOEtWRWRBT0tMYjR4WEZmQmR5UFQ2Rzk0RlNsTUpCbkdMV0hnQ2o4bE5DNUgwbVRUTmhweW1NM2tzbGFKcWtUZTh0M2cxUGVaRUcyNDNlOUZ3ZU5RcVFFS2hyZTVVRmtuM3o1eXhkV2tuUV9HTHpWQXZhdWlBazNVeGx5eV9jLWRQa1lSZ2MxWTZFQmJQb1BaN3Z2LWxCU08wVDIxVDZyLXdXNFRWdHpUelNaU1RiMXFkMk1vaVM2UQ?oc=5",
-      "source": "Yahoo股市",
+      "source": "tw.stock.yahoo.com",
       "published_at": "2026-09-24T02:45:40+00:00"
-    },
-    {
-      "title": "外籍人才不只補缺工 全家養出60名店長布局新戰力",
-      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPWWhnc0h3U3FDbzJRZm9RcnRfNmR1bnA2blZWZThuSzJUemFRVWs1YTZnSElQLUp3RE1NLV93bW1zUHRQaHdxbjlzdzJnWTlnXzh2TlY4NEpHcUJyUk5hWnJlQmN3UEJ3QTVYX1R2T1g0cmJ5NVJPZTliT1MydGZWWEYxQVRxZHBvQnJZZ29xZmVsQkVDLTNkTnZqRXcwV01MNW1pMWc0YWp1VEozZ2syZFZsZXpHU1BZUVVPYkd0UXVfQnRhM05XOVJBTUN0Sm96VExpWkpBYmlDZTc3bmFfMkRUZG1PTVlXdEthc2hkUmVBZTZodUZ1NmN2VEpheVR4SUdLbzRFYjFoMWFSblFNbkN2bjRvaDU0ZlBQZ2lwdXpXMFZCY0sxQ2dCZUtVdEdjRlpoNWE0NnJwS0FXa0NFamt0cmkwM2RpZXVFNlBZSTRJQVE?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-23T05:57:31+00:00"
-    },
-    {
-      "title": "全家4年培育逾700名外籍夥伴 薛東都：不只是補人力 更是成長動能",
-      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxNcFJLVUhBdG84czNPYThfRGlLR3gtWDJTMVVlbGdNdUtxZmlrYmpSN2RjdTVwWldyZ0RoZHRPb3NoWmhMOUZxLVpqenZpTF8zRmI5bVNIbmdOSmRSTVZFUmVWUjhGVjNzel96SDhOOUpXT2RKOHlJZUlfZ2I1NnVkOExjdWt0bmNNZUMycVFJN3JFRkYzOEtZSlA1M0JTRGhfR0JMN1Q5N3Fqd2ZFVWtyMWFLVE9IRllZTVlHVmRSaVlTV0VhUldQSm8zQzZFTGxjOHZYeUZZV0dtbnZpUXVCREE5ZGU4RXBuSUMyYWNMZUNGTXNXcG5SVFNOVndPcmo3anhZa0pncUE2UEtJRWl4aWMySDljWXNzS21ySy1wYkRVWndsNWlvN09iSWRhWS1ubU42ZHB5RW9odGVQeVVTVThGTDVoMGk2TGFSelZSUDVrRWFjR2NBczlCdl9fUFFQR29CSy0xbDZYdFRyVkdXc2J0NkpORTNHb3pzWF9WajJmMWZJRV9JdllzdTN3dFdnVE9pbw?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-23T05:50:54+00:00"
     },
     {
       "title": "丹水滾夫妻「捲款50億」全家潛逃最新！傳「人在東南亞某國」",
       "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPbnFzN0hYUDFBM2NmVEFZVjQwMnFKS2tpS0p4YTlpM2NiQmJzQXd4OHdhMjUybFVIT1NRd0d0QXdtODY0UTZhM3oxUkhfVW42eVllenB4NzNON0p5Q0NEX1luU29fbWU4TjFfaXpMcEtKdHo4QWxGN2JVM28wNG5xSFZ4MUdBaGF1MktFMkdwNFd4aGl3d2Y4UDZ4aFFBVE9tX2ZROUxNQ3RQcHVGdkZQeW5SWm1UZGNvWVZjRkNIazI4YlJzckZGN1g2Y3NWVmQzLW11bUU5b1JTYkJmZnVQa0FkWXJ6VUhpbEVKc3EzYUxQb1hSeHVHM0Z4MXRwQmY0NUhyWjkwa1ljWGdFQ0tTbWlQT0Vnc19rRWkxcUc4eDl1UzcwRjdpd25pNkhnZlB6RUdRNlNvSVNQWF9pQzB1MDhFbVBmMHRPQkhCSjJEV2x2SVhqXzNRcmdZV25lTF9Fa21F?oc=5",
       "source": "Yahoo新聞",
-      "published_at": "2026-09-23T00:35:57+00:00"
-    },
-    {
-      "title": "A-Lin生日爆驚喜！全家相隔11年「再度合體」 穿族服登台重現經典畫面",
-      "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPQXlNOVkzdlNJS3J6di1SZ2kxemZGYVBFbThrczRvUkRicktqYWpOV0NBcGtUMDNHMFhubVFNQWtHajFhb1hoWE1uZUctRE1PaGlIcGp2RUlYbnZWZ21scjhfbjFhSndhb0VTcGF2VnFtN1p4Yk5UZkNqNDhoZXRxNGNfZ1hzc0hwSFJLZnhOdHgtYUwxT0twaWhUZnVQQWlxX1FkTlBrRnJKT3c0Q2VGM0ZTZWRDZXRHcFh1UDZnaVBvdnRzSXlQWEMxamZvY2RjdDFhdGhUWGlkbnZIVkYwNUtWTnNIcTV1R3B5RHhQTlEyNHlSTkgtMXFCVnlteUIzYk5fU2dpRnJyTmhweUJHMl9zQUxJVXVhOXhzTGl0dTN3MEUzTUlJY21BUVhkU2ZuQWRBVlpaNmthUzVkbGVpZE9tMUtleUhXTkgxRUwtX2dSeE9Idl9PUEU5SFZydVRXVkdWWDUwOHpnYmxuc2JaWTd5aGFQTHVMS21nVHBZS21wbXpUV1c4bExB?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-22T09:57:00+00:00"
-    },
-    {
-      "title": "健康幣擴大兌換通路！全家、7-ELEVEN響應 年底陸續登場",
-      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOS2MyQXBuaHNadzNEN3BXTlpVblNFUGVCR01tM3JyNllLdnZBWFdhMmVJTFE3RnVRejNoSHFJUzMxTzI4S2l1alhzVV92M19xcHNiYVgyZGU1dDdzVFZFZzF0eE93S21teDNkMTQ1RzZhSm10RlZWdWNsTFd4Rk9qR3MwOUpaVHFoMEhEdUk2U21NdDRGVFRMN3labmtCRDRNTVpTZWJLQTliT3B1bHduT1BwTGZTd21iQlRfYjA4bHdSd2pZZnNuSW8ySlpvN2kxTExycDJQZlYxU2pTeEZVeDJZZmp6UWQxME1ERloydGhFd1lQc0s4QXFiUXEzS2FtUEI3amR3YnhrTEJqd1Zibm0tS1hDb00xa2RLQ19UOTBLSW9yZnA0M3dLZVRqUDN0WXg2cS1QUmctajhhb0JLT2lsb0FBZw?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-22T06:20:28+00:00"
-    },
-    {
-      "title": "柯文哲7千萬保證金遭扣押 陳佩琪跑銀行哭著離開：要殲滅我們全家",
-      "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxQZWctNHRrd0xEaWRCQk1tVWdGNzVQaHhSYk5Zc3B5ZHdtY3RQR2VXaS1HZ0E4YURpeldsaUFGYWNRbUd0ZFRKOTVJaUZCQUhMeUpjaEZJZEZ3empWaVFjdlJkSHVCaVJEajRfOTJvZUgzZG85cktaMTRzeEh3NWlFbUZ5SDg0MEdLLWxMdlBycVlWWjRDbFFVUGlheFNQTTd5TlB0Q2s2NWdYZldIcjhUeUZOdzVFQnFPUDg0WnJmUl9tQmNhUTRyOTRHZTQyVFo0ZzZQYTNxdkdvdnFFdzdSOXltUWJOWGRLUE9HNTdHWUR1eTJiYWNoV2Z0R1NCRHJJV0hsc3JxZnFRaFZJeXJkX3RtamlaSm1ybnNUYXR6NXBjcDQyOW9nSWxOTWdSMXhlLW5tdnhPNVI1TVc2ZzZSY1d1ZkgzMFVPNlFWaFFEVC10QzJYTldFYjEwcWdNWkt6bEU1TmtBTFd1T1NuNzdjVXJ0SU9GMXZnWS1QRFVQZnlIYUJETjZYMGhtVENUOEpmS1pxOGdRMEE4S3lNLXl5UVliY3ItNk0?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-22T05:50:15+00:00"
+      "published_at": "2026-09-23T00:34:46+00:00"
     },
     {
       "title": "全家外逃是假的啦！姚安娜帶哏圖T反擊謠言",
       "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOT2ZSNGNYVmdjZVpDU2RFU0lzU1FyenA0aGZFZHpIVUYyNjF1Y2JaZ3Y3dVlFRlFGaUk2WGsya0t0SzR1Ql9DdnZCaXFtclZCbERmTVpGa25fOW9lNzVXUDZkOXkwM2hwektmRHFRTG9xM1M3LXByREQwYmxiaXg1cW5icFBrbFNnWHZIOXpxQ0JNeXlMcElRbDhQaWo2VDBERkdWNW1PejJLZmVHU3hmcHJlUW10MGEzS0pwUFV0MGxmTnhQV3NLNmlqZ1VIUkdQR2VsdHhHN3VxWUlITHloLTlDVm1hNUpZb2RRZWhPOG5YR1kybEFqM1FnRTdzMEkyVzNGaXBYUnNEdzlBNUNaZzRza05RRF9WREVEUzg3UkNCc0NXMy00bkJYYkNJQQ?oc=5",
       "source": "Yahoo新聞",
-      "published_at": "2026-09-22T05:31:05+00:00"
-    },
-    {
-      "title": "6139 亞翔 - 主力祝妳死全家 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hMVFLSFM4cGFJMzNPU2lOYVl0dTQ5dC1RMTVmdFJfZGdyZFg2M09qTXRJWktsejl6RnA5aVZRU0c1TlBWQlZpY0NSWXN0dGxiV3doY1hHSXI?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-22T05:14:32+00:00"
+      "published_at": "2026-09-22T05:45:08+00:00"
     },
     {
       "title": "亞運》四大超商祭優惠挺中華隊 全家抽3萬元黃金、萊爾富咖啡買1送1",
@@ -66,16 +48,34 @@
       "published_at": "2026-09-22T04:10:18+00:00"
     },
     {
+      "title": "我要避嫌！黃智賢親曝「全家搬離台南內幕」：杜絕關說、利益輸送可能",
+      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxQMWZjcy1aT0NDdHVFMzU3YVN5OXZxeHN3OEpramdhMWRTRDZjZjdpMHRxRkNpanpfT2lDX1ZBVlg3ZTRvbFFtUEZnMnJNWTk2SVZzclFBYmhueVpocllvV2dUUTVUTGo3VXNCb1lWUEx6Z09FcTNKVUVzQ1FmWWRKdU81QTBqd3UxLXRFZVRmYlZKdlBwM1otM2V6R1c2UDkxVmY4eDFlTUxCc2NoSmJKNmZRSzNKVkJ2OVZlXzZLOEI2NTVCZVRoQ2RtOXpBaVdYcWRVZmxwcVF6LXVOUGFWR3VPWEE4NXdhUC1oMlhuSUZpSFQ0OXZIX01EX1h1RjlSemNDRkRTN2pBaEpEZU9ReVRxeEZxck1LekNnSDZTOUZxRktvWGQ0WHlibm1NUUxIczlGZ052YUp2bldXb0hQU0EtTWYtNmpYeG9JbGpLVFRpVHhDMjRiVF8zNGRGSWp5RGJmSGNYSnlTaHl0dTM5MmFMdFo1X3BhQ3c1clZ0MjlveHg3bWVoRkRCS2NoUmFBVF9mOGVXb3ZROHhq?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-22T03:15:38+00:00"
+    },
+    {
       "title": "中華隊軟網混雙奪本屆首金！全家今早送500份「免費雞排」",
       "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOdmc4ZFdpbmQ1akh5aFN2V19UNUxuT05zY25mSGJkaEY3eTdoTVpHWk9RWHRMQkZIX29VOV84Wkxuak9jbmxYRnFZcmpseDlWYTlSTnhwSUplNnQwYWlSS3JUcG4wNkFfczMtZUNlYU5nTGRvakZuT0wzS2V0alJBcV9fa2lFVEJ6TERwRHVyaHdXWHJEbUtncGdyRE9mR3UxT3cyaC02VUEzeTl1cnlGS3ZFNXJ5SGlMT3ZYWlFXWEdvRGVSeFNyQTZOckd3X1FtbFNuNDlfVV9zUTNhaTRoMzlTMDhVNXFDdU12SEhHZmhUNWVjaDNJS2NzTXpwc3BOMGlPZG5SUUFsaDNXaFJhYmpseWpIVnhISHRiNlJNSlJpRDEtczF4ZHU2UHM5cWJYa1BOa1JKcmlZc0pwWGhQTEdOTFB3UG1HZW04SGJOU05IRXR3VGYwcWpGbzE3WFVpQ2c?oc=5",
       "source": "Yahoo新聞",
       "published_at": "2026-09-22T01:55:08+00:00"
     },
     {
-      "title": "先生有房貸、外籍太太買房不受第二戶限貸？央行採個人認定 青安3.0另看全家名下房產",
-      "url": "https://news.google.com/rss/articles/CBMimwRBVV95cUxNeUw1S2I3UnlDUjhkWmtFY004VnlNUkxoNnd4MVVxUngwN3lpRDltbUVhbUl1VnZldm9vNlU1X1lsZVYxbThNMnlhd1pnQzhHME9IZnhrR3N2OGJjc1RMR3FHUUc0Vm5UeEVhbXNNMHVINmZHVXRTbDBtTk54dXdXRkhzRnpYYmhMYTFTV09mQmtjWjJxMWNyLUVEVXBWbmM4UEllNl9vazM5LU5aYmRyZ3FYalZpVFJmTER1bzhmdG1HMklueDNmY2pTVzVXOEZpNGd2QmJaRnVtY0pOeHE0OFR4RnRuYWJxU2xBR3hZX2QzRmZiZE5TSkowSE4ybmFBWjQwQ3BEMkhHY1JWTUY5N05VUUxBemtab0tJV0F5aGJSQXVISGF5eldrRWdmRUw1cUJVSWI5d2c0Q1AyVnktUEFhc1FZaGNPb2xTeVdkVTk2VEJLM3k1dnJmNlppLWRaVUUtdmpZNnRHT2hYYk94d05yUkFOMHUzcXhmeWs4TmhrZm5EME9jNExiTzFqT0pxam9ObzBWNUR6MG5oVVJaNFhkSDN0VTJzV0ZobGt0dHhfM1l5SHhMdFZWWlBncGtUTTNkWks4VlNNb2VadThPUTZwakdGWVA1eGJfOUFDVklyRmZ5Y0o5YnA0Zjg4d2dpcFlsdW9EVUFSYTJBX192WkQyeURGOEFPYjgySnpGQTBTRjBLem10TmNHOA?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-21T23:08:00+00:00"
+      "title": "7-11中秋吹起英倫風 全家鮮食新品真台味",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPUG1yb0xSV1pQSHBuX2UxOVZ2SS1DaFJuMTBYNUc4LW1BT2VleGVVSkFJSFBOOHNhU3NuUWtzQURySlRlbjVWS3FuaF9VZmN0SUZMaHBMbUV2VWZTdmJ0Q1NBZFJUejAtX0p2cDNMOW9aQUhUZjhTZ29LdERTcHlUN0lEdGczLXNVcGhmQ29pdFNwOWRtSEpYSXlaWDE0QUlUS0FqMDM3dlN3cVQ3Mm1KSEFBb0lNbGxNVWl2WjZJR2VzblhjZTBOOXFQdWVpX2Yxb0lhZ2FxWHpFRzhKc3ZRMTRwUTBHaTBjVEpEUFp1dFVfTzB6VFNSbDRfMnA3cXhkaElSZlFZd2FhaDV0WUR3eVkzTHBVT0tLd1E?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-21T18:51:19+00:00"
+    },
+    {
+      "title": "不用飛日本！全家攜手Tokyo Banana，6款必吃新品一次看",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPUW9QT2lpbFBGaFlSUFN0ZEhta3QzdWhsWURNeXhfcnRtMlRfNU5qOU45OC14QWJmNHJFQUdkdmREXy13SzhJZkNoUldtZlhuc0JnZGRSeHVvMEhKMGpCeWFncWpJYTI1RjlVV0hJNWtGNzc0bVZ2cDVzSE8tVEtpejBBZVRlVnZFRWxfNm1iYi1RQ2N0X0dxTmpzM2RzcHVGRExCNm5EN0pSVzUySzR5eFFCbHM4Y3E1S2w4elJiM19tczF1LWEza3Z2YmpoUXpFUUZDQkQwNDRiX0FpUGlqV1hBeVA1bUlfUHNGUzFCZ0U5WngxQ2JHRzlDaWpFR1Fvd0h4NTNCaVJtcTVpMk5ROWF0blplb1JmckwyakdJZ0FPZDhrNnNoZA?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-21T16:00:00+00:00"
+    },
+    {
+      "title": "台灣隊亞運首金！全家今早10:00發500份雞排 4大超商應援優惠快看",
+      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQaEh6RkZBb1d0V2libHBlOTN5cEFNYkFIaGtMTDEtTXFTcTB5eDB2V1JIYVlKaXZ4SEVzSGF6WlBQb1hTRWk4ODJMWVQtOWt2Q1JQaVRqV0gzX2JNSnNnRHg4b3JFMjBDTkNGUVZtSVZKTDk1STFMSThWQ2lTc1JNazhGaU1nTXJsNWJSYmFzZi1oT0xDVTNXTTJpUDR1NVBKVVp1dVNhV1dnWE0xLUVFbEJvRFFTdmctMF9NNGluNW5qdEV0NUhuWW9CU2pFWnl1NlBBR1otNE53bzZZem5ZOTdaX3Y4b2pvVVZES2VKRmdWemtDcmwwSXczMUNQZVFQeDBCV2ozS3FMY01raFQ1VFVaVGdIQW5aWXR6TVBXVlM0NUR5R0lDTlpuOGhDVXdEUjE2NkJ0dUZ1czYwT1B5TDFiTExGbmlHSXpqei1aN05iaG1SN0N5TEFQQ2c?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-21T13:22:48+00:00"
     }
   ]
 }

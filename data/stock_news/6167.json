@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-25T06:33:53.523556+08:00",
+  "updated_at": "2026-09-26T06:34:30.925352+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6167",
   "name": "久正",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "6167 久正- 按圖索驥 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxVkVJcXdvVkg1VFBxUUFWWjAzZ1dfd0libU1pVG5JUHJrSGNSSzNKTU0wVHBsYXZIcG02TFF2dGlZU3ZWRXhwZTAxMjV6QzN5cHFZenU1WnM?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T23:55:08+00:00"
+    }
+  ]
 }
