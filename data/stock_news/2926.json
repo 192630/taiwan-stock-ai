@@ -1,27 +1,33 @@
 {
-  "updated_at": "2026-09-24T19:35:17.223909+08:00",
+  "updated_at": "2026-09-25T21:35:55.692922+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2926",
   "name": "誠品生活",
-  "count": 8,
+  "count": 11,
   "news": [
     {
       "title": "2926 誠品生活- 誠品週年慶迎韓國人氣貓「ingki英吉」 3米巨貓氣偶10月快閃衛武營- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwMDAxRnJMbDJwYlJQUWt6Z1RmSTlaZFF5aUNSNnBVREVhVWRqb3B1M3EwY3diRVd4eGhxUlRVR29SUjJMbjFIUlRUTWVKSVBpM0gzOW9uMlE?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-22T12:44:50+00:00"
     },
     {
       "title": "2926 誠品生活- 台北「安鼠之亂」還沒完？松山CITYLINK有鼠輩在這2家餐廳亂竄- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Oa3RFa1d1T2E4Nk1vQklkMUtrVzFwQnRHZVdJZ1FLMTdtT2dRTzFUdjk2WGh5ZGE3RGwxdEZTdVh1MmIwejlhR1U0dVFMZnlJdFVXU1NxaUQ?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-19T15:17:52+00:00"
     },
     {
-      "title": "誠品生活周年慶迎3COINS等近90家新品牌 3大策略提高人流量",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0xZjlJajhXZkJIRFMyYW9hS0VSY0NhQ25nSTFweDNYU3FjbWlvX3NvZXBRTDVXT3N2TGZkakRYYkdteDk5YUJvRkVHd1dUT0NL0gFWQVVfeXFMUHNDQ1M2VDA2V0N0Nk9hd1lqelBFa1VISDdxS1ZGdC1zRXQzMDZYTE1LTGIta0FIVmZPcWEyTFlTeWtIdkNEYWlYUS1QaDl4bmpOMlNoRHc?oc=5",
-      "source": "UDN",
-      "published_at": "2026-09-18T08:56:13+00:00"
+      "title": "百貨通路迎復甦！三大策略帶動實體人流雙位數成長，誠品生活拚業績增5%-財經焦點情報站",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcWQ3ZmZJWU83MVh6UldmM1g5U2pESHpFR3JPVTRRU2o1VVhMYkZKSEpJdm5Ea0Yxd0NOU3lzQkUyeDJweHRmUnh6RWk1MS1vd3pvY18zNENfdXQwNUFwN1pFUUlmMGNiQ3QyQjh6a1Z6NFNqNnd6eTI3LTU5LUJRNHdB?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-18T10:23:07+00:00"
+    },
+    {
+      "title": "誠品生活周年慶迎3COINS 等近90家新品牌 3大策略提高人流量",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zMkxVYXdrTk1BdkhnU0EzRXF6Q0VxVVhiMXE0d0JRX2I4ekNBdnd4WjhJMFRBcWs0Tk1aSUw5VXdPWHh4aWxNaFZBUUU4aVFqVTJmVVdIVmE?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-18T09:02:57+00:00"
     },
     {
       "title": "日本3COINS、WEGO掀排隊潮！誠品生活「這門市」人流成長5成",
@@ -30,27 +36,39 @@
       "published_at": "2026-09-18T08:47:15+00:00"
     },
     {
+      "title": "誠品生活週年慶登場，引進話題品牌增熟客黏著度",
+      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQZExXellLVFFqZXl1OThmYUF3SGlGRVVZVVVzVjVNcVpnMmV4TUt4ZE5jd05fVWZSdC1odVBLWWR0angwMExnMlV4cDNhRTAwdXgyQXlCdVdrN0Z6NlZfQ19KLVFHM2Q3ZURkS1RsMFpnbXFNMnJ0dEZLeHEzcHFScFVQYjNxd3N5UWdPeDBtQndZSC1OWUNGTW1jNHFwNEJPbmRBVUJRRkFsMEloaEt1eDhqNW0wSVRPc3FVWWEtUUIyVzFNYkpUNzB5RThKWVFNdVhCMjJMUjF1SkJXTHdhOFNKbmJVUEg3WkhvdS1Fb0lsdFJKUldKM1U5SklOMGI1dW9nTnVQdVM1ZEJGUjRXTll1SkxwME5KN3VNOUhvWEhjdFhPWkI0ekZxek5VMXVfTzN5c2YzVWsxQkxPLXFzWlo0YVJJQ0hRU3R5NnJ4UWhPdGF5V0wzVg?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-18T06:21:01+00:00"
+    },
+    {
+      "title": "誠品生活周年慶迎3COINS 等近90家新品牌 3大策略提高人流量｜新聞快訊｜豐雲學堂",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLR1k5all5MktsM1RpaXFGcVJCaG54Q0JGdFY5ZDNXR18ySnU4SGFzaE8wVGlUODlWMEFSUGd4VnNCbk04QXo1alF1VWdUdUtVa3Babm5rY0Uxa2NrYWxSM3VoMnRZV3lObTJEVks4R0hSaUdmaUE?oc=5",
+      "source": "sinotrade.com.tw",
+      "published_at": "2026-09-17T18:26:00+00:00"
+    },
+    {
       "title": "2926 誠品生活- 搶吃千億！ 百貨周年慶轉型搶客- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MQjBKc2otY1ZVdUlxemJfTnNMVldaZEJzdUd0MmdRem12MzMtLTFoNUpVMmRjZklqeTRvbXBFeTdKWFo0NTIzT0pjc1BmcEhvN0FSdlBfZ08?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-13T07:00:00+00:00"
     },
     {
       "title": "2926 誠品生活- 專訪／3COINS 台灣首店開幕！揭台灣大為何布局實體零售背後盤算- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9meV9mUnc0ZnpjSGcxNjE5R09KdDVOYU5XblZYVUZPNmU2ckl0b0hydE05T0tmTHZBZFVTSXlYSFltcDJiMG9IZmY5ZjlGMWN4NDZfLUwyTWE?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-12T09:31:57+00:00"
     },
     {
       "title": "2926 誠品生活- 《北投女巫》 簡士頡☓「大人的漫畫社」陳怡靜暢談女巫誕生幕後講座圓滿落幕- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tWlBNYndTVS1QMWlrT19JSmlEeHk0Qk9nUlQtUlpoU0MxMzQ4UFVkX2ZWaWhPUFhYbDFMTW9LQmdqSXNNcGFZd244bWo3MXUtYXFNUi1zTDE?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
       "title": "2926 誠品生活- 日本人氣生活雜貨品牌3COINS 9/12開幕！揭「台灣限定商品」等7大主題區- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hZWVqUU5vRC1Tcjh0UDVTTDFWajVCUjJMdmRITGZKODV5VTVYTFVIZUNDckpOeHI1MGdoOURILU5uQ3kwNl90cTJjZnBiWEJMYmZNWi1nSl8?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-05T07:00:00+00:00"
     }
   ]

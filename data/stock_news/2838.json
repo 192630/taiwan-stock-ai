@@ -1,20 +1,14 @@
 {
-  "updated_at": "2026-09-24T19:35:00.479293+08:00",
+  "updated_at": "2026-09-25T21:35:41.082179+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2838",
   "name": "聯邦銀",
-  "count": 5,
+  "count": 4,
   "news": [
-    {
-      "title": "2838 聯邦銀 - . - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4a1kyTW5NOFhITUo5MWVDR0dOZGFGYkxDTHBHTDEzT0Y5UmFDc1lGdHBxTVFHWTY3TG5lMTFzMERsNmRSNE9uYjBZMmlMY242RzItX3BjcVc?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-24T05:07:56+00:00"
-    },
     {
       "title": "2838 聯邦銀 - 連買三天，等24 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zbm90YzhESmxyWjVDS19IVFRWZUphQ3JtbUg0VjZCYUJiNzNMQ0Y3OVYtVFV6SjB1YkkzamE4OEIxQVFidXpCVGJvdFdIZU9tVFhaNGlqR3c?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-22T02:12:21+00:00"
     },
     {
@@ -32,7 +26,7 @@
     {
       "title": "2838 聯邦銀- 聯邦銀行連12年支持喜憨兒劇樂團公益延伸原鄉學童- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uQTI3VDJQdEY5MUEtN09XZmxKdzlEcTM5TzNlaFotNWhlN0U1ZVFtU3BULTFtSW9KYkxfdk9uT0drZEpGNTIwT0FNU1cwem1LX01GVjdjcDI?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-02T07:00:00+00:00"
     }
   ]

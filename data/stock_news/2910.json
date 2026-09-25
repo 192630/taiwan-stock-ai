@@ -1,20 +1,38 @@
 {
-  "updated_at": "2026-09-24T19:35:11.014360+08:00",
+  "updated_at": "2026-09-25T21:35:51.945606+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2910",
   "name": "統領",
-  "count": 2,
+  "count": 5,
   "news": [
+    {
+      "title": "銅跨期2611/2910 (HG2611-HG2910) 期貨",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DRVNhYnp1TWJTTDNBOEFvN0RDMjhobWlFVDZFQnNQTjdYbXk5dDFoSGdoT2hBN05nTWNpMndOcURSQkwyMEM5WUYxS2lyZW9XVkFlLUF4RnROVDRJMzg1X3NR?oc=5",
+      "source": "moomoo.com",
+      "published_at": "2026-09-25T03:33:16+00:00"
+    },
+    {
+      "title": "豆油跨期2801/2910 (ZL2801-ZL2910) 期貨",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1oRjdfVVFINzZ1SzRGNk1EYnhfUlJsUnA5WktCTkZMbFdVd3oyWmliRnpPbnBNVDZUa2NlclZPZllFLTd0dzFNYWZfd1Z2THNoYVRHZ0hEbnJDZGZRbzh2Tk5nb1l4N29SOGZKZ2cyX09OZ1d6QklR?oc=5",
+      "source": "moomoo.com",
+      "published_at": "2026-09-23T22:39:15+00:00"
+    },
     {
       "title": "銅跨期2808/2910 (HG2808-HG2910) 期貨",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1EY3RJTFVpVVlPYi0zaElwSktlRDc4bnlKLWF1Nm5zaldIME90NkpmMmg4UHU5OGkxczlRNThYNVBwNFRGb2w2TEY0ZGdfVTE4UE5wV3EyNnM3c2RyckZRNGh3?oc=5",
-      "source": "Moomoo",
+      "source": "moomoo.com",
       "published_at": "2026-09-21T18:50:11+00:00"
+    },
+    {
+      "title": "炸雞控暴動！Bonchon桃園統領開幕買1送1 肯德基46折",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOXzl1aDdsbDZ1WlRqSU1XUFp5VURfUWh3ZE5PRmZVaFJDaEZCa2szRjBXMk5WN21FS05kR2d6dWdvYlExZUNpbUtjdWZYZTVRT1RldTV0dXJqQ3NMZE4wX1BJZ0xueXk4Z01uRGlSSnhRbXdocllVQVlpVjJXR0dlTWktUXZ2OGFpcmo1dTMxY2JPM0J1MWZuc1RvS01vWG1WMG1RelFlYmZHdmYwdUdUQjFPMVZPbGhhWmYtVmpqakpSOVdHWFBLczU3M1R3cG5paEN4aklqdkNINENBOHBZTm5PR01YODBpNDNuWHQyOGExaU5UWEpvQXpIWjFWUlNzRTJHNzQ3U3h1elZvVnVsd3hFejAtWDhXSkk1U1FvUklpaG1CRGE3cHhtQTNQeWZP?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-17T08:40:31+00:00"
     },
     {
       "title": "2910 統領 - 美國生技指數8月已創歷史新高，莫德納 「癌症疫苗」問世1天大... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fWmJjcE5MYm9leW55Skt3UEp2a200aElpNl84NndHV0FnZWZjdjJLWGdDR1lDWjVHOERnaWE0eEdKR3lDMUFfdWJ2M3dEMUQxVlB5NzdSWHU?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-12T07:00:00+00:00"
     }
   ]

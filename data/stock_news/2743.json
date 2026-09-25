@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-24T19:34:51.811377+08:00",
+  "updated_at": "2026-09-25T21:35:32.783076+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2743",
   "name": "山富",
-  "count": 1,
+  "count": 2,
   "news": [
+    {
+      "title": "2743 山富 - 美國生技指數8月創歷史新高，莫德納 「癌症疫苗」問世，1天大... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJT3B3Rzk2bV9aR29uUmhuTXV4ejZGVzJPTEV3YjVPeDlxRGxvTHg4WXZNLWI0eGpkR3ZFa09obDEyN2I0d3lRaFFDS2hVcTduVFhqaWJUNHY?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-25T10:51:07+00:00"
+    },
     {
       "title": "山富9/30參加福邦證舉辦之法說會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB6Q2dSMFNkQW1mdlhzcjZQb1hvaTRTWUhXM2x0QnhDS0NCdnFtQmgyTFNUcW5rdlN4YWhXMWs2ODM2V3BRYm4wNXJFTjlFUkhiVDFOODFaMU4?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-22T11:12:30+00:00"
     }
   ]

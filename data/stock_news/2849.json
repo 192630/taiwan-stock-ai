@@ -1,50 +1,44 @@
 {
-  "updated_at": "2026-09-24T19:35:01.531913+08:00",
+  "updated_at": "2026-09-25T21:35:42.009343+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2849",
   "name": "安泰銀",
-  "count": 10,
+  "count": 9,
   "news": [
     {
       "title": "安泰銀 (補充公告)安泰商業銀行授信資產轉讓之公告",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FR3BkWTc0am11a2ZTaXMxT0hRT2hmek12bVZCd0lXMDFTYlhHYllTck1DTGNVUloxMngtek9XLXZLRDRNdHA2bWI2YjljdDhLQ19XQk1CZ3k?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-21T13:07:27+00:00"
     },
     {
       "title": "安泰銀 安泰商業銀行授信資產轉讓之公告",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9CVkFCSC11bXlZMlNqeU5NajRFZF8yR1V5U3Q0SWJUeE9BUjN5bkxuYkJfUVRIeDg2WGJKWFRuZy10ZzRQb1hJRUZ0d0JZclZSYVVyczBsYVg?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-21T10:37:37+00:00"
-    },
-    {
-      "title": "Entie Commercial Bank的每股營運現金流 – TWSE:2849",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeDRzdUhoWVVoMTQ3Z08tTExyZUsyM1lzWWd4bm5WNXJaM0l5c05QTnU2SWpOdzE2Y3hCT2Z2TlJ2bTBfamJ3TmcyaUxORGFfZHhmTnNlUldjM2tKQ0M5NVNoenlMQVZWXzhWdGk1b3h4M2wySVQtYTQ0MnVOOXI3SHppNXM2TnFodzB4SEVsV2hEckgwNmxfSC1RRTlJc0pwanZSYzhsSTJkVGVS?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-16T08:07:46+00:00"
     },
     {
       "title": "2849 安泰銀- 安泰銀行高資產財富管理業務正式啟動深化家族傳承與企業接班- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nMWtsMkhhcjlMcnhQSDBDWFRUZEJwSlJ3YnpkMmZrWlJxMDY4d2RfR0s4UlZCOGRnOHRNcldiZ25jSzZwb1d4Y2VQb1RVQml5ejBUNWhwajg?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-16T04:54:53+00:00"
     },
     {
       "title": "安泰銀高資產財管業務正式啟動 深化家族傳承與企業接班",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10VHF5SElkS2R5ZXZqZHZvVy1LWUZqVVVGZXhhbVZXUFVqWEZRMHg0Z2dnTjgtb1ZtZG9LaTFUTVVRZnl5VHJza0VfenI5LTdmWEp2NGNYNTY?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-16T04:07:41+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxQMEdBU1NjS1RrNnlLVmhSZF9nZjREN1B5RF9lMHAtTFpGN01RUjBNaVNYN0JmNEViLVNTamNiMDN3a0p3MS1PbTRnQmR6YmlpNEhWY0R6Mms3SGcyX0ZxdHQ3ekdkY3g1dmloTllhU1BkWWhaZTRERkRhMElSdWhKdjJGN212cWZUQzJPUlhEZkpZR2JvWXRGMnpaVUxuTE1IcmduLXZrUUI1T3hzaGM0WXI1dmMtTUpNV1JLc3ZEZWx1SmNidE9OamhqczhhZlFlYzdjNTFFNS1TZjBwdk94eWwyTU1wa25XT1Jvb3Bsa1ZaeUpQNEwtRmNzdEtTeG1BOE1PTzQ4X1U0SVVQMkJTNno4ZVpjbnIwVW14X0ZFUk1hbktMVHM5b3dNRG52SkF2MGJBWjRETEhobDNxaTF2Q0RtV3FTOVBkcXM2aWpnaEhkNjN4ZElaeGViNmtXYlVZSkFveVhiYkVtOG05a0pOZlQtNEFmLWZRYWRIQmc3TEV4Nm9XczhCWlNBTQ?oc=5",
+      "source": "Yahoo 財經",
+      "published_at": "2026-09-16T04:07:24+00:00"
     },
     {
       "title": "《金融股》安泰銀高資產財管業務啟動打造一站式服務- 上市櫃",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93ajRaYWtjRmtlVUVQdnhCNUJiTEo3RG1BWHJtcmo0MG5sVUtZc01jS08walpCRUQ1VC13ekdxLTBVcEZzLVl4VS1PUkFLOWcxUmVUUTR2MW82VE1yTU16bWluVDJLM1FpMVE?oc=5",
-      "source": "wantrich.chinatimes.com",
+      "source": "旺得富理財網",
       "published_at": "2026-09-16T02:45:30+00:00"
     },
     {
       "title": "【12:51 即時新聞】安泰銀(2849)股價小幅走強至16.1元，受惠營收穩健成長與金融股避險買盤，技術面均線多頭結構搭配法人與主力買盤偏多",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tTlRPeEw2Sl9rSHczcGN3LVc0R2djTVBvT0NFMFd3SDhCeU9RdVZYWnltNVZROURqdXVaWmtTQkNYM0czb2ZUV01CVVBqNXU5RFZJRktJaFo0Z0lKdFFndGFrbUEtYVU?oc=5",
-      "source": "cmoney.tw",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb1BfWE5NZTZfN0FUeU5yYnVfUzUtejdkUWJiSmtOSmluajlqcUdidXFQVmFsX2JVem8ySUF2WHlOSEVRRVhlX1doSGFwN1I4d1N4TllnSERUYzF0QThheUhCMHcwV2xpVThLb3ktQ3RzN3owRmVZX1FVdTNDZ2NZb0RSM2czM2lIT3hCUk1n?oc=5",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {

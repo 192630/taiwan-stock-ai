@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-24T19:34:55.304122+08:00",
+  "updated_at": "2026-09-25T21:35:36.198115+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2755",
   "name": "揚秦",
-  "count": 8,
+  "count": 5,
   "news": [
     {
       "title": "【10:48 即時新聞】力旺(3529)股價勁揚至2755元，受AI資安與PUF硬體安全題材激勵＋高檔評價下技術面反彈空間受關注",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdXZqWDc5QzNNZjRNZ1ZvWExRa0xSVHktczI5WlNHQWs3aG1xZUZmZlRJTzhDcXVqS1ZIWV96bzZ1SnFJRUdQSUI2RFZjemotZUZuWTBrcWNFdklza2hjcTYzRHVjSjk1NEFuRzlwRUMxMFZybU5WOVI1NF9RSUJCbU91OVdRWlNYQmVkMVlB?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-14T07:00:00+00:00"
+    },
+    {
+      "title": "揚秦8月營收創單月歷史次高",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOc1Y2YmE0WTJkTUU0U2Fubjk0SkxSMmdfSGpkc3NYVVY4OUdkQ3NnR3F0LURNU3BucnlnMHBid3p1aU1nNVVXdlNPQ0lMM0lzTkczc0xLR1AxRzdVQU9oWjB3NjVXdnU5cnVFVVV2ZzNKYXc3b3ByV1BUdWZQMGV3ZVI5WDIxV05YemRPUGFQNy1OMVNnYUhWYkQ5ZmtDMFdZYWk4ZGdob2NqWkk4WGtvRUlqMWJQOGlMSDZaVjYtN3JxTW40UXFqTjBfREJQalZZV2E1WjFYRm5kQXE0U1FUU1B0dVA?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】揚秦(2755) 八月營收3.1億元，年增15.22%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUjVweGFOeFl3VHRmSDAzNmRTcHgtQWhNdEI2aXl3bHloM3pLd0lfc2VCQVlBUk91ejJ1dHhVZzU2R2R3Tm9oWjhxR09PSk1VY0dFZEtmRGg5ZlByQ2NuRG5vYnVsajhWVWtVNFNnRFNNRGFfbjBYc1dzX2JPam4tS25jeW1oVVdJZ1E?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
       "title": "揚秦規模經濟效益顯，Q3營益率拚再攀高",
@@ -22,36 +34,6 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdFc5RmZGOXB3enF3ZERpUW5VQ0ZtN05SRFF4azRNUHVqcUFwZGhxcmZPTUZvOEN0QktfbmdzS2I5OUk4aFlfSHNuRWVWc0QwRjRRbF9ETFhqODl3VklCMXlhY2dJOVU0WDlpcVd3akhDWDVTM3BxMnhBS2xRbms2ZDFuWDR4NmNNaEE?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-08-27T07:00:00+00:00"
-    },
-    {
-      "title": "揚秦多品牌佈局 主力品牌麥味登4年內拼1500家",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jOHpWMzJfU2U4d2ZELW5ISGhYOVROUzBja2pYeHFlM3RMQXQ0ajM4TkF6d0w2SmRKUVJFOWhqZ2R6Q2k0N1kyc21zX3ZBWTJnUXJ1YTVNLU9YN2hVREVj?oc=5",
-      "source": "自由財經",
-      "published_at": "2026-08-26T07:00:00+00:00"
-    },
-    {
-      "title": "揚秦每年拚淨增百家門市；美國首店10月營運",
-      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPN1dXS21peHhYdjFNdkcwS2FQZ3YwYzYyUlg0Q1ZuRC1OaTkyZExDbmphT3NGOG5aN3ZCdFR1NVVERTdHamtXaEFSb1BYODFGTkZLYk5vMU5JY3JZck1jRTlYamREbU9rRHNueW9SaUNEZGhObVRTekdSSHBES1FCSjVfUHQ1M05fTFVVR1pYV2pocUk2SE9WaDVIZS1JVXhqQVZmMThzSjZXaTdTUHRMdGxPV0NQanJPRUIyMUkyMkJDRW1kb3ZSY2gtSnJVUjNtXzZnZEs4aHNWQTE3Wkktc0NocWlsM01CVXdTZ2Q0b2pwVk9OcmxPUVY1NUxzUkJ1ZDdpUWhTcng1dEkzcUtBYkNVT2UtN0M2dEMzamNqdjJTUWpaRjZhS3hqaV9qaDFLNHUwa29Ubw?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-08-26T07:00:00+00:00"
-    },
-    {
-      "title": "揚秦AI賦能優化營運，智慧物流明年上線",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOV1pUVUtwUDNNVjVTMTZiVENqRkpiQnBHM0RraEU2WDBlZ0pqOVlhMC1NYzEyQnlPTjRrOWpxemMyUllIY0gxVTVwRGFKdVpkQVpkMlVzdGhnck9fbTJvNnRhX2RXcG9mWFliaEk5cnlsODFrTHBqbkJ2blJXelVzeTQ4c2F0Yzg5SEdYaUx0RW5PVmRUbEJ4RmVCQ3VtdE9oeDJ1TUx1enNIaVg0SFJWT1ZHdmxPSmNTOGtDblJGdnZKV1J5MTdBdmZJSWI5OVhkM1Q1LVZfb1Fqek5jOTc2Yl8wbHRYcmE3NGJwM1AwaGdaR2dUXzIzRzBBME5Yc2VwQ1VuRWpNaHJQQ1RPblJIbE9oeF85eERLd2RrUWlOWQ?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-08-26T07:00:00+00:00"
-    },
-    {
-      "title": "揚秦涮金鍋明年再展6店，營收佔比挑戰雙位數",
-      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNQnFBRlRPLUp0dWJfRlRYMVVrb0JXekppQkRXaUZ4NVU2RUdMOXBuUWRIcmx5QVF5OXo2ODVpSlhid0FBUUpKbVhyRnprM1NHRnpmTEJucVluMHdkNDhQajRJLXhmS3RReHVjOEo4N2NYelVDdTM1Rk4tRlZmTkU1Y3U4N3Y4XzBQeWdxVlJFd3dvOWxuWXVkMmZ4QlpPSDF4SmlDOFVpMzE1QkhvdFFQaXRGU204OWZpLXU2c0k0c2hEeXNhZC1aVEJ2MVJvWTlnZ1p6ZVIyS2ljU2hIRE5TWVJRNHV0Ulozcmc2TndjTFExZDlZcmNWRGNjaWVEQ2JUd28ydXFfTDczaHFCSXJzRWctQU1WQjJLa1Uzb1h6NmctQUxwck1wVVB2aHFpRlE3Vmp1UEhyRHJxQVdmR0VDVnRR?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-08-26T07:00:00+00:00"
-    },
-    {
-      "title": "才喊挑戰商場美食街店王！麥味登母公司揚秦宣布結束「檳城煎蕊」代理...原因曝光",
-      "url": "https://news.google.com/rss/articles/CBMiiwRBVV95cUxPemlRRW54Vk9YNldvWEdsdnBJbHVwbnJnYUpWRm00aUxLcExxdWdheXppbUNmTm9FVU4yUGZVS0xBcGFyWjFEVnpFdm5OQ2FCTFZXd092YWhFV01SZGJZaHFZbXpXQmNpWVRreVBfQ2VZRTJMTDVnalZuRTlzaUZCM282WGNBMkRNc0QzTklZcm9BRkh1aW9pcWRjdmRoN0dKWHQ2bE1IV0pXQzJoZ2UtTFVYcnRGOEVhZV92TW9zNVpxNXFUTVJNc0hGUnNPQUNNdk95cXFfVEFjck51dTgxOXVpMG5ULWFLVDdCZ2VWSnlKZ3pLenp1eE9lcTZvajJ3dEdnSnNOMHFMUnNlWWVxOE5ES0hoRHZ5Sjd1c2M5Qjd5WmRtTmV1QmNLVENPY0FqRmxjcXI1aTNEUnp1dzBGU2c0Wlc2NUMwY3lxT1hhVnNsdlQ4QW5xNlJpY2tNSklMZmdiYkQ4ejlGazR5VTIyRmRxVFRzYjRoTTV6WklKODgyU3ZwenZYRmlleC1wV2xrTHFNR3pNczg0WDU3b0VaSFQzMXcwc0k4cFJubFF5SmtGM3NfZ2t4cUk1OVVLZVpZUDE2ejNlM003Qk15Z3MyRFFTY01rckNsc1VrT0VlS2FYZXFYT29VNWl4S2VWX0JfR1JOdkVHTVRGVkJEZ2NLQXpoYkowRm9QMGRV?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-08-26T07:00:00+00:00"
     }
   ]
 }

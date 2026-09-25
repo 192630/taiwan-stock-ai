@@ -1,19 +1,49 @@
 {
-  "updated_at": "2026-09-24T19:35:20.082915+08:00",
+  "updated_at": "2026-09-25T21:35:58.464429+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2945",
   "name": "三商家購",
   "count": 12,
   "news": [
     {
-      "title": "三商家購大重整！美廉社、OK超商整併富達零售 母公司將更名轉型投控",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcU5ncWV4NC1GZVRlMlpVNE9fVUkzVmpKeWI3VXNlZVVVLXZIbWZ4YjJNMDdNbWM3T1NtbzExNG8yWGtUWVpmQmxUMTVwbUk5Z2owdzcxYW96R24xVm1JLUpiMHd6QTRCUnkwRVJlV2l2SnBSN1R2TEpMVkl6Zmd1NTZsTEpYSU1sbHc?oc=5",
-      "source": "PChome Online 新聞",
-      "published_at": "2026-09-22T23:04:53+00:00"
+      "title": "OK超商招牌「紅白色」換這色、美廉社組織整併…三商家購轉型眾聯控股，雙品牌聯手祭「0元加盟金」",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaGl3RTRBaFU4bkR1cjUyMXRvbEFIWHRjeTRmTXluenhYTGVld0hCVHZ2UXFnclhfNWMxWU1nVVlnQ09ZR3ZjdHNLRDV2SktOS3JVWWhVdFNrMFl4TVJNUXE3b2MwYlBNR2c4dENCTUYtcHh4TS15d2tGYkswRXNlZQ?oc=5",
+      "source": "今周刊",
+      "published_at": "2026-09-24T07:00:00+00:00"
+    },
+    {
+      "title": "三商家購董事會通過認購富達零售現增股3000萬股，計3億元",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MU05JOEMzT3UxU0J6d0tFRk0tZHdGa3QyQWRFSFNkcmpxcXp6Rk1mazJoUXRFYVFjRGt2N09sQkloWnpoQXQ1aFFoMFh5bDFodHgxYnk2dXE?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T01:22:41+00:00"
+    },
+    {
+      "title": "三商家購(2945)改組控股公司，11月18日股東會能否過關？-孔明投資長",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKY1RYd05fVWNGcmk4Z1pvTUI5R1pZVy1taUhMMkxqRzZHU1ZETzlNZmJBb0hybjkxemZ0NXo5UmFRc2lXTXJGOUg2a1NJS3cyVDRuM0JDb2ltYk4yNnBkMi1hdTExQll6alNoU21XY3duMmhnbmIyQnZnMGtlVG8?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-23T00:59:23+00:00"
+    },
+    {
+      "title": "三商家購大重整！美廉社、OK超商整併富達零售 母公司將更名轉型投控 | 財經 | CTWANT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sUFVYMzNKel9HWmdQc0phdlBaa24tSmhsZm56NjN4Z1NQWUtkSnE5WnJGWnloSVdfQ0RQdFIwYVc0OEZ1MnFGWW1NcFZfbU3SAVRBVV95cUxQc0pUdl9VUXZ6cjhXNVk1SVhtbUNhV1N2emdwOXZHdzgzbE8wX053MDhiRzFFOGFRaTNXSDhteUFYVEdCNm1zRzIzNERlOGpTYTdka2k?oc=5",
+      "source": "CTWANT",
+      "published_at": "2026-09-22T23:04:46+00:00"
+    },
+    {
+      "title": "董事會：三商家購(2945)決議通過子公司富達零售現增認購，總金額3億元",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWUhkS3hJbFIyYjdETm5vS2pROWJSbTV0T0xuX2MtMGVIcllGRGhaUUU2U25odVh4ekpCbGc4MTdTUjlBOTNhMDN5OS1DUW9LOUg0SFhUZlhsQzdEWTJOczZpNVZvRlBrZUhfN1JSOXUzVUdWTGlKN2pXRXl3azFLOHVmdE9DeURj?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-22T23:04:00+00:00"
+    },
+    {
+      "title": "換招牌只是第一步 三商家購重組美廉社、OK零售版圖",
+      "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQd1RnQkVSRklQODFBdmxoTk9Sb3JxQ1pXc3JIMW0wbE9aSElUSDlGVUcxaE5ZN1FEdkViampaY0w0OGtuUFVmVDRUMEpqNUNXQ3h5Wnk1U3E2U3RIR2NWOUtpcW91dmVZRWc3N0piZUVBWVNIdFFQRlBIaGFUTWlSd2lPNkJTdDIxV2FLcWZVS3A0YmI0R2pDUUVVQUd4OTFCQW1NLThLcTBfbGtfOXlwcUdvQlU3a1R0TUM1RVpuclpHbUFidFZ6azRweDBIaENGS1RJdGttNm5GYnJJSTJ3ZldILXZMSEZJSG9mbHA1MnVYcjJGUDZKMDl4Y1RCcWN5aGNhU0tCUU9fNVk4Mmt0LVBJV2RKNEhLQl9Jb0pkZl90b2FPRjhGNE5naHRLdDV5V2hRc3BVV3dlOVZmbUI0c0hwRzAtaWZ4ZmNDVzA3YW5NTFdMUWtwTjZNRkIzcjJkNWFmay15RGNtR1c2anpYVg?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-22T22:30:00+00:00"
     },
     {
       "title": "三商家購組織轉型 邁大步",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03S2I2MDk3aTl1SUt3b2hGMkdFNEtqUXBJRzFjSUdFYjJQTU1pV2JrRGtHODg4dFBlcEdqX2lrR3RlU0N2SFNKX2lQZ1duQXpvcXJJWWxR0gFWQVVfeXFMTTdLYjYwOTdpOXVJS3dvaEYyR0U0S2pRcElHMWNJR0ViMlBNTWlXYmtEa0c4ODh0UGVwR2pfaWtHdGVTQ3ZIU0pfaVBnV25Bem9xcklZbFE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE52TE44NlJ4bEtJTnNyY25LRHVEa1JCRUZLWWlwTDRHY3g3cHVRU2ZrSkF4STlGRjJqcnRNa0hGb0NtZ3dna19zcVROS290NUQw0gFWQVVfeXFMTTdLYjYwOTdpOXVJS3dvaEYyR0U0S2pRcElHMWNJR0ViMlBNTWlXYmtEa0c4ODh0UGVwR2pfaWtHdGVTQ3ZIU0pfaVBnV25Bem9xcklZbFE?oc=5",
       "source": "UDN",
       "published_at": "2026-09-22T19:41:34+00:00"
     },
@@ -37,45 +67,15 @@
     },
     {
       "title": "三商家購通過分割案 轉型為投控公司",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1bTUzOWw2eVllQmtPc2tNMldBRnhwM0VVRjEwNzR1QUE2UGZsWjltdlRuZmh4cmFHMXNFT01ESjZpSjBsbFh5T1dXdw?oc=5",
-      "source": "鉅亨網",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIaS02NWp0QkI2SHpYcXhmTzdVNnBxQ1V4UXNzdFFyRVBuU0ZkbmsxRjRlNHVKeUpWMW85NzlwOTVJUGdJcHBsVjIxM2RWYzQ?oc=5",
+      "source": "news.cnyes.com",
       "published_at": "2026-09-22T12:47:19+00:00"
     },
     {
-      "title": "美廉社、OK將整合！三商家購大改名組織重整 2.5億分割案細節、股東權益一次看 | 劉芯衣 | 新聞",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1DZ0daOGk3azFVMWtEMmRaRFZIVDJFcm9qQUF2S3hWUWt6T0hGbnVPSDFFMUh6QWVmRzNUaUdJSW94dzJsQTY5eloxRDlpdw?oc=5",
-      "source": "風傳媒",
-      "published_at": "2026-09-22T12:03:03+00:00"
-    },
-    {
-      "title": "美廉社母公司發重訊！三商家購「品牌更名」 組織轉型大變動",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3UVNKcF9NRnh2Wi15SG9QTWNFUXgyNTRVNVBVMFY5dF9BWEcyMmdteHBnRXUxMkJfeDNNWmpsTXIzdEdSLXlibEQwdUVpbkU?oc=5",
-      "source": "TVBS新聞網",
-      "published_at": "2026-09-22T11:52:00+00:00"
-    },
-    {
-      "title": "零售通路整併加速！集團組織重整啟動，三商家購轉型投控涉2.5億分割案-財經焦點情報站",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNY3g5cHFlRGdoODZpa0psaG5ibTZVdGVBSUlqclBJM280VXRjREw2X0wzbUdsTklzVWVEZTZaajMwUzA2XzlOakhEVDRSdzdwazdjSldqYzhpNkVTT3BZNkdHU0pRc05kcDBiVjVLc3k3V2RCOHNwcGpxT3BRcmVWZ3RR?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-22T11:51:56+00:00"
-    },
-    {
-      "title": "三商家購要改名了！整併美廉社、OK超商等零售通路 轉型為「眾聯投控」 | 鏡週刊",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lWFNoQXZuYkNSbEtJV01QRXd4VG1YbUlZenVrNzBUZ2RTVmFGVnlBSFpYR3lDNzdZV0FENFdOQjdMVWpuUVR6SnV5MmtCckxybTU0aHNB?oc=5",
-      "source": "LINE TODAY",
-      "published_at": "2026-09-22T11:45:31+00:00"
-    },
-    {
-      "title": "三商家購將分割零售通路，並轉型更名「眾聯投控」",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcnRMMmR0WXhIalcxYU8xNlhsRllHbXBjb05FbUt3UDR5VTlQUEVpdzIwTnNqbDhQZ0dHdS1DWWlhVEJPYk11TFVCMUctYzJsQXJ2UVM4cDZTejExdWluWVlCNDB3SGJ6SUpUYjVFRUtndkJkcS1aNHcwOEhvUFQ4YWxTay1DMm9rQ2N3MHJYcHh0Zw?oc=5",
-      "source": "MoneyDJ",
-      "published_at": "2026-09-22T11:35:00+00:00"
-    },
-    {
-      "title": "買下OK只是第一步！三商家購變身「眾聯投控」 美廉社、OK整軍後下一步曝光",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JNGJEaC02UzBDQkRHZmJTSUxxMHJlbVZTWHpUbkN0R25QbkliS3N1R1BXcGhpY0R4VF9ZRmxEaTl5Vy1yQk02WXBHaFhrX0JaQXJjQlNmZTktY2lvVjVPa21BNzRJc1plMUlfdVhQSVF1VldSc1h6YnJFdw?oc=5",
-      "source": "財訊",
-      "published_at": "2026-09-22T11:30:30+00:00"
+      "title": "三商家購分割零售事業 明年轉型投控",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE41TXFPeXEtTHJXam1hRW0tbWNHdXhmd3lfTmlrZVVJaGQ0dFNUZXhVQ0Q1dnRsVWlIajJaRWZmVldyNHFtQ1lqX0VKU1dmLXFW0gFWQVVfeXFMT2pRTFNqLUgyQ2E4dmRLRUFPTHZLY25IOUR4OVhGQUJJaHowcFBXa3BrY3pzNnJsYW1rZWh1WGVlMVdyMFljLWpsTlJsckpVY09OaERDLVE?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-22T12:43:03+00:00"
     }
   ]
 }

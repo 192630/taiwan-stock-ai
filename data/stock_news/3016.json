@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-09-24T20:40:04.140921+08:00",
+  "updated_at": "2026-09-25T21:36:05.691201+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3016",
   "name": "嘉晶",
   "count": 12,
   "news": [
     {
+      "title": "《台北股市》外資24日買超股：南亞、南茂、嘉晶",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM005ZGk2ckpaY3FYYUJJaDR6aTl2WjI5NS1tbnc0UGRLczlQcjBUZmQtb2JoQnJnVklZQjRQY2dnVjhBUFVzcTZEOUZqWFI4QVlxUU94aXg1eUZFazlSWFAzNWNmWll1VEdkYXd5bnR1X09FcG1qcGJxUEZlRFplcXVoUUl6dlQ3?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-25T01:17:00+00:00"
+    },
+    {
       "title": "3016 嘉晶- 9月24日盤後閒聊天- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTMVNpOHpmY0FvaGZ4cjRnQmpaUndmVUJXdEs3bTZWQXU0Q0VHU3hZWHlQZ1A4WldCcTJfS2kwVE9SNERQYzBDVDVZQTRmOHZtSDdaenktUzg?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-24T06:07:00+00:00"
-    },
-    {
-      "title": "3016 嘉晶- 一大早漲停！鎖緊緊！到收盤- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85ZTVTNzVINDJGN2ZMVmJNR29RMFVheEtpZU9yLVR5VEJPYjFlYjNXSmdXM0pKY3NVSzhWMTB5WHBWOWhNTl9iajRhS1AwWFR6Z2pucDBSU0g?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-24T05:18:01+00:00"
     },
     {
       "title": "外資連三買！嘉晶董事長法說喊多今漲停站上160元 寫18年新高",
@@ -25,33 +25,27 @@
     },
     {
       "title": "焦點股》嘉晶：再亮燈漲停 網喊：我大嘉嘉天下無敵",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NYzhNYTVKVUFBX0w0U1FyWDB0SU5TYnhnUGdndDNjaUMzOUtnRmNwUkVFUWhodzFDYXMtNzNnRDlSdjZkX1hDUmZlb1FBVXd0QWlfWUdFWjQyZ1V6cWdvaW5abFbSAWRBVV95cUxNTWM4TWE1SlVBQV9MNFNRclgwdElOU2J4Z1BnZ3QzY2lDMzlLZ0ZjcFJFRVFoaHcxQ2FzLTczZ0Q5UnY2ZF9YQ1JmZW9RQVV3dEFpX1lHRVo0MmdVenFnb2luWmxW?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16VUZZVWJCcEFFUVdmeGtiNGlkX2YxbEZWSmdROHN1U2QyWF9Zc3FNYkFKY0llSnZEZXNvLTJCSEFjT2dUdllwSlJoTzE4Q3JGajNsQ1d5NFJ3Njc1cFkw0gFkQVVfeXFMTU1jOE1hNUpVQUFfTDRTUXJYMHRJTlNieGdQZ2d0M2NpQzM5S2dGY3BSRUVRaGh3MUNhcy03M2dEOVJ2NmRfWENSZmVvUUFVd3RBaV9ZR0VaNDJnVXpxZ29pblpsVg?oc=5",
       "source": "自由財經",
       "published_at": "2026-09-24T02:46:39+00:00"
     },
     {
       "title": "【09:36 即時新聞】嘉晶(3016)盤中強漲近一成，AI與矽光子題材延燒",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSExIUXlxM0dvVVhBbFdXZXdPc1lCMXRYWTNVSzJvSXdwZ0pLRXBoUU5uOVBTMnc2OElQNVFwMW5maTk2SE1Mbm9QcDRyREN0ek81NlVkRlVoYWxWeEFmb2hfNEVOaWxwZ2dMTmJvcjBRVWZ0ZXpLQmluWFNaZk9XNnlrdnBZV2xYc2xyRl9B?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-24T01:36:26+00:00"
     },
     {
       "title": "《台北股市》注意股：24日43檔富世達、創意、環球晶、力旺、嘉晶等- 上市櫃",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLNVY2cFpLXzFGQnJHU2M1ZjVIcG5JSUdKMXNWZHpHZWRIZ2lsTG1RX3drZUhGUy1NMjdCMC1RcDhidWdEd25qa0ZpNWloTm1UX2Z0ZGpGMDNGaFZDSmV6YjBQRTdBbFEwdXc?oc=5",
-      "source": "wantrich.chinatimes.com",
+      "source": "旺得富理財網",
       "published_at": "2026-09-24T00:03:28+00:00"
     },
     {
       "title": "熱門股》嘉晶法說會報佳音 外資連3買",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TUERzNWx6RUhIMVg2c3dDZnBFd2hIa3h0Y3poZjhlci1Yc0ZncDdkUXM4REIycE5Oa051VlhMREtqM1dRNTJ2dXdDUTJaV2V5QlhxUnJzZm43ZlnSAVtBVV95cUxOU1BEczVsekVISDFYNnN3Q2ZwRXdoSGt4dGN6aGY4ZXItWHNGZ3A3ZFFzOERCMnBOTmtOdVZYTERLajNXUTUydnV3Q1EyWldleUJYcVJyc2ZuN2ZZ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tRUlIQ3pkYksyQjE2cW52MHp3VHhpcWV3Z05zalJTOVRWQ044b05aYTUzZjZrWFBZM1dsUDhTMDJmNE5lenF1UDgtM1hYS2o2aFRzMFN30gFbQVVfeXFMTlNQRHM1bHpFSEgxWDZzd0NmcEV3aEhreHRjemhmOGVyLVhzRmdwN2RRczhEQjJwTk5rTnVWWExES2ozV1E1MnZ1d0NRMlpXZXlCWHFScnNmbjdmWQ?oc=5",
       "source": "自由財經",
       "published_at": "2026-09-23T21:30:00+00:00"
-    },
-    {
-      "title": "3016 嘉晶- 出貨文來了！ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1CN2ZFV0JZTEpYeG1xaEZTNXMyTXNlb0IxTmNrdVkzcjlTZDA4NzUwZW9PRzloSmtZLWpqdjJxY1dydXhvQnZBTzFvclIwR2R2Vk1IQS1xZm4?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-23T10:37:06+00:00"
     },
     {
       "title": "3016 嘉晶- 還是鎖的- 股市爆料同學會",
@@ -60,22 +54,28 @@
       "published_at": "2026-09-23T04:46:41+00:00"
     },
     {
-      "title": "焦點股：8吋滿載、矽光子需求強，嘉晶下半年營收估增五成，股價挑戰前高",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYVdRRU9WNWhMamhaN0lrbmNZeTRhMEZpeTNkS2hXQWVXd2FMdU5FQlFjUFdNYTJOQ2Z3RmE1eHFDSXJ2TWR0QmpwUFpfekJJQkE0ZW5FVG1qM1dJdnA0ZVA3X3ZSczYxMEpZN09kc0Q3Z3ZmYXhKZjhoYVhMTDItR0VNQ3pTNTRX?oc=5",
-      "source": "ww2.money-link.com.tw",
-      "published_at": "2026-09-23T02:42:00+00:00"
-    },
-    {
       "title": "3016 嘉晶- 焦點股》嘉晶：矽光子產能供不應求亮燈漲停- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE51c3J3Vl9tZTEzZlZFUW9WYndoNUFCTkttNnU3UFUyS1BpQ2cyd3hmZHhhX2x5QkNjVDVlSy0zTTZRdkt2Rnp6ck1RTXVLZFRFMTJJMnlWeW8?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-23T02:21:35+00:00"
     },
     {
-      "title": "漢測上櫃 漢民3檔集團股同歡！禾榮科、漢磊、嘉晶漲停 分析師建議不追高",
-      "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxOODZ3NEMyWGFVUVExSWpyczBlbnNOa0N4bUpacXZjMzZTQlpSVDhOUnQzbEQxR1ZHX0tLa2Y5ZzlSOEY3bzF0MnJ0TGJGSEl6eTd0eE9TTTF3WEQwTUhHMWx4M3FNWHI4cXhwZDRXR1lJa2hJdUFySHVWcS0wcTF4TnRZYml6b2JiYzQ2STc1Q0FybWhrQmQyUjZhRkFrZk9ybW5xZXlydXhEUE9PekpTNVkwNGdWb2FzZzlDX18xQ0ZidVNxa055MnZ2d1NMVG94ZXAxS0pHbHdiTm0tb1h5LXRJM2pXYWtnLWNnY0Y3Q0pWampra2NTaERieE8tVGFxWE5YaWZKX2hKMUI2TFBLVXpxbE1TZzFwMXhDOFZ3TkxCMFV6NUxBcFo0dm5JZjRMeHc1ZkIxeVNRLWF5QnF2VWV1SVk1T1AwT1pGamdSV3FZeENySVc3STJDMFM2eDR1X1U3c3pKZ2VacGgxc2p5T0pDamNZVldHV0tLUi1acW4zQ0l0T0k1ZFdpcHExcEF6SDVMbWtLVmZFTWwta21kTWdkQnQ2TnNDXzQ4MnItRGcyUUZBeFdBd0dEOHNydWtFWXlYSGlPSEU5ME5iTllLU1J4VVpoVU5tanluNHM0UQ?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-23T02:02:39+00:00"
+      "title": "【09:00 即時新聞】嘉晶(3016)股價急漲，市場聚焦鍺矽磊晶與AI電源動能",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNajhlQjhXNlFoS1VmMmxsZDg3MDRCekRVenA4ejhVblVWNWNvSEtscXBKRmdMM096c2ZneTRmRm1NV19fd2x3Q2JtNU9IRlVRWHZqSGdlWnFleTRKWHQ5UV9CSXNjX2NoY25zSnV6eTNfQ3pnQXZ6Vkctc1hvckJwQnJ4VkZoTi0yLUl5Zjd3?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-23T01:00:48+00:00"
+    },
+    {
+      "title": "3016 嘉晶- 嘉晶矽光子應用搶手鍺矽磊晶能見度到後年明年擴產仍跟不上客戶需求- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93cDFQeUN6MkRsQ1ZDMEVRNXppYVRCOXBUQUhpS3AtWFFFMkhMdXhSNWQ2S3JGOURYMFZXbWcwejRxdXFZbklXT2lEd2RVaW0wdHN1bU5BZ0I?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T17:32:38+00:00"
+    },
+    {
+      "title": "3016 嘉晶- 嘉晶法說會／走出谷底AI 電源、矽光子雙引擎啟動全年營收拚增逾35% - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zZXNGV1E0dzI5cF9pMDFDMHNRaXhLMHRzaEtPZkYweEJ0YVdmUjlHYmh3VUdvQUowMkkwMmpadDRDdVp6V3BQMUVWRG1WVVM5ZXlPX0lhT1c?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T09:57:20+00:00"
     }
   ]
 }

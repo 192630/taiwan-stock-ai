@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-24T19:34:54.796046+08:00",
+  "updated_at": "2026-09-25T21:35:35.763180+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2754",
   "name": "亞洲藏壽司",
-  "count": 5,
+  "count": 4,
   "news": [
-    {
-      "title": "豆府、亞洲藏壽司 8月營收寫新高",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5vSGtsRFh3cWlJR0JVb2xNLUtyUEZQbEw1azZRZFFHRjdpYmhTYlNXcUFpOGpmSklEc1BpRFZTWXo1S2Q1cUNCMHpVcUNiNG1B0gFWQVVfeXFMUE1GTE1Wdzh0azB5dDdwRy0xcFJ2MnRQWTZ3clczQjJ2SVpXRW16VjBCQ0dfMjg5U1BuZE5EVHhUQVNXZVEzSFhHWFRiU05wVFBvYXVRVlE?oc=5",
-      "source": "UDN",
-      "published_at": "2026-09-11T07:00:00+00:00"
-    },
     {
       "title": "藏壽司員工拿大紅包了！亞洲藏壽司8月營收破新高 豪發800萬特別獎金",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wV1JNUkNHa1hfWUNzdkR2NWNFSkNSYUtKc0Vmdk1sTkxRRFJIQUJYQXMwQVc4VnhfV3pWZkxxWnM3MDh6dVd2TUlLbTV1TW5fTENWeDV3WFA?oc=5",
@@ -26,7 +20,7 @@
     {
       "title": "亞洲藏壽司營收／8月5.78億元創單月新高 豪發800萬獎金犒賞員工",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE51elNUZ2ZaaUdHNHYzZ2JDMHdsZE95cmtQV00xWUV0UFNGMDRaSXZYLTZzVWxISmF0UU15ZGY5WW1JdzdfM0FMdFFSVGE5UFIxbW90OVpZNTE?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
