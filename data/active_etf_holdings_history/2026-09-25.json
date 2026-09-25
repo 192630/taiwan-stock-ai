@@ -3627,15 +3627,15 @@
           "weight": 1.58
         },
         {
-          "code": "3711",
-          "name": "日月光投控",
-          "shares": 33000,
-          "weight": 1.54
-        },
-        {
           "code": "2449",
           "name": "京元電子",
           "shares": 75000,
+          "weight": 1.54
+        },
+        {
+          "code": "3711",
+          "name": "日月光投控",
+          "shares": 33000,
           "weight": 1.54
         },
         {
@@ -3973,7 +3973,7 @@
       "code": "00401A",
       "name": "主動摩根台灣鑫收",
       "issuer": "摩根投信",
-      "holdings_date": "2026-09-24",
+      "holdings_date": "2026-09-25",
       "source": "J.P. Morgan Asset Management Taiwan",
       "status": "success",
       "holding_count": 56,
@@ -6750,14 +6750,15 @@
     }
   },
   "_meta": {
-    "updated_at": "2026-09-25T22:38:00.877237+08:00",
-    "database_version": 5,
+    "updated_at": "2026-09-25T23:09:07.620793+08:00",
+    "database_version": 6,
     "description": "Taiwan active ETF daily holdings database",
     "history_enabled": true,
-    "successful_fetches": 7
+    "successful_fetches": 7,
+    "batch2_successful_fetches": 7
   },
   "_snapshot": {
-    "created_at": "2026-09-25T22:38:00.877237+08:00",
+    "created_at": "2026-09-25T23:09:07.620793+08:00",
     "snapshot_date": "2026-09-25",
     "note": "Each ETF keeps its own official holdings_date"
   }
