@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-25T01:33:18.768380+08:00",
+  "updated_at": "2026-09-26T02:36:19.733055+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4192",
   "name": "杏國",
-  "count": 4,
+  "count": 5,
   "news": [
     {
       "title": "爆閃暖心畫面曝光 杏國霸氣拋磚引玉送出重磅大禮讓長者樂開懷 | 程霽玥 | 地方新聞",
@@ -13,9 +13,9 @@
     },
     {
       "title": "杏國響應公益行動 捐贈200份蓉易明關懷長者健康",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9xQ2M1UHRQZUlDM2R5SlVocHd2bmlINlRPRm5tcFdFV1E2ekZHYkJMQXgxZ21vNDcxbEVlRDVwUlVaUQ?oc=5",
-      "source": "墨新聞-MORE News",
-      "published_at": "2026-09-24T01:17:49+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TVVNUcFFVbWViQUMxY0ZQNG9LNDN3ZGU1TFpNUmdqYUdoZ01KU3E4QkE3UUdLZHNJTl9GVnBMNnpUY0dsdF9jN2J3dkNIUHFaRmc?oc=5",
+      "source": "蕃新聞",
+      "published_at": "2026-09-23T23:48:00+00:00"
     },
     {
       "title": "杏國新藥董座李志文犯內線交易 獲3年緩刑、支付公庫50萬元",
@@ -28,6 +28,12 @@
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9QODF0eW9yM2xIbXJlQWcybTVKU0NrMWxMMGtvQUh5TEN4RWdHbmFwSmN4LXhFbzUxaFFWYmZzV2d6OWdycmpxLWpCbTctSWJN0gFWQVVfeXFMTXdhLXJydEQ5ejlNQmhJR2k2alRweVRsQUNnWms3UEtmU3U0dF9LZVQzOEYyMld5c2hDeHFCZlN6VkFJc0xmRlhiN1VJTkVzUGNSWmpVRlE?oc=5",
       "source": "UDN",
       "published_at": "2026-09-16T07:00:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】杏國(4192) 八月營收營收雙減，年減11.96％",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RREgzMjAyMTZ5NE5KeWVqaHdNQXNZUDdwOFNnY0JtazJMNl9rMGY5eHJTYzZDaUhtNkkzeU9oek1mN3dOcDh5czZaSjdsOEgxcGpXUlRwZW9HbEY5YkdpS2k1VmVkY0E?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-09T07:00:00+00:00"
     }
   ]
 }

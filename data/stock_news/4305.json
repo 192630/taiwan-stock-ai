@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-25T01:33:22.089018+08:00",
+  "updated_at": "2026-09-26T02:36:22.565134+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4305",
   "name": "世坤",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【2026/08月營收公告】世坤(4305) 八月營收營收雙減，年減29.87%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPc2Q1Q21oY29SUmZuZ3hRVFhEVmNDU0JIYkc1VTl6eEhqbklxbUMzeXA5bkJ5dnFJVFZVOUJXZGduMDEzTjlmZTJ2Y2VTX3lhSXpCckhWd0NmWldsQjF1X05yTlFWdnBBaUhQaUNpVmJZd1hjRnlEc01CX0FZSkUzRGM0XzZaRmZ4SEE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    }
+  ]
 }

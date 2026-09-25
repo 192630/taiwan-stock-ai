@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-25T02:37:19.987204+08:00",
+  "updated_at": "2026-09-26T02:36:45.317940+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4562",
   "name": "穎漢",
   "count": 3,
   "news": [
-    {
-      "title": "《發行公司未結案件彙總 5-3》燿華、穎漢、宏偉",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTGVpb2N5eXp2M1JjUDF5Q2N4ZUczSU9RWWp4czJGeVlMSTVtVDdBdWZTczZoeDBEZmVVTnhhWm4yemRYYkc5YTVBVWM3eGNGS3BYcEdMOHdZVHFGTUUzTmJnQzIyVjdJTDRVV0VOUzdDajZGb1Y5eWV6cndhbGpzbVVXdzE1SXgt?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-23T23:43:00+00:00"
-    },
     {
       "title": "穎漢(4562) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44Z2R4WldXU3FqU05UajZBekxLM01YRlBRVlBOTl96LUczajZNenVIeWRrZmg5SFloZnZ5RlJFN3FraEduaGdIclMtR18yR1FmTWhn?oc=5",
@@ -20,6 +14,12 @@
     {
       "title": "【2026/07月營收公告】穎漢(4562) 七月營收創近3個月以來新高，月增9.36%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVExIWEkwUjRLc2dRZzBtNllCUEhmQWJHWks4VVJWT3ZNRG9fa2hJaEt0TzgwZGVBRkVKOTJYSENnWC1nR0ZBRVpSU1p6dFd6SnphcUhMWFIzbE9mQVZlSmhhV2JIRjJBWVFraVNKTE1SOFdoMENrbEtUb05ydlJucmxJZEplQVU0bHc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】穎漢(4562) 八月營收月增22.83%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY1VmdDhEbVBEbzJaTWVLMWJENVNfT0IxN2VfUXdrQTduamQzOWNYNi12WHpkZGtBc21YTkMyNllZcXY4YkFEUDRYc1dJVFBfNHd3Sm1OTk8wM1ByMndfQTNFclg3Q3RHZ0xyc0FxOXc4WHpGeUNRV2UyOW1FMDB2ajJnS0RIVFVuZ0E?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
     }

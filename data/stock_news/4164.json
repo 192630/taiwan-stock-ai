@@ -1,21 +1,15 @@
 {
-  "updated_at": "2026-09-25T01:33:12.709033+08:00",
+  "updated_at": "2026-09-26T02:36:14.223434+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4164",
   "name": "承業醫",
-  "count": 2,
+  "count": 1,
   "news": [
-    {
-      "title": "承業醫(4164)：富康董事會通過發行員工認股權1,000單位",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xLUR0Y3Z4Y1g3dU1zYnlPUHlsRWZVbm9XOVV4SEdVRFlZQjZfZ2U5bXlSY1haTHpaUDVERzFJRF85NzhRbjQ5dmgwTlNGWndlQkdZX2R6cmZ5VHdFQ3ZSNmUxQnJsc0k?oc=5",
-      "source": "環球生技月刊",
-      "published_at": "2026-09-17T10:14:38+00:00"
-    },
     {
       "title": "【2026/08月營收公告】承業醫(4164) 八月營收3.28億元，表現亮眼、呈現雙成長，創近2個月以來新高，年增15.42%",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GRFAyZ3Qtazh4dGlwcmppZkhYWTFkd2V3dWdraEdmOWJhbTVuZ19mUWYteFZQRWlidzFramloWHpvaGFhWXpHOGJSUlJmVnZOOXhJb1BuVEpIVHcyRjk1V0JOSlFFZjg?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-10T08:10:04+00:00"
+      "published_at": "2026-09-10T07:00:00+00:00"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-25T01:33:36.212157+08:00",
+  "updated_at": "2026-09-26T02:36:35.878328+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4532",
   "name": "瑞智",
-  "count": 4,
+  "count": 5,
   "news": [
     {
       "title": "瑞智(4532) 個股概覽 | 個股 - 股市",
@@ -14,14 +14,20 @@
     {
       "title": "瑞智跨車用 搶進陸廠供應鏈",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyZ2djWnVwcW1tbTZJay1lMmNUUnFMWlRyTlVyYkR2bWxfcUJlNXBTNWUyYnE3LXVSdWJpeThCMnF1TTRzVkd3aWtKdjl5czFZWmNXcXJqZ190dVg1ekxkZEdNdzBDOGF6cDRz?oc=5",
-      "source": "chinatimes.com",
+      "source": "中時新聞網",
       "published_at": "2026-09-18T20:10:00+00:00"
     },
     {
-      "title": "【2026/08月營收公告】瑞智(4532) 八月營收月減年增，全年營運續看向上",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6cEs5RThXODRiTnRfN084YnBJMDRpSEJBX01tYjJFMzRwYVVQWVFmdVIzcGZqRlpLd3pDcEJsTF9qc3JKNFBxY1I2Q3F2WGxsd0NKcktUQm5pc0RiUTlFZm5ZU1YyNEU?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-07T07:00:00+00:00"
+      "title": "瑞智進軍AI伺服器散熱",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1wNFJFaURiTzF4d2JTRXB2VFhacE9Wb05hQkNZNUxXUGpPR1FlQ2hpbXdtaWppd2FqUnZBNk5XS0h2ZVdHRTZoTGc1Zl9RVzhq0gFWQVVfeXFMTU9iQ3E0TzlqY2hSZlB3OEZfY2pDb3VWVGVrTkU1NHd3OUstU3k3QlN4LWJfakFjSDJoYkdLNEFWdzhnbVdOOTRaYWFhNUNrX3JGRUg0bHc?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-16T16:20:07+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】瑞智(4532) 八月營收月減年增，全年營運續看向上-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQelpzT0hpV041NkJiMklRRlMwbU1BTlI0UjlSaDNabVZsRVVXd3p4R21SSkdUQ0xPb0MzbzVJT0NxWXhWamsybWltOTZRWnEwMHUzaURVenFLa2NJUW9mVDRWbGRsb1FBNlBmY0wxRlVGVWsyUUdIQ1NyNDJ0MFNvRDdjNk9qQ0NtSUE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
       "title": "4532 瑞智 - 8/26的專訪 - 股市爆料同學會",

@@ -1,21 +1,27 @@
 {
-  "updated_at": "2026-09-25T01:33:17.834518+08:00",
+  "updated_at": "2026-09-26T02:36:18.939335+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4188",
   "name": "安克",
-  "count": 11,
+  "count": 10,
   "news": [
     {
       "title": "安克創新(00668) 海外監管公告-證券發行及相關事宜 / 海外監管公告-其他",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XYmtPbGVGTEtUamJxanZYZjlld3I0MXNka0k1cjF3d09vN2pEdVFRN25ZaWd2MXFNcTNDaUVQb2hZcURXbXlTbzlTMklkVGFFLTZPRmx1QWhHeVd5TDZNTF9YSkRRUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxPdzNXbWlFVWdGczA0Tkx2ak1jQUxNQ1QyazJBSl9sTm1Cb1dSTGZrdi1VcGx4SjNjb01HNC1lWFhoRG5RVG51dVhwTlY0WmstS0Fndm4wVDJZVE5RRVV4LTRxcEIwRjhWU0pJaFdLbUZEYTlVTDEwZzdwNjJCUFRmbEJVenJUUEttWWZzNktLNmtNX2ZyRExnV3V6eHNMTnp0MFhqdWJlamF4bVVOOTlBNlB2UzZ0R3dTNnVHazhveWpoOWVBRUdEbThmRjJfTVBvME85SV84YWdESmdnYlM3NWd5dTdpbkZNbE4wMzh5czRBMUcwSFFvZTlTeVljQ2xRM1JKcUQ4NXYwUGZiRGRTM1JJRHUyZzFxSnF2cXVTTWxnZjZEN0lvODRnUFFvX3VqX2IzUVd4RjR2NTByN2tsQjFBaFlkZzFLMVZYaGRhTTVEN1NWTlpBOUVLbWVxanl5b0I3dDlDS1BjZmxCejRSSGZTbTJ3R3h3SWVWQVZIREN6akF0Q3ZZVEUtVHN6MjZWZ3p1dThCak5hTndGYWlqSjBIU3plWThHNVJrUWhRdXdRdEtYcTQ3Q1NYZUtJdw?oc=5",
       "source": "信報網站",
-      "published_at": "2026-09-23T16:40:23+00:00"
+      "published_at": "2026-09-23T13:12:15+00:00"
     },
     {
       "title": "安克創新(00668)因限制性股份獲歸屬而發行合共137.77萬股 作者 智通財經",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DZ0Z5MTc5aTBpa251cWNFWDBRb0g2a09EbTJKMmNqd3FRMGk2TGs1WjF4UjRHMWZ2MEk0eVdPWUxSUFFQYkdiQzlVbXFTaC1idnZfSHFEUW1GUlB6WEtKMmViQjVUYzV4aUVDWUgzSk4?oc=5",
       "source": "Investing.com 香港 - 股市報價& 財經新聞",
       "published_at": "2026-09-18T09:33:15+00:00"
+    },
+    {
+      "title": "安克創新(00668) 翌日披露報表 - [其他]",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQcFlUVTdEVnBaOFNzSDE1WVV0WXlxc1dBVE0xeEpKZEZzWEhoU1dnYTF2TVY5bkppQ01CeTc0bWRVRFl4VnVjTTJ1c0RURjFqSVZRSW5BLVo2S1JiYnJYUEMzS1lxRVAzNEswMEFfUEZYakZpaGE1Rmw0bzJDcVA0X28tNWZyMjVuQmR5ZUpKMHJuYTFlc2ZJTnZ3dkZDd3IwUzVsTXktV1hjV3FYdFhpNnhPdGxzU3psTHNhY1BTNjlKa2ZyTUVINnlibkkzWkhUemJnbmN5aENsdUdSTUlGb1ZKOFE0b3ZoWENhWTgyYjkwMTJVTEl5UEtQWnA4U3BYTUFKMXhmTUstbkNNQ0otVA?oc=5",
+      "source": "信報網站",
+      "published_at": "2026-09-18T08:42:00+00:00"
     },
     {
       "title": "《櫃買市場券商賣超比前30名 3-3》安克(-14.14)",
@@ -58,18 +64,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00QnJyYjc4TndrOFhEU25oQXhXTjJpNHZkMWl4Y1ZNUDdxRUFfZmZIWld2cTRmWlVRMm5HMjk0eTZYengyNExieEMxNEQ1clVNd25va045SGw?oc=5",
       "source": "CMoney",
       "published_at": "2026-08-27T07:00:00+00:00"
-    },
-    {
-      "title": "【即時新聞】最新！安克呼止偵研究顯示高達94.8%準確率，帶動今日股價強勢亮燈漲停",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLUd5OHVHY3JMZ29ER2xXdExxanYySWJkSmg1Q0lvOGNHTVlVd3lqYmYzYXpXeXQ1WV96M2tSbFpuaEpMekxmZGRFd1kyVG9UVV9Demt6cXRKNEc4SkRUcENZTE1MQ3VDV2hvdWdieGJKN0ZYaWtycWE4dVJPY3g5QTN3U2RCZTBadVFDTUY5SXc?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-08-26T07:00:00+00:00"
-    },
-    {
-      "title": "【09:58 即時新聞】安克(4188)股價上漲逼近漲停，AI醫材平臺化整合題材發酵＋主力與均線多頭結構同步轉強",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSDNOb2NLem83cEF3cFlkelZIU1U5S21faktoWUswWnhobTRrTGtMRFJMdFpieENENTdkTWI4c1RWQ1VjQy13LXVYQWZwalFfbTBBUmFkM1BOVUdRM3JwemdYWmpPWm5qWlhhZjlVbV9TYkdqVF9wRG5wOTN3NXhZb2lmSDhHTEVlYWJrMWR3?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-08-26T07:00:00+00:00"
     }
   ]
 }
