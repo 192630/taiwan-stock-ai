@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-25T04:35:34.187825+08:00",
+  "updated_at": "2026-09-26T04:34:57.573407+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5301",
   "name": "寶得利",
-  "count": 1,
+  "count": 2,
   "news": [
     {
       "title": "寶得利減資彌補虧損換發之新股10/7起開始上櫃買賣- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ONVVsdzJPRE80ZDUycm90b1dYSllWTUdoRElkVXJvMTZMaW52Q0dzUkJxRkE1YWxOclFEazI3NDJrVk94bzhldlRFM2xzRS1XekJDbGZwb18?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-16T00:57:08+00:00"
+    },
+    {
+      "title": "寶得利 公告本公司115年08月之銀行融資額度及使用情形與未來三個月之現金收支及資金調度狀況暨股東往來餘額",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92djZjdWxSd19KTG9adUFCaDZnZXJhYXFEX05oNmYxUHF4WWZzRTVkSDFTZVNWYVlzb0NPeVBCekozdE05Z0xmUTBJc29PTUxoTlJTd0xCZTk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-14T07:00:00+00:00"
     }
   ]
 }

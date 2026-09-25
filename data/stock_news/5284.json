@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-25T03:33:18.650702+08:00",
+  "updated_at": "2026-09-26T04:34:54.146633+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5284",
   "name": "jpp-KY",
-  "count": 5,
+  "count": 6,
   "news": [
     {
       "title": "營收獲利速報》jpp-KY營運3大動能 2月營收創新高",
@@ -22,6 +22,12 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aVkwzT2VFeUR0LUYwQzc0cHYyQV8tNUJLbXBGcG1nS0ZJaDQzWFN2eFlJN0U5UlVRbXo1Zm1FSzZrQW9uQ1dNeDB5SmI5dnhZMXhjcmprSjY?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-16T01:37:41+00:00"
+    },
+    {
+      "title": "不只是AI伺服器拉貨！jpp-KY(5284-TW)毛利率42.1%創高，AI機櫃訂單能見度直達年底",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xaWtxSi1FWTA2dFdYNk56X0dLQlJkalNSdWs5cFB6bFZ4MHVmNHV2UTJHeDZiajVVY3FLR0Z4cmk3NkgyZzlqTVdZay1hOTg?oc=5",
+      "source": "news.cnyes.com",
+      "published_at": "2026-09-04T07:00:00+00:00"
     },
     {
       "title": "【09/01券商評等報告彙整】jpp-KY(5284) 今日僅1家券商發布績效評等報告，評價為看多，目標價為435元。",

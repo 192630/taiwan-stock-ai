@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T03:33:08.166378+08:00",
+  "updated_at": "2026-09-26T04:34:44.523355+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5213",
   "name": "亞昕",
@@ -10,6 +10,12 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nWWt6OUFSaXFzeEdBRDF2OElBSU9FRFJWZHZEMy1DWUZ0dUwwaWE1NHpSYjNidC1oUlVqYXgzelQ2YUl1NUVrXzNkRVljbkl0X3puZVpfdThzMl9WX3Vj?oc=5",
       "source": "工商時報",
       "published_at": "2026-09-24T07:30:00+00:00"
+    },
+    {
+      "title": "亞昕重押台中Q4推雙案- 日報",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CNV8wUVQtR19KZDA4Nzg4Y1FKOGtUZnBWQVYxckVtYUF2bUVONE9zblZpbHlsd1ZpQ3VBUFNGLVNQcU5DaFlPaXl3M01CVkVpamtnUHhWMDNZbnhtNy1N?oc=5",
+      "source": "工商時報",
+      "published_at": "2026-09-23T19:00:00+00:00"
     },
     {
       "title": "亞昕雙案齊發 總銷180億",
@@ -24,22 +30,16 @@
       "published_at": "2026-09-23T11:48:52+00:00"
     },
     {
-      "title": "亞昕深耕台中7年 第四季水湳、大里雙案齊發 | NOWNEWS今日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ZcHBqVTBFdHFoOHFXT3lUOVIxSVFyUU9rVHlBRDRIcWE0WmNSaEVJWUJWQ2NiamtJblNIVEo1Y3ZYRWI2ellxQlB1dDAxS0hnZURyWlRB?oc=5",
-      "source": "LINE TODAY",
-      "published_at": "2026-09-23T10:21:52+00:00"
-    },
-    {
-      "title": "買營建股比ETF好？亞昕114年每股配息2.8元 法人曝未來4年預估",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1hczYtUEhRQ1lRVjFVc1ZQN3pCdms4b2NYWjNkUmdSZTFudFMtZnBTNk5JS2pGcEFlQjhfRjVqYTJEUlRST1hoS9IBTEFVX3lxTE5HMXltUGZHWjhYUHJ4Y3NWdnlIVVM3WjM4VXNwN1pnd3lmQmhzYWNSX0hMdS13dy1MLVF1b1FZckZhLVZLQ21Ea1RuUzc?oc=5",
-      "source": "三立新聞",
-      "published_at": "2026-09-22T15:26:55+00:00"
+      "title": "亞昕深耕台中7年 第四季水湳、大里雙案齊發",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOMHRjNk5XbjdlejJuNU5BdmR5Q21yLUpWbTVhZktZeHluS0VVT2xYaGc2WHdGeG9KOEdTRG05OGdFN2UtNXJRNU0yaktnbTl0QTBWQ0RrX3BTdnRqdjRKRXVrNl9pZXVBc0s3WTBhb2V5aEhZUkMyQXRCSFpvRHhkTDBKdXpCaE1JZDdTSE9tQXpOaXRmblhYQmlyZ1VyUllzNUV2NnRTWXdGUUt4amdHdkdvTVVKLV8yckpFaFBRUTREcWZLZThCWlpwb0J5ZGYwXzQtall5UE5PWTRmM09vUWpoNEttRmxGdGNaNEJEVHZYTHNxT2VzZDhZdllIQ2xKUXY5ZUY1ME82ZXVfaUJxMkRpS1RUNWU0S3YzbWptalFKNml0clczNG9fU3luWjg?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-23T10:46:09+00:00"
     },
     {
       "title": "房市信心逐步回溫！菜寮站250米「亞昕昕富琚」正式動土",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCLXdYS1hCN3JaM2hBZmFSVFcyTDVWSUx5OEZPZ1RITmVHZ19zYWhJN2hZa1FUVUlrRXBwd3hRd0VjLWlVWHNNQ3hlMHZWUnRoVnQ5MFFRQWVQc0NXcnVzS1RYd2xaY2RkU3hXZTFnUQ?oc=5",
-      "source": "理財周刊",
-      "published_at": "2026-09-21T04:20:52+00:00"
+      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQNVBoNzB3R1ZHQnRPMUw0WGdOZGxzU0w0NlF5VnpWWVg3Tk9uQkpJTnJ5ZUxIamIwMEdTYVhQN0RpVmpjRnRNVjcyVlpYZXNKc0dwVU5fbTBuSHhMRUlxRGU1ejdFYXRLZUVIYzl0WFJvRG1YcHZIVGkzNDQ2cTYza0syb0tpdUFXb21PMVNkU2xUcHZweGVQNHVLaTAyWHY4V3J2MXRySWZtVU1TTi1Tak1ncDJ0QUNSbmlhQUo4cVE2ZEhhaWJPVC0xcHZfR1RRV21LQU9CZ3RYUXl4Rkh3LVJ2NnF4RW1yMTdWTktURHVXemFoakg0b1FNR1l6eWV2TEgxaGYyWTIyR010c3lUeGF5UjVPQ29zLXMyY1JNb2ZDbmx5SWszeEVVNHhhcVBPUEZqbHgtOXNrcE1LVVdqRG1EWVN0Z2hCNmYyQjZNWTZrX1dVdmNv?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-21T06:54:32+00:00"
     },
     {
       "title": "亞昕(5213) 個股概覽 | 個股 - 股市",
@@ -48,34 +48,34 @@
       "published_at": "2026-09-20T08:59:33+00:00"
     },
     {
-      "title": "千億股息熱錢流向哪？「亞昕織御」熱賣166戶成存股族新歡",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhYVMycU5uVHctcmFWenFzWGtmM3RtYkQ4ZzB2cjlPTXNCcHQtWU1Zdl9DT2ZIQUNWUDg3SDZad2xHOHlYMWFsVllEb1AwOEdGOTkw?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-09-18T10:50:23+00:00"
-    },
-    {
       "title": "千億股息熱錢流向哪？「亞昕織御」熱賣166戶成存股族新歡- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyUVROY0ZMVXZHYm05MzdHRUZJLWxlalNMNEJFVU53SExUWk5lRnhKeVdPc0NhbTdhcmRONVRPcGJ4UkNqdE5jeE9yMEZWdlZuSlBWRExBWVA?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-18T09:35:51+00:00"
     },
     {
-      "title": "亞昕織御- 財經新聞",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IMkNpdlJmdUQ0ekJfbXMwVWllX0lwcmdaY2l4OExEX2F4Y1I1RlZkMUN6V3ZGbFVrdmNhMXJjd2Y2VHJYUXdrOVBuc3czZmJILXozNUR2aXNhZUI2andJU0VrMjlTZzQwc2o2NkFuVTQ4SFFrdlM0bA?oc=5",
-      "source": "玩股網",
-      "published_at": "2026-09-18T09:33:37+00:00"
-    },
-    {
-      "title": "個股：亞昕(5213)董事會授權發行有擔保普通公司債，總額3億元",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSUYySUMtaTZSQW4zRVY3RWhvdDZYX1FrLVJ6aVdzaGVNS2drSmlRUzRBYVd4WGtRWWlBT3oyOV9nLTZYV2ZtdENNN3c1UXVzNzBDNlVZYWZQRHZ2VUxGRU92ZlFPWkdlWmkzNTl4RkxjM3Y1T1JfWXZFeklmVUdwWUdYQWxPS0k1?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-15T09:13:00+00:00"
+      "title": "千億股息熱錢流向哪？「亞昕織御」熱賣166戶成存股族新歡",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yWElrY3JsVnZZcmg3bjFHMmstdVRFcGFRcjNGY1BBUEtadkxUdmwtLThzLXpUM3FpME9vWE9GSC1fWXBoNDRtRnNDcVJXZTA?oc=5",
+      "source": "news.cnyes.com",
+      "published_at": "2026-09-18T09:22:19+00:00"
     },
     {
       "title": "亞昕整合全虹建設 手握逾200億案量、拚未來三年成長動能",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0tQ0hPdk9odmgtVmFkeFJ5RzluY2s3LV9HSjNMODNjRXhpU3ZNVmRfR3lra29tLXY3VFZwbDROYTdMV3A1d1V5bjZ2SVcwRU1zZVpSZ1lTdGdUY3Ix0gFiQVVfeXFMTXBSNHc5VmVYNlc5X0VqVWo5aElvWUFkdmVkUm5QamtDVU9OTVVBSWhBWXN3bWlmSDZyWmtIZHdTVWZaYUhpRWQ3ZFNkUU1KejZ6SlhHODJoX0Z5ZndEOGNjZGc?oc=5",
       "source": "udn房地產",
       "published_at": "2026-09-15T00:37:47+00:00"
+    },
+    {
+      "title": "亞昕整併全虹達陣- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50T3JJSkMwT2FiOU00M3ZHRVlaOUItdkJINHN6NmZZcXQ0WVZDRDlrQkhIZVRwVjQxY1ZBTWNCSU9OQ3UtRnZMT183alJWU2hGNG9yS0RvQl8?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-14T15:30:52+00:00"
+    },
+    {
+      "title": "亞昕整併全虹 達陣",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9WVW1veWpsVzdqVGh4b0dYNHZiUW90RVNrbldyeFZqUC1VWlZxVXJ1T0IzSHF1UENMbl9QUXA4cWZBckFIU3BuTm9VekFFRXZV0gFWQVVfeXFMT2NKSS14YmEzdUVUbVRGSXhwMEVUcVA1UVhURkhNSTdYVVZGSHQwbnNESlhtVFF5NkN6eTk2eHo3SG5jYnRaNmZqWllBUm1MaEd2UEQ4S3c?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-14T07:00:00+00:00"
     }
   ]
 }

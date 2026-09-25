@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-25T03:33:10.436256+08:00",
+  "updated_at": "2026-09-26T04:34:46.619120+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5225",
   "name": "東科-KY",
-  "count": 4,
+  "count": 3,
   "news": [
     {
       "title": "$IHH (5225.MY)$對我來說已經太晚了。股價已暴漲4.99%。現在才意識到這是IHH，前幾天業績出爐時我還以爲...",
@@ -22,12 +22,6 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQa000YVAwOS1RMXprTmVKX2dUNFNWM0s2SGtaeTIteG9uTnBFVng4aGZ0aDRrSm5vYzc2aFBXNXR5WkdfZGJCTlFDc2tpLWozSi1ObExzOVJiYkJ5anc2WXRzR3BoTzNFcVl2Qk9pWktUQlFSOVJNU1N6ZS1BbFVNTUxtNE5JV29aRGc?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-03T07:00:00+00:00"
-    },
-    {
-      "title": "東科-KY 115年8月營收11.83億、年減8.97%",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LZ2g2VC1wblZrVFU0V1RIYm95aklCbi1WblpCR2lGN0x5bVVwNFA4TlNHQTUtX2VlM25nZGJpd3NXM2JUc196OHZVdGpFMVJBMlBuMF9qelM?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-02T07:00:00+00:00"
     }
   ]
 }

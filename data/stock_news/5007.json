@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T03:33:00.938670+08:00",
+  "updated_at": "2026-09-26T04:34:37.678644+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5007",
   "name": "三星",
@@ -14,13 +14,13 @@
     {
       "title": "韓國KOSPI收漲近1%，三星電子漲逾3%，日本股市繼續休市",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVW5VUDZDVUo5dHI0Qjk3TGpLeEJHVFJLNHdhMTVqX1NqME1Vck9RZGo2eWRrd0pFRHVTdUxSM05hTmZMZXJ1eEdzVUR1NFJldkdGYjR1X0FVM1dWcFR5X3NxVTNVbGFKbFloZDdZRzIwZ3p4TVlUTkI0MkZIeENCcWxmZ0hKOG9oTjU3dlJFMzZrd2x5R0NmRUJBbzdMQjg3ZFVnN01sN0xlM3JIbUY4MDByZDBwZnJzd0VZLUhXYTEwQQ?oc=5",
-      "source": "tradingkey.com",
+      "source": "TradingKey",
       "published_at": "2026-09-23T06:58:00+00:00"
     },
     {
       "title": "韓國KOSPI開高逾1%，SK海力士與三星電子走高，日本股市休市",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTzdmZ25SWjdzVXVUd3ZZcUNFbTJFbFVaSzVvakdTTXpxRGF3V0NDZXlrTE5UbDNkNEZRQ2ZaclB2M09KcUtXaEVqZzVmUmpxa2tSWENjX0Mxb2NVX19xdWVZSHhjNm9JaGt4c25JMEZTQUozV3R0bG1SYnRTaUczRVdIQXg4U256RzU0YzBrUHdtQW5vVjltaHlRa1N3WHJ4UjZqZWkzdXBMTGNoZjhvQ1Z6LVgzcGVJbE9MMndOR1hMUQ?oc=5",
-      "source": "tradingkey.com",
+      "source": "TradingKey",
       "published_at": "2026-09-23T00:44:07+00:00"
     },
     {
@@ -54,12 +54,6 @@
       "published_at": "2026-09-21T05:50:50+00:00"
     },
     {
-      "title": "韓股大瀉觸發熔斷 港股三星及海力士槓桿產品插逾26%",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zRlhBMTVzTFBjdXNEXzJ4MnZnUnJOUV9GUXNTV201X2lJVUE5ZjJOUFNHTmxjeGRFamlHckFfb3VDMmFsc0YtNzJ1TmhRUTR1Snc?oc=5",
-      "source": "AM730",
-      "published_at": "2026-09-20T09:09:12+00:00"
-    },
-    {
       "title": "爭得千萬股票分紅 三星罷工暫休兵",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TcWFHSDdPUUVmcXhnZTVOY01Yb0NnXzF1S2IwVkpFOC1RUG54ZHhXd2NJNkdvMU11QmQ1dEk1cWhBM3I1MUE1dUJ6eGgtZkdmXzRPcmM3UlA?oc=5",
       "source": "自由時報",
@@ -70,6 +64,12 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd1UxamZ1Tk1GNDJMb3Qtb1BabkVraWVXUnhnNlJDcmtCWkRfUVFZRFdXMHVLS2VmYnI1QmR2aEFBNF94SXFzeTk5WlBobTN5RlNpZ3A4MjhJR2I1S1lxQ1d0eXdpb0x5X1Q4N3ZLWEhsYXg1MUZJV0lRXzBjMVpIM2dPSHVJcld5djNjcUtn?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-18T21:17:31+00:00"
+    },
+    {
+      "title": "外資大賣韓國三星電子、SK海力士6兆韓元，資金轉向AI基礎建設股",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Wdjh0QmFJeGQ1aXFCX25semlEQndKYnRZTlJWRk9KdWxINVoyZkkzV2JrQmF4YjlWb3hsaU9SU193YzhWWHFZMjRnbGdvS3V4TklaeGcyYVFheUxQMlgtb3FkUFNHa0VSczJhWW5MbEVlT1k1bm5zY05n?oc=5",
+      "source": "BigGo 財經",
+      "published_at": "2026-09-18T10:06:00+00:00"
     },
     {
       "title": "美股晶片股重挫衝擊韓股 三星電子、SK 海力士盤中跌逾 7",

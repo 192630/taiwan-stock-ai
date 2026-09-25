@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T04:35:37.302547+08:00",
+  "updated_at": "2026-09-26T04:35:00.152620+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5314",
   "name": "世紀*",
@@ -9,13 +9,19 @@
       "title": "世紀*(5314) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KSGJ3dmc1TEtJYVI1V3U4ZmFhZVFYQ1NEMWo0VXk5VzBwZERQMHdGN3pOeThaV20wNE5TLWFWTmJYeUlyTmR6TTlBLWg4cmRpQXlR?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-24T14:58:31+00:00"
+      "published_at": "2026-09-25T15:24:59+00:00"
     },
     {
       "title": "5314 世紀* - 衛生紙都買了，股票怎麼不買 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zRHU4RHhRR1FpYWNHWGVjaVdrNTFTRUI2UGp2NlhSekgwNnlXbW9hZ29oVEczeFh6ZXo3a0UtZmdaNU9pQ0F1Y3o0TDNQTDUwWURLQ3J4a0Q?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-24T05:26:06+00:00"
+    },
+    {
+      "title": "世紀*(5314)2025股利發放日、除權息日與歷年配息金額 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oQWlfaHNHOHpsbkU2cmFPQVNxUXc3d095X1RmYU5venFmRXJoZnFqbUdiVXEtUkNDdXg1emhRSEVNOGFTZFZXMmNITGFTMFB6OHpnODFzT2RCcHROZlE?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T07:00:00+00:00"
     },
     {
       "title": "世紀*連5跌停後「V轉」漲停 網傻眼：這支股票只有漲停和跌停選項嗎？",
@@ -30,16 +36,16 @@
       "published_at": "2026-09-18T06:41:00+00:00"
     },
     {
+      "title": "世紀*連5根跌停！逾3.3萬張賣單排隊 股民嘆：是打算跌到下市嗎？",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHMkNrT1htX2xGbG9qeU0zMjJIa3lZX18wdmhwSmE5S1U3U25PMzhaZkc2Tkcxd1dpNVpoYmlfei1zLU1XQlJVTUV4OG0tSTRrRk81bkI2d0VaN1RsNHRV0gFkQVVfeXFMTmxjTnhIaVdmeGlMMXZEWnBTRFF4OVYwNjVTYzAwQ1ZCLTRtSVM0YW9oaDRseENNajJ1aTlMUzlQYThpT2wyTEMzaE44ZW03ZFVpUFBfMTdLZTljSjFBWkVSTmJyYw?oc=5",
+      "source": "自由財經",
+      "published_at": "2026-09-17T07:00:00+00:00"
+    },
+    {
       "title": "11根漲停後變臉！世紀*連5根跌停鎖27.75元 1.2萬張賣單逃命",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE41YWVoVGpBNDQ2aF9FT3VmYjZkRDhvMmd5dFhiWmFJUlNTQTFKQVFxYnItSzFjck9ZeUpYcUVjcFVNZ2cxdWlDQ2hwNA?oc=5",
       "source": "FTNN 新聞",
       "published_at": "2026-09-17T02:59:00+00:00"
-    },
-    {
-      "title": "世紀*連5根跌停！逾3.3萬張賣單排隊 股民嘆：是打算跌到下市嗎？",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHMkNrT1htX2xGbG9qeU0zMjJIa3lZX18wdmhwSmE5S1U3U25PMzhaZkc2Tkcxd1dpNVpoYmlfei1zLU1XQlJVTUV4OG0tSTRrRk81bkI2d0VaN1RsNHRV0gFkQVVfeXFMTmxjTnhIaVdmeGlMMXZEWnBTRFF4OVYwNjVTYzAwQ1ZCLTRtSVM0YW9oaDRseENNajJ1aTlMUzlQYThpT2wyTEMzaE44ZW03ZFVpUFBfMTdLZTljSjFBWkVSTmJyYw?oc=5",
-      "source": "自由財經",
-      "published_at": "2026-09-17T01:30:02+00:00"
     },
     {
       "title": "世紀*做什麼的？股價從4根漲停⭢4根跌停「一張現虧1.6萬」！逾6萬張等賣，慘跌原因曝光",
@@ -70,12 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQMllvTWI4MlYzTUpYaTNpOTFXa1l2UFBlWjRueGxoN1EzUGFyTks3MFg4cVVmcFN0amdUQ2lsSHhFdHNjUEFlZmNuQWxsd2ZDaWRZQWk1REdFN0Q1NUlzbDZRN3FiNzdrdjRwc3BXNm51bldnUHdud2Q1UVhUejg1MWZuRDV5NG5yaVE2aFJYYXNBRV8tUk9Tbmo1YmpWd0pCY18zQldCVlJuQnZJSGt5RG9yc0NTLU15aGp2bmFzSjBOUkJWVkRNMG8zT016cjB5R2pLZmtuck00OGY2anJWLXl0R2VHM3lwU2VpMWNXcnpkNmZSRElvNGZxSkdHclQ5Y2Q1bGdkTVUzR2U4aUFkWmVFZG8wdzl2aEIzWkpJMFU4czVNdGhZ?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-15T07:00:00+00:00"
-    },
-    {
-      "title": "世紀*做什麼的？從IC設計到無人機、無人艇，千金股為何變妖股？",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vczhQZzhFTXNMSFp1YW41bmN2eHV5eUxqdERhUWl6WXltZnlVdUJ4QXVrckpaN0dkeEQ5THRZa2dCUklSek9lVy1KWVVsYXoyTkFselJxZ2dsNDZnaENhNVpDd01YMFVpZzgyNTJ3Wjc?oc=5",
-      "source": "數位時代",
-      "published_at": "2026-09-14T07:00:00+00:00"
     }
   ]
 }

@@ -1,27 +1,33 @@
 {
-  "updated_at": "2026-09-25T03:33:06.751020+08:00",
+  "updated_at": "2026-09-26T04:34:43.022242+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5210",
   "name": "寶碩",
-  "count": 3,
+  "count": 4,
   "news": [
     {
-      "title": "5210 寶碩 - 站上季線感覺下星期就會跌破了 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XeUg1MmdNOU8tT25Qamd6YVI3TnJ3cEFjVUV6R0VwYUE2enlQRHNNbU1sWFJrSVdUTmsxWklEMkRsd21STDI4M1Rmelh1LWF4M2sxb19MOHQ?oc=5",
+      "title": "5210 寶碩- 寶碩本公司董事會決議召開115年第一次股東臨時會相關事宜- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0bXJGLWtfWGNXUTdjNWpLbmtTR1N6Z0RxbUx4elNJaVdWcXVrNkV0R2VWWDZpS3RoMEJxdmxhRGVSYXVxWVZ2NFBNYXdwM0NFNnBpa2l5cEg?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-18T05:49:43+00:00"
+      "published_at": "2026-09-21T09:42:40+00:00"
     },
     {
       "title": "寶碩邀150名弱勢看職棒 承諾每年提撥盈餘回饋社會",
-      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxObWI1cGhKc25FcXZYTzBuLVNmOWFNNExVX19rdWp1YmFvaTEzQmp2X3dSUW9wWTNrUGRsSVVKbG81VXFEYlI0bEEybHA4OUIxTEJmVm1Ka21nWkpFTWdIRjdZOG1kZVg0MkQtMWhueGZabnByUU9CMUNpb0UzUXhyYW1yR2hJR0VuM19Oc3RCQW91Vlg2V01nS3V1cDZvZ1hrcGZiY3hmVl8ySzVTT2xLZUp5YlZxUGo4U1dEM3FlQUhjN2pxdjY5WWlDWGhwcmVBUXpnY1FUVGx6Q0cyeUh2TnZHZXJ1ajNwV3FIdEVtaFV2UDFZOEZybnIxM1p2MWFzNEtaZC1xbkNnTi1vb0lrdVN4X2F3TG9aRHlHY18wd2xwWE9rX0Fma0ZPanJYMmNwelBUUnNyMWM2MG5Od3h6am1DWEtVVEVnTGlfRG5aeVZUZw?oc=5",
-      "source": "台灣好新聞",
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNZXkwajUwSVdMNHE4Nm5UeXRtUnhTSU9TMDUxWlZxbUxxYVJ3ZjBOV2UzaWhhWk9lYy1qUVN0ak9rX0IwSUNuNnFfc296LVJZa3RQTzc2TjNQclhQQnNYcXlJSkpZbWxNV1VKLXhLTW80WHc1dnBFcGhBNEJVc2tpQVg0ZzhjRE5jdUUxbUsxX3ZsQW1oNGQ5c0ltNE1Jb0FJZWp2cS1uRmM2NmNON3VQbGR0QjY0R3lTSG9NbkZJa0luUzdFYmVrUXgzQnlxd2FiR2Y0TEVja09rQlBrT001djdsdlQ1WHd5OEhkQXJ3aTZvM1B1S1JCQnFFdUtUblRzTDhKRjJSWTVjZXFtbzFTS3hhLWhJd29MSDJzVXA3TE1hSUt0ZnhERE5kb3BEVmhPMGJqRGV1TkhzemIyVnplY0V1M1BhRkZHWGZSVlJnN0l4eVpP?oc=5",
+      "source": "Yahoo新聞",
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
-      "title": "【2026/08月營收公告】寶碩(5210) 八月營收營收月減年增，全年營運續看向上",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoZTRicS1aYUp5SFBnNG40akRONjVTd0dvS00zSzludUpLWDBXRS1PS2lGT010RDBOaHl4Zk02cG5NNENSUXRud3g5X1o2M2NPUUdIaXRTWnJTQXUwTkNZc0ROeHotc1U?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-10T07:10:04+00:00"
+      "title": "寶碩集團x中華職棒嘉義公益棒球日 邀請150多位身障朋友現場觀賽",
+      "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxOTXN1dEhWamNpYXBZaVBtZGtaMFBYRjljanJZVm9VMHlpckdPb2VQeC13WEcya2p3MWUxYnJMNEc3VkFvLXZzb2FQcjFieHFfdnRIR1ZsdHhJQjE4RDY4aVhNVEhNMkYtdjlmQ3B4djdpVFBDZ19hQWhnYjMzWmM4Z0FTeEFhc2Y2RnRzTXpCYVBsWXNiOXBsNUZEa29CLThlcXN4R1N0SGtCWlVqZVc2VDlaUnhuOWJiTFV4WkpySTN2bDNsVVlpY0k1UV96R2dDT1FZM2psckYxZktMV1JXMmpTcnlQVWFla1BRTWNpQnh3ZlpkMWxmNFFoMlc4NU1IU3dSMEc0ZXQtM3ZsaWR1QTVWSGdjd2N3aG9yQldxcWRzaUp3Rml3eG54V2VHb3gxRXVQVENrQjNJVFdyVFpkb3BkNVJlNnFZVTRDWWRfZFBKaFVWN25fbjh1R0owNW5pYjdCaG9PUnhPa1BKR3N2RXZrT0swMzNnVWVQU3hLZ3FKMzBzNDlPcEdoYzdjSm13WlBHeVRkbFNNcE9oWXc?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-11T07:00:00+00:00"
+    },
+    {
+      "title": "嘉義公益棒球日開打！寶碩邀弱勢朋友看球賽",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOaFpZaXVJYlVOWm40Vm5SZ0xLQ1pHckJfQ0dCeHNmZE00eERGQW0zQUJubE9yNjRmMTBBc29oSDBUdUF6WnVtamdIOFBMS2ZTVE5HYmxWTnkwak1vbUY5eC10cHEzRGtPLUNibTRCbHJUU1BRVkVsZ2NJemhmT2tqcUdfZU85SXN1TVhGTlpuZlUwZ2t1LUl1LWkzTHIwRThndWJBeXRucW5jOTFfMkcyZ05GSnQ2dVhGcHpleUdVVEczdGxiX05YTHdFVkVDRXE2OWMzczRta3h5UUhXeEJuZzlpZ1MxVENWX2Y0SUl3c0haR2xQWENjSW1KUm50aFhuRTI3QW5xT1ZKM3Npbmw0QmdYcG9BdXhGdHltc0NzUW4zQUdfd1JpZE4temVCVUJBUGVtZHdpXzY?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-11T07:00:00+00:00"
     }
   ]
 }

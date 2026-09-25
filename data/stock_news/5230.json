@@ -1,13 +1,19 @@
 {
-  "updated_at": "2026-09-25T03:33:11.905545+08:00",
+  "updated_at": "2026-09-26T04:34:47.864205+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5230",
   "name": "雷笛克光學",
-  "count": 5,
+  "count": 6,
   "news": [
     {
+      "title": "〈熱門股〉車用放量疊加AI伺服器雙引擎發威 雷笛克光學周漲13%連7紅",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KX0dzRm0xZVRUcnlxaWc2UlJZa2ZaR2RwT2V4NGhEbmlqNEk0MzAxQm51eVN1ZzBhUkE2WHFYQTNqX1dMMXZLaHhLaUcwRHc?oc=5",
+      "source": "news.cnyes.com",
+      "published_at": "2026-09-25T00:12:29+00:00"
+    },
+    {
       "title": "台股48K拉鋸！LED 逆勢聚光 佰鴻、雷笛克光學、光鋐題材一次看",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iOG5jY3FRNFV5eEdLLTJFZ1RyLVhlalRDQ3hYZGJpbmRaWHhPY3NHempzMzJjVW5wMG9za1g1UVY5V2RCZEFOQUw5dERvbHE10gFWQVVfeXFMTmlPNnMzN3dBZk5zQXBsMFMxYzBDcXJRd1hORy03UDBQY0d0V0NpSElIc2hvU1VIR2dEb3kzNDUxR2R1dnNNa3BYOXVGU2xMZFBuYXNQY2c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pTzZzMzd3QWZOc0FwbDBTMWMwQ3FyUXdYTkctN1AwUGNHdFdDaUhJSHNob1NVSEdnRG95MzQ1MUdkdXZzTWtwWDl1RlNsTGRQbmFzUGNn0gFWQVVfeXFMTmlPNnMzN3dBZk5zQXBsMFMxYzBDcXJRd1hORy03UDBQY0d0V0NpSElIc2hvU1VIR2dEb3kzNDUxR2R1dnNNa3BYOXVGU2xMZFBuYXNQY2c?oc=5",
       "source": "UDN",
       "published_at": "2026-09-24T04:26:25+00:00"
     },

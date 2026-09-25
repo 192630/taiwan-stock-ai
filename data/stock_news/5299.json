@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-25T04:35:33.676021+08:00",
+  "updated_at": "2026-09-26T04:34:57.169637+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5299",
   "name": "杰力",
-  "count": 4,
+  "count": 3,
   "news": [
     {
       "title": "杰力科技股份有限公司",
@@ -22,12 +22,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mVzIxSXZvVDgzNWpOVkIyZFBubU1IeHM1dlZTZFE0Y083YUhxSG11UjB6RkxGZTYzcWJ1SWt4Q0dKNU1ZQUQ2QVpWTDl0OWwzenNZRHA2Mjg?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-07T07:00:00+00:00"
-    },
-    {
-      "title": "杰力(5299)-同學風向與貼文摘要 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xMF9YUEpHT1FxeVlCbVBQZS1pRENnLWZEWmF5V2dGYzRMNmtkOVBpOC1wVjVjcjh3elhudDdjWmdkUVpUaUJ3REVKMTdDTTdKUl9VY1RUUjFya01CQ1FPeXJ3?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-06T08:27:05+00:00"
     }
   ]
 }

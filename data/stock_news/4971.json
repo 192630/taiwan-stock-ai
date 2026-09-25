@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-25T03:32:54.790889+08:00",
+  "updated_at": "2026-09-26T04:34:32.191515+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4971",
   "name": "IET-KY",
   "count": 12,
   "news": [
-    {
-      "title": "IET-KY(4971) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5FRWJ5STlqa1BLcWh0d2wxSll0b1JBRHNaaDI5N204a202YmpaQXIteGRxNmJRbFFqRTJSV1hYbWFrX1hKRTBBQk1n?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-23T15:05:38+00:00"
-    },
     {
       "title": "4971 IET-KY - 【09/23 產業即時新聞】軍工族群拉回修正類股逆風走跌航太與造船指標股相對抗跌- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5Ql9GSWJDZktid3FtaE9GcVo0ZzNNTXJOaDktS0Q2dFE4YWJrUDM4NEVCeWpObk1wbkU5dVo2MnZpUFROanFkYWdkdXFUUkxyZkZUNzFrU08?oc=5",
@@ -22,6 +16,12 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LSkNHZ3ZrLTZrWFJSREpDbHhGRnFXVFVjblBzbzUzbWlMVGlvaWVva2VsZzRsOHc2aDZlMVZxM0VpV3lYTzJLWVFvbVhmQjVvclFQVl9ySTA?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-22T03:40:41+00:00"
+    },
+    {
+      "title": "4971 IET-KY - IET-KY 磷化銦籌碼收緊，突破還是回測？ - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00WWRFYzNlWmFLZEJGSFg0S3NmRmZvNXR6bGVZZk5xaEdkT3hucHQ5cG4yazg2VXFKOVF3VzZOMXliNE03eHhORXc5OHBrUUZ5YkJWa0Q5WlA?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T23:40:45+00:00"
     },
     {
       "title": "IET-KY PD需求強勁，明年成長動能加速",
@@ -42,22 +42,22 @@
       "published_at": "2026-09-16T11:56:32+00:00"
     },
     {
+      "title": "【09:30 即時新聞】IET-KY(4971) 亮燈漲停，矽光子族群買盤點火",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb3JUczRPb2lVTHFGeHlVVzR1OVlsM0Q2VVRhdlMzRFBXc3YtMDJMcmxwby04ZFpHWmRQQ3Bya0RMUEhKYXB2TjdVVEo2OTdyZGdtRGRqT3VQelo0V09sX0ZMd1Q4eTRuUUpWaExPQnhTNWRKVFhmWldpY0EzbE94UjdQQnhnUC1EajdmcEh3?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-16T07:00:00+00:00"
+    },
+    {
       "title": "【優分析即時新聞】IET-KY(4971)AI光通訊需求引爆磷化銦訂單，InP基板短缺成獲利唯一變數",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81ZWpXY2lvbURHbE90UGhFUXJJTXBMZDdnclhROVhfbU9JWEY5UWJHWmhCQXA3WW5WLTFCckstOXlZR3J0NHRvVHcxUVZOLWM?oc=5",
       "source": "news.cnyes.com",
       "published_at": "2026-09-16T03:00:08+00:00"
     },
     {
-      "title": "【09:30 即時新聞】IET-KY(4971) 亮燈漲停，矽光子族群買盤點火",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb3JUczRPb2lVTHFGeHlVVzR1OVlsM0Q2VVRhdlMzRFBXc3YtMDJMcmxwby04ZFpHWmRQQ3Bya0RMUEhKYXB2TjdVVEo2OTdyZGdtRGRqT3VQelo0V09sX0ZMd1Q4eTRuUUpWaExPQnhTNWRKVFhmWldpY0EzbE94UjdQQnhnUC1EajdmcEh3?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-16T01:30:57+00:00"
-    },
-    {
       "title": "盤中速報 - IET-KY(4971)股價拉至漲停，漲停價574.0元，成交790張",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXUzBxdUt3SUZOWTQtOVlRQVdmejU3ZUVKME92YUdhTWJLVWVhdWc3MU52ZHVsTW15LUNlV0dxeURmTXRWTDhGejF5LU5pYk03Wl9rczk3NE83V0duVzNwUmFYMTFVQQ?oc=5",
       "source": "TradingView",
-      "published_at": "2026-09-16T01:26:00+00:00"
+      "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
       "title": "矽光子紅一片！聯鈞、IET-KY、光鼎亮燈漲停 光環連4跌18.25%後漲8%、立碁重返70元關卡",
@@ -74,7 +74,7 @@
     {
       "title": "IET-KY明年EPS年增率逾75%",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORDVsNnFDOTF2bEwwdzJWT2p3aGFtNUk4dlJ1S3E2YklpdGtXZF9ab0pPMkdpSmlFTVR4N1hTcTNCSzlrMjQ4U1F2TFhnOFg3SlU4VEVlQzJuVmViTU8tRW5zQnBQQWNQcVYwTlZrUDVDR1c3ckcxakVZWVU4bmZOdjhYdC1Mc2FDMkJkS2FUaXA5S0NJQkE?oc=5",
-      "source": "理財周刊",
+      "source": "moneyweekly.com.tw",
       "published_at": "2026-09-09T07:00:00+00:00"
     }
   ]
