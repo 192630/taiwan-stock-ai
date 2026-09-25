@@ -1,20 +1,14 @@
 {
-  "updated_at": "2026-09-24T15:34:47.145699+08:00",
+  "updated_at": "2026-09-25T17:35:40.344931+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1720",
   "name": "生達",
-  "count": 2,
+  "count": 1,
   "news": [
-    {
-      "title": "快訊／洪申翰首度赴中交流 今1720返台說明APEC會後成果",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE03Zzg0alRRRTBiQ1NSVDlGaktOUnJsclJwX2Fha3dUc0JhN0dKbkdYR2x0X2JGV0Jualc5YW1KRjM2OGVEdVZuU1FsNA?oc=5",
-      "source": "三立新聞",
-      "published_at": "2026-09-22T05:48:31+00:00"
-    },
     {
       "title": "【2026/08月營收公告】生達(1720) 八月營收6.24億元，表現亮眼、呈現雙成長，創近4個月以來新高，年增7.78%",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeGdoR0g0cC0ycEpfeno1NzlDNnNHdEZ6b2lNdHZGZlZpUW9ZTUFQX0pReGktM25zbnJpdFRWZWZIcDFQQk50RzBZQmh5M21LTi10S29UdXlSWDIxT2VFT1ZhdWYtZURGWUZ4Ul9vb0xITHoxdHJNU21MeW9TYTNTYk5RcjE4TXhaanc?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
     }
   ]

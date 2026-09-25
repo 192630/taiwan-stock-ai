@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-24T15:35:00.624574+08:00",
+  "updated_at": "2026-09-25T17:35:53.572285+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1789",
   "name": "神隆",
-  "count": 4,
+  "count": 3,
   "news": [
-    {
-      "title": "特朗普次子旗下1789 Capital拟为第二支成长基金募资30亿美元",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1IXzIzYUI1bU82VDNyYWRwOC1Qek5sVDluNHp0V2RyaU52TEVJdy14MkFGcFhmT1dQMUdMYzZUTldERVhFZFpKbHNfcE1mVkxSSWZyMkp4S1dfZWYzV0hFcXdiLTVCQQ?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-24T02:30:17+00:00"
-    },
     {
       "title": "1789 Capital洽談為第二支成長基金募資300億元 作者 Investing.com",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5qV3VxV29PRlNTZGgzUG5ucDZSRW9tcWxOOW16eGpmOTZmWmhYUExOdUdCd19ib1FFMzBuWmhycmZlSXBkVzFxSm5UVVdFb0RXNzRCOUU2QmgtZHQ5cE0wSXdmb2pwcEZScHZxNkRjcnBvblVNbGE4?oc=5",
@@ -26,7 +20,7 @@
     {
       "title": "【09/17 產業即時新聞】原料藥族群漲幅逾3%展現防禦韌性，神隆強彈6%領軍點火",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZHdiZTRpaWVrV2dFREF2ZGwxeGR6dTRFX0Fpa2l3YVBvR2V4QzVWalVJb3RENFNlZDNYX1FHZGw4MVNwYXY4SnFoVGtEVEQ2dk1KMXZMNWlfMkx2MjlkczVRWDk5aUF2STY4Z0F1WjVrc2lYTjFILURaVUdWZEdnalFTaFpsMGJrNm1jZ0dR?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-17T03:50:35+00:00"
     }
   ]

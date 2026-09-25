@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-09-24T15:35:05.565048+08:00",
+  "updated_at": "2026-09-25T17:35:58.412204+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1813",
   "name": "寶利徠",
-  "count": 1,
-  "news": [
-    {
-      "title": "童子瑋爭取1813增基隆直達班次 張惇涵：中央全力支持",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qbFpoeHptUllkTGc3M2Q3dEVEaFNnTWhyYUVSZHIxdmsxTFBlNWVDX01HenZtUDEydmVFVVdIbjZTd2o1N0piVWtQbFBsWHZsejFGalJRZWFPdzVDcFNNVEY1SkF1MF94NVHSAW9BVV95cUxNcl9fUm1GWEI0WXRKcTJJbkZrVllOME1tY1NveHM4MjRSblZSTnJaVnRKZmNnc09PYzdwUmR2Z3NtSms3M19OXzI3Q1g1UnlsdkVNcWVkYUs3dGR0VnpDUkpvRkNuUWl6ZG43akMwU0U?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-01T07:00:00+00:00"
-    }
-  ]
+  "count": 0,
+  "news": []
 }

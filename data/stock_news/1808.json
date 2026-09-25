@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-24T15:35:04.112490+08:00",
+  "updated_at": "2026-09-25T17:35:56.964641+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1808",
   "name": "潤隆",
-  "count": 8,
+  "count": 9,
   "news": [
+    {
+      "title": "《上週融資動態27-9》台康生(21.02%)、建 國(20.71%)、潤隆(19.93%)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMDRrUXZFbjd1dWhSNzg2Z0ViTnB1VWhrOFc0UXFGTWhSSmVHaks1Q1ZUUHV4eXhTaWZ5VVltVHZLYjJJU1lsSlpRVWdLWWdaY0tYYmJVOGEyZGxYeDIyUWRaTnJXY3BCWDFZSVNFYl9qNFF3eXdjc3FGX0ZJWDJYNHhWLU1ZQkF5?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-25T01:13:00+00:00"
+    },
     {
       "title": "《櫃買市場券商買超前30名 3-1》世紀*(9030)、穩懋(1808)",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYkhyU0xtLUE4YWlfcUt3aF9pak1pcXRPcEczUHNKcW5PMTlhZFN6aTFLMXNmNUs1VmlROHV4eEdkNnZGTDVCOWxwQ3BGV1lQZm1UU1o0QTZwR2p6QWpGMEppSzk0MllwekExd1cyeWdvYnozcUxWbU5uYjF3XzJRTW5jbDJIUWRJ?oc=5",
@@ -14,7 +20,7 @@
     {
       "title": "今日最夯股／潤隆反彈逾5% 外資大買2,077張 房市回溫題材點火 | 市場焦點 | 證券",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50MXpfSlcwYmFmUXhPNDRlR3ZWeTVERXU0Vk5USW9oa1ZZZzZQT3dYTTVlYmFsZlVTOUV1bmdUanlNSm9ia1lGWU5sTEd2eHZxSWZnN3hZS1hLZw?oc=5",
-      "source": "money.udn.com",
+      "source": "經濟日報",
       "published_at": "2026-09-18T12:24:21+00:00"
     },
     {
@@ -38,13 +44,13 @@
     {
       "title": "【2026/08月營收公告】潤隆(1808) 八月營收月減年增，全年營運續看向上-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcHNfdzdwZjZFb09mWkU5WlljN1gya2g3RGVIdk1zVndsOE5NaFlBZUJlUU1mZFVveVJtV2hhTnRmRm13blN3WmpFbDNxYWFMcjVGWXpfak40RS1DMXNzNkZHM3UwemFKNkF2VlpDOU5LdkFXZlBmSWl4UlpzMDdPeE1ld1dHZGZIUlE?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
       "title": "【12:38 即時新聞】潤隆(1808)股價小幅走強，受房市回溫與讓利推案支撐＋短線跌破月線後反彈、官股持股逾16%提供低檔支撐",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84MzNQVFUwaV9mc3RNV1c2bnhBZkhmcU1aUUtJUERBVjRDMWVqcUNyc2V5SGpGSEZiTy1OS1BsTVRhSUZfQlM3RE0zdmotVG1jUy1yMndxOS0?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-08T04:39:10+00:00"
     },
     {

@@ -1,10 +1,34 @@
 {
-  "updated_at": "2026-09-24T16:35:54.862591+08:00",
+  "updated_at": "2026-09-25T17:36:14.418363+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2031",
   "name": "新光鋼",
   "count": 12,
   "news": [
+    {
+      "title": "AI 投資進入驗收期，白領產出須在2031 年前提升10.5% 才能撐起報酬- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hWFNCUmNVVXpudEJpMnB2dTZpd25uZzdEekRuOC1TNll2eVdJNl9ReUR0SjJCTHNKdnNGYVRUTEEwaHNKal9uNllhR0stcVRLck96b1NhVlo?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-25T05:45:21+00:00"
+    },
+    {
+      "title": "DK Delek US - 德克美國公司發行4億美元可轉換高階票據，預計於2031年到期！ - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52bk02TjY3Z25LSXhXVC1WWVBZY29wbjBmRjBlVWtMMU1LelhHd2EwdndycDluSmE3NVFwNE9meTdJUHpYN0lRUFZ6Yy1rVkxlWV9VdHltYUw?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-25T04:47:55+00:00"
+    },
+    {
+      "title": "到2031年，碳捕集、利用與封存市場規模將達到$135.3億——MarketsandMarkets獨家報告",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUWhrUEpubGczZjBQVDlub0J1dW0wSjZoU2tfV19RTnVETDh2bFVRd1dvZGdoTnluU1VyYkhlbDRWTE94eFhIR1FXRHp1bDlBRkE3aFZ0V0ZGeFNsWjB3aVhNMldZNHhmOGZtUncwaVhKVjVxNWVvXzdRQWcyY0Y5SHdCeUx2VGwyOVhQWE5NVVBQbzJuRkR3anBjOVJLSnlDa3ZJcU9VNW9lV2NlM2RMMDVReGI?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-24T10:40:00+00:00"
+    },
+    {
+      "title": "DRAM供應緊張態勢或將持續至2031年。CPU需求成爲新的驅動因素。",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY1VVRTF4VFZHTzB4WGJOTXZFM3NSOVVnV1pjc2xnQmJIbkhMdGtSMjVvOVQ1cjg4Zkc0UE5xYnBMMXFrLWg0dVlCYlhKZFlyT0JJM2J1dzJqVVlkUjVab1hLc3BHR3NaY0lCVE9Id3lQcTFBUEJabEFSZlZ1M21QQ0l5ZnBLLV9tSzhpRmU2Wm90VDlXcGtEYTV6blhkc3E5dlQxcGdmRF9pc0pEZFZvOA?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-24T08:29:09+00:00"
+    },
     {
       "title": "CPU需求提升DRAM在2031年前持續緊張的可能性",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jczRFSXB6d2ticDhUcTJIRXFnUDBmWk96TGgtU29tcmVZYTNpbTI5T0E0dXYzUU5pd2hpQWFqbW5HbDlpdFBwQ2FqLVZ0RjBFY1p1MUlBTE1QYU5N?oc=5",
@@ -26,7 +50,7 @@
     {
       "title": "Harmony Gold 為 2031 年到期之 5 億美元可轉換公司債定價 | Mining Weekly - 新聞與統計",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT1FxUXZuYTZjR29MMEwyNDZGRHRPMnZtNVdnUkxMMzVGbUhzWXB0NXE1YXZHMjNaVUJrVUtFLVNtVE1oc1pfWlJrbWR4cDAyQXl4bVlua2NkTHRWRjkwOXFqYW5YU1poTDZlTmEybmZ3RVQwN2RWZXdFamhocndSX1YxMG9HdEpzZFBMZ29TdjZDcEpQWThXckQwQ0FJeHBL?oc=5",
-      "source": "indexbox.io",
+      "source": "IndexBox",
       "published_at": "2026-09-22T10:42:34+00:00"
     },
     {
@@ -48,34 +72,10 @@
       "published_at": "2026-09-20T05:08:28+00:00"
     },
     {
-      "title": "DRAM短缺將持續到2031年？花旗稱存儲器超級週期可能才剛剛開始",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOXpQYmt6N1d4bHZ3bFVlZGJfMXFzRzNmTmVCRWVybTFlVkFmcnBPVV8xM3NkbFQ4ZnVMeVphR1owRW9nZmZ1aEw4bTE5Nmlpb0ozRjNVcUo1dExvbzZQNXlTeGMzaVpCQzJhRUptS093bjBvOEVDcEpFWTZiYVYwa005N19yYmQtSmNpQXhKVHd2bWFGSGNtV1FjVmJLOGVHRm05dkl2UGk1bUtQeWhCWHA0VGZyUV80bHU4amh3?oc=5",
-      "source": "Moomoo",
-      "published_at": "2026-09-18T06:22:39+00:00"
-    },
-    {
-      "title": "新光鋼看AI投資規模持續擴大，明年樂觀看待",
-      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNLWp4Ulhkczh2Ymx4OHVUX0ZTZWhwY2k4Z2RQTEkzdW12b1h5VFpkbE43WTM0VzBTT0ZjSy1senh4bWQtMzBJR2FtV0pIdm4yZ1I4VHJKeWdTSEdOZDV5X0xNckJHQ19TTFF6cGFWZ28xSHgyMHpYc3ItbTlGVmRQOWZmaE0xVWpYbW0yUWZQZ3QyaC1KdHpoMGRMN3FPaWE1RXBuSzZIRERHS01lVENnS0VIQVROSkJCOGFvbTF0NG8zbUx5UFVGVTA0cGgwSU9rV3BHWk1OUlNtZWRZeDZ2R1g1c1BTSHI3MU12dUpVS2Z1YjZva29ya0p1c2d0RGk2N2ppSWNGcUItVUlsTXp1b3dsVG52UXVQc0RJcTZvSS1KbzJHVlhqWk5XYzU2OUJoUGRtQ0U4Yw?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-18T03:39:40+00:00"
-    },
-    {
-      "title": "華為膨風2031推1.4奈米晶片 專家吐槽",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvUXZDSlpMRTA2cTZzSFNnVWt2OVJCczd4NlZnVU1WT0QzNzE5bTVHREI2aVotTnVxM0drM0ZkRl84bzdodWNweVFrWUYxMnkxekhnTmFHcnQ?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-18T03:37:14+00:00"
-    },
-    {
-      "title": "到2031年，醫療保健分析測試服務市場規模將達到$124.7億——MarketsandMarkets獨家報告",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb0w5VFE3QzFYRFgtcmo0NjcwOUE3X19kX2dERUF4dWJncGp4VW9sajdaQzY2cVU3UzVoakg3dmctZ3dzNWh5dWFJaHBnNS1tbVBNY29wazhCZmxROHNfeGdNQXpsUXBfU0JoaHBEaWVJUjB3LTlCYnJkZDlaOGViMDE4WXR0WmtTNUswWmViY25PMkZKU3h3YWRjNDh0X1RIMmhzYmF5Z1ptbXRxa2k3bDk3ZXJVV3FOcUQwTw?oc=5",
-      "source": "Moomoo",
-      "published_at": "2026-09-17T14:30:00+00:00"
-    },
-    {
-      "title": "「這龍頭」交期排到2031年！ 高盛洩天機：買進南電、景碩",
-      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNWG01bHZBRHdiYWYzb1h4eDcwTS1xUWx0el81WVBERUZHbDZ0Q01USzI2R3JMWExWd0xYa3BVUFJod3JudGNOaUkyWElpcElhdmpRNUU1Y1IxTU1KMFZJV1BSaGs4SWw4Z1lEVlBlemo4ZTZqSjgxWXp6dW9sbWpNOFNTMFMtYXBPS2x1TkYyUUMzR3RteDFHVUJJRnBTMG96eHhiRDIxUXpjMjIzNFpLYVF6TjlybHJYZkNWMlNCOFdESW0xdVkxNmFZTXd0dXMzVmxPV1NRam5sRWwxMGJCSThuUWlLZzd0RF9kSWNIM3loQjhvaFlKZE9fQTJaQzB6NE42Q0ZvdWNUbTZlY1J2SnRxS2xnWFdsc1hMdFE2Ni1DaHh0RE1Oc2pXRWhoLWs2b1ptRlVNTF9iRUZZREZyUHpYOVRhbmlfZXc?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-17T03:10:07+00:00"
+      "title": "全台最大、最複雜困難公辦都更…永和大陳單元七拆除 2031年住新家",
+      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxNal92MG93Vk1jZTZFYkRVamg0WGw5RldTWmpvS3V0QjNTLTJDekFCa1A3Y1c3THBLdFMxXzFRR1YxNExDZHVQTE5zU0hDVzZJWVM2dTZSbURGcTJ0S2NzSHY3WEpyUFNCVEVyQ19Ta3Rla1NhOEh1SUVuMVpiNno5cG9iOW9IVTgwREdWRFNCM3N2Y2VBVURHSEUwUWxINXR2aE5yaGpuUmMwZmZ0TkhBU0dTd25wWDBpTi1ISDNEZXlac0xkN3lKODRfUmlzd1FUWDEwVlZIdDkyWG04TDMxZERlTnJxbUxtb2ZBN3J2eFh4aVRWeVBWOUMzRzk1QWhFWXpIVks2SG5vRkRFM29rX29xTDZzaHprbDllNU5COHdDR09fS3FpTGtxdnFMRWZIUkVfekxHdVplU0ludHRBczQ2X01aWEM4YUlHTGFhMWwzVmdRVkd5d2k4MTQtZ1ZsdzBLNDgxckJVUFlzZDZQcm9mTi0wazVlcFNWVnF5bW8wTUMtbkhQa1c0Y3VRa3V1c19zRQ?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-19T23:37:34+00:00"
     }
   ]
 }

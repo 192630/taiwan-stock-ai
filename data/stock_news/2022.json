@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-24T16:35:50.404411+08:00",
+  "updated_at": "2026-09-25T17:36:09.598154+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2022",
   "name": "聚亨",
-  "count": 10,
+  "count": 12,
   "news": [
     {
       "title": "麥當勞股價預測：MCD暴跌創2022年新低，持續探底還是超跌反彈？",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON0o2NG9RRFIzNnhUU1ZsZTlRQnRnM0lMZDNXTGh4YTNvN3RqbzlxTG43WUlOWmNqRTg0dTFyUFptbU5ScVhxb0tVaUhiQjJYaDRJVGp0by1WYWFBZHNVQU9VMnp3b25XZE1LU0hzY2tHa2VMdGt2c2h5Sllsc01IMTF5d2ZDQ0lzTGFPYlowTlMyeEdHWTl5Q0poYldOcnV1N01RbnN3cHpwd1hDejZTamVhVWFnV3MtREVNNFhkNHZSUQ?oc=5",
-      "source": "TradingKey",
+      "source": "tradingkey.com",
       "published_at": "2026-09-24T08:14:23+00:00"
+    },
+    {
+      "title": "TWA00 加權指數- 外資連5買砸2022億 9月翻多- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mdGRtZExOVFltUkt2MmVjWkNXaU9NcGpxbDV0Rko1QUJGcWwtYVhTaVV5N2tKS1BpUEpZcTlvcVR4UmZDeUpjUDFvZVlYbmpfTDdZWHozaFc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T10:42:12+00:00"
+    },
+    {
+      "title": "【Follow法人】外資再砸373億元 連5買狂掃2022億元 分析師：續買就看「它」",
+      "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxNMS1pem55OC1vOG1BSldodnM1TGlDZTlyN1VIZFRmUEtMV1pCNFRJVXJIaTBBY08yemk5RzhXODZMUDRoX19GZjBUMXdUcmFXcE1XMEI5dmZJVFNhRUIyZGhMNHo0NXA0SjdvVWdEMzdpbGc1WGhpSTZUNGQ1R2tzV0g1R3R0Vi1IWWtSa3JTQ09qdzQ2ZmNpaU51bC1jcl9YZ0R3LUhsQ2xSMG5tZXUza0xhWmtLUDd0dVd6VjVfUVlTeldnSmU2M1BtS3o0a1hGSjVsZ2hVcnQ4TmZKTm9OVjhhMVZHVTRMYmNLV1NOZFRscjZYS2dqbGgzVk9vRmJyRF9HQmpMZ2dBanRZR0E3MlhzLTc2b0F3VGdJenRrMEtWc2wxTFl2ZlBNM3ZFTG5zS19vQnB6VGx5a1FJUElXVHZYVFhYMUhWZk1PME5pUWNsMnowVTJFT3V5UWhOM3FzeTdYYjBQQURxbHhZeWxDd196TDRtNGp5b0FTd1owRWFLN1p0SlEzOUtzdjNfYnM5Wm1wTUx1dzBUanRtTGJXcGt3d1pMa3QwLW5OdDU1UlFQdkdL?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-23T08:41:15+00:00"
     },
     {
       "title": "【Follow法人】外資再砸373億元 連5買狂掃2022億元 分析師：買盤有望延續",
@@ -30,16 +42,22 @@
       "published_at": "2026-09-20T06:05:30+00:00"
     },
     {
-      "title": "經濟學家警告美股恐暴跌72%！預測4階段走勢：先衝3.9萬點、再跌回2022年低點",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE91anJIcFliLUwyRVB4NlFGcDNGZnFma1NSM2J5V3g1d1dMajhwMGxTVjJTTXpPb2VyTk8zQ3ZhMHZmSFhJdnA5WTJkOUtuTzJqLVQwVlRtbERUOU84QVp1NnhpWlBISm1MMFdqcWZvVXdzdTJwTVpJcGNmc3FBdw?oc=5",
-      "source": "數位時代",
-      "published_at": "2026-09-17T11:59:00+00:00"
-    },
-    {
       "title": "TWA00 加權指數- 上次2022年3月開始升息股價跌到2022年10月歷經半年才... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KRDlWUUJmSS1oOHYzQ1FBdHBZeHFuNkpRdDJuWkp5X0h6MUR1STk4OFRNZW81OFlTVXAydGp4VnNsN1BWbGc1OFAwd25iYUtUOU9XOE10OUU?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-17T10:44:00+00:00"
+    },
+    {
+      "title": "經濟學家警告美股恐暴跌72%！預測4階段走勢：先衝3.9萬點、再跌回2022年低點",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE91anJIcFliLUwyRVB4NlFGcDNGZnFma1NSM2J5V3g1d1dMajhwMGxTVjJTTXpPb2VyTk8zQ3ZhMHZmSFhJdnA5WTJkOUtuTzJqLVQwVlRtbERUOU84QVp1NnhpWlBISm1MMFdqcWZvVXdzdTJwTVpJcGNmc3FBdw?oc=5",
+      "source": "數位時代",
+      "published_at": "2026-09-17T07:00:00+00:00"
+    },
+    {
+      "title": "2317 鴻海 - 歷史背景，美國聯準會2022年3月16日啟動升息循環❓ - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBWldRMTBvZUUyM1ZWN2FWNkk2a3ZfMFhYSnZaRVRqR3lmLVVobFRFN2hmYmpyMktDaEZ3VVl2QkZPcGhUbjJ3RUpiNFhaWkstaEI1cjYtZjU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-16T10:16:16+00:00"
     },
     {
       "title": "2022暴力升息回顧- 股市爆料同學會",
@@ -58,12 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE00cnVFWmF2RXpkVUdPSnpJQklwc2ZnOWE2eWxib1FwSVFseml0VjZjUTlzN0lyNGRkVFJmeHNUWWtCeXdwSTIzN2JWdGJwS3lBNHg4Yk5aeHNSdGctcXFJQ1JzYVZpSlQyY1dUS2M1bmJxMUE2THFrWkhaaw?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-12T03:25:38+00:00"
-    },
-    {
-      "title": "外資持有美國資產創新高達 39.19 兆美元 2022年來翻倍成長 - 財經新聞 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMm8xYUVIUnVKS19fY2hJTVBLSi1jQ1NreUFCdjZPdzgwdm9PMlR4emxfanVJMjZTanJsYVQ0MVJTWkNnYjN5LUxkbkRNY3czM1ZpV3dRWEZ2Zm1CMXVpMTJkQXNJeFRqQXZ2b2g3RUtqemdtTURUODB4S1oxTXBVbzlhWFA0MnFaZzBPMg?oc=5",
-      "source": "PChome Online 新聞",
-      "published_at": "2026-09-07T07:00:00+00:00"
     }
   ]
 }

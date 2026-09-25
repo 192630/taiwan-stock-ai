@@ -1,44 +1,80 @@
 {
-  "updated_at": "2026-09-24T15:34:48.104601+08:00",
+  "updated_at": "2026-09-25T17:35:41.283338+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1722",
   "name": "台肥",
-  "count": 6,
+  "count": 12,
   "news": [
+    {
+      "title": "馬太鞍洪災一週年 台肥投入550噸資材助農田復耕 未來3年把田種回來",
+      "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxPbXo5QkdBNVc2ZkZFUHczeTkwa3Y3SDBoRm42N2NfcGRweXBuMUNQNW9uSGl0dkY4LWxhZ2Vmay1abUNVZmk4c2d1d1lzcUNERWdVdFdhYVluQnhVMkhrRXdPenJrVE44T2k4dGRqMVpKV212UFdOaTU5NlBRclRIYk93REUyRWtpX1hJeHI4dW43Y3ZOTTlQb0tNQzNzRkRWZnlTNG02c0w2aXRQQ2hDNEF5aXpHOURXSmI3elJqTFcyWGY1cUFOdVM3Nk1DcWpqNTlscWU0d25yYXhEZGlPWmVLdG9BcmVpTzlHbnctdm05Zm5rVG92QV9idWdFTl9oMld1by1QWW5vUHlDNXZWOG9oUEY3WDNsSklIbEtibVV2SHpKb3hHb1BRNF9kejdUMlNNRFI4ZGxlUzM3ZllvREwzdDdpY3dTcXJRaDJpU3pVOGd0OWRXRHNkVlNlRENzdmtWbUlzQmd5aTNuRlNwLWp5b2lkejFWTjlwYno5RFdCRmo3Tm93Rk8wbFhXb2VaaHgyYVk1OWdpbVJQQzBwYw?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-24T11:12:11+00:00"
+    },
+    {
+      "title": "馬太鞍洪災一週年！陳右欣：台肥貢獻專業 當農友的肥料超人",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SR0UxT0UwSGgzS0Q4ZUlSX3dLcG1mMVl6VDVQN250Ul9sVHBEUjBQUWdXenYzUkROdEtfX1NidmItRXJZS3hUal9qMA?oc=5",
+      "source": "三立新聞網SETN.com",
+      "published_at": "2026-09-24T09:13:10+00:00"
+    },
+    {
+      "title": "9月23日 Genet新聞: 【友華法說】、【基亞】自體自然殺手細胞停止第一期人體臨床試將聚焦異體NK細胞現貨研發、【艾爾生醫】聚焦經皮藥物傳輸系統與非侵入式眼後節藥物傳輸技術9月23日登錄創櫃板、《9/22日法人賣超》外資賣超前三名：康霈*(-1126張)、台肥(-951張)",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NSzRkWnBGTXBtVHZYd0lMQUhJWXM2ZE1RaU1uQTJJMDMyaW93VVNEUkF1dHVwdlZEYzRBd0MxbG1NX3BEVDhxN3F5S3N5N2QwSDdhSnk5TXh2VjFGVzJKdzdDTkU5R3RGWDFXNC1R?oc=5",
+      "source": "genetinfo.com",
+      "published_at": "2026-09-22T23:30:50+00:00"
+    },
     {
       "title": "1722 台肥 - 底部反彈快衝 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlSFR2VGtKWHJtN2c1cFY3cW5lUWZ6ZnpELXBtdndBMkxmeWQ4Wm9HVDI5V1dNVDhMWVZBUUFsLXNKa0xBMjhtTHZoOHhlR211T0QxMkV0SEs?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-17T05:36:48+00:00"
     },
     {
       "title": "1722 台肥- 分享個人觀察。聲明無意引導任何人做多放空，個人目前無任何部... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PM3FwYV9LY3NuSEFjclhsZm9yVFNyc0cyNGhsb3cwWW9sWml4cy1xemtYOHhMMDFndzZ2Wm9rbFpmQ1BvbXRSUU5mUWZCVmJkZ01ZTGl6VFo?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-13T07:00:00+00:00"
     },
     {
       "title": "【2026/08月營收公告】台肥(1722) 八月營收9.12億元，營收雙減，年減11.28%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNVZ4ajEwWWtJSDNKeFhocFA3OGVwcUdyTGs1Y3dCc3BpZFN1ZUgzRFRxdXc2T2M4YVRxRFdVNW5CTlhIQjlGWUZTVVhoOWh6SXFPb0tEeHZtdmJVN0FieDBBd0QzS2Y3M2x2Q2hZYzFlQTZ6VEJVMENRbkRtSHhzMHg5VklWNXpwcnc?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
+      "title": "台肥80周年 台灣農業現代化科技展開展",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HVml3aC1MSGd5ZXdlNU93Q0FmSXBPeEVacE1YSVNzeVhESF9yMGRNb0NyREROXzFIa3RNVVJDN0NSa1pQNjN3c24zSjBQY1hya0FNZnp3MnR0d9IBX0FVX3lxTE1Lb25WMDEyeHY0SlQ3Z0t4U1lrV05tQ2tOaDAxQ0l0NDRxN3Z2ZTBCVHhaOFVMY2RKOThybGV4Y3V6SElGNWk1V1NkS0t2OWhqV3JjZWNVWGNFcFVDeW5z?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-03T07:00:00+00:00"
+    },
+    {
+      "title": "走過80載！台肥靠「藍氨」搶進半導體供應鏈 3大因素加持肥料本業持續減虧",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUYmdjOTdMd3A3bGZYZ1F3SHVjekJmQkZlMC13RmR5ODhnUXlHczJXYXJLcmZyN3p1ZnBTU09Ra2FrWU9kcnRyd1pGWWo0MnM?oc=5",
+      "source": "news.cnyes.com",
+      "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
       "title": "台肥張滄郎董事長、陳右欣總經理領軍 攜手臺大簽MOU推智慧農業",
       "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQMmlMTXk0NEluX25ORHJHOUZueDhpc1QzVTI3aVVQYzh4bXZPTGhjalRVTkVXaVZFOVl2VDBERm1ZN3ZoaVNjNk1saWRFV2xlRjVoMG9Db245dFhkZktWVmVQVEplQi1jdy1rbC1tMTRxc2piUjR0emtVeUhjWk9BczNhVVBzY0p2OFhMMVNFZDBYUmtUS1VMeERTM0ZGS0JlNjZJTWpxTjJOWkVnbnJzWllUYmpnTWY1ZGJlTkMzby1ETHRUUFNzZzFNc1VOazZXeURJVlBuSDlFRWxVQklxRXlfRjQ1WHowaXNCajhmbFA3bU0xWjJpa2o3QWJSc3AxWmZXLW5FNDhiZC1qT1Q3V0RCWUFCRjY5aUNLVkJBWnM3U2tSYzR5dENmaG1ockYwYWk2SDBycElfYlFtNS1uMzRLNUcyUzdqWGRUdENwZS1talpySk5NQTdjWTdsOGluNW1lc3RWZjNQaFprUXlISWhqOXRxQ0R2X25mT1Y4QnJCVnVpdG96NmRtc0REUnpibDZuZzlHLVEydw?oc=5",
-      "source": "tw.stock.yahoo.com",
-      "published_at": "2026-09-04T07:00:00+00:00"
+      "source": "Yahoo股市",
+      "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
-      "title": "台肥轉型切入半導體產業 今80周年上演「慶祝行情」",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNak05ZlJ5NWx0UkM1Q3p4MVZ4RHhxZkxoVmxwdWZqVmt2WUZaTXIzdnRjd1RyUnB1cHFoV1dxV0JVNW1GUG5IMnBXc3VUa1ZSSVdMZk5HdkR4TFVPWGRuSHFBbEREcHBoUFdxNGZOZDBnQ25NRjB1ak1Fb1FabkJLM2Zn?oc=5",
-      "source": "壹蘋新聞網",
+      "title": "賴總統：台肥助攻台灣高科技業 積極布局潔淨能源",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yN2Y1dURwOTBhd2tDcV9RYWl3dzFOdnd2T3NwRGY5dmpJRlFaaG5idUNLODVLQzFlWUZDMjc0dGM0RklkcE1hTzYyWTNTaG1ZaFJVaGtIUUFpUdIBX0FVX3lxTE9jM2tJVjV0Y2NMZnpPZkVadEVuMVY0M2V0bmhlVVFsTUI4VFBHN2lXTWlZTktrdElHMjNoLWdXQmdScnhPYUU2TFk5UDNBYl9sUWJveFg3d09aWGV4NkNN?oc=5",
+      "source": "經濟日報",
       "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
       "title": "台肥歡慶80周年慶 賴清德：盼強化農業韌性推動綠色轉型",
       "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQZXhGc1JnSHZoblRVdF9uYjhHc2dKakNKTTBzS1Y0T1ZabVMzSzl5ci1SdjBOX0YtQ3dRRFo5UGNQTjFwYUFJQlNMY3RsajVlZU0ycFllV3F5eEN2YWV2Q0JBOEFTd0NtbzlqTWVDVDR3VjU3MTYzTVRCYm9Mai1IeGdjYWJZeWY3TkJYTW1lMW1QTmFEV0RZcUpYTXVUTzZlSmluUFptb0Fhdk9YRjBhOTNYM2ZfSURlOUJCeGYxX2haV0xCbnk0MDBfT2l0aDRmNnZIR0djdTdiM0o4Nnd1ZDZtN3MzdHBWVWhDSkxiQnppbWZ5WDA4QXBTQWVFV1hVSWpKOF8xR2h5MzZhak92QUU2REY2VEhHZEhRWF9fVkZfTHRjSU80SmRRMlFyVzFYdWlnTFczdHdKTlVRbFpTdDFZN1dEWWYwWTI0YWNNdmJZcEhRM3hmdjFOekQtQkJ1N2llUHptSk9waEczUk45YkpNWlM?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-03T07:00:00+00:00"
+    },
+    {
+      "title": "半導體綠色供應鏈加速！低碳藍氨導入科技廠，台肥(1722)拚本業減虧-財經焦點情報站",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZVBYYVdqZFE1ZUc5M2Q1VzFFZy1xLTZFa0t2ZWtGSmJXVXFyY3BvTzlnYkdJMDN5QkpQMEZqNnFSOWJwN0tSWlNhUEEzaGNWQXFBQmFnR1FxdXdSQ3ZTTG93OFZMM3k4RGtpcTFMemgyQWNDcjZYcmlPZmU0QXcwUFNn?oc=5",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-03T07:00:00+00:00"
     }
   ]

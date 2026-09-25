@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-24T15:35:12.440103+08:00",
+  "updated_at": "2026-09-25T17:36:05.334662+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2009",
   "name": "第一銅",
-  "count": 6,
+  "count": 7,
   "news": [
+    {
+      "title": "德國10年期國債收益率上行2個點子至3.57%，創2009年以來新高。",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbGZPMlZyM0NmSVp6d1lNS041eDhYdTFJekhoeWgtWER6NE14NFlNVVpha2JuRFdpaW9EXzUteEhqYlZNQXVFTmhUZHNsSjVJck5jLVluams4ekRlQkRHcFBoLV84c2pMcHlaQWNjSUcwNlZwTlJjRUI5VFBfZ2dMZ3otazRCeDFCSXhvYm9TZnRmdHJWQ1NCVQ?oc=5",
+      "source": "富途牛牛",
+      "published_at": "2026-09-24T08:43:13+00:00"
+    },
     {
       "title": "【2026/08月營收公告】第一銅(2009) 八月營收3.39億元，年增30.27%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRGhaaHpaZUdNeGRvdVp5V1JkdS0tUXJVMTZKcXpIUDBVNU9QUV91LVZFbU94cEZkQkZDZDVzRVJNNF9yRzZ1cVhKYWhqVjVhTWwyOE45Y3VYQTR4b1FqQ3JZbHdFY2dFRXFKeFRDcDhnUzU3YmNRdW5oWGM3S29ULThzVnlpOW1PNkE?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
@@ -20,7 +26,7 @@
     {
       "title": "【10:57 即時新聞】第一銅(2009)股價上漲4.36%、報價40.65，受惠國際銅價高檔與營收成長題材＋短線均線上方高檔整理、主力近5日轉為偏空調節",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQXy1kbFkzSWphbm1mV21PZXpzVXp0OFptOV9OcW5sdk5IOUozdzdrUE44VDdkT0loRHZCMExOZ3pwZUJZVjlaS0p4Z2JCYjIyM1FOUktKWVlrbmNRbWtuRTZDdkxocFE0OFZxckJuWS1NTXZ4bXdhZWdCVEJjQlp3aEJWQlphQzc1Tm5tNUFn?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
@@ -38,7 +44,7 @@
     {
       "title": "第一銅今年營運向上，全年看雙位數成長",
       "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPdnZxenZRVFItSVlmYjY5QzU1N09ySHVrbEJwN3BGVnFKWjh0WEhiZkRwcFlZY2V1R3I4WGxkakliclN5Z21KekhaZzhTdzRuT0lyc0tOMGQzbEtHRjJUX09JNDZRQWpPb0J5Q1htaFd0Q3JMNXNlMDBGdURaS0FveElxeEhXckxLNDNWRHNjOEZnaGh2aXowdTZSbkhXSHRJQkhYaXRQRE1lX29ucFEwMzkwYldVZVBaaXF2eUd6WmlPcV9VYmtGZ0dyOHkta0dnMVJaMDVkYkdOM2VCdEpfUmg4NVZUMml6X1RzT29WZEFJTXlHMU8wT0lyRUxHbHdnNmcwWDBldV9HeUNvMnJacDJKOVpxaUVseWk3azJR?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-08-30T07:00:00+00:00"
     }
   ]

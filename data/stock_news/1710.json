@@ -1,50 +1,56 @@
 {
-  "updated_at": "2026-09-24T15:34:43.686761+08:00",
+  "updated_at": "2026-09-25T17:35:37.182061+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1710",
   "name": "東聯",
-  "count": 11,
+  "count": 12,
   "news": [
+    {
+      "title": "3324 雙鴻 - 9/24收盤 雙鴻上漲收在1710塊 amax-ky漲停收在... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5reWh6MmVqMTZQc1dMbnNIbjJuWVYxXzhuWGRaTFNrdnM5RHd0VUxXZGhTSmFfN25sTjNmQVpEdER1VDN2LWFuenRsT2R6ZVBtUGc2QVJya3M?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T06:46:26+00:00"
+    },
     {
       "title": "目標價最高到1710元！「這PCB黑馬」手握低軌衛星題材盤中卻墜落近半根 台燿、耀登逆勢揚",
       "url": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxNby1lYUNFdDhDQXZGWk5BSVMwTGhqX3VxaTNqbXltdXc4VUhVU0JIQjVtc3lSdzR3QW82T3JmMS13TEtDTklGRjh3d0ZGMEZOLXBfa0ZpblVaVWl5bk00djctRUtZaHZBNi1hRGlSSTVIZXJCYlU5TUw5ZFNsaXBTdEctQXdNZDNENHc3NnNzU25UeGVzdFVGX0loM0txbjFiSi1sczN4c05aeFNON3FWQTlUOEUxcHZNN2hJa005SzVBcUhZaDEwM1BoekxaQjcyLXdfU1lVaGZZZmNFVl9ITXZxdDhJdk94c0U2QzBOZDlHVU9ZUUhkNWp0c3VIUHNha25nYmQxWWJ5X2s2TURfVWZJb3B3T3NBTnptMTM2aHlhbUQxMDI4ZEgxbUx1SElyMldoYXVRR254ajd0TzJBNk9MR3dQWHI5M0dycGJndUJHN19QZ2hkSi1ydTAtcHFJN1lZZzFfS182YUVQV2x0RjZVZlE2LVJNWTMzR3FUdEdSWjJHOUZXLTVGVmwxcTRzQTlDSTYxRndzbTNrc2tlaFJ1c0FEYXZnRVBTQWRJQk1mTDJpbGQ0Q1o4dDZnQWk5TV9EanhJNUhBangyODQ3S2gxX3JKZVJ1OXhJU0p5NzJvZTc5dW9ZMFVxYURMMzFnWk5RcWNB?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-24T03:05:31+00:00"
     },
     {
       "title": "東聯強攻半導體材料| 經濟日報",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxV1k1c0FTak1PYllTNjlTcTlRb0Y1bG12ZEJEZGh5MjNCaTNFZTZBV1Y2enhacnpZZjJ1QUM5c3RxMGloR3FjdlpYeWNSNDkyTVR6S1dR?oc=5",
-      "source": "today.line.me",
-      "published_at": "2026-09-22T17:23:49+00:00"
+      "source": "LINE TODAY",
+      "published_at": "2026-09-23T03:23:43+00:00"
     },
     {
       "title": "EG 市況轉佳 南亞、東聯營運添助力",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PSEZENll3NktVM0hXaWR1dnBreTA1TVVuU2RHMTlfSl9QRnVfTHlQVm5UdVJPXzlYTWE5NXVJd212bU5MeWhva3BVTU5kMmR5MlQyVkVPVDFwd9IBX0FVX3lxTE5zLUc5MkRWMExlN3BPbmVHZFFiZHVsbUhNaHE1Y3NWcndqb2dNd1gwNTFWMWlNRUdIR3dKZW92eHdrVUcxMUk0Z05FRFp4ZUdESlJ1SW9vbC1lVlFuUi1N?oc=5",
-      "source": "money.udn.com",
+      "source": "經濟日報",
       "published_at": "2026-09-22T15:00:00+00:00"
     },
     {
       "title": "東聯法說會／EG 供應吃緊支撐價格 調高兩岸開動率、樂觀看第3季獲利",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KOXRtc2FBd1J4X2t4M0FjZ3VkT0NwUUo4T2xYdVdvbFlPSlFGNlU5cGVTVFlaQ3pvaW01bktJTjh1WUVRNHZmSFVlbGplbG9iOVlxWnhnOUxKQdIBX0FVX3lxTFBxT3lsQWRUaENwVEIxbmpzUlBiMkxIck0zWWFTSlJWa1cxcTR1cWgxWlV4WC1vUTlidGx4Snh4dXpIUWdoRWl2MzI4YWRRVVZIM0YxWHVObUt0eHY0QVg4?oc=5",
-      "source": "money.udn.com",
+      "source": "經濟日報",
       "published_at": "2026-09-22T10:44:05+00:00"
     },
     {
       "title": "今日最夯股／東聯吸引買盤進場卡位 後市展望受關注 | 市場焦點 | 證券",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhMkE5ZEFPSXJJTzhaaGNRSzFEaWROeGppeFA0Q3d1M3A4aTJKbzVjVF9rSFJPZ3JJRUZlaWF2Yk1fNTBrejNvN19MTmtOcGVJRUEwS2dLWEZydw?oc=5",
-      "source": "money.udn.com",
+      "source": "經濟日報",
       "published_at": "2026-09-21T12:31:37+00:00"
     },
     {
-      "title": "【11:33 即時新聞】東聯(1710)盤中上漲逾5% 聚焦特化與AI材料轉型-CMoney 研究員",
+      "title": "【11:33 即時新聞】東聯(1710)盤中上漲逾5% 聚焦特化與AI材料轉型",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQjZ6YUhpY2tFMmhyLXhCZFVCb0ZlYjhfZGdqbS1CUXFuLV9idlhvXzR2dE8xNHVjVzUyNENaTHNEM1djUGNMVy1hSVFQTHhJeS1fS1llMWFEbWxqa0JZZlpjNTlZTGphRHJMZTBVVUgwTDA3SjgwZjU1a3RFYl9yMGh5UFhuWWxaM1FaZmtB?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-17T03:33:39+00:00"
     },
     {
       "title": "東聯單月營收成長能持續嗎？",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1NQnMzOUdTa2lFczhpcWotQ0c4Yjg4MnI0YTdnWEtyVWxsUDFDWjROMVY4WUZteG5vYlkwSDlabTY5UDVTOUpGakJoSzY2bTdpUUppQ2ltMUNBeG14aTBGcnVQOXNBcW12cF9IMnFPdTVkZGdCLW0wdkw5MA?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-16T18:19:40+00:00"
     },
     {
@@ -56,19 +62,19 @@
     {
       "title": "1710 東聯- 三角收斂日報9/08｜今天沒突破，但這5 檔很擠了🎬 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XTFRZaDNQaWltU3BBbW1udVRueEs5VnRlNGFBcUhaVnQ3aFVCNGFCTHJnVWZWNGJocmU4S09EWGxuRmRFYVllSTVtQnl0S1BmUGU0UlU3OUQ?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
       "title": "東聯加大高值化產品佈局，擴充特化/氣體產量",
       "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNZTlzSTNHOFE5bUpGMlpONEN4Z3ZGZ00zZ2x2NUIzRnNPaGFWRzhVdlhVX2Y3RVlvcFdMUEJYUGRRSjVoTU5DUUJZNzZSc2hWNUdvajBVaDBoN1l4U2Z6V1BGMEhsM3RCdXVOZjJreTRjYkxLbFVvQlVRZHFFMVdBeHJPckV5aDhBelctcXRqd2VHUV9ET05IaDI3ZkU2cjExRjdCTUVzMmRZcUNzNEtyR1BxWlVXYTJfVkZkZ0tzRjNCSlNFNDFRLUEyVHVmV3NOUXhIVzNTUlE2LVMtRzkxM203LUJ2R3pvUFVDendxOWVhX3RNUU1IazA5LXd1RzlxSHhwbWozaXk2UldpTGs5c1hOWkdxYVZUbk1Vb0xadzdQeGJlaWF4Mi05VVNIUmlsXzI4MHV1NW51dkFNNkZfNlln?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-08-30T07:00:00+00:00"
     },
     {
       "title": "分析员的话 | 乐天交易股票研究副总裁唐柏麟：1710～1740点波动 - 财经 - 焦点财经",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtdHQ0VWJqV2g2dUhlOFI3VnVVQ0dPckxpR0NuMEpqdkRIRVhGUXhHNUFEZ3JDV2FjbGQyZEM0cWVDTk9XamxMT2c2N2hyUXBTRThsNDhNX2hLTUp4WnJoM1NXUTk0MXVPSDg1ZXcwRjRfTlNfTzFtV1dEZUg?oc=5",
-      "source": "Sin Chew Daily",
+      "source": "sinchew.com.my",
       "published_at": "2026-08-29T07:00:00+00:00"
     }
   ]

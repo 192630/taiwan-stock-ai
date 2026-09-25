@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-24T15:34:54.574586+08:00",
+  "updated_at": "2026-09-25T17:35:47.677749+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1752",
   "name": "南光",
-  "count": 1,
+  "count": 2,
   "news": [
+    {
+      "title": "【09/14 申報轉讓】南光(1752)大股東正兆投資股份有限公司於14日申報轉讓南光股票20,014.22張-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV19lU1lCTG0wZ3Y5ODZoclNnUWdNOUpBWDJOYVlrSVVOdExQM1k3Rm8xMDVqamtuWGZlSnYtQ3VnUDQzS1B0RHlSN2pWMlN1c2RYNDVMV2lKY2FyWWtJdHlhWXh2amlwVWhZeG1UUDlYRmNWeG1aRFRmbkk2TkxXak5KajY1V3EzcWc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-14T07:00:00+00:00"
+    },
     {
       "title": "【09/01 申報轉讓】南光(1752)董事陳立賢於01日申報轉讓南光股票共500張",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53cUtwM25uUm5HX0U5cF94eExNTnJ5eXNtZHdtdFlfNHRDMmNoaEJmYkgtdUxvWVVNMFdfRGxXTWx4YmtfaGxYVTlsaXA3SnFJMEJjYVJJRVFIc1ZhWGxkVjRGendPVWM?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-01T13:10:03+00:00"
     }
   ]

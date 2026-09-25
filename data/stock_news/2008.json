@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-24T15:35:11.835289+08:00",
+  "updated_at": "2026-09-25T17:36:04.812971+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2008",
   "name": "高興昌",
   "count": 7,
   "news": [
     {
+      "title": "【即時新聞】最新！Saratoga Investment(SAR)宣布定價發行2008萬美元無擔保票據，股價下挫逾1%",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNd0RIcm5ydkduMDFyZkFOQmozR1QwdENCNTRDcU02Z05IbG1zOHBab3JUMVdTdGFyU19GaEF6WFFHU3ZfRzd2UmJxWVkxUnNUSG16MGNsSEd6bGlxTnp5RnBIT3hUbFpMQVdKelNrZ1hGMTNVdmdQbFhHb05mTTRoRV8zS2NvSW1WMS1Mcko3Zmc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-24T03:34:40+00:00"
+    },
+    {
       "title": "#DJI 道瓊指數- 【即時新聞】道富銀行(STT)報告曝光！機構資金狂湧科技股，股債配置差距創2008年來新高- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9WbTRqekU2cTF4LVVwc3pHYmFScVUxMWF4ZmpReExQdDJhZ19zWTRjbFhaVjlQWXZJZ0FfZE5mZS1yZXhCWElyTVhBUFFLbUluMG82dkJfUjc?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-23T16:01:56+00:00"
     },
     {
@@ -24,16 +30,10 @@
       "published_at": "2026-09-18T03:47:48+00:00"
     },
     {
-      "title": "高興昌攜盈舜營造 拿下高捷R17世運站A6都更案",
-      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPRGdUQk8yRm5qSVo4VF9NWjlIbHBvYW1ackdwbmpNQkZMOXRKUi1YN0NmZHdaR25KX1NsZEFGU0QtWjFNZks5NlJ6THd3MlJTd2ZseXFWZk9feXR4X01aaXdYVkd5MmVyME11T0dPVFFxME1GMXFhLTVFU3JLR2tvUmoxbEVsYnhSQjRDSDVRVVFKRXVJek9lNVh4UXhvUFR0QTVNVzM4MGRmMFQyeXBLZmhhWkh0aC1KcEhjM2piWXV6TzJ1T0ZlaGJBVXB3alJZZnpvY3FIV3ptNXJVTGZtS1h1eXlkX05MV2c5Nmx2aFRkUEhfbHR3YVNlQ1U5TW5DVGgtX1hNZlJ0M2dXVEVsWk5UVTZveWcxanU2aHhwSXlURnZiYTVfT1hZRHdackZWeUFSVXBqcXF6dm8?oc=5",
-      "source": "tw.stock.yahoo.com",
-      "published_at": "2026-09-16T09:27:51+00:00"
-    },
-    {
       "title": "道瓊創2008年來最糟9月開局 華爾街歷史再次重演",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1hbU5MSUxNcjMzMVdkUWlrUWdWSFk5aVcycTZOZGNjSThsaXdXUWNDVl9TT0EzelZtTHRzenBRN0FRNThNaWFFMmxnamFsLUU?oc=5",
       "source": "news.cnyes.com",
-      "published_at": "2026-09-15T23:01:48+00:00"
+      "published_at": "2026-09-16T07:00:00+00:00"
     },
     {
       "title": "美銀稱上週美股錄得2008年以來第六大資金流入，機構與對沖基金主導買盤",
@@ -44,7 +44,7 @@
     {
       "title": "【2026/08月營收公告】高興昌(2008) 八月營收月減年增，全年營運續看向上-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN21UeDFZR0pobFFyVHA2YUE3RFhBLVBoSU1UdkVENWkzM1YwM2o0UVVnM1FSWXhUaHhBOHkyUVEtQzN2bU9lbmRvQUh6LXAzQnhfYXQzWGowY01qZmh4ZWhvTnFuVDJlOC04N3FrX3BNb253QmpXWU5QOGVWNGNrQWJicVZ4MU52X0E?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
     }
   ]

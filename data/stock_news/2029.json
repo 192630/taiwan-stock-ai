@@ -1,14 +1,32 @@
 {
-  "updated_at": "2026-09-24T16:35:53.728445+08:00",
+  "updated_at": "2026-09-25T17:36:13.237931+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2029",
   "name": "盛餘",
   "count": 12,
   "news": [
     {
+      "title": "【即時新聞】Nanobiotix(NBTX)最新半年報出爐！營收大減逾七成，現金流可撐至2029年",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5IMHRfZEJTclZoaHlkVnpzam9XVk1oaHlYNkw3SkNScnRkTWZpbXZLanBld3RwcWtiVjYxckpXQ3Z5UzdtMnlXNVhwQ2JUVmFiTmUxX0N0QV8?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T21:45:54+00:00"
+    },
+    {
+      "title": "Sunac China集團將於2029年6月開始償還本金和利息",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZlZkZktPU2xoTk9HWGd5c2ZvTW5ncC1Od21zeEVpZHpVRlZmV2VWX3NKbVhFR1ZyQW5KLXkzZnZpaXVPdGQ2bm0td2RTdHgwamJwMEVPSVFzcHh6Vm9lMS05amRYdU85TzFUWTZjZy04X3pqMnZUdFVxVzNmNXpycVh0cHBqcHpPWk5wMWJiRW5MbmJpUUJoZTM0ejh6dWZUYkpiYWJkNTlvNm9nYVVUTmZMYw?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-24T15:22:24+00:00"
+    },
+    {
+      "title": "【21:33 即時新聞】Fastly(FSLY)股價重挫10.12%：投資人對2029財測與成長區間保持觀望",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNLXREd081TVNQelNJRzRvQTVfbC10RjhKbkZJTGVHcGJMOGFCTmRDNk8yTXBWZGNuajNOejJmSnJWT1NpR05Qemp0ZFZCYkYwV1R1eVAwaHVmZTVQOFVDQ1BuSDhmM0RYNE94b29SLVlwbldONVgtbjZfMGRHclMxSGVQZWgyV2RfaEctelljRHBCVVluaGd5UndPU0JwejY2eEFLb3Y0T2dvX0FaczJ2X1ZPRjVja25sUTVxTTdOc1lrOXhHRFB4dF9zS2ZMRm8?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-24T13:33:32+00:00"
+    },
+    {
       "title": "微軟等美國五大巨頭在截至2029年的四年間資本支出總額預計將達4.2萬億美元",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MbzBtR0ZoMUNPcmhzdWM1NWhHbTNJSkRkS25ITHFLenNLRnpQT1hLVDdZY1NpTFhIeHJkQk1jNHRYOVpmOEZReUlpYXAtYlp5MnQtV3h3eGQwTkd1cl9ydzk3aFRPLXExV3c?oc=5",
-      "source": "tw.tradingview.com",
+      "source": "TradingView",
       "published_at": "2026-09-24T08:03:11+00:00"
     },
     {
@@ -19,7 +37,7 @@
     },
     {
       "title": "$230 今天？$800 到2029年？",
-      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxOMTZqVER1R3RfUjNrSGw5U2NEQTZFQ0ptcUVsaHFEVzVFVUpzb0pvTGJWRG5wd05fdEZzRGRVaUdFdEI4QkZKcDdSV2xaRXFOVUJnR1M5OHBzWS05YW56YWNSaktKVXhvSzYxX2tWNmJQMlB4Wmo1TzNyaERtZDRuUlJEYXJiNUhkclJsMzEwV3ZxN1RreHlSeWlWUkFlMVhjU3pPeWstRUswYkxrSXAwSjdZSGt0NEF2SUE1S1MwbnpjZFVwNEwyZEVEZ0p4T29OVVFrU3VFdW1Ea0R0QzgxVGgtd0JEVXRIRXhQNW9JVWl4bFBtQjNNczdaank3bXN4S3A0bUI4Z2ZVamh1cXQ5NE5GR0I5T3BFTlZlczlfSDJYSGVaQ1ZDZUxjNER0aUlKWmtFX1dCcnd0dkhxRnNaTC1tMURmejRWazQ3b0dZNU9nNUd3bHhOdjU5XzZlNk54YTk1Z0NuX0cxTU1nRFBERl9LbVdmMzAtTmMxWUNKdXdNZHNn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ2IxQU5ReEp0QVI4SUU0VXFCRGt2d0NKTDJhSGhrRDJJVzRqOXo1aEdtSmozamptYURVSW1DQ1oyakU3VHVuX3NrcFRKRFg2ekRuVW1MQTdmVkdmT2dsUHVqM2xMc2pWbEdpZWdFSWlLamRtRGdRSmIwdzJESUZ1QmJzYkR5ZlE?oc=5",
       "source": "Moomoo",
       "published_at": "2026-09-23T11:42:38+00:00"
     },
@@ -32,13 +50,13 @@
     {
       "title": "【美股巨頭】蘋果2029年要自建AI伺服器，輝達反而有得賺？",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZ0hyMlZGODY0dGVPaHdHd0xDNG9NMlNaOVBZRV9mSzFNaERLMTZHTFNtbUEzNTVLNkJEZXBHVVpwMS00NUlFejFiUHNQcE8xTjIzMnM1OWUxR0tmMnFXMVphTWkyeDhGWFZVai0zSEliazNnQ1VGc3RIQXdrQTk1VHRFcjV1NkF6aWlBMHV4aE9tRlM3a3h6V0ttM01aY2k2WlJUSTdHdXZnYmNrWk5HZEhkSUp5RnJMaHREMW9OZlc0M2EzbG5HNjVjRnNxNzQ?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-23T10:47:41+00:00"
     },
     {
       "title": "【即時新聞】On Holding(ONON)宣布10億美元股票回購計畫，目標2029年營收衝破56億瑞郎！",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUk9uR1g2dEdTWWhrWWJKT0tia1k2cWIydlprOFQ3bVlYNkd2ZExxUExfNWI1cE8ybEVYNUpIVF9sSEdzU3g4bzl2ekdnRE5lZ3pjRjFrR280a3FaTFE1RG5sRy1NdU8wRmtfd0w2c0d2LWdIQkhYaXhSSHVIRkpNeVBBWkZ6VGtLSXVHRzM2M18?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-22T14:45:59+00:00"
     },
     {
@@ -58,24 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5aN05SVGtSa3J3V20tRy1vd0pfTzdfUUtXbFlYOTJhOUZkcGVuUk9rVUQ0cWRnSkF6MjN0UGtSYlBsUk5zZzh6eWxUcGFxdkwxc2ctZjVZWTM?oc=5",
       "source": "自由時報",
       "published_at": "2026-09-22T09:05:34+00:00"
-    },
-    {
-      "title": "On Holding 計畫到2029年銷售達 CHF 56 億，並啟動10億美元回購計劃！",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcHFHLS1MTFhjaVN3RXVvTWtxcnNvQ1J2VmN6cW1fSmttNWFwcEZtWWRWblk3Z2QzeUdwNkVEOXEwcVBXdDAzSmlwYTh3N0l6QWVOLWotRFhmLWI2eE5kMmdLZGlKVmVoZW9fYkNmTUVpdEpSb1NXWlkyQzhKU29KZURIUHF6aGRnN3cwUXJkREN0TTZhMlpVRE5iQ0FUQm9JQjRva1BCMnBXakNvTU05amMxTS1rTUk0X3lKRTBVdnh4WVhxNy1sZ2FPVUVCZjA?oc=5",
-      "source": "cmnews.com.tw",
-      "published_at": "2026-09-22T07:17:09+00:00"
-    },
-    {
-      "title": "On Holding批准最高10億美元股票回購計劃，有效期至2029年",
-      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPZHVkZE1MR2FXcndsZWJKTndlQjlRUWoyeGdfUHVBaGtBTkxKT1Y3U2dhTlotdEhkd1ZKS0RlY3kxOUdUdkVxTGYxb0ltVV9KRlRfcktjV0hyOElhcERmQnRXck9xUC1yLXg1SDJpeEFLcHlMaEZ5NHdkMG9iR2VxTUN0TmpKdC1CNFdHcUR2QjlYY1RfREdpbkt3a1dPWm0xMlhEUVlPVVYzeDRPUHJuMnB5Q0VsYml4S1JyMU9sOFhoZlFsZ3hQTXN0Q3VIX0lpa3NaUWp0OVhQam15RklEM1pQMnlBbFFndVRTYmM2RHJEUmhGMU9kZ1EtcjlnZHNLSjR3Q19QRklyUnNzV0RiMzhob1djQUx1cEFYelJxNlVfRzkzamR6WTFkZThodVF6REU4LVEwUkUwZ25kRVdNWFBlVFhIWEFh?oc=5",
-      "source": "Yahoo 財經",
-      "published_at": "2026-09-22T07:16:24+00:00"
-    },
-    {
-      "title": "瑞士運動品牌On祭出10億美元庫藏股買回 公布2029長期財務目標",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZZkF2ZldfamYza0UzYVJMc1BXdDczT2N2MU9ZNloxa0ZPTnBVdW44M0N3M3BDYWpZWmU5ZDdRZ2hicUlERlA0Yks2LXpvRFEyNi1MRGNoejVPdUxMdEgzMHAtTUYydw?oc=5",
-      "source": "民視財經網",
-      "published_at": "2026-09-22T04:46:12+00:00"
     }
   ]
 }

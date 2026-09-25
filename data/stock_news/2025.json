@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-24T16:35:51.985956+08:00",
+  "updated_at": "2026-09-25T17:36:11.294321+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2025",
   "name": "千興",
   "count": 12,
   "news": [
+    {
+      "title": "世紀*(5314)2025股利發放日、除權息日與歷年配息金額 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oQWlfaHNHOHpsbkU2cmFPQVNxUXc3d095X1RmYU5venFmRXJoZnFqbUdiVXEtUkNDdXg1emhRSEVNOGFTZFZXMmNITGFTMFB6OHpnODFzT2RCcHROZlE?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T07:00:00+00:00"
+    },
     {
       "title": "$好市多 (COST.US)$ 自2025年12月起，日線圖上開始上漲。這就叫騙局。話雖如此，它也可能大幅反彈，但投資時需謹慎。",
       "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxOMHVYcDZxY2hEckNkWnVYZWRscC1ULWR6VU9lbnA2R2Fhc1l1YVdvMEJjc09uTk12bk9LUUhJRVJPczhwVkNFc3A4alpIWmdzbnphdkhrZUtrYnB0X1M2RV8zOUlNeUtYYi10U0t0aGYxTUFwSUtVeVFyZVBydUVHbDVYX3gwMG4zVkxDWVJFZWtwcDREaElCYjhkZkxBeVJVMW04ZnI1dmh5T2JhWnJMTVVyVm9lSG5lb0dXQ3BuUDVVTGhvak51RkZKZFRzSWVBbnU5eVg0T0dmVGhDOTRnT0lFU3YzcjcxaW5Xb3Z0ZkJCQ1k5bnpEYkdSbG1McHRMUFE1NExPT1NXYWZiM09TQlZRbG53M1ZremlCSU5acTloNTFMZC1nTFFHeTI1dzZJMlprZTNvUGZLWVBvdzN2WEVsVVNqbTB5aURObXdDTmpvSW5XZi13c2dpOENoLW5yaGhCNGFPQm5LT205SjZwQk9jbFRSdTNJNjVWRjhRekh5UF9nU0xJb1d1VVA?oc=5",
@@ -12,22 +18,10 @@
       "published_at": "2026-09-21T13:55:52+00:00"
     },
     {
-      "title": "自2025年10月22日起",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ0ZMTHJRckc1UHdpakk2bUZCb3hTMk8xajg1VDFqSnVXM2s1bjd5MXBYYjNtNzk3RF9IZWJyZS1taUFBRlpFUGJycDZjZ3RXVkZ1amg3cG5WZWxrMi1MMFZOOXBnbG4yNHd5TTR5bC0wSGExSEwtLWJleEJ4VF81cg?oc=5",
-      "source": "Moomoo",
-      "published_at": "2026-09-21T08:07:05+00:00"
-    },
-    {
       "title": "捷昌驅動：2025年限制性股票激勵計劃預留授予激勵對象名單（授予日）",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdUh5MmY4ZGQxaWQwVlBnVHIzQl9tQ1JKeGlYYXhNYU0zSThkRGtBMG95S1ptM1BEZHEyU0hfQTN5RVNXX0ctZEVOMDZ4RlI3eHRmdkNoakJYODcwMktZMzMzaHUwUVVvTFdja2NzRkpRRzh1WkZONS1IV3JWaFNsNmdVNUZ3UFhudW5GUWVadFdmVHBMQ2RpNkxLZzZkVWtuckZpX0J6Wm54aVFOT0E?oc=5",
       "source": "富途牛牛",
       "published_at": "2026-09-20T12:16:08+00:00"
-    },
-    {
-      "title": "亞通(6179)2025股利發放日、除權息日與歷年配息金額 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxZEJSQlk2QkpxNlBxYjg4OVhTZ3k1VTFRUG81NU1JR2oxMHhMaEotVkpMLXNxRnFRSjZ6UnlYWW1iS1BXelRoNzlfOHNyenB4MnV1RXliY0tvMlBxTGc?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-20T07:00:00+00:00"
     },
     {
       "title": "宜鼎(5289)2025股利發放日、除權息日與歷年配息金額 - 股市爆料同學會",
@@ -52,6 +46,12 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNkpaUC1ER0MzZllpSmRLU0hnUkRqcGFzVmhxT2I1NXBucUpocV9iVjNYUmFFTjlTWlBkc3EzbVpnQkY1dzhHRXNwMEVIRC1nTzN6Ykk0OTdtVkVuSnZLU3BQWnVDTHZBMGJGeDRmU2UyMmJjaHNQMENyMTJ2Yk8wVXc2cGg4bzBsU1dSaXY0NjM5d3RJWHYwMFQxaFBOT2VtaHE4?oc=5",
       "source": "Moomoo",
       "published_at": "2026-09-17T18:15:37+00:00"
+    },
+    {
+      "title": "良維(6290)2025股利發放日、除權息日與歷年配息金額 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMYjExX0Jwdmw0cnV2US0yb3BFNFN6Vm84NjBrcURiTjJjU1IxY0VNMVBFYV8zQ0hPUEdKaHp4SjNpdWZ2NFc4ZHFiczhsYVhDcVktTW5kdVY1LVhtWHc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-17T07:00:00+00:00"
     },
     {
       "title": "啟碁(6285)2025股利發放日、除權息日與歷年配息金額 - 股市爆料同學會",

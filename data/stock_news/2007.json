@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-24T15:35:11.289978+08:00",
+  "updated_at": "2026-09-25T17:36:04.215519+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2007",
   "name": "燁興",
   "count": 12,
   "news": [
+    {
+      "title": "加息預期升溫，全球政府債券平均收益率逼近 4%，創 2007 年以來新高",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHOGZHWXhhZkk3a0JXV2ZDUEJTRkpMREgtRUl5YzZPVmJDaVhjaFZEaXVNMnBJQW9FcVVaenVpU0J2NVFPaTJCeTR6cEl0bldhNDFxR3VRRjdEajJ0?oc=5",
+      "source": "techflowpost.com",
+      "published_at": "2026-09-24T13:57:07+00:00"
+    },
     {
       "title": "全球政府債券跌勢加劇 平均收益率指標2007年以來首次逼近4%",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1makViYUExdVo2TDRld3h0V0RDNlZqMUNyTXdxT2xpMTU2WjZSeUdkbzF3SjlqOWZySTNVa0J3MHplU1A1NGphWXRoeUxhWDV2VlAyWTVMdnBqMHNf?oc=5",
@@ -12,9 +18,9 @@
       "published_at": "2026-09-24T02:35:05+00:00"
     },
     {
-      "title": "今日市場回顧：10年期美債殖利率創2007年以來新高，美股主要指數下跌，SpaceX跌逾4%",
+      "title": "TradingKey 每日市場簡報：10年期美債殖利率創2007年以來新高，美股主要指數下跌，SpaceX跌逾4%",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRW5wS0hjUVdHejZRWWRmZl90WmRrZS10N09mX3ZubDIyWEotMF9xaW13RHhQS1AtWWl4M1VEc0dpbXN2ci1ETFNfemUxckc4U2w2dmVmOW4xN2hZckZxb0VnSmthbDBGNkRWQkw1T0ZyZ2NXVkw5QWRFaUpHTVZfRE9xYnBGZFhIUDY1Q3hDSTZKY1hKOGxVZFVvSWtsV28wUlp3VU5xSTBpRjQybmF2RzZjTmRzTG42X1Q3U1k5RU9FbHZpaWV3Z0VGdUJ5ekhvRXhRc1h2UUFmRzNZeXBtSDdpaXNldw?oc=5",
-      "source": "TradingKey",
+      "source": "tradingkey.com",
       "published_at": "2026-09-24T00:56:29+00:00"
     },
     {
@@ -26,25 +32,25 @@
     {
       "title": "美國10年期國債收益率突破5.1%，創下自2007年以來新高！",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPblVuT0xNVXZMUU45YjBHNlp1VzNlS3VPNGliZlVpN1IzSHpaTmVCVVd6Y0VJSFphVzFmRmMyT3NoTkgydmRLcE1OWWxQTGdZTy00eDdHb05fMy16V2N0V3RKZnB0UEIyMjA4Sk1Xd3R1V29qM1dJTDNLbkVVVWxMVjl4VzdLMDR3TXdYY1RfdUNJM0FJZ2U1RDJSd2Z4N29fWEVaVjZGX1dQQmprZlVBU211UjlMTVcwZTV0U3BoVzdaRm9VUjhXX1FBdEd5Z00?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-23T17:47:36+00:00"
-    },
-    {
-      "title": "美國10年期公債殖利率升至5.093%，創2007年7月以來最高",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObmZOQkx5NkZSV1I4WmMzX0dSQTRra1JEWXNMUUFFRXk2cHNpdnV3Zk1FQmZZWlNMcEV1UXpXa3diN082d2ZUX1hPaDg0eVhWQWRHVmtWQTV0dDhZUURGVkF5Ul9uYVI2QkhXODFQZGdFMEFuMXBqcUpyNFZyYlZ3ZlEybnl4TU5vZ3BCcW1hWDNVcFVjMzRjRGVubVVhc1ZsYTZ2SUdReDVoVXRBUktaX3pKREtnbEdnSkFsV3VIQjA2NW93cjY1bU5uQk02eVE?oc=5",
-      "source": "TradingKey",
-      "published_at": "2026-09-23T16:35:00+00:00"
     },
     {
       "title": "【即時新聞】機構持股創2007年以來新高！AI熱潮推升標普500指數(GSPC)，這波美股還能追嗎",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNalpWVkJnSm1SRHZxQ0NPbGpBS3BtbndRVGlISGpBNWZXbGduY0ppSjh4S2lrQm1kMHl1bkhEVVJBY3hINnhXMTZ1a19hb2tlejVuOG13U2RFcm5LVHBWVWlyN1pIeDdPa2sxRVQ0NnhEWnJRdGJrSU5CNk5Bakw5bzcxSFVKVDJpN1BXMUlidWJ3bHhTd1NlQmNDcnpVWmRuQXFBVFVTbndOakdxUEFXZWVYQjdMaV9EeUxzazVVOTRpb05nRGVlcC1qRklGSW1ObFE?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-23T10:46:46+00:00"
+    },
+    {
+      "title": "美債一夜狂飆！10年期殖利率創2007年來新高 4大原因一次看",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84akljWmJIUWdHa3dNNERLU3l5b0ZzY0Z1MXE1SGR6eEZIeVM0OGhvVFQyNU1GYU1RNExQcEZaY1FGWFdoeVdtU1N4RVl2am9RTjJkVG15c3k?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-23T10:31:00+00:00"
     },
     {
       "title": "Fed利率決策公佈前美10年期債殖利率衝上2007年以來最高- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vQ0tUdnhRZDFtVGxiQk9KT3A3VkotdkNCYm9YeG9OMmlaTXhuTFNzS1lVajZOLVVvQlczWG11ZElaZ1lHQ2dWVHJvZmM5c3hUbkhDbmlkNEk?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-16T01:40:21+00:00"
     },
     {
@@ -54,28 +60,22 @@
       "published_at": "2026-09-15T22:51:24+00:00"
     },
     {
-      "title": "10年期美債息創2007年以來最高 5厘債息料成新常態 風險資產勢受壓",
-      "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxNWjR6TWlSTjNzWW9udU0walBtMXFVNnZsMEhmNzlEbm5SNm9Wa2lxaXhzOUE2UnZ5LVp3azdMVGFERWc1bFJOV3hfM2RmbGY5c2RJWnY2dEZIeG5pNEJMMXFpYWhXZjJVbWtjOEM2T1JmSm5DUXRFYnRHY2NqbS1WTFd4c19DaWF0RzFrWDBRX21tQzhvX25nU0kyaW1NczVZZ2t2V2YtZmp2OUdNWjhLTmRXSjB6QldfYUlHeHFuMWVyU0FoS0pONmczXzFYV0NhaldNdXlmVzJoN2ZKcy1QZy1TNjNtUDJzbjJLNFpPR2ZQZGxFcm9BS2ZGMlItWDhIb2JxVnZhWnhxTUJfZWJ0YnNuaGluTHBtclZEdDlTay1MNE9Ub0lraHp2MEhZQkJURl9wNUhOd3RqR0h3aWRFZnhOR2N0SWhQM00yUXp5WVQ2QndNdWVKRnhWWXlPTDJuWW5vbDlldV9TTEUxRUx0Vm0ybFRJQWFabFBlRWZzelFKTUhMRV81UUoxaWVmYmkxQ3d6RlNleVZIckJVUE1iddIBigFBVV95cUxNNGdFenc2M29jdmpvb3BEYURSNXlEcDA4Z1poSFJVYl9pMURhUHBPSXNFemliN3BrdVBhY1RmWk5GeWQzcjZmcmp4SHNlRU90N2ZidXdDdG5uTTZueWhrdF9XTVk0Y0d2UlpObWRBNmJsUS1fWlhmYUZqcjNpZUlsMzN4S3BtaWZiX0E?oc=5",
-      "source": "singtao.ca",
-      "published_at": "2026-09-15T17:33:39+00:00"
-    },
-    {
-      "title": "殖利率升至2007年高點 投資人稱債市「失序」波動是當前最大風險",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tcVo3RjZBa2pWb3YzdVNlTmRjX05FOGJzQzZXcGpiZnBTdDFyRFRBQVNwVENVNjQ5LWJfWkhDb1F3VWlMc1Z6MEN3Z0dMNmZVbmJ4SVlB?oc=5",
-      "source": "Business Insider Taiwan",
-      "published_at": "2026-09-15T14:26:37+00:00"
-    },
-    {
       "title": "陳嘉偉喊台股「必定走崩盤」！鈍刀割肉像2007年 升息灰犀牛逼近",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05ZzJiSXRoWjR1RFhwenZpR29iSkp1cVlMM04xRklYUTZWeFNtSDhzQWxNZmx2eWJkb1JUd0lZQmN4Sm10Tlp6YVZSbk1vRjNpaEHSAVdBVV95cUxOSFRTV2NxYllJM040SXYyekdzdk5PQzNKZXB1X0VyeDNGMjNpdHJ6X3UtbFJvcDlfbEY5WnZWZW00OEw3cTZWQ3hsNGlwUXFmcDI5cmJwRzg?oc=5",
       "source": "UDN",
       "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
-      "title": "ONON On - Dollar inches higher as 10-year Treasury yield climbs to highest since 2007 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqdFU3WFRNWWtCRURhQjZOZ0c5ajNCWXpOekt2SUItaTk3bXo4cUJGV3JKS18xbXZsdU8xY09mdnZ1d21tUk8wZnhhdjBncjhjTEdPUEt1Mm0?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-15T06:42:10+00:00"
+      "title": "殖利率升至2007年高點 投資人稱債市「失序」波動是當前最大風險",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tcVo3RjZBa2pWb3YzdVNlTmRjX05FOGJzQzZXcGpiZnBTdDFyRFRBQVNwVENVNjQ5LWJfWkhDb1F3VWlMc1Z6MEN3Z0dMNmZVbmJ4SVlB?oc=5",
+      "source": "Business Insider Taiwan",
+      "published_at": "2026-09-15T07:00:00+00:00"
+    },
+    {
+      "title": "資金流聚焦｜利率升至2007年高點，CPI數據即將公佈",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY1F1SG03MmlSYkR0a0EtSUhtTVdRV2lCd0pteERzNGtycWFaTHFmaEhkN2xPWGJKUFV6NURnX1BxRHdtdE5saFpwRTF5b2ZpRndQaVRQM2J6bzluS1hfMmk5alNSVmlFTTVNaU1mZVo4TkxkcTNuSHllcG1aVTV5bGw3bXRFWXRVMkNUWW10aTF3RDF2VExKcWlwVFIyYW5FV2tITl9rWQ?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-11T07:00:00+00:00"
     }
   ]
 }

@@ -1,44 +1,38 @@
 {
-  "updated_at": "2026-09-24T15:35:10.657970+08:00",
+  "updated_at": "2026-09-25T17:36:03.541271+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2006",
   "name": "東和鋼鐵",
-  "count": 7,
+  "count": 6,
   "news": [
     {
-      "title": "東和鋼鐵越南廠獲利改善，全年有望轉盈 - 台股 - 新聞",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeWVqc1hBYXhUQTJaSkRGLWRYeU1iM3lmbkdZcnhkYTlGN081by1CTThVRWdEUmdjWnctWEdxRWg2WGVXUEo1M01qYUtBQ0lKRmZ3Nm5CSTZHaXVOUFhhcDNpMjRpOTA1ZlJBT2pTeThSckJldHlEcXFSNmhCMkhJUzR3?oc=5",
-      "source": "MoneyDJ",
-      "published_at": "2026-09-23T02:16:00+00:00"
+      "title": "東和鋼鐵越南廠獲利改善，全年有望轉盈",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOaTBwZ29LWE9NYmZKS0pUZU9MbTR2N0ZoUUZlWGRDOUZLbWE4TXo1OGhFZk15NFEzZHc3YTBRbnVGZXVGN1pyS1VuTHQ1TDJFOG9yTDRuTFdobWxjbFpKNHRoblY3OG1iblB5LThrOGxfVkZkUmJLT282eExEdjFIalFkQjUyMzY0X0NKSThfZ3o0SkFuSTY4bk9BajZIYnB2ODk4N2dlemRFbllPLTZaaVNqQVhQWHRHc2I4aWRSX1BxdjRRSjkxWFdTMEFWWl9BQzFSTmdhUzBZLUpGV0RfNFdEWGJXRUpBRThzNEE2M0FsNVg1M1dZdXFpQ21BNU9pcE95Y0Y3TGhuQ2I3MnVONnVvRXFGUXN4bk5fTGg3R2xEN0Jua2RLUQ?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-23T03:44:16+00:00"
     },
     {
       "title": "【09/17券商評等報告彙整】東和鋼鐵(2006) 今日有2家券商發布績效評等報告皆評等為看多，目標價區間為90～94元。",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLeUhVcml4Z0RBR2tDeFAwWTg5Z1lSd2dqSG5ZY0RscW5QZFBVQTR3dWpSVFQ0SWJ3V1BFQU9hb2U4a3dsdHhOTTZHWC05bHZGc3Z0ZlBocm5QQzFjY0o3QmlHMG5ETFE?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-17T10:50:03+00:00"
-    },
-    {
-      "title": "東和鋼鐵擁科技業建廠需求，鋼構產能滿載",
-      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxORjN2c0QtbGdsZEFFRGNxZ1RFMHZRdGZidFMxRDNPdnE4MEtYbW5xVjUwcFZfc1pYWnhscGhvMnprbWoybWxVM2I1TXlVT2Q1aHNUREp5NFg0S3RneUo5MnVheXJnV1k1V3FQLW1rRWNqNldTRzJzblBRdEptY3pTYVZSN1hxVkhXQkdlclJvZUFqejlyV3VXTDNvdnlkY3lnckw0R1BSMGFsc3gyNGV6ZEFRbWdLRUoyNHpKbVk2ZkZ0U2p0czFXbGxibThqblk1alFtN0dQOHdmZDlkRmJtdV9hOC13ZHdKTWtkM2RxUVIxUmZQbFNQdDRYWko5Qk1TdFhKRUEyM2J0QlI3dTl4RHJ6WWlTZ3Z0SWRfSUU4XzFSdXI3RWEtSUFnX2swdnBxbmhJdw?oc=5",
-      "source": "tw.stock.yahoo.com",
-      "published_at": "2026-09-17T04:38:08+00:00"
     },
     {
       "title": "東和鋼鐵重返美國市場，添成長動能",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8zSTZmQ2pqOE9wVFM4TFhlMFhFTkdVR3MzYXBxaGRHQ29SWXZVZWFVSTNudkxlS0Y4TTZtZkpCSHprTzNSNXFtMUctdWdtWGVZbm1QSm1YWHg?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-17T02:19:24+00:00"
     },
     {
       "title": "日本家計金融資產達2,519兆日圓，增幅創2006年以來新高",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBaUVBNb1JuTWxNYkxJRFdqR01FWnJ0MjZYc0RrWUdteEZvSUJoMTB2MmY0bUxVQVNBeEFndXhrX2dMak9LbWhONGJybVhoMHZBODcyN25waDllay1zc0VSVm02Z2J3d2lGeEQ2WkU5bHdiZVV4c1p3RjZn?oc=5",
-      "source": "finance.biggo.com.tw",
+      "source": "BigGo 財經",
       "published_at": "2026-09-17T01:05:00+00:00"
     },
     {
       "title": "2006 東和鋼鐵- 🚨 主力加碼卡位？昨日主動式ETF 加碼這檔！ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92Z3N0eWdubXdRTEJ5NHRYRGlFZFFhakJjdHljSXZJNGJGUnVIdWNnSlRYMDRZNzFMdnI4QjNRaVdWM0hOdG9fTGd1ZlRCemlNNU5ZUkRfaGY?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-02T07:00:00+00:00"
     },
     {
