@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T00:35:46.568135+08:00",
+  "updated_at": "2026-09-26T01:34:30.754075+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3666",
   "name": "光耀",
-  "count": 5,
+  "count": 7,
   "news": [
+    {
+      "title": "4573 高明鐵- 一輪明月映團圓，一束矽光耀未來！ - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZbTRhcE5PU19obW84U01QS1BxVVNfMEo2U1c1R0Rla0w1T0pkd0d5dzBmX3VuanJoNktTMjVxZ2VJSHlUX3hWbV90V1FNLTUxYUt1ZVE5VE8?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-25T06:02:53+00:00"
+    },
     {
       "title": "會地黃光耀指本地銀行有意維持按揭市場穩定",
       "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOdkxKUHlqaDhMUnVKUlJ0cTVpRXNEZEpRQW01T0l4VC16cHk4MTJLVzF5TC1LQXZsbEdORk1BNURZNXI5Y3c3em0zSVhENkdYcTcwSzBPSWdudHpGakZtdGV2enp5SGg1UTlhcmtLWHlWalppQzJjeTQxN18tTzZFblhRLTRuMktHbG9BMkJFNm1zdlhwZ1dObmdnMHZ0N0R1eTlvUnBlSl9CaTJMdWF1dlI3VkdEajZHZGktU0p4bnpIclFpZFpheExlWkQwdmlLajFmMGRRZ2ZIWlV0em9OMmtnbFZINTl2MjUwZXpjMEtEV3dDTFlFM3A3VjRsOWtsMV9NVEx5QjJfVDY4ZHdKdUFnNEZIQjJqNXV3STdKMEgyTlEzbE52c0dsUXRXRVVnRC1MWW9kc1cxemp5MlRkRWJVc0w3X3hvRGdHN1NR?oc=5",
@@ -30,10 +36,16 @@
       "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
-      "title": "3666 光耀 - 中国城管是不是非法组织？(视频) - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FRUw2c1Vid2lfTzc5djFVUC1sekJHVEYtMDBCeFY4VzZCLUVmVHpZWFhOSzBKVnBHUnFOTjdTeWRxODVYR2hhNUxsR2owVkR4TGhuVnVNdS0?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-26T07:00:00+00:00"
+      "title": "暗夜火光耀客庄！雲林詔安客家文化節9／19登場 體驗獨門澹仔火",
+      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxPWUFZbWxjTC0xUzBEOU1ZeXdnY3V3ZUtEYlhUczVsTHZWcVkzV0ZCMXN3Ty12WkQ5aDJYN0xQZERxY1dtLS1MRnliOEN0N1hPMjk5Qnl6ZzZwb2FXQk1wSThfY2I5bFNxTEo3UXNSTUhEdTRVUWVXQjBSNWM4bFR3d1QwMVJLY2xZeXROZFZuZUU4cmF2VDYxck5ZYzE0TVJNSGNubmNNVDIzcG5uZ2dfeExCY29pcUE3YWZKRzFkS0xaRWFheVRjVVY5S0FYUHluVF81ZHJsbW51TVozMVV6MklRN1VtN1BOcW5HTnhVRG5JME01Y21UanJmalI4MWtEX2N6a2gzbHI0ZXZ2T0ZxTDBiV09QQmdsRlYzdy1WZnFLcTFvbUhpRXp2QklmSnhXc0tDSW85T0ZRbHJTUFhKckV0cC1WRVRmOUVGaV9ZRTlmZFlEM2wwOUdxcVN4dnZUSUtrY2ktekk2OHUySHNRSmJjZUs1N0ljeVBqY2psaHVTVUQ0Q1lB?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
+      "title": "雲林東勢響應國際失智月 舉辦「光耀東勢照亮記憶」打造失智友善社區",
+      "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxPLWdKSTBXanNGOTFvOXZHWnJWTXl1SENPWThnMlp4dDVDSGxRZzJHal92c0QzOVFSMmhSS3BJZ3MzVE9uUUNSODdQNkZjM3hJQmpBZlg0NmN5WmNQQXA2emhQekVwZmlNdl9ndU9STDNEQTA5SWZUTWZTNmYtVlVHdVltUmxBZ3RUZVkzdlJiU3IyLVBnaXUzMV9pbjdyNm8xcVN3bGM3aGNHelZiaW9TQUNPNUp6WkROMzctS1ZyaE5hS0xzQTN5dnlRS0k5SjRLYUNlVWRJb0NCS0x6VlpGaHFvdjlRSGs2UkpEdjNZR3o3V3gzQl9zUEZHdS0tbU8tUXQ0WkI1NWdjRmZybmw5UzBhUFF3UFpuQktkQXZ5TXBLQTMyRHNuYU1DQ1FhdExmd1Jrd0lDVnhBVGZwLU9pamplbHBIN3AtMHl3emg3dTBFN2NkZkxKWXIzZXo4blN4VnpuQ0d2bDNRRmJod0VxeTQtZXBmekszV0EzeXQ3MXAwcGFqWEJtLXhrTG82YW5jVXZHVVpfVUFIZjNNaFIxUVV4ZnRZdEZweGlRZXBhN1hoQVU?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-07T07:00:00+00:00"
     }
   ]
 }

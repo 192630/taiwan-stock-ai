@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-25T00:35:52.095864+08:00",
+  "updated_at": "2026-09-26T01:34:35.687620+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3689",
   "name": "湧德",
-  "count": 2,
+  "count": 3,
   "news": [
     {
       "title": "3689 湧德- 師祖🌞巴菲特🌞爺爺生日快樂🎉🎊🎂 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jU0dMaU5aOVJWZEhOQkU1YXVFQ2U4ZTlIa2pKeDVVX1dGTmRrUDNNS2dLV3NISGtWcTdGcmF5a0hNdlMwWlBrOU8tNThQdlpfSFFKc1JndXM?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-01T07:00:00+00:00"
+    },
+    {
+      "title": "3689 湧德- 湧德連接器轉型利基點- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xVmR6eVo3YUd5QTktOEJ5N3U4X21GVS1OdnVtUW1nUFJVLUR2aEZJTlZzTG1JSktRWHRwOW9oMEMyc2VpeWdWTmpxdjhZeU1yY2RTRmUwMDg?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-08-27T07:00:00+00:00"
     },
     {
       "title": "【11:48 即時新聞】湧德(3689)股價勁揚逾7%，股東會釋出產能滿載與液冷、光通訊成長動能，多方結構配合法人買盤支撐",

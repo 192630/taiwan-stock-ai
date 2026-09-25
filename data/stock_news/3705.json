@@ -1,27 +1,39 @@
 {
-  "updated_at": "2026-09-25T00:35:56.196534+08:00",
+  "updated_at": "2026-09-26T01:34:39.124461+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3705",
   "name": "永信",
-  "count": 9,
+  "count": 12,
   "news": [
+    {
+      "title": "永信基金會推中秋公益長照 關懷弱勢與長者",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNeE92VHFmX1JEUFhmZnVuWEFUbTlxamNsLURkdWVod0RLQ0RYSFFsTGg5WEdOYTNiQ0FQd1dCTGJ3VnpER0N5VUpFQmFTc01ydWh4YWh5UmNLelJIUGZ4YVg3NXVDNUVKbmRURjR1R2hyVnlZZ0c4MVVaN29ZNE50WTZWTlRDbFZCRUtlWHVhMExJVmp5LThkdzdXSlk1OVRmVFdlRU54ZS1OdUZjUUVOdkc4LUYwVXM4UzdSZGFBanJSZVBWSlU5cEZBYWw5aGhmU2VERzVDM3BEQ2prbzUydTJmQWl0M2R5cnlaV0xRVi1YNHg3WmFFMmltX1J3bUZQYWVjcmMzN01DTWVFU0dfWmlPNXVUUjcyY2d1RUNCQjZuUUpRS2xNWFNiN1h1NVlBWWhUdXhMSTQ?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-25T09:32:55+00:00"
+    },
+    {
+      "title": "永慶高中女排勇奪永信杯「季軍」 創新嘉義縣高女組紀錄",
+      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQUFJGZEJsZGRNUjBnUU1qd21pSWtVQ1V1Qnd6OENIaTNVMnFBcmcwQllTaGdwcGhJd2xGRjNEb0pfUnhVQ2RsVkpLczF2aHpPWThBOTVSVEhHWE5TQ2ZscGg5LXJ2aGI0cmNZNnBIVkxBdWRMcm5kUFhJUDJKMnJtZFV5OU1maVFaajQzVFY5T2tZNl9uTHloQ1M4dzVTR0ExM3FtNGozQlkwNVlJVGdVUWRhdDdVeU56b3QzMlI5MUhxQm5KTVo0WDR2bDhUeEticVFpRWwzeXBxY28tUFdKTjhnU0g3bThsWldJZWJKMmxrTDR6N2pHLXJNWDV1QkszbFJITVFzZXd4b2RRMTdka1BROXNFajVpSnJyS0VhMEtMekRRYnVIYVRJMWRsN2hYRzBqd1NSYkxyS2ZSQ1YwODVITzBQbGI2VFBiNm4wN29wZ1pScGtIUHRKb2hnb1k4OHpGN3EtZk5JUQ?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-24T12:14:33+00:00"
+    },
     {
       "title": "永信至誠股東奇安創投擬減持不超3%股份 市值上限約7200.86萬元",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jV28zX2hKZFdpemxQRWpFSDltMGlrWVZ2MmtBNHI5T1lXdDhXcURlOTRRemxzM09QNnZpQWZGT1N4OUhWS2dMcjlPQWQzNDRlVWFkVmRxWHp4QQ?oc=5",
-      "source": "Moomoo",
+      "source": "moomoo.com",
       "published_at": "2026-09-21T13:59:47+00:00"
+    },
+    {
+      "title": "永信田徑小將台北秋季賽表現亮眼 三項刷新大會紀錄",
+      "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNSXFDQmZGWndCdmdWSmJJRkFnNDd4MFFKZ0xoeUc0aklUbmxMZzJlcjBGX2s4UjlvMEE1R3dKX2w4clpDd1BtWkI4R2pLY3R3ZEFLcER0LVRqUjA1T3AwdGdZVUoxOUFqeHpCdDdtQWNTZDNVOVhiSXlUYlkxOUtmT1VsMEhLQWk0VjZsMmtkSGhILTF5U3VVT01zM1FLdW1GeDFVRGJiMk9QWWZVU0VFV19RZTduZW5SR3ZWWGFKekxQbU1PR2ZQaTZQY3JCZWJqTUtONDhER1JsbW1OVGpYc2U2OGxSVFIzYWhrWkcwWnQ3Vkl3dEdCX2Rzc1A1TTUzbDU1ZVBick5Kam9yQ3kzZ0hiczUyZ01LZnFxbmFkVFhyRFcxSHdhcWRkRVFpYm1INWt6anBISWphU2hTcUZRblFqTHUwQm1qVndEM1NWMzRhTnFHa2hBaTVDUXhJUjdJMTAycnJteUg?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-21T04:48:09+00:00"
     },
     {
       "title": "永信至誠(688244.SH)：奇安創投擬減持不超3%公司股份 作者 智通財經",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXLTNaVTJUalZfOEZPVTJjRW1zWEloSlM3aDZiM2ZFcDFlcnNla3I2bEZCYUlxYm5kOUx5TGhpZnVkMzV1WnBrQ3pWbi1kbHBJUzZyN2djUXhISGlMNHgzSXNZYzBXOWVBdG83Nll1Z2I?oc=5",
       "source": "Investing.com 香港 - 股市報價& 財經新聞",
       "published_at": "2026-09-20T10:37:47+00:00"
-    },
-    {
-      "title": "永信 (3705) 本公司受邀參加元大證券舉辦之線上法人說明會",
-      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNR2s0NzRTUS1NMVppWmJmbE1NcEdKT1NBdm1KVVRoRXZSdDNsVk1wN05Kb2NjTkRYQVZpVDd1alRldjJHTFc3Vk5FLV9ETXhoQjRWTEdzNlVSWWJXMlFaakdpc1dINVpPa3NjZXdrNW1vX01qMWd5TG13Vml5QWZKSEh5RjZGV1Fva3o0bUEzNWZubUI1bTBTWGR4VG5HVzNYR3FFQklVdTNaZnhCS2d5THBRaUxMTWdGSzVnVmR1RnlQVWJ5cjhadHBaN0NJS240MTlBWW9TUVV6V2JVODJjaU85X0lEU3RJS2liY1VjX3ZleXk4Nkd4OTJtdndMcDZCUktOb0t4UXV1TEVZQ3hCWnFkQXJ4TWtOWHhUMnVUTnN5WEpfNy1NY1g4Q0NoNDBOQTJacG5R?oc=5",
-      "source": "GeneOnline",
-      "published_at": "2026-09-18T07:29:52+00:00"
     },
     {
       "title": "《外資機構主要進出個股4-4》花旗環球證玉山金(3705)",
@@ -34,6 +46,18 @@
       "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPaGRCenhGYVFDTkdUd08ybUsxV3RBZnJHeUdrRmZLLXdPOGI4YTFpWG1kakJOT2YzT3g3bUxPT2NVZHNnbzg4ZGc4cFhjVHZDMnFuUlN6dGxkNkpYQjB6cVhIMExKMDJHOEgycGNkRU1MaW1QMTAybkdfTHdUZi12ajlKcWZ0NG42T2dxMTFIdTM2ZlBwN2RBb1BJX0hOLVdvQUllVHQ1OGZXUHZTbUNWZzk3Y196cUhtUS1zcXRWSlR3UUtjcC14dUJEbnFuS0pwMUZwM2ZQVVlCMU5xQlpJN1ZZaHM4VW9sdFFCcGJfczZpd3A5N2FScWR4ZUtXT01Cay1kLUtrX0pPb0VSTGE4QUZVX1RMbThIWlBfRkhMUVRvT2RiSHkzZ2V4NEVMeHV0WUtPeElwR0J0SnlxSWhsNUVycXZvRzJZRGlocFF5TV9ZZ2tmOW51NGx4OGpPOTJtSGdDMHJRTkdSYi1hUXJMU0k0bmpyMGNjanNiYWpGdGpfODJtRXk1V3VDaFc5YjYwRERJNkVrVURlb1JKRENNNklxbjdfZkU?oc=5",
       "source": "Yahoo新聞",
       "published_at": "2026-09-11T07:00:00+00:00"
+    },
+    {
+      "title": "台灣企銀攜手永信推廣安養信託 老後照顧「超前佈署」",
+      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQQXItdnhMQ21OUnZSZGQyLVpxV2dtRnFnYlQ4M3pmVUU2NV82bmEtMWk1aGlNN090RzJzUHB5WFFqTDNEUVlQWENNVi1wWjRUd3hCTU8tVFJndkVlblgzSnhxdXVjQ2d0X1NaMHZCVWhTR2ljSlN5cVJkamgtZkdLbzUxWi00eENicGM3VGRjQzIwOS0ybmpWZ05LZXdZSFo5Ujc3QmdqaEpSQVBtdVNIUk9yUThqajU3aWRlTzFjWFlwRXBrd2pCbVZ6YnBPMzdsQi1XMjR1NEFpbzY0Y21RTjVzeFpyWTZUOFdIY3RGV1FVNGdaVjRaMFBaRWhkU1BxYWtJOFh5SmV6MmZjTUNlWjZNbURpbUd6SUxhZ0MzUktWRlU5cGt6bmNhV0Vfd3puMzZmR1otY3RINHgtRWpiZlBQX013aE1WT3NLdGdwbl92Z0lRRFdwWmx1S3NDZw?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-11T07:00:00+00:00"
+    },
+    {
+      "title": "退休金、照護費提早安排！臺灣企銀攜手永信基金會 助長者安心樂活",
+      "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNWFp2VVZDbFZDNEJXTGQ1QWZlY3Y4ZUFiODBweDlCXzNjWlNmc3czUkVfZ0ozU2FlUDRpM0FaSXZ1b0dmaTk4Ty1SM3pqNDgwSTQ1eGdueFJxZUxfeXVDLXdCLTM5Y2tpM0NOcDZQUndtOUo5WUtMODdVMFBWWHcxOVRfUzRtZUphazFMbkJYeW9LTlowZ2VtU1JnMXpPdUtOa1ZhTXlGejlqbFIxeHk0MFpKYi1XV01PSEY1UV9BVDZvbjFwcFRpanYwMk4yd1czNjRqZ0tLOEIwb3phd2NoS2VRRTYxaVVOaEt3QXR0MkFXYlNDM3R6eHhGby1qY3J6UzZmWG1zUkluMTY2VUhsN3E3ODNKWmxhSl9fcnptenBUNWpqRy14VXh5VVZuQzU1dVkxd1NPUk5KQzB5VVVWMlhDOEgzX2pUMkFIMU9xbkFwZ0NPQmZua1NLRWpoYkM1MENySFZqUGVlZHR5MWF3VjdnT0hzYVVWdEpYU3JBUWlBMjU4dHFKRFNuWUIyeXktQjVDZThCSENVYTAtTFhGNmlBUXdIbkU?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
       "title": "【2026/08月營收公告】永信(3705) 八月營收6.33億元，年增4.59%-CMoney 小編",
@@ -52,12 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85LVg0Q2kyRWZGYmdjZ3N2TzkxTjJMSlczRG81N3N6c3kxQmdBd3o5bXhKZ3NHeEFoOW9mc0hucFdSU2hLWjYtdVlYU1NoQjZmUUdjaWoxV08?oc=5",
       "source": "CMoney",
       "published_at": "2026-08-31T07:00:00+00:00"
-    },
-    {
-      "title": "運科中心攜手永信藥品推聯名營養品蕭佑然補給、補水一舉兩得- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1dE5uNWJtZDJvZzVRMWlrUmVyYVlBOWUxaHM1S0lpYV9zcF9lTFFYRHRlWUlQTTlXZHJHWUZYWEExUDV3YTdyX29SLVp3cE82VUphOGk5Vno?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-26T07:00:00+00:00"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-25T01:33:07.340054+08:00",
+  "updated_at": "2026-09-26T01:34:54.523948+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4139",
   "name": "馬光-KY",
-  "count": 5,
+  "count": 6,
   "news": [
     {
       "title": "4139 馬光-KY - 【09/21 產業即時新聞】醫療院所族群拉回修正，短線漲多面臨調節壓力- 股市爆料同學會",
@@ -34,6 +34,12 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sU2QzLUxUNElYODdCMVV2QjBjQWI2S2llSmE5UUZkcXVUMXFHRF9UTFp6bVc5bGxfOWI1QzJRR2d2Zm9ZZFZtcXlUcnpBaHdJOFZQbGJOcll6Tmg5eEVzZlhGUXUtV1BjUG9qNkRRMTU?oc=5",
       "source": "Investing.com 香港 - 股市報價& 財經新聞",
       "published_at": "2026-09-15T07:00:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】馬光-KY(4139) 八月營收表現亮眼、呈現雙成長，創近3個月以來新高，年增3.08%",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONHNNUm9ENTBFbEdzUXpSc212Q3lzc0U4Q2JTTFhuXzI0ZFktb1BNTEtHc2ctanZYckJCSUN2bW9falVUYWwtNmpyTms2TkM3WDdoQUlUcFNUaF9BOEpvem4xYzE5NG1YR1J3Sk5pUnN5TXhNSTd4cTBpcW1rb09QdWRFbkZ6LVp4ZHc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]
 }

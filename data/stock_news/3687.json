@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-09-25T00:35:51.607536+08:00",
+  "updated_at": "2026-09-26T01:34:35.266927+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3687",
   "name": "歐買尬",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "歐買尬(3687) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pSVlGLTRta2MzR2NLWndrNVAzSDZwalo3NFNKVll0M2sxcmxVYk45T2pSbjZsczRLVlFGZ3FWamN0S0xIQ08xYksyNTYzRm5lMlFV?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-25T07:32:26+00:00"
+    },
+    {
+      "title": "2603 長榮 - 週五的scfi公佈3687續創兩年的新高，較上周漲幅約0.7... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jXy1RMGxsV1JjR3RDVl96d0docUtROEJfbjdVS0Q3MlpXTkVSUEIxc3Z6UGJXdDNVSjJKclY3cG5tY0dpUmZZMmFMNnVhWndjNlA3dTNBNlA?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-20T02:30:30+00:00"
+    }
+  ]
 }

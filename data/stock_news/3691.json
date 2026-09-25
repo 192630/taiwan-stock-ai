@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T00:35:52.616095+08:00",
+  "updated_at": "2026-09-26T01:34:36.129887+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3691",
   "name": "碩禾",
-  "count": 6,
+  "count": 7,
   "news": [
+    {
+      "title": "資本市場籌資潮與科技轉型最新動態！產業跨足AI伺服器，碩禾現增受矚-財經焦點情報站",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUEVvMUdDblRDbmhIV1VqdzU1VGZORVhNRGFmcU83RHJhVG9IY2FHUDRoZWxsSlR5X2V2cVVQNnpVMnRFUF80WjZsOE1MakhVbFdTU2xkVXlWblRPbk16ZWpIQ210eU9xNXk4czhKYXdOMmNvNXB3RXR2MzIzZ3Z4Wl9n?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-24T16:44:53+00:00"
+    },
     {
       "title": "碩禾谷底翻身不只靠銀價！太陽能銀漿、AI液冷、美國製造三箭齊發 2027迎第二成長曲線",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGazAyYTZkWktxNDd3VzMteVYwNEtub20tZktnZEh3cWNidVpHbnVDeHNuU3JsX1pmOU5jSVlKeG5tZ1hlYmZkdFhxaEpBZU85RXlRdHdlRFFtSGplOHFsWVd3VFFtVk02NVBDdHluc0k?oc=5",
@@ -39,7 +45,7 @@
       "title": "【12:27 即時新聞】碩禾(3691)股價上漲至96.3元、漲幅3.22%，受太陽能導電漿營收高成長挹注，惟技術面偏弱、主力與融資成本壓力仍在",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU2xOSEN4ZXRyUFdmSUd6Y25PNVJvLXZublUxOERsUVMtcmEyTE5ydE1ZQUFyeThZdW1NUUtIN085U1cwU1ZxU081N01PbUlXeUt2OFdHUzFDakpocG5jUkRWeVZCNHhacW1yUXBaZjdTcHF4LVdTQ1JVbzRXY3J2LWp1cGNqUmxONDU1VDBn?oc=5",
       "source": "CMoney投資網誌",
-      "published_at": "2026-09-14T04:32:59+00:00"
+      "published_at": "2026-09-14T07:00:00+00:00"
     }
   ]
 }

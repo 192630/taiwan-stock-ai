@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T00:35:48.569823+08:00",
+  "updated_at": "2026-09-26T01:34:32.552529+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3675",
   "name": "德微",
   "count": 12,
   "news": [
+    {
+      "title": "3675 德微- 誘多了，沒單就看戲- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FX2pfOGRHRHR2SXR2Vm1WLXZ6SVh0dWk0WnkwX0huNERBLVF4aFBpbk9HM1BfSmk2UlRuX3pXMFZoSDQxc3QyMjd2a3lJNEgzbTJHNHNlanc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-25T12:22:49+00:00"
+    },
     {
       "title": "3675 德微- 【最新消息】IC 製造族群再度發動，「5檔概念股」強勢上攻！ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJbVZLc3hLZlFhVTh1TTM4QVBZcDJpMW5OcUpPT2ZSSF9MamdLdzI1U2VHbnQ0cHVCOTloYVVTNHgyTTlFZU40RE5JZG1hNVlYb05Qd2YxNnk?oc=5",
@@ -39,25 +45,7 @@
       "title": "車用外溢+AI剛需，德微今、明年營運步步高",
       "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQWVMtYzBoOE02WU52c3NuOExnSjRVUkt6OWJvY0tiM2d6dUtoUlg5cEJKSXJ2RW1kU1o4RDBpbjlySHYtTW55QkZhWU15MUU3UF9FZDlLbGhyREpjZkwwZ1I3a1hTR2NLWFoyT1VwbzZsNUJVWkNKVWh2bjZodE9CU2dpT0ozSVZWNFpVaTduU3dLTWhYQjZkamVYRzRQNXU2TGF6T0gza215azY5VWR5QWVIbnZpQko3QmxMWXp5RDI1VlNrUW02OHo0ODVzY2hYZ2JYek9lNk1sckdYcHBlR0lJZm1LNHJjTV9IczVsNGh0Nk5CdW9KNXlQUUo3TnlhNktYRjk2bXhubUptc1FLZ2FLX3FKQ0o4b0tXM3RDYXp4dw?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-09-18T04:35:31+00:00"
-    },
-    {
-      "title": "個股：車用與AI保護元件雙引擎挹注，德微(3675)中長期營運強勁看升",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLXlaZ0lsZzdqZ2tGRG1fS2NxMkZ0cl9CcjlzMEFKNTBzMUhfRWxLWXZJR1BfZ0ktX0J0eGtMSFF5ZzRvRTBqbVNqODB0TnMxTmhEdVdMR0tXX2NiMVNxWVdGdWhEU3lvOWVlZm9yMU1wOTgzZVZqdTZGUDZ3ekprSzZMcGdYVVMzVUMzM2ZB?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-18T03:36:00+00:00"
-    },
-    {
-      "title": "3675 德微- 德微擴產搶AI車用訂單，助攻下半年營運動能- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QS19ER0ZpaVNHQlFLX0RyalFxVWE0RGxyd2wyTmhOZWJCUjBOd1Y5ZW5YbHlzQl9mXzJWa3hxLU1VU1gyWldacTlYVnFfdlhyc2FLbHpzZEo?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-17T02:19:04+00:00"
-    },
-    {
-      "title": "1圖PK》台半、德微、強茂...功率半導體3雄漲停還能追？專家揭4指標、3看點：擺脫AI題材股- 上市櫃",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXOHFuQnFncWhHaHlrSF9BVmVOSV9RMmw2ZEhGX292Y01xZ3dab0ZMM3lKZ3pPbmpxRmROSjViNDV2QUpwR0JwczFzT1AyTE5jMjg2bGFEMnpPNFAtTTQ3TW5YSllRV2lxS3c?oc=5",
-      "source": "旺得富理財網",
-      "published_at": "2026-09-17T00:05:56+00:00"
+      "published_at": "2026-09-17T07:00:00+00:00"
     },
     {
       "title": "最牛一輪／德微鍍金 統一64沾光",
@@ -74,8 +62,20 @@
     {
       "title": "【優分析即時新聞】德微漲停領軍功率半導體轉強：AI機櫃邁向1MW，800V HVDC掀規格升級潮",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pSEprNE5SMWk1SUl2OXA4WldEMDJxcXhjUTVRbzV4V1V0SmllQ1ZtRGQyRlVDckJyaWxUbURkT1BJaUVCcnhxM2FUT0dCYk1oTzE2N0tR?oc=5",
-      "source": "優分析UAnalyze",
+      "source": "uanalyze.com.tw",
       "published_at": "2026-09-16T07:00:00+00:00"
+    },
+    {
+      "title": "AI電源革命點燃功率半導體！德微漲停、強茂台半急追 800V架構＋漲價潮成雙引擎",
+      "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxNUHQ5QkphNVNXNmNxb3VCOVd2eU9IY1dDNjU0N0xUSFRHbjg4cU5ud3o4VW83Z1pDcmZWa3BFdEtoOVRJcmI2emtjWURKcTZCbzF0T3FaQjJjX3VMMDJ4cFlhWlktdlR1TU9NaWw0STJwekYzSzJZOG1ZMktPVG1IVDRQR1FTNjQzYmlOYVNUUDZrcGN4YVRFQ1B5c3VFWnIwMWhvT25OdS1UUXFvRE9IZm5aQm1CbkNnckdSNzVXQnVjV0hGT2FRa1U4NHhCQ0dpOW1WSlVwX21lUFVrUVlZYmFnRUlxWmhTanZfMXVjdDR3bG5JTEYtYnNDejhRZmxaUndUekg0UVlPaVNRN2NnQ29sN3FxeE5kSklMRjJlMTFranMweGNSaHRBcFB5X00tcXVSejJoZG1CUjFNSTJ6YnNrclpsbjFCR05md3RvaGFQRHFKR0xUWjBvYlVsZF9nbG5nbjRJQmlxeEZFcXBOMUxEZVNMc1JGWFltQ0pkOGxMa29aTWNFN1U0aURZZFN2NEVLcnJjZlU4VnJiN0dlaEl1c1RhZGVVSUgxTkI1MDNkZm5DYXdPYlBPNWZDVDNma0FqZThnNGhTUjJBSHRuakx2UG9jS3FYTFRnemZWMTMxRUJGcVE?oc=5",
+      "source": "台灣好新聞",
+      "published_at": "2026-09-16T03:34:29+00:00"
+    },
+    {
+      "title": "【09:54 即時新聞】德微(3675)亮燈漲停 功率半導體買盤迴流",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWkFxTDduZXRVU3dEZkpyME1SS3RWRGVHbUwwYnliOFFXRFNnQ2l4N1J4MVZMUy1zY0hLZVh5cERhdkZ2OUVmRUpuanJJRU5vNGxYb3lDZ29oZmlldVJ5T1BPMkRtYnZMNEl0c1B2YmwwZnFIVmdwLUMwaVBWV0FFSXdiRkdCM0JPQ005cFpn?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-16T01:54:30+00:00"
     }
   ]
 }
