@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-24T10:34:27.402573+08:00",
+  "updated_at": "2026-09-25T11:35:31.168500+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8044",
   "name": "網家",
-  "count": 2,
+  "count": 3,
   "news": [
+    {
+      "title": "焦點股》網家：Q1營運略有起色 攻漲停",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Fd3dQTURiZDd4M1FYM0xINjFSRVNGY29uUzgzWmIwcnZWUkt4VmVmbEJXYklNVEFoaEFHRG9tUUE0ODhlSGlxckhOempZU1NUTVRFbENLWXo?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-24T15:54:58+00:00"
+    },
     {
       "title": "網家(8044) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2dmZnUG5Dbk9sMnZkT0F6VjB3UWtkQXR3OThmdEFDbUpYMUtxeVhVaWdNaF96QzFKSjlrRGFKVkFpdWZobmJDRS0zWGZ0RmV6UlZZ?oc=5",
@@ -12,10 +18,10 @@
       "published_at": "2026-09-22T08:27:33+00:00"
     },
     {
-      "title": "網家有效加快物流 免運優惠擴大搶居家生活版圖 | 鉅亨網 - 台股新聞",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YQXVlS3N0dkdQaHZ2Tk5oSElWbTFmYU9GNkhCTWNiNDd0eE13cnNjVWlLVlJ4VklYVzg5cTJ3NGF3MmRfb0Z5R21aeGtUUVk?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-09-05T07:00:00+00:00"
+      "title": "網家有效加快物流 免運優惠擴大搶居家生活版圖｜新聞快訊｜豐雲學堂",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkTTlPUlBkck4zZlFIbEYzNXZZMm4tWGpyczk1b21icTNiQWlIR3dtTmdSaElNY1E5aWEtUkkxV1VCUExIVDFzcmxRMTEyRUI2ZkY5YTRMSTNOa1VQT0x2WGxRclJvOUM3YUdKQjEwZDVmMzcyb2c?oc=5",
+      "source": "sinotrade.com.tw",
+      "published_at": "2026-09-04T07:00:00+00:00"
     }
   ]
 }

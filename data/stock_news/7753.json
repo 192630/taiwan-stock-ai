@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-24T09:33:47.278499+08:00",
+  "updated_at": "2026-09-25T11:35:03.593151+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7753",
   "name": "星亞",
-  "count": 2,
+  "count": 3,
   "news": [
     {
       "title": "7753 星亞- 星亞訂10/14召開法說會- 股市爆料同學會",
@@ -16,6 +16,12 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51VHBoM2dpZHJfcmQ3VnpMbUt3S2tsVFRRQ0JmZHB2bm1zMGRvUy01TjlnX09oWFZuVlNZNU5ZTHduZWpEUUE4UVFaRDNheUR4V0UyMmtBMml2Y0dlSEQ1RmdyN2daNEk?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-10T07:40:05+00:00"
+    },
+    {
+      "title": "冒名星亞模特！網「假經紀公司」騙素人簽合約",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOSFhMSW5zRGFSdXFKWmJSTXRXTVVmenVsemlSQkdpN2hxQUlTOGoxdVJja0gtQlpWMHRLMk5PV3lOTURIaHVVazdPMklkREc4dlZ2U3hPeWtscXlhNFRocGFlNXBwc1N3ZjB4RUFHWnJBNzU2emhpSzUtVTRmUm91d2R4Wm04b1d3a1I4WkJUQWUtRm5yblBCTU5zRzQxeERDMl9rWG4tS3o2alBWNHk1cGw0cVVzemd1b0U4WTFXamZCbVNIS2E4dXJ5UkhmckluamJuMUJOWGViSmF2YVVSdXFLa215N3lQODlfcmJxeTBsUzg0WENCdFBGbEo2RWljT2d6dThhSHVBSHJjX2puMEViRHpUU3A4TklVcG4yWVg3V0Jsdzc5NnVGTTItR00?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-06T07:00:00+00:00"
     }
   ]
 }

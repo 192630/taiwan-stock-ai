@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-24T09:34:05.689511+08:00",
+  "updated_at": "2026-09-25T11:35:21.089612+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7839",
   "name": "達人網",
-  "count": 2,
+  "count": 3,
   "news": [
     {
       "title": "《櫃買市場券商買超比前30名 3-1》達人網(35.23)",
@@ -16,6 +16,12 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdVZGUHNPbjZvUnhtRU5pMTR4eEYzVmlfbGFaUTJSRjN5XzhrX19qd05LdnBNZkhBc1RNNUxNSDFxWTRhN1VZUndYWE15WEoyUmV3TXVMaEF1NVlSeFc4S0hRZGY1bmVwWk9kMW0wVTJsWjBPYkl3MExzdlVpa0RoYWJsM0V0M0RTSlh0OXJTb2NFbXZsSGtBSW5VTWxTTmxP?oc=5",
       "source": "TradingView",
       "published_at": "2026-09-22T05:59:28+00:00"
+    },
+    {
+      "title": "iPhone Duo首開箱！3C達人網紅實測驚見「1神奇功能」 爸媽拍照爽翻",
+      "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNemFoVG5sUXB1OGxDZU96ZkwwUkU2Z09FVXZEOVZoa21ydUVnemw2TGR1T18tcGN2QjRqOHBobzJZUzFqT2tlU1ZBODZJcXJ0eFhZOWg5TW0wOElxM1lzdkpkbjlERFFoWW9pa09wLW9QMmFTUG1PX2JqX0d4TVVpS0IwTUZCRVktTzNRcUJTNVM0MHlRZXNHdXJWT2lvejRfUUZfaUFkQThXMzdsQ1FTY3BhbTVYSkY3UlZfSDNQeVQ3X1hPUkVoRnBmeF90cVZKZk9ZcHJTZzZ6bXgybkZVcUlWb1NLNWNMNGRxTzc4TkFVWjdfYlA5TVBIaUNuUDB3QVMwcDBnOTV2WF9PMnYwYWtGZ1Z3ekFxMFYxUllDTnFpeGlHcGlqdFNoZDFLOUR1eDdwNzJCdkdYVzBMM0tqck1nbGNVUE1fTks4WE5qNlFVZHgycUNDWFVRRnlDTVhsWHc0Rg?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-09T07:00:00+00:00"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-24T09:33:46.866550+08:00",
+  "updated_at": "2026-09-25T11:35:02.936458+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7751",
   "name": "竑騰",
-  "count": 12,
+  "count": 11,
   "news": [
     {
       "title": "討論牆 | 盤中速報 - 竑騰(7751)股價拉至漲停，漲停價1445.0元，成交200張",
@@ -30,21 +30,27 @@
       "published_at": "2026-09-14T07:25:59+00:00"
     },
     {
+      "title": "店頭市場11:00，價差前 30 名：信驊、旺矽、力旺、竑騰、精測、印能科技、聯亞、竹陞科技、創新服務、弘塑",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oM0dvNmVNYWJmc3NMWmJ3SnpMYjliN2ZNOGhBSVBrSFdvR21uVXFvaGVWTTBhQjNQNUZZN3o5UEtpdHFNdERua3ZyTm9udTdWRGRSTklTQXFzVDVYMWJIZkRTb2Q2UmtwS0RnTEFSbFV5cjlZeV92UQ?oc=5",
+      "source": "PChome Online 股市",
+      "published_at": "2026-09-14T07:00:00+00:00"
+    },
+    {
       "title": "討論牆 | 盤中速報 - 竑騰(7751)股價殺至跌停，跌停價1135.0元，成交206張",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pcHRzTWo5UU5QZWpSYnY2cUF2NEg5ak95NWcyb2R2WndOZkhWV2RMaGJOaGN1bFcxbGFJWngtblQ1UTdDSHlMekJqX3pMOElXdnozZnZNc0FGd1VqOGkxWU5uaW4?oc=5",
       "source": "LINE TODAY",
       "published_at": "2026-09-10T07:48:49+00:00"
     },
     {
-      "title": "7751 竑騰 - 今天設備吃藥了嗎？ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50NmtJOTY1QlU1WktmR1ZpcEFteUF3SnZXVFBUbEF1bjlpMEFtR0lWY1RNcS1SeXRlMHRGdDM0SXRsNXBZQ0padnJqaldnbS14SVRxeEtxZlk?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-04T07:00:00+00:00"
-    },
-    {
       "title": "【11:53 即時新聞】竑騰(7751)股價上漲6.14%，AI散熱裝置題材支撐，短線跌深反彈搭配法人與主力賣壓消化測試壓力區",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZnJSMW9zZTlmY0xDdFRIeC1kTng3cmRjYVV3QzNHWC1Edk8tZFhjV1haOFZjazM3YWhqb0RFV3dlRHFvRU4wZklyYnRvODJYZzJCYWs4TEJNc29FMDJSQzgwSThJVEdDN08xUTExOHFULXFZYW1wRmljWW8yUzd4YzQyU2hwQW1Ea3ZZXzJR?oc=5",
       "source": "CMoney投資網誌",
+      "published_at": "2026-09-04T07:00:00+00:00"
+    },
+    {
+      "title": "7751 竑騰 - 今天設備吃藥了嗎？ - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50NmtJOTY1QlU1WktmR1ZpcEFteUF3SnZXVFBUbEF1bjlpMEFtR0lWY1RNcS1SeXRlMHRGdDM0SXRsNXBZQ0padnJqaldnbS14SVRxeEtxZlk?oc=5",
+      "source": "CMoney",
       "published_at": "2026-09-04T07:00:00+00:00"
     },
     {
@@ -64,18 +70,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYXVuNHkwb2cwYkJQZElXbEdhNnhyWlBsZmNVZkhuZVloNVJjRHhFQW1JLW5waFlweEpxZTZaRXZLRVJMZFNVejU3VFlaeWZsUXc2OElDSTFvb1c3R3B4cTZJdlUza2h6cTEyMFNoSTZyNW1lU1pOaEZ0UVJTMk43ZG9IRTY3d2szbHEtUFF3?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-08-27T07:00:00+00:00"
-    },
-    {
-      "title": "【09:52 即時新聞】竑騰(7751)股價勁揚至1780元、上漲6.91%，AI＋CoWoS裝置成長題材發酵，基本面連月高成長搭配法人買盤推升多頭結構",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSTJQZ19vUnVyYWFHaTlTQ01wVUZJck5sczhwcng0WVlRQlZXUXlaU3FUSHBoMF9NTHRnTFZCc0xDRUk4eE5WeEJyNjE4LWl5emR2UDVpZnBvdG82NDUwQm51aWRZdjZldEwxTnNGd2xzOWVJRENnM2o5WExKNlR1djJNSWFUVGxJSWZCOWdn?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-08-25T07:00:00+00:00"
-    },
-    {
-      "title": "台股氣虛千金股慘綠新代、竑騰逆風漲停齊爭輝- 證券",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxWTB5VHliN09wa0pYN0NzMTY2c1h0ekt6TGxwOFV5di1rQXRjYl92MExSTDNQX1VsUDl6LU5lRGFQbUc3aDZrRk5rTmdxTkU5WEZVSUdrSU05Yks2RlQ4?oc=5",
-      "source": "工商時報",
-      "published_at": "2026-08-25T07:00:00+00:00"
     }
   ]
 }

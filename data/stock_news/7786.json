@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T09:33:52.764616+08:00",
+  "updated_at": "2026-09-25T11:35:09.967250+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7786",
   "name": "東方風能",
@@ -8,7 +8,7 @@
     {
       "title": "東方風能今年可賺1個股本",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqdzBHNG9fSEkwVnp5UVNCUVZnZUgwdW1VbW80YkpxcnVGODdjcFhiMTRNWnhEVTZoY1piRFc3VVFUaGEycVlnbGZqQkt2ZzR2Qk9LRVNlcDY?oc=5",
-      "source": "stock.ltn.com.tw",
+      "source": "自由時報",
       "published_at": "2026-09-22T20:49:45+00:00"
     },
     {
@@ -18,16 +18,16 @@
       "published_at": "2026-09-17T07:50:54+00:00"
     },
     {
-      "title": "東方風能首艘新船「東方先進」 提前兩個月交付",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RTExjM1VJNlEwajhJOVo1VFZqbEZGcUxkd01NT18za3FmQlNQRHc5dDJjTHRPZS1YSVhIMVptLVhQT21LbFlVRlN6QzRhbldoSE1BZ3JMbTZBd9IBX0FVX3lxTFBCTjJRc1BENEJwNndmQXowODV5c0kxSkMxb1dOaHhsNWpWV1VXekNJdzJLb295Z0FlVmVYcDFUTDlyQlA3c3VTcVFoT0R1Qk9aWUFEYS1GaFd2MXdhNWI4?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-09-17T02:50:09+00:00"
-    },
-    {
       "title": "東方風能 本公司董事會決議建造運維支援船",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xMTFmOVZ2YjRwWGN5eUswZWpYeG5GM2x4ang3Y3RYc0lHZmQ4MGdBUUxuM3lldjczbDdBOS1HRldSR1lKZHdyU25uQzJZMHo3VU5fcHNDZlE?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-16T18:40:30+00:00"
+    },
+    {
+      "title": "東方風能首艘新船「東方先進」 提前兩個月交付",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NY3ZNV3k3cG02cmN6R1ZBaVdKNjJOWDFjUUpsZllyNTZUZkFya05Canp5YllaOHgycTc0djJTS1loVC1COUFmclI1WUpGbVZmQ0JBYkdUNi0?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-16T07:00:00+00:00"
     }
   ]
 }

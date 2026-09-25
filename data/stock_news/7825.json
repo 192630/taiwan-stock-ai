@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-24T09:34:03.864472+08:00",
+  "updated_at": "2026-09-25T11:35:19.086616+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7825",
   "name": "和亞智慧",
-  "count": 12,
+  "count": 9,
   "news": [
     {
       "title": "和亞智慧(7825)主要產品與營收占比 - 股市爆料同學會",
@@ -16,12 +16,6 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWQVVTX3M0bjBITXprcHNGZ1AydUJQejF5SXFPOWdSY2lNMEQtWDMxUklVUjZUdVp5Z0I1UVhpaFUxX2FSamx3SDlxNzdkWDZjSFpR?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-16T01:06:22+00:00"
-    },
-    {
-      "title": "和亞智慧(7825) 部門別資料 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LUG1zWWJvUjBraFRSREQxTDlmZS1La2dHUW1fMFFTV2IwTElLRFdUZ2MwdDZURFZ6bHJaNkctZzB1MWRkbl9rdFpkYldzRGNxNWRBY3BBYmdWczFZeGc?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-15T08:08:01+00:00"
     },
     {
       "title": "和亞智慧(7825) 基本資料 | 個股 - 股市",
@@ -48,12 +42,6 @@
       "published_at": "2026-09-11T07:06:31+00:00"
     },
     {
-      "title": "個股：和亞智慧(7825)股票9/10起上櫃買賣，並自同日起終止興櫃交易",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTEZnd1owRWVXYWhISlJJVkVYUDM1VlltOU1GSmF2SzdBMElYbnNnNUlwRENNME9kRGlKMExNM2tNTGhQUHg4NTdhenpLTHczR2V3dE1aMDEtd3JiaGJGVXpRcGVycGx5c2FUWXMxT1ZKanlwUk4yLVBrMVNTSEVrY01JZGFxUUNv?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-10T07:00:00+00:00"
-    },
-    {
       "title": "台亞小金雞蜜月行情甜！和亞智慧掛牌首日翻倍漲 幸運兒抽中一張賺6.4萬元",
       "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxOM2RrNnQzMzhveDk0S0l4ZzU0ODNiczluZ3lnRU53TTFsZWY4MnNfU1ZHODZXTnZWZVJWbGZielo2RXgtSnpBM3JNM2N3dVZiZTZlUVl3bk9iUFYwRXo5d18xcWRDQUZBSWZadmlRUFdaRkF3TVc5YWowN1hlSGItS280WUpvcW82WWU3d29EZ1NqY1JUaGpHTmFDOFZMbFV4Zi00QmFxRjQtYWMzaWdTaEY2aUdtLWtiT0RvbEtCN3ZiQXFDUjNvZFk0RkVxbXowSTBONllLdTVGVDJZeU9RN29uZmRGdVdTYkRiQWItSWZJUG0ybUtJa3hVZEtaVXpRU3ZnQVN5ZDVNV09TTXpycXRFTHNua2xiVUczb0NyYzRqU0dfcXdSVnNONjk1c2RRT0hVY1NHN2pEdVJpQ19YX3BUamNvM3h3ajJXWWlWSF9uMnZITGdoMG5ILVlVU2JwV3U2cnNuRWU2VEVodkgxT25DdTZSOExlYWF3UFg2ZmdfN196VTBhZlRxNU5OQkRnUXNNSkRwX1psdjJDUE53eTN5UTI2aXZ5djdja1djNHdHQ05kVklBSllRRHpfaDh1TTNSMUpxM2lTS19wY09VeWNlY201cW96Tmt4Nk44bw?oc=5",
       "source": "Yahoo股市",
@@ -70,12 +58,6 @@
       "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOVjhrdjBjR0x2VHRJcWJrWmpoS0pteHJUaEZlMGxrZDAxelJmeXp1bl8yR1VaOHFkb2xkWmJhWUxPbC1uU2VKdjliS09OaDlzUzZOaVNvQXdaU1pkS3pUc2oxc2hsYk5IMkV0QUlmcWpfbHo1cncxd0dPNV9uUjRNZkhVS0lGUVZWeElsOWVxNVgzVW1mM1BCbjNOaUpDTVhvT1BrNGUzWm9mVERsQThuMzh1dlk4amt4ckI2eTlYOTkxZE1pckF0azJGcEJJQzdGaGJZYk9PWmRvVVhVNWFPMnhuTFZCbUsxS1J1MVhVM09mU1FXRU9WQUozUnFVZlk3dTJaUk9yVWI3MWhwaXdGT2VscFBGRVZ6RGVlblNwNXlONjQ5NGNMblVfT081LVJtc3UxQ2dBSVdfMk9YQjN5bDBjLW9NY3lET3JWX2JBRXFhTXFSbWZzR2hjTTRONTQyT3F6SlRJV0RIejZpM214dU1vbFZULWxzeEVsU3JlbFFMXzA4akNoVjNIMUJNejVINHZpV09rcjBEdw?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-08-27T07:00:00+00:00"
-    },
-    {
-      "title": "和亞智慧9月10日掛牌上櫃！競拍底價39.1元 AI光學檢測搶攻半導體、智慧製造",
-      "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxQczg4Y2lRazRWajZiSHd5TTItWVY1NTNIbC1tU2FUbjVsWU9rM1luNDdPb094V3FxT2c0MGpCVzAydHMxcDRJa0QzVmxBeS14TnJwdEViS1p2VXVVVEtqcklUNURDbDVfT3otVDItbU5OZWkzdXFral9kY1lhTGdCekxheXJWRkxuNk5WOEViTmx1QWo1NGR1dTN2RlNvejNBQ2lyb2ZzS0VyM3BkMGlNanRWODVpTU5sYWkwVlduV0ZWTlIwZi1ZU2diV09CTTEyZTZnRU1YWmt4amZUa1dXV0Znc0RpQWYyYVRsOHozcVBZbndBTTA1Yk0tc1lsR3NEOTNHWTlkcTF1NVN5MGpCZTExSnZsRGJVVFRpemVlNkJCdW5wZGVxa0Z2d1VRcXRLTU9vM1hpeHJtYWdKT3BIalNMMG5YdDR6S19Lb1hiRnNHaXlTb29QM3RFd3pOemdoRlYwcWlibHBZMnNvejVkSFRaSnd6SG5GZmR6VGl3S2ZsU2JKeDZaamZxVnZPOWh3RkxTMXYwTUFxYzhRNk0ySEFHUm9kTWFSLU1vazFWUEFUTDhZcDZPX2lNOA?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-08-25T07:00:00+00:00"
     }
   ]
 }

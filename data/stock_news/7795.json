@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-24T09:33:57.463902+08:00",
+  "updated_at": "2026-09-25T11:35:12.591250+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7795",
   "name": "長廣",
-  "count": 11,
+  "count": 10,
   "news": [
+    {
+      "title": "討論牆 | 盤中速報 - 長廣(7795)股價殺至跌停，跌停價509.0元，成交499張",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBONFN3c2xBRWQxeXdIRnpiZ2loaGh6TEdOUG9Vd3hGMlNXbmd6N2hrbW1ueFBzOEx3MXNtT3RnTmxvTzNjU0h6a2JKeGgtT1MtdDZSNFBtTk84ajJXNmhtUW1SSy0?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-24T07:22:52+00:00"
+    },
     {
       "title": "7795 長廣- 📣0923台股觀盤重點- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83R25XTTBKQWU5anZSeU9aYkt0d2pfaGdoY0FzT2JSMUlUMS1jY3N6VUszLTBJVy1wd2NUbmVTSVZ2SEpDUDRaa0RnM1U4TEx3dWJOSEZGb2Q?oc=5",
@@ -16,12 +22,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQcjZQS3JrZkRtQzd3c20xNW9IWmE5azBiZjVGRkdEcjUtbjJuWGpxZzF0Y3UtOGxZNWpNbGVyV2xlTGFnWDVZNFN6WFFMNktQbXIyNGtod1hjZHF4cV9RaWVvUG5iV3IyZ0JLMDZJVEo4WGszcVJ1RUN4LWFrVVowOFV2Y0JHZ002RHhoZ2pFUlAzTzRTOWlFY0w0UkFaZkhpdkRXTFRjUzNIZkkxeVdfYWdqam9jV2hMcXh2MVFuek1oZWJJdjZWZF90RGNoZ3hUYUQ3ei1ONTNCdm5DYUx2ZzFrRG1uN3JZNnBuZjFHc05kVlJjcEdNaFhpY0wzNjdmYzJEZDVHbTVPTjVq?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-10T07:00:00+00:00"
-    },
-    {
-      "title": "營收速報 - 長廣(7795)8月營收3.60億元年增率高達111.5％｜新聞快訊｜豐雲學堂",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sdkxLTVBkdlI4bEpoSS1pWEFSSjNGY1lmRnI2aTZSM3M0QUMwSVZaN3RFZ2dnZHp0cUM1cDRCSkhLT2hTd2xuc1VpTGI3dUhzQWRmM1JKaDE1S3lMY3FBSHRxTk93WVN3bDRrcnJXLXR1M1pfUnc?oc=5",
-      "source": "sinotrade.com.tw",
-      "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
       "title": "【2026/08月營收公告】長廣(7795) 八月營收3.6億元，表現亮眼、呈現雙成長，創近8個月以來新高，年增111.5%",
@@ -52,12 +52,6 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV3ZxTVhRZG1FblNXcFJOdWlXYUFyUVJZa2xVQWlRRXlnYnRRYVczUTZNWjhGZTdVdjZ3RW1VYTJzZWhJMWdtRVJKZHNTNWZqbjhjbGlOaVltOXdOQ2tvMkNNcmxyWGVBbDBfQlUydlpoajRmb1kwSGlkZExzSWtvcURVd0tDWDgyY0E?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-01T07:00:00+00:00"
-    },
-    {
-      "title": "盤中速報 - 長廣(7795)大漲7.09%，報543元",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtdDlJY0g1SXBwZmpSVzJrd09SNlF5c0FHR291UDlxX08zZnBzeW1JdjFyclJ0bGdDWkdXZDMtYU54cHlIRTJ4aURlV19EaW9VdWc2aUlhOXdZZm03Z0JBWU9LT09fUQ?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-08-31T07:00:00+00:00"
     },
     {
       "title": "7795 長廣- 【08/31 產業即時新聞】電子上游-IC-半導體設備族群股價重挫，市場賣壓籠罩留意後續動能- 股市爆料同學會",
