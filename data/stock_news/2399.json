@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-24T17:35:19.003412+08:00",
+  "updated_at": "2026-09-25T19:36:00.908128+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2399",
   "name": "映泰",
-  "count": 8,
+  "count": 9,
   "news": [
+    {
+      "title": "2399 映泰 - 台股明天即將大漲，美股大漲明天即將大噴紅燈- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mVVVvQWozeDgzUDhvYmtqY2E2NVhBb0F1N2dKRVhlVHRodGhpUmk5R3NZeS05MEFJYVRPd1BCaVVvNHhUd1lrQXpFajBuMjh6SXM4bWhGaVo?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T16:15:40+00:00"
+    },
     {
       "title": "2399 映泰 - 硬泰硬起來- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9WTXFPdDIyTWdXZnlzQmRuY0h1OHZIaXF6MEhzU0Ftb21IWnJhbjNYVkZaWmhHZkc4elFUeDJIRTFyY0tKU0lmVWZFbm5rZDlwZmhIal9VSS0?oc=5",
@@ -32,13 +38,13 @@
     {
       "title": "【11:26 即時新聞】映泰(2399)盤中走強，聚焦主機板與邊緣AI佈局",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSUFxQThlRFRJeUdGbWpoQmMxMjJNSnYyRm5XMkVXNEtqWnZwSW9fTzI5Tm5RQUpEM1JFbFZrWUZ0UkhJWTJJWHE3U1NpMzU0NzZLcURXUTBkRXdXQ0hZWUtscXV6dDNncEprV1BvbTh3Rmh6TGRJTzAwRkY1bWt4YUlueDhfWHcySDVGdUZB?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-17T03:26:57+00:00"
     },
     {
       "title": "【13:11 即時新聞】映泰(2399)盤中小幅走強，市場聚焦短線籌碼變化",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMWlZNUowbThrWHc2VDVlUVo5MHcwN2pqek9Hd0g1ZjlBQ1B3eDVaRU5rc2hWSDBoel9hYzZPalQxQVpoY2xFRFRuVDVyWHZnWEt1LTZ1LTh2bGlhT0pHQXkteTc2SWZycEoxb0tyREk3S25JREhUendVSzdxLWdkQW5kUUhCOGRzZ28tS2pB?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
@@ -50,7 +56,7 @@
     {
       "title": "【11:40 即時新聞】映泰(2399)股價勁揚至47.4元、漲幅6.76%，邊緣AI題材獲買盤承接＋近日主力短線調節後支撐區買氣迴流",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNS1SMkR6ZnBaZm9INnlpQi1XX3ljOXF2YlJBbEU2bXp3UXdNcEtST0hsbjdBYlFaLXNCalFYdC0xaWJRd3EzeGJtSnNfSkIybDhMUUlhVEh2T1BoQ1pmeGREbGxqR245YUdMSHFSZWZMZEZDZGJsUVg2bnhEenRNYXFnUEVuUFo3WEF6cTJn?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-04T07:00:00+00:00"
     }
   ]

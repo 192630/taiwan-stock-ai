@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-24T17:35:24.576233+08:00",
+  "updated_at": "2026-09-25T19:36:06.980286+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2420",
   "name": "新巨",
-  "count": 9,
+  "count": 10,
   "news": [
     {
       "title": "港交所文件顯示：中國石化9月23日斥資2420萬港元回購540萬股H股。",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTFFMaE9aRnFrTXdjdWFILVBnbWt1YTBvN2Mtc2pocV9uM0dnUzlIcGp4V1ZVS2JMRldCVkRLb3ZTZDB3T3p3Unl1MDE2RDh4N3EtMHUzYld6TlFBMkhrYllZUkVlTElUTzBKQlVyc0o2dDQtUk5qaTJnT1RQY1Jfc1RlT1I0SGpRMmhqY1hzU01nTFlQTlgtU3dtT3lZYTNmbXc?oc=5",
-      "source": "富途牛牛",
+      "source": "news.futunn.com",
       "published_at": "2026-09-23T09:37:50+00:00"
     },
     {
@@ -36,9 +36,15 @@
       "published_at": "2026-08-28T07:00:00+00:00"
     },
     {
+      "title": "快訊／台股收盤漲356點 台積電漲10元至2420",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80dkpTR1hBUkpsbFNmWTc3VE9jd2dBSDRFaVhNTDIwMGJ0NGh5N3Q4ZWg1SHh4Q2ktOVRXSGFLcWFrNFVzSXlHRUgwalBHVms4OXfSAVBBVV95cUxPTkFpaXBialY5U0lBOUs2c3hYa0ZvWndMLTU2c1BfUlZTZmsxc0pnczVVVHJOUjkwRGpnbzF6Tl92ZWZYalp4cjh4SDFkWC1XNg?oc=5",
+      "source": "ETtoday財經雲",
+      "published_at": "2026-08-28T07:00:00+00:00"
+    },
+    {
       "title": "台股收盤漲356點重登4萬6！成交量終於破兆 台積電收2420元、聯電亮燈漲停 | 太報",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhTW1mc3U0Q2IwQ1lMUmEtTWFLNXhqc2Z0aTRKYzBrWUY2RGZmaEg0UDNDR3I4STJNSVlTbnFRZ3JqYWZmTTdGVHB4VTZTZ1RKNGE2Vmhn?oc=5",
-      "source": "today.line.me",
+      "source": "LINE TODAY",
       "published_at": "2026-08-28T07:00:00+00:00"
     },
     {

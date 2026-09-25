@@ -1,21 +1,15 @@
 {
-  "updated_at": "2026-09-24T17:35:27.096077+08:00",
+  "updated_at": "2026-09-25T19:36:09.721529+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2427",
   "name": "三商電",
-  "count": 2,
+  "count": 1,
   "news": [
-    {
-      "title": "緯創股利發放2度順延「背鍋」 三商電︰保留追究權",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vT0ZnX0g4TXh6ZmhUcjNJeVZsbFFvdmlCMVBSSFlKVElEWEJDd3I0Y01FLWczclVYcjJPdFFEU2JISDJXakNfRDF5UWJ1cXVoTFVVamZBNzQ?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-23T18:52:20+00:00"
-    },
     {
       "title": "【11:35 即時新聞】三商電(2427)股價走強，金融裝置與系統整合動能受關注",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMzdZWmlZR19rTGVOblZRTjlYZkxhYnNDX3dXSVlfNXhIVFhGNHY4eVlDdTlkYnl5X185M0hOejRKSE9YbXBYRmIxajI1MjNPeGdUNDVxU1F3b291THpCQWtJQkV6Wng2X2xwR1VCUElFZ1ZlLVVEcmJEaFlFTmFmX1RFck9hMXU1RmdMRlZ3?oc=5",
-      "source": "cmnews.com.tw",
-      "published_at": "2026-09-15T03:35:20+00:00"
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-15T07:00:00+00:00"
     }
   ]
 }

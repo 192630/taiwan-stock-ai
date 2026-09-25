@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-24T17:35:33.764424+08:00",
+  "updated_at": "2026-09-25T19:36:17.076520+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2450",
   "name": "神腦",
   "count": 10,
   "news": [
     {
-      "title": "快訊／台積電漲25元至2450 台股大漲逾770點、重回47K",
-      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOdGxlRUozSWNuWlgzV2drUFExV1ZPTnFZMG9WRFB5LTdPdW81djJXckMzb2tzeHVyX3QzX1UzMGE4M0RwdUdOYnVJRkRzXzQ3amR5cE5LbFpEa0liME9MQzVJWnpfdEVWVFFINmFFR0RFWmhEWjNBNnFNakpQZjM0STBGNXNkSzNlRmJsNGlUUmZ6TXM0ckw0VVpjTUlHNWNWZVlwN0lYdzROX0YyS3UzaEFldjhXaEtpNmJqUHdqVXdDMXhlR3BSdkpiSVhQTU9EdTdlSDlpQWN6SnBlQjBzb3ctTGxMQmpuS0lhVVgtTmZSSkZBSENMOHVkVFlaNnlCSXAtSms4V3E2MExPcGtBR2VLbERFZXZBXzFLb0E0ZF9GenJHbzUzWXpzb0ZFZUxlMEFkVThpS0NDUQ?oc=5",
-      "source": "facebook.com",
-      "published_at": "2026-09-18T01:12:49+00:00"
+      "title": "自燃危機頻傳！環境部與神腦啟動電池回收計畫 強化3C產品安全循環",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1odjF3bEJTeDVJb2JtdVhwVHl0V2xCMXd1bmhTR1dqRGU0bHNlbHZPbGhfM1ctdUtWZmVlWEQzOVp2SDFxMXo1VVkyelB1ZTNHendNMElLZ3g2aTZNWXpSNzhGcmJ1UXZaOEJLWXJ0SQ?oc=5",
+      "source": "知新聞",
+      "published_at": "2026-09-24T08:44:00+00:00"
     },
     {
       "title": "今日台股》台積電熄火收2450元！台股終場跌242點 蘋果新機沒帶來資金！蘋概股賣壓沉重",
@@ -32,7 +32,7 @@
     {
       "title": "47K沒守住！台股終場跌242點 台積電收2450元",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9adDNfZ2QxMDUxc0VBelRtZnhWVW8xNWVkVENhSW5kRW1hYkVSdFpaVlZZaG0xQ25jMUxLWkJmeU0tcUd0WFp1YWxnZ284aXA0d19EU1VpZw?oc=5",
-      "source": "news.ttv.com.tw",
+      "source": "台視新聞網",
       "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
@@ -48,20 +48,20 @@
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
-      "title": "【神腦法說會AI摘要】2026/9/8",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoM2E4ZVlEcWhPZHhlN2tLV2llUko0RVphejdYdS1YUl8yYjFMUGlRZ1ozc0l0cTZCTzZQWG53dzN2R1dIWmZibDdxeHVwNVE?oc=5",
+      "title": "神腦迎蘋果與安卓旗艦手機齊發 下半年旺季營收逐季增溫拚勝上半年",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GNmZDZ0w2U29SNGhfVEhEeVp6cl9adHd0RUJ6VngtczgxMWFweFpzYnNBVHdXYlN2Y0YyTjgydmxyY3A2WS12Ykp2TFFselk?oc=5",
       "source": "news.cnyes.com",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
       "title": "【2026/08月營收公告】神腦(2450) 八月營收31.63億元，表現亮眼、呈現雙成長，創近5個月以來新高，年增27.64%",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNE1zR3NrUTY5dGZGWkR1UElJQ3ZQY01YRDVSRHp5Qmh2MGwxU25PTHlSY3dqTUNXY2tGRENYbVd5OUtUS0FjVDJqRnpnaDhmUG1oTTNlU3JaNmNTbi1acU4ySGpFVUJPWWI5YVg3UjJIeFJGSml6a09NeThNb3VCakYtYk9namlkMGc?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
-      "title": "神腦迎蘋果與安卓旗艦手機齊發 下半年旺季營收逐季增溫拚勝上半年",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GNmZDZ0w2U29SNGhfVEhEeVp6cl9adHd0RUJ6VngtczgxMWFweFpzYnNBVHdXYlN2Y0YyTjgydmxyY3A2WS12Ykp2TFFselk?oc=5",
+      "title": "【神腦法說會AI摘要】2026/9/8",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoM2E4ZVlEcWhPZHhlN2tLV2llUko0RVphejdYdS1YUl8yYjFMUGlRZ1ozc0l0cTZCTzZQWG53dzN2R1dIWmZibDdxeHVwNVE?oc=5",
       "source": "news.cnyes.com",
       "published_at": "2026-09-08T07:00:00+00:00"
     }

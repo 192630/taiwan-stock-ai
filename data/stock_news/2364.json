@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-24T17:35:10.861433+08:00",
+  "updated_at": "2026-09-25T19:35:51.985327+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2364",
   "name": "倫飛",
-  "count": 2,
+  "count": 3,
   "news": [
+    {
+      "title": "倫飛擴大歐洲布局 攜BRESSNER拓德瑞奧市場",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjYmJwa3pPeEZmcVBDSWtaZm5xMGZVZUJINGxGbE1kVFcxb0ZRdE1OWmxEOG9aZ20tdkNjS2lVcDc1OThoamhpR0NDNkVrcVZWLVdiaVEyUzVKVGhFZkRr0gFkQVVfeXFMTlB5RVZjZHhESkk0MWY4YzZ5NHRac25QNjI0aUpGV0lJTVNZUmRTZzRyUlhrTGRTbjBmOFBqdk1zRUZtSXBpNEpVcERlb0JZZU5VTWVaMWI3aEh1REhSTzVVV2JxTQ?oc=5",
+      "source": "自由財經",
+      "published_at": "2026-09-24T11:35:23+00:00"
+    },
     {
       "title": "2364 倫飛- 今年業績朝雙位數年成長推進？倫飛：以公告為主- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12aWplZ3ZwWjVLbEVidUJPeWItVkVZRGY2VlNaejRXMWl5YTJhVEp2Z1RuZFZaS1A3YXQ4eTRER3plQVptY1UxUF8wOUtFNFUtUU9KRmhabGM?oc=5",
@@ -14,7 +20,7 @@
     {
       "title": "【2026/08月營收公告】倫飛(2364) 八月營收月減年增，全年營運續看向上-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTE1KMzNDTURCSFVfZ09HaFJpTDZvZjRKQTF4cXQtMl9hMXFJQVFpM0taaENyX2RacjZyTjk5Qm9XcURrdXZKR0N6N2hiaFBmcmRfWEM3WWNheDdmRF84TFNwRXpVVmgtTFhENXQyR19SczBPY1pKeC05cVdjRm1FNjJNRTItdml2dnc?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
     }
   ]

@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-24T18:34:59.530952+08:00",
+  "updated_at": "2026-09-25T19:36:27.443583+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2481",
   "name": "強茂",
   "count": 12,
   "news": [
+    {
+      "title": "《半導體》注意股：強茂 近5日漲2.67%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaHNnQ3BGNVprX05ydVdpSExuVTBNNktPOTVKcklvTU1uZ293Y1pKSEFUYWNUUy1LNzlJSl9LV3NqRW00b3ZwSGNzcjZKcDBWOHplSkFKTXpvSm50b3V3T0I5cUhESDBLN0xwdTRBWTRVU1NnQWQwajhPNHFRSFc1VFkxNGF3ZUVD?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-23T23:54:00+00:00"
+    },
+    {
+      "title": "2481 強茂 - 明天用力買🤭 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ONldsS3d0TktrVUFST3RxTGR4Z2xYLUhPVXlYdVFIQlAwcktOa3RpZlVYQWQ4a1pvSUpSQ01ad1pOVHdfWXFiRFZ2QVBucXdJRzBoQ0lSY1I?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T17:47:28+00:00"
+    },
     {
       "title": "功率元件大爆發！「這檔」連5漲28.5%挾德微、嘉晶、健策等6檔漲停 強茂、博盛漲4%",
       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQWWJpMEhUbjhpQ1hjRDNyUno4QWJIVjVlQzVuOFJtUUMxRmNQbG15WEJBZnJpb2RXNm5QS2l5YndRSC1VV2JQdFpYbFZ6VTVfbVI2WHBQWnlXUjIyZEU2RmYwS0p3ODZ1OGN3ZUhoY0VWWHRiSzhaS0MtSzJFZFJyZTVfUkNVWGhPQ2lNWkc1WHZ3ZTNOaUNqSkRxN2Y0RmFEQnNzcmV5ZjhFTFVNX0ZuVDBzTDNfTXBObXY1dDBUb2xTVDk0SFdmam9ySWZRWWNlanN4MVVYRFpuN2NEUTMwc2YyVFlQeGx3ZVBOeklSbGJDNGlaeVpuQjB6aGVHN19FeXU3RG5MUUV6Qm1qSnc?oc=5",
@@ -14,20 +26,32 @@
     {
       "title": "功率元件漲價 強茂今年EPS挑戰8元，股價上看200元",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKMG5Wd192dW5fRlBwd3ZsVVIwdG1MSHNvNEFCbGV0SDRXMnV3ZEE0SUpjaWVsblBzdWxzRkcwMHplMFlXUkhLSHhxLTBsUERjWmFjd0syRG10cEZiWHhBTWQ1WkxaWjF6aHIybTJLdw?oc=5",
-      "source": "moneyweekly.com.tw",
+      "source": "理財周刊",
       "published_at": "2026-09-23T03:34:24+00:00"
-    },
-    {
-      "title": "強茂(2481) 今日股價與討論 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJa0I5UVFQLS1WQTFGYy1zZGJGNFh1bVBEdzhKTTFtOE02UDFOYUkwQ3llWVRhME56ekI0aWk1NU8tb19HWmNJazlYblBpLUU?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-22T07:00:00+00:00"
     },
     {
       "title": "【12:41 即時新聞】強茂(2481)盤中走強，AI功率元件成盤中焦點",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOVZwSGhjbEFxMHMwZEIzODFfejhPUWZxd2F0Smt6NzEwTU9kb1V2ODR0TkktcGs3LXRsNzJzX3NPWDY5aDJYcWZGQW5tSVdkWHdaNTUwa25BTU1uVm5lMzROaVI4NVE2YUlBN1QtcnJvVDZ1LUtSUnZvTmhSQjJFeFpGWlBxbVdZTVBROFdB?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-22T04:41:51+00:00"
+    },
+    {
+      "title": "強茂(2481) 今日股價與討論 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJa0I5UVFQLS1WQTFGYy1zZGJGNFh1bVBEdzhKTTFtOE02UDFOYUkwQ3llWVRhME56ekI0aWk1NU8tb19HWmNJazlYblBpLUU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T07:00:00+00:00"
+    },
+    {
+      "title": "強茂(2481)主要產品與營收占比 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qbWhONzNMTlVNRHlXN1BBNEt5Rlc0OEs4T0MwVlB5NjRMMDh0U3JRNDJ4OVhiaTRYUThyeVdDUHpaS1A4X01sMzhKVWhyOExXem1CaEhwYVljVWFYanpIUnoyQlpsdw?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T07:00:00+00:00"
+    },
+    {
+      "title": "強茂(2481)營收查詢｜月營收統計與YOY年增率圖表 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRUjhVbUpQMEU2bWZqWmh6dV90SVFIMzU0NklyMGNzRktCdzJzdzhqVEJaVTZ1MEFCZ0ZUa1ExUW5DMnAxVkR1ajRDSlhSVF8wd0dzSEN1QlV0Vklk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T07:00:00+00:00"
     },
     {
       "title": "《上週上市成交量排名6-5》強茂公司(288987)",
@@ -42,40 +66,16 @@
       "published_at": "2026-09-19T09:29:07+00:00"
     },
     {
-      "title": "強茂(2481) 走勢分析 (20260919) - M先生 | 投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4blNNSzlGdUR0NXhEZG1SVHU2QTZCYlNNZm9OWl9YSWhfSzVCSXRHeHhqd2NBeEhwUXA2am5FR0o3Vm93NVZ6WG5kRlZSVnRmN25ERlRn?oc=5",
-      "source": "玩股網",
-      "published_at": "2026-09-19T03:02:26+00:00"
-    },
-    {
       "title": "強茂亮相印度電子展 聚焦車用電子/工業市場應用",
       "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNNHhja004WVVCOVZGbGVCamdEYWlhOFlOWEl4WE51ME05bU5GNHBGdzBPYVVEbkh5ZVV5YVBnNlZ6SUhzZVgyV3VERXcxRnl3VVdka1VnOWdZQVBtN0JOM2dlY0RTVm00YVF4ZGs0aEYtM3dMZFcxa1JLUkljdV9nSDRuU2kwQWE3UjRFOU5Yd2dLLXNsbUExYkRpUGlWT1k0bjZEQ1NRYUxhdUlYaEdKeVdFckVJS3ktUVRFOWhic3hJaEVGM183bWlNS3hmLTJmb3k4dU9aWVRvZHJxOWZlYmRtT1QzMWkxN2xvYjVKZ2tLZ1FhTDBNZWFJbllGdkFPdjJ0NzZqVk1ORm5vb0c5MnBaYWFDMlVLckRxN0l5dkM4QnpxWHI2WW4tYVJ0R2ZEYlRDOUdTUFl3dkRycVJyNU55Q0JkRzN3Z0JjMTBPQTVqd0p4QnotQnhB?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-18T04:34:47+00:00"
     },
     {
-      "title": "2481 強茂 - 仙人指路 怎麼走 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9zYTRsWE1qcVU2TmdPYUxSRlpGWVFfdTRpVTY0WG9NRldPczdqbGpMQURPb0toU05ONzJxMFEtbGk4YU1zZWVLVlRhdjFpX0JnWVg1cTBwN3U?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-18T01:09:59+00:00"
-    },
-    {
-      "title": "今日漲停股｜光電與功率半導體領軍爆發，鼎元、強茂、瑞軒強攻亮燈0916｜豐雲學堂2026 年 09 月",
-      "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxPbThJTGprS1dSbkdOTUxzY2FJcW1wWktpbXZ3V1NMVlRRb1N0bEF0TVR1RHByd0lhS3BRTi1qSnRhWmZ2MlBOTlhobTNsUHlhZ2trR0hTR2RjSEM5cUR3NFV3b0FMWDcwbGhQNjFvZVpTSXdlaFNXVmNoV25qdVdiOW9sNG1lOWNCUnNyNVI1b0NwZWRvZEdSaGZGM1dIOFVfR0FDXzlKQlk4MFdWSFgybUxoZWQ4d0VmZlUya0JMNEI1LVZMN2JRMWs1VWhoX01UYnVIQkwyN09BdW9rMG9zRkFZN19QbEo4R1RpbVVIZHFwLTNCWkVBay15enVTUVRVTWpFemFERTFlX0JmR292SmJRR1FqdERTMWkwVUdmczBnenNCLXNQUEt0S3dMUTRHSjdIT29XOXdkdVpRVEVzMkFxTnJTczNKdGFkcEZ3Q3lBc3ZGTnU3OVhFSThBOXRrTExobm9ndGRiSlktRFlWSklQeUFSREwyYmt2WHl4Y0JrMUJpS0ZWejNvdzI5UThQTzlJQThvZkNjVjNsRURBN1RYLTlaZk5tYVZvbU5FOTh1WFA1UUs5R042VXZqWnhKWmJvZHlQalVhNWhMZUN4eXVR?oc=5",
-      "source": "sinotrade.com.tw",
-      "published_at": "2026-09-17T18:48:30+00:00"
-    },
-    {
       "title": "功率半導體兩極化！「這檔」連3紅漲10.16% 強茂爆量6.6萬張跳水翻黑、茂矽、富鼎也挫2%",
       "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPRUhEbkp6TlN4dFRKanNIOXJmeXU5R3YwMlZZQXpMV0IxZVdTQUN5SkxITUNKWUM1akpVWF94NHBmRUtQTS1JQTVYZ3VkeTU4bGQ0VDAtcXlFdGwyOUMtdU5pQkVFNExPOWo3aDUwSC1qTjlRSjBNUzZzOEM1Mk91bnUyVW1aOFU5bTlLbUdab05zU0NPX3FBbWhuSWZweUhIZi13eXdWV09ObzdVVTBEam50cUZGQkF4WFR2cjFPYjZndHkxUEsxWXZVMi1KOWxvNGtGU0RxZmM0dVNTdlFOdnR2Nnllc0RCaURIaEhURDFaT1hVV3EzY0l0X1hyam90M0JfOVFxVUJ1RkowRGRFUGRFak1RbGo0VmZQQnJVLWVzZlJKYmV0Z0NDTnRKSGFrdndUQw?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-09-17T10:45:00+00:00"
-    },
-    {
-      "title": "AI營收占比達11%！強茂已打入CSP供應鏈 八大公股卻狂倒1.9千張、提款3.3億元",
-      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNaTI2UzBuTXZCWWJfYmxxcEU3MjdjaXVMS0RYYXBnUDQzU185MmFISnJGWm1CYW5VdVNzOHJfWFRnRTI2WDB3TFltVFg2RDRtbG5fM3M2Z3NYNVc1MkxtbEpBS0FXbHk3U0YwQ3FLb2dtZG1HM19QQnRRMVMyQ0xzbE1xS3FLZ0JSM2FUZFhIdGRKLWprUzIzZHQxamVBV3BiNXZVd0ZlQTZZaHhHOWtPM19vRmhnV3U3eDY5eFA1bEtTUDFDc2RjX01FMjdrWXZjNnBFWGtpd1lZeWNWNXRqMUtUd0hLa1E4Q1kweUxQWkVGallyTjB2b3NNemdlM1F3ajVydmpJZTdrZFZSWlJEeWp3T1prWnhhWHJNaXQ1RnluSElrTkFieDlzc0NLQ0dlckVqRlRtWXFpUjhmMWxrM1BQRXFhbzJBN1h4MHBudnVQUGUzTC1tMkdYdkpvV0FNUzQ4N2x0QUwtdGJSdDAzaGVWY1ZGd2RfVTBqaFpZYUhqSkNfdGgzYnpXMWNCZw?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-16T14:30:00+00:00"
+      "published_at": "2026-09-17T07:00:00+00:00"
     }
   ]
 }

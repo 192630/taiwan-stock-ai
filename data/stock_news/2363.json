@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-24T17:35:10.477124+08:00",
+  "updated_at": "2026-09-25T19:35:51.493131+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2363",
   "name": "矽統",
   "count": 12,
   "news": [
-    {
-      "title": "矽統(2363) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GWTlJdU1lajlYakI5bTJDbElEQi1BdjlDNUNJZXRWcEluNzU0TWxHRGM0M0dha3NsampJVWFsQ19Zb3RxWTZGcFc4TnVWRU1ScUM0?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-24T06:42:20+00:00"
-    },
     {
       "title": "2363 矽統- 9/23盤後財經台股-2 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uVkdzaE9IQU1QMDJORkZITDBIMzhYQ1VHa0NlNGpBRlBUejI2Qlo5dkxLM0s1N0ZrNzNZeUlyVUZqaTBIcFA0cUJQZXRmMllfcDZTcUpYbXk?oc=5",
@@ -32,8 +26,14 @@
     {
       "title": "【12:48 即時新聞】矽統(2363)股價溫和走強，市場聚焦主力與法人買盤",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONXFqd2xiSHhTRzh5Nmx6OVFqNHJ3Z200aDc2VnFESTJxdnU5LXFCR1pfdEk1eF9XSERZMXk2OVNWTWEya1FJNG1PZkZTLW9FS09jS0cwMFZJME1qN3hiMWZ0bXVOT3ZxZkNMZUVhRzBkS2g0cElMYm83cEpDWXlRb25HdU5nX3ZROEw0dlZR?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-22T04:48:33+00:00"
+    },
+    {
+      "title": "2363 矽統- 雙燈💡💡 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yb2dZZExSaHpoaDMzVWpwaV9ySng0VWtkYnZLTEk3c1F0UDFfSy1nQzU5QzE3YUpsaXlmaklHQUx3R3hWTTNrekxReUJoMUV3NjRVbzZvLTg?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T16:26:17+00:00"
     },
     {
       "title": "2363 矽統- 一漲停，一堆妖魔鬼怪都跑出來了- 股市爆料同學會",
@@ -44,7 +44,7 @@
     {
       "title": "【10:49 即時新聞】矽統(2363)攻上漲停，買盤聚焦營收創高題材",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMGE0TnkwSjdRSVQ1ajBTOGtaSXJrQTF3QkRseUE0Q3l3bTVweTVEV3RnY1prTXpXc2hwV2RGd0F1TnNUZWhDRkdnQmRPWk9DdWdvY0pCc0hvLXkwWVo2SzBGZGxzX0dqNVV2OGFVZFpYSXpQb3Y1RC1HNkt5TG55eWJIMWNZanpsYVRJclZ3?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-21T02:50:10+00:00"
     },
     {
@@ -54,27 +54,27 @@
       "published_at": "2026-09-10T01:37:50+00:00"
     },
     {
-      "title": "矽統單月業績創新高 盤中股價漲逾半根停板",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SVlZ5QjI5VkJia1FLNUZTUHh5dXhCYm5tVm1PRHhvM0VJb1RDbTRBbF82RDdrbWttOVl4eDA1TVdkUVplczJZaWxDZ0RGNFlTV3F5Tmg5SXhyZ9IBX0FVX3lxTE9Sb2ZRRm8yaU1jRVVjeGp0a2plaUpudE8yVXNWdGIxUm9KZXlkcFplSTNSdVZ0cF9FRWliOWVqcm1tWi1HUGM5eXRlLVJaVzdGVzI2Y19ObmQxZDk3ck5R?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "加權指數尾盤拉回 220 點收 47,105 點！權王台積電逆勢撐盤，營收創高模範生鎖碼國巨、全友、矽統｜ 2026.09.09 #台股 盤前解析｜今天 Shot 這盤｜豐雲學堂直播",
-      "url": "https://news.google.com/rss/articles/CBMiqAZBVV95cUxOd2M5dDc5ek55RGxQNG5raFZnTDhhM01iUkFxWjQ0dTJOQmhBZ29WVGctLUUzYnVnUVBWWXZlc0xQclpUX0lZUXVfb2JBdkJSNFFtZV93Y1MwUEwwVGZQazN3c0VmWjR0akgtY3JPNExKN1NsYlpUSDlwdlFZY0N1Z0lnTWZkNXY5TUZJYzJkckg2ejE0OGs2SnFPWUxhNFI2aGZtTGxraE04NDlqek9lTUgyOW14N2VxYXF6NWI4R2ZiSkJqVDhrTmhNY2Y2bWNwYnZiMlBFNGJydDBnLWZsRUhUenVKY1pQcmNvZHdnNFNNS0lSSWNhajRQTXRwUnBVa3BVQWxNLVdfN0U5MEZCcW0xNEthdnNWMTUwU01ObVliV1JVOEVmUm1ZMkF5UnB4NFpsVkVEbm9jOVZ6Y05aUFFkSXRYX2pVU2hUN1M0Z0wtV0JCQmtXYTQ5NGhaUlM3OUpDZDdlUFVlM05FS3Nsd09ZckZKQUl4MEdkdnZZRG82OEV6VEdzWWlGRFplbzg5NHo5NnRoWS1PWVZrM1hCcEwxbXNqcWgyeEN4ZzBtSC1SUUdGZmRCNE1LLW1iQ2VndXpfendXZTZ4N0tCTUJ5MXRmVEU5d2xiYV84cUJscGtuUEJGODNMUDNyYm9rU3hSVmQ5QWQ3OUkzUjBVSk1KVkhzaTZlLUtLTGQ2Q1NxT0d4NzJQbnI5N3VRejBWdER6ZFFoYU41Qkdwcmo2NU5Va3F3c0g4WkQxSVBTanFDd3UyV3BBT0RDeXoyVVNRdFFXZUotSDd2VzAtdGVSOXlNcGlRZHBMOEtFOUlSbnc0Q0x6aUJyQ2ZWaWlTWl9ZTEVjTXFaSEtLQmVaMUpENzFwektMem15YWZINmw2NkJxVWZZYm5VR18xbkN4N0dQaFJVYVBFUjVkMVBHalFGQ3laQzZqYkhSUVE2SVJPd3JqZnR3R29pNFNiM0dMb1dEOW5SWlhXWkozemhZZnZNYkhtcVVZdV85cHNuZzYwZG9wTFVwZkN2M0Z2REk5UGpPV09FbTFmQ3BwQlk5aUNYOHNxMkdoMmVUYWlu?oc=5",
-      "source": "sinotrade.com.tw",
-      "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
       "title": "2363 矽統- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DNkdyR2lfRE9vZFRuLTZydEMwUjNqX0E1ajlEWElMZ1g0SkZGcmpWalpCXzFUSkhtODNGMFhwMi1KaVJpeE1WYll4VUt0TzBRM2xiem1GTE0?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
+      "title": "矽統單月業績創新高 盤中股價漲逾半根停板",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SVlZ5QjI5VkJia1FLNUZTUHh5dXhCYm5tVm1PRHhvM0VJb1RDbTRBbF82RDdrbWttOVl4eDA1TVdkUVplczJZaWxDZ0RGNFlTV3F5Tmg5SXhyZ9IBX0FVX3lxTE9Sb2ZRRm8yaU1jRVVjeGp0a2plaUpudE8yVXNWdGIxUm9KZXlkcFplSTNSdVZ0cF9FRWliOWVqcm1tWi1HUGM5eXRlLVJaVzdGVzI2Y19ObmQxZDk3ck5R?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】矽統(2363) 八月營收5.12億元，表現亮眼、呈現雙成長，創歷史新高，年增81.06%",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNU1QcXUzZk5ncUY4YW8yN3FaMHo2aDRSWm9sTDUzd2NUeDBoNkxFNFU4ODBmT21fVFRKS09vWjZ5c0hJWnlhSGF2RTFGNE45ZW9LdEdWSXAtLUFQWk1WN3N5QkU1LVVPc0F0cFJJVngzVUNtZnhnZVRHdlV5ckxkeWtwUlZIR0E5eXc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
       "title": "【13:14 即時新聞】矽統(2363)股價上漲至52.9元、漲幅3.52%，受營收高成長與集團整合題材支撐，惟技術面仍在中長均線壓力區、主力籌碼偏空拉抬味濃",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTWdnWS1UZVZCXzU5NU54aWwxaTEyX1hzdXZ4NVVWakpXWVd2Ty1vZkNnbU1ucmJySFBuck90TG4wSWgtbG1kUGtMSkVBMUxCYnNzUGVEOXVYY2JUUU53RFdacXZVcmRqbGo0d1BiZENSMDdHWGVDUTZ4elZmcXBnWmM5UmliUlFFaFNZbVd3?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-07T07:00:00+00:00"
     }
   ]

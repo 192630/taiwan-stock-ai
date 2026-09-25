@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-24T17:35:31.612309+08:00",
+  "updated_at": "2026-09-25T19:36:14.534008+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2440",
   "name": "太空梭",
   "count": 10,
   "news": [
-    {
-      "title": "台達電重摔5%、聯發科挫2%！台積電開低跌25元至2440元台股開低跌452點跌破46800點大關",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5YdnN1VjI1VnRZTzQwQW9TdHlHbnJLTE5FTnVHQW9zLVVVWF9SS2hoc2EtS3Q2dk1WdzRVQ1BzaHFhc1ZadWhzV09GRQ?oc=5",
-      "source": "FTNN 新聞",
-      "published_at": "2026-09-10T07:00:00+00:00"
-    },
     {
       "title": "營收速報 - 太空梭(2440)8月營收3.93億元年增率高達45.29％｜新聞快訊｜豐雲學堂",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKbWZJaDZkZnM3SXc5eTlUWHdKTnl2SmNvai03RzlrM2xPajV0YW03ekt5dEJhVXJza2Q2RWdUcWFUZl9qbkRPZmFPSW9JZWV3OUlFd0tlUE8ybjhTaVRWQ1RPYzk0YWxySDFrLURSMHJYa2VoZnc?oc=5",
@@ -18,9 +12,15 @@
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
-      "title": "高通和亚马逊达AI晶片协议 规模上看2440亿 - 财经 - 国际财经",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUcUxqQjVxQmRhMm9VUjRQVEtlVllTMUxCcVFfR3VhVVgyaUQ1ZFdGbWplbUU0VFFVUnZURFZIZTB4VlNBb3RMZTZKQmFDa0ptV3R5dU94MGJZSjF1aWdzaXVEOGdPd2hzZ1R6QmxpcWsxbXBXQlpJTWFIS3Y?oc=5",
-      "source": "Sin Chew Daily",
+      "title": "【2026/08月營收公告】太空梭(2440) 八月營收月減年增，全年營運續看向上-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOVFjc04wMGRONGtUWVRtMkt4N3c1VldNT0JsRGhqTU03aV82ckhfbHJxdEVYWUI5V1R5b012anRTVkNlRDh6NktQR0U2OUZsVXplSDdmbkdNLXFvbS1MNW9JXzkzZ21LTDRpNTFvSnZGeFVlY3VkbG5JQWdoRU9LVkYzQUpIMVlHemc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
+      "title": "台達電重摔5%、聯發科挫2%！台積電開低跌25元至2440元台股開低跌452點跌破46800點大關",
+      "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxOV2lOaE1TWmkzcm1scExzRHZsbmpGQzVITWxNeTNYTmtIN2RnNXQzckpCdUFkeDBFZmdvbUdseVBDdVdEUEVrZXNueVkyMlJVUzlyNURYazdzUHEzYmZQVjdvbkhlUnpQNENuVHBoN2hMYVFRUklKMWJFbFJMRVJFU29YLVpOQzUzbFNPV1d3M1NnZzBVN3JsRVpwTUtrT2lPQ0FyWXpHVjJJV3FEWGF3Vm42M3h5NGlSWmhxV0djTHRUQmFmYzcxdzdFVzFwRjVobTZhazdCNXpIM0kzUThZRkJwd0ltaU94M2lPWGhVM1NRVXExbzF6VkhtRHZYREpqa2JyQnd2OGcxTXJSRUY4NjFLYXFIdWpCR1ducVRtZGg0T1otV29EajJjTS1vbVN5a0I2UDFGWlBNZ0E0dnducjRHdjF3bnI5LV9rUGdKZFp2Qm5YbjBST2FDR21nczY5T2xxeU41QmpmVVEyelA4Mkh0MFhoRWZZaTFjWlRCaTFLNndYejJNTzFqNHZUb3JWY2tCYWEzN1pxaGVJdkNwU0JQakVkVXFDM3o4eDBaYXpuLWlBSnhUTXBGcGt6akNqT01OUnlMNkh3TnFxMmRoXw?oc=5",
+      "source": "Yahoo股市",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
@@ -36,6 +36,12 @@
       "published_at": "2026-09-06T07:00:00+00:00"
     },
     {
+      "title": "黃仁勳一出手！台積電尾盤吸金破百億元 收2440元今日最高價",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOOFB3UmUzY2JBZDVYUksxVGkxbmh6SUdEM1pEdklSelJzemZQRWtMSFc5ekdOLUxwZmFrRHpzLTdYYXNfQ01ralBudHd0WFFGc0RMU1pUcDAzWDVOT2ZVOHFTZ29ETVM4XzJpajVnSkRmTkd1eUgybUdtOGdRVk1ELUEzVWFxd2Z5X3NPVkNYaktoVVlvYXlMRk1UMUN3QVJCWXQxTnZ4dkFuT1B6d3hlZWNqSzByMHlWZGRRbU9VMmJKS3JqR1A1MEZpeXZFaURHeFd5cU1iOGxTRlVCcW1aWFV2eFg1U1VrelFOY1RtTFlXUlZqY3d5dWYxUVpVaWlBNmxCaDhvR1p5NVhYM1hkSXhUTWE2VDVoRWtSZFFUaWgwbWZUOUpRVXJOQmE3bkNGNFZZSTRhMXlIWk1tTURVLTVDS0hYT05YemszNHRZam9NVUs1enpFVlYtQ2llSzh4Z19GOWtGRktnTUVhUExzeXNJM0hPQWhFWmdRdkVaSTRKUWJBTTMyUEtUQ3RWdw?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-01T07:00:00+00:00"
+    },
+    {
       "title": "台積電最後一單5004張推至今高2440元 台股收漲820點",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TNkEyQWhxc0tOWTRUMmRpQkYtTURMRDh1MHRVcmUwRjdrazM5QkRNSExKWlcwdWdBaWZDeW9ONTRRcjRwUlBtc2xiWm9pRmJDaFHSAVBBVV95cUxNRHNvRksxb21FMG1vRWRrbEpDaF9nNUdQbjdJWlgtVGFQdDRKT0twRC1ZeUhKOTBtNmplZXZlUUNxZFRZWnRWZU1IQXc3WTN3UQ?oc=5",
       "source": "ETtoday財經雲",
@@ -48,16 +54,10 @@
       "published_at": "2026-09-01T07:00:00+00:00"
     },
     {
-      "title": "黃仁勳一出手！台積電尾盤吸金破百億元 收2440元今日最高價",
-      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOOFB3UmUzY2JBZDVYUksxVGkxbmh6SUdEM1pEdklSelJzemZQRWtMSFc5ekdOLUxwZmFrRHpzLTdYYXNfQ01ralBudHd0WFFGc0RMU1pUcDAzWDVOT2ZVOHFTZ29ETVM4XzJpajVnSkRmTkd1eUgybUdtOGdRVk1ELUEzVWFxd2Z5X3NPVkNYaktoVVlvYXlMRk1UMUN3QVJCWXQxTnZ4dkFuT1B6d3hlZWNqSzByMHlWZGRRbU9VMmJKS3JqR1A1MEZpeXZFaURHeFd5cU1iOGxTRlVCcW1aWFV2eFg1U1VrelFOY1RtTFlXUlZqY3d5dWYxUVpVaWlBNmxCaDhvR1p5NVhYM1hkSXhUTWE2VDVoRWtSZFFUaWgwbWZUOUpRVXJOQmE3bkNGNFZZSTRhMXlIWk1tTURVLTVDS0hYT05YemszNHRZam9NVUs1enpFVlYtQ2llSzh4Z19GOWtGRktnTUVhUExzeXNJM0hPQWhFWmdRdkVaSTRKUWJBTTMyUEtUQ3RWdw?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-08-31T07:00:00+00:00"
-    },
-    {
       "title": "台股早盤漲逾500點！重返4.6k 台積電上漲30元至2440元",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EdTUyQWxKMXdteU45c1gtblhKRzNvT0lEelZmbS16ZnU5QzdNMWgwZ0F4LU84V1RsTlk4dGNOT21GMklUTjdKbDR6NmNNV3NuZmNtejRVZw?oc=5",
-      "source": "news.ttv.com.tw",
-      "published_at": "2026-08-28T01:21:33+00:00"
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbGVIRlc0WGNELXJoSlRVaDg4NW9GVGMyb1dpTm0yTEc0bDR5aXMzbk90U0c5OXFzb0lrZ0p1dGFITGx1ajFtMHNOZm1ZUTFIdnViUURuY2RQaTQwUWg5VlBJOEl1QWxXWXd6bHAzYUVyQ01MdW1pZC1ocVpmRDVaNnprTHpBZUJVM1g2cGNFUGcxdw?oc=5",
+      "source": "MoneyDJ",
+      "published_at": "2026-08-28T07:00:00+00:00"
     },
     {
       "title": "美股收高帶動！台股早盤漲近6百點 台積電開2440元",
