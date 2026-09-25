@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T06:33:58.573943+08:00",
+  "updated_at": "2026-09-26T07:32:07.023058+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6180",
   "name": "橘子",
-  "count": 9,
+  "count": 11,
   "news": [
+    {
+      "title": "又來了～橘子工坊、歇腳亭飲品農藥超標下架回收| 生活",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5ZckEyTm8zUkU2RlZhN3JwajQ4NEV3NE1oc0M4QnVPRHJlbzB1WUpjSWxVNllyQ2RjTUNUak5BVy1zYUlfWFE?oc=5",
+      "source": "setn.com",
+      "published_at": "2026-09-25T02:01:41+00:00"
+    },
     {
       "title": "橘子(6180) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41RXJzNkt5ZHJlNEFuVXNSZjdXQzhPenlEeDBsVDNqYXZLVjJPaG52LW9rNkZPRVo2NEhDeER3d3lLY1pVQ2xhZmVvdFI5LVNjd2lV?oc=5",
@@ -30,26 +36,32 @@
       "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
+      "title": "橘子雙箭齊發 第3季拚轉盈",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9lSUYzamRFR3oyRmd4eHR3LXdubXUyY2ZTZGg3WGVLRGhJblRla0lHWEhrTW9aYmV1LUsydHRGMHM3M2QwTURDTHlqVWtJVzFV0gFWQVVfeXFMTVoyOF9PZ3dXYXByd0F3NlMzQkxoMW9sMUV6WW8wOUZSVG02ZG5tOGp4QlJzTmdEUF8xT3dLaGF0S0JIcUxOME5aTTFZMzlVNUJ1dWNoaVE?oc=5",
+      "source": "udn.com",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
       "title": "【2026/08月營收公告】橘子(6180) 八月營收9.13億元，表現亮眼、呈現雙成長，創近7個月以來新高，年增29%",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTlFCQ3J2Sk5QOS1OYkVuMnhNbWtGam1uS0tPb3Q0QUJEQUxOZVl0c2dkdlhPazFzVWJYcWkxZVlVVjRxaVhDTVZEdV90TlA1cFk2WngyNGdDU0E2aXk4X2VVSnJyc0xydWVXOUZzWHFmaGp3ZW5sWk5DcFRqODVmVlFhY3BkUmdtYnc?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
-      "title": "橘子集團拚轉型！劉柏園揭3年藍圖 AI、代理與自研遊戲「三分天下」",
-      "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxPQzdMeDNWSXJPMW9qazJNaV9BV001QklLMUQyZk1ZZHJobXkwTnE1V0NSZGFpSVR2Wkdod2VxZDZMZFM5QVJUMTNYQ1lyMTJWYzNkaENpSUNEUW1qVHVHMndzSVBpMDVGV1BQUVc5SDRpM2tETXd3MVhDeFJlMDJmeEpWLVhyRjkyYnF6SjhzNVRielgwMkhkclJJM1FBZm9MNVpXNHA2bmRFYkluUVRIenU4WkdzSFBtZlQtWXN6YmpnVC13OWwzVGNCRmJadnVFNEtqSXJVeHI4SWVIWGRUQ1NFQUY3NTlmYjhjUW5yR2sxQnZIcnhzVFp5cnU5WmRwS2JHZzdadWlIWnUwb2pGaC1zcjRldDh1NEtyeEtfV1VQUk9iVURkYnAySE41dFl6cXhsRU84MTBjUmRRcUxsejNLd2pBcnRjMTBzdW5KTHdVdDlwcEM5MzZIdXd5Q0FBOEc2NkFrWVRCNkV3Wk5BWmFaNlRPb3RyWWJmVjJnSlJ1YktpNEZ3QUZQS0hrMEdL?oc=5",
+      "title": "橘子兩大主軸擴AI事業版圖 中長期目標占營收1/3",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQRXBKVUtjOE1ZejAzOHBGcXpOMktzaXFQNDM5ZHItbnFkRkkxZS1BX2pfRHRpQ2N2d01DazVVNlVUYjEtcTRDVGhBd2dKVUZ2OEdEMk1ZNDlmMlE3QTRtTkZ6OEhYYlltazhYSk9NVVBua0s3M3dKLVVleGZ5WE83eTlxb1ZYZk5RLWt2TmNLcm5BNm1FN0dQMXhPMnlTMXljcUlaSWZKdDV5cXMtOXBGd3ZnbTRKeUExWnhuOV96SVBDdW5PZ0R3ZFpqc1g4YTZ0YkM5b21sNzZHRldaUC1Obm12OXNXODNJZ3UwbWd0VjR1Q1RnTlFmeWxKc2hka2w3NkFRS25zSGhZNjZGRjN3UkV3ZkJPMi1pNnY5OVE1RVFYOXZKR29yWmhLLUVjMTV6bGpwUHRGNWRnT1h4Q0djMDFldHBwWnc?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
-      "title": "轉型「AI橘子」!董座劉柏園看未來3年內AI營收占三成",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNWFNvVHA2NkNXUk1Wdlh4QjZJUjRZNzR3TWlWWG8tazFxWVc5cDVzbFdRWGpfb09DdzNMR0s2SzlhX1RoU29sNWRsY3IwU2p4enAtc1lMUU8?oc=5",
-      "source": "stock.ltn.com.tw",
+      "title": "遊戲橘子砸5億攻AI 劉柏園拚3年營收三分天下",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBnbWRRQkNPeF95cGc0SGowVFpFbkdMR1FIY0JRMV9fbWV4RVN2NDNvckRUbzJNWWRzTDlsTTM2Y2ZyU212bjZza2hOZElRM1VLSU1ORDFaV0xZTDk5dmx6X1B30gFnQVVfeXFMTzNuc0RzampiRFVPYlYwaVQ4dlplOEdmLXNIX3VhaFlZcThEU20wY2M5MFhrbHV0Ny1YLUp2SVczNGprS0h6QzFtMldnb1lEVGk5eTFHMU9nVkJGTzl6b3o3MmhxMWJ1aw?oc=5",
+      "source": "鏡新聞",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
-      "title": "橘子兩大主軸擴AI事業版圖 中長期目標占營收1/3",
-      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQRXBKVUtjOE1ZejAzOHBGcXpOMktzaXFQNDM5ZHItbnFkRkkxZS1BX2pfRHRpQ2N2d01DazVVNlVUYjEtcTRDVGhBd2dKVUZ2OEdEMk1ZNDlmMlE3QTRtTkZ6OEhYYlltazhYSk9NVVBua0s3M3dKLVVleGZ5WE83eTlxb1ZYZk5RLWt2TmNLcm5BNm1FN0dQMXhPMnlTMXljcUlaSWZKdDV5cXMtOXBGd3ZnbTRKeUExWnhuOV96SVBDdW5PZ0R3ZFpqc1g4YTZ0YkM5b21sNzZHRldaUC1Obm12OXNXODNJZ3UwbWd0VjR1Q1RnTlFmeWxKc2hka2w3NkFRS25zSGhZNjZGRjN3UkV3ZkJPMi1pNnY5OVE1RVFYOXZKR29yWmhLLUVjMTV6bGpwUHRGNWRnT1h4Q0djMDFldHBwWnc?oc=5",
+      "title": "橘子集團拚轉型！劉柏園揭3年藍圖 AI、代理與自研遊戲「三分天下」",
+      "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxPQzdMeDNWSXJPMW9qazJNaV9BV001QklLMUQyZk1ZZHJobXkwTnE1V0NSZGFpSVR2Wkdod2VxZDZMZFM5QVJUMTNYQ1lyMTJWYzNkaENpSUNEUW1qVHVHMndzSVBpMDVGV1BQUVc5SDRpM2tETXd3MVhDeFJlMDJmeEpWLVhyRjkyYnF6SjhzNVRielgwMkhkclJJM1FBZm9MNVpXNHA2bmRFYkluUVRIenU4WkdzSFBtZlQtWXN6YmpnVC13OWwzVGNCRmJadnVFNEtqSXJVeHI4SWVIWGRUQ1NFQUY3NTlmYjhjUW5yR2sxQnZIcnhzVFp5cnU5WmRwS2JHZzdadWlIWnUwb2pGaC1zcjRldDh1NEtyeEtfV1VQUk9iVURkYnAySE41dFl6cXhsRU84MTBjUmRRcUxsejNLd2pBcnRjMTBzdW5KTHdVdDlwcEM5MzZIdXd5Q0FBOEc2NkFrWVRCNkV3Wk5BWmFaNlRPb3RyWWJmVjJnSlJ1YktpNEZ3QUZQS0hrMEdL?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-08T07:00:00+00:00"
     },

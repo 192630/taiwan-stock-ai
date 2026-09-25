@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T06:34:22.021595+08:00",
+  "updated_at": "2026-09-26T07:32:30.865886+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6239",
   "name": "力成",
   "count": 12,
   "news": [
+    {
+      "title": "力成 (6239.TW) 股價、新聞、報價和記錄",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXeld6MU54ZnhsTHNBNGNwY3RFNU5JVlgxekdDRkJRQWVoRi1BcnVkMFB3LUF1NmxMRXF6azYtVkhjakJlaTRkVWxVcXJTZGFfOGZqWDJR?oc=5",
+      "source": "Yahoo 財經",
+      "published_at": "2026-09-24T18:05:17+00:00"
+    },
     {
       "title": "力成累計已買回9,714張庫藏股 達成率97%",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MVzdpQ0x0WUFpMzZ5N3BlSVdodWduYWszUHdMQ1ljMlVjcEh5YmVQTE11QmpuUmU2SW84X0JweW9zTXFYRm5maUt3ZUd4LTA?oc=5",
@@ -30,6 +36,12 @@
       "published_at": "2026-09-22T11:00:41+00:00"
     },
     {
+      "title": "6239 力成- 明天大漲- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1IczYtN0J0dUdrVnlCbzg4enZxcVZLcFhJbWU3M05oX0ZqWEZyc0hDYm9xbFdOUkwwVDE0YWFNWERwdkhzdVJJVWhsVzl5YlFqQWdvc0RKRWU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T23:17:27+00:00"
+    },
+    {
       "title": "力成科技 | 6239.TW 股價走勢與即時報價",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EQzR1dXV1TUJ1Qm85OV9OOHU2V2JrQXZKYUhsc2lLaWpEZTJONHBaaVdZV05MRkF3SWhKeFlwNE5sRzI3WmV6Z3VzcTcyejQ2Tm9mMg?oc=5",
       "source": "BigGo 財經",
@@ -38,12 +50,6 @@
     {
       "title": "力成(6239)權證專區-認售/認購權證(權証)查詢專區 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02Y3ZhdXJVc1FJMGRvT1JsWFZSazk0QXNyOG0yVHZ1OGdvUk5fRXNYWUF4NmY0dVBUYW5ubHhnVHB3RkY3dWhXQlBUYXk2M1BGVDBHNzhhdklSWlN2?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-21T07:00:00+00:00"
-    },
-    {
-      "title": "力成(6239)外資、投信、法人籌碼變化與自營買賣超總表 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5R1FIdkxPN2h6Y1FSSWhRSHFFUk9BejRuemFvSzlyaFVLTGRpNG1JRkEyOHJ0ajFNMjU5Q0FjNzRDZlVQb3h4c1ltSENiMTFZdlozTS03SEpZZHBUdXF6cjY3X3Y?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-21T07:00:00+00:00"
     },
@@ -60,22 +66,16 @@
       "published_at": "2026-09-17T02:22:30+00:00"
     },
     {
+      "title": "6239 力成- 力成表示，先進封裝毛利40% 外資估明年挑戰1000億營收- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QdEpBdGR2VUFMMnFQbTROMDFDbXRPaFhHSkhNZy1MTF91NG10aGR5dXFpUnVpNWx1Tl9ZUGR4aVdoY1VKT3ZUUWRDUDdFZEx1MWYzWDJPMUM?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-16T07:00:00+00:00"
+    },
+    {
       "title": "力成砸百億結盟博通，狂買庫藏股留才，拆解封測大廠的護盤底氣與現金流真相",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4zYTN6VDVJNzNRczUtemtaS3FNNnY1YkYzVTgwRk5VXzg3clJtaHduMHVlUHhHam1HTlRzZHZJYU5felNHNWVMX3FfVk5XUVdrT1RianphakRaQUVjYzVYWHBn?oc=5",
       "source": "鏈新聞 ABMedia",
-      "published_at": "2026-09-16T00:33:35+00:00"
-    },
-    {
-      "title": "熱門股》天價出天量 力成漲停鎖不住",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jSk5Uc24ycUZJbk9hNVhDenBqN3ZzTTVpYy15VEtsZ1pWYkVGSWxRSy1ydll2dlhKb3pRRGNoZ0hmN1dxYzI0WEx1NTJGVlhscHV1VVE4WVA?oc=5",
-      "source": "stock.ltn.com.tw",
-      "published_at": "2026-09-13T08:26:46+00:00"
-    },
-    {
-      "title": "6239 力成- 力成公告本公司買回股份之⾦額達新台幣三億元以上- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GNVR2c0NjSkZfRlIwQ05iRjVpcFAxS3Z0bmFSMnhodEFhc19wYUx2a3owZGFzYWo4UVhUNWdjV0pmVnFjeGhZNVVaQXloXzJMRUdxaXpMSHU?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-09T07:00:00+00:00"
+      "published_at": "2026-09-16T07:00:00+00:00"
     }
   ]
 }

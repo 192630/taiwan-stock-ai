@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-25T06:34:21.103939+08:00",
+  "updated_at": "2026-09-26T07:32:29.856947+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6236",
   "name": "中湛",
-  "count": 1,
+  "count": 2,
   "news": [
     {
       "title": "【2026/08月營收公告】中湛(6236) 八月營收表現亮眼、呈現雙成長，創近2個月以來新高，年增7.69%",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa21HWVZRUXUxMVItT3FzS2Y1dEhaWjNuQ1pPSW5MUW9pcnc2UlM2SGVUSUdFcXVIWHlKanpVaWszVGRGT1kxTWR1Y09hanFTYWx2SVV1eEdZZDRnVkh0ZWs0bk5SaTkyXy1Ma0hzdzlrYWFYMkF2d25wS3BncXVTcDRMLV9jaU5TbkE?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-18T07:40:05+00:00"
+    },
+    {
+      "title": "【2026/06月營收公告】中湛(6236) 六月營收表現亮眼、呈現雙成長，創近14個月以來新高，年增21.49%",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdy1OTzZMOVE5MGVDcERWdzdhbWdHVVYxLXoxeVlyNEdNa2dpRzR6akZ3MTNpRkhyeF9QN3djbk5jUTU1ZXN2bms1LWR0d3p5WXU5ZGRGX2Q1emZYeGlHT21ydUdkOUNvQ2Z5MTZWalpJMDlaaF9kdUN5NHEweGxSWU5lTkVGLUZpT3c?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-01T07:00:00+00:00"
     }
   ]
 }

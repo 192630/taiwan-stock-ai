@@ -1,13 +1,19 @@
 {
-  "updated_at": "2026-09-25T07:32:48.902318+08:00",
+  "updated_at": "2026-09-26T07:32:40.635751+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6276",
   "name": "安鈦克",
-  "count": 3,
+  "count": 4,
   "news": [
     {
       "title": "【2026/07月營收公告】安鈦克(6276) 七月營收創近2個月以來新高，月增20.17%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNREVEMHljNjVuSWRpTzg2WkNFNlVQSGJVQWoza0JUMjZSSjk1THBVNEFGNzd1bE1OckdpVjVqTGdZOWhKR1BzdHdBNlpCcmVWc1NPazFwYzVrQXBjV0lTa1NSVnlmaWY3UWtZN28yc0VXb090WXNsZ2EyQU1oMUhHMkVsTklFay1NSEE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】安鈦克(6276) 八月營收營收雙減，年減53.79%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSEFsYmtkaDRNcUdaUzVDSk9zcHU2UG10NlJuRWJlWDRvQzNMTzJndFY4b3h6YXNiMy1la0hOMkRXbVJxMVh4M3o3R1RFSjAyZFVpYjBvVGVpQzJZZHQ0ZFhBUl9VRU5lMDc0a2RTSkRGQU9maWw5cFplclQ1ZVoxTmdmSGl4bkRSTWc?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
@@ -20,7 +26,7 @@
     {
       "title": "安鈦克(6276)-同學風向與貼文摘要 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DVUVaT1dzLUpvSGY1eHk2RzZGNWpLR1F2X1d5WnB3TG5HRnlZU2NFd1dHWTdUakk1eHZqd1VjdHVieVU5SUg1WGszV2RDVmV1dDhMVlVJMWNxVHpqa0NyQ1B3?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-02T08:29:31+00:00"
     }
   ]

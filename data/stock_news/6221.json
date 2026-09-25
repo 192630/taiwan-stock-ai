@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-25T06:34:15.341140+08:00",
+  "updated_at": "2026-09-26T07:32:23.883250+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6221",
   "name": "晉泰",
   "count": 12,
   "news": [
     {
-      "title": "【11:06 即時新聞】晉泰(6221)盤中走強，題材股輪動下續吸引資金-CMoney 研究員",
+      "title": "【11:06 即時新聞】晉泰(6221)盤中走強，題材股輪動下續吸引資金",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY184aVZ4c2F4UC1vd3B6TVk4aFYyOUVZUHJhSHllVlppS3J2NVVGb2tfUVVtZzdXdkF0MjF1VndNVnZjOVhOS2Vnd3dhaXY5UEU0enM1QkFuWkdLdmdXVk5CZjdTaDJWTWxVT21lekV4eVBGSnBOU0xzX3p1bVc0RnF1NjFEcWFFZVQxM1Vn?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-23T03:07:34+00:00"
@@ -54,12 +54,6 @@
       "published_at": "2026-09-18T10:08:00+00:00"
     },
     {
-      "title": "6221 晉泰 - 觀察 籌碼轉強 買進 當沖 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1N3liUm5VbFZfUzNiOVkyVWkxQmp3OXNTdnpCeWh0UkFwX3dodDMwa1VtNFlEZ0VZclpITUxkOHNtM3BHOWtuSUVocGttMW5ncldmRTZzQTc?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-18T08:24:23+00:00"
-    },
-    {
       "title": "盈餘：晉泰(6221)股價遭警示，自結8月歸屬母公司淨利500萬元，EPS為0.03元",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT3lHTzczRVdVRTFCN0g4NzFTaGhYUXNLMzFiWk1tMEVBb2NHS0RMZ2x6QzBOMnpvTEFNYm9SemR6Qll3azFSZlVyVVhxbzBoY2d4R1BGdVl3WEcwMG9JYlNBcXViOU5SME9TTzNuT25JWkUzS1dKZ0dxWTZqX09NNWVEU1dDa2JH?oc=5",
       "source": "富聯網",
@@ -76,6 +70,12 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UV0swc200blFaMndTaUt2aHl1WmVQV0dPTmFiWlJyd2VSeDVRMjNxR0pwUmZnVTdzbVgwZHY0cVY4dlJMREpCZ0JNSENjUVFQZnJMMGxtcDk?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-16T01:00:38+00:00"
+    },
+    {
+      "title": "6221 晉泰 - 年度最高營收漲停？ - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QMnhvTkFFZjZOVm94REFVeGRnOHN1aFZZdFRta0lXczBvNWJKVzdVZkRNTzY0bmMzTXp6Z2NKbERDa0dvbHZPTFk2aUZKVUIxV2hHZS01Xy0?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-11T01:18:07+00:00"
     }
   ]
 }

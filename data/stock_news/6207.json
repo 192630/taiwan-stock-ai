@@ -1,15 +1,33 @@
 {
-  "updated_at": "2026-09-25T06:34:09.440910+08:00",
+  "updated_at": "2026-09-26T07:32:17.870922+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6207",
   "name": "雷科",
   "count": 12,
   "news": [
     {
+      "title": "勤凱、雷科、蜜望實 添商機",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CZUxURDNIc015SEs0RzhpN0wxNkt0TUQ4VDc3MGlwaEtwSk1JWFlmOHI1SUtZUmNLbEFpMmdTUE5Gdnl4MVdrbU5QQjBsMlBiNVlFOVdGMnZqdEF6c2JNcmpnaVAzbGFVcnJzSkRsTzBxQdIBVkFVX3lxTE4xZ2xnQnAxNkg0bVJScWhlclVxQTFSZjYwWTM0TU1MdXRyVzl6aElOVDNtOXZqWUZRbnQtUnZaUE9vOXllZ2VNRVFOdl80ekRuU0xEd1Jn?oc=5",
+      "source": "udn.com",
+      "published_at": "2026-09-25T16:35:45+00:00"
+    },
+    {
+      "title": "雷科防務龍虎榜數據（9月24日）",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBROV9TODVQb0hERGgyM1JIMFdCdEthX0laQ3NIeWd5c3BFQ2xsQjJtYXdiMnY0M0dXVHJqVVEzbjlLanQtUTM4UFZ1SkRBYXFYZjNnZlAzQS1nMFlZ?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-24T10:28:55+00:00"
+    },
+    {
       "title": "焦點股》雷科：半導體設備與材料題材助攻 強攻漲停",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PR2RiN1pxUkE0QjBQdnA2R21Xai1RN0JZUWlmQmxzd19OYzBoeUVCSFRsaXZaOWFGRy1MRTZHME5HdmM4Yzl2TUMwazlaT2FxX2lFQ1BCWlVhQTVZQkU00gFkQVVfeXFMTW9Va3N4M1l5MWx3dWdaZ2QyZ2FHUEY4dE1yRW5ZaTFQdTByc2tmOThEUlRubUlZeTg1Y3RZbmllR0MyTEJnY2dCTkdPUnVKdzBuN0hYQ2RGR3pfUC1HRXphZU9QRg?oc=5",
       "source": "自由財經",
       "published_at": "2026-09-24T04:08:03+00:00"
+    },
+    {
+      "title": "1809 中釉- 中釉及雷科都漲停板了...玻璃基板再起- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43a0EzbE1YbG91bzlma3Zwa0R0MFVQaUJLVU5OcEJUSU1OQWY2SjBMV0ZxRnJzNGlKai15Q2o3c1p0VEEyeU9PSS15VHJVc1dUQVBfVVVKNEQ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T03:31:19+00:00"
     },
     {
       "title": "個股：雷科(6207)出貨逐季增，明年步認列高峰，股價亮燈站近兩個月高點",
@@ -38,8 +56,14 @@
     {
       "title": "雷科防務(002413.SZ)：擬推2026年限制性股票激勵計劃",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01bmY1S2cxd25HMzd1VGZIOVB1XzNyUWdPS0l5SVBQSWVHaGdvRW5xMmEzVVlFajQ1RXlhNkY4bWJ6N2pPTlVlUmdaZjcydWdaSUdlWTVNSmRrOUZDTl8tWUNoUTRMb29PUEx3?oc=5",
-      "source": "TradingView",
+      "source": "tradingview.com",
       "published_at": "2026-09-18T12:23:22+00:00"
+    },
+    {
+      "title": "2330 台積電 - 興櫃的低價股～～營收大增還沒被看見😅😅😅😅😅台虹、雷科有持股- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96Wmw2NC1uNUZGZXE0SmhDb2JGTjM0d3AzYTVtMGJteTJwa3pIQ01lbmpyV2tJYXBIeHF1RDZGZDU2MDloVU5lVXV6aklCRVVoRmpaNEFRM0Y?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-18T02:34:58+00:00"
     },
     {
       "title": "被動元件紅光滿面！「這檔」AI營收占比拼16%漲逾3%、雷科漲5.29% 國巨目標價降至1125元盤中承壓",
@@ -52,30 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbWV3aC1hTDNGSUxpTGdEWGNFdVpHb3NYZWlCdFhGZWxTRzZBalpQT2xwNTVaUTJSR2FPWmZKTzA3V19ZWWhYM3VQbUloNUE3SHY0aHdockhIUWRTbDA1ZkVkOUo3U2VvbnE3UGNTYjFXWklZOXlYMEF4Q1ZNc283WnctazdlbjlfelE?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "【09:15 即時新聞】雷科(6207)股價漲逾8%，先進封裝自製設備訂單與營收成長帶動買盤，技術面站穩中長期均線、法人成本線之上",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iVV9XaXZxRkpoaFJKYXgyOEpXendpZVJxTEgtR0x1cGhtUEJFdWQ4S3gxN2E2Z1QtOEJtTldLRXppN2xfMUFIYWx2VHFJT3ZYTGNGWVVDZ2lHaU9RSVcxTDZwY2hmYzg?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "雷科(6207)訂單看到2027上半年！在手訂單破10億元，最大變數會是這個？",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00cWpfdTQ2YWp1Ym5sZUk1UEJtVS1uUHM3YXNrd24zNmd2RU84ODRNRzFoTE96MkEwOTV5b2tMeWxOdzdnODc3eS1wZUY3clk?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "【10:05 即時新聞】雷科(6207)股價上漲6.25%，先進封裝自製設備與被動元件需求支撐買盤，短線守穩百元上方觀察主力調節力道",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUkNuWWZrU2ZuSDM2Q1lLU1k2WlFxcHlTb1JqU1NOR3VORjFxVTgzb0Y2VU5zMm82TTVsMTc2M3c3M0ptNnpOVHhGbUtuaFZRUWNodGhpX1FKNXM2MmUzSEpSVkpyTDZYTTZqV1loNS1sVF9vYmJBMXBva09fMXZ1Z1R2SERpMmMtTk1YNDZB?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-04T07:00:00+00:00"
-    },
-    {
-      "title": "〈SEMICON〉雷科大單相繼入袋營運旺到明年 自製設備開花結果出貨估倍增",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NdmV2OEcxUU5jbi1oZWpPcFNpc3pvTjl5dU1KaWRpN3JoUENmNHU0X0ZnOFZ6R05yVUl5MWJabUs2TjF4RXFaYW10ZnpadU0?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-09-02T07:00:00+00:00"
     }
   ]
 }

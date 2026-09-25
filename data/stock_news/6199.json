@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-25T06:34:06.191892+08:00",
+  "updated_at": "2026-09-26T07:32:14.648411+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6199",
   "name": "天品",
-  "count": 3,
+  "count": 2,
   "news": [
     {
       "title": "【12:37 即時新聞】天品(6199)股價續強，AI伺服器液冷清洗題材成盤中焦點",
@@ -16,12 +16,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQlZXajhsWnprNWdHSFdSMF95dFZ2YzAwSmxSYlpYN2RzWjRGelJNUzJyZHZXTVUyWWtwZnVVZjNTSEh1VzdoTXJ0OXQ4dGtMSDV4Y0tZVzZpd2xQZUpTWjdlVGI3LXZNSXJjaC1oc24ybXFvcmY3eDE5azJwYnB5cXhQcktfOW9fQW12Vnhn?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-18T04:26:12+00:00"
-    },
-    {
-      "title": "【13:21 即時新聞】天品(6199)盤中走強，AI水冷潔淨題材持續受關注",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT2xIVENabXRaUEhMWkZmOXVQM05DM3Z4TzdRRHR3U3hKSmQ3WXJxcHM2NVdzeklmMjdLd3oya09FZ2VQdTFrUFhLM0NqdFBNeE9FblJHRlNzZnBiNVRUUE5FUUVRcE5kdEJBdFNsUGlTc3lKUkNpaWR1ZDNCenVQcm1oUzRtNkVib20xU2Rn?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-15T07:00:00+00:00"
     }
   ]
 }

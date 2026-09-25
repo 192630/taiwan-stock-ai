@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-25T06:33:59.901165+08:00",
+  "updated_at": "2026-09-26T07:32:08.387361+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6184",
   "name": "大豐電",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【2026/08月營收公告】大豐電(6184) 八月營收1.76億元，營收雙減，年減0.58%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbUpGU2xOT1NuN3dkN2hsSUJJSlB6akgxanVwSWVCOWtnRGVSSldzOEtwUG9JY3Q3dnMxRGQ0bWJFSWtDZ2Z6Wk12MkNnTFU5b2VxRXV4X2NKLVhDdF8yb2FZeXRsbTh4VGpndWFJYVFqc29INkUzdVVEX1RJbEhsXzJlclloSFdwUEE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    }
+  ]
 }
