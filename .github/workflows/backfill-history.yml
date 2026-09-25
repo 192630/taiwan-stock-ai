@@ -927,5 +927,26 @@ jobs:
             echo "No history changes"
           else
             git commit -m "Backfill next stock history batch"
-            git push
+
+            # 其他資料更新 workflow 也會頻繁寫入 main。若它們在這個
+            # 約 20 分鐘的回填期間先完成 push，直接 git push 會因為
+            # non-fast-forward 而失敗，導致本次已抓到的歷史資料遺失。
+            # 先 rebase 到最新 main，並在競態再次發生時重試。
+            for attempt in 1 2 3 4 5; do
+              echo "Push attempt ${attempt}/5"
+              git pull --rebase origin main
+
+              if git push origin HEAD:main; then
+                echo "Historical data pushed successfully"
+                exit 0
+              fi
+
+              if [ "$attempt" -lt 5 ]; then
+                echo "main changed again; retrying in 10 seconds"
+                sleep 10
+              fi
+            done
+
+            echo "Failed to push historical data after 5 attempts"
+            exit 1
           fi
