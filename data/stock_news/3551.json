@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-24T23:35:35.339590+08:00",
+  "updated_at": "2026-09-26T00:36:39.427885+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3551",
   "name": "世禾",
-  "count": 4,
+  "count": 5,
   "news": [
+    {
+      "title": "超購3551倍！歡創科技(06802.HK)認購涉資2500億港元，躋身2026年下半年熱門新股第一梯隊",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54b2xYblI2Zmtrb3NrVzdNZW1yeThyVUdaaE4yOVVBajJ0bTFUMURmaUhfeUROOF9SaUZlVUd1clk5c3g5c21ZTjBIdElJRDI4bXJjNGpkVlA3ZzBfaEg0MU42dzZtV2tNb0E?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-25T07:03:33+00:00"
+    },
     {
       "title": "先進製程設備清洗需求增 世禾今明年好光景皆可期",
       "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPVVZPNncyS3lLX01Ld0tUN0hSX0x3bXZOWmpWZzNISVZLVDJIMXRSSC05RHBkMnFuOWhLNmNVS0kyUU5xZkREMkJaWTQxaFdxNGRwa0M4b3BxTTdQSE4tRmlNdWpXcU1GQTZfOHgzSGVwRzhfV1JXRklYSlBJNkxBd1MxUVl1LWstaktjZ1N3MWtGTEdQZDRiZ2NZQ0FyVG1QZWNSZjNjX2NGWmZNSm42WmFQNlN1aUVFUGRGNlhYZmxYa2t4RnJWZGthbHoxTXJCRDJjWXB6dGxndjdTV3M5b3JvWmtjV0duVlNueHpvbFZQQ19VUlo5UVNHejJvcm1famtoaVBRRG1vZHFGMGNGNUtmRk5pbkctYjB4b2RNbGQ4X185OWt6eFRiUDVPejNtSXZOVnRGbU9LTGw0VV9vMWNSMFBmbjVic29NVzAySmxDZ2d4cUMxbEFzcXVnc3I3djEwUQ?oc=5",
-      "source": "Yahoo股市",
+      "source": "tw.stock.yahoo.com",
       "published_at": "2026-09-22T02:51:16+00:00"
     },
     {

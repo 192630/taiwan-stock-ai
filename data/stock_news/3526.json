@@ -1,21 +1,15 @@
 {
-  "updated_at": "2026-09-24T23:35:26.542104+08:00",
+  "updated_at": "2026-09-26T00:36:30.932438+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3526",
   "name": "凡甲",
-  "count": 2,
+  "count": 1,
   "news": [
     {
-      "title": "凡甲營收／8月4.17億元 創同期新高 | 經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jazdzei1rQ3NNOGJlTXFFLVI3N2dlTWt2VHJoQzZfS2gyQlk3N3ZrY1ZYb0RQVjM2Q3VOUUhvNkFtSFBWR1hDNjVNLWItRU5fa0JERnpR?oc=5",
-      "source": "LINE TODAY",
-      "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
       "title": "【2026/08月營收公告】凡甲(3526) 八月營收4.17億元，表現亮眼、呈現雙成長，創近4個月以來新高，年增38.84%",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5fOVNNX0xDSUJYWkNhZTNNQ0s5dkh1UldfZ0pvTkQ3YTc2cmNYYlNtQTZqVWp5Qk84UEs1OEo3V1RYdFhyR01pTVFYNm9oUk12bDRMZ3ZmSlctXzNuOGl4Wm9Cc2VVMzQ?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-08T08:40:04+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQb0F4UlktSlFCLWEzNVVWXzNjczNLR1RFd1ZXOVZUSkJaTWFfUDZDb2szLU14ekNnczlVNmJ3YVQwYnFISzVqOWpTRVpsSDk2TlRxVHQwWFBjdVp1TXZ5OTlJYk5lZlZieHpiZURmM3lLWTRGQ3FoZXJyeVFmYktBTDRFckZzSUROMWc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
     }
   ]
 }

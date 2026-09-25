@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T00:35:30.308717+08:00",
+  "updated_at": "2026-09-26T00:36:46.608187+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3583",
   "name": "辛耘",
   "count": 12,
   "news": [
+    {
+      "title": "台積電加碼辛耘、中砂大單到手| 台股證券",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE8xcE9hT1ZYMnAyOFhzSElObjBSLVlxM0tsazZBSnpFZjd1ZkU2bE9nb3hSdmUwcFlGekgzcmlyd2ZyZjlh?oc=5",
+      "source": "三立新聞網SETN.com",
+      "published_at": "2026-09-22T23:33:06+00:00"
+    },
     {
       "title": "AI晶片夯辛耘、昇陽半營運旺- 日報",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zSnk2RklFNWJQTDZZQ25vcHUwTjRSUE4tRldwZmV2bFZmbU1NVlJMci1IQ3hCNlJISUhIUHk1VE9ldU9Ka0h4dUFtUjFGaGZvdldDdGMyRlRSTE1QUEJ3?oc=5",
@@ -14,7 +20,7 @@
     {
       "title": "飆股幕後》外資連13買 辛耘近3週漲幅逾6成",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XVmQ2Y203S2cyNXdVVFJuN0ZUOU45VmVuUTlRUjRZbFhLaFFmeC1jY05TNy1ETHBQaDltYTRXMDZPQUtLRjk4OWFMbTNjQWRpZEkyWnBsZzE?oc=5",
-      "source": "stock.ltn.com.tw",
+      "source": "自由時報",
       "published_at": "2026-09-19T04:09:35+00:00"
     },
     {
@@ -26,20 +32,26 @@
     {
       "title": "台股下殺132點後走高！「矽晶圓」強勢噴出、三雄齊漲超過3% 嘉晶、辛耘、昇陽半導體小幅上揚",
       "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPLVdrcnhVM3ZzR2gxdmxjNXhwTzVrT1VPZ0kwRTZyTXJmZkt0eGdOeHBzbnZfWkQtQTBCQzl4QXo3NXFqUHBRVDk4ekhFZHhzVkYtS0FSeWJRaUgxamF5bW90RmVXajI3T1o0OEs2Q192emxieU5sRDJzWTVMNmYzSzI1V0dSbVJZUVBodzVnNWEwVV9vNUotb1hiYWhEd1JQQ1lSYllubXp2WEU2SGp5ZWRKRF9MWFQwb3Y4VkpHc21xUUNHOEZYaXd5Q2l4RDVkYW5hQmtkMUo1YmxtTnBVVkVvZFlyQ3ZCbHNwckstYkVpRUEtdVBZeDJ4MEVqOTJpWUFTeUZ6NjItalhtX3IxM2RJTVRYWDNtc2NiUENrRy1xMkNyaE9qZ2U3QWdINjNseWxvQ01GQTRCRXlDblBOTG9sNlFMZ1ZwcVY1bUdWOTVqOTJtV3lub3laTDJnTjVrajJDYnhha21xMmh6Y2l1c0NRWFgtS3FNalE?oc=5",
-      "source": "Yahoo股市",
+      "source": "tw.stock.yahoo.com",
       "published_at": "2026-09-14T07:00:00+00:00"
     },
     {
       "title": "弘塑、辛耘接單看到2030年",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DS09Sd3hxTGZqXzVCa2dIUmxoZTBuTTVJYWVyVmF3VXgybTBtdnVmVFhIYWpEQXZhNkVsZTNtSnc0YVFFTEdlYU5sLWFIM0l4T3JfZXg0NkE?oc=5",
-      "source": "stock.ltn.com.tw",
+      "source": "自由時報",
       "published_at": "2026-09-11T09:33:54+00:00"
     },
     {
       "title": "自製設備動能旺 辛耘下半年拚逐季揚",
       "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPNTh0eGNTMWNvSjBGb29hMFlQWW1XUUUweFNtUVlTcWlDOVBBaHdhUVJVMDJQQ2ZIMTc3TThTUlg2U1d0ZHMwY1Nfal9hLVBCY29TaUxEeGJVUE5PTkZ6MVdobFktS1JuM21rVlJmX0pnanVQQ3Q2bVhPaE5lam5WMnVsQkloQVZyQy1wRGgwb0Jta1NZQmZTYTZRN0NZbUxXLWszRjhsQko0U1gtQ2FHa2QyNmZPX2tlNWxGbVhvX0t0aUstYlBuTmxLWVRXTDkxTFRUUGg5eWhLRlVLY3F5LUpMLW53RmdtSzVNMGh3aWZJOUFnNGlkT0RHREtBdVhQdlQwNWV5YVVGYVhJOHJOU1B4WTYwckt2TmtuQw?oc=5",
-      "source": "Yahoo股市",
+      "source": "tw.stock.yahoo.com",
       "published_at": "2026-09-10T07:00:00+00:00"
+    },
+    {
+      "title": "辛耘企業股份有限公司",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRHhRa3p6SnFBRXVwaUxfR3BVVWFHR25uMENBUVFXa0hSSjUwSXpLZ0xhRmpWbnQweE9OMHJ5ckU2ZTFiQWVsVWYwcXBWb1lqbVcxcThhYUVzak1QTVFaX0lURXJNZklVVTJBM19Ocm82cEgxZElzaGR6dnhTNXl6d0paQUFIMWUxd2djUlJkMmRIM2szdkFZ?oc=5",
+      "source": "MoneyDJ",
+      "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
       "title": "【10:37 即時新聞】辛耘(3583)股價勁揚至762元，8月營收創高與先進封裝題材推升買盤，短線壓力區上方量價結構成焦點",
@@ -54,28 +66,16 @@
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
+      "title": "【09/08券商評等報告彙整】辛耘(3583) 今日僅1家券商發布績效評等報告，評價為看多，目標價為900元。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRHlOSjEzY3ZFaHUwMF9xZjNVdjlWVFVLQUhKUWgxcFJZVWlBVUZRTVFJWHVGWWpLX05Rd3Q0QWhWMTg3bG5VOEdqdWJ1WTU3R1BBUVZ5TzBXZlRqMktvZU5EendGZDd0QWFXOVR2b3o1cm52amcyaWpHM1JZOXVKZkJ1aE9fZU1Gc1E?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
       "title": "辛耘需求旺產能滿載 8月營收再創新高",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Jb0diMV9NdHZoRGVCWklzcVRJU1NWZ2F2ZHpZMjdPWFN2RVIybndZWTRycTAxY2o3ZFlBOVoyQnA5T084YXV0ZTYyeTNmRjhGa2RkcGVZV18?oc=5",
-      "source": "stock.ltn.com.tw",
+      "source": "自由時報",
       "published_at": "2026-09-04T07:00:00+00:00"
-    },
-    {
-      "title": "《半導體》辛耘今年獲利成長勝營收 自製設備出貨拚增5成",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MRGtoeEdBbUxIcDQ3dXpmcTFZZmlSd3RXMWtVV09qcnY2bG5zUWI5bjFzcmlURFZEX3Y5d0xCb3lGTHRJZmdDX0cyZExSYXM0b0Nwdkp0MjVtcFFza2g2SEtFSS1BVmo1SEE?oc=5",
-      "source": "旺得富理財網",
-      "published_at": "2026-09-04T07:00:00+00:00"
-    },
-    {
-      "title": "帆宣訂單看到2028 辛耘產能滿到明年",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NOUE1UWRvaFlvX1JrcTduV19ZUGtQdjhkX3VWS2t4TEFhd3k3M3JCYk1rN3g1NldkaF8zdTI3bndXc2xXdTJ1bFhqNG9rZUVFOFVRa2dfZEw?oc=5",
-      "source": "stock.ltn.com.tw",
-      "published_at": "2026-09-03T21:38:21+00:00"
-    },
-    {
-      "title": "〈SEMICON〉辛耘自製設備業績今年增5成 訂單已看到2028年",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SYk4tY09qdUlaM3J6Wi1paHZ5bVRaR0UyLTNXMU80eXR3VUpSQmNNYVpTOUEtR256enVfbmlnR2x5dXUydTdsYWFSWDMwSU0?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-09-03T07:00:00+00:00"
     }
   ]
 }

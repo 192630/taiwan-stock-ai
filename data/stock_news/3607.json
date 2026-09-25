@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T00:35:35.299542+08:00",
+  "updated_at": "2026-09-26T00:36:51.785909+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3607",
   "name": "谷崧",
-  "count": 1,
+  "count": 2,
   "news": [
+    {
+      "title": "【營收快訊】谷崧(3607)公告08月營收",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sYmRBYXRBNHQtOFNLRlh5Uk9DcnlWRE16dXJmekZlYWFNcjZzTWRUdkFjX1cySkI1SFhXeTh6NTRiZmlFbHpxSlFvMDFrMmg5SmlVVzBURFM?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    },
     {
       "title": "谷崧精密工業股份有限公司",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT1JSZ0NmTW9OSDhrNVR0SVQtbGhRZmhQVU5famVIVFFQWHFXT0pyaTFLZWpqVGhQVzhnSkc4NFVERjZqckNBQ2lMcVVvTkEzdW03d1NYLTBseDFxemJhN2pzTFVTSDJ0Mm5TdV9WSXpIcDdFWi1oOTNhN0JSMmNYaGlMaXJzR2JLREJXQi1QcmI4by1Jd29r?oc=5",
