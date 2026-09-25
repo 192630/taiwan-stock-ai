@@ -1,63 +1,81 @@
 {
-  "updated_at": "2026-09-24T18:35:23.633843+08:00",
+  "updated_at": "2026-09-25T20:40:29.789321+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2614",
   "name": "東森",
-  "count": 9,
+  "count": 12,
   "news": [
     {
-      "title": "TWA00 加權指數- 東森也是資產概念⋯^_^ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1teUZkdHB0SFM2SHRCZE5acXNCYVVQU2w5NUlzbTRXNEhyb05IRENiMFhzekhyREhSWXdIVzU2WU5NQURJZVlsR3ZNM2IzT2wyQWJLYXkxdVI?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-23T10:09:47+00:00"
+      "title": "東森深度周報／蔬果農藥衝擊食安 大賣場、知名餐廳相繼淪陷",
+      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxON1NITnVlN0VPRHFmVXJtTVA5RUMySnhwRzk1T1VkWDF5ZVJQQ3ZpWnNMQWJpRVp6b2lHUWgxZjRXUWdqWDM4WWFuRmptcmNBUjNrTVd6LUhUODJMc3dualBxcDNMM3FwU01nWXhDYTBSc3o1SVhUamIwTDZqcXczLU5yQTlnRGNhaVliU1o5QlFLVHdETFVmWUZOeXBjUzdLaDVVZHNEMHI1NU5ieEZnRUpHODFleWJFbUl2UU9HVzNOWGhEbjZUcUJEaU41TjZNelZ4TGk4ZDl4VnNFcUJ1NXRYZnV0X1lvZkMxN0JGZkRPSS1pNFJFcTl6SFhDazFLdzF1SDdpVmxJMDlYbDVHLWpGNU51endKRThDVW82WkZma3RRRmxYb1VJdnR0T0Z1NkVtZVdFOTlxTjRoOEJMbjVlWl84ajdPVGljZzRHclRjMkpQWnF6Y0JOU1hxT0pHU2w3MDlpUi15eVdLdU5NYmNfUnZLWGhqWDBfcjZpR2VUcjg?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-22T22:00:00+00:00"
     },
     {
-      "title": "精星（8183）股東注意！這天「最後交易」 10月1日終止上櫃 | EBC 東森新聞",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnb2FBZTcxZVM1WTBYTDl2aXNyLU83bTRiTEtuMjY1a19uMGhjcmtJWnNJaHI4RVRaTXA4UGRIMWtFZnY4NUdyMWFNbkhOQVlyQnpmM0dB?oc=5",
+      "title": "砸190億建林口新地標！東森恩典大樓12月開幕攻「三代同堂」會員經濟",
+      "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNS2psb1o2dWxZNFkxWFdseW9JOEd4SVpWbEhKR3JZZzJCOHdBLW1taWRTNzdwbXBzRUw2bU1oRWNPSmlpcTNyX0ZJTDVpR1dGaWhJZmJLQjlCeFhoOG42bnJLZTJFc090LU9RQXA3TzJXRW92cGItRjBHb3BHYlhObFhUaHFLVHJSOHg0ZlhlUFNaSE9well1a2ttYTFTaURjQlQyQlBDSHB1LXNFRlRseldNdXI4azhVeEtMWmJKdWRRdXZGTk5sYVV5QVVpLUNheXc2MjBHQm5GT1Q4VVA3NXVOX3RIUUxPMm9sR1AtY1ZYd0MxS1J2TXVDcG5nRXBhNTgtSXhvV19HZDhjcVBQaWVRQXdERlBHQVp4djRPWFBJQzhNUklSYTk2WUdVeVNoeFdBTXVURkxmNG9pc2VxUFR2UmdwUEVBZGN4U0w5Qno2ZDhuUUl2c0tOOWQ5d0dJZlhRYVcydXNvY2luMzJDVU0tVWZXdnoxVXpHbmVBRWFnNzlETktFQ3IxUlpkNnlaQmhpLUhB?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-22T05:04:00+00:00"
+    },
+    {
+      "title": "東森深度周報／自己單幹！一人公司崛起 AI員工成本降九成",
+      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQR3RZTTItdl9xX19ESmhURTZ0ekZfd0RVOHJpNGtOQmt3Ym1HdXRLV0lKOTVZcEMwaWtlRzB0MzZMYWNTUk83VHNWMjRuSDFuWmJXTXk5T2o3UTNCTllTQzU0aURkNmM5bjFfQm5KVmdJcTI5MkNJbDFvUWYyNkJhSjEtUV9jWlVycHItUGdoN2R2bXZ5elJWdjlMeEl0ZS1HdVhjWEx6WHN1X2wzQl9GZVlnamRzNzZWc3g5V0lIT0RieVlfTzRNcjVETnhUNk5qNS0yREdIb0l4bE9Va05IMW5CZFpfNFFlZTBZanRiODhweWw2MFl4OVFQYXc5c2FnVHN2UjZoaTk2WUZxaUtwZFRka3huVEozQW9lcGxqTUZBQnJ1LUZwZmpVczRvTVpaMFNlZFRRLU9fS3VIZmpFQ2tCRUZXa3ZxMF9IaXhzelNzMUpEdUFmbVpWNC1WRDZDc1E?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-21T22:00:00+00:00"
+    },
+    {
+      "title": "東森深度周報／塑膠公仔創千億「宅經濟」！開箱日本最大模型廠",
+      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOTE0wRnJlTWpCZm1UZ212MXM1NnhXVkhGUGU2YlR6bkJUbUhiVUhCUXZhOGkxOFAyMEU1VnUyOWp6b0pNa0QtcEpDbWtOaURpU1BzQzYxRmtlaXNYQzB3aFM3RDZtcWEtQml1bm0ySHVDZERZUGZhaVhkQVR0NlVEdWJacEdRZzJMNHVpaFFmalNiYlBqOVBPaWZzeWZZa1lHdWU4ZnJhenRQc01JUm9MWXJoeFgxak1QSjVuTXFrUGI3V0tPS1BFc3dIYTZYbnRIak1zekpwYWlpQXZBUHBpUlYwVTFNVERNeDFDZ25fUGNnMVlscWZQZXhEdUlWVENFN24tcW9CdktBQ2I2ZUh0bnlPa3M2RERCU3lKLXpPRGlnMU5LLXNPNVlKWTV6U0ltcG10RHZmeV8xdGkzOEFxN19iM2lHeGktYkwzNkxZRG5oTHJUNTRIb2RZQ2UyTU1lNXYySDlreFdLYWlDSTU5TVE5SU5pUHVIaURCcUx0cktPTjQ?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-20T22:00:00+00:00"
+    },
+    {
+      "title": "股票全被盜賣光！他電話一按「**21*」股市獲利歸零還慘背卡債 | EBC 東森新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfWVdfODlLRy1vWGRtS2FOUXNtcWpfUU5MMXZMdmZpdkZ1UEJhQ1VfNHl6N29HcmZlR0Z4MjdfYkpQcFVla1ZpLTBGdU5KNTJER2JENzJR?oc=5",
       "source": "LINE TODAY",
-      "published_at": "2026-09-17T12:37:56+00:00"
+      "published_at": "2026-09-20T10:54:40+00:00"
+    },
+    {
+      "title": "東森深度周報／台灣人口50年後恐腰斬 手機成生育殺手！？",
+      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPRk9MTkFFRWdVZFlQY1ZWamJkUVVKVzZwamJUdHZzLUtVRjBiaThfVGpJVlQxa1I0UFhody1xZDQ0RGNGeks4ZlVpNmNqTkMxVUtiVHloWHV4ZENhd2o4X0xlOUs0WFRYYXJIcW9jTmVSMVNqRzRWTnZuSm9MblYzZERjckhnWU5wTWZfYlNaZ2dIRS02OWRYNUtyRVZWT0lYdndkMlE4Z201YnVsbVplMTZTUmpJYnVpS05qNkRHSUhFdm9jcEFmRnYtM2x3eG42V1V1WmZxQWJ5azZvaVQxR01mNTZVTXRubkN5b29ZQ0NSQ2JZM1c1TmV1ekJKVEFYMVFES3hIU0c2MGdncEIzYUtEY1dOdGJPRkJ3LTVoVGJVMEpwVVFRZ1I0b2pMQlZPbWJUU1l1bzVkSkdHN1p4VUpyLWxkSk5lUjVUbXJHOEx6UHdDN05lWTdXWm4xRVds?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-19T22:00:00+00:00"
     },
     {
       "title": "涉東森內線交易！知名律師夫妻套利133萬 二審改判緩刑",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xSjkxazhVdHBHaGN4UFM2UUZTdEdnV09mZEJHVzNoT3FUajc0RzRQUnhzcnpXdUhNV3RZWmN2bFF1OVZSV3VlQWZuNWFIMUxSSXhTamhDNERDRGtFd3lGX0ZXWGVpakRI0gFuQVVfeXFMTlQtMTBORk9EYjZhemg3M1p3RXZJT1VWeDg5M0dfc1lxR25ZVVltZ0ZCeDhmYXVDOWFtaTlNY2ZkVDJram5TRGQ4bnBmQzJieW9BQzhyRjVROWN3VmViTHRRaUowOGV6TXUtWFNGWnc?oc=5",
-      "source": "news.ltn.com.tw",
+      "source": "自由時報",
       "published_at": "2026-09-17T10:37:00+00:00"
-    },
-    {
-      "title": "助茂德張高祥收購東森電視！知名律師夫妻涉內線交易撈百萬 二審改判緩刑",
-      "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxOZFhPOTlPWmo0NHdmYkRpM2xrZzJoR0dXb19IcV9BWU1uUnlOOHhQRGk5Q3Z6Nm1zTldKSUlyT1ltQjI2VEpNUUM1dFNiTHFtZlRrT0ZvS0p3bDdhenM1Y0FWUDJjUzZlVjFRN0Q0anJnQV93eFZsaDF2V1MtNzNRUjdHVk1RekpLajBMTGZZWlpHaVBPQWZkWE5xY0xuOERwbEhBbFdsdXViaXotUDRDM2lPWFBFbWJZdkdndjB5d2Z2M3NrRzVmcm1RUkF4UGJCWXhIcC1rX3o3UlFielR6c1g2dXFPT0tSM3ZXX3RuTFAwYmR0QnhqV05yaXgydy1OWUQyZEx4X3hGcDVOYTFhYTNFbXA0ckhsVXd0MGFaMWp5QjJWVFVzRTEtME5ZV3RyUXNmN25qUHFKV3pvc0xEMnl6Ql9taThiWFBDdUh2SGktdnBLOVh3Tmh6R0Qteks4Y25yUm9xOF8yUEpqTnA4RXZ2YUJCZzkwdGo5TVhXQWNSWkxleXUxOWw2SXRRTmsyTjRRQnJ5TGQ4V08xampHU3dEck5EcjdVdF9ZVk1XN3BBeGU4STM2c3VmbGIzSVY0RmNkSHpIc2pndUMtOFVYdVBjRDJQZw?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-17T06:04:48+00:00"
     },
     {
       "title": "收購東森電視爆內線交易 名律師林則奘夫妻二審獲緩刑",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOMVhHY201MGk1dWVRQndyTHdzeW85VmFwLWNoSWlQdUU1V09QYVRWcUM2ZzlaRzlWRVZzald1SXNiNnlETWJsNnZZQlQycU1HTWM0LVFTMHBfQ25URERnaVZINy1haDB1ei13WWdR?oc=5",
       "source": "中時新聞網",
-      "published_at": "2026-09-17T04:15:59+00:00"
+      "published_at": "2026-09-17T07:00:00+00:00"
     },
     {
-      "title": "台股注意！2檔股票明起遭處置 4檔也被盯上 | EBC 東森新聞",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FUzNfZm9Ba1FOQ2lyUUVSV0VoZ1daUWFwYkZ1cGFOX1E0VEk5NUlsMmlTQTNFNzJDWW9pNTUwR3RwclRyOFFDTGdjempvaF85U2tCSDdn?oc=5",
-      "source": "LINE TODAY",
-      "published_at": "2026-09-03T07:00:00+00:00"
-    },
-    {
-      "title": "東森深度周報／全球瘋日本中古車！外國客讚「開不壞」 單日競標4千輛",
-      "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxQckxxdC1lMElfTnFtQVZ2QW4zeUhOUHFBa3FiTVlBZk5xWVdCTE5mMnBzQ2ZTd2I0OWR3UjlnQUFpby1UdmttcUhlV21jbXZTTEhzemJVQzJvZllNdC1aUWhHSmhFd00xd21sazhqWUVSNkotYkFRWXpkVk4zNnhYN0o5RFJodlllRHd3U2psTjNHdGtVbV9FSVZpMEJROXd6U0pUMU5SUXk2SXI3em5hRWdVNzVybWx3VmkwMGtYSC1pM1lpRnRkVkZzbVNmdjJGaFkxeFJ3UEdXY21QcHpLNWp4R0xpd1RaZXJ1TVlFbGpDcFFZZFJVQTNzdlB3LXdQM2hyenJZVS1UaW1VNUp4SW1qYzB0Tloxd2E2Xzd0emdUQUZLVW13RVBVN041bl9vYnZhTGN6a3lkR3BEYVd5ZnBKajdoTklzbkhOdll6SVlZclhvWTMwLW1SNVVnMFM3YVRvbVZ3VzJjZmlxSEtDVVE4eGlnVVFXVHJZQXRZMGhPT0g4cWNHNHA2aE9FcWhxVmhja2ZGTTVkMXVobGc?oc=5",
+      "title": "助茂德張高祥收購東森電視！知名律師夫妻涉內線交易撈百萬 二審改判緩刑",
+      "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxOZFhPOTlPWmo0NHdmYkRpM2xrZzJoR0dXb19IcV9BWU1uUnlOOHhQRGk5Q3Z6Nm1zTldKSUlyT1ltQjI2VEpNUUM1dFNiTHFtZlRrT0ZvS0p3bDdhenM1Y0FWUDJjUzZlVjFRN0Q0anJnQV93eFZsaDF2V1MtNzNRUjdHVk1RekpLajBMTGZZWlpHaVBPQWZkWE5xY0xuOERwbEhBbFdsdXViaXotUDRDM2lPWFBFbWJZdkdndjB5d2Z2M3NrRzVmcm1RUkF4UGJCWXhIcC1rX3o3UlFielR6c1g2dXFPT0tSM3ZXX3RuTFAwYmR0QnhqV05yaXgydy1OWUQyZEx4X3hGcDVOYTFhYTNFbXA0ckhsVXd0MGFaMWp5QjJWVFVzRTEtME5ZV3RyUXNmN25qUHFKV3pvc0xEMnl6Ql9taThiWFBDdUh2SGktdnBLOVh3Tmh6R0Qteks4Y25yUm9xOF8yUEpqTnA4RXZ2YUJCZzkwdGo5TVhXQWNSWkxleXUxOWw2SXRRTmsyTjRRQnJ5TGQ4V08xampHU3dEck5EcjdVdF9ZVk1XN3BBeGU4STM2c3VmbGIzSVY0RmNkSHpIc2pndUMtOFVYdVBjRDJQZw?oc=5",
       "source": "Yahoo新聞",
-      "published_at": "2026-09-02T07:00:00+00:00"
+      "published_at": "2026-09-16T07:00:00+00:00"
     },
     {
-      "title": "4檔個股遭列處置 大立光漲逾200%入列 | EBC 東森新聞",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hQXpOb1BJX2dJcHYwX212LUU5VWhfQmlZSEVvTDkwaXR2dVprZGQyZk1FQXdyTDJLekFWYkxtbFdDYTU2Q2duSzZBNF95cXRYVWJiUy1n?oc=5",
-      "source": "LINE TODAY",
-      "published_at": "2026-09-02T07:00:00+00:00"
-    },
-    {
-      "title": "東森深度周報／赴韓打喬雅露爆結節 跨境醫美背後隱藏風險",
-      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQd1NiYW8tVUg2REVBQTFXcTVla29tbUpXNEVYZ2puUzhrOWpaMmVDMVFJdzQybC1ndm9iZTFOV216REE5VTZ2YU16LXRsR1RuaXdRSHRLd2wzbHc3d3ZOVGJ1SFJjSGlkOU00WFNCUkpBR1d2alE4cnJNaEFVdE9VdGFkbnFEdXZhWDg3ZG5uSUxja3dOQWFtLUkyREF1TlZxMmJoaFNkLV9wSkNPR3pxSnprM3ZMSFhHY0NNWGdxWkdzaEx1Rm1rLWdFNXByd095OFFGZ2M4OS1rY0FLdXZLNWJrTUxFUGstc1NteXZnTFFrby1RbUhLMDE3SG1ydHB3VVNTeGwzRE94MUVmbGFLZk9EOXVMckE5VjR2S1Uxakk5NFhLSUhESHdFX242NjZuekIyeW95UlEwaEtfNDN6SjBaTWVCOExZck5oVnQzb3R5Z2Rxc0M4eVhBUFdBVGhFUklRYkRFM2xzNDg3U0VkZ1NYdWl4S3JaUGEtY29aNVo3QQ?oc=5",
+      "title": "東森深度周報／中高齡退而不休 有助身心健康防止失智",
+      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNODJIRTNJVi1UWFZoa3VzRFBBREJfeVNsVHJXVGNmcHUwemtQVGl0WjNEazZQYUlKRFJyazV3MFN3ZUsyTldHai1KYS16RVpwX1JKcG9lTXdRZFFJZTZxZFdQTFJjRE05ZEtTYVZfRVNlNUdyeGYzUmtCN3VYLVpucEdDazRQZkJFOExRbWF5X281Z3FZdEV4Tm1GUy12YVJtakdEOGNCcmN6YjhRYzdfcHR0eVF5V2R0ZEk2WXBZZnhEejQydF9VOERMRkxVV3FXbVJqbGE5cnNfa1RnV0g5ZHFkc3JsVTJGT1ViUnRtQzJHSHVURUl0YUpmRkVibnZ2cEI2Q1BhQ2Zic3UxVkZfSnFlY19SZWdwUjNaWWJTdzJZSGQ3TnJCT3oxY09peXQtaWVVNV9ZN0xaYnlnTGh0MWwtVUJWSFpTTWdQNnlrSnE0ZVQzU1MzZUtKQnF6RDdrc3hrZlBTRU5JQQ?oc=5",
       "source": "Yahoo新聞",
-      "published_at": "2026-08-30T07:00:00+00:00"
+      "published_at": "2026-09-15T07:00:00+00:00"
+    },
+    {
+      "title": "金鐘61／金鐘獎10月登場 《東森新聞》舒夢蘭三項入圍",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOZmJrNy1vSWFmVTV6R25DQ1N0SGItQ3RpRnVESHdYVWdSNkFheHUzWUxXeTZIdkR1NzByM2NrWEd4NTNEYjhzMDNCU3lWb1lqNS1QZTdZVTNDdkpmX29Jc2J2VEhDb2VLQ2JwTEZ4RDY2YW1iYS1xREFiUjBVaDRLMkRFYjU2S210Z2Z3WjRRR3pIZkdTS29NcFlfMk11ZWsyVVpwSDVlbnR0VXNMeEY3dURYaHF2dm1FYnZIX0paX3MwVU15T1dVbEZzaHltN3RfTFlXaTNQenVkUGhHNHAwRFowelV4UE02YXE5LWwtaUV2ZWRjUi04cWxvazVFU05XSF9KcGZmSXU1VklQWjVTRTVUM2hEVHllWll3eGNtbFlCdXY0WW1Lb3pIWXZCRV9SRUM0TG5Hc3FFcUdVVkVqUw?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-15T07:00:00+00:00"
+    },
+    {
+      "title": "東森深度周報／土地稀缺、租金上漲 知名夜市紛紛吹起熄燈號",
+      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQLXpWWUdNX1ZOVmpIR3ZsRHpjTXJETHFMSl9lelIyaUNTNXBtWm1WMHFuUm9CbzhVbGJYbF91a3FRR00zZi1wVlpVVlFxRjJSOTk4MEltRFlGYnlYZjJHSG52ejZsOW0xOVc0ZUxHRjRWM0E1ODZodVp4SWg2ekoydEFaRUJEd0JWWURSV05xblk1a3JoVVJVbG4wVWx3ZWZfdXZ2a0NYMm9zbzFnS1NqczdjNF93QWNUNE5ncUd4cU9QV05KRDNrV1pCN2ZmYXZMNmJyNWZwZktQR2QwSmFlT3Z1OXNMSExfdWhvelFvWHFWWjZma0FCX1VZZFFQNnZ4ZkppajQyQlM1WXNtcEt3WWFYeGNrdlZ0dE5fYjlfd2JfcG0yc24yQ0JqVmRrMlBEbHM3Z0wzY2lIcUdIbms3LWQ0eDJFRGJOZzd1T2RBN2N3MkJIM1FmaEZITmtyRkRCNTgwbDJyM1ZidEFrQkRfbDZLMXF2eTRuaUpsSTZZSnlGZ2s?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-12T07:00:00+00:00"
     }
   ]
 }

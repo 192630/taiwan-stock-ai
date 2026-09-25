@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-24T18:35:27.197502+08:00",
+  "updated_at": "2026-09-25T20:40:37.832537+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2636",
   "name": "台驊控股",
-  "count": 2,
+  "count": 3,
   "news": [
     {
       "title": "台驊控股 8 月營收年增 85.48%：不擁有船的公司，波動反而更大",
@@ -14,7 +14,13 @@
     {
       "title": "台驊控股8月營收亮眼，海空運後市均屬正面",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qY0t5UENrREx2ZkxRXzdYbjVwMHVDQzNmbmVSNkw3ZUpmVWhoY3NMelBsdDlnemhzdnRPTllSMGc3dVNxLTZ3bnZBcW1fbnNRQmZkdGoyei0?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】台驊控股(2636) 八月營收29.09億元，表現亮眼、呈現雙成長，年增85.48%",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNczBRcTVKcWw2cnlLYW9lMVRVWkcwMWtYNzJBYjdkNHF5MHhyQi1jS2E1TzdDRjdjVmdPYVI5ZXByVkpHZ2pWTjZXU1FsaDF4UHphN2dpM3FsRGVMb2MxMThOSmw0S2daSC12SFltcVp3dE1vMzZyclUxeW1FcWM2dllzbVFRbDRpVVE?oc=5",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
     }
   ]

@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-24T19:34:40.046588+08:00",
+  "updated_at": "2026-09-25T20:40:40.480516+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2643",
   "name": "捷迅",
-  "count": 4,
+  "count": 5,
   "news": [
     {
       "title": "捷迅孫鋼銀：貨運海空熱況延續到年底",
@@ -21,6 +21,12 @@
       "title": "捷迅8月營收近九個月高，年底前傳統旺季業績看好",
       "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOcmdxMzlJU3pFY3dCdTloSHpXTU05UERfVk9COGVNTTlCR0JyQ2M4M244aW5yUXpjT3c4SzVLZUZaMTNzWTZHdGVrYThDamdjcUZ5QWNOMWFMX3BnbXRoc0ZJa2NuV1FQRlZ4MmZPSF9MbFNIc2dtNWg1blRrUEtxRHNPdXQ3WTQzaGkwbmF2anpVR0YtT0JsV09SN2VDN1ZrUkd3aUZESEwwaDlpRjFmc2NGc0FEdUs4YktCaHk3RmNqcWY4YUcxd1Z6bGJEVlV1bUJEeXl3SFE2YkRnNjY1NjQyWWtjQmNoSWZnUFVYRUdhZUxURWh5MklUN1luQVdDZUFMbjVvendrZDFBcE5jc2NaaVdKV0RLUndWNC1haGstdkNkOEJyazdmUkZjVlJHc1dibHROM2Fva1p5Y0pEUUMtTUdsVGcyb0luM2pXT3lwV2JfY0dxOU1n?oc=5",
       "source": "Yahoo股市",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
+      "title": "2643 捷迅- 營收創新高，AI物流助增長- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SM3RRY0cybzF0LTRBdnRCYUtGSEEyOTVaMVBsb2hQNHE4M0lTWEw5N3dySGVlMkl1dDZrUHpvc0wxRDZ6dVJOYTRwXzMtYm56LXRaVFdyd2o?oc=5",
+      "source": "CMoney",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {

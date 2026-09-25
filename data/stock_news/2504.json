@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-24T18:35:06.786697+08:00",
+  "updated_at": "2026-09-25T20:40:10.778803+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2504",
   "name": "國產",
   "count": 12,
   "news": [
+    {
+      "title": "大陸電影史上最慘中秋檔 國產片票房集體翻車",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pN2xPSEVGVkFBQUNSdWpRVnE2bjE1amtrUGNGOTNCdG1SYWdKTUxhYm1KRTBSVVM2b2lhalFqUmtRTTFxWDRraW5JSWFhdUdyM2ZNQnRGdWVmSDVycE5N?oc=5",
+      "source": "大紀元時報香港",
+      "published_at": "2026-09-25T05:54:00+00:00"
+    },
     {
       "title": "東方證券：集採低價競爭趨緩 國產替代向膽胰延展 作者 智通財經",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vQmV6S3VXWXNiTlVWZUtHemxCcG5COTMycHAwaDk4aU12NHMxM0NDeUM5TGwxU0E0WTJsdllnUDVCTXdRdHFVLXNYeXh6RkxwNGV6SHl2TnVscDR3UVhsQW5oVWJ5aGRJdjlHcE02bWk?oc=5",
@@ -26,7 +32,7 @@
     {
       "title": "中砂盤中逼近千元大關 CMP耗材行情升溫 頌勝、三芳搶研磨墊國產化商機",
       "url": "https://news.google.com/rss/articles/CBMi4gVBVV95cUxPVzVjNmZ4anRnaWdrQ1BON3IxNTFLQjFyUlZ3eWxmTVptSDJ6LXdiLVZseGNUUXd1VGI2VHpGMGdOZ1o4d1lNNjFSQkQ2REw3cEYzR2xSYjJjWUdkQ2V1cEpEWTIzRG1QcjYwYnJzb1VhZUcxMWhZWDI5Z2wwdHZUVnpwaTBmM3Q0WmNqNDFkY19YVlhBbVYzYk9Jc0ZhZjhnaXk3WnFFUzNZeUw5S25CVjdqaFBXOTNMU19LMW5nQzllQUFqQl8xZVJmcm1fVzM5dzN0Z3gtUE15TUJYUTVfdjZRMTNaR3dHSHBqYXZ5Mmt6T2dnMThCYzRxeGNzbzhnRjFzdHhxU0Z0VC1pQVRsOVhFU1BjSm1kWXNUdl96SFdUaldETjcyYnBURThuXzNxek5Kc2MzNjlrVF95ZF96Njc2TUpObFBEcGlVWnZseWQ2OXhyWVhnVEZEaTZVT2hDaGFpck5jc0hxcjJwLXVMWHVaUDlTVHRMSlZuVDk3Ym5QRlNkZTYzN2FRajZza21IUGVBV1NKcElQNlM2UzRCcmtfR0xnT0FqSU5tVGtBSjVQbnBzWnhPVFYwQ19LZF9PTGlLajFDUm9YV1VnclpTUXhlbVlsS1Vmd09xdnVOYlI3QTI1Snl0RkpXU3FGRVVwWHNIdThZX3k1UkxIX2dsNVVyb3ZWTXlBQUNXdkZ0d25ZZWZUR0daRmlQTzhZOHpqYU1GTlh2Qjc5YjRtM0Jsbkc5S1RicVMtUEQySXpWR0R1YVVpQ21RbHdZcnpSQy1Ja1RPQ3NRcktLa0Z3aFdFeWR6dktqMXo2MHJkY1ZTUUUwdGJ4VjVIRU11WlozYnNlanRWNkp0M0VSQjRKd1BQMVpJcTkwalJ1RG9mR1M2UzktUFNKNVZnUzhWdWhmV1E3SHU5eDlCX2RaQ092VGY2SHRGUmtxa1ZCQ3ZBVlUzcl95LWpnenVSNnRRX1JobTEzVHc?oc=5",
-      "source": "moneyweekly.com.tw",
+      "source": "理財周刊",
       "published_at": "2026-09-23T05:19:54+00:00"
     },
     {
@@ -49,15 +55,9 @@
     },
     {
       "title": "最強國產AI晶片！阿里巴巴提前揭露「真武900」 2032年資料中心容量目標升至20GW",
-      "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxOSmZucE1ZNlgwWE91eGkxQUxMeDdKdzM2V29oMHc3OFMydTJ3dzg2YUJuTEVqQ1RXWnE5QVlBamhTU2xZeDhtXzgzb29BVUZnZkRsaF9hOTB5RUtjdFZhY2pnc2dOVHk0WGZzcVJsWXB0NjJHZGVHWHUzVHdxaEl1dHRDSkZ4TjgwS3ZEOGhKX29QeG5TTHQydUxzOW1jNnZfY3F1S1Y3NU93X3R4X1YtWnJHd2V2d20wak13QS1KRUZObVctLUpiX09PMlZGd1JKSVF5MWg5N2d1Y2k0OWhOM1BrUWhiRDBheGtXem9oN0JaMjUzVDgweGRPQWJyM3FGR3hfQ3AzLVRZREQwV1F6TnR6Y3RmdHJyb0tTd0piMWtheWc4WVdrS1QxOUMybXd6YldIV3k4ZGtJOUhIQlNDeDVVejY4MksyUXJTRzM3SEJWRDk2bk9KRlBnRjFzNnFQdi1SaWI2V2plSzNWWXdiYTQ0bDR6dEFoRHBPZVZnMWxsaUFRQnNoUGN3eWZMa3NCQWZobWlUM0Y5WHZNRkg1N3BJR0duZWNJT0RnTktXenhsVDE3?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-22T05:24:46+00:00"
-    },
-    {
-      "title": "國產卡牌新作《追尋者聯盟：英雄之旅》1.0 正式版登場以策略構築勇闖領主之島- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FTm5NZExVM1hoR1FKVFlpREtWdzBJSy1OM3lpWk4tQ2ozbDI2UXRERVZiVzBJSW51dkdpNXhlSnVLRXNzNEVkaUJYNGZWYnAyeVlPQTQ3YUI?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-22T03:44:15+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NS0xFWVI0ZXpiMC1ObkJRQjdlQ2pyLWtRVkZOa1pWQjFzNFJoS3MtRzljT3o2M0ZDajBfTkw3dkhiTjlHYnRiMHRxeDNCbnc?oc=5",
+      "source": "news.cnyes.com",
+      "published_at": "2026-09-22T04:40:02+00:00"
     },
     {
       "title": "【阿里】發布「國產算力王」新AI晶片 股價曾炒高5%",
@@ -69,7 +69,7 @@
       "title": "CPU重估！國產三劍客集體飆漲",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwOWFMUlBBSXVtNktncTBKV2tCZ3RUc1R4WTNNZjVZdHJCUnlpdFNxZ2ROQ21HVEx0N0lVLTFzR3FOZlVOemlDTWpsbmJSZWFtZFdEMmY2enNyUQ?oc=5",
       "source": "Moomoo",
-      "published_at": "2026-09-22T03:41:44+00:00"
+      "published_at": "2026-09-22T03:29:32+00:00"
     },
     {
       "title": "東方證券：創新藥多路徑突破 國產創新重塑新標準 作者 智通財經",

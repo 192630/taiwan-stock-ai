@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-24T19:34:43.015873+08:00",
+  "updated_at": "2026-09-25T20:40:43.603562+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2705",
   "name": "六福",
-  "count": 7,
+  "count": 10,
   "news": [
+    {
+      "title": "六福接待史瓦帝尼代表團 深化台史觀光文創交流",
+      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxORkRDcVU5QURHUzVzemY5QmhQNWhhckpyQ0ZyWC01Rnppd2t1a2taMkRoWi1ZcV94d3pldXNHZE1jcEgwb1lORGs5NTlQc0xfUktGSEt0Si13eUQ2UjZQZ3Q1TExsTUdzTVpxdDVOMDRZeHBfN01YUjNuczdHSXR3ekVlWDNTT0JaT21OcjZvYlc4RE1VRjVnQ2tmWEVRTW4tUHVDYW1MXzZ1T3pfREdkWnVOYklzaU5abVVGczhsRl8xbkdTbDY1dWI4aUtQaXJWTUVMOEJjd2JKR0l6cWxHeC05b1NBUVdHUmszMVNnQkRpajVyZVRyOE9NbXMyTGMybFVhQ1psczVVcE1lTmxMZE1meGZ6VDhQZXpwdTRCS1VES3hFakVRQzlBbGxRMkJNVktDYzNIcnVnMjBwVDljaVQtYzVJM0o2Ujl2MEhNdjlzWGRnOXREaA?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-23T07:00:00+00:00"
+    },
     {
       "title": "花17元買1股就能領！六福股東會紀品送千元樂園門票",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44ZjdTeWJRT09HS1g3dTQ2U2hFTVlhQTNzV2NsbHhOMmJ6X1duYUw4aVlob2E3cDdoS3Q5NDZETHViNFNWdG45R3lyaEhKeEktaXB5azYwT2c?oc=5",
@@ -32,20 +38,32 @@
     {
       "title": "2705 六福 - 六福H2整合多元事業資源，冀穩定提升營運- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85bVpJdGxFLTZnU1lVRHJJZ2syMjVQaC1hakFBMEp6czlMenhXaUZLQXM1Qk1YTzEwcDR2bDlleFR5TDVZT21nWFlPbVAzdzZrcHJwY3hGSjQ?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-14T07:29:30+00:00"
+    },
+    {
+      "title": "六福於英國倫敦開新店 (18:39) - 20260914 - 即時財經新聞",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWVh3dmFWZGdWM25BUDRzV3BBRm5TcXBEQW85S0RuQllUQm1IT0VyT1RaSklxZ3Faa1AwWXNsTkVXak4yeVJOMVIwbk1LdHBrd2xaa0h2WmlpQlotaEtJUi1KWS1UdFNub0dGNlBsREpUNy01Q0pVNTEyRXE2UEcxckRKUEF4NkVPaUtiZnFYOXNGWjdwVFc1dEJDbjZ5QmtKVC16T2pUOWVIMlhpOFFjWnhQRHVhcHpxdWZqYXJTRVBNYlhxei1fLS1LOU05RkJrMFVac0twcnB0YnRjbHpGdy0xRElTak02MWc?oc=5",
+      "source": "明報財經網",
+      "published_at": "2026-09-14T07:00:00+00:00"
+    },
+    {
+      "title": "六福旅遊集團8月營收創今年單月新高 台北六福萬怡、六福村 挹注集團營運動能",
+      "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxNTW0wZXZTbTdGeklxVEtsYjZKNzhMQ1BGaHg4S01pYlRva3pDazIxaXZNdlpyc1ZoOVQ2Qm13M19EV0FjR2xzOEZmNGo0V0EtZ2JQdG5FS1VZbTZtQUVJOWZ3cjdKWjE3Y1pScXJwTkZWTmpmQ1Zha2VyQ2h4dDNmRERHUWxYeTJKOE4yQUt6eHZ0Mks3SmpBQXRDb1hpbHMzdENFSzhrdURVTzVlR3FVZ3RfWXNHVjV0bElpdE5tWWJrQzNzdmNUcmN6QW5UTFFEaG5fWFQxUVFEZC1PUEp3aTd2N3YxSzBEc3FqUHh6QlFvNTloNnN6ZjBjTEtoZV9aTG9wYU1TbmFvQnJOekM0RzJfNEVCTTAyM3pielZ5TFgzRVEyOWlyVURSeXBrbUtEUERQUktoSFFKMjNwanFJQmVTNEdIZFJ5N2ZhbkhScmFLQWJ5V05MVDltMHZ0R19QLV9mYm9VZnY5QzBSQ2NVZzBlSFNPQlVuSmRIdmVQTFlaeERERHZXN1ZwTE5jY1ktY3luMWoxY0Ztc1IzMjQ3TGYxSkk1M3FQdnY2cGU5ZE05WGJYWDJUblRsNHd2UnlLSmJOc2RPdXdiN0JfcDNkMlA5QXU1bTZPN3FCV1VrTld3ZTVB?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-14T07:00:00+00:00"
     },
     {
       "title": "六福H2整合多元事業資源，冀穩定提升營運",
       "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNQnVJVFJWR05BLWJnak5SRmM4WDVQMl9sdkpuXzRxblp5cEY5a3Q2TUUxb0JwaTJZWkZYdXctVENnNWdJekpoUTcyNF9GLVA1UXdjOGh3aDFsLVVBdUNuelMwOFpVYk1ReXZ2S0xtVVc1TG9KVXd4TEF5NHJNZXU2YU4yU0lWbDd6dGg0dkNoam9NaF8xTnZCV3B1elg5b0VfQ1NVcC1HQUs1X0RsNGRuYlB1Q0hPRnpYeGFYN1NYV3d1YmVITEx5QngtendXSUtoOWJDemV2NXBsRnV5NTc2N0o3Qzh5Yms0TjAxeDBEbUZNelVHS0MwZTNQdG9ockM3WlYxazVQOFF5NEpXcDh1Q1JxV1dOMXMxcnVmSHZoSFRxYlJkdU1qTHNicw?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-09-14T07:00:00+00:00"
+      "published_at": "2026-09-13T07:00:00+00:00"
     },
     {
-      "title": "六福於英國倫敦開新店 (18:39) - 20260914 - 即時財經新聞",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWVh3dmFWZGdWM25BUDRzV3BBRm5TcXBEQW85S0RuQllUQm1IT0VyT1RaSklxZ3Faa1AwWXNsTkVXak4yeVJOMVIwbk1LdHBrd2xaa0h2WmlpQlotaEtJUi1KWS1UdFNub0dGNlBsREpUNy01Q0pVNTEyRXE2UEcxckRKUEF4NkVPaUtiZnFYOXNGWjdwVFc1dEJDbjZ5QmtKVC16T2pUOWVIMlhpOFFjWnhQRHVhcHpxdWZqYXJTRVBNYlhxei1fLS1LOU05RkJrMFVac0twcnB0YnRjbHpGdy0xRElTak02MWc?oc=5",
-      "source": "finance.mingpao.com",
-      "published_at": "2026-09-14T07:00:00+00:00"
+      "title": "六龜高中獻「六福」迎新生！6份巧思禮 開啟嶄新學習旅程",
+      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPOVVyTGs2cXhFRGR6Y0ZQZEw3YVZ2Q1ZXbEowaE5JaFFlZG1vY0gycl9Za0pRYW5KV3VrZ2M0YmVGVGRRUkc3TzNSZ05RaDlBLUhzSUxscHFibTdSSmdibllVbzJZWTJBbVBhLXRRNGFlWTFfTnM0NGtVOWtZMGFhcktUM3F6T2JDZ0JybzVqa01GejMxODA2bW12Z29oZXRBOEQwMkMxek9PQWpEVWhucFlITkwwaGRIZjd6NEtGQmtGNzNhd0ctVU9tZzRJWVVmaHVqNHROVHBvYXZFaTdEX081Zlp1T3U1d3VkeUVMN0pDaFlraFhWYlpVbUNsZklsMHZTNlpCck1lazU0TFhBS2U2QXUwNHB0eElMMV9aakEyYWMyclE0eEtXYnRTUmRqRGVXQ0xhcW02SUVVUDJ3WDJZREpwUmc2SE1Sb0NFdGZCU1kwc0hJa2d0WnBPX1NYdnc?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-01T07:00:00+00:00"
     }
   ]
 }

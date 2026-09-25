@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-24T19:34:43.498256+08:00",
+  "updated_at": "2026-09-25T20:40:44.069222+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2706",
   "name": "第一店",
-  "count": 5,
+  "count": 6,
   "news": [
     {
       "title": "A50指數跨期2611/2706 (CN2611-CN2706)討論區_期貨評論_交流社區",
@@ -24,6 +24,12 @@
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
+      "title": "日元跨期2706/2611合約信息| 交易時間、費用",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpUGNYczBDZlRYUzJ0YTBVcWdlVGF2eUhTdDhPaXoyOEh5TXRlMF9hMWFkVUpkTTZ0dUxQSHhHWC1PeHQ1RS13aW4wTkZiNklyOGhXMW5CTkkzR2pQaHNBUDRTOGJ3M0dhalAtSno1M1JHWEF2Umc?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-11T07:00:00+00:00"
+    },
+    {
       "title": "【2026/08月營收公告】第一店(2706) 八月營收表現亮眼、呈現雙成長，創歷史新高，年增3.62%",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaWpNMUdmRHhYZmVOcHpQTHV0TEVHVGpKVjdSeWIxZHJJRjA4Q1Nack9XYWlwVjFITER2eVRMZzhZeTJzaV9WQzM3T1ZIVkV3bmczSlBKbGtrU1hVZ0pBSldrOVl2ZU9uaHZTQzlzakVoUU4wa1pDMWg5cDIzUFFxWHZPQml2aE13R1E?oc=5",
       "source": "CMoney投資網誌",
@@ -31,9 +37,9 @@
     },
     {
       "title": "WTI原油跨期2706/3003 (CL2706-CL3003) 期貨",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE40RlBhanhQbEZTaDVHcTdiTUpCVGpuaDFnN2ZTdHVGLWwwUEo4UVRhX2FpODlJbTV2TTFNSC1lSVZBRVpTTFZxWG1BWGlkeEZMeTJkaDJycWZTazFOUUtXcWx3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kV291Tm5oYnFhMWpNcXdkN1RiT1lYMElkLTczZjAtaXBHOGliVERERWZ2cmhqZFdUX3ZZVHdTZDA5TU5IMUJvZHdPVXdsNlRRUjRENDl5aVozRzAwXzNObzZCVS1HSlE4TnpLaU01SEJ3YXo2OTA0?oc=5",
       "source": "Moomoo",
-      "published_at": "2026-08-26T08:37:36+00:00"
+      "published_at": "2026-08-28T16:53:01+00:00"
     }
   ]
 }

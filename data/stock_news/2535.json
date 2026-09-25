@@ -1,27 +1,21 @@
 {
-  "updated_at": "2026-09-24T18:35:12.980837+08:00",
+  "updated_at": "2026-09-25T20:40:17.716194+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2535",
   "name": "達欣工",
-  "count": 3,
+  "count": 2,
   "news": [
     {
       "title": "2535 達欣工- 百萬學費換來的鐵律- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FeTJfWURUZXVkdlpLNWJqWkJwc2FGYmNHc3ZTMUJVTjRLSGRSZFpSX1pFWlpxS3k2SDRCdUVYLVlTYnRyMVRjYnM1c3FVb2hmMTdRMy01ajE?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-22T12:29:08+00:00"
     },
     {
       "title": "達欣工(2535) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NS1dwZ0hzU2pFWnU5cmc1ZDQ1YlZpbF9vNFNNbWxHVUNNQUxPZ09kWU9IR21Hb2V0YmJPdUxxRm43T2JCblRYZkM5UmxDVEZ4Q3Bv?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-22T05:58:51+00:00"
-    },
-    {
-      "title": "2535 達欣工- 營造三虎大啖科技建廠紅利各自靠什麼搶到訂單？ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIZWxhVDFDclFlM0ZWS2hfNWw4TzY4NzZYRjhSaWprLVlLMmNZTE16QmJ0VW10LURNN0F2R093LTBUSGJTVjFpZWVQOUhRTjBzRXJhTDBCcnA?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-08-28T07:00:00+00:00"
     }
   ]
 }

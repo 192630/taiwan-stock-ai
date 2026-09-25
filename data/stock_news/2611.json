@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-24T18:35:22.286718+08:00",
+  "updated_at": "2026-09-25T20:40:28.208091+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2611",
   "name": "志信",
-  "count": 7,
+  "count": 8,
   "news": [
+    {
+      "title": "$WTI原油期貨主連 (2611) (CLmain.US)$",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMmdVc1ZoVU1hUXBVZV9fazcxc21TaWRoUHdqU000WUFlMzlfVERiVnlZUXNwV1dfTldWOHZDUzZ1TTZmRHVnQU9WR1E4Zjh5WlktSkFTU01oQ0xXcWZfampyMTlOazZoWDBKSmJkcUI3MURaU0xDNHdEamJYb0d2SEpZWVMtbFEwNGtCS09CbVptdUdvekE?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-22T10:09:00+00:00"
+    },
     {
       "title": "A50指數跨期2611/2706 (CN2611-CN2706)討論區_期貨評論_交流社區",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wdnFJbWhJOElPVXJyZGl2d2c1U0xzWDdDX0NudV9RdTNVU3YzY1hkZFRMajVZTWZvdWlnUFk2azJ4VjMtakZMRklUM0RobGVqUVdVSmJlZjdjaGItMm9uSldVX0NUUkNmUWdTaWVNOA?oc=5",
@@ -30,6 +36,12 @@
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
+      "title": "歐元跨期2706/2611合約信息| 交易時間、費用",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92YkZYa0FrWHZEQXRvcmg5SFNBakNwVFp3NmpBRWlSbTgxZ2xWTXk5V3p4NEZfZWNEbkMtajVhemlHSElURlR4X2xOZTZiOWNLa0ZTUE91enhxY0U5MFVvSDVxYTljTXJhTEtMZzRUXzlKX0dRb1E?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-11T07:00:00+00:00"
+    },
+    {
       "title": "美元兌人民幣跨期2611/2806 (CUS2611-CUS2806) 新聞動態",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdjFJUm5PZGFSRG9GMUdkZlYwVWNlWFpBcE53QTU5QW1ocEwzRjdMSjhva3Uta0c0MFNELXFkeGRaSXI1V1AtcE1acVVGNHJ5U1pWdHhXdl9LaFVkN1V2aHlHc1p6eFBzVXpFeFJpM3kwMHNrYUY2WWwxbVEwSDVlV0hn?oc=5",
       "source": "Moomoo",
@@ -40,12 +52,6 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMHBQNXBGN2tGRW8tVDllQldreGxTRHZiN1BINTExUUhaZFpybnZFLTZGTlJnWDlUMzhrVWZjenhqVmNiYlJjR1VRVVM5WC1OTmlVT1FveHJvVThKVXNTaWJxUnMzZG53OTI1RnZHbmU1QWhPeFFIVDJfZmVCT0xCd19LYm5YOGZCSTVRaE5fXy1fZS16VmQwOXJ3MlMxeVFRSW9fTTVETmMtQXFITnVjX08xRFdhZ3N6Tm9jM2hYYmhQcW94?oc=5",
       "source": "Moomoo",
       "published_at": "2026-09-04T07:00:00+00:00"
-    },
-    {
-      "title": "$WTI原油期貨主連 (2611) (CLmain.US)$",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLXJ5SUFSOG1kYlQ4V3FpV1Jrd1l0Z1p5NFRqNHJTMXZDUnlGUlhtR3dSbUlyR3ZLRVNHQm1SZW9sWUtBTFJKNzZMZEg1QUU0d3A0T01nYU1MMmQ4TVl3X2tiN0J2VnpxSkxINHlaMHlkT09zYWtBOG9SdnJUYlM0SE5zcEN4U0RsX3NVTEZ6d0ozVTZiM1E?oc=5",
-      "source": "Moomoo",
-      "published_at": "2026-08-26T07:00:00+00:00"
     }
   ]
 }

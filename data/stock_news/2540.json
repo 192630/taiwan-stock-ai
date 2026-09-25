@@ -1,21 +1,15 @@
 {
-  "updated_at": "2026-09-24T18:35:15.097255+08:00",
+  "updated_at": "2026-09-25T20:40:20.181990+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2540",
   "name": "愛山林",
-  "count": 2,
+  "count": 1,
   "news": [
     {
       "title": "林保署南投分署招考森林護管員 邀愛山林者來挑戰",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ud3RidE1Wa2kwcjJTUmxkM2JIX3JrVjNnVk1TdlVFaWZuX3NPVkE5dnVBV2M5Q3JlZ2JxSjFmTnl0bWl4NDZYZGRRMnNZaThwR2ZhWU8tdXg?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-13T07:00:00+00:00"
-    },
-    {
-      "title": "射箭愛山林單日12點只拿1點 林子翔說輸不是壞事、明天贏回來",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16Nm1rckNDQklRY0VPRHN6N3otSERkSWdWMS02a1R2Q25lSWlZaldmMW5FUU5iTTBCUGJMbjd4UGNlU0R6MlJvVUVzV05PX1lGLXRWX3JjdWE?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-05T15:53:33+00:00"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-24T18:35:08.574368+08:00",
+  "updated_at": "2026-09-25T20:40:12.824171+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2511",
   "name": "太子",
-  "count": 10,
+  "count": 12,
   "news": [
     {
       "title": "彰化市聖安宮太子團和可愛的虎爺🐯，看到會發財，貓有換了水錢😄",
@@ -12,22 +12,46 @@
       "published_at": "2026-09-23T10:49:55+00:00"
     },
     {
+      "title": "黎金生攜手安歲太子捐129萬元 助嘉義弱勢兒少安心成長",
+      "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNS0lISk44cWJ0ZV9JdmJCVUxLdmRWRkRwSk5iSXh3NHJ5WXl5eHZwX3o5VFpvRGZua29sZzRqMDRUS3RnM0c2VV93T1k1enVsdU1aZTV0YV9DWndfbHF3NWlQSk1sMlRsOUdtVWJCaThfR3ZqS3RONUlrTGZtUVk0dWQteXZ6WkEzWlNQNjFLYU84eUUyVFNSNnpHQms1MXJFRXJaTXlaOU5Ed2F3SGxocEZHUGR0NlE4TjJRLWhFWTVHejRWWHpHaDdaak1mUi1KQTd3bl9SWU9WN2lFZWVRODlaZXUwMURKQW1yQXlUWUpKM05KODlwcHo3ZElDbV9nMDZtY0liZmhUVElnSGFfLWdYMXg4aTBudnBxelpnd1BMaHMzUmRYR1lZYmlHOWN1RzVHa2xlcnBVamxVdnVRXzNyWFNHVXoxU2VlaWFacW5nOU9kcVJ0Z2lWdXpFM2M1S3pQNkFHTzlNMnVq?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-23T10:17:53+00:00"
+    },
+    {
       "title": "太子(2511) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wUkExZ1B3NTR5TnJhUW5vMy1LYlYtdXhfVnZ5LVQxSjFnWHROTlpzSlZ5LVF0QXhvaHg2REprcFczOElCSHZYSVlMOXJPVlIyVmxn?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-22T16:36:39+00:00"
     },
     {
+      "title": "直擊太子集團園區！168棟建築藏完整生活機能 牆壁寫「業績就是尊嚴」",
+      "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQTVdCdU5hZDdvLS10dkFQcThfaUg5eHRnb0I3ZVcxclF6a3hqX01HajlBXy0zcjk1ZXhjdEZGSkl1bS1PcG8tRV9hLVY4QTl1Q2NXNVNTM0F6UmZrZlI3enF4Sjc1M3pWdkJ0VnAweHFOQjBtcUU4UTFnWTBCQnBBam5WMjBXcV9IQ0NBdDhjZ01CNnBYemJGQm83ZWdOQk44akFiR2ZTUHI0cDkzNW9pM3FORDFuakZqWl94Wk41OHgxdllYcktFUmFHSXB2SllqMUo5Y0g5dnJCamtGQUNneWNpQ09mQXEzZElVY2ZmTFQ1OWQwVHFZZVNqNUdkRWdhZW54NHEzbDRqNWhfdVpZUWpqUmFlazZHdkZwdy01c3RoelZsQ1RQRU9EcU1panBkZWs2OWQ0Y2pnUERZSk9kSE9Kd0V1SFBmZFpoeGZrdmJpb2FOYmZDaGFEZGdwOUIzRjhxdGtScGlFYXRYOGd1eUtpaG80STNYRXBOTEY0eDR5a3ktRjIxTlRQT3A1NWdJclZLWlRKS292M0djSVpB?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-22T07:56:06+00:00"
+    },
+    {
+      "title": "習近平：從失去一切的「太子」到中國最有權勢的領導人",
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOZlBpVEtpRFQ1RVhZUDVNS0JfdS1jdmtLeG1qeXJQUUhRQWk2d3pMRW9OdUFRYWQ3cWVwc3FwN2F3NFk5VEdiODJMWXhvejhOS1BiekhZamd2N01QRFV1S3BfNGJRM1lQcjY2YlZxSlBTQ3RfMUJXY0FqcF80bW5xZVEycnM1eDFhblFXWk51TlBPXzVhMWFpMDdfSlRPYi1YU0lSN2o1NDJUTVdSdG5RWnNoM0JSUXNXZnhKa0RqRWEwWUpiTlllODRxbkxVa0FMMHB6eUN2VXByYWM3Y2JVeEVOZlF0YkZWN294TS1pWkZHYThlQUVMa3k3R3h5Q0ttc1hkd01kU1l2azJBeEJGc1ZXSElqMDlOUDVjVjNQZnpyNlZpNHFkdHJzdUJYalNFV21OYlQwSlFlRFFqMVVmNTRkbjJVTEpfRFdlV2lMY21sWUVl?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-22T03:00:30+00:00"
+    },
+    {
+      "title": "北檢遭冒名！詐團偽造假公文「辦太子集團洗錢」騙個資 這字卻露餡了",
+      "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNZ3h4bDR0VzhadnE3OWt6NGNZR1hfeU1jZko5ZDVfWlJKRUJMbFJTLWJKSTFRTE1WeHlxOFZjSlQwOWxmM2FNTEh3NWxEejVralNsbWlFanB1OHhaOHFuU1dOanRBc04tOFA3NHZBUC1PTnZxQldicHVhdUtGaTB3TmFjR3VIMDFJYjFRVUtkUlFPQUY1SzFqVGdOc1g5ZHRtSDNCQ0d1ZkdoNUxDSG1kX0VQeVJjWE9NQVJGTXA3cEl5Z1BkZEdieURyOWV2UVRyamlGTk5iSThzRkdfYkJvTXh2dHpiSDNsT2FSU1kyN2hxOTNYZGJxams3V2pKQWM3cUg2UXdkRXZyY0pRQnY2bEkwaUkyUjVmb3lPUkZFck81UV9SanplQmUtRm5uZ2doNFdJMzlSSlA3S3JudU9nR1d5WUI4Vi0yME1Yc1JlTE1VZHRMbmxMSmhDMGVaNEEydUZyaVladmxFaHRnR2ZJU29MZVlDNFFDckg4bWs4U2JOSXpkNkpKWTBxYTJnOVJHWi1abm9EVVlKc2FyMjAzanRJQTdTejZs?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-21T14:23:00+00:00"
+    },
+    {
+      "title": "冒名北檢詐騙被害人 太子集團案再爆假公文騙個資",
+      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPTHZWSVZmbTZTSV9yeGh3MGVLMlZUZjNSQVc1aG16aXJvZm9GRkVKMEg0emJvX2tEZzZXOW5oVWRVR0pHNk1WSmVpUUVFalpPaHRzRGpSZUVzeWtuZ2dwM3I5SEt5Z1RWaEV0NU5oS3c5LVgwdUZha0RlLWFxNU5JcldRR0k0X3lHYmxWNU4xVjBmUTFUektTcV9WRWpJV0IyNmZuWmZtdlB6V2NCWTBIX0ZKU2VKemQ4Z2otUlYtM2VnZ2QxN1lIbTlaTE93Y3U4NEN5a2tjS1BTbm10MU5XV3h2LUlHVTJIN3hacTBqcmtTd011VENMX3R6eElWVXZ0RnBjRGk2YnE2VU90ZWU4ZzhHSjBJMHBVVGRfMFRfcjN6aWhVRHMzUE90MjBQdG0tVGFqNEJOakdHb3gwd1lLTk54b0FFeE1INWFpTUdDdllVdTVNWmo5azhORF8?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-21T11:03:54+00:00"
+    },
+    {
       "title": "LTN經濟通》太子集團瓦解 引爆柬埔寨金融崩盤？",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Bd09DQndmRzdSN1Fwc1lwVUw1Z0hwRmx3MlJfLWNXRU1tOFRBWGxJaG4wTUlEbEVsOGVzUldYUVUxSVZCZUJ1Y0ltdHRhNXNYQ2w0dFQ3ZV8?oc=5",
       "source": "自由時報",
       "published_at": "2026-09-21T05:53:56+00:00"
-    },
-    {
-      "title": "2511 太子 - 房市鬆綁- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02YllROVNlNkpkeF91d2E2LXlRM2p0eFFwOGZrc2FvdlBSaVE1cWhkeVNieWpxQmQ1cXZ6eFR4dHJsV09SUk5HYjlzTkNmdjVHWE02emJSZUM?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-17T09:42:20+00:00"
     },
     {
       "title": "NIKE股價暴跌78%止不住 請來LVMH集團太子爺救火 | TVBS",
@@ -42,28 +66,16 @@
       "published_at": "2026-09-14T07:00:00+00:00"
     },
     {
-      "title": "指蔣萬安被「太子黨」圍繞 簡舒培：藍議員建言都不回導致市政弊病頻傳",
-      "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxONGtsU3BRRzdRTmd2bjJjRVRkZkRXdzJ6NU1aRTVxN0YxeVBIclE4V0JlSm1ScmNEWHhYaVZNa0RPandvdXFXMzlDWUlqeEJqX1VWM2JKZlBndk9DZ1l2cDhzdlY0ekxUVHZCSzVoemhMS3hOaFV0dlZVeXo5QWQxS25zWGVCSjhwM0tnZUhfd19TVGJvV3dIR18wSzFOalByU00tdVN4UzhrMjJKeHp5ZW5NRGhWTGdmUjNxdGZDMDFMVU9nNGVURjVYUGJONm1lajNQN0ZRdHRzVUpJYTEwcjFTd1NZMC0yMWFQNk5EUVdXQ2tsYURvV0l2eGdYaGJKcTdSQk9hODllVUdMd2tJZWtWaUU1b1hTRWlJZmNBX1dPUmw5OHRvNFMyUWlUSk1wWHJuMDJRNTdSTzR1WkdZNldrOS11blZzVXNhRXhuYmF5X3ZuYWtRaXBJSVhGbUpLaWZfNEE4bWxoY0hVYmhtOG5laUUwRUxsSmJSZ0R3STF3TEdCMmdKbmRsem9ydjJOVU5zeU9pNlYxZWl5RWVVZDBOMnh6MTVVU2tJd21LczFwWUpX?oc=5",
+      "title": "市政狂出包！簡舒培痛批：蔣萬安被太子黨圍繞，3年打混選前臨時抱佛腳",
+      "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxNVXRVck5LVFczOTJERlhwT1dHdXZrc015TTc0c0NzbC1NeUdtZnVxM282WlBIQ0FNb0tpUlV0ZkJSY1RLWmNETXhIcFFIbnVzUmgyLWJSRkVUOTN0bm9Dd0QtcnNEZk9jT3o5b0wtMjlaVTJnZEUxc0ExLTYySjFLaFJBV2dkaHUxenhFcHN3dlFLVnVGTjhDUmlFdXA1dkFzblQwcUFpRHlMNTFWQzNUNmFPZzhhYVZWNVIzV09fTWtTdVJ6WnFSaGJsWUxVb2xKV190Z0JRaXJQdU5US1NkOGhnVUFjeVB4OHBsbzBVbWlZX1hzZmtmNXdpTm9xYVB1dFdrX2JsMF9KLXk2a0c1cjEzcUZSSFJSWjFfVHhGb2FuVXUxSFJiT1FCZFppT3FxLTVCWDQ0T0hLbXY4czBYMVZIRGVZbVlXb3dEeldzNC0zeHBERFNPMmF5eUI4SmVDaHNxbzhmOUNadk5pN3JYWlhxVjVkWE1PX3M1RTlVdGtOV3dlaE9rMGNJYUhBbmZJTk9LTzU3dGRybDR1aENNaklDcFVwRUZkZ0xnUEV4UjQ5Ullf?oc=5",
       "source": "Yahoo新聞",
       "published_at": "2026-09-14T07:00:00+00:00"
     },
     {
-      "title": "富邦集團三代「太子爺」35歲蔡承道身價已破200億元 今年增加逾一半",
-      "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQUFRkVFhZRWFWZi0yWVNYVmVnN2pHclJlalltTlZyRENkOXFNNVZMYWs3UnN2c2hHTi04MVVQSFRjcjdMZ2VJdGxrVGJ5akRDTXR1NTBVOXZfWEhYb3dFZHkwTjVXanp4TElMRkdfZ01IRWlickp5cXBDWVl6cFp3bmxkN0o3eG1WM0ItcS1rUGVTaFBfSVoyWWRqVkgzaFpxV0d0Yi1FRktOclo4djVCU1NiYUJiMTRuT3QtWGJUVDc0VWVKYk9MUDJLLVNMWkpiSmhyYXJTdHF1UXVlMXJxWm9rNWN4aEZvc3U0cTNUNlY2RFlOc29hbnZDUVdDUWxZdXFPMktpVTBCRHNyZE5Ib1ZUWmRZTHFTVzZTVzZDT3ZrQjNJV0lsT29NRFBuUEd4ZFN2TkczMVJEcWhXenBoZnQ3YVoxSU1mQmxEbDJlTklQU29RNnlzU0N4S1pfbXpzN0l2d2VhX3Y3Wm9CLWY0WmJyTWRRa1owQUlCbVczZjdqNk9CbU15WTgzWnFKZmdxSFl3VEdSd0dMOWJ0eXdUNV9qSG1ncE1JZ1J3Sll6NEJXQlU?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-07T07:00:00+00:00"
-    },
-    {
-      "title": "【2026/08月營收公告】太子(2511) 八月營收10.94億元，表現亮眼、呈現雙成長，創近2個月以來新高，年增87.89%",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdThnejlHbERCZjl1UFNNek4wSXdvQmRPWUtpTW1ORHZTb1lPYzFrV2RPVjZoODc4dGVIWXJ2enItY0ZMelBrNjh1dUNmMDhYWGpHN1V4X05LMlc3VHQxOWhFcGlmSllnY05RdURTdGFTZll2S0tobDJNRFNKQURtOWtCT2FIQm12dHc?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-03T07:00:00+00:00"
-    },
-    {
-      "title": "太子法說》房市「保守但不悲觀」拚年年推案 飯店、營造各撐3成",
-      "url": "https://news.google.com/rss/articles/CBMirgNBVV95cUxNeVNGV0lYd0UySEQtTTZOZFp3SzdiLWsxTjZVblQyVzdmN3RnTE1pajdyUzhNWWt6dEhSaUtmZ3N4UlV6SGVYZHpOQlJNT2VlVDN2XzlzTzF3TWc3VWFYQkUwdjdkM3hWMkIyWGFnVVhKUG42SmtHZXJlZGRXSHpkblY0MFJJc0VwQUlvQUFDa2tEUEZCeTBDN28xbXFUSDF5OGt6cloxTHEzdHFRUEpmcXBIa2Jid1hZYnU0M19SOXJZYjBqM1NabVV6eGxtY0luRVQ2dFk1TjBGclhVZExtRHVwamRFVFJsMGV6OTA5NjRYT1BEellPeW16QVpaa3I2WFJXbC1LdmNuSWlQZTJib19hQzVPYXYyLXVXRjNUUHIxUXpsTXE4NHM5cUFkVElXajV1MHB4amdmOE5rNHdudGJTTjEwUVJLQzRULVVSZ0gwMHYxeEJ4bHRXQTFScndNUXc1bzVvQ0FkOW51RFpvRmplYUctSzlhZ1liV1R3R3lBWmo5dzNoQ2V5UHMtb29qUXdCRWRjVlp6S1drVFZEMWdKT2Q2YlZCWnVmYld3?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-02T07:00:00+00:00"
+      "title": "指蔣萬安被「太子黨」圍繞 簡舒培：藍議員建言都不回導致市政弊病頻傳",
+      "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxONGtsU3BRRzdRTmd2bjJjRVRkZkRXdzJ6NU1aRTVxN0YxeVBIclE4V0JlSm1ScmNEWHhYaVZNa0RPandvdXFXMzlDWUlqeEJqX1VWM2JKZlBndk9DZ1l2cDhzdlY0ekxUVHZCSzVoemhMS3hOaFV0dlZVeXo5QWQxS25zWGVCSjhwM0tnZUhfd19TVGJvV3dIR18wSzFOalByU00tdVN4UzhrMjJKeHp5ZW5NRGhWTGdmUjNxdGZDMDFMVU9nNGVURjVYUGJONm1lajNQN0ZRdHRzVUpJYTEwcjFTd1NZMC0yMWFQNk5EUVdXQ2tsYURvV0l2eGdYaGJKcTdSQk9hODllVUdMd2tJZWtWaUU1b1hTRWlJZmNBX1dPUmw5OHRvNFMyUWlUSk1wWHJuMDJRNTdSTzR1WkdZNldrOS11blZzVXNhRXhuYmF5X3ZuYWtRaXBJSVhGbUpLaWZfNEE4bWxoY0hVYmhtOG5laUUwRUxsSmJSZ0R3STF3TEdCMmdKbmRsem9ydjJOVU5zeU9pNlYxZWl5RWVVZDBOMnh6MTVVU2tJd21LczFwWUpX?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-14T07:00:00+00:00"
     }
   ]
 }

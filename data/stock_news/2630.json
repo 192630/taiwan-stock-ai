@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-24T18:35:25.850373+08:00",
+  "updated_at": "2026-09-25T20:40:32.368533+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2630",
   "name": "亞航",
   "count": 12,
   "news": [
+    {
+      "title": "亞航(2630) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ud2FJX3hxWk1fcWxlVThqT3VHTU9CazZEQkwzVElvUHJURzlEYVg1Y2x6TDJhWS0yV0xLQUhDX1BScXcyYkRCa1loMElTXzlBb0k4?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-25T09:58:00+00:00"
+    },
     {
       "title": "普惠加拿大與亞航婆羅洲簽署四年MRO維護協議 作者 Investing.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uLWJTNEs4NFk2Y0xoV2cxaTIwV2pYblduTUpWSWcxNHZKcm9sSUVvMnRMd01Cdm5oZXA1UEdtb2xfcGlVdUNDVHNuT2RtRFl1d3BweExnazdTVTdMS2ZDZUd2N2RqVW54b2lfeVdrSTU?oc=5",
@@ -14,7 +20,7 @@
     {
       "title": "2630 亞航 - 南韓仁川機場行李漏裝！9航班26件託運行李沒跟著飛人力不足釀禍- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNdTVKZjYzUVExbkdmNmVZSnhFbjI5cDd4Ymo1eEp0MnBNTld6ZHdqVW1JSUxQck5SaHNLVW1TeFppX01jRlR4TjBEb2pGQ3JpSjZRY3A0RVk?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-19T03:59:33+00:00"
     },
     {
@@ -38,7 +44,7 @@
     {
       "title": "2630 亞航 - 傳亞航財務困境，馬來西亞與競爭業者磋商航線接手預案- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ZaXlKc001cFhwYmlFZTNSbDUtS0ZMRW55M0Z3cWRrSmZzMEc0Qm9kVUF2cVlDcUNZb2JMMWJiNGxJYm9MYVRONXBOMmxlaWZQR2RnWXdZUjY?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-17T00:58:39+00:00"
     },
     {
@@ -62,20 +68,14 @@
     {
       "title": "2630 亞航 - 大韓航空將推免費Starlink機上網路11月起韓亞航班改編號- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DTlFIYkZiQUpqS1Nzb3hnUE5rejEyYUxlWnViamhVczl3Y0tvaVR6el9LVXJjbUJnMUdqY0dKWHl0VzRmTWlRaVNUc2NDZFBmb3lMYWpzZWI?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-14T09:11:13+00:00"
-    },
-    {
-      "title": "歐美亞航線滿載 陽明：Q3會更旺",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vc2tNOGdSNmhpYlFRN3VyNTQ3UWwxS1lnaHozbnZEWDFRVFpLRW5vLUY1WkZIT3FxR2xiZ0R6MkdYS0t1a0JleW1jX0VScFJPMXFFamVEQks?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-14T08:49:29+00:00"
     },
     {
       "title": "2630 亞航 - 1分鐘看世界／日本對美提出新投資方案可能聚焦電力產業- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92R2NiWXVXaGF6WGt1VUtNYXNlemdrZ0czTUZqUHhqVzhzclhSTW1EcXlGTHQ3Q3QyRTFOSkFrcDZrV2gxblllaTNTMG5lR3RESDhzLVRCY3M?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-12T17:01:20+00:00"
+      "source": "CMoney",
+      "published_at": "2026-09-13T07:00:00+00:00"
     }
   ]
 }

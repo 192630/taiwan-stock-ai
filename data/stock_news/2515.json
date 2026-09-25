@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-24T18:35:09.436606+08:00",
+  "updated_at": "2026-09-25T20:40:13.733313+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2515",
   "name": "中工",
   "count": 12,
   "news": [
+    {
+      "title": "中工(2515) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10N0lyUU1PdU02Sm1TZ1dQaHhZRXVsajY3R3diYVh2OVRoVzVGaHNQRFc0TVpJcHBRbV9JRFVCSGtIR2ZfQnBXMlQ0X3VOaEMtc3RJ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-25T09:11:48+00:00"
+    },
     {
       "title": "2515 中工 - 9/20 114/5/10 10.9開始 2/25 高18.... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPSkc0ODA3eFdZOFlqWEZ6N1RJd0ZuQWhTWFJQYnFldWl2bjRFMmxmNEQ1RWZyNGM4VWJ2eWdVeG9CdUFmYTZ4NXVYX3hWU0lURVBCS3Rqbkk?oc=5",
@@ -36,12 +42,6 @@
       "published_at": "2026-09-15T18:09:46+00:00"
     },
     {
-      "title": "沈慶京放手共治 寶佳拿下中工經營權",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3cTlFVHluUGtjWEFzUlN2UzhoZDVWVzZDX0dUN3J6UjVDRmtFQkF3azZycGt1bDV1S3Z3WTNfeHVDYjVYMlVsNmVLMnZLYV9sZ0phVHJBbGs?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-13T14:33:54+00:00"
-    },
-    {
       "title": "中石化求生術1》3個月狂賣逾9萬張中工 中石化套現近12億",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XVkVEdHk5NVFXSTJEMWFHTV9jTG5jRDllLWo5d3Y2VnVRNl9EdW5XOUVrbVlMVE1NV2Zyd2lyNXBLTDJkVEpxbU4wMGNVNlo0RHJwaGx0NVVHZ2cwX3V6cnFxYmI?oc=5",
       "source": "民報",
@@ -51,7 +51,7 @@
       "title": "【中石化 FY2026 H1 法說會】中工持股評價損失18億拖累Q2虧17.2億本業損失連季收斂、負債比首度跌破40%",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KemI4ZWI5Z2pndzVlUFp6ZGMyRl9LRFgySC1Bd0YxR2pIcXpGWU03NU80LUxLVXBwejNDWjlKSl94WXg2bnpOZU9aalU1MXl6QURTblJDb0xWYTlaVGFpNHJwQ1NjQQ?oc=5",
       "source": "BigGo 財經",
-      "published_at": "2026-09-11T13:13:12+00:00"
+      "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
       "title": "《塑膠股》中石化公告處分中工股票 變現5.54億元",
@@ -66,16 +66,16 @@
       "published_at": "2026-09-06T03:29:23+00:00"
     },
     {
-      "title": "2515 中工- 熟悉的反一最對味- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FM1UzajU4LWJOMnlKbVJXM3ZNc2t0ZC1vWXhMY1ZRZ2pZNmRKZS1tVXNjX2tXQkQ4MXBFWTNqX28yOFIxbW5MVnVhb0JCbGdEalZLSmV5eHQ?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-02T07:00:00+00:00"
-    },
-    {
       "title": "中工：陶朱隱園要賣三戶",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5WeDFQVEFhX09WOHhQSkJwR3Azbk1EQWdmOTlwWVh3azN5RHJEV3Zfcmw4bkFRX2ZCMlVYQTVBYmQ2Y2diYmQ1dE5aaGNNY3ZF0gFWQVVfeXFMUHRsT1FQemZnQjJXRmZMMnpmektWakZKS2tvZUhFWHdVTVdQeXU3MzF2M2Z2R3NjaUlOTmNDQWNqNEZfWmlPZW5zdTJJNTF6QzJ0UmtCMXc?oc=5",
       "source": "UDN",
       "published_at": "2026-09-01T07:00:00+00:00"
+    },
+    {
+      "title": "10年前都更條件壓縮獲利 中工改押自地自建",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOWFl2SGtsdTBtU3IzNDJaTEkxd2RBbnR6aHNobWxjV0xrWDhzVUZ6YXdxc3pZNzJsQ3BYRjNtTkphV190Y09xQnVVdy0waFlrQlc2eGdqcjhQYTQwNXlWRVhua3N4RlBDcUU0VHJFWW9rQU1Eb0VjVllsSEZrazZMMnE3RjJKV0xfVXJmM0xJRG5fV01uY1drODh5aTVmWkNLZmtka08zUFQyZ0FuX1BEcS1CaTlhQk1TcFVOeGlzbll2WkNxeFhjcjYyYmxyRlBHWmdHdkpvZEgyUzh4ZVBwNldUUHVmaHd1QVkybzZzSmhDRE5qVlhMSFp5dWQ0UmZDZERtUXJtMHVUazdjNVZvYmdLZVM0dGZsSDZqT2dXTEMzVmQ2TXREZ1lFeUVxSkk?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-08-31T07:00:00+00:00"
     }
   ]
 }

@@ -1,21 +1,45 @@
 {
-  "updated_at": "2026-09-24T18:35:14.251133+08:00",
+  "updated_at": "2026-09-25T20:40:19.173529+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2538",
   "name": "基泰",
-  "count": 9,
+  "count": 12,
   "news": [
     {
-      "title": "基泰大直案滿3年 塌陷戶重建審議中、3戶仍訴訟",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DWFk4WVVQMGhuZ21SbDllQU85VWwxODZITENCeVJyb3otQUJKckNYRkdoT2lZY3hiaUQtRG5XbFotR0pVbkxrWWdMSU1fYTNkU21oV0lzb1o4ZmtKTDAwTEZCanXSAWpBVV95cUxNWkowQ3NnLU8waWxwUmY4cFFsdTI1Y25helZaZlh0RHpzN1h5NXJoV3ZuOWZsclY4WlRDd1h5czBpRkRJcnZzV1JKVzdHVFk5UW4yeFRxRWhnWm9ma3Z2THZvd295MXVWN3R3?oc=5",
-      "source": "news.ltn.com.tw",
-      "published_at": "2026-09-18T02:49:52+00:00"
+      "title": "獨家／基泰大直補償談判破裂！受災戶點名蔣萬安還在嗎？基泰建設5回應",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9RdmpTQmxZT0txbEI3a3UtYXh6eTAxaHZmUzVJYUk2TktuMFZ0eUVuY2gxdlJqWWFoMjJfRXR5WGo3X0Q2d2ZXa9IBTEFVX3lxTFBKa21fMExNZzk1MGpMcV9HNDNUWEFGRFFpNkZqV3IxaldJazVOQXhUalEwWUVFUl9uZm5wMGZqSTdqY2hXdDhIeGdLeUg?oc=5",
+      "source": "三立新聞網SETN.com",
+      "published_at": "2026-09-24T16:31:02+00:00"
+    },
+    {
+      "title": "基泰大直塌陷地遭改為私營停車場 北市停管處：依法開罰",
+      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNdG1pVFVwLW1ld29nVmltclowRjhjb2w2cS1SSzdvUEEwX1BDanFJUno3eXROVXR5UC04T1pqbldlQUpic19BNy16ZS1HbXY5OWVHYWlieFVLMWtELWtsYldPSVhhVVNodW1FNzV4NjdWeXFydTFSQzRINk9BOWIzZzBZOVhiRkppT2tMOUZ5UGtsMS1mLVdkWUl6a0JxYmlMWnNXMnRub3J0YUtqNS1rbFA2RDBFdFdHRTZ3LTNvVldRQmtsR2hqdXY2UEcxRVg5c2h0My1tWU1DNHpKTUZvd2pJVmdwRG9tVU5KZFN2VTVEbU5Kc3pyZjZSeTJSVTEyZ0ZsXzdYc1d5VnVYOVpTT1FDd09QZ2w1WG5mUGpYdGtQeUw2VHJ4MGtJLU9PY2VXLXNtZndEM2RCM1JQWEx3MmladEJyVFRrYWtrTjlsbUExRUU4d0g1WlVQM01oZ2FnRE1oS092S1l1RkZCcldIRHI5eWFVdw?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-14T07:00:00+00:00"
+    },
+    {
+      "title": "基泰大直重建未獲共識「竟變停車場」爽收錢 災民怒嗆：侮辱性極強",
+      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxNNEt0cG1meWZraHoxSFJWUlNvNkc2TUh2bFRfNllZdnRjVkRyMXBWMTRTcVF3blkwS1huN1FzSU9yX21id09JdGF0YkVzY0RwVGZlTVdWbE5PemdZMmx1cndZcHlwbmZYSG41MGtYZGxvT2FJTGVJbWZGcTZBNHhOLWlOTjJwSmhYV2VLdHNZU0t4YjdQNU04di16ZklvN3pwcnJhaXh3clBiYjdDQ3RBQVc0aGtwajczN0xFdF8zQ1BmbndkdGt3d3hVWjQtYzlJdTVMQV9ENE5VaTRheHBoclVtMmUyQnFYMmRwQWx2T1ZMSHgyVVVEajZhTmZQbGtzVTBlZ2VzTnFaZk9ISl95RUhiMEdjajdSQmFHU3VqeTVxc210M21uaHdHRnZmYklQTUcyTHdMajcxY0NjMmtSV1NNQk5TOVhDWGJ4VzVpbVVrLVBMNjRIWXR1Ql9ZTjZMcmNPd0dHdWJaZmVMQ1BnRnh0SGFmdkg4YlFnWEtTX0RETU0yZjhGS1JnYklzdnlCTjBORzRqYmR3alhZ?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-13T07:00:00+00:00"
+    },
+    {
+      "title": "基泰大直工地塌陷 受災戶控\"市府.建商搓湯圓\"拋棄住戶",
+      "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOamE0eWkybGh0dDc5Q0pEMG84NFFHMVJycWNrNU53c1Q3ZXBKOEhidmNQM1lEVW9KN0ZScUplUmlIdHo3UkQ4REt6LUFacWctNG0waUd1V21PWVB0Y1o2dVR1d2lYUW5GS3c2bGw3YldPZTB0NFB2WGZJUk9OLVczWXpPTU55VW9SOFpqOGtEVVZOcUhUMnZNSEh0U2RuWlBvc2dvdDVFWkt6WS1TYlJPZ2RfVjBHbm5ocVltMWhOT3F3WFpvOGJZUHl6Q2NrZlRYOXduOHFRTi1BNmNCbm9GSWJZelFrUmF5SURhWWg2elpvcXptU0I4al9yVEJyQUc3VE41V2h0TVpkSzFQWmZCdUFMdmU0Zm1UaThRMFQ0NFBqZjlqbnRCck5ndGtOWU1uWkJtMWlacGxtajBkbWViYm1xNW9vbWlWNmt1dlYxOUVtV0dxNXJ3SGtBNUxfa1lMY2Z6QkpQdWJxdGdx?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-12T07:00:00+00:00"
     },
     {
       "title": "2538 基泰- [新聞] 獨家／基泰受損戶土地竟變成「私營停車- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fQXFBTWU5blpHVWMzSzZ2VlNMS25TeVBReW1DOVdHSkxnTWxhSGE2WG9Cc29qOURmRmVCcnVlS1R0YmJzY1hfeVdOaXBkRTYyWWpPQl8tVzE?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-11T14:42:05+00:00"
+    },
+    {
+      "title": "基泰大直3年還回不了家「租金補償又喬不攏」 蔣萬安：全力支持住戶",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5vTTdmRVRTYVdROEVWYjQwZ19qenBMNHRVckszbnoyRUhLdXFwV0FDemlaOTFzczI4S0c1NlJod1EzSlJudE0tY9IBTEFVX3lxTE9MclBtOTYxaGVmZzFQZmpNVWV0SFU0c1gtSzB0ZWk2VDdRRjVrWUJwem9WTEVQZmtkWllhRUJSVFNKUDU1MkJ3QVhJbEM?oc=5",
+      "source": "三立新聞網SETN.com",
+      "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
       "title": "基泰大直倒塌戶3年仍回不了家！後續補償「還沒談攏」 市府曝重建進度",
@@ -26,7 +50,7 @@
     {
       "title": "【2026/08月營收公告】基泰(2538) 八月營收表現亮眼、呈現雙成長，創近4個月以來新高，年增26.9%",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSWVGNklHbmc4M0ZkcmFkSW43eENPTFA5X1RpdTlrbDhMc1J1SXNlS1NsODJweHE3UG01b0FfMl9LeWZmcVJfbE5Ia1h1N3RPVEU5aGdhRHM4czNQTy1HZU9fTWN1TjlIQWtJX0VGS0o3c19GaG1EYmphSEp5UTBseUZWbnotVUxiUkE?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
@@ -36,28 +60,22 @@
       "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
-      "title": "基泰大直鄰損宅重建有譜！皇昌、長虹出線 2都更案估值逾220億",
-      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOeTlkUVRITEVfYkFhYnBMTnZyUmJETHVITUhJdUdMMXcyRWZWeEQtekJhamJpVzV1YWlWVkxENFp5dTdGNlh2ejRoM1lzX0hMSFRSdVYzMHpiMmRHaTUtRlR3STF2SnF0MU9RZzVzcVlfVEJsbnBMaFV2bXhJQ1BiZlBZY0dVQm1OeWhwQnEzNEtPdzZHWjJLMGJjNlRSMWt6T0EtOG02QVJicDlONnBzRjg1MVBLWDlPQ19xUVJINlAyWGVmUm1uZVdLV1Fvek9heG1KWmxhTkR5bFBsQXpUZ1ZzR0UyNDItMnBKS2M5M2QxVlFVVTF3MXFwOUpjcFNicENwaTdSaldELU9fTzFvcElmRVl4TTdMRnpoQ09qY2wzeG10SmE2U0pXa01DVDNsUFdPTmF2S3k3Z3RJTmJtb2lVX1V5TFJaVFFpUkw2RzhjVGhpRWplMEsySnVFY2VLT1ZxcHVIblNKMDlBbVZvcy1vT0tSczBJQlloOHR1SWJjMDMzemJROUpYZmVkbS1aRGNPX0dGZEUzZw?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-01T07:00:00+00:00"
+      "title": "回不了家1／基泰大直倒塌戶合建恐生變？ 災戶控租金斷炊「睡公園」",
+      "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxOWmpfVG9sR1cxdW5zcUIwSGktWmlGQTBNQUY5NnJTajAzeDMtbmpXWWdHMHZEYjhrS0pOSFp3NmxrUkZtUTlvTkJOQnFDa1lERGZfa2p2SUE3X3ktMzU2ZTZpLUpBNU94Zkk2MldhMDJKQmI3QUhBaWs0MmY0UGk2ZUtfWlBTeTlwWFozS2ZwMzFsMWthZWk2RlRPdGhNS1ozVG1zaTVHMTdBTHhlcnh4NHdXTTlKRENtN0FRNVNfRHpUT2xvRnVpMGZMbU54cDRxNml1UlV0Wnd0VHpZRXNEOE1udjdpZk82SXZtSWRoZ2FKSWpBOWtJSEhfSGxRMlY1WFY2Q1ExdXlQR1pWTTJRRzBxRzN0NkVmU1ZPNHV2cV9BbC12YkxTTHltczhOTUlCLVNrSzBubFFkNFlhLUFlTHVYdXVMS2t4c05KcWZUTW5OTS02VGd5eHV3X1U2UnRhRFVvRDhTYXpXcnl5R0NpZ0NhTnpQOHZudjRCTEhFS0plMWZKUkxmTjRheXlWMW5t?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
-      "title": "嘆有罪基層扛....「基泰大直」一審判決住戶心聲曝 籲履行2承諾",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpMXFPcWhfdzhiSldFTncyRGlGWmI0NWhrNDV4dGF6N3hoRGg4eTJWRzF5ZlNNUnEwSzBfNkFuXzlEODF4cHo4N0xEXzV4S0I10gFWQVVfeXFMT2piSnp0cGdjNDN2blJWdWlIMXJrM3BNZUtHZ196NWRRYjRMcUhFSmNzeWtVbHNxaXVHR01TQmU0c1pSUnYtMjQ2cGdqTEJPZzZMTndydlE?oc=5",
-      "source": "UDN",
-      "published_at": "2026-08-27T07:00:00+00:00"
+      "title": "蔣萬安曾承諾「一定幫忙」！基泰大直塌3年紛擾未了 字典大王88歲仍租屋：像住學生宿舍",
+      "url": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxOTGZmbm8zZ084VVhGeEZtXzVJN0xMLWxFa0ZtbHk4blItX2hHZHdiYmR4bExlLVBxd3NaR2hYUjVNaVBDQ3pnUUFEQlNNUlZjMEswS25OWVgxLUJOTml1dXF5TlNSUlFYR2lObGRPLU5vM2dUSVlhRndXekkxcm5mZE1tQllndmJhRHg0b1d5cnlhal9weGpYTlk5V0JETUNFbkl0UGtzVVJVMWJvWVBYLXlsUW5QNUJBaDNhRHpHVkczSk8tTzhtaTgxYS1ROGlzLW90d0JTV2U3QW1pZmJSTW5yd3ZjaWNZMFNNN0tXOUd2SERQVkVNSVlMUVlMZHdnU0c0V2g2Z0kyOHYtcGh0LVZXRDQyRGRwWHpuOFZPZnYtNjVFLWNoY1ctaDJyZlNFakVRYkd6MHN5ZF9zbGF4V0FMVm1OVnBWeGxCVWlNZDFzOV84ckt2RXo2VXptY08yRHNfNnB4VTBBcGdiME9rTkJURUFCbEhoWmNMbmZQVjF1MUh5OWUzbUhhcnY3NTJMZFU3Qzc4LXRScS1mcU9CWFNOSE9haU5Ob09hRXRJLU9wcG05b2IzaDg2NXFyNGd0YXBVUVRadEVqLUpJRDcwLWVscU9jQ21hcVVfX0p1Wk5yMmdhZEhiYQ?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
-      "title": "基泰大直坍塌案一審宣判！「連續壁少10公分」釀禍 工地主任遭判4年10月",
-      "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxOaGxwMWhQbmlFZDlzNTh2T29SZFpNS0I0d2V5UHhFc0dtS2NnRnl2UUhrb1RkUWhvanpZS29uQVRqdkRqVXl3TmYyTkM4QWVnYmRkdkp1NEgtcWJDRXFFRUU3QWVWWXhQOU9KNDYtV0Q3cUR1UVBUcmt6eG5mOFhSWXpnR3FlSTRJaVRVa2RXbHNwVWlfSFgyRXRwM2lDZnlRMjduMnZ6d3FnSlpleWhQWWpReDQxZWZDUzFUeG9CRTRSR3ZFQzh0aGJjam1nYUVHVWdmc2ZxSnk4TkRRRktsMlYtSEw2eU9BSENTaGM4NndoZlBkRmtSRDI3Y0NsZ2tmM3NJRGpUVDBBa2U1LVRpemhRVFdqOGZiTEVvSEpVV05saElEUGVmM01iTWlzOUVOaC1Rc0JyZUlyc2NZYTVMallkN2ZYbHBpY2VPa1JiU0h6VFBlQmNUR2RjN3NKNVBVSnVnREhNaHJzY0JDRnVYRXp4V0FYbTJOejNrRldvOXBsWWl2Q3c1NUJRbzlyMGZwRFhvaHRYbnc5NkNzZUlQbFZJOXVVajBSZ0hIVTBSZV9kTTdqanRhQV9wOWVSNXpCVHhRd0N3Y2RRTTg?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-08-26T07:00:00+00:00"
-    },
-    {
-      "title": "快訊／「基泰大直」塌陷毀鄰！偷工減料偽造監測...一審判決出爐",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaU2hSYTd5amp6RVhaS2pJcDVIYUpzb2V5Rnd1bDJGcEV1US1NYWRkYjd0azNIa0o0ZERwc2ZWZDVMYmQzeU4xdmlyQlN0ektkUnZrSkd5NlBQQUd5MmfSAUtBVV95cUxNbHJQRVRGN3dGbEZ5eDY0VkE4eEtRLXlNRGZLMlJWVnVPRVl3MlJRSHdnQlJzQXB1UnlEMHQ0MUJVeFFITi1waU5uS3c?oc=5",
-      "source": "ETtoday新聞雲",
-      "published_at": "2026-08-26T07:00:00+00:00"
+      "title": "回不了家2／「字典大王」呼喚蔣萬安！ 曾開嗆基泰的倒塌戶「左家」近況曝光",
+      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOd1AyVmhBLXlNZVhYMVI5dFlSb3dBLWQtMGFOWE9lRGFsMlpPLWxSQmstT0ZXME1mX2Z3S3BQdVV0NGNMVC1rU1R1Z3M2UzFJSEhJcGphZmw1ckliVGpxRUo1dm1zOVJnS21qa09lU1c2Z2VkTnUyWkpmbXM5VUFkT255ZEhWNlhRM0Nuc3Brb1dxY1JnZnBUMzdlTWJHSUNZcHRmdDRJek1hSGtmUnNIc2hFZEotZGJBNGxkYWFCRFYwQzIwcV9kazBfTzdsNVU5SnlWd2l0RTBESjZVN0NnRkl3VzlyTGU0R3A4dks5azRxdTRfbWhvRHpLRHp2dWt2QmJaa05vQzBaUnhBLWFLQlhCam9BckFPeTR3MHkxTDczTnVmZkpPcmFaTlQ4eEhaSFJ3b0FTT1B3eE96SXJOblNxbW5zclFHc2dLSFVWT2lnNXVQcS1pQ3FTWVJCTmJwSk05LTd0T3lTTTVROE9nWkJrVlNIeG45NHc?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-07T07:00:00+00:00"
     }
   ]
 }

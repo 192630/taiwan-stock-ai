@@ -1,21 +1,27 @@
 {
-  "updated_at": "2026-09-24T18:35:01.222557+08:00",
+  "updated_at": "2026-09-25T20:40:04.535833+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2485",
   "name": "兆赫",
-  "count": 8,
+  "count": 9,
   "news": [
+    {
+      "title": "飆股幕後》傳接獲低軌衛星訂單 兆赫 4個月飆漲逾3倍",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iNi1EVHJXWTJhQzNZRmFzeldEOF9MOWNydTlnazRuZWpEc2plZWdJaGlNNm5BTW85cUNlZG9MTjJ5SElhSk8xOFpmdGUyY0hOWUt0SExZQmI?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-25T05:18:51+00:00"
+    },
+    {
+      "title": "2485 兆赫 - 大盤漲耶！ - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3SlpGdW5QR20yRUtCcDNWcEZjNENhel8zOWJrMl84RV8wNXVTOExBNjM5UmpBUVZMVkZjWmNrT29IRWltSHlqbkJDbHRuR1huMFRkbDJBdVE?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T01:07:31+00:00"
+    },
     {
       "title": "北美MSO重啟寬頻升級投資 兆赫(2485-TW)虧轉盈動能可望延續",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BU2tiVHpnQkNDM2ZNRHgtOURSNHczV0Z2Q05CdzU3ZG5lZHNzb09YOEowc1dSaVZpWXFPSkFaSWZnbUVGZDF4X2dwT3loVWZIeUJYVHNR?oc=5",
       "source": "優分析UAnalyze",
       "published_at": "2026-09-22T01:00:09+00:00"
-    },
-    {
-      "title": "飆股幕後》傳接獲低軌衛星訂單 兆赫 4個月飆漲逾3倍",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iNi1EVHJXWTJhQzNZRmFzeldEOF9MOWNydTlnazRuZWpEc2plZWdJaGlNNm5BTW85cUNlZG9MTjJ5SElhSk8xOFpmdGUyY0hOWUt0SExZQmI?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-20T15:58:16+00:00"
     },
     {
       "title": "2485 兆赫 - 各位覺得他回得來接近高點嗎 - 股市爆料同學會",
@@ -27,6 +33,12 @@
       "title": "2485 兆赫 - 新聞消息- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mNVhqbEVmN2dTdUZRQVoxek9ZSWtQM2tOWHB5VUNTejFaRDM0X1FtUUsza2pQbU9XZUNjcTVyVFJpS0dCWFBTQUJfcFEwc1lrbGluZUlYVXI?oc=5",
       "source": "CMoney",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
+      "title": "營收速報 - 兆赫(2485)8月營收2.49億元年增率高達38.41％",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoakFZcXVkaE9IZjVHZkd0ZWYydXJDbW9JVXVFMmZzTzJjZzhlN1llSWd0dUNTZnhlZVV6cnRsMW1YNDREOWZ3X3RNSC1KVHc?oc=5",
+      "source": "news.cnyes.com",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
@@ -46,12 +58,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rV1pYRXNvNXlYRVpZLUZFUDdfdGp5UGYtQXgzMHdFVVBHdHltQVplc3Q0OTlsUF9sQk9jV1owTmVSWHBFN3FTYjJUd0hINVpPSmtMZjlvRWw?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-07T07:00:00+00:00"
-    },
-    {
-      "title": "【10:25 即時新聞】弘塑(3131)攻上漲停2485元，受惠先進封裝裝置多頭題材＋月營收連四月走揚強勢加持",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUW8wU3o4ejRBRGxjTXJxeWhlT0dSa1V5akdyUmdZRzFLLUN0ZkoteTJHMm5yc3E1dUZTRW1welh0UnBWalZsZDE0dk9lMlJlcWk4dkxlSkZUaGhNeHZFeEdGSFNuT1dhUGZ4MHZ4U0ZzNWRTQ1Vyd1V5aDV5YlA3UzlUM1poOUg1dkRRNUFn?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-08-26T07:00:00+00:00"
     }
   ]
 }

@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-24T18:35:10.932396+08:00",
+  "updated_at": "2026-09-25T20:40:15.264970+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2524",
   "name": "京城",
   "count": 7,
   "news": [
+    {
+      "title": "京城(2524) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12ckc2MEFEa3J5Y0tTUjNuNklTTEduVkswZG5nZ2tCT19BemgwYzlpMzlWMjdmS3pzWGZZWW5xeHA0UGlHdElrbi1sRFhNbVRkWE9r?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T04:26:36+00:00"
+    },
     {
       "title": "京城機電股份(00187)控股子公司北洋天青收到中國證監會《立案告知書》 作者 智通財經",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91cFhqQmI3SjFURnJibF9GanNEbVZhR0tsV0hpRy1OZWFFWTBnTDNsaWZUbzRaT2tsdERDS3kyRkxTOU9XN3RNeTd4UXFNT3ViTnVhb1EyX3BsT2RfYnRhbjlZZ1hIZ1YyNGJMRHBUa1Q?oc=5",
@@ -20,13 +26,13 @@
     {
       "title": "高雄車站3年搶8棟老屋，京城 (2524) 數據藏什麼？-梁姐價值投資心法",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeGctWk1TYkpRM2lzZURSbVpvRDUwc1VfVU9RdGJ5aW5zbXoyMFZpSmNPeUNDR0Z5Z3Zna2hfbHZmcnc1OFZHWi1OaTBzRFBRWlRZVXgzbEY0clBoUzVpZldTU0NscE1mcEQzMkJ1VElWazhpbXZpRVBtVnI4WmpWSHY1dnF4UQ?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-15T02:41:23+00:00"
     },
     {
       "title": "【2026/08月營收公告】京城(2524) 八月營收月減年增，全年營運續看向上-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeVI0bk1fX0NBTzJGV3NWZTZ6UF9UZjI0U2I4OXM3NVRiWTQ4X2xVS19Ia1RKTkZyVkJMN3ZnUjhsM0gxeHAyaHFCVnpGYTlIRUpRTkQzN0JwVENNX05IQ2pLODFnclEtZXhIbjBkb2d6dGowU1N2MmxNQzlORXB2dXIwSklJMm9reXc?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
@@ -40,12 +46,6 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wQW4zREtLVU85MTJtTjdLWkRpV2UtMS1ONWgyNC0xSFlJRFZlVndBVkZ1X21yWHpubEU5YjBEV3pBM192ZDVuWFJMQ1NiM1FOUWc?oc=5",
       "source": "富途牛牛",
       "published_at": "2026-09-03T07:00:00+00:00"
-    },
-    {
-      "title": "京城(2524) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12ckc2MEFEa3J5Y0tTUjNuNklTTEduVkswZG5nZ2tCT19BemgwYzlpMzlWMjdmS3pzWGZZWW5xeHA0UGlHdElrbi1sRFhNbVRkWE9r?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-08-27T05:35:35+00:00"
     }
   ]
 }

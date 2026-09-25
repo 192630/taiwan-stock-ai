@@ -1,81 +1,8 @@
 {
-  "updated_at": "2026-09-24T18:35:26.790805+08:00",
+  "updated_at": "2026-09-25T20:40:37.217776+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2634",
   "name": "漢翔",
-  "count": 12,
-  "news": [
-    {
-      "title": "66架勇鷹高教機全數交機！漢翔達成國機國造新壯舉 今股價強拉尾盤衝破63元",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5RbkJ4VmcyU1ZSZzlSd3NHbmxfWC12TWl0dk1tNTRFVjNNZDF0dFhOQk15WW1haDVBTThUUTNpQUxLbm9QRjcwdmdhVQ?oc=5",
-      "source": "FTNN 新聞",
-      "published_at": "2026-09-24T09:45:00+00:00"
-    },
-    {
-      "title": "漢翔勇鷹交機2｜持續爭取軍用業務 估後續維保訂單可達300億元",
-      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPLUg3dG1WSVZreFRwWmRhX0c4bzRPUS1pUWZ5OUEybTBBUEJla3hVMHRtVzJNQzd6VjFlUWFGU19YTWpSVmxzRWZVSHJIMEJaR05LdE9XaC1GNFFEeTlDN2dOaWtibEphUDQ3cWpRZDRzeVJ4YWxORmxFWTFjQTU2enBxTldybDdxQzFwS3dOWlR0YXZIN0dfYjlsVW1xSmZib3hIaW90amI2N2J4VXZTZlFaSVM4Q1pFZWx1U09TMEdCVzNhZGpHQ29JcHBLWTZlaXZlYU14YTg3d0Jkc1VOa0J1aDZCbkdZX3FVUHB2RnlBaFptUS1ITzhuc1V5S1ZodVhkaDlxYm92SG03eHktLVRXZ0NqTF9zN242NDdiM3JlSWo2U0ltZ09BYmFneVdHQ1FmVmJoUU5IYklfOWNXT2JUa2J5ZUJQTUVHRndrcGNXSko0dnVISlg2VmUxelhlWnNDUDZRbHhHcjRRVUZ2TDZGNU5nel9hcU1BUUJRVnFrdDJUSXhUX0Y3RWsyWGc?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-24T09:02:00+00:00"
-    },
-    {
-      "title": "漢翔搶無人機商機！美國Blue UAS審查拚在台落地 海外訂單同步洽談",
-      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQdHFqVkZmZ3FPOEtyblFoakVoTml3Tlh4RE9tSzlyVms4WGNyS3ltQXVNWE1NLU5rblFIajVFMHJadXdBN3dTenRiaWFrWWxHZ19ISEZvU0c0VGpVUjg1RFBnb0Y4QTBuRTNPM3ZWVkstWHNsODNUa1VsZ2pvcFFNZWdaWDlWSnEzMGJkWkNRcjl5Zy1PNV9zbnRSeEJ4aDMyM1ZiaVJscTdmTFg5aDQ0OXY0RUZld2FXTDZSSWJ2NndNY1hJYXVlak1KQ1hfUTNNbHduNnZ6UVUwY3g1RjZYTVRlQmRtN1VXZVZFTjJTNFhQaEE0SUpBRWxHMUZCZGxrRmxiNUxrZU1HdGJhVmZMVzNGeFZtM3lTaVFZTS11bGFBX1YxRlh3U1lmTG9QejV2MEFKcVNoR2hBY184RDd1TjFjNVVSdTdCYlZXZm9adEZUY2E0UGhuWlZSbWpzbDNHRmgtRXF0Ym9McVUzb3RNWFBUbjI2Q1FDNGRDQjJUaTlQSlhvaWc4RE93SUE?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-24T08:58:00+00:00"
-    },
-    {
-      "title": "勇鷹高教機後勤商機逾300億！漢翔提前布局初教機 民航業務動能強",
-      "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxNTUM0SkI0cy1XMDBJdWVlbnQtckdibjFyTUpDTkl4RTZtVlhmMWs1ejhKb1JmNWZlRzlnQmNfdlZTRXdOVktWM2FSSzVuT2Vrb0tMZmJQaEVqTExGcVZFWEdTRUhXeEh2cFRkTXQyNEJiSnR0RzRJeGRqUFplWFljN1k2Zk5WQ3VCeUREYW52dnRxZkVUUHRJNjBUMXF3Mm94ck9xcWdiX1dYUXpDSkFZRzFjNmh3MTV5bV9nRDlMZTBFRkxhOGlPVmRIWEtLS3U2MDN0clFjRGJYUkQyczltcHR2aUtEVW4wZnVJeUJOaGF5RkY2cGpRUF9ITzA0M2Z1cmhlNWptVUN1b2pXOXdxOVZUZWpjVWlpcHFhdWJvQVctVHNrbUh3TUQ1bk5jbUFYVTNSdEJnYnhneDlrQm1hVVFnTno1UWpNTjB3UGxBTi1qT2IxQlpULWdoQTFscFpiVFkycGV0dXc0c0EyeHFYenFrcG9VRXVUcTQzNGhMTFRiNlNpWlI3aTdkcklOVUh5bkgyejRWUlk4Z2F6Tnc?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-24T08:43:00+00:00"
-    },
-    {
-      "title": "漢翔國造勇鷹66架量產完成 將展開全壽期合約",
-      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPTnRMd1VGWk80bjZJNDJiUVVRNXpwVzBsY0lEMUxsYzBrRVFEd2FTT0twUFY4ckNOZm44VHpMdkloaVhWQkhKdzdVQU8tdEVkeGtFYjUySGpZWGlFeGpSVDl6Nzg2SExEY0szY2tEbVVJZXUtNmowN28zWGFZM2Itb09iWFR5WDhpTkctWUtUX2VRcXlDdTZCdVYxeXNCUGFpTTR2Z0RGRC1qd2lfbWlpWnpzM0QtbUx0bjhjQ3VycnQwaUh6Zzh1NEVEZVl0T2MtMzJwd3BvYk9yUFZkTFFST3JwcWswUnp6dFJqOW1IdHZEbXZLZGViS3ptNzlsWDJRdnBFVmpUMThKdUJxcmp5Y3ZBMXJjcE5aTnhka3BvMWdtTkdrNjVQTjhWM0FzS0I5OHJJM0MyQzdSWFUtazVOZXRuUQ?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-24T08:17:15+00:00"
-    },
-    {
-      "title": "證實MQ-9B無人機維修「由漢翔負責」 總經理曝未來發展：將在無人機有較多琢磨",
-      "url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxQZGhHdE9Lbkl3NzFKWWpHcmNJMXJDcnRTUkg0NElqNHRxLVRMSjlJSzY2Q3dkd3JncVBybV9KM3VoRTdOTjluSG9OTGliWkZ0TmFOd2tDNkdCYVllUU5GeDJhQWMyWlI4N3BIWnBXdFFvQ0RMMjkzYnFvbEo5VmdxNGtFQUdZeHpWdlJnMkF1clJjbTN5SEp1QWNaNElzRmRTMjFfYXJLZ0JZdVRBaXNsLURPVGprd0FTSDVnZ1Atb21oQzA1dG5zSV90cHE3Y3dEQkpMNFhIWVo4NzRUMWxVZ3NqQWVsZWJnaC1hTnYyQ0thcGZaNlFnRFNyb0hrelpoRnZoRHNtZGVBR2VMTmNObVFnWi13SWF2eGMyNG1uYklGb0c4bVZwSnVQUGRId0haMEtGVjlrTENJaFBzTUxPOFdaQkg5MzdHSTVSTER3d0kxMUI5WjlwLURZRENXY2toRUlRVGhLdG1lSVlBNGhDN0E2Q3VJREZ4eGE4MHQ2T19CbjhsMDZyQXlrQWdzanhfUkxwR2ZLclQyVWw2WnZvcXNxSXRtMEVBb2IxVC1SemVpc01WdGpqbzZaMTZXb1MzeHp5MzN3?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-24T08:12:09+00:00"
-    },
-    {
-      "title": "國機國造寫歷史！漢翔勇鷹號66架全數交機 下步迎300億後勤大餅",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qcVNTZ3BVVDcxWU1JQnFLam1FeU1LRnJ1WGt6ME1qSXlmSFVkbWdtOG9CbVFNcGJCT1JGV1FMR2wzSmN3bmxNRTlkVjVGdw?oc=5",
-      "source": "TVBS新聞網",
-      "published_at": "2026-09-24T08:04:00+00:00"
-    },
-    {
-      "title": "漢翔董座親自領軍飛交！最後2架勇鷹11:36落地岡山 逾9年研發量產任務畫句點",
-      "url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxNa1NaekptS0RldUFhdzJ5TmZUaTJ0bHZnOVN4ZTdNXzlCWXM2aU4wNUNEaTdHMmhoODRfdDUxcVVCVFYzdHpkSDkxSzVpQmNBSG5WR0RERDRuTmgybDh0N2tTbEVMX09ybEtKTHk0TVZkcXZtUTVwZVYtX3h0cFgtYld5UElMNjNXNjlpcGY3dC1aczBIRFpBTHJSZWpTdk42UmRNaG8tcE9QeG95TTZaenkwZDctNHJ5enphRDJ4WTA1WlZhQTRYUjlqTEUzN25ZdVFfVmZfZlhScnVXMmRwMFdXc2dzQWxWWWR6Z2dJVVktRGlnZllwb3Vfb2hTaUN4WWJPVC1YN2pxTWg0WlFMbDAwOGFwMHZUOGYydHc1WjFCdzBHR0VKOUkwalV5dGVOWkFjT2pQQW9OdnlGUUhJYTRmOEZUYWhkbS0xZVhnTVFqWjNUa1VIT3ZnSS1hME9hV2dDdmRIWWl5MFZadExKanl5ZkJCRVp1UkN2M2s1WVpCbFpKdS15LS1vVDZzQzNLZ01TczY1MFpiTXdMS2drOVd3SHpQODdfVFZZTnJnUjNBTUNSaWp4WU1YQnpoX2c2c2c?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-24T07:48:00+00:00"
-    },
-    {
-      "title": "屌！別家老闆站台剪綵 漢翔董座直接親飛交機！勇鷹66架收官 缺的那1架等國家開口",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaSE1RTHBtTnJhdnhlNFJicGJQNy1JdGRTdEJtdF9QSi1PSlFyanY5TnFaRTVZSkl1aE9LQkJ3Um5JQnpqTVJmanBWemJwdnpuMmc?oc=5",
-      "source": "鏡報",
-      "published_at": "2026-09-24T06:49:00+00:00"
-    },
-    {
-      "title": "漢翔今完成高教機交付，後續轉向後勤維保服務",
-      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNa2pSR0h2WGlVQWhtd0Uyc3dWdDBqdjA2SDNTdlJRbzdBZ0QtMUFoWTJCNkZyaWd3dFpUbG5SZWVuaWNDLXRqUzU5WmM2LXJxaDlRc19Cc1FkUWhGUXUzM2pOLVRjdnpxRHlqVTZzR3lyM2FJTW5selUtTUVYNFFacUFTU0RpUnIxMmd1ZVVDaW8zemkxMEVOU3FoVGxGdEd5SmNLRlJyaGx1UkhnMTAtM3JGM0JKRnJPRnJiNXpCTFhiaXN0cXJvSnE4VGN6ZG9sVi1IYm9uTnV1bkxqSHRDQ0JfQ3NaUmZTUDZCMkowZmhwaXJIVnB6RzhOSnd4TERxTW9fSzRkbGJmaVd3YnBhOFhieW5qS3BmSnpZS0tNNkVackdYN1c0REJ3MHBkV3U3SlNJQVhubExkczI3TXIydW56alNkOGw4RTVKUw?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-24T05:41:08+00:00"
-    },
-    {
-      "title": "勇鷹號交機圓滿收官 漢翔轉攻無人機、民機業務",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9EeWozSm5HZlZiZ0hDNzE5OWlkLTdibzUyQUNSenhnZElVcDMwV1YyVWNSeHpwZEN6X29JWUJKZFpZcGJGbGhnRFdPTkQzbjN3ZnAtNE1VSmg?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-23T13:25:00+00:00"
-    },
-    {
-      "title": "漢翔營收雙增為何股價下跌？",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE55M05JNVVPS0RWQ2lkTnNOcXBrTnl0YzRwZkxsQXdISWladnp4RGd0emFBcm00Zmw4UTZkZ2tzNXhnZnE2ZlRRLWRXR3FfemVaenJvTmNTeHg1akJMUmpRbm1Pa21iM3NoVHNheHhEcDM1VzluRTg0UURCaw?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-21T01:12:51+00:00"
-    }
-  ]
+  "count": 0,
+  "news": []
 }

@@ -1,15 +1,51 @@
 {
-  "updated_at": "2026-09-24T18:35:05.849410+08:00",
+  "updated_at": "2026-09-25T20:40:09.691152+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2498",
   "name": "宏達電",
   "count": 12,
   "news": [
     {
-      "title": "Meta智慧眼鏡好戲將上場宏達電.達邁股價衝| 科技",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UaUQ3RjUwTU83T2gxbzJ5RWtqOFR2eTVqdWFzMk9xYXdmdkRvOHB0R2hXODdjbmpmb3AyelNmRWpjRWhlbjF5TzdhdGd0TjFNb09Sd0Vzc25tUjQ?oc=5",
-      "source": "非凡新聞台",
-      "published_at": "2026-09-23T18:08:49+00:00"
+      "title": "Meta一口氣炸出4款AI新品！智慧眼鏡最低價曝光 帶動玉晶光、宏達電、英濟台鏈吃補",
+      "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxOa0k3MDhqN3V5czdDSkdqYTV4aWhYMDhxM01tbzIwUmh6MEItOXNrSVhSeEhhYTB1U3l0cGVaN3BhQVRUNmRfTHNQclRiaUxNa0lUQ2RLZklRZ3N1WWl1SWVvSDdmSDdTUkZnTmlmOV95dGc5czBJa0l3dVRjNHctMXNxTWgxbDlvandSSzNpWkpPUDEyM3hkdUlNemNWZXJFLUdGcDZ0Q0kycVpoTlhWbGZtSmFucUY0LTFhUWJiUzM1YWw1QTJlX1V4YXJ2WkNmdGZSOFJNVDVtYTFGSlFOcm9kVGROWDdOblpKc3Vma2xPbi1URWZ4OTI1eDdaclc5UklZcXpUQ2hiZnBZbXRyQ0VHOEhpeDB1Q1FpVXdiX2Uwci02b0E3Rm1JVm5jekdHSUszSVdfbVRrX1o4WVZLd3o4R0RReEM4ek8yLWQxdllaRFVrTlVBbHAxU21GaFhHVmV0TXZtaHQ2YVBrV1Q4d1k0LWpBb3REMUV1dFFXUHN5N2w0Wk1lSVJB?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-25T08:25:00+00:00"
+    },
+    {
+      "title": "宏達電(2498) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kQnMxdUdOOGRsNjZBNTNnX3p3eDRiS1J2T3RWZ0I1VEkxUjdFVE96WHBtZVdlazRHOEFZZHpYd3FxRUVjZ0RUY01iUzhYRW5feUpZ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-25T06:41:47+00:00"
+    },
+    {
+      "title": "TWA00 加權指數- Meta 點火 AI 眼鏡：達邁、宏達電誰先誰題材變營運？ - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RREM2b3ppaTNCV0hieW1KSllnTk8xdENxZnZtbjJsNnZ4Sm5DNnJFN0RmMlFMV2NrRFJ3SFJEa1BhN1prMlMxNmdZZTQ3YkY3QWpZeFV2ZGo?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T07:51:13+00:00"
+    },
+    {
+      "title": "2498 宏達電 - Meta Connect 2026 點火：AI眼鏡從「話題」走向「生態」，台廠供應鏈誰能接棒？ - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5naS1WVktBX0dHaGZrMXpydnU2OVB4SGhCcFNIb2MteVRnQ0xoWkZmNkU1S0Y0WVVwbUU0MTVsb0s4Tmc4Z0xqSGxHVHRJWWN1NkF0a1hMOVk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T07:44:57+00:00"
+    },
+    {
+      "title": "2498 宏達電 - $39買、決定續抱 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtY2tQUU1veGRDMVlLU2tDQ3F0TG56UXRKNnpfOEwwd28tM3VFWW1xWUtDa2xXZWhrWkVfaVpRTEJRdERQVlN3MnBBSXRGNTBrLWpTT3F6bjY?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T06:03:21+00:00"
+    },
+    {
+      "title": "2498 宏達電 - 看來還是要吳東進才有辦法了 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oUDlmSmNueEZnS3BlTnBIcUdrMHdNVTA2bEVCanFsaXd5ZjZTNmhzVEdiRUtCcUlSY2gwb1pHanpGQzBKcTdkVDF2VUs3QzUtU0k0b3hCOA?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T04:03:31+00:00"
+    },
+    {
+      "title": "2498 宏達電 - VIVEE 是什麼？ - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5IWEt0SjRybVF2RlpsUjBZeXdUc0k0XzEzUGpYLWdkWThoV1JpZzVqcURXbnJlRW4tSThjLWU5bVBMOTFZRzYzdG1EMlZjR3VsRzZXY0l6amc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T20:49:29+00:00"
     },
     {
       "title": "宏達電神秘預告引爆! AI眼鏡+矽光子雙題材概念股突圍",
@@ -40,42 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdHlzcDctYlBGbkc0M1ZBSVhSQlZuOTNYT2dCSDJwYmltdHJxb05BUmpWbVRZQzhWckQyY1FEX2FIQWU0TGRfTkVPT09kaDdUTVRwbXhtd2xrX3pVUjdYVlA0ZjZNR0I2UkxnN3J2X0doY21UeWVBY2JtZzZWZDRsQjV0a2lqZUd2NVlYY0RB?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-23T03:51:08+00:00"
-    },
-    {
-      "title": "焦點股 宏達電：Meta、新品加持 創2個月新高",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aU1FNTC1ieGxQTkVZdThST2EtazkzNGtkeGJuVUMxUnRJeC1BdlhZcHF0N3NYZjQ4eV9VRjdGUFcwZXdBSlVCOURBMEdwODZSX2RaYnNVQVBXcjFwRExR0gFkQVVfeXFMTTcwYjFtX0FRcnNWMHZPZlFpYzlXUTlyM0V3N2FNV1YxbHhIZ2RxS2VESVNrRHN1STJ0T0dvWEUxckhrT3NtVjlNbWQ2MjE4anJuWFdTdC1qb2VTNHBhMXF4MVJ5SQ?oc=5",
-      "source": "自由財經",
-      "published_at": "2026-09-23T02:04:17+00:00"
-    },
-    {
-      "title": "【09/23 產業即時新聞】手機製造族群強勢大漲 宏達電帶頭衝鋒、買盤回流點火",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaHg1WjU3azRETnRjUmRENFlxM0VUVnBiOVExRWZJUTdPSmE5THMtdGRBU0Z0UzNyYmxscnp4QW51clh5YzFiTEcxTGF5TFMzREJuLTUwb3FsSTRwWHQ0R1RtY29tWGx0Y3lnOTVXUzFBS3ZSYzNOdERIenJRMlBmZjljd3A5NHhXaDBNcWtn?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-23T01:30:03+00:00"
-    },
-    {
-      "title": "2498 宏達電 - 🔥【重磅訊息觀測站】🔥 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5seUtldlBUWFFqSUxiUGZFSTBaeG9zZUF2dVl1MW1nWDdfOVd0VVU4SVdSUmE2Y2JBaE5TRFpfTkgzWTgzWlZYOGszczJNSjF5ZG5wa05tMVk?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-22T23:29:17+00:00"
-    },
-    {
-      "title": "2498 宏達電 - 大戶不小心按到🤔 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2OHg2cGVvQzc3NXVDOVB2SkRwS2FIMG11N3VHRGljVWNLRXgyeDNFVVlyRUNWekxEOFB6QWJtaTZkUzloLUF5Mi02M3ZKWkxOeS0yVHZ0MmQ?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-22T05:25:24+00:00"
-    },
-    {
-      "title": "2498 宏達電 - 一柱擎天是大哥 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ZN3NCTjEySi1qUzNfczVobVpFZ3hLeHFBTHluNEVKaUNSN0hSSHZDUWNZQVpCQWprOVZQOHd2dnp5b3VfNmFQUEo5TmZJWUZYMEl2RTVBMjc?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-22T05:17:55+00:00"
-    },
-    {
-      "title": "2498 宏達電 - HTC即將問市的新品，可能是陪伴機器人的Al 裝置。 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1aYW83ZzlaMzZUSERxLTcwVldXSTZWZ01NZGxobklVdEVEZUpScVE1TG9Sd3hUdWxGMmVMSHZaLW1BcG5YWlkwT3JQZVB2WFRDbXBVNGd1VW4?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-22T04:48:29+00:00"
     }
   ]
 }

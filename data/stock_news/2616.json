@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-24T18:35:24.472226+08:00",
+  "updated_at": "2026-09-25T20:40:30.799011+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2616",
   "name": "山隆",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "山隆拚轉型3》從油商走向能源服務商 揭山隆未來藍圖",
+      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOMlcwb0NpZEVBbzhya3g2WTAtN0JERk04TEpjS2NOd2hIVVZZcnFiSy1EVUNZOHlDVGFpd1FRQUc5bHRWNmRCdTJiTWIxTmdSRGRxbnowbzAxZ09XLUl4TjJjaGs4eV8xZVB4UV9Dd0VmYkFydl92RHQzZGg3VWhRdXJLajM1amQyMlZpSG9fNGlNbk9yZU9pSDJPclhlSy05ejUzUEFfalQwV05WVHh3MUhlLXRDLUJ2cTI2WmhFYUJkMjNoa0J3MWp1UWp2ZnRyWmZFMGduRi00Q2t1Rl9LRlpEUnFjSnVpYkdNMHU4a1ZxOXlsUnoyNjJuZmpUOGJuSjFrdnctMmczTkNPZGg4ZWpRR3BIWno4OXQxVWhpWFhhQkZ2dlJMdG0ta0t2M2tYV3NJQkhvVzlyemU4MGpPM2x4OXNWWnktNFJlZjVvTXZxQU5rME9Sa0swNlY2M2M?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-08-27T07:00:00+00:00"
+    }
+  ]
 }

@@ -1,63 +1,81 @@
 {
-  "updated_at": "2026-09-24T19:34:40.540649+08:00",
+  "updated_at": "2026-09-25T20:40:40.991189+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2645",
   "name": "長榮航太",
-  "count": 9,
+  "count": 12,
   "news": [
     {
-      "title": "長榮航太維修業務需求強，今年獲利成長可期 | MoneyDJ理財網",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51VTczNGxDbkQxeDB4aFNPTEd5NmItWFdYN0dMWXJQd3RFVHBlVTJONklfak5qTWMtR1Q5RkJHbmhqWWtqVXFHRTVqbUFOckVRWFVmNjNn?oc=5",
-      "source": "LINE TODAY",
-      "published_at": "2026-09-21T04:49:28+00:00"
+      "title": "長榮航太破千還要觀察什麼？",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFByS0Jib0NhV0xLd0M3LXlTb1hvOHloS1hCZG52blJ1Sm94bWNEQzdoa04zTjJSaTJ0VWh3WjBrYXlXVkRlV0FnQjZCUWVEWk5XRXRoZ2ZDemg5R3RkbHdTWlhReXFVZlJmRWJtY3lWczNFS1p6SVY2ZXZKdw?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T20:02:14+00:00"
     },
     {
-      "title": "長榮航空、長榮航太深夜發重訊！證實內部系統遭駭、員工資料外洩| 生活",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaUkRPUFFDelVlb3R5QXFkdW5ybXNlMTAwdjh1aWRpSWM4TENQOERxdDY0Q3cxTzNuX0JlaVVYTWJzVjFGaTQ3QVdQdHV3d0pybXhKejJFeC1sWVk?oc=5",
-      "source": "Newtalk新聞",
-      "published_at": "2026-09-16T06:59:31+00:00"
+      "title": "TWA00 加權指數- 長榮航太維修業務需求強，今年獲利成長可期- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UYTRCN1N1aVh4c1gtT0plcHoyN3pYQnR2LXJFMkxCMElCaUlyalBsRV9JNWFvNlQ3XzVBVHQ5NUtkS1VkOWtyR2w0bm1HZFZPZGpZSUw3ejI?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T08:02:17+00:00"
+    },
+    {
+      "title": "長榮航太維修業務需求強，今年獲利成長可期",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNMWxTTUVvVGl3cmNuU2x0LW0zLWtpSmpLakxCbHBfN2F6cE10WVFfbmtxdUZnelY2X3A4bkZ4Mjg2WGpScVJWbkUxRmJ4a1YzYjEwNUtEWDVkeVBoODRoNnQ5Zk1RaG1kcFloY1NlTmlqTmM3NUpDWS1jbTh0d09kenowRnp5a2xLZk1CaERjLUZXUmpSal93enVaOXhMOGhWZnJxS0dlNFRyUnJPd2VfR3pLbE9ySDRURldFQkpzd1BkN19oZ0I3THVOSHZ0OHVVMGltYzJFRzJ1X2oxV2U5UnYzcGVDUFBiQUNBbmtCaVV2aFlQNXRJQ29ZMEVGV1hadlZ3eXBtaWVlWDNGS3F1REFLTUloZ0NkS002VTY3LTRLYTBCbTZpcHBWNHkwa0VqdEJhLUplVHRuS1RMaVlicw?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-21T04:37:37+00:00"
+    },
+    {
+      "title": "長榮航空、長榮航太遭駭！部分資料外洩 急發重訊：不影響營運",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE05cWdRcUoyWFlHTk1NZFA0NGhUYUJmX1c0MFZ1Y3M2VV9xUjBlUXRrem9uSm5qYXhkdnVxYUM0WktGQzJxTkVBOUNBb0rSAVJBVV95cUxQM2Jyd2xqMTlrS3hkNkhwVEhNVjZJT05hc2tZdDF0dXBWNktMYVA0Z2k0amZBN0FuZGlFLXBHLWtzbjV3cTBEN09xSkVEWVFldTF3?oc=5",
+      "source": "NOWnews今日新聞",
+      "published_at": "2026-09-16T07:00:00+00:00"
     },
     {
       "title": "長榮航太題材過熱時該看哪些訊號？",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOUWpSWS1QaFdIYzlXSmtUd2pHQ3hvTUdPUzR6NWNkRzA3VTZTYVVEWjFJenkyc0p5YWVLUEZIeVVHcXpDLVNUVGtJTXhMZ05VazA2Y2F2NjY5X1pWbDBVZDVwNEZkOWMxSGo4eHRoLXBDOEp1alp5RjlVZw?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-16T05:09:09+00:00"
     },
     {
-      "title": "長榮航、長榮航太系統遭駭！部分員工個資外洩 雙雙啟動應變機制 | 鏡週刊",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FR2J5LTA4SEJLRFp6WkpUT00ydHh5VXo0ZHhyVzQtSFpqVHZFWEZJSlZWOGREcmp0M3RPN2djVTBMeFVQSEp5R0JGSHBKT2FZZkFrZ1JR?oc=5",
-      "source": "LINE TODAY",
+      "title": "長榮集團旗下長榮航及長榮航太今遭駭客攻擊入侵 已啟動緊急應變措施",
+      "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxNTzR6QmthbzVydEE0LVUtSHNWVFExZVQybDllRkp6VC1TR0h2SDhmcVJNcGs3UFNvekVBdDJCc1Q5SUN5a0pCbzJXd21oY1daNUdMbkNpSWJTemdmMUUxNmdBQ052UGlQbFRZYnBXYmxjWWVBUGJYR0VQYkRmZFFZdGpmaE95dzRjRUNhNTMxWXJ3aTUtemY1ZWZVR2ZEdEMzeWduT3NOanlNTElnQW9kbkViSFA5LTNQbVBXYTNLT2JHZTBNY0t6RFpnb0owMnEyTUJrTGs4cnNXcXVFQm92TFpzWlV0WkpkR3VfS0lQX0RwMTJKalNnT3dETS01Um9zb1hRTlJTQ19UbjdQMC1UQlNsOFljR1ZUek1zUnRoczJzeVZ2VEpWd1dvYzhRNVNBYVdHX25sRGJ5YnA0eGxqbGZKU3FWRS0xNl9jN2xsSmFYQjFZWGVsUVFiN2FMNVFxS2ZlNk5WSGt2UlJzSEVFUVpTejJqejQ3Sm5xUTNxTlVvdm5zU0pFRFk4RHI4SkxTMHVBZ1lMckhta3NRNnRXVC1RTmduZnI1LXVvM1Z5U0VpRnpkSmV4enotbGdKcmNVeGxielFUUXZDUVhBUHRKQw?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-15T07:00:00+00:00"
+    },
+    {
+      "title": "長榮航、長榮航太接連遭網攻 員工資料恐外洩",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNTUZYUWQwNHZvRU95Yk1wWHJRTmpkSl8zc1hJS3dPSUdwRUhnOXR2QXZPbDJjTnc5NUtBTHdJSzV3c2FZMnRLV0s4WVBqMGZ4UGJKRFlLZnRZeTFILTdDWkJVMHRjcXV3N0VoM2lUWFV5MkNUQjUwdjM2NjNQUDRLR1NXRm5vNVJSRmd0QjhkWVpFUnNWRFBiYVI0UXJOV1JvVnA0Y2lZbzJ1WTdVbEtpMHZnenVIVGhVcTBOdDdIM3lxT2lTQ2ZxaE1IdFlxQS0tNG9UQzd4WHJXdzRSUUxFUkEyb3B5MTR2UU9CLU1VdXRPc1BKNWhZNWtyN2FDa1Z6UUVXQVBqMmlXdHJUSENXbE5ZNG5fTDZTdnotWTVJeW1TWFc0LUo1ZnpDdmZGRVBFT3MxaGl4TXZ0UQ?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-15T07:00:00+00:00"
+    },
+    {
+      "title": "長榮航、長榮航太系統遭駭！部分員工個資外洩 雙雙啟動應變機制",
+      "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNXzhrNE1Qd2d3YnV3Skd2OFZZWmQ3ZVdkTUNOSTVlZFF0aWNNOFQ3LU9uSk52MVRyVDc2cWFiY3FMRklhdGNVU3VDY3RDcElteGpROHIzQmkya0JNQlZDTDlyUGdMNEp1dUN0NzNDdlJzaXloQ2tQckFJNVhZYVBmZy1TU0IzZnYzbWJtem1adUhaRWU5Yl9nUDFqRHl5RTFaRjFjZ0loRWd3UTl0R0pYLWNsUm9NV1FmVmJVV282X3djOUZhOHMtQWZ0TG8taEstUzAyc2FTaFlUNE5vZ05Wd1MwSEM1SkU3bnR5ZlNaRlR4R01WeWprdGtMRTVMNUk5WjFIZTJzSVg2cXBNRUhXVUZLSVNrVVJmVXV5NlVmTmNiOEdhMXp4STFSa2diT2o5TlVLMm9OMmFhU0V2cHV1dnc0YmY0NFBRWjM4b2hBX0VxbTNlV0ozczVlWEV2cmpTMFpseWNjN3BpVVFSNnNMSmQ4dmMxUlRma3A4YlUtM2RNNGFZUXVTdF84Nmh0cGl6NUtZUG0yWFJJTXc?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-15T07:00:00+00:00"
+    },
+    {
+      "title": "長榮航空、長榮航太深夜發重訊！證實內部系統遭駭、員工資料外洩",
+      "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQT3J5RTNIaGozMHY2N0FWUXBIbXhFOGU0dS1aZ29FZHBOaVpLUjEtMmdMUDhuU05QMC05a2VnVkJHNHQxU0RxWmVlMDQ4TkdGaEdOWUFWaEp5VERuMWNiSGhfcnFZeElUejA0SG9kd0tpMzdEMHRpNXhiSEFJZ1IwenMxOUJ5eTJrdUVhbUJVUlBMOFJuWElyWTlqN1BRbktIaThoNTFROTlIMnhpS3RGN0Q3Rl85akpPMUV6VVE0Wm93eUVLejhKOFNnMEpaemxKZ0RIVmE3TGtXYWltZmtjOF84UEVUN3JfX0tBbDUwSUd2bDAzNDNsdFBPMWdiXzlLMGlsS2ZobWYzcnB1cUZjdTQtV2E5dms0ZmgzUHB5SDl4RDJibmpMalFzRFdpSGRlTG1fR2RtWWFTRVlMMDl3R3BLTTNQbWFFdDJ5amFwLUR5NGgtOEgzdWhWSjJOUjd3QTd0ZGQ5MGgzZGpMaTdVUk1uVjItdDRHZ1dpQWN5Z1g5OHM4QUhSb3ZTY0d4dno3d0NlMWtuRFhiQlk?oc=5",
+      "source": "Yahoo新聞",
       "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
       "title": "2645 長榮航太- 這邊資深小弟- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWWERuY2lUd0ZrazZUeU9vQUZZeHpaMWt5enNNbmhpZjY0emJSWXJacUgySWU2THRyZDg4U0Fvajh6WTVhUmItakdkcDVHb2RFSEtaN3lJV2w?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
       "title": "2645 長榮航太- 一直被借券？有這麼爛？？提供大家長期持有公司的價值性參考- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tOE43aTBiZ3Q4Qkt3MUlGSDFTWDRiMmdpUGd5dXN0NmIwM3RfbmlxbWRjWVU1clF6Y0FGeHB2clhNU3ZXSXNoNmF6ejJucUFZNl9OVlhPZ24?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
       "title": "2645 長榮航太- 搶爆559億國防大單！4萬架無人機加速採購- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zNVR4dTVqdVdocTVWa2hPRk1oTnBOV0pWR0s4U25ESjNmc2h1ekExTkVNUjZhSUJKa3JhX0gtaGZCY01JTXdQd09hY25vUlhxbkhaZGduVEc?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-04T07:00:00+00:00"
-    },
-    {
-      "title": "2645 長榮航太- 追加預算559 億 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ZWk5wZE41NnJEZlFTMWRDQVNNWk1YWmt1ajJXQnphTVl0ZG4xa3BHZWp1WVJkMXhiT29HNFpycjNGc2xhN3hxbUlXbVZyUjRBU2d2Nm1uSTI?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-03T07:00:00+00:00"
-    },
-    {
-      "title": "長榮航太維修業務成長強，今年EPS挑戰9元",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNa2Q0N1RCMDJlb1ZEYk9QYlVVOVBQMU43TkpPaEVUWmJTUXAwOU9SSlV2aDBMT3U2Z0ZfSWg1SEdwTHF2dFpEMHYwaEdNaXFtYk00VzA4cEJkNnEtRlQ1R0kyTW41UlZSRWwzWm9sSWx2Zy1iTGJxUlc5MWx5LTZlajZ2Wkd4TjhkYUhRNzdXbzNYb0VnOTJ4TFM4MU5ySFVzSmJwV2Z4MmNrNm5tT3M4Qlp0a1NEWEEtVWd4cmVKaTNEVlllYnRKU2ZMdmpCdVlOUzBOZnJKV0w3MVJiSFdXSTNEM0lQZUd2U1lsZ0d0bWd0NGdBanJnbWstZ0lsSkdENE1tRkpSVkw1TEJ5QlE4UzFiblVmaE9oaTNDaHNGMUQzQQ?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-08-26T07:00:00+00:00"
     }
   ]
 }
