@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T04:35:55.258357+08:00",
+  "updated_at": "2026-09-26T05:34:30.899310+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5465",
   "name": "富驊",
-  "count": 9,
+  "count": 11,
   "news": [
+    {
+      "title": "〈熱門股〉富驊布局AI領域效益浮現2027年營運可期 周漲近3成",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxZTZZc3p5NEdLVEZVQWlFUGJvYVd2aHdISGlXb0ViQm9HemVacmJERFFwZ3hyb1gzM0QwRXowMVV0TmZ5Q3F6MjdVbVI2Y1E?oc=5",
+      "source": "news.cnyes.com",
+      "published_at": "2026-09-25T01:23:04+00:00"
+    },
     {
       "title": "【12:25 即時新聞】富驊(5465)盤中走強，高階伺服器與AI題材受關注",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRUVJWi1OQXFIVWtJOTFEOU1MTG1HOHVlTzN5Yi1tZUY5ZEdTQW5rOGVRSnJtTFdlSVAyV1E5TVhPUkNCQW16RGtLV2JCbS00V3ZldVhkaVZCeUxENnF5aDdidjdtcVB1WVhBMk8yUHpmNTJLb2QyaHV5ZkZLbklHYzd6MkVNNDNFWURscWZn?oc=5",
@@ -36,16 +42,16 @@
       "published_at": "2026-09-21T02:03:47+00:00"
     },
     {
-      "title": "富驊Networking布局發酵；泰國廠明年量產",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOU2xEYnhmQ0t6djRla1FOZG5DRHFVRVZKU0U5MFFzaGl4eGIwdXNtYVFRTmFOZEpTRGh6WUcwVUhpNHNlcGdxbjM1Mm1scmFYV09DR2Z4ZXcyb0RSWEhwUHowMmxiUnZXdlMtY2FnYld2R3Y3T0JJNnJMOTBpN21fZE56Zlo5eFZzbHc4Q1F5RUtPc3NhMklWWmxrd0Z2WEVXcE81Q0g5dnB1QXo2akdzOEE3QmY3QjIwMTh0bGlveGpUZFVvT0hrNFR4bzRHMEZWbURfb1VXQ1lvT0syNnVBTHllUDVOX3poNlJGVDNGYVBCYnVyR2V4c0w3dVNTR0g2QUltQ1h3?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-18T03:28:26+00:00"
-    },
-    {
       "title": "焦點股》富驊：AI伺服器展望正向 股價跳空漲停",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnOWFrU0lJYXprTDVaNUl1UHNYbkYtdHAzQXVIbVdkR0MzUnFmOTduWHBkYWJtb0t6cU9PbDhaalYyWUYwV2oxM3RmYnlBS0dmbGVhdkdYZWJ4c0lOUTFz0gFkQVVfeXFMUE4zdDQxNElRRS0tWWRENlBBemlDaTYwelkxN3ZodlltUUpBc1pZN19ndk1IaklJSjZ4ZS1LeUhFTnNoaDNrcndEc1RINjZPUTBmWGVkcXFtOTlvQnV4NkZpaGk0SA?oc=5",
       "source": "自由財經",
       "published_at": "2026-09-18T03:00:58+00:00"
+    },
+    {
+      "title": "電競機殼廠也搭上AI順風車 富驊搶進資料中心 明年營收拚增5成",
+      "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNaW5ZTEUzZzFwbkszRzJjWDhJQ0ZMSUhvZFFaa2UtelUyMUdkaXd0aE4wekVYRHV5NVNlUEJXS1ZsM0lxOHEtUG5mQ3BJLVg4VDhTTDFjRWUyT0pjUTJmdlFjNFVpdWV3Z2oyc2hUTEU5NjdBRENETHoyVGVNenhXZmx1OUIycXRNb0JQTnRGVW5YUzc3VGlMRU1xUERMcFIyalUwUEliUWtUSnpHb3JKZnVBSGk5YlhpN194Qm0teTl6amloakxaYkdBOE85VnhRbzFZcDQ1Qm1Ia0VoTFE3ZmI4d0ZaUW9aUmVLTXVfa2thZmNoZWJlLWNBNnJkY2NJN0VORUwweGw0V0tWb19iOVVqNDFaY1lpU3lRNTBlUXVDcmJCM1hGMC1lTHktelo5ZlFoWmZEa3NvZDRtTEo3VjZaMHdIRHRPVXFZUFZwbVNRb2RFb2l3dUFlLURLdmc2ZEhtcW5lOEoyTUhZN0tjblFXRDdwdDJ4ZFJZQm5tSDlWdENIaWZPbk8tc21Cb1FHQnc?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-17T12:16:00+00:00"
     },
     {
       "title": "富驊AI及網通布局發酵、泰國廠明年加入投產 挹注營收獲利躍進",
@@ -58,6 +64,12 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDbm5RTV9ZNGVaaGhXR3JpdUFtb3VfQjZtck0wcTFjNTJjNV9wdmgwcUh5OXdHd0p6OUtqcmFHWHlWNy1JdTFxSnQ4T1ZISC03V2VTck9TWXJBQjlpTWtZ0gFkQVVfeXFMT2xsMXhtandudERubDFzcGNYNTRvY2NRRFJkSUxMZEdaYVM3WTlJbDI3RXV4d18wdDBRUGtqcU9WbkM5b1lTYWpORHR0RXVhN2NvOWozeUhKaU5Cdl9jaXZpcWFldQ?oc=5",
       "source": "自由財經",
       "published_at": "2026-09-17T07:15:45+00:00"
+    },
+    {
+      "title": "富驊Networking布局發酵；泰國廠明年量產",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOU2xEYnhmQ0t6djRla1FOZG5DRHFVRVZKU0U5MFFzaGl4eGIwdXNtYVFRTmFOZEpTRGh6WUcwVUhpNHNlcGdxbjM1Mm1scmFYV09DR2Z4ZXcyb0RSWEhwUHowMmxiUnZXdlMtY2FnYld2R3Y3T0JJNnJMOTBpN21fZE56Zlo5eFZzbHc4Q1F5RUtPc3NhMklWWmxrd0Z2WEVXcE81Q0g5dnB1QXo2akdzOEE3QmY3QjIwMTh0bGlveGpUZFVvT0hrNFR4bzRHMEZWbURfb1VXQ1lvT0syNnVBTHllUDVOX3poNlJGVDNGYVBCYnVyR2V4c0w3dVNTR0g2QUltQ1h3?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-17T07:00:00+00:00"
     }
   ]
 }

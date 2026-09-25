@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T04:35:59.307545+08:00",
+  "updated_at": "2026-09-26T05:34:34.898493+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5483",
   "name": "中美晶",
   "count": 12,
   "news": [
+    {
+      "title": "砸13億 聯合再生、中美晶攜手投資美國",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJVk51Yl9BZVQyb2JzSHpYNUJUSzNZN3AxYjVsUlV2bnYwRzRLczU3TEF3Yi1jcUZoSmRZX2lYY0NDNEVrMzFHZXVHcHJHZ29rZU5zV0pGYzg?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-24T21:10:10+00:00"
+    },
     {
       "title": "《外資機構主要進出個股4-1》港商麥格理中美晶(4087)",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS1BjcTlEbENnRWFwajBQMko0ZUhyaExTLUxXVXZsdkhsMURVcXBEQVBDam9MX2p6WmE0RkgyRm5DTHY5YjVWRGlaUk5pVUdISDBmckxON1VVeHdDS01PeC1OWU5qMm9tVy1ndTRuWWFzb25sZUJvYU5DeGQtSVN5TjBQMThSam1m?oc=5",
@@ -60,22 +66,16 @@
       "published_at": "2026-09-23T01:40:43+00:00"
     },
     {
-      "title": "熱門股》太空商機夯 中美晶站上季線",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GaXZrQzZQT0pWSjVfZlY4WmpGNXFIYVAxU3c1RmVPM3U1MHRTVENzbFE5V3RwZjBpU3lKdHZORTRjT0NlZ05nZXZfU3V3WldzcnZmMmVB0gFbQVVfeXFMT1owemtXWWo0MWhjOUdyUjV2eldqdlp4enhYU2tWQ0lXUXNUOS1EUTlwTW1NTXpsR0N0V19HLVFiRTlKMUxlQklRYm94akUxM1QtOWN4SkVicW5kYw?oc=5",
-      "source": "自由財經",
-      "published_at": "2026-09-22T21:30:00+00:00"
-    },
-    {
-      "title": "盤中狂飆202元爆3.2萬張巨量！中美晶沾「太空太陽能」光環大漲",
-      "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxQMl9UQ1lyMjlpMWFZZVl0VXJsV0wzSU53Nnpyd3Z6SndSRFZLUjRNbjlNRDFESUg0ZjliTlc5N2J3UFlBU2lscHVINnlscVkyM05TR2xUTEdBcXMtMlZCSVhjbDR2Z2FZMWVYbXpWbGVfRWxtNVhKZlRWV0RJRkRoc25UcnBIdWNCbF94MGJBVGhtYUxublBlcWJpd2FrMXhIakk1RE5zY0tfemtxRVAxTG9Cd3B3VVJnSXZwZ2tRLTJQLW56Mm5yTVJFZEJGaUh3VzNCcmdIekk1dW9lUVBmUEV0dlNnazdRUmhRdm1FWjRONUQzcnBuQjE3b0dBLVVWZUw0VVVma0ptU2U2elNnQnFFUl9XVUwxdGl0djVMTV82UzFFOTdoQkU0VndwbVlQVGZWeVZnU21FaGEtdm5SQl84YUM4M2ljYlhQdTF3Q2pEUXJRU01SenlfTGJfajFScHdmVmVubGNSNVVLRFNTblhpNEJOcUpQZENoZHoxZ2ZVYld2VnFTNTlrUzlPUWJlS2tWT1BhNGtfaGk3SkNWZnFkNlY?oc=5",
-      "source": "Life 生活網",
-      "published_at": "2026-09-22T14:49:41+00:00"
+      "title": "法說會速報》奇鋐去年大賺近5股本今年將逐季成長／和碩今年業績挑戰雙位數成長╱中美晶打入低軌衛星市場",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42b0lyeEdYcEhJOTdheWRzV3FheTNzY2t2Tk1kS21PQjlzal8tVmp3UlVZdFBCQ2EzTnBGNVlpX3hZYmE1bXFrOTA1bVBicTRJUGNpYjBSWVY?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-23T00:30:59+00:00"
     },
     {
       "title": "環球晶GDR 拿到資金454億，對中美晶影響？",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12LUE1N1g1MHZpMWlRTFFGMVU0Q0dPd3ZrblVMRUZtNnZkak0tekZadHhXRnV6dmNNeTJUZF9nS0R3b1hRM0ZrWlJfdFFOY1JaellUXy1mcVA?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-22T08:46:43+00:00"
+      "published_at": "2026-09-22T23:46:43+00:00"
     }
   ]
 }

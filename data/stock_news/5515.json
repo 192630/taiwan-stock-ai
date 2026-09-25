@@ -1,15 +1,57 @@
 {
-  "updated_at": "2026-09-25T04:36:05.324085+08:00",
+  "updated_at": "2026-09-26T05:34:40.588107+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5515",
   "name": "建國",
-  "count": 8,
+  "count": 12,
   "news": [
+    {
+      "title": "川習會登場！國際關係專家分析：北京擬操作「三公報」算盤、美擺陣「建國三文件」上民主課",
+      "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQUUd4R2t0SjllSFlrc241WVJWbFpHOHBieFJreHN4bXAwSlZzcVI3UERGTzFsWmI0VGx6NzFLNUxhdElCQVpWUTdvS19wVUUwTU1RQW1MMDFjY2t2OE43azd2TTBGazF3cjRkMG5EaFBpQWpraE5nWjJnQjFkYVFoT2FuZGVNOS16V1ZEMmdXOGFLOG4tN3puc3hmRURWeVdnSHEySS1uVGM2b3M4VTlDQjVrZXpmUVpaNHZlZ09SZHRsRVhlQ1g2X2JlRndzSjNaQ0NqcnFkclFrMkw0MEhKU0ZSMU9NenptYUdHN1VVSmhpb2diUWNRQUhOdllVb2w2d2tVNnhrYnp2UzNqQnktamthM2UzZGRzX1c3NlI0U1VQeFBKX2RZd01tZTlVb0xYYlJ1czNiR24wWE1ZelBUQ0Q1RUd2eHFCOXZzXzB1LVBDbTFEMWJreGphSGFIeFc1ZGQ2d3FHOEVNeUgy?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-25T08:53:00+00:00"
+    },
+    {
+      "title": "回看--法理建國路人甲",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSFJ0QnlfWlA1OWlUUHBkSFBXcDJ0SlBVT0FGM0dmZWUzOTJ1VGl5U0RnTmFMbmRYN21xNG9LQ181b09Kb3d3RTNGX2FsM3lkLVRhcUZ3RXM2R2Fra05MNmxvaTZyYWtHVFhXRlBYWmRnekpYRjNjTU8xRUxUNFNYZng5Q1k3T0FpVmpxUzFJSW1ENy1ZRmduSlRhZmhiRzgyYmZFcXZhZ29ab21GUUpzNXp3SXdrM1lCb1hqNWFFdmM?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-24T17:15:50+00:00"
+    },
     {
       "title": "6923 中台- 從「川建國」接機到飛不回來的F-16V 看美中台關係劇變- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IY2hfVlBfWWhucmNBMFV6U2RpYjkybndFUDhUSXZiWFJQQ3RlNFkydXRyLVdZOFdRNEVoblVkbC0yNWN5WEY5VElnVmNOel9xU3UtdmRxZS0?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-24T08:05:59+00:00"
+    },
+    {
+      "title": "轉彎未禮讓撞倒行人再遭後車輾斃 台北建國高架橋下釀命案2駕駛起訴",
+      "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNb0NLLXpXbzlVSE52U2lTdXJLSmRWMEROYW9xWWtCeWsxMHlYdjRFMk45Zko2Vk1oellzR2w5SE55cnRhSTRoRXJhbm1IbzZuR21uZUhkZ3A4a1pFR2ozdjJ2N0xmNE5tWW03aHJnZlVDN0hBb2FjaGx0OVNhRTBvRTg3eTJ5bVk2N0VQcmpET2lEZ25kT1RtQ2lRLTVJbEpfN3JkVS1oNTJyS1hpcElRUDFISU16Ql9FS1RqUHlFWldqVlV4dDM0MEtCRFJtQnAyMm5jOXdlWEUzTVUyaDI2UVl3Sm5sT1IxZGtCMXI5TnpBSDBrVHNNMlY0cFo5dURTWS1RU0k4LWs0MVpKRWNUQlJvUVhjWmVTbkVfVmE2OThENmtsZHlJYW1SMFlXUFdDYzlhc3QtWVltakx4d2h0SndSSlZpMzhfem1wdUJfdVpGX0htRVVJR0lIMEZvWHJaLTRlRzZBUE1kUk9DdU0zcTQ1VmNPNkw0bzBUM1M4eTB5dFBHVExJSWxYOUE5MlF5MXJuZ3NNRnl3RzNlWU0zU2xsRTlwMUF0ZVl3Q3M5NGx6dDZON3duQjdsZ0FRZw?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-24T04:14:10+00:00"
+    },
+    {
+      "title": "9月交通安全月進校園 北港警教建國國中生「停讓保平安」",
+      "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOTmFhRWFjdzRpNkxJcXE4LW5ZX21ISXB3UWhvTjBRUGhzM29EZDVYaERrMU9GMVZoTnFadzVwYndleS1MM2NMU1o2aEdLM0hZUkROZmJUWlpuWjVSNDZmRk90cGFXNnBfcEpDdkdONVRzM2lIQ3FIVW13VE04Y2pfcmVqc1FiMkZvOEVFZE9IVmdWbW1YRTNqOGUtR2wzQjJUby1Lckg3SXQtR2pZOXR0UkFEbmhwY3o5Y2tOLUlNdGQ0UExZS0Zaa3F1Q1haT3BneEY3N1owSXJ3MXVOT3ZXZnFlbXh2NUhfemJEVTlkVmlhZmhUS0JMTGhPUHBuYVZ2aXFrUGFIUXdnUVhwbXNZVkY5UlBTRlh5cEdjNWdkZnRvVFNhcjJRNnZqc3d1Tm1PUllYakZpY0FLTTU1cDhDT3JTWDN6NHFSbkw5SUlPMFRQSFltX2FUNENxbmQzVmMtY1N0dk5DUnhxSFU?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-23T12:01:17+00:00"
+    },
+    {
+      "title": "建國本公司召開法人說明會相關資訊- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ETkZCTWk3SE8ybEUxRFFzTHMtaWFKTTM1cnVZMVJOSUREcXdZeXd0QWVQVUV6M0RJOTdtWGlnbF96b1l1a3dNc1NxN1R3VnJJY0VjWTNyV2s?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T10:07:28+00:00"
+    },
+    {
+      "title": "（有影片）／零基礎也能奪冠！建國科大美容系赴港大放異彩",
+      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNNmI1WTNRdDBRX09BU2JqQm5FS2VwelpmQXBoUTRVTWd3T1ozVmNnZTlIT2Q3NlF1WUFvakhrTVpMZFBmMEFKYWpZLW40X3IyZk5RTGFISGJIRTZFb0hnT0JuWGlCd1FSbThKckN5SktndmRWVThveDBYdFlvR094OHR1ajVWbzJ0Y29XcEFucGFfWWFTUzNpNk41V3A2WEJXSFprWXpJUloyRWNYcEpmY3N4bGhfZ1FVT0h5OHpVQ0IwaU05anF2NjVEUDRwUHJKMUJ5SEplY083MllFSHR0RzFuX2hKZkc3dTNIc2RRT3BSX1ZPc21wWTBqcXB3NmNsampEbFVOUVM4V1N0Q0Zya1BBVkoyVklUd05NdWxZdmVCMHVzWlI0TkhhbUFNOTdRM0ZLR0xENkxIY3JJcVFaMVlpWUU3enlmclhNMWFMSGczNWlTTTQyX2dIcWtXYklZS1BKelFIdTNWdw?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-21T12:34:56+00:00"
+    },
+    {
+      "title": "建國科大美容系閃耀香港 師生勇奪5冠4亞4季學生雙冠、全場總冠軍",
+      "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxPZ1l0VUVOMzVKbFBNMXp6Yk56VFJ3OUJvT2wxdUhNUjdqR3Q3aHVrWE0xaFB4WW9FZnQzekRMdUpla1BiQWZ3WHlDTEx6NHA3TFA5UGdkbHB4eXJ6ZVV2aEhLek02cnh0WGdmdEh6T2NEU3RQSGlpWUxqNTVKWjlyZlpaek10Vld3TG5zNzhzVDBtNVlQZ19tWWd1UUNtM2JuYlRNSUFjcVJ1VW5qd0FuUkdIX0swaVh0SGVWRUhWZER3NWh6eEY3UGFVXzhCN0VGQlpuWWhtbTFSVzhOXzNoNHFDUHYzUEJ6UHQ5ZUZaSTBrNUk2ODRtZjVJT3JkQjF6V1o4TldqRkw4ZERXMEswdzVlcGM5Wmt2dmM2QmhlSGJTZ2FWZDNVNktvdGMzcTdRelFjNE9lOHlTZXNBV05UMjFGTTlaZGFpbkRzaldFQjRVNGJOUHZuRnM3dkItTWhBTTlYd0xCUTVQdnROeWQ5VW5JTkhWTU9RV3d4VnNsVkp4ZnhEWHpZYzBWT01IbU1CZnI5UFBPZXgzSERqZkE?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-21T10:37:06+00:00"
     },
     {
       "title": "近建國北路通訊處喋血案 富邦人壽回應了！",
@@ -18,40 +60,22 @@
       "published_at": "2026-09-21T07:32:20+00:00"
     },
     {
-      "title": "彰榮處攜手建國科大 拓展榮民眷就學職訓與創業新契機",
-      "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOamNwc2JTcTJHSWxWV1RSeHBMVFRlVXA0emI4QXNJYkJsM2R1TWJPdVFaSzBCQWs2QUdHaVg0bUk4NkJSU1c0QWNSWkh3b1NNVG1Vc1B1UDRYbGtTV0JRelJRYVNqclNtVGc2ME9DZkpXNzNlRnlRMTV2UFBHWlFCWkQyQ3BBZEVZcS1aakxQSllQQWk4d1FnWnJVdDJoUHowTnpfT09iRWpGSWs5bWh5Qk5wTXh6a0tHSkp6RndScnE2UVUzN3F4MHVXV09lQnlpRTF0cnhET2ctM0l4RVpsdVltc2tJRDFYSUdFbkNyckRQVDNpdHZFb25RLXJyRVBlRmVmcGhUcFBybDFmcXM1Yjhybkg0WnVtcEdUTTc5cnRnUGNKV0hUanB5aW03RjdpSUtvX2pTbFU3bjRZelNYU2xMR0lHSWg0cl9aU1dyS1c4RmxsT3h2cWlQV3hzMjV5U0V6cFN5MmUwRlIyZllzY1pUSXo?oc=5",
+      "title": "建國科大美容系閃耀香港 勇奪5冠5亞抱回全場總冠軍",
+      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQSlVNZWcxcGpMbjZMZGNqZUpEbV9rNGlFbnh1WXVZZ01mOWxsakFfeklJd2VjRDRKWHZEcGFLa21QYjVfOUQtOWg1OVJMdVNIVzZNZkdBcVlBZ24xWERxMEZHd0NRSlZtZzF4MkZhRk5kZnoxOVBUbnlzZ3ZfaUpKdkthbndlaERmRXdCa3Zyd1FqdHVNUE96dGNCVVZXUkNpWFFOZGNoZVgtUFFYTElySi12LW1yS2xSSVNLd2I4OVVaOHd6bkpuSFVCRVBmR1BUMEg0NmlQVWJSUHlPVmwwLUp4VVcwZmtCWEg1ajVjTmx2LTBUYjJ6N2R1MWZLd2I5N2twdEhLNWFPb3FRdlRPTTgyUzVJYWFEV0tLMi1IV21WTW9oS2RXSnNIYjZMeDg5VU5BcjQ3MnNUMHA1MUVzOEVXbURyUlV5X1lrS2Zlb1YyNGpXVmo0bDFUYXVWUTg?oc=5",
       "source": "Yahoo新聞",
-      "published_at": "2026-09-18T08:30:00+00:00"
+      "published_at": "2026-09-21T07:13:27+00:00"
     },
     {
-      "title": "搶攻美國建國250週年商機！宏達電結盟巴黎奧賽美術館 VR重現自由女神傳奇",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1aWU1oeWRHNmVDc1B3VDljQzE3OUpMVXdUQUhQUVJqYjg5X3d0ZHlNNE1wVkduZUI3Z1NmcTRKeVFha3hhdkVoemVuZmN3a0ZiZDZlWjk5M3E?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-14T19:09:00+00:00"
-    },
-    {
-      "title": "紀念美國建國250週年 川普肖像1美元硬幣開賣即售罄｜#鏡新聞",
-      "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOZ21kcXZmUXllM1pkS2JUUHJSMGRKdHduVGxuTjJQaF9jNU9DOWktTlJVNWpmb3E4R1dULUVrMDluWm5DTlhJY0laOUFYYUI4SDl4OFNJVExhNnQwd3VHVXNOMGN0bl9SWDZiWEpjdmVSQ1NGWW1nbXNRVm9KdHVjaFhqWXZwalpTcmhyMV81OFplZGpaTV9HN29OcTlhbFBYUllZTFdKRDdGMEtQYmFXcjJDeXY0Z3RyMkpyQkhUVmJSaUVjdElnS0ZUTWRfSno3TkhKNUR0ZzZJZ3prb2ZkQUQ0bGlGakJmMERjY0JSUlB6V0pBVDV4Q19RVlpHNXRidklIWUVCOEpHVEJQdUxTRUhNd09wVy1fZ3BPVEdTWWJWV3EtdktIcUIyMmdiMlZDbDZSd080d2toblpWaHR1TVJXa3FwaUxmZUpPbGc0N0lUVEJudll5OE14R0pHTUUyZ0FaRXNjVEREaU1wMFRIYjNteE5kbU16MEhN?oc=5",
+      "title": "影／建國科大美容系師生閃耀香港 勇奪5冠5亞抱回全場總冠軍",
+      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPekxEcG9zSTdXZ1dEeG1ieVZNWXJGYUtrazgyakpoSTNmY1FNZjVXTXEta2kzUUcyclVYb3RfcndRWlpXdmlDS3o1amlpOWtvUnRyUkFVR0dYdmlNMFU5ZmpIaWc1MzRYUThLQ2hXUmpYLUFWRkNndTRsUXJRaDFaeTAxZVlwZS12Tk9SOXFUSmlpTk81SDEwdlpvVVRIWVNONzZtbTYyZ255UWdNTlJVSWtvS1JBMThNTF9QWkY2bzhHbVRCeF84U3JmdzRzU2w3akRwUV9MaTREZTdQR19SQ21idWI0bFVmckphVmZCY0Npb2dZb3lZakJaaFFRODFxS3R4LW96T3gxWjFLM25WQkd2Q01VZ0hvMzBQOFFjYlhZUjJtYWtmMVZqbUV4MUNOb1dqbW1ERTBVSVF2NHF2YUlvVldIR2hrQm1xRTMyLTVEMExQT2k1c1NwTHAyczdBakJXRTZ0T0c4RDhlNDZZRHdzWVdDV1VoRHh2YjIyREhoZzQ5?oc=5",
       "source": "Yahoo新聞",
-      "published_at": "2026-09-04T07:00:00+00:00"
+      "published_at": "2026-09-21T06:06:36+00:00"
     },
     {
-      "title": "川普大頭登1美元硬幣！美國推「建國250週年硬幣 」近900萬枚將流通 25枚收藏卷賣61美元",
-      "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxOd1lNSlh0YjRaY2ZGMlVQcHBtZDN4V3B2Mkt5cnFJMldPbmI5OGZxZV9mNl9ET3pLZEtZSEpsaXFuelpTTlFpOGNSN1ItZEtMaUlsY0wzekIxdmhUSEVzN1VVYjktRFJKNE9ybHdVNnRteWROaFc5S0VBeTBHWFQ0emR2S1F6YzJiZTBiN3U4UTJFcUlXa0lwazMwclBtVzJCMFhYMklzMW02cnJkUnBGLTNKUHhkbEk0cy1IaEdCRnV5VjUyMm1US3g0WGY1eXdmUWJGVW1ZNWpHSlVfUTNNSFJYVXdYc3FDQnhmeFAzcW9NdFRhUGFWRVlZOGo4bU5qbHMzMlJJQ3oyWDJzY21USFlRUmFPZGhOaUFjM2d3eXpBb0JxY1NHcEZGVksxdmd0bXZUNEctdl84MlZXMER3X285dnlWblBDRHZwdHRkYzBZb0M5Y2kzLVNWNmlsM1lxVzJrODVadW5pWnBqR3NnTkpxSmlJZUdLRWIxczRfSmM3TDdRQWYzQmZ2NmJpNTE5eU1UR1laX2lRbmVVRHg0YWF1OGpZYmQ0T3VJQThid1FheTF0SWN2WTZCRXFPSEN6YjhDd0wyN3JmOEFkWTRmR194cTk3ODRCY1FLRTl0eFVQUk0?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-03T07:00:00+00:00"
-    },
-    {
-      "title": "建國科大共識營聚焦轉型 借鏡名校共創新局",
-      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQNmwyelZEbHVuX1RpTXBTYUdDSkNaNXNOWEJpbW5zSi1lNDJQbTdzLVFJRHRFa2N0NElxd2wwU2dUR1M3Y0VmM3FWdGdiNTZhd2lwOEMtNHZGNUNkZmZoODkyZTFodjV6WFZfZzVvLTFjd0xlenAtWE1UM2dmaFRsN2JLWHVIS2VuazBJdWdlNGYyUDMyMjdKX0U4UzFiMHdwc2NNc0VDbEJqTU1USzFydHJsVjRoQ190WXVEb3lfd0QtZHZ1YjdCa2dIRXA4RF9qVWc0TXZPbXFxdlN5b3l3SGtCYnJ6aWVxTVFIczdyRjFZZDg4ZGF4UE1GM21ZQ3dqZUJicEFnUGtnRENROE9Pd1p1WFhPaUZWQW5sLXczRnFObE1QWmZ5Z3RFckZQTkQ3dGpOQUhsVlk?oc=5",
+      "title": "彰化榮服處攜手建國科大 拓展榮民眷就學職訓與創業新契機",
+      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxOS1ZXeWpvazktX0tuRmYyM3J3VDRfcTFlTXFyZ0Zoc0N3VzlfN3ptb2xRLWRrZ1BELUN6ZnBTbzZPQ2t0S09qRDExUGtkMGVaek0zdWtaN1ZYMEVDalNaTVhDdGR6bkJnTVA1ZTlKWFlIRHNxM2UxYjhXd3lLaVZlNUN5ZXBOOHNNMmZaZkhyakplY2NhcGRTWEZaM1VzQ2tNUFhtNUhFQjRsWXJQLVQ0M1kwbEREbHp2TExlazJxZkVoS2hDZFlLYmhsSFZxZW1XckI5eHk4WmhUamVzeEdyNkVjUTRGR1FMTUFFR3lLQWhidjdpUXJZeEE0aHk4SmN0d2xGUExLU01jWnhQVHFFZTRKVzRkT1VhZWt6M1ZvaGItOXlHZmUzbzFzbkZEYzVZLWVlM3VvV0NVU1dPb25fekFza2l6WkFpLV9FWnZkWklkQmwxdFd2SEQxeGxQa2Fwa0ZIYkhTcmJzYU9fYkdpdHduYXROVEN5d2dBTnN4dmNnRkRmQXlOSl8tTUk?oc=5",
       "source": "Yahoo新聞",
-      "published_at": "2026-09-02T07:00:00+00:00"
-    },
-    {
-      "title": "越南建國81周年國慶日在台晚宴 洪申翰上台舉杯 吳東亮、吳東昇共襄盛舉",
-      "url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxPRm0xcmp0MjlNSHp5ekZvNTRreHlPMDNndktNTW5tWmg5VDR2LWREZHpTb1ptMEthNy00ZEVqVzNyb3AyYmEzeGtzT002XzlEa1FnVGhsRXRJSktlRDJ2SGJoc21HUENiRkZQb3lfdzdKaTZnTG1JZ1lfZHh6VUhCdnlIclkzbko2LWgxSVI3anpHaXVzR2wwQ2lBZE4ySXlPdDVIVG5oUWhkTlozS0NTVmhva2lZc2JhN1dJN1pXaVFnbmxkNS1LY1diWFk5VFhoeEdMMl9nTlJJZWw3NGtyUkNsODc3R2dHb0xpcW9ndFVXaTVaNWtGdnEtMkZ0N0g0YUtSb1BLUmVpU1Rrd2o4RnNpcVZoYjdndkxfcTkzVkZEcHRBRmcxdGRnVE9FSFJGQTB1eWlsNjZ5alhSckcwLV9ZQm5feElvTGpmM05tel91SmdLa1ByUDh5ZG9LTU91QXJKY05LT3FyTHV5NURQTzFBRjdzVXhsRGhidUQxT2ptbEo1TjFqeEhBM2JCeVJGNE1MbGJNQi1tYmROcEdLVnRPa01QVHgtR2FxX0lSQ0Rxb0FHdm9rU2NmbWNKYXF4Q0E?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-02T07:00:00+00:00"
+      "published_at": "2026-09-18T14:17:31+00:00"
     }
   ]
 }

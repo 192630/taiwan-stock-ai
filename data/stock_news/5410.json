@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-25T04:35:48.229279+08:00",
+  "updated_at": "2026-09-26T05:34:24.013424+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5410",
   "name": "國眾",
-  "count": 1,
+  "count": 2,
   "news": [
     {
       "title": "【2026/08月營收公告】國眾(5410) 八月營收2.26億元，營收雙減，年減55.63％",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LZm13cW96YjlVY2lOQVJyTFJoNEVVMXk1bnVkWTNUSlBjTURCLVEzRXV0LUZYbExtRXdpNnZkVGxtSktXVXlEWnNrUy1zb0VDbXVXRHVjajlERFRjeEE4dGpwcWt2eWc?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-10T07:10:04+00:00"
+    },
+    {
+      "title": "竹北破局國眾誰不利？董智森揭歷史數據：白營小雞更怕",
+      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNY0J6ZXZLXzJpTXZncUlBSFoxX1AtMWhpSC1QTTEwTEh1ekdCZWgtamFpaDM4aWxuMWQ4SGduWU12dVB6c1N5bXA0WlMxTHVUYVFwTmRsR0k5aTZXRGVEYWdfOFdHdm9FU2pYb255NDE0S3FPS1Zzc3NESVhhcnNYelRmR0JjMEFkZ0Z2YmNaMXo2dU1DbmQxWlF3Z1A0Y01kRzJoY25uQzJtWThXdHI0YU9HQkFCRjZreWM5LTMxQkxXUHZuNkE2U0tQMS1VVDJHZllxQkFkLVlLbDN1RkFhN3MxY3F2aVJTMkRRR3VSZERJZnJ0MmZkNndpeXJEV2VqTjRNaFE2NW5JZjJhMGl4WkYxYU5FX0Vmbk5sU3dOQzEzVFlKUFpyS2FPREtnSGxBangwbTVXM3E0TTBsaVBGbVhsYXB3Ny1KV3U5b0E0UEhuZGlueldKa3libllkM2xLWmpUcjlrR2FXZw?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-07T07:00:00+00:00"
     }
   ]
 }

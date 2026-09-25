@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-25T04:35:47.697265+08:00",
+  "updated_at": "2026-09-26T05:34:23.567408+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5403",
   "name": "中菲",
-  "count": 10,
+  "count": 12,
   "news": [
+    {
+      "title": "Dimerco Data System Corporation的Enterprise value to EBIT forward – TPEX:5403",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRTZlYTk3dXJMR3lRMk1vQkd1YVBsbV8xbDlzb0ZGWktSTnF1N2pBLTZHSmU4b01VdUZKd0s4ZlhSdmNGbmJOZ09oTmM0ZzRsMXZTMWJUdGQtMzRPLU9OdXlMcDRJajl1RTVJbUQ0OC1yd25iUDNXazBBczI2VDl6a3lxazMtcXJBNjJiZGpPRHdIdEpXZzdwVzlfZ0ZsR0ZoQWp2YldfZw?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-25T01:41:32+00:00"
+    },
     {
       "title": "中菲南海再起衝突 互指對方撞船",
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNbThmdUcxaFZCN0QwbUg1ejJ2dUV2X1dyeTNUa0tXS2RaYmZvZE9NWlpvT3M3dzVMVWwzVkJHaEN2Rml1VThuTlY5TFVudU05Q2M5V3JnMHpXUG5WTjE1cjJMamlJeDlZbDV0OEU1OGZWNkdNdTJvcHBZVjQ2bWpLMlNueFRDX1RiYkQ5cGZNa3pQZ2Q2YzB5RzJ0STNtaVFfb285V0ZKTzVFZHM4dlMtMW56ektlT25UekFEeTRUT0dlSlVuWFRubTB6YTN3aWEyVzlLdkxNSVhqc0Y3aTZaOWNNd1piX005Y1lEc0ZWUUJIZGxzTFZqTDhWWUdsUERuQ0xpOXJ2bXNXa3J3UWZTTG1R?oc=5",
-      "source": "hkej.com",
+      "source": "信報網站",
       "published_at": "2026-09-18T11:01:00+00:00"
+    },
+    {
+      "title": "影/中菲再爆海上衝突！陸海警船遭菲船「加速斜插」 驚險畫面曝光",
+      "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxNTnIybUZJYnJMbVBZNUsxeHlXSFFiRDhMR2VGamNiYzlwVFF6bmh0cnlBdjAzbEVpRHIzSkZ2VHRGTVY0dFNNTDI4WDNaNE0wUXFJQkNxYl9pOG5RZjV3SlE0Y1RCOG5RQ1NKbXJSeDZnNG4yYV9pXzVFTjJRY29ERFFIdW5ETmhEd0g1NXh3NDJpemg3R052WlNMa3RzVmF0czhhYmtiRzM4enZfVFFaWUVKdVk2Y05aNHYxTE5FamhIa0lPNWZOOG0tbTNkN2Q5WkY4R2szMWMwc0d1R1pxRU9wTE5BZzBoM3g0eVRCUXJHV3hocjA2d1haVVV6c0VqSE5PSWJnOHhqN1hROFJnc25zQVBPeXpSckpweHZzLW5EcFROSnEwZFF4X0k3RnlPSHllSHZXVVMzMmJjUE9lYlBuMDZGc2NVQ1BpMFc1MWc5SlZmOW1qLWF1X1A3bkNMNE5aeWFWOVMxR3g4SUR3WE93SXg4YjlPUmV6b3JfSWlROTBPV2lrNFVFekxIMlhw?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-18T08:56:54+00:00"
     },
     {
       "title": "中菲又在南海「開戰」！中共戰狼式逼船、撞船全來 影像曝光",
@@ -22,6 +34,12 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54ZFdFbmcyMjBFOGJMM2dNbC14RmVMZWUxQ2s3WEpLeEZNdU0zLWFlcjdsaW1pTlVHZ2VPTkd0UEVhMXRTbEFmN040dzBXQTkxRDJMVm01RFZpYnRJS2c?oc=5",
       "source": "中央社 CNA",
       "published_at": "2026-09-18T08:03:00+00:00"
+    },
+    {
+      "title": "中菲又爆南海衝突！中控菲船「硬插」 菲反控中海警船故意衝撞",
+      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOOFRMRklTUXhualE0N19WT2ltOXBmVHQ5bVJKMi1sZlhyT25XbzBvX3NXcnkzMk1ua2NJYlpKSnM1NTEzRnR3ZHJDMEY4YmJaN3AwaFk1OFNtV0NqWTlzTTViQ2Z5eDkySTM0bW1QYVB6MGFWYmlGVHBoTktTVUVROUlQYTFyT01PLU9JQmppem8yYnZKLXl4QlgzMERmcXhhbEhQbko4MGhMbzB5Yzh2a25rYmxpTEpsNGN2cWdHQm9rS3lwdU9xdk0zM3BJWV85Z004aUxFVWV3dDZFYjlxNGs5TFlRQVV2MElLTmdtcEhTNUl0cy1pVUliYTloZHhiTE9mU3JDWlpVaWpPVmctaGhqVE9ST1p0YXk2SXkyeU9xS1dtb3BzRUswem0ySG83LUgtX3FpeGtvR2RUbUVfMjQ1NWFwc2xiVUdKNk90OXVlcHNXX3BiMnVtRzJTSnVIM3RfSll1R05ZSU5ldGJ5SWk3V2NyWnItMXkyalR4T0N2Slk?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-17T07:00:00+00:00"
     },
     {
       "title": "中菲行：半導體加持 Q3空運仍旺",
@@ -58,12 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0a3ZrUDBsNktYX2ZoMXpXT2loQmRiUmE4ZmhPX2RseXNmSDBFMFZ0M3Y4UjN5cVhROWkxZGRXT01aaWpHVF9PeEE5Z3dITkU2WUE?oc=5",
       "source": "中華新聞雲／中華日報",
       "published_at": "2026-09-04T07:00:00+00:00"
-    },
-    {
-      "title": "2026外資精選台灣100強 中菲行獲選中堅潛力企業",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hOEFGQWZQbGRKbWNmTmozS0JqbHdMbUtHaEpzN1JXQTNNZkVfMkt6Z1F1bUpYb0pDSko4V2pJYUFkYjl0Z2ZNMzVfcjRZdUE?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-09-03T07:00:00+00:00"
     }
   ]
 }

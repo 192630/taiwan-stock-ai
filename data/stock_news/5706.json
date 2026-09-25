@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T05:32:56.206862+08:00",
+  "updated_at": "2026-09-26T05:34:53.721886+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5706",
   "name": "鳳凰",
-  "count": 10,
+  "count": 12,
   "news": [
+    {
+      "title": "股票特別報告＜5706＞三井金屬（8.20%→3.68%）資本研究與",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS1dGazFOZ3pscVZVbWJYYm5MSklCeTJ5bUkzcEt2a3dRVHFPZFNEZlJZN2lMYmRQX1paWGI2d0FtYUVtMmRtUjhBM2Ribjh5NERNMXkycUdpUFNLMDFQdFJxSjBQSFR1SHlPUUZlLXRZTUFhRzBYdHNFR21ONE04cjFZY25OakFZRHZtYS1lS0RpODk2cGdJN1h0SHN4bTRZQjFuWUk4NldzaHM?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-25T00:49:00+00:00"
+    },
     {
       "title": "8420 8420 - 職業軍人退伍轉身變「鳳凰」！屏東警消廖柏勛獲楷模- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SdmhYRHc4RjJ0bDQyRXY2WGJUVVVPc2lGWWJRZDltTy1TYkZVc2pjVUVMdF8zbTVacVM3MTRrWkdfaXJ1SVI4N01UMjhPdFJpdGs3czBUTXU?oc=5",
@@ -12,10 +18,10 @@
       "published_at": "2026-09-22T16:11:30+00:00"
     },
     {
-      "title": "上海鳳凰(600679.SH)：累計回購2042.16萬股公司股份",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBObVoxeWh0VFpCNjB0MVJoeEJ3eWg5WTdSYkJxaWFXRHBsNDNtY2JoSHU2ZzZ3OUl5SDU5bEh0Y09GeXRCZVgzS2h4RDBaZUNPdzFWQjR5RFpwdw?oc=5",
-      "source": "Moomoo",
-      "published_at": "2026-09-22T08:57:57+00:00"
+      "title": "屏東救災英雄廖柏勛及義消分隊長蘇兩文 獲消防署鳳凰楷模殊榮",
+      "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxPa3FWLXRkbDNOVThxbDlYWUZiMzFSMUFwN3dFTU5kUXkzcEozV3pFbjNhejgyeE1acjJqY3djcmQ2bVNQWU05bE5GNlBCYmY0WHJ6WmpsS1JCMnZBY2xpSlQxb2EzVVlFNDJ6WWF2RTU5d3NuMzF0aEpzTDk2a211dlNfdjBEUHA1U0FhT3hZOHNEY1RPNkhNU0lYUGRZQnc0Z21lcGhNTGYzTGFYbTdxQ05KalJNbXhvOVJxOGUtc3gwcG1QcGZLeXdrakY0bjVoSjZlMUZHbVBmN3pMQXdTSEZVSVZaM3prVEF3d3pyb3lXaXNyNUpORnlmVjVxX193OW9XdkJ3dG9fY0syeUZ6anllQzRISl9Fd1dRUzBpaHFPWDRiOUREY3FOMEtMcTRFaTA4VEpxN3ZLaU0wNW9GRkFLOVJuU2V6RThiVmdoaFlHM0ZlSHQ4ajVLSW5wZVFmTnBQWmIzSGtVZHZDeWJtU1NKVmxTWXhFOUsxR0NHbnB2U2I2M1N5Ty1LdjJuWlI5bFA4WGxPbF9PbTZTM0UySlB2MVE?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-22T04:34:53+00:00"
     },
     {
       "title": "$瑞波幣 (XRP.CC)$ 鳳凰將再度崛起 [八卦]",
@@ -54,16 +60,22 @@
       "published_at": "2026-09-05T07:00:00+00:00"
     },
     {
+      "title": "《麻雀變鳳凰》男星患罕病離世！才剛錄完父子脫口秀憾成遺作",
+      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxObVFVQ3J5M2laNzdJU2tjRDRwSjJLYm5YaGYwdXYyUzdULWd1VE5jbV9XSVFxMHVBbGRObFRtS2M1V0tTSml3LVVxU01GOTVPQVBCRXoyRV9xck9rVldGMmdVYUdTVnpteE8wTk9GN0RPeVlzMmNlSkV5U1ZDSFNGYk52TUhvOFpYdVdXMExuZ2l3QUZBellfOUFsM3RhNUo3Mk9jbHhxc3VaWXpnRXdYU1JwQzJfd2tBVW1UcWxZaEhZNl81UGktM1JwUHhySjJoX2RpOHBQY3IwYV8zQ1NoaFoyYmc4R0J3Zk1hOERzRmJIamZteUFDVldRX2h6SmxRSlNoeTJXeGhWeW5FUjR4ckprbDdaT21BT24yblNQQW1obUowaDdqMkZLX1RaQktTTl9GNVAxWWtZYXo4QWZLMThrV1NNMkU3VUxjM0U2SGZsVVc5dm5NcTVjOHQyX3lnT19SWGRQQUdaNnk4aDB5SzFNdmJnWkhDRjBVS3IwYU83dw?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-04T07:00:00+00:00"
+    },
+    {
       "title": "5706 鳳凰 - 鳳凰瞄準日本旅遊商機代理星悅航空復航台灣北九州航線- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KVEptZlNTTnBuQUt1WGJrTkU0Mlh2ZU1jWTNXNUFQcXFDbTNyVGVBUEtVTmRfTlN2YXYzb2NLTTZNRGZycUd4dGJHeWZBZ0ktY1FGUk5GN1M?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
-      "title": "江啟臣：火鳳凰活動千人爆場、豐原青年軍成軍 「發兩萬、打皮蛇、卡好用」",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWS09KXzEtM0hJamdvSUxvNmxSU3U3clkxRnB5S1BORXRzRVlieDJQcmhNMS1NSk8zNDZENUo3NFhvdDlyeDJBbkd2TUtNajRDRWM3RXE1ODNUd3laUWJuWFNVbXV6QUlFTlQ5UDF2cw?oc=5",
-      "source": "理財周刊",
-      "published_at": "2026-08-30T07:00:00+00:00"
+      "title": "中秋嘗流心2／50年老店靠「流心酥」賣破億顆！三統漢菓子鳳凰酥、芋泥酥香濃爆餡連兩屆榮登金馬指定伴手禮",
+      "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQbGk0ZEFYTVpmWDRPcTF4UFdWTldMSlNEdGtEX0Nob2hheFNrX1BXcm9IaXkwZHVJZzZSSC12cHlMWGIteGhjQU5NNk5uX2hSXzZGSUJjMHJ5R0c4cl9WN3pmWXM3M3pNMnc0anNwbjNEbkoxS2Y3TGpjYXk4Q1RJZ0xiUGJFdDVKM1lsaF9XalljSVFmcHJsN1BpWEZDUzFBbU5TRGluQzBCcEVtMF9tbjN3LUZDQXV3R1B4S29NQktTMWlhLXZlMXR5eU93T2RmdXN3QS12NTBwYnhDOTkyMEhEa0Zwci1VZHB1WV9uSS1Jd2IybzhMQWZFeU1YTFozSUY2WHNxc3RrQ20wY2pRekVXdDZnckQxR2RQU01yT3lxLURaZkZ3czdyXzdwejZFRnQyT3ZsUVE1UWxKckQ0Q1dqVjlVdnZTZlVXczNvQ2RDbnVZdmx0aGh1Z1dmeTZOd2pmOTAxZDJnT3FjVjQ5anNXSXJ0Z1MyMk5WMg?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-08-31T07:00:00+00:00"
     }
   ]
 }

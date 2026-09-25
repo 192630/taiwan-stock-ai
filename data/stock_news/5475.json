@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T04:35:57.776491+08:00",
+  "updated_at": "2026-09-26T05:34:33.268578+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5475",
   "name": "德宏",
@@ -9,13 +9,25 @@
       "title": "德宏(5475) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iUXNxc2FSVk5BaG5mUFVNRXowb2pqWkhJSnd6VzN0bTZUMXNiVnkyTEFXaUhOZEVMX2ZKM2Nna1pvRnJsMG9rT3dWQ0tIZG8wQ29j?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-24T09:33:17+00:00"
+      "published_at": "2026-09-24T20:52:20+00:00"
     },
     {
       "title": "5475 德宏- 我等他起來啊- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKWHp0UVZNS2pmLXlXQ1lrUWhNMXhwN2xyTHZ1Vy0waUZSdlNVY0dJLWJhRmtPcGYxclNjTm5wWTZ5LUFrSk1JYXFIMDNSV21wbG5tSkp5SzA?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-24T08:50:58+00:00"
+    },
+    {
+      "title": "5475 德宏 - 這貨是年減-270%嗎 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2VGw0VjM2QUF1RlREdmo3Q2l6ZzVWdmc5aXZ5Ym8tRlJTTjRDSWY2TFd5aVV5T2VfV0dYMFI2MTBlRVpKSDZMd3VSV0NQTWNKMFRyNlZsYzY?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T02:04:57+00:00"
+    },
+    {
+      "title": "德宏(5475)營收查詢｜月營收統計與YOY年增率圖表 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHMEV5VUx2ZHFEdm9OaTVWdjZ3MnBETXZ4STlUMkNzb2V6S1F1MDRiVnM2VkhjZGlxM1p0SS1oUWlmX2FXVFdreVVRZi1GUGYzeUJ2UWpUXzZCRzR3?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T07:00:00+00:00"
     },
     {
       "title": "盈餘：德宏(5475)股價遭警示，自結8月歸屬母公司淨利9500萬元，EPS 0.74元",
@@ -30,20 +42,8 @@
       "published_at": "2026-09-21T22:36:57+00:00"
     },
     {
-      "title": "討論牆 | 盤中速報 - 德宏(5475)股價拉至漲停，漲停價199.0元，成交5,914張",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05WmpFYVVvQjNrMmw4YUFWdEpvY19YV1VsU0xoVk9iWnlYaklGTy1kbTlPb3c1cnJmQnlnX1VKRU04d1Z2RndSWWk2ZXNBWlYyNDZCU1ZrU1VmWVZ1ZEQtQlN5elE?oc=5",
-      "source": "LINE TODAY",
-      "published_at": "2026-09-20T05:15:38+00:00"
-    },
-    {
       "title": "德宏(5475)主要產品與營收占比 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwRnpwekMxdzhxc0VhVHpzUDZLVzdoZnpUbnJzMk05SnpvWTRNVkV6SXVqOGpvY3lkVnUzQ3NkR0dlQ1RtY0dCYW12WTZMZ1VyUzllaENtM2FvQWk0amVwVE83RHh6dw?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-17T07:00:00+00:00"
-    },
-    {
-      "title": "德宏(5475)營收查詢｜月營收統計與YOY年增率圖表 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHMEV5VUx2ZHFEdm9OaTVWdjZ3MnBETXZ4STlUMkNzb2V6S1F1MDRiVnM2VkhjZGlxM1p0SS1oUWlmX2FXVFdreVVRZi1GUGYzeUJ2UWpUXzZCRzR3?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-17T07:00:00+00:00"
     },
@@ -57,7 +57,7 @@
       "title": "PCB紅通通！「這2檔」漲停領聯茂、金居強漲5% 德宏噴7%、載板四雄全走高",
       "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPc0ZLcTFNc0phVXNlUnh0d0M2R2lRLUlTb1AtVGQ1aDBYX04zTlVXYXJyd0ZRNXRJZjdaQUQtUXVmMmpJVUZ5QTZnbFlBUzVxZkNxUVl6X1N5QnpVcTZQTWRDV3I2REhrVXVFX3FIbjVvZGx3YkxDbGhfd196bVRtZVR3R296cnhIdHhsQzhBMmJ6eEZjMlF1N0tLRVh1TDBDZksweVpud0QxaUpFOEN0VVZnZWh1eHNlc2Q2cE44S0hRT0h4dG5hY0RWaXgzTC1nNllZQ0FzMlFoN01XSzQ3WEtyY2drRElHNk52SmRkU1BPUE1PUDVsVk0weXRSYl9HTE1rQzhkQXJQRDBCeC1VNUZyaHJadERHbnhFa29XckZRMlpDQndZMXRpdjZjMW9Ib0pTeQ?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-09-16T11:45:00+00:00"
+      "published_at": "2026-09-16T07:00:00+00:00"
     },
     {
       "title": "【11:12 即時新聞】德宏(5475)股價走強逼近一成漲幅，玻纖布族群續成盤中焦點",
@@ -66,16 +66,16 @@
       "published_at": "2026-09-16T07:00:00+00:00"
     },
     {
+      "title": "【優分析即時新聞】德宏(5475)8月營收年增271.88%，毛利率飆升至33.43%，石英纖維布接棒AI伺服器材料升級",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KQ2t0bi1OTTJkZldlblQ3VkdVejFYYTFidVgtY1ZJaXlDc1p2M2RtaTdmMWxaNFpBQ1Azd0JXMXc3bUdRbzlmdVJaamxWQVE?oc=5",
+      "source": "news.cnyes.com",
+      "published_at": "2026-09-16T07:00:00+00:00"
+    },
+    {
       "title": "5475 德宏 - 來個嘎🈳漲停 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZRTg5dnJyY3JoM2x5XzhfZWpEUG5aSTZhNGFWakJTb1NBX2NkQ3dya1BKWmdROXhNT0p0N2FpdF9FZ2hXajJCWjBGT3FnRHY4bmNfbGJoWmk?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-16T02:25:00+00:00"
-    },
-    {
-      "title": "【優分析即時新聞】德宏(5475)8月營收年增271.88%，毛利率飆升至33.43%，石英纖維布接棒AI伺服器材料升級",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KQ2t0bi1OTTJkZldlblQ3VkdVejFYYTFidVgtY1ZJaXlDc1p2M2RtaTdmMWxaNFpBQ1Azd0JXMXc3bUdRbzlmdVJaamxWQVE?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-09-16T02:00:16+00:00"
     }
   ]
 }

@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T04:35:44.438248+08:00",
+  "updated_at": "2026-09-26T05:34:20.456909+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5364",
   "name": "力麗店",
-  "count": 2,
+  "count": 3,
   "news": [
+    {
+      "title": "力麗店 公告本公司擬參與重要子公司愷森能源股份有限公司現金增資(補充公告)",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwTVhJZ2lyc2Q1Zk00TDVDR0J3UlViTVhnY1hPUkVUeXJZNm5wQndTX0R0TTNqWF96TkpsZUgtR3Y3TFBZWEVtekw1Y1J1aF9HUVFja2M1UlM?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T09:30:04+00:00"
+    },
     {
       "title": "【2026/08月營收公告】力麗店(5364) 八月營收營收雙減，年減80.6％",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wSkhxa2FOcEFQZDNLSmlJeUZXRlhXOE5WNHc0czFrOVpJaDFmQm1RWWRGNnFtXzVldjNoRmNsbFdiQWFyVnIyUXBucUhjSWx4eElWRkE5YVd2VzB4UDBkanVTY2lITjg?oc=5",

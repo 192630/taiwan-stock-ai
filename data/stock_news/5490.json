@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-25T04:36:01.890750+08:00",
+  "updated_at": "2026-09-26T05:34:37.212484+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5490",
   "name": "同亨",
-  "count": 1,
+  "count": 2,
   "news": [
     {
       "title": "3491 昇達科 - 上週五外資買超371張，9月11日外資借券餘額5490小增1... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XbVY1bExUWnpIQmFKWkN1NDVWS28tNkVLakp1TGc2MGcxQzlPSzVmSlNRQk9uR2xMRG54ZmFreU9fSkF6VkF2elRtV0lWdTAzMGZ1X0FXSWg?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-13T07:00:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】同亨(5490) 八月營收1.09億元，營收雙減，年減6.77%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTk1PYkhmZ0xVVzlZOUEyWHBmNW9jVXJLZDkzOEZKOXhlWW9OSERhMkdNYmFmaFB0dk1QS25Xb3NSSU0yc2dBN0FPcHR3NFdHTE5nZDJpeXJaRk9xMW8xVGkwaTdnb0w3UGUxVmU3SkRpdWRSNzFsSDVvdi1KQ253Q2JZUEh0T3RBY2c?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-02T07:00:00+00:00"
     }
   ]
 }

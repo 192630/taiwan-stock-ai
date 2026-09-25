@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-25T04:35:47.095031+08:00",
+  "updated_at": "2026-09-26T05:34:23.062258+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5398",
   "name": "慕康生醫",
-  "count": 4,
+  "count": 3,
   "news": [
     {
       "title": "$GAMUDA (5398.MY)$ 挑戰新高？",
@@ -22,12 +22,6 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSHJNRmROal80ZWgtMUFBS2RpUEwtczdSTWRuVFZOQWp5UXcwd1NDZ2ZjSjdjR0I3dklQQURUdHZfTVhqQUpXMXNHTHAtXy1yWE03ZE5WRXNWSndWekZZX3RtcWdpWm9LV3ZiZVFlZVFCa25zMklhOFdOUmZSRlNqbW55UkVxZFhTaXBJSHFENGJZcGZLU0VpY0VDc0Q?oc=5",
       "source": "Moomoo",
       "published_at": "2026-09-17T06:50:54+00:00"
-    },
-    {
-      "title": "$GAMUDA (5398.MY)$ 供參考",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPT29GbDBVSTM3SUR3eGc3Y2d0QldyWUpBcEVZX3A5TU45VFBiOTZweFNFMXExaHQ2UlJ4ZzV5NzU3YTBhSWJFcEo1Y0lqSlN3cDg3TEFhNjVCTG9wclFWTHBmcWJUX29yaU1ZVGlxQVFZRzhtLXV3R09iSkw0X1JVWE11QQ?oc=5",
-      "source": "Moomoo",
-      "published_at": "2026-09-17T01:58:54+00:00"
     }
   ]
 }

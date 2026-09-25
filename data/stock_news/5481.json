@@ -1,10 +1,28 @@
 {
-  "updated_at": "2026-09-25T04:35:58.719492+08:00",
+  "updated_at": "2026-09-26T05:34:34.310253+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "5481",
   "name": "新華",
   "count": 12,
   "news": [
+    {
+      "title": "新華通訊頻媒(00309)：邱伯瑜辭任獨立非執行董事 作者 智通財經",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tcmJMa0MwTzZsN2dKcU5Wdm9QaUEycUk0Q0hUZ0M3Sk1TVm9GRC1jV1hDMUpMLUc5QVVvYUU0WHBMOW1sdjBGa0RPTzNNS09UZzB6MTZIMHpFNEdYR3B3RzltQXc5M0JaaG1CYVNNbXI?oc=5",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "published_at": "2026-09-24T22:48:04+00:00"
+    },
+    {
+      "title": "新華通訊頻媒(00309.HK)：獨立非執行董事邱伯瑜辭任",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vZWNxT25OUU9YZ1JPQ2JwZzFPRUtOZ29Oc3E3Nlp2R01pdjI4M0pLckZhRUF5V3pEU21NRHdaSWkwdmFWZWhQU2l5aVEtUDh6VzRVQ2tOT2lQXy02NEdWUWZFSTR4RENheFE?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-24T22:41:25+00:00"
+    },
+    {
+      "title": "5連板新華文軒：主業經營不涉及新技術、新產業、新業態、新模式",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3ZHdjVGRrWDFYcnBwRXZHdndGNV9aSng2bUNqcW9QTTg4OHJSQTVWSmZ2N2R6eXdyY3kzSnREOWF2RkZ4clFzcUpBdllhczEzTjFVOXpsU2cyck1r?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-24T12:57:00+00:00"
+    },
     {
       "title": "新華傳媒：擬發行股份購買上海界面財聯社科技股份有限公司100%股權相關工作尚未完成",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95WXhGLXN2aGZrbDJHZDN3LXRMczcweV9YUG0xS1VUdFdaMnh6VHMtT3JEc2duOFBqOFNqd0FLMGI2YThIcTItSnFpLVFpejAtYlFwNEl5dHl0LV9lZ1FtRUpkNnNJZTAxNHFv?oc=5",
@@ -36,12 +54,6 @@
       "published_at": "2026-09-22T12:32:42+00:00"
     },
     {
-      "title": "新華文軒(601811.SH)：公司主業經營不涉及新技術、新產業、新業態、新模式",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVXVDUjNtYnBrZGlXb1BnZUpIU05XQnB1UUNIWE42NlZqOFU5WXdveXlYbkd5NUtkM3VDSmtEZ2g3UUQzVXpTNzgtM0J2ZnBXSnJmOThWeWNlVWlkbmhzZ1VYbDdPMTRrSlc1UElaazR0dGhhc0I3NWpuNUFwXzJKcF9kRWRmY3RwbzNOeWFHdXBNZThWcUozOHNnVXZxU21BaW1lczk2ZzRNM0tQV1ZMZU1rQQ?oc=5",
-      "source": "Moomoo",
-      "published_at": "2026-09-22T12:04:48+00:00"
-    },
-    {
       "title": "山東新華製藥股份(00719)：A股股票交易異常波動前期披露的信息不存在需要更正、補充之處作者智通財經",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oZThGUVJ2NVBhVklYeW1fMVprQzAyUUZCbnVvVUxOdkpRZmZxS0E0U1hIZFR6Q3JiRUtMYktPeE5BaEdUMnFoZENjcU5QYTcxdm10eDBWT3ZTNGNscEs2U1pGci11cEdMOXp4MTJaYzI?oc=5",
       "source": "Investing.com 香港 - 股市報價& 財經新聞",
@@ -50,7 +62,7 @@
     {
       "title": "山東新華製藥股份(00719) 海外監管公告-其他",
       "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPMGg4VXFHYzhEUG4wX1Q1SzNscThmRldrbGVWZHNRVVJuTWRKVzZrYkpsU2hxNHZaa1o4M18wR3M1OTN3ay1LSzJOQlAxTUpPbGJfalBWdlRoaVZ2TUd5dHRiS0VXYnBiSGN1cWtNMkE3TW5tb2FJaHE2NFZpenVzc05PaG52NWNpWGQxdTFnaDJmUzR2eTA2eS1jSUU1aThzVUl0bHZ6N1ZNallCV09jcF8tWjYxNUhUMXMza1QwWGRzMjdZVGJOZnB5WEVrMEtmc3NxUENpbjY3OTZWNUhCOHg0Q3VaVmJ0dGxXV3NCYWJhYW5sUmx4VV9NVEVkMzk1MkRFU0lqekxmOTB0RDBwV3FzSnpBZ0FDMlo4bV9RbEE4cUVvem5GOTdlRF9xb1Z3?oc=5",
-      "source": "hkej.com",
+      "source": "信報網站",
       "published_at": "2026-09-22T09:43:49+00:00"
     },
     {
@@ -64,18 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOajNSZzNHeVBIZll3eVNKdHNrSHlNQWFqeEF6YXRMTWJrMDhCbGxJcUwwMmh4NXljU1AtZWs3cWxSQjd2bEhzczdTdWZxdXVSaHF1V3VOREdqc3pkZ1JtVlVWc1RWTmJaSkhqN01fVGRIT0hFOXN4NWVXMXdVY1RYRUxaVnYyWkw4T2FNaEk0eDF5U2xYTG9HY0F3TEVHSEhYT3JMemxNNkRrM2lWTWFBWXlMcw?oc=5",
       "source": "Moomoo",
       "published_at": "2026-09-21T16:17:17+00:00"
-    },
-    {
-      "title": "新華文軒(00811)擬3.46億元收購四川民族出版社100%股權 作者 智通財經",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BaWxDZ1RiTVdVWnhucllmRDJuYmdRbVFoN3pQbHdsV05FZlRGQjlhQzd2TE5uOTE4S0Qwc1hENVlqTFlLYVdiMW5xQUFYS2RwLW90UmxlTVBQNDJaRzlmVl9YYmo5emJoMFhFVTF1WHg?oc=5",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "published_at": "2026-09-21T13:42:08+00:00"
-    },
-    {
-      "title": "港股異動| 山東新華製藥股份(00719)早盤漲超8% 左卡尼汀口服溶液等獲得藥品註冊證書作者智通財經",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IbHhmdjlWNVRTSHZUZ3Iyc2gzdzUwb1JGamZIa3NEX1FCaFF3YXdiZGhYSHNzanJxU2VGczNjdERKdHpqaXJUQUhmT1huNWJ1aV95clZSeTVsMjdmUzE3bWVQNlN0Vm16R05YZ1NWMUw?oc=5",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "published_at": "2026-09-21T03:41:44+00:00"
     }
   ]
 }
