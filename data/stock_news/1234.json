@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-24T13:34:22.255463+08:00",
+  "updated_at": "2026-09-25T15:35:06.995708+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1234",
   "name": "黑松",
-  "count": 8,
+  "count": 7,
   "news": [
     {
       "title": "Sysco以每股81美元發行1234萬股，籌資助力收購Jetro餐廳倉庫",
@@ -14,7 +14,7 @@
     {
       "title": "SYY 西斯柯- Sysco以每股81美元發行1234萬股，籌資助力收購Jetro餐廳倉庫- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0NWwtaGk2eHpJbzNlWVc0NEkyYUdwMVEwVkxMZzNyLUp5UTVmVDZuRXYtbGtRZHNhU2wtY1ZjS2RVclBJejduaE1CeF90c2NRTE13V2lKTkI?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-15T04:47:28+00:00"
     },
     {
@@ -31,27 +31,21 @@
     },
     {
       "title": "黑松重現迷你柑仔店 4款盲盒7-ELEVEN限時加購",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zYjg1SkJ0T1R2N3dPLVZVVVRlNjl0TTcxV0pENTNpaGRqWktpcTFOTGJtNHloblBCTDFMNDQxbWNFamNUR2J2NXAyMXY2MGtsdERuRFJmNDVLT2tsYzQw?oc=5",
-      "source": "自由財經",
-      "published_at": "2026-08-31T07:00:00+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmRExWcjJJTUx5QUdwUUdvZ3NGZmtaYXlhcjE1SUhONFlWbjRRcDRsZ2Nzd0QtTHVqSnk1ZElnS0xNZnpZekFfeGJLbWJPQmpwa0FmR0tDYlk?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-08-31T03:42:59+00:00"
     },
     {
       "title": "1234 黑松- 黑松把童年縮小了！柑仔店四款微場景盲盒9月登場- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rZm5BdmZwUkxVOGZMb0Z0Z2RUTmZLcGpuOEFXZ0RWRU95WmR6eXdIQXFyNFdvWkotN3BET3VJTC1sUzJpQXBjLUJLRFRHZlJZR2JQdTNReVU?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-08-30T07:00:00+00:00"
     },
     {
       "title": "普渡概念股聯華食、黑松成本承壓，為何統一（1216）能屹立不搖？靠通路打出一片天",
       "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOc2E4ZjBuaWNZbFBVVVJ1b282NUFFYXBseGRMcUFtUnRkV1RzVFNvUzRPM2locjNiLUVJQ0FvZURlb2pRZEZiejJQVWNreDRNd0hQMnowSEEtWTByTFkyV2gxcHBTYVNJUmpHcUd4ZG9PbERIRGdDendDSGFZUUxYNnlRaXo4UW0zLW80Yk5VU1RXMlpNSmJUbERnam96SDVpcFkwWHY1MjZ1dF94enhhWDVTX0NOTzk3T0VWU2VtVTNuZndVTUxxYUVlcWhlY0V4cVQ4VW9YdlJiZkpMbUdfTHZkS1dFWmlDcVdnVUlVZ0thdm5aYURqZVFsVUZZQ2otaXlWMm9YNDlBa2dtUDFXaklLT01YbTlwNWI1U0RMekdjUzR3SFRHSXp0QjdYaGFVWXJjX1NiQ3FfVm0xMEZfQlMwZ3FQMVIyNDR4VTkyLWhaUGFuX3NmLXJqMVkzd0l6cWdqd2pVT0psY3ZoWFE?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-08-27T07:00:00+00:00"
-    },
-    {
-      "title": "黑松多角化布局 攜手金門酒廠推限量鍍金高粱",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBYZFJSNmxwcHJRbjZLc29VVWRHeE1PY05JbEJqWHVMSzdaaUZ2RXQ3ZElKVWxzT0lrdDkwdDRZaDg1THJ2RnNva3NOTnVFQ3RK0gFWQVVfeXFMTzYzVGZIRVdWMkhfX2lSZDFncmU3MzM2UWhRNGVLRE9fMmY0RG1IQVk2LV9qLW1kZUZJR3ZMc3NxXzJxQU9UWW1YLXRSVjRvdXItVGNOOXc?oc=5",
-      "source": "UDN",
-      "published_at": "2026-08-25T07:00:00+00:00"
     }
   ]
 }

@@ -1,8 +1,39 @@
 {
-  "updated_at": "2026-09-24T13:34:41.703786+08:00",
+  "updated_at": "2026-09-25T15:35:26.217962+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1418",
   "name": "東華",
-  "count": 0,
-  "news": []
+  "count": 5,
+  "news": [
+    {
+      "title": "東華 GOFAR團隊成果發表 展金門與印尼實習成果",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNeTNGeC1zaE40V1JLdm1uT2F5UVpCbzZFLWEyOHlyTFNRN01uc3AzR3V4dnY1N3l6WVZnQ1BQTmFDb0FpMzJOY0lsa0dEcWdOeDU3TnlwMXNuLWdQWjhSaFdxNVZlSEhkVnlaUEpscXp4eEU2ZmlvaGxoRDNldDkxTFY4d3dsQWZrU1h0WkJPdWNYTFJmYWNaT0k5UkdXelhrUm5oNTFWZTFlcGdqa1g5MmxPMVBNQmVObXZ3Y1RuSUVLR0xDcXZUcll5Z085UzBaMWNaa21sbUZaVnhMT0dzYTFIWVdITHlWSlJjOHA5TWh3M2VaUmZOeDdlQWRtZ3dGR3ZqYWd1Y0ctMFMzNklDM2RDbE9IR0FqRmJWM051RnlXbWdfakFoQ1JLNEhIUzdkbEtIdg?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-24T09:23:46+00:00"
+    },
+    {
+      "title": "東華附小國家防災日地震演練 從避難疏散到緊急放學迅速確實",
+      "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxNbUZmUjNLS2JzdVF6aVVpVEJHYTlJX3M1Z3VKcV9nN3NYeUxkZWdpMFBmZ05TRjhqZzFtYUVYN3F1VzFnTU9WRS16RWdHSDdQT3dacFREVHZmM0o2RGxlamx5UVZ5aDg2UmRmQzFvWnc2MUZUT0Z0Z1hTai0wbW5sRmZ3UmhQMDJBYlNDNlVvSy1vMTNBU0U4clJBSVhtXzBHUEVVQ2EyN0VPTlB2VWdfVExvbHNEYUVNT0wybE5XMVJxNVh3a29Xbk4wbmEzb3dHd1RtZEtoc083UU1pT0kyakhTOVMwOUtwUElxbDFsQ1FhY3RESnVBOHhjRUp2Y3lzdGFIRFlKbHYtM2JxM3hWOVlFc3BKczRZMEZKT2xiWnBOYTluOHlCMVNIVTUyV3VxcjZ5SjdmZm9tNDU3d1oxRERPRjZIUk9vZW43OTF0MWMzNjJuZ1dYX2Zzd0ZFdFBxTlVfa2M4bmdUQWtRVXVSVUhLbEZla2lOVzg1SnRwdlVncHNJenVUek9RZWVOTzRSbS1RY3RFd04?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-21T08:25:21+00:00"
+    },
+    {
+      "title": "聯合再生能源太陽能公益行動 攜手工研院、東華大學捐贈太陽能板點亮太巴塱",
+      "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxQOXR3VE5PdDRzd2FHc3didW5zZllFRGJKeTdfN3ZwcE9xMWxLYUswY2pldG1LRU13UDhfaGd0ZndYZjNNT0sxQ3NiZWNRLVRaN0dHWlFFWjdvRFhpMkw1andOdTlKRDI4N2NFcW9FX25lTUlrcUtNTDctbHU5SGRBVkxUMXVyVUI1anpBVnNjZzJKS3pfSnJ3azVURHE3eThxWm5nQzJZX21DWFY4akgxazg5eDBkWlY3dUlVdC1FYlBYdVFGcWpPdW81S3dEQllqMUpTTVF4MElOTTlybzRLbWd0MFhnLXhGb2pja2dSQlVnZHdleEVyeDd6cW9VTzVXbVRUWXR0eVhtTG5Kd2NJQV9mZDVEMzNBdmV0Uk9sakRCUGk4ZlJyQ2hlN0pJNVNCMkdoY0ZKQ0wxSDVDZUF0YU01emJfd3ktYmlfWU9tMXFia0Uya2c3NUdXX3Rsd2k2UjJ4NTBXMWY5NV9Vbm1mTFZfenduc0pZUllRejZjTTFwcmtZa24xUVQ3dk4xakpmZWQ5dm84b3ltcEtJUTJncklVLWQyaWZmNTVZM0VxU0tWcUxqQU0wdnlRbV9hSi0wUnUwV0NNdUxndmhtZURUc3hYZFdJUUZRLWoxeE5PenoxQQ?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
+      "title": "中職／岳東華開轟！中信兄弟6比4擊敗台鋼雄鷹",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPajNqTm8ydWNsUmJlU3lCZGUzSm9pd2VzRTU2NF9RVWZBbV9PZGtaRWFJRDF0QjBSUnRIZ1U2cFNVcGk5TENTUlJnYmpZY1N1V2lIdlJ1WV9Ra0VXdGdjcnhGQU53TUVwYnpCalFfVjBaVmVCa2lCQ3JzZjJrTWI1dFBFRnhJNUU2TjBjYU1kNy1EU3poZDN0TEhyYmliYW81X0ttRzRFRlZwRi1NMFU0NmgwMURwMmt5WjVTVU5UUTZFX0VSY3NwcWFvaDE4X3JLMWIxNmF0TFcyZGltQTRRUW05dEJCVjVDU1pvWkhILXJZX19hRVZhUVRLc0xFd2locEotaFVsbThRSVJJVVh6em9hRmp5R3VSakZJNVF0VnR2TjVpVE1pSzNTU3p3clRN?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-07T07:00:00+00:00"
+    },
+    {
+      "title": "闖關迎開學、蘋果送祝福 東華附小幼兒園喜接新學期",
+      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNZEZzUWRTZGsxdFltRkUzSmgyQlcxaVNoa0lFWmwwNVd1U1BpNE5aMzFidTlMTFVyb2hnbzdubzRhXzhZN3RnLWJEakN1MDBZS1BmRU5lakFEaTBKd0J1WENEaVF5dkNGTGplUGdhVGRTZW12YWtWMUdLbEF6SElteHJZVXhYY29zaVZzUDl1TEVSdDNxMTYyQW5PUVEzV1F4aTJhXzFWODBHXzg4cVk0V3gtRE9qU196cGtvQVA0RFBFeGkyX19lY0F5M2IxZC1wRjVvNUtZV1lkdTd5NHlmZ0F4Nk1SNzluNXM2bC1ibVQ4bGxGRU5vdzNRMmhVeExSYW1wVjdtN1hRVWhmaGJ5UmY2NTFzR3FRdWRxU251b3pYQlVidm9nMzg0RkpJTHNGU3RBLXhjYnhNeDVpTWdRS2lxNkxUTUE4QmlsRUo5V3NUWVdmYWt6V21vT25BQQ?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-08-31T07:00:00+00:00"
+    }
+  ]
 }

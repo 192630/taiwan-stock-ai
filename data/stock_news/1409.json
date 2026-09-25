@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T13:34:39.246970+08:00",
+  "updated_at": "2026-09-25T15:35:23.673253+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1409",
   "name": "新纖",
@@ -14,14 +14,8 @@
     {
       "title": "1314 中石化 - 若敲定成了，能變成新纖第二嗎？🥺 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBR1o3YngydUtRQ21NQ1NkYzVDc1VOTTYxS2JmaEhJd2ZPQTNHRXl5OXNPZkNDT0t5UGZvOEE0OUVoVS04Q1JEUS1aYjd0N1lWc1ZIWko4S20?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-16T20:06:13+00:00"
-    },
-    {
-      "title": "1409 新纖 - 【新纖(1409)盤後解析】法人隔日沖，一日行情再現 昨天... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjcGtuY0NjcVNmWk1hVXdFSGpIUjBIa3BfOFhmOFdHTEluenVWeW1xam1CeTlwNGdISXZEN2czNGtWMEpnT1V5X1ZyZE5ReFZZa29FaUZnWFI?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-10T12:17:14+00:00"
+      "source": "CMoney",
+      "published_at": "2026-09-17T11:06:13+00:00"
     },
     {
       "title": "AI與半導體材料助攻！新纖(1409)股價強勢走高！-CMoney官方",
@@ -44,13 +38,13 @@
     {
       "title": "1409 新纖- 新纖無人機佈局台灣- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54UW9fdThwenE4TUVsS3RhbTlGVnBWOUxabFNGSzk0TW42UFhzdUNKSWgzb0NBdW1wdmhTWmg5Y1o5NHlkZ3lISi1aZTkyMlN0R0t1Q2UwZWk?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-10T02:37:58+00:00"
     },
     {
       "title": "《外資》買超股：群創、新纖、臺企銀",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa1hjQ0x5YlRrMVp6dGdKNmRHVWV5cmQzYmxPUkt6eXd3blBmWG5TOXpaU0ZCOEdjaXVHTnNzaW5LNnNORHlfYzNpN2JMblhDeVg3TG1uWHJ2andxRUJhNjcyU2p6dWNOZzBfMDJsMW8zQnBHa2p2QUR3Zk1maXVLRDNMczRQNV9X?oc=5",
-      "source": "富聯網",
+      "source": "ww2.money-link.com.tw",
       "published_at": "2026-09-09T23:42:00+00:00"
     },
     {
@@ -73,9 +67,15 @@
     },
     {
       "title": "焦點股》新纖：強化無人機生態系 滾量上漲",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rdEZkdkd2MkQxdE12bGU3blVjS09fV0Vrdk1CQ25sekRUTC00eENxc0hoUDMyN3V1eWEycjR0SFRKN3JVdmQ2bzBsNGZPbTdRd1dtSFVTYmhuM0NMRW800gFkQVVfeXFMUGY0SW11eXBnckppa3hUVjNqZmQ5aXFvdl9oS2Fyand4NFVLR2lLbjZjdnUxTWZ6cE9UamVjQzhZTGVvTkNIUmJjTUk4WDNQem1uaDNHNzVhemRaUVMxMzNuOXcyeQ?oc=5",
-      "source": "自由財經",
-      "published_at": "2026-09-09T07:00:00+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5XzlIenVnN3ZhLVFmYW9OeldSMEVQR1UyTDR3djVydDhNMkdxVWFYZmcxSC1vZV9xTUNObGFfV0FJeEo0NFRUenZCcFBTcnRGaFBrMDdhUWI?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-09T01:41:56+00:00"
+    },
+    {
+      "title": "【即時新聞】【即時新聞】新纖(1409)大漲近7%，這「5檔概念股」同步遭調節！",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtSUU2T0ZrcDQ1MG5UekJxMXp1VllXbEN3RE90NEtfc0duYlhCQ0c0bC1ORUFfNEFlQTJQemJSOTJDYTNzaEw1bGxWYnNIUDlPOEI0U3haS2s?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]
 }

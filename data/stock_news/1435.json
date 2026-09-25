@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-24T13:34:43.902917+08:00",
+  "updated_at": "2026-09-25T15:35:31.464370+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1435",
   "name": "中福",
-  "count": 1,
+  "count": 2,
   "news": [
     {
       "title": "【2026/08月營收公告】中福(1435) 八月營收持平-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMmFjV2NMYnV4NWk3ZkljaXFkWXZBZFpaR2d6aW1CdkdReGN0ZWticFUtMmNGbmdfRnFmMkZuTlRTTWt4dVpYbmZBcGQ0ekxTT2NpOGN2MEJNZWtMOEhwVDFBRUItVVF4ZVRWUHdGQmF2WmtrNnM4Y0ZZV2xJQXAxcWFRUzVXSDAyOVE?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-02T07:00:00+00:00"
+    },
+    {
+      "title": "中福 115年8月營收50萬",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX3hxMVd6RGgzZkVvaFQtVFVlUF9jdndnTG1Rby04c2M0aVpXcTZJTmozYVpsa01CN2Q5dGZhMjJaWGtjbVZKWnZMSXB3UUVINFh3TnhCTG40NlNvVl8zcEFKbzVEak1heUZucnZOT3dlWk5oUVFlS2UxaTVxaVN2aE1iOHNybEpQZFV3MGhncDQzWk1tRHFsMFJ5eHJBWDEyMXhoOGJlNFBEcll2cS00aVExSGpiR096?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-01T07:00:00+00:00"
     }
   ]
 }

@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-24T13:34:19.225071+08:00",
+  "updated_at": "2026-09-25T15:35:03.926710+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1220",
   "name": "台榮",
-  "count": 8,
+  "count": 7,
   "news": [
-    {
-      "title": "台榮(1220) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsRXVSUHBsc3ZUOXRpWnNVWUNLNDdLb3picHhWUUNGdmxrLTNsczdEODVyQzZuN21DcGkwWFoyZjZWWjJjZHpUdHFLc2NQTzRHOVhv?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-20T09:10:53+00:00"
-    },
     {
       "title": "目標價維持1220元！法人喊「這PCB龍頭」利空疑雲有解 ABF載板業務＋光模塊是EPS提升關鍵",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4tSHc1QWxXNWVKaGVfbXFnZVJscVZfRUhCdWRqbFlwU21USWxWZWZ2ZGo4WU1XWk5pX3RlaWVfU3p0d2UzMFBIM09UTQ?oc=5",
@@ -20,7 +14,7 @@
     {
       "title": "1220 台榮 - 美國生技指數8月已創歷史新高，莫德納 「癌症疫苗」問世1天大... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tZkI3cGJsX1IxR2VJTzlhbDJXSlUtUlI3UmhKSDZwaGpRZXh5MDF6TXhlbVdRM2JzRjJ5VWN4ZDlXTkxydV9WeEgtTktyVTFrUmVEYzhfTDc?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-12T07:00:00+00:00"
     },
     {

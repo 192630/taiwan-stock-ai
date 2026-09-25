@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-24T13:34:33.831919+08:00",
+  "updated_at": "2026-09-25T15:35:18.261179+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1323",
   "name": "永裕",
-  "count": 3,
+  "count": 2,
   "news": [
     {
       "title": "United Carton Industries Company收入明細 – TADAWUL:1323",
@@ -14,13 +14,7 @@
     {
       "title": "永裕前8月營收年增近10%，看好獲利成長優於營收",
       "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQT1VPWGZ5Vk15Y1Fwb0JJQThDQ1ZMYzdwUkFKbXR4cnVsQWxqN2piajhVSGR6RzFqbl9kaXdyYzRJdWhUeEJrVlVXWE9ZVGs1Z2R1aDliRUJUMFJiN0ZvMmlvMGtUclJiRW9KbmljS3RxZGZlSGNZQ1VyamRMR1p6QmxwdHZkM1B6Q0Q0QzU4VjEzTWhIU0JYWklxd1E2c1R4WWgwUVFMMHRVdXhpWm15YWdpUFh5MnQyNllvbjRleUdabkZ4dnhUQWRDOTcwZlVwenlNd3VVbGdVS1FkSWlFa3o1Q25mMHh5Z3BCTUJyLW5vUTN3WlNEdVhnUTZEdDlqLUlJY2lZZTNMMkJFLTFZSGhKVGtyQXE0UVR6TlJDSzE3UHFHb0hOdXdGdi1DVlNhd25fSGJtaTdieTlKa0k5c2wtRGk?oc=5",
-      "source": "tw.stock.yahoo.com",
-      "published_at": "2026-09-10T07:00:00+00:00"
-    },
-    {
-      "title": "永裕營收／8月2.13億元 年、月雙增 高值化訂單占比提升",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA4cDFoLWRkVkh4LUZURE11VnMtYmxqbGg2bHlHa1huQ2pOZ2VMYUgydDg2Wks4WEEtUUxkN05CT0NlQkFxVzlWRm1rRTVmM1dz0gFWQVVfeXFMTnN5MzNQWE9YWjJTakpXQkhuemRneXRNaS1IT3Z5bTAxd3hVM0lCNUZSb2FYNm5lNS1KVTVhRnB1SXBZd1hONWpNa25NR1dVRkh6QlU3VlE?oc=5",
-      "source": "UDN",
+      "source": "Yahoo股市",
       "published_at": "2026-09-10T07:00:00+00:00"
     }
   ]

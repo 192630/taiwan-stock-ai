@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-09-24T13:34:40.892883+08:00",
+  "updated_at": "2026-09-25T15:35:25.401847+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1416",
   "name": "廣豐",
-  "count": 1,
-  "news": [
-    {
-      "title": "Kwong Fong Industries Corporation收入明細 – TWSE:1416",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GN3FoTVl3d1VWdGNJVHdDS2tST04tRnhNOFEydUx0ZVgyLV9uNzhtUWQwMFVOWlFmdXVGVWlVM29FTklPaHpabTlHcXZXel9XcGk5TzlPUURTVlp3QURjd2VTY3lkVVEwMnVfNHlXR3NlTDA?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-15T11:35:49+00:00"
-    }
-  ]
+  "count": 0,
+  "news": []
 }

@@ -1,21 +1,69 @@
 {
-  "updated_at": "2026-09-24T13:34:28.330081+08:00",
+  "updated_at": "2026-09-25T15:35:13.009272+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1305",
   "name": "華夏",
   "count": 12,
   "news": [
     {
+      "title": "華夏基金（香港）推出三隻全新ETF 望納入互聯互通",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxObEdCc19LeDZmMEV5ckFpRzVuakJDbm9WZkN5ZzdpQkx3QjdaRHFuTmwtdFhwU0VJX0JhU3BvREtMRWdCLVRYMHZTMmtoTFlVZzZzcGlyQnFETlZHeEFDTHQtaHNyUFpJRms3cGFkY3l0M0loVnlGdTNfMmk4M2RMUll0VnNRbkp3TjFzUFVLUEM5VkZ2Vm5GTVMxLWdTdkF1aG1odEJBRFY0MDBkeWZaMzdCZHN4azZTaHBHZ002MHN4YW5fQmlIQ1Q5dFA1SGptcThNWk1Zb0FTRks1Z2V5WWpUX0hOam5kNEVXUGRzRXpsdm9MSWQw?oc=5",
+      "source": "經濟一週",
+      "published_at": "2026-09-25T05:21:19+00:00"
+    },
+    {
+      "title": "華夏基金推三隻ETF 料納入互聯互通- 經濟",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tc2NXc2lBc2dob2owSlpfdVVWRWFRNVZqaGlRdy1oS3RtS3lheFI5TGl3R1RraHhDekt1VkNMLXZ4T0V4eER5UXRrMThBU2t2UEZCZVNjZjdpNm1JNDNnQm9IUWNRLV9XTURPUXlLcHhwcXNH?oc=5",
+      "source": "大公文匯網",
+      "published_at": "2026-09-24T20:27:06+00:00"
+    },
+    {
+      "title": "華夏3隻新ETF下周三掛牌",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQLW5Vc2ItUnJ5aWFrOHBqa1dmcTFNUlhDQ0VmdUc5S3VCNDE1RGZ5NXNkOEpRaVViQ1k1a3V4eHZSbVNic2xYdjAwZmpmQ2Q1TW1EV003WnJNRkxsU2FJdWdsTlRJelozMktvRkM4eGQ5eHpueW1FYVgyMHdHVEZ3Z0NKS0l4RWU1NW1IeWRJamN0Q3pwMExLSmo0S09oQmY1Q0kyUTFLVzBPS3BIZXFSXzRnN1JVVUdPcG1vOHMyZW5nRkVzcGlNQnJxUjRrTDdQaFFIeThqNmNqeEJHRmFaX2RyS1Vndm9uLVJkb09lNjlwSDYybnZ5ZjN1RDc?oc=5",
+      "source": "東方日報",
+      "published_at": "2026-09-24T17:08:20+00:00"
+    },
+    {
+      "title": "ETF | 華夏基金（香港）：新推出3隻ETF有望納入互聯互通，對本港ETF市場充滿信心",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNem4zd0drc0lUQmdXN21xOVhpaVJtdHVROEQxV21nS3NkY1c0bEVmcl9IdjRmOW9NVVlqMHN6LWpHcl9EeWRVQlVseUszLWFVNlU5MmNJamVGTVdaOUVEY0FSSkNwcXl5N3ZkR2dXSzJuX1hWSHc5X25lendkSXlNUDM2T0dyQ3RvTnRxNHpGR0V5MkpMXzQtbVVYa18wTkpKTzQ5V0c5TGE?oc=5",
+      "source": "etnet 經濟通",
+      "published_at": "2026-09-24T08:12:00+00:00"
+    },
+    {
+      "title": "華夏基金一炮過推3隻ETF 包括亞洲首隻HALO主題產品 下周三掛牌",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jTERNOUVJMXo3UDQ0cTJrRGJzNFFtU0RHd285YWMzUHhNOWNzOG1KdjNzZTdITDRIWmZadmtQWVgxVV9TNnF4a0ZtU0ItUQ?oc=5",
+      "source": "hk01.com",
+      "published_at": "2026-09-24T07:54:17+00:00"
+    },
+    {
+      "title": "華夏基金推三隻不同主題ETF",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWUZDM1MtbHhiallvakNKQjg2RUp4Q19BRmhaM1BoTU5ZMk0tdXNGUEMwYkFCajl2bnRMU0JMSEtQOGJaVnJNWklKYmk3TGZhWWxTRkpicFB4STcyNVBuTlN5RlJfeGt3VlBEN1JIS29KVUJvaVA1ZzhTZnRHcms1My15Y1Rpb0ZkZTBfdnpzaV9hYWRWeG4zelRnWi1TSzJvaGYwS2Y4SHhWZ1VocldPdTJRUTNPcGRwdHpnTmZKdG5SbnpYenVYckdMMzBwNE05UHBWV1hfRUxzU1p4SzFGUGtmNzNILWc?oc=5",
+      "source": "信報網站",
+      "published_at": "2026-09-24T07:16:54+00:00"
+    },
+    {
+      "title": "華夏基金(香港)推出3隻全新交易所買賣基金 下周三掛牌",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYllGWDhDcnZ2U3pmdnhWb1k3blFnSnl5d0QydkZpM0ppZ0xUMTdlYXphcTg2eXhER3owYXVsczlvTjVyXzJvMC1xbFBWLVNrREVkM3VGQXdScTFDcDFCY0xyYjUzbmdxV0hkaXFRcTRNYzhCR0RTYVpHZ2xKd1E5MkI2N091Vjlwemt4VUNCdw?oc=5",
+      "source": "on.cc東網",
+      "published_at": "2026-09-24T06:55:26+00:00"
+    },
+    {
+      "title": "華夏基金香港推出三隻全新股票ETF，由永明擔任投資顧問",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Bczh6anFFbXZPMzJicFNoN1VkYnk1ck93TE50dEhLdVVGWkVRcWdMN3RROXFOa29Oa2E2Qm5DZUgzV1ozWXdINjFzcnVmTUlNRElRTTZCTUFtZW43UktJdUNQclVVY3FsSThfVnFNNFhyUWw4bERIaA?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-24T05:48:00+00:00"
+    },
+    {
+      "title": "高息ETF｜華夏基金推3隻新產品 港股高息ETF股息率料達7厘、首推HALO主題",
+      "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxPQVNZbVNLSS1uMmsxXzFkdEc3M0NTQ3JGZ2lldXZrT1lZdEhPTlUxc1dTUnVzMUY0NUtUNm9jMDI4WF9RZWJyX3N4eURJU0MwV0Y0MjVjZ3M3RXNsNHhOSXpyMV9qUWtkOTB0Z1dwTGg3ZjJqeFFRaDFFM3ZCRnZuQ1FLd0MybXp4ZEdTOVF2N1MyUklaZWNVeksySURyWlpNanN3RUJ3YTlqNHVmRzNLbUNPNWk3TGRtem5UczZPd2hIaHV2c042YUx5aTF0RGdjTDFCRkdPRW53UlFraVpBN2FLVDJNOXd6VVZIWWxycDNPYnMyNjNKclZhZkR5LXZEWF81U194anBReG0yWWc4X0ZSR2hBMko5U21xTS1aYU5qR0pXcVN6Wml5TVUtak5zNEFUMEg4RXh0d3UtVzdiNVVNdW1PR2c4eXhnTHJyOW9Xa3ZiV0h4blJFSU9KMUZENVJBWnhGTmJQQTJ5ZUVIdHpfbVlTTTFYMmF3VmVuaXpnZ2ZJWHpZYlJLdFQ1SVI1NnBuVFlTMDNxMTJrN3lQc2tzLTQ5U3JTZTRUdk0xdHdFQQ?oc=5",
+      "source": "香港經濟日報HKET",
+      "published_at": "2026-09-24T03:46:28+00:00"
+    },
+    {
       "title": "華夏文化科技(01566)存倉市值總計19.5億港元股東將4.23億股股票存入中達證券投資作者智通財經",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MMlV4cV9zSzhESDJFQi1fSzRwYUlYWU9HY0NNeEIyUUI5bGlWN05QZUpnNEpDOF9EclpTUmVUQVhkT1drNTYwUWFmRTIwT2RnejVCWDJ6X25lWTdseVM1RTlPajdjR0dGanY0Uk1nM1I?oc=5",
       "source": "Investing.com 香港 - 股市報價& 財經新聞",
       "published_at": "2026-09-24T00:51:39+00:00"
-    },
-    {
-      "title": "3418 華夏數字黃金技術分析｜移動平均線與技術指標解讀",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE54NHJUb0M5MmJGd0dGa3dzR2lJQWpnaGZ5V1pkdk1TNUdpUDRkbTZLMWotQlVKQ1N5MUcwX3lyYlNTcVUzVkZhdVZrOA?oc=5",
-      "source": "SL886 財經網",
-      "published_at": "2026-09-22T23:42:01+00:00"
     },
     {
       "title": "步陽國際(02457)附屬分別認購華夏銀行發行的兩份本金額各爲3000萬元的存款證作者智通財經",
@@ -24,58 +72,10 @@
       "published_at": "2026-09-22T11:46:52+00:00"
     },
     {
-      "title": "執行董事徐雅欣增持華夏文化科技(01566)3216.35萬股 每股作價約0.18港元",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LdzJzQ3h1NERrV09zMEc0WmhWYXhaVnU4djE0T2MtZExjMW9mSzM0MElIN250RnB4VzFWVGszN2w1YVlHRkFOS3hlZ29ydjRKYTRPbE94bm5vZw?oc=5",
-      "source": "Moomoo",
-      "published_at": "2026-09-21T14:55:35+00:00"
-    },
-    {
-      "title": "吳建昀增持華夏文化科技(01566)約1.62億股 每股作價約0.18港元 作者 智通財經",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sRDZrZjlYSkdPVHVWVUpJZE9EbG1PbVJRMFVGZXhUZHFBWHgzY1hZRjI5TF9WdVpJR1hGeVFxYmhIdUJXc0RCamJFMEJRMmdYVDdBQnpZaUZma3JDVnljMEIwcDdOcVJkdjNuUHV4c2s?oc=5",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "published_at": "2026-09-21T13:04:49+00:00"
-    },
-    {
-      "title": "執行董事徐雅欣增持華夏文化科技(01566)3216.35萬股 每股作價約0.18港元 作者 智通財經",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VdXBLUDNiZFhTcE9YSDAwS2tMNXFDb1FQUTJYa09CRzhtYzNqajlqWkI1dlpMdWZGMkNmai1HZVhUeFRTV0lhbnJFejRMT0htZVowZlduQUVEZ3R5WVN5VGpGNnlOXzVBRTRvQVNzZ3E?oc=5",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "published_at": "2026-09-21T12:42:08+00:00"
-    },
-    {
-      "title": "群益華夏盛世基金-新臺幣 的總覽 | 鉅亨網",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaFgzbnA0Uk1USWVpQnBqZmV1T0EtVFZYNjVlLWFFZ1RUMlpWcV90QzhTb1NhQ2hlNEtIb1VlTFlTNV9WZ0NncXZ0NEk2d0hkMWk3cW5tdUl0R1Q4OXlaeDhGUU9Za3Zid3pLTjVFQ3B4eHNhamFrcEZ2OGpKdzZzLXltOHpYVHpOMUEwNjFOQzVWQ0ZRRm5keExxS3J5UGktdWZLbFlBU2NOa0FQNVVkZF82UU1WTlVqRjhGTDVxVjJNVmRIaG1VQWJNbXFMVFM5cTRGeFRZblN1V2lEdTUzNzlGdk9hUGVPYXc?oc=5",
-      "source": "鉅亨網",
-      "published_at": "2026-09-21T07:00:00+00:00"
-    },
-    {
       "title": "2891 中信金- 退場的華夏科大校地變身！台科大打造微電網，停電最高撐8小時 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VVllsQnRPTEpyN0xIOVppTkVPZnV0NUNmTnV2VHRkcloxRy1lRTFKYmliVnhCR0tOeWFNSExDZmdBQ3A5NW9BQWNtT0E3dHpsMkEwb1B4eEE?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-21T04:04:51+00:00"
-    },
-    {
-      "title": "華夏基⾦完成⾸宗港元穩定幣HKDAP投資數字資產⽤例",
-      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNTkJJd1ZrVUk5ZDg4akxLd09Od2UycmtJVEQ1emVweG5FLUlhb2VpZ20zTFdaZjRpMFlPNWV4VzUzTHo0MC1RUldDbVZJZEtnU0tnWVp1dDRxN1Jrd2VGZXZKR1Z0Rk5odFBpRy1qbldaVzB1ekRvZWtlYm5hNXhCdDlja1BVdW1uaS1wTE9ocEJFa0xXQXJrUmllRnFtM0prcUlSRmlNb1ZCY2U4VDdEdzVCZnBFSGNieE5tYlZpaW50cHNhanpIMVZmTTNyTjdnNWxOSGlGOUFFbXM1UDJxNklubGNHamxMalpDeHVjYUdWcDVzNW4taTU5c3BPdGhLXzB2S3FhQmE5dFdfaE4yQWZCSGlSRHRxQUliYkFITGNfbGFCbGxxWWpLMHlyX01xcmZYdXYzZGdqSFY4QkwyRElnWHhjUUJNcU5CUUxuSG1fSG10cTJoTFEyZ0M3eEHSAYwBQVVfeXFMUEFlYnBNRzdlWXcxa3hYMFptZXY4a1ktdUVFa2NLTUx4MzlaQmRiOVpIZFhXa3lYVEVpWk9JaVNtNDh2VW1Xb2xKSnJOcXVLZW10SHYwWjVJanNYaldsdk9zZjBTSVQ4M1NGUWJNMnk5WWhJV1p0T1ZEdm5ZNGhqUF8zVzRGZmdJRW9OX0c?oc=5",
-      "source": "singtao.ca",
-      "published_at": "2026-09-18T11:21:23+00:00"
-    },
-    {
-      "title": "華夏基⾦伙渣打、OSL完成香港⾸宗HKDAP投資數字資產 (18:31) - 20260918 - 即時財經新聞",
-      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPR0tuMkhISnd6aFhEMUJScEh6OW1pVmNnZGFWX0NzTDFVVHNrSUhXU1Rua2lGZXBJMEhRVUE5bjh1aTBCVDluMDFReVhkWWpDb054S0JhV3N4ODlmd0lIMHJBckE3ZUVpUVRveEZFQzA1dE85Tnp6dXZaTGEzeU00Q1RiOExjSzY1b0VDdXM4ZGltcndKdFIycWF3QnhIQXhGdzBFZVNNMUVpUktENUxlQTRaeWJCMVBQak1tYkRPUFE3SXRrTWpJZ2lJSExZQU1DTzVqZjFibmFxN0l3Z1l2V01VbHVSeGNBUWFING5BdENWelZ4WVVMaDJrcWdPeDdCUllBV1lNaUlXR1VpWl9Pc0hCcW5XWnRTeVB5YjhEUDFfT1Bzd1RqU2phSGt5aTBOVEdzN0xpUDVMbi1maEJKVE9HTGhILVBYY2hIMg?oc=5",
-      "source": "finance.mingpao.com",
-      "published_at": "2026-09-18T10:39:20+00:00"
-    },
-    {
-      "title": "群益華夏盛世基金-新臺幣 的總覽 | 鉅亨網 - 基金老司機",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWXJ5ZndlU0ZVOVNKZFAtd21kd0ZYOXItcU9nNmNhRGMwVkRJQk5VWGVTU2EtLXlmM1hoQWRDX3MyeWQ1TnZ1ZkFRNkVSaWtUc0Nhb2RENXU1S1ZWY3UyLXZvdkdLb0xsUW5IdTZrRzI0ZXhRUEt2ODkzTDNpWlh0NW1HMXVBRjRnQkZNX1NGVUgtb0hHQm5hR0ltZXhTY1BZMUdvNHRNWnFJSW9kUFB0ZTU3RzFnc2Y2YWlyQTVuNXFLaDZtbExhZUJ4elFxajBtaVk4?oc=5",
-      "source": "鉅亨網",
-      "published_at": "2026-09-18T07:00:00+00:00"
-    },
-    {
-      "title": "300現金流ETF華夏 (516040) 新聞動態",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05UjNwaTY4OUlDVXQzWDJobEhBWXpZdUZyS25BZm55U2lka0VPSncyUGswMVhMQzFPdHFNZlVrQTloRGNhVEdNTWdJVGFoYldXenVyaWpGTHZIQkk?oc=5",
-      "source": "Moomoo",
-      "published_at": "2026-09-17T07:00:00+00:00"
+      "source": "CMoney",
+      "published_at": "2026-09-21T19:04:51+00:00"
     }
   ]
 }

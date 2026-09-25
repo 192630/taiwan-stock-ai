@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-24T13:34:25.802183+08:00",
+  "updated_at": "2026-09-25T15:35:10.513618+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1294",
   "name": "漢田生技",
-  "count": 6,
+  "count": 5,
   "news": [
     {
       "title": "工務處約聘人員涉收賄逾1294萬新竹縣政府回應曝- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5sTm1mREUtd19BSXVaLWdFMXJOeWh0U2E1NEtVQlJUemdOSzNYS195OWU2WVB3YlVpMFk5Skd4a2d1UkYwVEh2dFBVbG5lMFdRUnR4R0hmUVg?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-23T04:41:43+00:00"
     },
     {
@@ -26,7 +26,7 @@
     {
       "title": "《業績-食品》漢田生技8月營收為0.51億元，年減25.00%",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTHEtazktRDQxbEROUXlfMDVCYVpnallBTTlZbGZwTS03d3R0eEJYekZINjN0Q2ZEVUVfaW96YzFJS0ZaUnhfaGJmZzZxbW45czRzaklXWXpCZ3RYMEttUGV1aThqcTBIM1NrRWJ2MUdMYnl5WHNmRnNvUVYwQ0dxcU1CVnVkd2tP?oc=5",
-      "source": "富聯網",
+      "source": "ww2.money-link.com.tw",
       "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
@@ -34,12 +34,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZNERNVUVSalFPWHM1MTBZSmFYMmwycVNNdHRNcjdZMmpINkU0OEcwUGRtekxZaEZmTldBQ21SOXdZQjU5VktnX1NUeFA1ZDFPVk1Mc0UwMjgzVFZr?oc=5",
       "source": "sinotrade.com.tw",
       "published_at": "2026-09-01T07:00:00+00:00"
-    },
-    {
-      "title": "漢田生技受惠內需消費回溫 保健飲品代工營運穩健",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qbHhIdlVFd0RHQUxETGR4a3N5SXllRXhlWDVMV2dTdElzdUI2RGVrSWNrV1N5Z3h1Q2l1OFoxa1AwRFpxNVBWd0lrU3dIVU5R0gFWQVVfeXFMTTdlMmNjb19KOUVlR2pQbTZCQnRsZXNRMVA5bDcxc0RLYVZhZTdiUGtlbXROd0lvYWpReFZzMm1MdjkxaFJFSTUteEhpZmFHclloaHJidlE?oc=5",
-      "source": "UDN",
-      "published_at": "2026-08-25T07:00:00+00:00"
     }
   ]
 }

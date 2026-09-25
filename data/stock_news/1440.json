@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-24T14:39:41.404066+08:00",
+  "updated_at": "2026-09-25T15:35:33.874028+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1440",
   "name": "南紡",
-  "count": 8,
+  "count": 9,
   "news": [
     {
       "title": "【12:11 即時新聞】南紡(1440)股價走強 聚焦資產活化與AI園區進度",
@@ -42,6 +42,12 @@
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
+      "title": "【2026/08月營收公告】南紡(1440) 八月營收10.5億元，營收雙減，年減4.23%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaEVHZWhBMEpZdVo0eE1WdUkwUmZUMEtubnZCTWZxdmhBNHl4cFUxRUt1Z1p4SlNCaFZETDdFemFnMnhPeTRkYlc2aDE1X0xDUEZKOW14aG5ZOE1wXzVuV3VZQ2l3LWNZUWVna3dZTFBRQXFIMU1kYWFuMW1uLTVPdXRkQXVQY1VINWc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
       "title": "【12:12 即時新聞】南紡(1440)股價小幅走強，資產活化與AI園區題材＋法人與主力同步偏多支撐格局",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWEVhV0lGUVJRLW8wd0hMM1JPTC1iS0JFZXFlSF9RWTBCaV94eFpMWXhyUzdHaDZ5bnFEQnUya0ItVHZFOXZrQ3hydlAxSUROTW5jWGhPZFoyZnVWM3ZoNmQzZEtvUklOcnhSRkVpRkV6YTFDSzJiWUtxSTdneUM3RklKQ0FzdkhCOHRrVldB?oc=5",
       "source": "CMoney投資網誌",
@@ -50,7 +56,7 @@
     {
       "title": "《集中市場券商買超比前30名 3-3》南紡(17.30)、科妍(16.74)",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV1VxNnNTcDVEM1YxZnFuR2V3NGJOcDB5MWRoc0hraHhiQngxbUFuYkdSeVZQQzFuWXZ0VmhuSWhUOU5XOTFTVXdRTU5BcmVOM2xBTGNSd3NVNTNHUFRtYVpRUGdMUHk1V2owLUxJcVdvaFMxaThkUkk3TkwxMUU1dlA4TnBFT3hR?oc=5",
-      "source": "富聯網",
+      "source": "ww2.money-link.com.tw",
       "published_at": "2026-08-31T23:29:00+00:00"
     }
   ]

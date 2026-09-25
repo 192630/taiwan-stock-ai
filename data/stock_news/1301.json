@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T13:34:26.733905+08:00",
+  "updated_at": "2026-09-25T15:35:11.436667+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1301",
   "name": "台塑",
@@ -8,14 +8,38 @@
     {
       "title": "台塑(1301) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92T05xVTBxbnhYX0psT0JpcGx2eDJlYnhOUV9nWTlhdFo0WllkczFLV1RYbHpmNnBZa0xQVzg1UzJBVEhHOVAyUXJKalBYdjdZVnh3?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-24T02:36:39+00:00"
+      "source": "CMoney",
+      "published_at": "2026-09-24T23:01:19+00:00"
+    },
+    {
+      "title": "熱門股》戰事推升油價 台塑爆量上漲",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRcGZqenNjNy13bHNzY180RjlNVnhsTHllQmFsV0R3X0VnQ1FlM2dVS0c3RW1CZDVRNmJMMnlIVldRbXZIaW1PX05VU2VCQUNXckRMYUZ4ZWM?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-24T20:58:04+00:00"
+    },
+    {
+      "title": "台塑化：向台朔重工斥資3.06億添購生產機械 以因應業務需求",
+      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOb2tvZDctOS1vdXFnaUJiOU1lb1NPck9ncDh6c3AwOFI1ZjJyelFMZFRQQ3NLcnFjdXhmVFpqOTdrbFA2RUl3dXZ6X1J1aFFaZ0oyb1hlX1NOcWdreEUzb3RaZjJSZG1heXoyYWh3SEJibE1KbmNETVd1TVRpVVJBTlFSNWx3OWZaSjN1eEJmbEc2RzF5Q3N6dndiamFFcVoyNmk3cGwwUGE5X1JFTTdhXzFlX1hZbXhPYzZTR0pRNV9jaTJDN2VneUhaOElkdklja2w1b1Q2Rk80Qlp1QmJqRHhKLWxfX0RLLXBFU1ItQjhtc1V4YXNDTzVkdlRtbjRDVHZGeFJ6UDEwQ0hhd1E4aVUwYWpZRHB4QkgwcENoNFJ5eG52M0JSR3JyQ3RfcVZYR2hyZEx1NTVrYlNDU0JDR1BDczdGS0lldklWeFJndUZLMEM1cHh3bWcxNi1OWmpuVjFYc0JXUXhVcEwzMXIyczA0dkFBcmxBc0Z0eFQ4MkNZQ2o4b2c?oc=5",
+      "source": "Yahoo 財經",
+      "published_at": "2026-09-24T11:48:02+00:00"
+    },
+    {
+      "title": "上半年獲利超預期 台塑四寶目標價調升",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkTXFXT1hkSkc0UEljYVJFWG5jNVpqMU5tUUQ3UEJ5WXBULW1SSk9kY0tjdnhkNVh4QU1yTjdTR3ZLQ05nSlRzbDBEMWJlSHVlTVB5ODZpa04?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-23T22:45:53+00:00"
     },
     {
       "title": "台塑四寶又有新題材？台塑化、台化最新目標價1次看：他今年EPS暴衝800％ - 上市櫃",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPY01HSXAwUU9VclZZYnlicVBtWDBDUGs2Znc5emJVWVhNV3hwR2o1dkJhSlFuZmZCYXk2VDlvSWpJM00zUnlVbWlfeWFuZXB4R0RBbm05THZpZWczeUR0Nnp2VFVHZVIzOEE?oc=5",
       "source": "旺得富理財網",
       "published_at": "2026-09-22T21:06:37+00:00"
+    },
+    {
+      "title": "台塑化早盤逼90元！從30元一路飆近3倍 股人阿勳曝原因：現在買台塑四寶需很大的勇氣",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9lbXM1dlJKbkhNRFJQSmFrY2NIa1E3NVNTQ2w3d0hzTmlNcHA5Vk9tS2NVN2gxSDFGYW9EV3lsN2ZqMmRBUVNGUEVhTQ?oc=5",
+      "source": "FTNN 新聞",
+      "published_at": "2026-09-22T07:45:00+00:00"
     },
     {
       "title": "台股盤中噴新高！台塑化破85元能加碼嗎 股人曝指標：買進台塑四寶需要勇氣 | 李瑋萱 | 新聞",
@@ -38,44 +62,20 @@
     {
       "title": "股價還低於淨值！不是南亞、台塑化「台塑四寶法人最推這檔」...目標價喊上75元：現在是超級甜甜價",
       "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxNWWNEekhEVTFaeFBPV190amRjX1daS2taYmV6NnkxeVd6NGc3QmdaczBjRG1wZmlMMWZ4YkhLdW56Q1ZxLVh5TXJlQno2YlRJM3J6d09QcUZPMTBBYW02eG5EREhldXVxWjdCQVhZQkJabkZrWm5oWVZSLXZ2Q3NnU3ZmZFVIMVZJLTVSVDM2Q0psZElRWVFqazRycDVHZThHRk1wUVdRN0RRZi14bGEybHlDX1lpdXQ1QjZzZWxhQk5ieEZGWEtlX0FCS0k5QjdxM0tVRjF2RUl5R0htUVBzem5LSDVlV2dISHNZU1o5STJXM1lRTWxZc1c4RWljZVE1VW9WcV91X20tNWc5bWxGWjVnRUhFTDFBNW52QzJhaUE3aUVIRU1DWk5xM1RocllhNEJVRTZGNEcxU3o2MUI1VUFxY2tWRUt5RE50b2RWTGZFT2RIZkZQZnVTYUpCVW9PaE9KRFdGVnlWakJoWmRTUnJjNVNwZFYtV0lIYWpqdkhzb0o4dkpBYUNjTFlOWVRwZnVUTDFqektjRl9pcXpLWGtDVW02eUtnZGR3TTh1SUxDS0FLZUZuN3pFOFd5Uy04QTZ4eFRNX2dtUEE?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-18T03:01:29+00:00"
     },
     {
-      "title": "6505 台塑化- 股價下- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ma3FDdmRXTEF6aHNjTUxLUGQyMUp0VHpWT2lkVHllQjByVWRxMW9LVVJVcGhuaGREZWYwZmZiSzJGVWEtbUE4Z0FwVFN1TlZISVN1SmlYMHk?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-16T04:33:22+00:00"
+      "title": "台塑化、台化 認購紅",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fY29xQ2FTSE82T1h6WUxQRnJqVkFOZjhHOU5DcElla3c5bXRJUjczWDNIVUo1MnpRbFJkRmF6cFVDV3BEX3dBd21JbXhLaG84dGtoTzhzTWk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-17T22:51:37+00:00"
     },
     {
-      "title": "原料漲價 台塑化、中油利多",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fLS1zLUIyVGJGNmxfa0x0MU03aS1yc0NrdDBNcVRjZnZqbWdfZjFLZDhBYmpyX1NRWlJ6dUlfbFJyYzdRV1FYeklZaXlTTmI30gFWQVVfeXFMUFFzeWRXWTdYM3VzRHRpSV91NWY3YnhfQThNNWRKZXNuT1hyTXk0c2F1a1N3RE5xR0NJWGE4Y094Qm1ZSkJmanlodm5EVVhCSzNlRmRUU3c?oc=5",
-      "source": "UDN",
-      "published_at": "2026-09-14T07:00:00+00:00"
-    },
-    {
-      "title": "南亞賺進半個股本 台塑四寶上半年大賺逾千億",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GRGdqc0dPVWpFZnJ0Wk00NkZndG5zRWJ1SEdhZTdhTHktRHRxcEhPV0hLLXJ2bzRLSFNWVU9DcFNtbTJRcmpuaDZxQV9FUWdFVkJFcEhwRVo?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-13T18:55:56+00:00"
-    },
-    {
-      "title": "1301 台塑- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80cmRwX1IyU3hTRlVlT2Izc1Fub0xFUTBOZ1l6V3UtZ2NjVFN0bnd1eFRaR1hPcUh3SmU0UExKTnBzN3R4bnI2WXZYemlRRVhSY0RxZDFYN2M?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-13T03:26:39+00:00"
-    },
-    {
-      "title": "台塑、國喬擁漲價紅利",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CeTQyMjB4T3pYcDNnUTlXS050OFQ5aENyRGZYLU1jNWVvUGFBRXA4Mk90SHhNY0R1MVNEcFhrc0d1MktkM0JHSnBjenFaemdS0gFWQVVfeXFMT05oRzlyZ2dseHk3SFRRQ0tYT3BqOExaRlhPMWJVaHdSdVNyNm5yTnZLXzJJU0gzU2V0Z2dFNWZDTUdIX1dQdERDaVFCbGs0VlNsTERsS2c?oc=5",
-      "source": "UDN",
-      "published_at": "2026-09-12T07:00:00+00:00"
-    },
-    {
-      "title": "《台北股市》台股重跌測試46K 台塑化擁「油」自重",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUjBjVzNNUUtzdU5mTng3VWRWZzFLTDJQUTFzdjRTSktxRXQwNTA1RzZqbjF5dDl5OUpyYWxhcXNRVmxIRWpKdGRlWWV2VWExdEgxRVRYQUNKWWpQUlNWdUFDdkliLW52SExqZXE1T0QyaU1lSkVTREd5TnkyYV8yQlJnbk5obW51?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-11T07:00:00+00:00"
+      "title": "台塑化(6505)股價曾到 100.5 元，裂解價差放大與股... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qdnR5eDNrOHVxcS1lU2lUWXkwcFBFb05CQ19qR0p2dm9TcUhSbUFSNnFwUnlWX0doTlM2MXRidVdsbF9EbWR5bjZvSDNNWk1sZVRLV2JWbnNxUi1hNU5XSWhteEpoUnZpMGdUaVpBWUhwSlJTRXh2ajRndw?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-17T05:21:43+00:00"
     }
   ]
 }

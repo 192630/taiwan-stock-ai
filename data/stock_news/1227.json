@@ -1,51 +1,39 @@
 {
-  "updated_at": "2026-09-24T13:34:20.141751+08:00",
+  "updated_at": "2026-09-25T15:35:04.840711+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1227",
   "name": "佳格",
-  "count": 7,
+  "count": 5,
   "news": [
+    {
+      "title": "1227 佳格 - 樂色促升趕羚羊 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93dlVZZ3loajIwVk5DMmRoVFVmclFEbHN6aFd6NVppX0FBaVVtaTU4SU5YeDR2ZlhVTi1pWDVlOVBXVnVUOG9PV1U5bXh3MGQ5R2dsQlF6dkI?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T21:26:52+00:00"
+    },
     {
       "title": "1227 佳格 - 趕羚羊樂色 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05S2lMUDNDMDJzelpvd2VVSngtbXNzWTRJSmtzTnNDY2ljM3pjVG5OQUhrZ0dOa1RmTWdDUS1kanNqUVFwY09ObkFweEtSbU9xY0FHNC1CaHA?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-22T10:31:38+00:00"
     },
     {
-      "title": "佳格迎40週年推數位互動體驗深化營養教育| MoneyDJ理財網",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43V24weTloamd1eXVvemhlZnlwSkVRZ0YzckJBQVp1TFBTcFJLTXFib09LVU1YNV9LSmJSZmNXRFA3TnZsVTBKOW1JSkk0UFNzbXpJMmJR?oc=5",
-      "source": "LINE TODAY",
-      "published_at": "2026-09-17T10:08:11+00:00"
+      "title": "佳格迎40週年 推數位互動體驗深化營養教育",
+      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQa0p2TU1LM3ZyekExUVZCbVFPNkdPZjdjY19rRVhRT3I5SjllUkhhTnZSZWtfQl9OWGM0MTZueFhmbWNnUzNFS1FmZExqT1YycUdBd0VLdUdpakpRVFhidjEzQk1fUjVydHF6c3IxVDF5Q1hIQXQ2Mjd0Szk0OW5yd3E5Smh1Vk5oRTJkbTNHZFZ5aldseXlOdGI4bW9fOTJ6bV9heDFJdFBpUzNuX3dRbjBnY0p5VWZPb2VnaWtxSXRCNUZhU1RjZjRXcHNfODhyc1NFb0ZnVjNEeEswbHJ6MFg2V09GNFYxY1FPdEtkaFdoTWFGd3dQa0swdTZ0NXJVUk5WTVg2ekZOalJINzBQOTVxSzl5V09QQk8zZDVVNC1Hcl9CNVc2X2ZPOEFxUW4ybDRZRm9tOA?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-17T08:38:00+00:00"
     },
     {
       "title": "1227 佳格- 台中會展中心二期展館統包工程簽約宣告啟動- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPdnpMeU1qdmRxOWJ4MERteEpLenViRjNIME90ZmtGVU5GSGxfUjR1OFZ1VmI0Qlo2UmFYZy16eWhacGxZN3VpUl9yREI2c29sa0d6R0xaM2U?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-14T08:16:39+00:00"
     },
     {
       "title": "1227 佳格 - MoM+26.3% YOY+10.7% - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Ua2ViUG9HQXdEMkxuNnBxWTJVSW5uS1ZCYnhpbXpEUllIQ19NanJBbENMeVhKLVl6TzYtdHVSdjJvdWgzbWRHWVU2NHpkeHFfMTVZVl90dG0?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-10T06:01:22+00:00"
-    },
-    {
-      "title": "佳格鎖定兒童營養需求四大原則布局新產品並深入社區",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKckFDV2kxaEh6bzlHRmtBMmliU29FNFlHMjBxVmdPREYxQ2FMQ0xVc1RJalpwRmxrMDNCU1RuaFJXVndqRzFXSDdmaTZ1ems?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-08-26T07:00:00+00:00"
-    },
-    {
-      "title": "少子化催生精準營養商機 佳格40周年深化兒童布局",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IZWZLUGRpVW9mZ3dkdlZZdzVvNjdWQ0ZjUEE1OHVXdkJDeU9GWVJNZ2kzb1FRdWpoLTZrWktfVDBGeEt6SDNfdERZYjZxNDE20gFWQVVfeXFMUE1Gb3lSTWtpS2UtRlpVdnRudVUtX2lrMXItUHV5V2JVZU1RWFktX0puRVlaMUlZbUpwZXQtQ3dNZ0dsVEtOeFhtWE5ZZzhtazNEbzNET2c?oc=5",
-      "source": "UDN",
-      "published_at": "2026-08-26T07:00:00+00:00"
-    },
-    {
-      "title": "佳格續深化營養科學布局 搶攻兒童營養市場商機",
-      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQV0dQTUFNdG1kNkN0WkJaeW5MamVjaDVmWVlxdzRwUmJ1LXljbHpJTGlScWJWaWU5S0ZXS2Q5M29tWmVpaXVFVU10ak9IclJXTXVVLWJ6bk9CTEtYTTRnbEE1cUV6Ymw2cTZiZmNXSHd4SUJoZXRwbGdVYkpQWUtUSTljUjB6T25TZDBVOHhJeGpPVV9fY0xsYkFUTTF1X1IyUlNleEptM3JibkNtRFZ6enhwNjJyWkZVMTRmRlJwSnd0cHVSOFAtRlZNWFpROFdmQ1A2MzJ1dEtFSUJVZnc1TE5mRmRLN20tMEZMVDdKTWdWb1BKeXVXdzRHVnZJbjRTcU5FWDJtUWJwdWJaSzMxaHhpRU1MckRhNGlfYU5INFdFQ1NUQmtTR2toTE1laTJxS2g0NTVSMkpQZ3lOT1FqaUtiTTgwOTJVclRGWUJJaEs3YWJ1RTFSeg?oc=5",
-      "source": "tw.stock.yahoo.com",
-      "published_at": "2026-08-25T07:00:00+00:00"
     }
   ]
 }

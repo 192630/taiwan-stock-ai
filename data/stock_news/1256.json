@@ -1,50 +1,38 @@
 {
-  "updated_at": "2026-09-24T13:34:23.919319+08:00",
+  "updated_at": "2026-09-25T15:35:08.617024+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1256",
   "name": "鮮活果汁-KY",
-  "count": 7,
+  "count": 5,
   "news": [
     {
       "title": "1256 鮮活果汁-KY - 《DJ在線》建構雙生產基地，果汁雙雄添成長動能- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCVzlramlXcVFfN2xnVGdhaTFHcGljUlRSOUVmMm5Kb21oR21WYjVDenNtMkFZMVkxTnpnaE01MkdiZHM5d2hQOTNhNENtZFlNWEk0T1U1N3M?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-21T06:08:02+00:00"
-    },
-    {
-      "title": "1256 鮮活果汁-KY - 金利食安不演了- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5INHY0cTVKWGxlOEJrLXRjZkVRajdpZktyNkpFWS1ZZmIwSm81Yk01bFpmSDM4S1Y4WHlFYTBTYWZ4b1h0alkyT3VTNDhIM1NjSm5hX0IwUjk?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-16T07:25:02+00:00"
     },
     {
       "title": "鮮活果汁-KY 8月營收創歷史新高，連六個月雙增",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xSWdzTXhLOG00S2FadkU2R00ySGNULXRjQmlEXzNmbm5iWkxvWWg3cFdQWGI4ZkR3RkJ6Mm8xcTU5bkZBOE9VRXEyakotWVpMXzZ6MlFlc2I?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-06T07:00:00+00:00"
-    },
-    {
-      "title": "鮮活果汁-KY 115年8月營收6.49億、年增25.55%",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VX0JYczRoMklmN1dCQ05XTmxwWTljeklFejNqVzhoSlViaHpSQTJ0anl5Q0xnSFZqMHYxMTdhN0lldk0tNE5mcld4bWRJUXZFMnhZdW1Ldzg?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-04T07:00:00+00:00"
     },
     {
       "title": "1256 鮮活果汁-KY - 好冷.... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1CVGszWVlPSXdzbmpFQUZWdzlSdi1MVUhZakgyS1E5V1JKVjJfZUlaQ2VibVhnSUJsNVNlUG5qMDZTWlVUZGxNU2MtU0hrZm5qRHJ4QTRQbDY?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-08-31T07:00:00+00:00"
     },
     {
       "title": "鮮活果汁-KY H1每股賺8.98元；迎陸消費升級商機",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwa2k0LWQ2V1l6OGNGTDJqQmZGSEk5N0FuOVJ0NFo4aFJveWFzQy10dDFZby1Oa3dMcXJNVXZ5Si1YcEJLdzU5MG5heWhSMldkM3VfVGRGQkY?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-08-30T07:00:00+00:00"
     },
     {
       "title": "鮮活果汁-KY在Q2賺回逾半個股本 上半年EPS達8.98元",
-      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQU1Y2ZktsQXBtb3Y1WDBrMzFOVzUwekxBM1ZMRlNUbFhXNnNjX0xNQk5vbnR2dUVfeFhiRlhHSjVfQ1JveDY0dFVIS2h3OXN0N3JpWHRlZENmbVVBYWZmcXRjVzdLNFBNRFRjSjllckFxVDN5QjllZXhTcXF0SVlpWHVFRTM0WWVrNHR5RDdXWXRLZE03VEhsYS1wRUhuM2Jkb0tLWDJ6VXhURUlWWmdySWdQSnhCWnFtSjZ6Y3NqZ2RqcXpLSlVmWHpLek5rWmowLUM4MHd4dW1qQmttdF9wYTRUZEVzZ3dtbFlUbHE3SE5CejJCVVgzZktYOWtlNVFZbnRIb213OXZJMVlSMU1BaDBuMUhWSFJyNVNfNkJUTDMzMFRKeEhUa25HckFxX1N3S1JyZjkxTmo?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80aEc3ZVhZR2hWMXpRWEpWVzVGd2I3Y3Z6Mk53LXlsRUtlNTNsQmlMWWs2UWlNNkJBLWtwNEJiUmt3RGNMNnBta2gyUjZXbGc?oc=5",
+      "source": "news.cnyes.com",
       "published_at": "2026-08-28T07:00:00+00:00"
     }
   ]
