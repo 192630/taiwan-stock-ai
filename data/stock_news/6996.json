@@ -1,27 +1,33 @@
 {
-  "updated_at": "2026-09-24T08:40:46.933237+08:00",
+  "updated_at": "2026-09-25T10:35:04.901665+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6996",
   "name": "力領科技",
-  "count": 5,
+  "count": 6,
   "news": [
+    {
+      "title": "中系車廠需求佳，力領科技TDDI已出貨前裝市場",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOWDR5VFdocWptTnJkNVJBQTJZckZRMUFZYnlTUVZkTzExOFotNmxLX1NIN2F6VHFBejVUQ0tEeWJpZDlHRE5QSkxORzhrTmNkVERTbzhVcTRfNEpPTVMtUDhKTUhJc0ZMV0s3SzhRbmc4WVdfQWN0TlpHS0hkQlVVNjdJY2t0V0VkTVFMTWw1aXZmeHV0ZXFBeTYtX0hZQTJnUFVzd3Rva25QTWltLXZhRV9YNE1NM2lMaXpyRGdYaVl2TVd0Qjd6TE85eU0zemppUVFCQTJ2UjRlQUdBNW1tRTZheUY2UmZsNFpCRTNScHRpRHE1OTgtaXNSMEluQzZPMk81YnBTWk1XX1dXS1VqU2ZDYndZQXJxZW5pZW1Oa0tjelZmclpxcWhiRHVsZmdYSmFKamUtS2FtUQ?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-24T02:32:15+00:00"
+    },
     {
       "title": "【09/22 申報轉讓】力領科技(6996)經理人郭文源於22日申報轉讓力領科技股票340張-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMVB3cHBLQlZBVmFNaGp6YjV3a3ZlWVh5OGJ2MHpSNXQ0ZVRFaWRTQi1CQ2Rwai1sRDZyZ0hBWENlUHNSMUdmRG9aNmpFZjlIRnZ3MFM0aUdsNzBFYVRfT251aWFHUzBuT0lYNVdYN2ZaNVdmTkh3eWhIWWRoWHlwSXJOdWd2VmtPRkE?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-22T13:10:07+00:00"
-    },
-    {
-      "title": "【09/22券商評等報告彙整】力領科技(6996) 今日僅1家券商發布績效評等報告，評價為看多，目標價為215元。",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeVA3SENUQWZhRW9MWDFXVUg2WjAxcENxRnFVWWFxNHM0T0Q2d1RVU0lmQXUzMDNVNW1HcEg5Y1lLOGFvWXBvNGo5OHAwOG1HMTFGeExFZDNqc2kwRy1TQ2x2SVpWWHhmQWxMRUp2bzM5OVNmdlo2cVEySnNMYnJDSjVhZndjU3pVSUE?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-22T10:50:07+00:00"
     },
     {
       "title": "統一證券剛剛發布了一份力領科技(6996)的券商報告，目標價為215.00，多空評等為看多",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uc0x1cjNXZ1c2LXNWYWFDMzQ0TUNBWkhiNncyVW12WTdua3I0cGxRbktTbEpCQTlHVEVXSWZQWXpqN191elZiVzg5SmRmZXBuM0E1endIdFI?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-22T06:24:36+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】力領科技(6996) 八月營收月減年增，全年營運續看向上-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSUt2bXNTMzVzdENJTURpMDV2ODNGNEI1QUlaNk9MUEdiX3Nod0xWRjhnRFlTbDJvendCdlpRZHdCM0d1czhadkg3VDhGVFR2Z19BbG5hWTZjeUtnN0ZseUhSVHhKWVRBZzJLbXBSbFNjbVdkM29UaWJocUQzQTUxRV9PalRLa2RjVGc?oc=5",
+      "source": "cmnews.com.tw",
+      "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
       "title": "力領科技（6996）營收連續增強在低價位，可入場嗎？",

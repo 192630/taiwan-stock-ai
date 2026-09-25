@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-24T08:40:42.800694+08:00",
+  "updated_at": "2026-09-25T10:35:00.879316+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6965",
   "name": "中傑-KY",
-  "count": 4,
+  "count": 5,
   "news": [
+    {
+      "title": "6965 中傑-KY - 中傑下半年審慎；日系/戶外新客戶支撐中長期動能- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBTzJ6M0xueG1DcU1KaTFuaUNPVVZBUVYzdm4zTWtIQnduLTZWYllkaXRVZHY1YlRBNTUzejBqd1ZtdExSZUVzNnZ6aHFIWEhjWm00SVVOTHo?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-11T07:00:00+00:00"
+    },
     {
       "title": "製鞋廠中傑-KY擴產仍以雙印為重點 估2027年毛利率可望獲改善",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLQXlrVzJZV3FtdDZDT1JqUmRMbEV0MUxfemlUd1hBVTJEa2RXdGJBenh0a1hYVWR6Z1c0cG5ORUloRThrMC00Um9CeFkybHM?oc=5",
@@ -18,15 +24,15 @@
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
-      "title": "製鞋廠中傑-KY第二季營運加溫轉盈 上半年每股仍虧0.35元",
-      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOb3h0TUNDOFlLMW51d3hhSlFBQVFFMzU0MVZiT0dSVFh4aTZPbFhtZllTM0pyaW5UQ1U4R3gyVUtIRzNTMTFuOGEyTldfamhkSW5aOUxmQmlYTXZkeWh0STdaLVk4U1hUdEdUNW8yRmpiYkNHU3hwTW1BZ3pmR0pxYmd2ZXdwM0ZDa1RHdGU4RVIyRnlxU19fa2t6ZmFCenN6d3RkX2NGaTNNTmFIaDlHM0JYZ282MUp5WUdDTDV1UW5zSVVIamlGemtjdF8yWFYteUlmemwxVzZwN0NFNkFLb0FDaGpMY2pXWDdtRzhweDZ5OUhaS0NFalJxTG1TQVlUaFRUajNMb21wM1A2cjF6UkJXaEtoQV9tYkc5MjNQTkVWSnhSR05uak1WYThySUNYbFhXN3lwZ3U1eExvb0tja09JQXNGQkZabklYXzlnWDJIUktSUFBLRGxQSW1yd01FQk1zSUoyMGFxeUNLSmc?oc=5",
+      "title": "New Balance製造商中傑-KY上半年每股虧損0.35元 保守看今年營運",
+      "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPSXNQbVhpcW5RU09LYnMxcmdZaFFqc1Ezc0pTWGw0WlBLYzdvSUJxQ19SX0xKSU1DcFJ1V08wT2kzN0JQNlc1a3V2RnJCSzJvaGhwS0otSWJYVF9BekdWY2g0Ymp6ZVplM0NrOVNQTFJUUFpCaTNtSXpVeUhSOHY5bUxWb1ZJMTBvbU50aXNDZmVHUkQ3RUEwcmIzbFV1NHhIaDdSY2dWaVEyQ3lTQVRlTEJvZjR4YWxrQlJCcGNsYWxxb1FqajA0VTBhN3ZYcVdadVhBc3hlN01zT0dBSDNWUEYwVG9yM0ZxaHV4V3ZCUTlqQm9JMWd6NEQ0WUtwMXBZbkFkTlFNT3l2Y3JLb1ktMWlwNmZtOXhDcG1iT0ZlQmxRSEdid256aEFNV0FYbUxfRmhHZXBWb1hCa0RQOC10dWVKcjhISlhFelBKQy1qeG0tRWFfVXJJeDNSdkZwdU9FWGFn?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-08-28T07:00:00+00:00"
     },
     {
-      "title": "New Balance製造商中傑-KY上半年每股虧損0.35元 保守看今年營運",
-      "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPSXNQbVhpcW5RU09LYnMxcmdZaFFqc1Ezc0pTWGw0WlBLYzdvSUJxQ19SX0xKSU1DcFJ1V08wT2kzN0JQNlc1a3V2RnJCSzJvaGhwS0otSWJYVF9BekdWY2g0Ymp6ZVplM0NrOVNQTFJUUFpCaTNtSXpVeUhSOHY5bUxWb1ZJMTBvbU50aXNDZmVHUkQ3RUEwcmIzbFV1NHhIaDdSY2dWaVEyQ3lTQVRlTEJvZjR4YWxrQlJCcGNsYWxxb1FqajA0VTBhN3ZYcVdadVhBc3hlN01zT0dBSDNWUEYwVG9yM0ZxaHV4V3ZCUTlqQm9JMWd6NEQ0WUtwMXBZbkFkTlFNT3l2Y3JLb1ktMWlwNmZtOXhDcG1iT0ZlQmxRSEdid256aEFNV0FYbUxfRmhHZXBWb1hCa0RQOC10dWVKcjhISlhFelBKQy1qeG0tRWFfVXJJeDNSdkZwdU9FWGFn?oc=5",
-      "source": "Yahoo股市",
+      "title": "製鞋廠中傑-KY第二季營運加溫轉盈 上半年每股仍虧0.35元",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9PRXNDWV9FUFlZV3o3b182YkZWb2p3Z0RNSGRIT0toMms4YkVqbm9zQ1NXQTBrUDV5MVZEd0JpZTJSZXctalgtZ2tqMHFjcHc?oc=5",
+      "source": "news.cnyes.com",
       "published_at": "2026-08-28T07:00:00+00:00"
     }
   ]

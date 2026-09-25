@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-24T08:40:40.694905+08:00",
+  "updated_at": "2026-09-25T10:34:58.704701+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6955",
   "name": "邦睿生技-創",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "FDK Corporation的Enterprise value to EBIT forward – TSE:6955",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU0l5amFkSTJxOHg4TWRObkZjSmtOdnFnUmJuWnRORFdQNWJPNDZ3S1RlTURsVTZrVjJtU2R6TGV5WXhyV0VURmN2V2pXcGRBWE1GYzM5QVNxTFg3dE5mUnphT2VFcVdpX2V0b2FDOUpBQ2Uybm15bGJ5RThFYWdNS1VXZDlYOHdLT05fYVAwcmFNaXI0WVhGVnpiVWU5TjY0dmtsQ21R?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-25T00:08:41+00:00"
+    }
+  ]
 }

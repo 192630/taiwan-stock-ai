@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-24T08:40:41.533349+08:00",
+  "updated_at": "2026-09-25T10:34:59.616780+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6958",
   "name": "日盛台駿",
-  "count": 3,
+  "count": 4,
   "news": [
+    {
+      "title": "日盛台駿 代重要子公司日盛台駿國際融資租賃有限公司公告重要營運主管異動案",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NSzlfOTlwVFVia25uSXZlOU9WX0VRR2NyVTNYS2s4UmNkd3JEdWFjRjhSNTk3bkxIVldyQmlMWUpIa0pfcXVWVWVSVDk4Um5yUWstVTFVU0o?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T10:32:03+00:00"
+    },
     {
       "title": "《其他股》超額認購240% 蘇州日盛台駿12億人民幣聯貸案簽約- 上市櫃",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5taWI0SFFJX2gyeVFNQ0RodUw5V25MTllIbXdRbmtlUC0wUHFTMVFqaU1NZnNlT0lBd2wtWi1lMTNCbnZTRTIzLUhsczFlM2Q1VzJLQjFxaDQ3YjY2OEpFUThkR3BmTjlMNFE?oc=5",
@@ -12,16 +18,16 @@
       "published_at": "2026-09-22T08:38:20+00:00"
     },
     {
+      "title": "日盛台駿拓中國業務，子公司完成12億人民幣聯貸",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQVl9Rcjk3b3ZqZUZiZlVlYlBWMy01czFoZFBhc1NvbEpmWThLUFN4Skk1WWo0elhHTWMtbTh5MEdKUGktVjdYUTRuOWdyUVhITGktMDZlcXdISWRFdzk0UVhLTVNpcG1WTldGcDVUOVFiUWlvYzY2QUJTbTdSaGRMZDZMdlVRUHh1M2lrUDUyZDNzUy01N0dIVWI4TzEzTThNSUNGLURjWTlTOUZXS0lxcEZvbng5YVJPekdEMDdvbTU2NTRfUjljVjdQREg0WG9ZV2R1SGRwdnRkS0FTLUVianVDVC15SjVtNnAzWV9rQ2hRZWE1MUlvRFlBcHNGaUktQlFWN0pVR1Q0S2VyeVhfRl9zSVdiLVdBRVNqYU9nSXp0aXRfdGh1bEJNZV9LcVVyV1BKWUw1eGIzdGlhSDdNdWxoU0lVVHpHNTJNZDloZw?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-22T07:42:56+00:00"
+    },
+    {
       "title": "日盛台駿國際融資租賃獲銀行團人民幣12億元聯貸 超額認購240%",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92SC1FV2Z3VnBJMDhuc3hoTG1ZLVVMVHdjMXlUaC1odXdsZjljMTV0YVdNLWZ4V0VZbzBrbFBmajFlVnZVZTI0dlQzWGw1ZVk?oc=5",
       "source": "news.cnyes.com",
       "published_at": "2026-09-22T07:32:39+00:00"
-    },
-    {
-      "title": "日盛台駿拓中國業務，子公司完成12億人民幣聯貸",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1SdUF3STA0elFtalJpcGl2aFdOX2p1TDVlVWVzMW5JbEc3VnN5S3VJYWg2QTV0SlFaUWU2dk9ZUnRyX0ZuLVRVd1FjV2lzUXAycXVBSE1Lb0Y?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-22T07:20:53+00:00"
     }
   ]
 }

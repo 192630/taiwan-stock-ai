@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-24T08:40:27.226580+08:00",
+  "updated_at": "2026-09-25T10:34:45.312819+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6902",
   "name": "GOGOLOOK",
   "count": 12,
   "news": [
     {
-      "title": "【09/22券商評等報告彙整】GOGOLOOK(6902) 今日僅1家券商發布績效評等報告，評價為看多，目標價為300元。",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYWpIdEhHU3ZEaFp5LUc0a1VGSlRRaHBubFFOVFU0ZFFwTmtpNlctVzNab1VIbUNNUHpyaGJNX0RZV2pOWFIyMmdsd3JIRVhfYXMzTEFWekxacXFLUHh3VDV4RUtvM2xSUjhfdTh0dXBPaUFjaFotaFZoZHppZkNsQ2pYLVB2ZGNRTEE?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-22T10:50:08+00:00"
+      "title": "【10:45 即時新聞】GOGOLOOK(6902)股價走強，市場聚焦防詐與AI成長題材",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYjZFLXl4TXdhZFBBeThQRnVYYmRCSngxeXljYXhZUDQ1VE5tQVo5aHF1SFh3dE9VQWlXNEZIUW9zaW03cDZmcGFMeUQ3V2RoLUdhbkttMDRQMFpvQk1CemJHQzFNME1nZzdoUDkyRTQ0YktaMlVXQkhtVEZCWDdUWlM0MF84SER5VjBFUnF3?oc=5",
+      "source": "cmnews.com.tw",
+      "published_at": "2026-09-24T02:46:11+00:00"
+    },
+    {
+      "title": "《數雲端》注意股：GOGOLOOK 近5日漲34.26%",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUEVtci1SakZZQmZGWTYtM09vTW42VlZQTGRsVlRrYVgxbnpUYVZ4WVVURXNfdjVtYzVCeUU2ajNRNEFvN2VuTTMzMGd3TlJuNzVsRHRjMmEzUi1Bb04xWXNsZi1IT2JFb2tIc0NmMm9xckRScndYWENwSE5fX3BjMWdCMUtZa3VK?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-24T00:13:00+00:00"
+    },
+    {
+      "title": "Gogolook首季EPS1.64元 單季賺贏2025全年",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xZ2VweU02UDFCMmNNTHBkU3hJNFh5TEttaE1yVDF4cDFTODdGQ0RNazR6SjFUbEc2NVI2RjcwNlFCYmJtZzAzVFJfeko4M2lTeGRlQ2tJRjc?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-23T13:07:23+00:00"
     },
     {
       "title": "4檔雲端股齊揚！GOGOLOOK盤中攻漲停創新高 分析師：短線宜先觀望",
@@ -26,13 +38,13 @@
     {
       "title": "焦點股》Gogolook：成功擴大泰國市場 一字鎖漲停",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zLUVPQm1nUDlxc3VxZzlOZGVfM2czeHZ1YWR5YnVJT3ZVQ1FIeDJBQ0hjYTN5WklQQ05VVURRZWNMcW5YVFVGQ3M0RW1OTzF5M1BYOWJOVVVZWUhsMkd30gFkQVVfeXFMUEtxYjdNRTV0aHdsWE04OTc2YVRMdHpGOHJ1Q2lGZk53WEJNUFlXN1c0RU1VeHU1b3UwekRDNlNrTGVoeTVva0lTS25KaU5wanZva0ZGYktCUW1uRU1pcXRiLTRiVw?oc=5",
-      "source": "自由財經",
+      "source": "ec.ltn.com.tw",
       "published_at": "2026-09-21T03:15:17+00:00"
     },
     {
       "title": "【09:03 即時新聞】GOGOLOOK(6902)亮燈漲停，信任科技與防詐題材吸睛",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS3hNYnFCd0lzOXExQjVRMHJnOUVDdjNmenA3cnBQbkRKd2NueFRaelkwd3RWRWowVE9STzdJZW5mVEo0YjI2S0dpTlJiaUU2Zm1GaThZMXNGeGxqQkxFbkZlRzVmT1Y5OUNmX0JJUzhHNlhFaVpqUDk2OTlId3p2MU1NTHNQRXJQOXpzZ1NB?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-21T01:04:02+00:00"
     },
     {
@@ -56,26 +68,14 @@
     {
       "title": "Gogolook擴大泰國佈局 Whoscall防詐服務觸及逾120萬會員",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VVVloOW85WXZ5djZBR0dDcmJmQWU4c0ZCZ2t2Y3FaelJmMGZ5UVNvam5UOElsR01IemtFSHJVMG1fdEQ3R3JnS0tib3lzWl9VRVE3ak1Pai1Samd6dnFJ0gFkQVVfeXFMUDFXdjYxRkVfX2FYQ0V1aTg0aFY0S1A0RDZrRUFRVElMQms3TjM4VGViS1lXRlE4ZW15OGdKRFVHTUYwX1BDVXdiYXlYVlVvaFlOR3IwSk0yMXZWVEZtX2FSb25NSw?oc=5",
-      "source": "自由財經",
+      "source": "ec.ltn.com.tw",
       "published_at": "2026-09-17T13:51:03+00:00"
-    },
-    {
-      "title": "6902 GOGOLOOK - 每天都有人在默默賣，只能等那個”人”賣完 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HX2pJZFVfYWVGR051T3FMOWdEWEQ2YW01WFVCcWNFd2x3SGdZRFQydVZ2MTl2ZzE2ci1qM1UwQm15X3ZiMHVWVUp0ckIyOHNmanBEYjAtMnQ?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-15T03:48:48+00:00"
     },
     {
       "title": "GOGOLOOK拓海外版圖，聚焦曼谷以外地區/菲律賓",
       "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPenA5NEpRVHI1S05fSUVKTW5VQjJIMkdMaDNZb1hCeG9iTldtQnhIZUYyUVdaazNkV3VSX3hOUGtvXzlBckR0RWNxalVCXzRsb04wODRTZE1BbXZwXzQwWXN5TEJ0cTJDNTJ4eHJ1Q0VjWklCQXZoeURvNEVxQU9rVlZBS1RnVWFOMEhHbEkxNks5NEF2Y1NzR1RIdlNvMU12OXRHalJmRHI5S3hnVjE4RjVNa1lTX1lZTERTUmUyZW1PRklINDNhbHluc2dPN2NhWE1ZclA3NE85M1VacE50V3hNOTNhcUhTdVg4MFQ5V2tPOUMwdTlfU2k0ZWZ2T0l4NVNudC1uWVZ6RzZtVnlCcE50em5GTHVmWHZKNk9MaGxqQ1RlU3BDTA?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-13T07:00:00+00:00"
-    },
-    {
-      "title": "Gogolook 8月營收寫新猷 看好下半年業績動能強於上半年",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KYXdXMWtGWkwtNnEwVmV3X1NzRE9fYTNuaWZHbE8zeVZUa01HN005aUZyS1RER1kwZnhrUnBDZkhQZEVqZWI5ODJBYWhsQXM?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-09-10T07:00:00+00:00"
     }
   ]
 }

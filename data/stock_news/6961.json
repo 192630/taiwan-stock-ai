@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-09-24T08:40:41.996060+08:00",
+  "updated_at": "2026-09-25T10:35:00.029833+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6961",
   "name": "旅天下",
   "count": 3,
   "news": [
     {
-      "title": "旅天下深化加盟生態圈 推「旅遊好鄰居」品牌計畫",
-      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPR1NyMFFwRDhPcW9qOVJnei1EV0lqR1BGOUQwTFZ4WEN3UVVRdUdvOFBUcVQxdmpFc09uMWp2bUduYXpIV2xOZ2pVVmczSmVtM0tDbEhGV0lDc1lPRXZhTmd6dEVMWE5YakROWGhzblhlX1F6UWRrT1dZVUs2YS1aQ1dDMFd5c3JPeWltcThfQnF1RnlTeDBZNXJOZG54VXlBMFgtYkp3amNoOFZqV2FZNFN0R2RoZ0xzOVhxaUtuTm9RakIwem4tdVpobTZuX09ydTJ5UklnN3lqcHA4TFg4cHN0Rkt0LWpBUENqTXZyODd4LWlXRm9sbk1OcjJnRnBEWTc1YXp0WUtBcnlGUERpWWQ5b0E0bmVfQkNtdlVILUVBQXUtR24zUEZmRGFpUnV0STVwWEg2SjNnUUgwSlZoUWozMUt2SzdiVFhCdTBYQQ?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-17T04:54:31+00:00"
-    },
-    {
       "title": "個股：強化加盟生態圈，旅天下(6961)推出「旅遊好鄰居」品牌計畫",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1SWJrVDRiRVA4V2ZmTnJyd1E0WjhoYmlDa1VzdGNjZVQ1RUY5eTBYQ2lMYU5RQ1lNYUVwMmc4eDhuSWQxemlaN0tRSWRIT2JTbUFZdjN3?oc=5",
-      "source": "東森電視",
+      "source": "fnc.ebc.net.tw",
       "published_at": "2026-09-17T04:06:00+00:00"
+    },
+    {
+      "title": "旅天下深化加盟生態圈 推「旅遊好鄰居」品牌計畫",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14QTR4b09saXlNM0xVWFc1M3NLUU5DeGZZWWpIdUFCZXdZb3UtVUU4Ulc0emNmd2p1TDZWQzRXY2F5SW91ajVOQ01lZGxTQ1U?oc=5",
+      "source": "news.cnyes.com",
+      "published_at": "2026-09-17T04:00:13+00:00"
     },
     {
       "title": "深化加盟體系 旅天下啟動「旅遊好鄰居」品牌計畫",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wRWUxUUFhTnI0YzFYVkRZNEprLU1SNVExRG9CNHUzRnNOVUNqMkxFVUJUQ2w3MXVVY0hKQ29CWDBxVktLQS1sdTc0dVFvSkR4cld0OFpjdGZncWlRdHZr0gFkQVVfeXFMTnNLc2U2bUhPcG93XzdsaXQyQk1UYVVUQkNjV3dBWnYydTNZeG5JVXczR3NOVzJ3UFhvQjdfU1RsdktvZ3RZZkhFRndTT3EzQWFSVEtIS0JMeVAwM3RMTWl3VF9mYw?oc=5",
-      "source": "自由財經",
+      "source": "ec.ltn.com.tw",
       "published_at": "2026-09-17T02:23:43+00:00"
     }
   ]

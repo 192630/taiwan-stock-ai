@@ -1,20 +1,14 @@
 {
-  "updated_at": "2026-09-24T08:40:31.679795+08:00",
+  "updated_at": "2026-09-25T10:34:49.822253+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6918",
   "name": "愛派司",
-  "count": 5,
+  "count": 3,
   "news": [
-    {
-      "title": "愛派司H2營運看俏",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DbXlNTEJSWnluS2tvMkNrR0F3c0VuazhXYTFnZkpzeXNnYnBndDdfR0xYeEdOeFFjM1VQUU9CWHVTODBRVnpaMExKTlMybGRQZENoeUptWFZVNGQ4Qm9TVFdzZU5FLVB0Nlow?oc=5",
-      "source": "中時新聞網",
-      "published_at": "2026-09-22T20:10:00+00:00"
-    },
     {
       "title": "【26Q2財報公告】愛派司(6918) Q2 營收2.4294億元，創歷史新高，季增10.74%、年成長13.58%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd3lhWlVGZmpvcEhNTTZWNDJlYm9zQzAzbnZST2R3RG9wNHJWdkFPbWx0V010TUxkamdyVkpONUF3SUhtMFFIcGxHX3hQWlpnUWpLSmZ3TTFWeGxnNW9BR192YWw2aVR4VzRkRmFxOHRrOVFUazZ2ajhaUWxZenhlVjFDOTdvWEN0emc?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-15T08:20:06+00:00"
     },
     {
@@ -24,15 +18,9 @@
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
-      "title": "愛派司外銷看俏 下半年營運優於上半年",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtUkFnZUZWNzlEWEF3NjBWV0ctTGhKa0VnUXUzMThNWTBMTzNXTUZpLWFHNTJoRFJfdWFGWV80b0RFVnRCVGprLTBYd1piWkZYaHZFYS1BU21raHZOaGxB?oc=5",
-      "source": "自由財經",
-      "published_at": "2026-08-26T07:00:00+00:00"
-    },
-    {
-      "title": "愛派司下半年營運將優於上半年 海外市場目標每年成長2成｜新聞快訊｜豐雲學堂",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yTDg4TERQZU5yLUJkSGx5c2UyMUZITG96ZUNVT1pDeVZQeThLUUp0U01Jb0p4eTBDVVNqTTNmeHR6Rl9VeWNHeU90NUFGVmFRRGxYMUdWYUdRZTBnQVFSSjlTczhzMldfVjQxQk14cnRKWFlOTUE?oc=5",
-      "source": "sinotrade.com.tw",
+      "title": "愛派司下半年營運將優於上半年 海外市場目標每年成長2成",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuUUo3N0RsV0RzSDEtSExUTU5CNkdYSWNrM3NKbXE0U1N0SmZ3Zm1hczFNcW5BMTBvbkFrSm5BUERsSkh2N20ybWdfcTZGdWM?oc=5",
+      "source": "news.cnyes.com",
       "published_at": "2026-08-26T07:00:00+00:00"
     }
   ]

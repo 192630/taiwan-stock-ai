@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-24T08:40:32.996661+08:00",
+  "updated_at": "2026-09-25T10:34:51.098368+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6922",
   "name": "宸曜",
-  "count": 7,
+  "count": 6,
   "news": [
+    {
+      "title": "宸曜(6922) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wQ3NzcFhsRVVidUF4QU5rSGkxMGxMYVFobzQ1aDktU3YxeXpKUUo0VEhYMldxV1NsaTV5UUFCM29SLUlXY0p6ZGF4c0RkUXg0VnNB?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T19:11:20+00:00"
+    },
     {
       "title": "盤中速報 - 宸曜(6922)股價拉至漲停，漲停價206.5元，成交243張",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8zNFBOR0xMZDNJTFdFTEFIR04zWlktS0pKbko5dllsWURYVzl5NFhKOXltRi1HYl8yUU5lc191YkdCZVpRTDJ2UlB0bXEtMHZDdDRzTHlOS1lZSl9ISmlONGxiNU4?oc=5",
@@ -12,39 +18,27 @@
       "published_at": "2026-09-20T21:08:00+00:00"
     },
     {
-      "title": "7月才創高、8月又守高檔！宸曜(6922)營收年增59%，邊緣AI需求真的起來了？",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfcFNucHpWWEhQa1EwRF8xSTRySE1oNEh6QXFBVVZKZndFLTVmR2JfRGVuZWppajFoVXBPYUJCRjVxbURoQnM0MUZsbnFIVjZLYUdTbGJn?oc=5",
-      "source": "LINE TODAY",
-      "published_at": "2026-09-10T10:50:08+00:00"
-    },
-    {
-      "title": "宸曜8月營收創次高 年增58.98%",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcjlpUlI0X2dwSUQybFRXZkhHMldaTmdUXzd5VTlfVng0MjZNNElscDFyb0tCZXRoakZHTmN3bmxVUTlyT3FHNklmV2x3TDhpaHB4M0x4bXNiX3Y0U1E1S293a0lubURZMklEX3pyUG9PTEhWWWY4a0NWU3AzSXdWZA?oc=5",
-      "source": "PChome Online 股市",
+      "title": "宸曜8月營收年增59%、再創歷史次高！邊緣AI專案出貨延續",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54bGN4SEtmRERjTEhIcGxYLWJjOHUweHpLZW9WV05uLWpVME1CRTg1b0c3azhHaGt2Z0V4dURiZTVXc0xBem9aNzB0Z3ZSM3M?oc=5",
+      "source": "news.cnyes.com",
       "published_at": "2026-09-10T07:00:00+00:00"
-    },
-    {
-      "title": "宸曜(6922) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wQ3NzcFhsRVVidUF4QU5rSGkxMGxMYVFobzQ1aDktU3YxeXpKUUo0VEhYMldxV1NsaTV5UUFCM29SLUlXY0p6ZGF4c0RkUXg0VnNB?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-10T01:43:24+00:00"
     },
     {
       "title": "宸曜8月營收創同期新高 第三季B/B值維持高檔",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBza3F4cEZvNXhIOWg2QjNWbmR6R19RbDJ5bks2aktnUW1VMVZjcEVNWVNWWFhTUXFDbEJWa1RjWC1EQV91YWg2UjZod0xkQ2RQYmVwVkRsWVlKUFQ2Rl9r0gFkQVVfeXFMUDlsUGk4U0tQRGk2RTZwd05sTlduR251aExnWHE5N0Q0SlVPZ2NWS0dEc2tBZjlRZV83b18wV1hFM3E1NVkwbEl3eDJaaEhXc2dEZjIxeDhBclhLbTNtcEUzbm51Uw?oc=5",
-      "source": "自由財經",
+      "source": "ec.ltn.com.tw",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】宸曜(6922) 八月營收月減年增，全年營運續看向上-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPY3Njb3ZzTkVnbTBOOGlaRm9HampKS19FZHlTazlGUTlxYzlsYkwyMHVqSmx4SEpHZUQzR2FlNDJVc1duREFpSHRtNGNnTGZDMThZVl8zdzNrNDkwTWpZb3AtakpjLTk2b1JubEhpUS1sRktveXhHandSb1BKbVNUN3hSN1J4dE9JTmc?oc=5",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
       "title": "宸曜8月營收創單月次高 接單維持高檔Q4營運平穩",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55bVBIOHFtOHpCUGlWNzJMV1hTUG1qLUYtVTlTTjloek9UNC1feXlyNEJjWWdmWmJJVHZQeDAwMVRPdW5FZjRicGZQUW1zRWs?oc=5",
       "source": "news.cnyes.com",
-      "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "【2026/08月營收公告】宸曜(6922) 八月營收月減年增，全年營運續看向上-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPY3Njb3ZzTkVnbTBOOGlaRm9HampKS19FZHlTazlGUTlxYzlsYkwyMHVqSmx4SEpHZUQzR2FlNDJVc1duREFpSHRtNGNnTGZDMThZVl8zdzNrNDkwTWpZb3AtakpjLTk2b1JubEhpUS1sRktveXhHandSb1BKbVNUN3hSN1J4dE9JTmc?oc=5",
-      "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
     }
   ]

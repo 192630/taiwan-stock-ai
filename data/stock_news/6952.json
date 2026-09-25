@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-24T08:40:39.890346+08:00",
+  "updated_at": "2026-09-25T10:34:57.859537+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6952",
   "name": "大武山",
-  "count": 7,
+  "count": 8,
   "news": [
+    {
+      "title": "大武山打入美式賣場、有助推升營收 | MoneyDJ理財網",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TdU4zdHQzSkNORmpib2RlYW1kcU03dlRKbC0yZjh4d0RmZGl3ZVUtYnh1YTJZb1ZBWXFwY05Rckk4NC1KY0d0NWVyejJkR290TnBmWVdB?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-24T12:10:39+00:00"
+    },
+    {
+      "title": "大武山打入美式賣場、同步推升營收與毛利率",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQVUFsdXo3M2xsOTQ1WTB2SE9RT19yb09nNFJJTVpFVGFtWDFsOXZTc3hrWTFPUDVfSkRfNS1UQ2t3MnQ2cXNxSExCaVc5ajlTU0FyYUplWGJnczF5anRLbEIyNkdOZXNEYnJSN1RrM2pNUGxnUW16dldhWlBKVTZlMWZUME9rWHZ3Q0pob1hHQWFrNlZ0bTNKbmxlS3Y5NVJ2V0piVUd2eC00M2xwTE1sV05UU3MxWjhxRXpQNVdJVlR3NE9SS1ZHZldfWDBTaUlteEppa2kzc0FnQUIxYjlHLVNjOUo1RjkyUm1lZkNkdGpOUlhuNGs4empFTDJxT3FDM3luU0o1SXZ1MWJEOEtNdGYwcmM1aDlacVpWclVEVE9FSVpVR0JYTGtwY3VuQXU1V094WjJMWUdHRnlUTHRQUA?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-24T06:28:26+00:00"
+    },
     {
       "title": "大武山牧場科技股份有限公司",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT1NEQXN2dy1sOGVaV09nZXN3TGdTclRzT3RlaDJDTkl2bTk2c0ZDaWxyZDllcERiR1hiSFhMNktZbUFUSTBMSi0xNGZ6eGFXTWRjdnRLU1N4My1mNmt1eWl3VDE5SnFIcjMxbmdUYXhpNUljSkZGMVRMQm1ZbVl2RlB2MDdnN2d2SExod3hiVXlZS052U1BV?oc=5",
@@ -14,7 +26,7 @@
     {
       "title": "2026南島族群婚禮情牽大武山‧走進琉璃珠的婚禮 10月3日相約三地門見證傳統婚禮盛典",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xY0FWbmM1dWNRTzdFTVVqSVZzUlJWcVF0Z1dpMzZXMkFXYmY2SEJNN1RyMEwtQzBQdGdFcG9aMzFKY1VhZFhvWU9ucw?oc=5",
-      "source": "leho.com.tw",
+      "source": "樂聯網",
       "published_at": "2026-09-11T16:43:00+00:00"
     },
     {
@@ -30,12 +42,6 @@
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
-      "title": "第三屆大武山職場新人賞盛大頒獎- 商情",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MVVFkUWl3UHEyUDhTNjNLRE1jcmxSNWNzMjJhNU9hZVhoTHVaV0ttMWtKNUc5SWtXc1NEUUNUbDJ1OS1oVW5oY0NYVVdreG1FVGxvZ0k1LUlLXy05amJZ?oc=5",
-      "source": "工商時報",
-      "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
       "title": "中秋送禮不只月餅！大武山牧場用AA級鮮蛋打造「好蛋時光」 系列中秋禮盒引領送禮新風潮！",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0c1ZHbTdDQU8xMzVsbkNjalpTOXdPd2pTT09vVTlmZEw0NFNEVDNXLWliOURfTE1JWXhOTFIyQjFoczZ0YW1BWFpRaDFLUFZkMFRzMFRjOWk?oc=5",
       "source": "CMoney",
@@ -44,7 +50,7 @@
     {
       "title": "【2026/08月營收公告】大武山(6952) 八月營收2.19億元，表現亮眼、呈現雙成長，創歷史新高，年增17.1%",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQanFCQkJvb0ltTXFoQnNCYWFPX0wxUmZCZlM1SjRqOHJLZWplOGgxNE1XallVN2ZESjRJYWpMLWQ5SEZicTNkR1dUaFdXc2hjTnJ5d0dnbkRKMzJSOEtGT3lfQS1QNDdjemFCZDRRcURXQ3lRcC12dnR1ay1FMWFFUGRBSndHZU1lTHc?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]

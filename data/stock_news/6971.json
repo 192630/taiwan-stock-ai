@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-09-24T08:40:44.420768+08:00",
+  "updated_at": "2026-09-25T10:35:02.535670+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6971",
   "name": "惠民實業",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "Hui Min Environmental Tech Corp.收入明細 – TPEX:6971",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTQ0tiQ1pEUzhJbzZ6Mlk5aEw5ZjRkSXBuV2U3ak5QbmZEOFZ6aDRCSVp1VlI0TEFaQ3ZuUGE3bmJidkh5bEdaUkw4dEVfeWhjYjdzVlE1WVNKLXNWQ3pCZXRvazZNZ1V3ektHZDg4TFRxcmM?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-22T07:12:43+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】惠民實業(6971) 八月營收2.09億元，表現亮眼、呈現雙成長，創近8個月以來新高，年增8.76%",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBLWDZZWEo0S2V4SkpwVmRKaV84SE5GZFJ3M2hlYnlwS3R4Z2c3WVBmc0tLalZVdWtFOWt0R2ZqMlBBbVJjMEk2UlpIVjhjU2V4WWJpU081Njhwd0JnUEp4cW40UTdLdEE?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-10T07:00:00+00:00"
+    }
+  ]
 }

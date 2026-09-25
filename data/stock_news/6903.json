@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-24T08:40:27.630125+08:00",
+  "updated_at": "2026-09-25T10:34:45.718774+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6903",
   "name": "巨漢",
-  "count": 3,
+  "count": 4,
   "news": [
+    {
+      "title": "飆股幕後》在手訂單逾百億 巨漢今年大漲5成",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00Q0I0Sm52NDdJd29PTmtzUWY4RFY1NFJoeW8yanBBSVItWnlleXZpbGw0aXQ5amZOU3didS1sOWlRT2RoMWRqU0dZcXY4V0RnZG1rZUtuVUw?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-23T22:48:43+00:00"
+    },
     {
       "title": "巨漢(6903) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41SHdLNXh6VEJZTzYyU25jUTBJMndVWjctcDhOVVlBOVZjdGdFV2tCWDd6LVcwTEt5XzdPaDZkVm1LVVAyc0pEb0JOSjQ0c1JaZUFv?oc=5",
@@ -12,16 +18,16 @@
       "published_at": "2026-09-17T19:54:56+00:00"
     },
     {
-      "title": "【2026/08月營收公告】巨漢(6903) 八月營收6.24億元，表現亮眼、呈現雙成長，創近2個月以來新高，年增122.7%",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeGJyUmtuWk9kTzZFLXBlR1ExMnctQlJtcFlKU245ZEthMUNXWS1hZ1lMbkxJV2h6Rlg2NUNEWlhZdF95X0otZVFnVHNHTEsyR0wyeUJnT2RDeHlTWjI5UDNDZjQ3b0o1eFo2Qk1PUFJTajN6UEVJNHlHZHFGN1RkZDBrLVRvWW44Qmc?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-09T07:00:00+00:00"
+      "title": "【26Q2財報公告】巨漢(6903) Q2 營收20.7895億元，創歷史新高，季增7.95%、年成長220.27%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVERTV0p2M3R1T1VhU2tRaFhnVGxHSjFJdWN0eE5lV0FzMWFCaDh2cTVzaTdOMjNCUTFzN3dPY2gzaUhQYTlEYjA0UkRNV3BPd28xdW9LaV9HZDl1d2lGVXRmSGJVTzJIRVhGaGo3ZGNzVG10QUMzYVYyNFBYeXRkUWZhUTFoTUtOUlE?oc=5",
+      "source": "cmnews.com.tw",
+      "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
-      "title": "飆股幕後》在手訂單逾百億 巨漢今年大漲5成",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00Q0I0Sm52NDdJd29PTmtzUWY4RFY1NFJoeW8yanBBSVItWnlleXZpbGw0aXQ5amZOU3didS1sOWlRT2RoMWRqU0dZcXY4V0RnZG1rZUtuVUw?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-09T06:11:56+00:00"
+      "title": "【2026/08月營收公告】巨漢(6903) 八月營收6.24億元，表現亮眼、呈現雙成長，創近2個月以來新高，年增122.7%",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeGJyUmtuWk9kTzZFLXBlR1ExMnctQlJtcFlKU245ZEthMUNXWS1hZ1lMbkxJV2h6Rlg2NUNEWlhZdF95X0otZVFnVHNHTEsyR0wyeUJnT2RDeHlTWjI5UDNDZjQ3b0o1eFo2Qk1PUFJTajN6UEVJNHlHZHFGN1RkZDBrLVRvWW44Qmc?oc=5",
+      "source": "cmnews.com.tw",
+      "published_at": "2026-09-09T07:00:00+00:00"
     }
   ]
 }

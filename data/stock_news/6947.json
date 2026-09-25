@@ -1,20 +1,26 @@
 {
-  "updated_at": "2026-09-24T08:40:38.669409+08:00",
+  "updated_at": "2026-09-25T10:34:56.623646+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6947",
   "name": "台鎔科技",
-  "count": 4,
+  "count": 5,
   "news": [
+    {
+      "title": "Techzone Technology Materials Co. Ltd.的每股自由現金流 – TWSE:6947",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ3FvdkVDQUZ5MHl0aXFFQmVmUzNVZXZzaDRBTlRiSV8zRDJuZ2FubXBLNEJORW51TldJU1k1OW9NX0FYYkdxMDhRQk02YmpUcUF1R2huWGI5OVdYZmVKaEo3SXZIVmhWUlcyLWJLZnU1dzdSVnFzR3BJZ1B1TmxDeUtQZFVuVExOUC1SeUJmd1VGeEs5QnJyMm8xNHQtRUhfdTZNNzRR?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-23T04:13:40+00:00"
+    },
     {
       "title": "Techzone Technology Materials Co. Ltd.的稅前收入 – TWSE:6947",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMkU2S3hMMHNiX3ZheGxXVEI1UEZnZ0wydjFfUWpnVjlpdzQxYjB3bkYtSVFVZEQ2Ym9iN29rb0NwUzhJU0JkNEt6SXptRFhlTU1aS1hVS3JsdXhmcmFhd0QtMzhiMHY5amUtY1ZzRHJnV1paQUpOVlJ6N0V1S1pkN1dVVWJyRFN6dzFHSnNHRGE?oc=5",
-      "source": "tw.tradingview.com",
+      "source": "TradingView",
       "published_at": "2026-09-22T06:54:31+00:00"
     },
     {
       "title": "Techzone Technology Materials Co. Ltd.的債務權益比 – TWSE:6947",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeThjYnlETk5GNmtwWS1xZENHUWhYUm82c2tKYWJmcEpFSTlqQldHUXQxV3lIYWhXWXh0TzVUeVp1aEFGNHdzQnc1N2t2OTE1MnFUdU9adzF3V0tra0h1YWZqTUdVMXI0dlJoSHFKVUNSSWpyeDU3bVhIVUYtXzlUSXd5UzBlVi1ZWW5VWE5oV3NVVjNQdWtEbw?oc=5",
-      "source": "tw.tradingview.com",
+      "source": "TradingView",
       "published_at": "2026-09-22T06:31:43+00:00"
     },
     {

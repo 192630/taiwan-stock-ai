@@ -1,21 +1,15 @@
 {
-  "updated_at": "2026-09-24T09:33:34.324004+08:00",
+  "updated_at": "2026-09-25T10:35:09.447993+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7704",
   "name": "明遠精密",
-  "count": 2,
+  "count": 1,
   "news": [
     {
       "title": "【2026/08月營收公告】明遠精密(7704) 八月營收表現亮眼、呈現雙成長，創近2個月以來新高，年增13.81%",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSzBYOERUb2MtXzVaMjlId1pHOEI4VmlVVXZVaUhZN3FpSzRwSEthaDJvdVNoZ1BrNDBjR2Y0cEYwS1FOeWwxcUZ4aVVHWEl1WDJzMWJfc1Q4UGRXZFlvWlJ1ejlTTzlWcWYxN1JiTnFuMWhfSDBTY2M1T0YxR0VEb0w0TDR5MW9BekE?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "高市8月下旬豪雨農損7704萬 全國最多",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBva3hRRlZadGxVQWpfMHJRMUZOQlNLVnJVRWRpVk4zdnFjQ3NiNkhTMjd3V3Nwc3M4ZHBfRURwMS1yTnFCMnhhWWRsV1hJaEFhWmlrdEhhYTk0SW_SAWBBVV95cUxPeWNQNWp1UkluUi1kNDhKejFtUnlHcG1ubDdhSTVmZE94YlkwU3BqcHd6ZWo4S1FBbnRTeVRLU3hjSkNKTTlnaWZsbWlDZWFibU9rQlVTSFRQaDl2V0ZPVVc?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-03T07:00:00+00:00"
     }
   ]
 }

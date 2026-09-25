@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-24T09:33:36.677110+08:00",
+  "updated_at": "2026-09-25T10:35:11.584102+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7712",
   "name": "博盛半導體",
-  "count": 4,
+  "count": 5,
   "news": [
+    {
+      "title": "TWA00 加權指數- 功率半導體的隱藏黑馬7712 🐴 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJanZaNUMwOEV4WjVuS0t2dldpZFFDUW1zd2pvRHJZckY2bTF4dkltdDI0NTZWR0prdVo2d2JvQXp1alZpMWFsUENUbGxaSGZnQTdYaVEtUHg?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T23:45:10+00:00"
+    },
     {
       "title": "功率半導體紅通通！「這檔」營收連5冠亮燈漲停 茂矽、博盛半導體吸金漲逾3%",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBlRzJEN1E5U0F6eEtvMGwxM3IzY2RIX1FDWFFuSUdscGxqM0dUNTQ1WG8yazEzbjE3Q0ZvVnV3VGZZbEhPZGY3aGJ6Zw?oc=5",
-      "source": "ftnn.com.tw",
+      "source": "FTNN 新聞",
       "published_at": "2026-09-16T03:05:00+00:00"
     },
     {
@@ -20,14 +26,14 @@
     {
       "title": "【2026/08月營收公告】博盛半導體(7712) 八月營收1.71億元，表現亮眼、呈現雙成長，創歷史新高，年增55.5%",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSWtIZFladDA4blVjRW00ZktXcWtva3NaclNQQ3U4YTRFaHNsWmRMRGlzU3ZPSEVfVVEtcDFoUVhEaTUtTDYwM2xMbG5KVlJBVHd0cW82MHdfZWZlN3NZS2p4T05VekFPZzY4bWpFTFJmWVRnR0RMbnBBTkxSSXNFV1RxckFhY01Ea0E?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
       "title": "【12:35 即時新聞】博盛半導體(7712)勁揚逾9%，受惠AI伺服器與功率元件營運轉強＋技術面多頭結構配合法人成本支撐",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BVkEtQjdPOXU3OU5pdHlfWEx4a0lIQ1VpRGlTRlRNb3BzQ1EwVWxPaHlmcmdSVGdVWlpCRlV2dHpucjg2ZW5BYU04dWdfZjhINFpKMGxaV1I?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-25T07:00:00+00:00"
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV1B3ZnpTUndzZk40d0Rwdml6RUY5cy1EMXhucmJyaTFPckZ2bFF2WExMUHpkY1FldEkyb0VRZEEtRkM5U3ZtQTgyTXB2RFB4WUNlWGM4ODdEellGa1JnX2FKZjNVVVFzbXdDR1FKMFhKaXgzZGMzSW5rRXMzanpSUklXSzRQZGltU1c2eW5R?oc=5",
+      "source": "cmnews.com.tw",
+      "published_at": "2026-08-26T07:00:00+00:00"
     }
   ]
 }
