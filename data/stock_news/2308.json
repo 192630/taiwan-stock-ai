@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T12:35:24.794753+08:00",
+  "updated_at": "2026-09-25T14:40:47.881690+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2308",
   "name": "台達電",
@@ -12,22 +12,46 @@
       "published_at": "2026-09-24T01:29:06+00:00"
     },
     {
+      "title": "群益投顧估第四季台股上看53000點 台積電台達電「30檔明牌」一次看",
+      "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxPMTk4eEVfTG9GVUpfQTlNRWJfeHFHaFBxWmVMZ2Z5dHl3cHlxTnc1aUxFMV9SWWF6V1U5RnVGdl9rdDF1dTRNSGt0aFVxR0ZRcTF6dEN6dXRzbTZoTkVxQ3JqVEVCdFZsSGE0OFBEc0pvUUtWZlE1UERMeFJybFR2bDV3TXFMR1U0ZzJ1UVpzQWo3WnFHLXlkckFER3d1SXgzamsyLWdzTUhrSU5RMmQ0QkJaSEdXaTRMUzd5NXpDX2NMSURVSXkxWnFCT0tfSXlTTjhHcDhZbzdTc0tqRkY4UWZQYVFCRlY2Z3o5SmpGUDVlLXViZnM5RUVvQ3A4c1JyMjBLQ2w1NTJ5YnhWYTZjSEpoc05OZ3lZeHE3V3QwSlVRSWJGT2xBekJFaktzSU1pYzB6T2lybjNNWWM0aUFneUwweWJlZldWTnhFbmlZdDgwVmlwdDQxdzRKMWJiT3hqYVNqLXZuN0YxbEZkZ0hSeUtVMll1ODdvN3BCR04tOWptc1hHZGxNX0NOTldCcXoyUEpFQU5yLUE1TEdDWWRkcEdwampwOG5kQXc?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-23T07:56:54+00:00"
+    },
+    {
       "title": "2308 台達電- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mSlJEa3J6ZU9GZ0xLWEpXelhNRFZaaEdqWlVEaU9vQUQ0elN5ZGdTNk9DSVFkNFZzaXVCLVFNbHVycUdtalRHa0oxWUxXeTZmOFRrbFlCaGw?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-22T12:30:50+00:00"
     },
     {
+      "title": "6天大漲25%！台達電飆1965元近一個月高點 分析師喊「要續抱」",
+      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQd0F4Q1Rrc0xhOWdsQzF5UFRwU3RmZHJJOWwzNlNFbnFiLTJ3dzhiOTE2YmxyS2I2bnVXLTB0THcyOXhYNlRNRUo1U3QzQnR3TUxyMDQ2UG5KQXpMeXBDV3VJUUw3cVF0Rnh6S0tLQlFJbC13OFBVdk1nVERmWll6NUtsdU81bGhPcDRzTTg1TkJBNjMyZXh3a193cmlKUkRxZTEtTFZSeW90djFLWldYejRxR3JHQllWN2hhXzM3R2I4cnBEbTdkWnJaaDlHRGdkb2hDYTZWSEdGZFJyZGJhRmtoYnQtOWNrNVU0WkUwcWVFZFJSNTNWdmRMSzI5RzJlZjB6S3VkNmhna3J6ODdLMEVscHdjbjhGaW5kZWlBMHJ1VE9rb3FfYmlZVlNxVTFlTUFCT3pPS0pnSUZMZzJFa0VacWM3WEExaktFS01OMHZfd2pDQ3YzQ2tvTlUyUnJld0NPeDdiYnBQbUhRSFF3M3hjN1J5dHlwSFYtYWtET05mYmZWSHc?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-22T03:00:18+00:00"
+    },
+    {
+      "title": "7769 鴻勁- 【00991A】09/21 操作日報｜經理人精準換股！重壓台達電- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52d2ZXX2toWXBtYk8ySnpMSE1TbGg5VnJ4UVRhd1NIZHF2MTA3ZG12S0otc2tJVWFWaFpwS3FTbkt5cGRhOHVPLWpTQnFNR3lQclFzNF9OQnQ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T11:40:38+00:00"
+    },
+    {
+      "title": "【00991A】09/21 操作日報｜經理人精準換股！重壓台達電",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA1bkhKbmM4SnJPOWlZRmdCZERweXR5VWZvUmJqa0JlYS1QYnp6TTgyNEhoNmZDUFZkZFc0cjVOOFl4QmxUbXp6RF9tOUxYT1F4eDRzaE5PblBKbFBSbTZjX2hSdVY1OTk5V3kxVkY2M2tUOU0wd043aUhpN0hOQQ?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-21T11:40:35+00:00"
+    },
+    {
+      "title": "2308 台達電 - +2274 +3393 +900 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqNlgwZlNZY1dFZ2xzQ2I2REpxMlpPMWNqMzZSQ3l0dkZpb1ZTWHZCUmlucjlLWUpmRFRwNE1pZW5oMTVzQmtmN0NNVUI5WWVqc2tXYlN1dC0?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T08:48:15+00:00"
+    },
+    {
       "title": "【最新消息】外資調升台達電目標價題材發酵，「10檔被動元件概念股」同步轉強！",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA4MzFVVnhlTThOV3NWOGJxMGdKMVVGYTl2Q0xFLVN3UlVxWDVHRzRQNUNyODdaYnVSQlJqcXUwbVlqTlFvOV8tdDdTeVRqVW5hZF82ZEd3VFJwVTdkRDhWbmxmWHFMSWl0c1dYNGM0cW92TFZfTVNGSkZ4NkZpdw?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-21T07:19:35+00:00"
-    },
-    {
-      "title": "台達電(2308)外資、投信、法人籌碼變化與自營買賣超總表 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ycHFmbXUyOWl0c3dxOTlNeGNRTk4xZ1BoTENnT25FYXdkN0hxSV9RT0hVVUJod0RQNWY0MjJSX1hUM1M3M2h2R0NqZGlaVHN0aDE0bDBHMGZRZ0lyUl96UkRJMTg?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-21T07:00:00+00:00"
     },
     {
       "title": "台達電(2308)主力進出、主力買賣超張數與買賣家數差 - 股市爆料同學會",
@@ -42,40 +66,16 @@
       "published_at": "2026-09-21T04:30:50+00:00"
     },
     {
+      "title": "台達電重登1800元大關！早盤一度強漲近7% 分析師揭「轉多關鍵」",
+      "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNLW9xSEdMbGwtYXhaVloxSDF5TGc2cHFZeWlyNE5LdnA5NGJOZVlkUGM5Ri1XUVhsUXR3RW00QWRCbjJ2dEVEbUxTcGpVVVVoQ2daVzNmYXV3eHpzZUVNaUg5UE1nMEd4ZFBXb0NLNFV6Mzk5dnFqNnR1RG1PMUtFV3d3aFdOdzZ0dUpscmRud0psTkpsckZmV2N2bnBHQThhRW5RNkp4YVF0YmppZUdVZFZqWV9XUlVaSUdTTlhCS25DZEVDdkdzSVhVRnVUR2Juc3pxeU9BdVVwOXF2N2FlNDVtV0FtYnlZSXlidGUyR01IYVp3Yl9KMU1reXU0MUdOc1pQRmpTWGdteDBaVF9kR2J6bWxQME16SDBmU0kwX3ZfTHVhcmpvRUtURV9EdnQ2ejZ5UmtzQ2VqM0l3VkZlbjd4OUdRMEkzcTJhRVpEUzBGMzM1cUhBOTV6Ui0wa3lpeGlVV2x3LUdxb05uX2xlSmFPOHhnRXhpUFJUN2RueTdxaW81UkN6blpRQ01LNzQ1Z29qOENZU2MwaG8?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-21T03:33:04+00:00"
+    },
+    {
       "title": "焦點股》台達電：歐系外資調升目標價 猛拉逾半根",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sd2FBVmRkNmdJbUMyc1ppSE1oUUJ3cFhIcklMUWNfbkpHeEJVM21RNUxsYUxENUl3dTFWeGZySjB0cGc4a1BWWkRjTTJHZzB6M3RJTUVXa3BJVldBRERJ0gFkQVVfeXFMTmM5QjJ2UUY4M2YzOFNhcTRLWjFFSE5yWmpYWUpqOS1jZnFfdXc5T0NibC0yME9PelVDTjlVaUNjbFdsejhqcUF5MHZoR1pGUzRzOUhVUVNJX2xGb0hKSlEyYXdUMg?oc=5",
       "source": "自由財經",
       "published_at": "2026-09-21T03:10:59+00:00"
-    },
-    {
-      "title": "中秋連假將到 台積電、聯發科、台達電、鴻海、廣達、緯創要先賣一趟?",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CMjJQbHRKaVJ1XzM1Um96dWJQNng2N2pfSmhtdXpoRTVJNk9pT0toMzVYcmtXdDAtMjF1bmFSVGozZVM1eEF5RlUzaW5vcWM?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-09-21T00:38:32+00:00"
-    },
-    {
-      "title": "台達電午後賣壓出籠 股價再次跌破1700元 股民哀號：都快沒耐心了",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Da0FLaVI4R21vQ3JLWnpMRXFBc29XNlJUMXQ1MmtkVk1LcURmMlNOcEZFWVIxMmdDXzlKRWxVTHZRSVFfeWxQRTFKNmluYkhENU93N3pXVHI0blV6MVln0gFkQVVfeXFMUDhOY290Ny1Xc2FmbUs3emszMTFyMFF1UUUxNzNCTFhNdEgzWmt3aTNlbmdNN0lOLXR3MDM3VWNtSFJUUzNMbWpDbGl5dGZSeGZubWlBVVVodGc5RHN4bHpoWVFXUg?oc=5",
-      "source": "自由財經",
-      "published_at": "2026-09-17T08:12:51+00:00"
-    },
-    {
-      "title": "台達電(2308)主要產品與營收占比 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZTl9kRE5aZS1CS0R4bUtVQlJ1Y1N3V3VUbzgwMGRvY2p1ZjNrYnZEWUhmRy1CTHZWNmlTZU41ZkFuc1FkUjBsVHJjR0tqc1JzdXpoeW1WRmxucTl3THdWRzcwdEJ4QQ?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-17T07:00:00+00:00"
-    },
-    {
-      "title": "個股：皇翔(2545)8/14～9/15取得台達電股票185張，每股均價1,759.73元",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQUpPcTRfaFo5bFJDU0JXV3pGcDFSSjBIZUZ6bFlaWkN5SDJERU8wYTNjUHZndEdYZVNudVlGaGtPdnJZNmhnc0lySnZ2Y0hUTHo1eFcxcXVsSkduclRJSkZpV1pROUR2QThTMWpkMTdlLWxadUI0MWhKSHlDZEJDc2pFYXgyRHJP?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-15T23:02:00+00:00"
-    },
-    {
-      "title": "個股：皇翔(2545)6/30～9/15處分台達電股票180張，損失6359萬元",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRV9XbUEwUkktSnFUMzV1TlQ3cjJVcDhrLWxnWV8zMmtMd25ZUFFMdnU0SXp2NU5scVpCaFpLOWViX1VqNkxUSjV1MzM5d3ZPc3YxT1RSQlF2dmNKTkxkeWVFanpNdFQyN3FmZVZpRE5veS1Ha21MS1NicDNHOFExOFQwWEVYSWIy?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-15T23:02:00+00:00"
     }
   ]
 }

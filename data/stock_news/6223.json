@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T12:35:33.692413+08:00",
+  "updated_at": "2026-09-25T14:40:58.147475+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6223",
   "name": "旺矽",
@@ -24,16 +24,16 @@
       "published_at": "2026-09-22T22:12:59+00:00"
     },
     {
-      "title": "信驊、旺矽 權證認購搶眼",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZVFl5VVFQOE9nbFdPLWc2TU5Ma3VGMTRXODhqSE1iV0JDamduSTN3N3FBQmtVX3QwUzRvV3N1ZV8xZzlsVFZHRTdjX3FxcDlPUFdYNWlB0gFWQVVfeXFMTllUWXlVUVA4T2dsV08tZzZNTkxrdUYxNFc4OGpITWJXQkNqZ25JM3c3cUFCa1VfdDBTNG9Xc3VlXzFnOWxUVkdFN2NfcXFwOU9QV1g1aUE?oc=5",
-      "source": "udn.com",
-      "published_at": "2026-09-22T19:46:46+00:00"
-    },
-    {
       "title": "5274 信驊- 信驊、旺矽認購搶眼- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tbmJPNl80cG9aV2xWTkJybVhIQVAzc1FqWHhJTWpJU0pURlZBaHdRYThpLUJmWXRkaU90amNpWmhIY2xmM2lFcklaMTcyWGUxMDNSVTlKQmI?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-22T16:07:25+00:00"
+    },
+    {
+      "title": "信驊、旺矽 權證認購搶眼",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfRkRqcVlFUlFzbVQyUUlHRUpXczhKdC1jSXVLOUJaY0RZX3NQZ1M1b0VoRWd2Ym1YeFZGaUlQYVVlQUY4LVlFbG1TU3RsdEx50gFWQVVfeXFMTllUWXlVUVA4T2dsV08tZzZNTkxrdUYxNFc4OGpITWJXQkNqZ25JM3c3cUFCa1VfdDBTNG9Xc3VlXzFnOWxUVkdFN2NfcXFwOU9QV1g1aUE?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-22T15:56:05+00:00"
     },
     {
       "title": "【00991A】09/22 操作日報｜經理人大砍旺矽三分之一持倉",
@@ -48,22 +48,10 @@
       "published_at": "2026-09-22T03:00:02+00:00"
     },
     {
-      "title": "旺矽(6223) 今日股價與討論 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BTHhJMnBIOGN0WUpwRU44MmswajRhOUpQd2hQSFBfOUdLUE12MVZiUHIzNlhBdXJfYUhXM3Jnd0w4by1LMDh1SXN2QzNKeDA?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-21T07:00:00+00:00"
-    },
-    {
       "title": "6223 旺矽- 如果可以- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Hd0o1SUYxbVRPOUNfa2Y2OG5kTEV1TFNMSUQ0S3F4X255SDBvN19pMnpiUV9yRVc2azhxR2UyUEtILVBtaUtIMzRYVU95bjFNc2RzTC1vOTY?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-16T05:02:16+00:00"
-    },
-    {
-      "title": "台股失守月線回測 45,800 關卡 資安與功率半導體逆勢突圍 法人目標價聚焦信驊、鴻海、旺矽、智邦｜ 2026.09.15 #台股 盤前解析｜今天 Shot 這盤｜豐雲學堂直播",
-      "url": "https://news.google.com/rss/articles/CBMiuwZBVV95cUxOUDZwcmptbGs5WXFnNjJUbGJkYUhoSU5zRV91bU5WT3lqaGRMcGxmbVEzTllYR09ZbGhsSE9XRjA1MUxuRk5SY0dtX1pXY05EaGttTGdYRTNRWDRRT0xxWlpjTEdvZi0yQ0x5N3RrUkJCcFctVDJIdjUzN0p1V3Vfc1FTTzRXOWhIblpNSnFFWm1kSTI0OFRQTkthQUNmTlIzRkp3N1djVEtoX1J5SEJ0NVBQamQxX09Idjl5cE1RZTRjMEJsQ3Bvb002ZkRnQkc4ZXItWC1QVExnbmpUX3R0Z1dHUzBJdUJPQzM0VC1FUUJMOHlzb0p3MUZEZTRGWnNrM2JWMXZ5OGFhRUhpVkpRbzFLdl9ONzZ5VHhrT1I2S19LV2RtdVRWT0p2TDRiUjNkNTZXa090eVBlU2FnOWZsd0hxUHNrcFlCZ29UejdlenZMSE56UW5MTjIySUxZQWxnOERmVVZ4ZnpmbEIxWEVwNElfcUF4TTY4RF9pOC1ZNlpPS0FyaF9vQ3YwaE83NURSVkE5RXhOdXNNS0ppazFaMGJpdU81Y0plQVZTSFVaODlCWFdLeUI3LWRETzdSMHV0bnJDWlU5S1FRaXlzOW44NWZyemp2QWo2WTZOWk5STHZldEtWWDlpbFlMM0NsbUl2aVNBWWIxUWplRXh5ejJyZ1dld1huMlJ1b3ZkWXU3eDdQRXV5M0ZnQnZfel9yMDh2UXF3UUk3MUczSFNHWXlFdUstTjY3blp2N25ZM0tkM041U0dQN3g2eHdEWTNOR1VhU3hIanZvSEhzWXZhNERVWEJkdk1XeDNQVEgxZ0EtRE9iQ0VBRDJONUtvT0FQUzVFVDVEU3BHazRrQXlwUTRod0lWSnZqVnNIYjgtcUZfZGkyNWNIWlFybnI1eHhsUXh6ZkY3bW9MaXd0aXliQVZQcTZydkJIS3NaclBpOTRfVG1GeS1tR2duWWxGWnA3TjRUbU9jVXhwQ3FmemZ4YnV3NWcwbkJFdlRSNEhMckJXdVhGWjV6TjRjSFJlaUlPZGJFR3J2cFFBZGloakFDWDI3VU9TdWUwdjZpZzQwZW1QV0l3c1RwQ1B2eE03VQ?oc=5",
-      "source": "sinotrade.com.tw",
-      "published_at": "2026-09-14T16:20:21+00:00"
     },
     {
       "title": "漢測抽中現賺逾200萬！穎崴、旺矽、精測也全是千金股 AI測試股憑什麼這麼貴？ | 個人理財 | 理財",
@@ -75,6 +63,18 @@
       "title": "【00991A】09/09 操作日報｜資金轉向！經理人加碼聯發科與旺矽-CMoney官方",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9XU2xiMmhsRFJYVzFBQVV6Y2pFcHNhRDNmbWRTSFpiX00wVEkxZEZjMEFCZmNPWTE3OVpXYmRTcHBQUUJiYjZpQjJlUEJneEdoZE0xa3YxNHU5VUFiOXJScHVORlVaNEtUN3hVeG1laVc5SVZLYzN2UmJkV2U4Zw?oc=5",
       "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
+      "title": "漢測申購潮帶動半導體檢測股大漲，穎崴、旺矽掀比價效應",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wSmh0bGdrc1Nqb0lueE82Nks4LU8zT0VFa1ZxLXVxOEtOSTIzekZhV1hSS0tQbzZrcUhMVTFXTThCalVjbHBzSGtxa2hxWGNsMDJEUEVESC1jb3B3ZHYw?oc=5",
+      "source": "鏈新聞 ABMedia",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
+      "title": "《上櫃盤後成交金額前30名（6-2）》旺矽科技(9181170)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaUVWNG1iRWRqelMtQWJLc2hpSkotUFpIbHI1Q2tMcWdOVERHQUxDRkdsNkttWHk1UDhkeDRtWUxjWHBmX2YxOE1lNHVwVFAwV2NmM2ctUElqdkFwM0s4RWtXQ2ZoQ2V6QzlPbURhcy1YbWpmM29HYTYtZ2ZURXFVMFVtZWxMMFhJ?oc=5",
+      "source": "富聯網",
       "published_at": "2026-09-09T07:00:00+00:00"
     }
   ]

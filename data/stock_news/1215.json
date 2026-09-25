@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-24T13:34:16.822737+08:00",
+  "updated_at": "2026-09-25T14:41:11.033644+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1215",
   "name": "卜蜂",
   "count": 12,
   "news": [
     {
+      "title": "Multicoin再次向Coinbase Prime存入1215萬美元HYPE，7月28日以來累計存入2.85億美元",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84SWpNY0dBc0VDdHVWX04xZ2lpWDl2Z1FWNHlvb0FFejd5X01IMldaNnI3YWMwaFZGZHA0dDdDMUJnSnRvLXIybjNEX0c2V3M?oc=5",
+      "source": "news.cnyes.com",
+      "published_at": "2026-09-24T06:30:06+00:00"
+    },
+    {
       "title": "1215 卜蜂- 泰國7-11密度全球第三靠「2大服務」超車日本- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1RDE0cmVBY294NkVDTktUTUtyY09fNGpMLVlQOU5SaE9JVWtoQ21hTzYxSG5ZeXdYQXAxMjBrMVU5RmFaaDVaVFR5bWdDeE5GNlctOGZPb3k?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-24T03:06:02+00:00"
     },
     {
@@ -19,9 +25,15 @@
     },
     {
       "title": "卜蜂法說1》不再擴蛋品、養豬卻要翻倍 鄭武樾喊年底衝70萬頭",
-      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQQXE5bF9QYmFkNGp3aGg1RzNVM3ctZWgyYThuQjZ2SmxSTHhNVDl1UmJBVXpVY2hUYkl0c2pReGdsMG5ta2F3RERWa250cG91ekYwcC0wdjk5MmtEYzhQZTNwakFPRl9IUl84R0haTXdmazkxUlNiQnBYQnpKbE1oQm1TS2w0bC1sY1JBc2tHVzlvVVZEdzF4U05PR19WV3JhU1lTOUVmbDhBeEtHZUF1N0lURmFmRWMxMlkxckowXzVXT04zMWlsTk9nMU82VGhFTThCeGFCZ19wTl9RbTROUUFGcWVZV1doaHJrNldDQnVvc29ISldtaW14VUZYT3cyZ182SGhGV29HZmhhSF84dUY1bkhuejBfWmUyLXA2Wmc1RUx6dko0dUlWUmNZYzhvRjhOcENjUFY3d3l4VjduNnJKMVVNZ0o1bFhxLVJ6TXNVaVpTTDVXZXMxMzdYMjVEU1F0Q0VXcW5JMnM5NFJ0Wmx5aHR4TzY0X3RaeFRDdkRHcEE?oc=5",
-      "source": "tw.stock.yahoo.com",
-      "published_at": "2026-09-22T00:14:09+00:00"
+      "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOMUNPUzlybVluZ252aWFidjBOblU1X2lyX2xRMk9wREVGZ2ZPY2d5UTJBQXYtcU93V3l0YWRMUkQ1eFdQV184bWRNMjlOOGlMeEM2M2RWanZsOGVZMHBPazZVQnh0MUwxbjJkcG1mRVJkRWJDaTU2ZWNBd252SThmdnhmczF2ZjdyMXR2N1JoNTM2Ti01OVdLZ09aa0FVci1KQnFUMHRtRTBFYXRjcUVHWTV4dV94SWpYeG0xTzByd2NHdnN4TkdaZkRQSEdmamt1cXRKTDk0YUtfaGQxRDltNDR1NE9oaVQwdHhMTmlHMExTeng1enY2anI0OTdOYWI0R3VUbzQ5dHU4ZnZYR0FueU0ya1R0emtyX2tpVzVhUEY3akVfTzlneVllcnBGM3ZWeHppaFpUaWRrZVAwMzJKUlBuWlFtSEdLU0lVR1k4RXJhNzlwbTk5U2h6Smpjb0l0a0EtaU5TX19LdmhWT280WkxkRlRWdDdkc3dF?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-22T00:55:14+00:00"
+    },
+    {
+      "title": "卜蜂法說2》雞肉供過於求、豬價卻站百元 食品廠今年面對兩個市場",
+      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxQMlB3WWNSTHp4cmk4eHlwR3h6RURxcHl2cEtpZWREc1Z5bUdqclZMd0hFMzBBQmpfQlFFQm0xVjJ3b2c2N1lDcVRvQVJMU3BpU1YwQkdZb2h6Q3JZbHJiWWpIRDRNbm11ZzNqMTFRd3c0a3k5Yk5iMEppUmQ1Z0lPeXVoVDRBeWxUbnZ2blBpZXV0QVdlWjJWeEF6TU1UNUpTd21KaC1YMU1vVUhnd2dyb01haWZ4WWhzYkdnUGYwdWFtUENqU2FtUDFqaEhHcXYtX1hMbGJuR3V3d3JwYU9pQWUyLWsycUU4Q3dzU2VLWUNnWW5HTExOWXk4ZmxSaXFqQlVORXI5U1AteHFWc1h2U19kZGZQd1lmbW1IajZWdDRfR1MxLXJFaVkzYU0tRHh6SkFYYnJlVkZCWDFaZFRra3VkcEVoYndOUC1mci12X2t3enB3Um1fUk9FbWt3dVN0cUtFME1XbFpRWXBEeGFEcWFRNlRHSzU4UDE5RXAtdXFjMzNyWXRibDVNdU10cUZ0LXhlQ3hjVDNyb0kw?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-22T00:54:02+00:00"
     },
     {
       "title": "台灣卜蜂企業 | 1215.TW 股價走勢與即時報價",
@@ -44,13 +56,13 @@
     {
       "title": "卜蜂今年營運估略差去年，但看到年底都算不錯",
       "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOVG5pMUwzN0NCNVVvazRUY1J0UzY2cmszMFd4aXlhRFFxTWxvMG9qUEpIZlhyak83bmxiVjJuSFN6NGNnYVFUNGFyUFRUM2JNcW10SVZDb3Bib3B3YjVWR1EybEw5eG02NG9KTDY4TWJHQnpvOUc4ZDB4NGliZ2ZDZG9VMUJaTWxrTTFEUDhpN0Q5aGFwSHNQSUdtc2NyZW1IV1ZONnlIUEV5bC1sOXA3ak40dUVDVnhaU1Y3MEZnY2RYdXRQOGRWRkE0ZVluRlV1UTJNRUV1UDh4c245MEM2Tkh0VGVGb2ZNd2U1blJIRjF1cG5qTkxaUkZhWUVHZFZYb0l0bFAwNjluandYWlpURnVuOEJ3NENBRUQxeGxWNlJzaTN6cGZ3UXA5SXR4d3JDUzJsaDFOUDZUN2dHRVFCQzY3STNxMGNBaFpmXw?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-21T07:21:00+00:00"
     },
     {
       "title": "卜蜂看原物料呈價揚趨勢，豬價年底前維持百元",
       "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPbFhQZUprcFlUNkFNcXR2TFZCRFdOQm5UdDZPbzRtb3dmWWdsR1AwS2Q2aG1ObG83and2dG9tMmFiM0Q4VTc0M0JhbEREYmt4MjRRZEZiM0hqZ1dFNHNXQUJoN21hdFIxTlFXazJQTzZsSm9DYm9yQ2FMMFRHMWJhWk1qc2U5RkRUTXN4eXZ1LTdQNEJ3NlMwaTgzY0d1c2h5Q2dKZHBCOTN0MkFEVWRNZWVKMW5mTjk4WEtTMS1WUjl6bm5zem5fZUJ5bGNWVlMzNDdVc2s5bWdnTzlmOHptcldZLVNBSldnSXdxTTNKdFBnNUNubllZWHZscEZKQ0cxbWhKTjdXajhjcHhjN3IzQWtBZXAxeDNqQ3NVdk1aX1pQaHY4WFo1aGFfUzJDQmFwN24wZ3p5MUowSnRERE1PaFJXWDhvOWJIaHBqRA?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-21T07:00:00+00:00"
     },
     {
@@ -62,20 +74,8 @@
     {
       "title": "1215 卜蜂- 卜蜂訂9/21召開法說會- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84M01fZDRUM2xEOVJnSlZ4VmtxcnlCTWRmUGRrNkxWaW1LeFpOMlpiYm92WHVGdjktamp2VmNCdGp4WDdEdmc0cXNfbnlaLUlqSXUzbWpoNVg?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-17T07:02:28+00:00"
-    },
-    {
-      "title": "1215 卜蜂- 🚨 主力加碼卡位？昨日主動式ETF 加碼這檔！ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Ld0M1dkljVUptVDZNczNMNXgwU05BLU9FSnM0U0ROb2ZKbk1XSXJhMkpTT1cwdGZiMDRzV0VQTndES0hBVjF5VXZEV3RLaFNKbndKVFJZM0Y?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-14T13:20:50+00:00"
-    },
-    {
-      "title": "1215 卜蜂- 🚨 經理人搶進？昨日主動式ETF 新增買進這檔！ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IQ20tbFdXaEZXUUZjaTBOZ0ZvSFZxZWhnQ3g0R2JwQmM4Ty1MMXZXMjF0ZWEzWEN0OGRhaWNZT1lqVEUzS0lENXhKSkR6Vmw5RjluRzJSYlo?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-11T07:00:00+00:00"
     }
   ]
 }

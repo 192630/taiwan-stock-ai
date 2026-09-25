@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-24T12:35:13.255645+08:00",
+  "updated_at": "2026-09-25T14:40:34.184136+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "9933",
   "name": "中鼎",
-  "count": 9,
+  "count": 8,
   "news": [
     {
       "title": "中鼎集團獲APEA「年度企業領袖」與「優異勵志品牌」雙獎- 股市爆料同學會",
@@ -42,22 +42,16 @@
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
-      "title": "《股市行事曆3-3》中鼎(9933)除息、中鼎(9933)除權",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMHJmNGN2WEZoQ05CNERuaUs4OWZkSFpWR01qMTZXdnhsT21QcnY4Y0NsWHNaWHA1N2d2NjVyZEFuT0pKZ193RzZQWUwzXzRkNV9KYzU2Vkg5U2E0YkJQMHhDY2JYc1F1UUZrQ1h5Y0EwOXNrOC1OQXNZZUVmUGxNa25uMXVhYzht?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-08T07:00:00+00:00"
+      "title": "【2026/08月營收公告】中鼎(9933) 八月營收69.96億元，表現亮眼、呈現雙成長，創近2個月以來新高，年增5.25%",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTG1pR3NyZXBrcmdiR2pFVFQtaldhYjk5RWdwcnF5RkdCaUZnRU4yMXdYNW5FVWo2Y0p5Z2hCNmpLM3VmVVdHdm1QZzZqT29xbEloR05ySFdsaXJPbHJtb0w4Wkc4bVdjTnpxV0NsREcweTlaaGdoblp3UXJXa1J1OU5land3WjYtb1E?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
       "title": "盤後速報 - 中鼎(9933)次交易(8)日除權息0.95元，參考價38.8元",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KREpxQWJ6bHJHUlA1eEFZVHNiaEhZbzhrbnZyLWl4SVNhb3M0TzNpR3VTMWFQeE1aWFJTWmF4YXJWYnB6aEw2MzZTckZTWkgzSnh5WXdJbnlmMUx5NUxFTzVpbkwzUQ?oc=5",
-      "source": "TradingView",
+      "source": "tradingview.com",
       "published_at": "2026-09-07T07:00:00+00:00"
-    },
-    {
-      "title": "中鼎整合統包與AI趨勢 高科技工程扮成長動能",
-      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOdEJsaTVubEcxYnpJd2xlRnFHVkZCYnI1ZkxXQlhuZ3RIbTZLYTg4TmZ5UmZxMmlVdnBoRnlLck10dmRvYmV5YzRSSUtaQk45cFN4T19tQ1VrSms5UEJsZnpjd2x0MlkwZjQ1czZHVXhFOV9MMHZ3S2gxLVMwOXJmS1AyQ1Ffajh3RGRzcUcwOVBNV3NCd0FjS2UtVWdJbzU3ZnhTYm9MSm4wa2lXd3ZON0x0RXdVbm15ejRJaWpZRFNsbFdHQ2pNX0dGX2RBaUhsT2dlVFZnTlhTekpiYnJhWmphRFlMRDZoOHgyMWhMR0UxRk1MMktjbG9sUWFBTjV3SzdfWTFjZlNXVkVVT1JRcUJUdEFyMkpxTnZ3ZC1lTXZ6aUxsMHo4STF6X0lMeW9mOUstTlB3RmViaFhRWW1XQWllRQ?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-04T07:00:00+00:00"
     }
   ]
 }

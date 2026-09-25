@@ -1,33 +1,51 @@
 {
-  "updated_at": "2026-09-24T13:34:11.823381+08:00",
+  "updated_at": "2026-09-25T14:41:04.903290+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1101",
   "name": "台泥",
   "count": 12,
   "news": [
     {
+      "title": "4個月砸123億 辜仲諒持股台泥6.42%",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YWmpiVWxURDNfcHFNZTltR2loTEhPMDlqSTN5OHNaOFRXOWlxYmZJZTlpX20wTzJrWGRJNjBsWl8tZ3liRFU2NkRHYXBLYlJaeHRybWQ0X0g?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-24T16:24:10+00:00"
+    },
+    {
+      "title": "1101 台泥- 戰爭應該是尾聲了,台泥大手筆! - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hR09DSmxhUU1yU3p3MDdDel91QlBkN1pFbnBPWElIZC0ySU90Uml3ZGZQc3NHTlZNWGZRTkJobjNGd1JKcEgtaS1QTjkwa3B5ZUJ0VTZ3Tzk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T12:23:53+00:00"
+    },
+    {
+      "title": "1101 台泥 - 商周FB 【荷槍實彈被留置4小時！台泥張安平不畏戰火買烏克... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVdEVQbVA2UXdKdkZoS19GQTRIU0Zhc0lhSEw4emNBQnRJNW1GbUptemhFd0QtVWVPajRGWENtUnRnWkRUSzR3QkczMjlxY2drSmJPVF93cEY?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T08:10:58+00:00"
+    },
+    {
+      "title": "市場如何評估台泥海外布局？",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBuZ1dzTXZjcURNTjBMY2d1TTE2dUdsVE1QalNRNG5LUzljRVVrMWJ2WTB3MUxIMHd0MktuNU5MeTVESkpEYlhKUElTZ3ZZWDgxZXVzLXZ4VkZBRUs2ejE2Snp4SnVHeXVpZFA4QkpzYnI2djdXMkQ4RnZHaw?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T07:47:13+00:00"
+    },
+    {
+      "title": "1101 台泥 - 大戶又賣光了 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DNC1rNHh0R2ZfMnctY09jSnlJSVBXX0E1b1prTXhWNDJudHVCSlN5elpCSVhwTndNRXFKandsNlhRMkJEU0g2SGpLTnN4QjNpZGN5RWtsdEg?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T04:55:28+00:00"
+    },
+    {
       "title": "1101 台泥- 台泥經營團隊就是會洗腦散戶,怪不得留下的都重傷- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XRkVWaVAtUzlfeDllR1dpdW85a1F6Yy0tSWtyV05uNWQzbFYxdFR1cTEyd1BQTkdKeElIS252WFBFTUlIZ2c2dDVtYUxjZXhDdTdnVk8takY?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-24T01:35:02+00:00"
     },
     {
       "title": "1101 台泥- 台泥砸272億併烏克蘭同業卡位俄烏戰爭重建商機- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1idkdOXzNlMnNIMVZMekNacUxKWEZPcXlzRFVFY1pXUlptN0N5RzdxcHFMVEFiVV94V3R4V201RFRVSl81MmozUjItb2Faa1VkNm1BQVZxdFQ?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-23T20:20:52+00:00"
-    },
-    {
-      "title": "9／23台股雷達｜金像電、晶技、台泥題材點火股價強勢原因曝- 證券",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HQmoyUTRtYjZxT2QzbWxIU1pwdGtVaGdYbEdaWV8tRElhLWljSEIxSVVXZGc5QmpQNjVMT283Q3g5dTdFWTM3X3o1MHlacWtmNnlNZ3dJeFZhMy1WQ1Br?oc=5",
-      "source": "工商時報",
-      "published_at": "2026-09-23T11:27:00+00:00"
-    },
-    {
-      "title": "1101 台泥- 9/23(三) 外資 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrVElSRWtJZVBCZGtmTlFULWRfWG9KRG9Pa1B2WHBaZnhnTWJaU25pQnlCZjFhUFdqWGt6eWQyelRoTGhkdzBUeF9ORVJSdnVPVGJrOW5TaUM?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-23T08:13:01+00:00"
     },
     {
       "title": "台泥併購烏克蘭第2大水泥商 股價飆逾6%、成交量突破5萬張",
@@ -42,9 +60,15 @@
       "published_at": "2026-09-23T04:11:07+00:00"
     },
     {
+      "title": "台泥砸7.5億歐元收購烏克蘭第二大水泥廠 股價急拉逾5%",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ2dhQnlEUk8zSmRsYnNNUm1VOVdab3NYZS02VENTSTNhVHQyMVNhdEJzMkpyRXNvWmxhUi0tOUtwamFWeDd0bThBcF9Sb2E4cGx2dVRKQ1ZqUFdNN0xLY2UxZ3NRUnpBV2FNS1pQOWpuREJmNW5fS2lfeVdzTEN6WFlMWG1Cdw?oc=5",
+      "source": "緯來新聞網",
+      "published_at": "2026-09-23T03:45:00+00:00"
+    },
+    {
       "title": "台泥擬收購烏克蘭第二大水泥公司 股價急拉6%爆3倍大量 分析師籲勿追價",
       "url": "https://news.google.com/rss/articles/CBMiyANBVV95cUxNSjNGbFFWNVRhd0h1c3pUWi1ySnlLeWtqMHdyT3VTZFk0OXozT2I2QUxmZWphUzl2bXFTX2lLdUVsdDVQQWdzRG9rcjVzV3AwM25MRnNUa2xYV3F5R1JtUzJZbm1uZEpWYll4S29JRE5wQ2V2d21KRUpyM3JiVEZ6cHdNLWtDMnVnaWxDVnA3T204S09BTkM4WGdpSkU0SHh5TWsyVnRMNzFLTlNMeGpRSWhWM1UxUjJtT1Bnc1VLeE8xN3Qybko4Z1JpZ0o1RFF4eDM3WFpkZ3ZzWXdWampRbkZqb1haVncyTm15Rm80dU53TU9xOV9YOFIyV1NudW5XRzFvallsZERrMUZIRUJzM3YxTUNxQmQzNUtNdUtPTDF6QV9JUFBpeGtVekY0bEVUNF9tZ2RIcWExWFZLYVUzbEVQRkxJU1ZRM1RibUk5MW9VU19CNjd2RDNaVG40WWEtSWNNV1d3TzBxQWJVSE9aNTZhLTVBZDEweUFOejgwa1haQVpqYllwUi1xelVPeFhEZWU2WFZ4cXdHYURQcVUzVlJJVWN2QVlJMUY2OEtsS1NSejBqTkd4d2xLdlpBeFdqcFFjM3RXQzI?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-23T03:43:23+00:00"
     },
     {
@@ -52,30 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95NlN3VVFYcjZTNE40QnkyTDItS0p1MTViMGNiVmdnTHB4T2hQdlRoSTJodF9oZk1lOTVOeUJuMkQ5eFJudW9aRkJXQkIwYzJsTFHSAVBBVV95cUxOYmZONlRocHU5NkZNLVFUWkRxR3RkMkotZHp5TE85MkhDWHVIQVNnN2JVeC1Sd1J3Sml4OXd5RXlpbjhGa3BmeW1pUmQ3MFpkaQ?oc=5",
       "source": "ETtoday財經雲",
       "published_at": "2026-09-23T03:30:00+00:00"
-    },
-    {
-      "title": "插旗烏克蘭！ 台泥清晨拋「重訊震撼彈」 股價大漲逾5%",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NcDVTbVpZTEZCamtiVnpLTUFfTnpldmV6empHalVqTDIwSjM5cllzYWFCam5KMFQ3czZMVWRVN3Y0dEJxSUNZVmREVC1OcjBmZ1dsUll0TQ?oc=5",
-      "source": "東森新聞",
-      "published_at": "2026-09-23T02:49:00+00:00"
-    },
-    {
-      "title": "台泥擴歐洲版圖！擬7.5億歐元收購烏克蘭第二大水泥廠 早盤股價急拉逾5%",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1RVh3VWE4cW9tMFBPWU56UlhWUXQ5dkRfS3hhc1ZWdUZ6MWNRcFF6a0FzUjh6bUQwLW92cXJFQzFDZlhYTjE1NFRqOFFpeWFOZlNIVWRSLTc2Nkk?oc=5",
-      "source": "Newtalk新聞",
-      "published_at": "2026-09-23T01:58:07+00:00"
-    },
-    {
-      "title": "股東扛水泥！台泥臨時股東會發水泥袋斜背包掀討論",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3M2pnWDhCeFRDaUNiZU9QekQzUUhnc1RkbVdDRkg1dDI4d0Rtd2l2blYwSjBaMEp5YTk5dFJ5WGFkRlBqOFBHNVBQanlzUkV4NUhyUVRqNkPSAV5BVV95cUxNeVRGYXY5WEVfUnpHZHdmQkQtblJBbEdoRnZwNk5NWTdDdzdxVHF6aDY3a2NQbDZmZ1FiczBOQVJkVDhBQndCNllKbVZiU0xwRkRBRFp4X1F6cjhyQmRB?oc=5",
-      "source": "鏡新聞",
-      "published_at": "2026-09-23T01:04:00+00:00"
-    },
-    {
-      "title": "台泥臨時股東會送\"水泥袋斜背包\" 開賣1年熱銷破3千顆",
-      "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQZUw2MHhKUjJPdGxGbnVjMllXOTZpNk1ZUW1pSHdBdFVtWnNESjRHSmoyM3U3d1VzVi1uLTdfdV9BSG10UFVLYS12YUdrcUN6WUkwVkNrOVFGU1lycVFiQ19sM1M4dWtEOC0xX201Qm1ucWJRWXlaRng0ZnFfcGlhUzRyZDJzSFVlOXMyZUNPcmpSWE9hWEhtZzhwdnJxcGR1UFFYY1U3TDlTQWdKSnFtQUtnOUR3Y1RoRGpEa0k3TTZjZXZTTWxjV3J5OWFQc1N6VkZ5Vl9JMlFOX29UUnVRbzlBMVBnajgwcXRXSTl4cXlMUXhVVkdiTDcySGlzdHBnU0pOMldKVFVCMjZpMXl0bzMxbDVZcUxtX21kVFlJX3BpZEl5YmdabmFTWnJ0SnJMWkFIQjdLeFpOYnd4SlFsMmpCNXNTTnZWX3A0ajhpalFsZUxyazVBYjZNb2RSVDAxbVd6a1lKZkg?oc=5",
-      "source": "tw.stock.yahoo.com",
-      "published_at": "2026-09-22T10:51:57+00:00"
     }
   ]
 }

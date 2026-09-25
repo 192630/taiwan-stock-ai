@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-24T13:34:09.966324+08:00",
+  "updated_at": "2026-09-25T14:41:02.688825+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "0055",
   "name": "元大MSCI金融",
-  "count": 9,
+  "count": 10,
   "news": [
+    {
+      "title": "元大MSCI金融(0055)配息、現金股利發放日總覽",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhV3ZtZEtiZ0kwQlBTQ3dhMmJic1c4YjJIQzRZYnRyQWlsSVFMYnh1MW12UDNJNHA4cS1UeS1wZ1BlOGdQSWtsd0lhLTU1MU00Z2piZGNkZkhaMm8?oc=5",
+      "source": "pocket.tw",
+      "published_at": "2026-09-22T07:00:00+00:00"
+    },
     {
       "title": "富邦金、元大金、凱基金...金融股漲翻了還能存股？拉長16年才看懂：0050 VS 0055報酬差2倍，股災誰更抗跌？",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQWNWNGhObnFBMjMyVFpmaFZzQkFMTUk1ZVVZWGNYMU1iUTluSWxhOFlDQ0x1M1hkb3RXSmp6cnJjWUlYYldUSlFQU2c4ZDRVdUtIdFFmMWp6Nk1wWUhTclhBVG03Y0NEOFBuV2Q1M2xTLTFYLUR4Yks1ZU5xMWhscA?oc=5",
@@ -18,16 +24,16 @@
       "published_at": "2026-09-17T00:39:00+00:00"
     },
     {
-      "title": "金融股不是最後一棒 0055飆10.3%逆勢稱冠 - 財經新聞 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMnl1Ymc5ZWhYdGxuRlVmUkhpamFzZDJzTnA3U2tXQjNQT2c2OVcyeDUwbF9HM2ZjamlWcW84RmdzNG5NMjNvREJ1RkhDajJHMk5jSms3OFduWXBmOW5HMW5TMWtqU1ZtZ3NJQ2pBa3ZhTERXNUM0YmpDRmhPSlhrX1lnUUx6UlV6UzhF?oc=5",
-      "source": "PChome Online 新聞",
-      "published_at": "2026-09-16T08:46:19+00:00"
-    },
-    {
       "title": "金融股獲利大爆發 9月以來台股ETF報酬率0055奪冠",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lTG9KaDA4SFVOWUhRZTNNS0daT0VVVXRjZGd2NFhGX0tReHBSTkRhSnM1N190eHJGYkZ1RXlLREFsRG1faVl2ZTd5V3R3aWE5WGNZdXpYNVA0T3RXNkNJ0gFkQVVfeXFMTUd2VlB6dE42Y1lXUlZTWVRsYjdFMXI0aTBWcDkyZXVKM1lXLVE2WUEybG9PcG01T1JfUHhEVjg5WEY2bWthSDFDeGtReFVlZDFtNDlpVWd6anc0a3JiM3laSDNEaw?oc=5",
       "source": "自由財經",
-      "published_at": "2026-09-16T06:32:15+00:00"
+      "published_at": "2026-09-16T07:00:00+00:00"
+    },
+    {
+      "title": "金融股不是最後一棒 0055飆10.3%逆勢稱冠 - 財經新聞 - PChome Online 新聞",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMnl1Ymc5ZWhYdGxuRlVmUkhpamFzZDJzTnA3U2tXQjNQT2c2OVcyeDUwbF9HM2ZjamlWcW84RmdzNG5NMjNvREJ1RkhDajJHMk5jSms3OFduWXBmOW5HMW5TMWtqU1ZtZ3NJQ2pBa3ZhTERXNUM0YmpDRmhPSlhrX1lnUUx6UlV6UzhF?oc=5",
+      "source": "PChome Online 新聞",
+      "published_at": "2026-09-16T07:00:00+00:00"
     },
     {
       "title": "金融股值得投資嗎？FOMC升息預期狂飆，0055、00998A、00919…熱門含金ETF投資攻略",
@@ -44,7 +50,7 @@
     {
       "title": "0055 元大MSCI金融 - 今日最夯ETF／台股高檔修正、金融股逆勢上揚0055漲近2% - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ucEtkYi1EeDktQjVsNHg3NEtNNXkzS0Q3bi11azJvZDdBMnd1ejdjN2pJM2o4czVmbHRtaXUyS1VwTGF4ZmNJa2k0NHJfbzd4VldfV05QZXY?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-14T07:00:00+00:00"
     },
     {

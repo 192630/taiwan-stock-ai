@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-24T12:35:07.815482+08:00",
+  "updated_at": "2026-09-25T14:40:27.591287+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "9917",
   "name": "中保科",
-  "count": 1,
+  "count": 2,
   "news": [
     {
-      "title": "【2026/08月營收公告】中保科(9917) 八月營收16.36億元，表現亮眼、呈現雙成長，創近2個月以來新高，年增4.4%",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56T0dORHdYdV9FanRCYWpCc0dwQkg4dkItM0hSSENOX3FMUWRoYTJhbXo4QkEzYnR6Q1lDdlZNb2d2MjZhYnpGVmFMM2lkQ1BvSEhCOFUtZlJtZFNldjhIQkoxbTNLU2M?oc=5",
+      "title": "中保科(9917) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OTFA1RzJxQkVBZlNNQXFaakhVZTZWQzlxVWtodDdsc3FhdEJtWlNpS2JCTmRRejZyVVhkdHp2TnJJYVdvNGJ3eWRrdmVpajBYZkU0?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-09T07:10:10+00:00"
+      "published_at": "2026-09-22T23:13:27+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】中保科(9917) 八月營收16.36億元，表現亮眼、呈現雙成長，創近2個月以來新高，年增4.4%",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTGhmazRqaGRnZklBUm95VEdqRk5STnhFOFh2T01iUnZ0MFpLUW9jb1J1UE9TZDB0emVwbjBuQ3BCYkhmZ1lzR3Z1d1l4TkZwVnN1b3RreGg4ZWxqVzFDRm9wLUQ4VnlPdlpmZjZFbzlRcWJGNXEyejZXMjM3dmlLVFpCbkFfRjVnNWc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-24T12:35:12.341789+08:00",
+  "updated_at": "2026-09-25T14:40:32.837966+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "9930",
   "name": "中聯資源",
-  "count": 7,
+  "count": 5,
   "news": [
     {
       "title": "《綠能環》中聯資源9月23日受邀參加線上法說",
@@ -16,12 +16,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdy1DYWdMZVo5MndwT1RFQ1c2U0NyTy0tamNEeE5iZTF5cjlTTEs1Vk1ud3A5SldmV094TGxyU09MOHBJWXVkT3hOdFZRVkptWlR2RFhDU2ZTbjA5dUhrb0o2WjAtVEF5NWM3Z04tT05rQmFfQzRRcG8wNEgyLUdsRFRjQWc3MGRC?oc=5",
       "source": "富聯網",
       "published_at": "2026-09-22T06:40:00+00:00"
-    },
-    {
-      "title": "Kitazawa Sangyo Co., Ltd.收入明細 – TSE:9930",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBuc1VsQ3hZcHN1SEtsU29KeWFxR25QLUtMNndjVjZMZkdibXhEaG9QRDFoSFhveU5aVktKWm1ZdDRGaW96U2lVLWo4dWhHSFZOTUY5MkJ0MjRZcXdHRElwdWI5RDZnaXFhZ0RhVDJibjBsZw?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-16T14:35:32+00:00"
     },
     {
       "title": "個股：中聯資源前8月稅前淨利9.15億元，科技建廠＋公共工程支撐下半年業績",
@@ -40,12 +34,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQd1lIa1FSaUhTb0pyVmIwS09uZ1QzZGFQdmxXN2t3Vko5ZlBLZXczTTBNbG5pdVg4SzQ1UFVUbnJmSFBSSGFWaXdDM0ZzV3h1b3NfS2dQaEpQRnV5UDdMSnd6SUhmRmNibEM1WUppNmxoVW5ScmMyVTNMZmpZQ1ZRcndjV3VPRWRw?oc=5",
       "source": "富聯網",
       "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "營收：中聯資源(9930)8月營收11億5059萬元，月增率-3.90%，年增率6.03%",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNVhWa3ZBdmpHUndNbGpENDI4TFpXNFZDUXhhR21XNTVxUVBiVVhNSUJmeWktSFJtcVpiSEpqZ2VTUE42VUYya2s3N3FGdEV6YVkxYkZDeld4VGQ5c3R6YzVzRzhkWG1wYTdHeFNBNnVzSFd2MFRpRGdUTUJpel9tYm11emctY21R?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-09T06:09:00+00:00"
     }
   ]
 }
