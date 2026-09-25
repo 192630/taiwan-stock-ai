@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-24T07:30:36.187858+08:00",
+  "updated_at": "2026-09-25T09:32:17.073297+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6689",
   "name": "伊雲谷",
   "count": 12,
   "news": [
+    {
+      "title": "伊雲谷 6689",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZTFkTjlkMEFua2tEMHZXMndITVJQNFBlci1IbHdwdWhubzhmV05mbndMeVVJU19RN1hqRzFDbG9UNXg2WnBacVNSNklVLWYyUzZHS2pibUJPMkJVRC1tY01oX3gzZlNOdWFYTVF0TFdoX3Ryd184MG94cUZjeDlodXJXT2swQTlKOVpKdGt3Nmo3bWJGdGlsTUZISHFnVHNhS0F1by1Leno?oc=5",
+      "source": "stock.ltn.com.tw",
+      "published_at": "2026-09-21T07:00:00+00:00"
+    },
+    {
+      "title": "6689 伊雲谷 - 資金今天流向網通 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EaEFXd3lLNjJFM2gtZUdacHBFTndsNGpPa1NINGppVG1hNVBvTDA1dU9GNDNhaWFnSGEwajhCczlWSU5fVFlCOXlLWVdvZ2FGVUJjM3ZIYTM?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T03:57:45+00:00"
+    },
     {
       "title": "6689 伊雲谷- 伊雲谷，9/15爆大量，有提醒大家，接下來下跌回測缺口補滿了... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UV1M3Ynl6Wk1RaTE1NmpGMXJHX2dIdGEwcFc0SWozMTJNbl9pVTdPUWMzMFlQN0RJemp6N096VzdBNXBSVmRVUGVMMlFZdzBFR2hDTTgtenk?oc=5",
@@ -38,13 +50,13 @@
     {
       "title": "資安股嗨翻了！創泓科技、伊雲谷、邁達特漲逾半根 「這檔」切無人機攜華經等5檔亮燈漲停",
       "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQMFNuMWpJTWVFV3ZJNGs5bFRoVHdhV1hTUDRWSTZhajA0SlJJUW9sckpMTXJIMEtvZXpGNXFoRUJzV2tEbnlnaThZbDQtdjR1S2dMNHU3b2xmdzVTUUFncGhoRi0zdzVrcGVIdllST2pHMWxEUU1yeGczV2REb1JVM0RhVUs0VlVaRm1Zc1c5NUI1X1I5QnB5alI4bDdwNURrempHRk5UV0F2V2RlOHQwMWRrdXQ3S1dRQV9MTmJ6V2RZY3RtQ3lpSnZhekR5RlM0MnRKYWs4c2JDOVVHaWJrcHB5c25melVGOUFvLWhtbk9XYUxtbUNZdTNMRFpEVmkyUnJXUjA3Y21iX19qSldLeEtKTmkxYmNGTUs2TVU3YWtZekx5RTlyUDNVRFhsYm91XzM1TnlQZzJDd1dWcnJhQmFCUUt5MTRUMEZGNG1EaFR3Rm9uRWdEbHpCUDVsNmZZNERrZndrR0U?oc=5",
-      "source": "Yahoo股市",
+      "source": "tw.stock.yahoo.com",
       "published_at": "2026-09-13T07:00:00+00:00"
     },
     {
       "title": "AI資安點火數位雲端股！伊雲谷盤中攻漲停 中華資安亮燈鎖死 分析師：先別急追",
       "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxNcEZrYlRJZ2ZqdTlHdm82ejZ4bDFfZ3NJdlQ0UXRIbm5pcEd5eHJJa2ZrWW9rREs3NGE1a0g3STd1NF9lV2RPa0JBbFNvWld4X2JPWXpQMXNQYUIzRmRldkJOdjA0RmwwdF8tSV9kenFtdDJaNDdHYnhib1lwbmhxZWdtbWhqcktmSUI1WlJtRnFrZDNGRXVKMWpsQ1Z5VTNYXzNFQThxaWtOY3lsOWZNTU9TUFo1dklhdzY3MHlpZTY4TGU1T3I0QjFNNHFsdkxyOG0tcGVjZ0VXcDFtdVFic3BZalc4bGZTVVJreG1iQzdld0tKWDd5QUhXWEVwM1hLazJqcUFMQnpTM1hDdW9lQ2dBd2pobVJUYU5lOW04SFFkTlFYQVc2TWZ4N3BGSjE4ZmM1YUhlRjhrbEppeXZUQUlhNE11WFI3eEdrMzZMdFVyX0d2d1NMN2syTkN2MFczNkZveDdoYVR6aHNOMDVfSHRiclhHQ0g1clFwcFYxaXpOLVNwVGJfMEdTWEhTSnNwbktjODNXMEZ0OWFwYkxmaXhVYVZFMzZzSTJOT0RVaFpkS1A3YldfblZNdHBNRkhsX2JLUmphYWR2czZIQ3dXX0xrQ1d0TFBiMFFnbHo0TUhwVGc4WFpBUVgyTHk5TUp0UC1JOGFCeUE?oc=5",
-      "source": "Yahoo股市",
+      "source": "tw.stock.yahoo.com",
       "published_at": "2026-09-13T07:00:00+00:00"
     },
     {
@@ -64,18 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfblh4Ykxra1NveXlXejA0MEoyRG41anRiQnV1UkFQTmxMRExEREZPVGVHSy1NUnZtdHVhV09HSUpqX18tVk1ycm5pcHhHS19GTDlTQjhB?oc=5",
       "source": "LINE TODAY",
       "published_at": "2026-09-11T07:00:00+00:00"
-    },
-    {
-      "title": "伊雲谷集團5家公司總動員！進軍企業AI 串聯OpenAI、AWS、Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQZkt4bTh5NnRBRTRMdUxvc2FnSGVPQlJXNVBSQWlaV2dUc1p4dDNZLUY3SlpBaHBFSjROdVN0ODc1TXhDN1NJTk5NMElYYnlLejdDOGNqUE1lU2J2MUlFWEl5c3k3UW1HVGFEYm1DUFN0N3dRZllxT3E2QzlsVFI0NVdBOUVJYTVtSXZjQjYyTkx4V3AwOXBOTnVGczlDNTJFQ1RSN05LdWc5VnNnekVENEx6aV9SVzFWeFE3M0wwZFF2MW5KMDR0OVZRWmh1b09yNWxsTkMwc2U2OENhd1pyRUxmX2lJSFU3ak9DZTdEdFQxMldFOUNpSmt2bW1IMWNKV2UwRTRzSWlNUGdZanJocm0zYVBKNGgwbTNEZ2VFRGNhbVdHeU5vNUhvV3AwY29mWlpfLS04eEJndGg4WF8yRA?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-11T07:00:00+00:00"
-    },
-    {
-      "title": "伊雲谷(6689) - 個股概覽",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZTFkTjlkMEFua2tEMHZXMndITVJQNFBlci1IbHdwdWhubzhmV05mbndMeVVJU19RN1hqRzFDbG9UNXg2WnBacVNSNklVLWYyUzZHS2pibUJPMkJVRC1tY01oX3gzZlNOdWFYTVF0TFdoX3Ryd184MG94cUZjeDlodXJXT2swQTlKOVpKdGt3Nmo3bWJGdGlsTUZISHFnVHNhS0F1by1Leno?oc=5",
-      "source": "stock.ltn.com.tw",
-      "published_at": "2026-09-11T06:04:21+00:00"
     }
   ]
 }

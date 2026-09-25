@@ -1,27 +1,33 @@
 {
-  "updated_at": "2026-09-24T07:30:51.796829+08:00",
+  "updated_at": "2026-09-25T09:32:33.759378+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6757",
   "name": "台灣虎航",
   "count": 12,
   "news": [
     {
+      "title": "台灣虎航攜手故宮博物院推出彩繪機（2） (圖)",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOdHphVG01Vmtjc3d6aGlpX0NiTm1BQUpIRkdvNEwtUDNpQURiTHNyRkFVeEJSdWlKX0pvOGxBbGNPUkpaby10WlNzem9SSmEtSFozVEZnbl9SYUR0bVBCZ0RoLXJUUkRmX0lFako4N2hoWjdkZXNPWi1tc0dYc3lpTFIxbHRrWFZ3ZTNRalNLbllFY0JTTkFHVDR3VkdCdlFDaE9scktxMjdfR0ZEekxzLWZjZVVIM0F2NzVwZngxTEsyRTNLU0E2SVRJc0FyZnlUWFdEcFpkQXNEMnNhQXFmQWlEU3Y1YllURjl6NXN6ZHd3Njk3VE5tNWRHQklhUXRFNmRFTTBPUFR3NW1SeFdoX2FjWDZsaWtZR21mUXo5YnRPS1k?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-23T10:00:39+00:00"
+    },
+    {
+      "title": "台灣虎航攜手故宮博物院推出彩繪機（1） (圖)",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQREoyajZsT3BuYTV0YVBPWW9Oa0JEVGpFZDJNazNUOEk2YjZjTjFubHhNWjQ5Z3E1MUROT2RwdEpkRzFpS1UtZGF6TEhZeGo5bDNDbUdXaEx4Y3FOdTlTNTBjZDNSN2JWbnNEWGo2OWJ5UDc5YTJ2SW12MTd6bzNtVmhWZ0cwbWNJMnQ1VFl1UWZrNUlwUUF4SHI0LVVkYktnaFdxMFZVUFdjem4zZkJ2R0ZUUjBUUDdLNk1ma1BIcWN4RzMtRXJuaXlGeWZjdE5qYlNCYmtWTXUwcE0wTnFFVXB6YjRUZDRMcjJpWFVnbG1hLWsyQllrV052VlpaYkxIR1RSQy1pUG9PRU9BcllrYWpTNGVxRjNJa2k2NDMwdGxxblU?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-23T10:00:35+00:00"
+    },
+    {
       "title": "台灣虎航攜手故宮聯名彩繪機 翠玉白菜、肉形石年底飛上天",
       "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxNQXY4YTkzTG15UVUydmpwUG1TLVpCMGl6NTNWbE5RQmc1Y05WclpXZkhMVXBsVGhjX09XSEh0UmlIdUJvSVFkYmc3RkNQWElxcy1wWnZ0OGx3aXlrRU9oSWdmMDJyM0dMLXdGNEliUWJHSnd3bEFBRXBUUXlsTjhiYlctb3BGSnEtMTNsbkZQM1B1d1pqSzltTXBkNE8xUE5qaEZxS3ljMGRtLXpIeVdVekRJN3dRSGV1SkZ0ajNmZF96MnI4QllPSjllenY3OTdwYmUzRkpCQUhrTllhNUF6WWkxci0tSl90LThsM3RWdzF1LUFreVFNTTN0U2hNQVhuZk9adWZOaFE2dmZDM3YtSjRUTGpHQVIxRk1fMXFvOVNZdnM0Y2thNnJkZV9GUmlzYWhDblpCeVE3NVZaLVRqWlNFeEJjZDRXNlZNWnlmTDJ6Q3dVdVZlcV9yT0s3WkVGNXlFd3FfQVZkT2FJMXlfNXFJQTZTQ2p4a1ZVck1TRS1xX19hQXprWXlRbExxbk9LNHhFTQ?oc=5",
-      "source": "Yahoo股市",
+      "source": "tw.stock.yahoo.com",
       "published_at": "2026-09-23T09:20:01+00:00"
     },
     {
       "title": "台灣虎航攜手國立故宮博物院推出彩繪機 10大國寶文物飛上雲端",
       "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxOU0ZicVp1cHVZWW91OGFmdFRLVHRFR3h2bFBXWkpYX2ZfQ1N4MXRHdjJwN0I1R0xKZ1A3N0V3LTlGcENCMmlwZngweWlRUC1KNC1yMmEtaUdlbFBaVGFBU1Y3c3o0cXpOZENnUXc0bms5NHdhVUZOOEpkdWdxR1MyZndhNl82Z2VZQjRBbnFpaDdBWDdqSWQ5TTBrUnYzNzVGaktteXVLVjY5NjVNTERvRGYyVEtvUHBDQ0NTcTFQTnRRR1dnczdEYlMtOEtFM2xvdTFXall6NkE3b1FTWUhkVWl6aGgtOWs2TW9YNm10T0pOUVl2Mk1jZmhuc3NwbExOT3AxLVlTaDRwUzR0NnBIdngxSjB6VjNBeUlJRFBXanZRX1NlelFqNGMzdlU3d05TR045NTJzWDR2eEVfN3NUdnNQN0NrWjAyNER2WllId0VyN3JwQjYwcmhDeldvZ2FLcnRQVFlHVTgyeXlPWk1XN29lazFfclRsaENuNC03OXo3VlNqcVZ3YV9JQlRzQkZ6enpfWmlkVUFjeElGV0tuQTM0Q3M?oc=5",
-      "source": "Yahoo股市",
+      "source": "tw.stock.yahoo.com",
       "published_at": "2026-09-23T09:13:52+00:00"
-    },
-    {
-      "title": "台灣虎航攜手故宮推出彩繪機！ 今年底10大國寶文物躍上雲端",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiNzNLZ3JfZUhKT1MweHZCMnhGZ0NUWHpHeHlpY0lhQ3IxQUFFNERselFLUEVkUFllelNzbkprRms5ZWFGclMxWkNPcm5lallXQVVMRFV2bmtIUXZqSFVveXI4VTfSAWpBVV95cUxQRTNOZ2pwZGNYREx2X3Y0MVA1cUE1ajJMekR1STd2Qm1Yd1Z6U3h4T0lMREpaa3prT2N2ZXdBQVJWcGVXREo1a0V0UjNjLVZjWnRDMXUzT1pDcG1JUk5xQU1DSDVhcUY5WnJ3?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-23T08:23:08+00:00"
     },
     {
       "title": "6757 台灣虎航- 杜鵑颱風影響今往返東京航班異動一次看- 股市爆料同學會",
@@ -36,16 +42,22 @@
       "published_at": "2026-09-20T11:21:45+00:00"
     },
     {
-      "title": "杜鵑颱風影響！台灣虎航明2航班提前 桃園、高雄往返成田旅客留意了",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9TNmVydWRSQ2tPSXIxS1RhOTVOYnpCUkcwdXNwdWZCeXloOW5BOHNvcXlGVmhvTUdTMUpnY2RfM1JNMkFUTVlZWjZrMjLSAUxBVV95cUxPUzZlcnVkUkNrT0lyMUtUYTk1TmJ6QlJHMHVzcHVmQnl5aDluQThzb3F5RlZob01HUzFKZ2NkXzNSTTJBVE1ZWVo2azIy?oc=5",
-      "source": "三立新聞",
-      "published_at": "2026-09-20T09:06:00+00:00"
+      "title": "杜鵑颱風來襲！台灣虎航9/21前往東京成田2航班提前起飛",
+      "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNclhHTWMxZE1iMnpfMHAwbUVGMUxvTUY0TE1OSnUwUUJtOHhqVHN3ejZKZS16enViQ3dnS3ZnVlRLWm9pQmNVblBoM0Ruc2pvMUtRbWFKUEwtdWJHaE5rMi1Xem51V1hxVXl2LTBkZEJ0SGhiOFpEeVpZNEktcndYT1JzeThfaFhPQW9WR0FQY3JuRUdkNi1OdGFDWjY3QjFpLWZBUWNwVnNESktwS2FmV3RTQi1kQ1hKLTRqajdPTGFHZjNIdlg1Y1RsVWpVdFZQUkJfUlNTWTNBZDZLc0UwSzBsZ2k4T0FNazRQbkZtV05BU053OU8yQnVLM3gtaXB3ZFoxRHNXeElvU3Vrb3FiWnRXR0tFZmR6RGtzNkpkY1I1MmlneVJlYWlIdVM0dnh5ZkxQOUstRTIyWFZRaW56SDlxV2NLc3Yyc3J2ajZ3bXVkNkUtak5YV0lqNHdmakZTWlA0?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-20T10:41:52+00:00"
     },
     {
-      "title": "杜鵑颱風影響！台灣虎航明2航班提前",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oZ1FEYlljVUNRN1dDTUdSR0w5YjkteXhTelRaWjRuTTFkRl9HVGpWWWJTVFBFZmxsejg2XzUwSHVxVEc2V1FXV05WUF9WS1hmUTZ4SVNLUDVLcDRSek1qaFZn0gFiQVVfeXFMT2hnUURiWWNVQ1E3V0NNR1JHTDliOS15eFN6VFpaNG5NMWRGX0dUalZZYlNUUEVmbGx6ODZfNTBIdXFURzZXUVdXTlZQX1ZLWGZRNnhJU0tQNUtwNFJ6TWpoVmc?oc=5",
-      "source": "鏡週刊Mirror Media",
-      "published_at": "2026-09-20T09:06:00+00:00"
+      "title": "台灣虎航淨灘 黃偉哲盼持續合作開闢新航線",
+      "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxOQkJUX1FWZXlsTDAtWHZaZGhRQnVMNTJQYWZlRUczMnVzYTUyQXFDeTEtcFVBZmJhSkczTEl6VjM5NU1JSjZhM2h6MERKWU1IQUFCcjhOYzFFdlR2TmFXMkVJOFlSOGhFc25zUTVfSjNPTl81dWVIblg3S3Bjd0ZBQzZmX2wxQ1BjUXRELTlrUlFrZ2l2QUNSMnFNYVpuRUMta3JDLWE3YTVaakZzaFBQaEpJX3F4RHdBVk1Vd3F0OWNWUW9KQVpsa0ZFdi05OExETEZzRWFMaVhxQjhFbTJzSGFYTF9Mc1NSc0NIcUxGUjZ2cmx3TDVobkRXNnBMWkVucGhjLWRDcHRxMEJXbTZCT21JUnR5ZEVQRU11R0o4QklCcXgyZGtNVDNEV3NmQV95ZEItemYzWTl1U2VMZndfbm5mcGdUWmt6UFRvQUpJN2FUc2xYOFozdGV4bk5KcVRTV1NWRGZoc3lHbVNvUm9IWjFDSURMTTFwWG9uNDcwb1IwMXRCUFpRTVNoSk93TlU2OFZPZWM2V2RrY0l0N185QXFlQXp1VU0teFNaNV8yM2FFQTN1bDVYeFdOaFE2UVNIeFotam9FU1p2eVVHd2tsS1pWdzZZT2Rjam1xMUQ2Mi1VQl8tT3hacU9VZ0Vydw?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-18T05:10:31+00:00"
+    },
+    {
+      "title": "台灣虎航台南漁光島淨灘 黃偉哲盼合作開闢新航線",
+      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNemQ4alZseVJfbHpuaDFGNkEzMTNvX0FpdnZLYnJpblF1aUthdTc5WnN1MGEtazVfcWxZV1ZHcG8tTFRjb3ptQ1VNM2hydkNEeVRxSllJUVB4dVdadG80TTYxOEk4emxEZ3M4YS1hQ1VoaFdxVGZxV3g2cGluZTNoYWV4UzhDZ2pYNTZ1VUdLUk9XMXAxRlpOYVhncDhHbTFtdTZaTGdxYmFidFN3NU80Snpwd1A3RnhRVUtrdWw3OThpQl9BNFpnWk9TN09YRXpjMzZXLVRvZEM0alhReUwwRGJEaWJsZVdhWHJUSjloUkZOZktwUFdyZ3JpeWQ5U0pETTV5dnhOYzZQQlJ6SUxTTkJyYmZzWGYzb3diNkJ6UkZLU2N6UEtqS3RhVXU4SG5ZaUpZNVIzSWpudVlhUGhxN0JDcWNFeE5DemZ4ZVpROTJ2Y1VZV3lRVk9jQUU?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-18T04:47:05+00:00"
     },
     {
       "title": "記得設鬧鐘 台灣虎航歡慶12周年全航線單程512元起 上午10時手刀搶票",
@@ -60,22 +72,10 @@
       "published_at": "2026-09-10T22:34:49+00:00"
     },
     {
-      "title": "台灣虎航8月營收17.8億元 寫歷史同期新高",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOTDE2ZTFzbm9ndzlaVWZtYlJ0dF8yWlBzblNBVVJVWjZCRkhDNFl2d25aamZQLTlyZFZpb0taSmRubGMtWDhXbEJEbkM4NGNmMjZXTWNvSTJxRktnYW01VjJfYkFLWmlEbW15MEwxeTBxVHBDaUg2OGdoUnUxaWRKNWxlTHQ3RHlmNzVWT0hzNWV4NFhYZEg0TWU3ZlBXRGhXalNUQUNwOXluT1lrR0ZpMFpMQUh3Tm9PcUw2d1JSZDdkWklIck1IOE9FLTlBeldpYmhmTTdBN01QTjVWMzZna1loT0Fpak83RTB6Nm5qaVY4SGxmemxTaVVzR3BDZ044cXl6RHp1LVl1MkRiU0J0RGljYllpOUk1c2dJ?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-10T07:00:00+00:00"
-    },
-    {
       "title": "台灣虎航8月營收17.88億元 創歷史第三高",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHckVpaTNRci1KRGtLUmV6SWdSOWROcUxPb0lNQnlFMjZCRWo1OHFCU0hpWWhIamZRUk81dnotaTFXdThleHBsM0hLUjRjYUxxNnpQRVdNY3A?oc=5",
       "source": "stock.ltn.com.tw",
-      "published_at": "2026-09-10T07:00:00+00:00"
-    },
-    {
-      "title": "暑假旺季助攻！台灣虎航8月營收飆22% 載客率創歷史新高",
-      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNRW0tQ3otTUlrSXBXRmxXQXhad1ZIMzh3TXFXXzd5M1hpM0JGd0lpZ0lhZkZHcHJES2JFdG1lRmRwSl9lOC1UR2RvekNDbmt5RFhkY1NBQi1uOGljOXJVTlJNODlUQ29vNW5ZWmxCR3Y2Z3doZnVESDN0TmVWcC1WOGpkaEljR2lUTGRlOFRqYzA3c0lKbU5Lem9WOWp6Vy1nUWlZc2p0dUIyandHSWgyN3FKSE5EZU03WTFpWDdhVHJMSmFydUQ3TGttX2k0ZmxSem9aanJXby1Vak1DVzJXd3hXYVFWaEcyX3VnVXNuZ0FtYjVodWVaUUFCYmpNMmNwSU9fTEpRNlRjM1JjSnhNUDhpZ0pyYUNJQWFRS0JKWTE4aU4tMnR6UEJQMjBuUmJZeVl6R01iQkgtR1BNUkNCd1pNU1MtMS0tSzNFeDIyX2xyeE1JMlBkQWZ5NHE5NlM1eE11bHZvZkdmdw?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-10T07:00:00+00:00"
+      "published_at": "2026-09-10T09:58:38+00:00"
     }
   ]
 }

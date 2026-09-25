@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-24T08:40:14.369921+08:00",
+  "updated_at": "2026-09-25T09:32:49.182896+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6838",
   "name": "台新藥",
   "count": 12,
   "news": [
+    {
+      "title": "新藥審查拚\"100天內\"利多台新藥.浩鼎奔漲停| 產經",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IRFpPc3YxNnZyNzhjMm5oYXJFTXp4a2YwRkZqU3J0NEJGcTl5cU5UMnhfN3VNUnZodVZfb2RVZWtuYU5xeEhVSmg2NFktcm9hMzlaZTRfXzJQUnc?oc=5",
+      "source": "非凡新聞台",
+      "published_at": "2026-09-24T16:02:14+00:00"
+    },
     {
       "title": "《外資買超25-20》凌群(162)、台新藥(162)、來頡(159)",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSXg5cHRJSEZEZkFMLWphQjkxNHByMlVUVkJ2ak5yeGdqWktDV2dvOFNNWWRVQ0k4cU5OLVlVSTh2RnQ5TjRrYk9FemFtTEJweFFBOHYzY2d6bE9ZOWJ3b3FodG1ZVUxRQW1vNFRBVGtibjNpRmN2LVpuYmRndHRiY09KNVcwVXMt?oc=5",
@@ -12,15 +18,9 @@
       "published_at": "2026-09-23T23:40:00+00:00"
     },
     {
-      "title": "新藥審查拚\"100天內\"利多台新藥.浩鼎奔漲停| 產經",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IRFpPc3YxNnZyNzhjMm5oYXJFTXp4a2YwRkZqU3J0NEJGcTl5cU5UMnhfN3VNUnZodVZfb2RVZWtuYU5xeEhVSmg2NFktcm9hMzlaZTRfXzJQUnc?oc=5",
-      "source": "非凡新聞台",
-      "published_at": "2026-09-23T11:05:57+00:00"
-    },
-    {
       "title": "國產新藥上市審查拚100天內！大利多引爆「這檔」5天狂飆70％ 台新藥、浩鼎應聲漲停",
       "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQeHBQQUhOWkNKUzk0NVdRYmZsUTc1WGd6R1Bjdkg1TUdPR0pfVkhKYUtpcC1ocmZ5UU5NcXRST1FtVFVlOHF2VHBMTEkxb05PbmdlYzZkX0x2aVk4NUZ0aGdaMHdIelpIM25JNkdwdTdCMlR0VWZab2JJaUh6UHVEdnE5T29OemdVQkRNQ2luRy0tZS1DSVFmWm9UT2dIWFZ1Q3ZTaVNQVkhZX01IalZrU3RSeWYyOXFGbDk5NkgxYm9OdzM3blZsTklxaGJPbElVTjdZc3pERzFBQXZvbmg1SXZTRTI2cnRoejZYRlJoTVZBVGpOQ1MwRnR2S1dqeS1mNDkyT1J0b1dMQjZ1VkFwLV80UlI4bTVzVXNhbmo1N2paem1xT2xvd3BSZHozOUk5Z1lPQ2hHUkpNdEF4SG5KTHh5RUtFeEx6WmlmU3VlMkdVTjBZLUhDLUNTYWdEcjFCS29qbWVwRVZCRktUbnAySDR5dVZEOENkUW5TeWVPaVpaejRzeTFvbA?oc=5",
-      "source": "Yahoo股市",
+      "source": "tw.stock.yahoo.com",
       "published_at": "2026-09-23T07:57:00+00:00"
     },
     {
@@ -56,7 +56,7 @@
     {
       "title": "Tamagawa Holdings Co., Ltd.的每股自由現金流 – TSE:6838",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ1l6a1pkdkJZNkk1bmZoaUwwWU1PWThnVmtGYko0a0V4T2RnbWNpT1FPeVZCazhGekllVGRIMmJaMTR4MERfTjhYVUpmLTBZNG9jSUdCV0QwVTJlaDJpTFpCSm8yX1BVWmZQOUI2dWcwTHBqbDNqMkV2V29xWmxOMldhYi1FQndJZW9hRWozRUY1eHpUZEx2OVR3RmFMTFZNUlJHcw?oc=5",
-      "source": "tw.tradingview.com",
+      "source": "TradingView",
       "published_at": "2026-09-16T15:50:55+00:00"
     },
     {
@@ -66,16 +66,16 @@
       "published_at": "2026-09-16T04:25:00+00:00"
     },
     {
-      "title": "台新藥 8 月營收 0 萬元：單月零值與累計年增率並列",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9mOW8zYWxORmlka2ZkYkZCWjVscDNMSDdQckZ3ZVl0WmFDV3lxMmlEOGU2ZzZhczVoM1dYcVhCRGNqUzdVRmlBNQ?oc=5",
-      "source": "鉅亨號",
-      "published_at": "2026-09-15T18:03:57+00:00"
-    },
-    {
       "title": "【26Q2財報公告】台新藥(6838) Q2 營收3.026百萬元，創下近3季新低，季減93.34%、年衰退36.48%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUi1BaEhhM1MyZkRoY0QtaGNmSE1oeUdfZU5kQkpScnlXM3E1R0lJN0xTeVlFVFMtSUF6VGI3elhZSkFKMzJMT3I1V2VCNnBBUVV4OEJWcldLbUZ1SXpBak94SUlSZkhDeHpyallhclNCMnFHYWdsTEJpU0VxQ2ZrQVRQNktnMEVCenc?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-15T08:20:07+00:00"
+    },
+    {
+      "title": "台新藥TSY-110今年期啟動臨床，同步推進授權 - 新聞",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ3A1XzdRanB0RFdueVl0bFVwUE9XMkhWaHBuVzFJVl9RdVdYQzZGZkMzRzEySFd1WTBiQnQ5Z0o4dFhPclk2X213NGkyN0V0Z3ZheDJKeWU5Y0dYQ01wVUNqRHNtb0pocWEzVDNRSzBMMThGdXFTMzJvSVNPMjQzeDRreG9saDVXSllfNFRFZlhKUQ?oc=5",
+      "source": "MoneyDJ",
+      "published_at": "2026-09-10T04:28:00+00:00"
     }
   ]
 }

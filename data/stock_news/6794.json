@@ -1,33 +1,27 @@
 {
-  "updated_at": "2026-09-24T07:30:59.619936+08:00",
+  "updated_at": "2026-09-25T09:32:41.707984+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6794",
   "name": "向榮生技",
-  "count": 4,
+  "count": 3,
   "news": [
-    {
-      "title": "UnicoCell Biomed Co., Ltd.收入明細 – TWSE:6794",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wV2pMcVZkMFNBMlR6aFRkVkpMX0Q1MzRMRGFwXzE4YUl0c01iaGRTLVdkMFJtbU1JY1hWM0owVG1jU3NfUmtTUDJVYlBOd1hEVWMwNDdSS3BIUzlvNnNfcUxoTk1Rd2pudkFMOW9PbHh0Ukk?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-16T11:40:47+00:00"
-    },
     {
       "title": "【26Q2財報公告】向榮生技(6794) Q2 營收4.595百萬元，連2季衰退，季減26.81%、年衰退47%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaEgwcmkwSU9ZOUpjNkV5MnlMaEV0X3hXN28yaUlYNHBxeFVxXzRRME1mLWVDeXZRdmhhN1NsUUxpTGlyakJubUZJMTJ1NXZSb0tRN2pINWRHU0xJSm1DMlRfeHBaZGx6dlZ1OUZaOUk2SHdBckRJdEJNWWJLcFZsUDU3ODRpRUE4Z3c?oc=5",
       "source": "CMoney投資網誌",
-      "published_at": "2026-09-15T08:20:06+00:00"
-    },
-    {
-      "title": "【2026/08月營收公告】向榮生技(6794) 八月營收營收月減年增，全年營運續看向上",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WMk1VVWdWWTJFWnBuUEI3MUdGRmJtS3dieHNmQzdSZmZZOFFxanhPQ2NRVGRBSlZ6N0toanIyS0dhZ0JSaDZXM2pidW9lRXpidTM5TGJYc3B4ZTFkb19OcDA4REtqMjg?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-08T07:40:04+00:00"
+      "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
       "title": "營收：向榮生技(6794)8月營收154萬元，月增率-36.49%，年增率74.41%",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT3FLTkd2bTFJQmdLYV9seGRpRUpHMzZEeGN3VmpzUktDeWkzTXR5azR1eXk2OHpUX3ZMNExEQl9ObjdvUXQ0aU1CM3Iyc21pQnppNndabTBfaTVGY2hId0prZG5McFFNN1FiSHFDZnhHUmtzcUZHX2EyeFZNWmV1S1RDcUtiaGRY?oc=5",
       "source": "富聯網",
       "published_at": "2026-09-08T07:22:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】向榮生技(6794) 八月營收營收月減年增，全年營運續看向上-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQTA2eWNHNVd1bGRjRHhzUnM3UEQySW1Dc1lIRUxSWVpURnYtU1gzZk5LZUUzZVhjeFEyc1A5NmxYUlJIcWlUYWpZMmFNRGJIZW9teDJoVWdlLVk2ZzFxLTNzQmU2UFBHbHZiN0FtZzBRTWFTb2h5Sk5PNkFOSFk0WU1LdVJqVmZGc0E?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]
 }

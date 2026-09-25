@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-24T07:30:38.528103+08:00",
+  "updated_at": "2026-09-25T09:32:19.476319+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6695",
   "name": "芯鼎",
-  "count": 3,
+  "count": 4,
   "news": [
     {
-      "title": "芯鼎 公告本公司董事長辭任董事長職務",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Ha1piLXFxWi1FU0VlX25XdExDZlJ0RjBFMW9KQm1NbjV6TkRaQUYzclFCU2U2cENpdXMxdHVkWnJ5cHRLS0tWWk8wUHhnRzFUb19GM1E2OVk?oc=5",
+      "title": "芯鼎(6695) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XY1JIWnJFQkVGWE1neUNrNWpraG9FY2R4LS1Dd1JBZ3BjN0pYSERmekp6aTQ4eWNRTEZDVlVNMmVqdUdiYndYLTJ6YWREaDEtQVlZ?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-16T11:27:41+00:00"
+      "published_at": "2026-09-22T06:16:26+00:00"
+    },
+    {
+      "title": "芯鼎董座羅森洲請辭",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XV3hrRThYWl9hWWNIRXNaVHZnbHFiYmwxMDQzN3hTWlA3M1JvZUJRbkV3ajB4SXFYalR6akRtbFQyaE96NXVVUHBnZ1gzWG5JbGYzMGtQZWREd9IBX0FVX3lxTE1hLUo4UFJVd3FQMlhXczdwT1QzOEFfcFJ4aFlnVVdRVW9YekFic3h4eTVLTGtmOEtXYmthMUttYlVjYUtGU3ZDNHZNLUUyU1hLejFKS2czUnJkRC05amlJ?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-16T16:30:13+00:00"
     },
     {
       "title": "芯鼎董事長羅森洲因業務繁忙辭任 將於9月24日生效",
@@ -18,10 +24,10 @@
       "published_at": "2026-09-16T10:37:54+00:00"
     },
     {
-      "title": "6695 芯鼎- 芯鼎員工認股權憑證於第二季行使所發行之普通股已上市470,000股 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGX3pwX2d4WFVBdkI2cVE1a1hYRXNiMTZpY01oMzFDVkN2M1c4N1RLbEV3d2NCV2hFWk05aVZac2ZYdDVpTFlGaWNhVzJwcE53X09UTnEwZWc?oc=5",
+      "title": "【2026/08月營收公告】芯鼎(6695) 八月營收營收雙減，年減6％",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ELXhDWEhGWFQzN2gyaXlSQ05DaWNXQ1I0ZHJVazJqelhUeXQ0WVJDOWpRN2hMTU5NZ1VHaUJxSHdqWHBYLTh4bVF3bmg2b2xRb2M1a2FURDhlZjJDcER1MmNlaUpPZjA?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-07T02:03:47+00:00"
+      "published_at": "2026-09-10T07:00:00+00:00"
     }
   ]
 }

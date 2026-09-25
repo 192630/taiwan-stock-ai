@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-24T07:30:41.254974+08:00",
+  "updated_at": "2026-09-25T09:32:22.253890+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6712",
   "name": "長聖",
-  "count": 8,
+  "count": 7,
   "news": [
     {
       "title": "《櫃買市場券商買超比前30名 3-3》科嶠(14.42)、長聖(14.08)",
@@ -46,12 +46,6 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWDY4X1c1MW1PWWY5TS0zbzIwQ2QtUlJjV2FIRVF5ZVphWWtxc1RTSFVJWnNYcEtCSHFkNjdSU1daY1k1OHpBVlJnNS1vWFRFeHpjYzdEd0FuUmN6NWlLNU9sc3JoMXB6eG9oandxc0JKOWQ1QjBNcHBIZElxV2Fhbi1JbjJ2VjFjcGc?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-01T07:00:00+00:00"
-    },
-    {
-      "title": "6712 長聖 - 莫德納 癌症疫苗問世1天大漲176%，聰明錢已佈局低基期生技... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BdkJnOTlKNkl0cmxzMWVEZ0Q4NWxud1V4VzZmZy1DSUNaM0MwM18wVWFCMktIZEFGUEV5dTZfUW9qbDBITzF3Yy1obUx5Qm5LckxnWUVzUHI?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-31T07:00:00+00:00"
     }
   ]
 }

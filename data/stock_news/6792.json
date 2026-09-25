@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-24T07:30:59.138585+08:00",
+  "updated_at": "2026-09-25T09:32:41.264573+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6792",
   "name": "詠業",
-  "count": 1,
+  "count": 2,
   "news": [
     {
       "title": "【26Q2財報公告】詠業(6792) Q2 營收3.7875億元，連2季成長，季增12.01%、年成長7.81%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdjNsUDhwYmxONnI0MGh2Wm9leW1DdS1BeXR6emZNb0oyTmpCdzBDRnREQW13TDUyWTNSWC1LX2t0OHA0ZXhjb19POV9fbjV6aUphcWFCVXBScW9nUmlrdldzS2pZejlUNGVRdHQxRGlTUjJuT0ZLREgxZ0Z2NThadVlXek9KZC0yZEE?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-15T08:20:07+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】詠業(6792) 八月營收月減年增，全年營運續看向上-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOVFoSkIyU25WOURyT282dmktX2NfUnlSM2xYN0d6QmNoa2hUT2Vvc0d0X1Uxc0ZvSFZFdUMzRWxic09yd3UyU0JfZ3VkcVF3V1RoTk44ZWdBZUJBclRUbGd4eDJTUTAzYWRYU1Z5UU0tb0puU1QyN0dfS1MtUEpkMUJ6d0xOMkk3blE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]
 }

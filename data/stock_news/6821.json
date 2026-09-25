@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-24T07:31:03.507503+08:00",
+  "updated_at": "2026-09-25T09:32:45.873601+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6821",
   "name": "聯寶",
   "count": 9,
   "news": [
+    {
+      "title": "聯寶電子股份有限公司",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbGo4TVlmdE04dHFSNmFfSHg4RlJwRnZiVWJYZ0ljTjN5QTd3M1k2XzJpY21oMWswOFpWNmRTODV6MnZVTWs4WURHQWFfOHM0dTFFeVRWbTFjVkstTjZ1MG5qaVBCTEFJMXR2X0oxQVdwUmJ4Z1lleVZZZ1hVQXU1ME1BN3Zfd1lxUkZaM2N0RmRXbEZkZEtv?oc=5",
+      "source": "MoneyDJ",
+      "published_at": "2026-09-22T06:27:00+00:00"
+    },
     {
       "title": "聯寶(6821) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xVTZ4SlotWDRGVjR6Yk94UkU3SlZFaEJDYjZoUjJmSUFBWThXM3NfY0pVRk1sSVB4aFVBNFphYmoyU3A1MXVIbXQ0UFNUeTdPTGtV?oc=5",
@@ -12,22 +18,10 @@
       "published_at": "2026-09-20T14:04:49+00:00"
     },
     {
-      "title": "竹聯寶和會陳威達助張俊傑逃亡 投案後帶往新店分局調查釐清",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kYWh4WmpiNlFaMjltaUM5NXhhX2xYTjJrRUxFaWFzVHlXSUFEYnprWEM2VGZZNWltUHRPWGVob0hlejN0MGF0YVcwYnJ6eThXVWpDa1hhRlYtVlZjZUxYUlVDMUxjMkZS0gFuQVVfeXFMTTlMVjF6TWlFTHFlN3ZZS3k1Y2J5NFV5RjBsemMxTWV4WTVRQ1lLS3RlVl80Vmt1U0VLWkQ4MUVMOUljdG5aaDhVbElHZFdSVXRQLXJyWXN5V2JwLXFzUzlEYUxhODh5YWdBSTIyTWc?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-17T08:02:09+00:00"
-    },
-    {
       "title": "【26Q2財報公告】聯寶(6821) Q2 營收1.6245億元，刷下近4季新高，季增33.08%、年衰退3.77%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVVgtRFdfcmRZTGVaaWZOSVliZ19YX084UkRvWm9CZlBVRG9iN1dvMW93SExLY0gxYlBFMF9TZ0Fub2g4S3hMcHRhOVVJY094N0NrUFBCX3BaUS1CVEFKUHYwNVdnV0VJVXU5UlRTRmVFdnZnaWdnQTFUaVU5SUp4NEVKaFVIVEE3emc?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-15T08:20:06+00:00"
-    },
-    {
-      "title": "第一類接觸／法人：聯寶需求能見度 看到明年Q1 | 櫃買動態 | 證券",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94T3VPWnNtdmxSUmhZVTBrdGFxN1dOVDN4VDdiWFZ4bXhDSlc4LU5PbnZBOG5fbzltYmZ1a1k4QnMxc2Q1RjdaanpQMEZlVVZoMVM0Uk1IX2Q3WWs?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-09-14T07:00:00+00:00"
     },
     {
       "title": "6821 聯寶- 第一類接觸／聯寶強攻AI 電源商機多領域布局打造新成長曲線- 股市爆料同學會",
@@ -42,6 +36,12 @@
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
+      "title": "台灣最好逛賣場不是全聯寶雅！外國人推1地必掃貨「物美價廉、24小時不打烊」： 應有盡有購物聖地",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUWDB6RUlPNHAtY3hjbnE0UERBSDFvMzVBdndRQndhT0FTay1lcGp5TmtwWlFTajVPbW50b0JCaUZsbGJLQnk2eDB6cVlXNXda?oc=5",
+      "source": "storm.mg",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
       "title": "【2026/08月營收公告】聯寶(6821) 八月營收營收雙減，年減31.63%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNY1hkeG51MHAxeXVWalJ6NHJiMU4zbl93WXdUZThsRGgyMVdHSjdYdmFuUzBqVWRiYUZqQnlCZjAzN255alJ4WjdUcHR4T2pKUDRqMXZQZXJ5clIxRTd4SUdFVGppOFl3VnN2cmJRcFJ3STlPcEtNdU50VHpla1JpRkREWUVKbV9BclE?oc=5",
       "source": "CMoney投資網誌",
@@ -50,7 +50,7 @@
     {
       "title": "小元件撐起AI大未來譚明珠以永續治理引領聯寶升級- 商情",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12WnhjVTBRV1NnRmxXSGdHUjhYenhMTVNfZ1NSMlVtbVd6ZjRRV2JqdVR5R3BNQnNTc1hXS3NaSHFzckx1SnBGd1dpdzFwYnNDbmg2VUpydl9MRmFBS19z?oc=5",
-      "source": "工商時報",
+      "source": "ctee.com.tw",
       "published_at": "2026-09-04T07:00:00+00:00"
     },
     {

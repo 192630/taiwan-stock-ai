@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-24T08:40:15.602075+08:00",
+  "updated_at": "2026-09-25T09:32:50.660851+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6843",
   "name": "進典",
-  "count": 5,
+  "count": 4,
   "news": [
     {
       "title": "營收：進典(6843)8月營收6003萬元，月增率-5.56%，年增率-17.46%",
@@ -26,14 +26,8 @@
     {
       "title": "《SEMICON》進典獲半導體億元大單 明年營運有望爆發",
       "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOakthZUo4RXdKdUIyQVE0cVY4MVAzVDRrRHR2dmFmc3l3bHpMclZpdmZCdWZrUlRGRzZBUlBuc01MLU5ia2NOZUNHR0hkVkRkSmVwbjNhMzEzYS1IcVA3aFAtMXdMNWVjc2dqUWRhREJOVFgtLXZYbUxQR0FGOER5QWhCTGMxWlBNVWt4QmtaLW5UcWdtT25IS1gzRS1BQ0dTRGRrcWEzVm9iOG1rODJKczZ6OTNWeE1qcDBXNWdWQTk4S1JzXzl6TW11VWNWeE8yT2NGYmozTnVPbF9WQ1k2RHB0N1dMM3Q3bWcxVFF5YVpqMFFXZmgya29UZjh6dmw4VlI4dVhLRm5xUF9mWHdWbTZROGJIeXVjRFZ4YjZFWWduWjlhcGtmNU1tdEkyWjFMOGhNZ2RieHhSN254SWdN?oc=5",
-      "source": "Yahoo股市",
+      "source": "tw.stock.yahoo.com",
       "published_at": "2026-09-02T07:00:00+00:00"
-    },
-    {
-      "title": "《SEMICON》攻精密流體控制，捷流閥業、進典都將參展 - 新聞",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOEdmQUJJSXpCV1N3MkN1NGk0ajdiRzNZbnBEcXJDM2RDQUEtV19CM2NHbF81NmszTzVxa1lVbnN4a2o3ejlVeG1sVXU5dUN6LTAzSm1Lb09JaDNoUVBmZ2lUOURtS2oyYWJGQ21fR2hRRkxLM3R4UVJhcmxxcGtvMmhjc3NYemw3cXBpaDRBM2tndw?oc=5",
-      "source": "MoneyDJ",
-      "published_at": "2026-08-25T07:00:00+00:00"
     }
   ]
 }

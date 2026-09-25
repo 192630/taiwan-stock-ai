@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-24T07:30:40.841874+08:00",
+  "updated_at": "2026-09-25T09:32:21.818911+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6708",
   "name": "天擎",
-  "count": 3,
+  "count": 4,
   "news": [
+    {
+      "title": "蘇威元：天擎最大股東聯發科 切入eBMC.ARM對標股王",
+      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPLTRvSmk0SnJvX3hfLXlxQjlPVVQyR2cyM1FnXy1xN0piYUk3OVY5d1ZHZWN5MnhWZkpMaXd5cURYQzlucFRITUpIQWcxS3ZUYUpEVnhBeDY4Q1J0Q0VyTkdzcjJNX2gwUHotSFNFT0YyNWgwVVVTcmVsaFB1T094RWM5LTNCMTRPbTFzTEVZY1JNX0hqenNFYmVoOVh5XzMwZkRvZ1FYc1JTaE8wNEo5WFk1VnBiRFZCbnA5M2J1NnItYXZfc0ViQ3BBVHhZZmxfM1dZblpaekh0UU1xcXZiSjRMS0dGMlppMXFhVXh3M1dHSzlzaDNDQW9Qa0VJWDhVbUVoQTlVVW5TTlJtQWxLdnRhU2hnUHhmN3VrR1dNS1Fsd2JiNEV1NWFmTE05aTdpRlBXVDBRUkxMcGhqQ1ZfYw?oc=5",
+      "source": "tw.stock.yahoo.com",
+      "published_at": "2026-09-24T14:46:02+00:00"
+    },
     {
       "title": "Mars Semiconductor Corp.收入明細 – TPEX:6708",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11dWRXczVzVHpPbGF2d0JPeE15UzdNc25MeTBYMEU2UFRjUWZNMDg4V0U0Z3EzTF8yZHVKbXFBYi1KS1I1eEppMVZSN01aN2QxX0JrZnJWclNuUjdCRVc3U3dqTklOUXE3cXItRVlhdnl3bU0?oc=5",

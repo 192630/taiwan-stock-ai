@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-24T07:30:58.241430+08:00",
+  "updated_at": "2026-09-25T09:32:40.326338+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6790",
   "name": "永豐實",
-  "count": 1,
+  "count": 2,
   "news": [
     {
-      "title": "永豐餘綠色採購逾63億 獲表揚為績優單位華紙與永豐實發揮循環經濟 | 民視新聞網",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0c1dYZnNXbG81eUFuSTI5dEVZMFgzQmtVMlU3NXdCNmlrWkJfTU4xV3hqWGNpNDBpdXR0eU5WOGhIQm5UNkxVdG83amV0MDFSR0ZvbFJ3?oc=5",
-      "source": "LINE TODAY",
-      "published_at": "2026-09-23T08:03:58+00:00"
+      "title": "華紙、永豐實獲頒綠色採購績優單位",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPcDhFeEsyc0s3QTBQczVjRGZIZjNrc1NKOXZLX3JiY25JWW42bU8ybk9RQUR2WHJxOWZtWGdMeVozY3hUUmtvZG51V01uVno2STNYZ3A2SExEUVp3UVl1MUs1X0lQamtBdlBBN0hJUnpCckh5OXdZZ0dQSHRNNWRTM0x5QkpVbXRTV2lUdnBiYU5VOHJTTnVzbkFNVXdEcW84SkpockhpMG45X0RLbXJ4c3FKMGJ4YWNpcThaTlZmUmd1dnlzZXFMSUdYREd3VVNPRmEtaUpSbl9VSEtpMkRKVi1jMzdad3k1VHJBZm8zVEN6OENaeDVJSTFLX2UycnAtU2dVaFhYLW9MMEFtMXdwYw?oc=5",
+      "source": "tw.stock.yahoo.com",
+      "published_at": "2026-09-24T02:35:20+00:00"
+    },
+    {
+      "title": "永豐餘綠色採購逾63億獲表揚 華紙、永豐實推循環經濟帶動綠色消費",
+      "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxPRll0R2xCWS1tUVVNWWFpc3pDeDJILWkybnZ3OGhZa2FXYUZyWWZqeTVOY3F3M3FuLWJveDFpWmdzZHFTSVUyWFNRNWV3MWxWV0YzYjNoclRQdW1FbFI0d3A5cXU4OGtGS0pleWVwdEc3Ml9pT2lrY1EtT0pTUDlES1dkV3NpZ0tMd241WFhyWFV1MHR1T1J1T3hNSzBxNE5QYXIyZjRtSVpZY1FWYXhRTDNXMks4Qk02cGI3MDNnblVwSFlNRTF0QlpLN0RrSTlwbVYzV2RwNUpxV2hNVDNvVzNLS2VudU1rTHB1bHRIblpWZVBZaEF4c3FqaFZmR1BQWnJfLUI1aVVhZmdlcWluNFM1Qk1HcTRXMnlUNHZfaExEYzJNLTFHb0RLdk13ZWRFUVBSemdwckVmSEd3TEVhTFNEYkFtcVpTVVdTRFhYbDJSdEx4Y0hJelM2WFA1RHBpTXlQckVPZTVtOTR3SFp3bGV6RUhkSlpTVEEzQkZXc1A4b19vbmsyc2ZFYTk1VnJqWHBLckVrdVkydTFVcm94ZmxUU1lVZDhs?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-23T07:38:00+00:00"
     }
   ]
 }
