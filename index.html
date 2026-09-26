@@ -53,6 +53,29 @@ header p{
   display:none;
 }
 
+@media (hover:hover) and (pointer:fine){
+  .page-nav,
+  .etf-subnav,
+  .chart-range-picker{
+    scrollbar-width:thin;
+    scrollbar-color:#94a3b8 transparent;
+  }
+
+  .page-nav::-webkit-scrollbar,
+  .etf-subnav::-webkit-scrollbar,
+  .chart-range-picker::-webkit-scrollbar{
+    display:block;
+    height:7px;
+  }
+
+  .page-nav::-webkit-scrollbar-thumb,
+  .etf-subnav::-webkit-scrollbar-thumb,
+  .chart-range-picker::-webkit-scrollbar-thumb{
+    border-radius:999px;
+    background:#94a3b8;
+  }
+}
+
 .nav-button{
   flex:0 0 auto;
   padding:9px 12px;
@@ -2981,6 +3004,28 @@ function setMenuOpen(open){
 }
 
 
+function enableHorizontalWheelScroll(selector){
+
+  document.querySelectorAll(selector).forEach(scroller => {
+    scroller.addEventListener("wheel",event => {
+      if(scroller.scrollWidth <= scroller.clientWidth) return;
+      if(Math.abs(event.deltaX) >= Math.abs(event.deltaY)) return;
+
+      const previous = scroller.scrollLeft;
+      scroller.scrollLeft += event.deltaY;
+
+      if(scroller.scrollLeft !== previous){
+        event.preventDefault();
+      }
+    },{passive:false});
+  });
+
+}
+
+
+enableHorizontalWheelScroll(".page-nav, .etf-subnav, .chart-range-picker");
+
+
 document
   .getElementById("menuToggle")
   ?.addEventListener("click",() => {
@@ -3218,6 +3263,16 @@ function cleanNumber(value){
   return Number.isFinite(n)
     ? n
     : 0;
+}
+
+
+function escapeHtml(value){
+  return String(value ?? "")
+    .replace(/&/g,"&amp;")
+    .replace(/</g,"&lt;")
+    .replace(/>/g,"&gt;")
+    .replace(/"/g,"&quot;")
+    .replace(/'/g,"&#039;");
 }
 
 
