@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-09-26T03:32:56.601768+08:00",
+  "updated_at": "2026-09-27T03:31:45.212295+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4912",
   "name": "聯德控股-KY",
-  "count": 5,
+  "count": 4,
   "news": [
     {
       "title": "聯德控股-KY 公告本公司115年8月份自結合併營收情形",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KMXo1UUJrbVBkQVRhblgyMzNSU0xJdzQxSUN0VHV4NG8xd1Nid2x1cmU5SVlvNWlvQ3dlbWtoTXYwU054ckJGcVVQcjh4T0JRQVlIeTVVRmw?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
       "title": "聯德控股-KY 115年8月營收6.57億、年增32.22%",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2b2xYbE1VNkdVcjNLbmwxTnNkcFJWcERpMFBJOGpZclU3NWpGVnVuV2FSbVo3UVFadXZROFZoUjJjUElvd2tQUjdxbjRCUTROLUZxanZiLXI?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
@@ -28,12 +28,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOEdiSm1Tc2dtYzktdXFqNXRib0lTdFZ0U1Jwb2FMaUtKbXBxdjVZQmp6ekdabDEySmNOYjEyWENKNC1KQ2drdXBqNHR6UzZRX0hNMkZMVElWbHNwMU9uTTNQN0VkRk1DRjJvVEUwMEFaS2R6eE82aW9DeHFyOG5Uc0NLT2lxeHUtX0hDaFlB?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-02T07:00:00+00:00"
-    },
-    {
-      "title": "伺服器、低軌衛星挹注，聯德控股-KY營收看逐季增",
-      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQZ2p0VnRuRlZ5cUg1Mk5BYzNTYjhPaG0yRmlLMjB5bXJnRnB4NTN5dmhBWm1hSGlzMXE1b1pIY2NzWng0cGZ6Q21PaFhRck5kbEhmVkdWbTJOZE93V0VxelZJaGhOOXFvb3VTUlpVdVZXZFF5bXRQYVRkMU80R1F0RjM1cGRud3JjbEtGQ1VtOGFGb003M2stLWI2TUFoMWhMN3JvdHNCZ0p6NFJqbmFZSF9ZSS02OGZ2MU9weE1jQ3B1ajA5UHYtaVVGSGRhZndnMHZRLXM5em5pVFUtT3hhcmRxLXJJUGo5LWNuV2xaRnIxMjU2bGx0MmQ0bXR4RmwwekZocXhSclNQd09PVDVlenF0SlNaNTdXaGhxRzByaUtUNVp4Yy1yTUVZRGdua3VtdmhoZm5jOENISFU1cXlnY1RPMFJWZw?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-08-27T07:00:00+00:00"
     }
   ]
 }

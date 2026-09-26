@@ -1,32 +1,14 @@
 {
-  "updated_at": "2026-09-26T03:32:40.809088+08:00",
+  "updated_at": "2026-09-27T03:31:34.370461+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4746",
   "name": "台耀",
-  "count": 9,
+  "count": 6,
   "news": [
-    {
-      "title": "《一週投信賣超6-5》萬海(369)、台耀(366)、鈺齊KY(340)",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONWtKdTFtdnpoNmU1eWpMVi1JLVNzbVQ1a3dFVTNKWV80RS10d2hMVDR0V1BwNkVhOWZwNFZqcTZzcTJSRWw5azBhdEVFNnR2Sm9pQjlfN3ZUYndCRXNOUzBULUhfWlpRbmdvYjZVTHBYVEFUZHh1cTRoQ0g3TTVqSmZMSURpYUNZ?oc=5",
-      "source": "ww2.money-link.com.tw",
-      "published_at": "2026-09-25T01:13:00+00:00"
-    },
-    {
-      "title": "《投信賣超4-4》台耀(166)、華邦電(162)、鴻勁(159)",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYjFrWGtaSTFRMzNBYlgzNGVyZ3Q5d2hSb0RCYmRyY2FiUVZKQkJLSGdSVkl5aG5YQlkxbXlYR1FZTjRtOTBaNmgzQWV5elBkNnR3RTQzR3dSNk0zWFBjMWNRdFZEVTIwRUxxOFZSYWE4RHpnYVJqemgydHNnb1B2a0NSdS10VTcx?oc=5",
-      "source": "ww2.money-link.com.tw",
-      "published_at": "2026-09-24T07:55:00+00:00"
-    },
-    {
-      "title": "Toukei Computer Co., Ltd.收入明細 – TSE:4746",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfVFA5c3VlaWprTXZDSlFQbzY1NGk4M0JBWGhIUnhsR201S1ZBc2pIS3hGY3AtS3F3VkhGQkNuUUtfcDJ1ZFFoeWtyZ05RVVI1NHNWSjZxajBLblMtcEJZNElFZnZ1UHNOS1hXQkVUaXFuQQ?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-23T07:49:30+00:00"
-    },
     {
       "title": "4746 台耀- 台耀、台康、泰福內部人是聞到什麼血腥味道？ 從上星期天天賣到... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fM0MwcUlKNFF2Z3lpQVVjUlplYUQ2RmFlcU9McFZkdmthTVNlbGdLRC1id19xM2N5MzJicE14UURVZkJJSU5vV05kNVhQSGtmckE1WGtuWmY?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-21T18:38:00+00:00"
     },
     {
@@ -38,7 +20,7 @@
     {
       "title": "4746 台耀 - 大家都知道的.拉起來就倒給外資買就對了 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Gci1XX3I4TFYzeXBtY3ZzVUQwYUxUWXlLUmF6WURjcXlXeEVieU1QX1pyRk4yS1RsRlQzeXg2VVByb0JPOF9qaG1ycGVmbGJYQXBvWmlzTE4?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
@@ -50,13 +32,13 @@
     {
       "title": "4746 台耀- 恭喜台耀跌破近期最低點- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKUC1hZzVwUkpqVU1TTGxuZlpKYS02VEdVamgwdG1xUk1yRDEwcHVBNngxVFlvUHlaWVRwLW1VM0tzNDd1Y1JVLWFydFAxeDNfNlFaTE5ISWM?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-02T07:00:00+00:00"
     },
     {
       "title": "4746 台耀- 🚨 主力在調節？昨日主動式ETF 減碼這檔！ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GY3Q4aEQ3TThndFRuUmJBbVB2NDRGUy05N2xkdmR6Qkp4akhaM0hsdlNKRFBId19PVS1zaFpWaWlyWnhZVFRpNVZ6NEZ2V2JqQ3ZqUm5LZkY?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-02T07:00:00+00:00"
     }
   ]

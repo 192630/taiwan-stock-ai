@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-26T04:34:35.219698+08:00",
+  "updated_at": "2026-09-27T03:32:02.222006+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4989",
   "name": "榮科",
   "count": 12,
   "news": [
-    {
-      "title": "4989 榮科- 這檔股票對融資買快到期的人不利! - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91VkdaLWR6YjNfTnM1NFFMOVhRV0dwOEJLb1ZxazREbUFtbjFKU1k1eGZaMm1sdExsQWk4TUUwZUJROC05OExjdXBZN2ZUdDdRbjhqcWh5NDU?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-24T06:58:00+00:00"
-    },
     {
       "title": "漢測上櫃 漢民3檔集團股同歡！禾榮科、漢磊、嘉晶漲停 分析師建議不追高",
       "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxOODZ3NEMyWGFVUVExSWpyczBlbnNOa0N4bUpacXZjMzZTQlpSVDhOUnQzbEQxR1ZHX0tLa2Y5ZzlSOEY3bzF0MnJ0TGJGSEl6eTd0eE9TTTF3WEQwTUhHMWx4M3FNWHI4cXhwZDRXR1lJa2hJdUFySHVWcS0wcTF4TnRZYml6b2JiYzQ2STc1Q0FybWhrQmQyUjZhRkFrZk9ybW5xZXlydXhEUE9PekpTNVkwNGdWb2FzZzlDX18xQ0ZidVNxa055MnZ2d1NMVG94ZXAxS0pHbHdiTm0tb1h5LXRJM2pXYWtnLWNnY0Y3Q0pWampra2NTaERieE8tVGFxWE5YaWZKX2hKMUI2TFBLVXpxbE1TZzFwMXhDOFZ3TkxCMFV6NUxBcFo0dm5JZjRMeHc1ZkIxeVNRLWF5QnF2VWV1SVk1T1AwT1pGamdSV3FZeENySVc3STJDMFM2eDR1X1U3c3pKZ2VacGgxc2p5T0pDamNZVldHV0tLUi1acW4zQ0l0T0k1ZFdpcHExcEF6SDVMbWtLVmZFTWwta21kTWdkQnQ2TnNDXzQ4MnItRGcyUUZBeFdBd0dEOHNydWtFWXlYSGlPSEU5ME5iTllLU1J4VVpoVU5tanluNHM0UQ?oc=5",
@@ -26,7 +20,7 @@
     {
       "title": "7799 禾榮科- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EX1pYYkFmMXFjdjVNM0R3TE81ZjFPT0VMcndJS1JiQTlmQ1AtUmlRS3Fmb1FjdXZsVW13Q1A2SS1WU0VFeTJxQXRhUHByOWdyLURGUzRkZHg?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-22T18:47:08+00:00"
     },
     {
@@ -38,7 +32,7 @@
     {
       "title": "8358 金居- 【09/21 產業即時新聞】銅箔族群拉回整理，金居遭逢賣壓、榮科逆勢點火- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2WmxEcHNMcVMxZjdaaEJJVF96WWRhdl9zUm5ycjJaOFlFR1hINVRlaWpDbHp3MzhWX1hvSlZpR2J4S1p2VEdqYU9SUjZDdGpwN3A2Zk0zNXQ?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-21T01:50:48+00:00"
     },
     {
@@ -54,27 +48,33 @@
       "published_at": "2026-09-18T00:10:06+00:00"
     },
     {
+      "title": "禾榮科(7799)亮燈漲停，AB-BNCT商轉能否撐住高評價？-許明哲的產業筆記本",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOGp4SmNSNFlTdlFnQUNsVHdiaVRxVzhiTzZyX2hzMDlMR29IdkRtbkF2R2hrQmhaZFhQYW84cXgwSGFxcWM4aFROUXRuT0tpVGFfY2JETEFZZ1h0Wnp1eFFxR0pZVzIzUXhQZzI1ODJDRDNLaXZZYW9kZENlTkNfLTdR?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-17T07:00:00+00:00"
+    },
+    {
       "title": "【09:59 即時新聞】禾榮科(7799)亮燈漲停，生技治療題材續吸金",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM0tMZE8xNnVoemxDNmNtY0NfQm40bWs5RTBPdDR3T0lXajlRN1FzdWRrcFRIeEV3QmREcUd3emxDOEhHOURaMEFsZTNQb0VJbk9LcEhwMU5KVDYzQ2FXcC1vT25zRFF6R1lET3RMeTZMaklSSVd3bUxDbFBTWjJFbm5EM2ZaSlUzV1poc2xB?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-17T07:00:00+00:00"
     },
     {
-      "title": "禾榮科(7799)亮燈漲停，AB-BNCT商轉能否撐住高評價？-許明哲的產業筆記本",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOGp4SmNSNFlTdlFnQUNsVHdiaVRxVzhiTzZyX2hzMDlMR29IdkRtbkF2R2hrQmhaZFhQYW84cXgwSGFxcWM4aFROUXRuT0tpVGFfY2JETEFZZ1h0Wnp1eFFxR0pZVzIzUXhQZzI1ODJDRDNLaXZZYW9kZENlTkNfLTdR?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-17T06:55:14+00:00"
-    },
-    {
       "title": "4989 榮科- 【09/16 產業即時新聞】銅箔族群強彈逾4%迎法人回補，金居榮科領軍點火高階基板題材- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBT3hkQ1Fhamo4czhqanVMZVMtMkZrTWFVSXdyS202YXEzQUVmSzRTSDF3a0JET3Jfend3dzFiTUh3ZlFqLW1tQ2NYT1p6ZHBqMHg5dU1FRks?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-15T07:00:00+00:00"
+    },
+    {
+      "title": "【09/15 產業即時新聞】銅箔族群拉回弱勢，金居與榮科同步承壓",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb285N19oMEFRM29OOXlEeHBsTmxjRjV1aDF1WDY2NDNQVnRUakNQODdhcnFlTjZPOUR5clJldzhWR0VHZGxBTVFJeUxYTTRLTWJjVkx6aWpWRTVtR2g5YzBoSG4yWmJGMVB4bzZqekpHbDhIN3o2X0tuc1RNR0RlWXJpell5cERJa3dzWXNR?oc=5",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
       "title": "4989 榮科- 升息因素應該會利空出盡...高階銅箔準備開趴- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4ybERCWk5PSVc0YVgzS0NaOURzMG95ZnpLVHB6YVJyRUY1RU1xak04b3dGdm16QmFaYXI2RVpzYXZUaHRPWVdfR3o3eXF1ZmJQemFtY3VIaHI?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-14T07:00:00+00:00"
     }
   ]

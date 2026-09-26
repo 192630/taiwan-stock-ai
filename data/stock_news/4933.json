@@ -1,39 +1,21 @@
 {
-  "updated_at": "2026-09-26T03:33:01.172391+08:00",
+  "updated_at": "2026-09-27T03:31:49.367613+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4933",
   "name": "友輝",
-  "count": 5,
+  "count": 2,
   "news": [
     {
-      "title": "友輝(4933) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Cd196LTJzOExkX2JGR3dMY09ZZjZHRjgtTFQ5TzZsd2J6S2doS3FTOE9RYlgwNEU4dXdUNzVjUVBKSU1wWWZiWEl4WlJvS0M4QUY4?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-14T15:57:16+00:00"
+      "title": "4933 友輝 - 自覺有點蠢，3個月後才發覺6/12的法說會真是有夠缺德（一） - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QU0RQNThLYzJhQkoweUx4WTJYeWEzTTU5LVB4eFFPb0hYWTE0VGdlZUlGRUVJQUFUWnBoSUdDVFVGaEtvdnJyTUtRdzVIdGxQX1RRR1JmU3E?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-21T17:03:04+00:00"
     },
     {
-      "title": "【MPF】GUM：強積金8月人均賺4933元",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdWtvaHprX0JMU2diYXNpN0JkSG5WVnhFelRoaTBRN3h4ZFpoWXVkVXRGbnRqLWwyRVFyc0tKUkdsUlVHc0YybXpWeU5JZWdiZWIzV21aczJ0YklMYkh0RUNueHcyR1pfZ3RPVzZ0dFBQVERlVEE0WHB6TUhtblJwQ1ZYQUFpMlh0VHY3T1FpM00zbnhjYko0QVZVaTU4TFlieElRWVlVZDN2czdwdDRld1RvLXVRNHJRb2JueVRUUzZjMGlOckp0cjVRak5MbEs0ZmpYelduU2xKZkNBcEhLUGJLZw?oc=5",
-      "source": "香港經濟日報HKET",
-      "published_at": "2026-09-03T07:00:00+00:00"
-    },
-    {
-      "title": "GUM：8月強積金人均賺4933元 亞洲股票基金升3.5%表現最佳",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXVWpuLWpEcU5MeHZMTUxoXzVBSXlmN09WcXBKN3dQWmdjZjRPakZhR2RsOHVDOTFjU2NYYU1mZ25kZkJFWWQ1UkE5RW04bjhaRDNadEd1T3ltT3FiUmJkX2JPcVpQQkQ1aFA3TC1WeXlKUUJEWXBCeA?oc=5",
-      "source": "香港商报",
-      "published_at": "2026-09-03T07:00:00+00:00"
-    },
-    {
-      "title": "MPF︱GUM：8月強積金人均賺4933元亞洲股票基金升3.5%表現最佳(10:53) - 20260903 - 即時財經新聞",
-      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOMnBKNGhoR3ZRWnhjbHBSdzVzUVpqcjU3YVYyU29fMUNKb3ZCTUh2T2ZzbU5BTnhDc1VZT1BoeHJJZnlLRkVEZmE1aFlONGFrYnNNdEZCYXJWNlg0QVRZYTZHX1FyMnFmeDNFWDNaUEUzSGVzbmlJTWs1NHM5eFUwd1YwRkpMV2RERGVDU2RYMTJpRDlwZzUxaUphTk4zM3pkRUh0bWl3S1dxVzRLbzJrbURNLXNTMGdzZndGdTRzUDcwQkZHU1ZTOFdZQW5oMTlXQ0dIMGtRdTNqRVhqN0trUmkyRnBzQUN5VmpwOG4xSlVjYnRCV0FOTG1rY0hCQ0VQNzN1UjluM04wSlVqcVplN1ZLd2kycEstcUJ0eDdiYUlOT1hTaEVsemtMeVdxUnBJSVVRTnZxb2dRNnJmYnVsSXZKcEdaUFZmX0FQOFpoUlYzS2ZTRzRMME1leml4dDBOZHotUnRObGRRZnFDMVE?oc=5",
-      "source": "finance.mingpao.com",
-      "published_at": "2026-09-03T07:00:00+00:00"
-    },
-    {
-      "title": "GUM：強積金8月人均賺4933元 亞洲股票基金跑贏",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVHlpZGRmWXJ4QmJXUHVmUmFRS0QxbFVtVzdEbThLQWhPSl9LUTBvNHVPT2NOSEJlUkYtYzdSMlEyY0hLZW54OXduRUVwUDlucHBIY3JrcjVGbnZiTGJyN3ZzYTZFTTh2TTJSMUxiZGNGN2R4cmx5dTQ0NjFob3ptSVJBZ1VHb09Sdk1aMjRaYw?oc=5",
-      "source": "on.cc東網",
-      "published_at": "2026-09-03T07:00:00+00:00"
+      "title": "【2026/08月營收公告】友輝(4933) 八月營收1.58億元，營收雙減，年減35.64%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQktZRHRyRk1KTnlzZ2dCaXNTNFNzalhpTUVTbTBDWkQ5MjEybkR6NU1xdDAyZ1FucG5lMmNEWWJPNTItTHhxM0JHS1F2bjk3ak9sc1Fnb2cxM3E5MGdRNG40aE5USXFHNWNBS0NaWUJTOXZCejBfZE8xVXVoNmo0ck9SVUduVDZDOWc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]
 }
