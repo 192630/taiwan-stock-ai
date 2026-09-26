@@ -1,14 +1,26 @@
 {
-  "updated_at": "2026-09-25T22:36:10.744261+08:00",
+  "updated_at": "2026-09-26T23:35:04.792138+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3056",
   "name": "富華新",
-  "count": 1,
+  "count": 3,
   "news": [
+    {
+      "title": "富華新(3056) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qMG5BZFBsbHdsYnpOOUtUZzNaN29QaTFGVGYwc3pTTnBlSms1ZTR1SXdrUld2dkpqRGhJa0JUdmU4UlZ2S2FyemRVTFpxc3p6ZFpF?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-25T08:30:39+00:00"
+    },
+    {
+      "title": "3056 富華新 - 美國生技指數8月創歷史新高，莫德納 「癌症疫苗」問世，1天大... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiZWw1TlU1VWpGek5lRDI4c0xMRmRGa1JXaWZ3alRHWktKWElEelkwTDN0VFRUa0dxdEJZVnJuRVJPQW9CcC16N2lqU0FPUlpMSFN2VlE2dDE?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-23T08:33:22+00:00"
+    },
     {
       "title": "3056 富華新- 利多... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DQ2tJS1EwelFkRUhGQS11b0s2VXFyVURERFp1YUNUMi1nekZqYXozdEo1RzhYaGFWLTJHVXBZa3YyTmZqSTVSMVRfcnNaSmFvM3YwT3FKV0c?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-18T02:48:30+00:00"
     }
   ]

@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-09-25T23:34:29.853224+08:00",
+  "updated_at": "2026-09-26T23:35:32.970000+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3226",
   "name": "龍鋒",
-  "count": 1,
-  "news": [
-    {
-      "title": "【2026/08月營收公告】龍鋒(3226) 八月營收1.95億元，表現亮眼、呈現雙成長，創近16個月以來新高，年增123.95%",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSG1tZUFTZlJUa1ZIQ2RiRWFpTkExY3o0eWJwaFNac3prNVhWNTY5eWdUOWVBUG04Mk9FYU5BX001ZzNOLW9iakRsLVp3M3ZmT0lFNWktWlBzTDIzejl3XzJPbXhIT190N3hEdkNEUFRiTTdBOGRWVGRZZG80OVpPTVpNZU5wbFBBU3c?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-09T07:00:00+00:00"
-    }
-  ]
+  "count": 0,
+  "news": []
 }

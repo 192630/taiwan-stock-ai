@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-25T22:36:14.938613+08:00",
+  "updated_at": "2026-09-26T23:35:09.241235+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3073",
   "name": "天方能源",
-  "count": 4,
+  "count": 3,
   "news": [
     {
       "title": "董事會：天方能源(3073)通過屋頂光電專案計畫，預計工程總價約為3.38億元",
@@ -20,14 +20,8 @@
     {
       "title": "【2026/08月營收公告】天方能源(3073) 八月營收營收雙減，年減29.31％",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mOGdsaENLanEyMEVPZWRHSWtlUXZlX05weGdNOEMxVjhrQkp4Wm03RG93SllrTzk1VExRWmhBQTk3ZWFjR1VjVWRBU1ZVOEtyY3R0c1VnMGR2WlpXQndzcnlKSHRsTVE?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-10T08:10:04+00:00"
-    },
-    {
-      "title": "營收：天方能源(3073)8月營收1567萬元，月增率-70.36%，年增率-29.31%",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUE1GcmFGRkFYd0tPWEt5SE1kQWNMQmZJMF8wNUx4Nk9iZUpBaFBvMVdmRmpTNUJvb3d6ZU41eEh3QzdSMmUwVHJYU1dZNHB6aTFEajdhbjNLMF9KdURMZXBMQ09POFVFQkpubkR1Y1JVaWVHZHdMVWZaeThXY2h3NEplclRiTllo?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-10T07:00:00+00:00"
     }
   ]
 }

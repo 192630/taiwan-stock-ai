@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T22:36:18.030030+08:00",
+  "updated_at": "2026-09-26T23:35:12.441672+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3090",
   "name": "日電貿",
   "count": 12,
   "news": [
+    {
+      "title": "日電貿轉信昌電最終選擇華新科",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0Q0p3emF3TFdhVnZvNFBUN1dlR25od2VqeVB1MktmN2cwSXlxMi0wQkdyd2FIWmVpUGNySUF6VWctWFJpWFhCVENaQkZLejdhZGJOd2dnMmo?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-26T03:39:31+00:00"
+    },
     {
       "title": "熱門股》被動元件大缺貨 日電貿3週翻倍漲",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhVWZRd3pobUowN3lTMTdzVVloWkZ5ZEhtZGdVVWJXejhUaDcxUS1mc29pVC14SmFYdkl1cV9YTldqbExvX2s4dUZxV0x4UEVxbXJYR1JWYVQ?oc=5",
@@ -14,68 +20,62 @@
     {
       "title": "3090 日電貿- 衝不上去就會下來！ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hSW16bm5wczQtdF9oWDVoTnlTeE5aV2Y1WmVfLWh3WDFtc2xCVmdlNTBjTmxXTnAyTTRwcmlxeTdMLUI0dTM4d042dXRiTGFZNnBWVzJncXA?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-23T02:51:53+00:00"
     },
     {
       "title": "3090 日電貿- 唯一一檔很被動的被動元件類股XD - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LdFFTZWVRNVFVTHF0cElfMlVZcUpHUkRYYjB0NUlmVGxtb1NRUzJjSUQzT1A3TExEUFZSRWQ3bzJTVEQweFlpczRneHFzMUpNeEg2RWlPTUs?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-22T02:37:21+00:00"
     },
     {
       "title": "3090 日電貿 - 買這隻不如去買聯發科，這隻一直被壓價。漲不上去 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PNE4zdTlNZ0syck0tSjNvME9feFNhdjZpWDlKVG1ULUYwQjRmTVBTUk1IbzMtVndEbW1CWFpiaXlTT2QtcWpHYjdJTmVGZkRfYUZtaDZMNFM?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-22T01:15:21+00:00"
     },
     {
       "title": "3090 日電貿 - 只有崩盤這條路。 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zSW5UTW43eFhQSVZUam9VbUtwc0ZRd21pSlVZdWpvUlc0Nm5xWGlBbjJUSmdXeFJ1Zm5ETEpUMXQ2dk9iQWRzYU5ObUhPSGM4UmVicXM3VmM?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-18T02:23:59+00:00"
+    },
+    {
+      "title": "日電貿營收強勁但股價仍陷區間，突破形態尚未確認",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSNlZfLXRablBONTJrSTkzeHp6VXZSLXVJMW1tN05ZRXVqNnFORXN0NnkxZzd2d2pCUjZ0OEtuZXkxeVN4aEltWG92a2VkSGFZTF9GY1ZTcWQ?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-14T07:00:00+00:00"
     },
     {
       "title": "3090 日電貿 - 被套元件又是你跌最多！ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FbFR5am40VmhyRURjU0w3SlF5UVE1RG0xaWZ6eWV0cmFpdGk5dUYtazNYUzlPcEJBeEdBdlZmOVZmdDRYOFp5dmgxZnc3TDBESE15Z0dQWlU?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
       "title": "3090 日電貿- 【產業焦點】iPhone Duo登場股價卻跌！蘋概股「利多出盡」，市場的錢去哪了？ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wRmozNHk5QlN4bmJKbjFSTU9sbkYyeHJlZ21ITEpUT0VaZEhwQ1ZiSnFPd3ZxMmJUeDdKYWE2THlSOEpyWEZNeUxQVi1Ga29hVFFmMW9TSF8?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
       "title": "3090 日電貿 - 確定了 完了完了？？？確定了崩盤了 市場沒有資金來源 被騙... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BZGhXSUIwN3VzUnhNOTZyMEp6R0ZQVVYwTzhKQVV4d1hkNmRxWUV1NkpKTU1PR1VyVnFZQlFQckFFbGFuMWJqWWxwTldiWC0zV21RX21CbWg?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
       "title": "【12:54 即時新聞】日電貿(3090)股價小幅走高至169.5元，受惠MLCC漲價與被動元件景氣回溫＋短線技術面仍偏空籌碼待整理",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nNEdwZUlrdTlSVFlRSnZxbXNYX05fVmJYWGo3NDZLNzBEenhZRl9zOWJoakplV294dGdzQlpJSktmTGxEeU05R3JzMUkyWG9lTHc1cDI0LVk?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-10T04:54:42+00:00"
     },
     {
-      "title": "日電貿(3090)千張大戶與散戶持股比例，持股籌碼集中度查詢 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tSnJGTTgtbHlwYTlPQUtnTFdBUzc2cTFCenB6NzlqaTJINEo2R1RnSGY4UUhKd2h5WGR2SVpYZDlVOFRqeG1nalJRSXFQWWQwSDFDNWdfendWMXdWRjA2T0M4VEY?oc=5",
-      "source": "CMoney",
+      "title": "3090 日電貿 - 不要吊車尾 追上去吧 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55aHh2N0ZCQmltN1VRdFBEeG80dkRJRmc4bnJCOHlMd1JYTmJtenJPWU0tTTV5YU5ReGxxSVBlVF9DWVZ0SzNRX0hQdHRSamczMEFqaUJSWUk?oc=5",
+      "source": "cmoney.tw",
       "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "日電貿(3090)財務報表｜損益表、資產負債表與財報分析 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjQkxLX1F1TWhMOHZ6NTRHbGlVRFdDSjJ1YUxyd202cWgyN2tKdW5ZcGgySDhBcUFxa01RQjhrcFJ6VWdRRTR0MTBuWWhPYWwxanJMSTlTWngyVnc1LTRSWFctN2ZUT3Ns?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "3090 日電貿- 穩 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iWUFWT2FNYWZNMGZGZjJ2LXJ2bm1lOE5ONTYyVGlFRTZJWG1jODI2SnhBVVN6c2JfaFVKU1NTZ0Z2cHhybGJDU0dXZTBrcFhFYmg3ZUNiNXo?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-06T07:00:00+00:00"
     }
   ]
 }

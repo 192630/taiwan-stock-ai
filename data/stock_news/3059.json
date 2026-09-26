@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-25T22:36:11.977700+08:00",
+  "updated_at": "2026-09-26T23:35:06.093567+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3059",
   "name": "華晶科",
   "count": 3,
   "news": [
     {
+      "title": "華晶科(3059) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uUUMtTjhHZXdKYVdsTlRuMnRCdXc2aUhqRC1LMmRYN1B6TXZCUlR3R3l6R1ZiLWxuTkZ2TmE2VXVoWVBMc3RNc0pWZWF2UmZmaV80?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-24T16:01:40+00:00"
+    },
+    {
       "title": "3059 華晶科 - 美國生技指數8月創歷史新高，莫德納 「癌症疫苗」問世，1天大... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2SDgxNnVldmdaYU5nVDZOOWRlOXVzbmRUcHhOQUxDRTAxVEE1cVNSNFZzdWY5M3lBRDNsTDRoZldZTnJWQTlyMFgxdVZxek5VYVRhOVZJUXU?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-23T09:20:07+00:00"
     },
     {
@@ -16,12 +22,6 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUTRDc1NORFBhTFF2TG81VDJEMFN6TF9OSHpGYTE5RFFSQ3d6UERGTXFSV3djeVkyMGd6WlVPYkY4M0ppeXB5ZWptSE1EQm9rcGFWeHU0MW1MX2FEUnlyWF9QY19rc2xKUzZ4cU9DdzNDUkZqeml1VHVhZlJTb2VpT2FwWEdXSHJIZHhwZ2VObEJVdG1LME0xS3k5d1duYUpiQzhNY2xPWQ?oc=5",
       "source": "TradingView",
       "published_at": "2026-09-23T04:09:40+00:00"
-    },
-    {
-      "title": "華晶科(3059) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uUUMtTjhHZXdKYVdsTlRuMnRCdXc2aUhqRC1LMmRYN1B6TXZCUlR3R3l6R1ZiLWxuTkZ2TmE2VXVoWVBMc3RNc0pWZWF2UmZmaV80?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-18T10:28:06+00:00"
     }
   ]
 }

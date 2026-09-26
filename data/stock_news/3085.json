@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-25T22:36:16.747969+08:00",
+  "updated_at": "2026-09-26T23:35:11.084544+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3085",
   "name": "新零售",
-  "count": 5,
+  "count": 3,
   "news": [
     {
       "title": "特力屋13萬張訂單奏效，管家軍團打造新零售高獲利引擎！",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10ZlUxWS11NnpYcXRLNzRBMjFvSk8zZzJtd1kxdGpydG4zeHBldFB2UURSdzBuOE56Sl81NmtkYWpzMlc5dW0wQ2pDWFpqMFE?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-09-22T02:00:07+00:00"
+      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPM1RvVjNzYWQ2ZkVNdFFUX1VZYk5haDJ3UmhoSnc4Y2ViZWwtYlpSbDRzSzJhRTM2LXF2RDRFSHVKU2pnenhOcE1kdWM0ZTRPYVdLVVZyX0FLMm1iYWliNTZ4RTNkeU5pU2E5dy1Fckd4RzJxY1RWeDRJYzVzd1l1YnBkTmgxbjUxZXRieG43YVRfX2FPVVBjS2R6SHBLRnh2NUdLdC1mUGpiU0dPWktld1AzVW5zbmJiTFNZSUZyaGxMajZFNXBndW1ucnh1NzJtVWstOGFuT2ctZmp6Z1RlM2liZmJvc1pjUkJzWTdyRVBIdmdUQzNuZVk0U1cwU2w0TnJaclBGV05rLVJLR25GSl9iVUVxMHFRRHljWVhuVTRVU2w5ZDJJcVd5ODMtb2oyWllCSGdGN1lGYThoSVZQc1dnUU9zc0JRQWpYOGd4bzF6ME5uRHhVM1EwLXc5WFV4ZnZZVXBwUjJNbGNzSjR0d3RhaUd0UQ?oc=5",
+      "source": "Yahoo 財經",
+      "published_at": "2026-09-22T02:51:57+00:00"
     },
     {
       "title": "Oportun任命新零售長及產品長，強化領導團隊 作者 Investing.com",
@@ -18,22 +18,10 @@
       "published_at": "2026-09-21T20:25:10+00:00"
     },
     {
-      "title": "中國新零售供應鏈(03928)更改財政年度結算日",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFJnRWRpMi1FSWhiT2MzNkU5emRabUxuT0MybGNSVW4yTFRGWUNNbXNiTHNGMk1ncHNiMUgxcEVoMTR6WkQwSkpLVkxqZFpPTmpIRjJvYUozNFRWTTdSLWJwRG9ZVHlCTzBpelFCcENBODIyY2Q3cDBaQVhWRHJleVVCc1UtT0NrU3BHYURiU211NjVCTkpkM3dZb1Itd2pONUtNdGZYOGUyQQ?oc=5",
-      "source": "Moomoo",
-      "published_at": "2026-09-21T14:49:12+00:00"
-    },
-    {
       "title": "聯合新零售首推中學版「一日店長」 學生走進書店實踐職場技能",
       "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPcDZoaU9sWllvYWRuTFl0UmxWTkNxMmd6Tnd1b284R3hiWFlLV1preVNKcllsaEdjelF0Z1FjWmxMV1VmUnFqa0VldjZCWVlVWlh2RnpVS1N1ZnhPbkpSTllnLXpZRzlRU1FGeWhFM1RxdWZHS0JwT2ktZUJyQjJOYjVieFNKeE8wbmtFZGtnSTdTWnQ5a2R4d2dHR1lKcC16MUhWbHdVX2EyS3Jqem9mbkprNGItMGd2dlVHOHZJMVF4ZjVpLWNpTVVLbVdUMmZ3eXliZ1VtZnA5MHRuTDVzTktuYjUwd08tdDMxQlVZdm9qUkRfS3U5bmlTM25VWFJBVVpEeTZmZUNkMTB1WkFIVGVlQ25MajVxMWU1LUc5NjNVQVJ3RHZtRFV2OWZDN1N4TGJDVzYyRDFDMFl0Qk5fU3ZBa2llbkJhZUtuZHdFS2RRMmRleGNCb0VlbzBld0hGR1pLdGNhRUZTY2YyaG1oaVFPejZBTnUxZXRoc3FvVjZuZDJacU5OdHR6emVPUld1bmlpUm5n?oc=5",
-      "source": "orangenews.hk",
+      "source": "橙新聞",
       "published_at": "2026-09-10T02:17:00+00:00"
-    },
-    {
-      "title": "個股：新零售(3085)減資換發新股，舊股最後交易日9月30日",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaEtyYU5pSWJVc3Q2ckNkZ3UyaTlYY0VCMGtlT3FXQkxXY2VZb2VUVmd4WG1MX19jcEVpb2NqUU1QZ05ZRlNjTTBSdkJ3c0dhT0gtdVRoY01UOFEtNUJPMUlXQlRpOUVRdkNYaG9jX0VjMlg2TXlVYW01bGExQWx3OEFLamhvdTNG?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]
 }

@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-09-25T22:36:06.484960+08:00",
+  "updated_at": "2026-09-26T23:35:00.450500+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3045",
   "name": "台灣大",
   "count": 12,
   "news": [
     {
+      "title": "電信三雄還威猛嗎？ 從4角度分析中華電、台灣大跟遠傳| 專欄",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA0NzN5eUR4WjJ0MjdZZE9EcWdKTEMtUFhxWFhkejdBWnhJUEVWaE5TcE8xYS1JcWxHT1Uyc2tPenY3czExY3JJ?oc=5",
+      "source": "三立新聞網SETN.com",
+      "published_at": "2026-09-24T18:17:32+00:00"
+    },
+    {
       "title": "台灣大三生把「加密貨幣操盤」做成卡牌遊戲！影片1天破百萬觀看 10月就能玩",
       "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxPY1RrT195ZGtIcV8xaEZrZ0lDWEpSd1AzNU1VSnRmYmtGV1VVbTBqbnctTVNwYTVMWnhaWHIwVkZvbUhyTTlIcDRrRURwQzZxRnZOQXl1Vm5ScVFJOXZCR0t2WXRzTnFLNjExd2JsQTZQeDN0NS1ZWEQxM2JXZ09VOHB0dTBsVXcwSk9yMU5mcE9COHBuNHFFYktIakZZMmt5R1pFNGx4UGhCUlo1TWh5eDFNdFNQdDBLX3pRd2hteE5ZZENYZG9fcUNrM0t2NW9RLWdSVzRhNG0yRzJJT1c0NHZVYnc1WVlZM2hHS1RvTFhNeGoxeWE0STAyQWNCbGxVTGhPb1M3Y01vUXRNUlZINTY2RlJHb3VONWx3Y3Y1MUwtYV9tS3AwNUdOMkd2UGxWMGotZUZha2lLNXdsd0Itb2YySlhYcERCZGxuOXloN08yTGJGeXdsV1hCR2NZMFJLSFhPdkNhaXhsUW5IUXdNUFk0bFpBVm16bjdvdXFmOVVUUEdYRFVHV3Rkc1JhVHlnU1pfQ29nZzROOEVjMHM3RmZtMTBMbzBwRU1mS2xZRkxYV0c4NUFhci1KSVp2ajBBcjhvOWU3WnZXdF81YlhETGVqbnhXOEdZUGFqQWFGY0pfOE9S?oc=5",
       "source": "Yahoo新聞",
       "published_at": "2026-09-24T07:17:43+00:00"
-    },
-    {
-      "title": "台灣大、遠傳iPhone 18銷量較前代大增逾7成 果粉今年最愛這顏色",
-      "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxObV9QM0laNWVzTTV3QjJNZG9jZlFWc1NTRmFPRk8xNnJoWEpyU2tlUndOM1RYeDJ1YVNGOV95X2NoWWdKVGJySlc4S2pGUGYxanh4amR6THFPWm1sUXAxY1ZieWZ3VDRwUTd1NGxvRGJBSmw1YndySm9KaElfMEJTX2RWY292UUtzR1FLNFJWNXllLTNBcDBRWVRGTlF0dVNIOHgxa251UmlZLXplYzA2dWZjbjF6TThyaFI3YWhRX0ZrRXZnZThaR2xwZ29TaXMwWHl3WjI1NDljVThYMHBsUWctTUQtQkV5Qkg5ZnNQRTZQUGM4M1FyMnFqSVFTTVhENk9RZ0VJNFFHbjkyODczS01qRnZ0dFg1LXhuZXBGYkIwQ0M2N3Q5bUdOb3EzMm0xcTNIcU0zejd0VlV2ZnpQQ3BGaHVjX0NYdl9SUHNianRia3FRVWJPdnk5ZGVRN25Ea2E5alZWOU5zUlR6UlZhaG9pU3RITjRacl9GNGdMSFI4c2FCNG5xTUZ3?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-22T09:06:13+00:00"
     },
     {
       "title": "有這檔股票注意！台灣大廠今天9/22最後交易日，「10月1日終止上櫃」， 換股比例一次看",
@@ -24,22 +24,16 @@
       "published_at": "2026-09-22T01:44:59+00:00"
     },
     {
-      "title": "不只《陽光女子合唱團》？台灣大轉投資智寶將製作《電鋸甜心》真人電影劍指好萊塢",
-      "url": "https://news.google.com/rss/articles/CBMiowRBVV95cUxOS21FZlk2c2dvaTIwSG5VTVV3OHM4Y1Q4dTkzT1ZyTGhyYzROOEpDM0ZWZng1djJ4ZUJwY3VOdDNYazhueHFaT2JGTHdWMWlvQXFEaWQydGRwYzY5VGRqSWQ1ckl5TTVjZVNQcExhX01DM1JyQ1lNX3V4Y3VPdEhuNmgxSU52U0lnSjBGcjdRTXN4WWNwY2pQX3JFODhHQzl2UnpIbXFJUHRqajdGcVdiTzBtaXhkdjl1dWFwdzZPUGY3LXZxRzlKYjhyTHlnVnBKcUVlbDhfY3o0ME5yV2doZ3hIbXZheVVfMDIwWXBKUkN4WG1aUzVhY1l0NEZXTEtJNW5zQkVVSGlBeHR4WTJtY2RMV3YzSDVHZDhZSlFoWGRHRjJ0Tk9Nb1JCSnN3Y3FMRzVqQXo4YnBmSmRZQm40dDNCek9CUEw0d0d6MEFtSDAwdTdUSTh6eFJfdm54cHpCNjd2NGxYS1U0QzQyZnl1c1BTLU5mNUtBOWluaFlpbURfUnFoX0hhNHg0LVVyTjBBQnlWSFRxS21fYnNQVWN4WGxTTmNWd2wyRzV0VGJ2R19Lc0I5N2JyY0h5a2J0YmVVWHZPdjI4WFZfclA4MkJFY0Vzb0VURk1hNExrLXhsYmpDQWhiS2lWVDBsZzczSmg5Qk94SHVIWVpsUkNmR2prTXFHZDdHMENsOEF5WFpZRmI4YVhVWHMwSVhFLWhSUkF4UlRz?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-19T08:23:51+00:00"
-    },
-    {
       "title": "3045 台灣大- 台灣大深化內容布局，續加強智寶新作投資力度- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42d1hINFRIWEVQTW40RWJOOTRKeWg2QjNrNUJPalRnMTltVXR3VGNIaW5tTUp4QnVhc3dJa0pibGxXNlNtZlJVQlFPNW1HSUIyNkdrSmF4ejA?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-19T07:38:35+00:00"
     },
     {
-      "title": "名人找個家／台灣大資訊長蔡祈岩要住得舒服- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nMkgyUGgwem1yY0FEbGdydXlQVDE0dXZoQWRnQlpVNHkyWXE3REFxWlA2NzU2dmFLMVRxU0IxaGR6NWdOS2c0X1lhUUdHdmtXbm5GZlZ2TWU?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-18T17:39:29+00:00"
+      "title": "不只《陽光女子合唱團》？台灣大轉投資智寶將製作《電鋸甜心》真人電影劍指好萊塢",
+      "url": "https://news.google.com/rss/articles/CBMiowRBVV95cUxOS21FZlk2c2dvaTIwSG5VTVV3OHM4Y1Q4dTkzT1ZyTGhyYzROOEpDM0ZWZng1djJ4ZUJwY3VOdDNYazhueHFaT2JGTHdWMWlvQXFEaWQydGRwYzY5VGRqSWQ1ckl5TTVjZVNQcExhX01DM1JyQ1lNX3V4Y3VPdEhuNmgxSU52U0lnSjBGcjdRTXN4WWNwY2pQX3JFODhHQzl2UnpIbXFJUHRqajdGcVdiTzBtaXhkdjl1dWFwdzZPUGY3LXZxRzlKYjhyTHlnVnBKcUVlbDhfY3o0ME5yV2doZ3hIbXZheVVfMDIwWXBKUkN4WG1aUzVhY1l0NEZXTEtJNW5zQkVVSGlBeHR4WTJtY2RMV3YzSDVHZDhZSlFoWGRHRjJ0Tk9Nb1JCSnN3Y3FMRzVqQXo4YnBmSmRZQm40dDNCek9CUEw0d0d6MEFtSDAwdTdUSTh6eFJfdm54cHpCNjd2NGxYS1U0QzQyZnl1c1BTLU5mNUtBOWluaFlpbURfUnFoX0hhNHg0LVVyTjBBQnlWSFRxS21fYnNQVWN4WGxTTmNWd2wyRzV0VGJ2R19Lc0I5N2JyY0h5a2J0YmVVWHZPdjI4WFZfclA4MkJFY0Vzb0VURk1hNExrLXhsYmpDQWhiS2lWVDBsZzczSmg5Qk94SHVIWVpsUkNmR2prTXFHZDdHMENsOEF5WFpZRmI4YVhVWHMwSVhFLWhSUkF4UlRz?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-18T07:00:00+00:00"
     },
     {
       "title": "〈蘋果新機開賣〉台灣大：iPhone 18 Pro系列預購量年增雙位數 超越去年",
@@ -54,27 +48,33 @@
       "published_at": "2026-09-18T03:33:28+00:00"
     },
     {
-      "title": "iPhone 18今開賣！台灣大、遠傳頭香哥現身 他搶下頭香只因「合約到期」",
-      "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNYmw5ZzZkRUpqTjhHNmoxVmlkWHlyYy1qS2RLQVU2SmJuTWdTQXo1ZGNQd0hmMVBvX0Y3Y1pDTndvUWFVeWFVNjRvVmZUVlBMajROS2xzdU1KbVFBak5TZVJBVjhoQzR5MWI2N2dEOFBQTkN3SG44VVBkRlpqMTMxSnN5ZVIwZXRkemJEbS05NF9tME9QcEtBUnM2alFEZG9RSUlTanFpSVNnZEhaV01yVjh6X2JuR2c1blZGbjF2YWlHakpySjduV3JsVWlRUzFtT3pRWDhLaVcyc3czQXFFaVpjSllwWk13QVBQM1pXZWRZQThWdVUtemRUOVVOY05TYnFYZmNmbms4eEJjd1dmcUNMX21IUm5abno5akgwanFPZ0hsVFEyRHN4U3pnQVNaT2FReHZ2TXJaaWFCdmpuRVh5SlROaEdiZnBlSTl3eUVyZ2cySVIzbVN5Ykt5VnZjczcyTE9WMmZsLUpad1N2cGNFX3A5anc2eWxKcS1MdG9aS2NOM0RjU0RCWnFUY3VvWDE4TnJGdU9kRzBuMUVIcUVGOEd2UktRZnNXYnVjRzByZzZxZXJoTg?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-18T00:12:23+00:00"
-    },
-    {
       "title": "台灣大子公司 台信電訊收購精誠 公平會受理",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPcmZlTm9wTzF4V0ZfQVk0NHA0Umx0OGZrMTB6SjFDX3pwUEJIT0cxa0dWVXYwLXFmUko3U21uTzlQd282aXNtSDVkR3FkTHk2c1hnZnVzOVU2eG5PRlROTmJSc3QydWRIaklZ?oc=5",
       "source": "中時新聞網",
       "published_at": "2026-09-17T20:10:00+00:00"
     },
     {
-      "title": "公平會正式受理台灣大公開收購精誠 溢價已達38%",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oc29qTklEWktoeUF1aXRhV096aUNWR2Q5RTFjanhfazBDMFVfVmNrZ21hYWJ2RklYLXRlZkd4MW1tR2gyRmpyeXF5V3Z1bkE?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-09-17T10:30:43+00:00"
+      "title": "公平會受理台灣大收購精誠案 決戰10/6",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TTnQ2UjM1WU9GaXk3LWp0T3R4b3F2YzhxNGQtWDBQU181aWpIdkhPd0NnZl9QcHdWdmVBNnlCZ1BYOWJ1b1hwQ2J4VW8xcGVYYm1KUU9PYnE?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-17T10:50:39+00:00"
     },
     {
       "title": "台灣大旗下台信電訊公開收購精誠資訊 公平會正式受理",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzYUk0cTBQcWphOU1qS0RtRkloNXdoSDQ4RlZhZTlRck1pT0Q3ZnVwenJHX1dRVjVuc01tLUlZTzY3YWFEZjUxODFMcWk1U1VxR1pNOXRwT01jUQ?oc=5",
       "source": "中央社 CNA",
+      "published_at": "2026-09-17T07:00:00+00:00"
+    },
+    {
+      "title": "公平會正式受理台灣大公開收購精誠 溢價已達38%",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oc29qTklEWktoeUF1aXRhV096aUNWR2Q5RTFjanhfazBDMFVfVmNrZ21hYWJ2RklYLXRlZkd4MW1tR2gyRmpyeXF5V3Z1bkE?oc=5",
+      "source": "news.cnyes.com",
+      "published_at": "2026-09-17T07:00:00+00:00"
+    },
+    {
+      "title": "iPhone 18、蘋果摺疊機預購來了！中華電信下午3點起跑 台灣大遠傳本周也開搶",
+      "url": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxNMzF5dk9hYzV4Wmp0OVh1cmRiazB2VVVtMXh3a0xmVW96LUpiUTg2eWhVLXhacE8wMk1UM0Q3a2sxN1g4ZzBOaldiX3Y5TmJvTkFvM3ZPUnNzdkJ2R2xrSFJ3NHNCODBPbWk2cHpjSWdXcFJ6SzN1Y2dQR3M2X2Ftc01hOGpNYTlHcE9yUFhVVUxYWU5qQ0N0aUJiZXk4bnpvekxCQkU2N1E3TFB5QXdxT09Cd2w0d2kwcjhXSFR5VDVxeWtOTHRNYWdmOFI2enU3NWtMUktVNDBKb2pSYUgweXRKaUQ5Q1djWUlMc2NoV212MWE3SWZhVEhOODhONko5TzZiVnBkZDFTYXNoTjBNaUphU0dWcEVIZnBtaHpWMGY5UGlmSzNaWE1TemFtQTJpcURmOFIzSTdJZHUtcVYxdDBIMzE2UWFSQ0puaHlaOEUxaVRfZGItM0R0cy0wRGp0UFBBbjJTeXNVbWNpNHY3TzdCN2RKV0ZqR3FmWGY2Wk1lZ2VKMzNIaUNmYlllTUREU1g5VEJzZHRSOFpSNkZsZUFXVmdtQ0ZzNzRIWEl4c2VRVGNINkdlLUVXaDZRV0lvd0tPZGFRa2xvSXZpSjc4a2ZR?oc=5",
+      "source": "Yahoo股市",
       "published_at": "2026-09-17T07:00:00+00:00"
     }
   ]

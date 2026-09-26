@@ -1,33 +1,15 @@
 {
-  "updated_at": "2026-09-25T22:36:26.945886+08:00",
+  "updated_at": "2026-09-26T23:35:21.574364+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3158",
   "name": "嘉實",
-  "count": 4,
+  "count": 1,
   "news": [
-    {
-      "title": "嘉實中美科技５０(03169) 交易所買賣基金的交易資料",
-      "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPN1R1ZjZwTFhId1BYaEV2VHlCNnBmQ1R6aU9memlQRF9jOW0yaFBUTjFPMTd2RDBYWXZVR1hFUEpVbEFaZFV4d1YwdUFBcGZRR0tsZXEycUw1UlFOVlppR1pmaE9XSlI1LXJIOTFreDdJckJzT2tUcHc2dkVOdktZM0ZrYkJvSGl2dklKUkYzNVJMcjlDMHNCUFVoTTRuSGJjT1NwYms1YklFckNFLWlPVXFwQm8tVzNEYnRxQV9GanFNbGhDNHdiVlV3bHl1UkZZYTk2MjctOVd3Sk1kTU5oX25pTEhZWmc4WExvZ0dkMXF0aGJ1Ty1PY2t5Vk13djNsVk9RLWdRQ1RPdXc4OEU3X1lMTGJrbVN2V2d2QTNuTHpKZ216aUVwQXFjMHRqZ2tGRl9nS21HS1g2ZG5KZ2hxUkptR1JPUXJpNkRXLVF0dGV1bTFfTnZocEJycngyRjNieF91aw?oc=5",
-      "source": "信報網站",
-      "published_at": "2026-09-17T11:55:34+00:00"
-    },
     {
       "title": "【2026/08月營收公告】嘉實(3158) 八月營收1.11億元，表現亮眼、呈現雙成長，創近2個月以來新高，年增39.4%",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV1NUQmlvakpiYkpMWnJBVF9fdzhPdXJiUk5DaHhmbGZGbGI1amF6dkVrTjJWTl9pMmFleDZfVmZYdzVjTWlCclo0MFRsRVhOSHpmVDhZa3FJUDFkc0RwQzFzQUw0ZkV4Qjg1ZnBpUkZwLTBadzE0MnpZSlZvdU5WYWpVR3pnZy05LVE?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "台股開盤狂飆逾400點 系統商嘉實主機突發異常！多家券商 APP 遭波及",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TaUViS1NxU0RxOXNhUjhHd3dpZElRV1ctWVpNMjRvTWJvVHVDS2hzLVRKVEJtZW14UW80cE9sYjlzWlkwUWNheG5wcmdTQ3JXY083WHc5N3NYUdIBX0FVX3lxTFB5RnpTNERNS1B4UWdGNGNBODV1N1hFcDFJMzl3T011ZzNObmltUTlISlgyYmNpR2tUczVOemh6YlVBR2JScGM2Mkg0VERhYXZUU0JIcDZCZlp0XzZBYzNj?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-08-27T07:00:00+00:00"
-    },
-    {
-      "title": "台股早盤大漲！系統商嘉實主機一度異常！多家券商APP無法登入",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBUSm5waGpGSUs2NGx3b3d3ZUhfbm1kbzkwc19STmZfbWVpdm1mLUwwWXZaaEpoTWtMbjZqTW9DQl9WTGZsQ2dHcHFCQjluUQ?oc=5",
-      "source": "TVBS新聞網",
-      "published_at": "2026-08-27T07:00:00+00:00"
     }
   ]
 }
