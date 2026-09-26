@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-24T16:36:10.962600+08:00",
+  "updated_at": "2026-09-26T19:33:15.330849+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2228",
   "name": "劍麟",
-  "count": 3,
+  "count": 4,
   "news": [
     {
       "title": "存股助理第851期｜揚博、劍麟解除追蹤；數字科技、全家餐飲納入存股池｜股池更新",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRVMxTGN0TmhCNEM0bUZiaUZ4ZjgxRFFtMS1zcEttZmZsWEZmb3Z5bDVZY2NLTnFkMi1LM3BqTFRWeHhJeml1dVhlWmQ2SFI5R1VOdjB0WXhpMlZNX3YzeXg1b3FMejZZQWV0UE1NVTVxNFZGZzlKNzlTWUxZUm5RYk9lRElhMG40b1VGRzg3TnFIdw?oc=5",
-      "source": "businesstoday.com.tw",
+      "source": "今周刊",
       "published_at": "2026-09-21T12:00:00+00:00"
     },
     {
@@ -22,6 +22,12 @@
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOYVpJanpJOHVBUllzb2QtVUp0ZEtLc043MXJoZzMwckhkWU9FV3lkZkdPRnBoRkRaNDBBUmxTQ1NYRHg3LTN1emdwcUNVN1Fya0tUd21KODFpZUxPUG5IaWtUUlUwUEdqdkxLY3F2R01ZMFVTVldWNjJrQ3RIcWdkU2NsZWtMUWxFX2t1MlZSMGdSWlBEUzA0bkR1YS14aGJQbmN2V3p4Um41MjNYeVVmWjdkSkpVc2MwaERLNDNScElnMDRYTk5UWEpWUERBR1JmZXNNTENjYm0yLUdaNXFYaDRHUGU5bTRsX0dEOGlpeER4VW9xMUpDV0x1VjJvVUxaWTdYX1ZNUnFIYUk?oc=5",
       "source": "Yahoo新聞",
       "published_at": "2026-09-11T07:00:00+00:00"
+    },
+    {
+      "title": "劍麟營收／8月3.94億元 前八月32.68億元",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWblZCNVFjVkl0NGJVR0M2YkowdldkcDVzRkozWTlYeDB2bjM1WHBpaFJ4VEpWZ2lqSWZZemJ4ZDlzSXN2ME5YZzVIaW1aa2tV0gFWQVVfeXFMTVE2Wk8zVUp3ZEdZU3cxNXpmWmZYV1pnaWJ4amdOMDhweGRJTjhxUVB5cllVem44b3huR0ZzX09UOGVPN19QOGRId1VtcmxWRU1aZzdlZVE?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-10T07:00:00+00:00"
     }
   ]
 }

@@ -1,21 +1,27 @@
 {
-  "updated_at": "2026-09-24T17:35:01.873993+08:00",
+  "updated_at": "2026-09-26T19:33:28.298935+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2332",
   "name": "友訊",
   "count": 12,
   "news": [
     {
+      "title": "友訊陪伴型機器人 目標出貨10萬台",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvY0xHN2xFamJyTEFpRVhfZ0tBcEl4WndtS0NIQUVySHNiVzd4c3pxSUJpQXdYN3JEaWIwb1dfUVdtUXg0Z2ZuT2VsWDdjQi1TelczelJkbVA?oc=5",
+      "source": "stock.ltn.com.tw",
+      "published_at": "2026-09-24T10:24:48+00:00"
+    },
+    {
+      "title": "2332 友訊- 熱門題材都有了五個字送你（噴到外太空）📈 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qSm43MlluY3VTNnBXSkJLdHh3d1RSMUtvQkg3LW1PSmZFSm5TczdDbDVuMFJUajU4M0pWczFPU2JxcHBIVkFpblJoV252NVlDNHAybTBNM20?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T10:28:44+00:00"
+    },
+    {
       "title": "友訊聚焦商用布局 切入國安網絡與機器人商機",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lQUphTUJ4T0JhNlp1Q1F2YWNSQUV3RzZOYU1EREdJTkF6RW5HcUd3dDlsYU9LMm1aTjV6ZGk5UmE4QUtfUlM4MGszdFNrdUk?oc=5",
       "source": "news.cnyes.com",
       "published_at": "2026-09-23T09:28:06+00:00"
-    },
-    {
-      "title": "2332 友訊- 外資昨天大賣高處.變成多空決戰點- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0waUF0SW5uRG1XbjFfamQ4YmEzd21QbjBrWHBBZ2IwQkRnb3p5c1NkLS1qX0Z0alViclpUZGRSTmREaEJTTzYxdG9yQl91ZUJ2OVRiUlM5bFE?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-23T01:08:58+00:00"
     },
     {
       "title": "《通網股》友訊9月23日受邀參加群益金鼎證券舉辦法人說明會",
@@ -38,7 +44,7 @@
     {
       "title": "【13:05 即時新聞】友訊(2332)盤中走強，市場聚焦AI機器人與衛星網通題材",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR3VDb1E3Wm54czFsUHlyMXRqb1RNenNZWVFjLU5oRjJpOWFfRXV3T0FZdnVlSl9XanM1d3E5S3luVHp6QXM2U3JFeEFlTl9waXBQQW5hSEd0ODhBWWdvakQ3dkNGRkhHd0pOWVNBSmd2OTUxeGxSamhheERBNFJtc2p3NmlHSFRTN0xMcVdB?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-21T05:06:15+00:00"
     },
     {
@@ -54,28 +60,22 @@
       "published_at": "2026-09-18T11:30:42+00:00"
     },
     {
-      "title": "友訊：網站遭攻擊登入驗證對公司營運尚無重大影響| 產經",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56S21LOEUyZ1VqaGFiUEpaaDBib0lRWGJEMjl0WEJUOG9KZkNFVDVrbFlWb2RZUDNaQkk2NGY3Xy1tcXZsSm80cDktaHlLcjR1QXBxcTMyZ3U2VXpTTFE?oc=5",
-      "source": "中央社 CNA",
-      "published_at": "2026-09-18T10:21:00+00:00"
-    },
-    {
-      "title": "2332 友訊- 友訊本公司發生網路資安事件- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkcWdiZVN2RjZqT0ltcDJRZnhaUlJzUEFfYnplcXZRNjZwY3cxcG4tSEJYcl9ZeW9ZcUhqQ1dvbjF3RlJsS0l0eGxON1E3ajhGMVpPRVJ1SzU?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-18T10:11:23+00:00"
-    },
-    {
-      "title": "【營收快訊】友訊(2332)公告08月營收",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YV3hGMDlYelAwUXo2TDZUMHdBd0g5LXc4YTBaSTJDUDhZcG5Zb1ZpdnVLRkdlVDJrTDkzVlJKVkFEMFdmT3hoc3NfM3RBbzI0MEMxRGM0UWE?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-10T07:22:57+00:00"
-    },
-    {
       "title": "2332 友訊- 今天追.明天套- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BQjhacU41Qy1yWTUxMG1OdGk4OFdOcHNRa3kxSndSaVlzb21VaWxoX243TnY3cU1VbG9XZEU4U0d1bU5NLXhHYVh3RTZzT1o1OUVLOHVtY2Y?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
+      "title": "2332 友訊- 主要量還夠.對付外資- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SNVM5NE5tZmJScWlnY01uek5aS2VEYW1qZkJJUjZvUTltN1JNUjluanNFZDFzeDFMXzltRTVVOHN3SGFUMzBmbUQ3SnFFQ25IaGpRZmVUTzU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
+      "title": "2332 友訊- 天天掛假買盤，明天加碼空，直到會漲停，在考慮回補- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lRXkwOEczRFYyMk4zM1Y4WGhlOXhwTWZpN2dfZGQtM291SXgxUmsyU2xuNWlwU1loUV9mbFF0YnhCNzNvNDhrTENrSFFLa2IteTBxa1Q5ZVM?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-03T07:00:00+00:00"
     }
   ]
 }

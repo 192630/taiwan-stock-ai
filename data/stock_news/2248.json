@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-09-24T16:36:15.330552+08:00",
+  "updated_at": "2026-09-26T19:33:19.833207+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2248",
   "name": "華勝-KY",
-  "count": 1,
-  "news": [
-    {
-      "title": "【08/26券商評等報告彙整】華勝-KY(2248) 今日僅1家券商發布績效評等報告，評價為看多，目標價為75元。",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPemh3N2k1MzRNVWVmUmpXUC1xdTM2VFctZmNUbzFHS2FnR3hJNkkyeDZXQ1MtTjRkc1ptM0NOaTVURWJqX05YbDFRN2ZkbTFPakhNbm5yOU45MWlfVmEtOWZ6RmJxSTI1YXVUU3hFbzNRUlFnMWhhNElWQWhQMS03UXdUQUZaOGlmQmc?oc=5",
-      "source": "cmnews.com.tw",
-      "published_at": "2026-08-26T07:00:00+00:00"
-    }
-  ]
+  "count": 0,
+  "news": []
 }

@@ -1,27 +1,15 @@
 {
-  "updated_at": "2026-09-24T17:35:05.134528+08:00",
+  "updated_at": "2026-09-26T19:33:31.638912+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2348",
   "name": "海悅",
-  "count": 8,
+  "count": 4,
   "news": [
     {
       "title": "【12:20 即時新聞】海悅(2348)股價走強，市場聚焦房市低迷下營建與代銷動能",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUWZsdHlQNlNaM0djaVoxeDlTYkVwTTlTM2FhSzYyWXVxUEdMZ1hyelhLQjctdHNtUXN0R1JMQS1ZczB5bEdKak82TzBlcHpEQVQtYkN1ejdkVnVZTnB4cWh2WGV3Mk15V2J0Ql9XYi1hUlZ3eEZqYXRYU0dPNVhEcml6ZXJieEsxWlh0eEFn?oc=5",
-      "source": "cmnews.com.tw",
-      "published_at": "2026-09-17T04:20:30+00:00"
-    },
-    {
-      "title": "2348 海悅- 今天海悅發放現金股息，凱基卻跟我說要等到9/10才入帳- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91cUg0WjRNTWRkM3haa0h5MnRkaF8tUFE3SDNCOU9GYUdSYjQ2Y0E2M2s3Ti1IeEJsSXJZQXdnTXNpWVhRSkxvRnliaThsV2JrY3hhRFZlQ0Y?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "海悅兩大案交屋 8月營收年增5.4倍",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VanpCbVRKbzgyV0MyUWZWMkNyU1ZtLVZaV0Mtazg4TzJ4N3E2bDFqTUdFQWhJVTQ4LWpiR19ZMDNPd05GMHVqMFVMd3pUWW5PRXlZZVNrYllHeWo1YXVoLXpvY0c2OVlxbVpZ?oc=5",
-      "source": "中時新聞網",
-      "published_at": "2026-09-06T20:10:00+00:00"
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-17T07:00:00+00:00"
     },
     {
       "title": "房市回溫了？海悅8月營收14.25億元 年增逾5倍",
@@ -36,22 +24,10 @@
       "published_at": "2026-09-04T07:00:00+00:00"
     },
     {
-      "title": "海悅新建案交屋陸續發酵 8月營收14.25億元年增5.4倍｜新聞快訊｜豐雲學堂",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KV1NQT2xmcDZwLXJPSFZkNDRkN2tLbURtRlBPMmczdERJLU5ISDVVdEpWRFY4Mlc2UmpBVXE3Si0ycHRJbGxVaHh1RGRfLVFXNFBEbW9wQUFTN0VZV2llanpxNS1ENEc5Y3VsM2dlZDZ5emdvWVE?oc=5",
-      "source": "sinotrade.com.tw",
-      "published_at": "2026-09-04T07:00:00+00:00"
-    },
-    {
-      "title": "房市管制該鬆了？海悅總座籲「住滿15年」換屋貸8成 豪宅門檻也該調",
-      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxOLWlIa3pmUjZHMkFiR1U3R0xFNjV6TFNEVUhNNWtya09VTnJPcWpxa2J2dVNuMjNGODhoTk5OWFNQeDlOaHNFSWVHTy1MeFpieXVBVzFDNWM5MTVVSkNuSGF5dS1wYndpckczaGFLVXI3ZkVNVnctd1pGRW8wNWhKVzhLV2xyU3o0TElfa1JwMk0waGFWZGlRVEgyLTlFMElHcm85anNBTlY3UDlLaVBoZFNvS182VHAtMERvMnVOVjB1My04cjIzU3kxaHE2UUc2R3BKY3ZYV3hrY3pvQ2VRNFJFLVh5ZS1CMmJ1NGw3N2hLTjB0UWVURDVSUl9FWUtod3VDWVlZay1GcENZZjM1YWhCcHZKTk91UTBkdzJ0WExFa3F2cHpYb1BHc3A2Sm1mTnlZTjZwNmdjSDVNaVB4ck9tWWRmUEpNNmRiUlBfZEtQSUVLRVR5dUFJYm8xMTNhV0lqWVROSXlLU3RRVzZHcUg1UXZvRHpMVFlwYzI5MUdLal8wUjlzd3A0RFhXRWdQOGEwVENrSXZKcEVpbjVDdHBoSm5rQXA0eHQ5X29kS0FJdUxrdzNJeDZnTEM?oc=5",
+      "title": "海悅新建案交屋陸續發酵 8月營收14.25億元年增5.4倍",
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNZlh4RElGTkdueWZqSDJnS1ZkRmNpOU5DbEJodmpRZTVJSnhaRmFRSjlPR1B4R1M3Zm9UMWwyMUFiZGxmQ2dSMGFiUHFxTURmXzB5bEYtbGZMZmoxeEE1UEplVTFJbjdhYXBwOTc4N0JvRVZqM0NSRVU1N2NNcDhsMFJKS3AyQmV3V29lSGhXR0RVUUhQTmd6cGRWM24tM09MdDRETUl4OHdJVUdGN1ZaWlhsZUJVSVRoRTZFMEh6Zjhvc1ktM0hJRWpQdGxSTFVEWWpRTnFlZGhXcjJJU2ktQTZUSmRwN3Z0WEczRUhuR0JIUGh6SHRNS05kc0tZYnpROU5ETFoxZ3VnSERKYzJpbjNsa0I0dDFRM2FUeldSR0NwcXNEUVdlSTRKMUZYeTNJUzdyLThDandDUGktb1R4X21uR1BRSXFwUklHMQ?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-08-27T07:00:00+00:00"
-    },
-    {
-      "title": "【08/26券商評等報告彙整】海悅(2348) 今日僅1家券商發布績效評等報告，評價為看多，目標價為80元。",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQM2RBaERZbzZVVVdpc3ZhajFGaGRrZkttZ2ZDSWhFbXNZRDNRREhBUHoyY2dYR1E3SGZQZDlfUkJGeF9uY3dqeGo1LVFVQ1Q2Q2pXUHFnWS16eUJNTnA5WEw0WHVfUzhnamtReXVKalphLU42aHV5R1hNODl5MkNoSHBNLWRhR0luZHc?oc=5",
-      "source": "cmnews.com.tw",
-      "published_at": "2026-08-26T07:00:00+00:00"
+      "published_at": "2026-09-04T07:00:00+00:00"
     }
   ]
 }

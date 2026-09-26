@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-24T17:35:09.155022+08:00",
+  "updated_at": "2026-09-26T19:33:35.745573+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2359",
   "name": "所羅門",
   "count": 12,
   "news": [
+    {
+      "title": "2359 所羅門 - 阿門沒有人關注，在等什麼嗎！ - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83NlBzUFkycm45TS1TWVVwY1k2WnZUX0Y4YmtqZGVDMGVmNHJicHpiZFBPaHNTWHkxeTBmREExbjJ1aHU3NEMwb2tScjUwTzNzZGdwTHEzV18?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T01:26:10+00:00"
+    },
+    {
+      "title": "亞馬遜「來電」 所羅門沾光",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jV25rNndKenZjang0U0JjUW8wWlFtSTRGWElocm82ZFQtQzJQOWtTWHFSUkN6WDk4MTFXY3Z4d3hwM0x6d1Rqdzd4Q283cUNX0gFWQVVfeXFMT20tamFSMk92VWRZbVNRbTdxWDdzc2ZyWmtqdTd1Y0ptMk1iVkpkdExQTGVPVHdPVGR5NzBMNmZOS1BLUVNGNlhhWkdNUVdyZm5qcy1xMHc?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-17T15:05:18+00:00"
+    },
     {
       "title": "2359 所羅門 - 看電視喊喊買股票概念股衝- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YZ1RHSy1uTDVRa0U2amlWVGRUQTRjRjRzemt2ZS1nbEN6ZU5VSTlWQy11dF8wcVNWZUc2aHRMZEw3TEhBemE3Q2ZVY01RVDVuUG9ESTdyMEI?oc=5",
@@ -18,6 +30,12 @@
       "published_at": "2026-09-11T01:57:00+00:00"
     },
     {
+      "title": "2359 所羅門 - 在高樓163受不了每天跌…損出 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44Z1FjOENUbm9NaWRXNmdqSXlzVnBkZmR0c08zM0c2NHlzbmZabXByVHUwY3F5MVFrVlJ2ZzNaODQ1Qm1RZ21SX01YSVNIR3NreHNORWlIdFg?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-10T01:27:44+00:00"
+    },
+    {
       "title": "機器人冷熱交織！所羅門需求看到2027仍挫逾1% 「這檔」產能滿載、春節拼加班狂飆半根",
       "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxPVmx1N2VkY1c1MkFZZUIxLVBYdHNuM2FnS3REOHB5SUloOXIwYmRVc0w0MDh1RGc3QVo2OGVfQUlpcjk2cFhBaXpSck5KMjh3dzVHOGlHQko2TFo2X2xTZnlkaEwxRGIycDhMa3NYVjFkNWpPaWtPZFF1MzdScTNOYzFXTTdGOVVCVkNvRHRULU5lQTZYdUVUbW5UMDdCcTd5TzBwRFhIaTdsbUI1Q0h4c3BwdkdCekg5R05PM00wQTRNRFRFTTlMSHV6TFhWV1FIRkJERHZDZmZUdUl5QVVzSzRyNXNNUDdLbVJoTlJZbktJeVctcHJ2Q1JvdzltcVVuWHlKa0pwZDhsVFo5TDY3ei1uRWpILVY1X1Nua3BOaDJydnR4MkVlTy1uUTNfd2loZl9UQWpKVi1jc0VESE9wS2NhRHR4aThaalVtR1ZRUmNObE1USi1YNnNxVWtOakRESExDU3BibnpReVRGS1A5VHlPdHNQaDZWNGFMQk12LVRhSmRSMXdlbS1WdkZNU25fQXl5M3lUdTdQRmM4U0UwUXhOVlhGR0FINWJtT2lmeXdvSkdyNzFNdDNnOHhqSUpfQkFJNTZjcVZ0M0UwelhQb3drdE4zZGhUSDZWVXRkTTFmQWNFZUYw?oc=5",
       "source": "Yahoo股市",
@@ -26,13 +44,13 @@
     {
       "title": "【2026/08月營收公告】所羅門(2359) 八月營收2.76億元，營收雙減，年減18.15%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbFVFRkVUVFUwVnZ4d0ZlN0NaOFFhcU9BbTZuakpDYjdqdm5pVnNkWG1pLUJCMUlzVHJaMEQ5NXRGU3FOTzIxYTB2VGhSZ3dxRDZkcW1fdzNERUNwaHFzckNEbnRYMWh0SktUdFVnMzFLd0FsSEZxTjhXV2dvb1dHRHZwWEFXelBZU2c?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
       "title": "【2026/07月營收公告】所羅門(2359) 七月營收4.11億元，年增36.32%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUTVaRmN0b3FPaUJEZFBEZ3FEZTNhY3pSelBybGs5NzZmTWpHVkpzamxCS0RxeEhkMVBwY0JfY1FzazJmZVhHWHFfcV9CQ0ZLbnpiRFlqZ2Y2LU00dnZ4bjRzUXNpQXpmSTdMbjJWSmJqcmZaUG9kdjRDemJRcERBdy1jQThxZUwzSGc?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
@@ -44,38 +62,20 @@
     {
       "title": "【09/08 申報轉讓】所羅門(2359)董事陳健三於08日申報轉讓所羅門股票共280張-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRWNHLVRyYjlTMXliVHBMckVoOHh2Zmw4ZzNOTTM0WlpOVGtNcUEwb0FPYmRDcW9XSkFBaHJ5ZlBxYk9mV1l3b2t5ak9jQnNkeUtqYm02VWdBSzRuSXAxdUZlU085dlQtRW9ZeG5oc3BCZkw0aUdfaEliY09aejU5NU50MkRRMDdCVVE?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
       "title": "【09/08 申報轉讓】所羅門(2359)董事陳呂素玉於08日申報轉讓所羅門股票280張-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSk9lRWltUEVNc3Yxd19HNTRGaUdYVHhhTEpwWVdWcnJRdFBSMTJsQnpPN0VIcnAzc2pWc2htZlNrSmVscXh4NEFWWkY1Qmh0VHdValhTTE1rcDdkd1lnZEZ1X21WX1FzM3E2Mk40UmdiUlFia21UVVBrQ1d0S1B2dTJJeHhncjJIRGc?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "2359 所羅門 - 蓋牌盲猜日月光 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xaDRoOE56cTduMjg1RXYxQnhZOGQ0YUZVVXg0RGlYRU5HY1V3RGdjbWpDYzRxd1BicG5HZkpKMnpnZjJrRzZtS3RIa1FQYkU3YUthcWpiMTI?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
       "title": "2359 所羅門 - 散戶佔一半大戶持股持續降- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tZG5ucG9qN3lxblUzazE5bWdVX2hNalotQ2tPN19JWk43U2p4Q3FYRnBhYl9zZDl1c1JySWZyYnZGY1ZJV3QtejkwUFYyVjRpNW1EZnBUUGs?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-06T07:00:00+00:00"
-    },
-    {
-      "title": "2359 所羅門 - 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vVFN4N2IwTFM0c3YtNHBaTU1KbVRlYVRLbzU1YWwzcDBsVGV1cmFsZDFIYmtZNWt6Vk93TktTNUMwYk1xLWY0cU9waTJJMlBJZ2NoWkllRFo?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-05T07:00:00+00:00"
-    },
-    {
-      "title": "執行長解密為何高盛放棄紐約 大衛．所羅門：人才與稅務是關鍵 | 謝駒蕥 | 新聞",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NZnhQYjc1NWs3ZUpfeEpRc2JPSlVIa0s1Y0ZqT0xzTGkzaVIwVG5Ha1hSNE9idE1DLXdWUVZkRUlKVGgwcUVTOU1lY1dDQQ?oc=5",
-      "source": "風傳媒",
-      "published_at": "2026-09-04T07:00:00+00:00"
     }
   ]
 }

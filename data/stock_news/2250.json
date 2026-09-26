@@ -1,20 +1,26 @@
 {
-  "updated_at": "2026-09-24T16:36:15.811381+08:00",
+  "updated_at": "2026-09-26T19:33:20.351761+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2250",
   "name": "IKKA-KY",
-  "count": 7,
+  "count": 9,
   "news": [
     {
       "title": "IKKA-KY斥資1.35億入股毅金精密 部署日本人形機器人商機",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12YWNnZS1FLTlFX3Z5TG1mQ2Q2SDJWdnVrYVE2UkNmNHFycWlPWE1SbHFzaUxzUlcwbXJyZHdwN1NMbzFDUDJ0SlhraUlORVg2eEw3SFFPUHo?oc=5",
-      "source": "自由時報",
+      "source": "stock.ltn.com.tw",
       "published_at": "2026-09-23T05:17:42+00:00"
     },
     {
-      "title": "漢測9/22掛牌，台股大紅包！承銷價2250元創台股新高，半年EPS 21.5元，AI測試、熱管理、矽光子三大成長引擎接棒",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xZEJZYUxyUlBZeHFhRUxhUEljLUJ6Z29YamdnTEE5QnhJb3I3bEhOMmJEMVM4V3JBa3cwc0IyeXdnbGVJcG5RcVlfbU5jT1IzQkxrNURR?oc=5",
-      "source": "優分析UAnalyze",
+      "title": "漢測收盤價5175元、承銷價2250元，你現在是撿便宜還是被... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE45NkxTNEVWZVR3SFlfYmZJM1NOSjQ1SlJTYkVmOWdQRERURE0wcVYycVp3NmJvNm1ZT0k4cWdDT1JRVGZvc1J6azZjTTdOV3ZDdm5fVGlOOWk3UDdEbVlHdk41azdTN2QtRjBwai1lMDEtQlBIejFpaHV1SQ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T00:33:19+00:00"
+    },
+    {
+      "title": "漢測9/22掛牌！承銷價2250元創台股新高，半年EPS 21.5元，AI測試、熱管理、矽光子三大成長引擎接棒",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56Rl8yMnlPNkFFYVRXdW10b2prTTJlNUNldkJaOFl1aFBMaS04OEdWNi1FLVhwbk5wS0pqbF9jOGtPM3I0cTNzRDdNblVmYk0?oc=5",
+      "source": "news.cnyes.com",
       "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
@@ -30,6 +36,18 @@
       "published_at": "2026-09-06T07:00:00+00:00"
     },
     {
+      "title": "抽中有望現賺逾250萬元！漢測2250元創IPO天價 潛在報酬逾1倍",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE40Rm5NZ1lNeXlvSWQtWXNyY2k5LW5KT25JbHpVTnR4TV9aQ3dVUHhVOGRMaE9OZ1QwZzFPUFNDQ1BxeHdMUlN1QzRsblNTSm9OYnJ4THRweU5BT05iUmJleW930gFnQVVfeXFMTzYtSjJFZFRVeUxUTWZSUHpkTDNiUE4wNHYxRnlCWVlmMFMxay1zNkNMWXFtY2dXS2NxTEkwN3Q4QWRKZDB0TGQ1Uld0WW9Fb1JrV25DZUJjZE9fYjByRTROMWdiT2piMA?oc=5",
+      "source": "鏡新聞",
+      "published_at": "2026-09-04T07:00:00+00:00"
+    },
+    {
+      "title": "興櫃股王漢測寫史上最貴承銷價！每股2250元 抽中1張現賺1張",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1wOUwta01HRjQ2eHFlbGlHcmg0eXNxODFtR2pJRjNsNkhhOGhEa2JhSjVGNUVOeUlVSVJ6T1FjbldKUzc1eUY4cEVsQVFZWFd60gFWQVVfeXFMUDR6Y21xNmhyUFZWOG1hY1ZhUlhMbWRXVzl5T0JscjdpdDBIWFgwNjQwZVpoSlNRSF9fZmIxWl9tX2xUSjhKcUdHcnlxcUZzYmliekI2Ymc?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-03T07:00:00+00:00"
+    },
+    {
       "title": "漢測承銷價每股2250元史上最貴 9/16抽籤抽中一張翻倍賺",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LQzM3RU5KYm9QbnZNZVJJOHJGOUo2WGg3MzdMdThHQzhqRmtLby11dVppMjNhS18xYTZNYXF0cWl1dkZPMVZTeDQtREFkRW8?oc=5",
       "source": "news.cnyes.com",
@@ -39,12 +57,6 @@
       "title": "史上最貴IPO來了？興櫃股王漢測拚9/22上櫃！承銷價2250元創紀錄 抽中潛在價差逾255萬",
       "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxNWThhLXMzNGhyYzZfeXpDQ05WU2JhMld3am9MUlA3SVhaQ3pZUGwzTjRfRXJFX2pPZFotaDRmbUFCM0c0R1BJM2tIVndaVjllLURRa3VzTUFyRXFjTktEUjA4WWJtaVZLTTAyWFEtMzdsMDFzVG43dFZrd2ZFRmlnd1R4YUxtT0FMTC1lalhGOGFaV2E1TmVQay1vMVo1Y0tkMmlFeGNFeTc1Q1BvelN1YXNLc0FiMVFPVWVJbVVWSmpKcmxSbENHZVJIc1dvWXlxNUpyWllqZng4LThDQWhqVlh4eUx5VklMVlpYbUN1ODg1X1czSlNIQW9Gc09GY0VrNXdULXlFTXVlbEVwTHl4dVhoenZFWEg2SDZkUkVLLUdRR2xtbEdzRGU4ZTNDai1nYmhWYUoydW5yNTNXUWtRRkhDNE9jek56UUw4TzIxc3lrcXJKYXcyUlRmYVppZ2JqeVhEeDd5aVBmSGdNSXdYaUZaN3h2blJ3dFUtbFdtLTMyb3ZEOGJWSTlXLVU4QW1XeTdLV0NUeFFzLWZldTBUUy03b0luV1p4ajRfb21HdG4tcWJ4TnJjMVdZUUJwLUMtcUJBU2FEcHM2azBEeW40dE5KWk5ObzAtRUE?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-09-03T07:00:00+00:00"
-    },
-    {
-      "title": "興櫃股王漢測寫史上最貴承銷價！每股2250元 抽中1張現賺1張",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iVW4zQVhpVjNXWTZsci1yelFjUktUOVAtNmRiRG14Z1hXQk5taDU5QWdlOFBkT2xqeWFxVlN1U01URTJzdWlNc2pSUTgyc3ByV080eXVwc0tQT0XSAWBBVV95cUxQZVVkM3RoVk5nR3lHeFVWQmZMRnZSMFliMHpsTjNybWNYOXhUSFZNc0t0T2lfNi1JUXhDTGVjMGdqaEYyQThabnU3Wlp6RERBMHdFSlNyVlRRSlJIS21sSzE?oc=5",
-      "source": "money.udn.com",
       "published_at": "2026-09-03T07:00:00+00:00"
     }
   ]

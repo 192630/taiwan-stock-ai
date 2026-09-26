@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-24T17:35:07.724602+08:00",
+  "updated_at": "2026-09-26T19:33:34.308749+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2355",
   "name": "敬鵬",
-  "count": 2,
+  "count": 4,
   "news": [
+    {
+      "title": "敬鵬(2355) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00T1hsbTVVRFhtVGRncDRac0JjM1dfTmRBNFVyYk0teUZldjAtRTlPYzJmQnBPX0h3Z3dneUl6YXFPUndjLVV2REFiWFJrQXA4WHpn?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T14:46:12+00:00"
+    },
     {
       "title": "2355 敬鵬 - 超你嗎 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KOVhUdi1jMktxQTJacm5uYTJHMVJnVHZjdE9tVWt2U1lnaVNELWlUbWpDd19xc0RyaE1fUFU0a0hfcFpYb1dOdEVXMU1qMFRWeDdha0VGOXM?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-17T03:27:35+00:00"
+    },
+    {
+      "title": "2355 敬鵬 - 體質真的不好 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91NkdxdDk4Q3FfcEV1Z3hfRjI5X1pocXZFWVBPUGdiVGFvMzdTUzVkZk9hX3lxOXlYeTRuNGc0M1IwX0F0RlpNdEN4V1IxR05JUi10VkdWTFM?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
       "title": "2355 敬鵬 - 敬陪末座的爛鳥 - 股市爆料同學會",

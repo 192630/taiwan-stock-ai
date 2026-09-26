@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T19:35:50.512898+08:00",
+  "updated_at": "2026-09-26T19:33:36.221159+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2360",
   "name": "致茂",
@@ -36,12 +36,6 @@
       "published_at": "2026-09-18T16:44:24+00:00"
     },
     {
-      "title": "全民權證／致茂 押價內外15%",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE11U1VlSVdNTWxvMXA2TEdlNnhRUFROU0N0ZVN6UC1qLVlvd08xUjdEMW4yeDVhdHk2WWRDNDVLQ3RVSm9PUk9UUlVvVk9DMGI50gFWQVVfeXFMT1VwRHNxV0VnVGc1aGxVQXJkUy1WMjRtYXRkMi02NmZ5Z25ScWNYbW02LUVuMkxsNnhBcmRkNzFpZmJobDRLeXZSNVpraU5HdFhiUnlZTUE?oc=5",
-      "source": "udn.com",
-      "published_at": "2026-09-18T16:19:19+00:00"
-    },
-    {
       "title": "致茂HVDC測試需求起步，AI電源架構升級添動能",
       "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPdThQbW5pMzgxOWdTNG5FMXBpeE85ZUxxR3NyUzNJcDRUc2hrYmFOMUZRSnhIeU1UeGdzVHY3Q0J1WGdnOEtheFJGY1VvWWZuOHRoMzJlZ1J1NW5qZXVGU2t5cGxlVHhLZ2wxeGhkcFNvMHB3U2pRWS12WGg4OERWWWpabGNEdDdxWEpSeU1EWjcwWHRNazZGODhmNXlXQkI1UHF2dHNuM2o1S1hJRGVmVEF6US1uQm1UVU9HX3h1Y0xVRE5KWUlzdDIxcEtIdTNfazduVW9tQmx2Q3RUQTFlZ19oTnprWi1Mc09vNG1nNU12X0hScGFJUnVWTkg5X0lNUl93aGsxbkFYU0t0VnJZSy1tWXpHbVdZRnhVYjVEMXVRdGZxSzFVVEhpZUpZaTVs?oc=5",
       "source": "Yahoo股市",
@@ -74,8 +68,14 @@
     {
       "title": "CPO量產卡關測試 鴻勁、致茂成受惠焦點",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GZHZfRUozdmlONnlrU1FEcjc2Mi1zVS1ZTlVTa0x5alp5LTBKVVZSNURhQ1dSU19pYWxHT1NlQnpjZnZZcHYzZU5HRndiakJsdmw5OHY2S0w?oc=5",
-      "source": "自由時報",
+      "source": "stock.ltn.com.tw",
       "published_at": "2026-09-12T07:00:00+00:00"
+    },
+    {
+      "title": "光通訊綠紅交錯！「這檔」8月營收年增152%噴逾半根 前鼎、汎銓漲3%、致茂、華星光摔6%",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPS2Rra0txWTVicUJ0M082OW5oSG1pZEN5X2pCYTNJY1ZlRTE5WnNZUUpsakZJRS1KRV9keG5STzVVYzV3dElZQ01zQl9jLThfSnVWN2dVZk1QSUxCd2Zidm0yVzhwaGgyYkJkQzB3bGI2aDd4ekVURW95YmR3czN1OWlDXzBDcDV5VlNuSk1qTjNFT21nbDMtcm55OXhrSkg4cU5rUmRUTHk4a0Y4X181WkMwdjNZcGg3SW4tejNHaHdXLXgzdjJNYWtMTWI2VmgyV2FtR2lBTklvMkctX05NNkFoS2F6akpScFN1bGNiTGZSZ0FRbUxHWk5uU3ZoS0pEbElpaDF6ZGNsVWY4ZDM2dGVoTTNxalpMakFnUWh1cVY4bHhlUmxpYXZaam1MOEhnUkIwNDlXekpicUNMLUt0NUJZdDRmenBfYTNuM3pRM2pNcEYtdEE?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-10T07:00:00+00:00"
     }
   ]
 }

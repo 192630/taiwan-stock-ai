@@ -1,10 +1,28 @@
 {
-  "updated_at": "2026-09-24T16:36:12.194787+08:00",
+  "updated_at": "2026-09-26T19:33:16.612074+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2233",
   "name": "宇隆",
-  "count": 10,
+  "count": 12,
   "news": [
+    {
+      "title": "飆股幕後》AI、機器人雙題材 宇隆1個月大漲7成",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wYVNhUWFMamg3bUViQkktVmhvVFljZDFDem1fdlVNZ1hNSmdlY2g3RlIxakFaNHBFTURfWTR0c25nQi1ZeFZVYm1ZN0tvT2ZWVEY3TFBqVE0?oc=5",
+      "source": "stock.ltn.com.tw",
+      "published_at": "2026-09-25T21:28:40+00:00"
+    },
+    {
+      "title": "再爆大股東失和？董、總突辭董事 宇隆跌停",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uSHlJb1MwSUx0NjZfcXhqU1RCekZVZElla3U4WWxVM0pCZ0Y4dzN0Y3ZXQmpTWGNTY04zRENvRHlrQ0Q2R19POFRVcnB4eXBHZEY5Tmh3bk0?oc=5",
+      "source": "stock.ltn.com.tw",
+      "published_at": "2026-09-25T03:23:30+00:00"
+    },
+    {
+      "title": "宇隆(2233) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GRU13OWtPLVBIdjVtUXJEa3VFUU1kOXpYYWZVWXl0cTRsNmN1UVFOSExGbjVibjI3NmR3bjZhMkpLZ3Rtb0lLeVk4ZXFEYXlOZXZz?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T17:54:59+00:00"
+    },
     {
       "title": "【優分析即時新聞】伸興(1558)8月營收年增18.63%，縫紉機本業回溫、宇隆機器人供應鏈進入收成期",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95UG12Z1hzYnVBdEFINW9kaFJCVjB4R1FVR0prY3BtS3g5M09fT0tKSDJLeUlkVHI4TVp3RmNFUTJtODN3dDZyY0FkazFaOFk?oc=5",
@@ -12,16 +30,16 @@
       "published_at": "2026-09-23T02:30:06+00:00"
     },
     {
-      "title": "宇隆機器人 出貨在望",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mbFZ4X0VoUnFSR0NLckdrczhPWkFnVzhJX1Y4NEdLOEZJMlZ6aUtzU1pqWXB4TE1jOXFYbHF4V016OTF2YmRQMkRPcXI3NkFK0gFWQVVfeXFMUGNrSlRJOXlEVG9DZ1Y3N29kajd5Y2h3alRwMzlGbjl3OG1rcy1LTGFjazRPakZLN2ZlXzItdmp0LTdyd1ljdzFjdC1YdVlQNzNqQVQwd3c?oc=5",
-      "source": "UDN",
-      "published_at": "2026-09-22T16:31:30+00:00"
+      "title": "2233 宇隆 - 宇隆機器人出貨在望- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12UUhjSGxERmtqaFBXSFRxbEdNRlN0S0xoTGlxd01pNktuaXZha2N4UGVGTFNGQmpXT21jR2NHczNtU0FjTXZuczUyM3M0X3N2YUlCYWltbjc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T17:33:11+00:00"
     },
     {
-      "title": "再爆大股東失和？董、總突辭董事 宇隆跌停",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uSHlJb1MwSUx0NjZfcXhqU1RCekZVZElla3U4WWxVM0pCZ0Y4dzN0Y3ZXQmpTWGNTY04zRENvRHlrQ0Q2R19POFRVcnB4eXBHZEY5Tmh3bk0?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-22T10:11:30+00:00"
+      "title": "宇隆機器人 出貨在望",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUTnRTX2MxLTJpS01IRXMxOURucVJ5am9laWxmalIxV29CdGdRRHJQdHVBbGhXaUlMd0Vwb0dGWnFUYlRwMFZic0tPYkdHdWhPSEY2YXZpaTZwUdIBX0FVX3lxTE9GVUQwemF5ckRyUlllZnNhb1hXVVZtV3VyTkFOdDA2VHN6LW85M2hzVFZvSFlPZzY5TzlnWVdOdElISFdnSE05RUtwZEt0cDBNRS05TmRnVDNZSkNyRTBF?oc=5",
+      "source": "money.udn.com",
+      "published_at": "2026-09-22T16:31:30+00:00"
     },
     {
       "title": "TIE開幕 中光電無人機搶下美警消大單 宇隆機器人攻北美市場",
@@ -33,7 +51,7 @@
       "title": "TIE開幕報喜！中光電無人機搶下美警消大單 宇隆機器人攻北美市場",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MdW85WTJFSE5YTlJ4d2dIVjZTWFhTczloaWVGWEc3TTB6am1peEZHNk5JMlptRjFkYzk2WlRkSmNuQ2NkaWhSQi1pT2t3TTQ?oc=5",
       "source": "news.cnyes.com",
-      "published_at": "2026-09-17T12:11:27+00:00"
+      "published_at": "2026-09-17T07:00:00+00:00"
     },
     {
       "title": "2233 宇隆 - 恭喜發財❤️ - 股市爆料同學會",
@@ -44,19 +62,13 @@
     {
       "title": "熱門股》卡位人形機器人 宇隆漲停挑戰新高",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5heERaLWlnS1FmSC1keFNIVXczVnRyUTh1Nzg4OWdMNzNwN0tYQ1lrT0FXQUpBSUd1eXMzdFFSMi1tcnppY3J1NEJmMkRhbEEtV2VubEtEY2Q?oc=5",
-      "source": "自由時報",
+      "source": "stock.ltn.com.tw",
       "published_at": "2026-09-12T18:24:43+00:00"
-    },
-    {
-      "title": "飆股幕後》AI、機器人雙題材 宇隆1個月大漲7成",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wYVNhUWFMamg3bUViQkktVmhvVFljZDFDem1fdlVNZ1hNSmdlY2g3RlIxakFaNHBFTURfWTR0c25nQi1ZeFZVYm1ZN0tvT2ZWVEY3TFBqVE0?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-12T17:55:13+00:00"
     },
     {
       "title": "【2026/08月營收公告】宇隆(2233) 八月營收2.85億元，表現亮眼、呈現雙成長，創近3個月以來新高，年增21.27%",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQR2k1TWw5YkF5NllaSVlaRy1IWm9nRU50cXRYcVhkN2NiWEM0V1pqZzJ5TUJvR0g3SVFBaGxXMDJkQk5ubDdzV1pBVVhoVzFLUzdIa2RZMWdpUEpkb2gzblprbWgxNWk4RmhXZmJBSkxHdENsLUdSemZUQ2ZlWnZxRzJOb3QwNzE4T1E?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {

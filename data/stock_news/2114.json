@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-24T16:36:06.524346+08:00",
+  "updated_at": "2026-09-26T19:33:10.705369+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2114",
   "name": "鑫永銓",
-  "count": 1,
+  "count": 2,
   "news": [
     {
       "title": "【2026/08月營收公告】鑫永銓(2114) 八月營收1.5億元，表現亮眼、呈現雙成長，創近8個月以來新高，年增11.18%",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUllESjk2N2tXNkZBR2t0eFdGa01mX2NCSkU3MDRHZEQ2cGptOG9TZXJaY3lCbWhhdTBoMEE5eXk0eDhGTzFVRFBKd0cwRGM3OXREenVXRjRkaUFweDhOOFBaZS1hQ0lCWlRiWVkzUDEzbXFUWlZVb2hMNWtSSUVrMEoyMjBJUDRRemc?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
+      "title": "2114 鑫永銓- 台幣升值- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1yeFd1Qzg1UXl0cVlsZzJCdk0xUnBHRFBWWWI3aU9JNGJHU1ZoUXN2SlhrTkJmdjJ4MmtOQURndFowT1BpRENOckQwQmlxN1NLVk9vZnN6TFg?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-08-29T07:00:00+00:00"
     }
   ]
 }

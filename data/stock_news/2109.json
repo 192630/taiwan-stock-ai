@@ -1,21 +1,39 @@
 {
-  "updated_at": "2026-09-24T16:36:06.139526+08:00",
+  "updated_at": "2026-09-26T19:33:10.292044+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2109",
   "name": "華豐",
-  "count": 2,
+  "count": 5,
   "news": [
+    {
+      "title": "《上市公司除權除息 3-1》華豐 09/29除息",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaXIxOHI1RlFJUld2ODhUenQzMnpoN2lUR18zenRLclAtbGpMeDVJdEZRVU5YNVpYSHRWMkN4TERSYUYxTEg5ZUJ2VWE2Wl91emFtT0gyd2lzck1PNHVqRG9MVFhscjJvRjlnZUMzNnIxWkt4M1pCbU9XUXVxZklEX2V5aEMzVXkz?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-26T01:09:00+00:00"
+    },
+    {
+      "title": "華豐股份(605100.SH)子公司擬出售所持三環集團股票資產 作者 智通財經",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvVTNEbEZsN1ZMb3hFZ1ViejQyYjl1clBmS1J1VlFQb0VReFhJeWxwYXVpTFEzeElkdnIyMnl1WEY0ZmRpNEJ3NHhsNEJsRjluc0h1b1MxbmM0Snh1aTVYdEZDUjR3cVdXb0xYbXliamY?oc=5",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "published_at": "2026-09-24T10:40:22+00:00"
+    },
+    {
+      "title": "華豐股份：子公司出售三環集團股票42.09萬股 擬繼續出售不超36.04萬股",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5HVEZwMjZaTHpucmdMYlgzYXY2YzNjdk5DWjc1ZHZmQ3gyNjZRRDZXQjR2WHY5U2xnQXplRWwxcjROd1dVcUk3NGcwOU5udHFNbVhQMGpwQnVzeHRP?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-24T09:48:00+00:00"
+    },
+    {
+      "title": "華豐股份：子公司出售42.09萬股，擬售不超36.04萬股",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12c2Izd2duVU5IQl9jZk9ZVEYteXFIX2h1SDdiTEswZERwRHpyX2twaU1nVndUX1ptZWdSeWRYV0dBaURrYzlQLTlkZnJyOEU1MThfTzRxVWxZU29SQkNLUTVoNTJndXJKcnpF?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-24T09:15:56+00:00"
+    },
     {
       "title": "《上市公司除權除息1-1》華豐9月29日除息，開盤參考價為14.50元",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc2I0ckNjYUU2b01PblByaFpNd18yTW5yckFvQnFmRWNhbzJpQ2dRRGd4bnV4NkV6dkZPUE16V3RVSWVxNURqM3MwZHNIWVMxdUxXT1kxc21sOGhkNmE5MGllbDZlR05NMW1PZXN4S1ExU2xhU1lmMkhuVld4SzR6QVZhdWptdXh2?oc=5",
       "source": "富聯網",
       "published_at": "2026-09-24T06:26:00+00:00"
-    },
-    {
-      "title": "華豐科技(688629.SH)：6.4T NPO光模塊目前處於技術驗證階段",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xSm9Va0tHdk9hMUFKOXpmLUZxa20yWVBlNV8xWDA5c3BtR01fTzBfMG5PWmg3SUFJcjZsYnZySGJ2YlA2VkJkdlpaOXNTX3RoV0E3enRSNDJSUQ?oc=5",
-      "source": "Moomoo",
-      "published_at": "2026-09-21T13:47:44+00:00"
     }
   ]
 }

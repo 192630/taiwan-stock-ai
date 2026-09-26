@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T17:35:04.711496+08:00",
+  "updated_at": "2026-09-26T19:33:31.219666+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2347",
   "name": "聯強",
@@ -26,7 +26,7 @@
     {
       "title": "【12:03 即時新聞】聯強(2347)股價走強，市場聚焦半導體與商用需求",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ3pBR3ZZWmg1VDl4UlRDQjh6SjhYcWVjZC1zNDRVLXExeTRfLV84MUUydUhJdUFyckx4UzBWVW9FZUFEZjRWTFFLTEtZNHZOd0MxSUlUenhLdlJQdE5HQ1V4MWJETW5lTjVONHUyMnZKeHhXWTdIbkh0ZTJjMnhEblRzSVB3X18zcU1hRDRn?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-23T04:04:28+00:00"
     },
     {
@@ -34,6 +34,12 @@
       "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPZ1RlczdpMExNRUpkZEpXNGQxV21vMUptc0hULVNQTkI2X09pZmRIUGJyS1J3b28zMjdnY3lPN0JQTmprVGF4V21FOE8xYkhKTjZqVG1nVmRQOHNZNzczSkp0emhkbi1yVEljOW5NZHZMU0s5cVZwUWZ2N0lSMGpNbE11QV8wb0RHa2Exb3JHdHZXWVA1MDNKMEJqQUR2NF92bUhZZEJhUlRUR1JUZ0tzWFVMVlladHdpUGdIYW9oMFpDX1VHOXc5Z1VnQnhsOVlIM0FCSFlZS1dMQ2tZaE5XUVhObkYtNkVoRTE2bTg0MjhJRHk1WkV1Vm9lQl82Z3ZkUkdMU0dyM05LYTJWMDlpSkItOVduZThhRUE?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-23T03:54:38+00:00"
+    },
+    {
+      "title": "東聯強攻半導體材料",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpTGpybFJ5bHRRbnUwbDY4RHNMNUNKSHptRGh3cTV2MGxHVGJQbWh6aGJhUWxxT1JoYTFDenBORjZ0V2tYMk95M1YzdUlwTjBE0gFWQVVfeXFMUGZGR1VEMHF5djkybnQ5ekc1YU1LdGRxNzhDQkFOTkRqWkNMZVlFX1g0cmRoa3BzVllUWmhBOU9salZMdzEyb2RrMkV0MjZCNlVacU5qUXc?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-22T16:31:58+00:00"
     },
     {
       "title": "《證交所》今日單一證券鉅額成交股票：南港、建大、聯強",
@@ -48,34 +54,28 @@
       "published_at": "2026-09-19T06:40:00+00:00"
     },
     {
-      "title": "飆股幕後》受惠AI需求強勁 聯強外資推升步步高",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOSjNSMHZfU3pwTF9NdTZKV1p5TmtLX0FhVzhKeE81UnBxUXhzajBEWTNTVkM3WDZFdUh0RVotVDRXM0tGZTJkM1FiZzItRzA1NVBhd2xHVEY?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-12T12:57:33+00:00"
+      "title": "2347 聯強- 🚨 主力加碼卡位？昨日主動式ETF 加碼這檔！ - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rQUNGSFdRSFZLOUozTzFqX1FrZTQxU2phQ3kwQXlvc1NBQmd5Z1hMekV1NFFuS1N3Z3VTSmFEVHRHblREQzVBOEFYZ3p3NGZHNVJvRWZ6V3k?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-14T15:05:51+00:00"
     },
     {
       "title": "聯強(2347) 今日股價與討論 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxPa0haUkhBZ3pMcDltUjA3NVJwSFZ6TXBSUnJNaUhxZUNVa0V4TTNfMWMyMHlUTG40bTg1UzF0RC00M29qak9VNkdNQ1lGbjlRdk45WHJQaHV0eV81WW5Nck5KTWFHTDFBY3dQSWhzWndJTG1kRXVmTWotWm9JSTJIWWZ1RllpeHNHVnlVdDZOVmN5ZjJjQWJZTUxwLW43VVZZTnpZS2toU2VTVk0yNGhmMU82ajIwaDZ0VklJYWJhNGdUM212NFo5LWJYMnE2R3QxVHRCNzRPeDNseWlOa2tOakJkNUphbzV3R1VMRGViVm9pdl82MkctZnhUbEp0TkIybFlQZnRwMkdYRDNpbWRrNXJleE9uazJFOWN0b3hmalBVU1gxX0w2RmZ4YUxLS0cyOFhLWGlwaWZQQnAwTTRybk9IY0VhaVJENHl1X0FPSGk0V3pLWGs2ME5aSGZ3MjNvYkNtV0xpMVhFbkR4QXdIM0RDVTVhT1NkYlBzcHMwV002Q1hvaXdCZUZMcUx2ZTlic0lBWmdxeWREWG03RHp4VjB5bi0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxPd2M5NVhmRTBUSEFiSXRVdm5xTm5NY0xaTkllellZT1VOdlVpdzR5YUE2MlRPOC1SYm1xOHV4Q1lMRW1mWFVOMU5PcXRvTHpNaWJ0SjljbHZ4VXZTdmZST0NRaHBBWW1tX0puYjZoTUIxMEZpM1FDSWlhbUI2OW1iWG1PR1l4NEZMcllpeDByTjI1WTlhNVhnalpyMDZ0eFhCa21lcWxfa3lvRkU5MUZtaDQ3T2dLYTFDYUNaSUphMU9ocWJwUVRGZzhzUGpFVVZxT256bkZVQmQ1UUw1U2hJNGVqYS1PSVltLWZ0Xy1vMTI5Vkt2NjdyWXNJVjA1cE9mYzQzUV9kVjZlUU9RRkYwSHhsajFNQXBKVlR2aDY1Y2V0bUFudTJPU1JYUmJEeWxRRkpxTTRJNWJPQm1NQzA2YldMVHJtZVB0Mll4aVVlT1ZhaTRNMkUweHNhT2xuZGU0THktVzVkbnloV094QmZBdFZmaGNxTV9jVmZFVlNKbnBsdXZqcTRMYWpUZWVJdmpEZHVUbXgtTVRkaWcxQ3pvM2s3Vy1jM3A5d3FYWXFpeEZzM1lDR2tIZVFxcw?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-11T15:33:45+00:00"
+      "published_at": "2026-09-11T20:37:30+00:00"
     },
     {
       "title": "AI浪潮與旺季效應共振 聯強看好四大業務齊揚 下半年營運拚逐季走高",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QeVJLXzNIdnA4eUctUk51S3NIajFJTzdPNHBCNHBVSFZyWmhVek12YmpBWVA1U0lwT21idWFWZTg5NTJwNFFEbUdzdXR2bFk?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-09-11T08:39:29+00:00"
+      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxPRVh6THc2ZWNpT2pfRXh6ZjgzLXhnQ2FDNlpLUXZDT1U0dXpFUC1ucUtqSUp0UVFVVm9qMGJvWlhvbjdvUm5DVnpNRGw5Sy05MUF2Z09pZzNmckNXTk43Vm1hdmdZdnNqNjhON2VsbEIxbWVqR0VUNFllYUJpVkJiWXlReU1HQ1M5VDk1U3E5eXV4UWo0cmxLWlduNHdUak5oVTY4X2pVZXdocmFCRGR5eDlEQTJfaWNsc2MzQ0VSRWR4U0hpNTI5YUlnaDA5UGlPTS1XMExPekxzOVFMTTVWMjllR29DVi1nVHJKaktPdGxuYVk0NXREU0hoVnVHWmRhVHo3NFhUbWpYYmF4MjJud3JNaEFHNHVQbmhQMFYwSXVzaXpHaUdlUFNIN095TnZyWU1ac1o5QjczUGJTUnRhVVkycGw4blZSMUt2NDlOa0hDczlBNkN6QUw2RW1UcWg4UVRXZlhyMEY0RWlqMG42TllKaUhabXlGMXUwWUhHTUV6bTJJTHhGenRWX3RQbHAtcXZETzBITGhfd1VhMGdlNk9rWTZWWUFZbmlMZkNUalFNTDBsU1hWbzFvZGI?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
       "title": "聯強國際 | 2347.TW 股價走勢與即時報價",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oUGJnMDgwblpzMHBCdTFWeElteTlDS0stWjY2TFJoSlVuTEZ1LUpiS0todlpGNFdTT2JxRXFWbVBFTzdLMDE0ZnpRaFQ5V1c5MW9Xcg?oc=5",
       "source": "BigGo 財經",
       "published_at": "2026-09-09T02:09:47+00:00"
-    },
-    {
-      "title": "聯強AI/半導體撐動能，下半年拚逐季增",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOY2hDWFozQXNYOUJCNlhscExPa2lMS2FJek5UeVVJVmVUNlhRLTZQQXppbmlDWnA1dmNxNHJ3T3Y0SFZNNm9EZ2ZXTENRY1RRb3hhSjNCRi1tb2w4Um9iR3dDWnZBLXhfVTdXZnFwaDhxVHV5ejdyeGxnc0EzaXFuQUMxbGwxbDZ4LVNTU21jWmUxcmZSSFhzbnRncDJ2R0FLX2hCcUZnVDVwd00xVFR5a0U2bW5pZWV2S2tDSXFkajNrNG5zS1BLV2dsTW0xLTg1ZjlDcWJXN01SczNsYk5PM2cwUDJMekwwa290aDJVVkUwekVmMFhEb2s5TjltLXZGTlViTGdzTTZaWGVYN2hLeDB6OUs?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]
 }

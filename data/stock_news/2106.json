@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-24T16:36:04.958461+08:00",
+  "updated_at": "2026-09-26T19:33:09.081779+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2106",
   "name": "建大",
-  "count": 3,
+  "count": 2,
   "news": [
     {
       "title": "《證交所》今日單一證券鉅額成交股票：南港、建大、聯強",
@@ -16,12 +16,6 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xVzMwQ0E3UEVaNDVkU0VqRmYxUUNkVzdUbGxJdXltZGFzd3BCQ1h1X3Q3ZS1NTTlkdk1YM19NOTE4WkRQSnhGUnY4QzBLcHVaMl9r?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-18T18:27:38+00:00"
-    },
-    {
-      "title": "DeepSeek 重金採購 16 萬顆華為晶片，內蒙古建大規模 AI 叢集 | 科技新報",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05LUVIVUVDcDRSLUtydEYtUEJjczRLVU9VM2JLTkpQdld0eWppZUh1bzVRYWFQdUdRV19EclRhRFl3QTVCTVFGT2w4aWdDeFZUUURXYmx3?oc=5",
-      "source": "LINE TODAY",
-      "published_at": "2026-09-06T07:00:00+00:00"
     }
   ]
 }
