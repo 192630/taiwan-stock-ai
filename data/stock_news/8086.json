@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-25T12:36:16.664548+08:00",
+  "updated_at": "2026-09-26T13:33:59.605734+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8086",
   "name": "宏捷科",
-  "count": 11,
+  "count": 10,
   "news": [
     {
       "title": "《櫃買市場券商賣超前30名 3-3》前鼎(-158)、宏捷科(-153)",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSThnckRzSEtwcjdzamZDWjFEWUxSV3NTdHJGMnVyRmx4NTFyVnM5dGZzYjBNRDhFWTFacHZKbDNUWVczVjUzQUFsSWo3clgtWEJJT293ZG1xS3NQSTVqUjcxem14U0ZDS0VscTlqeUdrOHNXTkdQRU0zNGp0c1h1NkdweEdQMHVN?oc=5",
       "source": "富聯網",
       "published_at": "2026-09-23T23:30:00+00:00"
+    },
+    {
+      "title": "8086 宏捷科 - 終於明白甚麼是沒有最爛只有更爛... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xYzFjMVM0dUk4VjlZYWdYQnlJbXM2WENqaUhyT1RyTm9iRlU1QTFHYWNKLVFyZ2pxQlB4aXp1bDRKZGpjU2t5aUZYbTRUdmtwWXBoaXRiMjI?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-18T04:44:35+00:00"
     },
     {
       "title": "《櫃買市場券商賣超前30名 3-3》宏捷科(-138)、長科*(-136)",
@@ -20,7 +26,7 @@
     {
       "title": "【09/14券商評等報告彙整】宏捷科(8086) 今日僅1家券商發布績效評等報告，評價為看多，目標價為126元。",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPckdzOXNLOXc3M2ZHR2N3cTJkNFhQbFhMZVUzWWZ3bVZpVzM1cDZEV2hYV1V1SXluazMzaXQ5dGtRNENjN3RVbTNIcWltZXBkVUlwRkwybzJ1QTZSYmJxUDNqZHBVUXhQYUVCbGVSTGJLUFJDMFBXTUZIWS01TEZrelpaTno1dlU2dkE?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-14T07:00:00+00:00"
     },
     {
@@ -44,13 +50,13 @@
     {
       "title": "【2026/08月營收公告】宏捷科(8086) 八月營收4.22億元，表現亮眼、呈現雙成長，創近3個月以來新高，年增12.56%",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZndQdDUtcjE0YlpGUzdSR0FGYWFzU282Wkl1ZkJ6WENUaHdhcWxqY0lranRST2pRRllmR3FiZ3hZUWpzSDQzZGFHVmJqLWdQVl9tNFlWVmxxSEpNbEdTSGlnazBjRWhuQVBCZENtVEhHY1hFVHlYVERDUy1sWWtaVVVZWkpnbjJyY2c?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-02T07:00:00+00:00"
     },
     {
       "title": "【11:30 即時新聞】宏捷科(8086)股價勁揚6.87%至124.5元，折疊機與光通訊供應鏈題材加溫＋短線扭轉賣壓、觀察法人與主力回補力度",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRXpoNXR4d1NtUklxNVFWTENVeUhiNDhQUWVCZTRYYUxhTDNPMzUtVDI2TFlsbWNlN09XUFhSbVVrRlpEUVd1c3BaM3dZdWMwMHRQcGhFZExGcVdXSzFSY2ZLVUtRVnlZNTBNMmxTZ1JXaFJPT1NvTzRXWGNwUm1PRXdjaUctRFdtVWJHRWpB?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-01T07:00:00+00:00"
     },
     {
@@ -58,18 +64,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BMXpYbUwyRzcwejBRVzhpWFNLSV9DOHZfd1BHVUF5Y1Z2NUhFTzF3TlIzSlNhcDZmcEh5WnJMSGp4Q1ZOZnBlTnRDTDVHRnVyckt4WHc5LTQ?oc=5",
       "source": "CMoney",
       "published_at": "2026-08-31T07:00:00+00:00"
-    },
-    {
-      "title": "宏捷科非PA布局加速，明年占比拚破1成",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNQkowRXRQdDlVMDA2UHAxVGU1V2VaR05fU2tidEhGTGJZSFB5Z1NTSThjUE94VURLVVE0XzlMNUlYU1Z5NEFjTDRCLTNWdkF2RjRxdFRBVnRrZ2RWbzVWTW1jazl3eHR5WTlfdjd4VGF2bERGQ2VPcEc0U19vSFBxZ0psbW0xMUF2THF6VHJ4UnNxWW1WNjROMkU3SFduSHlNa3lmZGYtUnFfLVRDdUpnZ0xUelh3VHNtVldNd3Bqc3pEajdPbWtlRmQzekkzb2hCOHBEOFhoWFJFNlhWR2xVMUlkamlrbU13ZkloWW8yS2xUOC1YSFN0ZnE4LXR3RzF1UE83ZkE3dHJROE8xVlZSQ1FzU2I?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-08-26T07:00:00+00:00"
-    },
-    {
-      "title": "8086 宏捷科 - 這檔沒人愛😮‍💨 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UcGVhYVdVM01obWppQTJVMXg2Z0pZc0lGS09ISmExb25Ja2NiYm84bTF1TllEMm1mQ2JEbDJqY0l6dThiakwxZTBESG5QR0g4NzBYMWRuYXY?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-26T07:00:00+00:00"
     }
   ]
 }

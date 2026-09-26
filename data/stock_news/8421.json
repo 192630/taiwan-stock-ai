@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-25T13:34:29.299960+08:00",
+  "updated_at": "2026-09-26T13:34:28.656297+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8421",
   "name": "旭源",
-  "count": 3,
+  "count": 4,
   "news": [
     {
       "title": "旭源智慧型高速套標整合系統榮耀 獲國家品牌玉山獎「最佳產品獎」",
@@ -22,6 +22,12 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdXpxOXZ1WGZOX2lUcmhleGI2RFpQSzkzVS1pUnhObnc0bERCYWl3cUpiUmhBakxWcGhUcldrT3dNeFJ1NWEtRHd5ckQwZkxwdUdoam9haFFtQVpqeU9iNjZ4emx3cWdCUHlyNW5GQ0t5MmtBZElXWl9UcFctNjBhNElwT0tnbjhxQkVsSE5R?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-15T07:00:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】旭源(8421) 八月營收1.21億元，表現亮眼、呈現雙成長，創近2個月以來新高，年增25.5%",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQW9CX0JQLUFVdk9NQmVuM29EdUlXN0pfR3hpbF9xWTFTMHE4dUVsdmEtZnlmUG5EbTFtSXl0Z2NQNVE3eDJRYVVHSXR6TWs3Q2xvRWVYQ1Q2ME0zTmdBUzh5QzRaU3FwQmRVMndzckhqUjFscEpGM09MZjFLdzhJVF9nNFhYbGU4TFE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]
 }

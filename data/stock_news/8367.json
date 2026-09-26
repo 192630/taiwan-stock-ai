@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T12:36:41.008125+08:00",
+  "updated_at": "2026-09-26T13:34:23.613663+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8367",
   "name": "建新國際",
   "count": 3,
   "news": [
+    {
+      "title": "Nanto Bank Ltd.的Non-performing loans to loan loss reserves – TSE:8367",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaXBVQWIwSDF3SzFsVVBmaERPS1ZaSmZaY0VSY1J3NXV1M0Nsd1FmMmZBdTF3RkhVU0x1MGdlM25MX0xwbUNhNG44aTZhY0RTNGZUQVE0Qk9vNk9yMnJ0S3BkdHlNd1hGZXA4Vm4xNDJQRFFKbk82ckpxcXVBemc5bDQ2NTltNjlqZE5aOGpvWFE1QlZwUzR0YTdkT0ktczh2WlhZbXZlRC1tUQ?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-25T04:56:41+00:00"
+    },
     {
       "title": "建新國際H2看好中科國際物流釋股利益 新科智慧物流添業績",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rTXNqcTBPZEo5VmtUVVdHNzF5anZicU9XcWhOUVJVNVZQQllUaVlGQlFlOHdkOWR4RUt4bTZVbV9ILTIzaG9xc2FNWXU0RklNYUxONkwyOFY?oc=5",
@@ -12,15 +18,9 @@
       "published_at": "2026-09-22T12:13:06+00:00"
     },
     {
-      "title": "建新國際9/22參加國泰證舉辦之法說會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zRjhadzd6X1JCNnFZcjVDX3MyUXBtYW1OLVVfRWd1dmZlVHpqWGFINmZzNF9vMHhsTmVldHJsZzhRalZISEM0NC1sT2d3MHgyNTJJaFhhb0s?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-21T06:07:53+00:00"
-    },
-    {
       "title": "【2026/08月營收公告】建新國際(8367) 八月營收2.69億元，營收雙減，年減5.01%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMGxrWnlFM1F4S3I2SmdHWU1laVRlRWZ4aVFtNHBESy0xSEtLSWF1MnR3Rnc3eVYxU3BFNEVieEhBTHZES1JTeUZWcjRyWjZyNkR4bGVBUGItSkxDZVV5OXlKRTBVdkZ2TjFQUTBiRnhKemxyM3k2NERyOFZ1YUpQeEoxNTZYWFFGV3c?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]

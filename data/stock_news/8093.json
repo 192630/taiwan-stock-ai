@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-09-25T12:36:19.145398+08:00",
+  "updated_at": "2026-09-26T13:34:02.196841+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8093",
   "name": "保銳",
-  "count": 1,
-  "news": [
-    {
-      "title": "【2026/08月營收公告】保銳(8093) 八月營收年增109.56%-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQclNESWhiMzJIeUM3aTBZRjB6UEtNQVpFWFdPdUVNOEFONmpUOVBNSEVlUzhoQTNJa01PNTNTZTIzRWJEZ3VCZ1ozUllnTzYxXzdjZ1FLc25lTmItM2o1dG9HbG9NY3VmeVVEOTZHQW5EaFh4VjBydm5WRTZvaVdKNENwaUVmcVVyVUE?oc=5",
-      "source": "cmnews.com.tw",
-      "published_at": "2026-09-08T07:00:00+00:00"
-    }
-  ]
+  "count": 0,
+  "news": []
 }

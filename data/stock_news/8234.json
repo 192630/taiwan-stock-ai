@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-25T12:36:32.760782+08:00",
+  "updated_at": "2026-09-26T13:34:15.903335+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8234",
   "name": "新漢",
-  "count": 3,
+  "count": 4,
   "news": [
+    {
+      "title": "新漢前進美國台灣形象展 展出六大關鍵場域AIoT落地應用",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBDdVowRGVwbkRjQ1dqMVRZXzhYYTIzTlNyQ3pJbEtJaUlTenZrTEZJZEFsOUJ5TnB2M2tJSmUtVDU2eXZaUTc4SThSWTlWbzg?oc=5",
+      "source": "news.cnyes.com",
+      "published_at": "2026-09-26T04:26:45+00:00"
+    },
+    {
+      "title": "新漢參展達拉斯台灣形象展 秀 Edge AI 六大關鍵場域應用",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwTEZIUE5KeGpiYzh4TEdwMXlWajBjMG03alk0ZC0zOHFQdXc3bzI4amkzRXZjdEJGLVJyamhvanRhVGJqelIzNFBIZEtvTGZS0gFWQVVfeXFMT1ZmSzB5bHp1Smo5WjNnSkRudHA3Zi1fUmdoQjczeVhEbWJST2tzVXAxYUZvbmJRX2YtZlRGbG1pWXFaOTdlZ2dlSW9JRzRWVk5RNXZ6UWc?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-25T05:30:03+00:00"
+    },
     {
       "title": "新漢(8234) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1USzl1T21NSFVnYjNXb0d1NGFJdW4zeW1ZYkphZ0s4ejhRX2t5YlJpVHRiXy1zSU9sUTBOMFRRWHlSUERkZXVjSHN0VWVnWFJOYUlF?oc=5",
@@ -12,15 +24,9 @@
       "published_at": "2026-09-21T17:07:52+00:00"
     },
     {
-      "title": "新漢 8 月營收 6.12 億元：年增近五成，月度金額回落",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1xd0JEMHBETGZwXzdXSUR3Z3FfUGFtbWdiVjZwS0lpdTA4aFFPanRfZkJMLUgyQ1d1T2dPeGp2Rm5XbTFDbWthMA?oc=5",
-      "source": "鉅亨號",
-      "published_at": "2026-09-15T22:00:29+00:00"
-    },
-    {
       "title": "【2026/08月營收公告】新漢(8234) 八月營收月減年增，全年營運續看向上-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQclEwTUZyX3JyMmVpazNFbDZSR29SbUZiRjhPQTJmdG5FTkZtT2hhMEh6ZkVxUW0teVplSXkweUhjUWxTMzZaWHVPeUJvVFNNUHZFSXBSaTU0aEVncG5pNnkyam1kUGdhTGpYNXBISi02c3lxMDF5dm9DX3lBLVcwQzJCdE5TS2I5bFE?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]

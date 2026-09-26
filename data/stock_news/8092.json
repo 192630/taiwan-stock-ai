@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-25T12:36:18.754302+08:00",
+  "updated_at": "2026-09-26T13:34:01.776895+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8092",
   "name": "建暐",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【2026/08月營收公告】建暐(8092) 八月營收營收雙減，年減23.89％",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LTmlIUzRWM3MzVkJ2TGxvand6OUEyOE56X1ZsZDRzbEtYTl9GVkpZbk5lM0I0OG8tS3Jha2c3ZDI0X3BDXy1oRzFMalZVaGNIRnFTZkJXSlBvcEJfVC1XYUNWS1dsdmM?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-10T07:00:00+00:00"
+    }
+  ]
 }

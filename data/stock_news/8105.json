@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-25T12:36:22.481089+08:00",
+  "updated_at": "2026-09-26T13:34:05.654459+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8105",
   "name": "凌巨",
-  "count": 12,
+  "count": 7,
   "news": [
     {
       "title": "【08/31 申報轉讓】凌巨(8105)董事聚奕投資有限公司於09/03申報轉讓凌巨股票20,000張-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMFJ1N0NiOVVRNnNNVkdzeF92bVJQb3hGWE9JN1hoMFRDTUFxOEQ3eWZ6TmVOR3gtTE04bVhxZk1tNUJJTDZySHY0R2pPMjN5MmMyaWpYT1hMS3ZKaERkZTVZd1hTWFNxZ1M2R2JCdDc1SHE3UFNLcHJnNW1lS3NURVVXZXdPSGFSc3c?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-08-31T07:00:00+00:00"
     },
     {
@@ -24,6 +24,12 @@
       "published_at": "2026-08-27T07:00:00+00:00"
     },
     {
+      "title": "凌巨恢復交易 首日漲停",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5RWsyXzZ4WWxDLW01R2Nac2ZSZUJ3UEFHZ3lFa3cxWmVRZmFnOHl4LUtNREpjLVoyVXNGVWNjNlpuNmY5RWYyZ0tTbG1RbE520gFWQVVfeXFMTXBQcVJVZm5pN0Q4em05c3ZLdnZ4OHpxaGJWcXVtTDMxOURBQnU2NnRJR0dJMFNIdTBneURiWWpFR04yeFlSa1c5NllDYXhJSnZOdDY4ZWc?oc=5",
+      "source": "UDN",
+      "published_at": "2026-08-27T07:00:00+00:00"
+    },
+    {
       "title": "〈焦點股〉凌巨恢復交易 股價跳空鎖漲停排隊卦買近3萬張",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GTk43WmFsWnNQQUZxS1h0eVFIQ0hZZlgzRnViU3dENF9iV3lDVTZlNzRtdnhRVy1KQUliVm9fNXYyWVVGM2ZlZndFRktmREk?oc=5",
       "source": "news.cnyes.com",
@@ -36,46 +42,10 @@
       "published_at": "2026-08-27T07:00:00+00:00"
     },
     {
-      "title": "凌巨恢復交易 首日漲停",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5RWsyXzZ4WWxDLW01R2Nac2ZSZUJ3UEFHZ3lFa3cxWmVRZmFnOHl4LUtNREpjLVoyVXNGVWNjNlpuNmY5RWYyZ0tTbG1RbE520gFWQVVfeXFMTXBQcVJVZm5pN0Q4em05c3ZLdnZ4OHpxaGJWcXVtTDMxOURBQnU2NnRJR0dJMFNIdTBneURiWWpFR04yeFlSa1c5NllDYXhJSnZOdDY4ZWc?oc=5",
-      "source": "UDN",
+      "title": "4萬股東鬆口氣！凌巨復牌首日強鎖漲停",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05Mnh1ZldFZF9hM1NpUnN5QWs1R01rWUlzOFhwaW92bUdHMTlVVnpCLWNEeUk0b0lNV3VaYUJYUkFaU2tHNXpGOTJSakp6c3B6TWV3?oc=5",
+      "source": "中天新聞網",
       "published_at": "2026-08-27T07:00:00+00:00"
-    },
-    {
-      "title": "凌巨股票8月27日起 恢復常態買賣",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XQ3BZVk8wVG4zazFMTm1VUHhxUkotUjJhSEJrZkNYeWVvcUVLd0RlSXRJa1E4cU5OZnRMbThvaC0waGplcTlVNHJKelNwSFRYY2xOdy1iVGtEd9IBX0FVX3lxTE00bmt6UmdlVXVfTzRCaWlSU0xXbDItQ2FKcENmRFJ2cXpLeGRSOFVleUl0aGJfM290aEpleTNUa05rWGVldjAyOXUtMFRwdkFxV2x4akludUNBVm1HcEp3?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-08-26T07:00:00+00:00"
-    },
-    {
-      "title": "凌巨財報危機解除！復牌首日強鎖漲停 還有3.1萬張排隊等買",
-      "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxQTmY4UUtFcTE0Y2JreW9acVhuR0E2TGYyWkpQcjFnMEtZSE5PaVlVYXhSbWppejNTWjVHemh2WlVJOHBrQUpnRmtUOXZYQlVyeW1yUndjZGRTN0k5NDNoQm85SEpZMkM4b3l3U3E1VUk2QS1iVV9lbmNWQkNIT2hNQUZWRWlGdHlxSkFHREhCM0pQa3FOUEdRcnVRSHJLLU5RUzFFYnFsTzloanE5elJKQ3VtMnpGYWhmcEs2QXJDd3QtVUlkTVE0dTN0eUpZZ1FFN2UwQTBabi1ES3VZTWgyYUI4UUI5VTlUTllyN242by1veTg0RlpjdVpHQlUyS2xZVnZYTHJZc0h3UFJncy1RQlMwNkQtOFBiUE44QnBvekt5aDFEZlgxNDBRUEVxUFdhM1ptSnVMVnF2YkNPOFBfT1NjakkzZVYtSnZPQXFSTWtxSXJNX3BIdkpfUkRLbW96QTVSdW5PSG9aQzFxSVF5NXZhX1FsTVhHNmNCMnJtQmVYZXdaeUc2NkFaRQ?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-08-26T07:00:00+00:00"
-    },
-    {
-      "title": "凌巨補申報第二季財報 證交所核准明日恢復股票交易",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sS3JDQk1fVHZlQUE5UHFvYkFpZGNxNUtXQklpVkVEUE8yWjFLUENXVUpSN0FRak5VZ051QWRoQldiVnM4a2FPcTNKa3RGNHhtUktGZ2VyRzRrNHcxMjJYWQ?oc=5",
-      "source": "ftvnews.com.tw",
-      "published_at": "2026-08-26T07:00:00+00:00"
-    },
-    {
-      "title": "【即時新聞】凌巨宣布完成第2季財報申報，股票自8月27日起正式恢復常態買賣！",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNUZLNmw1R0JNa3FVU2VHcEFfeXBPQVlaM2VwVkpKZ2IyTkYwQkxleC1veTdFQzh6Y2l1aWlRUl9aSzk0U3lvajFRdzlUaTdsajZabDNJaTNwX2xDTEtGTmlVbGdOZThfQjRENWU2bmVJZl80bHVscXk3c3R2WlA3cHptdmFpNlowWTNaOGVjTzM?oc=5",
-      "source": "cmnews.com.tw",
-      "published_at": "2026-08-26T07:00:00+00:00"
-    },
-    {
-      "title": "凌巨財報危機解除！明恢復上市交易",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aZG5wTjF0cFZoVjE3MXltU0doek9DWHlVbmRsYlFhM09wTE1pcFRoRl9qOHFnNkpHMWNvNi1tRDNoWVEtaWhIbTh4dWJqN3FPN1BkYWZmY3IxSkdpbFVV?oc=5",
-      "source": "自由財經",
-      "published_at": "2026-08-26T07:00:00+00:00"
-    },
-    {
-      "title": "4萬股東鬆口氣！凌巨復牌開盤秒亮燈 3萬張買單排隊搶",
-      "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQOGFISm54SnV1R0E5bXlrN25QLTZjRFA4T05pZGxIMDVWeFpzVXNtSXRXdlUtb2xUN3dkcjVvV3JKRFlRU3hod2d1SWJhOEZJdTA2enppSW9hbEVTWGNNUlRhbkdaRmVmUGdocDBLZ212ZzRGcHhob2dvN0x4N1Z4V29faFU0S2FLNlZ5SUw1a0w4ai1NQlFZV0d1V21mOG53bVQzWm1KWFl1QnItTnc0YmFySEpMUmFDLXBSSjJMMjhKSkFkRWUyNzRtRHQxSlQ4ZWhyX3JaWDBrbGt2YkUxVXVidzlYdnRPOUVrZmloNGJ2Qy1PNGhNZU9ReV9VWEhzNUdsM0FGRkFhZWRmTU1mVWh2UkhjMVY2QzhxRUJyNmd5NEpEMlJBdGpzbm9KbkFHOUtXTnFsZTR3YWQ1eUJPVVY3TWpnaGFwNm9tRDlaclJVaDNTdU1yS3IxMmtRRTNhdWZkb0Q4VTQ?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-08-26T07:00:00+00:00"
     }
   ]
 }

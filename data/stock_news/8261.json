@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T12:36:34.445432+08:00",
+  "updated_at": "2026-09-26T13:34:17.546283+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8261",
   "name": "富鼎",
-  "count": 5,
+  "count": 6,
   "news": [
+    {
+      "title": "《外資賣超27-12》長榮鋼(495)、澤米(491)、富鼎(485)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQnRsNkpaUE93TVMteHVXSVZBb1lwaEpXVkFuamRaekR4RlRkOFFIU2YyRWVua0RxNzdKRnpzdkFzT3pIZFBhUjFkRWstVVJKbm5vSHh1TjZRdzgwR1BZc1hNaFg4ZG1BZkJWZEZmazBIajJEWUZsRkZPRnBQYkRBc2Y0NWE3dUM2?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-25T01:07:00+00:00"
+    },
     {
       "title": "功率半導體漲跌各半！「這檔」軍工產品推進漲3.38%、健策大漲250元 茂矽、富鼎仍挫逾1％",
       "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQUW1XcVliM2ZyVVl2ZTZQcVlvVzlEa3hRQnVHUV96VTJlQjhUMzFnVjF0N3JlOG1fYTc5SjZScEZqOW90NUloOExDTF9tZWk2ZUJpaUdMUGJoMGFmUzlXSGRXTG9VY1BQZkZXSVRWOWgzeVplaFdyeUtjNkZncm44b0hVQ0xhZGFPSS1IVW84cFJ2eGNneGF5RDBocVljMndxVTFfUXVZblUyRHRjS3RLYjJJUGtZYjl1eVRNa2dXdG5JZEEzZERLcEN6dmdvYjladnBMcWNHN19lcEJWT0pXRV9MbHhzckFrUzUxNzh0WE04YXBhY3prVjcydmpTSzZ6dGlycXo5b2I4MzJpZjRZUGlwcV9UOF9WSjBVRjVBZmFyWm80WVVIRUVVMk5rejdubEhGS1ZPQzQ0VTJTS19QX09BeWdpWDlMa3VjSzlmNVVsdmkybmEzSUhxX3Z4czZkREszblF5NV96RWFPdG0wb1gtNmM5UkJKT1RiOA?oc=5",
@@ -21,18 +27,18 @@
       "title": "功率半導體兩極化！「這檔」連3紅漲10.16% 強茂爆量6.6萬張跳水翻黑、茂矽、富鼎也挫2%",
       "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPRUhEbkp6TlN4dFRKanNIOXJmeXU5R3YwMlZZQXpMV0IxZVdTQUN5SkxITUNKWUM1akpVWF94NHBmRUtQTS1JQTVYZ3VkeTU4bGQ0VDAtcXlFdGwyOUMtdU5pQkVFNExPOWo3aDUwSC1qTjlRSjBNUzZzOEM1Mk91bnUyVW1aOFU5bTlLbUdab05zU0NPX3FBbWhuSWZweUhIZi13eXdWV09ObzdVVTBEam50cUZGQkF4WFR2cjFPYjZndHkxUEsxWXZVMi1KOWxvNGtGU0RxZmM0dVNTdlFOdnR2Nnllc0RCaURIaEhURDFaT1hVV3EzY0l0X1hyam90M0JfOVFxVUJ1RkowRGRFUGRFak1RbGo0VmZQQnJVLWVzZlJKYmV0Z0NDTnRKSGFrdndUQw?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-09-17T10:45:00+00:00"
+      "published_at": "2026-09-17T07:00:00+00:00"
     },
     {
       "title": "【12:01 即時新聞】富鼎(8261)股價上漲3.7%、來到168元，受功率半導體漲價與AI電力題材支撐，惟技術面偏弱、主力籌碼續偏空",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdllkQ2ZxTFA3UEdTLW5Wb2E1RUhOTnFSTnF4cGxGVUlET0YtZ1lEdHJXOHowelhqNGlVdGItOTBvOTl6SW9FbFZUNURvQm4xMl8tQ1dBRVVDRUJRd1lJNW9UR29ySUMtYTJqdmQtOHdlVzBPVnN2WGRBUGdZZl9Ya0FFUEREUTQwNWtTbzFR?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-14T07:00:00+00:00"
     },
     {
       "title": "【2026/08月營收公告】富鼎(8261) 八月營收2.85億元，營收雙減，年減3%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUTBxdUpwZ1Y3RE1LWUFLd0ZpSXdTb3V5YjEtV0tkRHVpb3JHQjlESk5uYWUweXoxS0YzRXo3Z0MwNGZHRnZkMHNDc1VidDI0UG1GSkxWckp1eno0MDFpY05tdHVBcVJvWlJVT0xBbjVzRVpGbURrcFJYNllBMFBOdkp4eWU4M2ZoSUE?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]
