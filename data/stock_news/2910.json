@@ -1,27 +1,33 @@
 {
-  "updated_at": "2026-09-25T21:35:51.945606+08:00",
+  "updated_at": "2026-09-26T22:33:52.770695+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2910",
   "name": "統領",
-  "count": 5,
+  "count": 6,
   "news": [
     {
-      "title": "銅跨期2611/2910 (HG2611-HG2910) 期貨",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DRVNhYnp1TWJTTDNBOEFvN0RDMjhobWlFVDZFQnNQTjdYbXk5dDFoSGdoT2hBN05nTWNpMndOcURSQkwyMEM5WUYxS2lyZW9XVkFlLUF4RnROVDRJMzg1X3NR?oc=5",
-      "source": "moomoo.com",
-      "published_at": "2026-09-25T03:33:16+00:00"
+      "title": "銅跨期2802/2910 (HG2802-HG2910) 期貨",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04bUllS2FkbDkwam12OXlWSTFURUNoYWxwZmZjazZBY0lvdnJNTEdmWVpFbVlSbEN2dDdPX05tRWN1b2tfX0dPMWp1YUg4MlVWZE4xS2xLamNzU0dJLVI1c0F3?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-25T03:20:21+00:00"
     },
     {
       "title": "豆油跨期2801/2910 (ZL2801-ZL2910) 期貨",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1oRjdfVVFINzZ1SzRGNk1EYnhfUlJsUnA5WktCTkZMbFdVd3oyWmliRnpPbnBNVDZUa2NlclZPZllFLTd0dzFNYWZfd1Z2THNoYVRHZ0hEbnJDZGZRbzh2Tk5nb1l4N29SOGZKZ2cyX09OZ1d6QklR?oc=5",
-      "source": "moomoo.com",
+      "source": "Moomoo",
       "published_at": "2026-09-23T22:39:15+00:00"
     },
     {
       "title": "銅跨期2808/2910 (HG2808-HG2910) 期貨",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1EY3RJTFVpVVlPYi0zaElwSktlRDc4bnlKLWF1Nm5zaldIME90NkpmMmg4UHU5OGkxczlRNThYNVBwNFRGb2w2TEY0ZGdfVTE4UE5wV3EyNnM3c2RyckZRNGh3?oc=5",
-      "source": "moomoo.com",
+      "source": "Moomoo",
       "published_at": "2026-09-21T18:50:11+00:00"
+    },
+    {
+      "title": "2752 豆府- 本村炸雞桃園首店插旗統領百貨10/1開幕連3天買1送1 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSc0xLQnh3VFRVNTI1VzBmclB1SzVxbFdsTnpDV3hxNkhzLXZ6aUZzckgwMDJaZlc1d2tQUEx0QzBvSjdIN25WQ1k1YklkWjBhVlhtNnpVS1Q?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-20T10:30:08+00:00"
     },
     {
       "title": "炸雞控暴動！Bonchon桃園統領開幕買1送1 肯德基46折",

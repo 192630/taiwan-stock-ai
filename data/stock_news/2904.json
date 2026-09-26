@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T21:35:49.800444+08:00",
+  "updated_at": "2026-09-26T22:33:50.850826+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2904",
   "name": "匯僑",
-  "count": 2,
+  "count": 3,
   "news": [
+    {
+      "title": "鉑金跨期2612/2904 (PL2612-PL2904) 期貨",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1uYW9OOGJlaG9SZ1R5bUtCeEx1QkhOV3VqRXMwWXZiUHFSdzd4b2dkajhaSWYwQVlja2FpUFBGUVVyYm9PQzRrRDNqb1BxXzVkNDIzQnFnbGh0VWNmZHBMX0NR?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-25T07:21:07+00:00"
+    },
     {
       "title": "【26Q2財報公告】匯僑設計(6754) Q2 營收7.9236億元，刷下近2季新高，季增31.61%、年衰退19.16%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMGN3Y3RxMzduUlFheTFPejlXbHFJeFo4UWlsRkhQYkNPZ3lOUFBiZGN1NE1VdWtpZVJ0WVRxVzRmX0ZQRldVV29oZl9SNnRzeVRmYU9TR0JVZ3R1MWpiSkRVVjFXRlctR1NTRE1oWE9Ebjg5SmdoNjhDengzSTBGc2M4VTg3eGJSR3c?oc=5",

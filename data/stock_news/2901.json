@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T21:35:48.829246+08:00",
+  "updated_at": "2026-09-26T22:33:49.945446+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2901",
   "name": "欣欣",
-  "count": 7,
+  "count": 5,
   "news": [
+    {
+      "title": "銅跨期2901/2910 (HG2901-HG2910) 期貨",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EU3R1c2RzZjc2THktV0htQ2ZUYjhUb0VaUWZ3TmIyOU5MTi1kekN2VVNwZEE3SHhwdzgxYWM4QTUtN1poV2dGdjcwS2ZuTHhDLVYzTzN3ZVo4REt6bGJ0WkNn?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-25T03:35:03+00:00"
+    },
     {
       "title": "討論牆 | 高欣欣弟遊日突腦中風！住院開刀帳單破200萬天價 她驚喊「保險真的不能省」",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhLVJLU2dNQ0VyWHByWHJBbkdDQWVkLURDVEZXQmkxUWRSVFRpbmIxM0xkTU5fRHpiSk9jZjk1MVBvaXJqVUZGNHZ6Sm1WWDA5ZXc1cFN5QlpSQnptcFdlQmczSDM?oc=5",
@@ -12,22 +18,10 @@
       "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
-      "title": "高欣欣弟弟遊日腦中風開刀！住院10日天價醫療費曝光",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSHBsc0F2RGxTMGNGWTgwQlRESzNncmMyZEc1ZnhCSGUxbC1URDNIbEtQWmVWSkhiTURmeWlmVVRIY2VYSUlOWXl3Wkx1WXF2T3VRZHVHNVBzOHk4U1QzTmRIaVUzOW1sS0d1NG8tNjJIa0Z4ZWdRazlrdG5pYUhCYUNSd1ZZVE1PZ1E?oc=5",
-      "source": "壹蘋新聞網",
-      "published_at": "2026-09-10T07:00:00+00:00"
-    },
-    {
-      "title": "高欣欣弟遊日突腦中風！住院開刀帳單破200萬天價 她驚喊「保險真的不能省」",
-      "url": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxNN0x2X1E0Q2JtS2taN2x2SzdZMmh2OUFuekZpUEFHajRYVWdCUTAtMEw1ZzM3Z1pyc3FaQnY1SWd0WmN5Ti13S3BOYU5HVmZFV1Q3S2ZhamhWNGF4TnlTVGg0M3FoZk5fbDRtT1dsUFY5WGpxdWM3RFM3TnpSUUkxcmd1b244QzlDTmJvYUh0MVZvOFdxZzhLeFFQYVNBd3RSLVFOZzBUeFhXaVV1ZnFReVc2WldIeHdVVFVqbEhLZ0FrWXE3MXZFSHhMNHNwVnc0YnNycHVkcU5BSmlMa1ZPX0hVTGdQeGdycU44aGlYN0dkX0Zacm9CdkxLaGMxb3pWZ1BNZWRlQWEzSUNoRDZqOWZYSFo3NU1tdDN3cUFvcDB0VlBYb2liVXk1QWNNcnVvUUppZi1qdEttU091enlMaFdOMW45NmpjWGVIZ214eGJzdWo0Y3VLVURqQ0l2cmVGYVRob0FtMFh6UEFZYU1zaUJ5TnBQcGpVRGtjMm9nMEZQQy14d2VqeGV0WG51WkFrQ0FSTWZRelBLXzJyZkNEa2hBM25FOXJLaHhfa3hlSzNjRHFOa1UtTTVJUzA5UW5BWWVZ?oc=5",
-      "source": "Yahoo新聞",
+      "title": "高欣欣弟遊日突腦中風！住院開刀帳單破200萬天價 她驚喊「保險真的不能省」 | 鏡週刊",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0YkpoaE9KcUFWNWtOdlJyRmdMck1qQ3gxaVZLRUNMcXZqUlJ6OElEVmp6N2k5RGI5ZnowMUNzM1JfZWx5Tnl6MkhQY19aSWo5SjBWWTZB?oc=5",
+      "source": "LINE TODAY",
       "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "80歲龐祥麟離世！高欣欣不捨發聲悼念 憶兩人合作過往：一路好走",
-      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNUlk3R1hiYkhZTXZpM3lucG9jM0hNakkxM05zSl9YQWpTRDVQMFFtT1dqNWVCTjFkOTJVWElibFFacnlVeHFFUk1OdjljVjdsWXVuc0x1TERQekJIMWtGcFRNang5U2FTa1NVQWRQVkpHdGVSbjZnWHRvRThCRUpMQnJRbFdLc1R0OUtoeFVidFJGR2ZvSVctbXV3RjJzU0h2RmxQNGZtZXo3TlFFelJJem5UemhVS3phMkRSYkxldlVJRzlxbkNGZ2dvYjI1RXVYY1FfWGFKamN1SG5qM0M5UUtxZk1UZ2xXQndVVEZ3RGh3Nlp3ZFlEbHlwOU5aa2g1dFZsTFgxaHA3Ujg0Uk1BUG5iUWtoQW1DNWNfejc5cm1FZElOUkw4emNyUndpOWxiWnhDdXZ4R0hjZVcwejZ1Q0lWSkRzeVhoS1NDMkxzSkJqcktfaHZDT3d6Qm9wUmJiRVRhS0Z3bWdfMUM0T0R0OFZoR0JPQjhTbWl4X1U3VEI5S3dVa2c?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
       "title": "高欣欣憶「合作龐祥麟同台畫面」 不捨發聲：帶給我們精彩與歡笑- 股市爆料同學會",
@@ -40,12 +34,6 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Eblc0Z2RxbHJLSVNjbFB3WU1rbGRVUUdZT3IxZVVMQzlyOWlCVWgtRm82QzRWa081WndHNmF1a2pTMGp0RFpQX2tfOUZ4V3VHWUF4Wndn?oc=5",
       "source": "LINE TODAY",
       "published_at": "2026-09-07T07:00:00+00:00"
-    },
-    {
-      "title": "欣欣百貨九三敬軍 感謝守護國安",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQazZTelkyMmMwdnpmM3Y1NHpMU1h6czd2S0RKOVNudUc2U2tFbFgyRmtENVFXWXYtTWcxYURQZmpfZ2RSR1QybUYzWWlTLU5yaHA3WVZoN3RjUjhVVVVadjh3cHpSWUZjZ21pQVJmNTRqMGdtbG9FUk5Va2phR29Zd3l6YW04ZTIxcU12djlfd0VQRlB1bnFYeVczRmFvT0Z1dzVBbmhKa3lNNy10UHFLOC1YX0V2VHpnZ2ZOejhGZC1nTkdyUlFUb2IyZ1F2eXQtZGlGdGt6aHVMQUJaV3hQV1dDcUs4b1IzaEhrZklfa1Vtcnc3YlRzRVpaNWw?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-08-31T07:00:00+00:00"
     }
   ]
 }

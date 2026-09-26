@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-25T21:35:36.198115+08:00",
+  "updated_at": "2026-09-26T22:33:38.000772+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2755",
   "name": "揚秦",
-  "count": 5,
+  "count": 4,
   "news": [
     {
       "title": "【10:48 即時新聞】力旺(3529)股價勁揚至2755元，受AI資安與PUF硬體安全題材激勵＋高檔評價下技術面反彈空間受關注",
@@ -28,12 +28,6 @@
       "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNSkJlS1B1NGtqWl85QzRCNWpsTWZkNnJqcWRyR1gxbjZlOVgzLWZhclVtVDZ1eG13NWFtdFAxblNnamMtLTlmNXlWVzk3TDN0dHp4Ty1yNEphaU9GQlNYUFdueG1fY1hFczR6d180MFhuZ2tFN1JCbFZJZlRZc0p1YWRDR0tBeGFOTC0yMm9ydlZMdlZHVkQxR1lkc1lSUkRZOUtBTDRCNjNUaGVvbXdBdnQ3cUh2RE04bkMzVVMxem5BOXliWnBQQnBfam1zMldhZDY0cjBsRlpnRXIyY1FaMkFuRmZkN01sNVQwQkVXZXZLZjZPMDNoRGFWc2NwRC1XM2hmZEg3V1ZyRnVpZFBGb2pyaEVzUmw4ZGxFZHhMcw?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-06T07:00:00+00:00"
-    },
-    {
-      "title": "【08/27券商評等報告彙整】揚秦(2755) 今日僅1家券商發布績效評等報告，評價為看多，目標價為132元。",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdFc5RmZGOXB3enF3ZERpUW5VQ0ZtN05SRFF4azRNUHVqcUFwZGhxcmZPTUZvOEN0QktfbmdzS2I5OUk4aFlfSHNuRWVWc0QwRjRRbF9ETFhqODl3VklCMXlhY2dJOVU0WDlpcVd3akhDWDVTM3BxMnhBS2xRbms2ZDFuWDR4NmNNaEE?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-08-27T07:00:00+00:00"
     }
   ]
 }

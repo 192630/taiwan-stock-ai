@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-25T21:35:43.958159+08:00",
+  "updated_at": "2026-09-26T22:33:45.748352+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2855",
   "name": "統一證",
-  "count": 11,
+  "count": 10,
   "news": [
     {
       "title": "台股「不敢賣」時代，追友達、群創不如看證券股？統一證、群益證獲利爆衝",
@@ -64,12 +64,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DdFJ3NnoxOVYteEwyYWVaZnEwZE9kZXMtZmhIUTN1dVdvd0VaMFVtUEo4OW5ReUJnTVBNd2QtTmhLUkp3WUthaUxQVjh5WTZiQlpQLVhHbTQ?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-02T07:00:00+00:00"
-    },
-    {
-      "title": "統一證持續強化財管/數位布局，看AI動能續強 - 新聞",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN0JBQWFpV2sya2MtZVNUbHFGemdFRnZuRzNldFp2TlZBZ0VmQk5qUlNOR0dpamx3VFFmUnN3cVZjbkRYMVdLOFZraFFDZnY2c3ZNTW8zMDJkM0Vmbk1ZOGxLNjFZbVNRM05RV2I5bm8wcjJndU1CU0UzTUlCaTYtYjZuVzJKWEpxT2lxdkxZZmZlUQ?oc=5",
-      "source": "MoneyDJ",
-      "published_at": "2026-08-27T07:00:00+00:00"
     }
   ]
 }
