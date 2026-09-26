@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-25T14:41:10.408418+08:00",
+  "updated_at": "2026-09-26T15:33:40.257528+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1213",
   "name": "大飲",
-  "count": 7,
+  "count": 6,
   "news": [
     {
       "title": "大飲(1213) 個股概覽 | 個股 - 股市",
@@ -40,12 +40,6 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSGQ1TXk5eExRSjZBalhjQVNMZUFWYXpIRWN1THJjVE5oNkhSdjIzRTRxSXp3cFZpY1pGYXZsYnpGQl9yRHNaNWRHLWhpRlVYM0xsVU81QzVUenA4c0N0WVFQcTlIXzBTMC1fVlFSMHM0d2JQR2hjZ3V4c3M0QmhIS1BXN1Fvb0VoN2c?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "涉掏空「蘋果西打」公司近7億！大飲前總座孫幼英更一審改判9年2月",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42UXZjRjVPVjA1RHlZRmxUSUk0RXRfdWhkbjYxRF9SYTBiRUR6ZktkUVN2aDE3b3hpb00tdktNSjVheUZBTHlsWlVJam1IV0ZRSVFhVW9NTHhTQ19S?oc=5",
-      "source": "太報 TaiSounds",
-      "published_at": "2026-08-26T07:00:00+00:00"
     }
   ]
 }

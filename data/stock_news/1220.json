@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-25T15:35:03.926710+08:00",
+  "updated_at": "2026-09-26T15:33:43.132255+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1220",
   "name": "台榮",
-  "count": 7,
+  "count": 6,
   "news": [
     {
       "title": "目標價維持1220元！法人喊「這PCB龍頭」利空疑雲有解 ABF載板業務＋光模塊是EPS提升關鍵",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4tSHc1QWxXNWVKaGVfbXFnZVJscVZfRUhCdWRqbFlwU21USWxWZWZ2ZGo4WU1XWk5pX3RlaWVfU3p0d2UzMFBIM09UTQ?oc=5",
-      "source": "FTNN 新聞",
+      "source": "FTNN",
       "published_at": "2026-09-13T07:00:00+00:00"
     },
     {
@@ -22,12 +22,6 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE54ZEVtelJyS19lSHlhcnd2M2k1RWdIcld0Sk9SQnkyQ3JoYmVwZllvV1pDWFh1V3FYYVFfZWxscXhnSnB3d2FDMVU1QjNBZnVNTTJPS0NjQlhiZjRtS2o1cXNlZUJkR0ZvWHNxbUw2aFY4WDRuUWVqcUNUSTdYQQ?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "3年EPS飆50倍！「PCB妖股土洋追捧」背鑽機訂單滿到2027＋CoWoS加持單月營收年增152%「目標價1220元」",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwbGx2WXNJa1hfdG94RzFhS1NQSGZFN0tzWUJlQWFTXzl4TUxOZkFjaEl2VFo0b19adGhnVVhzQzd5YmxmbzZrSVhOSQ?oc=5",
-      "source": "FTNN 新聞",
-      "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
       "title": "【2026/08月營收公告】台榮(1220) 八月營收3.61億元，表現亮眼、呈現雙成長，年增28.83%-CMoney 小編",
@@ -44,7 +38,7 @@
     {
       "title": "被動元件又活起來了！國巨今終場「強鎖562元漲停」走出從1220元高點腰斬陰霾",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05R1YyUGVtb3BEU0d0bXl0aXRpbUtiN0t5cWZSMXU0M21ZRmFseERuUE84ckk0a1NDdWJhVUdlVzdVaFl5RlZ4VWlVOA?oc=5",
-      "source": "FTNN 新聞",
+      "source": "FTNN",
       "published_at": "2026-09-04T07:00:00+00:00"
     }
   ]

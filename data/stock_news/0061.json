@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-25T14:41:04.235806+08:00",
+  "updated_at": "2026-09-26T15:33:34.850753+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "0061",
   "name": "元大寶滬深",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "元大寶滬深(0061)配息、現金股利發放日總覽",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yXzNIVjlDaDQ0bzFwaHBzdUlBalpfZGNHb3ZrbDN2Y3RLbzhmR3hRdmdSdFAwZ0dQbS1Kb1R0eGg1X3VrVHRIUDFFeGswd1FCZHlKRktNbkF6dTg?oc=5",
+      "source": "pocket.tw",
+      "published_at": "2026-09-21T07:00:00+00:00"
+    }
+  ]
 }

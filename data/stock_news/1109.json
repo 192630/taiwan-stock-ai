@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-25T14:41:07.618110+08:00",
+  "updated_at": "2026-09-26T15:33:37.803680+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1109",
   "name": "信大",
-  "count": 4,
+  "count": 6,
   "news": [
     {
       "title": "【2026/08月營收公告】信大(1109) 八月營收2.69億元，營收雙減，年減26.47%-CMoney 小編",
@@ -12,9 +12,21 @@
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
+      "title": "【營收快訊】信大(1109)公告08月營收",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40Zm52VENxMU1LV0tFTkNVYWhmaFdYalFXNlZYczZaNDF1elJPYWtOejFzQzVGcU1LZl84OVM0amF3cmRDdm1YTDlJVk9jbDlWWE05MGlodDA?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
       "title": "外資大翻多！一週狂買台股1109億 這3檔金融有戲狂掃近25萬張",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9yd21ncVFvbkRxR2wwc0w2Z3lUWi12S09pY3phTW9IME9GYUp5Y0c5QmhGSk5HMzRrS3VWQ01hRklkLURQck9UVTBmRQ?oc=5",
       "source": "三立新聞",
+      "published_at": "2026-09-02T07:00:00+00:00"
+    },
+    {
+      "title": "凱旋青樹社宅43戶招租湧進1109件申請 中籤率估4%高雄社宅熱度不減",
+      "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxNM1k3TXVnbnNWRGhoTU5Xb2RnclF3VElIaElaeFo2b2FzRFlDSV9MeU9fWVlUd3FTV05WajJneDBUN2N0SkdHOFRURUVSeEFjZTNZTF83aW1RaDdUVmtGX09SSHJ1SnBWazJoTFBMQ05jQmRwSjRkVjA5ZnlsSTNnMUdhb3B0ektlNjdVU1l6eEMtYXZjNDZoWnBaX1M0MWFqdF8tcVVpNjZpTi1QVXhZd2JaZU0zUm5hX1FlN1ZpWUZJeTF4cFBIM192RlhWNXdDOS1EOWQwRXhmekNXRlVkSXdZZzRTSnNBWHhVSXJqeW96MkJBYy1PdnR1THRFQWZmci1OVGxaRlpZSEpjVlBycWlfLTgyb2RIelBaOG9heFJ3TTFiLUpjeHcwZUoteFpTNkdLOTVKTnFHbXU5b3NDRlMydlVnazhrUEt6WF9tZGFuOVNPQkl3Nm51aUM5N1RUdTFCR051d3lkWUxJQkdNLVBqMldmR3NtNGxrVy1kejN6dnNYVVN6SjlhTDZwNzNISENFaDZoaw?oc=5",
+      "source": "Yahoo新聞",
       "published_at": "2026-09-02T07:00:00+00:00"
     },
     {

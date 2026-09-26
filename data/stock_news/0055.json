@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-25T14:41:02.688825+08:00",
+  "updated_at": "2026-09-26T15:33:33.354136+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "0055",
   "name": "元大MSCI金融",
   "count": 10,
   "news": [
     {
-      "title": "元大MSCI金融(0055)配息、現金股利發放日總覽",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhV3ZtZEtiZ0kwQlBTQ3dhMmJic1c4YjJIQzRZYnRyQWlsSVFMYnh1MW12UDNJNHA4cS1UeS1wZ1BlOGdQSWtsd0lhLTU1MU00Z2piZGNkZkhaMm8?oc=5",
+      "title": "元大MSCI金融(0055)成分股、持股明細總覽",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5WR1BRWlNvSDNCclZmOHcyTUdicE5nRXJBMzJDNGxiZEM5X2F6aFRHcE9qc3cwbmNXTFo3MEltc21tWjJDdEMxeTJ3?oc=5",
       "source": "pocket.tw",
       "published_at": "2026-09-22T07:00:00+00:00"
     },
@@ -24,15 +24,15 @@
       "published_at": "2026-09-17T00:39:00+00:00"
     },
     {
+      "title": "金融股不是最後一棒 0055飆10.3%逆勢稱冠 | NOWNEWS今日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16WmNjbnZ1cVFYSDZUdHpfT1hKekZVQzNfWTVqeXpheDJiSlJJQ2QyX2hIRjJhOHo2OFhxTExUMjhrM3dxZml1VjBTOVFqd0l1bjdGNDFn?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-16T09:18:10+00:00"
+    },
+    {
       "title": "金融股獲利大爆發 9月以來台股ETF報酬率0055奪冠",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lTG9KaDA4SFVOWUhRZTNNS0daT0VVVXRjZGd2NFhGX0tReHBSTkRhSnM1N190eHJGYkZ1RXlLREFsRG1faVl2ZTd5V3R3aWE5WGNZdXpYNVA0T3RXNkNJ0gFkQVVfeXFMTUd2VlB6dE42Y1lXUlZTWVRsYjdFMXI0aTBWcDkyZXVKM1lXLVE2WUEybG9PcG01T1JfUHhEVjg5WEY2bWthSDFDeGtReFVlZDFtNDlpVWd6anc0a3JiM3laSDNEaw?oc=5",
       "source": "自由財經",
-      "published_at": "2026-09-16T07:00:00+00:00"
-    },
-    {
-      "title": "金融股不是最後一棒 0055飆10.3%逆勢稱冠 - 財經新聞 - PChome Online 新聞",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMnl1Ymc5ZWhYdGxuRlVmUkhpamFzZDJzTnA3U2tXQjNQT2c2OVcyeDUwbF9HM2ZjamlWcW84RmdzNG5NMjNvREJ1RkhDajJHMk5jSms3OFduWXBmOW5HMW5TMWtqU1ZtZ3NJQ2pBa3ZhTERXNUM0YmpDRmhPSlhrX1lnUUx6UlV6UzhF?oc=5",
-      "source": "PChome Online 新聞",
       "published_at": "2026-09-16T07:00:00+00:00"
     },
     {
@@ -62,7 +62,7 @@
     {
       "title": "AI科技股高檔震盪！ 金融股受關注 李其展分析00998A、0055兩檔純金融ETF差異",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ySEd1MjNrb2h4MEFkLTNramhHQ1JZWVQ0eW5rSVJCOGpkbnJJa2I1TXg3eklNVG1JSmtyYXBjbm9vSm5uUENVOHRGY2dMU0xhWXpqT1BDTQ?oc=5",
-      "source": "觀傳媒",
+      "source": "watchmedia01.com",
       "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]

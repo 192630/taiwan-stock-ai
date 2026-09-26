@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T14:40:38.190856+08:00",
+  "updated_at": "2026-09-26T15:33:12.790196+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "9941",
   "name": "裕融",
   "count": 12,
   "news": [
+    {
+      "title": "《投信賣超4-3》聯發科(256)、裕融(252)、台灣大(233)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON3cxM2pfUWlXYm5PZF9XTlNyaGRjcG5lekdtdlk1eFR4ZU1Ca3VsRnd1WW1ROUU5TkZWam14b2FWaklCeU1QU2JDVDlqUkNnb2tLV3lfRG9oamlkaUZjTXlOSG1YSzFLMk1zYmNXYmxCREVVMFo1NVNzSHJTRkp5enFfdVhuR0dZ?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-26T01:05:00+00:00"
+    },
     {
       "title": "當冰山理論搬進辦公室 裕融攜手青藝盟用戲劇看見情緒 拉近職場溝通距離",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GSDBiMlBZZm5DeFJ2OUZuMTR0WEMyZzQ2YVA5UUpxa05vdVVFb3RyOGhmd0NlTUZoVlZlNlZrXzNoUXYybGtnaUtfNW45MDQ?oc=5",
@@ -70,12 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kWjNOcGJGTlNLY2pyQmFNYXFBcDB0R2NIbmJma3lzc3NfYWYyZVV5U0l3bDIwWGtwNnhmanZraHpOc1d0UG8wb1dqajlCQXRxWXNxcERQalE?oc=5",
       "source": "CMoney",
       "published_at": "2026-08-28T07:00:00+00:00"
-    },
-    {
-      "title": "〈裕隆集團法說〉裕融營運二個動能走強 東南亞版圖貢獻獲利度放大",
-      "url": "https://news.google.com/rss/articles/CBMirgNBVV95cUxOYVdoX2pNSGp3MngxbnFZdWJQaVkxQjBaV1dTbGt3RGYwNExyRlJTT1ZqV29URF9adVN2dlhKdlFaYW9EWmdzNWtySUNVZ2Nwc1RmdlN6cHJQNlFzSHVnNUo4UDBuazR0c0VDZnhGZnF6NFpqSkQwU1o4ODBmcGprVm5sZjBHNXRkVFNKbHFqVHgxQkpuQkxpSjhYZnRTUkQ5RTdEMVJOTDJ1YVE0d0JReGVyNVhPWF9LQzZkdHd2SUxJbVdKbjloenpOSGFBLTVyLUhINk5yVWd0ekhsd24xZlpSYUdhOGRlMU04aUNoSzJtQ0Frckoyc21DcFM0bDZqeVJLV0FtVTZRbkFOYk9hNU5fQTU1MUJRRXhEekY2WE9aZlRMWE5WVFAwQUxNeUdFTXVVY29lby1TVktObU5fRWN2bC1TYTk1VXV6NDlIMk1YWWJJTXdNckpKQjdKQVE2NzJvMHdINVpnRl9uQnF5YWcxWG9TWFY3Nk1sQjNoUzJwZGUxaEpTUWVtbHk5d0NiQ25IbkMxWTFlTTNtZXB5Q24wRmZkT1hMclRCdFNR?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-08-26T07:00:00+00:00"
     }
   ]
 }
