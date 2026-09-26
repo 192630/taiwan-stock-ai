@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-25T19:35:59.874639+08:00",
+  "updated_at": "2026-09-26T20:37:31.686977+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2395",
   "name": "研華",
   "count": 12,
   "news": [
+    {
+      "title": "研華科技美國市場表現強勁 看好醫療與半導體設備商機",
+      "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOYkhrSHVTRTFFNE9Ib0RVQTNwa2VpYVpPbnkxVWRqdDYtNGlvak1sVDRNRFZ5eXJCS2Jxc3UzX2UzalJObDJPS0RyMXBPZHlVSk9MSUpYbWZ0dGhFWmFXU0dHek9nTHdSRHQ1S2VrSnFPTlNsNXBnamhTelBDZmpZLUpRMlN2SFBLQ0RzYWcwdkIyM1hvcGlOdzBWNGpKdHM1VERqbGlCbmpHdlU3eTRybDZPSVVKN2FtOVdkNFoxdjBTR1JzUVctOWNPRTNWNWxPekdEZE85RXdXZE9oSVpMdFlTck1MejFsd2xWcnMwMjlXZ2RKY3R2TnpmS1JfcjNYcnpsZmNuSkJQb1VEenJENmJjTXpiZUc2ZEdZYXFLZmdCTENvVUJkUmJ1LThMbTA0ZE5BOFp4VUFLaUx4blVEcEVKMEhBOExaZFZ0Q1RzOGZqUXBKVUdJRFNvRTZaYjJGRTZ5bjZTbUxBY1Y5RjZSNkhaUlI5N2o1b0tEZw?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-25T12:09:11+00:00"
+    },
+    {
+      "title": "飆股幕後》外資買完 投信買 研華本週創天價",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90c0lVX0tSZE9aYlBUZklwQ3NFRjVXQjRDemcxZTkxaXN0LTUtTzBpcmxPN3k4MG1weE9TdmJkZVhDLV9XY2JEWUpQTmhvX1BweE1nOHBGRl8?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-25T08:58:34+00:00"
+    },
     {
       "title": "研華新品明年首季上市 鎖定人形機器人市場",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNUXNPRFRzdWxwTHZzM3hTXzEwZnV6RjhGcmlhODMxRDA5endzcU5EOE5aNkRJREZJVC0wQjJtRmx5UFdSQ0l1RG40ckptdUl6Sm9OS0liYmI?oc=5",
@@ -36,12 +48,6 @@
       "published_at": "2026-09-23T20:14:18+00:00"
     },
     {
-      "title": "研華進駐北美新總部 (圖)",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQR1JjYUVRZTl2NEJPMjN4RFB4OEhtYmRoVXgwQVJaVzdqeFZHWFFtT0dRN0VWakpqcFZrTXptZFJiei1VSVF1andnVktuZmZXNFJ4eEs0bTVaRUlhbm4yell0engwR3NWSVZ6VUhDNm5MMFVtZ3BHT1ZJM1dxcng4bjZ6MGlhYkFpaU1EWFExS3pjSFBnQVVZaDZhaEZQdDltNFZMV2ZWdzhscjRtNC1mZjI3QkxhTzJkU29uYTN0X1BrVDhaaTVVU2d1VWs?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-23T13:50:17+00:00"
-    },
-    {
       "title": "2026 年 Design Win 翻兩倍 研華北美業績衝 10 億美元大關",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeW1zejdQUW1ic2dybFlidGJ5Qnk1Z050YTRONDBUblFOY0szUzlvcXlFejhkRnlONHZKX3dYZE5UQzFta29ZWjV2SHZiZHF2VUZfU0dQbVVHaGstRWpGRTJneWdiYVpDRGFjZzhtUklHVy1ucG9mQjVsSzM2OXhUaldUbnc5NVJ3aUd6clNpNVo0R3FHNkhiWDFB?oc=5",
       "source": "Yahoo新聞",
@@ -61,8 +67,8 @@
     },
     {
       "title": "研華北美市場BB值逾2 產能供不應求爆滿到明年下半年",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjMld6enFxRXkzOW1LZzB2cS05dU5NbHhmSFlUUlhZdE5uM3ZZMnRWbzUyRGJYaTNzeEU5eWhtTzM1RDR6NFVlLWU1RkVtcnM?oc=5",
-      "source": "news.cnyes.com",
+      "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNZmNvOGpzN3l5NnpNZm85dGNPSlZZa1NUSWxUeXVuWmFXYU56eEJ4b2hVWlJkRVB1aF95UzBjNUtkX3RDMEJFakpvbHNUb2ZFX2hTaHJWcTIxYmJqRGY2c0RUd29rSmpsRG4tOHhDbTBqZ1hjNnozZlZ4djN6ZnZXa1Z1RnllVzUyUjkyQXk0UnVGb3FFeEQ5X3A4TUExYVJHQ3FvRVp2cC1MRW1sRnBXaHNYUjAwcVJCOU9HNk5XRjVNM0pVMVRyUTVHU3BXUHducUd2dU14ZEE5Q1J5SzNhNGZTTTllYjBxbXVSdXZPOV9iQ3JkVkl3YVV5UXVWNmhhOGZ3UFlyZ3RQZENiTFBqRmFRMVQyNExiTzNGTTB4QWVsa0Q0c1FpSnF5U1lyVTRzNS1hdHlkNDc0ZzR3SFJhNGtPTFotNTJjMDZRWk13eEUtdmhEVjd4OEZIblZSZmRuMUwzTWJwano?oc=5",
+      "source": "Yahoo股市",
       "published_at": "2026-09-23T12:04:23+00:00"
     },
     {
@@ -70,12 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQcGN4Z01EdElMWW5oMWx0RWFLSDY1VlRxYkduTFpiZ2l3MFpudnRYVkhKNTNJUXlqRkJ6ZGttbWZ6aVNiUnQyYkpFVTB5WERHanFNNWZjZjZqWEV6U2s3R0RTY1VKODZaaXJKNjBYQjRsQXI4bXlnVHFNcWtNMzJsWkpTdWY2UkJQZ3lieTUyQkpVY3FOd252LUdFcEFZSUw1dnpGU2RKVkxndmJKRUxvcEppWVMxR2UzYU5YWjVGRGxIZk0xTlprTURibmVqZzZBMkxSTE5VSjVONnBJUnJxeHowNm9oTHlKa3FyNC1EN1NnS1YyT1R6ZHdPZHhCdlUyWEhZcS1jUlNXblgwbFFZUmh6M0c4UWFIQV9kdUV0NlFqVkU2cFFNNXg1SGpCRk1QOFgzTngxMVIyYVBIZUthT3ZZTEQ5eUFiWXNSbFBPSG1QT1pfbHZnV0NjYVJNMEVwbDc2bWtwVFhyYnZqV01Ka3hWVU1SUE9TelE1dXZocHZsckxQVkM1OG9Edi02dC1zd0p4NkZvRQ?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-23T10:53:00+00:00"
-    },
-    {
-      "title": "研華北美營收爆發全年估破10億美元 半導體應用今年成長7成、明年再倍增",
-      "url": "https://news.google.com/rss/articles/CBMiygNBVV95cUxPTHBPUS11VXV2VXF6R1gxODA0NUZVMEtibk5MZ0JNZ3NHeTJWbXJOX1NjZzZiQl8tUHlwdkExYjc3U2dLUENoM2FtbEVQTWlHVDhyT0VSN2xmWFc1Rmc4VlN2OHF6ZXpPTTZTU2Y0QUhCalk1RGhSWWVWZy1yd3JITTdsVVRDTkRWQlI1UmRCanFZR0xRUmJCNGxvUkZtS3UtMmJ2ZDAzN21SZENyeWRNUG9uLUJ4clR2dXo0WDBVUGJRRE1ib0RZTFNyNlhfN21KdHhGUXM2Y1dhcGZZcHpwLXpoMGJpZ0lxNkh4QTQtc0QtbEpVLUpPa1ZTY0otbmFhNDNPdDE1WXJ0MGxRbE5rdXlyMEc2Si1RRlMwNDZRUGRVelpmT1hTOUQxWEVjQnhyWm44T21ValQ5NEFoRE42dzlkUS1VdFNTckNuUkRUc3lJUFZGOUtBeXpGUkEzSC1DV1REbTBhQzQ3VU10a3NyU0duNzJxR21jaDk3ZV9fV0pVejFCTjZKQjBMYlF5T1kzM0R5UjBDRU1YVTBJN20tN1Bac1RndEs3Rl9hYXNleGFabFN1OF9zQUhhU3Y2eHUyUW9UTTdqLTl2Zw?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-23T09:48:32+00:00"
     }
   ]
 }

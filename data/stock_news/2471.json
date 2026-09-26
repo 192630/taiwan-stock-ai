@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T19:36:24.107002+08:00",
+  "updated_at": "2026-09-26T20:37:59.161122+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2471",
   "name": "資通",
-  "count": 8,
+  "count": 9,
   "news": [
+    {
+      "title": "3491 昇達科 - 6G產業論壇（6GIF）與台灣資通產業標準協會（TAICS）... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CWEgxN1lsaUs3NXQ2WXRnel8yUnh5ZURiT1kzUVRxTHN4cWpMUkVtcUc4dmc4eU1iYXF3MWdqQkRiRGw5UDlDNTVPdEY0dTgyZm9aT29oRjk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T08:41:08+00:00"
+    },
     {
       "title": "TWA00 加權指數- 請認明緯創資通是高效能運算類族才對,還在傳統代工貶低股價. - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBEcWN2cTNKbktEejZUblZDVWVaZFY1emdHLW9kUDRZTWI4M3RKWFFjTkRrQzBnLUV1eHBoT3JWMjNHUzNGa0l2UkpidXN3WDY1T3g1WXdiZzE?oc=5",
@@ -24,16 +30,16 @@
       "published_at": "2026-09-18T07:12:25+00:00"
     },
     {
-      "title": "【09:58 即時新聞】資通(2471)盤中走強，資安與AI題材獲市場關注-CMoney 研究員",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaGQ3MFo4cHVhUnNTdFBKNDJpcEFKMHZLUjd3YnBoMjZUVGJ1UVFXclRCOHR4d0ZxS244cU5zOFJ1ZnJwSHJ1Ti1oUmtmeXFwbEZJMTZwNHRtUDVya2l6aGduYzJNQ3RXVkhRbGkwVDIzclphSENHSUtteVpWakdndXBWY1I2RDhXdkV2RkpB?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-15T07:00:00+00:00"
-    },
-    {
       "title": "《上週上市成交金額排名6-3》緯創資通(72918783)",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPalJsLTRtSzRQdE9Lbl9STnNrN2xORnlpWEZnWGFVWUJaUEtyYlR2WHdyaEZTc1kzNmVCQjFrRlBDN2hRekR3QW1iQzMxejQzTnlyNGpiZTVaNlMyYXBYaC1rYVA0UEFmc2lFNE9jQWNCUnJLUzEza2w1UDh5WTcyRk9aWlhqTTg0?oc=5",
       "source": "富聯網",
       "published_at": "2026-09-14T07:00:00+00:00"
+    },
+    {
+      "title": "提升資安風險意識 期交所辦期貨商資通安全宣導說明會",
+      "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPZDk1Q2JVWWN6aDZTQ0FiSlFVS0R4SzhCa2dCcHV5Yi1oZnJlbllFcmVnVWNZblJHenFjanRCc2RJUHY0R3R1NjdZcHQzal9rd0lRMkdjU3FRV0k2ZVNEWlNfWkp6OHg3TXhEVDRfaHZld1doRW1Kc2xWa1pPTFFYREdSWUFFa2dVRGdxeUlyVzNtbkFTeFl0YmRET2lqNzJRdXpWXzhtWHlELUZZTTM1ZlJGQWtOQV9oSGpXY1dzNmUtam1aQVZQM2xJNHFFUmdjS3NZVlpNOXdtZm1iMDVEMWdPaW9YZEw3R19ncmtfWVB4NlpkbzVUNE5NODJJZnRUOEd0ckh5akw0enpIcTRHalZTeGxyY3FmQ3FJaFRzeFRoLXVROU5sU2tjVDhZanJVNnVjQ19QTEZzdUlPN1NEU09GUzI3ZHh3SHBmWTBITDJuTjZSTEF6NVFUdDFrZlJTQjJGMnFlaXE0RjNzSEszTGhrNzA?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
       "title": "〈進出口統計〉電子資通助攻連34紅！8月出口824億美元創新高 年增 41%",

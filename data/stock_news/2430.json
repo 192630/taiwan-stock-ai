@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-25T19:36:10.990327+08:00",
+  "updated_at": "2026-09-26T20:37:43.842001+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2430",
   "name": "燦坤",
-  "count": 7,
+  "count": 6,
   "news": [
     {
       "title": "2430 燦坤 - iPhone 18 Pro系列開賣！燦坤內湖旗艦店湧人潮工程師果粉為愛排隊- 股市爆料同學會",
@@ -40,12 +40,6 @@
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MNXEyOWJsb1JqaHpId0RYYUtjbWNWSm1JQ3NZWmppQnE1WTl6dG1PTTd4MG1URU04Vk94NXpYbXZJbzctNlRxWGU0RlRTeUswa2JlQjJfeGJxdEpNVlHSAWNBVV95cUxONjQtYjVVbEpXOFBrUkVrQnhfWk1rN1B5bGR1SjRHU2ZRVkNqWTd2ZzEzX0hfQ2FwSGxYWTN6LXFaZ3JfNHNIY0pLUWphdzhzMTcxNVBKNXBIVmprXzNEX0VFc0U?oc=5",
       "source": "vocus",
       "published_at": "2026-09-05T07:00:00+00:00"
-    },
-    {
-      "title": "2330 台積電 - 心很小，漲個20元2430就滿足了- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tY0FPMVZId0JodjVqdlM1OHJTU2MwSF9tVVRFN21ZQ1doTXJrckU3TDlHdi0ydVpsRFhoNUVaVXBlaTRHazk5QVVMenh4TExyTlR1c2RCZzU?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-28T07:00:00+00:00"
     }
   ]
 }

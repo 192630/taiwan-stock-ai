@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-09-25T19:36:25.954075+08:00",
+  "updated_at": "2026-09-26T20:38:01.563530+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2477",
   "name": "美隆電",
-  "count": 1,
-  "news": [
-    {
-      "title": "【2026/08月營收公告】美隆電(2477) 八月營收3.52億元，表現亮眼、呈現雙成長，年增27.95%",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN1ZWM0dWczVyQnlIY0hVdnlQMmQxWTA3V2tIWEU5RTJVMld1YjlTU3d6d0k0VmZyQVlFR0pzcFM1bDV5RW9jMnpDcDZicFJIMlJrN19qYlNqVGFDSkE4c1VjZ3c3Q1pNRlhMTnFMUVdXUmJlNXh1SzVzMG1Pd3E5MURUZ3k3RURNZGc?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-08T07:00:00+00:00"
-    }
-  ]
+  "count": 0,
+  "news": []
 }

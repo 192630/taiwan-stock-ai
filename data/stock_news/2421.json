@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-25T19:36:07.429533+08:00",
+  "updated_at": "2026-09-26T20:37:39.794904+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2421",
   "name": "建準",
   "count": 12,
   "news": [
-    {
-      "title": "《一週投信賣超6-6》聯詠(170)、建準(150)、一詮(150)",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNclA1ZnZuSFZPckRfODJ2MmRGa0FhVUpUZFloMlo4VU5LdmxobHdEaE1SLW5SNE56QmpDN1JUNXF1cU9GR1ZCRUdhYVp1RENmQ2tzTkw4b0YzZ0hUc2pLcEFjSFpvOEVaSHVCY3hySXRJLWZWb1Q3cWZjeFhQVDZFR1NRTE02NUZ1?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-25T01:13:00+00:00"
-    },
     {
       "title": "散熱齊飆高！「這檔」連6漲32.1%挾雙鴻漲停同寫史高 奇鋐、建準同步走強",
       "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQS2NBOXhoREwwRGpmTlR6MnhXdDJ1U0FXd3lTRUNjdF9JRllDajNBdlY3OUhIbTNMbmZWUE5ub1hFczA1RzZfc3FYa2FzOHhaSmwtSWV6RFd5TmFkZnpKZmJ3N1dieklhWTJWSVBUNUE5SG5XS0tEZ3hfN2tpdHBYM0tGUEwwcVd1WEhXc0NZcXV2V01OcDh5R19kbVJsR0xGVG5RMjBTZnpoWVRtOERmNTRwR1p4OTlWc3l2eTYzRkRvR1RxNE9xeDAzUUlCZHRZRkpZakVvbUNQd2RYU2pUajZhSERTTFFPcFljTkZ6andRMi16a01MRVNoekZWOWh6WXZuWm5KVnRkRTV0d0l1U1czR1d1UnNPbGlvMkI3ZzBhVEt5TlZFdHI2blR2Ri0yQmtwVllBUVRrZ0tTV2c?oc=5",
@@ -54,10 +48,22 @@
       "published_at": "2026-09-04T07:00:00+00:00"
     },
     {
+      "title": "國泰金三子公司連3年獲TCFD優等獎 低碳投資逾2421億元",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQUWNjQmhZM29SZjNyOHh4S1JRaGN4aHFKdjlUTW01UXFRcVpOUDk0aVNhOGE1Zmp5QWFQMmVrZkw0emhmWWpUQ0RNMUExVXUzcDlDemhfZUE3NF8wYV9kQW1leFlGZEN5YXF2aGROeUhTbzNfTjdZNV9TVjRDZkV3R0pYT0pHQ1Y2UU9OMUVMSG9GdjljZnljVVFEdDROVlNCMGctMU90NFFWdlVHUHJyTHBvUEtZbWZtWEVLSGZ1RUxmNzhvMlFmbjI3eDJja0haOVl0Uk9GVXlGUDJuN2dWLWFwYnJJM2pMS1l1S2pKSDcyTzlYcktBbklCN2dJTEo1MGxiaUphZE5mSHpIVFI5Y3FncDYzSEtNZGRXejBJVW5keE9BYTJLZzhpTWU3aXE0Y2pVWTVNZ2FTbkRYZzNHcndxLXFER3hlbWtTYUtEb2k?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-03T07:00:00+00:00"
+    },
+    {
       "title": "建準量價齊揚攻上漲停- 日報",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jOXA1eTJCQThwZUFsYUQtRVoxWUVtNWpXVkl3eTc4SnJWeVpXMEdSQzcwSUE3TTFzanhGbC1Qd2Jia0RZOFk3eFFHb1d5MHFkdDFqNDZyOHZjeF83TWlr?oc=5",
       "source": "工商時報",
       "published_at": "2026-09-01T07:00:00+00:00"
+    },
+    {
+      "title": "建準漲停才179.5元 氣冷轉液冷 落後追趕 便宜還是貴？",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0T3puUVZ5OXRPVTlMMHUwRUhBS0N0d2c3VEl4czdOZDJpVXAyTjgwRzhVaGFqbFFoR3BBdnZyQXJ5UTgtNzNRTkp6Z25EbGQ4NzhBYzU4UFl0QVpKeU5JQ3o2Q01LckJOcC1fMUdwaw?oc=5",
+      "source": "理財周刊",
+      "published_at": "2026-08-31T07:00:00+00:00"
     },
     {
       "title": "〈焦點股〉建準下半年營運看旺 亮燈漲停股價創今年高點",
@@ -69,12 +75,6 @@
       "title": "【09:41 即時新聞】建準(2421)股價勁揚逾9%至179元，AI伺服器散熱題材發酵＋法人與主力連日加碼推升多頭結構",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR3VSRzFwandsSkR1dks5NW9Ja2I1aktUbTNkNkx4WkQzbU9pME9IQ3dBcjNlSUpGeTR2c0RVUVVSaFg3djU2OV9rYmQxS1c2aEhKb3BzMWVIclhWWDgtRnZYOXNEYS1SbUJUYXV5cE53WHQ3UERla2hHZzZaRzJRbG84aGhMZ1doc0VzRHFn?oc=5",
       "source": "CMoney投資網誌",
-      "published_at": "2026-08-31T07:00:00+00:00"
-    },
-    {
-      "title": "今日最夯股／建準看好下半年營運 外資、自營商連四買 | 市場焦點 | 證券",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJYXFySjJLLUhmU2tCQXo0QndDblBiQVFsTkd5RHF5ajZ0OVlBYlg3ZjFiOExTdnF1Q3E5WHpYU2FGUEhxcTFCYUxpQ2hlSXUwU2h5RlNoM09OUQ?oc=5",
-      "source": "經濟日報",
       "published_at": "2026-08-31T07:00:00+00:00"
     }
   ]

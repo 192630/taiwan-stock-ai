@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-25T20:40:04.084545+08:00",
+  "updated_at": "2026-09-26T20:38:05.331266+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2484",
   "name": "希華",
   "count": 12,
   "news": [
-    {
-      "title": "希華(2484) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQRkowcEx4cTJzdG5XakhfTGNFalEtMTZTRUVFNkNoTGlXTnlfdmpOTjlhU2g5WUExWjQ2VF8wNmtYS29oNTJsbE5QbExMQ1YtQ3Jn?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-24T11:16:36+00:00"
-    },
     {
       "title": "DEMAE-CAN CO.LTD.的每股流動資產淨值 – TSE:2484",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRXhPQlU5aTNmeGNVcDFvbV9jdWZFM3U2LTRtMWJXazhEeF9FZlJReXl0QlhMZmljVmhDWlFCS1dGbklQb01OT3JyYmx3d3hucUN3T0NiVDRBQk55WnlPdWNqZVFqRnhRMlRTdWp6MlcyRFRXRkFKVzR6dU9RYzNnV21qYTFLUXBvZFNkc0w5MW9qYkhJ?oc=5",
@@ -22,6 +16,12 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9rekVmYXM1djFPbGh4WklLbFNMZEtBM0piQXVPWk1kWUx0MGR6OWpWaWotSXF3VjJPdlZCZ1czQnVPU2FERFBmWGg2eTczTFRNa0w1SW9RX0UzVUdveDQ3VGxwTFdBTzBuek5RM2VPMA?oc=5",
       "source": "理財周刊",
       "published_at": "2026-09-23T07:05:43+00:00"
+    },
+    {
+      "title": "希華(2484) 今日股價與討論 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzdkg2SWluUlU5RWZqLXVaYm5scDJYTGtVbTlKYWpsU196SnEzbWN2Y1Frb1NKRDA3bFp4WmR3OHNNT0hVaFRJUGJobmhsV2s?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T07:00:00+00:00"
     },
     {
       "title": "2484 希華 - 各位拜拜囉 - 股市爆料同學會",
@@ -66,16 +66,16 @@
       "published_at": "2026-09-19T01:49:35+00:00"
     },
     {
+      "title": "希華(2484)外資、投信、法人籌碼變化與自營買賣超總表 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wbUEzaTJUVW9mZDBPWHNOV0JXSmI3U2hyazl2Rk9KN2NDdlpMVmk2aWhyR1Y2OXhRMFZyOTIwdGFXOGRTSGVyV0JmeW9fQXBkNG9ic1dXeElBb0NIU2VHNUw2SlQ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-17T07:00:00+00:00"
+    },
+    {
       "title": "【12:01 即時新聞】希華(2484)盤中小幅走強，法人買盤延續成焦點",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeTV1U0VxMW9rRWxIVDVsWFpySm13eTMwVnhLT2l6Qm04ZFJmajA3WnNlTldZNmFPZnpwNlVFZjRPeW96TjhvZkUyV2pNVDRxWDFMUnhGcm8yRDVJY3NCRHllN0c5a3ZNU3lyLVZERDRuWklUZ1lHcmQ4UUw4NFkzaUM2Y0F1MWtMSmx3X2NR?oc=5",
       "source": "CMoney投資網誌",
-      "published_at": "2026-09-15T04:02:01+00:00"
-    },
-    {
-      "title": "【2026/08月營收公告】希華(2484) 八月營收月減年增，全年營運續看向上-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbjBRdzdMSkdidU55MDlfekFZM2VhXzQ0UTNfREEySi1oOXQ4SnhHRVBscVZXYkRYcWIzUTEtNWg5SEI2ZW9QT3hUdVdRakNxcC1hNDBnRU9qdFphT083bWo1TXFHMUxtbzJHOWxaQjRmVzRIOHl5d3ZPNHRWcmRpVHU4QmphVElvenc?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-08T07:00:00+00:00"
+      "published_at": "2026-09-15T07:00:00+00:00"
     }
   ]
 }

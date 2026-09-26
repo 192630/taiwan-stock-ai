@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-25T19:36:19.402739+08:00",
+  "updated_at": "2026-09-26T20:37:53.773842+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2458",
   "name": "義隆",
-  "count": 7,
+  "count": 8,
   "news": [
     {
-      "title": "義隆(2458) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uZl9iT2N6bW1MV2liUTJTTkJoS1RmYWluUGRWWW1XeURoVVFjZklNRC1rZTJhOTlpSzBJTXNKUEZEZVpnWHpWaVRGd2hZRWNJTDJj?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-25T08:32:01+00:00"
+      "title": "ELAN Microelectronics Corp.的每股營運資本 – TWSE:2458",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWWEwSFliSWdQY1MwejJtTDJFZ3hGdVhBWFFiU1pQVUFKcnNySGtxbzZWMGR3ejdqMjV2ZVFoWkphUk1jNHBzV3VCVkhWQTJ1Ql9YRmhOTXJsVGlCemNEYW9rdkEybjZnV0hNckNGU19oSlRUM0ZuTVh2SjRsOVFIRDEySmFUeUxlTGstT0VHckdhZThBamg0UTJQVmNPXy1hZmxQLTljaw?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-25T06:59:59+00:00"
     },
     {
       "title": "【12:38 即時新聞】義隆(2458)盤中走強，市場聚焦AI與觸控IC布局",
@@ -46,6 +46,12 @@
       "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOOWp5Q1VZcWRqS0dmU1dsSEdic1ROZkJScFJTY0FId21tNGZZZFBVSUlMSXhxdmNqeXRZb0tRVDVWd3RGcVlaWUE4NTVtdFB6QWV6Rnh2Wmt0QVJPVFNYU0ZUdDJIVlpWQU9oT2Nnbi13TTNwZzFEcU5lV01wYkxGTW1wakRXcFlEb05nN0kzRzJRYTNvWkQ5OXd5amk3bll3X2lQcHFiMkVfWVhlUjBIMnl0MFBQTVJ1ZmxqRFlmeXJjNWNXLXF0a2hXaVlIQjdaZWlUOV9ERzdQd3lJUE13NllBQzlxWGdwVTMzdlR4cmV5c21xQ3hwLUV2U3VKY3B4SHlreDZZcXEyTWN0Ym85Y0M1SWJwbHNSUzRrLTBCYzVDb2hOcXN3bVpWeURubGx6VTg2b3JFUDJScWpPcFRNVTVaQ00?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-06T07:00:00+00:00"
+    },
+    {
+      "title": "台灣虎航高雄－石垣島首航傳捷報！石垣市長中山義隆率團參訪鳳山紅毛港保安堂深化交流",
+      "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxPOC04N1EwbnBoblZfQTlodmNXUTFIUVJFQmlnOVk3VUVwVGY2OG9reUdWdWNIXzVSYmZNV05ZTlRsT0NKMnBUbHBxX1ViNnNSODhVWTNTSmFFTkRBNFBRWmQ5VjRINnliY2x5MFNmS3hybUlncUdNd3B0akV6ZnNoNkhab0hiSG1XQnl5OU5JckZ3WDBXZ1NSRGc1Zk1pQ0h2QmZVNk0ydkNzTmtmRlh1RFhJWkFjMU94SDhMcHN2WHc5UDJYcVdqekhMNG1PVVVuaHd4VkVzankzLTctUjJybmhyZnN2ZXBCREdXLXdLY0lkbUM5d3prT3VfbVo5dmRLS0lCTldPdFR5d1VyekVnYjU2ZWg3OWd5ZkpFY0hiMWx6UWtRTVk0UVBtTE1zbFhvSlpPVXJ2aUtoTFYyR1JNQmpnU0czTE9MMXFjZEJqVUtkSHhfSGprY3drTmVaNUFVZFJVRkZENW1iWFJNanhfaXhIQkczcEdzTzZMa1FIZ0lPZDFleWg1bXlOMGdjY280c25BVE93UzNpWWVIT185RUJ3Tksxdk9KVnRBcW1lcW14dnhrVEZ0bDFRZDJ4V3JTYUE1WGMwcW1wU3VwbU1qbHh3cTJNOGFhMzJQLTBHVG92R01KUE9CZjhYMmwzS0hPUUN0TE8yamdZYzVSRmtvd1JjS0ZlOXZWa0h0T0NzN1NWVElqb0ZtbVc5akJXQQ?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-02T07:00:00+00:00"
     }
   ]
 }

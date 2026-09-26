@@ -1,15 +1,39 @@
 {
-  "updated_at": "2026-09-25T20:40:10.778803+08:00",
+  "updated_at": "2026-09-26T20:38:12.719072+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2504",
   "name": "國產",
   "count": 12,
   "news": [
     {
+      "title": "中瓷電子：公司上游原材料供應均已實現國產化且均能滿足公司需求",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwYnpKYkktRDdCNjcyVzRMdVdkWmlJTFlMSlRnTThveTBSXzBTNmFlWk5ZNjc5eUtBRFJFWFZuVUZkdVBGUzg3Wk5SdjVxcHJrMXctdWQyRmxrQWd4SEVDNUc3OF9IUW5FN2c?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-26T08:26:30+00:00"
+    },
+    {
+      "title": "高盛：中國未來5年將砸8.5兆拚AI 算力擴容三倍 國產晶片佔比將破七成",
+      "url": "https://news.google.com/rss/articles/CBMirgNBVV95cUxPV3FMX0R1WEdwSl96LWFpZ056SWJ1VUJYRkJfemNUa1JRYWluODNOMnVsSFQ3eHBKdEhVT1ZiYWlkQXB3YUt6amxSY08yZTBETjh1YkZOWXh2YU5oc05BRkxTR214aGtGM2JfMG9ieGVKMWZJVXNfYmhBQ3JuZ2NmR2hYZVB1aDBjQWw3UjNteFVfd1h0VlBjRC1DUTFSalh2TDh6b09ucGpjQjJ3d2swdmtoUTZHLXlRMGJVUkI2ZEdhV0x0MEg5UGstaXQxUTFyazMtNTM4RmlJVDg5Z3ZSRWtodXFzZjk5M0NISGxycTB5cnRzNFhTSG1sMTRoaU9jVXd6VHNUbG9PQUNsQXpJYVpwdkd5UEUtRTE0UmRHTVJ2RTFsYkJUU0c1NHoxOFpIVzJzdTFfUW9CQmpDZ1pRQUlqVC1ieU9LeXZFRFRlSnNQbngxZkNIYnJHX2FLTEFqQjFFTERDMDNScGJNazZSLU9RODVpTk5tTVpQOThrNTRzMUhIRVV3TlFYM2NyNGhCRTA0Z3E4b2czeUhGZEVfZGhudlpkRUNHTGhzcW9n?oc=5",
+      "source": "Yahoo 財經",
+      "published_at": "2026-09-26T03:32:46+00:00"
+    },
+    {
+      "title": "高盛：中國未來5年將砸8.5兆拚AI 算力擴容三倍國產晶片佔比將破七成- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DTHhUand4UUE2UWNxLXhuM0VCckRRQktKUlBBdmZQTmIzeDVjMFdKWEJwckg5QUFkOUdKQ2szVWpnZG9jdW0zUE14aUpwRkQ0d3JHVndsYTg?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-26T03:27:34+00:00"
+    },
+    {
       "title": "大陸電影史上最慘中秋檔 國產片票房集體翻車",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pN2xPSEVGVkFBQUNSdWpRVnE2bjE1amtrUGNGOTNCdG1SYWdKTUxhYm1KRTBSVVM2b2lhalFqUmtRTTFxWDRraW5JSWFhdUdyM2ZNQnRGdWVmSDVycE5N?oc=5",
       "source": "大紀元時報香港",
       "published_at": "2026-09-25T05:54:00+00:00"
+    },
+    {
+      "title": "港股異動| 普源精電(00537)漲超6% 高頻矢量網絡分析儀緊缺供需缺口有望加速國產替代作者智通財經",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GZThNeUdneUJqel9EZ0ZEWkt0QXgtMlozN296THdqTThvNm5zQjlzRUVFTDdDcmFxTGZWemFncTFxeUFuSlFTeVpPNE4yS0pUckJ6MzBpby1nZGh1ZEtrcDh0Q2JVejJ4Y0p6OUZPRXI?oc=5",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "published_at": "2026-09-24T07:50:06+00:00"
     },
     {
       "title": "東方證券：集採低價競爭趨緩 國產替代向膽胰延展 作者 智通財經",
@@ -30,10 +54,10 @@
       "published_at": "2026-09-23T07:57:00+00:00"
     },
     {
-      "title": "中砂盤中逼近千元大關 CMP耗材行情升溫 頌勝、三芳搶研磨墊國產化商機",
-      "url": "https://news.google.com/rss/articles/CBMi4gVBVV95cUxPVzVjNmZ4anRnaWdrQ1BON3IxNTFLQjFyUlZ3eWxmTVptSDJ6LXdiLVZseGNUUXd1VGI2VHpGMGdOZ1o4d1lNNjFSQkQ2REw3cEYzR2xSYjJjWUdkQ2V1cEpEWTIzRG1QcjYwYnJzb1VhZUcxMWhZWDI5Z2wwdHZUVnpwaTBmM3Q0WmNqNDFkY19YVlhBbVYzYk9Jc0ZhZjhnaXk3WnFFUzNZeUw5S25CVjdqaFBXOTNMU19LMW5nQzllQUFqQl8xZVJmcm1fVzM5dzN0Z3gtUE15TUJYUTVfdjZRMTNaR3dHSHBqYXZ5Mmt6T2dnMThCYzRxeGNzbzhnRjFzdHhxU0Z0VC1pQVRsOVhFU1BjSm1kWXNUdl96SFdUaldETjcyYnBURThuXzNxek5Kc2MzNjlrVF95ZF96Njc2TUpObFBEcGlVWnZseWQ2OXhyWVhnVEZEaTZVT2hDaGFpck5jc0hxcjJwLXVMWHVaUDlTVHRMSlZuVDk3Ym5QRlNkZTYzN2FRajZza21IUGVBV1NKcElQNlM2UzRCcmtfR0xnT0FqSU5tVGtBSjVQbnBzWnhPVFYwQ19LZF9PTGlLajFDUm9YV1VnclpTUXhlbVlsS1Vmd09xdnVOYlI3QTI1Snl0RkpXU3FGRVVwWHNIdThZX3k1UkxIX2dsNVVyb3ZWTXlBQUNXdkZ0d25ZZWZUR0daRmlQTzhZOHpqYU1GTlh2Qjc5YjRtM0Jsbkc5S1RicVMtUEQySXpWR0R1YVVpQ21RbHdZcnpSQy1Ja1RPQ3NRcktLa0Z3aFdFeWR6dktqMXo2MHJkY1ZTUUUwdGJ4VjVIRU11WlozYnNlanRWNkp0M0VSQjRKd1BQMVpJcTkwalJ1RG9mR1M2UzktUFNKNVZnUzhWdWhmV1E3SHU5eDlCX2RaQ092VGY2SHRGUmtxa1ZCQ3ZBVlUzcl95LWpnenVSNnRRX1JobTEzVHc?oc=5",
-      "source": "理財周刊",
-      "published_at": "2026-09-23T05:19:54+00:00"
+      "title": "中金：DS V4.1 Flash釋放硬件潛能 國產卡邁向10T模型時代 作者 智通財經",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBUW4wOEZfVERxeERVM3pSR29RbUN1Mk9mYVJ2VEFhaVpCcEVnSk9JdlZxajJIYkVqclZSbmxCRnZhVng2UVctSE5fOGUxZ05NYlpGUElWem1QcVZzNDQzUXVVT3VVT05mVmllUURCNU0?oc=5",
+      "source": "Investing.com 香港 - 股市報價& 財經新聞",
+      "published_at": "2026-09-23T02:21:52+00:00"
     },
     {
       "title": "半導體鏈拚全自主 機械公會︰培育國產設備不外求",
@@ -52,30 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xWkMwb0poVkhZWlpuc2NfYW1nR0hWTk1lZTNseEJrbWlIWkVhVzlsdGowSDhpNXZ1MEVUNkplN2lhMGJWcktMRmJXWWt4aFlPNkhCTE4xNGk?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-22T06:43:05+00:00"
-    },
-    {
-      "title": "最強國產AI晶片！阿里巴巴提前揭露「真武900」 2032年資料中心容量目標升至20GW",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NS0xFWVI0ZXpiMC1ObkJRQjdlQ2pyLWtRVkZOa1pWQjFzNFJoS3MtRzljT3o2M0ZDajBfTkw3dkhiTjlHYnRiMHRxeDNCbnc?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-09-22T04:40:02+00:00"
-    },
-    {
-      "title": "【阿里】發布「國產算力王」新AI晶片 股價曾炒高5%",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WNEFNLS03T0VmT2xEa0xvcGptNWkyRmhnOEw2cmt4dDUzZzRQamxDNnFPdHBiaEZOQktrZXN3ZHRZVDVMTmVYTDVSNnZTZVJTTHh3S2VhMUtXQnM?oc=5",
-      "source": "Now 財經",
-      "published_at": "2026-09-22T03:43:51+00:00"
-    },
-    {
-      "title": "CPU重估！國產三劍客集體飆漲",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwOWFMUlBBSXVtNktncTBKV2tCZ3RUc1R4WTNNZjVZdHJCUnlpdFNxZ2ROQ21HVEx0N0lVLTFzR3FOZlVOemlDTWpsbmJSZWFtZFdEMmY2enNyUQ?oc=5",
-      "source": "Moomoo",
-      "published_at": "2026-09-22T03:29:32+00:00"
-    },
-    {
-      "title": "東方證券：創新藥多路徑突破 國產創新重塑新標準 作者 智通財經",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PdGRlbV90SVkyR2ktVlpCdlRXX3QzdzZPbWZDRU9URXkwUHdLUXRSdTVYcjE5LXU2S3JTR2laWFFuYnpYVjI3bDhUQVZYenhtcWdPQ2dmaUNmN0g4QjY2NUVQczI1UnphdG1TM0JlZGc?oc=5",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "published_at": "2026-09-22T02:52:33+00:00"
     }
   ]
 }
