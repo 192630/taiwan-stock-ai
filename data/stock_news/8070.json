@@ -1,13 +1,31 @@
 {
-  "updated_at": "2026-09-25T12:36:11.885964+08:00",
+  "updated_at": "2026-09-26T12:35:19.372336+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8070",
   "name": "長華*",
   "count": 12,
   "news": [
     {
+      "title": "長華*(8070) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SQWEzMm1OZzd5VGtZLU5FbFAzQndvYm9jeTJaZGRXT1lGMDFCQW5QQk5CSUNXQk9QbEE1VWNKNjgyRWFmV1g2dzZ6endEc1VHbmow?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-25T09:34:00+00:00"
+    },
+    {
+      "title": "8070 長華* - 9/25 籌碼分享- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wakZRN2lKZzB6NWI5enZIUUc2cFE1OTJpZ1NpY0FQN3k1aTNlSDVyQmhDTk5ySjRJS3BkTkhsdmViM2UzTUdVaHdFZFJRQ1JxX2ViclpmeXk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-25T08:50:24+00:00"
+    },
+    {
+      "title": "《一週外資賣超44-19》奇 偶(818)、永豐餘(811)、長華*(810)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd0tfYm92Zkp0MUpmR2RLWTJHOFlkdElOZkhnV1I2dWp2NzUzMkpwSmdCR0RGYzl3X2V1OHVqZ3lERVgzdXcxRjBBeTl4V2NjX0RMcGNzS1ZQRjR5S245aG5SMGp4OGVkcVN3cXlLZS1TUmxJa2gtR0xiRElUSnFtUEpVVjZ0Z0ox?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-25T01:13:00+00:00"
+    },
+    {
       "title": "《自營商買超27-20》富邦金(130)、長華*(24)、晶 技(634)",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRlRBWmZiSVVoM09nSmdBUHRxQ0NCTUNOLU1aNFljRUZtYzdHWGpiZWFEbllIRTB4VkFvRXdaS2lJaHJXNGQzQlZxZnVrd0FRejN5UTlUMTRtaFNWNDVHMTBoWEFKOEhsMXdWazBTcXpJc2dLVTRwMGI3UUxjd2FmbjdFTVE2Q3Q2?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcldpUWxFSHVUWjBrSEVBNHdOUFVGVV80SjZxX19pdWYwYVI4X2xINzNJWV9MMDRyUUpabmE2bEJLOUtONUNoSnNiQVdtbTNad3dkTXRkNnlUVjJnSnRwbHk1TXUxcGFpVlVDWWJSLVhZdUtrQ0NKN2FydzhMdXczWDJRQy1oTFUy?oc=5",
       "source": "富聯網",
       "published_at": "2026-09-24T08:42:00+00:00"
     },
@@ -58,24 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQmQ5RjBLRVZaTjdaMmtJYmJQTzExVmtaRldDNXFjdjcwanlHUjlQUGgzVFRpRWZ5TDBXY1BrNXl6WlpOTUpnNVRoRTc5Q0FoTFozRlJsRFYyV25sQ1JIZEFYQk9aQ1J3QkU5VmxvUjd4VXIzUFljNUtMY29ZN1Z0M2hYZTdwWjdh?oc=5",
       "source": "富聯網",
       "published_at": "2026-09-11T07:00:00+00:00"
-    },
-    {
-      "title": "個股：長華*(8070)6/4～9/9處分頎邦普通股1,475張，處分利益約2億448萬元",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ1NCYkZINEpFd3c2SjBqVExPYVBNcHV1OFFlU0dkajROYTEyb2NuZkp3cDhkc3o5NmktbTZXWTVmcjRBYXVveGRkYXBWeS10TS1kNWp2QjlpcUlacWJxcnd5Y1dMYWVYck43YVdjSmdENVVuOHZyS1pXa3diZGtXeUo1R0wyeHJ1?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-10T07:00:00+00:00"
-    },
-    {
-      "title": "《自營商賣超35-25》長華*(23)、正 新(23)、景 碩(23)",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOblZKdU5YTDBySy04a3NJT0t6RjN3MjVZZ1RQcEJXYkdZbmVoSURzMktJb2p2bUNEcF9qb2p2OEctendieUV1dUg2TmFfV1VNUVF3RGZNaTB2X0ttR0hNOVpkSzY2c3FpTDhQYkZjQVNCQk1pSERZaFdJbmhzY1V6Q2F5eURSQm5W?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "營收：長華*(8070)8月營收22億3276萬元續創新高，月增率0.03%，年增率37.57%",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcHBiSE4xcTdYQmZjSXpTMVVoVGlpOWdXR2lINjhLN3UyazhXLV9ONTJzSVpBcEJFbVlYMnR4N0Utbm5fMW5nOGx4aE1VSU1DbnhFV2VkbThIbHVjT2JPVFRQZDM2TUh3M1dzYlBaa3o1MlpKSV9RZVFLNWgtbF9HbTRDUHhwX1pZ?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-07T07:00:00+00:00"
     }
   ]
 }

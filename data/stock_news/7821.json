@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-09-25T11:35:17.510967+08:00",
+  "updated_at": "2026-09-26T12:35:01.558001+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7821",
   "name": "神數",
   "count": 2,
   "news": [
     {
+      "title": "Mitac Digital Technology Corporation的股本報酬率% – TWSE:7821",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLVpMUjl6NmFEcEZHd2tyT2RxV3RXOVlaZ01BRnVta3ZTTHQ2bnlwZUZfTFcwd05iZkRfTi0tMU1UUGsxdWMyNm5yUXlDNUphcGFlNGg2WF9vYm9EYjdyQzMxUWJTUU1hLVlRN3BpSnVPLTNGRGYxaGlXMGE2UEJXcVBYbXRkQzlScW93Z3c1bzhpVlVKRnJmbUN1NA?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-24T23:36:10+00:00"
+    },
+    {
       "title": "Mitac Digital Technology Corporation的稀釋流通股 – TWSE:7821",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWS1xYUlUN2JLdE1ycjl5Q0FHR0hDbXZZLVFtOTYzM0ZsUm4tQnpGZS1DVGI0aUk1dDJVNjU0a2FtSW8yUU0yUGF2Vkx6X2N3OTNtVkJWcVlYRkE2NE5PT3RYeVpYa2JVM2RjemtDckNFWWtUdkEySUphOHJsTmRMaVVEcVduWE9FYXNyclBhZ1czZ1JVbGJmbE9PYW9oSFdaR2c?oc=5",
       "source": "TradingView",
       "published_at": "2026-09-23T00:34:05+00:00"
-    },
-    {
-      "title": "Mitac Digital Technology Corporation的毛利率% – TWSE:7821",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWTBRWlFsZ1hib0tKTEstR2k0ekowN0ZNZzRRSzFVVjJmOGVwNEo4eGthRGFKX3lNTVU4NG9ORkJBaDQ1N1FUajhtc1FURGRIWldIWTVIR1B5OUJHZVh6Wmk5REdJT1E0WWQ2dkxlb3BrR1lYNGgxTEo4Nk1xVEI0NVJLM2dwczVnXzhhNWtwaFZ3UUlORHc?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-22T03:15:51+00:00"
     }
   ]
 }

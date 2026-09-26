@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-25T11:35:07.534250+08:00",
+  "updated_at": "2026-09-26T12:34:52.372931+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7770",
   "name": "君曜",
-  "count": 6,
+  "count": 3,
   "news": [
     {
       "title": "9/24老千尾盤買進7770君曜 - ◆Sage Mao | 投資網誌",
@@ -12,34 +12,16 @@
       "published_at": "2026-09-24T04:22:37+00:00"
     },
     {
-      "title": "7770君曜",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45QS1QZmx1cEFIVHcwSVU4UTcyMXFqVEpxSlh5MnJpMFdfX1VPTGVGU2dzLUNpb09FWGdSQnZvYnREZDZxRUVsUW51dVNzZkswNWZSQmFUM0c?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-23T06:54:38+00:00"
-    },
-    {
       "title": "9/23老千開盤買進7770君曜 - ◆Sage Mao | 投資網誌",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DVW9oN0k1UWlXOGJRVUNYMFRDUzNES3V5R28tWmZrQ0pUaUhCYkdDR0dWUnFXZlMzeXVVRzFKSjRtcGpUNUxFU2ZvUUw3aHJodHRxWVdlZ2w?oc=5",
       "source": "玩股網",
       "published_at": "2026-09-22T10:35:55+00:00"
     },
     {
-      "title": "9/16老千開盤買進7770君曜 - ◆Sage Mao | 投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tdXN6REUzVmxPcDkwOWVrUzhMUGw0RGFKeFJQQ2NodmVUazd2RDVScnB5YzVmZVVTbnNHRm55bEtWWDdDeFRfVE81LTR0Z21tRGRtYXRCalo?oc=5",
-      "source": "玩股網",
-      "published_at": "2026-09-15T07:00:00+00:00"
-    },
-    {
-      "title": "9/15老千開盤買進7770君曜 - ◆Sage Mao | 投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwZHpPWHAwdXdTdmVqZFh2WklmMl8xdExVQ2Q5VDRiZUhjdWdsQTgyWm45eWUzNndKaDl0TnhncjZoZlp0bXhpRXVUanh5emxwdFJHMUFjank?oc=5",
-      "source": "玩股網",
-      "published_at": "2026-09-14T09:04:57+00:00"
-    },
-    {
-      "title": "9/2老千開盤買進7770君曜 - ◆Sage Mao | 投資網誌",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JaXJHN1R2MklwbTdENXVydXNiQ2tKQU0wRUNIWmZ2QnZ6T1BWa2pGTnY2MklqSFppZW5jaGlLSWJ0M0I0cVlkT09wZ2FBcndVX2xmcWNYRWg?oc=5",
-      "source": "玩股網",
-      "published_at": "2026-09-01T07:00:00+00:00"
+      "title": "7770君曜",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzWGk3cUVXeHp4Q3dlcHFTMXhfdXJrODNmTGkwX1hxblItRi02V1pTWGJiZk9vdnBwakRBZUlFZDdpWmp6NVpqUEY1bGNfVWZwSnZ1aDBzcmU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T15:46:51+00:00"
     }
   ]
 }

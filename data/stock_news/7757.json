@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-25T11:35:04.222004+08:00",
+  "updated_at": "2026-09-26T12:34:49.775608+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7757",
   "name": "金色三麥",
-  "count": 4,
+  "count": 5,
   "news": [
     {
       "title": "【09/23庫藏股買回公告】金色三麥(7757)宣布將買回庫藏股723張，買回價格區間66至130元-CMoney 小編",
@@ -28,6 +28,12 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03Z1dWN3IwOWRWMW92amxYNFAzSjFpcmdkaVRab0NrS09VXzFqVlFVMFRpZ1YwMU5xd1JMUHNEa2JQQ2V6VURLYTBudTBfV2VBck5wNUdiN24?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-03T07:00:00+00:00"
+    },
+    {
+      "title": "海鮮控快看！金色三麥「麥浪啤酒派對」吃的太「海」了！",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPbHRVY05CdmJXUUtXMEhKZkZiRXFadHVOd1lNRTlsRThmLU90djJiX3g1QUJuUVY3bGQ3bnJLLXNmQ3B5ODdBc2xacXBsenNudmFoZ3dmS3hScWJwVnJuY1hxcFE4Wk0yM25GaDVONHNsSWtaV0V4MHdSeC1QaF9Ta2dvX0Z4b2xVQ0t2VldsS01jT0haSmxJeXpld0x6LUNJdzdtZkVoeS1OdzZLVjhjOEI0bVBHcHk2NnZSOUVIVm1lYjdWS3AtcUFRUGo1endTZllqdVFIVDhfNlRKbHdMSkk2SDBzQ0V1LS1jOE0tU2VjSW9YQTgwMmtNcWk2QjZMMXF3bEsxaEE1dWhwSVdCZkR0TmZiRzU5MEhCWlNTOGliWVBSa3QzZ3pSdmYzZlVBMGxQdXJyM2tRQnp3?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-08-27T07:00:00+00:00"
     }
   ]
 }

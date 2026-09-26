@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-25T11:35:27.700543+08:00",
+  "updated_at": "2026-09-26T12:35:09.766517+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8033",
   "name": "雷虎",
   "count": 12,
   "news": [
+    {
+      "title": "免賠雷虎科技1億！Cheap勝訴嗆「陳沂手下敗將」 狂酸李怡貞：真的笑死",
+      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPY2FRQXlXdEI2VUIyNDhXUzBXQV9oNlZ3X2RYYkpyWk5IaFZrWEQtMlFsbFZVN3haYXF3UlpMM1N5WmJTUjFtSFpZN2FlTkNPaWgwZ3lOc0lybzA0dXR2TWFmQlRvWVZhSUVfWUVBRk5xMk9vc2hFUjM0Wk9ORHRQRUF4aTJQR0pkbVBzMnNqcXBGN0ZIN1U3ZUJCRG5mMzRLcVBGMnI1ODdoRkh0UGhyb0FDU1ZmeFR1RG05NnFCMVFRRjdIdnp4MUczX01RUi1QODl6enptQ2ZoeFk1UkRMTVpzX2R5Z3lON1ViUXdPeGFCTW43YjRtaWg4TXBkbF80ZG1NNHctWWZ3MGo4bmNzUUdZdmE1a2ZmeDUtdjZqZkdSMW4yazY3aWpMUGNnaXNiVDR6MjZtaU51SGRGbzFDWWdhaTZGODljcGpTZS1zNEhxeFEzR3pZaXk2RFdtUlpiNUtTNW9iNC1PNVdScEtRM05kdHdCQXplazVFVklkTjVxZFJIMUFVeGZ5UFM?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-26T02:06:22+00:00"
+    },
+    {
+      "title": "取得國防部2款無人機標案 雷虎1個月內出貨",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Fdjh4RFluY1RISWVicjNjUHVkZ19UMFcwZjFBQjg0YlEzWVpyS1hLdE94TklmOUw4aHBHN0lMblJibW9IQmZjZzJJU3owdHdTV0FTWUx5cGM?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-25T02:54:40+00:00"
+    },
     {
       "title": "遭雷虎求償一億！Cheap被律師唱衰「完蛋了」 判決出爐開酸：笑死",
       "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOcHFqME9xRkZNSGFIZURwVHFHMzV3NzJrUGJFUUUyMXF1U2xKSHJXOVQtYXd3N2NGdWt2MV9pTGVMWGZjelVMTVVmTjNzRWEzUE5lRVhyRjE4WVBKdTZwV0Jkb1hfd2ExV2RWcjBBVjdGMWcwc3ZPYW5TUTVQVGF2YTVoZjNaNWY1YjhaZDVWREFDSDNHNXNKODNlVW5FYUZVWmJGc1JBX0g1NjJoZGg3T0I4cVROWHhJSUF1VURkSWNwU2p3cXJxVDJ5N1pnQmhwZzhNdVlBUEpTdG5DSlZlTkVMaU5sQ2R3NHY3d245RDVjb3N2YlViaGloNVgyREJ5a2JXcE91Vi1hLUFjT3NaMDVpenNqUFNiSV96UkZuelkxVGZGOGxreXpGU1RkeXlESnNjcXlnS2xyOWo5bkk3ejJWTEIzNmVpQkpxUzBhZw?oc=5",
@@ -64,18 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5OHBuMzhMVW90Yl9DSklQcWE5ZHptMnJKSmotRFRzNGFHQWhDVkFzTkd2NldEVjNiSEwzY0p5akk4RnFybjgyN29wcHNHVVlBYTg2VmUxeUFIQTM0NVZ5NWpMZU4?oc=5",
       "source": "LINE TODAY",
       "published_at": "2026-09-20T16:16:17+00:00"
-    },
-    {
-      "title": "獨家／無人機砸2,400億還不夠？雷虎科技蘇聖傑點出「產業下一關」！",
-      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxORndNdnN1Ym1CZ3NFSllIVjNUak9BWDdCdW5WdmdlOGxzdlpibE5YZ1pSN05BYnhVYWhKZjdaRDFma2JaNVpORGVGSnlYb2F0bzBmLVY1S0RTM2otcnoyMDVKVXNxd091OGNqX2kxbGt6dG5hejZwZUdoUVFKbzN2cmtsakpLUWgyRjBneGJUNmNiRkg2OWJGN00xck1RNld0YzUwZ0ppUjVUQ1R4WllmY2NLVDg1YVczbE03bzBUellpWWY1WUVseFFiZmRTb0VkVjBIaDJNYnR3LUNncmV6RmUydV9HNWlvV3RzT09TNVVfdlZ0STFPWnhxRDQzUjJROG1wZUdHU1BFc0twRjVhc0lQUTZlRWlOMEViTHg1UEhTakNmM3pVUEpoaHRBUUhRamM3UUg1YWgxTlhFVzlJNHlmTkV3OUxXcDVHMW9COVRCdlZYUExiZ3RzR1o0ZnFxak5hZkljWGw1bDV6UWc?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-19T01:05:30+00:00"
-    },
-    {
-      "title": "國家級無人機試驗室落腳台中，雷虎 (8033) 藏哪些30天關鍵訊號？-哲翰科技戰情室",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdDlMZUVHU0xUZDZlc2R6NnZTclBHbnFRb1BWQzVabkJsYUljTXo3Z0s3V2k4VkZBUGhDQTRVZnNWbEFEazRLT0dsVzhic0lVQWdEdXEyaEUyT0t3NGc5WWxrbGlBQkRIc1dfS2IwZ3pGdVAwaHZIU29tX0xCR2hJb0VBdw?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-14T07:00:00+00:00"
     }
   ]
 }

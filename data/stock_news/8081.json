@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-25T12:36:14.823417+08:00",
+  "updated_at": "2026-09-26T12:35:22.213655+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8081",
   "name": "致新",
-  "count": 6,
+  "count": 5,
   "news": [
-    {
-      "title": "8081 致新 - 外資買75張 投信21張 慢慢來等 9月營收 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jUnBhamtqREF0NXBCX2c2djlDaHZxd25yN1pabDY1dVpJUFhMMlVvd1ZWLWFJRmZ6WFV2WWpKbU5LOHJzbGtQVFZDUGVkbkdzY1ZqMUlvMUo?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-24T11:43:12+00:00"
-    },
     {
       "title": "致新 有庫存 發了",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yZE05Rk5jbE5yUGplcWkwVDloM0NteWNXNExfbFVWNXRHLUo4Qzc2eldzVFhNZ1AzY1pEcjJPdHRac3hmT3djam1yaUdKMVVIUTlOMF90dzI?oc=5",
@@ -19,14 +13,14 @@
     },
     {
       "title": "8081 致新- 🚨 主力加碼卡位？昨日主動式ETF 加碼這檔！ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyY3RHWjEwVkhwVnRWeEJ1SGJpNFFlLWpkalczRlNNcWE5Y3k2UzV1WTZEN0tIWWdzR1RIN1IwWUd0VlRhanNWMWcxTlpLak1CWV9rWHU5MW0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HeTJBYUN2V2hrQS1nREtTTEJqQzF0aFBqYkJROGFQeThfSjQxN1JEcUhZSl95cFZiN3JSYlQydWV3ak5XU2RiaEhrN2NBVEltVU5tTEFaQjc?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-16T15:11:50+00:00"
+      "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
       "title": "【2026/08月營收公告】致新(8081) 八月營收8.05億元，年增10.57%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPc2Y4T0VGY291YVpSUElJUmFCR0NieE9oS3lQcEEyNndyNWxYYkRRcmgzLXUwR3Q0MFZiREFkODVMa0R3ejhNOFZMeUxiSGVMNFNGX0tPVHcxX1ZRbF91ZkYzT3lSSGhOTFpzakdBRFJFME5DVTR6Z3QzUDJtZ3N0X0pMcERTREZxQmc?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
@@ -39,7 +33,7 @@
       "title": "8081 致新- 【09/01 產業即時新聞】快速充電族群漲勢凌厲，聯發科急拉近漲停引爆IC設計股買氣- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5TDl6eTh6Q0RkRmlKV19HNlNBZkw3RjJsZlpMSU5Db1JrQnYwVkRyckJMaHpTRW5qTThxSWgtcUJTbEZEcGVmc3dMNjUwUWZGYUE5TGpoLTk?oc=5",
       "source": "CMoney",
-      "published_at": "2026-08-31T07:00:00+00:00"
+      "published_at": "2026-09-01T07:00:00+00:00"
     }
   ]
 }

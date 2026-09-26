@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T11:35:02.936458+08:00",
+  "updated_at": "2026-09-26T12:34:48.924800+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7751",
   "name": "竑騰",
-  "count": 11,
+  "count": 12,
   "news": [
+    {
+      "title": "7751 竑騰- 上升下行- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83MWlPMWl2dS1LSF9jNkJYRTJleS1DY3NJNGR3cUQzSmt4WlZySHZZNUMzVkhwQm9lQW9fY19rdU9ORXI0QTVGYmZRWVFHUHJLRHN2bWhtVTA?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T04:38:14+00:00"
+    },
     {
       "title": "討論牆 | 盤中速報 - 竑騰(7751)股價拉至漲停，漲停價1445.0元，成交200張",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PRVdwTDVvamRNRXVXX1V5T0luYmUyNFlzcUFiWGlscWxwLW5haGo0MWxQWDlpdEl6c3dmazlROU11VTM3V0ltY2xUMWtOMmVLXzZwaHNpeThRRUszMXZDTjFwTm8?oc=5",
@@ -42,6 +48,12 @@
       "published_at": "2026-09-10T07:48:49+00:00"
     },
     {
+      "title": "【2026/08月營收公告】竑騰(7751) 八月營收2.42億元，年增41.32%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMzJocWxwTDN2Qzg5dWFjMWwtcnZ6Q1ZobllEOFdVUjBkNmpTekNMbTJ6TFAwR01TNUhLZ2h0NWtJcHV1NTVVLWhBZDNkRzNrMFZydEVmbVV4UDRaQmtJcFh0YTdUaEh0YWNrbDBZM2hwdmVBSHVyS25hbkdrak5iRE1ibUlzblNWWnc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
       "title": "【11:53 即時新聞】竑騰(7751)股價上漲6.14%，AI散熱裝置題材支撐，短線跌深反彈搭配法人與主力賣壓消化測試壓力區",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZnJSMW9zZTlmY0xDdFRIeC1kTng3cmRjYVV3QzNHWC1Edk8tZFhjV1haOFZjazM3YWhqb0RFV3dlRHFvRU4wZklyYnRvODJYZzJCYWs4TEJNc29FMDJSQzgwSThJVEdDN08xUTExOHFULXFZYW1wRmljWW8yUzd4YzQyU2hwQW1Ea3ZZXzJR?oc=5",
       "source": "CMoney投資網誌",
@@ -64,12 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tRDBRcE0zZGxqLVlTaEY3RnFkSFBXZWcwUjYwOEU1alB5RVplLVdYdi1ZU0FVSWNkUHVmc0l4eXcwaU1WMUxwZUFzSG52Z1pvZ1hqR2lRX0Y?oc=5",
       "source": "CMoney",
       "published_at": "2026-08-29T07:00:00+00:00"
-    },
-    {
-      "title": "【10:30 即時新聞】竑騰(7751)亮燈漲停報1985，AI半導體裝置題材帶動買盤湧入＋多頭均線結構與投信連買助攻",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYXVuNHkwb2cwYkJQZElXbEdhNnhyWlBsZmNVZkhuZVloNVJjRHhFQW1JLW5waFlweEpxZTZaRXZLRVJMZFNVejU3VFlaeWZsUXc2OElDSTFvb1c3R3B4cTZJdlUza2h6cTEyMFNoSTZyNW1lU1pOaEZ0UVJTMk43ZG9IRTY3d2szbHEtUFF3?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-08-27T07:00:00+00:00"
     }
   ]
 }

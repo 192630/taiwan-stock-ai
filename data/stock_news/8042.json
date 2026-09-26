@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-25T11:35:30.236315+08:00",
+  "updated_at": "2026-09-26T12:35:12.113691+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8042",
   "name": "金山電",
   "count": 12,
   "news": [
+    {
+      "title": "8042 金山電- 可以正式補漲了！ - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fd25oUS1fZ1VKZXF6V0hXNXRfU2dVT1BPRFpWRmx0T1BKeUYxeWIyOTU3Q3p4eTI5MGhZR2FlTzJJeG5EQU5XbWczb21FNjZINkRLem1sYnU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T22:38:45+00:00"
+    },
+    {
+      "title": "KOS International Talent Group Limited收入明細 – HKEX:8042",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtNW9OaWhLM2F4R3A1aW05cElNLXlxenlUYWpmOXFMUjRFZ3AwTlV3a3NNeU9BczV2TUZBVU5wQURuSklXOWpZUm4zeFRZa2lMdXd2cFBRczRwMlUyU1hUZGNqakhzT193ckwtazM5MXF2SjQ?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-22T00:30:21+00:00"
+    },
     {
       "title": "8042 金山電 - 金山電未來的核心成長動能來自 AI 伺服器 與 高階電源 應... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kT1pVaGZUenJvRDRhN3BpU2dYaV94alVIMXlwbnRfdldJeWp1cW5GX29xeHR6TTRBbW5hQWE0cW81WXRzZmcwbTRfaGlhNUtsaXhBTWpuZVk?oc=5",
@@ -64,18 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BeUxLOC1JZlZJb3NGSGxhSE9iOWI3Tm5NcllDZEo2enlKaFlHZ1RiUjFVVXRUSzlLSDlMQXBwUXdLNGUyQ2JaZ0ZGcm5ycEl4LUhHWlFvYmE?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "【2026/08月營收公告】金山電(8042) 八月營收4.82億元，表現亮眼、呈現雙成長，年增38.75%",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVUU4LXV6SEYwQXNfVUcwVkJQaXNseURtUVF2dDI1SUhLT1UyQ1ZxOVg2Q3huRF9YRUhqZXdjUUlYX011d25NNEFWQzhxcHlmZXc3ZFloVzF3V0I3WmRnaVFCTmlJUXl0RmM2SlkzQkp0Wmx3Nzl3TS1ObFQ2ZlNLbzEtNXRkT1AxOXc?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "7月營收續達4.3億元以上 法人看好金山電明年EPS年增率可達90%以上",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01V0d1SmpSRXBSVHRQTXJ3LTFIQ0FQR1NnX3Q1LWw2cnpNX1ZDWXpzOUlaZktiRmNNN0pFc0FianBPQ25PVTF4UFg1dWZkVlhyVXFWYXRheUJUUkJ0MmR2TUJFRXBxUnpwazFKME5OUQ?oc=5",
-      "source": "理財周刊",
-      "published_at": "2026-09-07T07:00:00+00:00"
     }
   ]
 }
