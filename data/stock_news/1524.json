@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-09-25T16:36:25.049444+08:00",
+  "updated_at": "2026-09-26T17:33:18.104827+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1524",
   "name": "耿鼎",
-  "count": 1,
-  "news": [
-    {
-      "title": "【2026/08月營收公告】耿鼎(1524) 八月營收月減年增，全年營運續看向上-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMEd1My1PQ2NMNlhzMVlScTVTUVZ5clBfd1VLVER1d183aUZjeTBZakQ1bkF4MnlfQ3V5THRHVFdGWDNpY2ZoZ2hsdjZXMWZiSHpVU1k3eUc0d0dVbUdmeEF2cUdrLXk3eG1RN1BNV2QwbkY5eHNXalVYaWFiWUtoM1gwckhIeUpMdVE?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-08T07:00:00+00:00"
-    }
-  ]
+  "count": 0,
+  "news": []
 }

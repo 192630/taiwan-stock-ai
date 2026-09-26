@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-09-25T17:35:43.609934+08:00",
+  "updated_at": "2026-09-26T17:33:48.195546+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1730",
   "name": "花仙子",
-  "count": 9,
+  "count": 10,
   "news": [
     {
       "title": "快訊／注意！這家文創股1730召開重訊",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE16M0ZGTEJFV2JfM1FzU2xLUGljZUF0OVBnVE1YRXVLeXZNTUFqeGxBVG81bWxMOG1Uc0duVjA4RmNNUVd1Q0EyQUdsVQ?oc=5",
-      "source": "三立新聞網SETN.com",
+      "source": "三立新聞",
       "published_at": "2026-09-24T08:12:46+00:00"
     },
     {
       "title": "快訊／注意！這家生技股1730召開重訊 說明重大事件",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SLVFqbkxKSm9FMGtjaTlEaThUdjc3NnNtQ1BnQ2RxckI3VGF4NklieDdMdV9GTmVmMF8zYTdicjk2RzJmZjkySkdkMA?oc=5",
-      "source": "三立新聞網SETN.com",
+      "source": "三立新聞",
       "published_at": "2026-09-17T08:08:04+00:00"
     },
     {
@@ -38,20 +38,26 @@
     {
       "title": "買清潔用品也能抽黃金！花仙子週年慶開跑 不限金額「發票越多機會越多」",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XbXcxZ2pncWNsNng5NjJ0bU5mMGpHY3BPVTRGVnExY3phX1NaYjZEWGhxSnpFYnZidlVhX0tMUEpuSW5WdnpFM1ZBTHJwOWM2S1pHSGExblRlVXlqc1gybktVVHRocHR6ZFJubVlJa1dlUWVfM0YwcDJyUGQ1dGs?oc=5",
-      "source": "壹蘋新聞網",
+      "source": "news.nextapple.com",
       "published_at": "2026-09-02T07:00:00+00:00"
     },
     {
       "title": "物價漲更要聰明買 花仙子周年慶祭 30 萬黃金大獎 動動手指掃發票一起淘金趣",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWFA1enJTeUNLS1NoQm9jOHlQZTBNX2dkdlo5ZDdHaHVkLTR3Wml4M1hMM2VQcW16YlBnMFRDU0k0ajhMU056WGk4akRHbnJROWJiLVo0UmF5cnZzLVgzTFRoZXFSSUFGcUgxM0psay1KNldrTnVZYWpMN3ZRQlNZcnZ3ODB1eW5qWGN4VnFzb24?oc=5",
-      "source": "PChome Online 新聞",
-      "published_at": "2026-09-01T07:00:00+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZaFBJQ1FMbEg2OWpRVVY3TUZlbFNyZ2ZkTWJvQ3AtVFZ5dzVXZG5EdjlCaDJCcVJhaUlFRmgyYVl1UXhhbGpIRVRjbmQzUVkzUUE?oc=5",
+      "source": "蕃新聞",
+      "published_at": "2026-09-01T08:45:53+00:00"
     },
     {
       "title": "物價漲不停更要聰明補貨花仙子周年慶全品牌不限品項登錄發票抽黃金把好運帶回家| 楊艾喬 | 地方新聞",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4xQVRPTE1NZzk5cXEzTUNVMU9DZVVCRXBSTF9JWG9IVDJfMXBOQUJJZlVfX2cyYTFPdWp1U1p2VE9HM3pLZlhFbzQtRDloQQ?oc=5",
-      "source": "風傳媒",
+      "source": "storm.mg",
       "published_at": "2026-09-01T07:00:00+00:00"
+    },
+    {
+      "title": "擴大布局！花仙子、「好神拖」帝凱加碼投資 | NOWNEWS今日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1CUFBDcG1YSXUzUTJ5R2lMTmVtNXp5cEVpSGw5dFVxcGU3bHpvQlVTNlh1OVVVWWF3a3VqdGFSUkdPb0RDa1FjbWRHUS1hbmJfMVlHXzRn?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-08-30T07:00:00+00:00"
     },
     {
       "title": "輝達估營收四年增1730% 分析師：史上從未有公司成長如此迅速",

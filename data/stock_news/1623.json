@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-25T16:36:48.461707+08:00",
+  "updated_at": "2026-09-26T17:33:38.920498+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1623",
   "name": "大東電",
-  "count": 4,
+  "count": 5,
   "news": [
     {
       "title": "Ta Tun Electric Wire & Cable Co Ltd的Cash flow from investing activities – TWSE:1623",
@@ -12,16 +12,22 @@
       "published_at": "2026-09-23T08:15:51+00:00"
     },
     {
+      "title": "〈焦點股〉大東電受台電部分訂單遞延影響8月營收 跌逾半根停板",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FR24tbXNWejZnbEp2cWpuc0dGSGZiN2tZZkZ5Wk5qTThzZzZNamdRVE55TzZOMmRhVm1Bb3Zoc1NvbEZPY2Njdl9UWGtydmc?oc=5",
+      "source": "news.cnyes.com",
+      "published_at": "2026-09-11T07:00:00+00:00"
+    },
+    {
       "title": "台電交期延後拖累 大東電8月營收月減22% 手握百億訂單動能未減",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zSXZ0d0RoRm9aX1dGd2RaMldoU0FlQ0hfM3NRVmtlVlZnZUExaTZEWG53QVdMT0VmMVJyOHlVMUk4WkpfeDNiUkwyT3pXV0xhMnU4Y2J2Y3ZjbXBlaktQMzVReEYyQ0ZXRFdrN2lKTXN3X3I2aG9nS0d3?oc=5",
       "source": "BigGo 財經",
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
-      "title": "〈焦點股〉大東電受台電部分訂單遞延影響8月營收 跌逾半根停板",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nY296Y0xkZWo2bTNVczdZc005MGhrTDNueGVfeHFNN0Jyci03VDBIV2NiSm44RGhkOFVfM2JJR29MVktDR2F5M1NnR2hPOXo1R04wM2tPaDU?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-11T04:35:52+00:00"
+      "title": "大東電營收／8月4.82億元年減7％ 台電訂單遞延 手握百億訂單需求仍強",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1udzliTWZtcEI2eE94b2NtMGpSdjdOenpwejJNLTVrcGZyZS1HT3d0SDR3SlJONXRFenBRUUpMMzh0b09WdzNqbUxWQ3luTXVR0gFWQVVfeXFMTkhBZDVwT1p2dGJHdFJ4dVQ5M3cyd2VFbG1VbVlUWWF6dkQ5cGJkZVBXZTRtT0FHdFQ3NEdSQzI2WUg1QVRMcHhybzBpdndQQ0ZTOG9qTHc?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
       "title": "大東電8月營收受台電出貨遞延；在手訂單仍逾百億",

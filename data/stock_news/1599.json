@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-25T16:36:42.137844+08:00",
+  "updated_at": "2026-09-26T17:33:33.417516+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1599",
   "name": "宏佳騰",
-  "count": 2,
+  "count": 3,
   "news": [
     {
       "title": "iFreeETF JPX-Nikkei400 (1599.T) 股價、新聞、報價和記錄",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sQlBfY3RfMG54Zl9kUDVvR0thcGduTjF4SDlLVUlwUEFQbmNiSHk4aGZIanlTWUs3VGg2cGdyVWVIY2hlcXJSdGE4bTZnd0xxRWFZQg?oc=5",
       "source": "Yahoo 財經",
       "published_at": "2026-09-24T00:20:27+00:00"
+    },
+    {
+      "title": "遠傳iPhone 18 Pro首賣日九成申辦月付1399、1599元以上資費",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdjFrOFdRWWw1OWVtMlk4WlJ0QjczSGxfRG1xYkxOdjFGRGpHT2JDLXJQemxJQXNKT2JUT0dycEs5Q1YySlVSb3JsZGhBbjJBTzNRRUdTYlZDc2liM082TzFFMzdyRTBZcDQ0dm1GYkdLRWh2cTlQajRfRV8zcHdHaFNmQ2ZsUGhkQ2tz?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-19T01:28:40+00:00"
     },
     {
       "title": "iPhone新機推升5G滲透率與高資費！遠傳先跨50%、中華電年底逼近，台灣大1599方案申辦增逾40%",

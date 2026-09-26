@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-25T16:36:47.105735+08:00",
+  "updated_at": "2026-09-26T17:33:37.656158+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1616",
   "name": "億泰",
-  "count": 4,
+  "count": 5,
   "news": [
     {
       "title": "億泰(1616) 個股概覽 | 個股 - 股市",
@@ -28,6 +28,12 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13b0QtQ0xYUHhhSlBrdkxXQUpBS2RIR0w3aDFwcUpXbW9YVl96TVJHWFNReFZqWGJOY3VWTXptejdfbHhvWkp1LXdITE9UeTlHaTJFdHJwTzA?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
+      "title": "1616 億泰 - 盤尾灌出372什麼鬼？ - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12aDcyZElIa1BQQk1JTTlvSmVfaWRLQWJsWk5tVndOcFpHbGxMWnNhNlprTHE2SUlwbEx5bm9VbVJxMXliN2V3VFVmQk9RSktLNXFWYVVxd00?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-01T07:00:00+00:00"
     }
   ]
 }

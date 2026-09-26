@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-25T16:36:23.713029+08:00",
+  "updated_at": "2026-09-26T17:33:16.834858+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1519",
   "name": "華城",
   "count": 12,
   "news": [
     {
-      "title": "華城(1519) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tc2pkOS1Vem5SX3N4NGEzaVdkeGI5Tnk2TXNVRUtKUGlkekNoaHVieTZfUWMzQ1ZySnRBQi1mbG16aFNCQjliMXQ4SkUxdzI3cGZ3?oc=5",
+      "title": "1519 華城- 松湖變電所開工強化電網韌性- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01MU9QclhfZW1wakFIa1ZEcC1Rb010WWZ5SkZKX2ozZHhDYk9mejAyOEkwaEpCY2ViRUNsWHZ0U1VnSFFOMWhfQ1o2NzQ1V29wb0FwNVM2cHc?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-25T00:55:54+00:00"
+      "published_at": "2026-09-26T02:02:28+00:00"
+    },
+    {
+      "title": "1519 華城- 大型AI資料中心傳電力延誤發出不可抗力通知- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YakRSSnFTaGVJMzJSVnk3UzQzdG9BcE0taHd2SkNDWTVuRS1rT2FLXzZ1TlFWTHhGc2c5ZkljVktoazdkOXJmaC05S2dRVlZSSTc2UXR1THg?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-25T10:59:53+00:00"
     },
     {
       "title": "1519 華城 - 華城 自救會 目標800塊 - 股市爆料同學會",
@@ -36,10 +42,10 @@
       "published_at": "2026-09-23T07:57:35+00:00"
     },
     {
-      "title": "1519 華城 - 明天要出大事了 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuOFBOS0sxUVFIUXNvdjg3bzFLcXhLNWhibEpkdGFFVDJDTV9md1k2U3BBV2Z4a3R6N3VqMUpoc0hmRWlSQlRQSEtVMWh6VjlnTjhMNDk3aG8?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-22T14:26:49+00:00"
+      "title": "華城 1519",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWjNMLUhmaU1Qd3JyS3JOQkFmaDFaVXJFV2htUTRkNUV6bUVjdDh0SkwwUWlYeGhtY1VTblpQYnh5S3R3X281WmxuWmdmSTliNGNtVnFsYmVWN3c0UzNKTDJDZVZKak5ZdTlfTDZGa00wNHh6aTZ1X0ZldnpQQmhmSnBWRnVsdnd0T0xxVkJGSktLSmEwb2V0MTNRalQ3Q3JKSktGWC16M1U?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-22T07:00:00+00:00"
     },
     {
       "title": "變壓器與重電股盤中走強，台達電與華城量能能否延續？-黃勢週期經濟學",
@@ -68,14 +74,8 @@
     {
       "title": "重電4雄1表評》台電撥補711億元肥到誰？華城、中興電、亞力、東元...法人最新目標價曝光：他訂單看到2030年 - 上市櫃",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYZkFqQTJJcjZydmpkY1EybGZtQWNZQU1kT1o3dUF1MEFvRjhUNGwtWjd4aUZRdk1aWVVuRVgweUNWSG1MRWc5a0RtaUJXUXZ2bzVIZkE4N2k2TlJLZmxaNjlZb1NSTFFLYnc?oc=5",
-      "source": "旺得富理財網",
+      "source": "wantrich.chinatimes.com",
       "published_at": "2026-09-18T21:26:06+00:00"
-    },
-    {
-      "title": "1519 華城- 生產碎裂化掀建廠潮重電需求從台灣一路外溢- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xZUhrMFJKVWRqdkp2NDZOU092cEhWRFN4UF9YNXplVGVEdDg2NmR6Mkl6djhFZ1hhYzlFcHdxVVozdS1qMXRFc01Hd1AtVklxelF4Z051T1Y?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-18T09:22:00+00:00"
     }
   ]
 }

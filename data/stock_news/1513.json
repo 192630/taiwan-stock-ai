@@ -1,27 +1,15 @@
 {
-  "updated_at": "2026-09-25T16:36:21.266984+08:00",
+  "updated_at": "2026-09-26T17:33:14.603059+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1513",
   "name": "中興電",
-  "count": 12,
+  "count": 11,
   "news": [
-    {
-      "title": "1513 中興電 - 氫能事業對AI有什麼幫助 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZYTg5bWhkRjdPRnU1WXNCdC1Ya3hRaVRTLWw2NDd4M2tPWE5QMy1vQ3pjLUhXd1RHVXFNMmQ2Y3RiTnN3bjdKRVVaaTIxbUQzZHJMd0w3ano?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-25T05:31:52+00:00"
-    },
     {
       "title": "欣興洗產地疑雲、中興電被捲司法案件！財經專家解答「為何股價還能起飛」：資本市場最後還是回到利益",
       "url": "https://news.google.com/rss/articles/CBMi2ARBVV95cUxQYnNiS2tnZ1hDbDVNNXM5dUtPMDh4Q0dzVXlGcGFBUENNNGRtbENMZXR1bjNURi1iMEtTc0MydnZpTlVYcmNWdU5MOU5BdkNlX1RwSUs0TWV2dDZJMUJsSHh5QVJkbVl4WnV1OG1wYk1RUEVoMDJIRk5PY25EZXZhdnBTYnVQLWlTazdTUjJlbm1EZmVzVXQtbk95bXkzRnVsNnQ4SU1CSkJuREdZek9ZLXBXRTcwdWhYYmNrU25hcWZfVTh2UWFwMnJxNk5XSDR2eFJMZWNVYlFobk9hdWFUMjFPNUR2d0pqTXdxR1BFYjRKRnc5V1pjd3VIQVNIWUdOaml5SFhwb2piS096VUlYWVVXNVR6cGlWM2NBM2dsY0tMcTJxbDlJb1FuajkyeTJQRE5YVHN4QVFkUkx6Umh6aXpYM0FVTFpKVms0ZTBhelZseENkQXZKdUVxcVJNOGt3MGRjWkYxRmpQTDJQb2pHWlRmekJsRjlHQ3MxazVUeENndVZiT1RhbWx1R015QVBuQUg2a1dBYndmSEhCdkk4dGdMN0ZBejdMbTBuakNXT3NmeGt0OTUwV2d5N1lLdDJCWlRMUXlDTzNSNUhPOVowNW1jQkM1VDdjYzNMTkNLTTlhNWk4SklfYlhqdFJlLVRzVzFjZVZ5cGxUeGdKYm9Xb1pXNHZwVnVTeUVCYVdtdl9KYmFhejQ5dDhhbU5QNTNvNVExTjBaVzBrWDMtVGh5YUZzblhZSW1Yc0ljVHVucERlYXNURlBUNGM0UzRRbTR6MzZHekVJNGw?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-25T02:31:28+00:00"
-    },
-    {
-      "title": "《自營商買超27-17》永豐金(254)、中興電(31)、緯 創(662)",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcFBtYl9JWElhRVVfWnZyOWxocDZNMUVCR0NYZjJHb0lGZDNWT0NLaC1JWUhUNEhwUmk5UE40OGp0T1dQdmI2SzRZTDY2WDZuNXZZS2tCZW8tUmF0eEJXQjhUTWdPeHJSY0FtNUh6UXRDOG1wLTZldVJuTnc0R1cxRTBqUERWQzJ5?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-25T01:10:00+00:00"
     },
     {
       "title": "1513 中興電 - 又被打槍了 - 股市爆料同學會",
@@ -44,25 +32,25 @@
     {
       "title": "台電711億撥補點火重電股！中興電訂單一路看到2030年 華城、亞力、東元目標價全曝光",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ENGd3QkJQc0h2aWR3bVR5Zm1HaVZXUldWU0cyaGpNYlRTcVFtdUJ6OXdIMFBTb0ZUc05YR3NHQl9mMS1yVUg1Zy00NA?oc=5",
-      "source": "FTNN 新聞",
+      "source": "ftnn.com.tw",
       "published_at": "2026-09-19T02:15:00+00:00"
     },
     {
       "title": "重電4雄1表評》台電撥補711億元肥到誰？華城、中興電、亞力、東元...法人最新目標價曝光：他訂單看到2030年 - 上市櫃",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYZkFqQTJJcjZydmpkY1EybGZtQWNZQU1kT1o3dUF1MEFvRjhUNGwtWjd4aUZRdk1aWVVuRVgweUNWSG1MRWc5a0RtaUJXUXZ2bzVIZkE4N2k2TlJLZmxaNjlZb1NSTFFLYnc?oc=5",
-      "source": "旺得富理財網",
+      "source": "wantrich.chinatimes.com",
       "published_at": "2026-09-18T21:26:06+00:00"
     },
     {
       "title": "連2年賺1股本、配逾13元息！中興電、華城、士電、亞力...重電4雄誰最有肉？法人評這檔強力買 最新評等、目標價完整看",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10M0hPNDM4aks2aHhhMmdBNzNuTFZEQnY5dHd4OUEzYll6S1FwaGhIcEN3VHBaS042WlJRZkNjNkhhQjJkbXBNVFg5NWJCczZiekgyeTRvNzlKQlBQR1AwellyMWRqc3lCanc?oc=5",
-      "source": "旺得富理財網",
+      "source": "wantrich.chinatimes.com",
       "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
       "title": "目標價1表看》華城、士電、中興電、亞力、東元等6檔重電股打7~8折法人曝肉多多彎腰撿2檔 - 上市櫃",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FaHNPQ2FGenR5Qi12Sjg5V1pnZkx2SUZnckwxNUc5UHV3MTRHMFotMGxJWW1ZOU5nVUItS0NSR2ZzZjlaOXZHenRPVlA3ZVdVRkxqUDVNeWxDNExYbXM1R08yc1BjQlB5LUE?oc=5",
-      "source": "旺得富理財網",
+      "source": "wantrich.chinatimes.com",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
@@ -76,6 +64,12 @@
       "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQZ1d0VzROSXMycVYta1NCWkwwTU41V1A4bFdyNFVoMUlQeGROdWZ1U0ZaZk9GUFcwU1J0cGxSOVJfbUFVMUh4UF91ZkllV1lDSTAxQW9NWUJ3RVp5UmFLQW84akt5Y21YTlBqZms3aTd6QmItX1p6Y0NQdmVLWGxDLWVYS0ttUXZCYWtzZWU1TXJNVWk4amNyRnRDOWd1ZWI0Q1ZpZDJQZm5YOWU2OS1SbUV6bTVsM1A0QWVTRU9uSHJHbkdZN2dyRUJfZmxYSkhXWTNnMzVreHZiY2EtVGZJWUpQNUl1RFlqLVNudnhHOUFyVDczNVdkVThHYm14cExtbUtfWlJQTjh5cWwzV3p1V3BRTmVQYW4yQ3NpdHRDRkx2ZTVQRFdGNkVuRVJiejQ?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-08-30T07:00:00+00:00"
+    },
+    {
+      "title": "重電8月營收1表評》士電、東元、中興電、華城...法人「8選2」：目標價、EPS一次看- 上市櫃",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pV3NsdWQyT2dYODBXbFBnVC0tSE9WbGxsODFPcWdKenRQaWVpSE1rVk9YOVA0ODlfd1ZCWGd6eDBxbXJ2ZkVOS3RxMktOM242TXpwSnhDMmEzRmdqaU93bnJhSWtNOU9VcVE?oc=5",
+      "source": "wantrich.chinatimes.com",
+      "published_at": "2026-08-29T07:00:00+00:00"
     }
   ]
 }

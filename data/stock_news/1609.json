@@ -1,21 +1,27 @@
 {
-  "updated_at": "2026-09-25T16:36:44.648595+08:00",
+  "updated_at": "2026-09-26T17:33:35.547119+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1609",
   "name": "大亞",
-  "count": 7,
+  "count": 5,
   "news": [
-    {
-      "title": "大亞(1609) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xWDdtajY4aTJkcmdnNWktek92QkNpbUhuUEZkaWJwMTN1dk4yWWxOdDVkS1FuWk1YUGtVdUNUR2FQTDFCOGlFREJuNGFjVkNLd213?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-25T03:23:10+00:00"
-    },
     {
       "title": "Ta Ya Electric Wire & Cable Co., Ltd.的Enterprise value to EBITDA forward – TWSE:1609",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOakNJS0tvX0h3WHNxT3RKdmhHX0tScm5yZ0lKSVBqMG95anZmYmd6RWxPNkFXTzBQM0pYMThwTnlodDB3b0syTmRfdzFVVU1tR29FNUVjN01menNUZmVWUWU3WC1JcEdCc0FrWExUcjdmUGhUdkZBNXdXVzVWQXU0THdvMmhrX3NYaWhmV1Z3bTNLV091T1ZQOFNhQUVzS2JpTThNWjRfRzl5dw?oc=5",
       "source": "TradingView",
       "published_at": "2026-09-23T03:55:06+00:00"
+    },
+    {
+      "title": "1609 大亞 - 大啞大啞 整天裝聾作啞 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzZTlhR2EtZDhmLTRXYTBVVDc3dHd1ajlrMGhDUnJIaTBpYmtQd1Y0TVJZRmlKZXN6NTRDemRpMUd4TXhidC02TW4tYVBkMFBTQ09sMnJMQ1U?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T02:58:00+00:00"
+    },
+    {
+      "title": "大亞本業旺 Q1強勁Q2樂觀",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSSjQ3MXI1T0huZjJNS2FETFRHblN6czJ3V2pYNGJUOHN3ZkgwdDlRUnM4b3JNbnlmRXE2T2hJMHZDeW8zZG9iUGhzNGQtLWpySmtNRk1kMlg?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-13T21:53:43+00:00"
     },
     {
       "title": "1609 大亞 - 今天一整天保養我的F16 準備下週一開去飛 腦瓜突然間蹦出一... - 股市爆料同學會",
@@ -28,24 +34,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yZENyOENqbzBBVXJWTlhvMlR2SkpNenFGS3h0c3hqQVAtcFNSZXhSWnJFN20wV2Zuc1FsV1BBV2VnbHEyS2YwT2N3S3pSTlE?oc=5",
       "source": "news.cnyes.com",
       "published_at": "2026-09-10T07:00:00+00:00"
-    },
-    {
-      "title": "大亞本業審慎樂觀，綠能推進光儲合一",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOR3ZUVlBaRkptUWdEZ1F3Wk9COE1qbXBRZmEyMWYweG9JRWJqMk9lWUdjcC1pOFQzR04zZmtLNFJIX3RqNW1IVzc4SGR3SGg4SEpFb1A4TDJvZXY2TTNaZTZmVGFpakRmdU5RUWVFZWt4WXZnM2ctZzE5b1pUaXRoYmNXOGhUbTgwR2hJalNYOE55S0taVEJGbE1zY2FJZ3Zvb2VmZHRLbTdmWTd0Z1hwNFFwdmxBZnBvcUZReC1XRUpQUWpCNktva3ZPb2ZlWDQzUkdoTWRVTEMyc0hyODJhS3FRdjZ5WldUZkFFVUdFQXBmdU1UWWVFaXJTRHZzS3Jib3lXbm5GSGtibGRPQWJoaw?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-08-27T07:00:00+00:00"
-    },
-    {
-      "title": "全球搶銅大戰 線纜廠得利 業界看好華新、大亞等迎庫存增值、電網訂單等紅利",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIRl9xbWFhWGdYVURJb0FQZXZiZ2V2QUtxNTlVQmlCMFBLcllWTDlLMnVSWGs1aEpEYUpwOEF6M0ZibThvQmtvbjAzbU9xdHVuRDEyY3JvUkQzUdIBX0FVX3lxTE1qWXFOUFVrOHBKOXg1WFdKWmNhalFvRC1LRkhaaFZjelBXM3Vscl9aam9SY3Y5dndHZU1UYks2dldBeXlWM0tVSXRPbTlFWmJ6UlN5TnR6UTlmTUZ4c0Fr?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-08-27T07:00:00+00:00"
-    },
-    {
-      "title": "大亞續攻太陽能光電、儲能系統",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRVlZRT3pMLWZ4Szl4SWdIQmNyOGdfT3p6OTg2ZHk1NkEtUzRTVnJwbERkUVQ3WmNoX0swdUZ1RjBYaExENTNSTGRfdmNMbW9GQVg0ai1OaFV1aVo5RmZ2aDM3S0lhM1FBOXZB?oc=5",
-      "source": "中時新聞網",
-      "published_at": "2026-08-27T07:00:00+00:00"
     }
   ]
 }

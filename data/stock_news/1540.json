@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-25T16:36:31.663894+08:00",
+  "updated_at": "2026-09-26T17:33:24.301930+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1540",
   "name": "喬福",
-  "count": 5,
+  "count": 6,
   "news": [
     {
       "title": "喬福(1540) 個股概覽 | 個股 - 股市",
@@ -26,6 +26,12 @@
     {
       "title": "Teledyne拿下1540萬美元無人機長約，股價偏弱在等5,000萬美元放量-雅筑股期理財術",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNck1ITmNoYm5oYjREZkRaaWFkNDlBMktCUEJteUhtNnh3cENwbWpnVUtCNkR1R2F3Njd5cFZYeHV4RVJQNTBTVG9vbjQ1UlQtUVE5V0JVbTNnTGVwZkQ1dzI0LVpySEJIb3RoQlJIX1lCdldUUkp0MzNCYms0YWI0dA?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-10T07:00:00+00:00"
+    },
+    {
+      "title": "Teledyne拿下1540萬美元無人機長約，後續出貨能推向5000萬美元嗎？-雅筑股期理財術",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdnl2bmVtUS0xZTBzVXNnSGpmbU9CRUlMMEhfUS1ZZU0tVUZEMkQ5T2x4eFpfazg5LVpDS0o0Z1dEWUx1YVZfVWw5dENxVW1TOUh6Rll5VkJ5MzEtMS1BTkMyY2J2dzRFaHA2SDFaeGpPVnQ0R0s5OXQ5TE1kU21lWA?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-10T07:00:00+00:00"
     },

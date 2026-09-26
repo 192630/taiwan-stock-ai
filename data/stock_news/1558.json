@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T16:36:32.626981+08:00",
+  "updated_at": "2026-09-26T17:33:25.118651+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1558",
   "name": "伸興",
-  "count": 8,
+  "count": 9,
   "news": [
+    {
+      "title": "1558 伸興- Dressmaker 擬真裁縫模擬遊戲- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5sZGxDUlYzVDBsZ2xrM2RJamZEVEJkd1FjOHBwTnNxYVhQZnJDZUwwNUhiQVpQa0d5TVpZRGpYWGtBQldIdFA3MW8xOTdoRi05RnVuZHRWbDU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-25T10:29:02+00:00"
+    },
     {
       "title": "【優分析即時新聞】伸興(1558)8月營收年增18.63%，縫紉機本業回溫、宇隆機器人供應鏈進入收成期",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95UG12Z1hzYnVBdEFINW9kaFJCVjB4R1FVR0prY3BtS3g5M09fT0tKSDJLeUlkVHI4TVp3RmNFUTJtODN3dDZyY0FkazFaOFk?oc=5",
@@ -33,19 +39,19 @@
       "title": "1558伸興 下1波挑戰119",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TZnpNS1ltTS1jVFF0eGJmb0ZELWUxbnIzWW1jNDYyam9tcV9PanVGUGwzSmw3UXllUi1SMTBLazFTVVZudGV4bGh2dFFpRkVma2hoWDZydlo?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-16T16:16:48+00:00"
-    },
-    {
-      "title": "伸興液冷元件 出貨升溫",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kUHhlMmNFVmhGc1YyZTBwNGtDSV9zOFZqX1lEVlIzOGFaN29NYi1rUXBnazBqODRYSE9wajlKTk52VWVqYTdJbGdsUGhsUkRL0gFWQVVfeXFMUHBaYlFNOXBCcmFBVTVsbXBKY05kbjUwb1ZTQzNzNXVhYl9qRkZid3Jna0JnaG5FWGV3bVpKaFdGS1QtbXNjaDQxYS1yelRsdEE3TVVqc3c?oc=5",
-      "source": "UDN",
-      "published_at": "2026-09-14T07:00:00+00:00"
+      "published_at": "2026-09-16T07:00:00+00:00"
     },
     {
       "title": "伸興、廣華8月營收齊揚 攻AI與高值化迎旺季",
       "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE9DcVNfU3Rad1ctbEtrRHBjbjBTck94Zmx1S0JLYUs5Y183SXVNOHZMVWhpcDZSUHpSM3c?oc=5",
-      "source": "enn.tw",
+      "source": "ENN台灣電報",
       "published_at": "2026-09-11T07:00:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】伸興(1558) 八月營收月減年增，全年營運續看向上-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUlMzMFFjbktQN1pYNGFac0hfdHNseHB2Tll6aWFHUTAyRUZhVjQtN1JUeElod05nMTJPaWY4SF9mTkxVVGhiWlA4YzA5dV9rNjAwU2djYU5UbGlXcUJnVXIzVUp4Uk5GWXBtS3c5M3VucDg1TUpPWENvbU81ODdicVJWVmNkVUw1Tmc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
       "title": "麥科田 上市招股 每手約1558元：醫療器械股抽唔抽？認購前四必知",

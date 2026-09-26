@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-25T16:36:29.505354+08:00",
+  "updated_at": "2026-09-26T17:33:22.267632+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1535",
   "name": "中宇",
-  "count": 1,
+  "count": 2,
   "news": [
     {
       "title": "3324 雙鴻 - 夜盤大漲，費半上季線 股價明天洗洗又創高 融卷想空1535妥... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBESF9sLWhEcGtySVlSdlBrZ19nVThiVC1FUjgtYzFiOC1nUzUxSlFRc0NwelRhTnBOdXBwSzFnU3ZCM01MMk1abmpFbEdiUkRSWTVmcjVZaUg?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-20T23:49:01+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】中宇(1535) 八月營收7.01億元，創近2個月以來新高，月增4.38%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU3hBUFdwQ0xHUTR0QjQyYjV3MVQwLURHdFlrcFYwMnRwUXpYY3B1Z2l2REc2X1JkaTdqOUV2X2IwUnFISHdFM0lIdzJXcmQwUmdQeXIxRF9JaDVjdEczVEczN09RbzVoODhWLWlIaHMwU2lHc2pKV19ZTHcxMk1Yc2U2Y3EzUnp4U2c?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-03T07:00:00+00:00"
     }
   ]
 }

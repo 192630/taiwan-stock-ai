@@ -1,20 +1,14 @@
 {
-  "updated_at": "2026-09-25T17:35:41.283338+08:00",
+  "updated_at": "2026-09-26T17:33:46.088378+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1722",
   "name": "台肥",
   "count": 12,
   "news": [
     {
-      "title": "馬太鞍洪災一週年 台肥投入550噸資材助農田復耕 未來3年把田種回來",
-      "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxPbXo5QkdBNVc2ZkZFUHczeTkwa3Y3SDBoRm42N2NfcGRweXBuMUNQNW9uSGl0dkY4LWxhZ2Vmay1abUNVZmk4c2d1d1lzcUNERWdVdFdhYVluQnhVMkhrRXdPenJrVE44T2k4dGRqMVpKV212UFdOaTU5NlBRclRIYk93REUyRWtpX1hJeHI4dW43Y3ZOTTlQb0tNQzNzRkRWZnlTNG02c0w2aXRQQ2hDNEF5aXpHOURXSmI3elJqTFcyWGY1cUFOdVM3Nk1DcWpqNTlscWU0d25yYXhEZGlPWmVLdG9BcmVpTzlHbnctdm05Zm5rVG92QV9idWdFTl9oMld1by1QWW5vUHlDNXZWOG9oUEY3WDNsSklIbEtibVV2SHpKb3hHb1BRNF9kejdUMlNNRFI4ZGxlUzM3ZllvREwzdDdpY3dTcXJRaDJpU3pVOGd0OWRXRHNkVlNlRENzdmtWbUlzQmd5aTNuRlNwLWp5b2lkejFWTjlwYno5RFdCRmo3Tm93Rk8wbFhXb2VaaHgyYVk1OWdpbVJQQzBwYw?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-24T11:12:11+00:00"
-    },
-    {
       "title": "馬太鞍洪災一週年！陳右欣：台肥貢獻專業 當農友的肥料超人",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9SR0UxT0UwSGgzS0Q4ZUlSX3dLcG1mMVl6VDVQN250Ul9sVHBEUjBQUWdXenYzUkROdEtfX1NidmItRXJZS3hUal9qMA?oc=5",
-      "source": "三立新聞網SETN.com",
+      "source": "三立新聞",
       "published_at": "2026-09-24T09:13:10+00:00"
     },
     {
@@ -42,9 +36,21 @@
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
-      "title": "台肥80周年 台灣農業現代化科技展開展",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HVml3aC1MSGd5ZXdlNU93Q0FmSXBPeEVacE1YSVNzeVhESF9yMGRNb0NyREROXzFIa3RNVVJDN0NSa1pQNjN3c24zSjBQY1hya0FNZnp3MnR0d9IBX0FVX3lxTE1Lb25WMDEyeHY0SlQ3Z0t4U1lrV05tQ2tOaDAxQ0l0NDRxN3Z2ZTBCVHhaOFVMY2RKOThybGV4Y3V6SElGNWk1V1NkS0t2OWhqV3JjZWNVWGNFcFVDeW5z?oc=5",
-      "source": "經濟日報",
+      "title": "台肥(1722)切入半導體低碳供應，肥料虧損能否少掉5億元？-子敏左側交易",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONmxpSk1CanVaSDBmS1RucUhkTU5CdlZoWWI2dUprTHpnS1Z0MGdzemtmY3k3eTNTb09XYUFSRFM1a3BWV3VWY0Fpb0RDdTNITVhpemxtWVdZZFZ4UE5Fa3JWdjNnYjJkVWMxNlZKRTZBc1FOOEhwcW80b1YwTG43ODc3cw?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-04T07:00:00+00:00"
+    },
+    {
+      "title": "賴清德：台肥助攻高科技業韌性發展 布局氫氨能為產業注入新動能",
+      "url": "https://news.google.com/rss/articles/CBMirgNBVV95cUxPd1BCSmZqZUNITlZCTWJHa1czaWh1NVlvMUFHX2NsSEZZODdWakIzT25KcUx0bTBKaWFld3RwMjdGU3pnaEM0aTZMUUFxRTdBLXU2Njg4UFB1a3ozUEE4alp0cF9PT2t1am1Ba1pJdWQ2QWNBWGxyQ2EtdTJLcF9QTGptbFNVWEk3d3RxOGFSOHVHUDhXRkhIdXBwWk5kQUpsN3lXM25tall4SlBURTNzdEc0MkxkYUVESG1HWGhCM3ZNc21wYXZCenh0bXNNM1JNb2hCalF0ZVRnNS0yREFOR2tsOXpNbW9FN3VVRmowdkRiV3MzcHZyRFJ6SGdQU0lTZ3hzTExwaFladU5wY1VoZXZab1cycWdXUjcwbnNfNmxES0dyUzZ1MDBjZHFUU001WkVkVkp0WkhOd0JKQU92bXp4OG9FZ0Y1czlXRV9LaUIxeHhfbTI3TEl3TzhNWGpHYzdIdjdDN0JNSVAyeF9ZME1wUWNZRUN2eFoyMmxZRlFEQ0NjcEVaSnF4RWVZNnlRQ1cxRmFIOG1iRWt4UFB2Z19xRlBJYWJtalNQNWxR?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-03T07:00:00+00:00"
+    },
+    {
+      "title": "賴總統：台肥助攻台灣高科技業 積極布局潔淨能源",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yN2Y1dURwOTBhd2tDcV9RYWl3dzFOdnd2T3NwRGY5dmpJRlFaaG5idUNLODVLQzFlWUZDMjc0dGM0RklkcE1hTzYyWTNTaG1ZaFJVaGtIUUFpUdIBX0FVX3lxTE9jM2tJVjV0Y2NMZnpPZkVadEVuMVY0M2V0bmhlVVFsTUI4VFBHN2lXTWlZTktrdElHMjNoLWdXQmdScnhPYUU2TFk5UDNBYl9sUWJveFg3d09aWGV4NkNN?oc=5",
+      "source": "money.udn.com",
       "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
@@ -54,27 +60,21 @@
       "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
+      "title": "台肥80周年慶 總統賴清德親臨祝賀",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IdVVrU0NULXN2NjhjMEctdkxsZ2tkd0xBanNpRUNHZGNJRDY5RElqdUVvVWJNazBkX3Y5YWVNS3RidkM3dHg0ekF5bzlRYUxIbUhyUzdKTDI4d1RrSzRpMEVRUGh4MWxBbTIzN0dPNA?oc=5",
+      "source": "理財周刊",
+      "published_at": "2026-09-03T07:00:00+00:00"
+    },
+    {
       "title": "台肥張滄郎董事長、陳右欣總經理領軍 攜手臺大簽MOU推智慧農業",
       "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQMmlMTXk0NEluX25ORHJHOUZueDhpc1QzVTI3aVVQYzh4bXZPTGhjalRVTkVXaVZFOVl2VDBERm1ZN3ZoaVNjNk1saWRFV2xlRjVoMG9Db245dFhkZktWVmVQVEplQi1jdy1rbC1tMTRxc2piUjR0emtVeUhjWk9BczNhVVBzY0p2OFhMMVNFZDBYUmtUS1VMeERTM0ZGS0JlNjZJTWpxTjJOWkVnbnJzWllUYmpnTWY1ZGJlTkMzby1ETHRUUFNzZzFNc1VOazZXeURJVlBuSDlFRWxVQklxRXlfRjQ1WHowaXNCajhmbFA3bU0xWjJpa2o3QWJSc3AxWmZXLW5FNDhiZC1qT1Q3V0RCWUFCRjY5aUNLVkJBWnM3U2tSYzR5dENmaG1ockYwYWk2SDBycElfYlFtNS1uMzRLNUcyUzdqWGRUdENwZS1talpySk5NQTdjWTdsOGluNW1lc3RWZjNQaFprUXlISWhqOXRxQ0R2X25mT1Y4QnJCVnVpdG96NmRtc0REUnpibDZuZzlHLVEydw?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
-      "title": "賴總統：台肥助攻台灣高科技業 積極布局潔淨能源",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yN2Y1dURwOTBhd2tDcV9RYWl3dzFOdnd2T3NwRGY5dmpJRlFaaG5idUNLODVLQzFlWUZDMjc0dGM0RklkcE1hTzYyWTNTaG1ZaFJVaGtIUUFpUdIBX0FVX3lxTE9jM2tJVjV0Y2NMZnpPZkVadEVuMVY0M2V0bmhlVVFsTUI4VFBHN2lXTWlZTktrdElHMjNoLWdXQmdScnhPYUU2TFk5UDNBYl9sUWJveFg3d09aWGV4NkNN?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-09-03T07:00:00+00:00"
-    },
-    {
       "title": "台肥歡慶80周年慶 賴清德：盼強化農業韌性推動綠色轉型",
       "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQZXhGc1JnSHZoblRVdF9uYjhHc2dKakNKTTBzS1Y0T1ZabVMzSzl5ci1SdjBOX0YtQ3dRRFo5UGNQTjFwYUFJQlNMY3RsajVlZU0ycFllV3F5eEN2YWV2Q0JBOEFTd0NtbzlqTWVDVDR3VjU3MTYzTVRCYm9Mai1IeGdjYWJZeWY3TkJYTW1lMW1QTmFEV0RZcUpYTXVUTzZlSmluUFptb0Fhdk9YRjBhOTNYM2ZfSURlOUJCeGYxX2haV0xCbnk0MDBfT2l0aDRmNnZIR0djdTdiM0o4Nnd1ZDZtN3MzdHBWVWhDSkxiQnppbWZ5WDA4QXBTQWVFV1hVSWpKOF8xR2h5MzZhak92QUU2REY2VEhHZEhRWF9fVkZfTHRjSU80SmRRMlFyVzFYdWlnTFczdHdKTlVRbFpTdDFZN1dEWWYwWTI0YWNNdmJZcEhRM3hmdjFOekQtQkJ1N2llUHptSk9waEczUk45YkpNWlM?oc=5",
       "source": "Yahoo股市",
-      "published_at": "2026-09-03T07:00:00+00:00"
-    },
-    {
-      "title": "半導體綠色供應鏈加速！低碳藍氨導入科技廠，台肥(1722)拚本業減虧-財經焦點情報站",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZVBYYVdqZFE1ZUc5M2Q1VzFFZy1xLTZFa0t2ZWtGSmJXVXFyY3BvTzlnYkdJMDN5QkpQMEZqNnFSOWJwN0tSWlNhUEEzaGNWQXFBQmFnR1FxdXdSQ3ZTTG93OFZMM3k4RGtpcTFMemgyQWNDcjZYcmlPZmU0QXcwUFNn?oc=5",
-      "source": "CMoney投資網誌",
       "published_at": "2026-09-03T07:00:00+00:00"
     }
   ]

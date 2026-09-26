@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T16:36:49.556113+08:00",
+  "updated_at": "2026-09-26T17:33:39.860216+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1702",
   "name": "南僑",
   "count": 12,
   "news": [
+    {
+      "title": "南僑急毀533箱「綠」麵檢疑知情不報| 生活",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBRVXk1OXE0Rmk3S3prWG0zYVdJSmxieTZ4ZS1JS1JvWFJjSWtFLThMTWpic2ZvQzh1RXdneHdPMmIwbnZh?oc=5",
+      "source": "三立新聞網SETN.com",
+      "published_at": "2026-09-24T12:37:28+00:00"
+    },
     {
       "title": "大陸內卷挑戰大，南僑看H2/Q4進入旺季",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOTzFKZ0t6Sk5GY3FRRm5sWS1fU3ZRRTdJdHRWWUpDUkdpSnF5YVM2bGxrVV9sdXJnTFZ1ZzhkSmk5QkoyQWVyekdZOThsY01GUS1ibTh6enNrVW5WWVhUQlVya0hnanZHV1R2UDdlYU1FZHBIRGlSSS0xVFoxOTR4cnc2QnFpMmNicnVZUHNKRkJ6b1p3TUFGdjk4bEdHRWRIZXhGTXhBSUE1QTl4eU0wSWpYWmxvLWZHam5kSldoS1lpdTJSRE1NNVpqdG5ITTRfLXgtQU9mSDJSVVdMWFlfWWlKcGZhU0pzdnZaQTJiWGlaZ1Y5YU04RnBCeU1BLWxjeFJkZm5PN3U0ck0?oc=5",
@@ -38,8 +44,14 @@
     {
       "title": "致癌油影響 南僑擬東南亞進口大豆油補缺口、向上游索賠",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5IaklSbWxXTVE0QTNhWFNNNXB6RlFlNFQ1dlFUWk5GM3FDVHZ3amZnRW02TW9hVnpZZG1DYmRIcDl5SXhycFFTSHJQZkvSAVJBVV95cUxNR0oxWVRIS2R6UjlSeWpDNXBtZTNoQjlVNk1sZzFaekdiSHVlSHFqYnBzRHVLSUxWMlgtUVFrUTE3QUhiZHE2dWFJQjFHbkMxR2tB?oc=5",
-      "source": "nownews.com",
+      "source": "NOWnews今日新聞",
       "published_at": "2026-09-22T09:00:37+00:00"
+    },
+    {
+      "title": "南僑第3季提列中聯油脂事件損失預製烘焙拓美澳市場| 證券",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44MHFCTVJzN1llMl9JVlFRVTJtSnpRY3JFYVkyQmJtY19DNDI3bzJuUVlQSFBTcVViOVQwX1pMSV94eVJybUVYVzg5aGVTME5DYkFFeG9fLXE2b1NkdlE?oc=5",
+      "source": "中央社 CNA",
+      "published_at": "2026-09-22T08:53:00+00:00"
     },
     {
       "title": "中聯油脂問題油 泰山提告並求償 繼南僑後福壽今提出聲明反擊",
@@ -48,28 +60,16 @@
       "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
-      "title": "泰山突告南僑求償 南僑：泰山卸責濫訴 無法理解",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xcVBhTDFmd04yWHpoTkVrNFJON3plbkotQzhMTjBiVXJIYTJ0dktTaUNNaXZTQkR5MHBGZEpFcU40blozbmtNUldyc1Q1RXhSS215TmlCVU40NlFXNlVn0gFkQVVfeXFMUGNwMFhNOW83QW9JbU9NR1pOX0xjNGgxODIxQlZ2M19KYU83a2IzeUJ6MjAyR0xhN29uVXpGbFhrV2ZKQlZJaThuMmxnWmlyS3d5SjVfZlR1TF9uNmVKbC0zWEVHdQ?oc=5",
-      "source": "自由財經",
-      "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "南僑發出聲明 希望泰山勿再卸責濫訴 | 經濟日報",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oX3ZZM2Q4ck1ENmIwUmY1d3dLdDdxb2RhWkZqQms1a2VaenJPUGFGMzJzSTJER3JHUW1WVXN6YlhyQWJJQWdmRzRNT0Qxd1QtR1pQUDJR?oc=5",
+      "title": "泰山求償10億 南僑聲明反擊了 | NOWNEWS今日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oTmJ0MHgyNFZtbnNsTXFTQXZSREozUzhueTR6ektDaW1ZTVhNdkNCMlZsT2xiUGp2UnVIeEdRVy1SSlRjR0ZnX084d3E5SEp5cW9HWWd3?oc=5",
       "source": "LINE TODAY",
-      "published_at": "2026-09-08T07:00:00+00:00"
+      "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
-      "title": "泰山怒告4公司求償10億！南僑反擊「不是問題油製造者」：最早發現異常、將依法答辯| 下班經濟學| 財經",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pcDcwZEdwakZfTDZZamJsdkpHSWpRZG5qSXpoVkE2elc1c3JsM3ZVYzZVQzV5d0xRLUs4ckEwOG15YU0tVGJHSmhUZzRsQQ?oc=5",
-      "source": "風傳媒",
-      "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "不再沉默！泰山向中聯、福壽、福懋、南僑提告求償10億元",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SdUxPVzFNbXRPNzZQS3hfaUpZdVpqRHFxYUdHSXZGelUxRHJVY0tTOU9LOTBEZk5mWTVxM3g4NHB6ckJLZ3BsS1J5b0JDb2U3U1BN?oc=5",
-      "source": "中天新聞網",
-      "published_at": "2026-09-08T07:00:00+00:00"
+      "title": "泰山突告南僑求償 南僑：泰山卸責濫訴 無法理解",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tRjV0cmRuai02Q1MtTjZrVk1BeXNfN2hvM2dqc3FoQlRfeW9NX3dVeUVRMGRiQnlEN3paUTVzRG9mSjBmcllkay1zSk9VRG9qNXBxelNfa08?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-08T07:09:47+00:00"
     },
     {
       "title": "泰山怒告4公司求償10億！南僑反擊：不是問題油製造者「而是最早發現者」",

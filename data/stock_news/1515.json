@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T16:36:22.230743+08:00",
+  "updated_at": "2026-09-26T17:33:15.446101+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1515",
   "name": "力山",
-  "count": 4,
+  "count": 7,
   "news": [
+    {
+      "title": "力山(1515) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BM2VjdmVsNjZTWGRoZzJMZG9rTk9wU0NqVzVmOHlHTVVTc2ttUk5ZbHNIS24tb2pLZ0JGMFFhYlJXYlBNMUROY1lhUUxTT3NJTks0?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T23:42:26+00:00"
+    },
     {
       "title": "討論牆 | 盤中速報 - 力山(1515)股價拉至漲停，漲停價36.9元，成交1,391張",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iZUFFc3dvZXFjcWowcWJEMTFyYUlNc0lnZHdheXhMcnYyZDM0Z1RpcGd4M3FlOTNuMWJqa2RxVi10WEdmdVBpQ3VRWF9yTk8tYmd3Z2lfOTJ3c2xwM183ekRGZjg?oc=5",
@@ -24,10 +30,22 @@
       "published_at": "2026-09-21T02:49:52+00:00"
     },
     {
+      "title": "1515 力山 - 大盤再拉還是不為所動... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rWFRFTHNhb0lJTFpvcXJkcFFDQ0loT2czUUhQb2RYd1NZNUxMa2NaRHF6SjloWm5ieWZ2aE8wV0VBam53RTdJV190RFRWcmtHSzFZdVV1VVg?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-13T07:00:00+00:00"
+    },
+    {
       "title": "【09:37 即時新聞】力山(1515)股價上漲逾6%，提早出關後買盤回補＋短線跌深反彈縮小技術面空方壓力",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdnU0d0hLLU14VFhGcFBLb25tLVJrTFAyWGpuTDlIQy16LVJtcjBKeDZ4VlZQNlJfNk9NRGthMXdMZGRfeUVIMllHazgtdFNnNTEzYTRxM2NsR09WVGk5aHFJLUFSQy1QZEVzLUEtaGt5UEpyVEMyTlF2U2piZXFiNUIxdTUycmhzd3JaMHB3?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-11T07:00:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】力山(1515) 八月營收4.6億元，創近8個月以來新高，月增5.96%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcEwyMVppQlZadFlrRDJxeEVsVDlJUFlkeTdVTVBaMDJfQUN2d21mR3ZILTl1UlY1ZDZDWW5kdUF2SGxzSjg2eDV0Z0p6czRGYWJrM0k1MEJjLTA1UmJfQjlvMURZMlRaR1NIamFMVFQ2X2I0SlpLMnpDb3M4T1RLaTBjRGpfWF9uRVE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
     }
   ]
 }
