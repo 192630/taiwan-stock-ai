@@ -1,21 +1,8 @@
 {
-  "updated_at": "2026-09-26T00:36:17.081885+08:00",
+  "updated_at": "2026-09-26T23:45:52.898972+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3466",
   "name": "德晉",
-  "count": 2,
-  "news": [
-    {
-      "title": "記憶體供需緊俏！「這大廠」砸3466億擴廠 目標價上看608元",
-      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPN2YyeGI3aXpiT0RtMFU5ZGZQMEpVV2Zudi1rR1Rtd2tLOXpySEtnTnJzRVJoTEdzaE9uTm9LVGxYRkdUQlJld1ctX2pOZmRVXzY0SDdTMkI0cWoxZG9FZTBUUHFTRUEtNFQyVkpkOGZxZEpNbHhBSF9jb1dfTzZkNlhJQWJDSXFpajdaQmp3VktDblFoTm1wY3ZnWUdzZUVTRlU0akgwNHd0NjVXTENBMXB6MDN1NHdrZEN2Y2N4aWVLQ1B3ZlNoVEdObVRPVm1vc0dSRG5IUXprMXhHTTVxYzBDX0M3YktuWDNRQU45dFZPNGdGc2dObkdLWEZ2QTJlMmRKTk5xek5uQUk0WEVRMWNGMGN1X3hLLUY5ZF8tVnhlTERtdEdrSGFJLWQ3bjVLaVl0R0Fya0NFUU5nX0NoRWVDRHR4SXhnTnJoSnpOSW8?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-22T17:35:00+00:00"
-    },
-    {
-      "title": "DRAM報價漲不停！這「記憶體」豪砸3466億元擴產 第三季營收估年增6倍、目標價衝608元",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5QRFdmRnl3UDN0S1R2dnV3TFJkTUJTZ2dXUWg2M3gwdHVoODZNbmdkWkNSQldZbFE5Q0NYeTlETmpnNE1UOGlRTW9CZw?oc=5",
-      "source": "FTNN 新聞",
-      "published_at": "2026-09-22T14:15:00+00:00"
-    }
-  ]
+  "count": 0,
+  "news": []
 }

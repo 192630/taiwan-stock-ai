@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T23:34:58.664446+08:00",
+  "updated_at": "2026-09-26T23:45:47.667257+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3430",
   "name": "奇鈦科",
   "count": 4,
   "news": [
+    {
+      "title": "先進封裝與 AI 供應鏈發威！玻璃基板加速開發，奇鈦科上半年獲利暴增121%-財經焦點情報站",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZnEtUWdXam5XbkdWeWVLZnp1WFJKaTNPY1duSjlHdklfXzNFamsyTXhQRlAxVUN3aGdBYUhxSmJqZXFUYkRkM2xfbGVuTG1fOWlRQ2Rvd3NqUDFkUmJRMXlrNUU0NW1fdmRnZ2VvY1owY1NqLUdZbDgyalZzVjQ2dkl3?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-26T09:44:47+00:00"
+    },
     {
       "title": "奇鈦科(3430)法說亮眼！上半年EPS大增121%，營運展望全解析",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yRzM0X0VJTUJnVUlXbGlUamZXbUlZeHBtQ2hsb25hLWdlekxKU2N5WG00RDlOQ2dDdXBUTmVTUUFITjMxNjdabzcyejdwdE5LNFJUOGs4b1dmbThW?oc=5",
@@ -19,15 +25,9 @@
     },
     {
       "title": "奇鈦科(3430)法說釋2027展望！上半年EPS衝2.68元，藍光、食品包材接棒成長，毛利率守得住嗎？",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12QW5iQlJQVTZ6TnFqcmRsWmJyRDlyNjZhVkVXMUhBZU81MThMQTdadXVob0tWbFBIUno2U0ZHTXJtYWktUGEtTUhNNThoeGs?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-09-24T03:30:13+00:00"
-    },
-    {
-      "title": "【11:48 即時新聞】聯亞(3081)股價上漲逾3%至3430元，高速光通訊與InP缺貨題材加溫＋多頭均線與法人買盤支撐續強格局",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYUZDM09uY1BwVmFnTzRRTFNNZUlOZjhzT2FyZVdHNjV4WnA1VjBhaXI5eW91S1pVNGRMUVQxclNYWkU3NTU4VWR4aVBzSTQxVUJTV01UcVFzNWhlczNZR0gxYWg0Y0NqWW5ZYVR5U1pDYnMtRENyUkdpVkt2T0J4ZVVIQzI1d1hzV2R0VjNn?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-08-31T07:00:00+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yNUZMZEtoYWlxaVpZb3B5LUkzR2Z5SUpDN0J4RWN5WnE4UUgwRE90S3JfTllQOEdqSkhRbHVYLVdaaVJPeHFlazBOeUZvZU5oVTdTamJ3?oc=5",
+      "source": "優分析UAnalyze",
+      "published_at": "2026-09-24T03:10:00+00:00"
     }
   ]
 }

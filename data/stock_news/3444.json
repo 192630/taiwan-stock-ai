@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-26T00:36:14.447107+08:00",
+  "updated_at": "2026-09-26T23:45:50.634727+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3444",
   "name": "利機",
-  "count": 7,
+  "count": 8,
   "news": [
-    {
-      "title": "利機未來三年挑戰營收倍增、EPS拚新高",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQTDlBMlNYa1h3T1N2YW5xRGJHQkhkMENmMzhGLXU4bWdWbHRBNGE3V1RzTGZYTXltNmRBaTJncnFVX0x3ZzVKWlE2WVFRYk5iQTJWdFNHR3RPcHh5MzFFZWJvdEZ2NEdWNkFYZldwMEZBbC1VUVVVOElDS3RWaVhzaDJrMndvT29yZm05NHpPaGljYWFFakVwR3dXamNQenVkb0h2NW9hckFqdEhtSXY1d0phRDVCLWJHVEhpcmlIbUw1c3R5ZHAxQS1hbUNuakkzTTF1TlNybE0wdHJiUFVaeTVjU3lGRmt1OTFBdHFZM3dINW9RMWFRc2hyTFViSDJCUkZxejFEZTRlekQ2dm9IRnhQM0s?oc=5",
-      "source": "tw.stock.yahoo.com",
-      "published_at": "2026-09-18T02:27:37+00:00"
-    },
     {
       "title": "3444 利機- 【最新消息】IC-通路族群再度發動，「10檔概念股」強勢上攻！ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83MVEwOEI2VXBtd2VKWTRycVN4TlFRNTk2ZG9HN0FiLXJPZTEtR01XNlFESDNXV1cxVGs2MHk4eEQ2Z2pUMk53LUlqWWVtSjBjYXBpaVVDSXA?oc=5",
@@ -18,9 +12,21 @@
       "published_at": "2026-09-17T07:11:26+00:00"
     },
     {
+      "title": "利機(3444)千張大戶與散戶持股比例，持股籌碼集中度查詢 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03OHJpSUdxLXlURlNxb1BjS2M2MGFvajdNaEQ5UHJtbUdodzliUmhMT3ZHdU5pZDNXMEVsQjBTeXB1TWFMZjNSNXY1YklmVW94eHJob0IwQ3JRcHVyd1c0UGRuSlA?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-17T07:00:00+00:00"
+    },
+    {
+      "title": "利機未來三年挑戰營收倍增、EPS拚新高",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQTDlBMlNYa1h3T1N2YW5xRGJHQkhkMENmMzhGLXU4bWdWbHRBNGE3V1RzTGZYTXltNmRBaTJncnFVX0x3ZzVKWlE2WVFRYk5iQTJWdFNHR3RPcHh5MzFFZWJvdEZ2NEdWNkFYZldwMEZBbC1VUVVVOElDS3RWaVhzaDJrMndvT29yZm05NHpPaGljYWFFakVwR3dXamNQenVkb0h2NW9hckFqdEhtSXY1d0phRDVCLWJHVEhpcmlIbUw1c3R5ZHAxQS1hbUNuakkzTTF1TlNybE0wdHJiUFVaeTVjU3lGRmt1OTFBdHFZM3dINW9RMWFRc2hyTFViSDJCUkZxejFEZTRlekQ2dm9IRnhQM0s?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-17T07:00:00+00:00"
+    },
+    {
       "title": "利機明年擁三大成長引擎，能見度提高",
       "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQM3p6ZzFicVN3UFp0ZUdYX05XOFh2WUVBQXVMTF85WkY5WEJBNTNkaFp3MnplM0RkWXFjbmdvNXFrZXRXODZxTk9fOGVFWmNWbUxHR1g0X1Y1Nzlmb1BGZklGYnJld01fZElyN01URHhWQzFuMU9hSTJMWVYwQzN0ejhIbU9OMkxvS3NYbTFwR3dRYUFPXzhiLW9adzdibjJSZ1Zwa3NHYmZPb29vWjNjRWoxRzZVRkI3S0VBY0p4WlJ4TXFBckpDaGMwUDR2WWt5TGFNRFNIbURrWXZjMTZwRkJhU0hUYnpkanJNS1U1TllDZmhadThoUFIwdWlZajk1YlMtX0taeXY4S210UG9PbWQ1NnJtOEd6REJ5Xw?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-17T07:00:00+00:00"
     },
     {
@@ -32,7 +38,7 @@
     {
       "title": "利機8月營收年增27%，載板能見度至明年下半年",
       "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNd0dpUGtHSzRndUhMel9USU1SVGszSTlNM2NWRUxrUENoa3JqMko2cGRHbnpQbm5rSEx5WTIzbldRc1d5azRSaEVNaS1TVWNlZ182eGlIS29Velc0Mm1lczZTYmhaUUp5MTd1VUVpRl92WWQtUHRBS2NQS0xPdEw5UWNfdkkwZnFiOWVucFRwYjBjMENiYXR2bXRjZ1pSaDVuM1hsMmxHWjJXRFNTWWt2UnctV0dBQkRzVEpMS2t1YWpGak8tMWo0dDB3RmpyRDdYdGt1aEFkSVlVRkFLY25feXZaZ1ZjMlJvWEduYldZc1UxaTN6aXoxaEYwZ0p2U2NfMGlJYjE3dEZnLVVadXN1enFmOXBZZzF2VmRIX21iMUVDSUlQSXFxZV8tU1BmNnhVYldJVDJyOEs?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
@@ -44,7 +50,7 @@
     {
       "title": "利機均熱片貢獻升溫，營運動能看俏",
       "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPTEItdmphS0tXZE40aEtjT2dtS1VlaGYzU0VNUURoRGVVamhjek1OcTZfSXA5ek5uVjk1LWh1cGo4cE5mYWo5RnBoQU5JTUg5MnVTUWxJRzVoUmVsbnZJT1dnWWwwSndrbmNXbFdVaEdjbUtDRUI5aHlodkFrZVpjX29MbERNY3p3NE9ha25Hb3BoNk1hU3EzWDA5T2VmWU5STldMSmMxSndvU3VDZk4wMkg3dGI0OUhQdjNQZm44UE83UXJnVWIwbElyS1hqMjVYQmNpT0Rxa1pZYV9VWTFNZHp1UmhEcDgtMFFPWmVGSFlndEJBcW16bG1TNlVaM0ZfdXhGSmZrSWRyNmtWN1hVNg?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-07T07:00:00+00:00"
     }
   ]

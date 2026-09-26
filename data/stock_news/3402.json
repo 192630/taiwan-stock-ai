@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-09-25T23:34:56.465249+08:00",
+  "updated_at": "2026-09-26T23:45:45.186705+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3402",
   "name": "漢科",
-  "count": 1,
-  "news": [
-    {
-      "title": "3402 漢科 - 終於在漲了 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11cW5rSUFjd2ZTcURaTjdkNEppOGJoUWlMdEtVbUttejEzeUNtcU0xQnhSaGZYa2xZR0ZkTm9TaHU4cWU4WGlFWFBLTzRIVnAtZzZqZlVMNDI?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-18T01:53:33+00:00"
-    }
-  ]
+  "count": 0,
+  "news": []
 }

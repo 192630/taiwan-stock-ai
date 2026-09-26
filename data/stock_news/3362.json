@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T23:34:51.915595+08:00",
+  "updated_at": "2026-09-26T23:45:39.961465+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3362",
   "name": "先進光",
   "count": 12,
   "news": [
+    {
+      "title": "3362 先進光- 高塔半導體擬砸40 億美元擴產日本，打造 AI 光通訊晶片基地- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kQnUzUzh4NFdMVThFZGVFcnhiQ2ZWSTBtLVhDVGlNckxxZWlMWGcyeGlseWotTlZtMUhIR2FPakMwSldiSTJ4NFM2NHdhT1BSSXNwZDRwdGM?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-26T03:42:02+00:00"
+    },
     {
       "title": "欣興(3037)與先進光(3362)這些案例都很強，你現在是... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9EQ3F5eEZrbHVPcWFEdFFVZ29sdVl2cHlqWWE2UHJuR2tyWHRCS0VNTElzTzl2djhmTDJ5VjhqRmxCMFJObkRVNXFzVk1SMk9haktqQlp4ejNaakxJWFR6LWx3NlBYall5ME1xLURFWW5DM0Fmdk5PblJ0MA?oc=5",
@@ -68,14 +74,8 @@
     {
       "title": "先進光CPO產品拚量產",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOVTJ6QWxPVGFleDNPcEFFR29Vekl1ZUdnb2JKWWFuUEdTN215OXBwUEhYR0VwazV5cWVRanJjN2hRTVVUZTVrRW1nY3NrbTM30gFWQVVfeXFMT09UT3hTeUpDaVA3bkVYSVV3ay1wTE9oQnpfamUweXU4aXl2NGNnVkY5bE4yLUVIY0ZPbUNwWFZPNUplbVlxcnVzUmk4OW90UEp1MTFUaFE?oc=5",
-      "source": "UDN",
+      "source": "udn",
       "published_at": "2026-09-03T07:00:00+00:00"
-    },
-    {
-      "title": "先進光CPO持續推進 明年拚損益兩平",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaTi0xUnZJYWJRQlFCZFh2allBdE1VUFVpZlNFdlRmRE8wTVUyOUZiU0ZZc0NrT2wzTmdfVXRJLVgyMW11eWxZalJCczZCbzlyU2Vqd0lpNUc?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-02T07:48:05+00:00"
     }
   ]
 }
