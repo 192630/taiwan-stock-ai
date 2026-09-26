@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-26T03:32:23.999464+08:00",
+  "updated_at": "2026-09-27T02:37:07.426975+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4569",
   "name": "六方科-KY",
-  "count": 4,
+  "count": 3,
   "news": [
     {
       "title": "【2026/08月營收公告】六方科-KY(4569) 八月營收1.47億元，年增3.62%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM3g3WWFKWDFxRU5qWUxOejRPTHB2cVZnUUtqZzdPTGZDRHFjcFhkaVBfV1YxZlBXVUxRM29ENUJhOVYydDV6eFhneUIxcnlyWWZ3Tlp0S285T1JYY2lmbnRJNUZWRUtnSW9YZ3lpS3lBa3VNUmp2YkVPc0ZmYUxQOGZIWkdNbUdrMmc?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
@@ -22,12 +22,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yQzlBbXVBWEI2QVdlcjRnQXpmX25uRFQxOG91RElWUUlwY0dkRVhZR1VPWkRQaGIyakp3OUQxQks4WWJQQk5zTGlBbG8xYjVUc1Z5OFU2N2w?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "六方科-KY H1 EPS 5.54元領先同業，H2營收看增",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZkx0NTFVZVkxWk1oUFB0d095S2tEd25Eclk1V1NsZnMtRXVuZ1RXQk12TjBhanVvNnFJZy1EbFpaa1h5SDRqeE5vcm5sZVV1NGp6Tk5nOV9CNWtTTmtfVXJJYnF0aHNGUnlpMFJoRlBjRG01eHRQN3dxS2twYUh6bExHQUFVU2Vhci1XLVgwVQ?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-08-27T07:00:00+00:00"
     }
   ]
 }

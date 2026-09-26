@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-26T02:36:38.486953+08:00",
+  "updated_at": "2026-09-27T02:36:58.817172+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4540",
   "name": "全球傳動",
-  "count": 9,
+  "count": 8,
   "news": [
     {
       "title": "全球傳動CPO已獲兩家客戶，明年將擴產因應",
       "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOZFpQY21Id0dHbFg0a1FaZ282TktmRlg1aTlndGZTTVhua2VxYzMybnJoaE11dzVBV0FZQ29vakxGNkIteHBTQ0NLSTBaSjZZSk43V1JsTjhKMzNIanZsTmZKQUttNk9HUUZmUmh0dDBQVUFIcXh2SERJcWN5ZnNHc2dJbElNRE13cngwWURweVh1bkgzazN0M0RfUHl1X2VZblpXS2xheGoxQmdPMWgxZnh5T2ZOYUxEOHQ4Z21GTGg4dWR4a19pMzljaUpFUWs3d3NLOEJDX3I1ODY3N3lKdzNMU3JFVWlhb0pueXlHU3NMbG5mM2NuZHpRTjVTS0xiTW5JWVQ1b3pXd1RPbG5NU0lVbjNWbERocGFCWmVtREhIRjVaVTQ4SlhfTEo?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-24T05:39:38+00:00"
+    },
+    {
+      "title": "4540 全球傳動- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5oNTZOdzhrNkExcHhTU21kd2NKWjFaM2x3VDhQN0RSVk9RZVJCVjYxYm5IWWViX1haU2JfdnpXblNqdnVQNzM1azMwZEg4dzd6cXJfWVpnWWs?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-16T07:00:00+00:00"
     },
     {
       "title": "全球傳動三引擎點火",
@@ -20,7 +26,7 @@
     {
       "title": "【10:18 即時新聞】全球傳動(4540)股價走強，人形機器人題材受關注",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOekdXdTZHXzVyaHRSQU9HYlFscl9Vb080NGtBaEZSWnVwcF8wQXFlZG1DdXhvME5TRl9sazBjZmphTjFOdXluTVBZTWs2QjBtd0FBaExteVh3bWlOUkpIR2U3OXNYREhXVWFpRVlENmdSSUlROXVOeTBGWksxcE11dXhuTGp1S1NoYzFhUjRn?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
@@ -46,18 +52,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oa1dNalhnLUE2OXZzT0UwZUlLSGVkNXRzblpCQ3JSZGJJc1NYb2JtRlptaWhZN3g5M1FYWEVsQUk4R0EyVHFLc0xTYl9FaVdweVlqV1hoakJNU0UzRlpUdXA4U0ZJSU0?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "4540 全球傳動- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoUjRRY05aZGpwWFBlTThxN0RPWmRFZGJlajlJWlEzcWJSclEyVXBabzg5QXNNTnhPcC1yOUJXeTdGYWI1a3BzcGVOcUNicW9mRnFod29jN0o?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-05T07:00:00+00:00"
-    },
-    {
-      "title": "【11:34 即時新聞】全球傳動(4540)股價勁揚站上61.8元，人形機器人與精密傳動題材加溫＋前期主力洗盤後短線多方動能回補",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLUFPMzA1WkphX0FZOFotemZnRDRNZGZSdU50eTF2R2V5eGZCbkhxOG1hMHRSNGxNUTVaQ1hVTExQdE5sRVEta0pqblFyNmNBNUN5Sm9iU3ZUbmFpUUl5ZjU2a28zVVp2RkNaaTdpcjBCMHVXbF9JbEtFUVJzbDA5UjlDWndWSW1yMm5zOHJ3?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-08-27T07:00:00+00:00"
     }
   ]
 }

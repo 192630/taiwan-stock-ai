@@ -1,21 +1,8 @@
 {
-  "updated_at": "2026-09-26T02:36:40.695490+08:00",
+  "updated_at": "2026-09-27T02:37:00.924195+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4549",
   "name": "桓達",
-  "count": 2,
-  "news": [
-    {
-      "title": "【2026/08月營收公告】桓達(4549) 八月營收1.03億元，年增5.66%-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd3VUMGVrSzBOSnhuR21GR2lEWFU5dG5Db2R4enB2QzlNaEpKSE5BeEFEQjFZOVdTRUlhbHFoUE1DZnlQRlNGeTU4TXVGbEhEUzVrSFNHQzlxVnk0X2owSF9rNGJJM2pZOERPaE5tVjFnU1BFdE1SeE9VNV9saFZ0RTJ0OURuLW9pSnc?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "歐、中市場有撐，桓達Q3營收看穩",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVDBLSFR4SDU3c1dOVU9ZaFdQb2s1WjNYNHZNZWQtRnVWZVNlVF9jMVRvTjgtOW44ZEhvZ2d3bFZjRW1XTXBveHBvb19rZDdJOGVzdzdmTTJMQVExSVRyYWt4V1k0S0dKZDlTUE0wdGZkamJVajNnaWpzVjhOT3VsU3ZTVm9ZQ0hwZHo3ZDNlM3ZyajV5RTcwSHdZRmhoUGFpdnNtVUc0SlJkeG5rX0VVTDFIQkctRkdRcUk4VmtGVFp5dDhuN3Z2elBBV3RVZ0Z5Ukc4UlJJUkxHdHhmOTFiOHI4RWFncTBfM05POEZZMi0?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-08-27T07:00:00+00:00"
-    }
-  ]
+  "count": 0,
+  "news": []
 }

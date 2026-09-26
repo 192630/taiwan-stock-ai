@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-26T02:36:30.938388+08:00",
+  "updated_at": "2026-09-27T02:36:51.167824+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4442",
   "name": "竣邦-KY",
-  "count": 6,
+  "count": 7,
   "news": [
     {
       "title": "竣邦-KY新客戶動能升溫；訂單成長可望延續至2027",
@@ -20,7 +20,13 @@
     {
       "title": "【2026/07月營收公告】竣邦-KY(4442) 七月營收月減年增，全年營運續看向上-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM1JpVW4tbnJqNFIwMHNmcUtHMXR2MHZBbUxXb0V6Vy1vblh4bFFrcmV6Z3VtUks5Mlcwa3I1bWJHN3VMTFgyWHc4dWY5MUpCbHc3TUJIbEF5ZHluWkJwN0drVmNmVVRyWmRDdjd5dHUyMkt3MTcxUXhzbnFNbXN6dVQteTI5Z1Nrenc?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】竣邦-KY(4442) 八月營收2.24億元，表現亮眼、呈現雙成長，創歷史新高，年增131.32%",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObHVpdU9Td1lSS0hkZ250RXBCd0JGOTM2azZXQzRqZDFnRTJ3ZXJsWGRyRHlWSGhwYjM2aVFLRnMxN2FXanhnNzFNZFFGNzJ2aEJNQjhyalE5dmJkSEJSV19zNjBzNW04UXBqd2RPNkg4ckh2NGF4ZElBN05nYU1femxWMGZtaFYtSFE?oc=5",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
@@ -37,8 +43,8 @@
     },
     {
       "title": "竣邦-KY第三季拚淡季不淡 明年核心產品開始出貨",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01LTFXVVROWG0zUXpiaUtiNlNBSUw2aFNzWTNRVVpRV3U1QWVtYk54NXRKS0loNy1XZDhuTHBSTzlxZjJsSnVCWFJtVVprQk9sN0ViMzlyVmxJYmdIOWNz?oc=5",
-      "source": "自由財經",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9VTTNtMFM4OVdCaTJyZWNDYVY3NGoxNUpEMXVVczkxRXNEQW1vZnl2NGtwU3U5WWx6VnpoUjRyN0NWczFrUlo5eFFCTGlTXzBzZlpTTzA3cG4?oc=5",
+      "source": "自由時報",
       "published_at": "2026-08-29T07:00:00+00:00"
     }
   ]

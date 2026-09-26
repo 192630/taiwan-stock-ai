@@ -1,21 +1,15 @@
 {
-  "updated_at": "2026-09-26T02:36:23.375195+08:00",
+  "updated_at": "2026-09-27T02:36:44.220393+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4401",
   "name": "東隆興",
-  "count": 2,
+  "count": 1,
   "news": [
     {
       "title": "【2026/08月營收公告】東隆興(4401) 八月營收3.03億元，創近2個月以來新高，月增5.01％",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5HeTIxdUMtN0doaER6WlZIQ2VHRmh3RkRRb2d2YldISklzYnNKcTZTYk5vMlNPekxqd1lyekI2TFFhczI3UzVYTzZhQ2M4UDNpZ2Nza0tGVlRuaE1aUHNkekNNWVBkYVE?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-10T08:40:04+00:00"
-    },
-    {
-      "title": "高盛狂喊「這檔」4401元！「光通訊大廠」都瘋了 1.6T今年強勁放量、3.2T明年接棒",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPRTh0ekhCWWRNZEZ6R20zdU9RbnY4QVpnaExPNDR0TmZqZXYyc3JacnBrU3QzV2YxQ21xeERuazRwcGI4T21aSHloX0lqYVRraHFkYmFBbDZsZTVHa2dIZl9CU3VNTk9DRFB1a0lFdTMtTndFMEdFUVhneGhnd1dXb09ibzBkQVdDMkhqd25lVkJmVmQyQ0ltNHZRNkdmcTBtcTExSW9YUndKcmswbkw5MVpuT0Z4SUdpNW5mc21VVnNwUjNtNURMVjZHd3kzNXVleFNYUFlSQnJySU1ES3pjQlVnMGwxQmZ1dUhqcGNDSmhfTHRveGFmSWg5cHVXWWhTWldnUTlrMmh5SE1KUDhlTlBIVEN4SENaOHc?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]
 }

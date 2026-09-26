@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-26T02:36:22.189926+08:00",
+  "updated_at": "2026-09-27T02:36:42.928575+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4304",
   "name": "勝昱",
-  "count": 6,
+  "count": 4,
   "news": [
     {
       "title": "廣寰科、勝昱、歐格再飆漲停！電子領軍精測、聯傑、杭特齊亮燈 富喬、光鋐、合邦攻頂鎖不住",
@@ -14,7 +14,7 @@
     {
       "title": "台股持續狂飆近800點！「13檔個股衝漲停」誠美材、統新衝漲停 勝昱、大飲也亮燈",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB3cVNWa21vdEIyX29reE5CUjA5a0lVWXItT3d4N3N5SnpnWlVWWWJsWDhGcU9tdW1YSGFuUmZSVW9OVGw4bm41UHFVQQ?oc=5",
-      "source": "FTNN 新聞",
+      "source": "FTNN",
       "published_at": "2026-09-17T01:29:00+00:00"
     },
     {
@@ -28,18 +28,6 @@
       "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxQMEhuVWNiM3Z4VDJnNWVrVUs3SU03cDhHVGp5ZFFOS2VMQ21hdWlxN09DcFlmc3BLTjhwbFl0X0VOQkowUlBWM3dBeE9SNVRVYklsU095ZEJFSnlESjZlTXBCTW5yd3BOZmtlMUt1emRHRjRoUW1UUVd1UlpNQWFMeWdYRGVxRERyLXg1WmphaTQ4akh4ZU5GTlNoNEllNUxTVmloVjVGQW1YNHhlbDc4YWxHZzIwLWFlWTd2QXBsR0FTN2F5NjZlbUs1bllsNVJGYzZFbTA2MGNJeVZqSDJVYWNfaW1Fb0UtbTBRT0h5Zmg1UkhhWGdMQ1VvVndNdmI4cFhWc0pYTE9aWGxYV1pzZl9EUFJZYmZwYUo3ZDRsR3NFTWZWYzlWR0VrNUljdzhUQXhGd2JMelZicmo0RGFmOXdWLWZ0V2NkQmdaWFJqcEc3NlRsUVEycW1XSTVyWHNnbmV2dEVVREY1ei15ampaV2UybTRkZC0yQWlv?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-15T07:00:00+00:00"
-    },
-    {
-      "title": "【2026/08月營收公告】勝昱(4304) 八月營收營收雙減，年減16.01％",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KOEYwWFhBMzN2LUFKYTFWMS1hdV8tWmVoOEhXNmxzbURkMFNVTnZNZS1qSzJ1OHliM2tlNVR1T0xkOGlZRVA3UFNQR0lpQXlMLU03UzNhVlR3MjRsUndTeW1iUzZoZTA?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-11T01:20:04+00:00"
-    },
-    {
-      "title": "盈餘：勝昱(4304)股價遭警示，自結7月歸屬母公司淨損1300萬元，EPS -0.21元",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWVk2WEZBbk96OXpyYkFmR0VwMXNCUnhMc1RRMDRUTTQ0MTNOYjhSaWFfUkFjSlNib1dlNDExZjFuQ3E0bzJDeWFoek9zSjFIWDFhR2J4c0pUUTI3U3Y3QmxBTXhsUVdreEluZVQ5bHdQTFRtcDFxak5nQmVrb2psLU1XN1g1RTFt?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-08-27T07:00:00+00:00"
     }
   ]
 }

@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-26T02:36:29.704434+08:00",
+  "updated_at": "2026-09-27T02:36:49.936338+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4439",
   "name": "冠星-KY",
-  "count": 3,
+  "count": 4,
   "news": [
+    {
+      "title": "冠星-KY去年EPS年增346％ 今年再拚營運高峰",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04SE9RZ2V4MDZpelVYbXFIVW1CUXpTaVhjamtTeHYxUVZBQWRuNWowb3gwWVJDQzVEQWwxZk0xal9qel9RbVJKQUZ0LUk2T0dtR3B6d0JwTTU?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-25T19:30:12+00:00"
+    },
     {
       "title": "冠星-KY 8月營收寫同期高；下半年聚焦越南廠擴產",
       "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNUzRPWktab1BfR3dDa0VXMFJ6WjBmWWl3UlIyYmwwWWJPNE9kSFNmX1hrZUNRV1VwaHFDdFp5TDZUdEpPZXJWeFZIelNIRDhPalltc1J2R3VsUTNsbDkwekFKZExFNXlLUnZVQW13ZzdIZVRXQnMwa2tRNzloZDVwLTBSSDV2Yk01U3o5RkJSUWZqVU5jOVk1bmt2cTE5X052Q0hFdE9tMXBGUGRyMFFKLXBOdDRPbjV6dnFYLXlCR3gzeWpmWmUwTU1sUGZGX0w0eDNtVlhqdVJJTm5Nd3Z4a2dhTlBGOHlRUmFPV1pEejQ0UjVoMUNpOVVUeGMzX29nUTFORndSck9mLVZTOVVLVFZ0cGdESDFUaVlfbVdjU0xkTDhpM2pSN2V5RFRWaS1EdUY3WXgyNUtqa0l6RGdLV1prV3dwcXM?oc=5",
@@ -20,7 +26,7 @@
     {
       "title": "【2026/08月營收公告】冠星-KY(4439) 八月營收8.01億元，年增19.93%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSGhSaVZoOVNPTGIyZmNiYW5qdlBqaGx2MnpCdW5PTnR0Nkx6dHFENmk5cXliTVh5UnhCY09IRTRNMHNBZW5pOEc5akxVWHR6ekhRNU9kNHY1NVg0eDRqUEpoRi1SaEsxY0hneG04aG01V3hHdC1zS3piem4xM2Nzem9wS2ZGZmpwWEE?oc=5",
-      "source": "CMoney投資網誌",
+      "source": "cmnews.com.tw",
       "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]
