@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-26T00:36:45.567693+08:00",
+  "updated_at": "2026-09-27T00:34:56.737369+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3580",
   "name": "友威科",
-  "count": 6,
+  "count": 5,
   "news": [
     {
       "title": "【12:28 即時新聞】友威科(3580)盤中走強，FOPLP設備題材獲關注",
@@ -20,7 +20,7 @@
     {
       "title": "友威科H2估優H1 全年拚重返成長",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZEZhcnNPMGdFZnZTeFZXSGFDRVNQbGwyRHBkbnp0eGJPbWt2R3FfaUsxWDQ0dzhyU3FWbERxencyek5uU2hqMHN3MVMzSjU1U2V3eGl3Z1N6bjJRc1BERHl4T0FYblFFMmNuNWNoaUtTZktTZnVhTEt3VnQ4TjJvXzQ5YWlXOVhUeVZfNmZOczNBRDMwc1hnQzNPUW1ZOHZUUmQ0NEdqOXpzZzY3UU1vaFpSdENDQWJVMDhkM0ZwQTVmSDdGZEtLS0RQQnphWmlGMVRaMHVwaUpPaHZuXzU2MmZUOTdtV0dadWVNLVYwSjFqQQ?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-14T07:00:00+00:00"
     },
     {
@@ -34,12 +34,6 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUE9wN3JmdmFVVnhyeHFyR0lEU3daTkFsSEtDLWJlTTZSMWxDc2NPLVRXWm5QUkExLXR0YXNTSTR3QjNQNzBFbUg2aVFKQi1FdFVyYklRdFVPYjN0ZDN5Y3lrcTYwVlg2Ql9CbDdTZWIzSUFKQnBOYWw3ay1JcVdvaDN4cW9UUjFjUHc?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "【26Q2財報公告】友威科(3580) Q2 營收1.2515億元，刷下近6季新高，季增94.46%、年成長11.24%-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVkJGNFk2aUdwNVFiSnpadXNWNzRJdVp6UTVKa2RZVXVlZkNpSjBFc0xhQl92Rl9RUGtpYjJRc1MzQnp4ZWhUMF9CZnhTVjEwakw1VWM1anBNcnhTbHFBQm5sd1NHQ0pKT2tvQUJ3U2t3UzNFTlhkNm1PTzMyVVh3NlllTkMtakhwcVE?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-08-27T07:00:00+00:00"
     }
   ]
 }

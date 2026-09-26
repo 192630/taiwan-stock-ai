@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-26T00:36:52.956266+08:00",
+  "updated_at": "2026-09-27T00:35:03.639982+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3611",
   "name": "鼎翰",
-  "count": 5,
+  "count": 4,
   "news": [
     {
       "title": "【09/18券商評等報告彙整】鼎翰(3611) 今日僅1家券商發布績效評等報告，評價為看多，目標價為225元。",
@@ -18,21 +18,15 @@
       "published_at": "2026-09-17T08:30:04+00:00"
     },
     {
-      "title": "股份變更報告＜3611＞松岡（28.76%→28.60%）松岡典之等",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU0FaLXRDNUEzeVBsVkJOS0R4YnQ4MTZhVlZqc3B6VGVwZnFuWDBwOUQ4ZWVaS3lybUR6bFFqeFlNMVJONElablk1UGpTeFh3OTkyZ19fc19oYTh0VFpscVIwWXNySU93alpWYUtJQUxDLVpMZVVwbnoyMURNZHRjT3ppS2tKV0pnY2N3N0dsOExBVXg1TnV5U3lENUVJaWhxT0ZN?oc=5",
-      "source": "Moomoo",
-      "published_at": "2026-09-17T07:51:00+00:00"
-    },
-    {
       "title": "鼎翰併購效益發酵，RFID成新動能",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSmhrWEF2ZGdzbXdDVFRkbWlVOGNEaWtiS2o3YWZKYldrN0RMd1FKcmhscmVyS0ZackUxZTdoeGZ3RXVMdjN3T29xbEtrZGwyci1mRDNqRmFueXdGaXk1WnVjY1M0VjFQdFVpQThrOWpkRUd6MzdxOTZCTlpwOEcweVMtbU42QWdNeDJzRDZuYmFSOGt3NmR5STl0WDBHQjQ4RGl4djZyRklBVVNiODhnWE9weVUzN3IzclBWRjNJbWphYS0wWHFVZFBKWjk5Y2ctTzVhS0hIUy1TbEswU0pXWXlDcVUwTTVTejJSMW5oX3pjQQ?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
       "title": "鼎翰H2營運看升，訂單能見度至明年H1",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNVGNINEdXcXBRWGh0Vno0ZWoxWlBOYWNzaEVfdkh5dlJDa3NNdFU4VDljWnZMUkZ6UzBhNmFxTTJjNkdlR0txQ0FjYVF3OHRzRnRNTlBlS0ZIaF9mb0FSZ2U4R2FiSXhIV2RMUFFPMXFyNTNsd2xhVzZ5TmJXVWFjQnBsRWlNUVFtTzJhcVRldUttNGVQT2I2ckRHU1NTdDVMOGNvSmd6TFlfeUIyZEptdmkzaDN5akNQazlFbFlBeVhER1VfNFBhUHpVdldSRlJSR0JjeGtLckE1cmU4dWdINnd6bmh3VEFIUV9OMURnQXlicmFWekZFakFLb3VXWjBjMU82Uk9lSXk4QQ?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-15T07:00:00+00:00"
     }
   ]

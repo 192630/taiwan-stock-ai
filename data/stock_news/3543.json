@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-26T00:36:37.018457+08:00",
+  "updated_at": "2026-09-27T00:34:48.495302+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3543",
   "name": "州巧",
-  "count": 5,
+  "count": 6,
   "news": [
     {
       "title": "討論牆 | 盤中速報 - 州巧(3543)股價拉至漲停，漲停價44.1元，成交2,185張",
@@ -12,10 +12,22 @@
       "published_at": "2026-09-23T07:01:39+00:00"
     },
     {
+      "title": "3543 州巧- 州巧越南二期廠將投產，AI機櫃成明年主力- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpTGNiUGxEVEVuSzljUTVIb0wxOTNncXB6MFRzM3lHSUd3VXR5aDFNa05tVUdfenVIWkRSVWM3MFBGR1E2VUZNb3ZUaGlTYm9mRERCMzQyeVc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T04:20:23+00:00"
+    },
+    {
       "title": "【12:11 即時新聞】州巧(3543)股價盤中走強，市場聚焦光電與AI伺服器合作題材",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTThtaDRZR29OeGc4amhTeXg5aWJUa0pLWVJoSFFGMTVkQXRoRFY4Ry1lTHo1aFUyNGRtTHFoTHF4aGM0QkFGRzAzNzF4UVdnVFVpUFFkNTNZb0dtcVJBTkk0QVhqQ0tmMnlCUG1RTy0tR2ZJUE1ZdzhTWkxWOXl5VUgxYk41d3dFQXhyUVBB?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-22T04:11:51+00:00"
+    },
+    {
+      "title": "州巧機櫃營收年底前可望更顯著，加強整合拚轉型",
+      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPOEZkc0F5X3VGRUQ1ZHlVazZORFdnS3BNSDJ2YWtPSUp5SGh1ZXp4SlBXUS1Mb0ZMWlp0aTJLS0FUMzRRUE8wY3dpTWJTQW9IWkJqMVhod2dPeG0zSktGMkNFRHB0OTl3dVphR0FVcjdoM3I2eFVZeXNWdVNtUmpweDNkNGN2blUxR1JidTVRek9VV2l4SEsySmE3bXZoMmZnbGJUbEotd1kteWt0N1hhUG1hcWpCaXpiTDhOMk11M0FUQXpmWHlldks3YXFLNVdROURRSUd5QjhsRXBBTTBGak9UN0JVUzdjWnVqbnl5OGNObHF1Zmh5bDNzcmV5MTB6Q3FmNXB1eUFOeEREWWhEVUR5QUREUHFfVjZGVXBZNUZHSnhndGo1cHlvSFFEd2pWR0RZOV94QnA0X0p0SkNDZ0YxcnI1WTRjeFFZR1Nzdy1FS2ZZZzBJaQ?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
       "title": "3543 州巧 - 恭禧賺錢⛑️ - 股市爆料同學會",
@@ -28,12 +40,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdF9OQ09fd3pMTW92c0dxVzVySTBvanEtM1l0YnZ3SkN3SlBMbTlHaXNTWHJJTTJVZ1kwMmFCZElHclZkYkE0bGdBQWcyNEhHT09xcnlFLVdaUG1LTkt3ZTZYb2xrRVNlZW1BOFd2d25LLVNlbVg3OEkzSWtUenJac2x5ejI2aXJGdV81Yy1R?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-08-28T07:00:00+00:00"
-    },
-    {
-      "title": "【09:32 即時新聞】州巧(3543)亮燈漲停，AI伺服器機櫃合作題材延燒＋法人與主力買盤推升短線多頭結構",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb1FSUm9oNTFxNFBfOWFCOHpWa0toZkhfSzREUWg0ZXphRFJBMVZTWmZiellHYlFEZE1DV3pJVjlDakkzdlpJTWhETWZnY25PX0dkSmJIVS1rWUM1dzN6YVFtZGZCVDAyWmNGTDBiNGFBVF85M2dhc005YWVOMVJHbWM4M1FlRHBhVXlLY3B3?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-08-27T07:00:00+00:00"
     }
   ]
 }

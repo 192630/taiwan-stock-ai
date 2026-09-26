@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-26T00:36:27.350437+08:00",
+  "updated_at": "2026-09-27T00:34:39.385632+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3515",
   "name": "華擎",
   "count": 12,
   "news": [
-    {
-      "title": "ASRock Incorporation的Enterprise value to revenue forward – TWSE:3515",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT2lCaE9DR1RQNjZrTUI1N0RBYjlRVkRkY0JZbnFwLTZsNzJhbkRaVHFuZmlreHRTcTNIT3plRUQyNURnUnViWFFyNXZMOE5EcS1mQXZZNDdDUkJiQ01DRXFRWV9JRjFkcFpXRGJpbkxtT3NSaHBWUEdpdm5hbUtPUVlMLTFvR0dpU2g5Q2YyTk1sSUJ3SjVWUUR1UHJ6YXBuX01KQzRMcmw?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-24T04:14:59+00:00"
-    },
     {
       "title": "華擎 (3515.TW) 股價、新聞、報價和記錄",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpYmhTRm5rX1d3MFdNbENKYnRYOHFacUNObXhEZlY5VGZOTXBoNGNJaXdraFBOMzA2N2huemVzZHdSZkJENExHODFOMFZnRlIyc2h5THVR?oc=5",
@@ -26,7 +20,7 @@
     {
       "title": "和碩華擎小金雞東擎科技10月下旬轉上市 董座李俊瑩樂看明年營運",
       "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxPNklEM0ticTdtODcyYUtCOENYMkhHcGFXT0s2cWVxQ3QyQzllVHBFeXh3VGxDZzNNZjFyd1llT2VYSVVocGtlVEYtQ0lQWGZEcnhNam5mYTJaUmstbWh2Y3dqUXJxam1sUjJodUdqRUhtcWV2LVFXVjBkR3pDeXpwVFRScmZ6Tng3aGZpMU95c3dZb0g1Vm1sdmJzUC1kLUxDbUVSMnlCd2VaYXpKaC1EVTVvWHh1Y1NnSkY4X3VCd3BlZlBOM0dNLVgtRXBNY05hcy1tU0hyV05wNVpKRlZ5VTRKUFJ5SjNVS3d3Y0NMdmU0d3d2bDVnRENtWmpkSmsxLWFQNVBWT3Y4WVY2VjBpZzFBZlJYbmtuMFVPdERGSmJLbk1lSTdmZHQyRzdjWlhiZFptSFZfczFrOWZfNUZEWmlxdU1LVWkybXZ3WFl0UURReC00aGF3c0hlb0lybjQxVVQ0TGhyOTZTYWgwTlRuTzJscjBoMlh1aUd5aUZyM2hsSjRzcnRNeEtWZ1BobFBZQXVmSjRSUG1GNEVRS0lqSmhHaDRpYklfZktzanBMRQ?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-22T09:06:47+00:00"
     },
     {
@@ -40,12 +34,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GLVpmenlzWExFc3U5Mk0tOHVTalhsWGFDVjhWNzlUSThfUDQ3OVBieG4tMFUwT0hCd1VQUXFVdjhENWVRR3RGYk5VclNQbVE?oc=5",
       "source": "TVBS新聞網",
       "published_at": "2026-09-22T07:40:00+00:00"
-    },
-    {
-      "title": "△個股：伺服器業務快跑+板卡進入旺季，華擎(3515)Q3業績衝新高，法人喊買",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONC16T2NTWXZhMUc2ODRnUktJcGgxOTNMalhtVUd5WXJBUEphUmFPckk4X1ZtX0RCUHU1STVMRDZMdHF1WmFzTWFBamFWSW1nSmJmLUlkZnJpU3N4RmpBRU1XM01SMlNUa1c5NHEwRGFyR1JMc1NXU0F4UksySFJtZUczeDF0c0xHUzV6eWVhbFY1T1ds?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-18T04:19:00+00:00"
     },
     {
       "title": "3515 華擎 - 永擎割掉後，華擎小股東的股票就像太監，不跌就偷笑了。 - 股市爆料同學會",
@@ -62,7 +50,7 @@
     {
       "title": "華擎下半年逐季增溫，伺服器續扮明年成長主力",
       "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNZHBuY0I0a1Y4UVJYOGYzdS1sVkZEb1RSRldSazJLWUstUUZPcnVDVW4ySEk5dWNSUXF4bFNmV2twbFBrTldGTl9DZnpzODNQcEF5clFNbWNkQzhJZ2FZS2ZxcXRZc2dXQmFnRzRpaVdVMkY2ZlM3bjVpS3F4X3BrUDlIeU9UMzhfQWJOQlBwM3VKekZ4V1prb1ZJeHNaVVJFX1JsRm1vT2NLVFJtc3I4UHpZaDFHWnA1cTFXYlJRVnUxbkNnOW8tUHRPNWFBWTg3ZzlndmhnVkJKbFFVazg3ZzNUM1BVTWxMcU1VVFJfSTA2QlZ0bHZURTRPVnJtX21QVDV1ZmdXVnB6dS13cnVqX0FLRHlHVkFoMGhRMVc0T1JBWFNfbTBuQzZaYzBybmtOeW9ZSlN6NnhXYXRFT3A4SDF4MkdMTlJOc1l2dQ?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-16T07:00:00+00:00"
     },
     {
@@ -76,6 +64,18 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1SZWhmOEhub21US2xMbURBYms2MTlvUXU1NDBFdk5XUWVrMjdxcXJ0QnNybFJsc1lldU5oOWtSeTVkVnpOSHNwMlRYaTVBWlJpeVdYZ29ndVZraVg4d0ZJSEFyZEo5MVRiT2c?oc=5",
       "source": "旺得富理財網",
       "published_at": "2026-09-11T07:00:00+00:00"
+    },
+    {
+      "title": "3515 華擎 - 華擎8月營收月減42.2% - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DcHR0MnBYSE1hRUdnUG5UZ2FUVFlyX3ZMRXZfUUEzTkRpWHotVURVb1hQWTNtT1RCR0tZZmFpRGtzMDV5R2hNSDFZNV82S2ZkOC1UeE1QUGw?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-10T07:09:04+00:00"
+    },
+    {
+      "title": "華擎伺服器動能升溫，下半年看逐季走強",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNZWM5ZGhpTEtfYnAxZDN0aVNOQU1KdkJwSFJ6UTVKVmxDSkZlNTVaWnRybGFRazlXTGY4clpJYTMyREFac2VGWG12OUF4SkhiX2l1V2E3TmZuTEtoOXpnRGxLMGptWjRESl95U1ExY1BWcnN3MHI1Znpxc01EMWVyXzVVcDZHOHR6RThiVnV1VEFRQ19EbTNrMW0xUWNOc2pDVTlYa2Vaanl2aEZQOHBkbGlhb0Jqb1NFamtpek55SU1MLXNWVzRyTWdQaEFvZy1feDNNbk9QbjE4dzhTYk1vVUVpNjlqcHlveTg0ckNXTTZmWm9MS3cwZnVIVWI0OUFYUTc2b3F6dEYxbnZJZlg5cTF3R0FPbTM5d0ZOeV93YmJ5ZFV3ZEx5Ug?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-07T07:00:00+00:00"
     }
   ]
 }

@@ -1,21 +1,15 @@
 {
-  "updated_at": "2026-09-26T00:36:41.994126+08:00",
+  "updated_at": "2026-09-27T00:34:53.172594+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3558",
   "name": "神準",
-  "count": 8,
+  "count": 5,
   "news": [
     {
       "title": "他5月就預告「沈伯洋成最大黑馬」！網朝聖「神準舊文」",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBxT1NYLURTY0p3aFFFY2tnc1N1YjBBMVVwa3NGS0xxcE9SeDhLU0xRck1xaVRWcDNRanNWUDBGTzBrVTAxaUJRQtIBTEFVX3lxTFAweDZRZHRBd184YW9KUEx0aWtvd2F6c2kwSll3SXhxUGZ1cFo3T214Z01udnNNVE1rc21xWnlBQ3YzMFl1cl9EWVpQVHg?oc=5",
-      "source": "三立新聞網SETN.com",
-      "published_at": "2026-09-22T08:36:00+00:00"
-    },
-    {
-      "title": "曾神準預言新冠疫情、洪災！「泰國神婆」今結婚 禮金高達5千萬",
-      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOQmJqZ3Z1cnRVendYMXI5RjVKbkFIcTNQay1naUwzZDF1TFF3THdSOUoxX09aNDBXaTVVdmtVYVlvZ3hLQ1hwTWlNcGpaUnhnX2ZWYS1EWGkwTXZ3ODdqNWtFUmJrOEV3ZVFOSzB5QXF6eFZZUWVramFjaEY0aUZVUkRlOEUtZDBZajdyd3BjMDFCN24zaElpRWU4Y3lLNXlKcmh2VVEtVTZaMDFMM2UxWlFkQlhrNExtME1HcFBkMG9GdzlEdENuTnk3N2NtWnJ6dmo3TlhRVFZ4aXNqV2ROV1oyYzQxYzl4QU9adGtwU0FLU0xTZzZnTll3TllqM3lTUmU3Ri1ROS1MbXNEVzlhSXVHblptdHgwX1Y5dWc1V0ZWVXhacjV5Vk5KdXFLTWNOd2xBTEFOVl9pNlpFNVoyZTdHZEx5QXJTRGl2djNMLTUtUFc0MGFjeHlBNXlPTVpaM215M1Z2Mm1xSmVkcHpiTEtkS3Z2Vm9xbFE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOWGd3WkgxN1h1R1F4cUlldkN6OFZvWVVLT1pxaWdCd2ItS1F4NUNUZWJuZGZsTHlla1Yydk0tOXhWa1ptNEU3bDlCRnNBUjJJQjgtMXFaMWZjT2FUeHd4RFkzLTZ5QnotTmNNRGEwcEttUnpOREFlMGFpV2RWODJYd1h6ZzlfM3g2aXBFOHZuVlNoSlA2M1BxTkRaSGE4SG5HMjh6SmRkT0dfNzF0VGJLSWRBQVBWMG4zT3ZRbENvODQ5STRzdE9YZ0JSczJROWxJUERUWFRFUThick9Yeks1SXZ2LTdpUGg5Vms2bVhpSG9tR0gtMnZJbDZlNW5rZEYxSll2cU41d05ZNUp4bzM0VXhSZHZaYTVoam5OVWdFZG5MUm1kVW4zQ1hFZXFvMUloblpGbHdoa1pwRXp0YWZsWVVfcWlaTl9S?oc=5",
       "source": "Yahoo新聞",
-      "published_at": "2026-09-18T07:27:00+00:00"
+      "published_at": "2026-09-22T08:41:00+00:00"
     },
     {
       "title": "「9月魔咒」成真！財經達人揭4大關鍵：神準避開台股狂跌",
@@ -40,18 +34,6 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLUNNSU5QVGxmUHp1c3cxYnpHSHFRLW0tX3ViU0lJYmlnUUxHdmE1UklvVmRTaDVZa0JLVk5wWFZmTmtOVl9pQVFSa2cwSTBuRG92SVVJYmtDc3BwZjhMbG9IakFhaXFKNmNaYVg0M2JpaTNPRDVtdlRmZ3dNZkhUMjlDMzc3SEUtTWc?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "索沙神準預言！PCA生涯首度三響砲灌6打點 MVP之爭進逼大谷",
-      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNcFlzODMyc0hkMFNBYkFVeDhodUVCMURWWjdqdXdoQjJtVUJtbHhlRmRhSDJ1ZHA0UWNkOEhZUzE2RmprR1FXSGRVUEZCVzJHLXhiSUZ1SjJfakFib0tGZlNybWdkY0tBSDFTeEREejQ5QjlMSFNTTVRLaC1WMGNVdHViZlhKcnpSZi05VklRclNrV0hBSUkwTkV0M0ZZWnVmQzlMTHVDTWIydml2anMxbHJEX19yRjZFeUg0cTZYb0ctbEx4TTlkUGFFZ3JLR05yem9JT3dQQ3dzWTdfWXFlT3EwcnY0dF9ybkdVdWx6X3VPMFh3bVJlSkd4QzBQdm5kTnNNWUpXRzBkYUljbTFzZUlTU1JSaVBWM2J6cHgtLTlEV1MtRUVkdFItUElEbC1nNGJPN0RxQ2RiN056OFZIbjFsY1RVSUhmZnlDSEphekxWaEZsYktHN2JuUkU3ZllnQTc5ZUJnYw?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-08-29T07:00:00+00:00"
-    },
-    {
-      "title": "少婦開車「騎上護欄」神準側翻塞進水溝！3歲兒、5歲女受困車內 熱心民眾急奔救人",
-      "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOUDAzRXFGZ0xFaXYyRDlCUkU5WG9vRW84d0hyS3E5UVZBUWNuVTNOMFFWQzNFbTR5R05wd3FBcmdkSGh6emRzc3NRamMyV25RMm9pc0prcFhEOFNkUlNvTG51U2tPaW1MaFRteUphNWZyUS1rUXB0VHFrSjBtMG9paUNDVWFaNkxBaklTdGVkc2FhaE9OdEZvenlhVkZyaFBMSTE2RmNfUndLNEw3WjNqU3VNOHR1WGo4RU9lNTFUNnpUTFY2QjZWMkhydk5DZUF6VWk3WDA2dFJHVWNvVGEyVmZMQ3RFRWZiT2RqRmtzSDRfT3M3SVVDN3dEX1ptRXpFNFNUamtKRmVldHNEdzA5cDV1RXhBY0xVMHRzaHdUMm9Vb2lxUmRhYk9oLVlqTmRjZzBkc3RLSlQzNjhpWEYyb2hfR0k4cXZRN0lpWVozX0stM095T2lLNVA5SEIzTk5jNV9QUFlOUkJEemwteGtudldUQWUxaENRblpR?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-08-27T07:00:00+00:00"
     }
   ]
 }

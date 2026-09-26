@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-26T00:36:29.948274+08:00",
+  "updated_at": "2026-09-27T00:34:41.709391+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3522",
   "name": "御嵿",
-  "count": 4,
+  "count": 3,
   "news": [
     {
       "title": "御嵿(3522) 個股概覽 | 個股 - 股市",
@@ -14,7 +14,7 @@
     {
       "title": "展店+宴會旺季至，御嵿Q4營運看正向",
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNX0VUdkxTWWNselItdmhsVkRFQmZTNi04SDZ1R29DWXV0VV83MmdHR1pTWkZtV01fUURaUFRpdmp3Zm1GSkNXTmVtSWd4U0hyRk9RcWNrSDM2LURSNUp1LVVoRldrVWF2cVlNRVZ0MUhiRS1vV25udFBjNWF3cTFXdmp6VlhoR0IyUVo2bFB5ZE9POE9wckN2OEZla25ZcFlYMnIzWVZ2c2hfdVFQYkJJOVZsR1VNRl9QWDdXcFg5a1lHNFZpbHcxVWM0WTI2eVdEajJVMW9RQ2l4N0dFeFdobnR4bDliSnFuMHJ0a3liNGV5Vk9tWEp4S0xrdWR3cnR4M21sUTNISjY?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-13T07:00:00+00:00"
     },
     {
@@ -22,12 +22,6 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSjJSazE4V280VktUemZCckJSdDJQUVU3VWkwcGJxeEl2MkptdnV6S1RJeTNkOHFkWWhxOFVIWlBTalFvSjJSeWVyaC1ldGF4TTIwRkluSEE4angtcHVPY1dTN2RvdEpXNkE4Y25BakJxa1VpSjhvaENEWjFXWkJkOFdGSDk4UHNKZ1E?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "金融指數衝3522點續創高 富邦金站上150元、市值2.1兆元締新猷",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1saDdncXhtS1Q1MW1NQVlXZlREYVJGYldrOXJjb2IwbHA1VVJ6SEVidmhyeEI5bG8tZGU2QVFJMGhVY0hoWXhyS2VWajc5Vnc?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-09-04T07:00:00+00:00"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-26T00:36:21.679874+08:00",
+  "updated_at": "2026-09-27T00:34:34.016590+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3490",
   "name": "單井",
-  "count": 5,
+  "count": 6,
   "news": [
     {
       "title": "3490 單井 - 光輝十月🥰 - 股市爆料同學會",
@@ -34,6 +34,12 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4yTV9yaDJIV2J3MS1fRV9NMjdCV0hSRE5BLUFVZ08tOWJGbDNXSGJEWFZvSzlMNmtJQUVaT0IzMWtTdzlCd3dlSGNIdVJabGxFeTMyZWNhdnY?oc=5",
       "source": "CMoney",
       "published_at": "2026-08-31T07:00:00+00:00"
+    },
+    {
+      "title": "3490 單井 - 說60倒了 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KYnU3UlU4NWU5NEM4QklqVEZHSnlHSkMzaDNkazBIUVNnMEJxMzZQU0RmQWhYOUlIM1Jfd1FYbnRKS3pwVV9oN2FsMmM3TzR5bGNYSy1zMV8?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-08-30T07:00:00+00:00"
     }
   ]
 }

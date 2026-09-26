@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-26T00:36:31.397143+08:00",
+  "updated_at": "2026-09-27T00:34:43.050227+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3527",
   "name": "聚積",
-  "count": 5,
+  "count": 3,
   "news": [
     {
       "title": "聚積Q4迎賓士車用專案貢獻，亦看好中日系車廠成長",
       "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNNjgxM29mUTNfd0U1OGI1SVJ3cXhtdlYzLWc2VHA4cV9jY0w5X3l6NGpIaEhZYnVDWnV2SzFsRjBZZTRnSlNkYl81YWhhaTBkeXliOU9NTXJOUnF5N0YtOEhSUERGTG9yWlRaaFcwY0U1SEtWRmE2amN2amlZVE9Ja01Ca1JWbko4T1lKNjFyZzlzbkFFR01NRE5zOUctUkM5X1dWVVRuU0phWXJQS2p1d2gyRXdKeXBDMFNHdEY5dV80WEZKUzBLVzZHck0ySEVZZHFzUTZHN2tha0lwb1pfRUYzMUNYaVpmV0hIRzBDNUFtYnFfR1dfVk1LWU9QQmhNUXVldm92dV90TW9nN2VxdV9hTkV2MHJUMHpvSVFOSzVsMG13RnRPbFlmdmVacUs5THlQOEdEdUw2dTg1OEdQVG1yWHp1azFtTjhrcHRCcmVDVEFOUWV0S0E3VQ?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-21T04:12:43+00:00"
     },
     {
@@ -22,18 +22,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yMkNIemotSXo2TFQ5SzlkczVHcGY3RUVvOC15UHZpSzQ5Qjcyb3JOODdrTUpXVWJJc1hGNVhxVjE5SmF6VThrSHVXVlVvWFdBZ1A3MWt3Y0kwZEhGU05RSmt0WXI2OE0?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-05T07:00:00+00:00"
-    },
-    {
-      "title": "聚積今年拼轉盈，MicroLED下季量產、車用續增",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOYlg1MnNQRjluS0dKTTFDMFhqWVJKTmNnOGtwTXMtWlZITEs3VkNwNmI4NWdRQV9ZQ0VJTkpGNHR6WTZCTVlCLXN6V0w5aVhUWmFQSEFlNklxaXlSdGFoSUI4X0xOa2ZKOHk2cnVJMWV5a3hmLUhlM21ZbXNqTkdtXzJZVGhVam5vYUptUHZ6WWF0TlpzQ2g0aGppcFBuSElDS1QteVpuMko2RFItYURnQ3hxZmlDYUM1LTJFeVotZ1hXdEsxTmNZemVOYUc3aURGWDFPeEJUMGJTNFRTbWxBZXBqUXkwWHMyOVhTUE55UklIVzloTWRNVWtqNlRMU1dWT2J0R2F0eFAxMXNJZzI2MkVoMGR0T3B6TUVVeQ?oc=5",
-      "source": "tw.stock.yahoo.com",
-      "published_at": "2026-08-27T07:00:00+00:00"
-    },
-    {
-      "title": "聚積獨供阿布達比Sphere驅動IC，明年營運迎成長",
-      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPSENORHNoaVh1cHF6VXZfVHFQeTU0NlRSeUxQOUdXWDhtQlZyZmVWLWNmc2FvTmxGQ292Y0lDNFhyV29ZTGlyRjZRV0hhUUxIY25WR3VkcU5JU2w0bUlhR2dkcXNvMXhMcnJUeW12ajZCQ1dvLUtHMU04blhUUVBRZWZhcm5UV2t4VEhaRUs0QUxFc0RXNV91dkYtRFhvdlhjV3dlTXBkamJhUTFzbHBGWTJzbFpFYk1QRU5IR21WWEh2bGZGSGRYbFRCM0hKVmN3X0d5TEl3RFUtYkNPbUd5Z2dURU5RNkNlLVBabmVBOHVwQ0gwdEJqTmN6TmlySFZnaUdXUDFKbE8wMXlVaUF1WXYxdTBoN1dFSzk5WmVIWV9IYUdfb1FDY3YweE9fVGJGdmE0?oc=5",
-      "source": "tw.stock.yahoo.com",
-      "published_at": "2026-08-27T07:00:00+00:00"
     }
   ]
 }
