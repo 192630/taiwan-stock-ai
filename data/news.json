@@ -1,8 +1,20 @@
 {
-  "updated_at": "2026-09-26T18:22:09.296615+08:00",
+  "updated_at": "2026-09-26T22:22:45.497753+08:00",
   "source": "Google News RSS",
   "count": 100,
   "news": [
+    {
+      "title": "汽車類股、汽車股-即時股價行情|傳產股 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRSmJhTzh3Tmw2ZDNfa3pUVERPSVVqS2Znak9DQkRCT2E0bllhYlZpaDFzMWhkMURicTlOZTJ3Tkw1cWxqdTl0MjlvTUVsTlNMbkZNbzd3?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-26T13:23:50+00:00"
+    },
+    {
+      "title": "借鏡日本，台灣10月辦影響力投資論壇，四大金融共創永續生態系｜深度專題",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE94X1BodERQZDBRME03NGpqbWFYLXhtS1QxdU4wVlladEFpc0hkekZqbVEwWW9nWi1NRFZ5SWZsVV96V0JSVVJzSDFOUnZWbF9pcXNwMlQ1OGg?oc=5",
+      "source": "天下雜誌",
+      "published_at": "2026-09-26T09:41:46+00:00"
+    },
     {
       "title": "潘興廣場控股增推億元股票回購計畫 盤中股價上揚",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KdlV6d1hVc0lrMmtVNWUtOGdDd19HaDUxT3FMVzhya3U2LW1DRU1CR0tXT3dLUTFoQ0t2RTJKLVg4Q0FOZ1o4M0hpdm55aGlqR3c?oc=5",
@@ -10,9 +22,15 @@
       "published_at": "2026-09-26T08:59:00+00:00"
     },
     {
+      "title": "記憶體巨頭SK海力士赴美上市在即，你需要了解的一些關鍵資訊",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdGcwZEUwbFIwbFVWTXZ3ampvMUZuX205NzN2RnNIUzg0QmhMZGlfb3AzenRPa3dUSmdmTUIzZHBHM2NCWUFOeXNtX19wSXRXbE9HMDBfTkcxSDNjb29qakJlT1BIN1Zhem9kbDVwcm1lRWg3NXNhUWFQbkdDc1luWlYxdURvc1pUWi1qZW5Ib1lqYTl4c2pBWlJiX3RZYUE1NldJT1l5NC1GQS1oM2VHWjhtUEFUWXUzLVNOcA?oc=5",
+      "source": "TradingKey",
+      "published_at": "2026-09-26T08:44:12+00:00"
+    },
+    {
       "title": "台股太熱引發保單解約潮！前8月失血破1.2兆 壽險業驚現「類擠兌」危機",
       "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxQNjZSa3RZYW9HUWx5RE1ubGNSeHgwWlNlS1lzLVc3R21XMG5QZDVOTFYyWXBLY3FVRGoxRE90WC1XMTZrQWEzYmpwMGQ1OE9HR2VBVjRfdWpDTnR6UXNHNUlFbmd6bW11RER0RkhmU0RpZGU3cU1TYmVNeEplUF9xUkhaWFBhUEhhYzdNTHZQTjFDdkFJcUtwVUN2VUNySXUtbVRMR2xIOVVVMzEyQ0ZHUHN6QWJVQjdKdUpJTllYM2kySDdrRXBXWDk2bzZ1Y2xHc2hHSm9lakNGVUR4SExMRU1BOHgwYWFxUDhLdnhNUlFGaVZfSUdLSlc2VDE0aVRTamNPNEowaGlQTDRUX2ZHbEZWWWtLNEM0bjV1eVJieGdDSzNLTE8xa1ZqZmtrSXhIQ3ZwSUF1RlViaGNOdVJiZW9jd0ZPWmVWUjcwZ3V5dnpSNWZOY2x6RGxyNkNOZUxpMzNhamlCSTQyZG9taDJVUlowcXpKOGkxOXlSZnVuR1RkM0Fkc1hDX2ZSR0hSb1N2?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-26T08:02:00+00:00"
     },
     {
@@ -24,7 +42,7 @@
     {
       "title": "台股太香爆「類擠兌」！保戶狂解約搶上車ETF 壽險業前8月失血飆破1.2兆",
       "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxOT2tCMWVyYjZvQ2FIb0hyT1M1aWcxMzNNUUg2US05c2tfNlkyWXFrQy1PcWNQMkFMUnpwSmVka3h6Q2F1b3plT2tCcnlCSVo1NVVwSGc4ZnBUY0RLdTA1NjU3OVVNSURsak5rSW5pc1IwNGltSGJkbHhydHBwVDNKX25jckJoRkJORkpFa3NSTk83VHAyMkIyclgzaTVtdDItVzR0Vlc0TlBHZjRsU0I2aW1NQlBBYVktWGFORnRyVUFoRkRfdDJtTXdhZjZUNktDVjVJakNXOTJoM25BNDlXZDBvUzZWOEoxRmFoUUNKS3NBVV9KVjk3dUVQZkpvOXdXWlJvRTY0T0ZNVW9jT05ZRWV2aXBidEt1VUl3c2FJRk54d0lsMnZJSVZSMmc0cDZwbWtsbkVZS1Z6SjdoejJzN2xWX0MzLWpIZ0F6b3B6SlNuQzRtOG1xUlNPX095LVpwQko4UExvMFlpWEFQeXA1S1VwbEJHUTJwVjJlWVVJQmk3WExIVWVKRE5CTmRGTG1rdEZsRlZFbC0zSGp6b2VfNw?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-26T03:54:58+00:00"
     },
     {
@@ -78,8 +96,14 @@
     {
       "title": "台股強強滾》全民瘋買ETF 3大投信管理費年收171億",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5FWHdpeDVMUWhxd2E5U1FKVHNrbjUyT0Z4OG43emJFR1Z5UkhGbUpDYXg3RTJreWExcUxaMW5ON0laT25uZFViRzV6emhGLTdvbVo5aEZ30gFbQVVfeXFMTWhSeTgtM0k2UV92M1haeklXcWg3TDlkNTgyWEFDTTVLZUVncl9rMHZ4eEs5a3pWZVFpRWIyd1RfNlVpNDJibDJNUERQcmxMUk1uRXdhSjlLcUlqNA?oc=5",
-      "source": "ec.ltn.com.tw",
+      "source": "自由財經",
       "published_at": "2026-09-25T21:30:00+00:00"
+    },
+    {
+      "title": "台股秋節前休息！人氣強勢ETF盤點 法人樂觀看節後行情",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jcEQ2ZmVlSzlCUlgxU1hUY3RuWFZHMTZzem5pSkdWVDdEdkJjUDNBTWtFcEhNNHhnUVZPemE1V3NnNkd3LVVsdXZBMkw5WHM?oc=5",
+      "source": "winnews.com.tw",
+      "published_at": "2026-09-25T18:03:09+00:00"
     },
     {
       "title": "關於SpaceX股票解禁，你需要了解的一些關鍵資訊",
@@ -90,7 +114,7 @@
     {
       "title": "小編下班聊點錢》543元沒人愛、5480元搶著問！聯發科4年翻身給散戶上一課- 上市櫃",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwZHlkVDlHT2M4djNaUWRHU0dKQTd2TDR4T1l0MGxZbWhxcFQtWGFOc1R2aGNBV2hVclhYM2VjbVYwaDVyODMwS0c2Q25IZ1EwSWxZZ0hMQXFiWmFJMzg1cGo0cXk3d1dackE?oc=5",
-      "source": "wantrich.chinatimes.com",
+      "source": "旺得富理財網",
       "published_at": "2026-09-25T14:25:01+00:00"
     },
     {
@@ -102,26 +126,26 @@
     {
       "title": "台股逼近新高 半導體ETF近4年績效 最強破417％",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hamtVQVZYanJhZTVEdDRYX3pNeTNvbHNoVVVjS19ma0Roc202VnlxRk9EY0lpcmhrT19vOGh3cDg1REtTbGJZNFRhS1NVY2Vyb0hHLWFNLXY?oc=5",
-      "source": "stock.ltn.com.tw",
+      "source": "自由時報",
       "published_at": "2026-09-25T13:27:46+00:00"
     },
     {
       "title": "台股中秋前守住48K！國家隊鎖定「這3檔正2ETF」掃入逾萬張低接00685L達4792張、投入6143萬元",
       "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxQMDVvWEgxYy1kZmZaQ3VXSHFzOHRQMG5kOHpyZzJvVEpDQ1JRbWRBSGFKbWQzRnZKZThmMGNlSlVXd2szNlZrMnl1TTdOekFHaHNxOFpHdHJTcGdJbGNPYTEwVDNZS2R3V1ZLZHgzNTFHNlVieUxZbF9RQS1nRmtndXJUaXpzLUlzV21QS0YtQmZ6T1VoWlJtYW9IaW9UQ0JIdml0N0NZTG8xb2pHcTA5WHVuM25UTXdpSVBWZGtaT1ZUempoMW5LZjRGVG9JSE5TRUtBQkM1YmdBOENxRi1rQUU4R0w4U1dmbVNaYVJ3WC1kYVc4VTJrRnJxc3JJUS1LQm1kaFlaUmFQOGVXc1FsQjA4dTlDRHdIRUFvdGI4UjdUZHdIa1h2V2hGdXhfUTYtVDMwZ29xZlN4TzREc1l6VmJJdzlDVUVXbm1VSWpQckF5Y3RlWC0wamNrNDZNb2pEZlpLSUhqV3RxVVdSeEt6b2RCcF9LcXhDekJfcGNXREQxdnBTTlV5aVBfLWFMVGI0dzltdEk3OFM?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-25T11:20:00+00:00"
-    },
-    {
-      "title": "記憶體巨頭SK海力士赴美上市在即，你需要了解的一些關鍵資訊",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdGcwZEUwbFIwbFVWTXZ3ampvMUZuX205NzN2RnNIUzg0QmhMZGlfb3AzenRPa3dUSmdmTUIzZHBHM2NCWUFOeXNtX19wSXRXbE9HMDBfTkcxSDNjb29qakJlT1BIN1Zhem9kbDVwcm1lRWg3NXNhUWFQbkdDc1luWlYxdURvc1pUWi1qZW5Ib1lqYTl4c2pBWlJiX3RZYUE1NldJT1l5NC1GQS1oM2VHWjhtUEFUWXUzLVNOcA?oc=5",
-      "source": "TradingKey",
-      "published_at": "2026-09-25T10:58:24+00:00"
     },
     {
       "title": "每股配0.138元平高！「這檔主動式ETF」連5日上漲收復發行價外資昨卻重砍近3.6萬張、抽回3.57億元",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE16QXNlNTlTQlNmNDN2S0pmS0k1cno4TV9wbW43b1ZRTDBMc3F0bTN1UnJfM3hZLTdNa3d5UVZhclRFMHE3TzRVTWw0Yw?oc=5",
-      "source": "ftnn.com.tw",
+      "source": "FTNN",
       "published_at": "2026-09-25T10:00:00+00:00"
+    },
+    {
+      "title": "台股創新高還可以買什麼？ 分析師：這兩族群不買會後悔",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nM3BSbnVJYUFJQy1VLXUwcXJzM3dxT1dYNDl5VHZaUzNyUDU0cEJuYmVlV1pQcnFyd1h0bXdLM2RyUFNrNWZUMmt0QzlUOEtTLUhhZ3VHX2FHZ9IBX0FVX3lxTE5qeWFiQ2dCQ1hnaXItZ3Z2UHAtcVF2QXZXb0tNLWRrMW9CZTctSVczRXBKd2dsZFZtcDRKM1RJVmlDRnV5Tkg2MjA3RXVMamFYSWdwbzlEVFY4bFBGMkpv?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-25T09:00:00+00:00"
     },
     {
       "title": "台股史上首檔逾2萬元神股誕生！外資目標價竟看到這裡",
@@ -130,8 +154,14 @@
       "published_at": "2026-09-25T09:00:00+00:00"
     },
     {
-      "title": "連假前觀望 台股收跌132點守住48K 台積電跌25元、收2,475元",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WdVp3bTRnUEtxVWFRb1ZtUnd5MnVUb3UxQWdhVDdDUmdEUWZRQ3ItSTc3STVJQ29WVDd2a1FmdVJTZVE5aVV5YlF0a3FUV2JkSzlMNEdJQXNBUdIBX0FVX3lxTFBPTmM4bG9FQThwV1NFODhJNzJoZjNlR24xQlo2dEhUSjFiVE0xekp6QVdvSUpDVmZ3aUZheXRpOV9oTVB0bjNuaVFIZ29TekpRcERCVVp4Ymh3QnRCYzg0?oc=5",
+      "title": "台股5萬點什麼時候來？ 分析師：先看三好一不確定",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03T3hfbDh3RVo2VGR6QnJOU3ZGaUJxb05JV3k5UjVoNDZ5UzVuN01zU1pwM1YwWFBTU1RDOV9ZUTljN1luazhWbmdUQmZFRnRDWUFpVDJla2xMUdIBX0FVX3lxTFBtWW5NcUVFVnJSZEhHR1JiTE15T3lhNUdpQjJVMWpnOU9RdnJXT3AxcDZCbGptakVhM2U0UlNzQkpqNURnM3p2M0Zxd2NpYUxvYzBueWVLa0xMamE5a1E4?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-25T09:00:00+00:00"
+    },
+    {
+      "title": "台股大漲 個股成交前五大兩檔ETF 友達衝第一、零股成交第一聯電",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tOXl5eHNSUGpqRFJhdUpNRkZVVUM3aXBaVTBFMEQ3QzJ3RHdpNDR4Nm8zUmtnbTZSQ216NkVGNTJYWnJQajhrWUZFVjdUMGtxTElsU1hZWFAyZ9IBX0FVX3lxTE5pU1hoTndzSEJyYVlGYjNGaHVRZFZnS190c1phOU9oSmE0Q1dCVVBuNERkZk5RNDJOa251Z3dpS2tjck0ta2FHQllnNXh1TVpycVpiSkJWdWJqeFNIMjE4?oc=5",
       "source": "經濟日報",
       "published_at": "2026-09-25T09:00:00+00:00"
     },
@@ -142,21 +172,33 @@
       "published_at": "2026-09-25T09:00:00+00:00"
     },
     {
+      "title": "台股自7月底觸底彈升以來 這波反彈…外資、投信傑作",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSVNjQzZ2bncwZ3ZoUDNtOFVxNXMyaUItVTVuQnhXMzRaTy1kcTRybHhWUm95b1MtaGFFSmt2cHBTdUcwT2pObWFKMHpRZVFHdnNIYWJPbkFzOFpoal9fVWNXcXIzWERTdGY0NHBMU3VNUFFTcllaNnRYRFYta2I1dtIBX0FVX3lxTFBLYTFfTTZwUUF3eHBXR2s2N2h0M0htMGxzYTFsdi1idUQwbWxuV2NoSlJ5MkFYRFY0c0xSQkhrNHlUcUFKa1cwaDh5REVibngtblRlc05EZHFyYXpPd2Z3?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-25T09:00:00+00:00"
+    },
+    {
       "title": "台股收盤／跌132點收48,024點 台積電收2,475元跌1%",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MaEhpbzVwZnAxdzlCY2lZRDNmRXVaVk9hNFRKSHRqVXVjS1NOVERwVFFpS01kd0l4bEpqVUxpLUJyajZXaGh1UzFOWk05Wlh0UUVrZzRoQjBZUdIBX0FVX3lxTE5PU3BpLUpUWmotYzdVODROeUFoTzhVdkpja0lyblh5eWNJRHBONS0zS05wUFJ1ZnlWTElucWNvTWo2eFM2VjJkcUtlZXVBRnBhVWFjck1EdjRyOTF4ekY0?oc=5",
       "source": "經濟日報",
       "published_at": "2026-09-25T09:00:00+00:00"
     },
     {
+      "title": "九檔高股息 ETF 逆勢紅 00919下周朝新高發動攻勢",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96cWhQbUpLS1lMbzNDYmpaU3RwSnd1WlJmX1hMVXB5a0o2ak9GVFFMdmZkbU9MamdUMC1raGhCb3Q3Tl8xYmdaNWhFVS01ZkVjZmh2S3NQTHlhUdIBX0FVX3lxTE9tUG8wSDVIeHhBNkJGU3cyZmhBaFhjNjROQktPckxVMUN0dzU5WkZpbUswdjIwVGpUY2xLTGFKZjlfSWFsNWFQSmVMcF84eEZLMFdlUVdfNFZTLTlzaE5B?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-25T09:00:00+00:00"
+    },
+    {
       "title": "股市震盪不用怕！「這9檔ETF」逆勢飆高 AI題材成最大推手",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBSejZ3bkJFS1NfZG9kV09ZYUR1dTB0dFl3NDV2NHU1VjExSXp1ZUN0V1dhNFY2Qlg3bHRYbUNSY1NOYzE2SkxhaVphcw?oc=5",
-      "source": "ftnn.com.tw",
+      "source": "FTNN",
       "published_at": "2026-09-25T08:43:00+00:00"
     },
     {
       "title": "台積電目標價上看5000元！台股5萬點只是前菜？杜金龍喊出「長線8萬」這時間別急著追",
       "url": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxQWXhGMzZjY3hnNGNvXzFOVWZpcVpUMUNCaGJ1aUk0Q1RfaUVNMmo2YzNnZGJLc05uNXRQWE1fUnBCZS05UUNXQlo4MEdNeUlUMjJQM1FSRjVfdDZ0SGlQdXBBZ1NLZ2JMRDkyZFE4VUdKS1JTSEJxc3kzV0x4aUtLaU9WM1NEcng4YkloX2Zudzg2VksyR2ZFZnF4UjlXQ2Rxcnh5aUlaRDVYRldTa3BacHRhazhDNUlBMDBRdWsyaHliMm0wMVAxQXlmbWo5c3hMbXhUamtTdDFKWDRqUGp1MDZ0Sk93eU1lSmh6Q2RrRGNVUUQ5cmFUaUhDXzIwcFhUeThvcGpUWkFHUm9Yb01CRkEtazdPNzRPenY4bVRKLW4xUFROWWRkUDNwNDJUcHdBcUwyODVTZkxQS1cyVUlibThpdmdyRUN1MDRhTlFFWTlrNUVkR190YVFxMmc2NVlfVWFNT0ZNWEU5SGpaUF9oTWx2UUhlam93U3M5UzhzV0l0YXJsMWxZejJRaGxKUXM3WjFleEtuTDlGV09XbnNCTW1GQ1VXb2Z0NFRwOEVvelFMN18zbG1xUktWX0JuM2NwaWpiUjg0UFNKbzY3UE1yaFBVMXFEUjQ1ZWhsVzdPSkJEREdWMWxTeg?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-25T05:58:07+00:00"
     },
     {
@@ -191,7 +233,7 @@
     },
     {
       "title": "康佳上市34年後退市 由央企華潤集團背後操作",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1QjQxQzFMNVR1b1pHRjNBdGN1YUtNY2tOeUtlVlg2N1BmNXNBbi1aQlU4TktWYURVVWxqaU0ycHNVaEcwdUI2LTEta05paDFfVk9FekNiYTFvQTkteTJ2VmljM0xGd9IBZkFVX3lxTFA1QjQxQzFMNVR1b1pHRjNBdGN1YUtNY2tOeUtlVlg2N1BmNXNBbi1aQlU4TktWYURVVWxqaU0ycHNVaEcwdUI2LTEta05paDFfVk9FekNiYTFvQTkteTJ2VmljM0xGdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oMndsQkJIeTZRS2RYdW9wSm05VVNiN1RwRlZ0SDNoWFNXRTc5bDQyeUF3QWpCSUtJSVpXTXpBbWloZ3gxc3BxWnRQRHh6T1VreXZKMExfLURuN3lmR09acdIBZkFVX3lxTFA1QjQxQzFMNVR1b1pHRjNBdGN1YUtNY2tOeUtlVlg2N1BmNXNBbi1aQlU4TktWYURVVWxqaU0ycHNVaEcwdUI2LTEta05paDFfVk9FekNiYTFvQTkteTJ2VmljM0xGdw?oc=5",
       "source": "大纪元",
       "published_at": "2026-09-25T01:39:00+00:00"
     },
@@ -202,27 +244,21 @@
       "published_at": "2026-09-25T00:25:59+00:00"
     },
     {
-      "title": "台股誰吃三碗公4》散戶有多瘋？龍頭券商融資逼近2千億",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zRE1XUzFHdHhuNWJNQTZWVllFdXlBbVJCWnRicWdNcTRkZTJqcTI1aDJnOXQ5UUUzanRSbmZBUm5YSUc4TTJjVXM3ZnNwZ0U0NFRyblRsWjVFdkJJZ05J0gFkQVVfeXFMTlU0aGI3UHVzTXJhTG1DeDU5QlJtNWMxWEpEcENnT0VlRnJCYjFZM05naU1sNHdtcUZzSEk2Ym01d2Nkakp2MndBV2xvX01oT0FJNzNFR1ZjSHJfOU1tREI5WEJOWQ?oc=5",
-      "source": "ec.ltn.com.tw",
-      "published_at": "2026-09-24T23:15:00+00:00"
-    },
-    {
       "title": "台股AI熱過頭 央行示警3大金融風險",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xUWY1Z0JyNW5ydHpKek1uUWoxTjhmM1hBMFVpUzRPQkljNGRBYlpxc1ZFdlJSdDBKMzlzb3BaczNhblJPakNWVm5vaEVhcWRfNjhSMXFDcUQ?oc=5",
-      "source": "stock.ltn.com.tw",
+      "source": "自由時報",
       "published_at": "2026-09-24T23:13:36+00:00"
     },
     {
       "title": "台股誰吃三碗公3》台灣人瘋ETF 3大投信年收171億管理費",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FUWxQcXVQV185V2tPZmNna3NKQnhGaEF0Q3FINDM5S04zLWlhT1FLUmc4QlRKOHpkbGJYMTFSNHRNQWxLNHlfQ3dtUURqclRncnZ1alB6alJxZi1yV05F0gFkQVVfeXFMUFFqR0YtYTVlV3ZZOVY4MXROSjRmbjZxenFMdkVpZHdMQjdydjVvdzVjemg4QV8zQVoySUlvNVItdUllMXZlNE0wTGc3NUduNmx3SHdFbjRTWWxTRVRzSnFreVlJZg?oc=5",
-      "source": "ec.ltn.com.tw",
+      "source": "自由財經",
       "published_at": "2026-09-24T23:10:00+00:00"
     },
     {
       "title": "台股中秋節前守穩4萬8 法人：高檔震盪、長線多頭未改變",
       "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOV1VPeHdiNGV4N2ZGTjNkekZkRXNsWllKWkE1cDN4Wm9BeFBSdVlUYmZzbWl2dnp1d3JKNGFQelh2R2QzbXZWWVUyNllyZTJqbWJwUmUyM1h6eFNTN09WV3JsWHJBSllybWdFZjRHR3l5VmtVM2tXLTFRV3d5ekg3ZXpXR0VaLTBVV0Fha0EwNnUyWmFvRmthZDZPSTdnbTk4T2ZhVGZwY0hGOGNHMXQ0RDNUQzVMX3dRbHpraE9BeWlCSEJCLWIwc2FIR0UyNGlhYXY3dnRRbDJ5ZWVBN1VIcm1aYmRtakhkdVMwYlJyc21SVEVHdFJsZnZRaTlFOGpWSDk5UXNVcHd6TlNWWF8yaHJkR2tWV0FIS20wcTd0eFZkeU9PVndxRjlzNTR3enlLWHpWZnVsUUhxZWwtdk5EbGlfZk9Nb254ZVpMcU9PUXhOZmFOQWVTQm10bFBfcGVIS2RuaUQyU0g1QQ?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-24T23:00:00+00:00"
     },
     {
@@ -246,7 +282,7 @@
     {
       "title": "台股主動ETF新浪潮！群益00415A 9月30日開募鴻海法說登場AI伺服器全年倍增成長怎麼說？聯準會升息後兩大關卡！PCE＋非農數據牽動11月是否再升｜投資早知道",
       "url": "https://news.google.com/rss/articles/CBMi4AZBVV95cUxPWDBZNVc3My14blVCcXRIamlzQmpHQ0RNNkczSF9RUEpsSGptVUJuLXdJbFhLMzR1RldoU1lpQ19WbGRrUmFyekY1akFlcGg4aDJUR1duQnFhX0JkMXRaMW1TVjh5VzBOV1pYUFR3Qm9vMzQ2LUtZR3A1dDZkTl9tZjR5dFV0S01JaXgwLWQ4NkM4VjV5VDRlN2JTM1puNFN1THJ5eUstUHlnMVpZUkZrSVluVDYxTjBiYklDOThWYnQ4MklGYXFKLUE5bkNMMnA1UEduc1ctTHNHUURxYkE3NGxYcjczcGNxYmdFQllSWkt5MDA1bUx0SjZtMzJVYVljcVExZW4wem9EUDJJRHFGMGZXQXExWXM4QnQ1V1ZCem1nM2dGckNOZkJiczVXRVZSNGszSzhlTGROblVlSDlVdmpCUnVsVmpzTUJRRlBYZkJMTkxMZXk0NU1OYU9NSzBXbmRSZ29YcS15bGVBVTZDVWwzUHBUd3FHbkRLbm1ZSl8xeFREZEg2WWY5ZldZdU9LdGYwNlR6TUhHVUZ2WV9CYVNXUlJFcEp5VjNsNHB6NDk3OVhFZ2pEUUhzVURuWXMwVE9BNTA1aEYzLThnSDFFQ2JVdzVrblI2NUIzZ2xKUnRSaXFDM0ZDMGdkM2E2UnBGS25PQWlxSi04cWJqX3FTTnQwTXUxTVE2Qmg0ZEJIdU1oaGpkMTBWb01vY3hPcWI2WS1adElTZ2VFOVVkTVFXOU90NmFlb1dSUlJPWC1BRF83YU5hVHhXeHoxQmoxeE95RWlqc3pab29kS3FMVGlLY0JoVnpseEJZSzZuVHFEZy1hVEdIaEJhMGNPMExrT1RBTng4d0M4T1NHUTVrQnRqTkNhS0NNcnJVU1puVGVUN3BqUmU3NHp0d0ktazVPNTktSG9mM24tMFMwUS12UTZoODhYRUE3b3I4dGM5ZFBnMFVDbk5FWUFCem5SbmhqaGFuRFFZaUlIcWl0N1VCaU5NYlVzcEZZbWU4LWJQVG1zNEgwelZlRjZSVTYwOENYRE05cXVWZENfOGNEc20yU1Z3T0VmejFWT2Y1UTEyNmpxZ3NqazNpRUx2aVUzcmRDVjlxSE5nZXNYYlZ4T3MySDRsMU5wYUU5LUFIUWpHeGM2RTU?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-24T17:06:02+00:00"
     },
     {
@@ -264,13 +300,13 @@
     {
       "title": "台股高檔震盪！5檔「轉機黑馬股」浮出水面 法人看安葆、廣閎科等續攻",
       "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPaTlxbE0wVlBKa3N1TkQ0SzdzNE5RR1FvVnVwb1VRUXM5TlB5dzdKbm10a3R3VEtGRUFOWUFQbXFrQmozV1EzdG5ydzZYZ1lFMnNjSjNDYzRVUFZudTJxV3dsYnNjNkVtRFkzbEpad1RXMmxMSmRLTUdreGt5eFBhWjRFWUZZZVpzSFZBdnktcjBVYk1aUHU4OXFUS05HT2p0TzJyOXY3Y2Q1cTJGUkxWQ3gtMV9udGVrWWRWaXBuVzR0MDViZG96UUFEQWRvSmtxY0pwUTEwZS1LdzVfVU0yZENkUjVPT0dqWmpaNS1PdWJlQ0pNaXJCTzRqbDlQaW5ZS2xJT0ZDT3pDVENJTThtSmhhVGFKWm9vcUt2TlR4WHRWRGg1UV9DbG1rQWlfMEZLNS1rUVJfalVHaGJvZkhWdXRiOHZHU2VHOEhrNkd0eVpuRUUwZnRKeFlvcUJLdw?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-24T14:15:00+00:00"
     },
     {
       "title": "台股全球第4大 鄭麗文批\"根爛\" 謝金河秀數據打臉",
       "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxORFNNM2xvM1labG5yVjhQZ1FiUUtwMnVLb2xMX0ZwU010d3k3YlVETWdlZmp5N2RucmFxMjhNUXBTdktQck5ZMlpZZS16U1VjSUhvaXBRRzczYThBbTJHWHc4VTNpQ0FhZHh0dTAwNEZfeEZfTjNvZEpIdjh6aTdYd2docjdjM0RJeXNTMG1QYnBHR2s4OU1fT0M1T3A0MEx0OVdVdk52ckhpYVhydXFxcTJTaXFTOEd0RU5FMkdoRGZFcW1OeU5oRFB1OXpHV0sxSVVoTEZZYmpaTEVHZmV6YzFWVW9yanNQZi1MQmtaMi1iZmszT3hRcFM4ZmpDVzc5Y1dUR0FDSUhEaFVRWWp6TDFJOGxFN3FfSldSZC1CMzhIRm13MXJxeThUZ0oxVnoyd3ppcDZ2RXExTW5lMGxXRzRxQkYtS1Y3QVp4M1ZGMjA?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-24T13:27:05+00:00"
     },
     {
@@ -282,7 +318,7 @@
     {
       "title": "台股3年衝10萬點？ 他滿手高股息想換 網推「這檔」：不補會後悔",
       "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQOFZubU1ZblVjWHlfSUgzYzNITGRSREdsbDBNZU9NNDRZeU9HZjdSc2pGRGpDUXUtaGU5ZmZTbW92TlRtaW43R2J1QmRqYkVoX2ZkbTRGMFEtZVRYNzU0ajBGbVBLSmxzWnVLY3UwdHVWTTc2aGlRVFdVN0pTSmI3RHJvZ19VTndUTmJaQXhvd2FnaHQ4eXRrei1vTFcyTkY2SWNBelplTXVMNXl0SldPQTlmYzdtZUQ0V295QzNpNU9kSVhKT0o5QVpZdUIxRTl2QlNGRGs0OE1zRGY1N3RjbW1jdXN1akZ1Umd1UWV6anBRUzhEQnpSeXJtZEUxVWZVRkdFVDV6aS11S1ZTTTlURFpCbHY1dlhLZE15dEhPdVFPdlVncHVCcFZjNi1fNkZNRDg0dzlZUzlLeWNtcUtUMnlRT0xMTHNfQVZ2Y1BOSmN5NC1jdE81dFRpRnZydzNrclJYMTFzSFNTc0hxRlBOVERNM3lVTXVM?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-24T10:26:00+00:00"
     },
     {
@@ -300,7 +336,7 @@
     {
       "title": "台股市值全球第4 上市公司總市值週增2.76兆元| 證券",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzTGNramxiOUFWZW9pZW9mSGkzd1ozdHZZR01lN3h1T0Q4WXJvUllTeXZZeGM1aFRUYzAtbEFXekUzdFYtcUFEQ0xCTW9MQzBwMWJsNlhfSVZnWm12UEE?oc=5",
-      "source": "中央社 CNA",
+      "source": "cna.com.tw",
       "published_at": "2026-09-24T09:51:00+00:00"
     },
     {
@@ -322,16 +358,28 @@
       "published_at": "2026-09-24T09:00:00+00:00"
     },
     {
+      "title": "本周 ETF 成交前十大主動式霸榜！這檔日均量26.5萬張最高",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43UFhFQW9sSEJIUzlyYTVyeXRodFNwdjc2a25JREdPV0I2OWtGRXNzYW9MbTFQX0kyT0phc3lkTk81ekdfRFNiQVVRYjZXQjRkbHVUa1NkSnNRUdIBX0FVX3lxTE1nQ0N1YU04ZWt1OWwyaGVydkRuMGJXcU0zcW1nZllfZGZxYUI2LXBuTmprdWdNZUh3UFhjbS1jS1YtaDJSZEdveVdHcGNTekdpODhnVldSZXNmVjFSWVlV?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-24T09:00:00+00:00"
+    },
+    {
+      "title": "8月30檔 ETF 除息！00923、00982A 等14檔年化配息率逾10%",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16QjJrVGdJTlJSaUttcXJ4a3FKeElfY3RtTXU5aWJBcHFHejdNOW1Wcm5IbEJoVkh1TUJUNnpSd2JNQ3V3SFk1aVdiVktfUmJ1MTd2aUl4QkpOZ9IBX0FVX3lxTE1XU25RX1BydS1SaVZ5YzZ4cTNRLXpDODBYZ2FCUkc1TVYxSlBfSmxMdWozem0yaG9kWTdNZGxBdzc2RW0zNDJBR0VZRzJXdkZFMVpQWHc4amVmc0NsS2xn?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-24T09:00:00+00:00"
+    },
+    {
       "title": "外資倒貨338億過中秋台股驚守4萬8 聯發科漲百元救援領載板散熱衝鋒｜Yahoo財經掃描",
       "url": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxOOTExZHNQV1EwX0lyWEMtMTk2UGpzem8wb3J4d01MS1FjQ3ZTREpWaXNkcm1kTDJLbWsxWjFJdUZfdkRXeHR4QmtnM2VYSlZwbnBwSGxHNFh1LXJnLU1qRkNNVnZWWm1DVmVKTGVyclNuUXRKaFg0dUI5S3dhb2dONHpDMUk3OGRjVGFBb2dJZzlaYU5ZUXF3cWpJZXJOMEY1aUVCcWtvRFNKU0sxQTZrQ1JpUVZIRi14X0NmRnZLZlZqckFSN0w2Ynoxb1dpeWN5cVRJLXFGb3lXVUZSVDd0eXRoTGpHbG9qYXgxV1JjVDdEeWR5Y1pKbVJESlNZS2daTk9tMF9HQUJBVlhEcW03VmVIc3ZoajZsdTRCaEpsTFBLR3h1S3BOZE5KbHFiMzVWdUxCZlNwbXhDOEQ1Zm9weml6dWRnOFpNZ2trRVZoSjVxTzVuRXpWdE43c1hoaks2OUNIb3lqY1Q5ZEFjdVIzd295c0JoSlBDb1Z4czNFbnQxWlRnWXRMeUl4NFY2dEkwRHI4eXhvUzRoQl93dUpYTlcyb0xLaFFPQTFuZHBwa1NfRFNKQWctME5aMDFSTEVzQWFTcTVTLW5sM2g4bVp0RTQ4NlFoNWdnSjRTVjR2cU0xVlpnTmJpVmUxYlNCQVlWVnM3QkpB?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-24T08:48:36+00:00"
     },
     {
-      "title": "搶頭香！摩根大通抵押台股借外幣今上線 成外資第一家",
-      "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPVDRMcjVIMXVLSVdUVDd6R3lROE81Y2tyYmYybFNGOEJSbEljQmN0amtvMTNJaUlIZkYtMzktdHRTeGpWSmM5MU1PUE95TzlEMGtwNzVRNXJSVDlMQ2x0c2Q3aUJDS0NPaDFrR1d4cXhKYXI2NE9XaVc3cmRSMTdWZ3V0VDJKTlV0akhoUG42TGwxbi01OEloSFI1ek1TNFVOMVc2X0V5T0lkUW1leGxlakpSc0RwX2p1ZTFQT05mZTZNNXhES042Q1RPOVMzbURyMnZ4OVMzc2s1SzZXR3NmQW84TEZTRnRTdGtwYThiMzBjaEkxTS1CUFJmN1lKaVd4TzBTbXQ4QlFxVkpENTlVYy13WjY2TE4tYzhkNWRIeUpYc0NTbDV3Z1dfTVRjWFNLVUdLbGZKdlZDWkg1cGpZR2hwV3l2TER4QkdyeExLOHgwNVVpcVJTVFVkc3FtZ1dkdGJSUk80Y0FpMFd0aVJkNGYtbjN0dWJQVzVTSQ?oc=5",
-      "source": "tw.stock.yahoo.com",
-      "published_at": "2026-09-24T08:45:46+00:00"
+      "title": "《興櫃股》碩通股東臨時會通過申請股票上市櫃案",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU1UxUy1EdzFLUjlnWGptbVdsMlktOWdxVTdOT1dfWHRtSnRGMTd5QmNIMWlGY1Jtc19LZ08xMlVGU29rSlduTng4elVEQ1kxVVExX20zWXNLcnRRZFBxRDlyVFVVTXQ2UV9rUW1OdTdWdGdZclc4RmVEeXNIaW5NNkptOTdSQTRS?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-24T08:07:00+00:00"
     },
     {
       "title": "買股票沒錢交割會怎樣？看懂違約交割4大後果- 證券",
@@ -344,12 +392,6 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTnZ5OHlCUWd0R1lSZlRGRUJQN1dsMTdmM1RvT092T3dYQWpOVjdSMXdyNGNwakdMdHdKOWx6dElKWHdrTGJOSVVtRFpjT1NWamN5M3dNdzFXVnFLZ3Z5TFB4dHRYR1RKdFZiTUVxWnR3azU3VXFBSndLTzdjN0xxMEdVWkZpYmRMbjFxR1VXOWt1dw?oc=5",
       "source": "MoneyDJ",
       "published_at": "2026-09-24T07:38:00+00:00"
-    },
-    {
-      "title": "台股48K失而復得！聯茂EPS 2.54元、年增852％助攻漲停 「這檔」矽光子布局開花齊漲停",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPWTlFdUM3bFNIRko2d09UR3RqUEl3b2FqQ3gwT2tfYUg5ZjRvV05WZTY3RHl2eG1lTV9YbWxoTDBLZ2RCb2xqX21HZkx5Zlh5cG5mY0dlVmNXN0hfLVlQSU5sTXE0Ynl0cGFkQlcxbk9KM0RhQktUbTZuT19HME5nODl2NDFUU2R0SDRPR2pIdklhTGh4WF9CSmRhSDhRODNnOWlJU095NUNOWUZKMF9BODRld3JhTWtYZzhXWkUtakpTRF9hbDFrTjM4N0p6S3U3NEhzdml3X0dvY2RuTHczZ2UxalBEN3V4XzAwX190UGstTmJI?oc=5",
-      "source": "tw.stock.yahoo.com",
-      "published_at": "2026-09-24T07:00:00+00:00"
     },
     {
       "title": "富邦台灣半導體(00892)ETF股票型基金的基本資料",
@@ -378,13 +420,13 @@
     {
       "title": "4萬8大關驚險守住！台股終場下跌132點 台積電收2475元",
       "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPR1hRLU1wczh4cWFoTzcweTlVY243TUFGdVZiS3hWekVaNFp2NkJCbG9pQmZJM1kzRjlBeEc2enFuZ2s1b1FhZl9qdVJXN0pfcTR1ZjMyUmZtb243TmozaUJLR2tPeUdzNTlSMnpDald1MENTV2E4NUtJVEJuVDlvWjgtX1RXdjZ6d1ZMbkJ4RlpCVWtRZFZXZ1E5WG83RTNjU2YxV0h1UkZwQ0pTajU2VWdOalB1Q2J3enlNQ1lKU1ZQeWRyZmNkNjhaNV9GSHh5WlhtVjIxMF9MaU51b0RWcHF0LW1qSFBuYmRDeWpRRWVnV1FVaGJRX1lwWGoxUnBUaV84YkdKX2pkNlVQbkl2a0djRjFEZklUNG9raHNhcjJVVFIxbUtReVQ4Y1hSLVpINGlzWlpzZDd2NFZkSlhBbkNHOFBwSktWQ1FJYTNB?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-24T06:24:25+00:00"
     },
     {
       "title": "台股收跌逾百點險守48000點題材股逆勢走揚| 證券",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01RzNieE5hUW1YVzdEUHp3QWFxUzQ1MURMcUtVdFBLUlV0YjF2SnctZHBMY1h5N2tFWi1WaHVYSkRRV2gybnpJa3Z1MzQ3SFFPRGtzdVJSZHhmTUZMSWc?oc=5",
-      "source": "中央社 CNA",
+      "source": "cna.com.tw",
       "published_at": "2026-09-24T06:24:00+00:00"
     },
     {
@@ -396,7 +438,7 @@
     {
       "title": "台股收跌160點 台塑三寶撐盤 「這2檔CCL」收漲停",
       "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQR1lIemltLUFPV3pYR2lpMUcwRV8tZkVaOHhHM1F6Skt1WXpHNlZTWGZUdEVIWTlGNjh2VUpDcTlGRGVNaWZuR20tZFJmRk1TaGZWeXF5TnM5VmFrRlJjM013eG9XNEhVY2pSMFJER2tFekZiS29INTRmb0MtbHVLMXY0SDBIQjMtYVBZOU9Yb0VPNTNGMDl3a0w5NElMVmhibUJ3eTVJRWQ2YTFhbkJMRlB4a1NXeWdSMVRsS3ZodEV4OHFGUmF0TGtwUnl2TTk0ZGVMeEk3MkpUVUlEOXAtNE9aRXQwS0RkQ1IweUVwTm9IdFlHaU1na2tsTzhRUnE5cUdkeW9aaTJBd2x5M051MG1HY2Z5WWxRdU83Y0ZCbHJFTVBfNVhxLQ?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-24T06:04:00+00:00"
     },
     {
@@ -408,19 +450,19 @@
     {
       "title": "台股2大族群逆勢狂飆！終場下跌132點守48K 台積電臉綠",
       "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQT3E0ZHdpaE5oaHBOcUxFOTZOX29MQVB0U21HVndiLW5iTlJTZTdoWTdjUnp2R1dxNS1Ba0dQbHBsc0xrSTdWTzBRbU8xb2Ztd3BHUDBfUHhEMHNzUjBFOE9hVldVLVpnTkxnUXhwN0lwcnQ1bzVxWDdtckhrTWVId21xcS1YeEtaYmlmWDQtWGZFYmIzTnBRVkN0ZGlsd1JsejJpNjZBby1rclhqcTNIRXZrV29FeHBXVHAtcURtNUJfZmhaSWt6V2ZrcFFEMU40MUcxRWt0OHlpX0dHV3FldGNfRUpORkUwMTdnaXpiRll4RGtUMVFOMzg1aDdvRGJ6WXJoejg2WDJJTWU2Mlp5ZjdmSlhvNGNfb0dBMFQ4a2ducUVlb3hYVS1icmpPRUpIMW5tY2Z1SjI3R3A1R3RZTjZCNk5SUHlYS0Q2ZWdMSWwyMXBSWlln?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-24T05:43:21+00:00"
     },
     {
       "title": "台股衝48K創新高！914檔還沒回年線 曝16檔「遺珠股」外資悄悄進場",
       "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxOVHFYUmRKS0JZNjg2aDIwRHRPXzlTMm9MSVNwdk5qVjQ0bTJUdW1XY2p3Nk1iMkpNX29MbGdsWS14a1VMT3FTUGw0dW5yZTNnVGIwZXg0c0JIXzBQeTZ0VUJtTDJzMk90UGROSl9Gc1ZKSnNhb3dHejJiWmlteVM0LUdmLU5hVEh6Wjh0U05DNkJDc3NWZ1hDSHBXM2ZOY1RIXzZNdDZCTDVJSkU5X1RCay1qMGFYOE9hWF9oV3I5V0hQRkt5LVFNR1VQZkVna1BNRUFMVnlzN1dpOXc2RHpFVGZHZTllc0pHNXBaWXZrSmtrZWYySHFWVmpZbUpQZ2xzR1Z2ZGo4SE1VUHpfUy1xZ2F5Z2lwMm9vQnpjbFJXMnZ5NmIxVU9iLTJRUjVTZDhOSDRJdUE5T285ZF8xSnA2dTBZRDEwS2dDcEJLZzd2TDZWODJVTkI3TE02cDZ0RGhmejMyMEZrdkMyRDhYWTlkcW55X21abWo5VmFDcUpnUQ?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-24T05:16:37+00:00"
     },
     {
       "title": "諾和諾德研議紐交所直接上市 CEO看重美國市場價值 - 財經新聞 - PChome Online 新聞",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb1dfMTZHbXZsaE9ySGlLdGw0Q2NiVlVuQzV2dTVyS1FTWFRmeHZsOFp2TXVRdUk1emNEYU5mcEV1ZTlpemhnRWplVldFanRoaFFudlRQN3o3Z2ZoZ0VKYmFFb2FtN0daeTJyeHRKb0NPZEN2ZzZCcW1Sd09pRWdnV2pjM25ObS1qWWl0Tg?oc=5",
-      "source": "PChome Online 新聞",
+      "source": "news.pchome.com.tw",
       "published_at": "2026-09-24T05:14:37+00:00"
     },
     {
@@ -430,33 +472,27 @@
       "published_at": "2026-09-24T05:03:12+00:00"
     },
     {
-      "title": "台股秋節前休息！人氣強勢ETF盤點 法人樂觀看節後行情",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6SUpsdW1CY0QtU09ta1hwQjRrSm12eC1iMG1tQjNndWZqZmVsNkhVQk5HUkF1dlk3MERVN3JSM01VUXdjcndfMDVRS1YyWVlIZ2phOQ?oc=5",
-      "source": "品觀點",
-      "published_at": "2026-09-24T04:21:12+00:00"
-    },
-    {
       "title": "鄭麗文快看！竟稱台股5萬點表面「快爛掉了」 台經院曝8月數據",
       "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQMzFEX2hzVTVtbDI1RlFhdHVEeWlPbnhKQXpQZG4yRllVRE9seUNXUURaZ2lWN0VmSER4NVVhTmJONF9NczRWQ2w2WGZpNmpJbnE4UDZ4ZjFCcmFXeUNtY282WnR0M29xajZkNk9JSk8xZ00zZUJOZGY4VUFaM3VaZFlGa1ZDQ2pzekgwRmxWWDFKUGNpR2t3eTRNdHNDTFp3aVBIOEtxajVzQlNzWVFlOWtyM1Y1dHhWU0N3VUdOUTh5VEE0NWlUQTZ5R0dEZnNHMWwtcmtqU3BRRE9sLWgwOVZVR2hGTnZEblZDY3ppVzY3UHY1U1hjYklxRWxER0Fyd0FRYkVaX3ZwQTU3c1FrSXJZT3dRSUNibFlRTDFDREhsLXI3eHZvYld5ZXhfbmtYV2ZjTTduSDc2Ql9ONUdVZUNULW5XV200UnJPcXFuTVVQWk16Z05lYThJclI0MUtwdXBSNXBYLTNHLUVrM3JLMWdpdDlJNk5tYkpsSHNWWDJoQQ?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-24T04:00:10+00:00"
     },
     {
       "title": "【Hot台股】南亞逆勢翻紅漲逾3% 網喊「不是要中秋變盤？」分析師：法說會前資金卡位",
       "url": "https://news.google.com/rss/articles/CBMikgRBVV95cUxNNEFOa2NHNW1zRjVhVUNucWtUS3J5WnhycnpaWmRFejNyYThGOVAtU0N2aktRczNPZzV3a0ZvQV8wNDVqLTRCUld6Mks2NFlxODI0ajZTcW1sN3NGUkZhX01ReWU3UWlJRjFSUG15cHVqUlVoZEZpQ0xWcXFiazllQ18ydGlicGV0ekVPanZSVUh4QmE5R2s5Rm5xak54SWt3bzQxQjBycW5LaXY5NjZjOUVnYzNUd2YzR3lEeDBYTzFzMElCcUxSQS1aT3BZRWZDUTFOQWFVYmVZTk9aWFpBVHlOa19RcHZCcEJQSnl4Qi14TkgxUFhRTnF1Nk0zaTA2aHdOWkFhMEF2bFk3U3htZmhHZ0NBcDZfbHFkZ1VwUGtlbzNYMENydlZSWDdQUmZHejN4VjRXWlZJZDhleC1VOHJDWnV0Yi1SMWFLd0o4bGFGTEtWTU1ZTG0xcVdkNlZ4blRqdkhkMFEyeEluLU9fVkJfY0RuZUstLUlfQXF4VzduNGVmSGJUZUFGZVZLZFp4bV9wSEVuV3NWZEoxY3B2YjNIUlFueUZrUGVTRG1sLVN3QUJ5MXo4N3R5Rk5ZNHFBV010cmo2Q2xhd1l2S0VoZDNhMXNOWWo0LXVpdHd1TlBOTW9GVGg3Y28wUmxyd3BNN3RITDM2cEVLR2xsZ2RrOG80a25zbXBvUHlQNnhJNmZ5Zw?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-24T03:46:19+00:00"
     },
     {
       "title": "上兆市值要被關「禁閉」？「台股20強」創意6天漲四成 今留天價8545元上影線",
       "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxPeTlTUmJLR2dSTkpsZUQ4UWRvTWJrZ1owMmd0RlI1R19QVXpFcHVoSklYdnk2dUxnVnl4MTJRaXd2V3prR2pySTRFNm5TWjhhbzlyNHhEUXdteGsyNzNicENnelM1OGVPWFNxNTJoWG1CdldHZkZBNGYzZS04eDdDN2RCa21vb29ZWjY0eFVyU2MwRmtvVWpOUGFPcVhXNHVKaHhTRHF3TDJFd3hKbHFjeWh2VFB4WFp6cjI0Q2pJSDVWakd6R0tNd1o4M2tDY2pKTXJjVERURHB4cTd3YjlBUnpTNUtOeHFIUUc0dWctUHRnZmFzV1J4Mll5RjNoYVlXNFgtT1VBaExMUEVVYjBIYXluUGpULVk1dWxMZmhNckZ3YmxjNWk1R1JTVHBUWWtQcEV1RzdSemNBWnROemJGdGpaTWNzMzJhMVZUYkF2c3VoY2NhSWpiY1gxd3piNmxhM1pSeEN6TVVQdzFvam4wZFZMT29KQkt5S3lBbFMxUEtqS1BZMGxDY1RaRTdMR2ZuOWprN3lubTJhZUlTeGg4Y204RFBaOEtpU0JWbDdQdi1yMFlOYVFvZ3BjVDNGbmQtZDJVcWpaSUhiVUprRl9ubUhXT0ZvdjFOSmc?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-24T03:35:38+00:00"
     },
     {
       "title": "全民瘋台股》ETF規模1年爆增3兆 主動式飆8倍",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41QlV2bkhRVWdVelhOekR4dTJoS2o1ZzF2djhQQjliendqbjRsaktMVG5BVG9SeXZmYWE1MUU2dFFqc3doaWRCbjBGdTJTUi12RTVFbk8tZzE?oc=5",
-      "source": "stock.ltn.com.tw",
+      "source": "自由時報",
       "published_at": "2026-09-24T03:29:42+00:00"
     },
     {
@@ -468,25 +504,25 @@
     {
       "title": "AI先進封裝又要擴！瑞銀一口氣喊買11檔台股 CoWoS月產能明年衝27萬片",
       "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPRkc3bEFBRzh1akZCdW44WXZCQ3BraXB0UXFVeG5mOHlBcDFkQXlVWXktU0RNLWJ5M0JlUndHYk16ajItT19vRFJfVk5yRUpzYzBiUEF0a0syZDMzSUd2V2RCQ3JUTjR0Rnd5N2FpcWpxMFpVQjR0bmMtV1BmMkF3dmtDYnFwenBqVmIyYTdTTXVYUUtjc3VIN0U0WXJjNWpNRU8ycTgzbjAyX1JhaVhkbXUwTWkxS2dYT1plVDI0ZTRtcjBhUVIyS0tybjBxWnJtZ0Yta3RKWjEtMktMc3pJeTF0U2tycEdRSFhqMVBXV3hqMm40RENXd1NvV2ZVOERzNW1mbUsySzM1RzV1bDJDOVZ4ZmlGMXY0Y3JRZjU3MExpa0dfTUgtMXVCLVBhSlhsanU3TEo5bFlnakcwUHdtQkNuVFpOenZselBFWkxnTjJuQjkzSVNEamljaUtNTEpwNEViMkNEcGxsM0NiOXRnRjRwZ2syRE5FcjZvWWJjNlNyQy1IdkZRR2xBNTU3QQ?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-24T03:19:02+00:00"
     },
     {
       "title": "〈台股開盤〉中秋連假前4萬8拉鋸戰 跌403點回測5日線 台積電2500元失守",
       "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxNeF9SVmlfVkFSRTlfalZZbV9CNkhCX1JHek5Fbl9iREFzRDdJTXV4WWs1cXpqZW0zQmROS3U0TmM3aGxGaEUyU180MUNKTTJQVVMtRDQ5d3BYenc3WWlSdDl4Mk1BN3lTZldRcWFRdXJmeWVWRXdha0ljWlZ5M2FkWWxlMFR4a0xfbFZwenZ0WDkyMXUxX0IxQVBtOWlzUTJQcEJnQVZUYVBUUFdWa3EtVlFYMkdtQldTM0o3Z0VXRFJsYlVISkQ4WnI4YlhRUTYzbjJNeUFOVF90U0tpMHJMSGpGV3ZmQW1meHlUUnFzNENFMlVwdWhKeHBNQ2YzSnJPV3JyWXh6VzRyUmlFTkg0ajYtNmNCTWVJLWd0Q3RJZjJwcUhsdURhd0xuU1hPOVpreVlzUm5sWXlNZGdrblQ3QXpfcTR6bm4yS2xJWWRrYzFLYVdMeDJ2dzVjVjlTeXBoU201Mzktek85RmdzNHRJTFQ1eWFQT3lmYkhmZWcxa0FIeEE4cXdfY1gtRmlyQUt0MnFyRU05b1Q?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-24T03:16:50+00:00"
     },
     {
       "title": "台股挑戰5萬點！鄭麗文竟酸「台灣快爛掉」 謝金河列數據反嗆：妳低估了",
       "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQTTN1c2RDdHNEQVFsbUNUM3RSWHRuUExsVlJrcmVnNHYtalFEOHpOZjNyWXhKN2VPOFNZSm9QUFVJazVTeEFfU0Fab09oa3lPbWtFZ2x6dXAyZVpNcGx2dDM2SnNtMDBaNDBibVoyTmNCMEh2Nm1ta25ncFpxcDVNZThna1dNUjdGNExYalpKMnJ2ZVVyX0o1djhmdi0zcWRZTFFxazNqVXRvY1h4aVc0R21hT0tkUS1DSTBSUUV3WWJnUWJuUElJMmU2aTB6QW1wY2hwaUZmVm9mTHZ0Wml6R09oOFNpemlpNnBvVlBGUXpWVklSUGhLd3JSc2UwQ3ZDVXk0Z21PNDJsUWNzRWtydjFSelR4X2NBNlBzbDRUczhzakYzdjYxSFdjTHkzZVZHUENueEFYbWdVaUVqS2JVcEpkZzhVWGI1SktKSDZIZEM0bG5wS0o0T1Ytd0NMVXpJTmU5YUtRN1VDVWsxMGpxT0EtZ2k3N0ZmWHZJRjVtcW90cHplTEtleUlsaWN3QU5HbVU2d0pKQkxKc1FHZ3ZKT1FNNU1hYk03ZlpKYzdJQVBvQQ?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-24T02:30:55+00:00"
     },
     {
       "title": "台股年底衝5萬？ 郭哲榮曝急漲內幕 點名3檔低位階黑馬股",
       "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNNFplTlZPM1BUVHM5VDVNR2RjYVZQMmVXRDdsRGROdEpmX2tkVDdndE1sSWFBZkZGaUhQeFQxWS1kbnJOT2hXRjFMWWJYRzlUSl93dDV6enQ3cGFQemZXRWhkbUl5MWhsRE13d2h5SkRBUm1QNkhWYjRVZzJCOE9tTTZ1T1hjbGwwUkdxWU1JNE9Zc1pGeUFjQ0duQXd1VTNwUS1YclpHajUxRENfLTdEZFlacTBFNHJudFFHSWprWHU1ZGd5TF9qV2M4WFFHZEZyNlFGVjhvU2FqZHg2WXExdHVRd0NpbmROenBIblFLaDItUUZ3WGR4dTIyOUZZek9HOUU5ZkdyanI5YXBfRjh0bWIxVVBTa2hBUFduWU9EMjFRUXIyQWM1eGpOYWR0TDZKcVFvbVpUbjR3VUpoR0MyV2VIV1R0c0x3Mm5EZHF0SFE2Q2Zkd1g2NmZ6ZkhjVnYyTjZGelVIY3pUdWhUV2t5NVdCMVU?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-24T02:13:11+00:00"
     },
     {
@@ -496,33 +532,39 @@
       "published_at": "2026-09-24T01:52:53+00:00"
     },
     {
+      "title": "謝晨彥剖析ETF避坑指南：009816報酬率 5.52% 狠甩高股息與0050 | 觀傳媒",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xZjQyUW50MF9SdHlCMkhhYVdCT0prLXJGSl9nU2ZUZlZsZzRUU1NsNU5PZmRIeEtDWU5zNk9YNThmdkFaYU03bTdiOXBLdURkUnNPNjln?oc=5",
+      "source": "LINE TODAY",
+      "published_at": "2026-09-24T01:44:43+00:00"
+    },
+    {
       "title": "【Yahoo早盤】中秋節前夕台股一度跌逾400點 投顧董座黃詣庭：建議持股水位降至5成",
       "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxQdTBmUEZZOGo0UVRzZzdWNm5OZkV3RG82anZXcjVHcHZjcVFfcjlLaGs0ZXBNODlXRzd4OHdsSENPMlVoM3RpSE9ReHBZUHZib21LbXlKcFI1dTVSeVZndjdkSlpCZ1dRNjFRRWlhT2dwUWI3OHJJMU1mWjc0Ump2QXNUcVRCc0ZudDNyOU9peTF3aDlZWkNCOG1jYU1zSDBsVjdOQWxhSERhWlZTQnhfenM1azh3OFBBY0ZxVGdEeUJ0VUV4RVg5dUdoaV9hQzdaRTluemxiTWo4VlNzb1NyRmk5OXkweUxSRThoeFVMNE9oSTNIU1k0MlBoZTA5ODJCWWJGOHpseWwxWDJuVThJMHktYWU5c2ZQUzhFaXNVQ0hEQ2JmQm9heEo1VE9ST3UxNEhibjlFbkEtdU9UMHB2NUxGSm9rWlp0SDhjMTFWeHBvOVR5cUVzMlo1aWN5a0xxWEU2cnpsdFNMSk0tb1ZSYVhRcUxDNEtoV1dIVHlrbjFpTVNvTDFLZ1I3X2tQNDg5LVd5Q0ZSclZ0ZnpMQWZtM3VackdFaDBKaFJXZVZKOXFnMXJrTHU3Qy1RTy1zcFdnR1N4RElXU0RvalpENlVVREtXdkt2Y0FUSFBPcnlkOXBkVFhsT1cwSVFrWEdiVGRQeWhqQg?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-24T01:40:21+00:00"
     },
     {
       "title": "台股中秋前狂殺252點變臉！「這檔」CCL大爆發逆勢亮燈 8月淨利暴增852.58%成唯一焦點",
       "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxQcnZxZ01JM1l3dkRMQncxY2psNEZKSVZJaldENWE1czdDUDQtVldsTW9ZdjlfVlVCdVRza2l2MTRMXzRfaXVUSnVQUzFaS3NBMnhFYTdHQmQ0VG1vSGwxZjFxNFQ4VTkycHBjcDNfQjFrUVJkQkRhSUZNQnhET21xdTRqcEJZQ3hvNkV6X0RCMlhqNG1tTmhDNW1YcDYzaHJqTGJoSmdxZWhTOUNqclNCN0s4cWE3aXdJREJscmZQQVZ0bDRwTmpqcjloNkFCb3NpQ0FsMkxBeFV4N2pTSlp2aFV3YjR6ZDFnVmlIQ0JBbHpMZU5id3RhYTJTMVMwaFdfbFR2Y3BSQW5KQnhrdl92Q0pENDNvcjlkanZ6TVBtN29uZFB0cHVTQk1FQmk3VEVpMkVnNllWbjc3TnhONjBXVU1ma05pTmxoaE1SQTlrVDhtNnRRV19pZHkxWjB6OFFkY1haMHYzLUQ4SjkyS25Xcl9lMDMyU0hWSHVPSmVid3VlXzJtanBZNnJjc1dVX3FS?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-24T01:30:45+00:00"
     },
     {
       "title": "一圖看「台股進場」價位 專家準備3000萬蹲點",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15emtOOGRXeUpXSXM4b3ZoT3Frb1RvTFFWblI5TmU3N0tCTUJZQ2x3VFU3SmJ3X3ZfUHdEeHdpTjlrY3htR1lGQ3Y1bi1Gb3V6d3fSAVBBVV95cUxQUnB2WDhDMmZnNFZYMnBVM21HS3hGblNOUzg4NkQzZWR1YlhzM2Fuc0FtNUR5R1FuU0F0NjNjMHF0TjladDVZMlRDaXF2WXlPQQ?oc=5",
-      "source": "finance.ettoday.net",
+      "source": "ETtoday財經雲",
       "published_at": "2026-09-24T01:27:00+00:00"
     },
     {
       "title": "台股跌317點 聯發科逆勢漲2% 「這檔CCL」開盤秒漲停",
       "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNVWJMYng1M0tqWUppS3Q1OWhuTGFOZC1Rd0Z6OFVnTmlfcHNpdFlMX1U2SFFoek9pZkZZZEU0RktWQjJxM1hEYlpTdDFkR2k2QnA1UDltWVJRSmgyQ3RVNndJaWk5anoxNE5LWlY0ZHpCT1dkTm5CeW1rMmhIS1g2YXpCSXpqYUhHS05fcWZNbUdJaXVNMUw1WnFrNXBKS0ZncEpzMkNJbEFJQmVYeF9pb2lYN0xacXBlenZ3bzllelE4RHpGNy1tMXVHMmtMOFROMlJsT3A5eGc2c0E1Tm1EdFdkd3FtRUJEeWxKVVRfRDBoakNkQUJKWFBIS1lIQzMya25WTkJwbThwTFFSYnFmOHFmZFE2TUhqLTdvWnA5OFJQci1NWmtWU0V3VXBsX2NzeU5xZg?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-24T01:25:26+00:00"
     },
     {
       "title": "台股早盤跌逾400點台積電疲軟、AI族群輪動| 證券",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZTEIyQU9nUkx5V1pZVElyeGlwZEhyeEhjaGQ1OFBPdHpmU3JlUTIzekZTWVlyeXNlTXJ0ZFp0MXJYRG5fd2dEdlpDTzFuSy1UajlmaENiZk9Sd1BfekE?oc=5",
-      "source": "中央社 CNA",
+      "source": "cna.com.tw",
       "published_at": "2026-09-24T01:22:00+00:00"
     },
     {
@@ -538,27 +580,21 @@
       "published_at": "2026-09-24T01:12:00+00:00"
     },
     {
-      "title": "謝晨彥剖析ETF避坑指南：009816報酬率 5.52% 狠甩高股息與0050 | 觀傳媒",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xZjQyUW50MF9SdHlCMkhhYVdCT0prLXJGSl9nU2ZUZlZsZzRUU1NsNU5PZmRIeEtDWU5zNk9YNThmdkFaYU03bTdiOXBLdURkUnNPNjln?oc=5",
-      "source": "LINE TODAY",
-      "published_at": "2026-09-24T01:05:59+00:00"
-    },
-    {
       "title": "台股年底衝5萬點？郭哲榮點名「3低檔黑馬股」",
       "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOdURaVmxyMHpJakFjNENBWDVDb1g1Rjl2VFEtX1prcThsalJ5NjV5azhjU0lrTzJCS3BGQXJ5aEpNbXJWVWhmWWRyVDRIU21rOWtXQWNPdFVJdG8tWDlUal9Iakw5N1dqZEhuUXBZV1JUby1VMS14OTVucmd3WkN4VUdTOHhkM1pYYXdJdDNZR1hQTzJJOE5NdDdmeDBUbEZpLXg0TDVvazNDc1hqUV92T0ZFNk5vckZjVGQ3RWVDN1VXU0RySHJaSU9uMk5FcHpYLVFHWkFod09QSmIzdDYxUzBFVjV5N3VIMUdMTG50ak0zWGJzaGRDR1R2SUZsY0NfTWxRbnhQVVBiaW1iNVkwSmJaeW8xNi1lTnEtNjJucExuNFlfU216SDVNS0c?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-24T00:36:45+00:00"
     },
     {
       "title": "鄭麗文酸台股快5萬點只是表面 謝金河列數據打臉：妳低估台灣了",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51YjlWRXhnWHZWclAwVENub2ZBdlVPRjlKUElmZmFTNnFpR0w4Z1phbGtoc1I4dElBMzUwZ2lKVU1TUXVzS3dDV2lDNDZaLWZfVFh2Z010bkZCYk1XRUcw0gFkQVVfeXFMTVB3WWEyR2dFZGhPajJkRTZIanRmMmpXMTExQWh6M0ZtRnBESEoxa3NQRHNmRzZMdHFJZDhrZ0xhb3VqeV9WdTZkX002VVFfY0FPYS05aFptQjlfMXhwRmZFbFJPZQ?oc=5",
-      "source": "ec.ltn.com.tw",
+      "source": "自由財經",
       "published_at": "2026-09-24T00:26:54+00:00"
     },
     {
       "title": "台股頻現「開高走低」！投資小白困惑原因 網點關鍵：獲利了結、短線賣壓",
       "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxPcHZ3Qk5BSkxjMnFhYktjYTg2aEdvd3JpYlNtWFhTS0JNdFZ4VjY4aWQ2YXZGZlFDbElNMzl3X2syck1ycERmUXhhVFZCNFI5Sl9rOGN1UV80MWRnQXdRcEtCcDVuUTJXTFpwdGxnMXg1a2VLMmdVUjlwel9abjdnVkpJTVNzN196V0lpMF90ZmN5eWEwMlpsbTBEYjZVQ1NMNXQwZlVadjlGcTBvbUtkZkdlTzJwQ2NSUzVZbVNrX3V0R2VNUlJnQUJMT1VSenBBRlFGUy1tUG5iQl9tdXowbGQtLVI0NjRGNWYxOHJmdlM2aHZTRElHQ0RuOUd4b0VWNGFxa2sxLVJEbWJDZVJ5UHNBakl2ZzVZNGVBamxZelgwSkxDa2NlR1g5aFFmNEtySDFOanhPamZXaXNqREM2SXZ1WmRtR1J2eFdTQ0lZTktzc3FpMlhIbWxoMG9RX0YyZzl4T05ubC1JU1RWNlpUMVd3YmxzQ0Zkenp6RlZLR1E?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-23T22:05:00+00:00"
     },
     {
@@ -566,42 +602,6 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYXM4eUZmRlZqWFNvdjh4QktBS0o0NjYzTE0tdXllM0VQb1lpLTdyVVRNenFINDhBUllvS0FiTUsxSGVhS3dKNkpVV3pkQlZja3hxYWFvU0lGOTEyZGJuTVVMQXRYS3RkS29xbGg4ekJhNHlBX2JVWXZnYWotX0dPUWFuXzVuY2VJT0RVZkF1d2Y?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-23T21:55:39+00:00"
-    },
-    {
-      "title": "外資一週賣184億 這3檔慘遭提款17萬張！",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ENnBYSlhWYkU3QzdYSjVoOF9vNk5sX19uQzBPS0hRRl9iSDVGU2xMX1lsZGltd015aW0wcV9MY3BpTEZpdG5uV09paW5xZWVaRXJ3S19DYjVBeVJPbi1GNGJR0gFiQVVfeXFMT0Q2cFhKWFZiRTdDN1hKNWg4X282TmxfX25DME9LSFFGX2JINUZTbExfWWxkaW13TXlpbTBxX0xjcGlMRml0bm5XT2lpbnFlZVpFcndLX0NiNUF5Uk9uLUY0YlE?oc=5",
-      "source": "鏡週刊Mirror Media",
-      "published_at": "2026-09-23T20:20:00+00:00"
-    },
-    {
-      "title": "台灣ETF滲透率53％ 冠亞太- 投資理財- 工商時報",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pVDFjTzdtSGhqYjdwZGpNUzh6X1Z4TFVxbmdpMW9jT01JVzVPc2lrNERUbjdlSmVzTjZqb2w5R3VFS2tNTk9peWRXeXE3YUFyU0FtTlljVEZmT0xHeFFOdzRUNkJfQjVjV0VB?oc=5",
-      "source": "中時新聞網",
-      "published_at": "2026-09-23T20:10:00+00:00"
-    },
-    {
-      "title": "台股高檔震盪 聚焦AI族群",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHelVwanItTlRWZF9wR0FpbFI0R1dkTkIwaVVLd1RRREVyTTJKM3dFYkZYQi1TU0hYRkhWTlJpWWRnNV9CbFM2eFJPT2dSLUJzdlZ0UVdxb2hfR24waWE4?oc=5",
-      "source": "工商時報",
-      "published_at": "2026-09-23T19:00:00+00:00"
-    },
-    {
-      "title": "投資ETF的配息觀念：看懂收益平準金機制- 日報",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42ajZqdjhvOVcya25XUDJRWEIwcE1YUUNTXzNsT09Rek9XQ1EwRWtLWjdXUnBFWlNpeFhDOWJWWVZsa3lUZmNIQ2luakwwZHNuYU5Sd0VQaG96WmhZa3ZR?oc=5",
-      "source": "工商時報",
-      "published_at": "2026-09-23T19:00:00+00:00"
-    },
-    {
-      "title": "Anthropic還沒上市，散戶怎麼搶上車？",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9XalAtQjA2UUNhTXdPV3dHdWNPcHhEVzk4WlZOZENneks4YjNSV0RZbzhkTjVNOGdwbzNITmhUeDl6R1Yza21UdmE4SmZhUQ?oc=5",
-      "source": "天下雜誌",
-      "published_at": "2026-09-23T18:39:00+00:00"
-    },
-    {
-      "title": "台股市值衝上5.3兆美元 躍全球第四大！法人預期最快下周挑戰5萬點大關",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kS1dzRWFHX3FYWXZDV1paaFVqb3U3bnRCajlSclcwN2o1T0tpSDNIMExPZkhVZGRVaG83TlZNbDl6TDFEcFRJdW5sbE9KSEF10gFWQVVfeXFMUHg1cTBwN3I3MVhIVWt4VXJaODdkU0U5REVlR2R2Y1VoMEJjaHJWanpDTHNkdDc3b3k3N25DY2JGOG5zUjhLTkhoQkk3bVgwN3VhVWpEeEE?oc=5",
-      "source": "UDN",
-      "published_at": "2026-09-23T17:26:17+00:00"
     }
   ]
 }
