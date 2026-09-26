@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T10:34:58.281270+08:00",
+  "updated_at": "2026-09-26T11:34:52.439667+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6953",
   "name": "家碩",
-  "count": 2,
+  "count": 3,
   "news": [
+    {
+      "title": "2奈米放量家碩H2展拳腳- 日報",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMcFlPRFFKVzFObVM4YUFJOVBRVEV3bEw2RWhTZ3k0VmxLNmo5TnV0eGVqMEpFbmNMZFNyZTFkT1RzVHRfY2N4cklQdTJaWGgwa3FTRDFpNTNYRlNEQ2dB?oc=5",
+      "source": "工商時報",
+      "published_at": "2026-09-24T19:00:00+00:00"
+    },
     {
       "title": "6953 家碩- 【09/17 產業即時新聞】半導體設備族群大漲5.85% AI先進封裝需求強勁帶動類股走揚- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HMm5hSWZnNVdhNUJWUUpFdnl0OXpnUE5VZ0pyVmtaTUoxbmFiQ25ERDBqVndnWHNoelVBUEF3eUdQbGw4WElMZk9RakdkeDN1ajBELWdYeDM?oc=5",

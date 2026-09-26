@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-09-25T11:34:54.595080+08:00",
+  "updated_at": "2026-09-26T11:35:08.432546+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7718",
   "name": "友鋮",
-  "count": 1,
-  "news": [
-    {
-      "title": "【26Q2財報公告】友鋮(7718) Q2 營收6.2465億元，創下近3季新低，季減1.03%、年成長1.5%-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdGFMOW91UnJCSHJSWWNrd0tiYk1DSlJudHExLVBwVkdGbTRrcXROajZQM1ZOSEplQnR5d0xxZ1JVVlF6ckp5UVdWY0VoSVVZNnB3UFVoUmxyaFp4Qmh0R2ZoRWFKTkJxSFZxV1RyeGlVZU1DU3JUTExVVTJqRm1zQ3phSTdqeVFaeHc?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-08-26T07:00:00+00:00"
-    }
-  ]
+  "count": 0,
+  "news": []
 }

@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-25T10:34:50.678990+08:00",
+  "updated_at": "2026-09-26T11:34:44.633515+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6921",
   "name": "嘉雨思-創",
-  "count": 1,
+  "count": 2,
   "news": [
+    {
+      "title": "LeRain Technology Co., Ltd.的每股資本支出 – TWSE:6921",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTGRhRHp3WFVXMllmNWpFajRyX2xiREZwdUp3aVB1WnNnTHpnSHNfTEJoUHJmazQ2M1J6X3hUd09TRXo1WjM1Z1A1OVdBbEY0b1hLcUNNUlZPWkZlU1NjM1VYSlNudDIwTDRBVnEwX0VXTndsT3gwZ1V6MUh0X1JmUmwyZEkxUUctcmdkUXpsbW44eVF0ZzZpR0lB?oc=5",
+      "source": "tw.tradingview.com",
+      "published_at": "2026-09-25T07:01:45+00:00"
+    },
     {
       "title": "【2026/08月營收公告】嘉雨思-創(6921) 八月營收表現亮眼、呈現雙成長，創近8個月以來新高，年增45.31%",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbGtaWm80MndnaWhvVkJBcHVLNEkwUkNuRkJOd2NYZ1ZqT083TDNsNDdsWDVEQ1RRYVZ2MU9QVFJ5Q0tHbVh0dWhteDFidzZiRS1QMXdwLVpaZXRWczZNUG1hX29zMVhTUWIwazFnNEtod1ZibEJacEtGdlcycmRFd1VRcVRWTkJ6ZUE?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]

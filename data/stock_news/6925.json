@@ -1,21 +1,15 @@
 {
-  "updated_at": "2026-09-25T10:34:52.386681+08:00",
+  "updated_at": "2026-09-26T11:34:46.485279+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6925",
   "name": "意藍",
-  "count": 2,
+  "count": 1,
   "news": [
     {
-      "title": "〈焦點股〉輝達財報公布倒數、除權行情搶先發酵 緯穎衝6925元闖歷史新天價",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5nOXptNDVBUmJ4Y3IzUTFMdlUxeFRsT0pNYkpjUnM1T1l3WWxfdndHOUpqS3hTSnU2SDR4ekhFYXVVRDllRU0wVEtxX1BnNWM?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-08-26T07:00:00+00:00"
-    },
-    {
-      "title": "緯穎衝6925元天價！法人看好獲利逐季創高喊買進 目標價曝",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zWmxzdkNpTjRhRTZILUVlWFVfSGJSU081bEwzM0s3LUlHMzRicVpMb0xlcTFMYWctREdoVVRoZTNZXy1ubkpYRkhEaWpxcTA?oc=5",
-      "source": "TVBS新聞網",
-      "published_at": "2026-08-26T07:00:00+00:00"
+      "title": "【2026/08月營收公告】意藍(6925) 八月營收創近2個月以來新高，月增0.1％",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NbzVLX1lCOVF3M2RlYVY2U09xOVk4RTZQOFRsTDk5NGR6MjVBTW41QlUtTmh2NkpfLXUyTm5PWkZhRS1abWIwN2NtT0MwWUM5V1B0aWlaYXR6T3pRT1ZZMjFKU0RPNDQ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-10T07:10:04+00:00"
     }
   ]
 }

@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-25T10:35:06.531303+08:00",
+  "updated_at": "2026-09-26T11:35:00.809719+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7556",
   "name": "意德士",
-  "count": 5,
+  "count": 4,
   "news": [
-    {
-      "title": "Yeedex Electronic Corp.收入明細 – TPEX:7556",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sVkZ1VHRzRS1aaUIyT2NWdVQxMTVNVnNma3pjVWx5Y3lWQU1kWHlSSlBCbzJycUpzMEhVeE0yMWZ0eU1rRGZUVFRxX0dnR3ZURk55OFZYb0pMeU1vcVBIbGdmcjdBRnBuZm9XZmQ2dXFLZjQ?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-16T13:38:08+00:00"
-    },
     {
       "title": "先進製程扛大旗 意德士下半年續旺 | MoneyDJ理財網",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUTREeVUtM1VLYUhEZzlrcXVjNDZqVFBtUjNUYnJGSnc5QlBmNWZjLTc1N2hZRnk4ajV0Y0Nnc0lSNEJkYkdKYnR4MVJpaC05cU9YY291Tl9ETV9yVW42LVlHYjUtV18wRVZWb1I3TG92T2VaMHRlbXVPVF9JdFZpRzFHdw?oc=5",
@@ -32,7 +26,7 @@
     {
       "title": "【意德士科技法說會重點內容備忘錄】未來展望趨勢 20260901",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBybTdQUFdVZkdBWEhTWXN2NDRUMTdLMzNjRVYwWG00Sk85MHZBZ0ZPc2N0aEd5ZGhTY1N2TWh1Y29jZzVCMEc2QzFObXRoOXdzN0NlR3c3X3FFVk50T19kWVFubmxJbFU?oc=5",
-      "source": "blog.fugle.tw",
+      "source": "富果直送",
       "published_at": "2026-09-01T07:00:00+00:00"
     }
   ]

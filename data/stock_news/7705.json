@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-09-25T10:35:09.877226+08:00",
+  "updated_at": "2026-09-26T11:35:04.254389+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7705",
   "name": "三商餐飲",
-  "count": 12,
+  "count": 10,
   "news": [
     {
       "title": "從古坑咖啡到牛丼刈包 三商餐飲翻新庶民味覺",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtQlQ4ME5BLXhDNE1JSzFTaHg4LUpGOFlMSUxQUjI4UVRaQ3doZ1JqMEYtcDZudk0yRURxY3V1cGVMRTRoSS1fcmVKWkJYWDdsdlE?oc=5",
-      "source": "蕃新聞",
+      "source": "n.yam.com",
       "published_at": "2026-09-18T05:04:00+00:00"
     },
     {
       "title": "折扣只能帶來人潮 三商餐飲用平價美味守住一餐的幸福",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHZFp5cDlpaWRwRGI4T09pN3VfdUJ4aDRUMmhPN2FCNTRwSDdTd0dnaHR0XzB2dTNkZ0d3ZF80S1JzcUxvenpyMkRpS3NiZEpQMnc?oc=5",
-      "source": "蕃新聞",
+      "source": "n.yam.com",
       "published_at": "2026-09-11T06:14:05+00:00"
     },
     {
@@ -30,28 +30,10 @@
       "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
-      "title": "《業績-觀光》三商餐飲8月營收為6.27億元，年增7.90%",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVBORFVtdHQ4ZHo2MzRNU2VkLTZJQjk2eGJBNFB2Yi1KR2ZXaWJweTFvLUZnYnN2YVp5Z29Ib1FNX0hrSS1mVXI3dVFUSlFXYkxNdUsxRHUtM1RBZ0lnQjJ2aVJJR2tObXRtd2dNbHJiclNmLVhBUGYzbURCM2tRTWtna0Zmb2pG?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-10T07:00:00+00:00"
-    },
-    {
-      "title": "營收：三商餐飲(7705)8月營收6億2710萬元，月增率13.10%，年增率7.90%",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNms0RnNubS1rbW83NFcya1l0Vi1IZFFNeVpLMXZVX2l4aktJclh4X2NpZGNVYnlTcjgtZEhYcklnYWVNVEw5eW94VzFyd1ZKaEFsQW5yYVBlSzRpblhSaE1nZEtGS0VyZG1vbGkweWFxSnZwMHk4N0lpYng1ZFkwUXV0ekRsODh5?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-10T07:00:00+00:00"
-    },
-    {
       "title": "AI語音接聽來電！三商餐飲攜手台灣大 承接訂餐需求",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13RzBTTGJyX2ZSc1N1RnlBM1FnTFU4NlZTZDFYa1N3TGRILWRCVUF0a1l3OGlUWWRzTWxyZjRLa2NOeHZldEh4MTczelF3SklaT0E?oc=5",
-      "source": "蕃新聞",
-      "published_at": "2026-09-08T01:37:34+00:00"
-    },
-    {
-      "title": "台灣大哥大攜手三商餐飲導入AI語音接單 承接尖峰、非營業時間訂餐需求服務",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4yZFRBSnFsbnptRzVHRHlDZVJmR0g3VXN6VGJMYndaOXdpS1dkTXlfLXY2cGVzbGFNZXVaMmlpUjdKNTRTdGdzZg?oc=5",
-      "source": "台灣民眾電子報",
-      "published_at": "2026-09-07T07:26:53+00:00"
+      "source": "n.yam.com",
+      "published_at": "2026-09-08T03:05:48+00:00"
     },
     {
       "title": "中秋餐桌不只拚澎湃 三商餐飲把便利、選擇與人情味一起帶回家｜神奇的傑克 - 方格子",
@@ -62,19 +44,25 @@
     {
       "title": "《牛來》爆紅｜10日票房7705元逆襲3000萬 帶你了解成名之路8件事",
       "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPaWVqeXUyUGo3ZHJMdG4tSzVTaVRZbFZYZExHMmhfUW9FMVdBUHBpSXExcTIwVlBtbmFoS2RoaXRyaXpLUDVZbTRaNjlGeDZSU3VtZThGaC1FYXZ6QzVpd2l5MnZjaDB4bW1zSDkteVlaaVJvdHo4OFJCZTRyajhySDBTSHk5V0F4RjZ2aWRQMWpoZFlxV2MwOW1Rb3NjMlBtTWlqYnJiakRyQnZCUGJwUmIxUFVYZnY2ZEJ5X0pLdkJaTEQzRFJiY1pXQk1wQVpFUldRakU0SjdHUDIyNURpTHl4WUNYQlZYcHF1Y2kzZnRUZVY0eXNjMVltOUxMdUQzdnl4emdiaVc0MG5uSUNwVnFQTDFrWkMyNllyTHZESEV1Nlo4ZUhaSU5BdHlka3lMUG5nalg3YmtSb1E2UmR0OUkwMlhJV0NsNHZ1dnFZU1lQWjZEU1VTVkcxZXE3Mk94QWxHSlExM0xrVVct?oc=5",
-      "source": "hk01.com",
+      "source": "香港01",
       "published_at": "2026-09-01T07:00:00+00:00"
     },
     {
       "title": "迎接開學日！三商餐飲推出限定新品活動",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FdFZVVmtoRkFPYkR1VW50NFVzSHJKRmd3TkRVVnFLb0FYOEFuSXk3X29xVFRKZUU2WUI3bm54SFplTlViQVZQRTV6U3ozNV9RUVE?oc=5",
-      "source": "蕃新聞",
+      "source": "n.yam.com",
       "published_at": "2026-08-31T17:09:41+00:00"
     },
     {
       "title": "開學不只是價格戰 三商餐飲用一張餐桌接住家庭忙碌日常｜神奇的傑克 - 方格子",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBac3BTWVNXRzBtUkFpOTQ1ZHVfV3E5eXUxajEzbTR3d0N2cHRKaEdjc1hXQkV5OGdta1pKZ25PcDVWTVpyNXUtTnJSbEU5U0o5Ul9wUFJxSzYxaEgyT1HSAWNBVV95cUxOLWJzV1dyTHNCRWFkNU4za0Y0TXVZdUVVTVJkV3RIZ3BJTW92M2daRzFEQl9YS0VxbVVNWXVVLXB2cEI1LUhleFhXcXpoQmhrZlRQcU5lYTB1YlpNaFkzUDVKd0k?oc=5",
       "source": "vocus",
+      "published_at": "2026-08-31T07:00:00+00:00"
+    },
+    {
+      "title": "三商餐飲開學優惠來了！拿坡里披薩12隻雞翅199元 三商炸雞買6送6",
+      "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxOOVNNUnRFUElXOUJLNzNpcXRJRWNHVEpXM3RJZVhEV1FnaXFFeV93c3R4MkxnSjJFODBHSVR4dXgzaHExa2hTeV9FZmVmTHlUQ3Z4aFBWdUo5bWFuOS1qNF9FXzJfVHRjV0F2MklDOVhJM0xocnFqLTVoMmdfaUNyWjNiazNMeWdULWktbFpNYWcyTnE5a2E5UXJ2b3YtZzQtR1hTbXZXb0NHamhFX202UDIwU0s1OGxMY281ZGVmcGdyd1VQWGdaMjFuVVJZYXZHWkJvLUJjYmdoLTVwZ09WUEoxUVM1SnRkTHppQy1SaXV2eWdMSVZLc0lCVmVxSnZrSmdySnFyWDVNTk5QclJsNUh0Wmo4dC1kcjl6WXRtblVSUVJEMUIzUXVoTmVLd2x5R25KTVRWWDE3QkxfVHpkX2ZvR2lpcEZRbGE3ZWEtZXhBcGJud2pYaDVwRld4RE5uQ2tYdlEyM2tPN0dmWmE5a3BMak5wd1pHakZfOUU2cnhTbHdXdXZfWDVqWQ?oc=5",
+      "source": "tw.news.yahoo.com",
       "published_at": "2026-08-31T07:00:00+00:00"
     }
   ]

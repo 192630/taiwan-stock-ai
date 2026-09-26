@@ -1,10 +1,40 @@
 {
-  "updated_at": "2026-09-25T11:34:55.061225+08:00",
+  "updated_at": "2026-09-26T11:35:08.878956+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7721",
   "name": "微程式",
-  "count": 3,
+  "count": 7,
   "news": [
+    {
+      "title": "微程式(7721)拚半導體營收一成，設備合作能放大到三成嗎？-子敏左側交易",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNndJUjE5aUozcTNGM1gtX01WQ0dJQWdJVlNlTUM1Q2Z4ZG81QjFTYkowTEc2VzJjZU5MYjNUSWlnb2I1LXpYWnZOMmhzeFkyc25HOGcwZTZSOTZHZEh5ajFuSHNHYWVWeE1zQnJkUVU1U2FkcU5TVDJOQzNDQmFZVTZyNA?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-26T03:27:22+00:00"
+    },
+    {
+      "title": "半導體智慧製造商機發酵！ICT廠跨足感測應用，微程式拚相關營收達3成-財經焦點情報站",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORG9TLURxUW03bllSdVRtWWRDbUV4aDhLOUJBYzVnaDFpV0IwX0ZhWUZ0UnYwYkdRU2o5Wlh4Z2VhVkRPT0ttZzl0bG1lQkQwUW1odXNOSUluYkFacWp3REM2RHFYTlVmS2JuUld2QnlaNEM2ODZTLUpwakJ2S2t5MW9B?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-25T17:44:50+00:00"
+    },
+    {
+      "title": "企業生日快樂／微程式打造創新生存法則 以自有技術跨入半導體鏈",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9CWmk4bEx5ek5sTE9QaW5CYmV3T080RndyQjc2RTB4SGRrT3VyVzI0NTJWdkliaE9yWkwwSktxQXc1SG1hd2hOeVI5ZkJWYkZqTXNjMWVMR2VlejFydDMtdEtteVJFVDJYZ2I5Q0tHMkdRWFVvWmItZNIBX0FVX3lxTE5MYlVVMHBmaFlfYk5FYllrWE1qTHdabktMSzg0VVc5eE12Vm9sTGpHWHl4OW10Q0FBNHZlaHB4YXlzUklFNDNZTV9FeFRKaVFjRnNuTi1TTjVYenZndVlN?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-25T16:33:39+00:00"
+    },
+    {
+      "title": "企業生日快樂／微程式三次轉型 重寫成長曲線",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UQzhSZWhldUNXNWNCVU5EaEd1SkVwRG9oSFRFQUpfT2JWZk40ejVKaWdGOFpFWkpwdVlVaWZRcFpRVlpndEFzU29hVW1zN2RIZmZKeDNn0gFWQVVfeXFMT2lQQnl2TE9oUFhvay1CZWhJVEJ1QkdBVThRSUFOczNRMDZXcHR1cWRzYjFQYW8wMUZoWXZwVkVUbUk4RVlaZGJLamc5d0R3MEdSRkhPQkE?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-25T16:31:40+00:00"
+    },
+    {
+      "title": "企業生日快樂／微程式 甲方思維模式 建穩定現金流",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QOE1pTlpGUjZBU1p2MDFOVVRObElUTW5zUllpVEhmTDRVdmg0SXc1M0ZjZHVkMmgzZ0F3a1ZRTVJaOHVIb3F5TEFhR0paeVE0WkVpXzZaNnJtQdIBX0FVX3lxTE9sN2oyLVVGRDg1aWVuYm9FaW9PRFA2bVpNT3QyWDdwU2pyTXRBMTZIb0tyclpxSTZ6b3pZZ3dBQTh1OEZrZkI2QXIwYUtoa0RuZWttNDlCNWVNNHI2Mk5j?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-25T16:29:54+00:00"
+    },
     {
       "title": "營收：微程式(7721)8月營收5485萬元，月增率-12.33%，年增率47.60%",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYTF5YWF6WE54SHpwcHNoTS0tWlg1ZnhwU3VrU214bmZRRlNweFloekFYc0sxNWxqYVVHQ2hwZG1WSFpMTlo0VTE5bzRPVUx6V05oVmJRa0ZsXzVjN1VWcWpkcXFYWkMtSUQ3NWEzOWgwQlA0YmpQanY4YWJYdmVKNDJGV2ZyTHBl?oc=5",
@@ -16,12 +46,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zSHV1N09HLVNmNUgycWhSeWlmMzdtZVM2X21maElXc2JfZW9VZ2Y3bGZMalZsT3A5dmc2Mm14eGJndmExMkVUNTdEeGVKTmoza1pqOGMzcmJfUTg2N3ZUVTRCcXE0bjA?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-10T07:10:04+00:00"
-    },
-    {
-      "title": "《業績-數雲端》微程式8月營收為0.55億元，年增47.60%",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb2dNWWF5UlhqcjJQSURfejFieUVaRFVSWC1JM3I3VHJqbU56cEFIUS04bEFsMlVmaDFOa183NUotekdUT0tvVnQ3ZFRUMkhHY2F3WV8yR1dwTExMY2l6VjYtaUFRVDNSaEZlcTUxQmVnLXQyTEQwTExRZnl1RHIwWG1PRjMwU0xt?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-10T07:00:00+00:00"
     }
   ]
 }

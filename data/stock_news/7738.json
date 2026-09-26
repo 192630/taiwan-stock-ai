@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-25T11:34:58.976251+08:00",
+  "updated_at": "2026-09-26T11:35:12.294760+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7738",
   "name": "東聯互動",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "7738 東聯互動- 美國生技指數8月創歷史新高，莫德納「癌症疫苗」問世，1天大... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mQm5vbDRwVTVoSXYwR0NEOXk3NGZKbGl5M0h3Sm11b2N4bktROVM3LXFfb1lCZ2RwdC0xZkhxMm9FWWhnVG9QS19JY0VpWHhZN0hDVHpjUF8?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-25T10:49:19+00:00"
+    }
+  ]
 }

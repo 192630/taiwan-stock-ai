@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-25T10:35:04.110849+08:00",
+  "updated_at": "2026-09-26T11:34:58.317895+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6988",
   "name": "威力暘-創",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【2026/08月營收公告】威力暘-創(6988) 八月營收營收雙減，年減11.13%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZXBUU2pCOHN4SUhwNC1LYjVjUjZiaFRWeE9veUpHc2VRQ3prZlg5Z3dfUHVETzdkMXFaSXhWZXA5NEtIOFYyX0VxbUpOSVUyT1l0Tzhab1ROZmVWNDhVWDZpVEpmWG12M2YyUlVFZHB4NDhwNVpZSlRtb2h2eDgyek0tR3lrVEZCeGc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    }
+  ]
 }

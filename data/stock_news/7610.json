@@ -1,27 +1,15 @@
 {
-  "updated_at": "2026-09-25T10:35:07.451080+08:00",
+  "updated_at": "2026-09-26T11:35:01.788761+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "7610",
   "name": "聯友金屬-創",
   "count": 12,
   "news": [
     {
-      "title": "討論牆 | 盤中速報 - 聯友金屬-創(7610)股價拉至漲停，漲停價2000.0元，成交203張",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DTF9OSDRqdHhjWkwyNEhQZUY3aGRXVkpDYjFpOUI3TXdUWXlORE1ERW91b1pTc19sQkRia0pjRU5QYW5YNnVNMDlzU1BUaEdNM1ZzeDEtTHd1bktnMjlfMm9yakU?oc=5",
-      "source": "LINE TODAY",
-      "published_at": "2026-09-20T16:24:06+00:00"
-    },
-    {
       "title": "7610 聯友金屬-創 - 繼續 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43MG55bjR5eEUxVmlTamxyY1RMS05LNGZDS1pRWE50eUI3d2NIMDZ6ZHE4Q3R4NGFweGJwMkhRcVlCQ2ktNkVpY0M0ZkxPOW1lWWFoODFHU3k?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-19T05:09:43+00:00"
-    },
-    {
-      "title": "【10:45 即時新聞】聯友金屬-創(7610) 亮燈漲停，市場聚焦稀有金屬回收題材",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeHd4Vm1JZXM5bzVLS1lUb1Vod2hfZzNwcDNRTjBFU200M0o3Z3ZtU1hRMl83VElMdEFudHJudS12QmU3X3M4YXlMeWZrXzBRQWIzRmE2b2gtTmxyRkxBNlBqNC1aRG15andCVUFGVjYybDBSZzRpUVA4UXdtMFlOSlVQS2gwX29GbDF6Wmt3?oc=5",
-      "source": "cmnews.com.tw",
-      "published_at": "2026-09-18T02:46:12+00:00"
     },
     {
       "title": "聯友金屬-創(7610)外資、投信、法人籌碼變化與自營買賣超總表 - 股市爆料同學會",
@@ -32,20 +20,8 @@
     {
       "title": "【11:29 即時新聞】聯友金屬-創(7610) 走強，市場聚焦稀有金屬回收題材",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZWE1UmlXdThCa0tUekwwY1phQ2xqMWluaF9KbVI0eTlEWnZHRERTSlJIMmxTaDVQUmd2ZEhMSGJWX0l3QVJtWXFNTWRySWFtcEwzdk9VWmhjbVhIWHNuajl2UTRHekF6RXBnX2lma3E2MmpuQTA4ekZBQy01T2VNRDlsOWxqMENzdmJKMWtR?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-16T07:00:00+00:00"
-    },
-    {
-      "title": "7610 聯友金屬-創 - 只有崩盤這條路可以走。 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96MTdDX3BGSC1VV3dYb2lzMVNfWkVGZTltcGRqNWhqR3N5WE9Pck1NZzBLdG85WV8tcVo5bHo3S3hKdlJ4UmV4RVlCUHpmendhSkUyUW1JTFM?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-14T11:37:39+00:00"
-    },
-    {
-      "title": "盤中速報 - 聯友金屬-創(7610)股價殺至跌停，跌停價1780.0元，成交688張",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VcHNVaDBoenNFc1N4TG9GM0NzeFJ4bkVNOENmSVNtVmNnUWEycnJIdWtXMGZYa3ozVFFEcHduM1M3T1V0cDFUYmdJOGM3R1hPVDh4Ti1Fb3RQXzJiVGJ6NEpScF93UQ?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-14T07:00:00+00:00"
     },
     {
       "title": "7610 聯友金屬-創 - 壓力2170 2410 - 股市爆料同學會",
@@ -54,16 +30,16 @@
       "published_at": "2026-09-13T23:32:09+00:00"
     },
     {
+      "title": "【2026/08月營收公告】聯友金屬-創(7610) 八月營收11.34億元，表現亮眼、呈現雙成長，創歷史新高，年增852.63%",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWDRMSTlFRkhLUnVzMmJtQjZsRUVZNHJydkRrTlYzTWJaMUp2MEJ5ejB0eEhpbkJqTlVHYnZ2X2htU0d3SVJnMEgxX3o1R19xWnpNWDkxbjZvZWFjS1JuM3poZnZ4enVSa3BrWWZoVkRHT1FCVHNWSm5GMVhIZnFCNXNsbEhTOGcwcXc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
       "title": "7610 聯友金屬-創 - 針對聯友金屬（7610）發布的這份重大訊息，屬於典型的「可轉... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hakNVR3ZsTXlwMWpJaVV4c2txUUs0c0tLV1JhY0YyYkZDdGtBSjNucFhHUk9OcVloRDJKWThycmxKY1ZDd1d5RTViei1mamdFTlNldjNxM0M?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-08T07:00:00+00:00"
-    },
-    {
-      "title": "【09:01 即時新聞】聯友金屬-創(7610)亮燈漲停1820元，鎢鈷高成長營收題材帶動多方買盤＋外資連買與主力偏多轉折支撐短線結構",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbUlMMnUyY0U0alVHYURmaVY4OUtla0FxbFJmYW9keUlSMy1XVnhuaHFEQ0ZuS0pHNF9qWi1RdWhiRTVYa1NmWExfOWtZbm1FVlZrNURfbkMteVFDaWNidC1HS0tpdlp3TUZLN1RUODZwTFBKMlNaZVRzdG5hN21VbTBzUXZ0ZVd2Q2RuUmRR?oc=5",
-      "source": "cmnews.com.tw",
-      "published_at": "2026-09-04T07:00:00+00:00"
     },
     {
       "title": "聯友金屬(7610)亮燈漲停！鎢價飆漲＋營收暴增722%，新產能接棒助攻",
@@ -76,6 +52,30 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXQ3BHQ2JVRkVORU9RYm0tSktSaENBR002YkxCbkxwN2d2dWZpVWFGME92RTZBMll4bUw1UnM4S2Z6TWN2TFhWcEtJSVRrbDNwU05TS0RISDg?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-04T07:00:00+00:00"
+    },
+    {
+      "title": "【即時新聞】聯友金屬(7610)EPS飆25元亮燈！鋼鐵股爆量接棒，散戶還能追嗎？",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSW5JQ1UyVTNEektpZ1BFUzRuS1VPanE5Tk02TDV3UFM4X21GM1poWlZERmk0OWliUFNtMjNaazZ2T01tTnNPamg2X0t6dWphX1ZHdy1nQUI2TERkRHVlX1lEVkJsaVZOc180UVk5UDRmLWJJTjRrcjFFYk9RTFlrajZTekctV3hiSjMzRUZmSTU?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-04T07:00:00+00:00"
+    },
+    {
+      "title": "【09/03 申報轉讓】聯友金屬-創(7610)經理人廖佩芬於03日申報轉讓聯友金屬-創股票共4張",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YZGJrOWs3VUtSWnhGOXVzYV81Y20temJicTQ2eFBpS0ZqZEN5MGJVak1QUGRZYXZldkdkT3VtTmFhMVpNUVFoREFDSzhHSDFoZzd2Z1R4S0EyRGN1R2NTZUxxVG1adjA?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-03T07:00:00+00:00"
+    },
+    {
+      "title": "聯友金屬-創 2026-09-03 法說會",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMjIwWVM1S0lmZEF4MG5ZSFB6bnBjaDMwRmU4azB3OUhKU003VzlaWU1wZ010N1kzVWhEeV9Bc3h0MTAtdDZPZF9TdGg3eFRYZWtKbXI3STNLYjdRSlNmcTVtYjBCOHpiSUtha2o2QjFQMjJSWjJaREpsc2dTSUNNc3pwZ20?oc=5",
+      "source": "BigGo 財經",
+      "published_at": "2026-09-03T07:00:00+00:00"
+    },
+    {
+      "title": "7610 聯友金屬-創 - 籌碼面太弱勢，目前是人擠人的狀態- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YbFhuTVRCR28ySTVENnlIRjVPNncwcGMwVDBINU1fQnVGdHpGQnpKS0d5SmZxUjJ5MlFTb01hbFRZWURyUUptUGV4WHI0Z19idEt3bnN5MUs?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-08-27T07:00:00+00:00"
     }
   ]
 }
