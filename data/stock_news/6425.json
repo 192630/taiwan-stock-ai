@@ -1,26 +1,38 @@
 {
-  "updated_at": "2026-09-25T07:32:59.758887+08:00",
+  "updated_at": "2026-09-26T08:39:43.201140+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6425",
   "name": "易發",
   "count": 12,
   "news": [
     {
+      "title": "《港樓》易發樓價指數按周微升0.01%",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcEJZQk84aG1tTXlkX2d0bW9DV29lR19MekNnR3BkcnBna3ZiQkZ1S2NqSzdLT1dBcF9hdkVFZW43VDk0ZXVlUEZpYnpuRklxakU0bGZFRjRzMDZ5MGNjODRoR090VndQSXAyUkhTS3h0Q1pIemVRZHpsYlBFRnZqcTdGVE5iODZnTm9pTGo5WEtaTkJfeHVXQnFLMzFNZjk3bEJYQUFHNHVsb1R6Q2pCa2lUVlFidnhCTVBXLVA5TG1fMFNxMWFtYlpYR0ZrWG4wZXI5Qk1tb3FPYmpKUFFTaXhMQk1GdkVXNHc?oc=5",
+      "source": "Yahoo",
+      "published_at": "2026-09-25T09:00:33+00:00"
+    },
+    {
+      "title": "【易發地產經 x 渾水】新加坡的房地產 能成為香港富豪的絕對避風港嗎？",
+      "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxQaF9EOHJOYVR0ejA1Ql9HeGt6THgtdC1XWjI2UVgxaHRkekJrVXdKaTZwMjFEd2FrMTRvX2t6TXpmeU5HVEkweEJhV1ZrZzF6VWxuUXllMVhiNUJIT3RES1ZGWXNUSFcyZVhKMG5zOEFKRnZYUmtpdmVyM3ZYLVFCaVpNVmR4cnhQeXh5TTVVTFNmcEVINl83V2p5YmZQRkZlbmFCQVVYakYzak1TRWJDYXp0SVdOeGFSal9JMGNWd3F6azlNU3g5OGtEaENiVGROcm9DUmFZUHk4MXJOaGNkMWl0NTF0em5Rb2N4R2N0YVkzZ2g4eDVHcGJuRjBLR1poakdPN0ZUa045SFlNZnZRaGJ3blA5LWpjcHJIRklkZC1NNUlMQ1pQV3hzMmhBcHNVNW9TU0VDSUN1Y1NzQVpqMDZod1dQME1kQmNrcGRILXdlbUFKdF9BM2hjeDc2UldGSjhvTlRTNnpTOHJwY2oxUVQ0dkNXSFF2UTRCcmtVS3Q2czFwdjUzMWRVTFlkM1JOQzFrdEo3TE93RzVJdHBEdXpjVUJXT29oc21iaTBrNWFiZEJy?oc=5",
+      "source": "Yahoo 財經",
+      "published_at": "2026-09-25T02:07:55+00:00"
+    },
+    {
       "title": "6425 易發- 鄭家純懷雙胞胎想撐38週！ 「遭醫勸恐大出血」內幕曝光- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIV1N5ZHdVSldpWldfOEhtbHVlbnVLMmNXemxzWTdTTzdaUHBENE9aVFdDQnlMZ1laMU5qV1NyNi01c0xleVpUUmNLaGtWRkYwZHRQUGRGSk8?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-23T10:14:54+00:00"
     },
     {
       "title": "蔚華科出關漲停！惠特.易發衝 半導體設備起飛 低價黑馬？",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91V1hNMlptRjhKbUxqd1FxWi1KaEM4SjR6cFQ1S2RWYUIxaUE2SFVOdkZzVWlFekVoZmJvWlVMLTZaeDdaZ2J5OUFOakNweUR5ejBTZ0Fjc0U?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-21T21:59:09+00:00"
     },
     {
       "title": "【易發地產經 x 羅家聰】買樓望富貴 還先睇經濟",
       "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPODN0ZjRlWmg4NUpUejhYdGY5UkNkTUVSOW9HSGVzdWV5bmVJZTJ5NEM3WGc2VzBIT0NsTFNsX0dJSWZKME1Na1EyZHBxODhjTVBEdmN6YW05cEptWTB5Z1NQUTZoQi1GUkFGQW1teXN4a0F5SkVIc1lUQlJIeEtiSHRsVmRCbU1zRmlhZ2hqeE5SWl85aEhSZ0NHdG80WFY2NW4xNmdpR18tVGxPWDFJSE1VSVNsRXBEQkc5RHNFbkJjRnFBakFEMzd3TVJURFNRM1JaSnU0NGxSbFQtb2N4c0NUQ0w3eVVkU0UxRllZMlNGVlpEc19EWHFRWF9pem9lQmlWS3ZoQVpOeGFGcHBrUXRWRWhOcVdLVFdPc0FudTJ4SFJCc2ROdFlub2pTY0w1QnRUUl9oMHdpaXlY?oc=5",
-      "source": "hk.finance.yahoo.com",
+      "source": "Yahoo 財經",
       "published_at": "2026-09-21T02:02:52+00:00"
     },
     {
@@ -30,52 +42,40 @@
       "published_at": "2026-09-21T01:40:32+00:00"
     },
     {
-      "title": "6425 易發- 變調異國戀！預購冰櫃行李箱男勒斃泰籍女友- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jcUJVS2V1RFZ0UmJMVms5VjBjUFh6UTVIVEFIUmRqcFIwdndPU2lqRkVNVnVKdDZWbC1vTm1zYV84Vl9yT2lieGk3bXU0T2t1WUxoR3BJWjA?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-19T21:43:18+00:00"
-    },
-    {
       "title": "6425 易發- 從九鵬實彈射擊看國軍接裝只是起點戰力才是關鍵- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qY1REMXRpZGlyM1VidUZ1MVRzM2FINTJuUkZ0WnJCa2RrQ3Eyd0lUUUs2S3Rfd2xpQTktUFY4WWdKRU40QVVCaHc2VXpmY3d5ZWZxbEhmUkk?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-19T12:56:49+00:00"
+    },
+    {
+      "title": "6425 易發- 變調異國戀！預購冰櫃行李箱男勒斃泰籍女友- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jcUJVS2V1RFZ0UmJMVms5VjBjUFh6UTVIVEFIUmRqcFIwdndPU2lqRkVNVnVKdDZWbC1vTm1zYV84Vl9yT2lieGk3bXU0T2t1WUxoR3BJWjA?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-19T06:43:18+00:00"
     },
     {
       "title": "兩區交投轉旺 易發樓價指數升0.5%｜剛需持續支撐 易發租金指數高位微跌0.03%",
       "url": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxQWGZ5aUZXM0MzWW82YWtLd2dTaTVZWEh5Sl9NR19jWkc3MF9YZm5OVjhaZjFqcWtuMURQUVFzRWtzVkUtcjZNeWZ2Y2NWZUNpdHozby1tcXA0bmlqci0zSjZpR0FTOFl0eXcza2xrS1A2QVZxYW9zeFJsTF9uUTRubmw0WlZmT3Z4bHBPamp1MmRzU0U3YjJzZTNsNTA5QlJDNDdadVRiYUxsQzBQMzB3YzBZQmNzX2YzMk5VcHhNdUhWMVI3X29mWXBoYnJXQzE5eWNkaGxhbVVDcE5ESlhMOUp3S09WUkZlLU1wMV9pbXZoX2ZhN3hqYzJxVjVyM2xsUC0wYmNjOVY3d0tULVIwMHRoX3V1eTNQNzNqRV8xWXFHUmxmM25KOGtMM3l6Mk5UTW1PajF6VkdFYjJzVkhabkNHN3ZJNW9zRlhfMUxXUFBDcEg0V0tna2h1MzVFNUNNU1RNd19QMTNKem9BSlZjc2N0eWFQUWZYaVJIVm9nWUZZRGw5aV9SNGxBSjlKY2xmMEQzMWFaM0JTUkV4VUFzY3lzRmdUcy1pTlhuYlRlckFzSmpHazlBSWQyem02ZkE0ZVBZ?oc=5",
-      "source": "hk.finance.yahoo.com",
+      "source": "Yahoo 財經",
       "published_at": "2026-09-18T08:33:51+00:00"
     },
     {
       "title": "6425 易發 - 瘋鹿概念股 懂得都懂 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12aXhjRjhhdGtHYXNqR3JOSFR6Q29iQVQ5dXRtMXl3V3RQX0ZuWHdaZTV4U3RORmRGRkMzZXZtdkJFNDlzSTVNeUVIN1ZlRkxkZE1rYlFFVUk?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-18T08:07:23+00:00"
     },
     {
       "title": "【易發地產經 x 渾水】HYROX爆發衛生醜聞背後：王健林精準套現，新東家迎來公關考驗",
       "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNaU5vY25lMnFyUTZYajZQT0dMM01yWnhpcFVPY2M0QTcwYk5CR042dXRhRVhSci1hQ1NVUlVhbG1ibGsteTh0OWJ5bmVPeWNaMmtubzhXX3JpOEE1cW10Z1Z1VGJxQ2oyTUY5Tm5HOUhJWUNBaGtsU3BJb042aHhxd2tRdnItOXBrNFEwZzVDaFpodTY0M3dGZVhPeEhFdlJyT21BbFFWWFpmZTdhWG9nS2k4QUtRYzZhb1NZNGxTV3poUldaZndHVmpLTnhLanMyQVcwUVpCQWtOUUJfRGVLYTRveHZMUGZIRDFoR2V0czkwY1ZRYkpfZ3l4QlZ1ZlVqZTlWMjY1ckhQOFpGOFFuMDh1dHJ6dmFockljQ20wb2xBa2FqUk81X3lleENWdWtDRWNEa281QURmN2Z1Ql9HX2RidGJRYnRnbzJ5S0R0bFNOenBYWVh6WFVuc2dqOHlROTYxbGdZMUxFVlo5d1V6eHJpdw?oc=5",
-      "source": "hk.finance.yahoo.com",
+      "source": "Yahoo 財經",
       "published_at": "2026-09-17T08:55:22+00:00"
     },
     {
       "title": "6425 易發- 林健正專區》高虹安滿意度墊底，莊競程為何還追不上？ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DRkp1ZjlHd2RaOWV3UE9KaDN3YlB4NWsxY2F3SDE0Z19hcXdTMkdrT1ItMGU4bGRLcHVXS0hnSzJ1TW9UaXRRZ1loN0poZ1hKM2JMUnhOczU?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-17T03:57:51+00:00"
-    },
-    {
-      "title": "6425 易發- iPhone 更新 iOS 27 後耗電加快重建索引需時數天- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42Y2dBNHJuSDAweVdKOV9Ub2hXSmNpSHkwVTRTVGFHR05MYmllQVJzVzQ3TUpzX3p3MnFKWWNxOEdhaE1QcjdUWDFIS29VQjF1TDNWZjluN1U?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-15T14:13:17+00:00"
-    },
-    {
-      "title": "6425 易發- 台南3年開145萬張交通罰單！ 盧崑福轟科技執法幾乎人人中獎- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44SEdETUtzMW56VjMzWkxEc0pIRWFLd3BJZmFiaDVWQ3dtV0xHQlRTZHhHdzZPNkxVS1JXQ1JVa25xeWttdG1UcVE3YU0yNTBzamNBc3ZqUDA?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-15T11:44:07+00:00"
     }
   ]
 }

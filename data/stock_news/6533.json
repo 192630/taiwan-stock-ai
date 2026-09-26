@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T08:40:31.379937+08:00",
+  "updated_at": "2026-09-26T08:40:06.784878+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6533",
   "name": "晶心科",
   "count": 12,
   "news": [
+    {
+      "title": "《上市公司最具軋空條件個股1-1》晶心科、光 鼎、全 友",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMWpYQjJxNzQ2dGVYQU9kYnp3UFF3WEphYktNaU4xVHo4cWVvZVdUbW9hdWhibUlDeGtESW1fUTJ1NnlqSXlHZFgxXzhyRGozaHVQeVlWZ01rdWNQV0IyTVBsQnl5TGUxcXNGTVZWR3NnQXVhVExSQlNWWXNJREJWd3RaRGh0MHNx?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-25T02:27:00+00:00"
+    },
     {
       "title": "今日最夯股／晶心科爆量漲停 法人大買有何消息？ | 市場焦點 | 證券",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1scVAyWWFDN3BaSzBucU5wMEVnVlpBTF9kNDhkU0x2MWY5dC10cUN5cEU5Tjh5QVJtb3AxVVU4RTdqdkpzT05zZXlHZHdiQTZWT3FTTkdTNy1XUQ?oc=5",
@@ -16,12 +22,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ1BZQVBNSDl6QVQ5c3VtYkk5ZFU0ZEdKSXo0TldocVRoc043TTU0T0w4Y2pPM0RzeWM3bHpVbFdlRjh5SmpuQ01lalVZNVczaEFxdW5hbjJUU0psRjVyRkQ3QkV0alNCaUUta1Bsak5DeUdqTkRDSnoyZUFEOEEteU1oTG00YWxlRmxaZ3Fn?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-24T01:56:21+00:00"
-    },
-    {
-      "title": "晶心科Q4迎授權金認列高峰，有望全年轉虧為盈",
-      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxORE1GdWo5V2t0WTFkUU12WUhVRnQxLVA5ZnNXbkstLWNyZkFacnJfMnBVa0w2LXZQNGRISWRnYzd2RFRiRUZjdEhmUWxQR3pNeGFEZGtqWVpiZDR6c2xKT0pfMi1RVU84eHprSW5pS2xDMTZhdHZ6TW5Ha1k4aDlnQWZORXdWbXN6ZWUwczZwTXR6WjdHVktjcVJHMGRvbEdWbGUyaTJ4NXJQc01zZlA5bHdiZEotQ2lHVW4xbThfZzhDdFVmenZ4a0lna3YzUDJ6aWNSSGtSYWswRkZXRGlVeVFQQjNiZF9uSGxXbHk5VUlaZlFLc2FEV21EaXNoaUpPY05leFRqSldldU5GZklZSmc4VjdObnFqYzM4cDBqdTZyTTZPcy0zZTAxWmFMR3I4LTAwM1p3eWxIc2wyWEhQTjVEUQ?oc=5",
-      "source": "tw.stock.yahoo.com",
-      "published_at": "2026-09-18T09:08:09+00:00"
     },
     {
       "title": "晶心科多空轉向:本土金控系改喊287｜今日5份研報",
@@ -48,10 +48,16 @@
       "published_at": "2026-09-18T01:30:27+00:00"
     },
     {
-      "title": "晶心科(6533 授權金先衝，權利金何時接棒？2027年成關鍵轉折",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80SlY5VlRINHFSSGNuenQtZzQzODNIWFNaRDdUY0xtR01VQU9QUXphbXZWeG5jcXhDNzVXcWhySm5Jc29VYnBIWW5HVnNqX0E?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-09-17T06:00:36+00:00"
+      "title": "晶心科Q4迎授權金認列高峰，有望全年轉虧為盈",
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxORE1GdWo5V2t0WTFkUU12WUhVRnQxLVA5ZnNXbkstLWNyZkFacnJfMnBVa0w2LXZQNGRISWRnYzd2RFRiRUZjdEhmUWxQR3pNeGFEZGtqWVpiZDR6c2xKT0pfMi1RVU84eHprSW5pS2xDMTZhdHZ6TW5Ha1k4aDlnQWZORXdWbXN6ZWUwczZwTXR6WjdHVktjcVJHMGRvbEdWbGUyaTJ4NXJQc01zZlA5bHdiZEotQ2lHVW4xbThfZzhDdFVmenZ4a0lna3YzUDJ6aWNSSGtSYWswRkZXRGlVeVFQQjNiZF9uSGxXbHk5VUlaZlFLc2FEV21EaXNoaUpPY05leFRqSldldU5GZklZSmc4VjdObnFqYzM4cDBqdTZyTTZPcy0zZTAxWmFMR3I4LTAwM1p3eWxIc2wyWEhQTjVEUQ?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-17T07:00:00+00:00"
+    },
+    {
+      "title": "【09/17 產業即時新聞】電子上游-IP/ASIC 族群大漲 4.60%：多頭火種重燃，晶心科亮燈引爆 AI ASIC 買氣",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNREJLSG9FemF6bXVYS0hiekpGeERLaXg4OU5vbnBoZGdoTEZHZFpKdWxKYjZlNS1pcVU2TlhHUUM1TXVlQWFtN2pvSFlpM1oxLXIyQW5BYzBjT0lfUF9NdTJsMHZpZDMzdHI4M3JZNzBrYlVjcWlsb0F2Zy12Vm0tdGhMYlI0am82MDVibGV3?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-17T07:00:00+00:00"
     },
     {
       "title": "【10:06 即時新聞】晶心科(6533)亮燈漲停，盤中買盤聚焦RISC-V題材",
@@ -64,12 +70,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV09pZGwwcUdrUG5jUlNwU1NuNGZyN3FSUU9wRzNkT0tacW1NRkFvdEE2eXBWRkZmRkRPcXpLWUpCY0lkMnVTUHpfaFFVQnlsLVdRUGVnSVZsSDlZeXVxdV9ZaVFYMC1ONnhtRVh2QjRkRF9FdmsxdmNLSGdvcWNNSkltMXl1T2pBakY1VGtB?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-17T01:30:30+00:00"
-    },
-    {
-      "title": "【09/17 產業即時新聞】電子上游-IP/ASIC 族群大漲 4.60%：多頭火種重燃，晶心科亮燈引爆 AI ASIC 買氣",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNREJLSG9FemF6bXVYS0hiekpGeERLaXg4OU5vbnBoZGdoTEZHZFpKdWxKYjZlNS1pcVU2TlhHUUM1TXVlQWFtN2pvSFlpM1oxLXIyQW5BYzBjT0lfUF9NdTJsMHZpZDMzdHI4M3JZNzBrYlVjcWlsb0F2Zy12Vm0tdGhMYlI0am82MDVibGV3?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-17T01:30:13+00:00"
     },
     {
       "title": "力旺、晶心科賺 AI 資安財",

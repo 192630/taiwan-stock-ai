@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-25T07:33:16.884207+08:00",
+  "updated_at": "2026-09-26T08:40:01.077154+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6510",
   "name": "精測",
   "count": 12,
   "news": [
     {
+      "title": "精測(6510) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4UGQwMG14R2haTTVTYlplVDNtcVBNaHVUaUZjVW9oV1F0M1JpUjN4WmcyRmZqMFhaSzJFenRPUl9LOG1NV2hMdVhvc3lhS1FpNHRr?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T16:35:19+00:00"
+    },
+    {
       "title": "6510 精測- 精測最後的浮籌被洗掉了- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DNUZPYzVjM2NyUWxSUW41Q1NJdjR0U2dQdHBXS21Tcm1MMmZVVE9YWDNFb253dHdjcmdtZEZFaWZwUndUZ0djSkVSQ3lfcnNVdTdic2JfaTY?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-23T02:59:37+00:00"
+    },
+    {
+      "title": "精測(6510)八月產能翻倍但營收未顯現，認列落差可能來自什... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pbk9RMG0wT2tiR01rREpYWUt5djhUdzJXbkxjSlYtWGtpOE1XbVl2TGdNdjJWM3NyVXpTTTk3SDhKc2w4NWN6aXNvOU1sUGgzMmF2U1hPNG1aeTZTRHRUUkJpbmFZYldJcm92LS12ZGJLeTg5RDQzQTcwYw?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T00:14:20+00:00"
     },
     {
       "title": "【12:01 即時新聞】精測(6510) 股價走強，市場聚焦測試介面板成長動能",
@@ -26,13 +38,19 @@
     {
       "title": "2311 2311 - 日月光、京元電、精測帶勁- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00MkNmUlh4SDJSeExJZ19qNk5lT3JQTXZ3ZEZUQkdlOWZqZWhRX0E5YjNLYVdhZ0lVN0xpT1M4NkpMekh0cU1Jcm5ZZVVoc083VVJBWHdpWGs?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-20T17:02:38+00:00"
+    },
+    {
+      "title": "6510 精測- 越南籍男子酒駕遭逮警查出竟是逃逸7年失聯移工- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByLVBSY1VpZlVYeE5Bci1Kd082T0dWODFWQ0M3NXRVSnFCeG1NcEpyenZwSW1vejhyRHU4cnlnakhqN1RYLUtEUV9GSXZPVXJ5c1FiWmdJcEM?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-20T07:41:25+00:00"
     },
     {
       "title": "半導體行情燒遍台韓美！ 00409A三地持股同步開紅 精測亮燈、英特爾飆7.6%",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBxUjlEQUM5NnVFbG5xdDBHcHpMbmRyZ3ZZYXhRbVljNldwYjBhdjRHUzlqUkVJNmFXaWlSMFplX3hBU09MQmc0ZUh5Y0h0aWtiMjdsRTNOdw?oc=5",
-      "source": "watchmedia01.com",
+      "source": "觀傳媒",
       "published_at": "2026-09-18T09:18:26+00:00"
     },
     {
@@ -40,12 +58,6 @@
       "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxQdTNDb2pMQXdfVnRjd19EMXN3UVB4U2MyVmM5UUVRQjVZUzZDT2JTUWZaVmdiUkZfdW1GcU5MUEdUMjh5NXZTLUo3UXk5QnJ5Szk4N3pnUk1XWTV4Z1lkdDdJN0M0WnRqNDdKai1idUV0am1wQXNQUzNhY24wcXJEeENTMThUSXE4Z0s5aW1Cb3pSUi1WUHFYeHdQeUlIa1o1amZGeUo3eWlaQTJKLVJTVFZpdUItUV9paGl4RXI1LW9yZHh4TVBfUEphMEZxZGY1aUVBNmwwaXpQSENGSWxZRjBkSWEwd0trTVU5UF81OW1acTZ5dE9mNHJ0WGFUay05TDRLVzN5NUFURTRENHFQVXl0RFNvWFEzYjFlRm1MOW5YckFBNmVTaEN6bmdYeDg2M0Nmd21DUHVlaW5Vdk90LUtQa1AzOU02UHlMMjNtV3VBUFhwdkdsRzR2Sm1DWk5BUnlqVzVXdjlGZm1tSGRtTVlkODdhY1E0aDE2Q0RudnVxSDJMRTN6TUViOTNDUzVYZ1VHWm5qNW15ZDJ4TWc?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-18T02:28:12+00:00"
-    },
-    {
-      "title": "封測測試鏈全面點火 華東、精測、汎銓亮燈 京元電、頎邦、矽格齊揚",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NcmJTMkxScW9tX0FEa3AxMmt1QTJhMjB4T194eWQ1ZnpfeklOZWd6aTVxU3hGY2dQSF9yaTFaUkk0RUhlSld0SEw2Q1Y2S2l20gFWQVVfeXFMT0pyWGZpSDZfejNSVlJROW9sN2s5emdmeUpydUR3STg0eTVBNVNmOFVJMEZWOFZZd2JDaW1VaFpGZEViUVB1TnhLSjJfZDNrejBSTTVNaEE?oc=5",
-      "source": "UDN",
-      "published_at": "2026-09-18T02:13:12+00:00"
     },
     {
       "title": "精測帶頭衝！神山開漲35元助陣 千金股滿面通紅 飆出773點助力台股重返47K",
@@ -62,20 +74,8 @@
     {
       "title": "盤中速報 - 精測(6510)股價拉至漲停，漲停價3520.0元，成交229張",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tY3pwT3p3Uy1RU09YTnloQUNqZXBzWmVHWm4ta2hPLXNhdGExQ1M3c0pZZTZnbWdXQ0RZMGpoc1NvV1lnSkV6dzBCaV9TRVNkdWxCSExldVhkejRFeWRILW5GaFI?oc=5",
-      "source": "fr.tradingview.com",
+      "source": "TradingView",
       "published_at": "2026-09-17T18:10:00+00:00"
-    },
-    {
-      "title": "焦點股》精測：亮燈漲停 重返5日線",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YNzRDa1lfNlpZYjNST0UyemhKRm55MG1URzdvOE5ySVhuTkNEbjZ2NkRnQks3MlNHYW5BcEJqS1dveG0xdnotcnFGWDE1U1hLdklUYmxnWXc?oc=5",
-      "source": "stock.ltn.com.tw",
-      "published_at": "2026-09-17T12:27:00+00:00"
-    },
-    {
-      "title": "6510 精測- 先進封裝新技術推升測試難度精測總座：對公司正面- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkMDZXc1Q4RXpTRFE5eE1SNE44ODVPVV81SXYtb1plTkRLTVF6Z21FdUZXeFJpbEZWRVdpRjRpMlFTa0VyNlVPRlNQM0VqVDFQM3JsTy0yVVE?oc=5",
-      "source": "cmoney.tw",
-      "published_at": "2026-09-17T04:05:37+00:00"
     }
   ]
 }

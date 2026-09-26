@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-25T07:33:12.194105+08:00",
+  "updated_at": "2026-09-26T08:39:56.350007+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6492",
   "name": "生華科",
-  "count": 2,
+  "count": 4,
   "news": [
+    {
+      "title": "6492 生華科 - 請與我們一起感謝 Dr. Marcio Malogolowk... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05OGFwbktUNk5ITktCWnpKS0Y3c05JMHlfb0x5b2NCakVyNGpUMnNzWkVkUG5XaTBPTlRfRmpFQldoWTBEUllZX1FBVEExM29hYkZuUFkzSmw?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-13T07:00:00+00:00"
+    },
     {
       "title": "【2026/08月營收公告】生華科(6492) 八月營收持平-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdUFxbTB4YlIxaGdoYUx2elZFOGkybmJHcXl1cUhIRVFKTzlCeERwaXdDYWtwaFBaS0l3cmozWkFNN1dxa1dEYjNPY2hWQzB6VjdBNVdjcEVSaGRuS0Z3WFNrc09veW5hTDAtMi1RNXQtRmpZald4OXdicS1qYTl3Umd3NHZDQ2NYbFE?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】生華科(6492) 八月營收持平",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BenNkQ3h5dVJUMThiRndiU1BLU18xcHJYTlZZM3VPSi1yWGxRMXNjQVh5X1JlazhqYzlFVXVCZnhKSVBTZ19qb1JQTEktUFZ2aUNzbjhQWVNwUDJyQm5sTWVBX2VKSEU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
       "title": "生華科抗癌新藥首例收案 搶攻免疫療法市場",

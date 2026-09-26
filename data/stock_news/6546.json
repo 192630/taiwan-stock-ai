@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-25T08:40:34.165725+08:00",
+  "updated_at": "2026-09-26T08:40:09.492879+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6546",
   "name": "正基",
-  "count": 2,
+  "count": 4,
   "news": [
+    {
+      "title": "6546 正基 - 注意：節錄：正基本週(9/18)集保戶股權分散表：400-1... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwZlpiQXBJNzZhNkJuZFJadzJVY0tuX0dvUTNobHFFc2NST1hmend6Y0JMZi1ZcmNzSW9mck1yMVVCUmk5Ni0yNW9IUDBlazBvQXpjTlNEaHQ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-19T07:07:13+00:00"
+    },
     {
       "title": "正基(6546) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5leWdaOXEyallZUEZLRms0VzJvVzFrRDhLZ2xCLVBVX0wyOVVzd3M4ZlNzYkdlSGZnZGJ1NHJJdzNEOGZYdFZYdTBQTzJMYzdEdFUw?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-18T05:13:51+00:00"
+    },
+    {
+      "title": "6546 正基 - 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Idkw1NDY5dndsUFJKMHJuRkxER0FUd3hZWjR0WExVdjlVVGF1dExpNGNlRFdLNGpJVzJmVGloczVucGZab2gxOGZCNzlRbVdoQ0VVcHJMMUg?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-16T07:00:00+00:00"
     },
     {
       "title": "【2026/08月營收公告】正基(6546) 八月營收月減年增，全年營運續看向上-CMoney 小編",

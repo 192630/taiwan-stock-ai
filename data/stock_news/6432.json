@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-25T07:33:01.164915+08:00",
+  "updated_at": "2026-09-26T08:39:44.627363+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6432",
   "name": "今展科",
-  "count": 1,
+  "count": 2,
   "news": [
+    {
+      "title": "股票特別報告＜6432＞竹內製作所（5.74%→5.73%）Fidelity Mana等",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdE1FWnlqLU5URHI1ZklfU1o2MlItSE9LNThfVG8xRTFrS2t6MWt3NHpuZVZpVm1qeHVENi1BT09XZE9hS0hOYUh6TVludUdIeGt1d1lySHhSVHNtbnJqOUVMZ0JSVXZadFZ2ZE4tRjlld3VCNHlrUGNzczRjWWhOVDZLMWNvS2trUzVlNi1ES2k3YlEtUzFZS2pSTmhrMGJpUkxTekh6aGxOWDRDeGczVVRHWnBFdw?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-24T06:36:00+00:00"
+    },
     {
       "title": "【2026/08月營收公告】今展科(6432) 八月營收營收雙減，年減11.79％",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FaTc1ZlFMUWFNaERaR0VMZ1R6bEFvSnNiSklxVzRxUnFCN2hDWVhpSU5WSER4b3pTSUUwN3l2OG4wWDU5OWludjg0RHFTbUFreURHWEYydFlBZHJCSEotS2NSUjlCRkU?oc=5",
-      "source": "cmoney.tw",
+      "source": "CMoney",
       "published_at": "2026-09-07T08:10:04+00:00"
     }
   ]
