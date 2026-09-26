@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-26T01:34:32.552529+08:00",
+  "updated_at": "2026-09-27T01:33:54.485648+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3675",
   "name": "德微",
   "count": 12,
   "news": [
-    {
-      "title": "3675 德微- 誘多了，沒單就看戲- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FX2pfOGRHRHR2SXR2Vm1WLXZ6SVh0dWk0WnkwX0huNERBLVF4aFBpbk9HM1BfSmk2UlRuX3pXMFZoSDQxc3QyMjd2a3lJNEgzbTJHNHNlanc?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-25T12:22:49+00:00"
-    },
     {
       "title": "3675 德微- 【最新消息】IC 製造族群再度發動，「5檔概念股」強勢上攻！ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJbVZLc3hLZlFhVTh1TTM4QVBZcDJpMW5OcUpPT2ZSSF9MamdLdzI1U2VHbnQ0cHVCOTloYVVTNHgyTTlFZU40RE5JZG1hNVlYb05Qd2YxNnk?oc=5",
@@ -22,6 +16,12 @@
       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQWWJpMEhUbjhpQ1hjRDNyUno4QWJIVjVlQzVuOFJtUUMxRmNQbG15WEJBZnJpb2RXNm5QS2l5YndRSC1VV2JQdFpYbFZ6VTVfbVI2WHBQWnlXUjIyZEU2RmYwS0p3ODZ1OGN3ZUhoY0VWWHRiSzhaS0MtSzJFZFJyZTVfUkNVWGhPQ2lNWkc1WHZ3ZTNOaUNqSkRxN2Y0RmFEQnNzcmV5ZjhFTFVNX0ZuVDBzTDNfTXBObXY1dDBUb2xTVDk0SFdmam9ySWZRWWNlanN4MVVYRFpuN2NEUTMwc2YyVFlQeGx3ZVBOeklSbGJDNGlaeVpuQjB6aGVHN19FeXU3RG5MUUV6Qm1qSnc?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-23T04:31:30+00:00"
+    },
+    {
+      "title": "3675 德微- 德微AI電源產品升級，6吋產能拚明年倍增- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1SMDFCM0dFMndORVhKU1BlTjdWQWNya2RsQzVPSWZpaVRUa2VzNEsxVkJjeklwZ1lxMUlqQzNMalF4UjdZbFQ0YVI4Sk9SQkNaeXpTelltT1Y?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T04:11:18+00:00"
     },
     {
       "title": "AI電力革命點火功率半導體！德微盤中漲停領軍 強茂、台半同步轉強",
@@ -62,7 +62,7 @@
     {
       "title": "【優分析即時新聞】德微漲停領軍功率半導體轉強：AI機櫃邁向1MW，800V HVDC掀規格升級潮",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pSEprNE5SMWk1SUl2OXA4WldEMDJxcXhjUTVRbzV4V1V0SmllQ1ZtRGQyRlVDckJyaWxUbURkT1BJaUVCcnhxM2FUT0dCYk1oTzE2N0tR?oc=5",
-      "source": "uanalyze.com.tw",
+      "source": "優分析UAnalyze",
       "published_at": "2026-09-16T07:00:00+00:00"
     },
     {

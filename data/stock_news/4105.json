@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-26T01:34:45.452274+08:00",
+  "updated_at": "2026-09-27T01:34:08.377320+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4105",
   "name": "東洋",
   "count": 12,
   "news": [
+    {
+      "title": "東洋炭素、丘比等（追加）評級",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ0hIQzNockFHUVZlSTB2bW9aX3FKeWw2X1VnQTFoMTd0c21MNGZVeFpra0c5VXhLQS1FSnlsOF9kRXVjcUtnRXNFdGJscUxNbnlPc1BxRVlYVmoxRWRRSnBkdURLSjU5VER1SHhsQ3ZWZWVJM0FfcHgyMzhMQUdFYzNSZnlvckNQekw4a25kaUtyQQ?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-25T03:09:51+00:00"
+    },
     {
       "title": "東洋(4105) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNWDdBRjdEaW1KT3JBMzRzVm5DQmJ1TF9vcWdzQmVfUEpGSFk1X1ZCZExuM2gwVjNJbldPaTdxMW8wOFZ1cXB4T0lteVc1a19ZakVN?oc=5",
@@ -12,16 +18,16 @@
       "published_at": "2026-09-24T11:16:43+00:00"
     },
     {
+      "title": "東洋擁三大成長動能",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jOVRiVEpReERrYlpKQk41TDN3QnBmVWRZNzhxeWpLcERRNzJuT184TVdPNDhycW1FTkhDckt2TzVId09xTVpPZkkyZEFfRDRD0gFWQVVfeXFMTXh1N3RDdzJpelU5ekVwSGdtWjRtem40QzV5Q3daYXEtd0dSZ0hVM0p0N29DMHVwQk1vZXRKNFJkNDR6X0EwRnhmME9XSkphUWQ3bWNsR1E?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-17T07:00:00+00:00"
+    },
+    {
       "title": "4105 東洋 - 東洋看好3大動能挹注助攻明年營運持續成長- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qWUxRelcyeFBUaEJaNzFBOTFVODFEdU5MYkFDb2FlMWcwX3RWOC1kbXdZV3d6T2lha1VfT19Pa1F0OHhybWF6c0JPZjFlb3lFTTZpd0lOcjM?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-17T01:24:26+00:00"
-    },
-    {
-      "title": "東洋擁三大成長動能",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jOVRiVEpReERrYlpKQk41TDN3QnBmVWRZNzhxeWpLcERRNzJuT184TVdPNDhycW1FTkhDckt2TzVId09xTVpPZkkyZEFfRDRD0gFWQVVfeXFMTXh1N3RDdzJpelU5ekVwSGdtWjRtem40QzV5Q3daYXEtd0dSZ0hVM0p0N29DMHVwQk1vZXRKNFJkNDR6X0EwRnhmME9XSkphUWQ3bWNsR1E?oc=5",
-      "source": "UDN",
-      "published_at": "2026-09-16T16:06:55+00:00"
     },
     {
       "title": "4105 東洋 - 東洋Lipo-AB海外需求旺Q4新產線啟動產能提升2倍 - 股市爆料同學會",
@@ -40,12 +46,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KWTRyazZmZGl1VWg0MHlfT0hBc1k3QWV3akJ4MFV0UDVjSXBGS2hDSDVyMmRwSEJlQzUzNUdmd1FLNXVXNUJKOV9OeGhtYTVCS2RpRFdKRzQ?oc=5",
       "source": "自由時報",
       "published_at": "2026-09-16T11:47:37+00:00"
-    },
-    {
-      "title": "東洋法說會》重磅肺癌新藥打破長期仰賴進口 東洋「普肺康」領證並納健保",
-      "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxPdG9tVUhObU13UXRlZFdzWklyYTNyY1pnbG4xZnlia1pHdEVjQnFRZkxnU2psS3ZjR1NLN3RRTG5vczFNR01tbVlvUlgtMWlDa1hibGVaZ2tHQVNUSnJBUV9XZFdiZ3ZnNUo1NGNvYVZORmw5d1lfUTRaek8zeGR6ZDhtc2hQbF8xRFF5ZzM2ekJRX3dxWGxyWGYwZXRoa0ZyR2tMX0dsa3ZxalRVbmthSk5fb3JhMVl3ZllmcldJVmtCbnJyOHR1QUNtOHZxSnNIc3dHOGJ4SmlFeUVYMV9INm0zd0s3Z2xQVF9DYmxZRHhIa0xoRWJ4UFZNemVVV0N3S3RteVlmUVlrYmlhN05hLW9KWTJNdXZfY1hsTHpCVEJwODhodk1Uc2Y2dHppVmJqNFBaR1Z5b0p3UVdKWV9Sc0dzN2ROdGpRZ3NrVUd4UGROXzF3RFFhN3hwQnJ6OGZoNmdyTWZJX0gtY3c2T21FaW42dmk2OUl6OGt3elNLcUR6cDNGR3FMWWRfUGo3LVR0MjlZSjFIY3R2Q2pDT3RVNmEwNjNEbks0cGQta2hyR1FFa3hseXBjME1WbFdpNlBT?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-16T07:00:00+00:00"
     },
     {
       "title": "我不買金融股了！神基、東洋、櫻花...存股總編公開2027年4檔「除息早鳥股」：提早進場賺二次配息",
@@ -72,8 +72,8 @@
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
-      "title": "高雄民宅驚爆火警！千萬「東洋法拉利」遭燒毀 5貓狗驚險逃生",
-      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPTldUdVFGVVl5X3FGLVVkb2Z2Mi1lTXpqTHZmTEdwbkRGZ2NyMk1HMDZvVlN2TTJrUXdhUTNfVnVoS0g4b1BsQ2lfbTJYM1lIZXJOYjFoaXNfYWRrLU9GLUU4YjMyLXN4Y1RYRjhHZGJtbVdMRjYxcHRkazgzcGRkSmlDM0RpQTFCX2pGUE82VV9QbF90a0dqSTVaRTJOU3RVVUVXMXp3cFhaRUh4bFZ5MVlBWHByejZBRkVsLUNKLTBHR3R1TWNMU3NVWHd6THRqT2VVcS1BaDJLanQ1aHZKVTN5WjRVVXFpRGVWYzFBNEw2MmFqQVRrSW1aTGlObjZVY1JucnJZUkNvRDFiUlNzQ2JsY3lWLXlsdjhGelJLcGtZNXhScDBZN0lMbk1UdDhJZjN6Tlo2MUJkZkJrcnhfNVdxWEh5a2l6eGxSdFlJTkZPYmJuc0ZlRm9ZTktZRWJiMFpkdDdwdHI1akpiSnNsWHhZQkdUU1poYnc?oc=5",
+      "title": "高雄店家騎樓起火爆炸 剛砸200改裝\"東洋法拉利\"幾燒毀",
+      "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQcWtTbmdSUnRSUzNyVGluX0NObjREN3dwLWZCYmZ2MmxCSXY0WFdkS3lncGJSUWIzeENGZ0c5R3hoVTU0WFBYTTQyeEVvT0poMmJHcm5XcjZPRzBsY2lkVDZxanBCcjNjUFUzYi1vZkhYUENpRGNxMy1ZQUpLY2VGLWRyUkhidmVZbUxhRXZ3cTA4UU01Yks3em43ZzBVUkh4UFBOenpVaER1MmwxckV4LXk3OXFZN3I2TVRmbGJ5OFNQd2xoektWT3ROSGcwbk5MWFY4d0pNMjZmWVRXU1BoN2szSGpUdTE0VzNGSFZyLUpuTzdTMWdLay1FV0FSdWQ3SVl4V1o5ajhlYnRORDZQMGptR1RBRWdrTnJtNHlieDRnaHJVMnRnZnBORVZ1YURsSTUyd0tHVld5YWd4OG5jNDQzTFd2NEdTYjFSTWsxN3JldUN6TFZrYXNNRkVRT2dWTEFr?oc=5",
       "source": "Yahoo新聞",
       "published_at": "2026-09-08T07:00:00+00:00"
     }

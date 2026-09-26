@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-09-26T02:36:18.117917+08:00",
+  "updated_at": "2026-09-27T01:34:27.210221+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4178",
   "name": "永笙-KY",
-  "count": 1,
-  "news": [
-    {
-      "title": "Stemcyte International Ltd.的淨債務 – TWSE:4178",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcG9ZaXB3dGJpc3lHZlRjaW5KRE54amdqdmcxU3JQY2NmYnZPMjJWSEJpcEJ3cTRxNW5OM0YxdHhqNHU1eE9fWWZIX3RUTUtDMnFMamRrM0pzVWN1YlQxWE1RWHZ1WEUyM3loZ0g0Y3ktRU9YVlBINTRxczFxQWRPNEpya09fQQ?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-22T06:48:12+00:00"
-    }
-  ]
+  "count": 0,
+  "news": []
 }

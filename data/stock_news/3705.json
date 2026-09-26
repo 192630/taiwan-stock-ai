@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-26T01:34:39.124461+08:00",
+  "updated_at": "2026-09-27T01:34:01.345524+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3705",
   "name": "永信",
-  "count": 12,
+  "count": 8,
   "news": [
     {
       "title": "永信基金會推中秋公益長照 關懷弱勢與長者",
@@ -12,15 +12,9 @@
       "published_at": "2026-09-25T09:32:55+00:00"
     },
     {
-      "title": "永慶高中女排勇奪永信杯「季軍」 創新嘉義縣高女組紀錄",
-      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQUFJGZEJsZGRNUjBnUU1qd21pSWtVQ1V1Qnd6OENIaTNVMnFBcmcwQllTaGdwcGhJd2xGRjNEb0pfUnhVQ2RsVkpLczF2aHpPWThBOTVSVEhHWE5TQ2ZscGg5LXJ2aGI0cmNZNnBIVkxBdWRMcm5kUFhJUDJKMnJtZFV5OU1maVFaajQzVFY5T2tZNl9uTHloQ1M4dzVTR0ExM3FtNGozQlkwNVlJVGdVUWRhdDdVeU56b3QzMlI5MUhxQm5KTVo0WDR2bDhUeEticVFpRWwzeXBxY28tUFdKTjhnU0g3bThsWldJZWJKMmxrTDR6N2pHLXJNWDV1QkszbFJITVFzZXd4b2RRMTdka1BROXNFajVpSnJyS0VhMEtMekRRYnVIYVRJMWRsN2hYRzBqd1NSYkxyS2ZSQ1YwODVITzBQbGI2VFBiNm4wN29wZ1pScGtIUHRKb2hnb1k4OHpGN3EtZk5JUQ?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-24T12:14:33+00:00"
-    },
-    {
       "title": "永信至誠股東奇安創投擬減持不超3%股份 市值上限約7200.86萬元",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jV28zX2hKZFdpemxQRWpFSDltMGlrWVZ2MmtBNHI5T1lXdDhXcURlOTRRemxzM09QNnZpQWZGT1N4OUhWS2dMcjlPQWQzNDRlVWFkVmRxWHp4QQ?oc=5",
-      "source": "moomoo.com",
+      "source": "Moomoo",
       "published_at": "2026-09-21T13:59:47+00:00"
     },
     {
@@ -42,10 +36,10 @@
       "published_at": "2026-09-17T08:36:00+00:00"
     },
     {
-      "title": "臺灣企銀攜手永信推廣安養信託老後照顧「超前佈署」 守護最後一哩路",
-      "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPaGRCenhGYVFDTkdUd08ybUsxV3RBZnJHeUdrRmZLLXdPOGI4YTFpWG1kakJOT2YzT3g3bUxPT2NVZHNnbzg4ZGc4cFhjVHZDMnFuUlN6dGxkNkpYQjB6cVhIMExKMDJHOEgycGNkRU1MaW1QMTAybkdfTHdUZi12ajlKcWZ0NG42T2dxMTFIdTM2ZlBwN2RBb1BJX0hOLVdvQUllVHQ1OGZXUHZTbUNWZzk3Y196cUhtUS1zcXRWSlR3UUtjcC14dUJEbnFuS0pwMUZwM2ZQVVlCMU5xQlpJN1ZZaHM4VW9sdFFCcGJfczZpd3A5N2FScWR4ZUtXT01Cay1kLUtrX0pPb0VSTGE4QUZVX1RMbThIWlBfRkhMUVRvT2RiSHkzZ2V4NEVMeHV0WUtPeElwR0J0SnlxSWhsNUVycXZvRzJZRGlocFF5TV9ZZ2tmOW51NGx4OGpPOTJtSGdDMHJRTkdSYi1hUXJMU0k0bmpyMGNjanNiYWpGdGpfODJtRXk1V3VDaFc5YjYwRERJNkVrVURlb1JKRENNNklxbjdfZkU?oc=5",
+      "title": "臺灣企銀攜手永信推廣安養信託老後照顧「超前佈署」",
+      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNYWozN1pJYk84Z3Y4YWhuRVN0d1EtUTROcWRNWG81b1FINGhOVHNnV1JxUHJ2RkRXQmRhVF9pQzI5b2l5aW5UUmJRZ1hwM1JTTXY2ZEVUY1lROHdzQW9zeXFTRnlQRVVsOWVvM0hTSGR2MjJ4ank2S0VhbUFPWWVKTzF0Um5oMHpxTjJIVkQ3aGRsaDRVa1R5dVFtWDVOUGFOUXRiMXVsUlNtUkxRZEczajA0QnEyVW1vXzRLVmpnc01POXBNT0kwSnkyRFVBMWVHOHllRUFZWGVEYXM1aTRTYnpxZEp4dTJ2dzI4bmdzaWc1Qm43OWlId05ZZmVOWjh0Y056NHdxTk01N0ZRZzRXYy1QMFVxSDNWTEJhOUxhLUZ4cS1xQnI0ejVJc0JfV1FMZjFPWUhnb0JHVm9aOU92SUctNjlqQkJwU1R0WWZvUDdiN0VabU5WQjIyUy0?oc=5",
       "source": "Yahoo新聞",
-      "published_at": "2026-09-11T07:00:00+00:00"
+      "published_at": "2026-09-12T07:00:00+00:00"
     },
     {
       "title": "台灣企銀攜手永信推廣安養信託 老後照顧「超前佈署」",
@@ -58,24 +52,6 @@
       "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNWFp2VVZDbFZDNEJXTGQ1QWZlY3Y4ZUFiODBweDlCXzNjWlNmc3czUkVfZ0ozU2FlUDRpM0FaSXZ1b0dmaTk4Ty1SM3pqNDgwSTQ1eGdueFJxZUxfeXVDLXdCLTM5Y2tpM0NOcDZQUndtOUo5WUtMODdVMFBWWHcxOVRfUzRtZUphazFMbkJYeW9LTlowZ2VtU1JnMXpPdUtOa1ZhTXlGejlqbFIxeHk0MFpKYi1XV01PSEY1UV9BVDZvbjFwcFRpanYwMk4yd1czNjRqZ0tLOEIwb3phd2NoS2VRRTYxaVVOaEt3QXR0MkFXYlNDM3R6eHhGby1qY3J6UzZmWG1zUkluMTY2VUhsN3E3ODNKWmxhSl9fcnptenBUNWpqRy14VXh5VVZuQzU1dVkxd1NPUk5KQzB5VVVWMlhDOEgzX2pUMkFIMU9xbkFwZ0NPQmZua1NLRWpoYkM1MENySFZqUGVlZHR5MWF3VjdnT0hzYVVWdEpYU3JBUWlBMjU4dHFKRFNuWUIyeXktQjVDZThCSENVYTAtTFhGNmlBUXdIbkU?oc=5",
       "source": "Yahoo新聞",
       "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "【2026/08月營收公告】永信(3705) 八月營收6.33億元，年增4.59%-CMoney 小編",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYW9LTmdqWWpnVHgxVFBYWFFxUGZISXlwTXFUbmFaZFVHeFpKM21ZR2JyVi1aRWFVMWdKc0ZQUmQ3bjFlTHhQaS00Sl9FbnVKVkZXZVBqREt4Ylh5R2dyTHhRLU0ybVlkRE8wQzBaNTR2UDVxQjRHdGtYaGYtaWp2bVotUW1tbnpoN0E?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "營收速報 - 永信建(5508)8月營收3.19億元年增率高達633.65％｜新聞快訊｜豐雲學堂",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kZnVhVFQycGVRUUdKMFVfTTBXQWl0Sk9zZUZzWmFYRl83ZDVna1E5WGJvWjdzUHBVMHpGaDZqMkljV0Y2REdIdnl1NmdUUGozS1MwbWw0TmpIRjdCSVZ0eWJlWHJDeDFiSE11cHRSTFJ2Mlo2Rmc?oc=5",
-      "source": "sinotrade.com.tw",
-      "published_at": "2026-09-01T07:00:00+00:00"
-    },
-    {
-      "title": "永信建 115年8月營收3.19億、年增633.65%",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85LVg0Q2kyRWZGYmdjZ3N2TzkxTjJMSlczRG81N3N6c3kxQmdBd3o5bXhKZ3NHeEFoOW9mc0hucFdSU2hLWjYtdVlYU1NoQjZmUUdjaWoxV08?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-31T07:00:00+00:00"
     }
   ]
 }

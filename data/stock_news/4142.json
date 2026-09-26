@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-26T01:34:54.968219+08:00",
+  "updated_at": "2026-09-27T01:34:18.409994+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4142",
   "name": "國光生",
-  "count": 4,
+  "count": 6,
   "news": [
     {
       "title": "產線陸續開出，國光生CDMO業務佔比持續拉高",
@@ -24,10 +24,22 @@
       "published_at": "2026-09-16T07:00:00+00:00"
     },
     {
+      "title": "國光生技法說會談展望 (圖)",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR0QycEdqc24weTNFbXQ1V3FtQ1FYYmppTk8wbXh2ZlZkUVlpMmRNSWtCcXhHZlIwdTdfZEcyRlFYVlczSkprdGV2Y1B0ODNoZUg0MGpZOVU4N1ZaWjdiNUY1c1VkOTR0MnJpX2laLVFuc0d0akVXcDZxa2RCVlRxODFSczROaGVDUmUxX1hGWFBELW9XX05LeWNCekVSWnlJVUpDSTVXbllrSVJvdW16X1FlbG42STg4VFNaaGgxMFFoMkJ2VV8xRk1UbFo0X2xWTUhBN2dZNXY?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-16T07:00:00+00:00"
+    },
+    {
       "title": "國光生CDMO業務展望正面訂單年增50% 全年可望轉盈",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vZkdQZlAyeG1rd2tYVHNqaUJySDFoOTYtZ0VIZGJwcVY2eUREUE1TaXdTWVBtLVhOcnVOdi13cy1ST01aRmRZYWpaMUhFTTg?oc=5",
       "source": "news.cnyes.com",
       "published_at": "2026-09-16T07:00:00+00:00"
+    },
+    {
+      "title": "國光生技獲2026亞太暨台灣永續行動獎銅獎",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNWm1BVG01OU41NlFwZDlnanJKLU5qRzF3VE41SjlITDB1czJHazJ2TDBMbGIxRi00RHZoY1oyWml6bFUzOEZ5TGlaUi1fTDVISTVEZXFLMi1iYVF0RDQtME5faEVtd19JcjYwc2ZXY2htWmVrbmVzUUIzX19aaUlncmFrSUtHV0RLSVJqMnFsaHQ2dzVfM1o5UjNHNk53VEY2MzNmMTdkVUhKejFXZ1hkeklQX29ZRDB6NlVFeDVrMHV0UVBTbW93SVBoWVpzR3RoeDJva3BmMGJWOG8tZmtqcmRwTVF2OVhrdVdvWFdvY3hRdUtsR1YzVTUtWnI3Rl9Hd05qQWNVM0R5RzBYYmJsVkw4Q2FPdlpmRmJYQkgwaHdjeW85?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-08-28T07:00:00+00:00"
     }
   ]
 }

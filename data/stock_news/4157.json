@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-26T02:36:12.024482+08:00",
+  "updated_at": "2026-09-27T01:34:21.007952+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "4157",
   "name": "太景*-KY",
-  "count": 9,
+  "count": 8,
   "news": [
     {
       "title": "4157 太景*-KY - 避開這隻- 股市爆料同學會",
@@ -52,12 +52,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MZ21jWjByUExVOGJ6eThNLTRVUGV1T3diUTQ3WTJnbWdTWll0dkNuZlRfNkhScTktWGE1ZkZWcTRzNzRzZDdqNTV6eF9ZZnpCVHQxLWk4aGI?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-04T07:00:00+00:00"
-    },
-    {
-      "title": "4157 太景*-KY - 陽明又再拉.....成也是陽明敗也是陽明 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04bWJHMzR0X0xwMTRVLW5BbmJmSUVUY0JQWkNvTmxCVWFkVy1DUzh2U2RXUGpnZ05CUV9qY2FpaWRRMC1DUGZMZzZmUjBlTDJJUUVRYnAzNU0?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-31T07:00:00+00:00"
     }
   ]
 }

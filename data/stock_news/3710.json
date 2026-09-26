@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-26T01:34:41.272073+08:00",
+  "updated_at": "2026-09-27T01:34:03.656192+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "3710",
   "name": "連展投控",
-  "count": 3,
+  "count": 2,
   "news": [
     {
       "title": "【2026/08月營收公告】連展投控(3710) 八月營收月減年增，全年營運續看向上",
@@ -16,12 +16,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uMEYzX3ZfN2RrZUo2bzNCcFY4OWlScE1XeGZ1cFZ3UDFuZktfWENiNEZmRkRhY1lQQXgxRUxjbUFaeGRHdzF3MEFldjdfbG1QZUxDYjFoNDg?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-04T07:00:00+00:00"
-    },
-    {
-      "title": "輝達財報點火！外資8月狂掃台股3710億創新高 主動式ETF成新寵",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqT2t1TWdhcXdWRjZ6aXFEMVBwQV85U2E0Z0pqMzJQbURYcjRnbTRIQTQ2U2ZPRHhZUTNpOXNGdk1Sazh5NVZLZUtvVmFfZ0pxWFZ4b3dJb3hIblNrN205MjQ2TmdhOU1ibXJzQXo4Q2FoTk5XRHMxMmJn?oc=5",
-      "source": "BigGo 財經",
-      "published_at": "2026-08-28T07:00:00+00:00"
     }
   ]
 }
