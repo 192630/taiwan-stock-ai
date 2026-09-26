@@ -61,12 +61,22 @@ def clean_title(title, source):
     return title
 
 
+def is_relevant_title(title, code, name):
+    """Match the company name or a code explicitly written as a ticker."""
+    if name and name.lower() in title.lower():
+        return True
+    return bool(
+        re.search(
+            rf"[（(【[]\s*{re.escape(code)}\s*[）)】\]]",
+            title,
+        )
+    )
+
+
 def parse_articles(feed_bytes, code, name):
     root = ET.fromstring(feed_bytes)
     articles = []
     seen = set()
-    code_lower = code.lower()
-    name_lower = name.lower()
 
     for item in root.findall("./channel/item"):
         source_node = item.find("source")
@@ -81,7 +91,7 @@ def parse_articles(feed_bytes, code, name):
 
         if not title or not url:
             continue
-        if code_lower not in title_lower and name_lower not in title_lower:
+        if not is_relevant_title(title, code, name):
             continue
 
         key = re.sub(r"[^0-9a-z\u4e00-\u9fff]+", "", title_lower)

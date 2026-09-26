@@ -4535,7 +4535,12 @@ async function loadStockRelatedNews(code){
       return;
     }
 
-    stockDetailNews = Array.isArray(json.news) ? json.news : [];
+    stockDetailNews = (Array.isArray(json.news) ? json.news : [])
+      .filter(item => isStockNewsRelevant(
+        item,
+        json.code || requestedCode,
+        json.name || ""
+      ));
 
     if(!stockDetailNews.length){
       status.textContent = "目前尚未找到這檔股票的近期相關新聞";
@@ -4550,6 +4555,20 @@ async function loadStockRelatedNews(code){
     }
   }
 
+}
+
+
+function isStockNewsRelevant(item,code,name){
+  const title = String(item?.title || "").trim();
+  const stockCode = String(code || "").trim();
+  const stockName = String(name || "").trim();
+
+  if(!title) return false;
+  if(stockName && title.includes(stockName)) return true;
+  if(!stockCode) return false;
+
+  const escapedCode = stockCode.replace(/[.*+?^${}()|[\]\\]/g,"\\$&");
+  return new RegExp(`[（(【[]\\s*${escapedCode}\\s*[）)】\\]]`).test(title);
 }
 
 
@@ -6497,7 +6516,11 @@ function describeCandle(row){
   const close = getHistoryNumber(row,"close");
   const range = high - low;
 
-  if(!(range > 0)) return "價格區間不足，無法判讀";
+  if(range === 0 && open === close && close === high){
+    return "當日無高低價差，開高低收相同（平盤 K）";
+  }
+
+  if(!(range > 0)) return "價格資料異常，無法判讀";
 
   const bodyRatio = Math.abs(close - open) / range;
   const upperShadow = high - Math.max(open,close);
