@@ -1,21 +1,15 @@
 {
-  "updated_at": "2026-09-25T15:35:33.874028+08:00",
+  "updated_at": "2026-09-26T16:34:50.941755+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1440",
   "name": "南紡",
-  "count": 9,
+  "count": 7,
   "news": [
     {
       "title": "【12:11 即時新聞】南紡(1440)股價走強 聚焦資產活化與AI園區進度",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmZXUVRyVnlGSm5tYlZzU3I3cGtCZ1J3d0tQOW4ySEhMdkVUM1lCeHo5MDBKNVFLdGtUR1Vqb2tmQmpKcmdxS19NY2tzeW5Fdmh4WXhfekJxaTQ0NmdKZ193ZzQ0czBCOTEtVjlUd1RBZFUwcWZQeUlBVTc0N2x3NldCbmVmaW9vaVhweFZB?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-17T04:13:48+00:00"
-    },
-    {
-      "title": "1440 南紡- 弱爆！跌破11元！ - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54bzJDWTJyTHN5amN1cnYxRm9UN2lmaUJKb2E2NUxLUzNzM25DWExjaGozY01QbEZwdHB3cUFONWZBQjJLVDNFRC1JZTNqV2NxcFJ5SGxxaVU?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-16T07:20:05+00:00"
     },
     {
       "title": "【26Q2財報公告】南紡(1440) Q2 營收31.9068億元，創下近70季新低，季減5.4%、年衰退13.77%-CMoney 小編",
@@ -52,12 +46,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWEVhV0lGUVJRLW8wd0hMM1JPTC1iS0JFZXFlSF9RWTBCaV94eFpMWXhyUzdHaDZ5bnFEQnUya0ItVHZFOXZrQ3hydlAxSUROTW5jWGhPZFoyZnVWM3ZoNmQzZEtvUklOcnhSRkVpRkV6YTFDSzJiWUtxSTdneUM3RklKQ0FzdkhCOHRrVldB?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-02T07:00:00+00:00"
-    },
-    {
-      "title": "《集中市場券商買超比前30名 3-3》南紡(17.30)、科妍(16.74)",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV1VxNnNTcDVEM1YxZnFuR2V3NGJOcDB5MWRoc0hraHhiQngxbUFuYkdSeVZQQzFuWXZ0VmhuSWhUOU5XOTFTVXdRTU5BcmVOM2xBTGNSd3NVNTNHUFRtYVpRUGdMUHk1V2owLUxJcVdvaFMxaThkUkk3TkwxMUU1dlA4TnBFT3hR?oc=5",
-      "source": "ww2.money-link.com.tw",
-      "published_at": "2026-08-31T23:29:00+00:00"
     }
   ]
 }

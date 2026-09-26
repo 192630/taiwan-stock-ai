@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-25T15:35:26.631322+08:00",
+  "updated_at": "2026-09-26T16:34:46.443836+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1419",
   "name": "新紡",
-  "count": 2,
+  "count": 3,
   "news": [
     {
       "title": "5534 長虹 - 新紡三大業務堅實，營運後市料持穩- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92ZUpEMnhvV3RoSWtkNUdtbGR5Vm9fMFpqMEJtV3RHU2hWZktRSHRrTzQ0el9EaFpDb2ZYS25KemZLV3RGSDd6TVhobGttSVpPZUNDNHRfREs?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-16T01:45:49+00:00"
+    },
+    {
+      "title": "新紡雙引擎 衝刺營運",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkNWY5WlB3TEZ2Z1RWVXhJVW1mRnZBdzlLdmJfbDRpY0NJaDV0eVMxNzgxWWtzU3BLRnVONDM4Zms3M2NBM0Q0MERybThHYTF60gFWQVVfeXFMUGo3dWZzNUxSQVA4OVBDd2w3Mi04ZWxHdEZMbV9kZ0ZCYkdrTUJHY0dLWTc5T25ObkViREVMc2JSMTB4cHlDVVYyeS1NYnNTSHlYWFh2SVE?oc=5",
+      "source": "UDN",
+      "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
       "title": "【2026/08月營收公告】新紡(1419) 八月營收5.1億元，表現亮眼、呈現雙成長，創近5個月以來新高，年增5.94%",

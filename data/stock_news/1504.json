@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-25T16:36:19.857414+08:00",
+  "updated_at": "2026-09-26T16:35:06.086038+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1504",
   "name": "東元",
   "count": 12,
   "news": [
-    {
-      "title": "東元(1504) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IOWU3WUdzbGFuYXpWNHVJVDlGajEyWWhQUjFIYUhUNXRsbm5CNXdoTlBoYS02bVUyTm8wb1h3Qk9zcTU1Y2FjSnlrd0ZkS1pNaU9N?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-25T05:51:59+00:00"
-    },
     {
       "title": "【09/24券商評等報告彙整】東元(1504) 今日僅1家券商發布績效評等報告，評價為看多，目標價為82元。",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQelVkQjc1aFQ3Y29hQ2pnRHdhYmJXdXNzNE8zLV82VERKOGxCYkNhQXhzeTdNdXdTS3MzMEFaclJYa2RIUDRTZnhwbnMzdDRCTlRhSmxpUG1JeHJoTmVONnZTRDV4Q3V0SUxMazBkODNIdndoNkd5N3ZnQXRKZGtacmlCZ3FPc0xqX1E?oc=5",
@@ -30,15 +24,15 @@
       "published_at": "2026-09-23T10:05:35+00:00"
     },
     {
-      "title": "1504 東元 - 等吧- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iU1ZEX2haN2hVRkR6NFFrQmtScS1pWWo4T0tRUHFCSV9yMkkxUERDZ1hkZ1RRQlgwVHR6eFBqaHVpTjBsamQtMk9IVFo4dE12alh0VEZQU1Y?oc=5",
+      "title": "1504 東元 - 請東帶我走 東帶你 ...😭 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hTDhrcXBIYjVDaHZhVzRXMjBSNWNDZ0wtWWRvaXk0NF83dTRNNzlDRElXTjZPRkRZa3VJRmJaaXdxRy1nNDRDbkVNZ3hUaXliU1FfOTU2NXA?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-21T04:19:32+00:00"
+      "published_at": "2026-09-21T05:35:36+00:00"
     },
     {
       "title": "法說會速報》東元下半年看旺 機電事業成長高",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LWUltRm0tVlRQRk1nMzl4TEJMVlVObGNDTjBYX2hMNXJVb2NoUHB6T2lCUDA2cmk3MldYUWVvZzBJeENWd2drVUxrQVRXOUV5WTZQdWhWSTU?oc=5",
-      "source": "stock.ltn.com.tw",
+      "source": "自由時報",
       "published_at": "2026-09-20T02:24:33+00:00"
     },
     {
@@ -46,12 +40,6 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYZkFqQTJJcjZydmpkY1EybGZtQWNZQU1kT1o3dUF1MEFvRjhUNGwtWjd4aUZRdk1aWVVuRVgweUNWSG1MRWc5a0RtaUJXUXZ2bzVIZkE4N2k2TlJLZmxaNjlZb1NSTFFLYnc?oc=5",
       "source": "旺得富理財網",
       "published_at": "2026-09-18T21:26:06+00:00"
-    },
-    {
-      "title": "1504 東元 - 或許等到東元80我才會離開- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13VF9sRUMweHdqdXNsU3Y5bHBkZ1l4YVR0a1JFU1RONFZ2Zm5jXzk1eW5VRTRaN0NIZ3hmeW0zUm5SamM4NUR5S21NVXRKWmhhSkJYelZQck8?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-18T01:31:46+00:00"
     },
     {
       "title": "1504 東元 - 這支真的是要慢慢磨起來🤔 - 股市爆料同學會",
@@ -75,6 +63,18 @@
       "title": "上修每股純益 東元新目標價",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOU2N3N3MxUkpWd3R5R0xjS0swYThxVkpwVmNMeV9ZX3hBMnJjOWNIeUJ1djRIaWVWQTM3U25tY1N3eFR2WGNGanhJZ1ZYbnd3Z3BkZXBkSzJvczhDOFV3cGxDdWRwN2lCV0ZNTFFwLWpEd1Y3MlJfa3FYVjZNOVZWU0JfVXB4QTVoa1BONUJKb3gtUGNnUE5ZLWJhSUViRG43OGhPbzFuam0yQlR4anBLRmJqbEhIX1l5N2VWYVctMEhfREhWb0FKSWV4d1JDMVlMTHc1ZnpZWG9MNTlwd3RRX1JCMTI?oc=5",
       "source": "Yahoo新聞",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
+      "title": "【09/08券商評等報告彙整】東元(1504) 今日僅1家券商發布績效評等報告，評價為看多，目標價為80元。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd1pGUUliSWxPd0gwNTViYkcwdTVoQjdCWlFqRmdoQTBrT1NVeHB2WFJPVndvWmNSYWo1bkJFOW96YTNKdGsybFhCR29Nb1RHdGJmMkVPZ0ZuZXdYWFA0aTdlYUdUTHRxbkNWdHpjQXl0TVViSHlJellKZWdGMGNsT01ILTFHajcxdlE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】東元(1504) 八月營收月減年增，全年營運續看向上-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRGUzc2pSZnBEcHUtc3RxODlBeWl4X21LS2JCSWt0dHJFeXhleW5fT0hZSkJuR2w1LVFFcHo0cDk3Wkk5eTJCMHZHZjJYaU00TnRveVVLU0s5ejhWc19IcHFIcHVuOXRxcTl3MGk4Qk1UQThlYXFORGlFMTZ3d01qUEVLZUdyNWlzLVE?oc=5",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]

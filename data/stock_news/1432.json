@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T15:35:27.476425+08:00",
+  "updated_at": "2026-09-26T16:34:47.357070+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1432",
   "name": "大魯閣",
-  "count": 4,
+  "count": 5,
   "news": [
+    {
+      "title": "大魯閣美國德州和日本關東據點 第3季加入營運",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zcDB6Y3hEMzlrUDZpTkIzNzh2dEQ0V3gyeUFVZmFjYmJwOGV3bUJWQjBoVDFnQkhHcXVQRldVNjVud2NzMk1jUVdjUVAyLUZCSi1QQnVrcTA?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-24T13:39:52+00:00"
+    },
     {
       "title": "【2026/08月營收公告】大魯閣(1432) 八月營收創近8個月以來新高，月增17.19％",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5uRHVmVExyQWR2d1FucWVCcVFuQk9CMDdPZ1JENFdXN0FtdXVQOEtPTUdOWWZFTnRHOGFfbGpVVEF4MzBqZnZrUGFMXzNfSGI3SlpNclkzS01HNkc1NnZlSmR6RUVPazg?oc=5",

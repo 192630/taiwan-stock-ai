@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-25T15:35:33.398027+08:00",
+  "updated_at": "2026-09-26T16:34:50.335435+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1439",
   "name": "雋揚",
-  "count": 4,
+  "count": 6,
   "news": [
+    {
+      "title": "Ascent Development Co Ltd的股東人數 – TWSE:1439",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMDM4a1V2YzFGMXc4N2dMaHE4SDdQX2tlbEVYQVJmQVJpZjFaZFEzWnhxM2E2S0xjLTlIbHZMNWs2LWpsdXNDbWZTZ1VfY2JFdXlyNDhvNW5jS1ZnTmtoZ0Zub2ozaWZ4ZEM5M2lVYlJCQXBlNDRhVzBjQWRIWl9nN2V4ekI3b0VJSzVTV0hzck1aVnIzVHdpLXlocTRUR3JjYTBB?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-25T04:50:23+00:00"
+    },
     {
       "title": "【2026/08月營收公告】雋揚(1439) 八月營收創近5個月以來新高，月增59.74%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWllrUHdkZmtCZzlVNjZPbHFNd1g2TS1EdWU3YjVOcFF1ZnlzWHZSdkNMQmNhM0tia2dJTzFuRzYzLW03U3FtbjFmam1wTHdFOGprb2p3Z01EM2VfTF94bDkxbENNMDNJZVlqMDhYeV9mSGRHZWRFempOX2dkVmZpTjladnFFWVNNOWc?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
+    },
+    {
+      "title": "《日股早盤》半導體嗨、日經漲1439點；鎧俠飆7%-新聞內容-基金",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdXBxbWtfRUJqaF9zcUl4SVpjT2ZBaUJ6QzhuSk9Zakd6cmV6M3lGNzBicFpiOEZlNlFPVlhpZk1scFZEdmtsb1YtbVB2OGpSSG84NTMwbnYxOVRDeTRHVkZuR0pTcG9IRWJzblFBaTZLQ25pa0kyRFN1ckZHbm1jM2piSmZRZkZZUWFIVHcyaDNFVUE?oc=5",
+      "source": "MoneyDJ",
+      "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
       "title": "2505 國揚- 雋揚砸25億參與泰山區合建案；售漢神購物中心部分持股- 股市爆料同學會",

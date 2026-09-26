@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-25T15:35:40.267155+08:00",
+  "updated_at": "2026-09-26T16:34:57.986166+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1459",
   "name": "聯發",
-  "count": 2,
+  "count": 3,
   "news": [
     {
       "title": "聯發減資/併子公司縮股本；租金收入成營運穩定來源",
@@ -16,6 +16,12 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiOFpiR0dkd1pvLXlYU3VmWkxvUklQTGEtazNMUUd0cWZWLV9wRllvbUxjc0N0b1IxMERZQURGRUc0SHhYM01rcW13bHBqSXpDWmRZeDNJNTUtWjUyaUdBcl9FTUpPdw?oc=5",
       "source": "BigGo 財經",
       "published_at": "2026-09-21T08:45:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】聯發(1459) 八月營收營收雙減，年減14.25%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTzhqRVRaTUpKQmFwUXNqR3pUaUZubkNwVDlJbVhBRnhrUDduM1lZX0xHSndoV0hrYV9CaW83YVFsQnRhcHdWR3dCM3dHaDdjVWJmVS1vdFpJYjQ2R0tlbEdvWnhGX0dhMXJvdVVQeklkbTdCMGZZWlJFSWlIZWhLdE5zcnVXX0I4cUE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]
 }
