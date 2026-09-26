@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T08:40:42.921019+08:00",
+  "updated_at": "2026-09-26T09:33:06.158702+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6584",
   "name": "南俊國際",
   "count": 12,
   "news": [
+    {
+      "title": "南俊國際(6584) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KdUxPWmJGaUJmZXpaQ1VXODJBdkU5NlRQeGY0WktWSDFUSUZ6Q2pTMGN3Ri1HQ1J6M09aNGlMV1JTSG1XZHQ0M2l4MXdNTWRtbDZF?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T20:46:05+00:00"
+    },
     {
       "title": "6584 南俊國際- 【09/21 產業即時新聞】電子中游-金屬製品族群強勢走揚，AI伺服器滑軌龍頭帶量勁揚- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pMGhGX2xsZnVrYXk2NWlHdDRBdktsbzRJM0JrWUVfcXhseFBIOXNPUHY4djIwRmhVbVRNaURJeGt0QnYyLWhMSmVWN1NobFRYQUVQNnoyMWw?oc=5",
@@ -26,7 +32,7 @@
     {
       "title": "缺料緩解+新品出貨，南俊國際Q4起動能增溫",
       "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNd0ExcjVQUHFCX05ja0J0bUpQNG1UdHMyaUIycVdvanRTaGppTkRGLTFrMzFPYnYxbWpUVTNCM2RIQnhxX09kRHFQRGN6SUxzWklTajBWa3RCSDRVM1I1M3FnVEh4cGxFRDlNMWhFRkdKcVhTNlc4ZXBKekY5RmpkZVAxWWFCQ3VWWXpneVpKb1lkTHZicFAxc1ZYWEw1NHFVMGhYYTByc01WM0JFZ0N4Ukcyd3ZKb0Z3WmMzdVExeXFwZWhJa1VWS0ZyLS04cXdLN19oNjF3NGJucVJMd2Z2djFJTGFkSm1jc09iWlo3aFZSMHBZRWZMbFlSbFNtMFR5cjBFUnFVMk1sXzA0WktocGt2NldRcF96ZXdMbmdNQWVWaUs1OFlCRHlqTlI?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-13T07:00:00+00:00"
     },
     {
@@ -48,15 +54,9 @@
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
-      "title": "【12:48 即時新聞】南俊國際(6584)股價上漲6.68%，AI伺服器滑軌成長題材＋短線脫離前一日回檔壓力、主力動能待確認",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbkYxdGh5WVlTbktnVmk0MUx3QktyQXQwdUtleGFTSUFSMkZob0xtRWdHSGQxSUhhMTRsSEgxNnBGaVhiVkRKYTdmUTZWa2VIZ0xXblAyenJpSTdqUE9fczhJUGloRVp1Qk9MS3Y0QkhQanpEYmdBZG04WW1XMDNpRHBqczZlV180cE1BQnNhX1NCZUpxN2NFTA?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-01T07:00:00+00:00"
-    },
-    {
       "title": "南俊國際:VR已小量出貨，H2營運逐季向上",
       "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOS01lTG5PRy1qZ3lUbm1nZ2RBUVZkVjVWU3JBWlhQSWRTellGdmFMTFdEMjR6QkRsLW5VTzA1dkNnb09BbTBSeEExRXBISUhTWWt1QnJSN05Ec1lkZ1JMWG1ta045NzBIN05wNmNNUzFiOTFaLWtaQ1JuWGh3blNHZ21NUVlnN3dSLUtJa2NhLVctWEtycDhWVmFyWkc2c3otQi0yNV92OFpDUkFvdjJ0VUx0ZVV6Y3dOOHdCbHdjNGF2dkppQi1UVU5yMzlHNTdVcERZU3J2VFpGRjVNcWZnMmxPY0picmxXa1k4R2tjZEJtWWtIamoyMGZLd0dFQ1hTSnpmTWEzRnVVZ3VTNGNVTTdabHZnME0?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-08-30T07:00:00+00:00"
     },
     {
@@ -74,7 +74,7 @@
     {
       "title": "南俊國際VR已少量出貨，終端客戶將較GB增加3~4家",
       "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNeVdsdjdKRWxRZFNlM19SRUQ0UUcyZl82WDVhTk1xTzF2dGZmc2dDOTdtcW82NHY0cEZvdmpkekxUOGRCUXRQTmszV0h3WkxfbkNDMmV0WFR3RzlIRkkzWXdVZi1xN2c5cDRuWjQyNHc5Y2ZDVDlFSzZ3UXloRGlyUV9KVlpxM0tTTkpNSnZUNUhkT0lxdEZ4aDRreUQ3aFNiMHNPUFhNTFM5NXh4Qkh3WlJtT1Y4MmljZHJlcVhIdVVwYjJlMWxoOHJYUHdKV0gzcGxhZ3A5V0d3VGhxNW9XeGdjUTlfTW5LNndHNmlZclp0TWxGd3ZydWxHQ1U5c0hia3A2VmpxOXhFUzVGajBGUk0yNXM3RFBtZkhLbG44Q3Ytc1NHQ0JIdm9BQWxzMmpiektmRWc0YzdBSEhMaVE?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-08-27T07:00:00+00:00"
     }
   ]

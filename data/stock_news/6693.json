@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T09:32:19.045547+08:00",
+  "updated_at": "2026-09-26T09:33:29.904194+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6693",
   "name": "廣閎科",
@@ -7,8 +7,8 @@
   "news": [
     {
       "title": "台股高檔震盪！5檔「轉機黑馬股」浮出水面 法人看安葆、廣閎科等續攻",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ZZWxZZld6alB4NDN2MDE0VjRWRzRQUVFvbzdZS1ltR0NDNUpNdlMzeVgtVEVhVTMyaDlCMGJpcVZSM3FUbnVyd2NGVQ?oc=5",
-      "source": "FTNN 新聞",
+      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPaTlxbE0wVlBKa3N1TkQ0SzdzNE5RR1FvVnVwb1VRUXM5TlB5dzdKbm10a3R3VEtGRUFOWUFQbXFrQmozV1EzdG5ydzZYZ1lFMnNjSjNDYzRVUFZudTJxV3dsYnNjNkVtRFkzbEpad1RXMmxMSmRLTUdreGt5eFBhWjRFWUZZZVpzSFZBdnktcjBVYk1aUHU4OXFUS05HT2p0TzJyOXY3Y2Q1cTJGUkxWQ3gtMV9udGVrWWRWaXBuVzR0MDViZG96UUFEQWRvSmtxY0pwUTEwZS1LdzVfVU0yZENkUjVPT0dqWmpaNS1PdWJlQ0pNaXJCTzRqbDlQaW5ZS2xJT0ZDT3pDVENJTThtSmhhVGFKWm9vcUt2TlR4WHRWRGg1UV9DbG1rQWlfMEZLNS1rUVJfalVHaGJvZkhWdXRiOHZHU2VHOEhrNkd0eVpuRUUwZnRKeFlvcUJLdw?oc=5",
+      "source": "Yahoo股市",
       "published_at": "2026-09-24T14:15:00+00:00"
     },
     {
@@ -34,6 +34,12 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTkllQ2VGT2k1Yk1hSDM1S2p2MTlKaTI4NUw5b2t3S05DVTRub01Nc3NMMG9nQ0M5b2NBY1g5NzlhVEkyMk1GQVkwWGR0anZrdW83TWdib3Z2ejVVN3FCdThsU1NnY3lSWUgxRUJrTmFUNlR1SXFXTENsOENDN2RxMkMyb3NEclRMNVNDcDFB?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-23T02:07:31+00:00"
+    },
+    {
+      "title": "6693 廣閎科 - 好了啦股癌概念股功率元件 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FNmVDRFphNndDR1Ata0FxM3RwSzdsMTJ1ZGJmMld6MzVzUGxlVHpRTEZQdlN5cnhBU2lLQ0tQdk04UHV4TmdiN3Z1THBNd2RZWmRnNmNUVXA?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-21T02:01:57+00:00"
     },
     {
       "title": "【12:19 即時新聞】廣閎科(6693)走強逾7% 聚焦營收連創新高",
@@ -70,12 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZVBsYUNuVXFrOWU4ZzcwNTM0cS1IUnN0eUt4TG52NzBYWkt5YVE5TlBJaTE3S3AwMmdlMmtjVVRHcWY5ODhBWXk0NzlRNnYzTEcyVjVGVFhTNFk3Y2Ntc3VxcVNpUldMbFMxMUxmajdPbGozV2FkaWdXVWZMQk5tcnhSaWFxVk14amR5S0lB?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-03T07:00:00+00:00"
-    },
-    {
-      "title": "【6693業績】赤峰黃金純利按年增長逾56%不派息 自產金銷售單價增44%",
-      "url": "https://news.google.com/rss/articles/CBMiogNBVV95cUxQMmN4Tnl0RmhMNG1iU1dWeThzSDBBVXB0M3JKWVBXc1c0eW9XMVBKaFZrbEhjbmhiRWg4V29HcHpVOUFWVXFzd1hOOUY1RTA3TXBnQTFnUkZHUnNTb2Y0WFpaTUtLM0VYT19teGpBb3kzS3NkODQ0SVBOOHUtbV84OWlKYnhnT283UVhmblpCM0dBdDhVTWE3d3czbjNUU002em9BY3RTSEZwNFZiNmFwcE1mOTRCNlF0MHdxdmxzQW9famIwWUJzVTV6Z3I3aWdBdUI4Uk1qbW5hbTNtM3VFekNNRzRhZldsckRZYU5rWUhIdW9Sbl84bFV1VndpQmVEaThwTnZITkx6dS1jOHFyZ3d2bS1xX1BjQjA4bUhOMkdzdmJPZm1ZbG9MUV85ZWxqMGx5d2JSRUUzaTdPX1BYeFhPSzE2cEFKVEJpV2dOeXZpWjVEZGJGNmI4Q1lKbTUzdmZBR1JwYkhyUDVTUXJzd0VHYlBNQ0xxSmF6Uk52VXpkMG5RWERGUkRrdUhjNE5vSm5VWDZZVm55Q1lSQTBvQmhB?oc=5",
-      "source": "香港經濟日報HKET",
-      "published_at": "2026-08-30T07:00:00+00:00"
     }
   ]
 }

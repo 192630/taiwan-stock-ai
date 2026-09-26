@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-25T08:40:38.381694+08:00",
+  "updated_at": "2026-09-26T09:33:01.974024+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6569",
   "name": "醫揚",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "【2026/08月營收公告】醫揚(6569) 八月營收1.35億元，表現亮眼、呈現雙成長，創近2個月以來新高，年增43.2%",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSlRuVUNUZ3MxUHE5Z2R0T0FrM3lxcWM3bDNMdkd3V2JGN0VmTTB1WDhxbDFxREJFU3JqVWRwT044aXdQbDc3NjhqZWdyQ3NqdjNEcDdoT3Q4MTl0SEp3U0IzWVE2MTlXSXY1ZWp5MGt3ZHZ2VjhGclFld1NGS1JtMXR0TVF5bnRvN3c?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    }
+  ]
 }

@@ -1,21 +1,15 @@
 {
-  "updated_at": "2026-09-25T08:40:44.797312+08:00",
+  "updated_at": "2026-09-26T09:33:07.900551+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6590",
   "name": "普鴻",
-  "count": 5,
+  "count": 4,
   "news": [
     {
       "title": "普鴻(6590)重押AI驅動的PQC轉型，2028年「一半獲利」的支票兌現得了嗎？",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9aN2dQNFZUMEZDZW5Fb0YwVmpsbmpoUWVua1MtX215ZllHWS1jZmtsSC1PRXR1clhvcENQX0lZYjMzSE9hTmp5ckFrTzNHVkU?oc=5",
       "source": "news.cnyes.com",
       "published_at": "2026-09-16T06:30:07+00:00"
-    },
-    {
-      "title": "6590 普鴻- 0916🚀 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ieERuTHc2MWhOVDlFX1U0RW9Ec3RhZUJLaG5uaVpCLTd0MnFPUFhnZWtuREhKZkNZRmtzcXIzZlFOdUNkV1JJX19Kd2RoeEdZd0U2SHN6dFA?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-16T00:36:44+00:00"
     },
     {
       "title": "6590 普鴻- 穩定幣暨虛擬資產安全聯盟成軍！普鴻攜中華資安為數位資產上鎖- 股市爆料同學會",
@@ -26,13 +20,13 @@
     {
       "title": "「穩定幣暨虛擬資產安全聯盟」成立 普鴻看相關業務成長",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1haHVfSmZZeDRjblgzbmRqYW5jWWpRNDREZnpyX2JtT3dFMXBmcm1zLV9xUlFGdzdNSENDN0M5VjRzNUFxZG5hcWNlYjFoakllUklvdTFNNTI?oc=5",
-      "source": "自由時報",
+      "source": "stock.ltn.com.tw",
       "published_at": "2026-09-08T08:55:03+00:00"
     },
     {
       "title": "普鴻看好HSM/PQC業務成長性，挹注營運動能",
       "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQMVZFX2UxcTVzMTQ1dnRyb0UyeF9VN05lTEl5b1FMVTg4S0dWel9hWU93S3JGUWR4SkNfaWUtSi1rUlJ2RUtpelFGYXQ2ODJUSjBLSzN3Q0pZcW56OWw1WDZpa0FDSnBRYjFFTHp5MDJEUkVSOWJxbjIwYWdJMmhOSURfSGQxNEpvTlBZNXFKYThGaFlrbGJPdVpabmVwQjFLWndYVjRSWmFYbjZQLWVaLUJnTU1lbDFDMHpjVlNGMDhJeVNwc21kSmhUSkJ3OVc2MktBRDNJX3BXWFFIOEc5bFdDaTc1UXI5OUtuVUFybXJVQ3pqUm9QZ2JwaHd1a1ZyMGRkeEF2UmJjM0tCenRxcWV2eXM1MGQ2ckE?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]

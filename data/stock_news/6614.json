@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-09-25T08:40:50.915778+08:00",
+  "updated_at": "2026-09-26T09:33:13.350979+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6614",
   "name": "資拓宏宇",
-  "count": 1,
-  "news": [
-    {
-      "title": "【2026/08月營收公告】資拓宏宇(6614) 八月營收月減年增，全年營運續看向上",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qVzZvZDN4RVQ5VHpSMHQzTW4xV0dGVWFXNHF1VW1xZVhXUEFtNTl4eXg1Yi1YZUNPVjBNUTRFS1VISGlnRFZhYVhvN01ZOExVNjRVMzB4LXgxTGZISlVpUG1JM1QyUQ?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-10T07:00:00+00:00"
-    }
-  ]
+  "count": 0,
+  "news": []
 }

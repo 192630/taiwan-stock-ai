@@ -1,27 +1,15 @@
 {
-  "updated_at": "2026-09-25T08:40:43.826303+08:00",
+  "updated_at": "2026-09-26T09:33:06.999931+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6588",
   "name": "東典光電",
-  "count": 8,
+  "count": 6,
   "news": [
-    {
-      "title": "Toshiba Tec Corp.的Price to sales forward – TSE:6588",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWjVjVC1RcUxwZnNXMW5qVmthZHFTcDktczdXZzM0TURwZ19NX1ZFTXBVWEpDdmZIal9TcDBLbGIwdFdTSGZlLURRVFo1dzdnT3FjelBiTkZHMEtPX1VLZERwLUhrNkFaOUswcUFwbXgwTWdwcTNOa0hDQm5BdzdmWlVIOXVkQ0tqYjhpZEV3NEJsSG5NVGpBeQ?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-19T05:37:02+00:00"
-    },
     {
       "title": "【10:23 即時新聞】東典光電(6588)盤中走強 光通訊濾光片題材受關注",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcGszdWZnUlpOcFdNOVVlX2FqcTgzMzhVbzZnQkFpZl94Zm9vcFk0Q3FKZlI0eDVndTdZN1lBZkVZX0hpU1d6dHQ4Mm9XSWt0VndwWVMtSnhjUmszLXJTQmZ2ZnlVZWI2ZEx4VUNvYnVGNEp4dlQyLURnSW1RWVpFRHNQN2xlMno2YkF6azdn?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-17T02:23:27+00:00"
-    },
-    {
-      "title": "6588 東典光電 - 一路鎖到130 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaN1JuRXFnZlRSb3NLbzNCUTRVdDBxUVRvVEdTbFJ1eE5xTWoyS1dGRU55Q1lLNzJERUR3TV9sNE9HVE9hTkh6MFQtQWhTOHd2anhsOVF0RTk?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-16T10:00:17+00:00"
     },
     {
       "title": "【09:10 即時新聞】東典光電(6588) 亮燈漲停，營收高成長成盤中焦點",
@@ -48,10 +36,10 @@
       "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
-      "title": "濾光片族群亮紅光 統新、東典光電後市看旺",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrQTl5SnlQV3pNMDFBTllibzJndldneHNzQlhVSS1uX3JMN2xJcTJRN0tGS0lFRXk4Xy1zYmY5Rm16UlU1NmhQZVlyNVRHXzRTU3o5TzFCaTBBQdIBX0FVX3lxTE5vb2MxS0s5VER2M3dsWExncnRmaGVIRDdpOXBaSE9DRmhQdHNQQjhBUGlVd29ERTE2bHdPd2JPQ1V1UUVjWXZBRW5UMnpueUU3QnhRS00ybmFTcUR5cHFv?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-09-07T07:00:00+00:00"
+      "title": "東典光電躋身CSP鏈",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlcFRIV0NwRzJEQ3d1Z2RBTVRCRFpjRmJaNEE3ekxYX3BlZF9wd3lKOWxfN3JYaDlFaUxKd0g2cDdNeXRmZmY1ZmtqZllrX3FI0gFWQVVfeXFMTXRXSzBqYXg0ZnZEakpkR0VjOVdTVlB4MW1pdEM3STZ6VU81a0tDMHNsOUdmeF85OVpwWGs4cU91QWJzTElMV1luaS1DV0QzZURsa3hTdUE?oc=5",
+      "source": "UDN",
+      "published_at": "2026-08-31T07:00:00+00:00"
     }
   ]
 }

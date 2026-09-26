@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-25T08:40:59.879129+08:00",
+  "updated_at": "2026-09-26T09:33:21.480810+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6658",
   "name": "聯策",
-  "count": 6,
+  "count": 4,
   "news": [
     {
       "title": "Liuliumei Co., Ltd. Class H的營業收入 – HKEX:6658",
@@ -24,22 +24,10 @@
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
-      "title": "聯策 6658",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RLWtEdVpUNXFfRGVoUk9hZ29OdXAxbDR2ZzlfN3ZlMHA5bVhSUkFNc1I0MHlvZUVRQUQ5eExLaUJ6T3pJVGNrYTl3eC1hYm9EejRoOEZqZ2w?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-06T07:00:00+00:00"
-    },
-    {
       "title": "【即時新聞】家登創投最新宣布參與聯策私募案，持股比例達5.57%",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYjh4VmpaeVBidEhucm9TelhKTGNLRTlTcDY2dVVsUlRzYnVPWGlnV05aQ1IwUDdQOTZzYnRETlFCckttblotbEp4YnZFRUo4TmVKX3ZWSlpKQllZWTNxenB5NHQxdnh6alpDVVRxNmFmS0dPX2NBTTdpWTdONnE2UDVXSHdWMDNNdFl4UWlEMkE?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-08-27T07:00:00+00:00"
-    },
-    {
-      "title": "家登創投參與 AOI 廠聯策私募 累計持股2,137張比率達5.57%",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2eXBuaDVoWDR6VzgzM1poUVhuMzExQkZVWm15SEtpLUdibjJXVXhMUHpyN21DYkx0cVN4d0ZPRmtDcC1od3RQTVJiM1lpZzkyM19zTHpubzVCd9IBX0FVX3lxTE1hV1pPMFdHRzdjLTVkclFXcGdaMmNaSXRfaWdvQUNCeVZvZ21EZUEwcUFaWjZZSUc4SUtQd29aRzRPUGdEa2xiaS14SWo2WFpVWkRJUWVlUGFZSFpyT2ZZ?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-08-26T07:00:00+00:00"
     }
   ]
 }

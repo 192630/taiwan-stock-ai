@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-25T09:32:21.818911+08:00",
+  "updated_at": "2026-09-26T09:33:32.527663+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6708",
   "name": "天擎",
-  "count": 4,
+  "count": 5,
   "news": [
     {
       "title": "蘇威元：天擎最大股東聯發科 切入eBMC.ARM對標股王",
       "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPLTRvSmk0SnJvX3hfLXlxQjlPVVQyR2cyM1FnXy1xN0piYUk3OVY5d1ZHZWN5MnhWZkpMaXd5cURYQzlucFRITUpIQWcxS3ZUYUpEVnhBeDY4Q1J0Q0VyTkdzcjJNX2gwUHotSFNFT0YyNWgwVVVTcmVsaFB1T094RWM5LTNCMTRPbTFzTEVZY1JNX0hqenNFYmVoOVh5XzMwZkRvZ1FYc1JTaE8wNEo5WFk1VnBiRFZCbnA5M2J1NnItYXZfc0ViQ3BBVHhZZmxfM1dZblpaekh0UU1xcXZiSjRMS0dGMlppMXFhVXh3M1dHSzlzaDNDQW9Qa0VJWDhVbUVoQTlVVW5TTlJtQWxLdnRhU2hnUHhmN3VrR1dNS1Fsd2JiNEV1NWFmTE05aTdpRlBXVDBRUkxMcGhqQ1ZfYw?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-24T14:46:02+00:00"
+    },
+    {
+      "title": "財經週日趴（影）／蘇威元：天擎最大股東聯發科 切入eBMC.ARM對標股王",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jQ2RkZWZZNHZjVzd0aVRsZDFqU19hX1ZjM3RTeTY3VGVnY3RRenZVM2dWS2YzdXVidmhsYW9EQmlIMVpROTFrVTA0TXVsNGtoMFZGbjRNaVhTUUxNNVhNWnBjS0pCUQ?oc=5",
+      "source": "民視財經網",
+      "published_at": "2026-09-24T14:35:38+00:00"
     },
     {
       "title": "Mars Semiconductor Corp.收入明細 – TPEX:6708",

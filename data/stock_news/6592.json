@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-25T08:40:45.678320+08:00",
+  "updated_at": "2026-09-26T09:33:08.705387+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6592",
   "name": "和潤企業",
-  "count": 4,
+  "count": 3,
   "news": [
     {
       "title": "【2026/08月營收公告】和潤企業(6592) 八月營收18.73億元，營收雙減，年減4.05%-CMoney 小編",
@@ -22,12 +22,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaVVcxQmNReE1IaHBmbXF5bDFFUzJzaTBDZEhSNEtQRHdCbXk5UjZ5czltSTM5c1ozWFQyb0ZGOWpSMEpkS1pxY3JWdHJrZ0lIQzNuUlVVcVM?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-05T07:00:00+00:00"
-    },
-    {
-      "title": "和潤企業 代子公司和潤興業(股)公司公告法人董事代表人異動",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9oWVZHYk5EZ1Izd2xBczI0WWtjWDcwdFMzRi1DRGNCbEdDdU4xNndtNjZWTFp6dTdrTU9rTkdiblY1Um85U2s3TmpwUlhkSkM4QkpfbVhGTjc?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-31T07:34:17+00:00"
     }
   ]
 }

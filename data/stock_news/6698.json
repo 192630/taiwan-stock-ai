@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-25T09:32:20.392369+08:00",
+  "updated_at": "2026-09-26T09:33:31.160282+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6698",
   "name": "旭暉應材",
-  "count": 6,
+  "count": 5,
   "news": [
     {
       "title": "星空華文(06698.HK)9月11日耗資4114港元回購4800股",
@@ -34,12 +34,6 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaNlBvaGlac21ZNlNvTktfVjFZUno0ZW9ZWWRPLXpvR2M2dU1UVTdPU0hvcl93Q19JdHVicml6VS1NRHpUUF9SXzl0ZmFhOHgtV0hPVDRpbTk5WkhKNkZyUE5YY2RxMEN6LTdR?oc=5",
       "source": "TradingView",
       "published_at": "2026-09-04T07:00:00+00:00"
-    },
-    {
-      "title": "星空華文(06698.HK)9月3日回購1.03萬股",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZcWxRS0tQdG1PVTdLREJDUWdVSkZhbW55TGhrakg3WURYU1lvekxoQ3laaklHTzhFNXlsQXV4WDJxNGhMUkczQkd4NnJIaTZoVTdRZGlFSW0xRExtcHVkR0VkT0dyMHRnTGdF?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-03T07:00:00+00:00"
     }
   ]
 }

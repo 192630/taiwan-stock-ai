@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T08:40:59.440047+08:00",
+  "updated_at": "2026-09-26T09:33:21.074739+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6657",
   "name": "華安",
   "count": 12,
   "news": [
+    {
+      "title": "AI新藥研發獲國發基金2.7億元注資，華安旗下源華智醫擬登錄興櫃-財經焦點情報站",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaHhhZ1ZCcHZqTkFpc1VUYUhYbWh1bjFReVZfeFFUS0x1cWtSU2cxdVR4Y1dUVlQzOVJSaEdvazBYamt6Sk1hd1pBWGdPU1VJa3FpSTBITnFqcjlGeWdlNmRXaUc2SktLYzNsSlEzYW9ySUpleHRWYThyaFN5TnV6OFBR?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-22T10:24:12+00:00"
+    },
     {
       "title": "華安小金雞源華智醫完成2.7億現金增資 獲國發基金支持攻 AI 藥物市場",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KN05VejVxRHNyb3dnSWtPMzZneDdxLVMtQUxESVhvLWdzR1lwVnBFQTBfU2xCRXdlbDJSaXl3UnZScGxrOGgxVHNyTHc3Q0tYRHZHcU13LUZNQdIBX0FVX3lxTFA3SkU0YklWNGtyTHlqdjVFQ3BoMXBkZVRqbnpZT0xhTHlxZkFfRWZmc2xOVFQ0a3VOZkpqbkhzc0gwdnJobm44VGlfa1hncnZ3aHRWVGQ3RWN6ODRVUGlR?oc=5",
@@ -14,14 +20,8 @@
     {
       "title": "討論牆 | 盤中速報 - 華安(6657)股價拉至漲停，漲停價36.75元，成交562張",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnUGsyM1F0Q0tNaEJKb2Z3SU9tR3NrZjdHeGRkaTY5Yl9kWW42bVNLN0gwV0w1aDZ2ODF5QUhIdFpiZ3pYSExoX0dYTmgxVDNDNmZNRVBpLS15c2swSVZtSGlEeGY?oc=5",
-      "source": "today.line.me",
+      "source": "LINE TODAY",
       "published_at": "2026-09-22T00:24:45+00:00"
-    },
-    {
-      "title": "華安轉投資的源華智醫 獲國發基金入股 預計明年登錄興櫃",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rdHl4SHdCM2Q1TC1UbmlzTExrUU93Zkctbml4QldNWEJMZ0J5S1ZvaVhndW54SE9jbWtxS0dWTWNfOFptZngtSm5rNFRodXdDN2tWRzktLUg?oc=5",
-      "source": "stock.ltn.com.tw",
-      "published_at": "2026-09-21T20:22:00+00:00"
     },
     {
       "title": "華安證券：光伏仍處築底階段 風電出海趨勢持續 作者 智通財經",
@@ -60,12 +60,6 @@
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
-      "title": "營收速報 - 華安(6657)8月營收80萬元年增率高達153.31％｜新聞快訊｜豐雲學堂",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wVTF0TGpXUlJNWlJGRTlpTnoyZXA5RldRSUF0bVBUZVVtWkJzLVN6M2t3YmpfMUtMQzUtNWhKanRqOU54OTN2QXNqR2E2dHlaallEMXZmWkNLZ21kdWtHMGRLdlJaOTBxRnc1RXJ5Y3dmTHJPVmc?oc=5",
-      "source": "sinotrade.com.tw",
-      "published_at": "2026-09-07T07:00:00+00:00"
-    },
-    {
       "title": "【09/08 產業即時新聞】新藥研發族群盤中強勢表態，藥華藥、華安領軍，市場聚焦解盲與銷售前景。",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KUzZrTFlqblBWdUtqMWhjWjhpNDRVeXgyZWJWVDZEVVhIM3U0XzByUHlKNDNhS0laWHd1ZDEzcEwyWHRQc0dTcTNfUVByN2F4TnNnU1l1ZXk?oc=5",
       "source": "CMoney",
@@ -76,6 +70,12 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OazRtLUhYQmtidFFGZWdhcklsNEU0YTdVTE5hLW03YkNWNmI3cG5QZE1DaTRpZkVHQkhIemxVMkQ2UkFLODJ4dmt6MDdhTkJUOVFaVjFYc04?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-05T07:00:00+00:00"
+    },
+    {
+      "title": "華安啟動現增；糖尿病足潰瀾新藥年底期中分析",
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPTEJCa0oxY3AwcFdKOXAyN2RqMC1hZ0EwLXRqcmZnSTUxVExUWHVWamViZXIybFVUaXU4Z3pCcjdMenRvSmVyYUFEbk5pWkVSVVBKZlJ1XzZZaFJtbmF5SkFSNmkwTC1RN1VzdVdKLUNKRlFBc04tRHBocWtrNEFzNS1oZkY3MFFsb2hyV21tRnFsN1hMRnB6QXF2TFhtX3paLUdhS3hMS1hnMnZqbUc3a3JrMGF5S3hYQmw1U3JyOG42elR6RkszSnNHVHJ1ZUNSekZmNm1OblBtazRaaVNaWTlSZjhUT0JYZEVFUkVZcG5FMGZ3RFlfVWE4QlQ1eWlaQWpLMm1xQTdfR0lQd3NEQzFXM1FibUFBa1FvcENhVnk3VWh4cm95Q1N2cEZyRHp2ZFIxTm55eVRPTllVdThPM2k2WFhpWDV2V3UyZg?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-04T07:00:00+00:00"
     }
   ]
 }

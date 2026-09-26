@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-25T08:40:55.168512+08:00",
+  "updated_at": "2026-09-26T09:33:17.149570+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6640",
   "name": "均華",
   "count": 12,
   "news": [
     {
+      "title": "「寄居蟹」陷危機 6640件租約免驚 住都中心啟動轉銜、官網專案協助",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDMEpSWWZPaU1uOUhlZW5BSXFveFJVZ196NUZDNHEzaGNQNkV0MDcyUVkzQjhEbnNPb1E5bEtvMWZDenc5MVhFdjlMMnBUNU9uYWRTazl3Yl8?oc=5",
+      "source": "stock.ltn.com.tw",
+      "published_at": "2026-09-24T22:25:59+00:00"
+    },
+    {
       "title": "寄居蟹退場6640戶轉銜避險 逾3成案件卻「轉到兆基」！公司回應了",
       "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPUHlNQkdhV3hGWWo2SmJJVDlmQWJaUmdWVHVpaWh1WVdETHN3SG0yUDlDcXFUQ0oySW02cmhQYS1EY3NrVGdJYkl6eHdmZWtNRVFJTE1zZzBoYk5vZ1hMNmtQWG5VOFpqQVBWVVNvaGhzR2g0QS1VUTJlRG5UV3pDRXhzMXJCeE1MWDdNWlRGYzI0dy1XUWtyWHdyUmdRbkhkeDJRWjBDSzQ2Ty1XY1dkeTFvNzgtXzdjZS1yRUdNZDRGNDJiVVZ1N0N3MWVhcVo4TC1rZUFMWUtSNEp2TGtKc3EwOVFVY3JDREIzZDRRTGFaa2g3eUNTQ3ZhMTZLNy1ZR0NhQlhXbjRBNFhTc2Y4WFF4T19iZnZ1N21XWXFUTm9ZanBwQWdFSzNBM05iV2hsSlcwaFZjM1NFUHBFc1RwNXVjbUJCbjJwcDQ3Qlc2dlZzUm03aUdGT2xJYXhkdERIR3hBbEcxaUhrSnRibEdOZjdCVTE2MDlTTnFhUklBRXlVaFctYklURllRanU3Z3NwM3dhLV9PTFN1U19FVlpsMjdha1pISDg?oc=5",
-      "source": "tw.stock.yahoo.com",
-      "published_at": "2026-09-24T02:59:23+00:00"
+      "source": "Yahoo股市",
+      "published_at": "2026-09-24T03:03:57+00:00"
+    },
+    {
+      "title": "6640 均華- 沒戲了- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rQTlnVUNTM1NKWlVTb2J4Q1VEM1JzM3Y4Sm0wX2VNcU1odzBVMnpRNThjR0s4MVNTTlJvNGc1X2ZxZlo4ekppX2RkWHVocWRlRUxsTHd3WnY?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T04:00:09+00:00"
     },
     {
       "title": "Oracle第一財季：6640億RPO半數三年內轉營收",
@@ -18,9 +30,21 @@
       "published_at": "2026-09-21T10:20:15+00:00"
     },
     {
+      "title": "6640 均華 - 籌碼優 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80T3BqSFdMTEdrSXZpT0dzUlZ4TF9OcnB5UXBVYkpPeGxCYjNHWms1SEw1RmRSbUtDZVI3VTR6N1BfLVhkZmd2WjVNcFdSWjRWQUwtWkJMOEM?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-19T00:42:43+00:00"
+    },
+    {
+      "title": "寄居蟹終止社宅包租代管服務 住都中心啟動6640戶轉銜機制",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Sb1RwbjdvaVdpNDhCLUUtbVV0cTNycUVGSHJsV0NOa09GSjFRV3Z6RzFzNlkxQmx5djJqaTlpaFNYbkJqRkNQX1BLZUYtZVE?oc=5",
+      "source": "公視新聞網PNN",
+      "published_at": "2026-09-14T07:00:00+00:00"
+    },
+    {
       "title": "財經視野｜6640億天價訂單 現金流卻倒虧54億︰甲骨文在賭什麼？",
       "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNamFzSHJTbjhjWHpuaG5wTlR6a3NiTHF3RlhiOTJORFNsUkJpYWYzenpjTU45Q3ZKcGNWckV1Wkk3dmdmLWtHa0ZzaVpkb19qZW1zX0NqT0hmZFpvYlg2WWpCeUJsenBQaFV4eDdOb0V5bWJPbTQ2ZzRlM2ZDVnoyWDBPdWhIMkJVTXQ5TDF0ODBhMU9IYUNLQ2xheGFLWmFQUEZDWmFIM1pWMmxNMjR5QUxQOEotRTBQUXl0VzB5VU53d29QX0ZvSG02SnJjOURKVy0tM0NlLTZPZFFJcDhSUjRocnJldlBieHJEeFZ4Y19nVDFaRHRtY050bURWcUJPSUlxeDd5ajkwTnFzU29pXzQ0Wk1TOFZQVkpjN0x2aGwxUnZhWGl1WkNkb2t5NzVlaDZibThDRUFSazZ4czc1ZlRMdkRDcDZxNWVpdGo0R3JXNGtvLXJRRnl0QWhVa1VKWW5LcmN1ZElHbEFwc2hQN1ZoejN2N2FtdU1TR2txQ1NIbXZObEhycUR0Wk9qVWNiaU1VMExn?oc=5",
-      "source": "hk01.com",
+      "source": "香港01",
       "published_at": "2026-09-12T07:00:00+00:00"
     },
     {
@@ -34,18 +58,6 @@
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5hQjBvZjV4MVVMQzBCeWNLelJRcnNkUEd5VWZxZGxoVjhJMWd0d2dTaWlLTTRQay1mQ1cyd1R5WG80MUt1eU1RMQ?oc=5",
       "source": "鉅亨號",
       "published_at": "2026-09-11T07:00:00+00:00"
-    },
-    {
-      "title": "甲骨文(ORCL.US)AI豪賭迎來回報！Q1業績超預期、雲基礎設施業務營收猛增121% RPO衝上6640億美元作者智通財經",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MeHYxeW92N0ZkeU1LYUNNNlhjR0pSZm9kWURZUm5RWlBjMWl2YW1MamMtN2lSUi1CM25acy03Rk14d0prRXBqNzFwd2tLTDhUeTlSOUNMZHRGNVpNVTl1a1JuamtsOHd3dDNUZHRtTUM?oc=5",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "published_at": "2026-09-11T07:00:00+00:00"
-    },
-    {
-      "title": "甲骨文(ORCL.US)AI豪賭迎來回報！Q1業績超預期、雲基礎設施業務營收猛增121% RPO衝上6640億美元",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50Rjk5MTRzUGI2VUE3RHlTNlRkb2FTd0lHZGF1TUc3Smxpa1lCZE44T2lnZFRON0pjMVV6bDhrc3RvQV9xMnBfamE5LWlCMVpJaDdadzUxbTlHNEJWdWRvd1VCb2FDd9IBa0FVX3lxTE40T1MtQjJ2Vl9HZ1JEQWJCRDlRNkFhS1dIaHJxMDc1UG5hbEo5b0RpYlc2M0NWRWQ5X290UmliQm9oemNfRkxFb0dLZEYzdFRTSUE2bmxwdDdyb3k3ZmtGQldBRjlnMU8yQnVR?oc=5",
-      "source": "Bitget",
-      "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
       "title": "均華(6640)站上1300元，接單與營收能否續強？-林彥廷看盤室",
@@ -64,18 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd0VocEozajRaMVBBM2JacE1pMnpEaThqMG53UUJ5QW9HbDJtWXY5YTllNXI3d2l6Z1lWVG50OVZWcHRpZnN4dnhhS0JBZGdHM1FkSEsyZ3dXSWVXRnBRRnhkTUlwYXFVM1BTcWZ6aHJ5SnRQX0IxTlVINzRhaFFYUTRpNjRYRUJza2lpcmZ3?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-07T07:00:00+00:00"
-    },
-    {
-      "title": "【09:21 即時新聞】均華(6640)股價上漲逾8%，先進封裝訂單與營收創高加持＋高價股多頭結構延續",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSUg5c3FoRW0wSGNhN1BjQXBidzVXa2gyNExNMXNfeEE0ek9IUDBROFVIQkhDeXRzSnVXV2t2bXgxTFBCOER2WTMza1NLdFB3R2hJYWVLczJiN0R6S0VEMWR1LXEyNVk2cWhkTUx3Y0JhUGlONVA0Ym9ra3doOVFEaHlwZWdJNm9BOWt2UXV3?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-02T07:00:00+00:00"
-    },
-    {
-      "title": "美伊再開戰拖累台股！半導體展點火設備股 蔚華科、精測、均華飆漲停",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ESHZNRm96RktfWVV4MmZBNk9xV1Rfd09nMlFNenB5OXNXY3VaNGNiMkhNOEFDSkJlWEdtYWdrUEtSZzlwODBRU0lGR1FEeGV6M3FzeU9hRU9yUdIBX0FVX3lxTE5vaFdERFpPYVlYc1Bwak9kQWJCLUZCcEpxRzk1eUhoUGJSMVVtdE9pREQ4WnFDVlBFdC1KeThVVEFDaWV3YXVzT21RNDlhX2J1TXc4YXRIN3N3TTZ0MVZz?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-09-02T07:00:00+00:00"
     }
   ]
 }

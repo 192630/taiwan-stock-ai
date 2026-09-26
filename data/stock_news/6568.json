@@ -1,15 +1,27 @@
 {
-  "updated_at": "2026-09-25T08:40:37.931364+08:00",
+  "updated_at": "2026-09-26T09:33:01.580534+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6568",
   "name": "宏觀",
   "count": 12,
   "news": [
     {
+      "title": "宏觀波動：收益率曲線風險對金屬與礦業板塊的影響",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QLUYySlZjcklQWnJSNm5sWmNFVHk2UGVjb2tqblJWd3U3dlVVVnJLVjh4LTJwOTZETXFyVTRqRjFqbmgwbW53Y3hScUhSalZqMkZFa1JSS055MGFD?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-25T04:05:50+00:00"
+    },
+    {
       "title": "摩根士丹利據悉重組其亞洲宏觀交易部門領導層",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZYnV4S0lKWVI2Zm1FaFBEVklsT2p4ak9CZ3VvYVpOQzZLNTJuUGE0ajY0ZkdBbTczQ3kzRFRGMFB2RlVvRU16LWsyMzdCVHIzRGtPYmExR3hQLTcw?oc=5",
       "source": "Moomoo",
       "published_at": "2026-09-24T04:22:26+00:00"
+    },
+    {
+      "title": "🌐 IAM宏觀更新",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaTFLd2JaSjd6QXRRYkduaFpnT09vbjFtRkRsSU1tc3V1Sm1uMjlsekNGSjFBZHV0YTlLZllpd3FuVzhVbVZRQ25vZ3MxX3R4OWpiRENlMV80bjkwTW9mbm84QzVNeVMxb3haZXctY3JWV3FwdUo4ZlQ1QkVTc1cwY1dudw?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-24T02:48:00+00:00"
     },
     {
       "title": "貝萊德：AI發展如同「一輪明月」宏觀戰略要抓住「眾星拱月」三大金脈",
@@ -20,7 +32,7 @@
     {
       "title": "黃偉綸：市民體感經濟與宏觀數據存落差 外匯基金研增持黃金助整體配置",
       "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxPRVlZd2xWTUZMenRUMnh1d1JzTmRvMTI3cnJST3lLQktVQV94WTRKVkNhQ2J3T0M1dFlWeWlQMTNiclE3TlVrQl9EY0JVZF9uZGdzaGVrc05BUVR3TGQycDdiM0FpRUdBX251Y1VwdGpQTVYtbWVGemQxQ3BPcm01VDh1WkplZkZHVnluUURocE5xV195WXktRE1IQi1ncU5ZM0V3eFpneENmVjh0S0dHazczeDQ2cVQ1NTF1OFlnRjlzNTJBZnpOdkdwazhrWEc1S2ZYVzAzallaNGxhTkd5b0RiaVhGUnRNMW1Bc2hKMktqWlQxdVNMVDdvRmtwTkNaTVF5QTNDOU5fa3dMaVA3UE1HcFlYbExHbHktZ3Zfdlg0YUZhX0FvS2RsUDZOdHlBU1ZuelBORDhfVmhvOFBmLW5pN0luV1NXQVFmaHA2QVZfcmxVZkVScVJXVmRuMDAxVkVsQWpxY084eGNQQ3FwWmhlZGpzTHFhaVdxeTl3Rk5xMXhEeGJuN2tqUndaVnoxU25jWm1Sbjl5MjRXZnBSbnFXUUdOdF9EOXRQa3N6MkpmazhNNVpJZnkwaWpqTVN5cl9uMUgwT2lOOUI0cTBvVk5Tb3g?oc=5",
-      "source": "hk.finance.yahoo.com",
+      "source": "Yahoo 財經",
       "published_at": "2026-09-23T06:54:56+00:00"
     },
     {
@@ -30,10 +42,10 @@
       "published_at": "2026-09-22T03:50:31+00:00"
     },
     {
-      "title": "BTC 破 8.2 萬創紀錄，Saylor 增持與宏觀利好共振牛市？",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZG9zaTc4Qk15NWx3N2xuQ3dvSFd4dmdDS0tObkJUeEJpSVNfaXgta0pITnQtMnRwOTJ3Wk9qdHMzVmwwa0YyVjhmX0NIMGVBZU1HTDJuX2lSTFZxa3hOVUNaX2l3cHk2T0p0QkpteWIzRDFHZ256NW9xUTRKV2F2a3BDVDJ2anRYbVRkSWUtUXpqRWxBRjhFTTQ5SDdzTmpkYXc?oc=5",
+      "title": "油價高於$100，收益率超5%。股市能否抵禦宏觀壓力？",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNVlmZS02Uk5nWWIwQ004cUpXanYyNVpXLTFxdjNPZnNvbGhrRWdnR1lwY0xQVjl5VHpFMzZXYUNTbUoyaFRJekdZaEI5NmxENFdDZ0tCZ2VkenVvSHI3NkV4VVNDVmRYUXhmS2liNl9DMGd3eDBtVU9tbmhhalBVYVVJYU91SW9RWGdranpnUk05bEd4SFNlMldlME9JeHoyN2VRTUYtQll3bmJma2d3Rg?oc=5",
       "source": "Moomoo",
-      "published_at": "2026-09-21T08:13:13+00:00"
+      "published_at": "2026-09-21T07:00:00+00:00"
     },
     {
       "title": "2330 台積電 - 【宏觀週報】台股48,219 的能量缺口- 股市爆料同學會",
@@ -60,22 +72,10 @@
       "published_at": "2026-09-16T17:49:34+00:00"
     },
     {
-      "title": "宏觀(6568) 個股概覽 | 個股 - 股市",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92Y0FmZU9reHVhbWtfbVpjaF9QNGYtdUJEbWYxVHJEOWU0YkpPWERwSW5yY2xxMndRRmFnNkJPalhXcDd2SmZuSGU4bkJYVDM2ZEp3?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-16T10:32:17+00:00"
-    },
-    {
-      "title": "BTC 的宏觀定價變了嗎？9 年數據重審聯儲局、美元、納指、ETF 與穩定幣",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORFpWNHpBQW41bk9CNzNKNzZ4ZTMwb0dKYXRMXzRkcmg0ZWxIeDBaM0pJeC15NDEtZTFJc2xGLUlFYjIxLWhSUHVLaUNsdklpVzFDdjNrMVdSMG9UMU82U2JlMi1hNlhSRmlyMDJQMDZ2Mm9CaVJJOWpybzVtekI3ODdLaUNQbE1VYzRvaWFkWEJMc0Nhb0Rn?oc=5",
-      "source": "富途牛牛",
+      "title": "潘功勝：豐富宏觀審慎管理工具箱 維護金融市場平穩運行",
+      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOZUJBR0ViRU9zcFJycnJQTUt6VU53U1MtLTFoaGdqVzFkdFBhSW8taUxpSHBjczY2RzNVTDhUYmtMNUxCNG5sVGJyZnI4ZGUwYzhBRkdBYmZwUnpkZXR3cE9jTXgtMEtmbE1MOE1uUjVITFMxRTNfQ05xelBqS0t3RUdaR19BZEdUb1A5SVFCVzhoSkw4Y01JcmtRaWRuNkJrSG1TaDg2RXdSdmhqeW1fNEdBdXhBOV9YN3BxVXNZZGcyNE9wS3o0eXo5Y3hrY1NkMHRTMFF1NVRlRE9fNXg4di1Ob2VKV2g0VjFTT0hTY3Z4LTQ2N1ZuQ3A5TXNNbGdBcUJHNExRRXBiZFE3ck1NWDk3VTJzSVNHOGNvR0wzN2tCWlR5VmttSVdEeWQ3dW41NFFzRjFIWWQ2dEtDcGRraFo4TGlYT0JOdndReUVlVVhnQjZRdzI5dTM0RHppUU81NDlTbll1UHg4SkkwWXBRalhHRUNoSUI5bHc?oc=5",
+      "source": "橙新聞",
       "published_at": "2026-09-16T07:00:00+00:00"
-    },
-    {
-      "title": "央行行長潘功勝發表署名文章：貸款降速提質或將成為宏觀運行的新常態之一",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5odUdaVjVSN3Z1MWVscllKakJDNGF3WmZnLTJwUTRiZmFOUEloQ0Q3YUptTlJnWTRQWHFlY2ZoNndCSnh0aDhaSGJPeDJpckdBSjZVS2IxQnBWSGNVVVFkRTd3SG5JN1NoY0ZKRVR4OUpmbEEzYWc?oc=5",
-      "source": "香港商报",
-      "published_at": "2026-09-16T03:47:00+00:00"
     }
   ]
 }

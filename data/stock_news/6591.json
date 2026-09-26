@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-25T08:40:45.242128+08:00",
+  "updated_at": "2026-09-26T09:33:08.300576+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6591",
   "name": "動力-KY",
-  "count": 6,
+  "count": 7,
   "news": [
+    {
+      "title": "6591 動力-KY - 【最新消息】法人上修水冷龍頭評價，「9檔散熱零組件」續獲資金追捧！ - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43TDRtQ04weVA3QTBublN0dEQtMTJnQTVqWFZWRUU3QXBTYzdUSHdhWW5oUXR1LVRhX0RSaDg3RFF5TUZ2emxVT2JTam5Wb2tPZ3JLRnVwdVk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-25T07:21:55+00:00"
+    },
+    {
+      "title": "動力-KY(6591) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93RzRydjNqWEZuWE42TjZnWUxuY0w5ZG1Qb2RIVjUtUW9jek9IcXNHY2R1QW15Qk5zRjQxd3k1d2lHNzZBS19jamNfTUdMcE9zc1Rj?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T07:35:54+00:00"
+    },
     {
       "title": "6591 動力-KY - 【盤後焦點】散熱零組件資金轉強，「9檔概念股」逆勢上攻！ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9oVS1NT2pOYTRvNEN2Qm9iLXh3WVJVX2JtZ2xDV1FaNGprWkNMN1Ytb0I0X0ZXUC1MTk9mOWF6bVIycTNXbDNEQndQbk5PSTB4a2wwbkpjLWU?oc=5",
@@ -26,7 +38,7 @@
     {
       "title": "動力-KY營收連三月回升；泰國廠Q3投產",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQaUJ2M0xCTlRwaHdHSERsTGhyc29YcllsaVhGZ0pnZVZGb2lwWUN4V0dKU0xoTktuYVBPMHI2SV8yNmN2ODJQYVUzaFJtQ0V0QTVjT2NvTURBdGFuNG5fRmJ3TWhKYjBtUEFhWUVFWHJQZjIzbVpHUlN2MUFxdmJ0dHFnT3VmOUJ4RHZISmdEVmlFV3ExOHItcl84cWhYOHpZNWIxNVota2tSQTlydFRlcXZyaHhHU0lFWHh1eTFZVm1LaWJCTEZMNGM1UGZGMVp1OUxsX2F0OW0yS29tZTNpN1BXTERCWTgzSkJfZ0ZoYS05OHJ6aWktT1pVNVdENVJJcndYMzNkXzNscVE?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
@@ -34,12 +46,6 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeGpMT0FNS2RpLXd3OFcyVHp6XzdUdHZVSW5ZOWMtY0VNS1J3SU1xQUhJY2Nnd1Jna1ozS2FPdmh1dWYtRV9EVUVUb0pCTl9mRFZhOEFmdXYzUlZFb3pHSjdYamZYaFBqOWFxeF82UkVZdms2Z2ZKYmxKeFhmM3lSWWI1NXUzN1VOWUE?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "6591 動力-KY - 【08/27 產業即時新聞】散熱模組族群強勢表態，AI伺服器需求熱絡成推升主旋律- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fN0d5SlIxUXdlVXRKY3RRWEJDb2tGV3NMdEZBaVdoRmtMRG1Wa0NTbFFIVUFqRkFqX2V4ZHdWcmZwUmlpNmtpNjVsZXVyeFBjMzRCOVV3bTQ?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-26T07:00:00+00:00"
     }
   ]
 }

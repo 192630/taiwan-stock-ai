@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-25T08:40:41.526698+08:00",
+  "updated_at": "2026-09-26T09:33:04.947339+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6579",
   "name": "研揚",
-  "count": 5,
+  "count": 6,
   "news": [
     {
       "title": "焦點股》研揚：基本面助攻 漲停攻高",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95VlVlYkFzQUVIa0JTNG5tb1V2Y05NQmlpSGNyRnFDNGp4b2UwVmxoaS16MGNnM3otbE1uWWxkYmNPOWF1bm1tdk5SZTM4M2JScWZ3bkxzTlU?oc=5",
-      "source": "自由時報",
+      "source": "stock.ltn.com.tw",
       "published_at": "2026-09-23T23:02:45+00:00"
     },
     {
@@ -20,13 +20,13 @@
     {
       "title": "研揚科技推PICO-ADN2以高可靠防鬆脫設計搶攻智慧交通與Kiosk市場",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUjVQTUswdnpndWJvZ0szNmNqTU01Sk5VQU9GbWotay1UdjRtMzVoOTA3dWNlS3pmUTA2MWFUbDJsQ3VSb3BMNkJzWjV1ZmJlRXNlZE8zNEhWZnZCTlFUcUUtazVvMVlsYk93MzZUZ3MwZGJIc2NCWHJhRUZyNFowY0twZDRpdy1EMElYOVRB?oc=5",
-      "source": "digitimes.com.tw",
+      "source": "DIGITIMES",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
       "title": "慧友列Arm實體AI生態系，攜研揚優勢攻機器人商機",
       "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPYTVvT0NKb3l2aHNjazE2WkxmcmZ0VXhibmtQQ0JVdVg1bW1nRTVwTHdfcmFnMW9jOTEzVFlEMmdwRWtHMFlSUFRRcDBYY2xFRENWaGpfN0JGMVpLUEpmZndXWW9wdVFVa3Qya2F6LVhIZW9jNHlPV1V1aXpDc2s2bGF5b3NUZmZzNjFiYzhncTdZM1hZTWp6QzdKSjNxMjJpZEx1aDRFbHc1TlRULXVXWnRYb1hsZ3RGdWtpenR4b0JhZTl4MlFmVkNNRF9pS3FjM1RUVWJic0dTa2tJUmpIUlZ1c1JyZG1TaUJZSTNrNE9lN0toSDg2dzlVeGZPQVlLSlR2SkNVakR5QXBwT20tLWFpMDRsRDFldUsxcF9WV040OURURVowQUdNQklEZkdSOTFOWXhiS0tLWnd4N2xKNVUyUVRKVEE?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
@@ -34,6 +34,12 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZVJGMnZaV196Wk9MclVJLVpWamx1WFZ5YTNsbUxhbnhQUDlsbEdWSlhxZ1BNUE5WT1VFMFRRTEozUDJUcXdJdHJrTU9zblpaUWZ4Y3JjWEU4ZmxnOEFDbEE1QXZrbnZLLVR2M0c5TF9GdkpadWFmR2dIS3Q1b29qMkI1S1ZWSjJqQVE?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-06T07:00:00+00:00"
+    },
+    {
+      "title": "研華、研揚啖半導體設備商機",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DdEdtZWF2UlI3TThiUmY1T0w2bS02Q3ptMExMX3JCX0hjb01ORVFQUlhSZURpTlVSREZxbDVPOXQtUDRMX1BRZlQzZHp6UEM1aVN0M01NaTFfeW1zaVp3ZDV1azgtM2E2NC13?oc=5",
+      "source": "中時新聞網",
+      "published_at": "2026-09-02T07:00:00+00:00"
     }
   ]
 }
