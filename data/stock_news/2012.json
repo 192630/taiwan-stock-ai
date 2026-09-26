@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T17:36:06.308565+08:00",
+  "updated_at": "2026-09-26T18:33:52.366727+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2012",
   "name": "春雨",
-  "count": 1,
+  "count": 2,
   "news": [
+    {
+      "title": "Claymore BulletShares 2012 Corp (^BSCC-TC) 期權鏈",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Ja1B3MkpNa2VISnNSMl9XS2IwT0FIc0xfT2xydVlZR1VLM1laTkJIM3ZfZU1wMnBMWjVuVlphVzB5V3BPT3ZHZzc4S1QzU24xaEZOdVcyZXR0UmpQTjB2bXJQWXY?oc=5",
+      "source": "hk.finance.yahoo.com",
+      "published_at": "2026-09-25T19:36:06+00:00"
+    },
     {
       "title": "洛陽鉬業 恢復派中期股息為2012年以來首次：目標價19元投資策略",
       "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPQzc4YVhJTl9sZGhLV2E4UU5GZ3lHTFhDQmlWWENoclJzNFZBTkE2ajVNcHFDOTBER1gtX3NCc2xqcUZTcURkakN5VFlTSmJVQ0FYQ0NFTmdXUzVuUGdZcmlBUlVGQ05lWFJtcFBCZHhTbTk5NzFYbkk0bGJTaUd3X1JrR3o0LXRHaEFvUGw4UUc3LURfNk1KWms1WFJDSkllLXpKN3dQVmFaRXI1aEtEUzZSUWdwaU1xN2ZYVDJiSWE0dndMYnJmM1NydE9ERzV3QjFOTzFvUkJEMWw1bWZBLTNnWkUtYWxQMDJpbzVXLUdTdVBJbGdPLUV5RFhfVERmU3dPejFvYXBrODNLOWMyQV9YYlNySnVucVVENkVaeHE4NWM4SGJsOHA5Y0dlakl2MDljWlppSUpZY05NQl9vLXRGLTI1Z2hC?oc=5",

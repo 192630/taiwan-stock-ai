@@ -1,15 +1,33 @@
 {
-  "updated_at": "2026-09-24T16:36:02.099891+08:00",
+  "updated_at": "2026-09-26T18:34:09.065631+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2072",
   "name": "世紀風電",
-  "count": 9,
+  "count": 12,
   "news": [
+    {
+      "title": "2072 世紀風電- 美國生技指數8月創歷史新高，莫德納「癌症疫苗」問世，1天大... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XRmJQMW5iUTBuMDZxT3NKYTFkdXR0aGRkVUtNSHBQcnU1VUZKUFRTUmE1bWw1Q3M2TUhnV2dhMHdiemVKMXVEOEVKaWYwTl9DLUhfUGFKQ3Y?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-25T10:45:28+00:00"
+    },
+    {
+      "title": "世紀風電多元布局 跨足小型核能設備",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EWDk2eV9BaUdoRjlJeEZSWEhKc1lXNXZmT2xnOTVSSE9Nc0k1TzhOSFo0X3hDV3JrVFVFajNBUDNFU2dCRy0zNjgtRzY3aWpfQWs4VmlUUm8?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-24T08:11:58+00:00"
+    },
     {
       "title": "【新股抽籤穩賺不賠嗎1】今年14檔跌破發行價 世紀風電一張賠近6萬元最凶",
       "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxNTHpvaWVkXzk2UlNLajBJRmtadlFIbmdINkhIQ3BLTVlYM3lGZzZEQlhEZlo5ay1ra05LcjdtNUlSQjUzb3ZoVmdWQmpvcHFFdmcxMFo0UmlOdl9ZaXBtZFVkbEJJU2Y5aE5wcTRaVzRBQVJVZEJISXM0b2JXN0dCZGJrMTBid1VoMVZxWWpSS2E2MjRtaGlsTlF3aGhZb0ljRUsxYmxsaVJoTHZkak9jV01ZdkxETlRIbWJmS3E4SldqX25RVEFTa2pkdzZZSkFZUGF4QmlfU0JYOWxiM3pEeVVZNmw5Y1JEanhLcWpxd3QyMk5waW1oQUx3NHBhU3RaRW5uN3g5S01peWthRENQeFBPMFVaSmJlSkpBX2lvUENDR0o2TXdaZGlhR1BfWFBqazZHRmdYMXlOUmd5c2EzNXF6blJDc0hXX3Q3XzJYNzhYS1FZU3dpSVhCZEg3S0NJdi1iRDlCbVRzS2xSQmtzTjV3UzNQZHRoN3Qzc3d4ME5IXzFMOTdlVGdUUDJkU3puajFGWnFxa3kzUE5vcEZYUHBqVy12eXI1bE9LQWtmOGdnUGdsTEpBNlZUenoyaE9rNU10RGVIZjZiTDVhVmhkMmZ1d0NqUQ?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-22T01:21:30+00:00"
+    },
+    {
+      "title": "2072 世紀風電 - https://m.moneydj.com/f1a.aspx... - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MOTZUZS1IelowaHpHZ3dKVk1xbnlMSklzODdoaVhOVm1RVEZzbW1QV0dpb1A1Zlg3OFdrUjlSWF9ITWk5ek5BUDFrWENjRGxKUmZiUlZ3WFE?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-19T01:51:43+00:00"
     },
     {
       "title": "Solana生態代幣PAID市值續創新高，現報2072萬美元",
@@ -32,7 +50,7 @@
     {
       "title": "財經時事／專訪！本土風電龍頭拚轉型 賴文祥：世紀風電搶攻核能供應鏈",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ZLU1lV2JQV1h3Y281SEJtdldBWjlHV3VaNHZzMmJWMmZ1V1JmTTZrQXd3LWlSOTRKQnNEMVN3VGxoQ2tMWV9ZMDhYRQ?oc=5",
-      "source": "ftnn.com.tw",
+      "source": "FTNN",
       "published_at": "2026-09-05T07:00:00+00:00"
     },
     {
@@ -44,19 +62,19 @@
     {
       "title": "綠能題材走到執行階段，聯合再生與世紀風電誰先交出營運數字-基本面選股技法 - 邱柏",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOXFlSTBXU2N4cTM5VzZWMGVwWmt0amxpUjF2V1FUZXNZTENHOVBLaE55S0hMal9vMGJ3NFNFV2ZRaExvRnY4NjFPSWU1QTBsaS1EdnFpN3VqV19FUlRfWlA3U3JhNC02TVlqQTdlanZlUlZTNXdzaGNOQzNRTk93OW9n?oc=5",
-      "source": "cmnews.com.tw",
-      "published_at": "2026-09-04T07:00:00+00:00"
-    },
-    {
-      "title": "台灣能源轉型政策加速，風電供應鏈營收大增7成，世紀風電全年有望創高-財經焦點情報站",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSEJVTkpQZFZaY3VWWGUyd29rNW9PRi05ZFNaeEtUdUR2eTQ1bWwtSDY0SndsTFp6Nkl1RlV1b25GS1lqTUNYNWloMXZ4MHZ3MGlCY3JvdHdGWmFvNGc2VFcxQ05PTkwxdGVpZkdseUhvTGNHWVMxOEdPN2tzQ3FfX0RB?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-04T07:00:00+00:00"
     },
     {
       "title": "世紀風電闖核能1／外資退本土虧 世紀賴文祥想組「風電國家隊」自救風場 | 鏡週刊",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Od2FadUFPekI5WjFYbG52LUVUeEtUMWJCaGNuTXBmRUdxSG1ReGxjMGkzamJwZTY2eUU0M0VCV3laQmQ4YWEtUXM1RDMtTjFLelY0X2VR?oc=5",
       "source": "LINE TODAY",
+      "published_at": "2026-08-31T07:00:00+00:00"
+    },
+    {
+      "title": "世紀風電闖核能／從海底打到核電 賴文祥揮軍新戰場：當台灣最頂那家",
+      "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQc1R2d2xGSlBxNnd6bFBLcGVpTDhQelIzX1BTUXp0a3FrOV9TQ3hva0g5ckVuQnBISnJUNmM2OWE2ZENpNVZlUnVkNUtaczYzUnRBTWJET20tYVU2NjdSeXZXODc1TEtXanBBYUp2ZUY5YmxCdTJXNGpVWmZxRjNkdnpBR08ycnBLRHhiMUltdFA1bVY2VnFaT2JwQkZMRjhfYmxTSF8xUk1LaTcxdG9YUTVGSy15eU5ZQUtzMERUR2MtcVo0SnowWEthdFVtM0xTbnVBTGJfVFFBQjNnOERHSjlqaTZjUUM4R3BrbXdtX2ktSllrZV9CS3NHTUlWcE5Pa0NBa0hvTDM3NzhXQUtkckY0NTZCakk5dVFOSkdTU3VGYTlna2VOUWh1T09PMHJ2N2NDaDZIUndVdU5acWgwTFptclZZY0c1U2VGc2ppM085OUc1cDFETzM1bGxqVnYwX25KOG9CQ0RhQlRFejl5QnNKWWJBOFh3MThHdFZ3eTlKdDFIeWVOdmQwOTZFTnE1VGFrNGpKRFo4UVppcExORWRwVTNwYUtCOGFCM3Y1RElXWkk?oc=5",
+      "source": "Yahoo新聞",
       "published_at": "2026-08-31T07:00:00+00:00"
     }
   ]

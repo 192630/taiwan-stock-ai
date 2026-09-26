@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-25T17:36:01.898681+08:00",
+  "updated_at": "2026-09-26T18:33:48.212588+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1907",
   "name": "永豐餘",
-  "count": 6,
+  "count": 7,
   "news": [
     {
       "title": "綠色採購績優公司出列／永豐餘集團獲表揚",
@@ -34,6 +34,12 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tR0tKalNHN2lzcFJfM1RFT1RZYXFWZm4zWXFnTExzcWplalJwRy1LN0VfRWhCM0ZGQTE4Y1NpWTdCVGZnZU1xSkY3YmNSOFBJWmlQUmJlYWI?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-20T05:01:44+00:00"
+    },
+    {
+      "title": "榮成前主管涉竊營業秘密一審判刑 永豐餘駁取得資料",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kTjJrRjlaX0pNOGpsTUM1WEphZThZaEJzS2k0X01vcDg5VGlpR3dUSldfVjJfOHBGOFFwdFc0TmVIb2YzeERsdlRFbmVPYkZtUzhaS2lzNTFBd9IBX0FVX3lxTFByZ0FXdENId3pQZUVzRFdrNS1kemNHTHJNNnFpTTBwWk1vbm52c2Q1MXItcVFPU0lPR1NsVnJXa0Q0Q2F0TXlKWXN5bGFLSmI5cS05bFB3d29oemRPb2NJ?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-02T07:00:00+00:00"
     },
     {
       "title": "永豐餘去年自發用電率達67% 冀打造低碳能源生態系",

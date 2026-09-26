@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T17:36:08.469142+08:00",
+  "updated_at": "2026-09-26T18:33:54.514536+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2017",
   "name": "官田鋼",
@@ -24,16 +24,16 @@
       "published_at": "2026-09-06T07:00:00+00:00"
     },
     {
-      "title": "MPC 馬拉松石油- EPA核發煉油商自2017年以來最高水準的生質燃料豁免- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vVTVRME9ORGtITmRYdmlpM3RNbEhLaFdrb2MwUmNOUEdxMGFfUDUxbXktc3ZWeVZJTWxNa1dYQUJsZERaVzdGSWZOQ3NqMXM3cXRiY2hlMDY?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-01T07:00:00+00:00"
-    },
-    {
       "title": "貼文 | 吳金潮~非凡錢線百分百固定來賓(2011~2017)~兩岸證期雙分析師(共4張)的貼文",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5WTlN1eUNrZjkzdVMweU9SRUJNQWRwSWlYZzFKaTkwNW5OZXhja3VIOGdPZ3lpQ0ZiVlVfSE1fbGlheTNNOFBLeg?oc=5",
       "source": "鉅亨號",
       "published_at": "2026-09-01T07:00:00+00:00"
+    },
+    {
+      "title": "MPC 馬拉松石油- EPA核發煉油商自2017年以來最高水準的生質燃料豁免- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vVTVRME9ORGtITmRYdmlpM3RNbEhLaFdrb2MwUmNOUEdxMGFfUDUxbXktc3ZWeVZJTWxNa1dYQUJsZERaVzdGSWZOQ3NqMXM3cXRiY2hlMDY?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-08-31T07:00:00+00:00"
     }
   ]
 }

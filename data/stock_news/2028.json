@@ -1,10 +1,40 @@
 {
-  "updated_at": "2026-09-25T17:36:12.685382+08:00",
+  "updated_at": "2026-09-26T18:33:59.029619+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2028",
   "name": "威致",
   "count": 12,
   "news": [
+    {
+      "title": "中國同意在2027年及2028年各購買1,000萬噸美國煤炭",
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNZXhfZVVLVTZqY3FMS2tSeHQxVkZEQzZ6NzB0TlpTeHdtZzNrWGozR3dvcG5YWGtGa2ZrRjZBVHFXdkJyaUhkc3hOUU5hc2hJbGVfLXk2SDROQnpmNmtib19MWkt3d2xldlVKR1oydG5rQTRHVDRMb1lRY3hzMkdYa0NQZGhFMll6aDdhRmtNQzM5dmI5S2ZXZWlJVWoxWVRsUE0zd0w1OUM4UkU4cFRKN0FtMXh0TVBEaUNRM2IwLUVxZnRVaHNvcnR0aU4yeTMyTXhOQkloelh0S0FwQjlLb0VqSFNYSk5PcUlscVViTFUtZDd4eEVGSjRhSHRhN1hYZTVnc2VMdlhJM0JCelZvSmpSdTdDZUVuVDRYV3RCMF9fUkQ5ZkhBZk9hOUt1Y21uZ2F6TFd5b2V3Tnc?oc=5",
+      "source": "hk.finance.yahoo.com",
+      "published_at": "2026-09-26T07:57:23+00:00"
+    },
+    {
+      "title": "星巴克大揮刀！宣布北美「關250家店」 喊2028前砍636億支出",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPYi1MNlBWTmlUX0o2UGZTX0pERDhOZUd2T01Vd0dNQ1kwaFZ3dmJEUlhncUFzaDVVejRRa3hFVXpHQUhJVkxlLXZ6dUFKbGcyMXF0QzVrNTgtQnBIQTZHTlV0UUFWd3RVQnFYNEYxWlhVUWxDRVFYamNTVWhyZU5WWlBJRnNjajJuRXkzaEE4MzctbEl4NDY1Ynl5ZzVLR1FKd3Q5ckVlV013TS1vbTlCQWUxVno5NF9ycUEzWE9ncW9CV0ZWV0lIWFJuZHBTQTF6bDh3UjJZUEFmTmdSRTZEd2c2SUNlUEROcklBSjZ5VlRJNDQwanE4SUNRSUpydlVWUWNpSnVkeVNOSkMzaTY3SWVWRWVTcWZoMXJIWnRWclo3Q2dFZzlNcDNWUVh2WkpVcjdTU1FrcWJTVzU4c0ZsbHFIWC1GRGdM?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-25T13:25:00+00:00"
+    },
+    {
+      "title": "矽光子訂單滿到2028年！「矽晶圓大廠」連拔3根漲停創高 Q3漲價下半年營運更強",
+      "url": "https://news.google.com/rss/articles/CBMixANBVV95cUxOZnBMOXhKdFp3cFpHamNWWlNEUGp5MkhORlBYeElGWkJsem5jZlRNcWFFYnRkSHY1T1VEOFdpdjNiVG9NYjZELVkyZ1p3bldjaGpwNWo3UkZ6T1QwNUNDS2NDa04xN1dYYk9QNW83S21JNm1wUFljRHFxcjZBZU9kQW9HbDJJRjYyT0pDZFEyNTRmU3VsSEJRb2FYellvZmFLT3ZsNVhJMjFKVm9rWkdjclAwaHh3VmpfMkgybnhGZE1kbEFlb3J0MFk3MEU5aFZ4dEpKekEwekUxREI2a1hxMFNyWXFUYUg1TGhlYmhzT0hBS3JyVFdkamF1Nm5BVmpIMUVJZ3c0R01fSnZOR1BQbVlORlppYVJIUXlTSzBrd1lQZldDZkZfYnlXQnk4b1M4WC0ycjI3SmJVbjZJTkVZWkF6SktpR2daRkZBem4yMjh6TklLRDRmZkIzdmFDVnJZdWdESWNyT0tMd2Z3ajlIdHRMZUxQRHV4a0tnaVJvVXRTT0RISF9ubEszOUtUVWNlYVpVZWdFcUE4UDBKVjlyUDJpXzI3THhqRWYzVnNnV1drcjdmNXcyY1AzS28wT3dCZlJ5bA?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-25T13:00:00+00:00"
+    },
+    {
+      "title": "藍營再不回神反守為攻 學者示警：2028也不用想太多了",
+      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPcUxlWVNsclA5d3ZTdDB1cWxFamVDSFI4RDZDQVpzWmlqa2hCSklUVUhfWE1RSy1ubmNrMmFXZkRnYkVfd1RMQVprYjFpeDBFaVlxTUlUNDlKYmMtTjNoQnNTZEZaUV93VmQzY1Zyd1o1NGhEczhNR0ktb0tDeWZrWXJFZ0hTT0lBWkQ4ZVV3Z05kbGRPSXIwek1OVGFKSjZRMTR1dEc2bDhVS2c0bnBUQTQ2Wlc4N0RLaFpHM1hYaElLNGJrZ0tUSjFDSGVxWWYzUHNQa2ZUdEN2Ujgta2xDTHh4dm9Sc1JSUkhHVG9hVm1OVk1hcml3UENSbHVoMG1aWDNVQ0IzSFNNNWQ2ckJZZ0cyR1pPekplSXFXYTZ2dmxwXzFnc3phS3N5RFlFSEFLUGwxRlU3VC10NTA2TUQ1RzIzSzZRdVgzSmtHbVJmMl91dXM0Vmww?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-25T03:15:50+00:00"
+    },
+    {
+      "title": "傳美方猛提盧秀燕選2028？吳子嘉噴爆：沒出息國民黨幹的事",
+      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQNmVnUnZfd2tMVmtwZ3NMSWZwZndHQUNLV1lPb2Uza2x3RVJ6dXdEakNBOXp4NGlkSGN2MDFiNko5UU40NFd0S3FlRWVvWTU1QnN0U0xLMTZaQWNCb2d6MHNaSnp5VGpqM3FBUllrOEhwMG80ZkZ0azVZeUZGdVc4MG4wNWFjZFRQekpyRjVYdlVQV1Vqd21PZERmN1FsNl96UEotLW9mZS1NejRCd20tSWY5di1Td2dETGhhOWNGVWRwa3RVT0NRQjlJamJZbFB3TTBVODBrYklScWdWcWdHQktXeHp1QmV2REpTR3RhQVJPUl9MYWVVMzNOMTI1Q0JOdjgzakRYMW9TLUhrMnFpWlJvNUZXWGI1UExJd2hzd2NnMVBvZWI3THJiLTV2cS1JVkxXUlVEYkJzdTVPYlFvcWZZRUdYODVQeDlnd2t3bHVvS3k0d0M0d3pXWGt6OUMxdVVXNEVkX2F3cjBWUGVJ?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-25T01:07:28+00:00"
+    },
     {
       "title": "藍營再不回神「2028也不用想太多了」學者拋反守為攻3關鍵戰略",
       "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQT0FwVzNKUE5PT0VSV2J5WXNFQjBfejZKdGs5dkwxbFZpZVdRdzR1ekpvS1BMT1ZUWEFHYTRyY3FrRmJZX0xQWmxLQ2g3NkpjWGl1TFdmY0I3THc5d3NYNW1tdVBEcTJCWWtJYUNGNlZPWXpFaEVuYnQxSFd1RFFwQ18tZ19pSmhCZFA0ZGZyNnNIb212LTUwbVN0cW9tX0dOb0Zkc1BCcUJCWGFRSC0tajFiX3RobUR6UGU2QTVsckJsVXpPNXRsXzZlY19EeC1iTGtaNGN1NndQWFhEMXhTbnFrMTV1OXFJWkdoaWwyTm5ZMVpiRkh4ZEg2T3ZSUjh3Q3RkZk1jbEFUMkFwUVlVT3o2V1o3NU81djVmRThJLXY2UHNIODBWSVFRUWtoVEJiaU1namNmUzlvanZJOFdoZnd3aVFibzRXUlc0Y1IzMnZ3UTZReURBckdEYTJrY2pma2lXUmRTRWl6Tm16dFZHU2FKUU9KWFdtUWhlcg?oc=5",
@@ -12,34 +42,10 @@
       "published_at": "2026-09-24T23:53:15+00:00"
     },
     {
-      "title": "傳內地擬擴大「互換通」機制 目標2028年納入標準化利率衍生品",
-      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxOTkdXc2lfRU5SakhCSmxMbV81TzVBUmp2RGl0R3ZkUHZ5ZEJaRlI5WWk4eDRLVmNUUU5RZUplY25UWHlpRXFaOFNoQndUQzNGVi1hOHFWR080eGdqbjJVTjZNSGs3UFUzZkhJYTFjVEhVV2E1bGxIYTVlUVFERjVCXzFob3c4cHBfMnVyLTNOM1dMOEhfRWt0YThadWtUbzdYcTMzRE5xSVZHSDlYOGdJdUpHbmkxVUpGVnQ3TS1UYmdyOTBfaGVNVXBYZGM3OXBZSTIzdlBRTWJvck9iVEw5QWNHSFZjaXlXUVo4Vjl4cG5JZjMtNC1iRUlQUkdyLTM2Mk03dnVLUlIxc2VlcFV4U2JRREhURGtPR25RZ0lSU01sTGYzRGZwdVJKcVpvSk5wZVdlRHJmcndlRXB5X0lPOVZzbUNiOTExNmk5dHBacnVzejRBT1owMnpmd283a0NTTEl3Q3lkaGpoREdSZmxNS0lqWlRqZk1sSWhtVHZld2tQbnFzeG4w?oc=5",
-      "source": "Yahoo 財經",
-      "published_at": "2026-09-24T08:37:29+00:00"
-    },
-    {
-      "title": "上品兩岸需求均好，訂單能見度至2028年",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNY1p2T3B4QnFRQXdnal9nSGhPaXktbWFRYURFTEVKQi0xUzdVTGlZN2NkVXlGc3I2MVVGTVRTNnBsXzdSenVZUTBwRkxfb1Y5RUxOaGxJdENYUUlfQ0FabmtMYUNhOTJhWVMyM3Y3dDlYNnp2aE0tc21XcWhuMEl2U21hZWlDUl9iUTBrcl9zUk1sckQwY1N2c01ZT0NMVUxkQi1FSU1YM0xPVVp0aHJfVk1PRjlueDBGQlRvc2RBQTFrVXltN2VWVE0tX2ZEbmlBLTQxLTdzakJVSEw5SDlCM0VPbENBanhfQWx3VkVyYTdyMnBlOE1wUXNrN2tPamZHaTdJWHdzNEpxNDZMVmJ2QlhKR0RfUQ?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-24T04:57:12+00:00"
-    },
-    {
       "title": "VRT Dec 2028 200.000 put (VRT281215P00200000) 互動股市圖表",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XRHctMGdaMFRHYjlFeFpMVFJHaUZZQ3NyREVGdWU4MEZ4Z0EtVnBPWDZPZXZZWmRHZWJ1SGlrbXExcHBfMlRIeTdEZVlQVGhkQ1VFRmdfRWZ4LTdCYnBwM3NQbDQ2OXpCcTc3RA?oc=5",
-      "source": "Yahoo 財經",
+      "source": "hk.finance.yahoo.com",
       "published_at": "2026-09-24T04:28:13+00:00"
-    },
-    {
-      "title": "「川習會」前夕美方頻問2028！藍委曝會談內幕 「這人」成焦點",
-      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPaGhSTGVUX0pydmtaUkl6aWlFYVhMRW9zU2kyY2J4QlU4LTlOVk1KWnI0bHNFQ0dXMU12SVJNSFFNaF9BTE5BTVU4YlFRd21xanV3ZzE0eFRyY01ERTA5WEpiTDJPY3U1QzRLQ3lWaVBHeGMtVDYzMi1iMWZubjNPa2d3aGNPc0Y5cWdRdUFCS0NpRUxYVVZLd1AxTFM2RThYa2N3RV96djFvX0hWVE9LZjZHVWUtSjBqTzYwQ3JYbm45aXFZcnAybTVaUXVfaHVHM0xWcGZuVEVLejdUMVplUFQ0SXR3ZWZ5Z2VXQzl4bzBNem1kYmM0RUswSXptQmlnR296aXVyM2xZOS1zYktkRUhrMkRXREd5bUlmdlloSVNmdTdXeEhpNHZIOFNZY3hCbmV0b0R6Y3dQejF3eWNvRkRqeWJmN2lKVG54TFVkUXZ5TGdrY2xTWVFn?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-23T07:42:03+00:00"
-    },
-    {
-      "title": "若「洋流」衝垮KMT雙北城池！藍軍2028只剩韓國瑜？吳子嘉一劍封喉",
-      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNVjBPZHd5VFgwYjRSdEZfcUx0djZBcExRZWhaWWppUFFHRVhmcXdnWVFFOXI4ZnQ1NFJraUpRWk1RSmF1ZzRlYkJId3BrVmlQNVdYTTRpLUJNdFhNZVMtczNCV3JrSUM5TlFxb3FGRi1tbW04d01FTU5yenBmanAxMG96LTBjVkpCLWYxMXViSzg2TmRsUWliYkcxMlhKNnNlTG0yRXFGOHdnUnZxSVdlV3JJc2VDZVJYMzNOR1prZDRuTi1iNGhmMjc4TDZ2aEpaYUJyYktqd1Jlc0FvX2poNDBrVVgxQXRaWThDUXh4S3BUa1Frb3U3Y0ZUekZJN2hwVU9EOEZnM0NEdlB5ZE5oUTRoWEY0a2hFYmZHenMwVjkzRU41MlZ2TG5sRkU2cXM0LXVHWmRLS1NjWGd3dmFKUHh3S0VPZw?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-23T01:06:40+00:00"
     },
     {
       "title": "民調追上蔣萬安？議員揶揄沈伯洋：直攻2028",
@@ -48,10 +54,10 @@
       "published_at": "2026-09-22T14:57:01+00:00"
     },
     {
-      "title": "本地｜勞福局：2028年人力短缺料收窄至13萬人 創科航空建造醫療仍緊張",
-      "url": "https://news.google.com/rss/articles/CBMirgNBVV95cUxNN29nRjQ0UDUzZ04tN2RiYWVQVlBMSXBWaE81STJhbGdqSzBkVDUyZTFrdlBKU2ZQOE5BbUt0MWVTU01PNEk3eFBvYUctRFdQUHM2bm9hQWVTWXpZSHQwcWp1WVJud1V0Si1vY1lRakk4dDA0ZjJKLW9WU00tcGVBbVUxTWRXeV9DUXc5UVZLUUZDZDFOVWxBYy1vbzA0NVJ0OUJhTWRnS0VIazQ4ay1tSEhvUTBtNVBwQTFDOF9nM3JNYnowOHYxLXF2VlZxdzZkNW9rdEUyR18xa3owX1JSdV8zSllNVmhBd28yTmtKQzV2NGtXMEp2Y2xZSUVaSE1YR1pndl80dUZ5OFBsQjFwWkVxTnVJTGR5Y3l2cktNUFlvWUg0ZVFXakxEdGRycTlwRWlibzNBc3hoLXFvbV9BM2RJbDktZTc5N0JlbUNwcnVubTJ0X0Y5WExIOUJRXzRvc0k5THVfUkNwTVoxczZrMzU2clgwQ0toV0xEbVRXV0lNQUFVUDlhWkV4dGFrSS14R1JSTEVLT2lPdVJYWTBjbmw3cjd2U1BpaEdlR1dR?oc=5",
-      "source": "Yahoo 財經",
-      "published_at": "2026-09-22T09:16:53+00:00"
+      "title": "沈伯洋步步進逼！他斷言：蔣萬安沒有2028了",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNa2FiaGZoQTNjNzBDR2JJaHlJZ3B1bGs5MFZILTNBV2w4Y0FQN0xTQkNta3JqeEtqd3ppRWZUVUxPZlRQQmh0NW9fU2c1cFQ5TjByR2VlamNjakVSWUhhMzdHYnB0cjlrRHg5dmd1MU9GV2VXWTJaNGZPNmFnZXE4aHlRZDFHVHpvYkgzemRaenFTd2h0N2xtMHVZTDlKMkx2eF95ZE1haW5KYXJFNGJxRFhFRTVrSVRDR1FLbk9vSVg1QkRwZWdFMm9QYjVIeVVmOEJOX2Z3NDhHdkFTUmFoQmFfRGpPZ1JTbmYxZzFUX21yNEV6TGVVMXR4SEdFM0RKQzZDbGdrbGNBV29hdC05X29aVm1GR0xoTmNV?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-22T13:34:00+00:00"
     },
     {
       "title": "外資喊ABF供需缺口逐年擴大到2028 欣興領軍載板三雄強勢攻漲停",
@@ -60,22 +66,16 @@
       "published_at": "2026-09-22T04:23:02+00:00"
     },
     {
-      "title": "若2028年重返執政 鄭麗文：國民黨將成台灣百工百業的堅實後盾",
-      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQejB0M0E4SFEyVk15Q2NJZUdRYnFvaHpMWWVSTFZrdmhqSzRKSVp5T1hyZ0lNMnlQeExyWndnaGVmOWNpZk9NdDVjeXZkRnVyc0Nlb3dFZi0wWnVoT2tpbTlKeE9wOTdacENReHBKT09ENFZlSkJPZUdfN01RTlhPZC1jM3I3dldNWFhvamNsOVExSU1Ib2NIcDRwRFpGRjRId1FSN1UwY1ZYeEh1cXNDdUJWSjRqMTV2eVpGY21wbjJteUJSNm80b2JHYmprY0xBWWIyNGMtdFVibzBNeENiVlRxcEQ3eXkzX2FJeEhrYkxpUk5vWGZubUw0NjFJdmdabFdGWTBIbjRsYW44UVZjNmpQMmpmQmtYd2VGZXVhZVduckpyVU1ZeUtIOUpzbGhOTU5qLUpRLXljTzN1eGtEb1FRMDR4YXRCZkNmTi1Ga2xpbVY4bVdRS1NsM1FUN2JLWVlaSlNFd3RjSlRNR2twX2wwclBocjJmcGFmWDRTbkJhT3c1XzV3?oc=5",
+      "title": "美國無力保台了？蘇起：2028成習近平關口",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQSEJyQVJuYVhfVENERkd4WU1hdEplMWhlSlAyOU1fQkpHQkxNNE1QeXdZNEc3bGxlSlJZLS1RS0RhaDFZMFRYNVJsOUVEUm5LT293bWxQaHg0R0d2bzN0QVg1S3pYbjV0SzlidWxHbWxYSmlaUEtKc3Z2MFZXWEk3YWJHMGFRaTZMNGhWLWJ5amtDc1puaW9ONlVTb3hzbEZiTmpmR2NoTWV0U0FLWlQ5bk53bjVHRmNjQmtRZFV2YUFzQVJoOUl1VUZpaUs1dlU3eEswMHJ2aThhTGRrQ3RiMWVfUTJVdXQtdmVXanNhcTRBZ2xCZzE4aHE0ZHc1akc3anEtV3VoWG0waGFlWV9B?oc=5",
       "source": "Yahoo新聞",
-      "published_at": "2026-09-21T14:08:29+00:00"
+      "published_at": "2026-09-19T13:46:31+00:00"
     },
     {
-      "title": "BAND-MAID睽違7年台北開唱 相約2028再見",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQUVSNWlYb0psS3l4a0JCTEZxRF9MR18yRi1HcGFVQTM0RC1ZbndlWm5WQjRoX1lnRkFaUUM5LXhHXzBEM2Y2VDQ3RTl2N0hZME0wSmxYa3Q5Sm54WUNLNE1jVEZGNTlJX0JUdHZZU0V5LTAxeEFMMWdxZmZmSG14RFdZN3VvanlWSjlfaXQ0blJoSkZjdDlLSU9yUW1Ha2hUUUYwcl93d0R5eE1NZ2lYU1RjLWVEQ2x6S0wwb01Nal9fTEg3TE01c2tWdTBuUlp3N0stNWpjSGJ4b2lBaWZrZ2Y0R0Q4N056RVpB?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-21T12:31:07+00:00"
-    },
-    {
-      "title": "「再不合作2028一起關！」館長同框鄭麗文、黃國昌 喊話藍白莫放私利",
-      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNVW0yWjlJT3RSLVhCYVZmMW5CRkUzQ0pFYV8wTEVuWWpBRWtKcGxvWFBUejdQNWRfQ3dZanl0YVZTbDVPSGRtblpzd1d3QmlwLU0zZkNjMlg3VmZ1aER3YTNFWXhyaDBObko1Mldibk1NdzBpdEhISy04V1pfcGJPa3Z5VkJzcDNPaW5Wd3ZERlRoSWtHMF9wSkM2b3BvcTRtd2kybHY3bWRMNnp0MHZfS2tUTWxpQlRQSUcwdG1PUERROEZ6MWhxOW5tTVE4RXhYcnFvMGdsTm9aanIzTlpMREQyekU1UDFXRHc0VVl2WE9PZjViUm5XN3hRNDU1VUpMYlVaRkdiNEdnbVFyRmluVWFEWnp6UDlDekxEWEZQcWtFU2FXNHFPbDBiQ0hpXzAtc2UyZjI1TXFWalU1RkU3WXZndGJXTmpkSk5pNnBOY3AybUZzVDFiOC1WbmNrbnc4Y3FWNDEycVFjVkFSVzljYnIzZU12bHVMTk5Ed3lR?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-20T05:08:11+00:00"
+      "title": "Madison Energy 擴展分散式能源版圖 目標 2028 年新增 1GW 裝置容量",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWUdqWWZQX2MycWxKc3N2UkMyNnBrS254TGYtZnFydm9LSHFXb0xRZFdmaEpSak95ZlRsMF91NGZ3eThwczQ3Mm42bTZmX3A3X2x5ZWd2a2FqX3JmUm5TaWhwNGw3QWY3ZkxPR3lKR1lWa2VIdzNkMTBIcVZ3eE9lWGEtSloxenpkOTZjdHczbVNqQmlzeEVJcUJ6SFRrdk9tV1VsbnNKbFFScEo4My1GSDZySE5vSWMxMGNGVVpiOUJfWDZZNGotTENTU1BJZndaU09TMG1Remt0UWdRbVBTNjBtdlkxbDJvRUFYNnkxdEI0aTBmckZvdjNKcw?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-19T12:41:54+00:00"
     }
   ]
 }

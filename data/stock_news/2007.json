@@ -1,26 +1,20 @@
 {
-  "updated_at": "2026-09-25T17:36:04.215519+08:00",
+  "updated_at": "2026-09-26T18:33:50.267846+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2007",
   "name": "燁興",
   "count": 12,
   "news": [
     {
-      "title": "加息預期升溫，全球政府債券平均收益率逼近 4%，創 2007 年以來新高",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHOGZHWXhhZkk3a0JXV2ZDUEJTRkpMREgtRUl5YzZPVmJDaVhjaFZEaXVNMnBJQW9FcVVaenVpU0J2NVFPaTJCeTR6cEl0bldhNDFxR3VRRjdEajJ0?oc=5",
-      "source": "techflowpost.com",
-      "published_at": "2026-09-24T13:57:07+00:00"
-    },
-    {
-      "title": "全球政府債券跌勢加劇 平均收益率指標2007年以來首次逼近4%",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1makViYUExdVo2TDRld3h0V0RDNlZqMUNyTXdxT2xpMTU2WjZSeUdkbzF3SjlqOWZySTNVa0J3MHplU1A1NGphWXRoeUxhWDV2VlAyWTVMdnBqMHNf?oc=5",
-      "source": "Moomoo",
-      "published_at": "2026-09-24T02:35:05+00:00"
+      "title": "美國10年期國債收益率升至5.11%，為2007年以來最高水準",
+      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOOEFhRW5hRTNaajZQNDZ4SUVHQU5acTBFekpKQ0lyNFE5SXVycjZQVjE3U0pVYkttNEtGQjczaHFnOGRLaFBpU1k0MDZjTEFVYThUOUZSNkh5bWp3MnRLTUI5UkZfNkZGS2tIb0gtanQ2dDRsZnRqWnFiRXFIMFpaZ0RicVNUbDZ2a0xMZVBjamRNU2JaUkJabnlJaGRfa1pvY2xXNUxHX1VfS2g1enZpV2tPSnliUVBnT1VXZVp2VEtIWUc4Wm1jWHhxeG83d0UxblZBX2tieHdjanl2TVV1NkF2bmVLWGdObnBXRG1SZlptdnZhRjBVeDF1MWxWTEdPQkpBeDM5RGJFTkNaajEwVXNhREdKSWJRcnAxeFg2SGhpczBtaTM4aVM0TXllTzd3M0Y5QlMxTThuR3hCR05JOTYxdGFKc0NtVWZ1V2FTdHRRSHFmRmhsX2Nn?oc=5",
+      "source": "Martin Cid Magazine",
+      "published_at": "2026-09-24T13:46:22+00:00"
     },
     {
       "title": "TradingKey 每日市場簡報：10年期美債殖利率創2007年以來新高，美股主要指數下跌，SpaceX跌逾4%",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRW5wS0hjUVdHejZRWWRmZl90WmRrZS10N09mX3ZubDIyWEotMF9xaW13RHhQS1AtWWl4M1VEc0dpbXN2ci1ETFNfemUxckc4U2w2dmVmOW4xN2hZckZxb0VnSmthbDBGNkRWQkw1T0ZyZ2NXVkw5QWRFaUpHTVZfRE9xYnBGZFhIUDY1Q3hDSTZKY1hKOGxVZFVvSWtsV28wUlp3VU5xSTBpRjQybmF2RzZjTmRzTG42X1Q3U1k5RU9FbHZpaWV3Z0VGdUJ5ekhvRXhRc1h2UUFmRzNZeXBtSDdpaXNldw?oc=5",
-      "source": "tradingkey.com",
+      "source": "TradingKey",
       "published_at": "2026-09-24T00:56:29+00:00"
     },
     {
@@ -31,9 +25,15 @@
     },
     {
       "title": "美國10年期國債收益率突破5.1%，創下自2007年以來新高！",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPblVuT0xNVXZMUU45YjBHNlp1VzNlS3VPNGliZlVpN1IzSHpaTmVCVVd6Y0VJSFphVzFmRmMyT3NoTkgydmRLcE1OWWxQTGdZTy00eDdHb05fMy16V2N0V3RKZnB0UEIyMjA4Sk1Xd3R1V29qM1dJTDNLbkVVVWxMVjl4VzdLMDR3TXdYY1RfdUNJM0FJZ2U1RDJSd2Z4N29fWEVaVjZGX1dQQmprZlVBU211UjlMTVcwZTV0U3BoVzdaRm9VUjhXX1FBdEd5Z00?oc=5",
-      "source": "CMoney投資網誌",
-      "published_at": "2026-09-23T17:47:36+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XMk1VeFRNNncwRkRpa09HNmRVRFFpdGdsYnU0ZllGVTNJTDc4THItWS1hQWdRaWlIcjBwcktQM2oxdk5PbU02NTBodG9DMkpsRmtnNDVhMEk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T17:47:44+00:00"
+    },
+    {
+      "title": "美國10年期公債殖利率升至5.093%，創2007年7月以來最高",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObmZOQkx5NkZSV1I4WmMzX0dSQTRra1JEWXNMUUFFRXk2cHNpdnV3Zk1FQmZZWlNMcEV1UXpXa3diN082d2ZUX1hPaDg0eVhWQWRHVmtWQTV0dDhZUURGVkF5Ul9uYVI2QkhXODFQZGdFMEFuMXBqcUpyNFZyYlZ3ZlEybnl4TU5vZ3BCcW1hWDNVcFVjMzRjRGVubVVhc1ZsYTZ2SUdReDVoVXRBUktaX3pKREtnbEdnSkFsV3VIQjA2NW93cjY1bU5uQk02eVE?oc=5",
+      "source": "TradingKey",
+      "published_at": "2026-09-23T16:35:00+00:00"
     },
     {
       "title": "【即時新聞】機構持股創2007年以來新高！AI熱潮推升標普500指數(GSPC)，這波美股還能追嗎",
@@ -72,10 +72,10 @@
       "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
-      "title": "資金流聚焦｜利率升至2007年高點，CPI數據即將公佈",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY1F1SG03MmlSYkR0a0EtSUhtTVdRV2lCd0pteERzNGtycWFaTHFmaEhkN2xPWGJKUFV6NURnX1BxRHdtdE5saFpwRTF5b2ZpRndQaVRQM2J6bzluS1hfMmk5alNSVmlFTTVNaU1mZVo4TkxkcTNuSHllcG1aVTV5bGw3bXRFWXRVMkNUWW10aTF3RDF2VExKcWlwVFIyYW5FV2tITl9rWQ?oc=5",
-      "source": "Moomoo",
-      "published_at": "2026-09-11T07:00:00+00:00"
+      "title": "10年期美債息創2007年以來最高 5厘債息料成新常態 風險資產勢受壓",
+      "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxNWjR6TWlSTjNzWW9udU0walBtMXFVNnZsMEhmNzlEbm5SNm9Wa2lxaXhzOUE2UnZ5LVp3azdMVGFERWc1bFJOV3hfM2RmbGY5c2RJWnY2dEZIeG5pNEJMMXFpYWhXZjJVbWtjOEM2T1JmSm5DUXRFYnRHY2NqbS1WTFd4c19DaWF0RzFrWDBRX21tQzhvX25nU0kyaW1NczVZZ2t2V2YtZmp2OUdNWjhLTmRXSjB6QldfYUlHeHFuMWVyU0FoS0pONmczXzFYV0NhaldNdXlmVzJoN2ZKcy1QZy1TNjNtUDJzbjJLNFpPR2ZQZGxFcm9BS2ZGMlItWDhIb2JxVnZhWnhxTUJfZWJ0YnNuaGluTHBtclZEdDlTay1MNE9Ub0lraHp2MEhZQkJURl9wNUhOd3RqR0h3aWRFZnhOR2N0SWhQM00yUXp5WVQ2QndNdWVKRnhWWXlPTDJuWW5vbDlldV9TTEUxRUx0Vm0ybFRJQWFabFBlRWZzelFKTUhMRV81UUoxaWVmYmkxQ3d6RlNleVZIckJVUE1iddIBjAFBVV95cUxQMmxfeVBqT0dfaUNzTVVkT3ZJNDd0N2drVVhBMGIzZ3RURkpkMXF5dzVxTmd2WHY1clhGMmlyTFd6NnpCbjFiWHVwTVdvaDZyZWU1bldORGVfT2d2cE1aOXJBbk5tOWZfZG1nYzhkeXVzV1ZQZmtBdFZBTS1OTkN4X0puWWhwWUd5WlNaVg?oc=5",
+      "source": "singtao.ca",
+      "published_at": "2026-09-15T07:00:00+00:00"
     }
   ]
 }

@@ -1,28 +1,10 @@
 {
-  "updated_at": "2026-09-25T17:35:56.964641+08:00",
+  "updated_at": "2026-09-26T18:33:43.563117+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1808",
   "name": "潤隆",
-  "count": 9,
+  "count": 6,
   "news": [
-    {
-      "title": "《上週融資動態27-9》台康生(21.02%)、建 國(20.71%)、潤隆(19.93%)",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMDRrUXZFbjd1dWhSNzg2Z0ViTnB1VWhrOFc0UXFGTWhSSmVHaks1Q1ZUUHV4eXhTaWZ5VVltVHZLYjJJU1lsSlpRVWdLWWdaY0tYYmJVOGEyZGxYeDIyUWRaTnJXY3BCWDFZSVNFYl9qNFF3eXdjc3FGX0ZJWDJYNHhWLU1ZQkF5?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-25T01:13:00+00:00"
-    },
-    {
-      "title": "《櫃買市場券商買超前30名 3-1》世紀*(9030)、穩懋(1808)",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYkhyU0xtLUE4YWlfcUt3aF9pak1pcXRPcEczUHNKcW5PMTlhZFN6aTFLMXNmNUs1VmlROHV4eEdkNnZGTDVCOWxwQ3BGV1lQZm1UU1o0QTZwR2p6QWpGMEppSzk0MllwekExd1cyeWdvYnozcUxWbU5uYjF3XzJRTW5jbDJIUWRJ?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-20T23:29:00+00:00"
-    },
-    {
-      "title": "今日最夯股／潤隆反彈逾5% 外資大買2,077張 房市回溫題材點火 | 市場焦點 | 證券",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50MXpfSlcwYmFmUXhPNDRlR3ZWeTVERXU0Vk5USW9oa1ZZZzZQT3dYTTVlYmFsZlVTOUV1bmdUanlNSm9ia1lGWU5sTEd2eHZxSWZnN3hZS1hLZw?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-09-18T12:24:21+00:00"
-    },
     {
       "title": "《上市公司除權除息 4-2》潤隆 09/23除息",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQXlCbExueFNoYmpIQUVqWXBSVTMtVkN0S1hEUEg1elhFWHVOWHpDYWY3RVFxNjlxU3UxQnhQbW11NGhvbmVna3M1NENsQjFyd3hybjhYOFZWRXFxbkhvMWJpTThJMkxBY1lYRDRiRDdEMzJTSVFtY1dYNE1LSFEwY1I4Sm1pWVlR?oc=5",
@@ -38,7 +20,7 @@
     {
       "title": "潤隆20％現金減資11月換新股！今年業績爆發、前八月營收衝141.85億元- 房市",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50aFdTdXZ1SE9fTnBEYnpMMlpOdmlfOFE2TFpTem5OcmR2MWpKUEdCRkgxWXZXeGVHekFnekg3U193R1BOSUJJQ2UteDNnV0FxT0lPeTVlOHZPc1V0UzdF?oc=5",
-      "source": "ctee.com.tw",
+      "source": "工商時報",
       "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
@@ -49,9 +31,9 @@
     },
     {
       "title": "【12:38 即時新聞】潤隆(1808)股價小幅走強，受房市回溫與讓利推案支撐＋短線跌破月線後反彈、官股持股逾16%提供低檔支撐",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84MzNQVFUwaV9mc3RNV1c2bnhBZkhmcU1aUUtJUERBVjRDMWVqcUNyc2V5SGpGSEZiTy1OS1BsTVRhSUZfQlM3RE0zdmotVG1jUy1yMndxOS0?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-08T04:39:10+00:00"
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY1dZTTdCZXJER01JWHF2Z29ZeW1Gc2dpNUZzTURCdlNTbVZkem1NY3hqNFVNOWtmU1NkMDVteTBWWlQtNzZ1LWw0dDFQMS10MUZ3YzFiUHNLVDVtV0FjSndiQlhuRFVuNzlua3l3SzF3NXZ1ZWtaNzJuQnlEMm5HZmlFZ1oweEpYM3ROZlJ3?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-08T07:00:00+00:00"
     },
     {
       "title": "潤隆交屋潮大爆發！減資退2元！H1由虧轉盈賺2.52元、大戶鎖碼近8成",

@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T17:36:06.857957+08:00",
+  "updated_at": "2026-09-26T18:33:52.929444+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2013",
   "name": "中鋼構",
-  "count": 5,
+  "count": 6,
   "news": [
+    {
+      "title": "Meta股價勢創2013年以來最佳單月表現 市值逼近2萬億美元",
+      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOdmprX3EyanpKV1V0S2VrZFpadjVNSmc5aEhJNXBwbWpQMG13WWRNRVVURlI0VExDQnJ5MGd3aTVBVHZBV2JoajgyR1BUU0tZZGNvLVRVbkFVX3FjQkZha1Zya3lrem5QRm45UUVNZE1pMElHZ2VkSXd3aTF5dkJSOGJxME5YMHg5bk94Z1FVVGh0X0p4Y1oxZDFCMXZFLXFHYmlRUFBLaEFaT3hvVHk0QlVhVm12ZjFJS0VUM0tBOFBwSkliWm9FUGZqUlBYU0tabXF1bXlISDFOZW9oTENKcUZqLXNMLWNGZFlibVB2UnJONHZhSkRjLUxoWUh1M0U0MEp0YVc3VXNObnFFc3Zka012MF9FdXo5WFVQcWFMZ0E5VWVTUjF6ZExiTlIwUmE1NGtSSFU0ZHI4b1V1YV94M3R6aHB3VjJzVTNXbm01U0xJa1VuVlJXbDRqWmhfenpqdDdiZlZfSQ?oc=5",
+      "source": "hk.finance.yahoo.com",
+      "published_at": "2026-09-25T11:07:58+00:00"
+    },
     {
       "title": "9月大升36%！Meta創2013年來最佳月度表現 市值直逼2萬億美元",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jZkQ1MEhmM0pZSTBmaHI2akM4Q0ZUUVl5aWhoMVpHenBIcVFtQ1daYzZPOHJVY25pTGRpQmtIUlhST0lKXzZobzAybE5nSzZhdXFWVE5vMEtUN1ZzQlBxN3pnUW5QQ0hIN1E?oc=5",
@@ -12,15 +18,15 @@
       "published_at": "2026-09-25T06:15:04+00:00"
     },
     {
-      "title": "去年全球新油氣田數量探新低 只剩2013年頂峰時期1/10",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQQjNZLXV4a0Npb2dkQjlBWjVTR2dFWkl1dDFWSDhwRTA1QkhJT0laRVhrT0lBT0ZUOUNGY1M4dTRUX1I1TXFMV1l4dmI4cWxqem54TGpmR0dIR2ZhREI4c093NEZrRXPSAWdBVV95cUxQUEIzWS11eGtDaW9nZEI5QVo1U0dnRVpJdXQxVkg4cEUwNUJISU9JWkVYa09JQU9GVDlDRmNTOHU0VF9SNU1xTFdZeHZiOHFsanpueExqZkdHSEdmYURCOHNPdzRGa0Vz?oc=5",
-      "source": "世界新聞網",
-      "published_at": "2026-09-23T06:08:00+00:00"
+      "title": "【META】META股價大翻身 AI代理Muse助扭轉乾坤 9月暫累升36% 2013年後最佳",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPbDhJUTZ6cVoxcUxsanRaNE1TUHdlbk9EMWd0Z2d2YncxV29HQ1hVTHdaaUJMN21KbWVxNmllZWlraGlvM0ZHZ01QSElJSkRiLV9lUm9IbXM5VE1XM0tjS0VlOGxfZGdVWFQ1aUlkejM3RmVkWjBHMUVZbkl2VXV5SjBTcXBzT0RrTmhpUlFwa0FUbmVTOEJTQjFBU2RDQk1oMlBtcThoRkRYeFhkcW5yRktxYUNYSy1ySC1Eem5ITkxHNGREVGN0NE1ibXp0U2N6aUVSZDF2ZllVdURvNEhIVXhFZlBtNUs1UVpJYnJwcmJCZUtwN1BQNEpMS3dQTnJrSmFqWmF3NW1Ld1VLaFFOc3NqVDJBaENXUEZHUHRtQWVHUEFDZDRZOWFyRVFyT2hjNjNWeDBXOXVNcmw5dklabFU5OU5nSDRDNDZXc2s0NEdDejF2aWRKcncwUE5KM2VvLURVOXZJMFFHYWpHdS1sUVcyNWw5UUVWX0htY2NYY0lJQ2hsSmlPUWVHVExfUQ?oc=5",
+      "source": "香港經濟日報HKET",
+      "published_at": "2026-09-25T00:36:50+00:00"
     },
     {
       "title": "澳元走勢：AUD/NZD衝上1.25創2013年新高！Bullock今日定調、RBA升息定價90%——決議前一週怎麼看？",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0Y2dsR0JlSEdSd3M2RFNzY2ZMbHRPd1BYb1prbzgzbHJxRk9xQk1lREo2bmhSV0JLdWRSbUxBaEk5dW9zMUVJdW5RU0xJajRiQ0VZaUMwdmx0c3J5NFZIU3IwWjVmTWpsUzNscnFfWFhCb1BRVjVoeENFSEU3eGc?oc=5",
-      "source": "mitrade.com",
+      "source": "Mitrade",
       "published_at": "2026-09-22T03:27:42+00:00"
     },
     {

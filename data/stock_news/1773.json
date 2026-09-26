@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-25T17:35:49.080585+08:00",
+  "updated_at": "2026-09-26T18:33:35.893266+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1773",
   "name": "勝一",
-  "count": 7,
+  "count": 8,
   "news": [
     {
       "title": "勝一半導體產品需求增+新廠貢獻，中長期成長續好",
@@ -34,6 +34,12 @@
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPZ2ljQ2l3TXF1ZTlWZnNJNGlKLUdNR0dkM2lXZ1hXaWRUTXFwT1B5OUU4V1FQU0hZX1JwdG9xSzRPQkNCSnJXOEJhR3djNHh4RGFQYWxxQmtaMGFWWGVRZW5NejN4UUtQaTQyei1oNG5Xbm5ONkJkWUk0eFFHRy0zUWoxTG5Cb25uU1hXb3ZveEtNdFhnaGYxemhQcElxbDNqQjljRUQ1TU1VelNNQzJaNUpWNjdLMC10QmsteFZaMGJSQWNtQ3A2a3VkRVh5eHVxRVZYYnNpekJNdGQ2dmliSE5wYkxubXlLcVFnTkFEOVpycXdMMWM2VXR6UXVKWDVqQ0duUUR5bVJQRVZ3?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-07T07:00:00+00:00"
+    },
+    {
+      "title": "不倒翁／唐勝一",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMEs0NnVvejBNNkQ1Yk03SUhrb0FCLVdhUG1TaGJ3bEtPcEtzTXJvbm81Ul8zMHI1NmZpRDIzbUJJYXptNjBwOEpwNmlidWRpeEFpTGpnMTFIRktzOUpGS29YQzlGWE9JN24tVExLRE1VSkpUcWpaU0NCekJucmdYRjBidmxKYXBPYlN4amJfbkY?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-02T07:00:00+00:00"
     },
     {
       "title": "【13:24 即時新聞】勝一(1773)股價走強至171.5元，受惠電子級溶劑營運創高＋周月線多頭結構支撐買盤迴流",

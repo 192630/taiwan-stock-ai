@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-25T17:35:55.537157+08:00",
+  "updated_at": "2026-09-26T18:33:42.142275+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "1802",
   "name": "台玻",
   "count": 12,
   "news": [
     {
+      "title": "熱門股》日本東紡大漲 台玻跟進",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UdHBycnpyU2NnQ0o1bUlQdGY2NjVTNlc5ck5IV1pHTUZubWlya3A0SjVaRFFhOHdqeGc5ckpEa2VWdURJNm5oSnpjSWozSDM5cy1ibDB4N0E?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-09-24T21:02:57+00:00"
+    },
+    {
       "title": "1802 台玻- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5URkF0WU0xbVU2VW9iYmlPM0FNN2h1VjFqTmtLUkFPbjJXREtvV3EzMklxQ1p6SGVaREZ3cU40V1N2V1hxZm4wSUNEeUVIUnlxZWZESy11ZzE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NX0pycjhlLS1CTmNNWVF4R0tEOE44cHRpcmV0bF92anUyRExqUUQyZVB6TktuSFpwd00xclk4UFZJQjdmcm1PY1l1OGhSemJJNHRlajJaX08?oc=5",
       "source": "CMoney",
-      "published_at": "2026-09-22T12:28:49+00:00"
+      "published_at": "2026-09-22T12:28:22+00:00"
     },
     {
       "title": "台玻總裁林伯實涉不實轉讓10億股權！一審判決出爐 公司回應了",
@@ -24,10 +30,10 @@
       "published_at": "2026-09-22T07:45:07+00:00"
     },
     {
-      "title": "台玻總裁涉「假交易」不實轉讓10億股權 林伯實遭判1年4月",
-      "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOdEFPQkotdmUzSEdWYjhpMGNOckNRdXhwbzlqNV9YT3RQM3o4UHBIVVplTmtBdHdfN2FxQjFvZzlFdWZUUmp5VlZBWDl2TmxJRlBsWFFzSHhWREItTHpEQzh0dm5CWldpRHAyMmRRZ0FkdFVsSWt4U1JLR0VjWmo0WkVfeV9NeWx6cEdhRERYVjFrWUN2RHlIUV9MTXRVZFpvUUVzcEJFWGZpSTQtV0xSRTRSUlBmbXotdVpSZFdRdEFZUk5BWXcydkNHSGh2c2tRTV9DV1JKdjh2Z1NxOTRwSThMeEJJSDUtN3kwMW41QnFmSUw0V3pQTVdZVFRRZlVEM3EzU0VVR0o5V2x0OFl0cVRyeXhXZmdodGw2ZlgtOGZDTWp1N2NWWDBJUVMtNkxSSFNYRmY0SXctUzhHbzBMRHJTTldMRHN2UU12ejh6Y1dLSTNqMFR5RU5zLVp3NDBDRFpSNGpCdUhHZDFt?oc=5",
-      "source": "Yahoo股市",
-      "published_at": "2026-09-22T06:48:30+00:00"
+      "title": "台玻總裁林伯實「涉脫產10億」！一審遭判1年4月",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPODY5em84dmFfLXVqRjhfUTRxV3pVd2dZemhEdF9xS1loTWpBUG9MMmpJc000SzFyaURVNXlyU2NfTjE2aDAzUU05a3RsVDd0MHhodTBzMmZFVV9BQnplSzJPaE9KMXlkSW51OERYeTBPemE2T1RfaV91cnRwSU9pNkVDVmpoWFJCZVlIa1VBRUtobnZtc1d3ZFZOSmhRSGZfcHJoTEVKaHl3ME9TWjVaWEJxWjE3NHBQTExCcENxWlVpYWREeVdZRjNKN0JlWmN4Q1RKOFhMMHpEV2lEdlV2N241Uno2VG9heFVQVEcyZGZNdk5yRTVBc1k3ZmRfSi10OTFjVTVKOVdjSm44OEc2WS1ORl9YMnNuMDA0?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-22T06:40:30+00:00"
     },
     {
       "title": "台玻總裁林伯實涉假交易規避仲裁 士林地院判刑1年4月",
@@ -36,15 +42,15 @@
       "published_at": "2026-09-22T06:32:51+00:00"
     },
     {
-      "title": "台玻總裁林伯實「涉脫產10億」！一審遭判1年4月",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPODY5em84dmFfLXVqRjhfUTRxV3pVd2dZemhEdF9xS1loTWpBUG9MMmpJc000SzFyaURVNXlyU2NfTjE2aDAzUU05a3RsVDd0MHhodTBzMmZFVV9BQnplSzJPaE9KMXlkSW51OERYeTBPemE2T1RfaV91cnRwSU9pNkVDVmpoWFJCZVlIa1VBRUtobnZtc1d3ZFZOSmhRSGZfcHJoTEVKaHl3ME9TWjVaWEJxWjE3NHBQTExCcENxWlVpYWREeVdZRjNKN0JlWmN4Q1RKOFhMMHpEV2lEdlV2N241Uno2VG9heFVQVEcyZGZNdk5yRTVBc1k3ZmRfSi10OTFjVTVKOVdjSm44OEc2WS1ORl9YMnNuMDA0?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-22T06:26:11+00:00"
+      "title": "台玻總裁涉「假交易」不實轉讓10億股權 林伯實遭判1年4月",
+      "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOdEFPQkotdmUzSEdWYjhpMGNOckNRdXhwbzlqNV9YT3RQM3o4UHBIVVplTmtBdHdfN2FxQjFvZzlFdWZUUmp5VlZBWDl2TmxJRlBsWFFzSHhWREItTHpEQzh0dm5CWldpRHAyMmRRZ0FkdFVsSWt4U1JLR0VjWmo0WkVfeV9NeWx6cEdhRERYVjFrWUN2RHlIUV9MTXRVZFpvUUVzcEJFWGZpSTQtV0xSRTRSUlBmbXotdVpSZFdRdEFZUk5BWXcydkNHSGh2c2tRTV9DV1JKdjh2Z1NxOTRwSThMeEJJSDUtN3kwMW41QnFmSUw0V3pQTVdZVFRRZlVEM3EzU0VVR0o5V2x0OFl0cVRyeXhXZmdodGw2ZlgtOGZDTWp1N2NWWDBJUVMtNkxSSFNYRmY0SXctUzhHbzBMRHJTTldMRHN2UU12ejh6Y1dLSTNqMFR5RU5zLVp3NDBDRFpSNGpCdUhHZDFt?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-22T06:25:00+00:00"
     },
     {
       "title": "台玻總裁林伯實偽造10億股權假交易 業務登載不實判刑1年4月",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15U3FmRkRaajh0aHBLeWVyNkVORFA0UlNUTVQzaW5Rd3BTMDhQdmRucGJWLVZaQW9pTk8xeGp5WElGSUdmY0NrQWk1ak5tRUNDQ3RnTFJZU2t0NjdvZmNDekFaQlDSAWRBVV95cUxNeVNxZkZEWmo4dGhwS3llcjZFTkRQNFJTVE1UM2luUXdwUzA4UHZkbnBiVi1WWkFvaU5PMXhqeVhJRklHZmNDa0FpNWpObUVDQ0N0Z0xSWVNrdDY3b2ZjQ3pBWkJQ?oc=5",
-      "source": "自由財經",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YMUlJcl9Ed1Jfem0xUnRuZEN3SGhrMzdOYkREb1padGhCZkdmVnBwRjJSSXFxeEtaSXNyN1VzcGY1RVJHM1czTkhPMThSV2xOampUdk90NEh0OW03dFJz0gFkQVVfeXFMTXlTcWZGRFpqOHRocEt5ZXI2RU5EUDRSU1RNVDNpblF3cFMwOFB2ZG5wYlYtVlpBb2lOTzF4anlYSUZJR2ZjQ2tBaTVqTm1FQ0NDdGdMUllTa3Q2N29mY0N6QVpCUA?oc=5",
+      "source": "ec.ltn.com.tw",
       "published_at": "2026-09-22T04:37:48+00:00"
     },
     {
@@ -57,7 +63,7 @@
       "title": "81歲台玻總裁林伯實出庭打瞌睡！涉10億股權假交易 一審判1年4月",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsY1NWanE0UHY0N0hSTDlWSnNqdVpxdFRnd2F6VDlDbWNaYUFYSjlVb28xU0dyTV83SU9ncWNBV0JzVXJaWHdWd2c2OXFLenZROVE?oc=5",
       "source": "鏡報",
-      "published_at": "2026-09-22T02:58:00+00:00"
+      "published_at": "2026-09-22T03:02:20+00:00"
     },
     {
       "title": "1802 台玻- 【美股巨頭】馬斯克要蓋時速320公里隧道，特斯拉股東該開心嗎？ - 股市爆料同學會",
@@ -66,16 +72,10 @@
       "published_at": "2026-09-20T22:13:38+00:00"
     },
     {
-      "title": "1802 台玻 - 硬一下！64不遠，每天開高走低搞什麼鬼 - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8td1J4b0wwT292bmg3a2Mtd3Q5aEVVXzhyOXpHaDN4NC1ILW0tVWFFb0FvclFtdDdvSzJBdEViVzJ0MWV4aWZyUEdMVDh1d0F3ZjB4cmZuQU8?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-20T03:39:39+00:00"
-    },
-    {
-      "title": "熱門股》日本東紡大漲 台玻跟進",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UdHBycnpyU2NnQ0o1bUlQdGY2NjVTNlc5ck5IV1pHTUZubWlya3A0SjVaRFFhOHdqeGc5ckpEa2VWdURJNm5oSnpjSWozSDM5cy1ibDB4N0E?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-20T01:15:55+00:00"
+      "title": "《集中市場券商賣超前30名 3-3》台達電(-814)、台玻(-785)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY3VMS2FvUjFhak5PUFBsZ2RXRkVJNmN0UENOUXB4UWhvRjA1d1JaOWhhcEVBTDJSal9nTmNaUXJoMEtENXhTWUp5WjhxX1ZMd1djTUpoOEFUX0FaLTNzZU5CVTlhVFBTRG11T09xcXpQX3EwakZPNWF1bExCc3BNb2d5bEZ4MjhE?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-17T23:32:00+00:00"
     }
   ]
 }

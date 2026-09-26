@@ -1,14 +1,20 @@
 {
-  "updated_at": "2026-09-24T16:35:59.639735+08:00",
+  "updated_at": "2026-09-26T18:34:06.321417+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2064",
   "name": "晉椿",
-  "count": 1,
+  "count": 2,
   "news": [
+    {
+      "title": "【2026/08月營收公告】晉椿(2064) 八月營收1.29億元，營收雙減，年減8.56%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUXFDRk1iZXc3ZnNhYWk2Zmp0Tk1mZWtDWHFDT1BCQmRzRjRqYVZxNWZSUVlmNmtUTWxvWEZkc01zTUFfUk9BSUt5cVoxanFpY1hVNElnUHJ6Wmk1cTdnRzlvZ1lfU1g3R19lU0FYVUdGeklNOFNRNU4tdHQwcUd6WHJpLVBSVGFZdkE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
+    },
     {
       "title": "NATIONAL RURAL UTILITIES COOP FIN 5.5% SUBORD NOTES DUE 15/05/2064 USD25將於2026年10月30日除權除息，1股派股息0.34375USD",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc1d3VlBqb2ZodUo5N2FYeWZvaVBPMkF5WHFMMkRVLWR6bHJMYnVfZ3RzYTZGNVlWRFpUQnFzeTFuaUhTblhrSGRxTGluYzU3aThCd2dpbFg4czNPbkE3NDJJODRDOE54NlNrYk9OaktyNW5NWUZXWkktQVMzNmpDV0RjQVVkbzdidEY0aXo1cEhvVUFPQWhNX1lhSjZBQVhlWVFJ?oc=5",
-      "source": "Moomoo",
+      "source": "moomoo.com",
       "published_at": "2026-09-02T07:00:00+00:00"
     }
   ]

@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-24T16:36:02.969286+08:00",
+  "updated_at": "2026-09-26T18:34:10.020100+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2101",
   "name": "南港",
   "count": 12,
   "news": [
+    {
+      "title": "南港(2101) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jSFJJWlRVa0JjSVpQQVFWeUkwcDBxYTg5YXBMUnNMNlNJVGtoT0tZbTAyXzVhN0dQcW84OXpmS2hycm5wMi1MQlVwYkhYMWtfUUdV?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T14:44:07+00:00"
+    },
+    {
+      "title": "輝達房東換人！潤泰新206億賣南港大樓 整棟出售給凱基壽",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wY25lYVNKWGE5MnVSUWVfYWRpcElaUF9iSGFKdHhDbUpfS2xXSlJoUG1FSXBFUHVpX3BKRnVhMm1kQWZQTWROWnhuSGNjMEtxMmtDSzBuT0Z5d9IBX0FVX3lxTE1SMFZURENCUzB5dFFJQ0RoN2VhVFZKTnAtbXZlQnoxTWpUSlJLOUNTQ3VnYmVKM2FsODhOR004MzNnLVJxSjd2SEg1NGVoUUtxY08zc3NOZWxKclFQSnNF?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-23T18:23:33+00:00"
+    },
     {
       "title": "潤泰新出售南港玉成廣場！凱基人壽砸202億買下 改當輝達新房東",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNMkpJSGhoTVV2YVJFMzdsZUNSblR1aUh6QkNVTXdzYmlrNkpDQlIya2xJczhXamNJYU52VEhGdmdXWUpEMW1kWHEtSQ?oc=5",
@@ -12,15 +24,15 @@
       "published_at": "2026-09-23T16:06:13+00:00"
     },
     {
-      "title": "【輝達「房東」易主！凱基砸202億買下南港玉成廣場】 金額破紀錄！(#起啵)",
-      "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxOLU0zQ2pNX2lZdEpQOGxOZmxSZGNLMUhUSmcwSFlxNDE1bEtXQXdyazMyXzBJdTNHaUdIQlJFTVJBa2MyemlTME5WMFl2RVFUeHpIbTQ4Z29nS0Z1M0ZuRzRYSmNtU3llQVIxNk9CbkctRFFLOUlxcGNkN0pWZUJzSXVHZlM3SjEzUEVpOFNkRUZrNnVpa2EzNTF0QVQ0azRVZGlhSktEVTZ0NFB4WU9OUXlMV0IzMzN2WERWNHJDeGRnOS1XVi1DT1V6TGhwNUhON2twaGlSRkFtb214cWNlbDktY3dqR3VMOHl2eElqdElWd2tHcFl2R2E0eGhYVXI2bmlfWUVTMEVfNVhRTDJiVi01NzZBbGZTY3E2dFpkaVZRd0FMTFcxTTVzTDd1OVdzRFFZakVtc19ERm8yUUFsTWl1RjVWVV92UWxMUjFXdG52eUgyT1lBTk5nUTBnS0pxSjR1dVNrVHY1ZlJlUGNndFhic1pmeC1qRmlBckh3djk3SE1pSTRRRXBnUmNBQkhQdndqSDVTV20?oc=5",
-      "source": "facebook.com",
-      "published_at": "2026-09-23T13:48:05+00:00"
+      "title": "新竹南港輪胎、新豐廠倉庫深夜大火！烈焰衝天消防員急灌救",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9hcUs3SlZiMWxtTkxocTVycnRSOEZGZkxRMG9UODE5WnI2NHNnVE1lMy1YbDZhRkk4WmpNTHo3djVDUGUyWmVn0gFLQVVfeXFMUE1OT040VWVKNHBSeDZjd3VxenVDc2x1bUNnZVhwX1hmMmFNMjYxYzdMQkRJU3BjbkpkT2pkYTZtWGVCNWlISVRWTjFZ?oc=5",
+      "source": "三立新聞網SETN.com",
+      "published_at": "2026-09-23T15:49:08+00:00"
     },
     {
       "title": "南港商辦市場創202億天價！AI聚落帶動租賃需求，科技權值股資金動向盤點-財經焦點情報站",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcU9QWG5XdVBUWllLWnZ5eC0zWS0wVm85VzhMNHBPcjc1QUFreUJFcnliR25BaE9pZUI2a0dRUDBOY0pvd09nSjFma1VJd0dEeWRWZmlTVUdZX0ZPTnZIamRfemRmc1E0b3dOTVJQZ3dreEtqT05MWWhzNFRDREVBNnR3?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-23T11:45:05+00:00"
     },
     {
@@ -36,27 +48,21 @@
       "published_at": "2026-09-23T10:41:33+00:00"
     },
     {
-      "title": "輝達換房東！凱基砸206億元買潤泰新「南港玉成大樓」 創今年最大交易",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JbWpjSmJEMVE3b0hiVTVvZVRpWkRRYV9Tc3hwMHlWeU54WjF2UnFKS1RRTEZTTFJpaEdUVUxQRG52UXhMLVNPTzZjNnNTdEdFLTBhWWZndUJVd2tr0gFiQVVfeXFMTU10XzFfbWdmcWpuZXJkVXFkeWlKNHU1YWJpdXlXOHJQRDhGaENxZ1NQZkpQRzhjclJyYmQ0enFlMGpsTVZqelVXYzVIZ0hJYVAwLVNYNnE2LXNWOWZ5ZFZ4TWc?oc=5",
-      "source": "udn房地產",
-      "published_at": "2026-09-23T10:30:20+00:00"
-    },
-    {
       "title": "2353 宏碁 - 全台首間PlayStation 概念店進駐CITYLINK 南港店打造一站式體驗空間- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iN2dkNGIxLURqOEprMVVxczg3UE54cTFmd1BENU9lT3V6WnZ5bzdjVWxIb3ROUEZsZDlHY0pBQjBlbktEVi0wNGt5WXBxbDNpOXc4bEExTkM?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-23T09:22:16+00:00"
     },
     {
-      "title": "國建攜手日本三井不動產奪「南港玉成段公辦都更」 總銷初估86億元",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05VzRnRHhiQy1FSC1uTjBITFFLOGtYR25kMlJBVFNrS29kWktlY1lZV21YM2NCTm9MNld4bFU3MmQxUGJnWi1aMGNVUV9oRjcya3ViTUd30gFWQVVfeXFMTTlXNGdEeGJDLUVILW5OMEhMUUs4a1hHbmQyUkFUU2tLb2RaS2VjWVlXbVgzY0JOb0w2V3hsVTcyZDFQYmdaLVowY1VRX2hGNzJrdWJNR3c?oc=5",
-      "source": "UDN",
-      "published_at": "2026-09-22T10:17:16+00:00"
+      "title": "2101 南港 - 30買兩張 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03YVJHOU1vOEh6S2pTeFozTXlmWDhteV8wWlB1ZllCQUFFRE5oV0ZlZk5Wcl9VMjRvd0lnQ1dZdUoxLXMzRDlyeGR4U1loRUFRMEJib2ZXaEM?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-22T09:59:28+00:00"
     },
     {
       "title": "南港「黑鄉變鑽石」新十大建設出列！出現嶄新地貌",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5ITDJfR3BfbHc4MWRUTFBSajZ5T0JKb01kckZlZGlXN191eGkyUjJRMUtxN2o4MW04TmF3V1IwaDRYVWF5SWxV0gFLQVVfeXFMTk8xX3dxaU5MbDRWTGJVcU9uTXNYY2pjWnVHQkhTbVFucWRhbGRaVnM2ZnRJRzZuN2tPSE0zcGNEQkZON1FTLU80UmFz?oc=5",
-      "source": "三立新聞",
+      "source": "三立新聞網SETN.com",
       "published_at": "2026-09-21T12:20:45+00:00"
     },
     {
@@ -70,12 +76,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GbmRhSlMwUndWLVVDOERJZ3dnemZoRGgwMDV5YlJkalJyTkhzYVd3R190a19CRVE4MHNYSnFBZTBVV2hGQzY0RDl5N3l4aEFxdzdlcFVtTXQ?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-21T08:23:53+00:00"
-    },
-    {
-      "title": "〈房產〉國建與台灣三井不動產組團隊拿下南港玉成段公辦都市更新案並簽約",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Gb2d1Slh4VU9aOGI3Q2NvR1QzY1ZoMmtFSVpMd1N1WTFWX1kxNWVhMzJBNjhERGpMRGJrUjEtRDhibE1kZnlKaUd6TW5KQVU?oc=5",
-      "source": "news.cnyes.com",
-      "published_at": "2026-09-21T08:03:20+00:00"
     }
   ]
 }
