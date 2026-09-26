@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T20:40:40.991189+08:00",
+  "updated_at": "2026-09-26T21:32:53.760277+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2645",
   "name": "長榮航太",
@@ -8,13 +8,13 @@
     {
       "title": "長榮航太破千還要觀察什麼？",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFByS0Jib0NhV0xLd0M3LXlTb1hvOHloS1hCZG52blJ1Sm94bWNEQzdoa04zTjJSaTJ0VWh3WjBrYXlXVkRlV0FnQjZCUWVEWk5XRXRoZ2ZDemg5R3RkbHdTWlhReXFVZlJmRWJtY3lWczNFS1p6SVY2ZXZKdw?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-24T20:02:14+00:00"
     },
     {
       "title": "TWA00 加權指數- 長榮航太維修業務需求強，今年獲利成長可期- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UYTRCN1N1aVh4c1gtT0plcHoyN3pYQnR2LXJFMkxCMElCaUlyalBsRV9JNWFvNlQ3XzVBVHQ5NUtkS1VkOWtyR2w0bm1HZFZPZGpZSUw3ejI?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-22T08:02:17+00:00"
     },
     {
@@ -22,6 +22,12 @@
       "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNMWxTTUVvVGl3cmNuU2x0LW0zLWtpSmpLakxCbHBfN2F6cE10WVFfbmtxdUZnelY2X3A4bkZ4Mjg2WGpScVJWbkUxRmJ4a1YzYjEwNUtEWDVkeVBoODRoNnQ5Zk1RaG1kcFloY1NlTmlqTmM3NUpDWS1jbTh0d09kenowRnp5a2xLZk1CaERjLUZXUmpSal93enVaOXhMOGhWZnJxS0dlNFRyUnJPd2VfR3pLbE9ySDRURldFQkpzd1BkN19oZ0I3THVOSHZ0OHVVMGltYzJFRzJ1X2oxV2U5UnYzcGVDUFBiQUNBbmtCaVV2aFlQNXRJQ29ZMEVGV1hadlZ3eXBtaWVlWDNGS3F1REFLTUloZ0NkS002VTY3LTRLYTBCbTZpcHBWNHkwa0VqdEJhLUplVHRuS1RMaVlicw?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-21T04:37:37+00:00"
+    },
+    {
+      "title": "2645 長榮航太 - 人越來越少了，好事 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLSVh2TWJFRjgyczhJaC1QUVc2ZzlkSmRMSWFjSGN2RDhCb2pwa0k3b2N6QXliRnlabjQzUEpzZUROX2s1XzQyMW05bjdiVldPZ2VlTzlOM2Y?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-17T07:00:00+00:00"
     },
     {
       "title": "長榮航空、長榮航太遭駭！部分資料外洩 急發重訊：不影響營運",
@@ -32,7 +38,7 @@
     {
       "title": "長榮航太題材過熱時該看哪些訊號？",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOUWpSWS1QaFdIYzlXSmtUd2pHQ3hvTUdPUzR6NWNkRzA3VTZTYVVEWjFJenkyc0p5YWVLUEZIeVVHcXpDLVNUVGtJTXhMZ05VazA2Y2F2NjY5X1pWbDBVZDVwNEZkOWMxSGo4eHRoLXBDOEp1alp5RjlVZw?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-16T05:09:09+00:00"
     },
     {
@@ -54,27 +60,21 @@
       "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
-      "title": "長榮航空、長榮航太深夜發重訊！證實內部系統遭駭、員工資料外洩",
-      "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQT3J5RTNIaGozMHY2N0FWUXBIbXhFOGU0dS1aZ29FZHBOaVpLUjEtMmdMUDhuU05QMC05a2VnVkJHNHQxU0RxWmVlMDQ4TkdGaEdOWUFWaEp5VERuMWNiSGhfcnFZeElUejA0SG9kd0tpMzdEMHRpNXhiSEFJZ1IwenMxOUJ5eTJrdUVhbUJVUlBMOFJuWElyWTlqN1BRbktIaThoNTFROTlIMnhpS3RGN0Q3Rl85akpPMUV6VVE0Wm93eUVLejhKOFNnMEpaemxKZ0RIVmE3TGtXYWltZmtjOF84UEVUN3JfX0tBbDUwSUd2bDAzNDNsdFBPMWdiXzlLMGlsS2ZobWYzcnB1cUZjdTQtV2E5dms0ZmgzUHB5SDl4RDJibmpMalFzRFdpSGRlTG1fR2RtWWFTRVlMMDl3R3BLTTNQbWFFdDJ5amFwLUR5NGgtOEgzdWhWSjJOUjd3QTd0ZGQ5MGgzZGpMaTdVUk1uVjItdDRHZ1dpQWN5Z1g5OHM4QUhSb3ZTY0d4dno3d0NlMWtuRFhiQlk?oc=5",
-      "source": "Yahoo新聞",
-      "published_at": "2026-09-15T07:00:00+00:00"
-    },
-    {
       "title": "2645 長榮航太- 這邊資深小弟- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWWERuY2lUd0ZrazZUeU9vQUZZeHpaMWt5enNNbmhpZjY0emJSWXJacUgySWU2THRyZDg4U0Fvajh6WTVhUmItakdkcDVHb2RFSEtaN3lJV2w?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
       "title": "2645 長榮航太- 一直被借券？有這麼爛？？提供大家長期持有公司的價值性參考- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tOE43aTBiZ3Q4Qkt3MUlGSDFTWDRiMmdpUGd5dXN0NmIwM3RfbmlxbWRjWVU1clF6Y0FGeHB2clhNU3ZXSXNoNmF6ejJucUFZNl9OVlhPZ24?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
       "title": "2645 長榮航太- 搶爆559億國防大單！4萬架無人機加速採購- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zNVR4dTVqdVdocTVWa2hPRk1oTnBOV0pWR0s4U25ESjNmc2h1ekExTkVNUjZhSUJKa3JhX0gtaGZCY01JTXdQd09hY25vUlhxbkhaZGduVEc?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-04T07:00:00+00:00"
     }
   ]

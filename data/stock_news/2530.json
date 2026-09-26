@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-25T20:40:16.799004+08:00",
+  "updated_at": "2026-09-26T21:32:35.455472+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2530",
   "name": "華建",
-  "count": 9,
+  "count": 11,
   "news": [
     {
       "title": "華建(2530) 個股概覽 | 個股 - 股市",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NSGhJTG1ENHdBZkxGX0ZVNWhDaVdBWXZtM1pSYkdNeW81M0p4YUc4RUlkNDhxMGNoV0tRYWtPdXVuOVptTDhJZ1lKdDNwR25QbXZZ?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-21T16:46:39+00:00"
     },
     {
@@ -18,22 +18,28 @@
       "published_at": "2026-09-17T23:37:25+00:00"
     },
     {
-      "title": "今日最夯股／華建業績動能無虞 能否重回多頭走勢？ | 市場焦點 | 證券",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44WlN1MUJ3TzlVRFlkUlIxMlE0OW12ZEJkNTc1dF9CT1VjZnRGWk9WTFNGNUdyUkpKZWZmWS1JdUdlU0FXMVNtc3NyeE9tci1tbFV1UkVidTF3dw?oc=5",
-      "source": "經濟日報",
-      "published_at": "2026-09-14T07:00:00+00:00"
-    },
-    {
       "title": "9／14台股雷達｜華建、富邦金、聯電買盤力挺原因曝- 證券",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HV1dTWFlFZ2pWNTNYem1fTENXQTkwbFk0R3ZIQ2JWNUpRTTdCZDRLcmpuSU5uYXVNRV9pLWJnVzVHREtYWThfVHk0NGxMUl9USVU4UlRMR19ZRGt2VWtV?oc=5",
       "source": "工商時報",
       "published_at": "2026-09-14T07:00:00+00:00"
     },
     {
-      "title": "【12:52 即時新聞】華建(2530)股價上漲至20.4元、漲幅3.82%，Q4交屋與高殖利率題材吸引買盤，惟主力籌碼仍偏震盪",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU0NRVklNSk83M1Zvc1FtLVl2aVJ4WkkwbmxWYmVveWR0ZWduREVBVnVFcFlSa3FJTkFsQzlSU1h1QWtxaXFicG80LTE2amlybHJkdk5NNmhIS1g1UlBHcGJsZ050cnRCemctcDNhc2ZJR0lfR3JHc2pRMzNuVkVDUkVDQmtDZnhRZ0pEd2ln?oc=5",
+      "title": "今日最夯股／華建業績動能無虞 能否重回多頭走勢？ | 市場焦點 | 證券",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44WlN1MUJ3TzlVRFlkUlIxMlE0OW12ZEJkNTc1dF9CT1VjZnRGWk9WTFNGNUdyUkpKZWZmWS1JdUdlU0FXMVNtc3NyeE9tci1tbFV1UkVidTF3dw?oc=5",
+      "source": "經濟日報",
+      "published_at": "2026-09-14T07:00:00+00:00"
+    },
+    {
+      "title": "華建 (2530) 能重回多頭？5家點名後先看這組數據-梁姐價值投資心法",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSWJuTW9IVnBtcjZvTXRjb1pZbklrZ0ZUV2wwZU1YdWhackNGVWRzT1o2dWljZGxzSGxkajlmejRJQWY5SWNZOS1JV2dpVTJNZnRoQS0zUmRSczRSdG16UHRZMEpla2NsMV9TU293S3lQbkpTTkkzWU8wdlRWRDE5Z3h1RVVhQQ?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-14T07:00:00+00:00"
+    },
+    {
+      "title": "【12:52 即時新聞】華建(2530)股價上漲至20.4元、漲幅3.82%，Q4交屋與高殖利率題材吸引買盤，惟主力籌碼仍偏震盪",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nWHZ6Z2psMnRZMGEtcC1zVVUzQUdlY3RQQ3NlTkloZ1lOc1J3MnpQbjJVckV5WmNmSzN6VWx2SGlqZ2xTLTQ3bjV5dzFlYTM0RUppWWEydGw1eWE0Q2tKZEZIM0N3TjA?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-14T04:53:12+00:00"
     },
     {
       "title": "【12:59 即時新聞】華建(2530)股價小幅走強至20.1元，受第4季交屋題材支撐＋短線均線止跌與主力回補成盤面亮點",
@@ -48,16 +54,22 @@
       "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
+      "title": "2530 華建- 借劵餘額已減少超過6000張 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1raDc2bzNWV2NqSjVZR0tORUxvSjJGaEFHckhhajhlc3hIa0l2bHNlMFhySU5vM0RSdlE1Y0twSFRzc0Y0RXpmRXFMUEJ0emRLLUtncVJMaXM?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
       "title": "【13:24 即時新聞】華建(2530)股價小幅走揚至19.65元，第四季交屋題材獲買盤關注＋短線跌深反彈結構觀察",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wbXRzSEhOd1NJM0g1dk1kcEZEMUZFRDVUWE80aDNWMm15REdWR3JwNjRUc3VyTzBHbTN6Y2U3RG15OWVuMWozUW9CVDBuVUptUUoyUUZxZno?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-02T07:00:00+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtWnFUNnlTM3hVSHpjT3ZBaUtnRTRvYkJzZml2OTlKMDVOTHBsVHZtc1BHaVR3aDI2UGNubTJTaXBSODhGX2ROODhpZm9aRy02b1ZPX05JTXFJNU1mSEJqV3Q4TnExUDA?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-03T07:00:00+00:00"
     },
     {
       "title": "【13:30 即時新聞】華建(2530)股價走強約5%，第四季交屋題材獲資金提前押注＋前期主力調節後籌碼有望重新穩定",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZQnctUHFOb3FpV3B1NHhDeEJVeWhFN3hUeWUwRkdmQmdMNUI0d3J1dnpvNGtuM2dPYzVpWnVlbGlaSnBzY09oSkwzQUVpTHFZam1ackRzeGg?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-31T07:00:00+00:00"
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbnhibnF1MVlQcTJHQ2FSMzFNZkpfakJYeDJQZXViZmZPVjZBVUJhOFltWXY3U1kzaWRfbW9QamdPMUVKeEVkSDdhN19fY3VLVXNyQVM0eUxJWFlYYmN1MVZwb29WaDFTMWJkeTQ5M21KbVBoTzd1S2c3OE1fTWc3T0RQazg4VEw5Ql9FQXpB?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-01T07:00:00+00:00"
     }
   ]
 }

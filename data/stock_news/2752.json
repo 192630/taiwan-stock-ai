@@ -1,27 +1,33 @@
 {
-  "updated_at": "2026-09-25T21:35:34.781392+08:00",
+  "updated_at": "2026-09-26T21:33:05.902083+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2752",
   "name": "豆府",
-  "count": 3,
+  "count": 4,
   "news": [
     {
-      "title": "2752 豆府- 新餐廳「日日南洋」插旗北車！打拋豬、越南河粉套餐248元起- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95eEpDTzVsTnEzUWFzemhSc0tBaXlwOS1QcnI5cHZsZDEtSDNIdGdTRjJ3eUphNFVTcnBFWlVMMlZra19BTWYzejBqVVBuUWRYTDhIeUxDTGY?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-14T10:29:42+00:00"
+      "title": "2752 豆府- 本村炸雞桃園首店插旗統領百貨10/1開幕連3天買1送1 - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSc0xLQnh3VFRVNTI1VzBmclB1SzVxbFdsTnpDV3hxNkhzLXZ6aUZzckgwMDJaZlc1d2tQUEx0QzBvSjdIN25WQ1k1YklkWjBhVlhtNnpVS1Q?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-20T10:30:08+00:00"
+    },
+    {
+      "title": "2752 豆府- 樂麵屋抽「九州來回機票、1年份拉麵」 平日下午送炸雞- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PVWRuMTI2R29kb21iY25KbkZoUVZSeUY5RVowUVpHWGZhNjlSN1VlY3h6MHhTTktSdUQ2amJtSVdiN1Ezb0pfSFdJY3hMYTVaYlh0VXJadk4?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-18T12:51:46+00:00"
     },
     {
       "title": "2752 豆府- 開幕送香炸女婿蛋！全新「日日南洋」進駐北車星馬泰越料理一次包- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SRFFHT3JJVGl0TzZhUTF5YlI4VjRpRF8wbjY2MDUyWkctY3lmNnVhUXpNZThzQ2NSZGFkb3lBQmR5Mko2aUVIZnV1V2dBVUNjb3dqOTB4S2I?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-14T09:08:55+00:00"
     },
     {
-      "title": "2752 豆府- 餐飲業掀跨界搶客潮豆府、全家等推新品牌- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90V19GTXBaR21OcWljMnk3YlhBRmFSTG5jMEJ6TllLWEl3YVdFcHgzbktPd2NhWmlvZUZCQ3Npb1U4eTZDbDVuaFI1cEVjWlNyQjBsMHlEQWo?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-04T07:00:00+00:00"
+      "title": "2752 豆府- 新餐廳「日日南洋」插旗北車！打拋豬、越南河粉套餐248元起- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95eEpDTzVsTnEzUWFzemhSc0tBaXlwOS1QcnI5cHZsZDEtSDNIdGdTRjJ3eUphNFVTcnBFWlVMMlZra19BTWYzejBqVVBuUWRYTDhIeUxDTGY?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-14T07:00:00+00:00"
     }
   ]
 }

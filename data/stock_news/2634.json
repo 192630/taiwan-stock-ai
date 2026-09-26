@@ -1,8 +1,81 @@
 {
-  "updated_at": "2026-09-25T20:40:37.217776+08:00",
+  "updated_at": "2026-09-26T21:32:50.686107+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2634",
   "name": "漢翔",
-  "count": 0,
-  "news": []
+  "count": 12,
+  "news": [
+    {
+      "title": "黑鷹倖存飛官曹進平賺來的人生！率漢翔無人機非紅台鏈衝向國際",
+      "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxPYUFBeWtNdC16NzQ4cTRIdnR4NXdhSERKb3dMQk90Zy1Xc1VybF80R2Z3VktwTHJGN1BqVkNGWkxXbjl2SDh5VXdzS1ExUTd5OGRDZ2ZVUzc5NlFxLTA2NEhTMEN2UXJOYzJSYWl6ZXpvVkVGZzJPeGtHRmJaZXNWY29KOXdfRDlYZTlWdmlDQlpYd1YwWHd4MHpTWnNxZDRhcjlBenFUTEJsNVl3cGtidHNLRlBTalh0M1hqNFV3VXNqSVhjWUlPbmlaR01DQjFIRHdXRDY0cGNzcTI5dVc5UkZWT2xEamVUQ2Jsb3FnYzdqcjBtc1U0NFJzUVVSYzMtTVF2N01JbUdLTmNkcjF5NXNiME5DaHFtUjNjZWhzdGljQjNkeXRjSXdJVHFWWV9lb0VOLTExNkgtbnEzcUp6NFF4aWl3cDM2OEpLWDIzODd3dFF3SEExUUZjc01jWjFfbUxNbkpUdmhvaTdOV01tTlFHOWN6cnBadGFOT3pDZDN0MWNMblpIOUd1RDBNRjVIUDhVMlROY2tGdkVlYUVoT1pIeDQ?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-25T03:18:43+00:00"
+    },
+    {
+      "title": "漢翔搶攻軍機維修商機 總座：明年營運優於今年",
+      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQWnJEejhxMVVZU3dyS05pZG8xV2FiZDItR2lJLWVRLTdzWTBZTHlvS3UtNjh1VXdlVTViSTNVUW1od0cxSXd1SUY2WGRMcFZlMnFGRFpXcl9YcXVxNzU4bGlIQ2d0NGVOaG5tX1pINkp2NHRGd0ZSallYdzNCU1JPR1NwdjhTQkJmOEowcGlIX28tb3I1U3p0bkxLNk0xTTBnOG5nQnp4UGhuOGxZRUk2a1N1Rjltem1sZGlZZjFZY3RVWEJjcXpQOVRGNVhYWmp4Nmo4MkZ5VS10SUhZcV9WNktCdDBid3FjeGZvcFZMSF92WW1SQzJZUzctalZKUjdxUE9OQWhjbWtjaF9yR2hrZEJZeUs4djRpc1ZyeDZmSU04YjhYM3J0elBHWXo3RTYzWWpxWnFHdS1WV0tIOXU4YjNvRi1xZw?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-24T22:33:02+00:00"
+    },
+    {
+      "title": "勇鷹號交機 漢翔拓無人機商機",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOal9jaGNobGRudENKNVBpQlVXaEJjaEtoOUIyUGhhRjR1YnE0TlYzTXpzdzVQX1ZRT1ppXzJWS3I2a3h5NGJEWnJudmtDMnp3X0VaRldjTFJvRUh3OUw2bWxwMl9JNU9VVWxqcXVMX1RoOTRDMXp5NTdUS2tRNjZ3WXd2MjVpRW15aUtnTXN4ZVFBSG1IRDk1OVR6MnFvcnExejNEUnVzV2NTOEZwaTlUalpJTVExcE8wSmp1LVhLU0VsQjE2Mi14N1hKcERYVkRmTUxZb2dnUXBZaUFZNGk3eTlvMHVCaXQ5aUgzeVhsVHY?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-24T20:10:00+00:00"
+    },
+    {
+      "title": "66架勇鷹高教機全交 漢翔總經理：少1架是否補足尊重空軍",
+      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxQejRIVjNPZFQzWWlhZ0k5YS1GbEtRUTFmaC1NbEwxYWFTYmhoemo4M3VvZ0d4MUVCeG9DUVF4dWMwRkdHVmVmby1iZ0dJRXJIS3lONUNVX1FyQzItUVJoXzI0LXdSQS02dUFvVnZTT2U4a2E4TmJFNHBEU05TcGRBZENLRkMzQTRydTdVOTJ4U21FbnR0S3Z6enJoYldwa1E5WW92ZkxRRmR2djViOExNTkdrUUl1d3ZSYXlPMFY4LXQyaTZLWnJ4ak8zN2JWdVktZ0FiLXN6TVktemdvanA1ck4tSzc2bVlsaXBlZ18zT2VfWHFmTTN3T24tVlVFNVd6bHl5dnpPTDBvcXNPcnJxX2tYNjBaMWZUS2ZFOE9BcW1rSUx1eEdrTFZPNC1ueFhBbUxvcktaLXJyTkMtdmRvY1FYUTZQOGFkMThWSU9uQ3FoQUl2Vno4YmQ1bWI3aS1uc3VLaUNueDgzYXlpR1E?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-24T12:00:22+00:00"
+    },
+    {
+      "title": "影／國造勇鷹66架量產完成 漢翔董事長曹進平親自飛交",
+      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNbWhHcnVDOVpBR0xPMzRoMWh3TVdPXzhoWUZhbWpPQUdkNklPRDM5YXRmWlgwUHV6TGJlS2w5aFhtLVNjTTdEa1VFR1ZXVmxnOWxrZ2R3M2d1TG1zRXN0S0ZGeHRQU0VrcVZ1WFJvNTVBWTN3aUozOUloV3ZRSmwyLTlVcVc5NmFzYUJqb3lpT09kS3FUalkzQndEMXA3cGdzWUxVR3hCSkRPLTE5Y05yQVhOdHhMT1VIMy1fOFdzazVaUDdjNjFVRlBFZEJzUDNscGphZUJwQlRFYmZMcVlWTEpLdWdrLXFMZTdiXzZGUFk4WVg4OE5Fb2NpNmpBbTg1b19TcGRlZ19kdXd3WGIxNjNQbHFqcWRPYkxIODhxRWJ1cFdYRE4tSEdvTzBnQUVLdUZ5eXlYU2NOWmVFT3lORG1KV0s5MXhWMkJrV05zZW1semVwYVpPSHhzaTNWZEdz?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-24T10:09:40+00:00"
+    },
+    {
+      "title": "漢翔勇鷹交機2｜持續爭取軍用業務 估後續維保訂單可達300億元",
+      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPLUg3dG1WSVZreFRwWmRhX0c4bzRPUS1pUWZ5OUEybTBBUEJla3hVMHRtVzJNQzd6VjFlUWFGU19YTWpSVmxzRWZVSHJIMEJaR05LdE9XaC1GNFFEeTlDN2dOaWtibEphUDQ3cWpRZDRzeVJ4YWxORmxFWTFjQTU2enBxTldybDdxQzFwS3dOWlR0YXZIN0dfYjlsVW1xSmZib3hIaW90amI2N2J4VXZTZlFaSVM4Q1pFZWx1U09TMEdCVzNhZGpHQ29JcHBLWTZlaXZlYU14YTg3d0Jkc1VOa0J1aDZCbkdZX3FVUHB2RnlBaFptUS1ITzhuc1V5S1ZodVhkaDlxYm92SG03eHktLVRXZ0NqTF9zN242NDdiM3JlSWo2U0ltZ09BYmFneVdHQ1FmVmJoUU5IYklfOWNXT2JUa2J5ZUJQTUVHRndrcGNXSko0dnVISlg2VmUxelhlWnNDUDZRbHhHcjRRVUZ2TDZGNU5nel9hcU1BUUJRVnFrdDJUSXhUX0Y3RWsyWGc?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-24T09:02:00+00:00"
+    },
+    {
+      "title": "漢翔搶無人機商機！美國Blue UAS審查拚在台落地 海外訂單同步洽談",
+      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxQdHFqVkZmZ3FPOEtyblFoakVoTml3Tlh4RE9tSzlyVms4WGNyS3ltQXVNWE1NLU5rblFIajVFMHJadXdBN3dTenRiaWFrWWxHZ19ISEZvU0c0VGpVUjg1RFBnb0Y4QTBuRTNPM3ZWVkstWHNsODNUa1VsZ2pvcFFNZWdaWDlWSnEzMGJkWkNRcjl5Zy1PNV9zbnRSeEJ4aDMyM1ZiaVJscTdmTFg5aDQ0OXY0RUZld2FXTDZSSWJ2NndNY1hJYXVlak1KQ1hfUTNNbHduNnZ6UVUwY3g1RjZYTVRlQmRtN1VXZVZFTjJTNFhQaEE0SUpBRWxHMUZCZGxrRmxiNUxrZU1HdGJhVmZMVzNGeFZtM3lTaVFZTS11bGFBX1YxRlh3U1lmTG9QejV2MEFKcVNoR2hBY184RDd1TjFjNVVSdTdCYlZXZm9adEZUY2E0UGhuWlZSbWpzbDNHRmgtRXF0Ym9McVUzb3RNWFBUbjI2Q1FDNGRDQjJUaTlQSlhvaWc4RE93SUE?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-24T08:58:00+00:00"
+    },
+    {
+      "title": "勇鷹高教機後勤商機逾300億！漢翔提前布局初教機 民航業務動能強",
+      "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxNTUM0SkI0cy1XMDBJdWVlbnQtckdibjFyTUpDTkl4RTZtVlhmMWs1ejhKb1JmNWZlRzlnQmNfdlZTRXdOVktWM2FSSzVuT2Vrb0tMZmJQaEVqTExGcVZFWEdTRUhXeEh2cFRkTXQyNEJiSnR0RzRJeGRqUFplWFljN1k2Zk5WQ3VCeUREYW52dnRxZkVUUHRJNjBUMXF3Mm94ck9xcWdiX1dYUXpDSkFZRzFjNmh3MTV5bV9nRDlMZTBFRkxhOGlPVmRIWEtLS3U2MDN0clFjRGJYUkQyczltcHR2aUtEVW4wZnVJeUJOaGF5RkY2cGpRUF9ITzA0M2Z1cmhlNWptVUN1b2pXOXdxOVZUZWpjVWlpcHFhdWJvQVctVHNrbUh3TUQ1bk5jbUFYVTNSdEJnYnhneDlrQm1hVVFnTno1UWpNTjB3UGxBTi1qT2IxQlpULWdoQTFscFpiVFkycGV0dXc0c0EyeHFYenFrcG9VRXVUcTQzNGhMTFRiNlNpWlI3aTdkcklOVUh5bkgyejRWUlk4Z2F6Tnc?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-24T08:43:00+00:00"
+    },
+    {
+      "title": "【有片】最後2架「勇鷹號」飛抵岡山 漢翔66架國造機全數交機",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPTVhGLUQwaXFmVE5hYzh6YmRFb0dGY0tGOGVEbUo4UkgxVmQ1YWdCTW5hN3Y1U1VOQ0ttS2dRdGJLWDhFQXJDNDR5R0xJSC1KRlFvcnROUU1xX082XzNPUmhjZWxCR3kxWW1WRy1DZlVSOHdQMzNUWFhPcEMtNDNzMm5kdjlQbVJhTnhQN3hTOTdFN3JpSjNjdTd5UlNfOHRPV1k1TFZvUUw0OFVfZlhadlUzWUl6NEg3eWVwY0JIb2FQT0xwRk83YzBzZUFOdFBod0ttYk1mRjhoZy1PY3l2d3pDMW80cEg0alREQ2p0WXV5TVl1eEh4NU0zaDJuYWxCSTJLX3RBdllvdVFVWVUwX0FGdjloOEdPY1pmdm5CNTEtSERPWkpXSEVyeFBGZEpvcE1GWWluRjlCVURtdnB6RWxFbjBvc0xZSVdN?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-24T08:19:00+00:00"
+    },
+    {
+      "title": "漢翔國造勇鷹66架量產完成 將展開全壽期合約",
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPTnRMd1VGWk80bjZJNDJiUVVRNXpwVzBsY0lEMUxsYzBrRVFEd2FTT0twUFY4ckNOZm44VHpMdkloaVhWQkhKdzdVQU8tdEVkeGtFYjUySGpZWGlFeGpSVDl6Nzg2SExEY0szY2tEbVVJZXUtNmowN28zWGFZM2Itb09iWFR5WDhpTkctWUtUX2VRcXlDdTZCdVYxeXNCUGFpTTR2Z0RGRC1qd2lfbWlpWnpzM0QtbUx0bjhjQ3VycnQwaUh6Zzh1NEVEZVl0T2MtMzJwd3BvYk9yUFZkTFFST3JwcWswUnp6dFJqOW1IdHZEbXZLZGViS3ptNzlsWDJRdnBFVmpUMThKdUJxcmp5Y3ZBMXJjcE5aTnhka3BvMWdtTkdrNjVQTjhWM0FzS0I5OHJJM0MyQzdSWFUtazVOZXRuUQ?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-24T08:17:15+00:00"
+    },
+    {
+      "title": "證實MQ-9B無人機維修「由漢翔負責」 總經理曝未來發展：將在無人機有較多琢磨",
+      "url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxQZGhHdE9Lbkl3NzFKWWpHcmNJMXJDcnRTUkg0NElqNHRxLVRMSjlJSzY2Q3dkd3JncVBybV9KM3VoRTdOTjluSG9OTGliWkZ0TmFOd2tDNkdCYVllUU5GeDJhQWMyWlI4N3BIWnBXdFFvQ0RMMjkzYnFvbEo5VmdxNGtFQUdZeHpWdlJnMkF1clJjbTN5SEp1QWNaNElzRmRTMjFfYXJLZ0JZdVRBaXNsLURPVGprd0FTSDVnZ1Atb21oQzA1dG5zSV90cHE3Y3dEQkpMNFhIWVo4NzRUMWxVZ3NqQWVsZWJnaC1hTnYyQ0thcGZaNlFnRFNyb0hrelpoRnZoRHNtZGVBR2VMTmNObVFnWi13SWF2eGMyNG1uYklGb0c4bVZwSnVQUGRId0haMEtGVjlrTENJaFBzTUxPOFdaQkg5MzdHSTVSTER3d0kxMUI5WjlwLURZRENXY2toRUlRVGhLdG1lSVlBNGhDN0E2Q3VJREZ4eGE4MHQ2T19CbjhsMDZyQXlrQWdzanhfUkxwR2ZLclQyVWw2WnZvcXNxSXRtMEVBb2IxVC1SemVpc01WdGpqbzZaMTZXb1MzeHp5MzN3?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-24T08:12:09+00:00"
+    },
+    {
+      "title": "漢翔最後2架勇鷹高教機交機！董座親駕飛抵岡山",
+      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNUlRkR3d5WlQ4cFJRQlE4SDZ6YUlDTy1XZDV5RUlwRXp0blZ4VWhuaVQwR0VTdk5CT0hsclk5akRCWk1tNGxDazZUcHo1TnZpUlYySUlRaXJYZ1JucnVpakp2U3lueVVCaTZnMVRBVHBZZE9uTlVuOUl1b014c0YwN09DNVVVZUlHMkFsang3NXlXZWdyelU0S2s3aGxJZlJjSnVUdFljdXJuMUd0TVhzek9KZEFwcFZocDZPcXRpU2NneklrQmJWMHdpeWstMnZYRE5jYlRVRjhBbjVwRDNFUTU1Q20xNFd6a21MUTVTaWpxQVpxTTNCVWhmaUZYSkZscExWY0xMTkl5NDJZcmZOUmtqM0RlY2dFZkJyV0FSNGN0b2FXSDFJNEU2Wkc1dldCZDhiUDhqVzBvSWN6UnZ4WmtVak0tQQ?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-24T07:59:14+00:00"
+    }
+  ]
 }

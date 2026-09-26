@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T20:40:44.069222+08:00",
+  "updated_at": "2026-09-26T21:32:56.604011+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2706",
   "name": "第一店",
   "count": 6,
   "news": [
+    {
+      "title": "SGX美元/離岸人民幣跨期2701/2706 (UC2701-UC2706) 期貨",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hMmNNblYzR01KbUd1NGZYXzAtOE1RTW1aRzBPX0RLYXBHcHdUSTByV0IxaThGWFlWVmVSQnZtZ0oyeG9sVmFURFpOY3psMFRUYXBMeHlmamhsR0dISzVzX1ZR?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-25T03:36:52+00:00"
+    },
     {
       "title": "A50指數跨期2611/2706 (CN2611-CN2706)討論區_期貨評論_交流社區",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wdnFJbWhJOElPVXJyZGl2d2c1U0xzWDdDX0NudV9RdTNVU3YzY1hkZFRMajVZTWZvdWlnUFk2azJ4VjMtakZMRklUM0RobGVqUVdVSmJlZjdjaGItMm9uSldVX0NUUkNmUWdTaWVNOA?oc=5",
@@ -20,12 +26,6 @@
     {
       "title": "歐元跨期2706/2611合約信息| 交易時間、費用",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92YkZYa0FrWHZEQXRvcmg5SFNBakNwVFp3NmpBRWlSbTgxZ2xWTXk5V3p4NEZfZWNEbkMtajVhemlHSElURlR4X2xOZTZiOWNLa0ZTUE91enhxY0U5MFVvSDVxYTljTXJhTEtMZzRUXzlKX0dRb1E?oc=5",
-      "source": "Moomoo",
-      "published_at": "2026-09-11T07:00:00+00:00"
-    },
-    {
-      "title": "日元跨期2706/2611合約信息| 交易時間、費用",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpUGNYczBDZlRYUzJ0YTBVcWdlVGF2eUhTdDhPaXoyOEh5TXRlMF9hMWFkVUpkTTZ0dUxQSHhHWC1PeHQ1RS13aW4wTkZiNklyOGhXMW5CTkkzR2pQaHNBUDRTOGJ3M0dhalAtSno1M1JHWEF2Umc?oc=5",
       "source": "Moomoo",
       "published_at": "2026-09-11T07:00:00+00:00"
     },

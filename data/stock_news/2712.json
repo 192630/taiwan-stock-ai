@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T20:40:45.100268+08:00",
+  "updated_at": "2026-09-26T21:32:57.524318+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2712",
   "name": "遠雄來",
-  "count": 2,
+  "count": 4,
   "news": [
+    {
+      "title": "WTI原油跨期2712/3004 (CL2712-CL3004) 期貨",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KSmxuY2RyTVU4RWpRWXhwYnNsVy1wcjJCNm03Tm5YTHFBZ3BJbXYyVUU3a0o5ZjJ6cmNlRFo4NkJRd0ZuMHZ1eER4NkJiSFBkNGV3VXVPTGV6NFppdC1uV3lR?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-25T03:47:49+00:00"
+    },
     {
       "title": "羅素2000指數跨期2709/2712 (RTY2709-RTY2712) 新聞動態",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZzJVWTlGQVgxdzhsc2w4eEZ6SE8wdkYwTHN5Q1hoNWdzcFg3VWE1VnFIYUJjTjFzLTJVWG5FMUFJbTgxRFdqaUFuQmlTRzR1ZjhBX1A4b2Y2aVRBUWFQX285WkQtalptRFd2RjF1QklUMG42Si03RDUwRTdpNVZpOEtB?oc=5",
@@ -16,6 +22,12 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMkd5TjIwU3pEUDBReHFtN2ZsYVVTSVA2b0s1WDdmSUFKZ3dobTB3Wm1DaVY3SE1CQjY2cUhZdDV4c2FUeWhMa212NFIza0lOUGozQjJDWDNEYUFtZWdrQXhBOHU4eWs1MGJIZjh2c3J2OS02QUVOYTJIQVBqY1hhNXRONFRVSUJN?oc=5",
       "source": "富聯網",
       "published_at": "2026-09-17T23:32:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】遠雄來(2712) 八月營收月增9.96%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLUpuYURqTGlXSS1rS3lxRHZ0LURyWm9lVm9qZUVOM092REtoSXhaVlBhZHppSEF2NWlhRWNhdVViczdFZHkwbUNvcndWNHhfZWJmUHhFaW1WQVdqN1FXUEUtc240MDJBeWlheEhOMmlQdnIwU1RlNVN4MmtOUWlKZnlNbGs0VDE5VWc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-08T07:00:00+00:00"
     }
   ]
 }

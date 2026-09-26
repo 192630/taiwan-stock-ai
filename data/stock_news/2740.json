@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-25T21:35:32.299295+08:00",
+  "updated_at": "2026-09-26T21:33:03.619509+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2740",
   "name": "華軒",
-  "count": 2,
+  "count": 3,
   "news": [
     {
       "title": "台美食指標第六屆500盤！ 「晶華軒」四連霸奪13盤摘冠",
@@ -16,6 +16,12 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOekREa1dSN0djNWgyc1lCcXhGOXIyaHdHclcyZi1kUUhGU1hQTzBDWVA5Q09oM3FxellmTjdKa2JDVF9qSUNYSjI3bjdIVVNEZmwxcDVxTFlCX25NZWxWc0I1U1E1Z2haYU15aG9xLW5SQURtbzN0c0drRVdZYnpmSFJ5dm1MZmY3Q1E?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
+      "title": "米其林雙星聯手！晶華軒迎香港「都爹利會館」客座 9道粵菜珍饈上桌",
+      "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxQNUdxYThJZXlKUmZoM0NSWVl6LVpSOWpkeHhzRGJBM2FoRWVBU3htZ2dZc2ptOXRwdDJMdGZtdEZSUGtnZ19WWFJMblI5M1JDX2VPZXlDT1FIdFpCbWsyUnF2Y1FHX0pMd2l4d3pqVWZRRGNWRzNOQVYzVklvaEZIQVl4d2N0ZzkzbDYzM3VYdFNseUFUQ2VINXRTandSem1ZTlIwSTFqN1pLcEpsWlFOYk1aWDgzRlZ0elpDNElXajFsaktKT1NQakd6UjRkbEV6WkZVQzJXRDh2VG5UQkxVMHljbDJrNkI3dmF4R1piZFI2cTZSekJOM2tXNlJMdlVQR3JSeU9SWHl3NVVMYmpXaVZmbDNMaUtHUW5uUTdPV2M4dHphMGJ5S0hINjA5Rk1BRmJqZTF5czh6TDZJMVlXN3NPNS1YMzJ2UzhpanNrV2JMR21XQ1BHM2tmZ0ZvcEpwa3ZPWmQ0UG1EMnFQbEYwSVRQZHVGRVRDenVtWmR0TlVvc3pRaDNRX3psTFNZNExjUnl3VkU1YVBsdVBNUkE?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-08-28T07:00:00+00:00"
     }
   ]
 }

@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-09-25T20:40:28.728667+08:00",
+  "updated_at": "2026-09-26T21:32:46.449261+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2612",
   "name": "中航",
-  "count": 12,
+  "count": 9,
   "news": [
+    {
+      "title": "鉑金跨期2612/2810 (PL2612-PL2810) 期貨",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaZW82VllBczJ4TWxxZHlHSkR6RUZpSlZTT3dfajNfU08zWEhZRHk5TkRxZWI1WXdMQmJBTnFhZzRvVzFhZDRmcDNlVGpSRXlDclMzc1hueVR1V2p6ZXhGRDBn?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-25T03:38:02+00:00"
+    },
     {
       "title": "New China Life Insurance Company Ltd.增持中航科工(02357)1687.6萬股每股作價約2.96港元作者智通財經",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3WGFJLTE2NGFOUS1DRllLQk9yNHZXSm5fQ3BRTHRtN25kRXlWZF85S1o0UUlBTHJ1UjNTTjdPTDNZZ1RaRzlZcE9sQlhUOWliWEF4ck1QcHhwVFlVX2Rrak1UWUZwblhWYnA0OHpOdEU?oc=5",
       "source": "Investing.com 香港 - 股市報價& 財經新聞",
       "published_at": "2026-09-24T12:26:48+00:00"
-    },
-    {
-      "title": "$納斯達克100指數期貨主連 (2612) (NQmain.US)$ trump 將讓做空再次偉大",
-      "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxOaFAxdjV6Z1YwWUQ4SEVJSDZESXlPZnNFMHNseHNEQmRZbFptN0czOE0wS19SRG9TTmhiRTU5QVF5RXpvMDk1N0QwZjRLT2g2dlBuQUR3ZEtRdXRETkNVQ0VfcG43VnRGUlZnZTVncU1HSHl1S3RVTXpGRE1fT1RHWkVfU2NGOEI5NHl3WDVmNXA5QUxWOGJOcG5SU291T3ZrNjc0UFlKNmdpVDY0U01Td2dkaWtIcHh0bWx0SlB5NkU2UDgxelhWYlRQaGlLaXpjbEtEZGZsMlZXSG9USUtQdmc4V1JVTVFJZXVicFRNeVk0MU9vOXduQ3Z3dGFIUE4zRDZITk5GZGNaem1zOEstODJGWFFOdmJaQ202WUlUaHNFaHlFRThaVHlnTk9YMmhqWl9KWUdtOGh0SFM3UXdmd0ZucnQ5R1ZRamk4aEFmU0JxN2hLdTF4YmhkYi15Uk5KNlhXSGJrTFR5Tkc1cFhFZlJvbjZVT19ESWFtejRva2RUeDEta1RwWUMwdw?oc=5",
-      "source": "Moomoo",
-      "published_at": "2026-09-24T09:55:36+00:00"
     },
     {
       "title": "黃金期貨主連(2612)期貨價格、走勢、圖表",
@@ -42,40 +42,22 @@
       "published_at": "2026-09-21T12:46:49+00:00"
     },
     {
-      "title": "港股異動| 中航科工(02357)尾盤漲近4% 埃及航展催化外貿預期公司爲全產業鏈航空科技平臺作者智通財經",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5objlEb1VPNTJEVGJrQ3hOZm9GTmExY3NBclpYYXJuMXJJaFN1eFFORjNubWZTYjMtLWlrRGkySzY2MkxaVVZZM0d5ZXpLNURaRkdfSVZ2ZFVDSUdfMmZvWF8yZmtMWENudDA3Z3QtT0g?oc=5",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "published_at": "2026-09-21T08:24:18+00:00"
-    },
-    {
-      "title": "2605 新興 - 新興是台灣唯一VLCC現貨船營運而裕民與中航長約4-5萬美元- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ReDlyeDI4YTNUUjFRc1FoWW9xd0RoVUpRSEkyY0ZOaVlvc0QtOWtPMWlzQmZ0WlFtMkpoaXN5SHh5UXQ4Ykd6WU83bVBwNXJFSjRfdGt0c1o?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-21T01:41:33+00:00"
-    },
-    {
       "title": "TWA00 加權指數- 大航運-115-0918中航法說會觀點- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Hc2xtc0xvRHBLZWVhUmZIWEcta21PSGFHX09aRFMxRkhIQVNnTS01QlZJeUZyaWJLVkVMWFF5cFV6UGx0ZGRaMGhNemJuemhsend6QWVvUDA?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-17T10:57:14+00:00"
-    },
-    {
-      "title": "加元跨期2812/2612 (6C2812-6C2612) 期貨",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBabVI2UVNrc2VPYlNvQ1NpQWdlTDNfNlNHd21yTG90MXFMOGZnc3V3WVdtUjRYOXQ1MVdJaDNsYjZmNlNSV3N2NktGdjFOUUtrb3FCRTE0dkh0dEhpY3dIa1NB?oc=5",
-      "source": "Moomoo",
-      "published_at": "2026-09-16T12:30:45+00:00"
-    },
-    {
-      "title": "2612 中航 - 中航訂9/18召開線上法說會- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0OG01UWRIc3F1YV8zVXRqMWR1YTNzWldZZWZaalRHdVNGTG5UalpEcUVldjdpMU9MYjhUS25Dc3h3WXNqY1NOblhLbWhyZTdFdjlUdHZsYjk?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-16T08:50:38+00:00"
     },
     {
       "title": "$布倫特原油(現金)期貨主連 (2612) (BZmain.US)$ 黃金空倉了",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRVJ1emJHX3h3cUllTGt6QndVLUQtTnIxbU9Mb09YVFk1SkU3TEZuNERvMjBuTGVpY0tRTVR5TmFlY1BZc0piUkktOVpqM2wxSG13anY2ZlhzemZsY0ZRd1gyR0N6LWI5ZWYzZ2tnVlE1THdqU191WG5qbmN5SVVJNlZYWXBHT2VtbFJpQkViMnk3LUJxaENZN0pZZHRxVXlSa3BHU2FJUzFBeHZPTklTcDlCdE8?oc=5",
       "source": "Moomoo",
       "published_at": "2026-09-11T07:00:00+00:00"
+    },
+    {
+      "title": "$納斯達克100指數期貨主連 (2612) (NQmain.US)$",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaTZKZ1djaUVjX19XRkZheGlWQ21TWWQ2Z1FaM0tJTUpTN1MtcGtlaFJRNGZRaTI2ejduVTdJT3ZrNjlCOEY4SFhpQ1JUSlZvMU5tdlI2STdZeEV3NWQ5R1JXTW5FcVpzMDN6U1BCSTltSXNKbmJmbXc3UjdJQnZ1ZmtKOEUxRXI4UFlVYnpIa0tMQUV5dlBTZnAzZmRNREV0?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-01T07:00:00+00:00"
     }
   ]
 }

@@ -1,8 +1,15 @@
 {
-  "updated_at": "2026-09-25T21:35:31.153701+08:00",
+  "updated_at": "2026-09-26T21:33:02.719651+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2736",
   "name": "富野",
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "title": "中央地方聯手振興國旅 花蓮富野三天兩夜0元入住再送600元券",
+      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNWTV6djlIeHUtRkJKdnNaVjVLci00ZXZTTWtPM3FtZzJ4Smt0ZWpYcXUzdFpNQ2MwdmszRnEtNVNjcEdnVUNmVGdhZHdIZHB0T3hpdGtlWG4wbU9RUEdQVTdqR1FZZU9iWVNvRFJCS3FPNUg3a2VOX1NUMGQyOGhOdFY3MktzNVhqaXZvXzJjSjhBdmRPaV8wRFF5UVBGRWxZRTV6c2llamRXbUt2WW92YlJ0NktLSTgtWlVHUkRsWVVSakRER3VjQmpNNEIxQUh1MHcwYlFNS0NacjVrZnA4VFB5THNPd1FITzlnYUN1ODZTYkJpb1RaOTRSWW1ZRW5jX3FkRHkxV3dCZDI4Ry1CanRpWVdqN0hHMEZfWmcxZmRfRkRpUkRJd0NqdDVidW80aEo2Z21YWmpobjVuT1dOVDVpNlF0Z2t0T3I1Ri1rX3BWdHE3emJtdzRsZ05fX2c5NWlLRWNLeXZNa01QRmZHcnJ4UlAxZmdpMFpHdGZ6d1J0bVJHVUE?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-02T07:00:00+00:00"
+    }
+  ]
 }

@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T20:40:43.603562+08:00",
+  "updated_at": "2026-09-26T21:32:56.192567+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2705",
   "name": "六福",
-  "count": 10,
+  "count": 12,
   "news": [
+    {
+      "title": "LEOFOO DEVELOPMENT CO., LTD.收入明細 – TWSE:2705",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1VZWkwMXM3THNJWU1VOWZMc0pJdnQ4VndDRmhySFhPT19Cb1J5cTg0eHNEOHZXMnNtaHI2cWNRTE1OZVdmeGw0RVRrV0Znd0gtVWlaU3Z6c3VSZnlEUmpxYlRMY1FiQWR2UXVqOXlVV3dSUVk?oc=5",
+      "source": "TradingView",
+      "published_at": "2026-09-24T14:12:17+00:00"
+    },
     {
       "title": "六福接待史瓦帝尼代表團 深化台史觀光文創交流",
       "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxORkRDcVU5QURHUzVzemY5QmhQNWhhckpyQ0ZyWC01Rnppd2t1a2taMkRoWi1ZcV94d3pldXNHZE1jcEgwb1lORGs5NTlQc0xfUktGSEt0Si13eUQ2UjZQZ3Q1TExsTUdzTVpxdDVOMDRZeHBfN01YUjNuczdHSXR3ekVlWDNTT0JaT21OcjZvYlc4RE1VRjVnQ2tmWEVRTW4tUHVDYW1MXzZ1T3pfREdkWnVOYklzaU5abVVGczhsRl8xbkdTbDY1dWI4aUtQaXJWTUVMOEJjd2JKR0l6cWxHeC05b1NBUVdHUmszMVNnQkRpajVyZVRyOE9NbXMyTGMybFVhQ1psczVVcE1lTmxMZE1meGZ6VDhQZXpwdTRCS1VES3hFakVRQzlBbGxRMkJNVktDYzNIcnVnMjBwVDljaVQtYzVJM0o2Ujl2MEhNdjlzWGRnOXREaA?oc=5",
@@ -24,12 +30,6 @@
       "published_at": "2026-09-17T08:10:00+00:00"
     },
     {
-      "title": "六福珠寶首度進軍英國：倫敦史特拉福西菲爾德購物中心店舖盛大開業",
-      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNX1U1VlFVMzNGcnJwRHJ1YTVaV1lmZW8yWTVScW9Ec0lsbENHS0JPeFFDRjFUT2tKSXM5aW5pbzdHS0NncE94S01lc2hhTUMyZ3QybGg4elNsZ1AzVEQ5UndLb2JNbWRnYWJScVJzWVR2aS05VUluUE5kOHBwY29CS0lZY0phQ254NTF6cGlWejZtVGhuZ2FUaGw0RlhpTHRubEdfV2tjT2YtdkYxSnpnNXVLUl94MmZaeGFTdGlkZG02c0VlWkRDcjlNcDFGMWRQY0tabjBjWFpiSmJTWnVXWmc4RXg3ZlpqaWlHb1NMZXRQVnZYRU5NZGFJYmEtOVlnaGJYSXRwNDI4Zm15T3BTOUxfZ0V1VXo2Ykk5aW9FNVJQTXlyZXVfTDBvR2sxTDlqWnNBelF5b1gxZnhOSTZJbTBYTmhwRVlkZkk5Tmc3ZDdnVjIwckhDSDZEZVBGSmZjUXJRVGlONTJkdw?oc=5",
-      "source": "香港財經時報HKBT",
-      "published_at": "2026-09-14T09:39:00+00:00"
-    },
-    {
       "title": "六福旅遊8月營收月增13.69%創今年新高 六福村旺季營收增38.3%",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSLWNqMWM0bHpjT2RwejNCUElZNlhfanRuZ2FuQ2xEcXA1VTluZ21RXzdmUng3YWR1alFCWVVRTktfSmp4Qk1KcGw2ejRnQ1hlVjgyaTVMTlRfNTRwQVZnNnZ1NWk0dm9UWTRSdFZrbw?oc=5",
       "source": "理財周刊",
@@ -38,13 +38,19 @@
     {
       "title": "2705 六福 - 六福H2整合多元事業資源，冀穩定提升營運- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85bVpJdGxFLTZnU1lVRHJJZ2syMjVQaC1hakFBMEp6czlMenhXaUZLQXM1Qk1YTzEwcDR2bDlleFR5TDVZT21nWFlPbVAzdzZrcHJwY3hGSjQ?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-14T07:29:30+00:00"
+      "source": "cmoney.tw",
+      "published_at": "2026-09-14T07:00:00+00:00"
     },
     {
       "title": "六福於英國倫敦開新店 (18:39) - 20260914 - 即時財經新聞",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWVh3dmFWZGdWM25BUDRzV3BBRm5TcXBEQW85S0RuQllUQm1IT0VyT1RaSklxZ3Faa1AwWXNsTkVXak4yeVJOMVIwbk1LdHBrd2xaa0h2WmlpQlotaEtJUi1KWS1UdFNub0dGNlBsREpUNy01Q0pVNTEyRXE2UEcxckRKUEF4NkVPaUtiZnFYOXNGWjdwVFc1dEJDbjZ5QmtKVC16T2pUOWVIMlhpOFFjWnhQRHVhcHpxdWZqYXJTRVBNYlhxei1fLS1LOU05RkJrMFVac0twcnB0YnRjbHpGdy0xRElTak02MWc?oc=5",
       "source": "明報財經網",
+      "published_at": "2026-09-14T07:00:00+00:00"
+    },
+    {
+      "title": "六福珠寶首度進軍英國：倫敦史特拉福西菲爾德購物中心店舖盛大開業",
+      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNX1U1VlFVMzNGcnJwRHJ1YTVaV1lmZW8yWTVScW9Ec0lsbENHS0JPeFFDRjFUT2tKSXM5aW5pbzdHS0NncE94S01lc2hhTUMyZ3QybGg4elNsZ1AzVEQ5UndLb2JNbWRnYWJScVJzWVR2aS05VUluUE5kOHBwY29CS0lZY0phQ254NTF6cGlWejZtVGhuZ2FUaGw0RlhpTHRubEdfV2tjT2YtdkYxSnpnNXVLUl94MmZaeGFTdGlkZG02c0VlWkRDcjlNcDFGMWRQY0tabjBjWFpiSmJTWnVXWmc4RXg3ZlpqaWlHb1NMZXRQVnZYRU5NZGFJYmEtOVlnaGJYSXRwNDI4Zm15T3BTOUxfZ0V1VXo2Ykk5aW9FNVJQTXlyZXVfTDBvR2sxTDlqWnNBelF5b1gxZnhOSTZJbTBYTmhwRVlkZkk5Tmc3ZDdnVjIwckhDSDZEZVBGSmZjUXJRVGlONTJkdw?oc=5",
+      "source": "香港財經時報HKBT",
       "published_at": "2026-09-14T07:00:00+00:00"
     },
     {
@@ -58,6 +64,12 @@
       "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNQnVJVFJWR05BLWJnak5SRmM4WDVQMl9sdkpuXzRxblp5cEY5a3Q2TUUxb0JwaTJZWkZYdXctVENnNWdJekpoUTcyNF9GLVA1UXdjOGh3aDFsLVVBdUNuelMwOFpVYk1ReXZ2S0xtVVc1TG9KVXd4TEF5NHJNZXU2YU4yU0lWbDd6dGg0dkNoam9NaF8xTnZCV3B1elg5b0VfQ1NVcC1HQUs1X0RsNGRuYlB1Q0hPRnpYeGFYN1NYV3d1YmVITEx5QngtendXSUtoOWJDemV2NXBsRnV5NTc2N0o3Qzh5Yms0TjAxeDBEbUZNelVHS0MwZTNQdG9ockM3WlYxazVQOFF5NEpXcDh1Q1JxV1dOMXMxcnVmSHZoSFRxYlJkdU1qTHNicw?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-13T07:00:00+00:00"
+    },
+    {
+      "title": "六福越南胡志明市新店開業 (16:40) - 20260907 - 即時財經新聞",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQWnVnbVdqUW5FQ0R0NE8zaEVmbXFneU1EUWxnNWVFcG1lZTdXZzRnZ0FMdGo0dW5LMmJKUkNFbjk1UWVXV3lCUGxyMm10a1cwWU1QeFBEcTAyM09jUzFWbFl2czhuV3ZQX1Bva1ZfVGlTVUFmLWFoOWNxNGRkNUVPWHg1aEdyNVBjem1oUGdiNjNhUm5nRndBcTVfdk1VanVGcmo5Tm1PSm9DSE5iWjE3dzJ0N1VoUTRRaWgzem1GQUZESVJabkE0YnctSmwyVGlndTlsLXJPcEJWYUpGUk90RUlIaks1Z29EM29iMThnRDF6Q0t5T2d2Z3FIRTJVOTVqYkE?oc=5",
+      "source": "明報財經網",
+      "published_at": "2026-09-07T07:00:00+00:00"
     },
     {
       "title": "六龜高中獻「六福」迎新生！6份巧思禮 開啟嶄新學習旅程",

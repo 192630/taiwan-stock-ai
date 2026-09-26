@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T20:40:42.013303+08:00",
+  "updated_at": "2026-09-26T21:32:54.815888+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2701",
   "name": "萬企",
   "count": 3,
   "news": [
+    {
+      "title": "鉑金跨期2612/2701 (PL2612-PL2701) 期貨",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PcGhNdWNxQm5ySXRLVGVPWEswYUR1aFZBclNZZzhLUm1sZ1QwZFZZWGFZZm00RTV4dXgwRGVNSDl3dnJQS3hWOE5pblFyc3Z3b2FnT3o4QnFiUXJ1MHNQNTdB?oc=5",
+      "source": "Moomoo",
+      "published_at": "2026-09-25T03:33:07+00:00"
+    },
     {
       "title": "BTC 破 8.6 萬企庫扭虧，Strategy (MSTR.US) 與 Strive (ASST.US) 逆勢加倉 作者 智通財經",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kdUdLNWtUT1RTM3lKcFllRDdDVHIySGc1TUJTalh2SGdtV2g1YnBMdUhfYU92LW5qZFcyeFhfZjk1d0wtS1d4QTU3ZG8zaWdkZ0lRbk9NY1pwV1BDaWVXTUFDdE9VaGhMamtrVmo4SGQ?oc=5",
@@ -16,12 +22,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oT2FrVjF3ZDdEaG1ETFN3R0wwOU50SldZdEkxRlktTFF5VGV5cmFsZmc5VDV5VU10LTlfVjZvMlViTnZCaEw5bUM4LWZ0U0k2MzZRV3dJMVRMb2tIUzI2UGd3?oc=5",
       "source": "Moomoo",
       "published_at": "2026-09-13T07:00:00+00:00"
-    },
-    {
-      "title": "英鎊跨期2702/2701 (6B2702-6B2701) 期貨",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZSUd5WHBPcEVfMHBxemtPcl9zZlI5WlRMdFN6Y2lmNG5TdTZZUFItOHAzWU4tMU5IUjV1R2llVTJSSkV3cUl1aFFwbHRwdHM0Rks4N2phZ1NPZWdhTkI4UnJn?oc=5",
-      "source": "Moomoo",
-      "published_at": "2026-09-11T07:00:00+00:00"
     }
   ]
 }

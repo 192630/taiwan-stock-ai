@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T20:40:22.648130+08:00",
+  "updated_at": "2026-09-26T21:32:40.907952+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "2547",
   "name": "日勝生",
-  "count": 4,
+  "count": 6,
   "news": [
+    {
+      "title": "「聯開之王」日勝生靠永春EAT成名住戶卻爆：隔音超差| 生活",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE12YlJrTGl6bE9aYXNOdmNJcW9mRGlBWW16a1p1QWxMNzlTeUc5ZFJURkFKeGF6cnRzdHVUZmltTkt6VnBkZVE?oc=5",
+      "source": "三立新聞網SETN.com",
+      "published_at": "2026-09-24T23:06:41+00:00"
+    },
     {
       "title": "彰化縣首件公辦都市更新案 日勝生、中華搶開發案",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96TlFPMFNjcFZJbUpObVJwRUZpNllwVElqQ0hJU1JMYWk2dHJzNUJHUWFqdHhmNGdLVC1lOUdEcEQxMzFWMmtSTjdRYTBwTjdka1VuWmhlNC1NQdIBX0FVX3lxTFBHdjhxMVFHOEtOSlZ2MVpnQjVaMmI2ejBfLUpIUTNVYThQOEJTTk54TEJ3S29DMkRfeXFlZ0VnX2N4WUVDWHFYUU9ZQ2hQUzZ5aURSTzA5WjlFNHYwV21B?oc=5",
@@ -13,21 +19,27 @@
     },
     {
       "title": "彰化首件公辦都更案「黃金帝國」啟動招商 日勝生、中華工程有意爭取",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSSEthanByZ2FXMG5xLW9WZ3Yyc3BpYlZlSGFxYU4yTlFXS2VDeFk4Z1RqM0FfWlE0VXN6eWFuR3F6VE5iUmhUYWlfRlpNTGhLb1VobmFyQXU?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-21T15:32:19+00:00"
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BOXlqcGxmanJJWGhvN3RkZ3A1a1VUZ0NUWllCaVhrUWFLbHlEQ08yLU8zVjNjWW1IWWZiYUZuZ0tPZWlYdzFoZWFNRHFpMDhoeElObDVyUWI?oc=5",
+      "source": "cmoney.tw",
+      "published_at": "2026-09-21T15:36:54+00:00"
     },
     {
       "title": "美環保署參訪桃北再生水廠 與日勝生交流智慧水務",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqX1RoRVFSY0lxTkdtRU9MdmY3V1JkNm01dENteFJMWVpUVkJBQUtLMkRFd2VwYlpUSzhYWE5NX2FrcGxvNXNIU2RBMU1PS2hxdzByaV91Vmk?oc=5",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "published_at": "2026-09-18T01:53:14+00:00"
+    },
+    {
+      "title": "美國環保署參訪桃北再生水廠！日勝生分享經驗 啟動故宮無障礙建設",
+      "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNTnN6VV9sMXgwSnl2RVNuc2Fncl8wMkdpVmhNTVJmNVJjN05rNE5xdF9IUzctMnMwdXVvcW5DX1JNX2NLdGFRV3ZfZWJxYWU4bGNqdG90cHFZeGU5ajR4WWphTEN6UUYxT0lwanlCbzdDWklUTTdlOEotSW5tSURkUWcxVHpsWWZhLWhaVmllNENreUhPV1pKWGoyMW5CYjdWdS1sSms2Rld1ZERtZkdEaWRzOHdBZF9iQmRhNzlrMVlwUmpJWmJxZWotWkJpZ2VaLTF2VkE3T0tKMXRELXQyajIzeHJVWDhTUzRTSWJHTXhWeEFveVNjODBtYVNqeF94VDFWdXZLSWhrcnVVWWdNeTcyVEZsWW96SzlfRVNVUU0yWDB1bENBMXRyWWNWdHpLajM0OWJScXJLU204Q3ZFMkdCREhnYUlxVGJRN1pZLUZKYUpTVFRiWDJXUUIweTVQQVdHdWNjQ0RIeVRGVVhrSV9UdWFjWXZ5bnk4U1k1Nm1LcU1BWHZxbHQ0V0dRU2Z0bno1RUgzcFA4ZVd5Z043OGNVckFXekV1Tlk3Q0d0d19tZw?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-17T07:00:00+00:00"
     },
     {
       "title": "美國環保署參訪寶鼎再生水 日勝生啟動故宮7.2億元無障礙建設",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPUWxoQmZjZ3ZDdy1vaW1JTkQ3dHJybTlVYTBzMDBNSXpIc0xrZFUtWlJTaExpWDM0ejQ4UnpOYkxVSzh5aUhmMUVtYjZXNnFN0gFWQVVfeXFMTk5qdDc4VUJudjYzdFRhaTVhdmZJYmR2cXhIZk5lVVdzUmlaZ2lnZ0NKVnpBYUpwV1AxYnZlVEhQa1pvVkN4ME5LdEpQYWlQcHE4OEtMRkE?oc=5",
       "source": "UDN",
-      "published_at": "2026-09-17T08:28:13+00:00"
+      "published_at": "2026-09-17T07:00:00+00:00"
     }
   ]
 }
