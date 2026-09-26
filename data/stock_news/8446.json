@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-25T13:34:37.013526+08:00",
+  "updated_at": "2026-09-26T14:38:25.861195+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8446",
   "name": "華研",
   "count": 12,
   "news": [
-    {
-      "title": "裕同科技(002831.SZ)擬收購子公司華研科技34%股份 作者 智通財經",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tcUJGaEY1YmpUc1V3MnRNb0F5aC1FU0FYZm9DWHM0X0RGdTZfbV81TGQydWpkdXhDa2t1TnIzY3kwLVdBSWczc29IUGhhRy1FWVZNVE9sUFJUczVKSXhWN2Z1a25oelZic0w5eWk1Tl8?oc=5",
-      "source": "Investing.com 香港 - 股市報價& 財經新聞",
-      "published_at": "2026-09-23T10:56:26+00:00"
-    },
     {
       "title": "裕同科技(002831.SZ)：擬收購華研科技34%股份",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BWGo4MnpLUldwNkNadU5nMFRGZFc2aG52MDV5dC15eElKd3FsS3dkeHlfYnFtZ3owRW5IMXVUbkIxVTNxMlZzY01ob2F6UTlWa1pOVHJIUHJpRE44?oc=5",
@@ -36,21 +30,15 @@
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
-      "title": "討論牆 | S.H.E歡慶25週年「世紀合體」露曙光 華研唱片回應了",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rME95RGpURTJKOFA5WlNnTEFPN05fWXBUVlRTRm10LTNWUm96dHNqSnBvRXRucE5WWU5LRmI0ZmN0TWdZTmdueXdlSkh2NkZsZW9CTlRtQ0ZDMDh3S2JTU2Q0NVY?oc=5",
-      "source": "LINE TODAY",
+      "title": "S.H.E出道25年！華研破冰給驚喜引粉暴動：我的青春",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOeExOQ0JPWTJKOVE4NDBLbGNrSjFxV3FoUFFpSVh0ZEw5RUlFR3lrM2hxM2RSTFZ4MjF0STZUVl9qb0t6czBNMk1VZTlWS0E2RDFuSEh4Nm9abmJudjVJOFlKNkI2aERYR3lLWmg3TzAyN1UtRGpzNjRnTDFwRVEzZTU3dFpRNUlhTmhpM3NEMzhUc2JuWjQxX09NQ20xZ3oxVEc1XzZCdnp2ZGJFODdySlZFYmxmcWd0Z2NpakI1SFFYUlB6a0w3eXZGcVdrR3FYYVExd0ViSmxQX3U3Mnh5dFhEY280S3U2NUNiVjh1Wml1cjgyRTJJd3B6TGRoWUF0ZU42Mmg0WDFXYXNKUE4zdjYxTzRncXlpWm54cF9FSWhKWXhEZ2puTTJodDFEWnp5WUVzaw?oc=5",
+      "source": "Yahoo新聞",
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
-      "title": "S.H.E跟華研破冰！合體計畫回應了 Selina神隱半年淚崩",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zeEJsZ2gyVXNwYVNvVXVaQjloSWZjREVMbkJFdHhtemxFY1BhYXBiTmFtY2t3U0szbnBIaTlJT1pOWXJ5TEI2ZC1FNnUxcHk0RnBKNnVDcUJ2ZFBZcWRPR0tR?oc=5",
-      "source": "TVBS新聞網",
-      "published_at": "2026-09-11T07:00:00+00:00"
-    },
-    {
-      "title": "S.H.E歡慶25週年「世紀合體」露曙光 華研唱片回應了 | 自由電子報",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yQjk5a0VESV9KMzVUNDhOWUFSUDNCT09CWkFEY0QtbHJDMmppM3JvMFE3N25RYjRxSnEyekIzbkRpZHFxYzdsenJTWmpDRlRqeFNtOXNR?oc=5",
-      "source": "LINE TODAY",
+      "title": "S.H.E解禁了！接力慶祝25周年破冰老東家 華研回應合體計劃",
+      "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOckYtTnMzOF9BQnhGdjh1TC11TzJwdzVkcGV0aGRPUGdTZWVzREc0R1gyZW9nLU52M0V6MGJ2NVFqdjhaTS1WYUxwcjFmeU8tYXRHQ0xvOXBpWC14QWVqTVR6MzdQMGFtN29kUkMyY25iOEdUdW9YSlM0bUY1VExxYy0xYkMtTGFsTEFwTnRhU3FmNERPaDcyZDV5azJqRHN1TnRoVkxPd0M2OC1ZWmV1MGZiMHNrSFhUZXJxcWU2QkIxOEVYWGdiem8wTHM1dG1EbWV4d0xacXFxa0JwM0lCREFNenRPR2c2NUNBeUIzM0U4NUpFVXVpamJXU0xqaHlRMWRKSXdGa052RDJ2X01PY04tZUVaZ09tdVlvV2hzYnNMVFgyZVJjU3lKZ1ZBSkR3NXlfcVNjc1YweWZQeWd6NzBlVWU0c2ZCVjVjQXNDc09tdE5PZDJ4Vk11a09lSVhsUHpybA?oc=5",
+      "source": "Yahoo新聞",
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
@@ -60,9 +48,15 @@
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
-      "title": "8446 華研- 華研出手破冰S.H.E 田馥甄、Ella回應了！她親手信曝光- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jNmk5SC1sMXdRLTlzc3lYbmUtZ1BJMko0Tnk2VnhPRTRVbEx5aUhkd2xpUUstT1F2MVo3SXFqYnc5MDRGaEQyX3hsaE5zVURKMC1EdlVELUU?oc=5",
-      "source": "CMoney",
+      "title": "S.H.E成軍25年 華研破冰解禁青春旋律",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOd1FfUHFrbUFRLUpudjhTSFoxa3R4a3BfRC1oSUpjX3AwNDNhNER1dmloYlFnNmRIWmg2NmJRSFRuS1JfZWpDYmJyNFZ1LURDdXFxMHQySF9zczNibUVsVVdvc3ltNlNjVS1jZW02QWlhRXI0VDE3U0ZlQmtzXzhqRWcxM3pTTHZ2d1IzSWtTd0pTU3ZSQWRES3JFd0xFd1FJMW0yQURRRXhTRGVaVkJWbHc2c19JN08wUlZLZ01CZkRXNTVyRklwNWEybG9icUpnandvN3ZoWEtFZFN0Q3ctOEZLc2kyM1dTc01ndjAyb2ZoaHlEd1FN?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-11T07:00:00+00:00"
+    },
+    {
+      "title": "討論牆 | S.H.E歡慶25週年「世紀合體」露曙光 華研唱片回應了",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rME95RGpURTJKOFA5WlNnTEFPN05fWXBUVlRTRm10LTNWUm96dHNqSnBvRXRucE5WWU5LRmI0ZmN0TWdZTmdueXdlSkh2NkZsZW9CTlRtQ0ZDMDh3S2JTU2Q0NVY?oc=5",
+      "source": "LINE TODAY",
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
@@ -72,8 +66,14 @@
       "published_at": "2026-09-11T02:31:57+00:00"
     },
     {
-      "title": "S.H.E成軍25週年與華研破冰！Ella率先發聲 社群留言感謝一直都在",
-      "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOU3R3WmpQZV9VbTdxYVRyVmtiZm5KU01MeG1fZ0ZuQXhMSU14MUhZdWFuU2FSeVZuRnlVc2FPLWdxLUw3QnZzSmZLVXc0MS04a2Z2cnVyQVlwRjdWdUlvLTI4cVZTQzFFY0NHUUxWa1VFSkFWa2FoUDhLQUNNRmRJR0pUWTJreVRYMm10UnRPcHBkY2FiNzB6ajVkQTRORVFzRHJCazYyZko5bThDLUJFQmVrYmw5NzJ4LUl3akh4cGxrU3pwT3g3NHpCdmg2VEpuTnJTNmttWm1HT05EQ0RtZC02RmF6RDRZWXU1OW82blNnSkZEWWN0enFRSGwxbm4wOWJZX0xRNHJRUG04c3VJT2JrRzNRSk44ZW1HdWp5MGo0b1BwS0FNZ1dhT1hpTnVBblBxXzdjbEdfMGVFVlFqaGVWV0ZaZG9XYW5FYTktanFrVkE3dUNiV0F5SExBU3BvbWJKTjJEMzJLNW8?oc=5",
+      "title": "S.H.E前東家華研「深夜破冰」！成軍25週年祭大動作 攻大巨蛋再露曙光？",
+      "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxNMHU0WGVrTlpUanRvMy1LbXpfS25kWFdtWUJPRWdXN3E3RHRneTJHeUoyOHlmcnpSVndsMEZsTU9nZThXS2Qydzh5WGV5d0R3b3Z2dE5ubjUyc3VoMTBXaV9ReEJDT1Q2cDBCaWVIbDl0TE9EVGtEdm9sXzVsNUYzYmdzUTlzb0RDYXJZSjJfVnVMOHNPWHRNSHRxTF9KMjZyUFVVS1o4UzlYN2JDalREcW1JTmp1ekxBS3V1NEsyT1RkVk1ac2dzU1NUSHhSVFU5cERFTGg2Wl9rMENWUE9MZ3JQM0lhVm81ZEFlSUc1ekFFQ2tleU5iZlJIX0VXVUNJeHJkR00yVVZGUml0TGtBcG9pYzk5REFWRmp3WUYyYmVHYUxpTkd1cmxJd3dxdXpQNm5wbG9WSWo3dkI4NDF2Q25jRFdBSkZXM29mNUNYWDl3RVRtYWUzMUNUa2JHRW54VkMzdllUcjVRdFpsZk1DYjh6cFE5MEZjNGEwUUp3NTZRWE9PREt6Sy1n?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-10T07:00:00+00:00"
+    },
+    {
+      "title": "S.H.E成軍25週年！華研破冰送驚喜 粉絲淚求：拜託讓她們合體",
+      "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPanBXc01qTU5JcUZRTTBYUVlEcXRtUjVRXzYzRlJiSDhYLVZqeWt6M2w4U3ludkFqWF9DVjVTTF9yNmpaQ0FNdkY1YktNSmhwSmZjSUh5YklWalFUSldUaXRoWnBNa0tLNmRDdkdzMHJ6b1lPNEp4VUxrOHU2XzFNOHZnSXlhYnFQNzVER0RkUURUWnRETjBHYkJwZEEyN2xHUFJsbThMckxpdWoxdWtldXR4dElldjZzVHcyTmxWSTE4OTlTV0NxWnNXREFZbkJRUkZrZnNWNmwwdGZUZEtYUUMwdk1rQlpsRURJWTVlNkdlWGQ5Q1JEcFpLdjlWcFQ5eFpfMGlGZEJWZHNwN1hYNGoxQ3NmWEh5eDJLYk52Vkgtd0llZkZrdDgwWUxpZGhpSzhTZHNSRDlUc0xqdTByTjk4UnN6Y2QyTlg1ZGhFV0xnNUVFb1BtNDhzU3k3cjNxeWVuQVNR?oc=5",
       "source": "Yahoo新聞",
       "published_at": "2026-09-10T07:00:00+00:00"
     }

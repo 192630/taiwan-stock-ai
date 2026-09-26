@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-09-25T13:34:39.255155+08:00",
+  "updated_at": "2026-09-26T14:38:28.215814+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8463",
   "name": "潤泰材",
-  "count": 1,
-  "news": [
-    {
-      "title": "《業績-其他》潤泰材8月營收為5.94億元，年減1.61%",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcDlkVXVQSVNIU19RYjI3d3B0d3ZucVRsSnFpTHMwbnBJeGdKT01lMkpxRzQ2M1ZTbndFLVVBS3ZOSTlrSUNSN2VrYnJFaDhRMG5ndDRSRC1VQTlPNXlSY2ZqYkZQUF9SckgtMVcwRnI1S2o0R05RZndYNVB5T19NNVZvY0U4TVNI?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-10T07:00:00+00:00"
-    }
-  ]
+  "count": 0,
+  "news": []
 }

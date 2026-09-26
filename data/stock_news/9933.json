@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-25T14:40:34.184136+08:00",
+  "updated_at": "2026-09-26T14:38:57.792656+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "9933",
   "name": "中鼎",
-  "count": 8,
+  "count": 9,
   "news": [
     {
       "title": "中鼎集團獲APEA「年度企業領袖」與「優異勵志品牌」雙獎- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xX2Z5bUhkZG5DTlZzX1B5bnhDYVVLdmtsd2hoZFlKaFZtRDBzTFVwM3E5bHRHcnVmQXVrQzJMWWJ3Y1RmXzEwazJPb1NoM0FfcDctVVdfMi0?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-20T06:07:42+00:00"
+    },
+    {
+      "title": "中鼎工程機器人攻LNG管線 推升在建工程近5000億元",
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxON0pZM093VUpXdk5qdlNZendwbmtGdnNJR0F1QkpEM0llZ1M4UWxOQmNMeHZSX0JPUUhGbnZlS1VfSXRyYXNkZ3JxVkxENFp0b3NBU2plcDdhX1VVUms1UG5jenRTa0U1QkNZX21rb1VQY2pLVDlpajlvTDVmWElKNHhsNE0xUS1nd1pnaTh3RkdnaUdBWkctZ0c2MlIzTFM4OS05LUlmbVlEWWtKQU8xUzBVRUdJeks2RjVSZ0M5Z0tfV1l4dEFuVk1KLW54R2JJNi1YUnFBTHgwTHVTSXJtUEJwdm1JUkxFVG1iQWJram5jWXZtcC0tY1lFWDVNdFVhbFMyZF9mZVp3bkxrX3cxRGpiV0E3TlpzOEFPb0I0U3J5UkpfQ1locTdkTFNpc1JSaWhxanJkMFhlRUlKLTNOeElR?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-18T10:24:52+00:00"
     },
     {
       "title": "9933 中鼎- 中鼎-2 - 股市爆料同學會",
@@ -24,10 +30,10 @@
       "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
-      "title": "中鼎KD交叉向上- 日報",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16MzI1SjIwLU5hdEY4eDR2S19PWWV5LVVSYlQ3V1VmSGFPYzN4SXMzU3I3dXRpYXNzMkh2XzFGVXo0TFgwSk9PRTdUdjFLTVJUT1hIQjByZk5GY0E3eFdZ?oc=5",
-      "source": "工商時報",
-      "published_at": "2026-09-11T19:00:00+00:00"
+      "title": "熱門股－中鼎 KD交叉向上",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfRjB4YTJraUNUdUQwZGZrdmFjUzZROXBieHctcDYyU0NoNVFIUnozRFh4VXFfdVA3QU9Oa19Gc0UyQzZtUzNnQXREMHQ2WldzeUhJTmRKN0lwQjloeDNQNWNuajZZdWJGTGs4?oc=5",
+      "source": "中時新聞網",
+      "published_at": "2026-09-12T07:00:00+00:00"
     },
     {
       "title": "【11:20 即時新聞】中鼎(9933)股價上漲至41.2元，受營運走出美國投資踩雷＋技術面多頭結構支撐",
@@ -50,7 +56,7 @@
     {
       "title": "盤後速報 - 中鼎(9933)次交易(8)日除權息0.95元，參考價38.8元",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KREpxQWJ6bHJHUlA1eEFZVHNiaEhZbzhrbnZyLWl4SVNhb3M0TzNpR3VTMWFQeE1aWFJTWmF4YXJWYnB6aEw2MzZTckZTWkgzSnh5WXdJbnlmMUx5NUxFTzVpbkwzUQ?oc=5",
-      "source": "tradingview.com",
+      "source": "TradingView",
       "published_at": "2026-09-07T07:00:00+00:00"
     }
   ]

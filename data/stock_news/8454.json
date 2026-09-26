@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T13:34:37.983267+08:00",
+  "updated_at": "2026-09-26T14:38:26.926226+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8454",
   "name": "富邦媒",
-  "count": 11,
+  "count": 12,
   "news": [
+    {
+      "title": "富邦媒(8454) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42MDNpcUlFOHFvRVc3Wk10UzlIM2VWQWd0YngtY0NFSVZUakRZYzY3RWVYQUNfRlMtN203S2xTOHlRcUllMl8wSnpaOThzOEVGMVBF?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-25T00:47:18+00:00"
+    },
     {
       "title": "個股：富邦媒近一月桌機、遊戲主機銷售年增逾4成，AI、高階顯卡成換機新關鍵",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcU5ZcVRqeW1QZTNkRmZqd3VneWFFeU12Ym9Kbm9rZW83VjZSYXpadW9ocXNDTFNMaTVJel9iTHpYbnRXN0xaZk1vSnpmREJJNUhRU3c0SVpzeVdQN0Rxdy1TS0FWdklTME9NWWdtMS1QSWtCYXViM0RBbUJyM3VVcld5SFk0ZUhY?oc=5",
@@ -20,7 +26,7 @@
     {
       "title": "富邦媒啟動供應鏈資安聯防",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBDT3lPTW5FTVZ4VkFPMEJkZnpRVFV2Rk9INFVlcEtiSmVVWmVpOWhPS1J3d0pCMGcybnpuVlZINnBvNjdtal91eFRra0tMbFhj0gFWQVVfeXFMT0d2UGVIbkUtZFBTNG11Q3JaSG9aeUFLNk1WbDNJTlh6SGZhNTRXQUZJWjdxSVp4QTlXeVVhbnp0S042OVJBTV96WV9CbmthdDBzeldDVWc?oc=5",
-      "source": "UDN",
+      "source": "udn.com",
       "published_at": "2026-09-15T07:00:00+00:00"
     },
     {
@@ -32,7 +38,7 @@
     {
       "title": "富邦媒設日系雜貨通路",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ydXkxbUR6dHk1MnlQenFPeExRQm0yRHh2d3ZWWG53X3VrMkJfQTVtend2S0ZtQWZuN005MGxKZzNPTlpjYmpXeTd3V2NCU2ln0gFWQVVfeXFMTk43dFRmM1kwanBzaDNfNm02Z0JjMVZyamIxaVhCbXpTbmQ4YVRocW92eEFmdHpscmo2TXNHSlZPU1pzVTJIOXBTRUZiT3NobmJIU2JGd0E?oc=5",
-      "source": "UDN",
+      "source": "udn.com",
       "published_at": "2026-09-12T07:00:00+00:00"
     },
     {
@@ -48,8 +54,8 @@
       "published_at": "2026-09-11T07:00:00+00:00"
     },
     {
-      "title": "最強8月！momo富邦媒營收91.5億元 年增7.8%寫今年最大增幅",
-      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOM0VuM05OWldQZWV0Zmpxb2FpUGVUTU1KXzdsMFpOa19JcWpKOUZreWZXb0szc25pdWtiWDBzYUstNDRkSkJtRnNNYVVkY2E0aXkyYWZuMzEwZlNJcU5sWDRvZmhiM2tSQ3BVRUgwNS1BYTFod0Z2U01ZdXNRNGFzX1NCMnc1dU5HbFJ5bWx3Z1hUOGZLU0FMem91Q2NQSkhNZXk3Y0M1ZURKb0NWVHVxVFJvU1luM1BldFlOREJfZUdMZmpOa3V6c0lzYVl6R1VfbjE2N1ptTE9FN2NTeEVUVzhLMldXUm1uaHRGWjNIalA1Z0xNQnROd0t3Z2JKMFRIODJ5RkR4VGdpcTEwSUgtQU80R296TmhJcGVuZzIxRExZc1d5b1Z1STJfNFM4OUtkcjhBWjNUX0pRVjFsQkUtLUtrb1VBWVpncDE4RGNacE5ONHk2d2JMWHBn?oc=5",
+      "title": "富邦媒8月營收創今年最大增幅 談電商競爭轉向二大趨勢",
+      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxOenNVMHVFYlgxZF9FUVdPQ0wwVWtSVjhzV25scDVOWnJtb3FubEQ3RUVsNGI0OFpRS1JfSkxkTzhDMTUtZDR0VGQzZVRrWnVaVEhkRUFfRjFLcEhRSVF1VlNld3Y1c1gyZURmUmNTbHVWQ1FOTHdZamNzWm9CWDA3d1JCYzNnNEpKUkEtN3VnYVduUUI1alRTYWlEcWpCS181V0tXQ0RRSzJkWXAwYWZzUlgwMEptTkdxQml1Z21OdTQwQk5ZNUl6Um03UkVObUk3TEI3TFp2UFE0Mmo2S2JfQlhmNXJycXRWNXFlUjBwUHk2ekx2VU9pYVZTVjViNXRGQUpfMFZoZEdIMkdzVXdjM25XNWJnX0E0alBMU1NBU21UUHBwRjJSMXV4QjJ2UXM1RGk5eGQzazVvUmZ5MS1NbmRNdmJBbGJuOW5QaE9EcmVyR3FvVHdLdWowdWhGNGdDN01hZ3JNN05tWmNyX20ySTk2bWo2amhzMERGTHp3?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-10T07:00:00+00:00"
     },
@@ -60,8 +66,8 @@
       "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
-      "title": "富邦媒8月營收創今年最大增幅 談電商競爭轉向二大趨勢",
-      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxOenNVMHVFYlgxZF9FUVdPQ0wwVWtSVjhzV25scDVOWnJtb3FubEQ3RUVsNGI0OFpRS1JfSkxkTzhDMTUtZDR0VGQzZVRrWnVaVEhkRUFfRjFLcEhRSVF1VlNld3Y1c1gyZURmUmNTbHVWQ1FOTHdZamNzWm9CWDA3d1JCYzNnNEpKUkEtN3VnYVduUUI1alRTYWlEcWpCS181V0tXQ0RRSzJkWXAwYWZzUlgwMEptTkdxQml1Z21OdTQwQk5ZNUl6Um03UkVObUk3TEI3TFp2UFE0Mmo2S2JfQlhmNXJycXRWNXFlUjBwUHk2ekx2VU9pYVZTVjViNXRGQUpfMFZoZEdIMkdzVXdjM25XNWJnX0E0alBMU1NBU21UUHBwRjJSMXV4QjJ2UXM1RGk5eGQzazVvUmZ5MS1NbmRNdmJBbGJuOW5QaE9EcmVyR3FvVHdLdWowdWhGNGdDN01hZ3JNN05tWmNyX20ySTk2bWo2amhzMERGTHp3?oc=5",
+      "title": "最強8月！momo富邦媒營收91.5億元 年增7.8%寫今年最大增幅",
+      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOM0VuM05OWldQZWV0Zmpxb2FpUGVUTU1KXzdsMFpOa19JcWpKOUZreWZXb0szc25pdWtiWDBzYUstNDRkSkJtRnNNYVVkY2E0aXkyYWZuMzEwZlNJcU5sWDRvZmhiM2tSQ3BVRUgwNS1BYTFod0Z2U01ZdXNRNGFzX1NCMnc1dU5HbFJ5bWx3Z1hUOGZLU0FMem91Q2NQSkhNZXk3Y0M1ZURKb0NWVHVxVFJvU1luM1BldFlOREJfZUdMZmpOa3V6c0lzYVl6R1VfbjE2N1ptTE9FN2NTeEVUVzhLMldXUm1uaHRGWjNIalA1Z0xNQnROd0t3Z2JKMFRIODJ5RkR4VGdpcTEwSUgtQU80R296TmhJcGVuZzIxRExZc1d5b1Z1STJfNFM4OUtkcjhBWjNUX0pRVjFsQkUtLUtrb1VBWVpncDE4RGNacE5ONHk2d2JMWHBn?oc=5",
       "source": "Yahoo股市",
       "published_at": "2026-09-10T07:00:00+00:00"
     },

@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-25T13:34:45.266449+08:00",
+  "updated_at": "2026-09-26T14:38:34.167158+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8499",
   "name": "鼎炫-KY",
-  "count": 4,
+  "count": 7,
   "news": [
+    {
+      "title": "鼎炫-KY(8499) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nYURwb2xjUnpzVU1vN1IyMUhKak50YWlTWU1vMy1qSHY2UmlqdHNRNENQbXN2Y09BYl92N3FFa3paX1psZ1Z5eW9EOHhsaDJoWkZF?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-24T03:56:19+00:00"
+    },
+    {
+      "title": "鼎炫-KY：隆揚電子臨時股東會通過德佑新材二期資產置出相關事宜議案",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrSXNaVVgyUVp2TXVRNV9YRG5MaG1pTV9YS29lVHhUSUZja192WmJrbjlHZDdnQXNTQkVyTXhKUlA4TzNjZnBXbjhxNDc1VjBuNEhRZUw1cHo?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-23T01:22:46+00:00"
+    },
     {
       "title": "鼎炫-KY 代子公司隆揚電子(昆山)股份有限公司公告處分收益憑證",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wTWtYelRTZ3hVZDVCT2wyc1p4S3I0V3JRc0d0Q1dEQnZmdFZnQTVZdTJzT1dHdDZ0dnZFTGZLcGI2LW5IWkJLZTdvNW92WmlTTUFuY3gtUmg?oc=5",
@@ -12,15 +24,21 @@
       "published_at": "2026-09-10T12:27:35+00:00"
     },
     {
-      "title": "鼎炫-KY：資產出售案無重大影響；H2估優H1",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUkpnY2x0Q0xiSG9pOGVnajBFNU9JQ0VsM3NweGl5RzFXME9HdzlzQUo3Z1N4Wlpha2J1RERqQWVjRTRJbHJFQ1NWaFRDRGk0cjhfTnZoQWVZazZBcVNyUGdSeGNBUmNJWm5BNFN6dm1yTmpyOVdVMlFIbGtZSXdXYTc1ZGR5NGtma3lRNm84eWV0UQ?oc=5",
-      "source": "MoneyDJ",
-      "published_at": "2026-08-27T07:00:00+00:00"
+      "title": "【2026/08月營收公告】鼎炫-KY(8499) 八月營收3.72億元，年增91.24%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVXYycVJKSjE2SGRISGY0eXpnekxrbHdlUjVjT1NKMWtoY05CaU03bUQ3NGRxRDliUXBSSTZ2aS1zbXpTaEhlZXktQzJhaU14WFhHYU1JQnludW01Z1plU09Zelk3bGhZOTVfQVRLazNBdEZYMEd1eW9PTEwwU2ROdlEwVWVheHRQMEE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
       "title": "鼎炫-KY子公司出售土地廠房 處分利益約867萬新台幣",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40Mi1HOFNDVDZEWW9UczhWOE5xdEtvUTRwbnRDLUVCb0F1eWRGY2REekE3dDBWMjRxZlR5QlpNRlVhNTlIQWxvLU9wbzVMY0V5eDNCM1pxV1BhNWdub2ZJ?oc=5",
-      "source": "自由財經",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3ZTJnS0FFcVI2cVlUZDBXeTNqRFpZX09Mc3gxd0k1MVVBMDE1YWJQZ3ZablBCWmNlVEZZNy1oODN1eXhnQ3d2NnJCM3hmd2psX1BfQkdKeXA?oc=5",
+      "source": "自由時報",
+      "published_at": "2026-08-27T09:36:53+00:00"
+    },
+    {
+      "title": "鼎炫-KY：資產出售案無重大影響；H2估優H1",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUkpnY2x0Q0xiSG9pOGVnajBFNU9JQ0VsM3NweGl5RzFXME9HdzlzQUo3Z1N4Wlpha2J1RERqQWVjRTRJbHJFQ1NWaFRDRGk0cjhfTnZoQWVZazZBcVNyUGdSeGNBUmNJWm5BNFN6dm1yTmpyOVdVMlFIbGtZSXdXYTc1ZGR5NGtma3lRNm84eWV0UQ?oc=5",
+      "source": "MoneyDJ",
       "published_at": "2026-08-27T07:00:00+00:00"
     },
     {

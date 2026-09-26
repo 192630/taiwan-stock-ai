@@ -1,10 +1,22 @@
 {
-  "updated_at": "2026-09-25T13:34:48.386101+08:00",
+  "updated_at": "2026-09-26T14:38:37.366545+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8923",
   "name": "時報",
-  "count": 6,
+  "count": 8,
   "news": [
+    {
+      "title": "金融時報：歐盟促英國調高中國汽車關稅- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSaTBZaXBSelU4eU43VmN6YlZQSi1oeVNCU0pPOGNnaDZHb2hqZ3lFN2JITDQ1cTNWaC1tTjlnLVIxdTVVY0xRZ1lUVllPa243aGpLbFNqNnE?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-26T02:52:30+00:00"
+    },
+    {
+      "title": "【即時新聞】最新宣布！紐約時報(NYT)維持每股0.23美元季度配息，遠期殖利率達1.44%",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdm1DUFo4ajFYUm9mS3ZKeUEyeGEzc1pGcXVNZzlUeHJ2bGRvYkxvbV9ZZkJYcWtneW1DV0lUZnBVNUdlWllVaklsbkNDNDgwZV95di1VVGFjUVpkOEQ2TWY5Q3VDWWpuUkdKaWVwOGN4cXhnY1huUko2ZGdmYTNiWTgtdjhnS2Nrd0ZRZXM1QW8?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-25T21:41:56+00:00"
+    },
     {
       "title": "TWA00 加權指數- 工商時報晨訊- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHUHQ2ZTBzQlVpTGI4d0xiN0ZnQUV3S0l5UjZ2TjE2NGpwc1NncFdnOVEwZlNkdXhDc0dDTmNzZ3VfaXA0WWhyZm5mcVM4VDQzbm9Na3VvVkw?oc=5",
@@ -24,6 +36,12 @@
       "published_at": "2026-09-20T17:29:59+00:00"
     },
     {
+      "title": "科技巨頭倡議放慢AI 發展，環球時報指是冷戰劇本- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WVlkzQ1BDVWtxcENjVXcwVkFCQ21GYXo1ZlJIQjhXRzBndHh4R0h3a05TTUY5OUpWYUtCRlFmNkR1NVhvSVFOZnJQWXFxS1U2SkZrRnA3M2I?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-15T01:23:10+00:00"
+    },
+    {
       "title": "新興股票基金吸金全球之冠- 投資理財- 工商時報",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14cEZGV1puTi1MNXRWOGdJdUhqaHVFdW81dENfZmFiNzVCMmU1bHExSEVsUHJqVmZqN2Z4ejFYTlRpVnRtVFhrYWQyTHI3dG94aVpkQngzVldTcUZyTmNranZrdmU2Q2pFNjk0?oc=5",
       "source": "中時新聞網",
@@ -34,12 +52,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCbU1DREhLTF9IYkZvSl9sbElRN3Q4QU1ILW1jVURwTllnaHRzVGJ0TFZtVUhXNlBDazNsSGdPeVI4Y0hnNm9OOFFsSHc1Q2pweTFIaEdPZVk?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-03T07:00:00+00:00"
-    },
-    {
-      "title": "2515 中工 - 資料來源：工商時報 https://share.googl... - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jelRKQjVCMFdXMXhUdVMwbnBDN3BPOFZRQUVKVnhYUnBId1RMTXEzM2Q1Q1JrcTg0N1lZX3lNZjItNURRclk4SlhTZ2J0WnNJellZX3RqWTg?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-31T07:00:00+00:00"
     }
   ]
 }

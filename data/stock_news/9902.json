@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T13:34:58.548670+08:00",
+  "updated_at": "2026-09-26T14:38:47.751219+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "9902",
   "name": "台火",
-  "count": 1,
+  "count": 2,
   "news": [
+    {
+      "title": "【2026/08月營收公告】台火(9902) 八月營收營收雙減，年減81.59%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYkJ3Ml9LeThDczlfb2p6anlmU0VCRF81MTFYdV9OT1Awdzh5eE44WWdYeE5uQTRBYndwb0hpMEl6c3pRZkJ2OC1aeFBrMG1HZWprYVlwTFcxZzgtQWtTNGFPZ0o5QjE4SGF1U2JaUVV0XzFLVXJHSVNZWXJTVkVYOVlLdFladEpLcUE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    },
     {
       "title": "9902 台火- 股市最新爆料，掌握股友們對眾個股股價、技術分析、新聞的第一手... - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3d3Q2MXkwbEdHdDBlSU9jak53dE5UVnNHbTk0RzgtUnYzRFRpZGtOOHJtZ1hCektIeW9FNF9MMDhYeUVUTTVqaWZuZEJ4RXYwUy1XdzlmOU0?oc=5",

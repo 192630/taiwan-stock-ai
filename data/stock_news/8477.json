@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-25T13:34:42.340513+08:00",
+  "updated_at": "2026-09-26T14:38:31.254468+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8477",
   "name": "創業家",
-  "count": 6,
+  "count": 5,
   "news": [
     {
       "title": "卡達商會在杜哈舉辦女性創業家對話座談- 新聞與統計",
@@ -34,12 +34,6 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX3JadTdtVGVKYU9mM1Y5anlqWHFsTnVYSWVzVjhJTEl0RDZGb3lJWDBzajUtMmFuSHh5QWJ1NE5ZSHFmVktrMzktanFGUEpLdW81V3ZIT1ktS29Xd2VmdV81NEFsQVh4ZGhqT1FRX0E5NG9LTWRIV2ZGQzdMQVlVOWVwaFoxMGhCZUE?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-09T07:00:00+00:00"
-    },
-    {
-      "title": "8477 創業家- 創業家115年8月營收2451萬、年減3.78% - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0VjZlMWQxVHBaWFRLQWtpQjB2Tkpqa0FDRWZZV0c1cnk4RE94T2M0WVJCNzFGVkloYmdFNmtva29XV29JbkZJNzVtWXFZUTBVOWxVY0ZQWVk?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-09T02:58:01+00:00"
     }
   ]
 }

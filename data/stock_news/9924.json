@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-25T14:40:29.651038+08:00",
+  "updated_at": "2026-09-26T14:38:54.229309+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "9924",
   "name": "福興",
-  "count": 6,
+  "count": 7,
   "news": [
     {
       "title": "彰化福興婦人落水1小時後尋獲OHCA送醫搶救- 股市爆料同學會",
@@ -12,14 +12,14 @@
       "published_at": "2026-09-17T09:55:00+00:00"
     },
     {
-      "title": "影／彰化乳牛節福興穀倉熱鬧登場 鮮乳品嚐、DIY、親子闖關趣",
-      "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQUk5qWFZZZVRDMlIxUzNxLTN0SGxYdnRoTkotZm9JYjB2enBEZ2xMeE4xbUlPcXZtV0tRYzk1N2w3ZG52LW05TEJRTTVITWQzZUcxMzR4T3BmQVlnM3Q0U1RXa3lUVDlueUN4NllKV01XM1lfalFZTksxWjMwdUJMbm4tYUl0QlJaWTBBaEk4eUM4WkR6X2hIcHh1QUs0U3E1cXk2OUVKbENYbENNREFwTklkY1hUb2NUZ3BoS0d1ZlhZNk1PMFhxV2pVTVRZamFKVU4ySzBVZkVqQ2VPYVFrNEFjXzNFRGphYzJWazdhQUVHbmdUTVpTaFdOQ0l2MC1Bb3dKUXIwb3lsb3ZXd2tqc0FIMkZtUG5iNDlEU2lJOHppVnFySGVYd1hmSXBqdGxmblNJeWJlY0NWTmE1S01kWWFTTjU0cWRTTFdIVnJ4MkFjSW0wQTlQcGVDamNaRFcxUFhTdUNDR01xUWs5a0NBRw?oc=5",
+      "title": "2026彰化乳牛節 福興穀倉歡迎全國民眾來共襄盛舉",
+      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQMjdlQWZ4NWpJQ2d5WkNvNzdnaFA1MmozSnBQd3hWakRxZUxQV0NRUG5nQ2lSaC0xSGI5R1JTazJibkZnZlU0SF9WVXZzTGxlcm1RUFhST25aaEViaFhDSFJlTllnRy1TZk1LLWN6bFBKMUhtNE9JRzN2UGhUS0s5MHFPQ3hjdHQyNk1mTnFjS3djNXRzV0tCcldDMy1HRktWeDRIQ0F0dGFGdkRnS2pJOE93V01fcGJZQURJOVJlZ2RpS1lUT0FPYlpWYmd2WldwWlI4UzdUeGVyb0pBSTFsMDdDal9xaTZ2a1QyTXVTSFY4WVp1MmtNZURObTRsejBuWkVsZ0pvOWNoUVBuVjFEdkl4dlFzWEY1eUg4bmVqZ0UtV3hYbXgyQWJnTFhncXhCX3RZSXQ5SktyREVyT1M3UXJrVm9XZFJSZFE?oc=5",
       "source": "Yahoo新聞",
       "published_at": "2026-09-12T07:00:00+00:00"
     },
     {
-      "title": "彰化乳牛節福興穀倉登場 國產鮮乳免費喝",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQSENrQzdhSVByMGo1dlp6NEVCamp6ZmRvRFhzR1ZxMDlvRm1ybG9GX1ZDWVdFdTMtSThMaV9EdUhiSktWSEZRYWdKRDRZaGpLOEw3WC1tTmhCNldZYnFGYjgxMGFtRXR2LXgzZVhHbWFXVklHak5uRFphYkVKU0oyMTNTVW9LUlRYb3BFc29NcjlydkV0UFVrakdEYnBGRXRyd0FnRDF5OE1jczAtemJ6czA4SmRNalRkNTJ3Um4wTGpuOXJZMzNCMDJLLUpkNGU1R3FZZThNMEptRXNXRWJOQ3FXblhqdGFYeU5ycjZ2ckNBSjFoaHdVRU1JSUtFdFlzR1ZFQ3V0T2tvTmp2R1N0a010SkxJcEFoV2FUeTgzSm1oanVkVUV4N29wN2g?oc=5",
+      "title": "影／彰化乳牛節福興穀倉熱鬧登場 鮮乳品嚐、DIY、親子闖關趣",
+      "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQUk5qWFZZZVRDMlIxUzNxLTN0SGxYdnRoTkotZm9JYjB2enBEZ2xMeE4xbUlPcXZtV0tRYzk1N2w3ZG52LW05TEJRTTVITWQzZUcxMzR4T3BmQVlnM3Q0U1RXa3lUVDlueUN4NllKV01XM1lfalFZTksxWjMwdUJMbm4tYUl0QlJaWTBBaEk4eUM4WkR6X2hIcHh1QUs0U3E1cXk2OUVKbENYbENNREFwTklkY1hUb2NUZ3BoS0d1ZlhZNk1PMFhxV2pVTVRZamFKVU4ySzBVZkVqQ2VPYVFrNEFjXzNFRGphYzJWazdhQUVHbmdUTVpTaFdOQ0l2MC1Bb3dKUXIwb3lsb3ZXd2tqc0FIMkZtUG5iNDlEU2lJOHppVnFySGVYd1hmSXBqdGxmblNJeWJlY0NWTmE1S01kWWFTTjU0cWRTTFdIVnJ4MkFjSW0wQTlQcGVDamNaRFcxUFhTdUNDR01xUWs5a0NBRw?oc=5",
       "source": "Yahoo新聞",
       "published_at": "2026-09-12T07:00:00+00:00"
     },
@@ -30,16 +30,22 @@
       "published_at": "2026-09-12T07:00:00+00:00"
     },
     {
+      "title": "彰化乳牛節福興穀倉登場 國產鮮乳免費喝",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQSENrQzdhSVByMGo1dlp6NEVCamp6ZmRvRFhzR1ZxMDlvRm1ybG9GX1ZDWVdFdTMtSThMaV9EdUhiSktWSEZRYWdKRDRZaGpLOEw3WC1tTmhCNldZYnFGYjgxMGFtRXR2LXgzZVhHbWFXVklHak5uRFphYkVKU0oyMTNTVW9LUlRYb3BFc29NcjlydkV0UFVrakdEYnBGRXRyd0FnRDF5OE1jczAtemJ6czA4SmRNalRkNTJ3Um4wTGpuOXJZMzNCMDJLLUpkNGU1R3FZZThNMEptRXNXRWJOQ3FXblhqdGFYeU5ycjZ2ckNBSjFoaHdVRU1JSUtFdFlzR1ZFQ3V0T2tvTmp2R1N0a010SkxJcEFoV2FUeTgzSm1oanVkVUV4N29wN2g?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-12T07:00:00+00:00"
+    },
+    {
       "title": "高科大攜手台灣福興「GoodLock計畫」 3年完成1311組學生宿舍門鎖升級| 生活",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PZ1U5TEx3Umx6UGhuWkxvbnJiWThPZHpfS25vNjMyM0N3aGNiekNMUzg3bVFVeFJhZGlPOXRIUi1lb2V5Qm5BcVJiZ3NqbmF6eFJnRmZPeF9va0E?oc=5",
-      "source": "newtalk.tw",
+      "source": "Newtalk新聞",
       "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
-      "title": "影／彰化福興親子劇場《你欲泅去佗位？》 借閱20本書免費換票入場",
-      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOdFdNaFFpUUg2RTIzZnpLUmZMSG9pZThZcWRvWkJzNEY5MWlNT0RNZDlIR2xPSWdoM0ZoSWdmME5kN016ZFVvWmsxYzBkckNBZmlocDcyaHRodFVMNDh5SUdiWkJOMG5lWkVBYU1iTEVuMnR5czUzS0x6b3o5dFU2cWp2d29rcXZVclFiQ1ZvNm14R0Z6TVI4QUUyVlFFbGVHNi1SakZOQzBNXzVqMkVRVkVHOW9wRWhKQUhBSGg3NnBkNFVGeEZTWlVaT0FNanVncmJlSUlBenEyMmNGMTRlWndqSE1hbW4xVks1QURfWUJNWGw5d3ZIZVJGZ0U3MkpGTjJXUVJEWllFZ1lCbktFOWFzLU5TTDVGXzZza0VEZGFBUDUydWQyVHlXMEZobl9lUE1Uby1VQ3h6eE9YV25RX2F1S1NzbmJ2bmFHNEs4N2k4bXpwUHFndmpUNWVGd2w4MGU0VDF4WjFkOTZYdkgwT2FiTmZLbDNPUVNURVBPV2RTTHRDM3c?oc=5",
+      "title": "情繫藍天空軍聯合婚禮 11月首度公館福興營區舉行",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOc3BxVGRVV3Z4QTZwcWNEWDRCcU0yR1Zrb25DSllRbkV6ajd6S1RRYUdaMERkb3k3WTBoSzgxX1FxbVFiMDRPckIyd04zSFdmRThwbDlZNFJqUDZZRlhjODBaX003ZjNyams2SlFBSUFoYXRHc3d0dXUxUnFvM3Z5RFNVaEJudnJKSWpQb2stc0M5WTFqUDJFU0tRMFFtUEZTQmtMaDk2eFJnTWQxU3VNZy1RLW5xenA2dHhZVWMtb2doQXRwckdYZnNqbzRmR29YZlVqNWJ3TlhiNHpmU3hOZ3hGWjVsaUFjVU10YU41eW5LNTNvQURHUzFMSm9PZHRLSHpLQ25wdzJFVXB4TUN4WHk2RHpfZ2RuSnNfTG5wM1hlcmNRdzEyT3VvUnM2azZtSUFWYmpSS1V1YXQ0aExUamw1Q1c1ZGp6dDdUaDZWTElNVzQ?oc=5",
       "source": "Yahoo新聞",
-      "published_at": "2026-09-08T07:00:00+00:00"
+      "published_at": "2026-09-03T07:00:00+00:00"
     }
   ]
 }

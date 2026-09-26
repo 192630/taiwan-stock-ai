@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-25T13:34:49.755755+08:00",
+  "updated_at": "2026-09-26T14:38:38.799295+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8927",
   "name": "北基",
-  "count": 5,
+  "count": 6,
   "news": [
-    {
-      "title": "Meiho Enterprise Co., Ltd.收入明細 – TSE:8927",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iNFFjSnV5TkRzRERjQTNvdlNfcmFSNjJQMkFNTGp4YXBmdHJRZTItN084Yk9leG0zUjYwU1NCRFJWWldQVFNMcWlOa19NTkRrT0hvTG9DRDlUcC1IdlZqVF9iTmlhblh3MlhEbVpVNG1QUQ?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-16T17:04:44+00:00"
-    },
     {
       "title": "北、宜聯手 吳宗憲訪北市議會喊「北北基桃宜」Mega City",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYeU1Rc0tlMEIyMmd1TUhmSy1Ya1F6Y1BkLVltVld2WEg3aWhpMUd4U3haVkdRZXRnTlpYUkJ4VElfSEJ0WmoxMGMyQURqaHNiMGd6UVI2U2g?oc=5",
@@ -22,6 +16,18 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iQjN2dC12WDE3WXBHd2tBLWNHSzZVWjNyYi1tdnlnOHNFZ2tCV0I2S0hic25hVVk1dV9yMzVNenIydW1YM29Ic2tJTDExZnJCODZhRVZLRE0?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-10T07:00:00+00:00"
+    },
+    {
+      "title": "北基8月、前8月營收創同期新高 油品市占擴大、業外收益增添成長動能",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tUnFXVGczclFaMmlkVjRRdU5abHBJTENZejdJd3NhbGtfbmI2TnQ0akRxYmxPWEJJOGlnNWg1RFpnY3puZkZWVENGdjM3eWs?oc=5",
+      "source": "news.cnyes.com",
+      "published_at": "2026-09-10T07:00:00+00:00"
+    },
+    {
+      "title": "北北基5縣市豪、大雨鄭明典曝「雨帶卡住」下到晚上- 生活",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wTUlRcXJqeVVKMGo3VFdSN0hQeFFfeDVVbGZtenlFNU11MHNHUzMtaDl0MFlVeG5nWFpPZFU3TkMxbTFmenNuMDV6X09nU010TUNBcXBIcU5Ndm5pRDg0OUlzZ0RmRk1tRE9jR3pR?oc=5",
+      "source": "中時新聞網",
+      "published_at": "2026-09-04T07:00:00+00:00"
     },
     {
       "title": "同預算「這裡」能買板橋2倍大空間！北北基桃10大熱銷台鐵宅出爐",

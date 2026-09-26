@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T13:34:41.889411+08:00",
+  "updated_at": "2026-09-26T14:38:30.800253+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8476",
   "name": "台境*",
-  "count": 7,
+  "count": 8,
   "news": [
+    {
+      "title": "《外資買超28-22》大聯大(186)、台境*(185)、臺中小(179)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZmRGQlNKVUgwekY1WENjandMUDd1dVowWC0tWUhDb3QyYVJDbmlsUEstT2wzVHAxVmUxNjgwTVNvMUNiTlhhV1NaRVhKNV9NejhCczg5SUFJa3lXWnFnelFLQ0I3bzJ0VkcxOElDamtDWEpxSmNwWXY1VTFDWFNjUGlQNTZMSDk3?oc=5",
+      "source": "富聯網",
+      "published_at": "2026-09-22T23:36:00+00:00"
+    },
     {
       "title": "《上週融資動態27-1》華 廣(680.44%)、台境*(157.65%)",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVEhhV1dldkJnSXE3Y2YtSDc0cWw5NVNTSnhXNHl2NTZVbnZjcjNlWUN1bW11bnVfLVAtWmRyLTdGVHZpMFQ3MVA5dHBaVzVidkNSemFXYWluUTV1bjdKYkJBRDlUTm5XVGFmeEU3bEdUSWo2bkpwNU8wbzRSbWdiOVYwbTQ5d09T?oc=5",
@@ -36,10 +42,10 @@
       "published_at": "2026-09-10T07:57:41+00:00"
     },
     {
-      "title": "營收：台境*(8476)8月營收584萬元，月增率94.41%，年增率-94.33%",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQUdzalJvQllSYjFRRGNOWkRyYTN0Vmw1bDJXa2tpaFBIY2VmZFpzWU8tZGZ3RnA4YzJNOHIwY0VuTUhQRnJFSTlBOTBLYXRVSHJPRGZGbkVPQUdmdXk1d2w0ZS1ZeUJhcGdFcW1NSlpuUmo2VDRtR1EzTXdPOUJmWUxmQjA4cUNC?oc=5",
-      "source": "富聯網",
-      "published_at": "2026-09-10T07:43:00+00:00"
+      "title": "【2026/08月營收公告】台境*(8476) 八月營收創近2個月以來新高，月增94.41％",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SYnVaampPZDlqUkV5QlpITUFtb3hJQW55eXh2TTNPeURnSk80MG9ENEc0S2ptVG02Ri1BZ0xSc25pSG1uRG5CNjVWSXh2N1MyUC1fc0h1cEgwZzdyOHhUbFJ4MUVYQzA?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-10T07:00:00+00:00"
     },
     {
       "title": "【13:24 即時新聞】臺境*(8476)股價小幅走強，盤中報價19.25元漲2.12%，國防標案與土壤整治題材延燒＋高本益比下主力近月由多轉空壓力待化解",

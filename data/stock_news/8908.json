@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T13:34:46.533440+08:00",
+  "updated_at": "2026-09-26T14:38:35.481963+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "8908",
   "name": "欣雄",
-  "count": 2,
+  "count": 3,
   "news": [
+    {
+      "title": "欣雄 2026-09-24 法說會",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNnF2bkE1cDBrZHNpVmNucGs1bW1Cc1FfTDZCak1XQ2xObnAwZ3JDZzg4S3plYTFOUEdVbGtnQzgxLUc1OHV3RXhtVlN1bEtqVUpNbVRBdVRfTU90eDJ6b3Z0QmhMRHdXd3dOdXhfZnNObjBxdDFUazlpNzliODV6RDYxdWE?oc=5",
+      "source": "BigGo 財經",
+      "published_at": "2026-09-24T10:57:59+00:00"
+    },
     {
       "title": "【欣雄 FY2026 Q2 法說會】欣雄上半年EPS 1.03元年減6%，8月營收年增24.4%創近期新高，上市申請獲准成轉型催化劑",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SNHNNeU92M0RzOWdka1JPSmpINHhPX3NlZDdjXzNGQUlXZ3ZDQmR6ZU9RM2VVTnV3ZG8xOHhRYlNPZzMzSUYycnlLaWNtNmplSW82Wk56WVhnRURNcDBhMmtHSkZpdw?oc=5",
