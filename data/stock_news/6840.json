@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-09-25T09:32:49.732242+08:00",
+  "updated_at": "2026-09-26T10:34:23.997356+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6840",
   "name": "東研信超",
-  "count": 7,
+  "count": 8,
   "news": [
     {
       "title": "飆股幕後》AI伺服器檢測搶手 東研信超 外資默默買",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BYURMT3h6NVNUOUpJUHVLWUlZazRLTUVKMGxrR2xQeTlIWlhxRFotWTVscGhMdU9pRzl1Y3BwSndGQnJsNGNWSEkxWUY1RjNTQTBzdkxSOUw?oc=5",
       "source": "stock.ltn.com.tw",
-      "published_at": "2026-09-18T06:30:00+00:00"
+      "published_at": "2026-09-18T21:34:18+00:00"
     },
     {
       "title": "【13:24 即時新聞】東研信超(6840)盤中走強，外資買盤續推股價",
@@ -20,14 +20,20 @@
     {
       "title": "AI伺服器檢測No.1，東研信超加速推進三廠建置",
       "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNbl9BRE9JS2NGMHdaX2NYc1g5bzN6TXlQYUNNbDRsSW11QzNnTGlBWG9qNmFnTUtUMF8xS0dXWUJyNUN5c2VJNERaVDNuYVZiVUxCaHJjME9jQmI0a0UyWVV5NVFXak94aFJhYkViVldyMEY1TnBMbmlKVW5fcG1YdWlUTHkta283WmtqODNXZzU5cGVGRFpBQkRjMzdaTnVteTY1RjlYaU5kdHNVQlM2RkV0YmVzNzlrRjFMQ09YeVRuN1c4RFRubHdlZGVUdFl2dmZoeTRnN0VSTXFNNkstbVhaa2Z4SmZTNi1GOGwxR294bHdJdVhMWnd1M1dYX1VISEd4c09STW9sZTJ0ZlpPRFB1Rl9RT3p2V241TGZ6UkFWOV93dGVGbWpXMEpuMzBB?oc=5",
-      "source": "tw.stock.yahoo.com",
-      "published_at": "2026-09-18T03:32:40+00:00"
+      "source": "Yahoo股市",
+      "published_at": "2026-09-17T07:00:00+00:00"
     },
     {
-      "title": "【東研信超法說會重點內容備忘錄】未來展望趨勢 20260916",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5acUZEYkhhZW5kTThmT2hUSzFQZ0JMUmVEZ2JoSUgwRWtYMnRfbHNyVlYyeFdzaHRpZzFXd1ppa0lacmxkNS0wVlByRVNvTHAyTjdhMUJ4RW81Y3U4dG5PNWNYd3B6RkU?oc=5",
-      "source": "富果直送",
-      "published_at": "2026-09-16T00:00:00+00:00"
+      "title": "東研信超AI伺服器檢測佔比今年拚15%、明年逾20%",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQZjBEd2Q1SzM5NWxKcEhnN1pxbGVNT2tFdlFPbXhWdzVHM210cTZPSjMydHVJQVB6dXNyc0dkelFkQXJXa3J2S3d3SkZaLUZUNXBlNS1UVFd4bkJVSjlxZHRMM2xHUE9WYzhsTnBUNUp3U1JTYmtwOElNcHU2Ull2UDliQVRaQTJVRThOV29BbEo5Y0pGMVpqYXd6clNpU1E2aTZnV2hSTFg2elZybExWX1hOUUlGRkZOQlZudUlvV21kNVFYSjEzVHNiOGVIOFh5bWtFTlhmTDBFSUlLZi1ialR5T0ZBVXlRSnlCeU1idHNBenBXNGkxY3NmU19ZR0pnRVpHcGJXSmlqRmEtZ1dQbHdfRjI3clVIV2NNOFpzX0ZJOG5ZX2Jmd2c3R1hiTURB?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-16T07:00:00+00:00"
+    },
+    {
+      "title": "無需資本支出蓋廠，東研信超龜山三廠再循BTS模式",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQVFRKdGVxNG1WRHZUd0pZVC1KVEFfNHZ5Wm9pelZWbW1GbnFqdmxhaDYzVTZfN3RKdVNXbV9VOFVtaGFIa1pCbHRqZWhSMzhESnNIN0ZOd21XQWM1aUxTUFdta0RyMmwzVkFuODhvZ2NZcnNyeWE5eFlYbnlqWDhkSjJGaWhPQ2dNdTZjbUNoeWYtTlRadkZBdFhKTTg5TVFUS3M3eHNRZU1ycy1Bb1RvbmZBemF2ZC1PQk5tNHV0dTA2SGttVWFZWHdrRndxS2dOYzRkMko3OFVzWlY5MW1Mc2V5bkdPNWNNMjBUX2UyUmh1MmJ5VzdOWm9rOXZFcVJFRllEa3hobGtDbG9makhFUnBpYjNQMmhwaDB6RU9QUEtjLWYzSjlIX0RpZllLWUVhVnlJWWZhSl81WXdTbXFfdGZiMmFJT1JhRzBnamNyM1U?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-16T07:00:00+00:00"
     },
     {
       "title": "東研信超AI檢測訂單排至2027年 啟動龜山三廠擴增計畫",

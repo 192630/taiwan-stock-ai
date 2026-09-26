@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-09-25T09:32:39.413028+08:00",
+  "updated_at": "2026-09-26T10:34:14.906237+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6788",
   "name": "華景電",
-  "count": 9,
+  "count": 10,
   "news": [
     {
       "title": "6788 華景電 - 幹！ 跌三小 - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ZSWxRcjU1UVNxVXdtNldkZzhkS0hMRVZ6OFd0NXQ5TkgxOUhvTTlaZ05KNzljQUNBbGFlMW9kQmNqVnF4Q0ZCNklESGRIbk9temV2VWg1WGs?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-22T04:01:14+00:00"
+    },
+    {
+      "title": "6788 華景電 - 果然！又是屎樣子 幹 看 幹 看….. - 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5RG5LSWZJQXFfMjVneEw4RmIxQ3M4eXNqVjVjMHhoV3dMdkkxeDJXUjhuYkJLTERzaXU5ZnkyMWNBaXlneFFpRXE2V0RQQjVXZkVXRFlNOXc?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-20T10:04:45+00:00"
     },
     {
       "title": "華景電 代重要子公司昆山芯物聯電子通訊有限公司公告董事會決議不發放現金股利",
@@ -22,6 +28,12 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvakRRSF9INU5Yc2xyaEVWTnR4WG84OVpTNHFnYks5RC1oa2FoclNVeWZkNlNQY2dUMVk4QUJIQ3BRNkgtWF9uVHBXdWh4M2NfSXN5VGNLeFE?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-10T07:00:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】華景電(6788) 八月營收月減年增，全年營運續看向上-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbXlRSHZHSk5sT3MtRURBX1pmbXhjMmFneFFCWHFoVC1aM2pHTXZ1eVVQZHRZYVdYTXVXV0U0MFFMa2o5b3U3Z3h4YUVWX0RzRlpjTDJqLUxmSXdXTzhzWnVGNkZ2aHBCRmc2bXRaTmpxU1R5bGIyRGM1QjUzdzhGWkFLRGJCQktMZ1E?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
     },
     {
       "title": "華景電(6788)本益比查詢｜PE估值與河流圖合理區間解析 - 股市爆料同學會",
@@ -50,14 +62,8 @@
     {
       "title": "在手訂單充沛 華景電下半年估優上半年",
       "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOLTUxZnVWUnVsWDFJX0RONkxUdEJ1OTQtMXRxTnM0azFlMnNwRWZHeC12Y25FTHRIa0YtLVlscUQ3ZVdIQXA2c3RwejYtZnJyQUR3ekF1VGl4ZVd4MHVSb1hOVkthSXlhM1M2QTFKdlBMeVJwTmVBSXZLTVZtbjFVaC1pVUs2dm05eDQ4WDlwWEZfOG5NN29ZeXhaUmNTUEwwV19odmlSN3oybkZJNklGOVBSVlJPNEZaTjVvdTRiOVF6WTI2dkxZY0NkcG5qQzl4bGk2NVAtSVR4TW1adXBYVGJUd3R6b1JEYU1LZlVhblVQUGtnNTRiWElBWU4taTZ4QnJsVm5mQ3I3Z3lYRGdCN0hhdHpSckNBdExuUTlNRTVKaWlTOFMxdw?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-08-27T07:00:00+00:00"
-    },
-    {
-      "title": "6788 華景電- Waiting…. - 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BV1VqelppMXJ4U3ZXNFpJUWFhUTd1Wi1TbW9XcV9RU0o5c2NPeFFJeEdBOGNfcUJvUnVpLVA5ZEdoalFzdXBkck5Dc1pDZ1FHd0pmYWFXdkc?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-26T07:00:00+00:00"
     }
   ]
 }

@@ -1,16 +1,10 @@
 {
-  "updated_at": "2026-09-25T09:32:54.335769+08:00",
+  "updated_at": "2026-09-26T10:34:28.124091+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6862",
   "name": "三集瑞-KY",
-  "count": 5,
+  "count": 4,
   "news": [
-    {
-      "title": "盤中速報 - 三集瑞-KY(6862)股價拉至漲停，漲停價144.0元，成交249張",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tTGZVZk9PbVhnYkVxYzVuYjJBU3UyTDlpM0ppVWUyYm1SYVU4SnFpUVEtU2k4YUpwRjZUUWdDR3V6VGltUnVTT2xoS0VNYlhWVS1wTGlINXlkcVRJbjYwUGRRbEpjQQ?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-21T05:17:00+00:00"
-    },
     {
       "title": "6862 三集瑞-KY - 法說會- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtTXJEOGhJVmpjVmFPX18yZHY3U3BibWhvd1V2Yy1GQjF0NXExTzlPVFgwOXNRaEJNbzJZMkpkaDVxOFFyaWFTSmU0UGFjRTdaakR0eWlsWG8?oc=5",
@@ -20,7 +14,7 @@
     {
       "title": "三集瑞-KY 8月營收年增，高階產品即將量產出貨",
       "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQMXBCdVl5NkNON3l1QW5mR2NIVHVfN3M3VzROeUM3ZUs4dlMtMWhPQ3k1SmpRRDhBTG02OHdHT3dhY3FYVlVFLV95WHhRelFmREFENFY1VFljYmRDa0Q0Znl0SFEwQ1R2NzNBN1V6TlB6c2syVnBaalU1bXJBbU5zUE1ISjFXQUNUY2N0bUN0aDRsejZXQjJaZXNOY2dDRnI5V0J0MnA5VG1jSzJsNU1SbVlwMGpEdlptaTdNcy12SDRZamhZa2xHQzgtVC13Q3dVcjROeG9sbGhvLVlMRHcxSEthbnVEUFpWczBYTm5OZTE4TXh0ZVQtUzdiSVU5engtdHhpT1dPSjZneEZrVWhEVU1NUnJjanpqYk9rbjdSUVlmRFdTb2VfSzZyNlFXV2lBRkpqd0RiX01TbjA?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-08T07:00:00+00:00"
     },
     {

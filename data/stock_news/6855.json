@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-25T09:32:52.446488+08:00",
+  "updated_at": "2026-09-26T10:34:26.436937+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6855",
   "name": "數泓科",
-  "count": 4,
+  "count": 5,
   "news": [
     {
       "title": "Eclatorq Technology Co., Ltd.的Price to earnings forward – TPEX:6855",
@@ -14,7 +14,7 @@
     {
       "title": "數泓科下半年營收年增擴大，全年有望拚高",
       "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOVWhwU0NHNGp4TjJqYVMtUmZ3ZWdCd2t3TEs1cXJXamp6bDdFUVVKcUFmbzd4Y2tWN09XTE9lWVVNaVpiRVRIbXN3enVvalYtVlZTM2Q0SnotbklmQk5adXNtcXB4U0xDTzlfUWhGdFhLOWFPX0NCX1YxWDRFNTd6MTh0MHlleEZ4eFE2VEd2RTVkcUZrbGJiNU15cVFET29BOWFJOXVfTklBWnMtM1k3WVl2d3JQQ3FPT0ZhMGtvVDdrbWp2SGdrY3h0ZllfdkdGUVlPeTRsZWVwRDlQY3A0RDh2QWNlcDdYbTUyaHhNTjFlSnVHeWRReG5rMGloVlEtWkF0MzBaaDFrY3lLRzlLNnd2aTVrOThQQUVkSTRVdDJDeWlORVJ3VkpjWUxKZWJPWnFPZQ?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-21T03:33:38+00:00"
     },
     {
@@ -28,6 +28,12 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObWg5Um15UmZQMTd6SDFkMzV6elUyekpsWG1hVlpidzAwNXBseXltM3BwSkZYQWhHLVNOOF9vNVVCMzZpTTFOdjVoVTdKSkNkaS1WbHpsRHEzMHVZM2kyRzg2TlEyWThUMnNPOU1Xd0FHY1ppTy0tNllMSFVidlA3dERrZUJ0akhwUGc?oc=5",
       "source": "CMoney投資網誌",
       "published_at": "2026-09-15T07:00:00+00:00"
+    },
+    {
+      "title": "【2026/08月營收公告】數泓科(6855) 八月營收年增64.66%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdFNxQkhOaEF3Nks1aFpWdFFGb2NNblBTcnZtX2RvcUc1bV92Y1JZYTUxR2ZDYnRuUktHV1RodGRlMjBNamd2a2Jmc0ZUbVdLTkVYcmpRc3Boa3lKamxzckhyQkRvR3NZVXlpWjZMMWozdTdaaENvTEdoSGptUkR4eUFnN2tsR0xTbGc?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-09T07:00:00+00:00"
     }
   ]
 }

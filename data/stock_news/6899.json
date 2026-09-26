@@ -1,15 +1,8 @@
 {
-  "updated_at": "2026-09-25T10:34:44.452753+08:00",
+  "updated_at": "2026-09-26T10:34:35.399490+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6899",
   "name": "創為精密",
-  "count": 1,
-  "news": [
-    {
-      "title": "Asti Corporation收入明細 – TSE:6899",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YdWZNUkRhYk9YZzEyQ1JZUWRwcURGc3Y2eExDNmJWTHowR25PNmQzNTRtb0VJRllESnk0blpRdWVzVHhLWEJvUEgxc1NrY3hwX0VZWWtReDRYc0FzWkU2Vlh1eGIwMWF2QTBVdVQ4X0l3QQ?oc=5",
-      "source": "TradingView",
-      "published_at": "2026-09-16T07:39:14+00:00"
-    }
-  ]
+  "count": 0,
+  "news": []
 }

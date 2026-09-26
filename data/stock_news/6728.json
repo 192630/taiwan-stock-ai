@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T09:32:27.180050+08:00",
+  "updated_at": "2026-09-26T10:34:03.663163+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6728",
   "name": "上洋",
-  "count": 5,
+  "count": 7,
   "news": [
+    {
+      "title": "6728 上洋- 中秋「洋流」發威！沈伯洋掛病號現身社子搏餅支持者搶合照喊加油- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxRXlNcGJtaXlrOXRncGlHUzhReHZVcHc3dVhGdV8zeUtTSFJNZkxmYjd6T3JnY3Q2emRMel9aSmEzLVo3aWxTMndiZFFzODBoZEs5Z0dXdUQ?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-25T05:32:04+00:00"
+    },
     {
       "title": "6728 上洋- 沈榮欽國際視野》蔣萬安為何不回秦慧珠訊息？ - 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XUEdLaUxFUGNEOFRrRnNDR2xWMWVGUHk1Qi1YeXpiQjN4QXoxc2w0dXhFNjlhU1A3blRKdlhBODVoSGRJZWs0QlFNcXhBdkFPWXVxaUpYUmg?oc=5",
@@ -34,6 +40,12 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTdWxKbHNZS3lCTEs0Q1RjZ19xZEEwY3NiWk4yeXpWTFc3NjViWnNaSHN2R3ZfdlBUVTF6RGVtNlpPVnRiRG5JbW5lLTRvRG9YT29ObHBJOUE?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
+      "title": "首批F-16V返台再卡關！一度傳6727、6728已飛離夏威夷最新卻指「滑到跑道又折返」 空軍：我們也在等",
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQeFRBOEpuNHlkSmRodERRVTQ2bXRNbklQTVRESlFEeGI0R2hXVXVtdlk2dWp1aVZvTmVJQkh1Q3FnclhybW02czg1d3Y3WkJVeGY3clp4LUFRQndRdkhwMWhRVDlBaW9uTFVnWk5CRTYyWVVUMDk5bDF5dC1LWmRXZ2lVRWFBaXRLS19NMktLVktlODFMWUpScWx5RVducDZWcll5NG8tRTN4d3VId0Q4V2ItSE9BWW8yNXVncm1TbHBBODhEOFFrcDhsenc5cEdXcXYwSWRDWVk4VExUck96YTh1TFNHVnM5TmVYdEhsSHZfR3ZWSHk4U190SGJMdzJZYnd6Z2xub2tScm9wd0RydW8yak5wRW1iV1hvWE9kZzV4NUZPcmRlYlF2eDBnNFZiTkZYck9CZ2kyNjhFUXhoemVUdW1oZlpiQmxmLQ?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-07T07:00:00+00:00"
     }
   ]
 }

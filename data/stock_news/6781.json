@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-25T09:32:37.999323+08:00",
+  "updated_at": "2026-09-26T10:34:13.625352+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6781",
   "name": "AES-KY",
-  "count": 8,
+  "count": 7,
   "news": [
     {
       "title": "6781 AES-KY - 千元保衛戰 - 股市爆料同學會",
@@ -24,6 +24,12 @@
       "published_at": "2026-09-20T03:06:17+00:00"
     },
     {
+      "title": "6781 AES-KY - 2026Q2 財務數據- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9raVZIREVsMGdIY1hLbWYyVTJfTElhbE9LRjZ5dnBJVlZFZnpHaWhfZUpsdHdTZk9XWHN1R1dHRHJXU25qQ1hndXlPXzhubjJDVUJ3cFlPMTU?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-17T12:01:31+00:00"
+    },
+    {
       "title": "6781 AES-KY - 進入第四季- 股市爆料同學會",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5oV0JUa2hlcjM3SHY4dDFVUXFodEZ2NlJsY1lwTzcwQW1VbDM5LXMybm1IZTZKcGtxczJsNFN5VGRzaE1JRDJUOFFsWlYwTGthX2tvSGtFZTk?oc=5",
       "source": "CMoney",
@@ -40,18 +46,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NcHNMVGYwcnd5NE9ueXVrRUFXRVZxRGZKNV9faWk5VWdOeTNNU1lkajNEaUdheFBCbGdFTGlQb0YzUmxXX1lhemFKbktDUU9FUXNlVlpud24?oc=5",
       "source": "CMoney",
       "published_at": "2026-08-27T07:00:00+00:00"
-    },
-    {
-      "title": "H2營收看逐季走升，AES-KY今年EPS首拚50元",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOOWM1dzhsTF9qNzZpY2Mtc3BvZDJBcmpHZjF6QVJKZUlHWkNZZUxOaXRSMFNRYldvOGtKMFZ3VVVvY1M1Q0l4MEQwOTNGWFFWR1kya1hCU1RHVFQ4TURZYTJwdGlMWkFnb1JvcnZ0TXVkakVPSDZXWkFNb0d1d0k3MXJYSWhueDdneXBxWndoNjRMV0pIbUI1cS13Uy1BY0ZzNzAwOHdBOW1BbFlKd2ZuYU5vMVo4ZnBHWVZ4VVBrMEpKejBVR2N6LTJwdU5qYmNDYnFSbThXT0UwVFBnTl9TdzVac1B2Zmw3VEpsN0tDS01tWWxJMENwYmlCWWQwQQ?oc=5",
-      "source": "tw.stock.yahoo.com",
-      "published_at": "2026-08-26T07:00:00+00:00"
-    },
-    {
-      "title": "6781 AES-KY - 【08/26 產業即時新聞】電子中游-二次電池族群修正壓力浮現，個股走勢分歧待觀察- 股市爆料同學會",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wMm1GTEstQjMtRlhYMjE4bXRJV3NCZVVlNXJCNWZ3YXV6X01kcHlwRWF0Z0pUSjBFRG9IcjlQS3VIWUNoZ2FzeDFWa1NHTHJ4LVVKR3ZLYmQ?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-08-26T07:00:00+00:00"
     }
   ]
 }

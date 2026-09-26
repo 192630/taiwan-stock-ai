@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T09:32:52.005791+08:00",
+  "updated_at": "2026-09-26T10:34:26.021714+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6854",
   "name": "錼創科技-KY創",
   "count": 7,
   "news": [
+    {
+      "title": "6854 錼創科技-KY創 - 富采砸近15億大買友達持股- 股市爆料同學會",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSQ3FlTUZEUDhGbU03UnZEcGxuaHhSaGIzc3pkanBXVGpIalhUbG96OTg2b01yUDhZdFNCX0tiSUxTMjlRMmE3WjFuYktFdEJFVWJQT2g2ZEk?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-19T04:21:55+00:00"
+    },
     {
       "title": "【26Q2財報公告】錼創科技-KY創(6854) Q2 營收1.5112億元，季增11.28%、年衰退26.12%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcGU5LWhNSnE4d0MyVzJKS1NCQzlBNk51cndnWmVOTEl4OWdQdGZjeFhyamxFN18zWWNYMzBKNHEtRHhTU0hOSEMwdVFlWmdab0pQQW5wblRFMEZ4VkdlbWlwTDE0N20yV0xIMmRMbDZjWFRiUC1XX0MzZU00MlZOcEtoUEY2ejRQSWc?oc=5",
@@ -40,12 +46,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4Njk4ck0zOFNBMXRWM0FDbmtNeXZNb2tVTE14Szdya01UandiX2dWSHJPSWxmR21SQjA1Wm1vWlIybmJnb1VXNF83T3RJQkxZN3NKc29hWlM?oc=5",
       "source": "CMoney",
       "published_at": "2026-09-02T07:00:00+00:00"
-    },
-    {
-      "title": "錼創科技-KY創子公司取得苗栗縣竹南鎮使用權資產案，變更租賃範圍後計約4601萬元",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40UmkxZDdzX2ZZQ21sa3J3b2JzMnh0eHUxcmphakg3bmxQVGVPeERBcWZMU253VVZkNXh4d2x2YVZpWDBqZzl1TzBodC11VWV3UG5FWC00Sk0?oc=5",
-      "source": "CMoney",
-      "published_at": "2026-09-01T07:00:00+00:00"
     }
   ]
 }

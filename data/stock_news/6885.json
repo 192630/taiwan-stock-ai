@@ -1,10 +1,16 @@
 {
-  "updated_at": "2026-09-25T10:34:42.371627+08:00",
+  "updated_at": "2026-09-26T10:34:33.291683+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6885",
   "name": "全福生技",
   "count": 12,
   "news": [
+    {
+      "title": "全福生技(6885) 個股概覽 | 個股 - 股市",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85a0U1RHJoWF9oX3FrNFFUbVQwMWRWZG1JYkpQR3VPV2kxdzlxeW1EcnB3WllVanUwMXNLUlZyV1BnVVFNV1ItcXhpMlMwd1VxZlhB?oc=5",
+      "source": "CMoney",
+      "published_at": "2026-09-25T12:40:41+00:00"
+    },
     {
       "title": "【12:05 即時新聞】全福生技(6885)盤中走強，市場聚焦眼科新藥BRM424進度",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qLTV0MENYb0NmR1c0VXUyb1BQdF9GV0Rnd1lnUi01dS1HdmlyM01Lcm5rQ2Q4c19xUlRaQVhyZWk2UDZMejRBUmpqVjFmWjlJTEVDTkY1bTg1SGFmbUNhdXFWVFN3d2s?oc=5",
@@ -24,16 +30,16 @@
       "published_at": "2026-09-22T23:53:00+00:00"
     },
     {
+      "title": "全福生技新藥授權再推進 2家國際藥廠進入投資條件協商階段",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSRDVVSnFsdnVRV3I0UlIzdFJCcm5FeEc4ZDBzbm4zVGw4NXBlNEQwMDdVYjMzMDQ5M0kyVFBRQVlFOEs4cFVVZElycTR6X0tBSDZRdncyRnJyWHFYV0lB0gFkQVVfeXFMT1Fjc1M1UkYzbkNYTXcwWTlMMUVMaE82N193aGhtTnNoNy1JZEpOdGxvcl9Qang1bE5MZnlsRC01N25wX24ycVpsSFJzcFE5QzJHWGwxRkhWY3dlSTE3Tmx3Y2xBNQ?oc=5",
+      "source": "ec.ltn.com.tw",
+      "published_at": "2026-09-22T09:12:43+00:00"
+    },
+    {
       "title": "全福生技授權進入條款清單協商階段，將邁收割期- 新聞",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNmlpcENhQjgyZDNQWkZfTjAwR2NXWWpnTUJnNE5jTjJ3amdxak5vYkxrYTg5d3V4QlhOSnloQXlGOHdaSTkzaU9WUTlaQ1pja3EzS1EwcnYteGdyUjA5Rng3bjVQSF83VEVJSllQU19HekFWMW5tMHN4RHBURTdWZ0hUanlRUjRaaTNOdms3Q013Zw?oc=5",
       "source": "MoneyDJ",
       "published_at": "2026-09-22T07:57:00+00:00"
-    },
-    {
-      "title": "全福生技新藥授權再推進 2家國際藥廠進入投資條件協商階段",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTMTVxaVpuUFJNWWlKRmM5X3YzeXhhd2VKLWtvRGpKUk1XWjhPRkVxamhvbmNXRGNWQk5xMlFUeWRTZm13bU8taXVlUUh4UlNlV2E3MjJjNzI?oc=5",
-      "source": "自由時報",
-      "published_at": "2026-09-21T18:12:00+00:00"
     },
     {
       "title": "個股：全福生技BRM424治療神經營養性角膜炎II期試驗展現具臨床意義的療效",
@@ -44,13 +50,13 @@
     {
       "title": "全福生技(6885)盤中走強，眼科新藥進度能否延續熱度？-許明哲的產業筆記本",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdy1JNE16ZWhld1dJb1NYZ0xPMlA3RlpaZVk0YU1KN3RadGN1UlljOVg0LU13aEVZaFFmcTBhZlhjSVZGbnVEd2tyOEM3Skpaa2UtdVVJMmdaMndZcFJBYmJQaFBQZVZ1RUVfN0Z0OHJsbTByM0FaMlNLcFpFWE5wb1Z3?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-18T08:15:08+00:00"
     },
     {
       "title": "【13:30 即時新聞】全福生技(6885) 盤中勁揚逾7% 生技族群人氣續溫",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUGpBSVVoYU1qUm02bUVYbFd1dkd0MUpBa2paRGc5TmcxaXNRcmcyWHNJTzd2aS0zOXNaTVRLVUNOR3N2N1M4YTR1Z1g5M0s2dE1Pc2dHSDhMVjVIZDRndXoyekw4LWlFZmp1bjdhR1pNdExTMEZSUUhZXzBfNUpCMDI5M2t3aU91TnhKSTdB?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-18T05:31:35+00:00"
     },
     {
@@ -68,14 +74,8 @@
     {
       "title": "【26Q2財報公告】全福生技(6885) Q2 營收3.967百萬元，創歷史新高，季增40.52%、年成長151.71%-CMoney 小編",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOckxpTFJaVzZ4YkFLNXRNR1RXQU1fbmVrTmRfOEJQeWdqeGd6bTY3M1FxREFhVnVPWjBuOEJ6V0Q1Z1V4dFcxcEdMV2djSzlxV3J5Qzl2S0dMMDloTk00dE5aWGU2ckM4bjMwd2lFWFU1cEFGbDBKcnRtb0VhYWJzQlZnZ19Lc1VMbWc?oc=5",
-      "source": "cmnews.com.tw",
+      "source": "CMoney投資網誌",
       "published_at": "2026-09-15T07:00:00+00:00"
-    },
-    {
-      "title": "《9/11日法人買超》外資買超前三名：基亞(251張)、全福生技(250張)、喬山(181張)",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VM0JoMUM1N0ZFVkNhX1BPdWxvRlRtV09TbHhSXzZ4RFlFWjdZaWJjVXNzTkxmcmJwdjAyOElPbTNzYzRmd1h3S2c3R3RiS0cyNW9ld1p3QWdWU0hsRzVKZV9rWEpBMjNXbVhHWWZn?oc=5",
-      "source": "genetinfo.com",
-      "published_at": "2026-09-11T17:28:18+00:00"
     }
   ]
 }

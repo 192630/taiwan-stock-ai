@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-09-25T09:32:28.985361+08:00",
+  "updated_at": "2026-09-26T10:34:05.367118+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6735",
   "name": "美達科技",
-  "count": 0,
-  "news": []
+  "count": 2,
+  "news": [
+    {
+      "title": "【2026/08月營收公告】美達科技(6735) 八月營收創近2個月以來新高，月增2.12%-CMoney 小編",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN3lNdERJVWt4TkJLenlRYUVhWkRBNEpvNUNUN2JlZjdxTGhOaEx0Nng4bDV2aGQwMXFCZEhMYmlDZXpkSTlEZkdjdXVHOWd2YmhSZVpHYVpBd3N5M3Y4ZjkyZlFZWnJpZzd0Nk5MQlFERmNtM1g5M2RoSjFhWS1tcW5tdWpRM0Y2MkE?oc=5",
+      "source": "CMoney投資網誌",
+      "published_at": "2026-09-08T07:00:00+00:00"
+    },
+    {
+      "title": "美達科技部分出貨遞延至Q4，高壓大電流產品放量",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNTzlXRVc5V3cwS2JIazkyajFMS2hxWTVPLTY5Vm9FS0dRcWhmVkJkYU8xRmFsY1EtcU4zNjYtUzI1Tl9LRnFLX3Bld2t3LVlOVkZ5VkJBYk1TM2RUMk9GQjlic0lfdzljcnRJdXozeUdzbDJTa1VWdWRiMjYzdVIxaE5wR1Bpb2R3WGdRXzV4d3VQLWg1azJ2ODZlczEzUW1oYmxfcHU2V3RPSHZKanJneGtfZWtlT2hpbDctVVNLMVdTTDJrLUtmNVdMNWlsTWZfTk5YLUJ1THpIbGU1R2h5Y3AxMUhDLTh6VXBsSmhkSWJlbm52cUk5ODlRaEhHMXVuSUMxR0VxVzVYdG04V0ZEaHZlclk1TmtSVmN1eEFFVWdNU1luVkMxdko1UnhMT1MweFNaXy1waXJwVC0wS0g0THdxc3NTMTNHX0VGZktKSQ?oc=5",
+      "source": "Yahoo股市",
+      "published_at": "2026-09-01T07:00:00+00:00"
+    }
+  ]
 }

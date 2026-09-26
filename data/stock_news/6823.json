@@ -1,21 +1,27 @@
 {
-  "updated_at": "2026-09-25T09:32:46.325927+08:00",
+  "updated_at": "2026-09-26T10:34:20.831380+08:00",
   "source": "Google News RSS search by stock code and name",
   "code": "6823",
   "name": "濾能",
-  "count": 3,
+  "count": 4,
   "news": [
     {
       "title": "新客戶有斬獲！濾能黃銘文揭原料大漲影響營運 明年全力衝產能",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQXzJjZTdmZGxpTUpiT2ZKVTZFUVgtMkxjNmdrbFZ2MEZUcHhKNHoxaDNVakNqRUJsYVlJaWQ3dFpQdnhNY3pNelVYdXRCaE5GdUJMWVV5ZmFiWVNYMDdZWTFhdGxrc1ZlSWhsMTFpdHNuV3hiUEoteXRqOXY4VXo4NzVn?oc=5",
-      "source": "壹蘋新聞網",
+      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQTmozYXN5SWZ2Rm9OWjVxV1JMWXlIQ2VwaTlMU2RkQzA4UnA4ajRQWDFWeVFKeTNGV1VBbmVGckxpWUxVODZMOUpLTjdiNk0yMk5QN1FGLUFUYzloOVVjS3lJTURRcGo5QkwtV29lNjBIaHZsU1pWdUxWZ1NmT056d0hlb1hZWjEteFNvQk10MmFVbXl6TEpWRzVuR3l5Y0NOWjY0SHFZTnhBNFduMVZTc1JIZndDZVN6WnRDb3B0bC1yYjFEUVZBWkJzLW1jR2ZUVS04X0RqZXA1VHlSbHpZbGV4UFQweFBkUGhfS3JCaTE1QjFRLVEyM2dXclZEdFN5RnRPS3lndDNOMlYzVmNEQWpMdXVHUk5IaDBVZzlrU3VWaGl3WWNrek9mZmdsTGFucmI4bG9GSmFWbHFVVnRLdFctLWl2TlBrMkdlcFZtTllReURTb3dMaFpiblFMZWlIY0hrZno2eWVjYW11bEVVZ0FLVTM2VVV6RzBIV1haM1NNQ2hoMVZveF9ac3VXVy1BT1Z5Vjg2enloQQ?oc=5",
+      "source": "Yahoo新聞",
       "published_at": "2026-09-06T07:00:00+00:00"
     },
     {
       "title": "《SEMICON》AMC創新技術獲青睞 濾能兩新品Q4出貨",
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQZ2NIb1I4a2xKZE5zU0JnYkF3bk1FdFZHRWRDemdhcy1jWWNrOUJiRnhkOVItLXhhX2UweGpteE5Kc2Z6YnVFNnRNaXpZbW9wc2NJNzNuQjZ0NmZKZkJ0cDhLUFVPVUpINzRzS1ZQeEpmdGRkbFQxaTEwUmRPekNDVzIxX3ljUFFaY2g5SGRQNmozX2Y0N0xoM3VicFRxeHhnTHJfLWVGcGhySHdWNVZoZEdZQkFWTF9IT0tfc2ZlcG5rdms4TV9XQjRkTXdnNEk2c0FUbW9Wd2lKWGQ1R0tkQkpScmdVU2M5czM1Z29DR3otRVpDNWt0Zm5JVjNxRnRzdWNtQThPUWN0U0dWcUw4Nm9GWUNKUQ?oc=5",
-      "source": "tw.stock.yahoo.com",
+      "source": "Yahoo股市",
       "published_at": "2026-09-03T07:00:00+00:00"
+    },
+    {
+      "title": "濾能搶EUV微污染商機！2大新品Q4貢獻營收 AMC濾網邁向循環再生",
+      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQbDVUVWpWZmV3bmJJZm1Fem9YRl9pTjR1MTNaLVZ3aVdoX1g0X092VzMzdGxrRDBQS2g2SWQ2elBiQkxTVVVHamhzMUpCRmdWTlRqbHVzQVBOSnBtTTllT2VLZXppUWFXWTQxVTlnYi1tQU9Uc2J3RktZTHcwYlVPZUhRWWRweTNpSTc3NVpTRzZCMlAxQklLRlU2andtODhDR0M0TUhNR2J6c29ub25Wamdrc3laQkdBd1EtWWh3cVJqdXMxbHJEcXdFY3FsUWp5V0pKTE1UdkVWN0ZnNHFZaTZtVjhmaVRjaFp1M2dYeElXcjhTWVlZN1p3blV6U1RCMW4tRGExbXhWYzRuWkRaNzFXQkk2bTdxRk9KV1FaNWkzYVpQcFd5eHRSNnY0NWRLUmw2dmxCOUJNWGpIb3RNQVotekNzQUV6RXN6eUZaY3NlQTBPdVZ4UGZKVzgxSy11bS1MNDZOUE5DVGxPbEp4TXdhTVlMUQ?oc=5",
+      "source": "Yahoo新聞",
+      "published_at": "2026-09-01T07:00:00+00:00"
     },
     {
       "title": "濾能參展SEMICON Taiwan 2026 過濾設備、再生濾網Q4貢獻營收",
